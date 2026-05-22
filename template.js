@@ -1,70 +1,163 @@
-const dailyData = This data presents a fascinating snapshot of the current online experience, characterized by two primary, distinct themes: **web access control/security barriers** and an **overwhelming focus on Artificial Intelligence in news and industry updates.**
-
-Here's a breakdown of the analysis:
-
----
-
-### I. Web Access Control and Security Barriers
-
-A significant portion of the provided text consists of messages from various websites indicating blocked access, security checks, or requirements to enable certain browser features. This highlights several common challenges and practices in the contemporary web environment:
-
-1.  **Bot Detection and Verification (CAPTCHA/Security Checks):**
-    *   **Bloomberg:** "Are you a robot?", "We've detected unusual activity from your computer network," requiring a click to prove humanity. This is a classic bot/DDoS prevention mechanism.
-    *   **Financial Times:** "Security Verification," "Reason ChallengeRequest ID," "Status Code 403."
-    *   **Vercel Security Checkpoint:** "We're verifying your browser," "cle1::1779432733-klmY5vovGhYukXrP5kUoviBSs5vCHCWW." Vercel is a platform for web development, and this is likely their own security/CDN layer checking for suspicious activity.
-    *   **Standalone "403 Forbidden":** Indicates access is denied, often due to server-side configuration, IP blocking, or security rules. The mention of "Varnish cache server" suggests this is happening at a caching layer, potentially before the request even reaches the main application server, likely due to security rules.
-
-2.  **JavaScript and Cookie Requirements:**
-    *   **Bloomberg:** "Please make sure your browser supports JavaScript and cookies."
-    *   **reuters.com:** "Please enable JS and disable any ad blocker."
-    *   **Financial Times:** "Enable JavaScript and cookies to continue."
-    *   **Vercel Security Checkpoint:** "Enable JavaScript to continue."
-    *   **MIT Technology Review (first entry):** "You need to enable JavaScript to view this site."
-    *   **Implication:** Modern websites heavily rely on JavaScript for dynamic content, interactivity, and even security checks. Cookies are essential for session management, user tracking, and personalized experiences. Users blocking these (or having old browsers) will encounter significant access issues.
-
-3.  **Ad Blocker Detection:**
-    *   **reuters.com:** "disable any ad blocker."
-    *   **Implication:** Many content providers, especially news sites, rely on advertising revenue. They implement measures to detect and sometimes block users with ad blockers, encouraging them to disable them or subscribe.
-
-4.  **Error Codes:**
-    *   **Financial Times:** "Status Code 403."
-    *   **Standalone "403 Forbidden":** Explicitly states the HTTP status code for "Forbidden."
-    *   **Implication:** These codes indicate that the server understood the request but refuses to authorize it, usually for security reasons or content restrictions.
-
-**Overall Impression (Access):** The internet is increasingly guarded. Websites are employing sophisticated measures to distinguish between legitimate human users and automated bots, protect content, and ensure proper user experience (e.g., enabling JS for full functionality). This creates friction for users, especially those with strict privacy settings, ad blockers, or outdated browsers.
-
----
-
-### II. Overwhelming Focus on Artificial Intelligence (AI)
-
-Once past the access hurdles, the substantive content from major news and technology platforms is almost exclusively dominated by Artificial Intelligence:
-
-1.  **MIT Technology Review:**
-    *   Numerous articles listed are about AI: "Can AI Learn to Understand the World?", "Inside the Musk v. Altman Trial," "Here’s why Elon Musk lost his suit against OpenAI," "Anthropic’s Code with Claude showed off coding’s future," "10 Things That Matter in AI Right Now," "The era of AI malaise."
-    *   Mentions specific companies/models: OpenAI, Anthropic (Claude).
-    *   Broader themes: AI's impact on online safety/free speech (lawsuit against Trump administration), ethical considerations, and its pervasive presence.
-
-2.  **NVIDIA Newsroom:**
-    *   While the snippet shows generic news items (financial results, upcoming events), NVIDIA's "PLATFORMS" section prominently features "Artificial Intelligence," "Deep Learning & Ai," and "High Performance Computing" – all foundational to AI development and deployment. NVIDIA's GPUs are central to AI training and inference.
-
-3.  **AWS News Blog:**
-    *   Explicitly mentions "Artificial Intelligence" in its categories.
-    *   Key announcements: "Amazon Quick—an AI assistant for work," "expanded Amazon Connect into four agentic AI solutions" (supply chain, hiring, customer experience, healthcare).
-    *   Partnerships: "expended its partnership with OpenAI, bringing models like GPT-5.5, Codex, and Managed Agents to Amazon Bedrock."
-    *   Weekly Roundup: "Claude Platform on AWS."
-    *   **Implication:** AWS is actively integrating AI into its core services and offering various AI models and tools to its enterprise customers.
-
-4.  **Google Cloud Blog:**
-    *   Prominently features "AI & Machine Learning" as a solution/technology category.
-    *   Highlights from Google I/O '26: "doubling down on our mission to support the Agentic Enterprise by delivering new AI innovations and putting them directly in the hands of enterprises via Gemini Enterprise, Agent Platform."
-    *   **Implication:** Google Cloud is positioning AI, particularly its Gemini models and "agentic" capabilities, as central to enterprise digital transformation.
-
-**Overall Impression (Content):** AI is not just a trend; it's the dominant technological narrative across multiple sectors. Major tech companies (NVIDIA, AWS, Google) are heavily invested in developing and deploying AI solutions, from foundational models to enterprise-specific applications. News outlets like MIT Technology Review are tracking its rapid evolution, societal impact, and ongoing legal/ethical debates.
-
----
-
-### Conclusion: A Dual-Layered Digital Reality
-
-The provided data paints a picture of a digital world simultaneously becoming more secure and more focused on AI. Users increasingly encounter security checkpoints, JavaScript/cookie requirements, and ad blocker detections before accessing content. This friction is a direct consequence of efforts to combat bots, maintain site integrity, and manage content monetization.
-
-Once past these digital gatekeepers, the dominant conversation is about Artificial Intelligence. From foundational research and hardware (NVIDIA) to cloud-based services and enterprise applications (AWS, Google Cloud) and critical analysis (MIT Technology Review), AI is shaping industries, driving innovation, and raising new questions about technology's role in society. This data strongly suggests that AI is the current and foreseeable future driver of technological advancement and business strategy.
+const dailyData = {
+  "extracted_articles": [
+    {
+      "source_url": "https://www.techtarget.com",
+      "title": "The AI war IBM isn't fighting -- and the one it thinks it can win",
+      "date": "21 May 2026",
+      "category": "Cloud Deployment & Architecture",
+      "summary": "IBM wants to differentiate itself in the market by..."
+    },
+    {
+      "source_url": "https://www.technologyreview.com",
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "date": "1 day ago",
+      "category": "NewPolicy",
+      "summary": "In a lawsuit, the Coalition for Independent Technology Research argues the government is using immigration policy to stifle free speech and tech regulation."
+    },
+    {
+      "source_url": "https://www.technologyreview.com",
+      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "date": "35 minutes ago",
+      "category": "Biotechnology and health",
+      "summary": null
+    },
+    {
+      "source_url": "https://www.technologyreview.com",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "date": "2 days ago",
+      "category": "Climate change and energy",
+      "summary": null
+    },
+    {
+      "source_url": "https://www.technologyreview.com",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "date": "3 days ago",
+      "category": "Artificial intelligence",
+      "summary": null
+    },
+    {
+      "source_url": "https://aws.amazon.com/blogs/aws",
+      "title": "Top announcements of the What’s Next with AWS, 2026",
+      "date": "28 APR 2026",
+      "category": "Amazon Bedrock, Amazon Connect, Amazon Quick Suite, Artificial Intelligence, Events, News",
+      "summary": "By AWS News Blog Team"
+    },
+    {
+      "source_url": "https://www.anthropic.com/news",
+      "title": "Introducing Claude Opus 4.7",
+      "date": "Apr 16, 2026",
+      "category": "Product",
+      "summary": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most."
+    },
+    {
+      "source_url": "https://www.anthropic.com/news",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "date": "Apr 17, 2026",
+      "category": "Product",
+      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
+    },
+    {
+      "source_url": "https://www.anthropic.com/news",
+      "title": "Project Glasswing",
+      "date": "Apr 7, 2026",
+      "category": "Announcements",
+      "summary": "A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Ci..."
+    },
+    {
+      "source_url": "https://ai.meta.com/blog",
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "date": "April 8, 2026",
+      "category": "Featured",
+      "summary": null
+    },
+    {
+      "source_url": "https://ai.meta.com/blog",
+      "title": "Scaling How We Build and Test Our Most Advanced AI",
+      "date": "Apr 8, 2026",
+      "category": "Research",
+      "summary": "As we build more capable, personalized AI, reliability..."
+    },
+    {
+      "source_url": "https://ai.meta.com/blog",
+      "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+      "date": "Apr 6, 2026",
+      "category": "Computer Vision",
+      "summary": null
+    },
+    {
+      "source_url": "https://ai.meta.com/blog",
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
+      "date": "Mar 27, 2026",
+      "category": "Computer Vision",
+      "summary": null
+    },
+    {
+      "source_url": "https://ai.meta.com/blog",
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+      "date": "Mar 11, 2026",
+      "category": "Featured",
+      "summary": null
+    },
+    {
+      "source_url": "https://mistral.ai/news",
+      "title": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks",
+      "date": "Apr 29, 2026",
+      "category": "Product",
+      "summary": "Remote agents in Vibe. Powered by Mistral Medium 3.5."
+    }
+  ],
+  "failed_sources": [
+    {
+      "url": "https://www.bloomberg.com/technology",
+      "reason": "Blocked (Unusual activity / Robot verification)"
+    },
+    {
+      "url": "https://www.reuters.com/technology",
+      "reason": "Blocked (JavaScript/Adblocker requirement)"
+    },
+    {
+      "url": "https://www.ft.com/technology",
+      "reason": "Blocked (Security Verification / Status Code 403)"
+    },
+    {
+      "url": "https://www.cnbc.com/technology",
+      "reason": "Access Denied (403)"
+    },
+    {
+      "url": "https://venturebeat.com",
+      "reason": "Blocked (Vercel Security Checkpoint)"
+    },
+    {
+      "url": "https://www.aibusiness.com",
+      "reason": "Blocked (JavaScript and cookies required)"
+    },
+    {
+      "url": "https://spectrum.ieee.org",
+      "reason": "Blocked (Error 403 Forbidden)"
+    },
+    {
+      "url": "https://dl.acm.org",
+      "reason": "Blocked (JavaScript and cookies required)"
+    },
+    {
+      "url": "https://www.tsmc.com/english/news_events",
+      "reason": "Blocked (JavaScript and cookies required)"
+    },
+    {
+      "url": "https://www.intel.com/content/www/us/en/newsroom",
+      "reason": "Blocked (Error 403 Forbidden)"
+    },
+    {
+      "url": "https://openai.com/research",
+      "reason": "Blocked (JavaScript and cookies required)"
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom",
+      "reason": "Blocked (Verification required)"
+    },
+    {
+      "url": "https://www.weforum.org/agenda/technology",
+      "reason": "Access Denied (403)"
+    }
+  ]
+}
