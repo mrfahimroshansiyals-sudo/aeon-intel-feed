@@ -1,319 +1,234 @@
 const dailyData = {
-  "scraped_date": "2026-05-22",
-  "sources_status": [
-    {
-      "url": "https://www.bloomberg.com/technology",
-      "source": "Bloomberg",
-      "accessible": false,
-      "reason": "Bot detection/unusual activity verification screen"
+  "scraped_on": "May 2026",
+  "source_status_report": {
+    "https://www.bloomberg.com/technology": {
+      "status": "Blocked",
+      "error": "Bot detection/Captcha"
     },
-    {
-      "url": "https://www.reuters.com/technology",
-      "source": "Reuters",
-      "accessible": false,
-      "reason": "JavaScript requirement and ad blocker verification"
+    "https://www.reuters.com/technology": {
+      "status": "Blocked",
+      "error": "JavaScript required / Ad blocker warning"
     },
-    {
-      "url": "https://www.ft.com/technology",
-      "source": "Financial Times",
-      "accessible": false,
-      "reason": "403 Forbidden / Security Verification"
+    "https://www.ft.com/technology": {
+      "status": "Blocked",
+      "error": "Forbidden (403)"
     },
-    {
-      "url": "https://www.dowjones.com/newswires",
-      "source": "Dow Jones Newswires",
-      "accessible": true,
-      "reason": "Only generic promotional and navigation structure retrieved, no active news content"
+    "https://www.dowjones.com/newswires": {
+      "status": "Success",
+      "extracted_content": "Navigation and brand offering lists only"
     },
-    {
-      "url": "https://www.cnbc.com/technology",
-      "source": "CNBC",
-      "accessible": false,
-      "reason": "Access Denied (403)"
+    "https://www.cnbc.com/technology": {
+      "status": "Blocked",
+      "error": "Access Denied (403)"
     },
-    {
-      "url": "https://venturebeat.com",
-      "source": "VentureBeat",
-      "accessible": false,
-      "reason": "Vercel Security Checkpoint"
+    "https://venturebeat.com": {
+      "status": "Blocked",
+      "error": "Vercel Security Checkpoint"
     },
-    {
-      "url": "https://www.aibusiness.com",
-      "source": "AI Business",
-      "accessible": false,
-      "reason": "Cloudflare 'Just a moment' challenge"
+    "https://www.aibusiness.com": {
+      "status": "Blocked",
+      "error": "JavaScript required"
     },
-    {
-      "url": "https://www.cio.com",
-      "source": "CIO.com",
-      "accessible": true,
-      "reason": "Generic categories and navigation structure retrieved, no active news content"
+    "https://www.cio.com": {
+      "status": "Success",
+      "extracted_content": "Navigation and topic lists only"
     },
-    {
-      "url": "https://www.infoworld.com",
-      "source": "InfoWorld",
-      "accessible": true,
-      "reason": "Generic categories and navigation structure retrieved, no active news content"
+    "https://www.infoworld.com": {
+      "status": "Success",
+      "extracted_content": "Navigation and topic lists only"
     },
-    {
-      "url": "https://www.techtarget.com",
-      "source": "TechTarget",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://www.techtarget.com": {
+      "status": "Success",
+      "extracted_content": "Recent security article details"
     },
-    {
-      "url": "https://www.technologyreview.com",
-      "source": "MIT Technology Review",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://www.technologyreview.com": {
+      "status": "Success",
+      "extracted_content": "Recent tech, AI, and policy articles"
     },
-    {
-      "url": "https://spectrum.ieee.org",
-      "source": "IEEE Spectrum",
-      "accessible": false,
-      "reason": "403 Forbidden Error"
+    "https://spectrum.ieee.org": {
+      "status": "Blocked",
+      "error": "Forbidden (403)"
     },
-    {
-      "url": "https://hai.stanford.edu",
-      "source": "Stanford HAI",
-      "accessible": true,
-      "reason": "Generic page hierarchy and menu links, no specific article text retrieved"
+    "https://hai.stanford.edu": {
+      "status": "Success",
+      "extracted_content": "Navigation and program lists only"
     },
-    {
-      "url": "https://dl.acm.org",
-      "source": "ACM Digital Library",
-      "accessible": false,
-      "reason": "Cloudflare challenge screen"
+    "https://dl.acm.org": {
+      "status": "Blocked",
+      "error": "JavaScript required"
     },
-    {
-      "url": "https://nvidianews.nvidia.com",
-      "source": "NVIDIA Newsroom",
-      "accessible": true,
-      "reason": "Generic page layout and structure retrieved, no specific press releases listed"
+    "https://nvidianews.nvidia.com": {
+      "status": "Success",
+      "extracted_content": "Navigation and category lists only"
     },
-    {
-      "url": "https://www.tsmc.com/english/news_events",
-      "source": "TSMC",
-      "accessible": false,
-      "reason": "Cloudflare challenge screen"
+    "https://www.tsmc.com/english/news_events": {
+      "status": "Blocked",
+      "error": "JavaScript required"
     },
-    {
-      "url": "https://www.asml.com/en/news",
-      "source": "ASML",
-      "accessible": true,
-      "reason": "Generic page layout and structure retrieved, no specific news listed"
+    "https://www.asml.com/en/news": {
+      "status": "Success",
+      "extracted_content": "Navigation and careers lists only"
     },
-    {
-      "url": "https://www.intel.com/content/www/us/en/newsroom",
-      "source": "Intel Newsroom",
-      "accessible": false,
-      "reason": "403 Forbidden"
+    "https://www.intel.com/content/www/us/en/newsroom": {
+      "status": "Blocked",
+      "error": "Forbidden (403)"
     },
-    {
-      "url": "https://aws.amazon.com/blogs/aws",
-      "source": "AWS News Blog",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://aws.amazon.com/blogs/aws": {
+      "status": "Success",
+      "extracted_content": "AWS Event Announcements"
     },
-    {
-      "url": "https://cloud.google.com/blog",
-      "source": "Google Cloud Blog",
-      "accessible": true,
-      "reason": "Menu structures extracted successfully, no specific articles in the snippet"
+    "https://cloud.google.com/blog": {
+      "status": "Success",
+      "extracted_content": "Navigation categories only"
     },
-    {
-      "url": "https://azure.microsoft.com/en-us/blog",
-      "source": "Microsoft Azure Blog",
-      "accessible": true,
-      "reason": "Menu structures and platform listing extracted, no specific articles in the snippet"
+    "https://azure.microsoft.com/en-us/blog": {
+      "status": "Success",
+      "extracted_content": "Navigation and Azure product lists"
     },
-    {
-      "url": "https://openai.com/research",
-      "source": "OpenAI Research",
-      "accessible": false,
-      "reason": "Security Verification / JavaScript required screen"
+    "https://openai.com/research": {
+      "status": "Blocked",
+      "error": "JavaScript required"
     },
-    {
-      "url": "https://www.anthropic.com/news",
-      "source": "Anthropic News",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://www.anthropic.com/news": {
+      "status": "Success",
+      "extracted_content": "Product announcements and updates"
     },
-    {
-      "url": "https://deepmind.google/discover",
-      "source": "Google DeepMind",
-      "accessible": true,
-      "reason": "Model listings and research references extracted successfully"
+    "https://deepmind.google/discover": {
+      "status": "Success",
+      "extracted_content": "Generative model and research updates"
     },
-    {
-      "url": "https://ai.meta.com/blog",
-      "source": "Meta AI Blog",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://ai.meta.com/blog": {
+      "status": "Success",
+      "extracted_content": "AI research, hardware, and model releases"
     },
-    {
-      "url": "https://mistral.ai/news",
-      "source": "Mistral AI",
-      "accessible": true,
-      "reason": "Content extracted successfully"
+    "https://mistral.ai/news": {
+      "status": "Success",
+      "extracted_content": "Product and agent model updates"
     },
-    {
-      "url": "https://www.gartner.com/en/newsroom",
-      "source": "Gartner Newsroom",
-      "accessible": false,
-      "reason": "Cloudflare 'Just a moment' verification required"
+    "https://www.gartner.com/en/newsroom": {
+      "status": "Blocked",
+      "error": "Security validation required"
     },
-    {
-      "url": "https://www.weforum.org/agenda/technology",
-      "source": "World Economic Forum",
-      "accessible": false,
-      "reason": "Access Denied (403)"
+    "https://www.weforum.org/agenda/technology": {
+      "status": "Blocked",
+      "error": "Access Denied (403)"
     },
-    {
-      "url": "https://artificialintelligenceact.eu",
-      "source": "EU Artificial Intelligence Act Portal",
-      "accessible": true,
-      "reason": "Generic directory, resource database, and navigation links retrieved"
+    "https://artificialintelligenceact.eu": {
+      "status": "Success",
+      "extracted_content": "AI Act explorer and implementation timeline navigation"
     }
-  ],
-  "extracted_news": [
+  },
+  "extracted_news_and_announcements": [
     {
       "source": "TechTarget",
-      "title": "Disrupted by AI, SAP grapples with exposing its ERP data",
       "date": "2026-05-22",
-      "category": "Products & Vendors",
-      "summary": "Customers enticed by third-party AI apps might go elsewhere for ERP if SAP cannot expose its ERP data efficiently."
+      "category": "Security / Threats & Vulnerabilities",
+      "title": "Verizon 2026 DBIR: 6 key takeaways for CISOs",
+      "description": "The 2026 DBIR identifies critical trends and actionable insights for Chief Information Security Officers."
     },
     {
       "source": "MIT Technology Review",
+      "date": "2026-05 (approximate)",
+      "category": "Artificial Intelligence",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "date": "2026-05-21",
-      "category": "Artificial intelligence",
-      "summary": "Two years after an AI tool won Google DeepMind a Nobel Prize, researchers are setting sights on a new milestone in AI-driven science."
+      "description": "Following up on Google DeepMind's Nobel-winning breakthroughs, researchers are focusing on new frontiers in scientific AI systems."
     },
     {
       "source": "MIT Technology Review",
-      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "date": "2026-05-21",
-      "category": "Biotechnology and health",
-      "summary": "Analyzing the technological and biological longevity trends of 2026 regarding the Enhanced Games."
+      "date": "2026-05 (approximate)",
+      "category": "Biotechnology and Health",
+      "title": "The Enhanced Games fit right in with the rest of 2026's longevity vibes",
+      "description": "Analyzing the trends of physical enhancement and bio-longevity inside competitive sporting paradigms in 2026."
     },
     {
       "source": "MIT Technology Review",
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "date": "2026-05-20",
+      "date": "2026-05 (approximate)",
       "category": "Policy",
-      "summary": "Academic and industry researchers launch legal action against the administration regarding the governance and research surrounding online safety."
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "description": "Academics and scientific researchers launch legal disputes contesting public policies concerning online safety."
     },
     {
       "source": "MIT Technology Review",
+      "date": "2026-05 (approximate)",
+      "category": "Climate Change and Energy",
       "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "date": "2026-05-20",
-      "category": "Climate change and energy",
-      "summary": "Boston Metal expands its resource extraction and processing strategies to target critical metals."
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Inside the Musk v. Alt",
-      "date": "2026-05-19",
-      "category": "Artificial intelligence",
-      "summary": "Deconstruction and debate surrounding the legal and philosophical conflicts within AI's top leadership."
+      "description": "Boston Metal expands operations into mining and extracting vital metals necessary for sustainable transitions."
     },
     {
       "source": "AWS News Blog",
-      "title": "Top announcements of the What’s Next with AWS, 2026",
       "date": "2026-04-28",
-      "category": "Artificial Intelligence / Events",
-      "summary": "Major announcements featuring Amazon Bedrock, Amazon Connect, and Amazon Quick Suite integrations."
+      "category": "Cloud Computing / AI",
+      "title": "Top announcements of the What's Next with AWS, 2026",
+      "description": "Highlights key product launches spanning Amazon Bedrock, Amazon Connect, and Amazon Quick Suite."
     },
     {
-      "source": "Anthropic",
-      "title": "Introducing Claude Opus 4.7",
-      "date": "2026-04-16",
-      "category": "Product",
-      "summary": "Anthropic releases Claude 4.7 Opus with optimized task automation, multi-step capabilities, advanced coding, and robust visual analysis."
-    },
-    {
-      "source": "Anthropic",
-      "title": "Introducing Claude Design by Anthropic Labs",
+      "source": "Anthropic News",
       "date": "2026-04-17",
-      "category": "Product",
-      "summary": "Anthropic Labs debuts 'Claude Design', a system allowing users to build prototype UI, layouts, slides, and graphical documents interactively."
+      "category": "AI Products",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "description": "A new collaborative tool that lets users build designs, high-fidelity prototypes, slides, and physical assets."
     },
     {
-      "source": "Anthropic",
-      "title": "Project Glasswing",
+      "source": "Anthropic News",
+      "date": "2026-04-16",
+      "category": "AI Products",
+      "title": "Introducing Claude Opus 4.7",
+      "description": "The latest premier model delivering stronger performance in coding, vision, autonomous agents, and complex reasoning."
+    },
+    {
+      "source": "Anthropic News",
       "date": "2026-04-07",
-      "category": "Announcements",
-      "summary": "A collaborative framework bringing together AWS, Anthropic, Apple, and Broadcom."
+      "category": "Announcements / Industry Collab",
+      "title": "Project Glasswing",
+      "description": "An initiative uniting Amazon Web Services, Anthropic, Apple, and Broadcom."
+    },
+    {
+      "source": "Google DeepMind",
+      "date": "2026 (ongoing)",
+      "category": "AI Models / Research",
+      "title": "Model & Agent Releases (Veo, Genie 3, SIMA 2)",
+      "description": "Highlights include Veo (cinematic video generation with sound), SIMA 2 (interactive gaming/reasoning agent), and Genie 3 (generative interactive world sandbox)."
     },
     {
       "source": "Meta AI Blog",
+      "date": "2026-04-08",
+      "category": "Artificial Intelligence",
       "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-      "date": "2026-04-08",
-      "category": "Featured Product",
-      "summary": "Meta outlines the roadmap for hyper-personalized, scaled interactive models designed to act as personal superintelligence assistants."
+      "description": "Scaling personal artificial intelligence systems to match complex human workloads."
     },
     {
       "source": "Meta AI Blog",
+      "date": "2026-04-08",
+      "category": "AI Research / Systems",
       "title": "Scaling How We Build and Test Our Most Advanced AI",
-      "date": "2026-04-08",
-      "category": "Research",
-      "summary": "A deep dive into the computational methods and testing architectures Meta uses to deploy highly reliable systems to billions."
+      "description": "Explorations into the system constraints and deployment pipelines utilized for highly complex AI architectures."
     },
     {
       "source": "Meta AI Blog",
-      "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
-      "date": "2026-04-06",
-      "category": "Computer Vision",
-      "summary": "Application of the Segment Anything Model in fashion retail digitization."
-    },
-    {
-      "source": "Meta AI Blog",
-      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
       "date": "2026-03-27",
       "category": "Computer Vision",
-      "summary": "A real-time visual video-segmentation model optimized for performance across hardware architectures."
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking",
+      "description": "The Segment Anything Model (SAM) upgraded with Multiplexing and Global Reasoning for faster, multi-object video segmentation."
     },
     {
       "source": "Meta AI Blog",
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
       "date": "2026-03-11",
-      "category": "Hardware / AI Infrastructure",
-      "summary": "A look at the iterative progression and deployment of the Meta Training and Inference Accelerator (MTIA) silicon pipeline."
+      "category": "AI Infrastructure / Hardware",
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+      "description": "Meta details its custom silicon design acceleration timeline to keep up with intensive model execution costs."
     },
     {
-      "source": "Mistral AI",
-      "title": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks",
+      "source": "Mistral AI News",
       "date": "2026-04-29",
-      "category": "Product Update",
-      "summary": "Mistral rolls out its new Medium 3.5 model alongside automated coding assistants within Vibe and structural workspace integrations in Le Chat."
+      "category": "AI Products",
+      "title": "Introducing Mistral Medium 3.5, Vibe, and Le Chat Work Mode",
+      "description": "Launches the updated Mistral Medium 3.5, alongside remote coding agents in Vibe and a dedicated workspace inside Le Chat."
     }
   ],
-  "google_deepmind_specialized_models_noted": [
-    {
-      "model_name": "Gemini Omni",
-      "capability": "Multimodal creation and editing"
-    },
-    {
-      "model_name": "Nano Banana",
-      "capability": "Detailed image creation and processing on localized hardware"
-    },
-    {
-      "model_name": "Gemini Audio",
-      "capability": "Advanced vocal synthesis and control"
-    },
-    {
-      "model_name": "Veo",
-      "capability": "Cinematic high-fidelity video production with audio generation"
-    },
-    {
-      "model_name": "Genie 3",
-      "capability": "Interactive and exploratory world generation"
-    },
-    {
-      "model_name": "SIMA 2",
-      "capability": "AI agent specialized in multi-environment reasoning, gaming, and interactive execution"
-    }
-  ]
+  "industry_trends_analysis": {
+    "agentic_ai": "Substantial shift towards collaborative, autonomous, and multi-step execution tools. Companies like Anthropic (Claude Opus 4.7 & Claude Design) and Mistral (Medium 3.5 remote coding agents / Vibe Work Mode) are designing software built specifically around automated agent tasks.",
+    "custom_silicon_and_hardware_scaling": "Meta's revelation of building four custom MTIA chips within two years demonstrates that tech giants are continuing to aggressive self-invest in specialized, custom infrastructure to control inference pipelines.",
+    "world_simulators_and_video": "Google DeepMind's Genie 3 and Meta's SAM 3.1 demonstrate that modern visual pipelines are shifting from simple prompt-to-image systems to interactive physical/virtual environments and real-time video analytics.",
+    "policy_tensions": "Increased volatility in regulatory and legislative spaces, highlighted by researchers filing lawsuits against administration policies alongside efforts towards the codification of the European AI Act."
+  }
 }
