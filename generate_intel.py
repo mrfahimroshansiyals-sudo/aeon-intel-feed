@@ -1,14 +1,14 @@
 import os
 import requests
 import time
+from bs4 import BeautifulSoup
 from google import genai
 
 # Initialize the new SDK client
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-# A prioritized list of stable models to try
-# We use a list so we have an automatic fallback strategy
-MODEL_PRIORITY = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
+# A prioritized list of stable models
+MODEL_PRIORITY = ["gemini-2.0-flash", "gemini-1.5-flash"]
 
 SOURCES = [
     "https://www.bloomberg.com/technology", "https://www.reuters.com/technology",
@@ -49,7 +49,7 @@ def fetch_content():
         try:
             response = requests.get(url, timeout=8)
             soup = BeautifulSoup(response.content, 'html.parser')
-            all_text += f"\nSOURCE: {url}\n" + soup.get_text()[:1200]
+            all_text += f"\nSOURCE: {url}\n" + soup.get_text()[:800] # Slightly reduced per site to save quota
         except Exception: continue
     return all_text
 
@@ -59,11 +59,10 @@ def update_intel():
     Analyze the following data to generate an AEON INTEL report.
     STRICT FORMAT: {JSON_TEMPLATE}
     SYSTEM DIRECTIVES:
-    1. Output ONLY valid JSON. No markdown, no code blocks, no conversational text.
+    1. Output ONLY valid JSON. No markdown, no code blocks.
     2. Ensure exactly 7 slides.
-    3. Every point must be 12-18 words, removing '[Label]:' tags.
-    4. Fill 'titleWhite' with first 3-5 words of theme, 'titleBlue' with the last word.
-    5. Data to analyze: {news_data}
+    3. Every point must be 12-18 words.
+    4. Data to analyze: {news_data}
     """
     
     success = False
@@ -84,8 +83,13 @@ def update_intel():
             break
         except Exception as e:
             print(f"Model {model_name} failed: {e}")
+            # If quota hit, wait 30 seconds before trying the next model
+            if "429" in str(e):
+                time.sleep(30)
     
-    if not success: exit(1)
+    if not success:
+        print("All models failed.")
+        exit(1)
 
 if __name__ == "__main__":
     update_intel()
