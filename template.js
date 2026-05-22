@@ -1,232 +1,202 @@
 const dailyData = {
-  "sources": [
+  "scraped_sources": [
     {
-      "source_name": "Bloomberg Technology",
       "url": "https://www.bloomberg.com/technology",
-      "status": "Blocked",
-      "error_type": "Bot Detection",
-      "articles": []
+      "status": "blocked",
+      "error_type": "bot_detection_challenge"
     },
     {
-      "source_name": "Reuters Technology",
       "url": "https://www.reuters.com/technology",
-      "status": "Blocked",
-      "error_type": "Javascript/Ad-blocker Required",
-      "articles": []
+      "status": "blocked",
+      "error_type": "js_required_or_adblocker"
     },
     {
-      "source_name": "Financial Times Technology",
       "url": "https://www.ft.com/technology",
-      "status": "Blocked",
-      "error_type": "Security Verification / 403 Forbidden",
-      "articles": []
+      "status": "blocked",
+      "error_type": "security_verification_403"
     },
     {
-      "source_name": "Dow Jones Newswires",
       "url": "https://www.dowjones.com/newswires",
-      "status": "Success",
-      "details": "Navigational/Corporate Landing Page",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "CNBC Technology",
       "url": "https://www.cnbc.com/technology",
-      "status": "Blocked",
-      "error_type": "Access Denied / 403 Forbidden",
-      "articles": []
+      "status": "blocked",
+      "error_type": "access_denied_403"
     },
     {
-      "source_name": "VentureBeat",
       "url": "https://venturebeat.com",
-      "status": "Blocked",
-      "error_type": "Vercel Security Checkpoint",
-      "articles": []
+      "status": "blocked",
+      "error_type": "vercel_security_checkpoint"
     },
     {
-      "source_name": "AI Business",
       "url": "https://www.aibusiness.com",
-      "status": "Blocked",
-      "error_type": "Javascript/Cookies Required",
-      "articles": []
+      "status": "blocked",
+      "error_type": "js_required"
     },
     {
-      "source_name": "CIO.com",
       "url": "https://www.cio.com",
-      "status": "Success",
-      "details": "Topic and Navigation Directory Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "InfoWorld",
       "url": "https://www.infoworld.com",
-      "status": "Success",
-      "details": "Topic and Navigation Directory Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "TechTarget",
       "url": "https://www.techtarget.com",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
-          "title": "The AI war IBM isn't fighting -- and the one it thinks it can win",
-          "date": "21 May 2026",
-          "category": "Cloud Deployment & Architecture",
-          "summary": "IBM wants to differentiate itself in the market by..."
+          "title": "Weekly tech news: Musk lawsuit verdict, Anthropic acquisition, Meta layoffs and billions for quantum",
+          "date": "2026-05-22",
+          "category": "CIO Strategy"
         }
       ]
     },
     {
-      "source_name": "MIT Technology Review",
       "url": "https://www.technologyreview.com",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
           "title": "Google I/O showed how the path for AI-driven science is shifting",
-          "date": "2 hours ago",
-          "category": "Artificial intelligence",
-          "summary": "Two years ago, an AI tool won Google DeepMind a Nobel. Researchers are now climbing toward a new goal."
+          "date": "6 hours ago",
+          "category": "Artificial intelligence"
         },
         {
-          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-          "date": "10 minutes ago",
-          "category": "The Download",
-          "summary": ""
-        },
-        {
-          "title": "Climate tech companies are pivoting to critical minerals",
-          "date": "1 day ago",
-          "category": "Climate change and energy",
-          "summary": ""
+          "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+          "date": "7 hours ago",
+          "category": "Biotechnology and health"
         },
         {
           "title": "Tech researchers are suing the Trump administration over the future of online safety",
           "date": "1 day ago",
-          "category": "Policy",
-          "summary": ""
+          "category": "Policy"
         },
         {
-          "title": "Green steel startup Boston Metal is doubling down on",
+          "title": "Green steel startup Boston Metal is doubling down on critical metals",
           "date": "2 days ago",
-          "category": "Climate change and energy",
-          "summary": ""
+          "category": "Climate change and energy"
+        },
+        {
+          "title": "Roundtables: Inside the Musk v. Altman",
+          "date": "3 days ago",
+          "category": "Artificial intelligence"
         }
       ]
     },
     {
-      "source_name": "IEEE Spectrum",
       "url": "https://spectrum.ieee.org",
-      "status": "Blocked",
-      "error_type": "403 Forbidden (Varnish Cache Server)",
-      "articles": []
+      "status": "blocked",
+      "error_type": "forbidden_403"
     },
     {
-      "source_name": "Stanford HAI",
       "url": "https://hai.stanford.edu",
-      "status": "Success",
-      "details": "Institutional Directory/Navigation Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "ACM Digital Library",
       "url": "https://dl.acm.org",
-      "status": "Blocked",
-      "error_type": "Javascript/Cookies Required",
-      "articles": []
+      "status": "blocked",
+      "error_type": "js_required"
     },
     {
-      "source_name": "NVIDIA Newsroom",
       "url": "https://nvidianews.nvidia.com",
-      "status": "Success",
-      "details": "Directory Navigation List Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "TSMC",
       "url": "https://www.tsmc.com/english/news_events",
-      "status": "Blocked",
-      "error_type": "Javascript/Cookies Required",
-      "articles": []
+      "status": "blocked",
+      "error_type": "js_required"
     },
     {
-      "source_name": "ASML",
       "url": "https://www.asml.com/en/news",
-      "status": "Success",
-      "details": "Directory Navigation List Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "Intel Newsroom",
       "url": "https://www.intel.com/content/www/us/en/newsroom",
-      "status": "Blocked",
-      "error_type": "403 Forbidden (nginx)",
-      "articles": []
+      "status": "blocked",
+      "error_type": "forbidden_403"
     },
     {
-      "source_name": "AWS News Blog",
       "url": "https://aws.amazon.com/blogs/aws",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
           "title": "Top announcements of the What’s Next with AWS, 2026",
-          "date": "28 APR 2026",
+          "date": "2026-04-28",
           "author": "AWS News Blog Team",
-          "category": "News & Events",
-          "tags": ["Amazon Bedrock", "Amazon Connect", "Amazon Quick Suite", "Artificial Intelligence"]
+          "categories": [
+            "Amazon Bedrock",
+            "Amazon Connect",
+            "Amazon Quick Suite",
+            "Artificial Intelligence",
+            "Events",
+            "News"
+          ]
         }
       ]
     },
     {
-      "source_name": "Google Cloud Blog",
       "url": "https://cloud.google.com/blog",
-      "status": "Success",
-      "details": "Topic Directory and Navigation Only",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "Microsoft Azure Blog",
       "url": "https://azure.microsoft.com/en-us/blog",
-      "status": "Success",
-      "details": "Products list (Foundry Models, Agent Service, Cosmos DB, Azure Arc, Fabric)",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     },
     {
-      "source_name": "OpenAI Research",
       "url": "https://openai.com/research",
-      "status": "Blocked",
-      "error_type": "Javascript/Cookies Required",
-      "articles": []
+      "status": "blocked",
+      "error_type": "js_required"
     },
     {
-      "source_name": "Anthropic News",
       "url": "https://www.anthropic.com/news",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
           "title": "Introducing Claude Opus 4.7",
-          "date": "Apr 16, 2026",
+          "date": "2026-04-16",
           "category": "Product",
-          "summary": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency."
+          "summary": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most."
         },
         {
           "title": "Introducing Claude Design by Anthropic Labs",
-          "date": "Apr 17, 2026",
+          "date": "2026-04-17",
           "category": "Product",
-          "summary": "A new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, and one-pagers."
+          "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
         },
         {
           "title": "Project Glasswing",
-          "date": "Apr 7, 2026",
+          "date": "2026-04-07",
           "category": "Announcements",
-          "summary": "A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, etc."
+          "summary": "A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom..."
         }
       ]
     },
     {
-      "source_name": "Google DeepMind",
       "url": "https://deepmind.google/discover",
-      "status": "Success",
-      "models_highlighted": [
+      "status": "success",
+      "data_type": "breakthroughs_and_models",
+      "featured_models": [
         "Gemini",
         "Gemini Omni",
         "Nano Banana",
@@ -238,82 +208,78 @@ const dailyData = {
         "Gemini Robotics",
         "Gemma"
       ],
-      "research_highlights": [
+      "breakthroughs": [
         {
-          "title": "SIMA 2",
+          "name": "SIMA 2",
           "description": "An agent that plays, reasons, and learns with you"
         },
         {
-          "title": "Genie 3",
+          "name": "Genie 3",
           "description": "Generate and explore interactive worlds"
         }
       ]
     },
     {
-      "source_name": "AI at Meta Blog",
       "url": "https://ai.meta.com/blog",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
           "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-          "date": "April 8, 2026",
+          "date": "2026-04-08",
           "category": "Featured"
         },
         {
           "title": "Scaling How We Build and Test Our Most Advanced AI",
-          "date": "Apr 8, 2026",
+          "date": "2026-04-08",
           "category": "Research"
         },
         {
           "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
-          "date": "Apr 6, 2026",
+          "date": "2026-04-06",
           "category": "Computer Vision"
         },
         {
           "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
-          "date": "Mar 27, 2026",
-          "category": "Computer Vision / Featured"
+          "date": "2026-03-27",
+          "category": "Computer Vision"
         },
         {
           "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
-          "date": "Mar 11, 2026",
-          "category": "Featured"
+          "date": "2026-03-11",
+          "category": "Hardware / AI Infrastructure"
         }
       ]
     },
     {
-      "source_name": "Mistral AI News",
       "url": "https://mistral.ai/news",
-      "status": "Success",
+      "status": "success",
+      "data_type": "articles",
       "articles": [
         {
           "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
-          "date": "Apr 29, 2026",
           "category": "Product",
+          "date": "2026-04-29",
           "summary": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks."
         }
       ]
     },
     {
-      "source_name": "Gartner Newsroom",
       "url": "https://www.gartner.com/en/newsroom",
-      "status": "Blocked",
-      "error_type": "Javascript/Cookies Required (Security Validation)",
-      "articles": []
+      "status": "blocked",
+      "error_type": "bot_detection_challenge"
     },
     {
-      "source_name": "World Economic Forum Agenda Technology",
       "url": "https://www.weforum.org/agenda/technology",
-      "status": "Blocked",
-      "error_type": "Access Denied / 403 Forbidden",
-      "articles": []
+      "status": "blocked",
+      "error_type": "access_denied_403"
     },
     {
-      "source_name": "EU Artificial Intelligence Act",
       "url": "https://artificialintelligenceact.eu",
-      "status": "Success",
-      "details": "Structure framework, timeline, guidelines, and general-purpose AI information directory.",
-      "articles": []
+      "status": "success",
+      "data_type": "navigation_only",
+      "extracted_data": []
     }
   ]
+}
 }
