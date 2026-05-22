@@ -1,6 +1,7 @@
 name: Hourly Intel Update
 permissions:
-  contents: write # This gives the bot permission to push changes
+  contents: write
+
 on:
   schedule:
     - cron: "0 * * * *"
@@ -12,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install dependencies
-        run: pip install google-generativeai beautifulsoup4 requests
+        run: pip install google-genai beautifulsoup4 requests
       - name: Run Engine
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
