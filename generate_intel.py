@@ -1,11 +1,21 @@
 import os
 import requests
 import time
+import datetime
 from bs4 import BeautifulSoup
 from google import genai
 
+# Determine the key based on the current UTC hour (00-23)
+current_hour = datetime.datetime.utcnow().strftime("%H")
+secret_name = f"GEMINI_KEY_{current_hour}"
+api_key = os.environ.get(secret_name)
+
+if not api_key:
+    # Fallback to the original key if the hourly key isn't found yet
+    api_key = os.environ.get("GEMINI_API_KEY")
+
 # Initialize the new SDK client
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+client = genai.Client(api_key=api_key)
 
 # A prioritized list of stable models
 MODEL_PRIORITY = ["gemini-2.0-flash", "gemini-1.5-flash"]
@@ -49,30 +59,26 @@ def fetch_content():
         try:
             response = requests.get(url, timeout=8)
             soup = BeautifulSoup(response.content, 'html.parser')
-            all_text += f"\nSOURCE: {url}\n" + soup.get_text()[:800] # Slightly reduced per site to save quota
+            all_text += f"\nSOURCE: {url}\n" + soup.get_text()[:800]
         except Exception: continue
     return all_text
 
 def update_intel():
     news_data = fetch_content()
-    prompt = f"""
-    Analyze the following data to generate an AEON INTEL report.
-    STRICT FORMAT: {JSON_TEMPLATE}
-    SYSTEM DIRECTIVES:
-    1. Output ONLY valid JSON. No markdown, no code blocks.
-    2. Ensure exactly 7 slides.
-    3. Every point must be 12-18 words.
-    4. Data to analyze: {news_data}
-    """
+    system_instruction = "You are a JSON engine. Output ONLY valid JSON matching the template. No prose, no markdown, no conversational fillers."
+    prompt = f"Analyze this data and return the formatted JSON: {news_data}"
     
     success = False
     for model_name in MODEL_PRIORITY:
         try:
-            print(f"Attempting model: {model_name}")
+            print(f"Attempting model: {model_name} with key {secret_name}")
             response = client.models.generate_content(
                 model=model_name,
                 contents=prompt,
-                config={"response_mime_type": "application/json"}
+                config={
+                    "response_mime_type": "application/json",
+                    "system_instruction": system_instruction
+                }
             )
             
             with open("template.js", "w") as f:
@@ -83,9 +89,7 @@ def update_intel():
             break
         except Exception as e:
             print(f"Model {model_name} failed: {e}")
-            # If quota hit, wait 30 seconds before trying the next model
-            if "429" in str(e):
-                time.sleep(30)
+            if "429" in str(e): time.sleep(30)
     
     if not success:
         print("All models failed.")
