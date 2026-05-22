@@ -18,7 +18,7 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 # A prioritized list of stable models
-MODEL_PRIORITY = ["gemini-2.0-flash", "gemini-1.5-flash"]
+MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
 
 SOURCES = [
     "https://www.bloomberg.com/technology", "https://www.reuters.com/technology",
