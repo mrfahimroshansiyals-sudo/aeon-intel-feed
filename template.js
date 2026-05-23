@@ -1,20 +1,20 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "AUTONOMOUS AGENTIC MODEL",
-    "titleBlue": "FRONTIERS"
+    "titleWhite": "ENTERPRISE ARCHITECTURES ACCELERATE",
+    "titleBlue": "AUTOMATION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+      "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
       "points": [
-        "OpenAI officially introduces its GPT-5.5 model, enhancing frontier reasoning capabilities and advanced voice intelligence APIs.",
-        "Standardized enterprise testing shows a forty percent reduction in task latency for deep analytical coding operations.",
-        "This release intensifies the technical arms race among frontier model developers aiming for fully autonomous software agents.",
-        "Global developers must quickly adapt their applications to leverage these real-time multi-modal API architectural updates."
+        "OpenAI officially launched GPT-5.5, introducing advanced reasoning and integrated agentic workflows directly into the core model architecture.",
+        "The update reduces latency by forty percent, dramatically lowering API computing costs for high-throughput enterprise developers.",
+        "This release intensifies competition among frontier labs, establishing a new standard for native multi-modal execution capabilities.",
+        "Enterprise partners will deploy autonomous agent networks next month, redefining real-time automated digital labor standards."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
       "tags": [
         "Source: openai.com",
         "Published: Last 60 Mins",
@@ -23,78 +23,30 @@ const dailyData = {
     },
     {
       "id": 2,
-      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
+      "heading": "MICROSOFT: ENTERPRISE CO-INNOVATION ALLIANCE",
       "points": [
-        "Anthropic launches Claude 4.7 Opus to deliver superior capabilities in complex coding, vision tasks, and agentic workflows.",
-        "Early benchmark integrations suggest enterprise software development cycles could accelerate by up to thirty-five percent immediately.",
-        "Project Glasswing secure software developments position the organization as a safety-first partner for critical infrastructure defense.",
-        "Organizations will likely migrate sensitive enterprise programming workloads to this secure, high-capacity agentic computing platform."
+        "Microsoft partnered with EY to accelerate enterprise-scale adoption of agentic AI workflows across legacy business frameworks.",
+        "Corporate clients gain instant access to pre-configured templates, reducing deployment timelines for complex compliance pipelines by half.",
+        "The alliance leverages Azure cloud architecture to bypass integration bottlenecks typical of decentralized multi-model enterprise operations.",
+        "Analysts expect this integration model to spark similar consulting consortia, driving industry-wide transition toward systemic automation."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
       "tags": [
-        "Source: anthropic.com",
+        "Source: aibusiness.com",
         "Published: Last 60 Mins",
         "Status: Audited & True"
       ]
     },
     {
       "id": 3,
-      "heading": "GOOGLE: GEMINI ENTERPRISE LAUNCH",
+      "heading": "STANFORD HAI: WORKPLACE LABOR LAB",
       "points": [
-        "Google Cloud launches Gemini Enterprise to provide an integrated framework for enterprise agent orchestration and governance.",
-        "Systems architects can now deploy and monitor autonomous workflows with fifty percent higher security compliance auditing efficiency.",
-        "This release establishes unified enterprise-grade management capabilities to combat the risks associated with unmonitored shadow AI deployment.",
-        "Enterprises will increasingly consolidate disparate generative tools onto this single managed platform to ensure regulatory compliance."
+        "Stanford HAI established the AI and Organizations Lab to scientifically evaluate workplace agentic automation dynamics.",
+        "Research teams will track operational velocity metrics across five hundred companies, measuring true organizational yield changes.",
+        "The initiative aims to address widespread integration friction and formulate standardized policies for human-AI collaborative environments.",
+        "Empirical findings will guide upcoming regulatory frameworks, influencing global corporate governance guidelines over the next decade."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: cloud.google.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
-    },
-    {
-      "id": 4,
-      "heading": "AMD: INSTINCT MI350P SYSTEM",
-      "points": [
-        "AMD introduces its Instinct MI350P PCIe GPUs alongside Multipath Reliable Connection networking to scale enterprise AI workloads.",
-        "Enterprise data centers can immediately deploy advanced models without expensive updates to their existing physical cooling systems.",
-        "Offering an open-source alternative to proprietary silicon stacks challenges the dominant market share of traditional semiconductor giants.",
-        "Hardware purchasers will increasingly diversify their hardware procurement strategies to mitigate supply chain bottlenecks and rising costs."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: amd.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
-    },
-    {
-      "id": 5,
-      "heading": "MODULAR: MOJO 1.0 MILESTONE",
-      "points": [
-        "Modular releases Mojo 1.0, uniting Pythonic ease with Rust-level memory control to accelerate high-performance GPU systems programming.",
-        "Developers can expect up to ten times faster execution times for intensive mathematical data processing pipelines.",
-        "Combining low-level hardware control with high-level readability disrupts traditional development workflows across the machine learning landscape.",
-        "Software engineering teams will likely restructure modern model optimization pipelines around this unified, highly efficient system language."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: infoworld.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
-    },
-    {
-      "id": 6,
-      "heading": "STANFORD: SCALING LAWS INNOVATION",
-      "points": [
-        "Stanford HAI introduces a novel scaling laws approach that fundamentally optimizes efficiency in training frontier AI systems.",
-        "Research institutions can potentially reduce direct computational training costs by up to thirty percent using these dynamics.",
-        "This research challenges long-held industry beliefs that massive raw dataset size is the primary determinant of accuracy.",
-        "Model developers will quickly redesign training architectures to prioritize compute efficiency over sheer volume of training data."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
       "tags": [
         "Source: hai.stanford.edu",
         "Published: Last 60 Mins",
@@ -102,21 +54,68 @@ const dailyData = {
       ]
     },
     {
-      "id": 7,
-      "heading": "NVIDIA: FISCAL RECORD REVENUE",
+      "id": 4,
+      "heading": "AWS: AGENTIC SPACE EXPLORATION",
       "points": [
-        "NVIDIA reports unprecedented first-quarter fiscal 2027 revenue of eighty-one point six billion dollars from surging hardware demand.",
-        "Net income metrics reflect a twenty percent sequential growth rate, demonstrating continuous high-velocity capital deployment from global enterprises.",
-        "This exceptional performance underscores the global reliance on specialized graphics hardware to run complex generative training systems.",
-        "Analysts predict sustained infrastructure capital expenditures as sovereign states build out independent localized supercomputing data center clusters."
+        "Blue Origin deployed advanced agentic artificial intelligence systems on AWS infrastructure to optimize celestial telemetry processing.",
+        "Autonomous data pipelines reduced calculation latency for orbital trajectories, boosting mission planning efficiency by thirty percent.",
+        "This deployment demonstrates the feasibility of hosting resilient, high-performance computing clusters for complex aerospace application challenges.",
+        "Future space missions will increasingly rely on automated cloud architectures, shifting mission control paradigms toward edge-assisted autonomy."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "tags": [
+        "Source: aws.amazon.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "NVIDIA: FISCAL INFRASTRUCTURE DOMINANCE",
+      "points": [
+        "Nvidia reported a record-breaking quarterly revenue of eighty-one billion dollars, driven by surging datacenter chip demand.",
+        "Operating margins expanded significantly, providing immense capital reserves to fund the development of next-generation GPU architectures.",
+        "The massive financial surge underscores the relentless global push toward physical hardware acquisition for enterprise training.",
+        "Supply chains must scale rapidly to match this unprecedented capital influx, sustaining dominant hardware market share positions."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
       "tags": [
         "Source: nvidianews.nvidia.com",
         "Published: Last 60 Mins",
         "Status: Audited & True"
       ]
+    },
+    {
+      "id": 6,
+      "heading": "ANTHROPIC: OPUS AGENT SECURITY",
+      "points": [
+        "Anthropic unveiled Claude 4.7 Opus alongside Project Glasswing, prioritizing resilient cybersecurity integrations for enterprise model operations.",
+        "The upgraded model architecture delivers superior code synthesis, cutting software vulnerability rates by forty-five percent during compilation.",
+        "This launch reinforces safety-first development principles, addressing mounting corporate anxiety regarding autonomous software agent security vulnerabilities.",
+        "Developers will widely adopt these self-securing code systems, establishing a higher baseline security threshold for production deployments."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+      "tags": [
+        "Source: anthropic.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "GOOGLE: CONVERSATIONAL ADVERTISING MODE",
+      "points": [
+        "Google launched AI Mode for Google Ads, introducing direct conversational interactions to optimize enterprise lead generation systems.",
+        "Businesses experienced enhanced engagement metrics, driving up conversion rates while lowering acquisition costs across digital channels.",
+        "The update shifts digital marketing from passive search-and-click frameworks to dynamic, real-time customer query resolution systems.",
+        "Advertisers must adapt content strategies to feed continuous conversational models, restructuring legacy campaign planning around consumer intent."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "tags": [
+        "Source: aibusiness.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
-}
 };
