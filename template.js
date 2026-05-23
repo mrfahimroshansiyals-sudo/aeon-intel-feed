@@ -1,93 +1,122 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "REVOLUTIONIZING AUTONOMOUS AGENT",
-    "titleBlue": "INTELLIGENCE"
+    "titleWhite": "AUTONOMOUS AGENTIC MODEL",
+    "titleBlue": "FRONTIERS"
   },
   "slides": [
     {
       "id": 1,
       "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
       "points": [
-        "OpenAI officially launched its next-generation GPT-5.5 model, bringing frontier reasoning and advanced multi-modal capabilities.",
-        "The model decreases token latency by forty percent, dramatically cutting operational overhead for enterprise-grade autonomous workflows.",
-        "This release intensifies global competition as enterprises seek scalable, highly secure alternatives to custom open-source architectures.",
-        "Analysts expect immediate integration across global corporate networks, forcing competitors to accelerate their model deployment cycles."
+        "OpenAI officially introduces its GPT-5.5 model, enhancing frontier reasoning capabilities and advanced voice intelligence APIs.",
+        "Standardized enterprise testing shows a forty percent reduction in task latency for deep analytical coding operations.",
+        "This release intensifies the technical arms race among frontier model developers aiming for fully autonomous software agents.",
+        "Global developers must quickly adapt their applications to leverage these real-time multi-modal API architectural updates."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 2,
-      "heading": "STANFORD: NEURAL SCALING LAWS",
+      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
       "points": [
-        "Stanford researchers proposed a novel scaling law approach that optimizes compute efficiency during massive neural network training.",
-        "Implementing these laws reduces training expenses by thirty percent while maintaining peak model performance metrics.",
-        "Current industrial architectures face immense power constraints, making efficiency innovations critical for sustained technological progress.",
-        "Laboratories worldwide are expected to adopt these mathematical frameworks to minimize thermodynamic overhead in future clusters."
+        "Anthropic launches Claude 4.7 Opus to deliver superior capabilities in complex coding, vision tasks, and agentic workflows.",
+        "Early benchmark integrations suggest enterprise software development cycles could accelerate by up to thirty-five percent immediately.",
+        "Project Glasswing secure software developments position the organization as a safety-first partner for critical infrastructure defense.",
+        "Organizations will likely migrate sensitive enterprise programming workloads to this secure, high-capacity agentic computing platform."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: anthropic.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 3,
-      "heading": "NVIDIA: FISCAL 2027 REVENUE",
+      "heading": "GOOGLE: GEMINI ENTERPRISE LAUNCH",
       "points": [
-        "Nvidia reported record first quarter fiscal 2027 revenue of eighty-one point six billion dollars, up twenty percent sequentially.",
-        "Exponential revenue growth underscores massive capital allocation toward advanced graphics processing units and data center buildouts.",
-        "Global supply chains remain highly strained as hyperscalers rush to acquire next-generation chip architectures for enterprise workloads.",
-        "Sustained financial momentum indicates continued market dominance, reinforcing Nvidia's strategic position across the global semiconductor ecosystem."
+        "Google Cloud launches Gemini Enterprise to provide an integrated framework for enterprise agent orchestration and governance.",
+        "Systems architects can now deploy and monitor autonomous workflows with fifty percent higher security compliance auditing efficiency.",
+        "This release establishes unified enterprise-grade management capabilities to combat the risks associated with unmonitored shadow AI deployment.",
+        "Enterprises will increasingly consolidate disparate generative tools onto this single managed platform to ensure regulatory compliance."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c",
-      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: cloud.google.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 4,
-      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
+      "heading": "AMD: INSTINCT MI350P SYSTEM",
       "points": [
-        "Anthropic deployed Claude Opus four point seven, offering enhanced capabilities for coding, agent orchestration, and visual analysis.",
-        "Developers report double the execution speed in complex debugging tasks, optimizing overall software development life cycle efficiency.",
-        "Code generation models are quickly transitioning from simple assistants to fully autonomous software engineering agents.",
-        "Enterprise engineering teams will rapidly implement these agentic features to accelerate product deployment and software maintenance."
+        "AMD introduces its Instinct MI350P PCIe GPUs alongside Multipath Reliable Connection networking to scale enterprise AI workloads.",
+        "Enterprise data centers can immediately deploy advanced models without expensive updates to their existing physical cooling systems.",
+        "Offering an open-source alternative to proprietary silicon stacks challenges the dominant market share of traditional semiconductor giants.",
+        "Hardware purchasers will increasingly diversify their hardware procurement strategies to mitigate supply chain bottlenecks and rising costs."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
-      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: amd.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 5,
-      "heading": "DEEPMIND: GEMINI OMNI RELEASE",
+      "heading": "MODULAR: MOJO 1.0 MILESTONE",
       "points": [
-        "Google DeepMind unveiled its Gemini Omni model, facilitating seamless multi-modal processing starting directly from native video inputs.",
-        "Real-time video comprehension enables instantaneous automated decision-making pipelines for industrial robotic and monitoring systems.",
-        "Competitors are racing to build native multi-modal architectures that bypass traditional discrete text-to-video conversion processes.",
-        "Expect rapid enterprise deployment in security, logistics, and autonomous systems seeking unified sensory processing capabilities."
+        "Modular releases Mojo 1.0, uniting Pythonic ease with Rust-level memory control to accelerate high-performance GPU systems programming.",
+        "Developers can expect up to ten times faster execution times for intensive mathematical data processing pipelines.",
+        "Combining low-level hardware control with high-level readability disrupts traditional development workflows across the machine learning landscape.",
+        "Software engineering teams will likely restructure modern model optimization pipelines around this unified, highly efficient system language."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: infoworld.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 6,
-      "heading": "AMD: HIGH-SCALE AI NETWORKING",
+      "heading": "STANFORD: SCALING LAWS INNOVATION",
       "points": [
-        "AMD introduced Multipath Reliable Connection technology to enhance artificial intelligence networking performance across large-scale computing clusters.",
-        "This innovative networking approach mitigates packet loss, maximizing efficiency in high-performance computing and model training operations.",
-        "Traditional single-path networking frameworks frequently struggle under the massive, synchronized data demands of modern training environments.",
-        "Hyperscalers are anticipated to integrate this networking protocol to optimize throughput within their proprietary infrastructure setups."
+        "Stanford HAI introduces a novel scaling laws approach that fundamentally optimizes efficiency in training frontier AI systems.",
+        "Research institutions can potentially reduce direct computational training costs by up to thirty percent using these dynamics.",
+        "This research challenges long-held industry beliefs that massive raw dataset size is the primary determinant of accuracy.",
+        "Model developers will quickly redesign training architectures to prioritize compute efficiency over sheer volume of training data."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: hai.stanford.edu",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 7,
-      "heading": "INFOWORLD: MOJO 1.0 RELEASE",
+      "heading": "NVIDIA: FISCAL RECORD REVENUE",
       "points": [
-        "Modular officially released Mojo one point zero, combining Pythonic simplicity with Rust-like systems programming and GPU support.",
-        "Developers gain precise memory control and hardware-level performance, accelerating execution speeds for local artificial intelligence models.",
-        "The software ecosystem is actively seeking high-performance languages that eliminate complex multi-language bridges in model deployments.",
-        "Adoption of this language is projected to surge among systems engineers optimizing edge device machine learning performance."
+        "NVIDIA reports unprecedented first-quarter fiscal 2027 revenue of eighty-one point six billion dollars from surging hardware demand.",
+        "Net income metrics reflect a twenty percent sequential growth rate, demonstrating continuous high-velocity capital deployment from global enterprises.",
+        "This exceptional performance underscores the global reliance on specialized graphics hardware to run complex generative training systems.",
+        "Analysts predict sustained infrastructure capital expenditures as sovereign states build out independent localized supercomputing data center clusters."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Source: nvidianews.nvidia.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
+}
 };
