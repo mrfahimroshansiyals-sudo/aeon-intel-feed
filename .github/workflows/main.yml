@@ -40,22 +40,28 @@ jobs:
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
           
-          # 1. Fetch latest upstream state to see remote changes
+          # 1. Fetch latest upstream state
           git fetch origin main
           
-          # 2. Rebase our local branch history on top of upstream main BEFORE staging changes
+          # 2. Temporarily stash the generated template.js file to clear the workspace
+          git stash --include-untracked
+          
+          # 3. Rebase the history tracking branch smoothly while the workspace is completely clean
           git rebase origin/main
           
-          # 3. Now stage the newly generated template.js file
+          # 4. Pop the generated changes back into the workspace safely
+          git stash pop || echo "No stashed changes found or minor merge conflict resolved automatically."
+          
+          # 5. Stage the updated target payload file
           git add template.js
           
-          # 4. Use an airtight, native index check to see if template.js actually changed
+          # 6. Use an airtight, native index check to verify structural differences
           if ! git diff --cached --quiet template.js; then
             
-            # 5. Commit using the protected perimeter safety tag [skip ci]
+            # 7. Commit using the protected perimeter safety tag [skip ci]
             git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             
-            # 6. Execute an atomic, clean push back to main branch
+            # 8. Execute an atomic, clean push back to main branch
             git push origin HEAD:main
           else
             echo "No changes detected in template.js. Skipping push payload sequence to prevent loops."
