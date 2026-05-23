@@ -1,99 +1,80 @@
 import os
-import requests
 import time
-import datetime
-from bs4 import BeautifulSoup
+import random
+import re
+import requests
 from google import genai
+from google.genai import types
+import datetime
 
-# Determine the key based on the current UTC hour (00-23)
-current_hour = datetime.datetime.utcnow().strftime("%H")
-secret_name = f"GEMINI_KEY_{current_hour}"
-api_key = os.environ.get(secret_name)
-
-if not api_key:
-    # Fallback to the original key if the hourly key isn't found yet
-    api_key = os.environ.get("GEMINI_API_KEY")
-
-# Initialize the new SDK client
+# 1. AUTH & CONFIG
+# Fetches API key from GitHub Secrets
+api_key = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
-# A prioritized list of stable models
+# Models in priority order
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
 
-SOURCES = [
-    "https://www.bloomberg.com/technology", "https://www.reuters.com/technology",
-    "https://www.ft.com/technology", "https://www.dowjones.com/newswires",
-    "https://www.cnbc.com/technology", "https://venturebeat.com",
-    "https://www.aibusiness.com", "https://www.cio.com",
-    "https://www.infoworld.com", "https://www.techtarget.com",
-    "https://www.technologyreview.com", "https://spectrum.ieee.org",
-    "https://hai.stanford.edu", "https://dl.acm.org",
-    "https://nvidianews.nvidia.com", "https://www.tsmc.com/english/news_events",
-    "https://www.asml.com/en/news", "https://www.intel.com/content/www/us/en/newsroom",
-    "https://www.amd.com/en/corporate/newsroom", "https://aws.amazon.com/blogs/aws",
-    "https://cloud.google.com/blog", "https://azure.microsoft.com/en-us/blog",
-    "https://openai.com/research", "https://www.anthropic.com/news",
-    "https://deepmind.google/discover", "https://ai.meta.com/blog",
-    "https://mistral.ai/news", "https://www.gartner.com/en/newsroom",
-    "https://www.weforum.org/agenda/technology", "https://artificialintelligenceact.eu"
-]
+# 2. STEALTH ENGINE
+def get_stealth_headers():
+    """Rotates User-Agent to mimic different browsers/devices."""
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ]
+    return {
+        "User-Agent": random.choice(user_agents),
+        "Referer": "https://www.google.com/",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive"
+    }
 
-JSON_TEMPLATE = """
-{
-  "main": {"kicker": "AEON INTEL", "titleWhite": "REQUIRED", "titleBlue": "REQUIRED"},
-  "slides": [
-    {"id": 1, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 2, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 3, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 4, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 5, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 6, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []},
-    {"id": 7, "heading": "CAT: HEADLINE", "points": ["", "", "", ""], "imageUrl": "", "tags": []}
-  ]
-}
-"""
-
-def fetch_content():
-    all_text = ""
-    for url in SOURCES:
-        try:
-            response = requests.get(url, timeout=8)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            all_text += f"\nSOURCE: {url}\n" + soup.get_text()[:800]
-        except Exception: continue
-    return all_text
-
-def update_intel():
-    news_data = fetch_content()
-    system_instruction = "You are a JSON engine. Output ONLY valid JSON matching the template. No prose, no markdown, no conversational fillers."
-    prompt = f"Analyze this data and return the formatted JSON: {news_data}"
+def fetch_and_clean():
+    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
+    with open("prompt.txt", "r", encoding="utf-8") as f:
+        prompt_content = f.read()
     
-    success = False
-    for model_name in MODEL_PRIORITY:
+    urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
+    scraped_text = ""
+    
+    for url in urls:
         try:
-            print(f"Attempting model: {model_name} with key {secret_name}")
+            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
+            time.sleep(random.uniform(5.0, 15.0))
+            response = requests.get(url, headers=get_stealth_headers(), timeout=20)
+            
+            if response.status_code == 200:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.content, 'html.parser')
+                # Remove non-content junk
+                for element in soup(["script", "style", "nav", "footer", "iframe"]):
+                    element.extract()
+                text = soup.get_text(separator=' ', strip=True)[:1000]
+                scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
+        except Exception:
+            continue # Fail silently to keep the pipeline moving
+    return prompt_content, scraped_text
+
+# 3. PIPELINE EXECUTION
+def main():
+    prompt_base, data = fetch_and_clean()
+    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
+    
+    for model in MODEL_PRIORITY:
+        try:
             response = client.models.generate_content(
-                model=model_name,
-                contents=prompt,
-                config={
-                    "response_mime_type": "application/json",
-                    "system_instruction": system_instruction
-                }
+                model=model,
+                contents=final_input,
+                config=types.GenerateContentConfig(response_mime_type="application/json")
             )
-            
-            with open("template.js", "w") as f:
+            # Ensure file is saved clean
+            with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {response.text}")
-            
-            print(f"Success with {model_name}")
-            success = True
-            break
-        except Exception as e:
-            print(f"Model {model_name} failed: {e}")
-            if "429" in str(e): time.sleep(30)
-    
-    if not success:
-        print("All models failed.")
-        exit(1)
+            return # Success
+        except Exception:
+            time.sleep(10) # Back-off if model rate-limits
+            continue
 
 if __name__ == "__main__":
-    update_intel()
+    main()
