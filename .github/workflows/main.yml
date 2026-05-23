@@ -30,11 +30,11 @@ jobs:
         run: |
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
-          # Only proceed if template.js has actually changed
+          # Only commit if template.js has actually changed
           if [[ -n $(git status -s template.js) ]]; then
             git add template.js
             git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC')"
             git push
           else
-            echo "No changes detected in template.js. Skipping push."
+            echo "No changes detected. Skipping push to avoid deployment loop."
           fi
