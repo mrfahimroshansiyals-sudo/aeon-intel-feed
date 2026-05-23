@@ -63,6 +63,86 @@ jobs:
             
             # 8. Force explicit token authentication directly into the remote push target
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+            
+            # 9. Set tracking variable for email phase
+            echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
             echo "No changes detected in template.js. Skipping push payload sequence to prevent loops."
+            echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
+
+      - name: Dispatch Reconfirmation Email Notification
+        if: env.PUSH_SUCCESS == 'true'
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USERNAME }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASSWORD }}
+        run: |
+          python - << 'EOF'
+          import os
+          import re
+          import smtplib
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+
+          try:
+              # Read the freshly pushed template.js file
+              with open('template.js', 'r', encoding='utf-8') as f:
+                  content = f.read()
+
+              # Safely extract titleWhite and titleBlue strings via Regex targeting JSON keys
+              tw_match = re.search(r'"titleWhite"\s*:\s*"([^"]+)"', content)
+              tb_match = re.search(r'"titleBlue"\s*:\s*"([^"]+)"', content)
+
+              title_white = tw_match.group(1).strip() if tw_match else "AEON"
+              title_blue = tb_match.group(1).strip() if tb_match else "INTEL"
+              
+              # Construct the exact custom dynamic subject line requested
+              subject_line = f"{title_white} {title_blue}"
+              
+              recipient = "mr.fahim.roshan.siyals@gmail.com"
+              sender = os.environ.get('EMAIL_USER')
+              password = os.environ.get('EMAIL_PASS')
+
+              # Build the Email Container
+              msg = MIMEMultipart('alternative')
+              msg['Subject'] = subject_line
+              msg['From'] = f"Aeon Intel Core <{sender}>"
+              msg['To'] = recipient
+
+              # Minimalist, premium dark HTML notification body layout
+              html_body = f"""
+              <html>
+                <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
+                  <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
+                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ AEON INTEL SYSTEM DISPATCH</h2>
+                    <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
+                    <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
+                      <tr>
+                        <td style="padding: 6px 0; color: #8b949e; width: 120px;"><strong>Status:</strong></td>
+                        <td style="padding: 6px 0; color: #56d364;">UPDATED & DEPLOYED</td>
+                      </tr>
+                      <tr>
+                        <td style="padding: 6px 0; color: #8b949e;"><strong>Subject Context:</strong></td>
+                        <td style="padding: 6px 0; color: #ffffff;">{subject_line}</td>
+                      </tr>
+                    </table>
+                    <p style="font-size: 11px; color: #8b949e; border-top: 1px solid #30363d; padding-top: 15px; margin-bottom: 0;">
+                      This is an automated operational metric confirmation statement. Do not reply.
+                    </p>
+                  </div>
+                </body>
+              </html>
+              """
+              
+              msg.attach(MIMEText(html_body, 'html'))
+
+              # Connect to Gmail SMTP Gateway Securely
+              server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+              server.login(sender, password)
+              server.sendmail(sender, [recipient], msg.as_string())
+              server.quit()
+              print(f"Success: Notification email sent to {recipient} with subject: {subject_line}")
+
+          except Exception as e:
+              print(f"Error executing email step: {str(e)}")
+          EOF
