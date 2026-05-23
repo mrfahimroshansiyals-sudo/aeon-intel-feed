@@ -7,7 +7,7 @@ on:
       - 'template.js'  # Block the bot from triggering itself
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '14 * * * *'
 
 jobs:
   run-engine:
