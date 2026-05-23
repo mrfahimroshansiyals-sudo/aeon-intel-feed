@@ -1,121 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "Advanced AI Models, Agentic Architectures, and Enterprise",
-    "titleBlue": "Integration"
+    "titleWhite": "INTELLIGENT AGENTIC COMPUTE",
+    "titleBlue": "REVOLUTION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: FRONTIER MODEL GPT-5.5 RELEASED",
+      "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
       "points": [
-        "OpenAI announces the significant release of GPT-5.5, a next-generation product enhancing intelligence and performance.",
-        "This update delivers notable improvements in complex reasoning and factual accuracy for diverse enterprise applications.",
-        "GPT-5.5 expands architectural sovereignty, empowering developers with advanced capabilities for AI system innovation.",
-        "Expect accelerated industry adoption and new benchmarks in AI capability, driving competitive model development."
+        "OpenAI launches GPT-5.5, introducing next-generation multimodal processing and deep reasoning capabilities to the enterprise ecosystem.",
+        "The model optimizes inference efficiency, reducing execution latency by forty percent for complex API workflows.",
+        "This release forces competitor shifts, consolidating OpenAI control over advanced cognitive processing markets globally.",
+        "Enterprises will rapidly integrate these models to automate multi-step decision pipelines and core business systems."
       ],
-      "imageUrl": "https://openai.com/images/gpt5-5_release.png",
-      "tags": [
-        "Source: openai.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "OPENAI: CHATGPT IMAGES AND CODEX UPGRADE",
+      "heading": "AMD: INSTINCT MI350P PLATFORM",
       "points": [
-        "ChatGPT Images 2.0 enhances visual generation, while Codex integration boosts coding capabilities from anywhere.",
-        "Users now experience improved multi-modal interactions and more efficient, flexible software development workflows.",
-        "These advancements strengthen OpenAI's platform, offering versatile tools for creative and technical enterprise solutions.",
-        "This empowers a broader user base with advanced AI, setting new standards for accessible, intelligent tooling."
+        "AMD debuts Instinct MI350P PCIe GPUs alongside Multipath Reliable Connection networking to scale enterprise AI infrastructure.",
+        "The architecture optimizes data throughput, eliminating communication bottlenecks across distributed node clusters during training.",
+        "This hardware release challenges market dominance, offering alternatives for cost-effective enterprise AI model deployment.",
+        "Data centers will deploy these chips to enhance localized training speeds and secure raw computing sovereignty."
       ],
-      "imageUrl": "https://openai.com/images/chatgpt_images2-0.png",
-      "tags": [
-        "Source: openai.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "OPENAI: ADVANCED VOICE MODELS IN API",
+      "heading": "MICROSOFT: AZURE AGENTIC WORKFLOWS",
       "points": [
-        "OpenAI has launched new sophisticated voice intelligence models, now available through their robust API.",
-        "These models significantly improve natural language understanding and generation in voice applications.",
-        "The API integration fosters a sovereign architecture for developers building highly responsive conversational AI systems.",
-        "This innovation expands opportunities for dynamic voice-enabled products across various industry sectors globally."
+        "Microsoft deploys advanced agentic capabilities linking Azure and GitHub to unify developer operations and IT management.",
+        "This integration slashes development cycle times, accelerating containerized application delivery and monitoring pipelines.",
+        "By unifying developer tools, Microsoft strengthens its grip on end-to-end enterprise cloud and AI ecosystems.",
+        "Engineering teams will automate deployment loops, shifting human focus toward high-level software design and governance."
       ],
-      "imageUrl": "https://openai.com/images/voice_api_models.png",
-      "tags": [
-        "Source: openai.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "DEEPMIND: INTRODUCING GEMINI OMNI MULTIMODAL",
+      "heading": "MODULAR: MOJO 1.0 SYSTEM RELEASE",
       "points": [
-        "Google DeepMind unveils Gemini Omni, a cutting-edge multimodal AI model creating anything from video input.",
-        "Omni drastically expands creative potential and interactive capabilities across various digital content generation tasks.",
-        "This breakthrough positions Google DeepMind at the frontier of comprehensive, generative AI architecture development.",
-        "The model promises to redefine how enterprises approach content creation, design, and interactive AI experiences."
+        "Modular launches Mojo 1.0, combining Python convenience with Rust performance for low-level GPU programming.",
+        "The language provides precise memory control, accelerating raw mathematical execution speeds across machine learning pipelines.",
+        "This milestone challenges traditional Python dominance, establishing a new programming standard for high-performance computing tasks.",
+        "Developers will rewrite resource-heavy libraries to maximize performance efficiency on heterogeneous hardware architectures."
       ],
-      "imageUrl": "https://deepmind.google/static/images/gemini-omni.png",
-      "tags": [
-        "Source: deepmind.google",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "GOOGLE CLOUD: GEMINI ENTERPRISE AI PLATFORM",
+      "heading": "VERIZON: DBIR SECURITY THREATS",
       "points": [
-        "Google Cloud introduces Gemini Enterprise, a unified platform for AI agent development, orchestration, and governance.",
-        "This streamlines enterprise-level deployment, providing robust control and improved operational efficiency for AI agents.",
-        "The platform solidifies architecture sovereignty, enabling secure and compliant customized AI solutions within organizations.",
-        "Expect accelerated adoption of tailored AI agents, driving specific business outcomes and data-driven automation."
+        "The Verizon 2026 Data Breach Investigations Report reveals critical security threats arising from shadow AI tools.",
+        "Unregulated AI applications increase corporate data leakage risks, exposing sensitive proprietary assets to public networks.",
+        "This trend forces organizations to redesign security parameters, focusing on strict identity verification and data governance.",
+        "CISOs will implement aggressive zero-trust policies to monitor and restrict unauthorized generative AI model access."
       ],
-      "imageUrl": "https://cloud.google.com/static/images/gemini-enterprise-platform.png",
-      "tags": [
-        "Source: cloud.google.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "GOOGLE CLOUD: AI INFRASTRUCTURE SCALING",
+      "heading": "AWS: BLUE ORIGIN AGENTIC DEPLOYMENT",
       "points": [
-        "Google Cloud details advancements in AI infrastructure, specifically scaling for the burgeoning agentic era.",
-        "These upgrades ensure robust, high-performance foundations, supporting complex AI workloads and massive data processing.",
-        "Strategic infrastructure investments reinforce architectural sovereignty, crucial for enterprise-grade AI deployment at scale.",
-        "Anticipate enhanced reliability and cost-efficiency for organizations leveraging agentic AI systems on Google Cloud."
+        "Blue Origin integrates agentic artificial intelligence on Amazon Web Services to accelerate next-generation space exploration tasks.",
+        "The automated cloud architecture increases calculation velocity, optimizing critical orbital telemetry and resource scheduling processes.",
+        "This deployment demonstrates the feasibility of utilizing deep automated reasoning systems in high-risk operational environments.",
+        "Aerospace organizations will adopt cloud-based agentic workflows to safely automate remote spacecraft system operations."
       ],
-      "imageUrl": "https://cloud.google.com/static/images/ai-infrastructure-scaling.png",
-      "tags": [
-        "Source: cloud.google.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aws.amazon.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "MICROSOFT AZURE: NEW AGENTIC CAPABILITIES",
+      "heading": "PARTNERSHIP: MICROSOFT EY ALLIANCE",
       "points": [
-        "Microsoft Azure and GitHub unveil new agentic capabilities, integrating IT operations with developer workflows seamlessly.",
-        "This enhances automation, improves collaboration, and accelerates modernization of infrastructure, data, and applications.",
-        "Azure's strategic focus on agentic AI fosters a sovereign architecture for integrated, end-to-end development solutions.",
-        "This empowers developers and IT teams to build, deploy, and manage AI-driven applications with greater agility."
+        "Microsoft and EY partner to accelerate enterprise generative intelligence adoption across global corporate consulting services.",
+        "The alliance speeds digital transformation programs, saving clients thousands of hours in manual data analysis.",
+        "This consulting joint venture standardizes automated analytical workflows, reshaping professional services market competition dynamics.",
+        "Global enterprises will accelerate cloud migrations to utilize pre-built advisory agents inside compliance structures."
       ],
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/media/azure-agentic.png",
-      "tags": [
-        "Source: azure.microsoft.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
