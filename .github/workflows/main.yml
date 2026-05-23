@@ -1,11 +1,8 @@
 name: Hourly Intel Automation
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-engine:
@@ -33,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
-          # Sync with remote before pushing to avoid rejection errors
+          # Sync with remote first to prevent rebase/push conflicts
           git pull origin main --rebase
           # Only commit if template.js has actually changed
           if [[ -n $(git status -s template.js) ]]; then
