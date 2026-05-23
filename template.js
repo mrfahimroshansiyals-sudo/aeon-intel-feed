@@ -1,121 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-    "titleBlue": "EVOLUTION"
+    "titleWhite": "NEXT GENERATION FRONTIER",
+    "titleBlue": "INTELLIGENCE"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 MODEL LAUNCH",
+      "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
       "points": [
-        "OpenAI officially launches GPT-5.5 featuring enhanced reasoning, direct voice integration, and advanced multi-modal orchestration capabilities.",
-        "The model reduces API operational costs while doubling throughput speeds for production-grade agentic workflows.",
-        "This release escalates the foundational model wars as enterprise demands shift toward self-executing autonomous agents.",
-        "Organizations will rapidly transition legacy automation frameworks to native voice-and-image reasoning pipelines over coming weeks."
+        "OpenAI has launched its new GPT-5.5 frontier model focusing on advanced reasoning and developer integration.",
+        "The release dramatically reduces computational overhead while doubling processing efficiency for complex multi-agent orchestration tasks.",
+        "This model intensifies the frontier intelligence race, directly challenging Anthropic's enterprise workspace domination and positioning.",
+        "Developers can immediately access GPT-5.5 via the API, signaling rapid commercial agentic workflow deployments globally."
       ],
-      "imageUrl": "https://openai.com/assets/gpt55-launch.jpg",
-      "tags": [
-        "Source: openai.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "STANFORD HAI: SCALING LAW BREAKTHROUGH",
+      "heading": "STANFORD HAI: SCALING LAWS RE-MODEL",
       "points": [
-        "Stanford HAI researchers pioneer a novel training method challenging traditional compute-optimal scaling law paradigms.",
-        "The architecture slashes training compute requirements by forty percent while maintaining high downstream accuracy benchmarks.",
-        "This math breakthrough democratizes frontier-grade model development for smaller organizations lacking hyperscaler-level capital.",
-        "Next-generation model architectures will likely pivot to this resource-efficient training methodology within the fiscal year."
+        "Stanford HAI researchers introduced a novel approach to scaling laws that transforms model training methodology.",
+        "This mathematics-driven training paradigm decreases active compute requirements during foundational model pre-training steps by thirty percent.",
+        "The discovery challenges established compute-optimal scaling theories, redefining physical resource planning for next-generation frontier labs.",
+        "Expect immediate implementation of these hybrid scaling metrics across major commercial enterprise cloud pre-training suites."
       ],
-      "imageUrl": "https://hai.stanford.edu/assets/scaling-laws.jpg",
-      "tags": [
-        "Source: hai.stanford.edu",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "MODULAR: MOJO 1.0 SYSTEMS LANGUAGE",
+      "heading": "MICROSOFT: ENTERPRISE AI EXPANSION",
       "points": [
-        "Modular releases Mojo 1.0, combining Pythonic usability with strict systems-level memory controls and GPU programmability.",
-        "Developers gain native access to hardware accelerators, boosting model inference compilation speeds by several orders.",
-        "Mojo directly challenges CUDA exclusivity by streamlining lower-level AI kernel development for heterogeneous computing clusters.",
-        "Enterprise engineering teams will increasingly rewrite high-throughput inference pipelines in Mojo to optimize hardware utilization."
+        "Microsoft partnered with EY to accelerate enterprise artificial intelligence adoption and model deployment workflows worldwide.",
+        "The strategic alliance scales production-ready agentic architectures to thousands of global consulting clients within months.",
+        "This consolidation aims to block independent enterprise integrations by solidifying Microsoft's proprietary cloud ecosystem dominance.",
+        "Expect rapid operational shifts as global organizations transition from experimental sandboxes to fully managed agentic pipelines."
       ],
-      "imageUrl": "https://infoworld.com/assets/mojo-launch.jpg",
-      "tags": [
-        "Source: infoworld.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "MICROSOFT: EY ENTERPRISE ADOPTION DEAL",
+      "heading": "GOOGLE: REAL-TIME ADS CONVERSATION",
       "points": [
-        "Microsoft partners with EY to accelerate enterprise-wide adoption of generative agents across global audit and advisory.",
-        "This deployment scales standardized agentic architectures to hundreds of thousands of corporate consulting professionals globally.",
-        "The alliance cements Azure's dominance in secure, compliance-ready cloud infrastructure designed specifically for financial services.",
-        "Competitors must quickly establish similar systemic integrator partnerships to maintain market share in legacy sectors."
+        "Google integrated AI Mode into its advertising system to allow real-time conversational business discovery processes.",
+        "Early metrics demonstrate a significant increase in high-quality lead generation and improved digital consumer conversion rates.",
+        "The system leverages real-time dialogue pipelines, transforming static online ad formats into interactive transactional agents.",
+        "Advertisers must immediately optimize data architectures to handle high volumes of automated natural language customer inquiries."
       ],
-      "imageUrl": "https://azure.microsoft.com/assets/ey-partnership.jpg",
-      "tags": [
-        "Source: aibusiness.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "GOOGLE CLOUD: WIZ SECURITY INTEGRATION",
+      "heading": "VERIZON: SHADOW AI SECURITY ANALYSIS",
       "points": [
-        "Google Cloud integrates with Wiz to secure cloud-scale agentic pipelines and mitigate runtime vulnerability exposures.",
-        "Security teams obtain real-time visibility into pipeline data flows, reducing misconfiguration risks by up to eighty percent.",
-        "This partnership addresses escalating enterprise anxieties regarding shadow AI deployments and unauthorized training data extractions.",
-        "Zero-trust architectures will become mandatory baselines for all sovereign cloud deployments processing sensitive financial data."
+        "The Verizon DBIR report identified severe enterprise security threats emerging from unmonitored shadow AI deployments.",
+        "Corporate networks face unprecedented data exfiltration risks as employees integrate sensitive assets into unregulated public models.",
+        "The findings force chief information security officers to transition from basic boundary security to strict zero-trust architectures.",
+        "Organizations will likely deploy automated compliance gateways to monitor and sanitize outbound artificial intelligence API calls."
       ],
-      "imageUrl": "https://cloud.google.com/assets/wiz-integration.jpg",
-      "tags": [
-        "Source: cloud.google.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "AMD: INSTINCT MI350P GPU DEPLOYMENT",
+      "heading": "ANGULAR: SIGNAL DRIVEN FRAMEWORKS",
       "points": [
-        "AMD deploys its Instinct MI350P PCIe accelerators featuring advanced Multipath Reliable Connection networking technologies.",
-        "The hardware configuration resolves critical networking bottlenecks, optimizing overall throughput across large distributed cluster configurations.",
-        "Offering PCIe compatibility allows enterprises to run frontier-scale reasoning workloads directly within pre-existing data center racks.",
-        "Enterprise buyers will leverage AMD hardware to diversify supply chains and mitigate reliance on proprietary accelerator platforms."
+        "Angular introduced Signal Forms to transition modern web development from traditional pipelines to signal-driven state management.",
+        "Developers benefit from simplified data binding, reduced memory overhead, and highly optimized UI rendering cycles.",
+        "This architectural change signals a broader industry transition toward reactive, fine-grained state patterns across complex applications.",
+        "Enterprise engineering teams should refit core UI frameworks to native signals to maintain platform scale and performance."
       ],
-      "imageUrl": "https://amd.com/assets/mi350p-gpu.jpg",
-      "tags": [
-        "Source: amd.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "SAP: ERP DATA SECURITY EXPOSURE",
+      "heading": "ASML: NEW LITHOGRAPHY CTO APPOINTMENT",
       "points": [
-        "SAP encounters critical data integration challenges as clients bypass native channels for third-party AI integrations.",
-        "The shift risks exposing highly sensitive enterprise resource planning databases to unauthorized external vector processing.",
-        "Customers demand healthier partner ecosystems to safely extract business intelligence without compromising core legacy systems integrity.",
-        "Enterprise software giants must launch secure, isolated data-access APIs to prevent clients from building risky custom workarounds."
+        "ASML appointed Marco Pieters as its new Chief Technology Officer to guide advanced nanometer lithography development.",
+        "Under his direction, the company will accelerate computational lithography systems to meet intense AI hardware demands.",
+        "This leadership transition is vital as chipmakers push silicon structures toward atomic boundaries to fuel next-gen model training.",
+        "Expect rapid hardware optimization updates that directly enhance production efficiency for sovereign enterprise foundry partners globally."
       ],
-      "imageUrl": "https://techtarget.com/assets/sap-erp-security.jpg",
-      "tags": [
-        "Source: techtarget.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: asml.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
