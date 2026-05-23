@@ -1,93 +1,121 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "NEXT-GEN AGENTIC SILICON",
-    "titleBlue": "SYSTEMS"
+    "titleWhite": "Global AI Advances: Agentic Models, Next-Gen Silicon, and Enterprise",
+    "titleBlue": "Adoption"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 ARCHITECTURE LAUNCH",
+      "heading": "GOOGLE CLOUD: ADVANCING AGENTIC AI INFRASTRUCTURE",
       "points": [
-        "OpenAI officially launched its next-generation GPT-5.5 model, introducing a massive breakthrough in frontier agentic capabilities.",
-        "The release dramatically reduces computational latency while enhancing native logical reasoning across complex, multi-step workflows.",
-        "This model intensifies the global frontier race, setting new architectural standards for enterprise-grade autonomous systems.",
-        "Competitors must now accelerate their model pipelines to match these upgraded multi-modal efficiency and reasoning metrics."
+        "Google Cloud is scaling its AI infrastructure, enabling the agentic era for robust application deployment.",
+        "New Gemini Enterprise platform streamlines agent development, orchestration, and comprehensive governance across systems.",
+        "This strengthens Google's position in enterprise AI, fostering complex multi-agent workflows and data actions.",
+        "Clients gain enhanced capabilities for AI-driven solutions, accelerating operational efficiencies and strategic decision-making."
       ],
-      "imageUrl": "https://openai.com/research",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: cloud.google.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 2,
-      "heading": "TSMC: A16 NANOSHEET POWER DELIVERY",
+      "heading": "TSMC: LEADERSHIP SILICON POWERS AI EXPANSION",
       "points": [
-        "TSMC unveiled its A16 nanosheet technology integrating the innovative Super Power Rail backside power solution.",
-        "The architecture maximizes power transmission efficiency and significantly boosts high-performance silicon performance for advanced AI workloads.",
-        "This hardware milestone addresses growing energy constraints in hyperscale data centers processing massive next-generation neural networks.",
-        "Silicon design firms will quickly adopt backside power configurations to secure competitive performance leaps in 2026."
+        "TSMC unveiled A14 with NanoFlex\u2122 Pro and A16\u2122 Nanosheet with Super Power Rail technologies for advanced HPC/AI.",
+        "These innovations ensure best-in-class backside power delivery, optimizing performance and energy efficiency for AI workloads.",
+        "This significantly advances AI hardware architecture, solidifying TSMC's critical role in global AI chip supply.",
+        "Future AI systems will leverage this foundational silicon, accelerating model training and inferencing capabilities worldwide."
       ],
-      "imageUrl": "https://www.tsmc.com/english/news_events",
-      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: tsmc.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 3,
-      "heading": "INFOWORLD: MOJO 1.0 SYSTEMS LANGUAGE",
+      "heading": "OPENAI: UNVEILS GPT-5.5 AND CHATGPT IMAGES 2.0",
       "points": [
-        "The milestone Mojo 1.0 release officially combines Pythonic developer syntax with powerful Rust-grade memory and GPU controls.",
-        "Engineers can now build highly optimized machine learning models directly without complex multi-language software compilation pipelines.",
-        "This unified language breaks down traditional bottlenecks separating rapid mathematical prototyping from high-performance production hardware deployment.",
-        "Adoption of Mojo 1.0 will likely commoditize hardware-level optimization, lowering entry barriers for sovereign AI development."
+        "OpenAI introduced GPT-5.5, a significant update enhancing model capabilities across various generative tasks.",
+        "Additionally, ChatGPT Images 2.0 offers advanced visual generation, integrating deeper multimodal interaction for users.",
+        "These releases elevate frontier AI performance, pushing boundaries in language and image understanding applications.",
+        "Users and developers can leverage these tools for more sophisticated content creation, expanding AI's practical utility."
       ],
-      "imageUrl": "https://www.infoworld.com",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 4,
-      "heading": "AMD: INSTINCT MI350P INTERCONNECT",
+      "heading": "AMD: STRENGTHENS AI INFRASTRUCTURE WITH MI350P",
       "points": [
-        "AMD announced the Instinct MI350P PCIe GPU series alongside Multipath Reliable Connection networking for cluster scaling.",
-        "These technologies prevent single-path network congestion, boosting overall data throughput across massive distributed computing clusters.",
-        "The introduction directly challenges current market dominance in high-bandwidth chip-to-chip connectivity and enterprise AI hardware deployments.",
-        "Enterprises will leverage these open-standard networking protocols to scale multi-node training infrastructures with lower operational overhead."
+        "AMD is advancing AI networking at scale with Multipath Reliable Connection (MRC) for robust data transfer.",
+        "The Instinct\u2122 MI350P PCIe\u00ae GPUs are now available, enabling enterprise AI deployment on existing infrastructure efficiently.",
+        "This changes the CPU/GPU equation, promoting synergistic processing for agentic AI workloads and scalable solutions.",
+        "Enterprises gain flexible, open-standard AI hardware options, enhancing strategic compute independence and performance."
       ],
-      "imageUrl": "https://www.amd.com/en/corporate/newsroom",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: amd.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 5,
-      "heading": "MICROSOFT: EY AGENTIC ENTERPRISE ADOPTION",
+      "heading": "GOOGLE DEEPMIND: RELEASES GEMINI OMNI AND 3.5",
       "points": [
-        "Microsoft and EY formed a strategic alliance to accelerate enterprise integration of advanced agentic workflow systems.",
-        "The partnership scales deployment velocities by utilizing pre-configured templates tailored for regulated industrial and financial environments.",
-        "This integration bridges the operational gap between theoretical AI assistant capabilities and practical, auditable enterprise automation.",
-        "Major consulting firms will replicate this framework to secure market share in rapidly expanding enterprise automation sectors."
+        "Google DeepMind introduced Gemini Omni, capable of creating content from diverse inputs, including video.",
+        "Gemini 3.5, the latest model series, combines frontier intelligence with enhanced action-oriented capabilities for users.",
+        "These breakthroughs signify DeepMind's commitment to multimodal AI and robust agent development.",
+        "New models empower advanced scientific discovery and collaborative research, fostering broader AI applications."
       ],
-      "imageUrl": "https://www.aibusiness.com",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: deepmind.google",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 6,
-      "heading": "STANFORD HAI: PARADIGM SCALING LAWS",
+      "heading": "MICROSOFT AZURE: NEW AGENTIC CAPABILITIES LAUNCH",
       "points": [
-        "Stanford HAI researchers revealed a novel approach to training scaling laws that optimizes neural network performance.",
-        "The methodology decreases resource requirements, enabling smaller labs to train competitive models with optimized parameter counts.",
-        "This academic breakthrough challenges the industry consensus that brute-force compute expansion is the only path forward.",
-        "Future foundation models will shift focus from raw dataset scale toward mathematically precise, highly customized training architectures."
+        "Microsoft introduced new agentic capabilities within Azure and GitHub, streamlining IT and developer workflows.",
+        "Azure Accelerate for Databases offers savings and expert support to modernize data for AI workloads.",
+        "These initiatives reinforce Azure's commitment to enterprise AI, fostering integrated development and data strategies.",
+        "Businesses can now more effectively leverage AI, simplifying complex deployments and accelerating data-driven insights."
       ],
-      "imageUrl": "https://hai.stanford.edu",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: azure.microsoft.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 7,
-      "heading": "DEEPMIND: GEMINI OMNI MULTIMODAL",
+      "heading": "ENTERPRISE AI: ADOPTION & SOVEREIGNTY CHALLENGES",
       "points": [
-        "Google DeepMind introduced Gemini Omni, a cutting-edge multimodal intelligence system capable of real-time video-to-anything translation.",
-        "Developers can deploy interactive visual agents that contextually interpret live video feeds and generate immediate structured responses.",
-        "This launch establishes a new frontier in native multi-sensory processing, bypassing disjointed multi-model pipelines for continuous streams.",
-        "Industries will rapidly integrate these capabilities to power spatial computing platforms, advanced robotics, and autonomous vehicle systems."
+        "SAP faces disruption from third-party AI apps, grappling with exposing ERP data for partner ecosystems.",
+        "The 2026 DBIR highlights \"shadow AI dangers\" and third-party risks as critical enterprise security trends.",
+        "This underscores the complex balance between AI innovation, data access, and sovereign cloud imperatives.",
+        "Organizations must navigate evolving AI landscapes carefully, ensuring data control and robust security protocols."
       ],
-      "imageUrl": "https://deepmind.google/discover",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://aeonintel.ai/images/default.jpg",
+      "tags": [
+        "Source: techtarget.com, infoworld.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
 };
