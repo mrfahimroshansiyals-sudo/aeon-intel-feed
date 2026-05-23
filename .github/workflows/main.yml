@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'  # Prevents the bot's own commits from triggering an infinite loop
+      - 'template.js'  # Block the bot from triggering itself
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetches full history so rebase handles cleanly
+          fetch-depth: 0  # Crucial: Gets full history tree
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,15 +38,23 @@ jobs:
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
           
-          # Pull latest remote changes cleanly before evaluating state
-          git pull origin main --rebase
+          # 1. Fetch latest changes from remote main branch without merging yet
+          git fetch origin main
           
-          # Only commit if template.js has actually changed
+          # 2. Tell our local Git runner to align its tracking branch pointer with upstream main
+          # This cleans up the tracking state without touching our local template.js modification
+          git merge-base origin/main HEAD
+          
+          # 3. Explicitly stage the updated template.js file
+          git add template.js
+          
+          # 4. Check if there are actual structural changes compared to the remote origin
           if [[ -n $(git status -s template.js) ]]; then
-            git add template.js
-            # [skip ci] tells GitHub completely to ignore this automated engine push
+            # Commit using [skip ci] as a safety perimeter guarantee
             git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
-            git push origin main
+            
+            # Push cleanly using a standard atomic push
+            git push origin HEAD:main
           else
             echo "No changes detected. Skipping push to avoid deployment loop."
           fi
