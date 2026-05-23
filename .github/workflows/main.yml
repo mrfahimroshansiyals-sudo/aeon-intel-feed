@@ -40,17 +40,17 @@ jobs:
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
           
-          # 1. Fetch latest upstream state to prevent tree divergence
+          # 1. Fetch latest upstream state to see remote changes
           git fetch origin main
           
-          # 2. Stage the modified data payload file
+          # 2. Rebase our local branch history on top of upstream main BEFORE staging changes
+          git rebase origin/main
+          
+          # 3. Now stage the newly generated template.js file
           git add template.js
           
-          # 3. Use an airtight, native index check to see if template.js actually changed
+          # 4. Use an airtight, native index check to see if template.js actually changed
           if ! git diff --cached --quiet template.js; then
-            
-            # 4. Safely rebase any minor upstream history adjustments over our local state modification
-            git rebase origin/main
             
             # 5. Commit using the protected perimeter safety tag [skip ci]
             git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
