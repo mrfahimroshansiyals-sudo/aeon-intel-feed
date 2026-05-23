@@ -36,8 +36,6 @@ jobs:
         run: python generate_intel.py
 
       - name: Commit and Push Changes
-        env:
-          HF_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
@@ -48,8 +46,8 @@ jobs:
           # 2. Temporarily stash the generated template.js file to clear the workspace
           git stash --include-untracked
           
-          # 3. Rebase the history tracking branch smoothly while the workspace is completely clean
-          git rebase origin/main
+          # 3. Rebase tracking branch smoothly with a fail-safe resolution strategy if histories drift
+          git rebase -X theirs origin/main
           
           # 4. Pop the generated changes back into the workspace safely
           git stash pop || echo "No stashed changes found or minor merge conflict resolved automatically."
