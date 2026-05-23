@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'template.js'  # Prevents the bot's own commits from triggering an infinite loop
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
@@ -15,6 +17,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetches full history so rebase handles cleanly
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,22 +38,14 @@ jobs:
           git config --global user.name "Aeon-Intel-Bot"
           git config --global user.email "bot@aeon.intel"
           
-          # Stage the generated file
-          git add template.js
-          
-          # Stash changes to clear the workspace for pulling
-          git stash
-          
-          # Sync with remote before pushing to avoid rejection errors
+          # Pull latest remote changes cleanly before evaluating state
           git pull origin main --rebase
           
-          # Restore the generated file
-          git stash pop
-          
-          # Re-stage template.js explicitly after popping from stash to move it from modified to staged state
+          # Only commit if template.js has actually changed
           if [[ -n $(git status -s template.js) ]]; then
             git add template.js
-            git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC')"
+            # [skip ci] tells GitHub completely to ignore this automated engine push
+            git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             git push origin main
           else
             echo "No changes detected. Skipping push to avoid deployment loop."
