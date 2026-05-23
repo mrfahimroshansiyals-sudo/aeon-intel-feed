@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "GLOBAL SEMICONDUCTOR AND AGENTIC",
-    "titleBlue": "ACCELERATION"
+    "titleWhite": "ADVANCED ENTERPRISE COGNITIVE",
+    "titleBlue": "INFRASTRUCTURE"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "TSMC: A16 NANOSHEET ARCHITECTURE",
+      "heading": "OPENAI: GPT-5.5 SYSTEM DEPLOYMENT",
       "points": [
-        "TSMC has formally introduced A16 Nanosheet technology utilizing Super Power Rail for high-performance computing and AI.",
-        "The architecture delivers improved power efficiency and thermal density for next-generation large language model processing hardware.",
-        "This integration positions the firm to maintain leadership in logic manufacturing while reducing power-related performance bottlenecks.",
-        "Systemic impact involves immediate adoption by Tier 1 GPU designers to maximize training speed and power."
+        "OpenAI has officially launched its highly anticipated GPT-5.5 model, introducing advanced multi-modal reasoning and real-time processing capabilities.",
+        "The update significantly reduces latency and system orchestration costs, enabling enterprises to build highly scalable agentic workflows.",
+        "This release intensifies pressure on competitive closed-source models and redefines standard consumer-facing conversational AI architectures globally.",
+        "Organizations must prepare for immediate integration as the API ecosystem transitions to support these powerful next-generation capabilities."
       ],
-      "imageUrl": "https://www.tsmc.com/images/news.jpg",
-      "tags": ["Source: tsms.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 2,
-      "heading": "GOOGLE DEEPMIND: OMNI MODEL EXPANSION",
-      "points": [
-        "Google DeepMind has unveiled the Gemini Omni model series designed specifically for multi-modal video processing and interaction.",
-        "The models achieve significant breakthroughs in cross-domain data synthesis allowing for seamless reasoning across varying media types.",
-        "This shift enables developers to construct highly reactive agentic systems capable of real-time perception and complex execution.",
-        "Expect enterprise-grade integration of Gemini Omni into core productivity suites to redefine human-machine collaboration workflows."
-      ],
-      "imageUrl": "https://deepmind.google/images/omni.jpg",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 3,
-      "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
-      "points": [
-        "Anthropic has launched Claude Opus 4.7 featuring enhanced capabilities for autonomous coding and complex agentic reasoning tasks.",
-        "The model demonstrates increased accuracy in long-context maintenance which is critical for enterprise software development lifecycles.",
-        "Strategically this release counters competitive frontier model growth by offering superior professional-grade tool utilization and vision.",
-        "Stakeholders should prioritize migration to this model to realize immediate gains in automated repository management tasks."
-      ],
-      "imageUrl": "https://www.anthropic.com/images/opus.jpg",
-      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 4,
-      "heading": "AMD: AGENTIC CPU GPU SYNERGY",
-      "points": [
-        "AMD is promoting new agentic AI methodologies that optimize the distribution of workloads across CPU and GPU hardware.",
-        "The approach minimizes latency in large-scale model inference environments by utilizing Multipath Reliable Connection networking innovations.",
-        "This architecture allows for more flexible deployments within existing enterprise data centers without requiring immediate infrastructure overhauls.",
-        "Market participants can anticipate lower total cost of ownership for private AI clusters using hybrid hardware."
-      ],
-      "imageUrl": "https://www.amd.com/images/ai-advancement.jpg",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 5,
-      "heading": "OPENAI: GPT-5.5 RESEARCH DEPLOYMENT",
-      "points": [
-        "OpenAI has released GPT-5.5 to the developer platform focusing on significantly reduced latency and improved contextual awareness.",
-        "The model emphasizes stronger safety compliance and content provenance tracking for sensitive enterprise financial and healthcare applications.",
-        "Integration of Trusted Contact features aims to provide greater granular control over sensitive multi-agent conversational data streams.",
-        "Expect broader adoption of this model across high-stakes corporate environments due to enhanced reliability and safety."
-      ],
-      "imageUrl": "https://openai.com/images/gpt5.jpg",
+      "imageUrl": "https://openai.com/research",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
-      "id": 6,
-      "heading": "MISTRAL AI: PRIVATE DEPLOYMENT MODEL",
+      "id": 2,
+      "heading": "MICROSOFT: AZURE AGENTIC INTEGRATION",
       "points": [
-        "Mistral AI is scaling its self-contained private deployment infrastructure for edge and on-premises enterprise intelligence workloads.",
-        "The model architecture supports distillation and fine-tuning, giving organizations total sovereignty over proprietary data and training parameters.",
-        "This approach directly challenges centralized cloud-only AI solutions by emphasizing data privacy and regional sovereign compliance requirements.",
-        "Industries with strict regulatory constraints are projected to prioritize these open, adaptable model systems for security."
+        "Microsoft has launched new agentic capabilities linking Azure and GitHub to streamline complex IT and development workflows.",
+        "Engineers can now automate code deployment and architectural updates, cutting software delivery cycle times by over forty percent.",
+        "This tight integration positions Azure as the premier ecosystem for automated enterprise cloud management and continuous software delivery.",
+        "IT leaders will rapidly adopt these automated pipelines to offset modern developer shortages and accelerate legacy application modernization."
       ],
-      "imageUrl": "https://mistral.ai/images/private.jpg",
-      "tags": ["Source: mistral.ai", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://azure.microsoft.com",
+      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 3,
+      "heading": "AMD: ADVANCED AI NETWORKING SYSTEM",
+      "points": [
+        "AMD introduced the Instinct MI350P PCIe GPU alongside its new Multipath Reliable Connection networking protocol for scaling clusters.",
+        "The dual-pronged hardware release optimizes data movement between processing units, preventing common packet loss bottleneck scenarios during training.",
+        "By offering open-standard networking alternatives, AMD directly challenges proprietary interconnect technologies dominating modern supercomputing data centers.",
+        "Hyperscalers are expected to run comparative trials immediately to evaluate potential savings in large-scale model training efficiency."
+      ],
+      "imageUrl": "https://www.amd.com",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 4,
+      "heading": "TSMC: NEXT-GEN A16 SILICON",
+      "points": [
+        "Taiwan Semiconductor Manufacturing Company unveiled its revolutionary A16 nanosheet technology featuring an innovative Super Power Rail backside delivery.",
+        "This breakthrough dramatically improves power efficiency and transit speeds, optimizing high-performance silicon specifically for dense AI computing clusters.",
+        "TSMC solidifies its global foundry dominance, leaving competitors racing to match backside power delivery capabilities in upcoming manufacturing nodes.",
+        "Fabless chip designers will rush to reserve production capacity for next-generation hardware architectures scheduled for near-term fabrication."
+      ],
+      "imageUrl": "https://www.tsmc.com",
+      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 5,
+      "heading": "DEEPMIND: MULTIMODAL GEMINI OMNI",
+      "points": [
+        "Google DeepMind introduced Gemini Omni, a model capable of generating native video-to-video outputs without intermediate text translations.",
+        "The architecture streamlines multimodal asset generation, vastly reducing computing resources required for immersive content production environments.",
+        "This paradigm shift bypasses classical single-modality pipelines, accelerating the development of real-time interactive simulation engines.",
+        "Developers will leverage these omni-capable APIs to build richer, context-aware assistive agents across various consumer applications."
+      ],
+      "imageUrl": "https://deepmind.google",
+      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 6,
+      "heading": "MODULAR: MOJO 1.0 PRODUCTION READY",
+      "points": [
+        "The systems programming language Mojo has achieved its milestone 1.0 release, fusing Python syntax with Rust-like hardware control.",
+        "Developers gain precise memory management and native GPU programming support to build high-performance AI kernels without complex C++ rewrites.",
+        "The language bridges the gap between machine learning researchers and systems programmers, unifying fragmented development environments under one standard.",
+        "Enterprise engineering teams will start porting performance-critical pipelines to Mojo to maximize hardware utilization efficiency."
+      ],
+      "imageUrl": "https://www.infoworld.com",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "INFOWORLD: MOJO 1.0 ECOSYSTEM IMPACT",
+      "heading": "NVIDIA: FISCAL REVENUE SURGE",
       "points": [
-        "The Mojo 1.0 release introduces a systems programming language designed for seamless Python-like syntax and hardware acceleration.",
-        "This language provides precise control over memory and types which is essential for low-level GPU programming efficiency.",
-        "The developer ecosystem will likely shift towards this language for high-performance AI model implementation and optimizations.",
-        "Expect rapid adoption among research institutions and enterprise teams looking to bridge python usability with hardware."
+        "NVIDIA reported a record-breaking first quarter fiscal 2027 revenue of eighty-one billion dollars, demonstrating unparalleled hardware demand.",
+        "This financial milestone confirms massive, uninterrupted enterprise infrastructure spending on specialized graphic processing units for generative intelligence workloads.",
+        "Despite growing market competition, NVIDIA maintains a near-monopoly on hardware supply chains powering modern high-performance cloud data centers.",
+        "Market analysts expect continued valuation growth as global capital continues flowing into large-scale sovereign compute cluster deployments."
       ],
-      "imageUrl": "https://www.infoworld.com/images/mojo.jpg",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://nvidianews.nvidia.com",
+      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
