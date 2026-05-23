@@ -4,10 +4,13 @@
  */
 
 window.onload = async () => {
-    // FORCE CACHE-BUST: Load the template.js with a timestamp to prevent stale data
+    // FORCE CACHE-BUST: Load the template.js dynamically
     const script = document.createElement('script');
     script.src = 'template.js?t=' + Date.now();
+    
     script.onload = async () => {
+        console.log("Template loaded successfully.");
+        
         // Force fix the background image compatibility
         await fixBackgroundCORS();
 
@@ -25,6 +28,11 @@ window.onload = async () => {
             };
         }
     };
+    
+    script.onerror = () => {
+        console.error("Failed to load template.js. Check file path.");
+    };
+    
     document.head.appendChild(script);
 };
 
