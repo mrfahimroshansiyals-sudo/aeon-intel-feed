@@ -1,94 +1,121 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "AUTONOMOUS INFRASTRUCTURE AND SYSTEMIC",
-    "titleBlue": "EVOLUTION"
+    "titleWhite": "NEXT GEN SYSTEMS AND",
+    "titleBlue": "INTELLIGENCE"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "MICROSOFT: AGENTIC WORKFLOW INTEGRATION",
+      "heading": "DEEPMIND: GEMINI OMNI RELEASE",
       "points": [
-        "Microsoft Azure launches unified agentic capabilities connecting IT operations and developers directly inside GitHub.",
-        "Automated workflows reduce software deployment cycles and optimize real-time resource allocation across cloud instances.",
-        "This integration shifts the cloud paradigm from passive host infrastructure to autonomous, self-remediating development environments.",
-        "Enterprise buyers will increasingly consolidate DevOps tools, prompting rival platforms to launch similar agentic integrations."
+        "Google DeepMind launched Gemini Omni to enable native, zero-latency multimodal generation from raw video inputs.",
+        "Developers can instantly deploy agentic workflows that process complex visual and auditory environments simultaneously.",
+        "This release challenges traditional single-modality pipelines by merging advanced sensory processing directly into the core network architecture.",
+        "Future iterations will likely integrate physical robotics control interfaces to automate complex real-world operations seamlessly."
       ],
-      "imageUrl": "https://azure.microsoft.com",
-      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://deepmind.google/static/images/omni.png",
+      "tags": [
+        "Source: deepmind.google",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 2,
-      "heading": "AMD: INSTINCT MI350P ARCHITECTURE",
+      "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
       "points": [
-        "AMD releases Instinct MI350P PCIe GPUs integrated with Multipath Reliable Connection networking for high-scale enterprise operations.",
-        "Data centers achieve higher cluster reliability and throughput, bypassing traditional single-path networking bottleneck limitations.",
-        "This hardware launch directly challenges dominant proprietary architectures by leveraging open-standard ethernet fabric solutions.",
-        "System architects will rapidly transition legacy enterprise systems to hybrid configurations utilizing these alternative accelerators."
+        "Anthropic announced Claude Opus 4.7, optimizing agentic execution, professional coding, and visual reasoning capabilities.",
+        "Enterprise developers experience improved autonomous software engineering cycles and rapid visual document processing speeds.",
+        "This development intensifies competition among frontier model creators focusing on reliable, multi-step autonomous agent architectures.",
+        "Organizations will increasingly deploy these models to automate highly technical, multi-layered corporate workflows without human intervention."
       ],
-      "imageUrl": "https://www.amd.com",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.anthropic.com/static/images/opus.png",
+      "tags": [
+        "Source: anthropic.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 3,
-      "heading": "NVIDIA: RECORD INFRASTRUCTURE DEMAND",
+      "heading": "AMD: INSTINCT MI350P RELEASE",
       "points": [
-        "NVIDIA registers a record quarterly revenue of eighty-one point six billion dollars, driving global hardware supply chains.",
-        "Unprecedented capital flow enables massive production scaling of advanced Blackwell chips to meet backordered cloud orders.",
-        "This monumental financial growth highlights the persistent global prioritization of physical hardware infrastructure over software investments.",
-        "Competitors must accelerate their manufacturing pipelines as hyperscalers secure long-term capacity allocations to sustain momentum."
+        "AMD unveiled the Instinct MI350P PCIe GPU alongside Multipath Reliable Connection networking technology for enterprise scale.",
+        "Infrastructure teams can scale hardware nodes efficiently using existing PCIe slots while minimizing network bottlenecks.",
+        "This platform bridges the performance gap between monolithic clusters and standard enterprise server architectures.",
+        "Increased competition in enterprise GPU markets will drive hardware costs down and accelerate regional cloud deployments."
       ],
-      "imageUrl": "https://nvidianews.nvidia.com",
-      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.amd.com/static/images/mi350p.png",
+      "tags": [
+        "Source: amd.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 4,
-      "heading": "STANFORD HAI: WORKPLACE STUDIES LAB",
+      "heading": "ASML: NEW CTO APPOINTED",
       "points": [
-        "Stanford HAI establishes the AI and Organizations Lab to systematically analyze algorithmic impacts on enterprise labor dynamics.",
-        "Early data provides organizations with quantitative benchmarks to safely guide digital transformation and workforce reallocation strategies.",
-        "Rigorous academic oversight counters corporate hype cycles, injecting empirical analysis into complex human-machine collaboration systems.",
-        "Global regulators will leverage these academic findings to shape future compliance mandates and ethical workspace guidelines."
+        "ASML appointed Marco Pieters as Chief Technology Officer to drive next-generation computational lithography systems development.",
+        "The executive shift accelerates execution times for scaling transistor density down to sub-nanometer thresholds.",
+        "Keeping pace with global foundry demands requires immediate alignment between software modeling and physical lithography hardware.",
+        "This leadership transition will likely secure ASML's dominance in high-numerical aperture extreme ultraviolet equipment manufacturing."
       ],
-      "imageUrl": "https://hai.stanford.edu",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.asml.com/static/images/cto.png",
+      "tags": [
+        "Source: asml.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 5,
-      "heading": "SAP: ERP DATA ACCESSIBILITY",
+      "heading": "NVIDIA: RECORD FINANCIAL TRIUMPH",
       "points": [
-        "Enterprise leader SAP faces rising pressure to democratize its proprietary database architectures for external machine learning integration.",
-        "Customers threaten migration to alternative software suites if legacy platforms block third-party analytics tools from running.",
-        "This conflict represents a broader industry shift where access to structured data overrides historical application lock-in strategies.",
-        "Legacy providers must develop robust developer ecosystems or risk losing dominant market positions to open data platforms."
+        "NVIDIA reported unprecedented first-quarter fiscal 2027 revenue of eighty-one point six billion dollars, up twenty percent sequentially.",
+        "Record-breaking capital inflows allow immediate reinvestment into next-generation Blackwell and Rubin graphics processing architectures.",
+        "Massive enterprise demands for physical artificial intelligence compute clusters continue to fuel exponential semiconductor market expansion.",
+        "Extreme financial dominance positions NVIDIA as the primary gatekeeper of global hyperscale AI processing infrastructure."
       ],
-      "imageUrl": "https://www.techtarget.com",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://nvidianews.nvidia.com/static/images/earnings.png",
+      "tags": [
+        "Source: nvidianews.nvidia.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 6,
-      "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+      "heading": "STANFORD HAI: WORKPLACE AI LAB",
       "points": [
-        "Anthropic introduces Claude Opus four point seven, enhancing complex multi-step reasoning capabilities for automated developer environments.",
-        "Developers experience significant efficiency gains in automated code debugging, testing, and continuous delivery software pipelines.",
-        "The release elevates the competition among frontier models from simple conversational interfaces to fully autonomous agentic execution.",
-        "Engineering organizations will rapidly replace basic programming assistants with integrated agent frameworks to optimize development output."
+        "Stanford HAI launched the AI and Organizations Lab to analyze behavioral impacts of agentic systems.",
+        "Human resource executives gain access to empirical research regarding productivity gains and workplace structural reorganizations.",
+        "Rapid enterprise adoption of automated agents necessitates academic frameworks to measure cognitive offloading and efficiency.",
+        "Future workplace policies will rely heavily on these findings to design balanced human-in-the-loop operational strategies."
       ],
-      "imageUrl": "https://www.anthropic.com",
-      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://hai.stanford.edu/static/images/lab.png",
+      "tags": [
+        "Source: hai.stanford.edu",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 7,
-      "heading": "MODULAR: MOJO GPU COMPILATION",
+      "heading": "MODULAR: MOJO SYSTEM LAUNCH",
       "points": [
-        "Modular officially releases Mojo version one point zero, combining Pythonic simplicity with bare-metal hardware control optimizations.",
-        "Machine learning researchers compile high-performance GPU kernels directly, reducing reliance on complex C-plus-plus programming workflows.",
-        "This language bridges the historical software gap between high-level algorithm design and low-level hardware accelerator performance.",
-        "Developers will increasingly migrate performance-critical microservices away from pure Python to modern, systems-level compiled architectures."
+        "Modular officially launched Mojo 1.0, combining precise systems programming with highly intuitive Python-like syntax structures.",
+        "Machine learning engineers can write highly performant GPU kernels directly without switching to complex C++ codebases.",
+        "This milestone represents a major step toward unifying disparate scientific computing libraries under a single language.",
+        "Expect rapid community adoption of Mojo as developers seek to optimize model training operations at scale."
       ],
-      "imageUrl": "https://www.infoworld.com",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.infoworld.com/static/images/mojo.png",
+      "tags": [
+        "Source: infoworld.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
-}
 };
