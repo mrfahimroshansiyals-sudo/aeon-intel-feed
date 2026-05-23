@@ -70,7 +70,7 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            # --- UPDATED: Sanitization and strict validation ---
+            # --- UPDATED: Sanitization and strict }; closure ---
             # Remove any markdown artifacts
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
             
@@ -80,7 +80,7 @@ def main():
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # Strict Validation: Ensure it parses as JSON before writing to file
+            # --- VALIDATION: Ensure generated text is valid JSON ---
             json.loads(raw_text)
             
             # Save exactly as required for template.js
