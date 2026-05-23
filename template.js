@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "NEXT GENERATION AGENTIC",
+    "titleWhite": "AGENTIC FRONTIER COMPUTING",
     "titleBlue": "DEPLOYMENT"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 ENGINE LAUNCH",
+      "heading": "OPENAI: GPT-5.5 RELEASE",
       "points": [
-        "OpenAI officially launches GPT-5.5, introducing advanced cognitive intelligence and native multi-modal execution capabilities.",
-        "The update reduces response latency by forty percent, significantly lowering API operational expenses for enterprises.",
-        "This release intensifies pressure on open-source competitors, establishing new benchmarks for frontier artificial intelligence models.",
-        "Enterprises must accelerate system integration to capitalize on enhanced agentic performance and expanded context windows."
+        "OpenAI officially launched its new GPT-5.5 model to deliver powerful agentic processing capabilities across industries.",
+        "Enterprises can now execute complex reasoning workflows with significantly reduced API latency and lower operational costs.",
+        "The release accelerates the global shift toward autonomous AI systems capable of handling long-horizon engineering tasks.",
+        "Organizations will rapidly integrate these sovereign models to automate deep analytical pipelines and internal customer operations."
       ],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "NVIDIA: Q1 RECORD REVENUE",
+      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
       "points": [
-        "NVIDIA reports record Q1 revenue of eighty-one billion dollars, driven by continuous global AI infrastructure demand.",
-        "Chip shipment acceleration increases enterprise GPU availability, optimizing operational deployment timelines for large-scale data centers.",
-        "Massive financial performance cements NVIDIA dominance, reinforcing absolute hardware control over the international tech market.",
-        "Continued growth indicates sustained semiconductor capital expenditure, indicating prolonged global demand for high-performance computing systems."
+        "Anthropic deployed Claude Opus 4.7 to provide enhanced capabilities in complex coding and agentic vision.",
+        "This upgrade dramatically improves performance in autonomous workspace automation and multi-layered scientific research workflows.",
+        "The model establishes a new benchmark for safety and alignment in critical national security and software applications.",
+        "Developers will utilize these advanced vision capabilities to construct self-healing codebase architectures across enterprise networks."
       ],
-      "imageUrl": "",
-      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "MICROSOFT: AZURE AGENTIC INTEGRATION",
+      "heading": "DEEPMIND: GEMINI OMNI SYSTEM",
       "points": [
-        "Microsoft introduces agentic capabilities within Azure and GitHub, bridging the operational gap between developers and IT.",
-        "Automated cross-platform workflows reduce manual task engineering, increasing organizational software deployment velocity by fifty percent.",
-        "The integration solidifies Azure dominance in developer tools, countering competitive threats from standalone dev-agent startups.",
-        "Engineering teams will shift toward high-level system orchestrations, altering legacy software maintenance frameworks entirely."
+        "Google DeepMind unveiled Gemini Omni to enable real-time generation and translation across native video and audio streams.",
+        "Organizations can build unified multimodal interfaces that instantly process spatial environments and complex human inputs.",
+        "This system marks a shift from separate text-to-speech pipelines toward fully unified end-to-end neural processing.",
+        "Next-generation application development will depend on these real-time video architectures to run complex edge intelligence features."
       ],
-      "imageUrl": "",
-      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 4,
-      "heading": "AMD: INSTINCT GPU NETWORKING",
-      "points": [
-        "AMD releases Instinct MI350P PCIe GPUs featuring Multipath Reliable Connection technology for scalable artificial intelligence networking.",
-        "Implementing multi-path reliable connections prevents data packet bottlenecks, boosting multi-GPU communication efficiency across cluster nodes.",
-        "Offering high-performance PCIe options challenges NVIDIA proprietary networking dominance and expands competitive market choices for developers.",
-        "Enterprises can easily scale legacy server environments, avoiding total architecture overhauls through compatible PCIe accelerator integrations."
-      ],
-      "imageUrl": "",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 5,
-      "heading": "GOOGLE DEEPMIND: OMNI ENGINE",
-      "points": [
-        "Google DeepMind introduces Gemini Omni, enabling direct video-to-output generation and multi-modal native processing in real-time.",
-        "Real-time native video capabilities reduce sensory processing steps, improving consumer interface response times for advanced applications.",
-        "This update sets a new industry benchmark for direct perceptual modeling, bypassing fragmented multi-stage AI pipelines.",
-        "Developers will construct highly interactive video-native applications, redefining real-world robotic environments and personal computer interfaces."
-      ],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0",
       "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
-      "id": 6,
-      "heading": "SAP: ERP DATA INTEGRATION",
+      "id": 4,
+      "heading": "STANFORD: SCALING LAW REFORM",
       "points": [
-        "SAP navigates system disruption as enterprise clients demand open access to ERP database records for AI.",
-        "Unlocking proprietary databases exposes operational vulnerabilities, requiring rapid development of safe, standardized data sharing interfaces.",
-        "Competitive pressure forces traditional software giants to democratize data assets, risking client loss to agile custom platforms.",
-        "Enterprises must balance security compliance and AI utility, restructuring access controls for downstream natural language models."
+        "Stanford researchers introduced a novel approach to scaling laws that completely transforms neural network training efficiency.",
+        "The framework optimizes model performance while decreasing overall computing resources and electrical consumption during training phases.",
+        "This paradigm shift challenges traditional assumptions regarding the relationship between dataset volume and compute budgets.",
+        "AI research facilities will adopt these refined principles to develop higher-performing models at a fraction of standard costs."
       ],
-      "imageUrl": "",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 5,
+      "heading": "AMD: INSTINCT MI350P GPU",
+      "points": [
+        "AMD launched the Instinct MI350P GPU family featuring advanced Multipath Reliable Connection networking technologies.",
+        "The hardware enables enterprises to deploy enterprise-grade AI infrastructure directly onto their pre-existing data center configurations.",
+        "Multipath Reliable Connection addresses critical single-path networking bottlenecks that typically degrade performance in massive computing clusters.",
+        "Scale-out AI data centers will transition to this open architecture to optimize inter-GPU communications during training."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 6,
+      "heading": "MICROSOFT: AZURE AGENT ORCHESTRATION",
+      "points": [
+        "Microsoft integrated advanced agentic capabilities into Azure and GitHub to streamline workflows for IT professionals and developers.",
+        "Teams can automate code deployment and infrastructure provisioning within a singular secure cloud computing environment.",
+        "The integration unifies siloed systems of record and action into an automated AI-driven software development lifecycle.",
+        "Enterprise engineering groups will experience heightened development velocities as manual deployment tasks are completely offloaded to agents."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "DOW JONES: GLOBAL TECH TSUNAMI",
+      "heading": "ASML: LITHOGRAPHY COMPUTATION",
       "points": [
-        "Prominent venture capitalist John Doerr designates current artificial intelligence evolution as the largest tech tsunami in history.",
-        "Capital allocation patterns shift violently toward primary computing layers, accelerating infrastructure investments and regional data facility growth.",
-        "High-profile venture endorsements confirm long-term secular market expansion, disregarding immediate retail stock fluctuations or market bubbles.",
-        "Investors should prepare for systemic economic restructuring, prioritizing baseline physical power supplies and high-capacity network fabrics."
+        "ASML upgraded its computational lithography solutions to push microchip patterning technologies down to new sub-nanometer limits.",
+        "Chipmakers can now mass-produce faster and more energy-efficient microchips using existing extreme ultraviolet lithography systems.",
+        "The development represents a vital breakthrough in sustaining semiconductor scaling trends amidst physical manufacturing limitations.",
+        "Leading global foundries will integrate these software optimizations to maintain competitive edge in advanced node production."
       ],
-      "imageUrl": "",
-      "tags": ["Source: dowjones.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+      "tags": ["Source: asml.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
