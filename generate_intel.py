@@ -3,6 +3,7 @@ import time
 import random
 import re
 import requests
+import json
 from google import genai
 from google.genai import types
 import datetime
@@ -69,7 +70,7 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            # --- UPDATED: Sanitization and strict }; closure ---
+            # --- UPDATED: Sanitization and strict validation ---
             # Remove any markdown artifacts
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
             
@@ -79,13 +80,16 @@ def main():
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
+            # Strict Validation: Ensure it parses as JSON before writing to file
+            json.loads(raw_text)
+            
             # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {raw_text};")
                 
             return # Success
         except Exception:
-            time.sleep(10) # Back-off if model rate-limits
+            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
             continue
 
 if __name__ == "__main__":
