@@ -41,7 +41,16 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     
-    <script src="template.js"></script>
+    <script>
+      (function() {
+        const cacheBuster = new Date().getTime();
+        const script = document.createElement('script');
+        script.src = `template.js?v=${cacheBuster}`;
+        script.async = false; // Guarantees execution completes sequentially before engine.js processes it
+        document.body.appendChild(script);
+      })();
+    </script>
+
     <script src="engine.js"></script>
 </body>
 </html>
