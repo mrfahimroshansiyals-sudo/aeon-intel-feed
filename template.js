@@ -1,121 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "AUTOMATED FRONTIER COGNITION",
-    "titleBlue": "CORE"
+    "titleWhite": "GLOBAL SEMICONDUCTOR AND AGENTIC",
+    "titleBlue": "ACCELERATION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
+      "heading": "TSMC: A16 NANOSHEET ARCHITECTURE",
       "points": [
-        "OpenAI officially launches GPT-5.5, a highly advanced frontier AI model optimizing orchestration and reasoning workflows.",
-        "Developers experience immediate latency reductions and improved computational efficiencies across large-scale enterprise deployments.",
-        "This deployment establishes a new technical baseline, intensifying the ongoing global frontier model race.",
-        "Future iterations will integrate deeper multimodal operations, accelerating agentic automation systems worldwide."
+        "TSMC has formally introduced A16 Nanosheet technology utilizing Super Power Rail for high-performance computing and AI.",
+        "The architecture delivers improved power efficiency and thermal density for next-generation large language model processing hardware.",
+        "This integration positions the firm to maintain leadership in logic manufacturing while reducing power-related performance bottlenecks.",
+        "Systemic impact involves immediate adoption by Tier 1 GPU designers to maximize training speed and power."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: openai.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://www.tsmc.com/images/news.jpg",
+      "tags": ["Source: tsms.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "AMD: INSTINCT MI350P GPU NETWORK",
+      "heading": "GOOGLE DEEPMIND: OMNI MODEL EXPANSION",
       "points": [
-        "AMD introduces the Instinct MI350P PCIe GPUs utilizing Multipath Reliable Connection to optimize networking.",
-        "Enterprise datacenters gain massive scalability upgrades, avoiding traditional single-path communication bottlenecks during large workloads.",
-        "Integrating these adaptive computing architectures allows hardware teams to challenge established market semiconductor giants.",
-        "Expected rapid deployment across cloud infrastructure will fundamentally shift the enterprise AI processing landscape."
+        "Google DeepMind has unveiled the Gemini Omni model series designed specifically for multi-modal video processing and interaction.",
+        "The models achieve significant breakthroughs in cross-domain data synthesis allowing for seamless reasoning across varying media types.",
+        "This shift enables developers to construct highly reactive agentic systems capable of real-time perception and complex execution.",
+        "Expect enterprise-grade integration of Gemini Omni into core productivity suites to redefine human-machine collaboration workflows."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: amd.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://deepmind.google/images/omni.jpg",
+      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "DEEPMIND: GEMINI 3.5 ACTION COGNITION",
+      "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
       "points": [
-        "Google DeepMind unveils Gemini 3.5 and Gemini Omni, combining multimodal native reasoning with agentic actions.",
-        "Enterprise users can now synthesize multi-format video and code inputs, accelerating development cycles dramatically.",
-        "These models represent a strategic pivot toward proactive digital assistants capable of executing complex workflows.",
-        "Cross-industry systems integration will likely trigger immediate competitive responses from other frontier intelligence labs."
+        "Anthropic has launched Claude Opus 4.7 featuring enhanced capabilities for autonomous coding and complex agentic reasoning tasks.",
+        "The model demonstrates increased accuracy in long-context maintenance which is critical for enterprise software development lifecycles.",
+        "Strategically this release counters competitive frontier model growth by offering superior professional-grade tool utilization and vision.",
+        "Stakeholders should prioritize migration to this model to realize immediate gains in automated repository management tasks."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: deepmind.google",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://www.anthropic.com/images/opus.jpg",
+      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "ANTHROPIC: CLAUDE OPUS 4.7 RELEASES",
+      "heading": "AMD: AGENTIC CPU GPU SYNERGY",
       "points": [
-        "Anthropic releases Claude Opus 4.7 alongside Project Glasswing to secure critical enterprise software ecosystems.",
-        "Complex professional coding operations and vision tasks achieve unprecedented accuracy levels, reducing system debugging times.",
-        "The dual-release highlights a rising corporate focus on combining frontier model performance with security-first architectures.",
-        "Organizations adopting these frameworks will likely mitigate systemic risks associated with scaling automated software pipelines."
+        "AMD is promoting new agentic AI methodologies that optimize the distribution of workloads across CPU and GPU hardware.",
+        "The approach minimizes latency in large-scale model inference environments by utilizing Multipath Reliable Connection networking innovations.",
+        "This architecture allows for more flexible deployments within existing enterprise data centers without requiring immediate infrastructure overhauls.",
+        "Market participants can anticipate lower total cost of ownership for private AI clusters using hybrid hardware."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: anthropic.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://www.amd.com/images/ai-advancement.jpg",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "MICROSOFT: AZURE AGENTIC DEV PIPELINES",
+      "heading": "OPENAI: GPT-5.5 RESEARCH DEPLOYMENT",
       "points": [
-        "Microsoft introduces new agentic database capabilities in Azure and GitHub to unify developer infrastructure.",
-        "Development teams streamline multi-model orchestration, reducing deployment overhead for high-scale enterprise applications.",
-        "This unified ecosystem positions Azure as a preferred platform for deploying scalable agentic workflows safely.",
-        "Deeper GitHub integration will accelerate real-time code generation and autonomous software maintenance in cloud platforms."
+        "OpenAI has released GPT-5.5 to the developer platform focusing on significantly reduced latency and improved contextual awareness.",
+        "The model emphasizes stronger safety compliance and content provenance tracking for sensitive enterprise financial and healthcare applications.",
+        "Integration of Trusted Contact features aims to provide greater granular control over sensitive multi-agent conversational data streams.",
+        "Expect broader adoption of this model across high-stakes corporate environments due to enhanced reliability and safety."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: azure.microsoft.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://openai.com/images/gpt5.jpg",
+      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "STANFORD: NEW TRAINING SCALING LAWS",
+      "heading": "MISTRAL AI: PRIVATE DEPLOYMENT MODEL",
       "points": [
-        "Stanford HAI researchers propose an innovative training scaling law approach, restructuring traditional compute allocation methodologies.",
-        "Deep learning teams can optimize model parameter distribution, drastically cutting baseline pre-training computational costs.",
-        "This theoretical breakthrough challenges long-held hardware assumptions, making highly efficient small language models more competitive.",
-        "Expect hardware manufacturers to realign chip design pathways around these newly established training scaling paradigms."
+        "Mistral AI is scaling its self-contained private deployment infrastructure for edge and on-premises enterprise intelligence workloads.",
+        "The model architecture supports distillation and fine-tuning, giving organizations total sovereignty over proprietary data and training parameters.",
+        "This approach directly challenges centralized cloud-only AI solutions by emphasizing data privacy and regional sovereign compliance requirements.",
+        "Industries with strict regulatory constraints are projected to prioritize these open, adaptable model systems for security."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: hai.stanford.edu",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://mistral.ai/images/private.jpg",
+      "tags": ["Source: mistral.ai", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "SAP: ERP AI INTEGRATION DISRUPTION",
+      "heading": "INFOWORLD: MOJO 1.0 ECOSYSTEM IMPACT",
       "points": [
-        "SAP grapples with pressure to expose proprietary ERP databases to external third-party enterprise AI applications.",
-        "Customers threatening migration to rival systems force SAP to foster an open, highly collaborative partner ecosystem.",
-        "This friction highlights the escalating value of structured enterprise transactional data within agentic modeling environments.",
-        "Legacy software providers must quickly adapt secure integration frameworks or risk complete disintermediation by competitors."
+        "The Mojo 1.0 release introduces a systems programming language designed for seamless Python-like syntax and hardware acceleration.",
+        "This language provides precise control over memory and types which is essential for low-level GPU programming efficiency.",
+        "The developer ecosystem will likely shift towards this language for high-performance AI model implementation and optimizations.",
+        "Expect rapid adoption among research institutions and enterprise teams looking to bridge python usability with hardware."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-      "tags": [
-        "Source: techtarget.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://www.infoworld.com/images/mojo.jpg",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
