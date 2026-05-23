@@ -68,9 +68,21 @@ def main():
                 contents=final_input,
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
-            # Ensure file is saved clean
+            
+            # --- UPDATED: Sanitization and strict }; closure ---
+            # Remove any markdown artifacts
+            raw_text = response.text.replace("```json", "").replace("```", "").strip()
+            
+            # Ensure the output is clean for valid JS variable assignment
+            if raw_text.endswith(';'):
+                raw_text = raw_text[:-1]
+            if not raw_text.startswith('{'): raw_text = '{' + raw_text
+            if not raw_text.endswith('}'): raw_text = raw_text + '}'
+            
+            # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {response.text}")
+                f.write(f"const dailyData = {raw_text};")
+                
             return # Success
         except Exception:
             time.sleep(10) # Back-off if model rate-limits
