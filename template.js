@@ -1,93 +1,121 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "FRONTIER INTELLIGENCE SYSTEM",
-    "titleBlue": "ASCENSION"
+    "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+    "titleBlue": "EVOLUTION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 FRONTIER MODEL RELEASE",
+      "heading": "OPENAI: GPT-5.5 MODEL LAUNCH",
       "points": [
-        "OpenAI officially launched GPT-5.5, a massive upgrade in multimodal capabilities and real-time reasoning efficiency.",
-        "The model decreases API latency by forty percent, dramatically optimizing operational workflows for enterprise automation.",
-        "This release shifts competitive dynamics, forcing competitors to accelerate their respective custom agentic platform deployments.",
-        "Global developers will quickly integrate GPT-5.5 to power highly complex, autonomous digital workflows."
+        "OpenAI officially launches GPT-5.5 featuring enhanced reasoning, direct voice integration, and advanced multi-modal orchestration capabilities.",
+        "The model reduces API operational costs while doubling throughput speeds for production-grade agentic workflows.",
+        "This release escalates the foundational model wars as enterprise demands shift toward self-executing autonomous agents.",
+        "Organizations will rapidly transition legacy automation frameworks to native voice-and-image reasoning pipelines over coming weeks."
       ],
-      "imageUrl": "https://openai.com",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://openai.com/assets/gpt55-launch.jpg",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 2,
-      "heading": "DEEPMIND: GEMINI OMNI MULTIMODAL SYSTEM",
+      "heading": "STANFORD HAI: SCALING LAW BREAKTHROUGH",
       "points": [
-        "Google DeepMind announced Gemini Omni, a model capable of generating anything directly from any video input.",
-        "Developers can now leverage cross-modal synthesis to build high-performance tools with significantly lower computational overhead.",
-        "The architecture bypasses traditional processing pipelines, establishing a new design standard for multimodal real-time agents.",
-        "Enterprises will deploy Gemini Omni to automate physical spatial analysis and complex visual documentation tasks."
+        "Stanford HAI researchers pioneer a novel training method challenging traditional compute-optimal scaling law paradigms.",
+        "The architecture slashes training compute requirements by forty percent while maintaining high downstream accuracy benchmarks.",
+        "This math breakthrough democratizes frontier-grade model development for smaller organizations lacking hyperscaler-level capital.",
+        "Next-generation model architectures will likely pivot to this resource-efficient training methodology within the fiscal year."
       ],
-      "imageUrl": "https://deepmind.google",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://hai.stanford.edu/assets/scaling-laws.jpg",
+      "tags": [
+        "Source: hai.stanford.edu",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 3,
-      "heading": "STANFORD HAI: NOVEL TRAINING SCALING LAWS",
+      "heading": "MODULAR: MOJO 1.0 SYSTEMS LANGUAGE",
       "points": [
-        "Stanford HAI researchers proposed a new approach to scaling laws that transforms frontier model training.",
-        "This theoretical framework optimizes resource allocation, reducing global compute requirements for training major foundational models.",
-        "By challenging traditional power-law expectations, it unlocks more efficient architectural paradigms for research laboratories worldwide.",
-        "Industry players will likely redesign training runs to capitalize on these highly optimized scaling mathematical formulas."
+        "Modular releases Mojo 1.0, combining Pythonic usability with strict systems-level memory controls and GPU programmability.",
+        "Developers gain native access to hardware accelerators, boosting model inference compilation speeds by several orders.",
+        "Mojo directly challenges CUDA exclusivity by streamlining lower-level AI kernel development for heterogeneous computing clusters.",
+        "Enterprise engineering teams will increasingly rewrite high-throughput inference pipelines in Mojo to optimize hardware utilization."
       ],
-      "imageUrl": "https://hai.stanford.edu",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://infoworld.com/assets/mojo-launch.jpg",
+      "tags": [
+        "Source: infoworld.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 4,
-      "heading": "NVIDIA: Q1 FISCAL 2027 RECORD REVENUE",
+      "heading": "MICROSOFT: EY ENTERPRISE ADOPTION DEAL",
       "points": [
-        "NVIDIA reported record first-quarter revenue of eighty-one point six billion dollars, marking significant growth.",
-        "Massive capital flows into AI hardware infrastructure continue driving unprecedented financial velocity across international chip supply-chains.",
-        "This financial performance cements dominance in the hardware stack, sustaining extreme pressure on alternative silicon competitors.",
-        "Markets expect continued high-margin hardware demand as hyperscalers aggressively expand their regional cloud data centers."
+        "Microsoft partners with EY to accelerate enterprise-wide adoption of generative agents across global audit and advisory.",
+        "This deployment scales standardized agentic architectures to hundreds of thousands of corporate consulting professionals globally.",
+        "The alliance cements Azure's dominance in secure, compliance-ready cloud infrastructure designed specifically for financial services.",
+        "Competitors must quickly establish similar systemic integrator partnerships to maintain market share in legacy sectors."
       ],
-      "imageUrl": "https://nvidianews.nvidia.com",
-      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://azure.microsoft.com/assets/ey-partnership.jpg",
+      "tags": [
+        "Source: aibusiness.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 5,
-      "heading": "MICROSOFT: EY PARTNERSHIP FOR ADOPTION",
+      "heading": "GOOGLE CLOUD: WIZ SECURITY INTEGRATION",
       "points": [
-        "Microsoft and EY announced a strategic alliance aimed at speeding up massive enterprise AI integration initiatives.",
-        "The partnership facilitates rapid deployment of customized agentic software frameworks, increasing corporate operational productivity metrics.",
-        "This collaboration signals a shift from raw technology experimentation to audited, compliant commercial application deployments.",
-        "Traditional consulting structures will adapt swiftly as automated, intelligent business units optimize client delivery workflows."
+        "Google Cloud integrates with Wiz to secure cloud-scale agentic pipelines and mitigate runtime vulnerability exposures.",
+        "Security teams obtain real-time visibility into pipeline data flows, reducing misconfiguration risks by up to eighty percent.",
+        "This partnership addresses escalating enterprise anxieties regarding shadow AI deployments and unauthorized training data extractions.",
+        "Zero-trust architectures will become mandatory baselines for all sovereign cloud deployments processing sensitive financial data."
       ],
-      "imageUrl": "https://www.aibusiness.com",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://cloud.google.com/assets/wiz-integration.jpg",
+      "tags": [
+        "Source: cloud.google.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 6,
-      "heading": "MOJO: RELEASE OF VERSION ONE POINT ZERO",
+      "heading": "AMD: INSTINCT MI350P GPU DEPLOYMENT",
       "points": [
-        "Modular officially released Mojo version one point zero, combining Pythonic simplicity with strict systems-level memory controls.",
-        "Engineers gain unified GPU programming capabilities, accelerating performance without requiring highly fragmented software compilation pipelines.",
-        "This milestone bridges the gap between high-level machine learning research and raw, hardware-optimized production codebases.",
-        "Developers will increasingly migrate critical compute kernels from pure C++ to this modern, type-safe programming language."
+        "AMD deploys its Instinct MI350P PCIe accelerators featuring advanced Multipath Reliable Connection networking technologies.",
+        "The hardware configuration resolves critical networking bottlenecks, optimizing overall throughput across large distributed cluster configurations.",
+        "Offering PCIe compatibility allows enterprises to run frontier-scale reasoning workloads directly within pre-existing data center racks.",
+        "Enterprise buyers will leverage AMD hardware to diversify supply chains and mitigate reliance on proprietary accelerator platforms."
       ],
-      "imageUrl": "https://www.infoworld.com",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://amd.com/assets/mi350p-gpu.jpg",
+      "tags": [
+        "Source: amd.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 7,
-      "heading": "TSMC: A16 NANOSHEET SILICON PLATFORM",
+      "heading": "SAP: ERP DATA SECURITY EXPOSURE",
       "points": [
-        "TSMC introduced its A16 nanosheet technology featuring an innovative Super Power Rail backside delivery system.",
-        "The physical upgrade improves power distribution efficiency, delivering massive speed gains for high-performance AI computing nodes.",
-        "Integrating backside power delivery enables chip designers to push physical performance boundaries beyond traditional horizontal routing.",
-        "Hyperscale hardware architects will adopt this silicon platform to power next-generation, ultra-dense neural network clusters."
+        "SAP encounters critical data integration challenges as clients bypass native channels for third-party AI integrations.",
+        "The shift risks exposing highly sensitive enterprise resource planning databases to unauthorized external vector processing.",
+        "Customers demand healthier partner ecosystems to safely extract business intelligence without compromising core legacy systems integrity.",
+        "Enterprise software giants must launch secure, isolated data-access APIs to prevent clients from building risky custom workarounds."
       ],
-      "imageUrl": "https://www.tsmc.com",
-      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://techtarget.com/assets/sap-erp-security.jpg",
+      "tags": [
+        "Source: techtarget.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
 };
