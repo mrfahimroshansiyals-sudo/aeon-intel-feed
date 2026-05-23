@@ -4,22 +4,28 @@
  */
 
 window.onload = async () => {
-    // Force fix the background image compatibility
-    await fixBackgroundCORS();
+    // FORCE CACHE-BUST: Load the template.js with a timestamp to prevent stale data
+    const script = document.createElement('script');
+    script.src = 'template.js?t=' + Date.now();
+    script.onload = async () => {
+        // Force fix the background image compatibility
+        await fixBackgroundCORS();
 
-    if (typeof dailyData !== 'undefined') {
-        initTabs();
-        const mainBtn = document.querySelector('.tab-btn');
-        if (mainBtn) switchSlide('main', mainBtn);
-    }
-    
-    const dlBtn = document.getElementById('download-active');
-    if (dlBtn) {
-        dlBtn.onclick = (e) => {
-            e.preventDefault();
-            downloadAllSlides();
-        };
-    }
+        if (typeof dailyData !== 'undefined') {
+            initTabs();
+            const mainBtn = document.querySelector('.tab-btn');
+            if (mainBtn) switchSlide('main', mainBtn);
+        }
+        
+        const dlBtn = document.getElementById('download-active');
+        if (dlBtn) {
+            dlBtn.onclick = (e) => {
+                e.preventDefault();
+                downloadAllSlides();
+            };
+        }
+    };
+    document.head.appendChild(script);
 };
 
 /**
