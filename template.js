@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "NEXT GENERATION FRONTIER",
-    "titleBlue": "INTELLIGENCE"
+    "titleWhite": "NEXT-GEN AGENTIC SILICON",
+    "titleBlue": "SYSTEMS"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
+      "heading": "OPENAI: GPT-5.5 ARCHITECTURE LAUNCH",
       "points": [
-        "OpenAI has launched its new GPT-5.5 frontier model focusing on advanced reasoning and developer integration.",
-        "The release dramatically reduces computational overhead while doubling processing efficiency for complex multi-agent orchestration tasks.",
-        "This model intensifies the frontier intelligence race, directly challenging Anthropic's enterprise workspace domination and positioning.",
-        "Developers can immediately access GPT-5.5 via the API, signaling rapid commercial agentic workflow deployments globally."
+        "OpenAI officially launched its next-generation GPT-5.5 model, introducing a massive breakthrough in frontier agentic capabilities.",
+        "The release dramatically reduces computational latency while enhancing native logical reasoning across complex, multi-step workflows.",
+        "This model intensifies the global frontier race, setting new architectural standards for enterprise-grade autonomous systems.",
+        "Competitors must now accelerate their model pipelines to match these upgraded multi-modal efficiency and reasoning metrics."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://openai.com/research",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "STANFORD HAI: SCALING LAWS RE-MODEL",
+      "heading": "TSMC: A16 NANOSHEET POWER DELIVERY",
       "points": [
-        "Stanford HAI researchers introduced a novel approach to scaling laws that transforms model training methodology.",
-        "This mathematics-driven training paradigm decreases active compute requirements during foundational model pre-training steps by thirty percent.",
-        "The discovery challenges established compute-optimal scaling theories, redefining physical resource planning for next-generation frontier labs.",
-        "Expect immediate implementation of these hybrid scaling metrics across major commercial enterprise cloud pre-training suites."
+        "TSMC unveiled its A16 nanosheet technology integrating the innovative Super Power Rail backside power solution.",
+        "The architecture maximizes power transmission efficiency and significantly boosts high-performance silicon performance for advanced AI workloads.",
+        "This hardware milestone addresses growing energy constraints in hyperscale data centers processing massive next-generation neural networks.",
+        "Silicon design firms will quickly adopt backside power configurations to secure competitive performance leaps in 2026."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.tsmc.com/english/news_events",
+      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "MICROSOFT: ENTERPRISE AI EXPANSION",
+      "heading": "INFOWORLD: MOJO 1.0 SYSTEMS LANGUAGE",
       "points": [
-        "Microsoft partnered with EY to accelerate enterprise artificial intelligence adoption and model deployment workflows worldwide.",
-        "The strategic alliance scales production-ready agentic architectures to thousands of global consulting clients within months.",
-        "This consolidation aims to block independent enterprise integrations by solidifying Microsoft's proprietary cloud ecosystem dominance.",
-        "Expect rapid operational shifts as global organizations transition from experimental sandboxes to fully managed agentic pipelines."
+        "The milestone Mojo 1.0 release officially combines Pythonic developer syntax with powerful Rust-grade memory and GPU controls.",
+        "Engineers can now build highly optimized machine learning models directly without complex multi-language software compilation pipelines.",
+        "This unified language breaks down traditional bottlenecks separating rapid mathematical prototyping from high-performance production hardware deployment.",
+        "Adoption of Mojo 1.0 will likely commoditize hardware-level optimization, lowering entry barriers for sovereign AI development."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 4,
-      "heading": "GOOGLE: REAL-TIME ADS CONVERSATION",
-      "points": [
-        "Google integrated AI Mode into its advertising system to allow real-time conversational business discovery processes.",
-        "Early metrics demonstrate a significant increase in high-quality lead generation and improved digital consumer conversion rates.",
-        "The system leverages real-time dialogue pipelines, transforming static online ad formats into interactive transactional agents.",
-        "Advertisers must immediately optimize data architectures to handle high volumes of automated natural language customer inquiries."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 5,
-      "heading": "VERIZON: SHADOW AI SECURITY ANALYSIS",
-      "points": [
-        "The Verizon DBIR report identified severe enterprise security threats emerging from unmonitored shadow AI deployments.",
-        "Corporate networks face unprecedented data exfiltration risks as employees integrate sensitive assets into unregulated public models.",
-        "The findings force chief information security officers to transition from basic boundary security to strict zero-trust architectures.",
-        "Organizations will likely deploy automated compliance gateways to monitor and sanitize outbound artificial intelligence API calls."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 6,
-      "heading": "ANGULAR: SIGNAL DRIVEN FRAMEWORKS",
-      "points": [
-        "Angular introduced Signal Forms to transition modern web development from traditional pipelines to signal-driven state management.",
-        "Developers benefit from simplified data binding, reduced memory overhead, and highly optimized UI rendering cycles.",
-        "This architectural change signals a broader industry transition toward reactive, fine-grained state patterns across complex applications.",
-        "Enterprise engineering teams should refit core UI frameworks to native signals to maintain platform scale and performance."
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://www.infoworld.com",
       "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
-      "id": 7,
-      "heading": "ASML: NEW LITHOGRAPHY CTO APPOINTMENT",
+      "id": 4,
+      "heading": "AMD: INSTINCT MI350P INTERCONNECT",
       "points": [
-        "ASML appointed Marco Pieters as its new Chief Technology Officer to guide advanced nanometer lithography development.",
-        "Under his direction, the company will accelerate computational lithography systems to meet intense AI hardware demands.",
-        "This leadership transition is vital as chipmakers push silicon structures toward atomic boundaries to fuel next-gen model training.",
-        "Expect rapid hardware optimization updates that directly enhance production efficiency for sovereign enterprise foundry partners globally."
+        "AMD announced the Instinct MI350P PCIe GPU series alongside Multipath Reliable Connection networking for cluster scaling.",
+        "These technologies prevent single-path network congestion, boosting overall data throughput across massive distributed computing clusters.",
+        "The introduction directly challenges current market dominance in high-bandwidth chip-to-chip connectivity and enterprise AI hardware deployments.",
+        "Enterprises will leverage these open-standard networking protocols to scale multi-node training infrastructures with lower operational overhead."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: asml.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.amd.com/en/corporate/newsroom",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 5,
+      "heading": "MICROSOFT: EY AGENTIC ENTERPRISE ADOPTION",
+      "points": [
+        "Microsoft and EY formed a strategic alliance to accelerate enterprise integration of advanced agentic workflow systems.",
+        "The partnership scales deployment velocities by utilizing pre-configured templates tailored for regulated industrial and financial environments.",
+        "This integration bridges the operational gap between theoretical AI assistant capabilities and practical, auditable enterprise automation.",
+        "Major consulting firms will replicate this framework to secure market share in rapidly expanding enterprise automation sectors."
+      ],
+      "imageUrl": "https://www.aibusiness.com",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 6,
+      "heading": "STANFORD HAI: PARADIGM SCALING LAWS",
+      "points": [
+        "Stanford HAI researchers revealed a novel approach to training scaling laws that optimizes neural network performance.",
+        "The methodology decreases resource requirements, enabling smaller labs to train competitive models with optimized parameter counts.",
+        "This academic breakthrough challenges the industry consensus that brute-force compute expansion is the only path forward.",
+        "Future foundation models will shift focus from raw dataset scale toward mathematically precise, highly customized training architectures."
+      ],
+      "imageUrl": "https://hai.stanford.edu",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 7,
+      "heading": "DEEPMIND: GEMINI OMNI MULTIMODAL",
+      "points": [
+        "Google DeepMind introduced Gemini Omni, a cutting-edge multimodal intelligence system capable of real-time video-to-anything translation.",
+        "Developers can deploy interactive visual agents that contextually interpret live video feeds and generate immediate structured responses.",
+        "This launch establishes a new frontier in native multi-sensory processing, bypassing disjointed multi-model pipelines for continuous streams.",
+        "Industries will rapidly integrate these capabilities to power spatial computing platforms, advanced robotics, and autonomous vehicle systems."
+      ],
+      "imageUrl": "https://deepmind.google/discover",
+      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
