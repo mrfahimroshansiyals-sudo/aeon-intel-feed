@@ -1,93 +1,121 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "AGENTIC FRONTIER COMPUTING",
-    "titleBlue": "DEPLOYMENT"
+    "titleWhite": "Advanced AI Models, Agentic Architectures, and Enterprise",
+    "titleBlue": "Integration"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 RELEASE",
+      "heading": "OPENAI: FRONTIER MODEL GPT-5.5 RELEASED",
       "points": [
-        "OpenAI officially launched its new GPT-5.5 model to deliver powerful agentic processing capabilities across industries.",
-        "Enterprises can now execute complex reasoning workflows with significantly reduced API latency and lower operational costs.",
-        "The release accelerates the global shift toward autonomous AI systems capable of handling long-horizon engineering tasks.",
-        "Organizations will rapidly integrate these sovereign models to automate deep analytical pipelines and internal customer operations."
+        "OpenAI announces the significant release of GPT-5.5, a next-generation product enhancing intelligence and performance.",
+        "This update delivers notable improvements in complex reasoning and factual accuracy for diverse enterprise applications.",
+        "GPT-5.5 expands architectural sovereignty, empowering developers with advanced capabilities for AI system innovation.",
+        "Expect accelerated industry adoption and new benchmarks in AI capability, driving competitive model development."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://openai.com/images/gpt5-5_release.png",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 2,
-      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
+      "heading": "OPENAI: CHATGPT IMAGES AND CODEX UPGRADE",
       "points": [
-        "Anthropic deployed Claude Opus 4.7 to provide enhanced capabilities in complex coding and agentic vision.",
-        "This upgrade dramatically improves performance in autonomous workspace automation and multi-layered scientific research workflows.",
-        "The model establishes a new benchmark for safety and alignment in critical national security and software applications.",
-        "Developers will utilize these advanced vision capabilities to construct self-healing codebase architectures across enterprise networks."
+        "ChatGPT Images 2.0 enhances visual generation, while Codex integration boosts coding capabilities from anywhere.",
+        "Users now experience improved multi-modal interactions and more efficient, flexible software development workflows.",
+        "These advancements strengthen OpenAI's platform, offering versatile tools for creative and technical enterprise solutions.",
+        "This empowers a broader user base with advanced AI, setting new standards for accessible, intelligent tooling."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
-      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://openai.com/images/chatgpt_images2-0.png",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 3,
-      "heading": "DEEPMIND: GEMINI OMNI SYSTEM",
+      "heading": "OPENAI: ADVANCED VOICE MODELS IN API",
       "points": [
-        "Google DeepMind unveiled Gemini Omni to enable real-time generation and translation across native video and audio streams.",
-        "Organizations can build unified multimodal interfaces that instantly process spatial environments and complex human inputs.",
-        "This system marks a shift from separate text-to-speech pipelines toward fully unified end-to-end neural processing.",
-        "Next-generation application development will depend on these real-time video architectures to run complex edge intelligence features."
+        "OpenAI has launched new sophisticated voice intelligence models, now available through their robust API.",
+        "These models significantly improve natural language understanding and generation in voice applications.",
+        "The API integration fosters a sovereign architecture for developers building highly responsive conversational AI systems.",
+        "This innovation expands opportunities for dynamic voice-enabled products across various industry sectors globally."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://openai.com/images/voice_api_models.png",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 4,
-      "heading": "STANFORD: SCALING LAW REFORM",
+      "heading": "DEEPMIND: INTRODUCING GEMINI OMNI MULTIMODAL",
       "points": [
-        "Stanford researchers introduced a novel approach to scaling laws that completely transforms neural network training efficiency.",
-        "The framework optimizes model performance while decreasing overall computing resources and electrical consumption during training phases.",
-        "This paradigm shift challenges traditional assumptions regarding the relationship between dataset volume and compute budgets.",
-        "AI research facilities will adopt these refined principles to develop higher-performing models at a fraction of standard costs."
+        "Google DeepMind unveils Gemini Omni, a cutting-edge multimodal AI model creating anything from video input.",
+        "Omni drastically expands creative potential and interactive capabilities across various digital content generation tasks.",
+        "This breakthrough positions Google DeepMind at the frontier of comprehensive, generative AI architecture development.",
+        "The model promises to redefine how enterprises approach content creation, design, and interactive AI experiences."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://deepmind.google/static/images/gemini-omni.png",
+      "tags": [
+        "Source: deepmind.google",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 5,
-      "heading": "AMD: INSTINCT MI350P GPU",
+      "heading": "GOOGLE CLOUD: GEMINI ENTERPRISE AI PLATFORM",
       "points": [
-        "AMD launched the Instinct MI350P GPU family featuring advanced Multipath Reliable Connection networking technologies.",
-        "The hardware enables enterprises to deploy enterprise-grade AI infrastructure directly onto their pre-existing data center configurations.",
-        "Multipath Reliable Connection addresses critical single-path networking bottlenecks that typically degrade performance in massive computing clusters.",
-        "Scale-out AI data centers will transition to this open architecture to optimize inter-GPU communications during training."
+        "Google Cloud introduces Gemini Enterprise, a unified platform for AI agent development, orchestration, and governance.",
+        "This streamlines enterprise-level deployment, providing robust control and improved operational efficiency for AI agents.",
+        "The platform solidifies architecture sovereignty, enabling secure and compliant customized AI solutions within organizations.",
+        "Expect accelerated adoption of tailored AI agents, driving specific business outcomes and data-driven automation."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://cloud.google.com/static/images/gemini-enterprise-platform.png",
+      "tags": [
+        "Source: cloud.google.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 6,
-      "heading": "MICROSOFT: AZURE AGENT ORCHESTRATION",
+      "heading": "GOOGLE CLOUD: AI INFRASTRUCTURE SCALING",
       "points": [
-        "Microsoft integrated advanced agentic capabilities into Azure and GitHub to streamline workflows for IT professionals and developers.",
-        "Teams can automate code deployment and infrastructure provisioning within a singular secure cloud computing environment.",
-        "The integration unifies siloed systems of record and action into an automated AI-driven software development lifecycle.",
-        "Enterprise engineering groups will experience heightened development velocities as manual deployment tasks are completely offloaded to agents."
+        "Google Cloud details advancements in AI infrastructure, specifically scaling for the burgeoning agentic era.",
+        "These upgrades ensure robust, high-performance foundations, supporting complex AI workloads and massive data processing.",
+        "Strategic infrastructure investments reinforce architectural sovereignty, crucial for enterprise-grade AI deployment at scale.",
+        "Anticipate enhanced reliability and cost-efficiency for organizations leveraging agentic AI systems on Google Cloud."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
-      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://cloud.google.com/static/images/ai-infrastructure-scaling.png",
+      "tags": [
+        "Source: cloud.google.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     },
     {
       "id": 7,
-      "heading": "ASML: LITHOGRAPHY COMPUTATION",
+      "heading": "MICROSOFT AZURE: NEW AGENTIC CAPABILITIES",
       "points": [
-        "ASML upgraded its computational lithography solutions to push microchip patterning technologies down to new sub-nanometer limits.",
-        "Chipmakers can now mass-produce faster and more energy-efficient microchips using existing extreme ultraviolet lithography systems.",
-        "The development represents a vital breakthrough in sustaining semiconductor scaling trends amidst physical manufacturing limitations.",
-        "Leading global foundries will integrate these software optimizations to maintain competitive edge in advanced node production."
+        "Microsoft Azure and GitHub unveil new agentic capabilities, integrating IT operations with developer workflows seamlessly.",
+        "This enhances automation, improves collaboration, and accelerates modernization of infrastructure, data, and applications.",
+        "Azure's strategic focus on agentic AI fosters a sovereign architecture for integrated, end-to-end development solutions.",
+        "This empowers developers and IT teams to build, deploy, and manage AI-driven applications with greater agility."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
-      "tags": ["Source: asml.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://azure.microsoft.com/en-us/blog/media/azure-agentic.png",
+      "tags": [
+        "Source: azure.microsoft.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
     }
   ]
 };
