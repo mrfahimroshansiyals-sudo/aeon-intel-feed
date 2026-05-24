@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Autonomous Infrastructure",
-        "titleBlue": "Evolution"
+        "titleWhite": "AUTONOMOUS COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA CPU RAMP",
+            "heading": "NVIDIA: VERA CPU AGENT PLATFORM",
             "points": [
-                "NVIDIA deploys the Vera CPU architecture built specifically to optimize and accelerate autonomous multi-agent software workloads.",
-                "Top-tier AI research labs integrate this dedicated processor to scale agentic performance across distributed systems.",
-                "This silicon integration resolves traditional compute bottlenecks by balancing execution efficiency between CPU and GPU clusters.",
-                "Enterprise architectures will increasingly adopt custom-tailored silicon to process continuous agent actions without soaring costs."
+                "NVIDIA delivers the Vera CPU architected specifically to power autonomous agent workflows in top AI laboratories.",
+                "Labs deploy the hardware to achieve exponential scaling of multi-agent execution frameworks within unified clusters.",
+                "The architecture unifies compute resources to eliminate memory latency bottlenecks during heavy agentic reasoning tasks.",
+                "Researchers predict this platform will establish a new hardware benchmark for real-time autonomous systems development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT & EY: AGENTIC ALLIANCE",
+            "heading": "AMD: TSMC 2NM VENICE PROCESSORS",
             "points": [
-                "Microsoft and EY establish a joint one billion dollar program to accelerate global enterprise agentic deployment.",
-                "Forward-deployed engineering squads will directly integrate these automated systems into complex client backends and environments.",
-                "This massive deployment model shifts modern software consulting from traditional pilots to full autonomous workspace integration.",
-                "Enterprise leaders must prepare infrastructure pipelines to support millions of parallel automated agentic transactions immediately."
+                "AMD initiates the production ramp of its next-generation Venice EPYC processors on TSMC's 2nm platform.",
+                "The transition targets massive power efficiency improvements and substantial density gains for enterprise data centers.",
+                "Integrating advanced nanosheet architecture allows hyperscalers to run larger model architectures at significantly lower operating costs.",
+                "Hardware architects anticipate the 2nm Venice line will intensify competition across high-performance computing markets worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
             "points": [
-                "OpenAI launches the GPT-5.5 model family to deliver significant advancements in real-world reasoning and action orchestration.",
-                "The updated model structure enables deep contextual understanding alongside native real-time voice and high-resolution vision analysis.",
-                "Developers gain access to enhanced action APIs that minimize manual planning constraints within complex enterprise applications.",
-                "Organizations can safely replace legacy decision engines with frontier models capable of autonomous multi-step execution paths."
+                "OpenAI officially introduces the GPT-5.5 model designed to elevate frontier intelligence, reasoning capabilities, and multimodal actions.",
+                "Developers leverage the updated system to deploy highly stable, autonomous coding agents across complex enterprise environments.",
+                "The architectural optimization reduces token processing costs while enhancing context awareness and long-term planning routines.",
+                "Enterprise leaders expect GPT-5.5 to accelerate the broad transition from simple chatbots to fully autonomous digital workers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST SYSTEM",
+            "heading": "DEEPMIND: CO-SCIENTIST RESEARCH PLATFORM",
             "points": [
-                "Google DeepMind introduces Co-Scientist as a multi-agent AI system designed to accelerate global academic scientific discovery.",
-                "Initial real-world implementations show the autonomous network generating valid hypotheses and designing laboratory protocol simulations successfully.",
-                "This system architecture relies on highly collaborative research agents sharing real-time context across complex physical domains.",
-                "Academic and pharmaceutical laboratories will leverage this automated pipeline to compress decades of manual research timelines."
+                "Google DeepMind launches Co-Scientist to serve as a collaborative, multi-agent AI platform accelerating scientific discovery workflows.",
+                "Research groups utilize the system to generate novel biological hypotheses and automate structured experimental designs globally.",
+                "The system coordinates specialized agent roles to synthesize massive scientific datasets into actionable academic insights seamlessly.",
+                "Principal investigators predict Co-Scientist will dramatically compress the timeline required to discover novel therapeutic compounds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFOWORLD: MOJO 1.0 SYSTEM",
+            "heading": "ASML: MISTRAL AI LITHOGRAPHY",
             "points": [
-                "Modular officially launches the Mojo one point zero systems programming language for production-grade AI development workloads.",
-                "The production-ready release offers hardware-level memory safety alongside direct execution access to GPU and accelerator clusters.",
-                "This system merges Python usability with Rust performance to eliminate the structural double-codebase problem in enterprise pipelines.",
-                "Engineers will transition massive software systems to Mojo to optimize operational runtime efficiency and lower compute costs."
+                "ASML integrates custom Mistral AI models to advance computational lithography and optimize silicon manufacturing precision tools.",
+                "The deployment drives microchip development forward by improving wafer patterning throughput and overall factory yield metrics.",
+                "Utilizing private edge deployments guarantees the protection of sensitive intellectual property throughout the manufacturing process.",
+                "Semiconductor industry analysts expect this partnership to redefine operational efficiency standards for next-generation fabrication facilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: A16 NANOSHEET PLATFORM",
+            "heading": "EUROPEAN UNION: AI ACT TRANSPARENCY",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company advances high-performance silicon by introducing the innovative A16 nanosheet process technology.",
-                "The architecture integrates an advanced backside power solution called Super Power Rail to maximize energy transmission efficiency.",
-                "This physical layout is designed explicitly to fulfill the massive power delivery demands of next-generation AI processors.",
-                "Future hardware designs will achieve unprecedented density levels to support increasingly complex multi-agent software operational environments."
+                "European regulators enforce Article 50 guidelines mandating strict transparency measures for general-purpose artificial intelligence models.",
+                "Compliance audits require providers to implement clear watermarking and systematic disclosure mechanisms for generated synthetic content.",
+                "This legal framework forces global technology enterprises to overhaul their governance structures before entering European markets.",
+                "Legal scholars anticipate these strict requirements will establish a powerful regulatory blueprint for worldwide AI governance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.tsmc.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "XAI & ANTHROPIC: COMPUTE EXCHANGE",
+            "heading": "MICROSOFT & EY: AGENTIC AI DEPLOYMENT",
             "points": [
-                "Financial disclosures reveal frontier AI developers are buying and selling vast quantities of server capacity directly.",
-                "This transactional behavior establishes a standalone market where raw compute functions as a highly liquid tradeable asset.",
-                "Model developers leverage these exchanges to quickly secure high-performance GPU clusters without waiting for traditional hyperscaler allocations.",
-                "Global energy and compute markets will see major pricing shifts as physical processing infrastructure becomes highly securitized."
+                "Microsoft partners with EY on a massive initiative to assist global enterprises in deploying autonomous agent architectures.",
+                "Dedicated forward-deployed engineering teams target the modernization of critical financial, operational, and administrative business workflows.",
+                "The alliance leverages Azure cloud infrastructure to scale secure, compliant multi-model orchestrations across diverse corporate environments.",
+                "Industry executives project this venture will significantly accelerate the tangible monetization of enterprise cognitive investments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.cio.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
