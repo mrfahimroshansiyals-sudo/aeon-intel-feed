@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ADVANCED AGENTIC AI",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
             "points": [
-                "OpenAI launches GPT-5.5 integrating advanced reasoning with multi-modal capabilities for complex enterprise workflows and agents.",
-                "New model architecture enhances contextual recognition and execution precision for sensitive data environments and operational decision support.",
-                "Strategic deployment focuses on accelerating agentic performance across internal coding agents and enterprise-grade automation infrastructure frameworks.",
-                "Stakeholders anticipate immediate industry shift as GPT-5.5 establishes new benchmarks for autonomous task execution and reasoning."
+                "Google Cloud launched Gemini 3.5 and Omni models to provide frontier intelligence for enterprise agentic workflows.",
+                "New agent orchestration platforms offer unified governance and automated deployment cycles for scaled AI business applications.",
+                "Enterprise users gain access to enhanced compute clusters optimized for high-performance training and low-latency inference cycles.",
+                "Strategic focus shifts toward integrating multimodal inputs into production-ready agentic systems via updated Google Cloud consoles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: AGENTIC OMNI ARCHITECTURE",
+            "heading": "AMD: SILICON ECOSYSTEM EXPANSION",
             "points": [
-                "DeepMind unveils Gemini Omni architecture enabling real-time multi-modal input processing and autonomous action generation for agents.",
-                "New OMNI framework provides significant latency reduction for enterprise applications requiring instantaneous multi-source data synthesis and response.",
-                "System integration with Cloud TPU infrastructure optimizes training cycles for large-scale agentic models in production environments.",
-                "Infrastructure leaders gain enhanced capabilities for developing responsive digital twins and complex, agent-led industrial decision systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: TAIWAN INFRASTRUCTURE EXPANSION",
-            "points": [
-                "AMD commits ten billion dollars to Taiwan ecosystem to accelerate production of next-generation EPYC and AI processors.",
-                "Investment ensures supply chain resilience for 2nm process node technology and high-performance AI compute infrastructure components.",
-                "Strategic alliance with TSMC secures manufacturing dominance for Venice processors, specifically designed for high-density AI data centers.",
-                "Global market analysts project significant surge in AI infrastructure capacity following this massive hardware-focused capital expenditure."
+                "AMD announced ten billion dollars in Taiwan ecosystem investments to accelerate domestic AI infrastructure and manufacturing capacity.",
+                "Production ramp for the next-generation Venice EPYC processor leverages advanced TSMC two-nanometer process technology for efficiency.",
+                "New Ryzen AI Halo developer platform empowers agent-based computing with optimized hardware integration for high-end workstations.",
+                "Investment signals a long-term commitment to capturing share in the evolving high-performance computing and server markets."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MICROSOFT: AGENTIC DEV OPS INTEGRATION",
+            "id": 3,
+            "heading": "NVIDIA: AUTONOMOUS AGENT SCALE",
             "points": [
-                "Microsoft announces new agentic DevOps capabilities integrating Azure AI with GitHub for unified enterprise software development workflows.",
-                "System automates technical debt reduction and infrastructure modernization by leveraging intelligent agents for continuous code optimization.",
-                "Developers gain access to agent-ready platforms designed to scale AI feature deployment across complex hybrid cloud architectures.",
-                "Organizations deploying these tools expect significant gains in software velocity and reduction in manual infrastructure management overhead."
+                "Nvidia debuted the Vera CPU platform, specifically engineered to power high-density autonomous agent operations at top labs.",
+                "Strategic focus on reinforcement learning infrastructure ensures developers gain advanced tools for training next-generation autonomous model architectures.",
+                "Financial community updates confirm record quarterly revenues driven by sustained global demand for accelerated computing data centers.",
+                "Company executives emphasize a focus on AI-native six-G networking and digital twin integration for upcoming deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AWS: ENTERPRISE AGENT INTEGRATION",
+            "points": [
+                "AWS expanded its agentic AI ecosystem by partnering with enterprise platforms to streamline end-to-end agentic workflow development.",
+                "Global infrastructure footprint reaches thirty-nine geographic regions, improving edge latency for sensitive AI-driven government and financial workloads.",
+                "Cloud-native integration services allow businesses to modernize legacy data stacks into scalable AI-ready environments within days.",
+                "Continued expansion into the Kingdom of Saudi Arabia and Chile supports resilient global AI service delivery requirements."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: AGENTIC DEV MODERNIZATION",
+            "points": [
+                "Microsoft Azure introduces connected agentic workflows that simplify IT and developer interaction within a single platform environment.",
+                "New open-source tools facilitate the operationalization of AI agent safety for organizations deploying generative AI at scale.",
+                "Collaborative initiatives with enterprise partners target significant reductions in technical debt through rapid, agent-driven infrastructure modernization efforts.",
+                "Expanding European cloud regions support stricter performance and compliance standards for cross-border enterprise AI data management."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: FRONTIER ENTERPRISE AGENTS",
-            "points": [
-                "Mistral AI scales production-ready agentic workflows with focus on deep context, custom tooling, and secure private deployment.",
-                "Platform architecture emphasizes data sovereignty by enabling self-contained model execution across cloud, edge, and on-premises environments.",
-                "Enterprise users gain sophisticated orchestration layers for model fine-tuning and lifecycle management of domain-specific intelligence agents.",
-                "Strategic pivot toward sovereign AI ensures large enterprises maintain full control over proprietary data and internal workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY PROGRESS",
+            "heading": "INFOWORLD: SYSTEMS ARCHITECTURE EVOLUTION",
             "points": [
-                "ASML leadership transitions to prioritize computational lithography solutions for manufacturing next-generation sub-nanometer logic and memory chips.",
-                "Strategic partnerships in India and Germany expand global manufacturing capacity for high-NA lithography systems essential for AI.",
-                "Advanced patterning techniques enable faster, energy-efficient microchips to sustain the current exponential growth in global AI compute.",
-                "Semiconductor ecosystem providers anticipate tighter integration between silicon production and hardware-level AI model optimization requirements."
+                "Mojo one point zero release introduces a systems programming language with precise memory control and robust GPU support.",
+                "Industry analysis highlights the growing trend of enterprises shifting away from general-purpose models toward specialized domain-tuned intelligence.",
+                "Google integrates CodeMender technology into its broader agent ecosystem to enhance application security and automated development workflows.",
+                "Emerging research suggests that context graphs may solve the critical memory limitations inherent in current generation AI agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STANFORD HAI: AI WORKPLACE RESEARCH",
+            "heading": "TSMC: LITHOGRAPHY ADVANCEMENT",
             "points": [
-                "Stanford HAI launches AI and Organizations Lab to study empirical impacts of agentic systems on corporate human workflows.",
-                "Research initiative focuses on organizational governance, scientific validation of AI productivity metrics, and long-term societal stability implications.",
-                "Evidence-based frameworks provide essential guidance for policymakers navigating the rapid shift toward autonomous AI labor models.",
-                "Academic focus aligns with global efforts to define robust standards for responsible implementation of high-scale industrial agents."
+                "TSMC showcases A-fourteen and A-sixteen nanosheet technologies featuring super power rail solutions for optimized artificial intelligence performance.",
+                "Strategic partnerships with global firms drive the advancement of the semiconductor manufacturing ecosystem in India and abroad.",
+                "Technology symposia emphasize the industry transition toward leadership silicon designed to support high-performance computing and generative AI needs.",
+                "Continued innovation in three-D integrated circuit design enables more compact, energy-efficient chips for modern electronic computing devices."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
