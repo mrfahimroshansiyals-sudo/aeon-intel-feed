@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Global AI Innovations",
-        "titleBlue": "Surge"
+        "titleWhite": "AGENTIC ARCHITECTURE INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT/EY: AGENTIC AI DEPLOYMENT ACCELERATION",
+            "heading": "NVIDIA: Q1 FISCAL 2027 RECORD REVENUE",
             "points": [
-                "Microsoft and EY partner, investing $1 billion, to significantly accelerate agentic AI adoption across enterprise clients.",
-                "This strategic alliance provides expert deployment assistance, overcoming technical debt and complex integration challenges.",
-                "The initiative aims to modernize infrastructure, data, and applications, integrating AI agents into core workflows efficiently.",
-                "Customers benefit from trusted experts, skilling, and investment, driving AI-powered transformation and operational efficiency."
+                "NVIDIA reported record quarterly revenue of 81.6 billion USD, representing a 20 percent increase.",
+                "Growth is driven by parabolic demand for agentic AI infrastructure and next-generation GPU deployments globally.",
+                "Leadership remains focused on energy-efficient architectures while expanding into autonomous agent and digital twin markets.",
+                "CEO Jensen Huang confirms strong strategic positioning for the upcoming AI-native 6G communications technology cycle."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "XAI/ANTHROPIC: COMPUTE MARKET EMERGENCE",
+            "heading": "AMD: TAIWAN ECOSYSTEM INVESTMENTS",
             "points": [
-                "An xAI-Anthropic agreement for AI compute resources highlights a burgeoning market for specialized, frontier-scale processing.",
-                "This signals a strategic shift where AI compute becomes a distinct, independently traded business.",
-                "Rival model makers are increasingly purchasing infrastructure from each other, optimizing resource allocation for advanced AI.",
-                "This trend solidifies compute as a foundational layer, influencing architectural sovereignty and market dynamics for large models."
+                "AMD announced over 10 billion USD in Taiwan ecosystem investments to accelerate regional AI infrastructure development.",
+                "The firm is ramping production of the next-generation Venice EPYC processor on TSMC 2nm technology nodes.",
+                "New Ryzen AI Halo developer platforms empower next-generation agent computers with advanced computational and efficiency capabilities.",
+                "Strategic moves solidify AMD presence across data center, edge, and high-performance AI personal computing hardware segments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENTERPRISE AI: INFRASTRUCTURE BOTTLENECKS",
+            "heading": "GOOGLE CLOUD: GEMINI AGENTIC SHIFT",
             "points": [
-                "Hyperscalers' aggressive AI infrastructure buildouts are causing extended lead times for critical equipment acquisition.",
-                "This constraint drives a fundamental shift towards more distributed, modular architectures to meet growing AI demands.",
-                "Enterprises like SAP face challenges exposing vast ERP data, requiring new strategies for third-party AI integration.",
-                "Overcoming data fragmentation remains crucial for effective enterprise AI, impacting personalization and operational scale."
+                "Google unveiled Gemini 3.5 Flash and Omni to provide frontier intelligence within enterprise-grade agentic workflows.",
+                "New infrastructure solutions allow developers to build, orchestrate, and govern complex autonomous agents at scale.",
+                "Google Cloud is positioning itself as the primary provider for agents that require real-time multimodal processing.",
+                "Integration with Google AI Studio streamlines the lifecycle management for businesses deploying AI-driven agentic applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.techtarget.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AGENTIC AI: ROI VALIDATION FOCUS",
+            "heading": "MICROSOFT: EY AGENTIC PARTNERSHIP",
             "points": [
-                "The primary challenge for agentic AI adoption is now demonstrating clear, measurable return on investment for enterprises.",
-                "Initial experimentation phases are concluding, pushing businesses to prove tangible payoffs beyond theoretical capabilities.",
-                "Effective integration and performance metrics are critical for validating the business value of advanced AI agent deployments.",
-                "Successfully proving ROI will drive widespread enterprise adoption, shifting agentic AI from novelty to core strategic asset."
+                "Microsoft and EY initiated a 1 billion USD partnership to accelerate the enterprise adoption of agentic AI.",
+                "Forward-deployed engineers will assist clients in rolling out agents that automate complex financial and HR workflows.",
+                "Azure is prioritizing connectivity between IT infrastructure and developer workflows to eliminate technical debt rapidly.",
+                "This strategic collaboration emphasizes a shift toward human-centered AI implementation and measurable operational return on investment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ROBOTICS AI: OPEN-SOURCE COGNITION",
+            "heading": "INFOWORLD: MOJO 1.0 MILESTONE",
             "points": [
-                "Open-source software is increasingly empowering robots with advanced cognitive functions, accelerating autonomous capabilities.",
-                "Developers are building collaborative frameworks, enabling robots to think, reason, and adapt more effectively.",
-                "This fosters innovation by lowering barriers to entry, allowing broader contributions to robotic intelligence and development.",
-                "The trend signifies a move towards more intelligent interfaces, supporting complex tasks and real-world autonomous operations."
+                "The milestone Mojo 1.0 release introduces a systems programming language with precise, low-level memory control.",
+                "Key features include strong types and native GPU programming support designed for high-performance AI infrastructure tasks.",
+                "The syntax balances Python-like ease of use with the high-performance capabilities required for modern model training.",
+                "This release directly addresses the need for efficient systems-level code in the age of generative AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: GEMINI AGENTIC EXTENSION",
+            "heading": "MISTRAL AI: FRONTIER AGENT DEPLOYMENT",
             "points": [
-                "Google introduced Gemini 3.5 Flash and Gemini Omni, enhancing agent development, orchestration, and multimodal capabilities.",
-                "These models focus on frontier intelligence and action, pushing AI agents deeper into diverse enterprise workflows.",
-                "The Gemini Enterprise Agent Platform provides a unified solution for building, deploying, and governing intelligent agents.",
-                "Innovations include \"Co-Scientist\" for collaborative AI research and \"Nano Banana\" for pro-level image generation."
+                "Mistral AI is scaling production deployment of enterprise agents with deep context and advanced model orchestration.",
+                "The platform supports self-contained private deployments on-premises, cloud, or edge environments for full data control.",
+                "New tooling facilitates end-to-end observability and operational controls for complex, multi-agent AI application development cycles.",
+                "Applied AI teams offer hands-on assistance for model distillation and synthetic data generation for specialized industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: MATHEMATICAL AI BREAKTHROUGH",
+            "heading": "TECHTARGET: AI INFRASTRUCTURE BUILD",
             "points": [
-                "An OpenAI model disproved a long-standing central conjecture in discrete geometry, advancing fundamental mathematical research.",
-                "This breakthrough showcases AI's increasing capability to contribute to abstract, theoretical scientific discovery.",
-                "Such advancements highlight the potential for AI to accelerate problem-solving in complex, previously human-dominated domains.",
-                "It demonstrates the expanding frontiers of AI beyond applications, impacting core research methodologies and knowledge creation."
+                "Hyperscalers are facing long lead times for critical equipment due to the massive global AI buildout.",
+                "Enterprises are shifting toward distributed architectural models to mitigate delays in localized hardware availability and supply.",
+                "Data fragmentation continues to serve as a significant hurdle for personalizing enterprise-level AI and customer experience.",
+                "CIOs are increasingly focused on hybrid environments that balance legacy data assets with modern generative AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
