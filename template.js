@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AI",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "OpenAI launches GPT-5.5 to deliver advanced reasoning, coding, and real-time multimodal interaction capabilities.",
-                "The architecture processes complex operational workflows with lower latency and higher token throughput efficiency.",
-                "Developers can leverage native integration frameworks to orchestrate multi-agent operations across enterprise cloud systems.",
-                "Early enterprise testing indicates substantial gains in programmatic code generation and structured data extraction tasks."
+                "OpenAI officially deployed GPT-5.5 with enhanced reasoning capabilities designed for complex multi-step agentic workflows.",
+                "Users report significant latency reductions and advanced vision-to-action accuracy across automated enterprise integration pipelines.",
+                "The model architecture bypasses standard cognitive limitations to allow continuous, self-improving autonomous execution pathways.",
+                "Enterprises must urgently realign their API consumption budgets to prevent sudden resource depletion from highly repetitive calls."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: INFRASTRUCTURE REVENUE SURGE",
+            "heading": "MICROSOFT & EY: AGENTIC ALLIANCE",
             "points": [
-                "NVIDIA reports record first quarter fiscal 2027 revenue of eighty-one point six billion dollars.",
-                "The sequential revenue increase of twenty percent reflects massive global enterprise investment in accelerated computing.",
-                "Next-generation hardware architectures continue driving market expansion for hyperscale data centers and sovereign cloud systems.",
-                "Financial metrics confirm sustained demand for advanced silicon layers optimized to train complex frontier models."
+                "Microsoft and EY announced a massive one-billion-dollar partnership to accelerate global enterprise adoption of agentic AI.",
+                "Forward-deployed engineering teams will directly integrate advanced orchestration systems across complex multinational client operations.",
+                "This initiative aims to automate legacy backend processes, transforming traditional IT service delivery into a self-governing mechanism.",
+                "Executives should prepare for rapid labor reallocation as automated systems assume routine cognitive workflows globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MODULAR: MOJO 1.0 SYSTEMS RELEASE",
+            "heading": "XAI & ANTHROPIC: COMPUTE DEAL",
             "points": [
-                "Mojo one point zero debuts by combining expressive Python syntax with high-performance Rust systems programming.",
-                "Developers gain precise memory control and native graphics processing unit programming support for enterprise workloads.",
-                "The language bridges the gap between raw hardware efficiency and rapid artificial intelligence application development.",
-                "Engineering teams can now construct high-performance machine learning pipelines without relying on complex external libraries."
+                "SpaceX financial filings revealed an unprecedented multi-million dollar infrastructure sharing agreement between xAI and rival Anthropic.",
+                "This transaction establishes a highly competitive secondary market for raw, frontier-scale machine learning compute allocation.",
+                "Model developers are bypassing traditional cloud hyperscalers to secure massive GPU capacities directly from industrial hardware pools.",
+                "Financial analysts predict compute availability will increasingly dictate the valuation and development velocity of startup model builders."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "STANFORD HAI: SCALING LAW CRACKED",
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
             "points": [
-                "Stanford researchers introduce novel model scaling laws that dramatically optimize training compute and parameter allocation.",
-                "This research changes how frontier developers allocate expensive compute resources across diverse neural network architectures.",
-                "Optimized training cycles promise to lower the financial entry barrier for training custom sovereign intelligence models.",
-                "The mathematical framework suggests substantial efficiency improvements for both dense and mixture-of-experts model structures."
+                "Google DeepMind launched Gemini Omni, enabling native real-time generation and editing across video, audio, and text.",
+                "The omni architecture minimizes cross-modal translation latency to deliver seamless human-like interactive digital agent experiences.",
+                "Integrating video, audio, and text directly into one neural network bypasses performance bottlenecks of separated models.",
+                "Software developers can now construct highly interactive customer experiences without maintaining complex pipeline translation software."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: INSTINCT MI350P NETWORKING",
+            "heading": "AMD: TSMC 2NM VENICE RAMP",
             "points": [
-                "AMD introduces Instinct MI350P PCIe GPUs alongside advanced multipath reliable connection networking technologies for scalability.",
-                "The hardware enables enterprises to deploy sovereign acceleration units within their pre-existing data center infrastructure.",
-                "Multipath reliable connection tech resolves data transmission bottlenecks that commonly plague traditional single-path networking solutions.",
-                "This deployment model directly lowers capital expenditure requirements for training complex multi-modal intelligence agents."
+                "AMD announced the production ramp of its next-generation EPYC Venice processors utilizing TSMC advanced two-nanometer process technology.",
+                "The platform delivers unparalleled efficiency gains, significantly reducing data center power overhead for large language model execution.",
+                "Securing leading-edge nanometer capacity positions AMD as a major alternative to Nvidia for sovereign AI infrastructure builds.",
+                "Data center operators should immediately evaluate cooling capabilities to accommodate next-generation ultra-dense chip designs."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: WIZ SECURITY DEPLOYMENT",
+            "heading": "MODULAR: MOJO 1.0 DEPLOYMENT",
             "points": [
-                "Google Cloud partners with Wiz to redefine enterprise security architecture for the emerging agentic computing era.",
-                "The unified safety framework mitigates shadow deployment vulnerabilities across complex hybrid and multicloud orchestration platforms.",
-                "Security orchestration systems actively scan cloud operations to verify compliance and prevent unauthorized data exfiltration.",
-                "This strategic alliance delivers real-time threat detection capabilities customized for high-throughput autonomous transaction networks."
+                "Modular officially released Mojo 1.0, combining Python accessibility with Rust-level performance and direct GPU programming support.",
+                "Systems engineers can now write highly optimized hardware-level code without discarding their existing enterprise Python libraries.",
+                "This release breaks the strict memory bottlenecks that have historically plagued massive deep learning pipeline deployments.",
+                "Development teams should begin transitioning compute-heavy pipelines to Mojo to optimize operational margins and hardware efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: A16 NANOSHEET PRODUCTION",
+            "heading": "NVIDIA: VERA CPU LAUNCH",
             "points": [
-                "TSMC highlights its A16 nanosheet architecture featuring backside power delivery designed for artificial intelligence accelerators.",
-                "Super Power Rail technology improves energy efficiency while optimizing complex signal routing across high-density computing chips.",
-                "The design promises to accelerate throughput for next-generation hardware platforms processing intensive scientific workloads.",
-                "Next-generation silicon lithography scaling continues to enable significant performance boosts for deep learning systems."
+                "NVIDIA shipped Vera, its first dedicated CPU built specifically to orchestrate autonomous multi-agent software systems.",
+                "Early adopters at top research labs report massive efficiency improvements when managing parallel agentic decision processes.",
+                "The architecture shifts processing paradigms from traditional sequential execution toward massively parallel cognitive agent task management.",
+                "Hardware architects must redesign enterprise clusters to support the unique high-bandwidth memory requirements of agentic processors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
