@@ -74,18 +74,29 @@ def main():
             # Remove any markdown artifacts
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
             
-            # Ensure the output is clean for valid JS variable assignment
+            # Ensure the output is clean for valid JSON parsing
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
             # --- VALIDATION: Ensure generated text is valid JSON ---
-            json.loads(raw_text)
+            parsed_payload = json.loads(raw_text)
+            
+            # Extract content paths from the structured JSON schema safely
+            slides_object = parsed_payload.get("slides_data", parsed_payload)
+            post_content = parsed_payload.get("social_post", "")
+            
+            # Convert extracted slides data back to a clean string format
+            slides_json_str = json.dumps(slides_object, indent=4)
             
             # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {raw_text};")
+                f.write(f"const dailyData = {slides_json_str};")
+                
+            # Save the clean free-form social media post to your root location
+            with open("post.txt", "w", encoding="utf-8") as f:
+                f.write(post_content)
                 
             return # Success
         except Exception:
