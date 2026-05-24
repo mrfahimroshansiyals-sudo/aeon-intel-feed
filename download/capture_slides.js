@@ -61,7 +61,7 @@ const path = require('path');
         if (file.includes('MAIN')) {
             newName = "slide_01.png";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_11.png";
+            newName = "slide_09.png";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
