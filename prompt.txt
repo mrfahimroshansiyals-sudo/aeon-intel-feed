@@ -45,128 +45,26 @@ Process data through this 3-stage filtration engine:
 Step 1: Source Check: Drop any entries lacking an original primary root domain.
 Step 2: Anti-Duplication: Cross-examine against the last 24 hours. Drop re-hashes.
 Step 3: Signal Matrix & Dynamic Title Synthesis: Rank items (0-10) on: Vector A (Macro/Infra), Vector B (Architecture Sovereignty), Vector C (Industrial Metric Validation). Shortlist 7 highest-scoring items.
-Dynamic Title Choice: Synthesize the core theme of the 7 items. In the 'main' JSON object, 'titleWhite' contains all words except the last, and 'titleBlue' contains ONLY the very last word. This title must be updated every hour.
+Dynamic Title Choice: Synthesize the core theme of the 7 items. In the 'main' JSON object, 'titleWhite' contains all words except the last, and 'titleBlue' contains ONLY the very last word. This combined title must be a maximum of 4 words strictly (3 white and 1 blue). This title must be updated every hour.
 
 SECTION 3: FORMATTING & HARSH CHARACTER BOUNDARIES
 Slide Headings: UPPERCASE. Max 45 chars. Format: "ORGANIZATION: CORE UPGRADE".
 Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). To maximize information density and ensure no critical data is missed from the source, each paragraph must be highly detailed and completely filled with analytical substance.
-CRITICAL AUTOMATION RULE: Do not include any bullet symbols (➔, •, -) in the content string. The engine.js automatically converts sentences into bullet points based on periods. To maximize words, expand coverage, and generate a comprehensive layout of 9 to 12 deep technical bullet points per sub-slide, ensure each of your three narrative paragraphs contains exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). Compress the entire news development so that no technical architecture, data, or operational change is missed.
-JSON Safety: Escape all double quotes inside strings using a backslash (").
+CRITICAL AUTOMATION RULE: Do not include any bullet symbols (➔, •, -) in the content string. The engine.js automatically converts sentences into bullet points based on periods. To maximize words, expand coverage, and generate a comprehensive layout of 9 to 12 deep technical bullet points per sub-slide, ensure each of your three narrative paragraphs contains exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). 
+CRITICAL LENGTH CONTROL: Each paragraph summary point must be highly precise, punchy, and not lengthy—maximum of 3 lines per individual string point constraint. Compress the entire news development so that no technical architecture, data, or operational change is missed.
+JSON Safety: Escape all double quotes inside strings using a backslash (\").
 
-SECTION 4:template.js Strict format
+SECTION 4: DATA INTERCHANGE SCHEMA SPECIFICATIONS (template.js DATA MAP)
+Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint nested inside the final wrapper. Every point string must be 12-18 words, removing any prefix text labels while retaining high-density, strategic architectural intent.
+- kicker: Static string value "AEON INTEL"
+- titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
+- titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, and audit validation metadata arrays.
 
-/**
- * SYSTEM DIRECTIVE (AI AGENT INSTRUCTION):
- * 1. OUTPUT ONLY the raw JSON object defined below.
- * 2. STRICTLY PROHIBITED: Do not include introductory text, conversational filler, 
- * or concluding remarks.
- * 3. NO MARKDOWN: Output must be pure code ready for integration with engine.js.
- * 4. COMPLIANCE: Every point must be 12-18 words, removing the "[Label]:" tags
- * while retaining the pillar-based strategic intent (Event, Impact, Context, Outlook).
- */
+SECTION 5: SOCIAL MEDIA POST FORMAT SPECIFICATIONS
+Generate an Instagram caption string block updated concurrently with the generated slides. The format must match this text structure exactly, preserving paragraph splits, line boundaries, and symbols:
 
-/* /AEON INTEL | AUDITED GLOBAL DATA INTERCHANGES 
-2S (Source-to-Signal) Verified Intelligence | Global Elite Feed
-Last Updated: May 21, 2026 | 22:15 UTC*/
-
-const dailyData = {
-  "main": {
-    "kicker": "AEON INTEL",
-    "titleWhite": "[FIRST 2-3 WORDS]",
-    "titleBlue": "[LAST 1 WORD]", 
-  },
-  "slides": [
-    {
-      "id": 1,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 2,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 3,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 4,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 5,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 6,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 7,
-      "heading": "[CATEGORY]: [4-5 WORD HEADLINE]",
-      "points": [
-        "[Insert high-density technical summary of the primary breakthrough or news event here.]",
-        "[Insert quantitative operational impact on resource allocation, efficiency, or organizational velocity here.]",
-        "[Insert strategic analysis of how this alters competitive landscape or industry-wide architecture here.]",
-        "[Insert direct implication for stakeholders and the predicted next systemic reaction here.]"
-      ],
-      "imageUrl": "[URL]",
-      "tags": ["Source: [Domain]", "Published: Last 60 Mins", "Status: Audited & True"]
-    }
-  ]
-};
-
-SECTION 5: OUTPUT TASK 2 — SOCIAL MEDIA POST GENERATOR
-Generate the Instagram caption blueprint as a single, separate block making sure that this is in post.txt file updated accordingly to template.js slides. Make sure that the format is eactly as the following with paragraphs and lines as below:
-
-🌐 [TITLE WHITE] [TITLE BLUE] from template.js
+🌐 [TITLE WHITE] [TITLE BLUE]
 Global enterprise architecture is shifting toward deep transactional autonomy, legacy infrastructure decoupling, and real-time edge security frameworks. Decode today’s primary signals:
 
 01 / [TITLE 1]
@@ -199,3 +97,103 @@ Visit our profile to explore the complete intelligence archives.
 For hourly decoded AI signals across the globe.
 
 #[8-10 HIGH-SIGNAL NEWS-SPECIFIC HASHTAGS]
+
+✦ ━━━━━━ CRITICAL MANDATORY OUTPUT WRAPPER ━━━━━━ ✦
+SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_type="application/json", you MUST package the structured payloads from Section 4 and Section 5 together inside this single, valid JSON map object shell. Do not output markdown code ticks, backticks, comments, or trailing script statements outside this pure structural map:
+
+{
+  "slides_data": {
+    "main": {
+      "kicker": "AEON INTEL",
+      "titleWhite": "[DYNAMIC MAIN TITLE WORDS EXCEPT LAST, MAX 3]",
+      "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]"
+    },
+    "slides": [
+      {
+        "id": 1,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 2,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 3,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 4,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 5,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 6,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      },
+      {
+        "id": 7,
+        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "points": [
+          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Quantitative operational impact sentence block, max 3 lines]",
+          "[Strategic architectural context sentence block, max 3 lines]",
+          "[Direct stakeholder prediction implication block, max 3 lines]"
+        ],
+        "imageUrl": "",
+        "tags": ["Source: [Domain Root URL]", "Published: Last 60 Mins", "Status: Audited & True"]
+      }
+    ]
+  },
+  "social_post": "[Insert the complete Section 5 formatted caption text string here, using escaped \\n newline tokens for line breaks, complete with emojis, division lines, and specific news hashtags]"
+}
