@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "AGENTIC COMPUTE INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: EY AGENTIC ALLIANCE",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "Microsoft and EY deploy forward-engineered agentic systems to accelerate enterprise-scale business workflow automation.",
-                "The joint one-billion-dollar initiative targets massive acceleration of enterprise artificial intelligence adoption globally.",
-                "Advanced operational structures leverage integrated Azure architectures to eliminate lingering legacy technical debt.",
-                "Corporate clients will rapidly transition from basic pilot programs to fully autonomous transactional agents."
+                "OpenAI officially launches GPT-5.5 featuring advanced reasoning capabilities and deep native multimodality integration.",
+                "Users get rapid sub-second latency reductions alongside an estimated sixty percent drop in API operational costs.",
+                "The model incorporates real-time context retrieval networks to minimize hallucinations in mission-critical corporate environments.",
+                "Global enterprises must immediately audit existing cognitive pipelines to leverage this enhanced agentic processing efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SALESFORCE: INFORMATICA DATA EXPANSION",
+            "heading": "MICROSOFT: EY AGENTIC COALITION",
             "points": [
-                "Salesforce extends headless integration architecture directly into enterprise data layers utilizing Informatica connections.",
-                "Developers bypass custom plumbing pipelines to construct secure agentic workflows across fragmented databases.",
-                "Headless database connectivity empowers direct integration of unstructured corporate data into active model layers.",
-                "Chief information officers must carefully manage transaction costs while scaling automated decision-making platforms."
+                "Microsoft partners with EY in a massive one billion dollar initiative to deploy custom agentic architectures.",
+                "Forward-deployed engineers will directly integrate autonomous cognitive agents across legacy systems for thousands of enterprise clients.",
+                "This massive framework leverages Azure cognitive services to decouple transactional business logic from brittle underlying architectures.",
+                "Chief information officers will rapidly pivot away from static pilot programs toward full-scale autonomous workforce deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "WORKDAY: SANA ITSM INTEGRATION",
+            "heading": "XAI: COMPUTE INFRASTRUCTURE SHIFT",
             "points": [
-                "Workday integrates Sana artificial intelligence agent technology into complex enterprise service management frameworks.",
-                "Unified human resources and finance pipelines receive automated context-aware support to resolve operational bottlenecks.",
-                "Cross-departmental operational structures are streamlined by merging siloed data platforms under agent orchestration.",
-                "Traditional service management providers face direct challenges from deeply embedded unified business platforms."
+                "SpaceX regulatory filings expose unique infrastructure trading deals between frontier artificial intelligence model developers for compute.",
+                "Cross-purchasing patterns indicate that raw hardware capacity has successfully evolved into a highly liquid standalone commodity.",
+                "Hyperscalers are dynamically allocating large cluster nodes to optimize training efficiencies across competing neural networks.",
+                "Venture capital firms will prioritize infrastructure-rich startups that actively hedge hardware volatility through strategic compute exchange."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "XAI: ANTHROPIC INFRASTRUCTURE SHIFT",
+            "heading": "WORKDAY: SANA ITSM INTEGRATION",
             "points": [
-                "SpaceX public filings reveal frontier artificial intelligence developers are transacting specialized computing capacity directly.",
-                "Rapidly expanding infrastructure demands establish frontier compute as a high-value standalone commercial asset class.",
-                "Model developers leverage cooperative infrastructure agreements to optimize massive training workloads across global clusters.",
-                "Independent cloud capacity shifts power away from traditional hyperscalers toward specialized infrastructure brokers."
+                "Workday expands its native Sana AI architecture deep into enterprise IT service management workflows.",
+                "This deep deployment unifies disparate human resources, finance, and operational databases into a single interface.",
+                "The unified model utilizes advanced cross-domain embeddings to maximize contextual intelligence across legacy software silos.",
+                "IT leaders should quickly evaluate this integrated suite to dramatically reduce ticket resolution times globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,28 +71,28 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "NVIDIA: VERA AGENT CHIPS",
+            "heading": "AMD: TSMC 2NM PRODUCTION",
             "points": [
-                "Nvidia launches Vera architecture representing the first central processing unit designed for agentic processing.",
-                "Advanced processing units deploy directly into top-tier research laboratories to accelerate next-generation models.",
-                "High-efficiency system-level architectures dramatically optimize energy utilization during intensive agentic operational cycles.",
-                "Semiconductor markets will favor custom-designed hardware optimized specifically for continuous multi-agent system coordination."
+                "AMD accelerates production schedules for its next-generation Venice EPYC processors using TSMC two-nanometer process technology.",
+                "Data centers will experience massive leaps in energy efficiency and computational density for dense agentic workloads.",
+                "The hardware architecture utilizes innovative backside power rail delivery systems to sustain peak multi-node execution loads.",
+                "Infrastructure engineers must redesign near-term thermal cooling strategies to support these ultra-dense silicon computing deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST SYSTEM",
+            "heading": "DEEPMIND: GEMINI OMNI PLATFORM",
             "points": [
-                "Google DeepMind introduces Co-Scientist acting as a collaborative multi-agent platform for scientific discovery.",
-                "Intelligent research agents accelerate complex material science simulations and biological structure analysis pipelines.",
-                "High-signal academic integration models leverage continuous automated research to compress historical developmental timelines.",
-                "Global laboratories will shift toward fully automated hypothesis generation and computational experimentation protocols."
+                "Google DeepMind launches Gemini Omni, a model designed to generate complex outputs starting directly from video inputs.",
+                "Developers can now orchestrate real-time multi-modal experiences with drastically reduced latency compared to sequential processing models.",
+                "The underlying architecture unifies visual, auditory, and textual streams into a single end-to-end differentiable neural network.",
+                "Software architects must prepare to build highly visual, zero-latency user experiences across spatial computing platforms globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE OPUS DEPLOYMENT",
+            "heading": "SALESFORCE: INFORMATICA DATA MERGER",
             "points": [
-                "Anthropic delivers Claude Opus four point seven offering specialized systems for coding and vision.",
-                "Enhanced frontier intelligence metrics demonstrate major operational efficiency gains across complex professional tasks.",
-                "Core safety integrations utilize rigorous scaling policies to protect automated corporate software development environments.",
-                "Software engineering teams will increasingly trust autonomous codebases to handle production-level deployment requirements."
+                "Salesforce rolls out a headless data integration engine powered by Informatica to streamline enterprise AI workflows.",
+                "Engineering teams can bypass traditional custom data pipelines, shaving weeks off complex backend enterprise application integration.",
+                "The engine establishes direct data virtualization layers, avoiding expensive replication of master record stores across systems.",
+                "CIOs must balance rapid delivery times against potential API cost increases from high-frequency queries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
