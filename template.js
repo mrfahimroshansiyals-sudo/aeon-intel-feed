@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
+            "heading": "AMD: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "OpenAI launched its next-generation GPT-5.5 model featuring native multi-modal reasoning and advanced agentic execution capabilities.",
-                "Early benchmarks demonstrate a forty percent reduction in computational latency for enterprise-grade autonomous reasoning workflows.",
-                "This architecture integrates deep reinforcement learning loops directly into the API for continuous real-time model optimization.",
-                "Developers will shift from simple prompt engineering to managing highly complex multi-agent systems at scale."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GULF REGION: AI HUB AMBITIONS",
-            "points": [
-                "Geopolitical escalations in the Middle East are testing regional ambitions to establish sovereign hyper-scale AI data centers.",
-                "Supply chain re-routing threatens to delay critical hardware imports by up to six months for regional cloud operators.",
-                "Local enterprises are shifting infrastructure strategies to prioritize decentralized edge compute architectures over centralized hubs.",
-                "Sovereign technology funds must secure alternative supply corridors to maintain momentum in global compute leadership."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: VERA AGENT CPU",
-            "points": [
-                "NVIDIA shipped its first proprietary Vera CPU engineered specifically to accelerate autonomous agentic orchestration workloads.",
-                "Top tier AI laboratories report a three-fold increase in agent transaction speeds during initial hardware testing phases.",
-                "The architecture leverages next-generation memory bandwidth interfaces to eliminate latency bottlenecks between CPU and GPU clusters.",
-                "Hardware designs will increasingly favor silicon optimized for continuous, self-improving agentic execution loops over standard server configurations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: VENICE 2NM PRODUCTION",
-            "points": [
-                "AMD initiated production ramp of its next-generation Venice EPYC processors utilizing TSMC's cutting-edge two-nanometer process technology.",
-                "The transition to two-nanometer nodes yields a thirty percent power efficiency improvement for cloud data centers.",
-                "This hardware platform implements advanced backside power delivery systems to maximize energy transmission efficiency across compute cores.",
-                "Hyper-scale cloud providers can deploy more dense compute clusters without exceeding existing facility thermal power limits."
+                "AMD announced a 10 billion dollar investment in Taiwan to accelerate AI infrastructure development and regional ecosystem growth.",
+                "New Instinct MI350P PCIe GPUs aim to enable enterprise AI deployment directly on existing server and data center infrastructure.",
+                "The company is aggressively transitioning toward agentic computing through the new Ryzen AI Halo platform for developers.",
+                "Strategic focus centers on optimizing CPUs and GPUs together to improve performance, TCO, and scalability for data centers."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +22,77 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ASML: INDIAN SEMICONDUCTOR EXPANSION",
+            "id": 2,
+            "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
             "points": [
-                "Tata Electronics partnered with ASML to build a robust semiconductor manufacturing ecosystem within the Indian subcontinent.",
-                "The partnership plans to establish localized technical training and specialized equipment support infrastructure within twenty-four months.",
-                "India is positioning itself as a reliable secondary lithography supply hub to mitigate East Asian supply chain dependencies.",
-                "Semiconductor manufacturers will increasingly decentralize fabrication facilities to safeguard global hardware assembly against regional disruptions."
+                "Google Cloud launched Gemini 3.5 Flash to provide enterprise-grade cost efficiency for high-volume AI agent workflow deployments.",
+                "New agentic Data Cloud integration bridges the gap between siloed enterprise data lakes and active AI decision engines.",
+                "Google is actively mobilizing the GEAR platform to train developers in building and orchestrating complex multi-agent systems.",
+                "The firm is pivoting its primary cloud messaging toward the agentic era, emphasizing scalability for automated business processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "TSMC: NANO-SCALE SILICON ADVANCEMENTS",
+            "points": [
+                "TSMC has fast-tracked production of A16 nanosheet technology featuring advanced backside power solutions for high-performance AI compute.",
+                "The A14 manufacturing node with NanoFlex architecture is currently being optimized for specialized large-scale AI training environments.",
+                "Leadership silicon focus remains on pushing lithography limits to support the density requirements of frontier-grade agentic hardware models.",
+                "The manufacturer is prioritizing energy-efficient architectures to sustain long-term growth in the global AI hardware demand cycle."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: AGENTIC HARDWARE ECOSYSTEM",
+            "points": [
+                "NVIDIA disclosed record fiscal results with revenue reaching 81.6 billion, driven by parabolic demand for agentic AI compute.",
+                "The Vera CPU platform is specifically engineered to power autonomous agent workflows within professional AI research laboratories.",
+                "Collaboration with Ineffable Intelligence aims to build specialized infrastructure for advanced reinforcement learning and self-improving agent models.",
+                "Corporate strategy is shifting toward pervasive agentic AI integration across cloud, edge, and localized RTX-powered developer workstations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: PRIVACY-CENTRIC DEPLOYMENT",
+            "points": [
+                "Mistral AI is scaling specialized model training and fine-tuning services for enterprise clients seeking private sovereign AI deployments.",
+                "New studio-level tools enable corporations to build custom agents with full control over data privacy and model orchestration.",
+                "The company emphasizes its open-weight model approach to facilitate faster adoption of agentic workflows in regulated maritime logistics.",
+                "Enterprise focus has transitioned from general LLMs toward purpose-built agentic stacks for localized and edge computing environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: EY AGENTIC ALLIANCE",
+            "heading": "CIO STRATEGY: AGENTIC ROI METRICS",
             "points": [
-                "Microsoft and Ernst & Young launched a one-billion-dollar initiative to accelerate enterprise adoption of agentic AI.",
-                "The joint deployment strategy leverages specialized forward-deployed engineering teams to integrate autonomous workflows across corporate clients.",
-                "Enterprises will deploy secure agent architectures directly connected to legacy enterprise resource planning database environments.",
-                "Professional service firms will transition from manual consulting to selling pre-configured autonomous digital labor platforms."
+                "Industry analysts warn that enterprise AI success now depends on moving from scattered pilot programs to infrastructure-led capacity.",
+                "CIOs are increasingly focusing on the high cost of token usage for simple automated Python-based agentic workflows.",
+                "New partnerships like Microsoft and EY demonstrate a push to deploy forward-deployed engineers for complex enterprise AI rollouts.",
+                "Management is shifting toward treating frontier-scale AI compute as a standalone business commodity rather than an IT expense."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,12 +103,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: TRANSPARENCY ENFORCEMENT",
+            "heading": "EU AI ACT: GOVERNANCE FRAMEWORKS",
             "points": [
-                "Regulators published comprehensive implementation guidelines for Article 50 transparency requirements under the European Union AI Act.",
-                "Global providers must implement strict synthetic content labeling systems prior to the August 2026 compliance deadline.",
-                "Compliance architectures require immutable logs tracking training data provenance and model decision-making lineages across all deployments.",
-                "Organizations must immediately audit their active model registries to avoid severe non-compliance penalties from European authorities."
+                "Regulatory authorities are clarifying transparency rules for general-purpose AI models, specifically impacting high-risk automated decision-making software.",
+                "The EU AI Act compliance ledger is being updated to guide SMEs through mandatory classification protocols for agentic tools.",
+                "Organizations are under pressure to establish strict provenance and auditing records for all models deployed in public-facing roles.",
+                "Governance frameworks are expanding to address the security risks posed by autonomous agents capable of independent resource execution."
             ],
             "imageUrl": "",
             "tags": [
