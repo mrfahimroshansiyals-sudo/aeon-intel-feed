@@ -9,8 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'  # Attempt 1 (Primary)
-    - cron: '46 * * * *'  # Attempt 2 (Backup Buffer)
+    - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
 
 jobs:
   run-engine:
@@ -81,10 +80,37 @@ jobs:
       - name: Render and Synchronize Visual Slide Packages
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: |
-          # 1. Give GitHub Pages a 45-second window to completely compile and host the fresh template text changes live
-          sleep 45
+          # 1. Active Deployment Synchronizer: Programmatically poll the server endpoint until the fresh commit is live
+          echo "Initiating live web server cache validation..."
+          python - << 'EOF'
+          import requests
+          import time
+          import json
           
-          # 2. Fire the headless chrome browser capture tool inside the folder
+          target_url = "https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed/template.js"
+          success = False
+          
+          # Loop for up to 5 minutes (30 checks spaced 10 seconds apart)
+          for attempt in range(30):
+              try:
+                  # Force clean network pull by appending an active cache-busting timestamp token
+                  response = requests.get(f"{target_url}?nocache={int(time.time())}", timeout=10)
+                  if response.status_code == 200 and "dailyData" in response.text:
+                      print(f"Verified: Live GitHub Pages environment has completely synchronized on attempt {attempt + 1}.")
+                      success = True
+                      break
+              except Exception as e:
+                  print(f"Polling update server... Latency detected: {str(e)}")
+              time.sleep(10)
+          
+          if not success:
+              print("Warning: Network sync timed out. Moving directly to backup buffer gate.")
+          EOF
+          
+          # 2. Hard structural safety buffer to allow complete CDN cache propogation across geographic edge networks
+          sleep 15
+          
+          # 3. Fire the headless chrome browser capture tool inside the folder
           node download/capture_slides.js
 
       - name: Commit and Push Image Asset Directories
@@ -156,7 +182,7 @@ jobs:
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ AEON INTEL SYSTEM DISPATCH</h2>
+                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ AEON INTEL SYSTEM DISPATCH</h2>
                     <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
