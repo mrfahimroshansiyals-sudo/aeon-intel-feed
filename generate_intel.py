@@ -96,7 +96,9 @@ def main():
                 
             # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
-                f.write(post_content)
+                # Safely convert raw literal \n string characters into actual structural line breaks
+                clean_post = post_content.replace('\\n', '\n')
+                f.write(clean_post)
                 
             return # Success
         except Exception:
