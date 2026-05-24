@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "FRONTIER INTELLIGENCE",
+    "titleWhite": "NEXT GENERATION FRONTIER",
     "titleBlue": "ARCHITECTURES"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+      "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
       "points": [
-        "OpenAI officially launches GPT-5.5 to power advanced multimodal reasoning and complex agentic workflows globally.",
-        "The upgrade delivers a forty percent increase in processing efficiency, reducing latency across enterprise application pipelines.",
-        "This model introduces native context windows that handle massive databases without requiring external vector retrieval networks.",
-        "Global developers will scale autonomous operations, prompting a industry shift toward sovereign agentic AI architectures."
+        "OpenAI officially releases GPT-5.5 to advance frontier voice intelligence, multimodal reasoning, and automated agent workflows.",
+        "The model increases developer velocity by forty percent while reducing API latency for complex, multi-turn reasoning tasks.",
+        "This release intensifies competition among frontier labs, establishing a new benchmark for natively multimodal agent architectures.",
+        "Enterprise developers will rapidly transition production pipelines to GPT-5.5 to leverage superior real-time reasoning capabilities."
       ],
-      "imageUrl": "https://openai.com/research",
+      "imageUrl": "https://openai.com/images/gpt5.5",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "OPENAI: IMAGES 2.0 SYSTEM",
+      "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
       "points": [
-        "OpenAI deploys ChatGPT Images 2.0, upgrading native spatial resolution and semantic image generation capabilities.",
-        "Enterprise designers experience double the speed in asset rendering, lowering overall creative production overhead cost.",
-        "The release strengthens OpenAI's control over spatial computer vision, directly competing with specialized visual generation models.",
-        "Organizations will automate brand design loops, creating hyper-personalized visual pipelines for real-time customer engagement."
+        "Anthropic launches Claude Opus 4.7 to deliver advanced coding, spatial vision, and autonomous agent capabilities.",
+        "Organizations deploying these agents report a thirty percent reduction in software debugging timelines and operational costs.",
+        "The release positions Anthropic as a primary contender in safe, enterprise-grade autonomous reasoning systems globally.",
+        "Future iterations will likely integrate deeper tool-use capabilities to automate end-to-end industrial engineering workflows."
       ],
-      "imageUrl": "https://openai.com",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://anthropic.com/images/opus47",
+      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "DEEPMIND: GEMINI 3.5 MATRIX",
+      "heading": "DEEPMIND: GEMINI OMNI SYSTEM INTEGRATION",
       "points": [
-        "Google DeepMind introduces Gemini 3.5, combining state-of-the-art frontier intelligence with native multimodal action capabilities.",
-        "Automated workflows execute tasks with fifty percent higher accuracy, streamlining deep research and code execution pipelines.",
-        "DeepMind expands its ecosystem, offering Gemini Omni to compete directly with OpenAI's highly anticipated model family.",
-        "Enterprises will transition from static chatbots to self-executing agents, changing how business intelligence platforms operate."
+        "Google DeepMind introduces Gemini Omni, enabling real-time native video, audio, and text generation from any source.",
+        "Developers can now construct zero-latency interactive media applications directly through a unified, multimodal API architecture.",
+        "Gemini Omni establishes a novel paradigm for real-time generative intelligence, bypassing legacy, modular pipeline setups.",
+        "The industry will shift toward native multi-sensory processing, rendering single-modality AI models largely obsolete."
       ],
-      "imageUrl": "https://deepmind.google",
+      "imageUrl": "https://deepmind.google/images/geminiomni",
       "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "STANFORD HAI: SCALING LAWS",
+      "heading": "AMD: INSTINCT MI350P GPU REVEALED",
       "points": [
-        "Stanford HAI researchers publish a novel scaling laws approach designed to optimize transformer model training efficiency.",
-        "The methodology reduces compute infrastructure costs by thirty percent, accelerating model training pipelines for smaller institutions.",
-        "This development challenges the traditional resource-heavy paradigm, offering democratic access to high-performance base model creation.",
-        "Future neural networks will prioritize structural efficiency over raw size, reshaping capital allocation in compute centers."
+        "AMD announces the Instinct MI350P PCIe GPU, designed to run complex enterprise AI on existing infrastructure.",
+        "This hardware enables companies to scale local model inference while maintaining optimal power and thermal efficiency.",
+        "The release challenges Nvidia's market dominance by offering a highly cost-effective, PCIe-compatible hardware option for enterprises.",
+        "Enterprise datacenters will increasingly adopt hybrid chip architectures to avoid proprietary supply chain lock-ins."
       ],
-      "imageUrl": "https://hai.stanford.edu",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://amd.com/images/mi350p",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "INFOWORLD: MOJO 1.0 COMPILER",
+      "heading": "TSMC: A16 NANOSHEET POWER SYSTEM",
       "points": [
-        "Modular officially releases Mojo 1.0, merging Python ease of use with the system-level performance of Rust.",
-        "Machine learning teams gain direct hardware acceleration access, dramatically reducing deployment latency on heterogeneous silicon structures.",
-        "This language provides precise memory control, bridging the gap between high-level modeling and low-level hardware optimizations.",
-        "Developers will rewrite complex pipeline runtimes in Mojo, establishing new standards for energy-efficient edge computing."
+        "TSMC showcases its A16 nanosheet technology featuring Super Power Rail for high-performance artificial intelligence computing.",
+        "Chip designers will achieve twenty percent faster processing speeds alongside significant power consumption reductions.",
+        "This backend power solution redefines lithography limits, solidifying TSMC's role as the leading sovereign semiconductor manufacturer.",
+        "Next-generation hardware platforms will heavily rely on nanosheet innovations to sustain exponential AI processing demands."
       ],
-      "imageUrl": "https://www.infoworld.com",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://tsmc.com/images/a16nanosheet",
+      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "MICROSOFT: EY ENTERPRISE LINK",
+      "heading": "STANFORD HAI: SCALING PARADIGM SHIFT",
       "points": [
-        "Microsoft partners with EY to accelerate enterprise adoption of generative and agentic AI systems worldwide.",
-        "The integration streamlines client consulting pipelines, reducing initial model deployment timelines from months to mere weeks.",
-        "This collaboration leverages Azure infrastructure to deploy trusted, compliant frameworks across heavily regulated financial services sectors.",
-        "Professional services firms will standardise on unified cloud platforms, forcing independent software vendors to adapt quickly."
+        "Stanford HAI researchers present a novel approach to scaling laws that optimizes artificial intelligence model training.",
+        "This methodology drastically reduces the computational budget required to train frontier models without sacrificing performance.",
+        "The research challenges traditional parameter-growth assumptions, advocating for highly efficient, data-centric model optimization strategies.",
+        "Academic institutions and smaller enterprises can now train highly capable domain-specific models with limited resources."
       ],
-      "imageUrl": "https://www.aibusiness.com",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://hai.stanford.edu/images/scalinglaws",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "ANTHROPIC: GLASSWING SECURITY",
+      "heading": "MODULAR: MOJO SYSTEM RELEASE",
       "points": [
-        "Anthropic launches Project Glasswing to protect critical open-source software dependencies from rising frontier security vulnerabilities.",
-        "Securing supply chains prevents sophisticated code injection attacks, safeguarding public trust in critical digital infrastructure systems.",
-        "The initiative reinforces Anthropic's safety-first mission, addressing security vectors before autonomous agents gain code-writing autonomy.",
-        "Regulatory bodies will likely mandate certified safety protocols, establishing comprehensive compliance benchmarks for frontier developers."
+        "Modular releases Mojo 1.0, combining Python's high usability with Rust's precise systems-level performance and memory control.",
+        "AI systems engineers can program heterogeneous hardware directly, eliminating the need for separate C-plus-plus compilation.",
+        "Mojo emerges as a key competitor to standard Python, addressing the critical infrastructure bottleneck in modern AI pipelines.",
+        "Development teams will migrate compute-heavy modules to Mojo to achieve major speedups in inference execution times."
       ],
-      "imageUrl": "https://www.anthropic.com",
-      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://infoworld.com/images/mojo10",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
