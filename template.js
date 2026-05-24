@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC COMPUTE INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "Autonomous Infrastructure",
+        "titleBlue": "Evolution"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "NVIDIA: VERA CPU RAMP",
             "points": [
-                "OpenAI officially launches GPT-5.5 featuring advanced reasoning capabilities and deep native multimodality integration.",
-                "Users get rapid sub-second latency reductions alongside an estimated sixty percent drop in API operational costs.",
-                "The model incorporates real-time context retrieval networks to minimize hallucinations in mission-critical corporate environments.",
-                "Global enterprises must immediately audit existing cognitive pipelines to leverage this enhanced agentic processing efficiency."
+                "NVIDIA deploys the Vera CPU architecture built specifically to optimize and accelerate autonomous multi-agent software workloads.",
+                "Top-tier AI research labs integrate this dedicated processor to scale agentic performance across distributed systems.",
+                "This silicon integration resolves traditional compute bottlenecks by balancing execution efficiency between CPU and GPU clusters.",
+                "Enterprise architectures will increasingly adopt custom-tailored silicon to process continuous agent actions without soaring costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: EY AGENTIC COALITION",
+            "heading": "MICROSOFT & EY: AGENTIC ALLIANCE",
             "points": [
-                "Microsoft partners with EY in a massive one billion dollar initiative to deploy custom agentic architectures.",
-                "Forward-deployed engineers will directly integrate autonomous cognitive agents across legacy systems for thousands of enterprise clients.",
-                "This massive framework leverages Azure cognitive services to decouple transactional business logic from brittle underlying architectures.",
-                "Chief information officers will rapidly pivot away from static pilot programs toward full-scale autonomous workforce deployments."
+                "Microsoft and EY establish a joint one billion dollar program to accelerate global enterprise agentic deployment.",
+                "Forward-deployed engineering squads will directly integrate these automated systems into complex client backends and environments.",
+                "This massive deployment model shifts modern software consulting from traditional pilots to full autonomous workspace integration.",
+                "Enterprise leaders must prepare infrastructure pipelines to support millions of parallel automated agentic transactions immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "XAI: COMPUTE INFRASTRUCTURE SHIFT",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "SpaceX regulatory filings expose unique infrastructure trading deals between frontier artificial intelligence model developers for compute.",
-                "Cross-purchasing patterns indicate that raw hardware capacity has successfully evolved into a highly liquid standalone commodity.",
-                "Hyperscalers are dynamically allocating large cluster nodes to optimize training efficiencies across competing neural networks.",
-                "Venture capital firms will prioritize infrastructure-rich startups that actively hedge hardware volatility through strategic compute exchange."
+                "OpenAI launches the GPT-5.5 model family to deliver significant advancements in real-world reasoning and action orchestration.",
+                "The updated model structure enables deep contextual understanding alongside native real-time voice and high-resolution vision analysis.",
+                "Developers gain access to enhanced action APIs that minimize manual planning constraints within complex enterprise applications.",
+                "Organizations can safely replace legacy decision engines with frontier models capable of autonomous multi-step execution paths."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WORKDAY: SANA ITSM INTEGRATION",
+            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST SYSTEM",
             "points": [
-                "Workday expands its native Sana AI architecture deep into enterprise IT service management workflows.",
-                "This deep deployment unifies disparate human resources, finance, and operational databases into a single interface.",
-                "The unified model utilizes advanced cross-domain embeddings to maximize contextual intelligence across legacy software silos.",
-                "IT leaders should quickly evaluate this integrated suite to dramatically reduce ticket resolution times globally."
+                "Google DeepMind introduces Co-Scientist as a multi-agent AI system designed to accelerate global academic scientific discovery.",
+                "Initial real-world implementations show the autonomous network generating valid hypotheses and designing laboratory protocol simulations successfully.",
+                "This system architecture relies on highly collaborative research agents sharing real-time context across complex physical domains.",
+                "Academic and pharmaceutical laboratories will leverage this automated pipeline to compress decades of manual research timelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: TSMC 2NM PRODUCTION",
+            "heading": "INFOWORLD: MOJO 1.0 SYSTEM",
             "points": [
-                "AMD accelerates production schedules for its next-generation Venice EPYC processors using TSMC two-nanometer process technology.",
-                "Data centers will experience massive leaps in energy efficiency and computational density for dense agentic workloads.",
-                "The hardware architecture utilizes innovative backside power rail delivery systems to sustain peak multi-node execution loads.",
-                "Infrastructure engineers must redesign near-term thermal cooling strategies to support these ultra-dense silicon computing deployments."
+                "Modular officially launches the Mojo one point zero systems programming language for production-grade AI development workloads.",
+                "The production-ready release offers hardware-level memory safety alongside direct execution access to GPU and accelerator clusters.",
+                "This system merges Python usability with Rust performance to eliminate the structural double-codebase problem in enterprise pipelines.",
+                "Engineers will transition massive software systems to Mojo to optimize operational runtime efficiency and lower compute costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPMIND: GEMINI OMNI PLATFORM",
+            "heading": "TSMC: A16 NANOSHEET PLATFORM",
             "points": [
-                "Google DeepMind launches Gemini Omni, a model designed to generate complex outputs starting directly from video inputs.",
-                "Developers can now orchestrate real-time multi-modal experiences with drastically reduced latency compared to sequential processing models.",
-                "The underlying architecture unifies visual, auditory, and textual streams into a single end-to-end differentiable neural network.",
-                "Software architects must prepare to build highly visual, zero-latency user experiences across spatial computing platforms globally."
+                "Taiwan Semiconductor Manufacturing Company advances high-performance silicon by introducing the innovative A16 nanosheet process technology.",
+                "The architecture integrates an advanced backside power solution called Super Power Rail to maximize energy transmission efficiency.",
+                "This physical layout is designed explicitly to fulfill the massive power delivery demands of next-generation AI processors.",
+                "Future hardware designs will achieve unprecedented density levels to support increasingly complex multi-agent software operational environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SALESFORCE: INFORMATICA DATA MERGER",
+            "heading": "XAI & ANTHROPIC: COMPUTE EXCHANGE",
             "points": [
-                "Salesforce rolls out a headless data integration engine powered by Informatica to streamline enterprise AI workflows.",
-                "Engineering teams can bypass traditional custom data pipelines, shaving weeks off complex backend enterprise application integration.",
-                "The engine establishes direct data virtualization layers, avoiding expensive replication of master record stores across systems.",
-                "CIOs must balance rapid delivery times against potential API cost increases from high-frequency queries."
+                "Financial disclosures reveal frontier AI developers are buying and selling vast quantities of server capacity directly.",
+                "This transactional behavior establishes a standalone market where raw compute functions as a highly liquid tradeable asset.",
+                "Model developers leverage these exchanges to quickly secure high-performance GPU clusters without waiting for traditional hyperscaler allocations.",
+                "Global energy and compute markets will see major pricing shifts as physical processing infrastructure becomes highly securitized."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
