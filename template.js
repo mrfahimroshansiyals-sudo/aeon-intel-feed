@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleWhite": "NEXT GEN AGENTIC",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "OpenAI introduces GPT-5.5 model, providing deep multi-modal integration and native code optimization pipelines.",
-                "Performance metrics indicate a fifty percent efficiency increase in structural coding workflows over previous models.",
-                "The model integrates directly into existing enterprise IDE architectures to automate complex legacy codebase migrations.",
-                "Developers can leverage autonomous execution agents to significantly reduce software development lifecycles and maintenance costs."
+                "OpenAI officially launches GPT-5.5 establishing a new frontier for high-capacity reasoning and advanced multi-agent coordination.",
+                "Early benchmarks show a forty percent increase in complex code synthesis and multi-step analytical execution workflows.",
+                "The architecture leverages dynamic mixture-of-experts to scale context processing while maintaining optimal compute efficiency metrics.",
+                "Enterprise architects should prepare for rapid legacy system integration as autonomous reasoning capabilities become standard."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: EY AGENTIC ALLIANCE",
+            "heading": "DEEPMIND: GEMINI 3.5 DEPLOYMENT",
             "points": [
-                "Microsoft partners with Ernst and Young in a landmark enterprise deployment initiative worth one billion dollars.",
-                "The alliance intends to deploy complex agentic workflows directly into global financial and advisory operations.",
-                "Engineers will integrate Azure cognitive resources to solve critical transaction friction and audit processing delays.",
-                "Corporate enterprise clients can anticipate automated compliance monitoring and streamlined multi-national tax reporting pipelines."
+                "Google DeepMind releases Gemini 3.5 engineered specifically to combine frontier-level multimodal intelligence with autonomous digital actions.",
+                "Operational latency has decreased by fifty percent across large-scale enterprise agent orchestration networks.",
+                "The model integrates native tools for direct API interaction allowing autonomous execution without third-party middleware layers.",
+                "CTOs must shift development focus from simple retrieval architectures to active multi-agent transactional systems immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "XAI: ANTHROPIC COMPUTE TRADING",
+            "heading": "NVIDIA: VERA AGENTIC CPU",
             "points": [
-                "SpaceX financial disclosures reveal a secondary market where xAI and Anthropic trade critical frontier compute capacity.",
-                "Dynamic compute resource sharing optimizes operational efficiency across competing foundational models during peak training runs.",
-                "This development establishes cloud infrastructure compute as a highly liquid standalone commodity in enterprise tech.",
-                "Industry leaders predict model developers will increasingly form strategic consortiums to secure massive raw hardware allocations."
+                "NVIDIA debuts the Vera CPU designed as the industry's first processor dedicated to hosting autonomous agent workloads.",
+                "Hardware integration delivers a three-times boost in local agent reasoning throughput compared to traditional enterprise chips.",
+                "The architecture features dedicated memory pools optimized for low-latency context window swapping during complex multi-agent reasoning.",
+                "Infrastructure teams should accelerate next-generation hardware procurement to support emerging agent-native software stacks locally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAP: ERP DATA INTEGRATION",
+            "heading": "AMD: VENICE 2NM TSMC PRODUCTION",
             "points": [
-                "SAP navigates intense pressure from customers demanding open data pipelines for external generative artificial intelligence.",
-                "Enterprise clients seek direct API access to deep transactional databases without incurring excessive licensing surcharges.",
-                "This tension highlights a growing architectural conflict between legacy software lock-in and open ecosystem agility.",
-                "Chief Information Officers must design robust data virtualization layers to safely expose core ERP records securely."
+                "AMD announces the production ramp of next-generation Venice EPYC processors using TSMC's state-of-the-art 2nm process technology.",
+                "High-performance computing nodes achieve up to thirty percent energy efficiency gains during sustained AI training runs.",
+                "Transitioning to nanosheet transistors with backside power delivery solves critical thermal and power delivery challenges in data centers.",
+                "Hyperscalers will secure early allocations of these 2nm chips to dominate the sovereign AI infrastructure landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: SCIENTIFIC DISCOVERY ENGINES",
+            "heading": "DEEPMIND: CO-SCIENTIST SYSTEM",
             "points": [
-                "Google DeepMind launches Gemini Omni and Antigravity models, accelerating complex physical simulation and scientific discovery.",
-                "Real-time multi-modal parsing enables immediate analysis of astronomical datasets and complex molecular structures simultaneously.",
-                "Deep science platforms transition away from narrow heuristics toward highly generalized physical world modeling engines.",
-                "Research institutions can deploy these specialized agents to autonomously formulate and test novel chemical synthesis hypotheses."
+                "Google DeepMind introduces Co-Scientist a collaborative multi-agent system designed to accelerate global scientific research and discovery.",
+                "Pilot programs demonstrate a ten-fold reduction in literature synthesis times and experimental design formulation phases.",
+                "The system links domain-specialized academic models together using a master orchestration protocol for unified cross-disciplinary reasoning.",
+                "Academic and corporate research laboratories must implement agentic verification protocols to validate autonomous scientific hypotheses."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AMD: TSMC 2NM VENICE PRODUCTION",
+            "heading": "MICROSOFT: EY AGENTIC AI",
             "points": [
-                "AMD initiates the production ramp of its next-generation Venice EPYC server processors utilizing advanced silicon lithography.",
-                "Leveraging TSMC's cutting-edge two-nanometer process technology delivers massive generational performance per watt improvements.",
-                "The processor design integrates specialized hardware matrix engines optimized for executing localized sovereign LLM workloads.",
-                "Hyperscalers and cloud operators can expect drastic rack power density reductions and improved hardware consolidation ratios."
+                "Microsoft and EY launch a massive one billion dollar initiative to deploy agentic AI workflows across corporate enterprises.",
+                "The partnership aims to automate complex financial audit and regulatory compliance tasks across thousands of global client networks.",
+                "Microsoft is deploying forward-integrated engineers to directly customize copilot and agentic templates for complex enterprise infrastructures.",
+                "Strategic consultants expect this rollout to trigger massive workforce reallocation toward high-leverage analytical roles in professional services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: TATA SEMICONDUCTOR PARTNERSHIP",
+            "heading": "MODULAR: MOJO 1.0 SYSTEM LAUNCH",
             "points": [
-                "ASML establishes a landmark strategic partnership with Tata Electronics to advance India's nascent semiconductor manufacturing ecosystem.",
-                "The collaboration delivers advanced deep ultraviolet lithography systems directly to upcoming commercial fabrication facilities.",
-                "Global supply chain resilience improves as physical chip manufacturing capabilities diversify outside historically concentrated geographic zones.",
-                "Indian hardware developers can now build and scale localized sovereign electronic components for international trade."
+                "Modular releases Mojo 1.0 combining the systems programming power of Rust with the elegant simplicity of Python.",
+                "Developers can achieve up to a sixty percent improvement in GPU compilation times for complex neural architectures.",
+                "The language features precise memory management controls and native hardware acceleration support for cutting-edge edge AI processors.",
+                "Software engineering teams should evaluate Mojo 1.0 for latency-critical production workloads currently bottlenecked by traditional interpreted environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
