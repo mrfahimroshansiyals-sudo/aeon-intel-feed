@@ -125,36 +125,36 @@ body {
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     text-align: left;
-    padding: 25px 0 25px 0; /* Defensive internal padding clearance frames protect long ascenders and descenders from clipping */
+    padding: 15px 0 15px 0; /* Clear internal breathing space prevents ascender cropping */
     display: flex;
-    flex-direction: column; /* Stacks lines vertically into structural positions */
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
     max-width: 780px; 
-    height: 600px; /* Locked bounding box area ensures titles fit exactly across up to 4 lines max */
+    min-height: 520px; /* Replaces the restrictive height cap with a safe baseline layout container */
     overflow: hidden;
 }
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important; /* Block layout blocks erratic mid-word line-wrapping bugs */
+    display: block !important;
     width: 100%;
-    font-size: clamp(80px, 14.5cqw, 155px) !important; /* Maximized font scaling size within container boundaries */
-    line-height: 0.85 !important; /* Compressed layout metric delivers premium look without overlapping cuts */
+    font-size: clamp(85px, 11.5cqw, 135px) !important; /* Adjusted scale factor keeps layout bounds balanced and stable */
+    line-height: 0.90 !important; /* Clean line-height eliminates overlapping issues */
     font-weight: 1500 !important;
     letter-spacing: -2px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
-    word-break: break-all !important; /* Protects layouts by preventing ultra-long text from bleeding horizontally */
-    white-space: nowrap !important; /* Keeps individual string elements neatly on their assigned line */
+    word-break: break-all !important; 
+    white-space: nowrap !important; 
     color: var(--text-white);
     text-align: left;
     margin-right: 0px;
-    margin-bottom: 8px; /* Balanced spacing index */
+    margin-bottom: 0px; /* Cleared erratic spacing variables */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -164,7 +164,7 @@ body {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
     margin-right: 0px;
-    margin-top: auto; /* Dynamic anchor pushing the blue text keyword down onto the 4th line boundary */
+    margin-top: auto; /* Solid alignment anchor locks blue keyword cleanly onto the 4th line boundary */
 }
 
 .main-hook-style .bulletin-container {
