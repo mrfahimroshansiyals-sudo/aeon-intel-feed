@@ -82,15 +82,15 @@ body {
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 100px;
-    padding-left: 200px;
-    padding-right: 100px;
-    padding-bottom: 100px;
-    max-height: 1120px;
+    padding-top: 120px;
+    padding-left: 160px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+    max-height: 1150px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     text-align: left;
 }
@@ -100,7 +100,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding: 0;
 }
 
@@ -118,7 +118,7 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     text-align: left;
     padding: 0;
 }
@@ -127,49 +127,47 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 40px;
     text-align: left;
-    padding: 40px 0 40px 0; /* FIXED: Deep vertical safety offsets shield scaled baselines from canvas bounds */
+    padding: 20px 0 20px 0; /* Clear native font ascender thresholds */
     display: flex;
-    flex-direction: column; /* FIXED: Stabilizes structure line by line to support absolute alignment tracking */
+    flex-direction: column; /* Force clean structured lines instead of unpredictable text wrapping */
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
-    max-width: 820px; 
-    max-height: 680px; 
+    max-width: 800px; 
+    height: 580px; /* Lock bounding area for the text engine */
     overflow: hidden;
 }
 
-/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
+/* Base properties applied to each word segment within the H1 - MAXIMIZED & RESPONSIVE */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important; /* FIXED: Prevents horizontal line bypass layout splitting */
+    display: block !important;
     width: 100%;
-    transform: scaleY(1.5);
-    transform-origin: left center; /* FIXED: Symmetrical transformation pivot absorbs geometric drift */
-    font-size: clamp(45px, 8.2cqw, 95px) !important; /* FIXED: Intelligent font scale limits content to 4 lines maximum */
-    line-height: 1.80 !important; /* FIXED: High tolerance tracking track provides absolute vertical text padding */
+    font-size: clamp(80px, 14.5cqw, 155px) !important; /* Maximized font scaling system */
+    line-height: 0.95 !important; /* Tight line layout spacing to prevent vertical bleed */
+    font-stretch: condensed !important; /* Native component compression without transform clipping */
     font-weight: 1500 !important;
-    letter-spacing: -1px !important;
+    letter-spacing: -2px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
-    word-break: break-word !important; /* FIXED: Forces long words to gracefully execute wrap calculations */
-    white-space: normal !important; 
+    word-break: break-all !important; /* Ensures ultra long words match the box width perfectly */
+    white-space: nowrap !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 14px; /* FIXED: Buffers rows to cleanly prevent bounding track collisions */
+    margin-bottom: 12px;
 }
 
-/* Force the very last word in the layout container to turn dark blue */
+/* Force the very last word in the layout container to turn dark blue and lock to line 4 */
 .main-hook-style header h1 span:last-child,
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
-    margin-right: 0px;
-    margin-top: auto; /* FIXED: Automatically pins the key blue phrase tracking to the bottom row hook */
+    margin-top: auto; /* Push line downward if earlier lines contain fewer items */
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: 20px;
+    margin-top: 30px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
