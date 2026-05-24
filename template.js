@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED FRONTIER",
-        "titleBlue": "COMPUTATION"
+        "titleWhite": "FORGING AUTONOMOUS",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEBUT",
+            "heading": "OPENAI: GPT-5.5 ENGINE DEPLOYMENT",
             "points": [
-                "OpenAI has officially introduced its newest frontier model GPT-5.5 to power advanced cognitive workflows globally.",
-                "The model improves multi-modal inference throughput by forty percent while reducing processing latency across critical enterprise API pipelines.",
-                "This integration decouples legacy database structures and establishes a new baseline for high-speed automated business intelligence systems.",
-                "Developers can now deploy real-time contextual updates natively within ChatGPT to optimize customer-facing applications."
+                "OpenAI officially deploys GPT-5.5 to enhance reasoning, safety alignment, and multimodal capabilities across real-time APIs.",
+                "Early enterprise integrations demonstrate a forty percent reduction in processing latency during highly complex multi-step reasoning workflows.",
+                "The architecture establishes a native content provenance layer to ensure transparent output verification and developer safety controls.",
+                "Global developers anticipate massive shifts in agentic automation efficiency as cost-to-performance ratios improve significantly."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
+            "heading": "NVIDIA: Q1 FISCAL SURGE",
             "points": [
-                "Anthropic released Claude Opus 4.7 featuring enhanced agentic capabilities for professional coding and multi-modal vision tasks.",
-                "The model achieves unparalleled accuracy in self-contained software engineering environments and complex remote robotic operations.",
-                "By deploying autonomous loops, enterprise architectures transition from simple chat interfaces to transactional execution systems.",
-                "Organizations will dramatically accelerate their modernization roadmap using highly secure sandboxed model environments for automated deployments."
+                "NVIDIA records eighty-one point six billion dollars in first-quarter revenue, marking twenty percent sequential quarterly growth.",
+                "The hyper-scale demand for advanced AI chips drives unprecedented platform utilization across global sovereign cloud computing partners.",
+                "Board expansion and strategic management updates solidify leadership stability during rapid global silicon supply chain re-architecting.",
+                "Enterprise investors forecast continued financial momentum as next-generation architecture production ramps up to meet backlog demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEEPMIND: GEMINI 3.5 SERIES",
+            "heading": "MICROSOFT: AZURE DATABASE ACCELERATION",
             "points": [
-                "Google DeepMind launched Gemini 3.5 and Gemini Omni to enable real-time generation from multi-modal video inputs.",
-                "The updated architecture increases cross-modal processing efficiency by fifty percent across complex science and engineering workflows.",
-                "Implementing a unified model framework eliminates the need for separate audio, video, and text processing pipelines.",
-                "Enterprises will leverage this unified cognitive layer to orchestrate automated industrial operations with high contextual accuracy."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TSMC: A16 NANOSHEET ARCHITECTURE",
-            "points": [
-                "TSMC introduced its A16 nanosheet technology integrating an innovative backside power solution for high-performance computing.",
-                "The design improves power delivery efficiency by twenty percent and enhances transistor density for massive artificial intelligence workloads.",
-                "Decoupling power distribution from signal routing overcomes traditional silicon scaling bottlenecks in next-generation accelerator hardware.",
-                "Microchip architects will utilize this backside power rail to design highly efficient, compact hardware accelerators."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "INFOWORLD: MOJO 1.0 SYSTEMS",
-            "points": [
-                "Mojo 1.0 has launched, blending Python syntax with Rust-like memory control for advanced GPU-level programming.",
-                "The compiler optimizes raw system resources, driving execution speeds up to one hundred times faster than standard Python.",
-                "This hybrid language provides system architects precise control without sacrificing developer velocity during high-performance model training.",
-                "Engineering teams will rapidly transition machine learning pipelines to this unified syntax to minimize infrastructure costs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: AZURE AGENTIC WORKFLOWS",
-            "points": [
-                "Microsoft announced new agentic capabilities connecting Azure and GitHub in a single automated developer workflow.",
-                "The integration reduces context switching times and accelerates software development cycles across cloud infrastructure projects.",
-                "Orchestrating multi-model systems directly within the repository enhances governance and continuous integration security parameters.",
-                "Enterprise developers can now automate complex coding tasks while maintaining rigorous compliance checks within secure cloud environments."
+                "Microsoft launches Azure Accelerate for Databases to streamline enterprise data modernization ahead of large-scale agentic deployments.",
+                "Automated migration frameworks reduce legacy data modernization costs by up to thirty percent for major financial institutions.",
+                "New agentic integration capabilities connect IT operations directly with development pipelines in single, unified cloud workflows.",
+                "Chief technology officers can expect rapid migration cycles and immediate performance enhancements across critical production workloads."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ALIBABA: INDEPENDENT SILICON STRATEGY",
+            "id": 4,
+            "heading": "AMD: INSTINCT METRIC OPTIMIZATION",
             "points": [
-                "Alibaba is accelerating its domestic silicon strategy by designing custom chips and models to ensure architectural sovereignty.",
-                "This initiative decreases reliance on external hardware providers while optimizing deep learning performance across regional data centers.",
-                "Establishing sovereign hardware supply chains protects cloud infrastructure from global trade disruptions and policy fluctuations.",
-                "Regional enterprises will benefit from localized, high-performance computing infrastructure tailored for large-scale production models."
+                "AMD introduces Instinct MI350P PCIe graphics processing units designed to accelerate enterprise AI within existing server setups.",
+                "Integrating advanced Multipath Reliable Connection technology significantly mitigates network packet loss challenges in high-bandwidth computing fabrics.",
+                "The hardware portfolio combines adaptive computing architectures to ensure optimal resource efficiency during massive model training runs.",
+                "Data center administrators gain unprecedented infrastructure flexibility without requiring costly power grid modifications or cooling system redesigns."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "STANFORD HAI: SCALING LAW INNOVATION",
+            "points": [
+                "Researchers propose a novel scaling law methodology that could completely transform how modern generative models undergo training.",
+                "The dynamic training approach optimizes computational efficiency, cutting raw training energy consumption by up to twenty-five percent.",
+                "Stanford launches a specialized Organization Lab to systematically investigate the operational impact of AI agents on workforces.",
+                "Industry stakeholders expect this research to democratize high-tier training capabilities for medium enterprises lacking massive supercomputers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://hai.stanford.edu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "INFOWORLD: MOJO SYSTEM RELEASE",
+            "points": [
+                "Modular officially launches Mojo version one point zero, blending Python usability with Rust system-level memory safety controls.",
+                "Developers gain precise hardware control and native graphic processing unit programming support directly within the unified runtime.",
+                "Modern enterprise teams can bypass complex compiler setups to build highly optimized machine learning pipelines with ease.",
+                "Systems engineers predict rapid migration from pure Python scripts to native Mojo compiled codebases across production pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
+            "points": [
+                "Google Cloud rolls out specialized Gemini Enterprise capabilities focusing on multi-agent development, orchestration, and real-time data governance.",
+                "Upgraded container services accelerate dynamic agent deployment times from hours to mere seconds across globally distributed networks.",
+                "Integrated security frameworks developed with partners secure the enterprise system of action against potential prompt injection attacks.",
+                "Operations directors anticipate widespread enterprise automation deployment as multi-agent orchestration becomes a standard cloud-native feature."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
