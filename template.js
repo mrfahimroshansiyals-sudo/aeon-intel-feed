@@ -1,12 +1,18 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
+<<<<<<< Updated upstream
     "titleWhite": "NEXT GENERATION FRONTIER",
     "titleBlue": "ARCHITECTURES"
+=======
+    "titleWhite": "SYSTEMIC FRONTIER",
+    "titleBlue": "ACCELERATION"
+>>>>>>> Stashed changes
   },
   "slides": [
     {
       "id": 1,
+<<<<<<< Updated upstream
       "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
       "points": [
         "OpenAI officially releases GPT-5.5 to advance frontier voice intelligence, multimodal reasoning, and automated agent workflows.",
@@ -15,10 +21,21 @@ const dailyData = {
         "Enterprise developers will rapidly transition production pipelines to GPT-5.5 to leverage superior real-time reasoning capabilities."
       ],
       "imageUrl": "https://openai.com/images/gpt5.5",
+=======
+      "heading": "OPENAI: GPT-5.5 ENGINE DEPLOYMENT",
+      "points": [
+        "OpenAI released GPT-5.5, introducing enhanced multi-modal reasoning and major core intelligence upgrades for global developer ecosystems.",
+        "The model optimizes inference efficiency, slashing execution costs for high-throughput enterprise API workloads by twenty percent.",
+        "This architectural jump intensifies the frontier foundation model race, pressuring competitors to accelerate their respective release pipelines.",
+        "Stakeholders should expect rapid orchestration middleware upgrades as enterprise developers immediately integrate this advanced reasoning engine."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+>>>>>>> Stashed changes
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
+<<<<<<< Updated upstream
       "heading": "ANTHROPIC: CLAUDE OPUS 4.7",
       "points": [
         "Anthropic launches Claude Opus 4.7 to deliver advanced coding, spatial vision, and autonomous agent capabilities.",
@@ -27,10 +44,21 @@ const dailyData = {
         "Future iterations will likely integrate deeper tool-use capabilities to automate end-to-end industrial engineering workflows."
       ],
       "imageUrl": "https://anthropic.com/images/opus47",
+=======
+      "heading": "ANTHROPIC: CLAUDE OPUS 4.7 ARCHITECTURE",
+      "points": [
+        "Anthropic launched Claude Opus 4.7, delivering major improvements in coding capability, agentic vision, and complex multi-modal workflows.",
+        "Operational testing shows massive latency reductions in code generation pipelines, saving engineering teams substantial development hours daily.",
+        "The release establishes a new baseline for agentic autonomy, challenging traditional software development platforms with native code integration.",
+        "Enterprise architects must pivot toward agentic deployment strategies as autonomous code synthesis becomes a highly stable operational standard."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1684369175833-316ab364654b?auto=format&fit=crop&w=800&q=80",
+>>>>>>> Stashed changes
       "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
+<<<<<<< Updated upstream
       "heading": "DEEPMIND: GEMINI OMNI SYSTEM INTEGRATION",
       "points": [
         "Google DeepMind introduces Gemini Omni, enabling real-time native video, audio, and text generation from any source.",
@@ -63,10 +91,45 @@ const dailyData = {
         "Next-generation hardware platforms will heavily rely on nanosheet innovations to sustain exponential AI processing demands."
       ],
       "imageUrl": "https://tsmc.com/images/a16nanosheet",
+=======
+      "heading": "MICROSOFT: EY AGENTIC INTEGRATION PACT",
+      "points": [
+        "Microsoft partnered with EY to accelerate enterprise adoption of agentic AI systems across legacy operational consulting environments.",
+        "This alliance targets rapid workflow modernization, significantly lowering deployment costs and reducing integration bottlenecks for enterprise clients.",
+        "By embedding agentic frameworks into consulting workflows, the partnership shifts traditional IT advisory service delivery paradigms globally.",
+        "Competitors will likely form similar professional services alliances to counter Microsoft's growing distribution footprints in corporate finance."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 4,
+      "heading": "STANFORD HAI: NOVEL SCALING LAW METHOD",
+      "points": [
+        "Stanford HAI researchers proposed an alternative scaling law methodology that fundamentally reshapes modern neural network training protocols.",
+        "The approach allows labs to optimize computation budgets, potentially lowering pre-training cluster electricity requirements by fifteen percent.",
+        "This research challenges current capital-intensive scaling assumptions, providing open-source developers with efficient paths to frontier capabilities.",
+        "Model developers will likely adjust empirical training mixtures to leverage these refined resource allocations in upcoming development cycles."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 5,
+      "heading": "TSMC: A16 NANOSHEET BACKSIDE POWER",
+      "points": [
+        "TSMC introduced its A16 nanosheet architecture featuring an innovative Super Power Rail backside power distribution solution.",
+        "This silicon breakthrough optimizes high-performance computing chip performance, boosting overall power delivery efficiency by up to twenty percent.",
+        "The architectural advancement solidifies TSMC's dominance in AI hardware manufacturing, extending its technical lead over competing foundry networks.",
+        "Hyperscalers design next-generation custom accelerators around the A16 process, planning hardware refreshes to secure ultra-dense compute nodes."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+>>>>>>> Stashed changes
       "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
+<<<<<<< Updated upstream
       "heading": "STANFORD HAI: SCALING PARADIGM SHIFT",
       "points": [
         "Stanford HAI researchers present a novel approach to scaling laws that optimizes artificial intelligence model training.",
@@ -88,6 +151,29 @@ const dailyData = {
       ],
       "imageUrl": "https://infoworld.com/images/mojo10",
       "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+=======
+      "heading": "MODULAR: MOJO 1.0 PRODUCTION RELEASE",
+      "points": [
+        "Modular officially released Mojo 1.0, combining Python's high-level syntax with Rust's precise memory safety and GPU programming features.",
+        "This milestone enables developers to deploy high-performance hardware-level code without writing complex C++ or specialized CUDA drivers.",
+        "Mojo 1.0 disrupts the machine learning infrastructure landscape by unifying model research and execution within one unified language.",
+        "Engineers will increasingly migrate legacy Python pipelines to Mojo to gain massive performance boosts without retraining technical staff."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 7,
+      "heading": "AMD: MULTIPATH RELIABLE AI NETWORKING",
+      "points": [
+        "AMD unveiled Multipath Reliable Connection networking to address data transfer bottlenecks plaguing massive multi-GPU scaling configurations.",
+        "The technology dramatically reduces inter-node communication latency, driving higher collective GPU training throughput during large model training.",
+        "This architecture weakens reliance on proprietary networking fabrics, offering an open alternative for hyper-scale cluster interconnect protocols.",
+        "System architects will likely evaluate AMD's networking framework to build more resilient and vendor-neutral AI supercomputing clusters."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+>>>>>>> Stashed changes
     }
   ]
 };
