@@ -82,15 +82,15 @@ body {
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 120px;
-    padding-left: 160px;
-    padding-right: 120px;
-    padding-bottom: 120px;
-    max-height: 1150px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    max-height: 1120px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     text-align: left;
 }
@@ -100,7 +100,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     padding: 0;
 }
 
@@ -118,56 +118,57 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     text-align: left;
     padding: 0;
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     text-align: left;
-    padding: 20px 0 20px 0; /* Clear native font ascender thresholds */
+    padding: 25px 0 25px 0; /* Defensive internal padding clearance frames protect long ascenders and descenders from clipping */
     display: flex;
-    flex-direction: column; /* Force clean structured lines instead of unpredictable text wrapping */
+    flex-direction: column; /* Stacks lines vertically into structural positions */
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
-    max-width: 800px; 
-    height: 580px; /* Lock bounding area for the text engine */
+    max-width: 780px; 
+    height: 600px; /* Locked bounding box area ensures titles fit exactly across up to 4 lines max */
     overflow: hidden;
 }
 
-/* Base properties applied to each word segment within the H1 - MAXIMIZED & RESPONSIVE */
+/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important;
+    display: block !important; /* Block layout blocks erratic mid-word line-wrapping bugs */
     width: 100%;
-    font-size: clamp(80px, 14.5cqw, 155px) !important; /* Maximized font scaling system */
-    line-height: 0.95 !important; /* Tight line layout spacing to prevent vertical bleed */
-    font-stretch: condensed !important; /* Native component compression without transform clipping */
+    font-size: clamp(80px, 14.5cqw, 155px) !important; /* Maximized font scaling size within container boundaries */
+    line-height: 0.85 !important; /* Compressed layout metric delivers premium look without overlapping cuts */
     font-weight: 1500 !important;
     letter-spacing: -2px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
-    word-break: break-all !important; /* Ensures ultra long words match the box width perfectly */
-    white-space: nowrap !important;
+    word-break: break-all !important; /* Protects layouts by preventing ultra-long text from bleeding horizontally */
+    white-space: nowrap !important; /* Keeps individual string elements neatly on their assigned line */
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 12px;
+    margin-right: 0px;
+    margin-bottom: 8px; /* Balanced spacing index */
 }
 
-/* Force the very last word in the layout container to turn dark blue and lock to line 4 */
+/* Force the very last word in the layout container to turn dark blue */
 .main-hook-style header h1 span:last-child,
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
-    margin-top: auto; /* Push line downward if earlier lines contain fewer items */
+    margin-right: 0px;
+    margin-top: auto; /* Dynamic anchor pushing the blue text keyword down onto the 4th line boundary */
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: 30px;
+    margin-top: 20px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
