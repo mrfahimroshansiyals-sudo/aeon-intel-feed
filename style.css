@@ -1,7 +1,7 @@
 /* --- AEON INTEL GLOBAL THEME VARIABLES --- */
 @font-face {
     font-family: 'Proelium';
-    src: url('fonts/Proelium.tff') format('truetype');
+    src: url('fonts/proelium.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -9,6 +9,13 @@
 @font-face {
     font-family: 'Redick';
     src: url('fonts/Redick.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'anteroly';
+    src: url('fonts/anteroly.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -131,11 +138,11 @@ body {
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: inline-block !important; /* Changed to inline-block for transform support */
-    transform: scaleY(1.5); /* Vertical Stretch */
+    display: inline-block !important;
+    transform: scaleY(1.5);
     transform-origin: left;
     font-size: clamp(80px, 12cqw, 140px) !important; 
-    line-height: 1.4 !important; /* Increased to account for vertical scale */
+    line-height: 1.4 !important;
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
@@ -214,7 +221,6 @@ body {
 }
 
 .sub-slide-style header {
-    /* FIXED HEIGHT TO ENSURE BULLETS STAY IN THE SAME POSITION */
     min-height: 250px; 
     display: flex;
     flex-direction: column;
