@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN SILICON",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "ADVANCING ARCHITECTURAL",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 ARCHITECTURE",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "OpenAI has formally introduced the frontier GPT-5.5 model, optimizing multi-modal workflows and native agentic autonomy.",
-                "The architecture achieves unprecedented context recognition, significantly decreasing hallucination rates across highly sensitive corporate databases.",
-                "Enhanced voice capabilities are delivered natively via APIs, allowing low-latency transactional integrations for real-time customer systems.",
-                "Developers can deploy custom agents utilizing deep reasoning frameworks to automate legacy software interaction protocols securely."
+                "OpenAI officially launches its next-generation GPT-5.5 model, optimizing multi-modal processing speed and autonomous enterprise execution.",
+                "The model achieves a dramatic reduction in latency while significantly improving native reasoning pathways across complex environments.",
+                "Systems architects can immediately deploy GPT-5.5 to power complex agent workflows requiring zero-shot planning capabilities.",
+                "This release accelerates the obsolescence of narrow-task pipelines by unifying deep cognitive orchestration within one API."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: INFRASTRUCTURE HYPERSCALING",
+            "heading": "GOOGLE: GEMINI OMNI",
             "points": [
-                "Nvidia reported record revenue of eighty-one point six billion dollars, showing twenty percent sequential quarterly growth.",
-                "Demand for Blackwell architecture drives massive capital allocation shifts toward physical high-performance AI computing infrastructures.",
-                "Corporate enterprises are rapidly upgrading legacy server farms to advanced liquid-cooled GPU clusters to maximize computation metrics.",
-                "This unprecedented capital deployment indicates structural validation for sovereign hardware scaling pipelines across global private markets."
+                "Google DeepMind introduces Gemini Omni, enabling real-time generation and reasoning directly from native video and audio streams.",
+                "Developers can build high-performance agentic applications using unified multimodal inputs without relying on external transcription steps.",
+                "The architecture minimizes pipeline overhead by processing visual and textual data feeds through a single co-designed transformer.",
+                "This update signals a massive shift toward spatial intelligence systems capable of processing dense real-world physical environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: BACKSIDE POWER SOLUTIONS",
+            "heading": "TSMC: A16 TRANSISTOR",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company showcased its A16 nanosheet architecture featuring innovative Super Power Rail technology.",
-                "This backside power solution is highly optimized for complex high-performance computing and heavy enterprise AI workloads.",
-                "Microchip density increases dramatically while operational power consumption is lowered, setting new baselines for semiconductor efficiency.",
-                "Global fabrication foundries must adapt their cleanroom infrastructure to match these advanced three-dimensional integrated circuit demands."
+                "TSMC showcases its advanced A16 nanosheet transistor technology incorporating the innovative backside Super Power Rail delivery system.",
+                "The design drastically improves power efficiency and signal speeds for high-performance computing and heavy enterprise AI workloads.",
+                "Backside power delivery solves critical chip-level routing congestion, allowing denser integration of next-generation silicon compute dies.",
+                "Microchip designers can leverage these structural advancements to maximize training throughput inside hyperscale data center clusters."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: MULTIPATH NETWORKING ENGINE",
+            "heading": "AMD: INSTINCT MI350P",
             "points": [
-                "Advanced Micro Devices has launched its Multipath Reliable Connection standard to optimize large-scale AI networking fabrics.",
-                "Traditional single-path models often fail, but this architecture routes data dynamically across parallel physical communication channels.",
-                "Cluster synchronization speeds improve significantly, preventing communication bottlenecks during heavy distributed model training phases.",
-                "Network engineering teams can maximize aggregate bandwidth utilization, ensuring continuous uptime across massive sovereign cloud systems."
+                "AMD deploys its Instinct MI350P PCIe GPUs alongside new Multipath Reliable Connection networking protocols to optimize workloads.",
+                "The hardware configuration addresses single-path transmission bottlenecks, improving overall packet delivery reliability across large cluster nodes.",
+                "Infrastructure architects can run massive transformer workloads directly within existing enterprise servers without costly custom chassis modifications.",
+                "This release strengthens competitive alternatives in the high-density accelerators market, lowering overall enterprise hardware barrier to entry."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,12 +71,12 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "INFOWORLD: MOJO COMPILER DEPLOYMENT",
+            "heading": "MODULAR: MOJO 1.0",
             "points": [
-                "The official launch of Mojo one point zero delivers systems programmers precise hardware-level GPU memory control.",
-                "Combining Python-like syntax with Rust-grade memory safety, the compiler removes historical trade-offs between speed and accessibility.",
-                "Developers can write performant native machine learning kernels without relying on traditional complex low-level programming libraries.",
-                "This milestone language release bridges the gap between scientific algorithm design and low-level metal compiler optimization."
+                "Modular ships Mojo 1.0, combining Python style syntax with low-level systems programming control over heterogeneous hardware architectures.",
+                "The compiler introduces precise memory ownership management and robust GPU programming support to replace fragmented C++ implementations.",
+                "Enterprise software teams can accelerate performance critical operations while maintaining clean and readable application codebases throughout development.",
+                "This milestone enables developers to build highly optimized machine learning pipelines bypassing complex multi-language software stacks entirely."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "STANFORD HAI: TRAINING SCALING LAWS",
+            "heading": "ANTHROPIC: OPUS 4.7",
             "points": [
-                "Researchers have introduced novel scaling law mathematical frameworks that could entirely transform artificial intelligence training methodologies.",
-                "This paradigm shift optimizes hyperparameter tuning, significantly reducing computational resource requirements for training state-of-the-art models.",
-                "Small and medium enterprises can now train highly specialized domain models without requiring multi-billion-dollar compute budgets.",
-                "Strategic investments will pivot from brute-force physical compute accumulation toward highly refined algorithmic architecture optimization techniques."
+                "Anthropic launches Claude 4.7 Opus, featuring advanced tool utilization and autonomous agentic coding frameworks for complex engineering.",
+                "The system achieves superior scores on multi-step reasoning benchmarks, outperforming industry peers in codebase maintenance and refactoring.",
+                "Corporate engineering divisions can integrate the model to automate legacy software migrations and real-time security vulnerability screening.",
+                "This update signals the rapid emergence of collaborative artificial intelligence partners capable of maintaining massive enterprise codebases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: AGENTIC SOFTWARE HARDENING",
+            "heading": "STANFORD: SCALING METRICS",
             "points": [
-                "Anthropic announced Project Glasswing to protect critical digital software systems from vulnerabilities in agentic execution models.",
-                "This advanced framework secures autonomous developers by isolating untrusted execution paths without degrading overall pipeline throughput.",
-                "Enterprises can confidently deploy autonomous agents to modify core software codebases under strict cryptographic validation protocols.",
-                "Proactive containment systems represent the critical path for safe industrial adoption of sovereign digital intelligence frameworks."
+                "Stanford researchers propose a new approach to scaling laws that could radically transform how deep learning models train.",
+                "The methodology focuses on optimizing data quality over raw volume, saving substantial compute resources during initial pre-training stages.",
+                "Labs can leverage these mathematical insights to train high-performing custom models on much smaller budgets than before.",
+                "This breakthrough democratizes deep learning development by decreasing dependence on ultra-expensive, hyperscale infrastructure setups across the world."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
