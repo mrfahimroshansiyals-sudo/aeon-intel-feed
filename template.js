@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "TRANSFORMATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
+            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
             "points": [
-                "OpenAI officially launches GPT-5.5 establishing a new frontier for high-capacity reasoning and advanced multi-agent coordination.",
-                "Early benchmarks show a forty percent increase in complex code synthesis and multi-step analytical execution workflows.",
-                "The architecture leverages dynamic mixture-of-experts to scale context processing while maintaining optimal compute efficiency metrics.",
-                "Enterprise architects should prepare for rapid legacy system integration as autonomous reasoning capabilities become standard."
+                "NVIDIA deploys the Vera CPU, its first specialized architecture custom-built for powering next-generation autonomous AI agents.",
+                "The architecture delivers optimized performance metrics across top-tier artificial intelligence research laboratories globally during initial deployment phases.",
+                "This hardware release marks a shift toward dedicated agentic processors designed to handle complex multi-modal decision workflows.",
+                "AI developers will secure accelerated processing capabilities to scale agent deployments without hitting traditional CPU processing bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: GEMINI 3.5 DEPLOYMENT",
+            "heading": "AMD: VENICE EPYC PRODUCTION",
             "points": [
-                "Google DeepMind releases Gemini 3.5 engineered specifically to combine frontier-level multimodal intelligence with autonomous digital actions.",
-                "Operational latency has decreased by fifty percent across large-scale enterprise agent orchestration networks.",
-                "The model integrates native tools for direct API interaction allowing autonomous execution without third-party middleware layers.",
-                "CTOs must shift development focus from simple retrieval architectures to active multi-agent transactional systems immediately."
+                "AMD initiates the production ramp of its next-generation Venice EPYC enterprise processors utilizing TSMC advanced two-nanometer process technology.",
+                "The transition to two-nanometer nodes yields massive improvements in energy efficiency and transistor density for data center workloads.",
+                "Leveraging TSMC cutting-edge fabrication secures high-performance computing capabilities critical for training and running next-generation artificial intelligence models.",
+                "Hyperscalers will achieve superior total cost of ownership benchmarks while expanding high-density cloud computing infrastructure across global zones."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: VERA AGENTIC CPU",
+            "heading": "OPENAI: DISCRETE GEOMETRY DISCOVERY",
             "points": [
-                "NVIDIA debuts the Vera CPU designed as the industry's first processor dedicated to hosting autonomous agent workloads.",
-                "Hardware integration delivers a three-times boost in local agent reasoning throughput compared to traditional enterprise chips.",
-                "The architecture features dedicated memory pools optimized for low-latency context window swapping during complex multi-agent reasoning.",
-                "Infrastructure teams should accelerate next-generation hardware procurement to support emerging agent-native software stacks locally."
+                "An advanced OpenAI deep learning model successfully disproves a long-standing central conjecture in the field of discrete geometry.",
+                "This breakthrough demonstrates the capability of neural networks to solve complex abstract mathematical formulations previously thought unsolvable.",
+                "The mathematical validation highlights the expanding role of deep learning systems as collaborative partners in pure scientific research.",
+                "Academic researchers will increasingly leverage generative AI systems to accelerate theoretical discoveries across various advanced scientific disciplines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: VENICE 2NM TSMC PRODUCTION",
+            "heading": "DEEPMIND: CO-SCIENTIST DEPLOYMENT",
             "points": [
-                "AMD announces the production ramp of next-generation Venice EPYC processors using TSMC's state-of-the-art 2nm process technology.",
-                "High-performance computing nodes achieve up to thirty percent energy efficiency gains during sustained AI training runs.",
-                "Transitioning to nanosheet transistors with backside power delivery solves critical thermal and power delivery challenges in data centers.",
-                "Hyperscalers will secure early allocations of these 2nm chips to dominate the sovereign AI infrastructure landscape."
+                "Google DeepMind introduces Co-Scientist, a multi-agent artificial intelligence platform built to accelerate scientific discovery and collaborative research.",
+                "The system coordinates specialized AI agents to analyze complex laboratory data and generate verifiable scientific hypotheses autonomously.",
+                "Integrating multi-agent workflows into scientific pipelines represents a fundamental shift toward automated, end-to-end research and development processes.",
+                "Research institutions will compress drug discovery and materials science lifecycles by employing automated multi-agent collaboration systems globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: CO-SCIENTIST SYSTEM",
+            "heading": "STANFORD: DATA SCIENCE MERGER",
             "points": [
-                "Google DeepMind introduces Co-Scientist a collaborative multi-agent system designed to accelerate global scientific research and discovery.",
-                "Pilot programs demonstrate a ten-fold reduction in literature synthesis times and experimental design formulation phases.",
-                "The system links domain-specialized academic models together using a master orchestration protocol for unified cross-disciplinary reasoning.",
-                "Academic and corporate research laboratories must implement agentic verification protocols to validate autonomous scientific hypotheses."
+                "Stanford University officially merges its Human-Centered Artificial Intelligence institute with the Stanford Data Science initiative under unified leadership.",
+                "The consolidated academic institute pools extensive multidisciplinary resources to advance open-science methodologies and team-based research at scale.",
+                "This structural reorganization reflects a broader academic pivot toward combining data-driven computing with ethical artificial intelligence governance frameworks.",
+                "Global policymakers and academic institutions will receive more cohesive, data-backed guidance to build safe and equitable AI standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: EY AGENTIC AI",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Microsoft and EY launch a massive one billion dollar initiative to deploy agentic AI workflows across corporate enterprises.",
-                "The partnership aims to automate complex financial audit and regulatory compliance tasks across thousands of global client networks.",
-                "Microsoft is deploying forward-integrated engineers to directly customize copilot and agentic templates for complex enterprise infrastructures.",
-                "Strategic consultants expect this rollout to trigger massive workforce reallocation toward high-leverage analytical roles in professional services."
+                "Anthropic releases Claude Opus 4.7, delivering highly advanced capabilities for autonomous coding, multi-agent coordination, and complex vision.",
+                "The upgraded model achieves superior benchmarks in execution precision for critical enterprise development tasks and multi-modal operations.",
+                "Deploying high-intelligence models with native agentic tools enables deep software environment integration and automated troubleshooting of complex codebases.",
+                "Organizations will rapidly transition from simple chat assistants to fully integrated, autonomous software agents that execute end-to-end workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MODULAR: MOJO 1.0 SYSTEM LAUNCH",
+            "heading": "MICROSOFT: ENTERPRISE AI INITIATIVE",
             "points": [
-                "Modular releases Mojo 1.0 combining the systems programming power of Rust with the elegant simplicity of Python.",
-                "Developers can achieve up to a sixty percent improvement in GPU compilation times for complex neural architectures.",
-                "The language features precise memory management controls and native hardware acceleration support for cutting-edge edge AI processors.",
-                "Software engineering teams should evaluate Mojo 1.0 for latency-critical production workloads currently bottlenecked by traditional interpreted environments."
+                "Microsoft partners with Ernst and Young to invest substantial resources in accelerating enterprise adoption of advanced agentic AI.",
+                "The alliance deploys specialized forward-engineered teams to integrate autonomous workflows into complex legacy enterprise corporate operations globally.",
+                "Large-scale system integrations represent a major commercial effort to transition enterprises from experimental pilots to production-ready agentic systems.",
+                "Chief information officers will leverage pre-built frameworks to mitigate integration complexities and realize faster returns on AI investments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
