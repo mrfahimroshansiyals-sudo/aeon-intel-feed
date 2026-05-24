@@ -39,20 +39,20 @@ const path = require('path');
     // Programmatically click your existing functional header button (#download-active)
     await page.click('#download-active');
 
-    console.log("Awaiting engine synthesis pipeline to process all 9 slides...");
+    console.log("Awaiting engine synthesis pipeline to process all 11 slides...");
     
-    // Wait until exactly 9 images have finished downloading completely
+    // Wait until exactly 11 images have finished downloading completely
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
         const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp'));
         totalFiles = files.length;
-        if (totalFiles >= 9) break; 
+        if (totalFiles >= 11) break; 
     }
 
     console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
 
-    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_09)
+    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_11)
     const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp'));
     files.forEach((file) => {
         const fullPath = path.join(downloadPath, file);
@@ -61,7 +61,7 @@ const path = require('path');
         if (file.includes('MAIN')) {
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_09.webp";
+            newName = "slide_11.webp";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
