@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "OpenAI officially deployed GPT-5.5 with enhanced reasoning capabilities designed for complex multi-step agentic workflows.",
-                "Users report significant latency reductions and advanced vision-to-action accuracy across automated enterprise integration pipelines.",
-                "The model architecture bypasses standard cognitive limitations to allow continuous, self-improving autonomous execution pathways.",
-                "Enterprises must urgently realign their API consumption budgets to prevent sudden resource depletion from highly repetitive calls."
+                "OpenAI introduces GPT-5.5 model, providing deep multi-modal integration and native code optimization pipelines.",
+                "Performance metrics indicate a fifty percent efficiency increase in structural coding workflows over previous models.",
+                "The model integrates directly into existing enterprise IDE architectures to automate complex legacy codebase migrations.",
+                "Developers can leverage autonomous execution agents to significantly reduce software development lifecycles and maintenance costs."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT & EY: AGENTIC ALLIANCE",
+            "heading": "MICROSOFT: EY AGENTIC ALLIANCE",
             "points": [
-                "Microsoft and EY announced a massive one-billion-dollar partnership to accelerate global enterprise adoption of agentic AI.",
-                "Forward-deployed engineering teams will directly integrate advanced orchestration systems across complex multinational client operations.",
-                "This initiative aims to automate legacy backend processes, transforming traditional IT service delivery into a self-governing mechanism.",
-                "Executives should prepare for rapid labor reallocation as automated systems assume routine cognitive workflows globally."
+                "Microsoft partners with Ernst and Young in a landmark enterprise deployment initiative worth one billion dollars.",
+                "The alliance intends to deploy complex agentic workflows directly into global financial and advisory operations.",
+                "Engineers will integrate Azure cognitive resources to solve critical transaction friction and audit processing delays.",
+                "Corporate enterprise clients can anticipate automated compliance monitoring and streamlined multi-national tax reporting pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "XAI & ANTHROPIC: COMPUTE DEAL",
+            "heading": "XAI: ANTHROPIC COMPUTE TRADING",
             "points": [
-                "SpaceX financial filings revealed an unprecedented multi-million dollar infrastructure sharing agreement between xAI and rival Anthropic.",
-                "This transaction establishes a highly competitive secondary market for raw, frontier-scale machine learning compute allocation.",
-                "Model developers are bypassing traditional cloud hyperscalers to secure massive GPU capacities directly from industrial hardware pools.",
-                "Financial analysts predict compute availability will increasingly dictate the valuation and development velocity of startup model builders."
+                "SpaceX financial disclosures reveal a secondary market where xAI and Anthropic trade critical frontier compute capacity.",
+                "Dynamic compute resource sharing optimizes operational efficiency across competing foundational models during peak training runs.",
+                "This development establishes cloud infrastructure compute as a highly liquid standalone commodity in enterprise tech.",
+                "Industry leaders predict model developers will increasingly form strategic consortiums to secure massive raw hardware allocations."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
+            "heading": "SAP: ERP DATA INTEGRATION",
             "points": [
-                "Google DeepMind launched Gemini Omni, enabling native real-time generation and editing across video, audio, and text.",
-                "The omni architecture minimizes cross-modal translation latency to deliver seamless human-like interactive digital agent experiences.",
-                "Integrating video, audio, and text directly into one neural network bypasses performance bottlenecks of separated models.",
-                "Software developers can now construct highly interactive customer experiences without maintaining complex pipeline translation software."
+                "SAP navigates intense pressure from customers demanding open data pipelines for external generative artificial intelligence.",
+                "Enterprise clients seek direct API access to deep transactional databases without incurring excessive licensing surcharges.",
+                "This tension highlights a growing architectural conflict between legacy software lock-in and open ecosystem agility.",
+                "Chief Information Officers must design robust data virtualization layers to safely expose core ERP records securely."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "DEEPMIND: SCIENTIFIC DISCOVERY ENGINES",
+            "points": [
+                "Google DeepMind launches Gemini Omni and Antigravity models, accelerating complex physical simulation and scientific discovery.",
+                "Real-time multi-modal parsing enables immediate analysis of astronomical datasets and complex molecular structures simultaneously.",
+                "Deep science platforms transition away from narrow heuristics toward highly generalized physical world modeling engines.",
+                "Research institutions can deploy these specialized agents to autonomously formulate and test novel chemical synthesis hypotheses."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: TSMC 2NM VENICE RAMP",
+            "id": 6,
+            "heading": "AMD: TSMC 2NM VENICE PRODUCTION",
             "points": [
-                "AMD announced the production ramp of its next-generation EPYC Venice processors utilizing TSMC advanced two-nanometer process technology.",
-                "The platform delivers unparalleled efficiency gains, significantly reducing data center power overhead for large language model execution.",
-                "Securing leading-edge nanometer capacity positions AMD as a major alternative to Nvidia for sovereign AI infrastructure builds.",
-                "Data center operators should immediately evaluate cooling capabilities to accommodate next-generation ultra-dense chip designs."
+                "AMD initiates the production ramp of its next-generation Venice EPYC server processors utilizing advanced silicon lithography.",
+                "Leveraging TSMC's cutting-edge two-nanometer process technology delivers massive generational performance per watt improvements.",
+                "The processor design integrates specialized hardware matrix engines optimized for executing localized sovereign LLM workloads.",
+                "Hyperscalers and cloud operators can expect drastic rack power density reductions and improved hardware consolidation ratios."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MODULAR: MOJO 1.0 DEPLOYMENT",
-            "points": [
-                "Modular officially released Mojo 1.0, combining Python accessibility with Rust-level performance and direct GPU programming support.",
-                "Systems engineers can now write highly optimized hardware-level code without discarding their existing enterprise Python libraries.",
-                "This release breaks the strict memory bottlenecks that have historically plagued massive deep learning pipeline deployments.",
-                "Development teams should begin transitioning compute-heavy pipelines to Mojo to optimize operational margins and hardware efficiency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "NVIDIA: VERA CPU LAUNCH",
+            "heading": "ASML: TATA SEMICONDUCTOR PARTNERSHIP",
             "points": [
-                "NVIDIA shipped Vera, its first dedicated CPU built specifically to orchestrate autonomous multi-agent software systems.",
-                "Early adopters at top research labs report massive efficiency improvements when managing parallel agentic decision processes.",
-                "The architecture shifts processing paradigms from traditional sequential execution toward massively parallel cognitive agent task management.",
-                "Hardware architects must redesign enterprise clusters to support the unique high-bandwidth memory requirements of agentic processors."
+                "ASML establishes a landmark strategic partnership with Tata Electronics to advance India's nascent semiconductor manufacturing ecosystem.",
+                "The collaboration delivers advanced deep ultraviolet lithography systems directly to upcoming commercial fabrication facilities.",
+                "Global supply chain resilience improves as physical chip manufacturing capabilities diversify outside historically concentrated geographic zones.",
+                "Indian hardware developers can now build and scale localized sovereign electronic components for international trade."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
