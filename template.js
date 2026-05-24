@@ -1,121 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "AI Innovation Powers Industry",
-    "titleBlue": "Expansion"
+    "titleWhite": "ADVANCING COGNITIVE COMPUTE",
+    "titleBlue": "ARTIFACTS"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "TECHTARGET: SHADOW AI RISKS IDENTIFIED",
+      "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
       "points": [
-        "Verizon's 2026 Data Breach Investigations Report highlights critical enterprise security trends.",
-        "The report quantifies increasing threats from exploit-driven breaches and shadow AI dangers.",
-        "This alters organizational risk management, requiring robust third-party security frameworks.",
-        "CISOs must prioritize comprehensive visibility into unmanaged AI system deployments promptly."
+        "OpenAI officially launched GPT-5.5, introducing substantial updates to reasoning, vision capabilities, and multimodal processing.",
+        "The upgraded model lowers operational latency and drastically reduces tokens-per-second API costs for global enterprise clients.",
+        "Intense competition among foundational laboratories continues to drive the rapid compression of model generation cycles worldwide.",
+        "Developers can expect highly integrated autonomous agent behaviors to become standard across the entire API platform."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: TechTarget.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "SAP: ERP DATA ACCESS CHALLENGE FOR AI",
+      "heading": "STANFORD HAI: TRAINING EFFICIENCY",
       "points": [
-        "SAP faces disruption as customers increasingly seek third-party AI applications integration.",
-        "The company must securely open its vast ERP data for external AI solutions.",
-        "This shifts the competitive landscape, emphasizing ecosystem-driven innovation and data interoperability.",
-        "SAP's strategy now requires fostering a healthy and accessible AI partner ecosystem."
+        "Stanford HAI researchers introduced a novel scaling law methodology that transforms modern deep learning model training.",
+        "The mathematical framework substantially reduces the computational overhead and power consumption required during pre-training phases.",
+        "Hardware constraints and soaring electricity costs have made traditional brute-force scaling strategies unsustainable for modern laboratories.",
+        "This theoretical breakthrough will likely democratize access to custom frontier neural network development for smaller organizations."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: TechTarget.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "OPENAI: NEW FRONTIER GPT-5.5 LAUNCHED",
+      "heading": "SAP: ENTERPRISE DATA INTEGRATION",
       "points": [
-        "OpenAI has unveiled its new large language model, GPT-5.5, setting new benchmarks.",
-        "This model promises enhanced reasoning, coding efficiency, and multimodal processing capabilities.",
-        "It reinforces OpenAI's architectural leadership in generative AI research and deployment.",
-        "Developers anticipate significantly improved application performance, handling greater complexity effectively, driving innovation."
+        "SAP is working to expose secure enterprise resource planning databases to third-party artificial intelligence application developers.",
+        "Secure data exposure enables enterprise clients to build highly personalized workflows using external autonomous cognitive agents.",
+        "Customers demanding external analytical capabilities are threatening to migrate platforms if core data systems remain closed.",
+        "Platform developers must implement standardized API interfaces to maintain their ecosystem dominance while protecting user privacy."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: OpenAI.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "NVIDIA: Q1 FISCAL 2027 RECORD REVENUE",
+      "heading": "MICROSOFT: EY COGNITIVE COALITION",
       "points": [
-        "NVIDIA reported record Q1 Fiscal 2027 revenue of $81.6 billion today.",
-        "This marks a 20% sequential growth, showcasing strong AI chip market demand.",
-        "The results validate NVIDIA's sustained dominance in critical AI infrastructure components.",
-        "Investors anticipate continued expansion, reflecting robust global AI sector demand and sustained growth."
+        "Microsoft and EY announced a strategic alliance designed to accelerate enterprise adoption of generative intelligence models.",
+        "The deployment of custom workplace assistants is projected to increase professional task execution speeds by thirty percent.",
+        "Professional services organizations are rapidly embedding automated workflows to maintain competitive edges and optimize resource allocation.",
+        "This structural partnership will establish scalable compliance frameworks for artificial intelligence implementation across highly regulated sectors."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: NvidiaNews.Nvidia.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "AI BUSINESS: AGENTIC AI PAYOFF CHALLENGE",
+      "heading": "TSMC: A16 NANOSHEET ARCHITECTURE",
       "points": [
-        "Agentic AI faces the challenge of demonstrating clear, quantifiable business ROI.",
-        "Enterprises demand robust, measurable metrics beyond initial pilot project successes for investment.",
-        "This drives a critical focus on rigorous industrial metric validation processes and accountability.",
-        "The outlook emphasizes strategic implementation for achieving measurable, sustainable value and widespread adoption."
+        "Taiwan Semiconductor Manufacturing Company revealed its advanced A16 nanosheet architecture featuring a backside power rail design.",
+        "This integrated power solution increases chip performance while optimizing energy consumption for heavy artificial intelligence computing workloads.",
+        "Massive model sizes demand radical improvements in physical chip architectures to prevent thermal and power delivery bottlenecks.",
+        "Hardware manufacturers adopting A16 silicon will significantly outperform rivals utilizing legacy power delivery configurations."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: AIBusiness.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "GOOGLE DEEPMIND: GEMINI OMNI & 3.5 LAUNCH",
+      "heading": "VERIZON: DBIR SECURITY AUDIT",
       "points": [
-        "Google DeepMind unveiled Gemini Omni for revolutionary multimodal AI generation, starting with video.",
-        "Gemini 3.5 also enhances frontier intelligence with advanced action capabilities and improved reasoning.",
-        "These models advance multimodal AI architecture and practical agentic functions significantly.",
-        "Developers can now build more sophisticated, action-oriented AI applications, transforming industry workflows."
+        "The Verizon 2026 Data Breach Investigations Report highlighted growing security risks linked directly to corporate shadow intelligence.",
+        "Unauthorized worker usage of consumer-facing neural networks increases the potential exposure of sensitive proprietary business data.",
+        "Chief Information Security Officers must enforce strict visibility policies to track unauthorized application deployments across enterprises.",
+        "Companies failing to secure these hidden endpoints face severe regulatory penalties and heightened risk of network penetration."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: DeepMind.Google",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE",
+      "heading": "MODULAR: MOJO SYSTEM LAUNCH",
       "points": [
-        "Google Cloud details strategies for scaling AI infrastructure for agentic era.",
-        "Focus is on optimizing compute, data storage, and high-throughput network resources.",
-        "This underpins architecture sovereignty for increasingly complex, demanding AI deployments and operations.",
-        "Enterprises gain robust foundations for deploying sophisticated, performant agentic systems globally."
+        "Modular launched Mojo 1.0, delivering a systems programming language with precise memory management and Python-like syntax.",
+        "The production-ready language enables developers to access native graphics processing hardware without resorting to complex compiler frameworks.",
+        "Machine learning researchers have historically struggled with the operational division between prototyping and high-performance production deployments.",
+        "Broad industry adoption of Mojo 1.0 will accelerate the performance of on-device and edge computing models."
       ],
-      "imageUrl": "",
-      "tags": [
-        "Source: Cloud.Google.com",
-        "Published: Last 60 Mins",
-        "Status: Audited & True"
-      ]
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
