@@ -5,6 +5,7 @@ on:
       - main
     paths-ignore:
       - 'template.js'  # Block the bot from triggering itself
+      - 'download/**'  # Block the bot from looping on its own image updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Attempt 1 (Primary)
@@ -70,6 +71,41 @@ jobs:
           else
             echo "No changes detected in template.js. Skipping push payload sequence to prevent loops."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
+          fi
+
+      - name: Set up Node.js Environment
+        if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Puppeteer Chromium Engines
+        if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
+        run: npm install puppeteer
+
+      - name: Render and Synchronize Visual Slide Packages
+        if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          # 1. Give GitHub Pages a 15-second grace window to completely compile and build the fresh template text changes live
+          sleep 15
+          
+          # 2. Fire the headless chrome browser capture tool inside the folder
+          node download/capture_slides.js
+
+      - name: Commit and Push Image Asset Directories
+        if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git fetch origin main
+          git rebase -X theirs origin/main
+          
+          # Stage the newly populated folder paths explicitly
+          git add download/
+          
+          if ! git diff --cached --quiet download/; then
+            git commit -m "Automated Graphic Asset Synch: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No graphical image binary variance detected. Skipping asset storage update."
           fi
 
       - name: Dispatch Reconfirmation Email Notification
