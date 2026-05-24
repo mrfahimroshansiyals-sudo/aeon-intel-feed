@@ -45,28 +45,22 @@ jobs:
           # 1. Fetch latest upstream state
           git fetch origin main
           
-          # 2. Temporarily stash the generated template.js file to clear the workspace
-          git stash --include-untracked
+          # 2. Force Git to clear any local tracking discrepancies by resetting tracking pointer
+          git reset --mixed origin/main
           
-          # 3. Rebase tracking branch smoothly with a fail-safe resolution strategy if histories drift
-          git rebase -X theirs origin/main
-          
-          # 4. Pop the generated changes back into the workspace safely
-          git stash pop || echo "No stashed changes found or minor merge conflict resolved automatically."
-          
-          # 5. Stage the updated target payload file
+          # 3. Stage ONLY the freshly overwritten template.js file generated this hour
           git add template.js
           
-          # 6. Use an airtight, native index check to verify structural differences
+          # 4. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet template.js; then
             
-            # 7. Commit using the protected perimeter safety tag [skip ci]
+            # 5. Commit using the protected perimeter safety tag [skip ci]
             git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             
-            # 8. Force explicit token authentication directly into the remote push target
+            # 6. Force clean push directly into the remote target branch
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
             
-            # 9. Set tracking variable for email phase
+            # 7. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
             echo "No changes detected in template.js. Skipping push payload sequence to prevent loops."
@@ -86,8 +80,8 @@ jobs:
       - name: Render and Synchronize Visual Slide Packages
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: |
-          # 1. Give GitHub Pages a 15-second grace window to completely compile and build the fresh template text changes live
-          sleep 15
+          # 1. Give GitHub Pages a 45-second window to completely compile and host the fresh template text changes live
+          sleep 45
           
           # 2. Fire the headless chrome browser capture tool inside the folder
           node download/capture_slides.js
@@ -96,7 +90,7 @@ jobs:
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git fetch origin main
-          git rebase -X theirs origin/main
+          git reset --mixed origin/main
           
           # Stage the newly populated folder paths explicitly
           git add download/
