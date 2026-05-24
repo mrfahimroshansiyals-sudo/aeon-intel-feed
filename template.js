@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "Frontier AI Models & Infrastructure Propel Global Agentic",
-    "titleBlue": "Architectures"
+    "titleWhite": "AGENTIC FRONTIER",
+    "titleBlue": "COGNITION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 MODEL RELEASES",
+      "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
       "points": [
-        "OpenAI launched GPT-5.5, significantly advancing large language model capabilities and overall performance across diverse tasks.",
-        "This product release now enables new AI applications, boosting developer innovation and market adoption metrics.",
-        "The strategic release intensifies market competition, pushing architectural boundaries for next-generation AI systems globally.",
-        "Stakeholders anticipate enhanced AI-driven productivity and complex problem-solving solutions across industrial sectors."
+        "OpenAI has officially launched GPT-5.5 to elevate frontier model reasoning, text synthesis, and advanced multimodal operations.",
+        "Enterprise workflows will experience rapid throughput acceleration and highly optimized tool-use execution across complex API pipelines.",
+        "The deployment marks a significant architectural pivot toward native agentic autonomy within safe developer execution spaces.",
+        "Global developers can anticipate next-generation application designs utilizing enhanced cognitive depth and lower inference latency footprints."
       ],
-      "imageUrl": "https://openai.com/images/latest-news/introducing-gpt-5-5-product-thumbnail.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+      "heading": "DEEPMIND: GEMINI 3.5 LAUNCH",
       "points": [
-        "TSMC introduced A16 nanosheet technology featuring Super Power Rail, optimized for HPC and AI workloads.",
-        "This innovation improves power efficiency and transistor density, significantly boosting AI processing and scalability.",
-        "The architectural shift reinforces TSMC's silicon leadership, critical for global sovereign AI compute infrastructure.",
-        "New A16 technology directly impacts future AI chip designs, enabling powerful, sustainable AI accelerators."
+        "Google DeepMind has announced Gemini 3.5 alongside Gemini Omni for native real-time video processing capabilities.",
+        "Computational costs for multimodal reasoning are projected to decrease while expanding cross-functional visual analysis speeds.",
+        "This release positions DeepMind at the vanguard of unified, video-first artificial intelligence architecture.",
+        "Future enterprise software integrations will leverage direct sensory-to-action pipelines to automate physical and digital tasks."
       ],
-      "imageUrl": "https://www.tsmc.com/resource/image/2026_TechSymposium_expandingAI.jpg",
-      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
-    },
-    {
-      "id": 3,
-      "heading": "GOOGLE DEEPMIND: GEMINI OMNI & 3.5 UPDATES",
-      "points": [
-        "Google DeepMind unveiled Gemini Omni and 3.5, showcasing enhanced multimodal intelligence and advanced frontier capabilities.",
-        "These updates boost AI model performance, enabling more complex action-oriented tasks and research applications.",
-        "The advancements strengthen Google's foundational AI, profoundly influencing architectural designs across the industry.",
-        "Expect new scientific discoveries and broader real-world applications as these versatile models expand accessibility."
-      ],
-      "imageUrl": "https://deepmind.google/static/img/meta/og.png",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
       "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
-      "id": 4,
-      "heading": "GOOGLE CLOUD: AGENTIC AI INFRASTRUCTURE SCALE",
+      "id": 3,
+      "heading": "MICROSOFT: AGENTIC WORKFLOWS",
       "points": [
-        "Google Cloud announced new AI Infrastructure scaling initiatives, focusing on the critical and expanding agentic era.",
-        "This includes Gemini Enterprise platform, streamlining agent development, orchestration, and robust governance for businesses.",
-        "New agentic Data Cloud features power systems of action, emphasizing secure data sovereignty and enterprise integration.",
-        "The initiatives accelerate enterprise AI adoption, providing scalable, secure, and performant cloud-native solutions."
+        "Microsoft Azure has launched integrated agentic capabilities linking developer environments with GitHub production infrastructure.",
+        "Operations are simplified as autonomous agents coordinate code deployment, database optimization, and performance monitoring tasks.",
+        "The release of Azure Accelerate for Databases further optimizes cloud architectures for massive AI workloads.",
+        "IT organizations will increasingly migrate toward unified, agent-driven cloud management paradigms to reduce technical overhead."
       ],
-      "imageUrl": "https://cloud.google.com/static/images/cloud/products/ai-platform/card-gemini-enterprise-app.png",
-      "tags": ["Source: cloud.google.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
+    },
+    {
+      "id": 4,
+      "heading": "NVIDIA: FISCAL INFRASTRUCTURE",
+      "points": [
+        "NVIDIA reported a record-breaking first quarter revenue of eighty-one point six billion dollars for fiscal 2027.",
+        "Massive capital flow into high-performance computing hardware accelerates global data center transitions to accelerated compute clusters.",
+        "This twenty percent sequential revenue increase underscores sustained, insatiable demand for AI enterprise hardware architectures.",
+        "Chip fabrication partners must rapidly scale lithography limits to sustain this unprecedented hardware deployment momentum globally."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "AMD: AI NETWORKING WITH MULTIPATH RELIABLE CONNECTION",
+      "heading": "AMD: MI350P GPUS UNVEILED",
       "points": [
-        "AMD unveiled advancements in AI networking at scale, featuring Multipath Reliable Connection (MRC) technology.",
-        "MRC improves data throughput and reliability within AI clusters, addressing critical bottlenecks in large-scale model training.",
-        "This innovation enhances foundational AI infrastructure, optimizing resource utilization and computational efficiency for training.",
-        "The technology ensures robust data flow for complex AI workloads, supporting next-generation distributed AI systems effectively."
+        "AMD unveiled its Instinct MI350P PCIe GPUs and Multipath Reliable Connection networking architecture for AI environments.",
+        "Datacenters can now execute distributed training across highly resilient nodes without encountering traditional single-path networking bottlenecks.",
+        "The open-ecosystem approach provides hyperscalers with flexible integration pathways, breaking proprietary hardware monopolies in silicon markets.",
+        "Standardized PCIe deployments will democratize elite hardware performance, significantly lowering barriers to private sovereign AI development."
       ],
-      "imageUrl": "https://www.amd.com/content/dam/amd/en/images/ai/2026-advancing-ai-event-og.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1601524909162-be87252be298?auto=format&fit=crop&w=800&q=80",
       "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "ASML: COMPUTATIONAL LITHOGRAPHY BOOSTS AI CHIPS",
+      "heading": "STANFORD: NEW SCALING LAWS",
       "points": [
-        "ASML advances computational lithography, critical for mass producing patterns on next-generation semiconductor chips.",
-        "This technology pushes microchip limits, creating more powerful, faster, and energy-efficient processors for AI.",
-        "Computational lithography reinforces the core manufacturing backbone for AI, directly impacting global silicon sovereignty.",
-        "Future developments will determine the physical limits and performance ceilings of future AI hardware innovation."
+        "Stanford HAI researchers proposed an alternative methodology for scaling laws to optimize deep learning training paradigms.",
+        "Organizations can achieve comparable model performance with dramatically reduced parameter sizes and lower token training budgets.",
+        "Traditional compute-optimal boundaries are challenged by this framework, steering research toward architecture-efficient scaling alternatives.",
+        "AI labs will likely adopt these metrics to mitigate surging electrical demands during foundation model training."
       ],
-      "imageUrl": "https://www.asml.com/en/news/stories/2026/introduction-marco-pieters-cto",
-      "tags": ["Source: asml.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "MICROSOFT AZURE: AGENTIC CAPABILITIES & DATA AI",
+      "heading": "MODULAR: MOJO 1.0 SYSTEMS",
       "points": [
-        "Microsoft Azure introduced new agentic capabilities, integrating IT and development workflows for enhanced productivity.",
-        "These features enable faster infrastructure, data, and application modernization, specifically targeting AI-driven processes.",
-        "Azure Accelerate for Databases supports data modernization for AI, offering savings, investments, and expert guidance.",
-        "This strategic move facilitates broader enterprise AI adoption, operationalizing agentic AI within existing systems effectively."
+        "Modular officially released Mojo version one point zero, combining Pythonic syntax with Rust-like systems programming capabilities.",
+        "Engineers gain precise memory control and native GPU optimization directly within a unified, high-level code structure.",
+        "Unifying language paradigms bridges the historic gap between rapid prototyping speed and high-performance production runtime execution.",
+        "Enterprise development teams will increasingly migrate legacy Python pipelines to Mojo to unlock substantial hardware-level efficiencies."
       ],
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/05/azure-accelerate-for-databases-hero.png",
-      "tags": ["Source: azure.microsoft.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
