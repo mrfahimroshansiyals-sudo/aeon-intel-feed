@@ -127,7 +127,7 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 40px;
     text-align: left;
-    padding: 20px 0; /* FIXED: Dual clearance padding eliminates both upper and lower edge cropping */
+    padding: 30px 0 30px 0; /* FIXED: Symmetrical vertical safety padding cushions stretched ascenders and descenders */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -135,7 +135,7 @@ body {
     align-content: flex-start;
     width: 100%;
     max-width: 780px; 
-    max-height: 520px; /* FIXED: Lowered bounding container cap to safely clear room for the bulletin list */
+    max-height: 560px; /* FIXED: Optimal height box ceiling limits overall growth to protect bulletin space */
     overflow: hidden;
 }
 
@@ -144,19 +144,19 @@ body {
 .main-hook-style header h1 div {
     display: inline-block !important;
     transform: scaleY(1.5);
-    transform-origin: left top;
-    font-size: clamp(55px, 9cqw, 110px) !important; /* FIXED: Smart dynamic size envelope forces auto-fitment inside 4 lines max */
-    line-height: 1.65 !important; /* FIXED: Deep line-height coefficient creates perfect breathing room for 1.5x scale descenders */
+    transform-origin: left center; /* FIXED: Centers scaling transformation pivot point to balance layout footprint */
+    font-size: clamp(50px, 8.5cqw, 105px) !important; /* FIXED: Optimized auto-fit boundaries force text string containment to under 4 lines */
+    line-height: 1.75 !important; /* FIXED: Generous line-height completely encapsulates the 1.5x visual scaling area */
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important;
-    word-break: break-word !important; /* FIXED: Breaks extreme text strings across lines to prevent overflow */
-    white-space: normal !important;
+    overflow-wrap: break-word !important; 
+    word-break: break-word !important; /* FIXED: Allows extreme single-word metrics to cleanly auto-wrap internally */
+    white-space: normal !important; 
     color: var(--text-white);
     text-align: left;
     margin-right: 24px;
-    margin-bottom: 5px; /* FIXED: Tight margin balances line-height parameters */
+    margin-bottom: 12px; /* FIXED: Adjusted line metrics eliminate overlapping or colliding line rows */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -164,12 +164,12 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 5px;
+    margin-bottom: 12px;
     margin-right: 0px;
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: 10px;
+    margin-top: 20px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
