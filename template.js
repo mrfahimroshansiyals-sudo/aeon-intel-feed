@@ -1,98 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "Frontier AI Agent",
+        "titleBlue": "Shift"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: AGENTIC INFRASTRUCTURE EXPANSION",
+            "heading": "OPENAI: NEXT-GENERATION MODEL DEPLOYMENT",
             "points": [
-                "AMD announced a 10 billion dollar investment in Taiwan to accelerate AI infrastructure development and regional ecosystem growth.",
-                "New Instinct MI350P PCIe GPUs aim to enable enterprise AI deployment directly on existing server and data center infrastructure.",
-                "The company is aggressively transitioning toward agentic computing through the new Ryzen AI Halo platform for developers.",
-                "Strategic focus centers on optimizing CPUs and GPUs together to improve performance, TCO, and scalability for data centers."
+                "OpenAI launched GPT-5.5, their advanced foundational model, enhancing complex reasoning and multimodal capabilities for developers.",
+                "This new iteration signifies a major leap in AI intelligence, offering improved performance across diverse professional applications.",
+                "The release reinforces OpenAI's leadership in frontier AI, pushing boundaries for what general-purpose models can achieve.",
+                "Industry anticipates GPT-5.5 will accelerate AI-driven innovation, setting new benchmarks for enterprise integration and usage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
+            "heading": "MICROSOFT/EY: ENTERPRISE AI ACCELERATION",
             "points": [
-                "Google Cloud launched Gemini 3.5 Flash to provide enterprise-grade cost efficiency for high-volume AI agent workflow deployments.",
-                "New agentic Data Cloud integration bridges the gap between siloed enterprise data lakes and active AI decision engines.",
-                "Google is actively mobilizing the GEAR platform to train developers in building and orchestrating complex multi-agent systems.",
-                "The firm is pivoting its primary cloud messaging toward the agentic era, emphasizing scalability for automated business processes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TSMC: NANO-SCALE SILICON ADVANCEMENTS",
-            "points": [
-                "TSMC has fast-tracked production of A16 nanosheet technology featuring advanced backside power solutions for high-performance AI compute.",
-                "The A14 manufacturing node with NanoFlex architecture is currently being optimized for specialized large-scale AI training environments.",
-                "Leadership silicon focus remains on pushing lithography limits to support the density requirements of frontier-grade agentic hardware models.",
-                "The manufacturer is prioritizing energy-efficient architectures to sustain long-term growth in the global AI hardware demand cycle."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: AGENTIC HARDWARE ECOSYSTEM",
-            "points": [
-                "NVIDIA disclosed record fiscal results with revenue reaching 81.6 billion, driven by parabolic demand for agentic AI compute.",
-                "The Vera CPU platform is specifically engineered to power autonomous agent workflows within professional AI research laboratories.",
-                "Collaboration with Ineffable Intelligence aims to build specialized infrastructure for advanced reinforcement learning and self-improving agent models.",
-                "Corporate strategy is shifting toward pervasive agentic AI integration across cloud, edge, and localized RTX-powered developer workstations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: PRIVACY-CENTRIC DEPLOYMENT",
-            "points": [
-                "Mistral AI is scaling specialized model training and fine-tuning services for enterprise clients seeking private sovereign AI deployments.",
-                "New studio-level tools enable corporations to build custom agents with full control over data privacy and model orchestration.",
-                "The company emphasizes its open-weight model approach to facilitate faster adoption of agentic workflows in regulated maritime logistics.",
-                "Enterprise focus has transitioned from general LLMs toward purpose-built agentic stacks for localized and edge computing environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "CIO STRATEGY: AGENTIC ROI METRICS",
-            "points": [
-                "Industry analysts warn that enterprise AI success now depends on moving from scattered pilot programs to infrastructure-led capacity.",
-                "CIOs are increasingly focusing on the high cost of token usage for simple automated Python-based agentic workflows.",
-                "New partnerships like Microsoft and EY demonstrate a push to deploy forward-deployed engineers for complex enterprise AI rollouts.",
-                "Management is shifting toward treating frontier-scale AI compute as a standalone business commodity rather than an IT expense."
+                "Microsoft and EY commit $1 billion to expedite enterprise agentic AI deployment for global clients, scaling adoption efforts.",
+                "Forward-deployed Microsoft engineers will collaborate with EY teams, ensuring seamless integration and operationalization of AI solutions.",
+                "This strategic investment aims to reduce technical debt and complexity by connecting IT and development workflows through agents.",
+                "The initiative validates agentic AI's growing role in transforming enterprise operations, driving efficiency and innovation."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE FRAMEWORKS",
+            "id": 3,
+            "heading": "AI COMPUTE MARKET: NEW INFRASTRUCTURE DEALS",
             "points": [
-                "Regulatory authorities are clarifying transparency rules for general-purpose AI models, specifically impacting high-risk automated decision-making software.",
-                "The EU AI Act compliance ledger is being updated to guide SMEs through mandatory classification protocols for agentic tools.",
-                "Organizations are under pressure to establish strict provenance and auditing records for all models deployed in public-facing roles.",
-                "Governance frameworks are expanding to address the security risks posed by autonomous agents capable of independent resource execution."
+                "An xAI-Anthropic compute deal highlights the emerging market for frontier-scale AI infrastructure as a distinct business segment.",
+                "Rival model makers are increasingly purchasing computational resources from each other, signaling shared infrastructure reliance.",
+                "This trend suggests a pivotal shift towards AI compute being a standalone, high-value asset, beyond proprietary model development.",
+                "The development impacts capital allocation, strategic partnerships, and the competitive landscape for advanced AI capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GOOGLE CLOUD: AGENTIC AI PLATFORM EXPANSION",
+            "points": [
+                "Google Cloud announced new agentic capabilities at I/O '26, focusing on enterprise-grade development, orchestration, and governance.",
+                "Updates include Gemini 3.5, offering frontier intelligence with action, and Gemini Omni for versatile content creation from various inputs.",
+                "The platform now provides enhanced tools for building complex AI agents, leveraging Gemini's latest multimodal advancements efficiently.",
+                "This positions Google Cloud to empower businesses to transition from AI pilots to full production with robust, scalable agent architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: ADVANCING GLOBAL AI INFRASTRUCTURE",
+            "points": [
+                "NVIDIA GTC Taipei discussions emphasize future AI infrastructure, highlighting the massive, sustained demand for advanced compute.",
+                "\"Beautiful insanity\" describes the rapid, extensive AI buildouts by hyperscalers, leading to prolonged equipment lead times.",
+                "This infrastructure boom underscores the critical role of specialized GPUs and system-level architecture in powering modern AI models.",
+                "Enterprises must strategize for distributed architecture shifts, mitigating delays and ensuring access to essential AI compute resources."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ENTERPRISE AI: DATA & ADOPTION HURDLES",
+            "points": [
+                "SAP grapples with exposing ERP data for third-party AI apps, risking customer attrition if integration remains challenging.",
+                "The core challenge for agentic AI lies in proving concrete, measurable business payoff beyond initial experimental deployments.",
+                "Enterprises face significant data hurdles, including fragmentation and quality, impeding effective AI personalization and outcomes.",
+                "CIOs must focus on building foundational infrastructure to transform scattered AI pilots into scalable, impactful enterprise capacity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AI SAFETY: AGENT GOVERNANCE & TOOLS",
+            "points": [
+                "Microsoft released open-source tools to operationalize AI agent safety, addressing critical security and ethical concerns proactively.",
+                "These tools aim to establish guardrails against agent misalignment, preventing unintended behaviors or data breaches in complex systems.",
+                "The initiative reflects growing industry awareness of potential \"shadow AI dangers\" and the need for robust governance frameworks.",
+                "Developing secure, transparent agent architectures is paramount for fostering trust and ensuring responsible AI deployment at scale."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
