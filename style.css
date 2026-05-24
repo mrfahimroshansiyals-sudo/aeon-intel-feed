@@ -82,15 +82,15 @@ body {
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 100px;
-    padding-left: 160px; /* Enhanced left margin alignment tracking */
+    padding-top: 120px;
+    padding-left: 160px;
     padding-right: 120px;
-    padding-bottom: 100px;
-    max-height: 1120px;
+    padding-bottom: 120px;
+    max-height: 1150px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Switch to top-down tracking anchor */
+    justify-content: flex-start;
     align-items: flex-start;
     text-align: left;
 }
@@ -118,7 +118,7 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     text-align: left;
     padding: 0;
 }
@@ -127,47 +127,49 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 40px;
     text-align: left;
-    padding: 30px 0 30px 0; /* Defensive safety buffer to protect native tall font heights from clipping */
+    padding: 20px 0 20px 0; 
     display: flex;
-    flex-direction: column; /* Force every block/span structure into its own isolated line */
-    justify-content: flex-start;
+    flex-direction: column; 
+    justify-content: flex-start; /* Aligns lines naturally to prevent erratic gaping */
     align-items: flex-start;
     width: 100%;
-    max-width: 820px; 
-    height: 600px; /* Explicit structural box boundary constraint */
+    max-width: 800px; 
+    height: auto; /* Replaces strict heights with organic flex container values */
+    max-height: 560px; /* Strong strict ceiling bounds text exactly above line 4 */
     overflow: hidden;
 }
 
-/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
+/* Base properties applied to each word segment within the H1 - MAXIMIZED & RESPONSIVE */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important; /* Block presentation guarantees no messy wrapping side-effects */
+    display: block !important;
     width: 100%;
-    font-size: clamp(85px, 14.8cqw, 160px) !important; /* Maximized responsive container metric */
-    line-height: 0.90 !important; /* Tight professional layout integration avoids vertical whitespace holes */
+    /* Recalibrated layout scales accurately on mobile contexts to block bleeding edge overflows */
+    font-size: clamp(75px, 11.5cqw, 140px) !important; 
+    line-height: 0.98 !important; /* Premium line height multiplier completely ends element overlapping */
+    font-stretch: condensed !important; 
     font-weight: 1500 !important;
-    letter-spacing: -2px !important;
+    letter-spacing: -1px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
-    word-break: break-all !important; /* Forces ultra long words to stay locked to the bounding boxes */
-    white-space: nowrap !important; /* Disables internal text-wrapping behaviors entirely */
+    word-break: break-all !important; 
+    white-space: nowrap !important;
     color: var(--text-white);
     text-align: left;
-    margin-right: 0px;
-    margin-bottom: 12px; /* Controlled layout split metrics */
+    margin-bottom: 6px; /* Smooth metric spacing factor prevents line collision */
 }
 
-/* Force the very last word in the layout container to turn dark blue and lock cleanly to line 4 */
+/* Force the very last word in the layout container to turn dark blue and lock cleanly */
 .main-hook-style header h1 span:last-child,
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
-    margin-top: auto; /* Absolute structural anchor pushing the blue keyword directly to the 4th line position */
+    margin-top: 0px; /* Removes auto-margin wedge that creates abnormal vertical gaps */
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: auto; /* Pushes the bullet data to base limits seamlessly */
+    margin-top: auto; /* Clean layout float pushes lists to bottom area automatically */
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
@@ -316,11 +318,11 @@ body {
 
 .cta-slide header h1 {
     font-family: var(--font-title);
-    font-size: clamp(410px, 44cqw, 650px);
+    font-size: clamp(200px, 22cqw, 380px); /* Safely rescales giant CTA texts to match canvas limits perfectly */
     font-weight: 900;
-    line-height: 1; 
-    letter-spacing: -3px;
-    margin-bottom: 60px;
+    line-height: 1.05; /* Clean layout adjustments remove character clipping paths */
+    letter-spacing: -2px;
+    margin-bottom: 40px;
     text-transform: uppercase;
     display: flex; 
     flex-direction: column; 
