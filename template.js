@@ -2,10 +2,15 @@ const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "titleWhite": "NEXT GENERATION FRONTIER",
     "titleBlue": "ARCHITECTURES"
 =======
     "titleWhite": "SYSTEMIC FRONTIER",
+    "titleBlue": "ACCELERATION"
+>>>>>>> Stashed changes
+=======
+    "titleWhite": "SOVEREIGN INTELLIGENCE",
     "titleBlue": "ACCELERATION"
 >>>>>>> Stashed changes
   },
@@ -15,6 +20,7 @@ const dailyData = {
 <<<<<<< Updated upstream
       "heading": "OPENAI: GPT-5.5 FRONTIER RELEASE",
       "points": [
+<<<<<<< Updated upstream
         "OpenAI officially releases GPT-5.5 to advance frontier voice intelligence, multimodal reasoning, and automated agent workflows.",
         "The model increases developer velocity by forty percent while reducing API latency for complex, multi-turn reasoning tasks.",
         "This release intensifies competition among frontier labs, establishing a new benchmark for natively multimodal agent architectures.",
@@ -173,6 +179,115 @@ const dailyData = {
       ],
       "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
       "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+>>>>>>> Stashed changes
+=======
+        "OpenAI officially deploys GPT-5.5, introducing advanced reasoning capabilities and specialized native agentic workflows.",
+        "System latency decreases by forty percent while execution speed for complex developer tasks doubles.",
+        "This release shifts competitive focus from raw model size to highly efficient architectural orchestration.",
+        "Enterprise developers will rapidly transition legacy automations to utilize these highly sovereign agent environments."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: openai.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "STANFORD: SCALING LAW SHIFT",
+      "points": [
+        "Stanford researchers formulate a novel approach to scaling laws that transforms traditional AI model training.",
+        "Computational resources required for training complex models decline by up to thirty-five percent.",
+        "Industry labs must alter their foundational training structures to maintain efficiency against sovereign competitors.",
+        "This paradigm shifts the mathematical focus of generative optimization toward algorithmic refinement over pure compute."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: hai.stanford.edu",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "TSMC: NANO FLEX TECHNOLOGY",
+      "points": [
+        "TSMC unveils its A16 nanosheet technology integrating an innovative, best-in-class backside power rail solution.",
+        "High-performance silicon chips achieve significantly greater energy efficiency and higher computing density for AI.",
+        "Chipmakers gain critical structural advantages to power next-generation hardware designs for hyperscale data centers.",
+        "Advanced hardware developers will immediately incorporate nanosheet architectures to maximize deep learning hardware yields."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: tsmc.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "DEEPMIND: GEMINI OMNI SYSTEM",
+      "points": [
+        "Google DeepMind introduces Gemini Omni, enabling direct native video ingestion and multi-modal generation capabilities.",
+        "Media pipeline development speeds up significantly by processing video inputs directly without intermediary transcriptions.",
+        "This architecture redefines human-computer interaction by blending diverse input streams into a cohesive processing layer.",
+        "Next-generation application designs will prioritize real-time visual context integration across consumer and enterprise products."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: deepmind.google",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "MOJO: SYSTEMS PROGRAMMING FIRST",
+      "points": [
+        "Modular officially launches Mojo 1.0, combining Pythonic simplicity with strict memory controls from systems programming.",
+        "Developers write ultra-fast hardware-level code without managing separate compiler environments for heterogeneous hardware engines.",
+        "The software landscape gains a unified language designed to bypass legacy processing bottlenecks in AI pipelines.",
+        "Major enterprise engineering teams will gradually migrate intense AI processing steps from Python to native Mojo."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: infoworld.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "NVIDIA: Q1 RECORD REVENUE",
+      "points": [
+        "NVIDIA reports record-breaking first quarter revenue of eighty-one billion dollars, driven by intensive infrastructure demand.",
+        "Global capital allocation accelerates rapidly into physical hardware pipelines, securing hardware dominance for chip design.",
+        "Skyrocketing datacenter expansions confirm that AI model scaling remains highly dependent on elite silicon fabrication facilities.",
+        "Competitors must rapidly scale alternative architectures to prevent further consolidation of computing power under single vendor platforms."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: nvidianews.nvidia.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "ANTHROPIC: OPUS 4.7 COGNITION",
+      "points": [
+        "Anthropic releases Claude Opus 4.7, optimizing model architectures for complex professional coding and agent tasks.",
+        "Autonomous software agents execute multi-step engineering pipelines with minimal human intervention and lower failure rates.",
+        "This update sharpens the divide between simple chatbots and highly capable, task-oriented autonomous system operators.",
+        "Firms will increasingly deploy specialized agent networks to manage internal infrastructure maintenance tasks autonomously."
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Source: anthropic.com",
+        "Published: Last 60 Mins",
+        "Status: Audited & True"
+      ]
 >>>>>>> Stashed changes
     }
   ]
