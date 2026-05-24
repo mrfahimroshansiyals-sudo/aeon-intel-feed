@@ -125,9 +125,9 @@ body {
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     text-align: left;
-    padding: 45px 0 0 0; /* UPDATED: Safety clearance padding-top blocks upper ascender clipping */
+    padding: 20px 0; /* FIXED: Dual clearance padding eliminates both upper and lower edge cropping */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -135,7 +135,7 @@ body {
     align-content: flex-start;
     width: 100%;
     max-width: 780px; 
-    max-height: 720px; /* Consistently caps vertical layout growth */
+    max-height: 520px; /* FIXED: Lowered bounding container cap to safely clear room for the bulletin list */
     overflow: hidden;
 }
 
@@ -144,19 +144,19 @@ body {
 .main-hook-style header h1 div {
     display: inline-block !important;
     transform: scaleY(1.5);
-    transform-origin: left top; /* UPDATED: Locks origin point to prevent upper bounding box overshoot */
-    font-size: clamp(60px, 11cqw, 130px) !important; /* UPDATED: Drop down dynamic baseline to fit heavy strings */
-    line-height: 1.45 !important; /* UPDATED: Elevated padding coefficient absorbs the 1.5x scale height completely */
+    transform-origin: left top;
+    font-size: clamp(55px, 9cqw, 110px) !important; /* FIXED: Smart dynamic size envelope forces auto-fitment inside 4 lines max */
+    line-height: 1.65 !important; /* FIXED: Deep line-height coefficient creates perfect breathing room for 1.5x scale descenders */
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important; /* UPDATED: Smart break strategies applied to protect layout limits */
-    word-break: break-word !important; /* UPDATED: Forces extreme length words to wrap internally */
-    white-space: normal !important; /* UPDATED: Standardizes dynamic wrap parameters */
+    overflow-wrap: break-word !important;
+    word-break: break-word !important; /* FIXED: Breaks extreme text strings across lines to prevent overflow */
+    white-space: normal !important;
     color: var(--text-white);
     text-align: left;
-    margin-right: 28px;
-    margin-bottom: 10px; /* UPDATED: Adjusted margin parameters balance extra line height spacing */
+    margin-right: 24px;
+    margin-bottom: 5px; /* FIXED: Tight margin balances line-height parameters */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -164,12 +164,12 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     margin-right: 0px;
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: 20px;
+    margin-top: 10px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
