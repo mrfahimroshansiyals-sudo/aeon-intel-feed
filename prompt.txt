@@ -72,7 +72,7 @@ Last Updated: May 21, 2026 | 22:15 UTC*/
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "[FIRST 3-4 WORDS]",
+    "titleWhite": "[FIRST 2-3 WORDS]",
     "titleBlue": "[LAST 1 WORD]", 
   },
   "slides": [
