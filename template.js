@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "NEXT GENERATION AGENTIC",
-    "titleBlue": "ARCHITECTURES"
+    "titleWhite": "GLOBAL SEMICONDUCTOR INFRASTRUCTURE SYSTEM",
+    "titleBlue": "ACCELERATION"
   },
   "slides": [
     {
       "id": 1,
-      "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
+      "heading": "AMD: ARCHITECTURE SOVEREIGNTY UPGRADE",
       "points": [
-        "OpenAI launched GPT-5.5, a frontier model optimizing complex reasoning and agentic workflows.",
-        "The release accelerates developer productivity, reducing enterprise cost-per-token by up to forty percent.",
-        "This launch intensifies competition among frontier labs racing toward artificial general intelligence frameworks.",
-        "Enterprises are expected to rapidly integrate GPT-5.5 to power advanced autonomous assistant networks."
+        "AMD has officially unveiled the Instinct MI350P PCIe GPU line to support enterprise AI deployments directly on existing legacy server infrastructure globally.",
+        "The hardware utilizes proprietary Multipath Reliable Connection networking to resolve bottlenecks inherent in traditional single-path models during high-density machine learning training cycles.",
+        "Systemic integration of CPUs and GPUs is now the primary technical focus for moving generative agents from static responses to active execution.",
+        "Engineers anticipate this shift will optimize total cost of ownership while enhancing overall computational throughput for localized enterprise AI clusters."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.amd.com/en/corporate/newsroom",
+      "tags": ["Source: https://www.amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "DEEPMIND: GEMINI OMNI LAUNCH",
+      "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
       "points": [
-        "Google DeepMind unveiled Gemini Omni, enabling real-time generation and reasoning across video and audio modalities.",
-        "The multi-modal processing framework slashes input latency, drastically improving interactive user experience capabilities.",
-        "This architectural upgrade positions Google at the absolute forefront of live agentic processing platforms.",
-        "Future system upgrades will likely focus on deploying Gemini Omni across consumer hardware devices globally."
+        "Google Cloud is launching a comprehensive suite of tools for the agentic era including specialized infrastructure and enterprise governance for Gemini models.",
+        "This platform provides a centralized system of action that bridges the gap between raw data storage and real-time model orchestration for corporate workflows.",
+        "Technical teams are focusing on reducing inference latency by deploying Gemini 3.5 Flash updates specifically designed for high-frequency enterprise efficiency and cost containment.",
+        "Market analysts predict this will compel competitors to consolidate their data management and model serving layers into single unified environments immediately."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://cloud.google.com/blog",
+      "tags": ["Source: https://cloud.google.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "STANFORD HAI: NEW SCALING LAWS",
+      "heading": "TSMC: NANOSHEET FABRICATION ADVANCEMENTS",
       "points": [
-        "Stanford HAI researchers proposed a novel approach to scaling laws that transforms model training methods.",
-        "This development allows teams to achieve higher performance metrics while consuming far fewer compute resources.",
-        "The new formulas challenge established computing paradigms, democratizing training for smaller research organizations.",
-        "The broader community is expected to adopt these methodologies to optimize custom enterprise foundation architectures."
+        "TSMC has released technical specifications for the A16 process node featuring innovative backside power rails tailored for high-performance computing and complex AI workloads.",
+        "The NanoFlex Pro integration within the A14 node allows for greater modularity in chip design and enhanced energy efficiency at sub-nanometer fabrication scales.",
+        "These manufacturing breakthroughs represent the next fundamental layer in the global semiconductor race to power future-generation large-scale neural network architectures.",
+        "Semiconductor manufacturers must now accelerate transition timelines to adopt these node designs to maintain competitive parity within the global hardware supply chain."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.tsmc.com/english/news_events",
+      "tags": ["Source: https://www.tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "AMD: INSTINCT MI350P RELEASE",
+      "heading": "MISTRAL AI: FRONTIER MODEL CUSTOMIZATION",
       "points": [
-        "AMD officially launched its Instinct MI350P PCIe GPUs to run enterprise intelligence on local server networks.",
-        "This hardware architecture allows companies to run massive workloads without modifying existing infrastructure frameworks.",
-        "The launch directly challenges Nvidia dominancy, expanding high-performance computing options for global enterprise markets.",
-        "Industry experts expect rapid enterprise adoption, driven by growing demands for private on-premises infrastructure."
+        "Mistral AI is scaling their enterprise agentic solutions to allow for private, on-premises deployment while retaining state-of-the-art frontier model intelligence performance.",
+        "Their new orchestration framework enables organizations to build, distill, and fine-tune models to execute specific tasks without exposing sensitive internal proprietary data sets.",
+        "By focusing on customized solutioning, they provide a viable alternative to black-box cloud APIs for industries requiring extreme data sovereignty and security.",
+        "This architectural flexibility is expected to disrupt traditional cloud-only AI strategies by facilitating decentralized intelligence and localized control in production environments."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: amd.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://mistral.ai/news",
+      "tags": ["Source: https://mistral.ai", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "SAP: ERP DATA INTEGRATION",
+      "heading": "NVIDIA: FISCAL INFRASTRUCTURE METRICS",
       "points": [
-        "SAP faces immense pressure to open its massive ERP repositories to third-party artificial intelligence engines.",
-        "Failure to build a robust partner ecosystem might cause customers to seek alternative database solutions.",
-        "The conflict highlights growing friction between proprietary legacy software giants and open-source model ecosystems.",
-        "Industry analysts predict SAP will build secure APIs to monetize enterprise intelligence integration pathways."
+        "NVIDIA reported quarterly revenue of 81.6 billion dollars confirming massive growth in data center demand for advanced artificial intelligence compute infrastructure systems.",
+        "The company is expanding its board of directors with high-level expertise to navigate the increasingly complex global landscape of technology trade and manufacturing.",
+        "Strategic emphasis remains on vertical integration where hardware, software, and financial community engagement converge to dictate the current pace of AI development.",
+        "The unprecedented revenue figures provide clear quantitative validation for the sustained capital expenditure cycle across the broader global enterprise AI sector."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://nvidianews.nvidia.com",
+      "tags": ["Source: https://nvidianews.nvidia.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "MICROSOFT: EY ENTERPRISE ALLIANCE",
+      "heading": "ANTHROPIC: CRITICAL SOFTWARE SECURITY",
       "points": [
-        "Microsoft teamed with EY to accelerate enterprise adoption of customized artificial intelligence agent architectures globally.",
-        "This partnership combines hyperscale cloud infrastructure with deep regulatory compliance and integration advisory expertise.",
-        "By unifying service delivery, both firms aim to secure dominance in the professional services market.",
-        "The alliance will likely prompt rival consulting giants to form similar deep technical integration agreements."
+        "Anthropic has initiated Project Glasswing to establish new standards for securing critical enterprise software against vulnerabilities common in the rapidly evolving AI era.",
+        "By integrating security directly into the model development lifecycle, the initiative seeks to mitigate systemic risks associated with automated agent deployment and execution.",
+        "This research-backed approach addresses the increasing urgency for provenance and safety in frontier intelligence systems used by government and financial institutions globally.",
+        "Stakeholders should prepare for a tightening of security compliance requirements as AI-driven systems become more tightly woven into core global network infrastructures."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.anthropic.com/news",
+      "tags": ["Source: https://www.anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "VERIZON: SHADOW AI RISKS",
+      "heading": "STANFORD HAI: WORKPLACE AI RESEARCH",
       "points": [
-        "The Verizon 2026 Data Breach Investigations Report identified shadow artificial intelligence as a top threat.",
-        "Security teams must implement strict monitoring to prevent unauthorized tools from leaking sensitive corporate datasets.",
-        "These findings highlight the critical need for comprehensive governance frameworks in highly regulated industrial environments.",
-        "CISOs are projected to increase expenditures on data loss prevention solutions specifically designed for AI."
+        "Stanford HAI has officially launched the AI and Organizations Lab to scientifically study the systemic impact of generative models on corporate workplace productivity.",
+        "The lab aims to produce empirical data regarding how agentic AI alters organizational velocity and decision-making protocols in diverse commercial enterprise environments.",
+        "This research framework will provide leaders with necessary metrics to balance human capital with machine-led automation within modern high-performance organizational structures.",
+        "Anticipate a surge in evidence-based management strategies as the lab publishes findings on AI integration patterns for the global business community."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://hai.stanford.edu",
+      "tags": ["Source: https://hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
