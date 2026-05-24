@@ -127,36 +127,35 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 40px;
     text-align: left;
-    padding: 30px 0 30px 0; /* FIXED: Symmetrical vertical safety padding cushions stretched ascenders and descenders */
+    padding: 40px 0 40px 0; /* FIXED: Deep vertical safety offsets shield scaled baselines from canvas bounds */
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column; /* FIXED: Stabilizes structure line by line to support absolute alignment tracking */
+    justify-content: flex-start;
     align-items: flex-start;
-    align-content: flex-start;
     width: 100%;
-    max-width: 780px; 
-    max-height: 560px; /* FIXED: Optimal height box ceiling limits overall growth to protect bulletin space */
+    max-width: 820px; 
+    max-height: 680px; 
     overflow: hidden;
 }
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: inline-block !important;
+    display: block !important; /* FIXED: Prevents horizontal line bypass layout splitting */
+    width: 100%;
     transform: scaleY(1.5);
-    transform-origin: left center; /* FIXED: Centers scaling transformation pivot point to balance layout footprint */
-    font-size: clamp(50px, 8.5cqw, 105px) !important; /* FIXED: Optimized auto-fit boundaries force text string containment to under 4 lines */
-    line-height: 1.75 !important; /* FIXED: Generous line-height completely encapsulates the 1.5x visual scaling area */
+    transform-origin: left center; /* FIXED: Symmetrical transformation pivot absorbs geometric drift */
+    font-size: clamp(45px, 8.2cqw, 95px) !important; /* FIXED: Intelligent font scale limits content to 4 lines maximum */
+    line-height: 1.80 !important; /* FIXED: High tolerance tracking track provides absolute vertical text padding */
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
-    word-break: break-word !important; /* FIXED: Allows extreme single-word metrics to cleanly auto-wrap internally */
+    word-break: break-word !important; /* FIXED: Forces long words to gracefully execute wrap calculations */
     white-space: normal !important; 
     color: var(--text-white);
     text-align: left;
-    margin-right: 24px;
-    margin-bottom: 12px; /* FIXED: Adjusted line metrics eliminate overlapping or colliding line rows */
+    margin-bottom: 14px; /* FIXED: Buffers rows to cleanly prevent bounding track collisions */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -164,8 +163,9 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 12px;
+    margin-bottom: 0px;
     margin-right: 0px;
+    margin-top: auto; /* FIXED: Automatically pins the key blue phrase tracking to the bottom row hook */
 }
 
 .main-hook-style .bulletin-container {
