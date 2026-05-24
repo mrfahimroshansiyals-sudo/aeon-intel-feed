@@ -1,0 +1,36 @@
+SECTION 5: OUTPUT TASK 2 — SOCIAL MEDIA POST GENERATOR
+Generate the Instagram caption blueprint as a single, separate block making sure that this is in post.txt file updated accordingly to template.js slides. Make sure that the format is eactly as the following with paragraphs and lines as below:
+
+🌐 [TITLE WHITE] [TITLE BLUE] from template.js
+Global enterprise architecture is shifting toward deep transactional autonomy, legacy infrastructure decoupling, and real-time edge security frameworks. Decode today’s primary signals:
+
+01 / [TITLE 1]
+[One-sentence premium summary of signal 01].
+
+02 / [TITLE 2]
+[One-sentence premium summary of signal 02].
+
+03 / [TITLE 3]
+[One-sentence premium summary of signal 03].
+
+04 / [TITLE 4]
+[One-sentence premium summary of signal 04].
+
+05 / [TITLE 5]
+[One-sentence premium summary of signal 05].
+
+06 / [TITLE 6]
+[One-sentence premium summary of signal 06].
+
+07 / [TITLE 7]
+[One-sentence premium summary of signal 07].
+
+✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
+Stay ahead of the global AI pulse. We decode high-signal developments as they happen, every hour.
+
+Visit our profile to explore the complete intelligence archives.
+
+[ LIKE • SHARE • FOLLOW ]
+For hourly decoded AI signals across the globe.
+
+#[8-10 HIGH-SIGNAL NEWS-SPECIFIC HASHTAGS]
