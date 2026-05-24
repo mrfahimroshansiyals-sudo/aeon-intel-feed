@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ADVANCING AGENTIC ARCHITECTURE",
-        "titleBlue": "TRANSFORMATION"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: $10B TAIWAN INFRASTRUCTURE",
+            "heading": "MICROSOFT: EY AGENTIC ALLIANCE",
             "points": [
-                "AMD announces a massive 10 billion dollar investment into the Taiwanese semiconductor ecosystem to accelerate next-generation AI infrastructure development.",
-                "The investment focuses on expanding production capacities for EPYC processors and enhancing advanced packaging capabilities for future AI data center deployment.",
-                "This capital injection strengthens the synergy between AMD architecture and local manufacturing supply chains to meet surging global HPC demand.",
-                "Market analysts expect this move to solidify AMD's competitive positioning against rivals in high-density data center silicon manufacturing."
+                "Microsoft and EY deploy forward-engineered agentic systems to accelerate enterprise-scale business workflow automation.",
+                "The joint one-billion-dollar initiative targets massive acceleration of enterprise artificial intelligence adoption globally.",
+                "Advanced operational structures leverage integrated Azure architectures to eliminate lingering legacy technical debt.",
+                "Corporate clients will rapidly transition from basic pilot programs to fully autonomous transactional agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: GEMINI 3.5 RELEASE",
+            "heading": "SALESFORCE: INFORMATICA DATA EXPANSION",
             "points": [
-                "Google announces the immediate release of Gemini 3.5, a frontier-class intelligence suite optimized for high-performance agentic workflows and real-time enterprise reasoning.",
-                "The architecture integrates advanced action-planning capabilities, allowing autonomous models to execute complex tasks directly within the Google Cloud platform environment.",
-                "Corporate developers gain new orchestration and governance tools to manage scalable, multi-modal agents across distributed infrastructure projects.",
-                "This model launch marks a shift from passive generative output to active, task-based operational agent management at production scale."
+                "Salesforce extends headless integration architecture directly into enterprise data layers utilizing Informatica connections.",
+                "Developers bypass custom plumbing pipelines to construct secure agentic workflows across fragmented databases.",
+                "Headless database connectivity empowers direct integration of unstructured corporate data into active model layers.",
+                "Chief information officers must carefully manage transaction costs while scaling automated decision-making platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT EY: AGENTIC ADOPTION",
+            "heading": "WORKDAY: SANA ITSM INTEGRATION",
             "points": [
-                "Microsoft and EY formalize a 1 billion dollar consulting agreement to rapidly deploy and scale agentic AI solutions across global enterprise clients.",
-                "Specialized forward-deployed engineering teams are being integrated to bridge the gap between model prototypes and mission-critical business automation workflows.",
-                "The collaboration addresses technical debt by embedding AI agents directly into existing ERP and IT service management infrastructure for efficiency.",
-                "Strategic focus remains on removing friction from AI adoption cycles to ensure measurable ROI in complex, regulated corporate environments."
+                "Workday integrates Sana artificial intelligence agent technology into complex enterprise service management frameworks.",
+                "Unified human resources and finance pipelines receive automated context-aware support to resolve operational bottlenecks.",
+                "Cross-departmental operational structures are streamlined by merging siloed data platforms under agent orchestration.",
+                "Traditional service management providers face direct challenges from deeply embedded unified business platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "NVIDIA: Q1 FISCAL 2027 RESULTS",
+            "heading": "XAI: ANTHROPIC INFRASTRUCTURE SHIFT",
             "points": [
-                "NVIDIA reports record quarterly revenue of 81.6 billion dollars, demonstrating a 20 percent growth driven by unrelenting demand for AI compute infrastructure.",
-                "CEO Jensen Huang confirms the current demand trajectory remains parabolic as data centers globally transition to high-density agentic GPU clusters.",
-                "The financial results underscore the dominance of the Blackwell and future Hopper-based architectures in the current global AI capital expenditure cycle.",
-                "Investors analyze these metrics as the definitive baseline for gauging global corporate investment in foundational AI hardware and systems."
+                "SpaceX public filings reveal frontier artificial intelligence developers are transacting specialized computing capacity directly.",
+                "Rapidly expanding infrastructure demands establish frontier compute as a high-value standalone commercial asset class.",
+                "Model developers leverage cooperative infrastructure agreements to optimize massive training workloads across global clusters.",
+                "Independent cloud capacity shifts power away from traditional hyperscalers toward specialized infrastructure brokers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: VERA AGENT CHIPS",
+            "points": [
+                "Nvidia launches Vera architecture representing the first central processing unit designed for agentic processing.",
+                "Advanced processing units deploy directly into top-tier research laboratories to accelerate next-generation models.",
+                "High-efficiency system-level architectures dramatically optimize energy utilization during intensive agentic operational cycles.",
+                "Semiconductor markets will favor custom-designed hardware optimized specifically for continuous multi-agent system coordination."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TSMC: A16 NANOSHEET LEADERSHIP",
-            "points": [
-                "TSMC showcases its A16 nanosheet technology with super power rails as the primary silicon backbone for the next generation of HPC and AI compute.",
-                "The semiconductor manufacturing firm is optimizing its fabrication pipeline for superior power efficiency to support the intense energy demands of AI models.",
-                "Strategic initiatives focus on providing customers with industry-leading transistor density and thermal management solutions for deep learning hardware development.",
-                "Advanced packaging integration remains central to TSMC's 2026 roadmap, ensuring high-performance scalability for the global AI model training ecosystem."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "OPENAI: RESEARCH PROVENANCE",
+            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST SYSTEM",
             "points": [
-                "OpenAI continues to emphasize long-term safety research by publishing new findings on content provenance and transparent AI ecosystem development standards.",
-                "Recent research highlights breakthroughs in discrete geometry, potentially unlocking new mathematical capabilities for next-generation large language model architectures.",
-                "The company is refining its deployment strategies for autonomous agents in life sciences and enterprise sectors through the GPT research index.",
-                "Industry experts monitor these technical disclosures as markers for how frontier labs are navigating the intersection of capability and systemic safety."
+                "Google DeepMind introduces Co-Scientist acting as a collaborative multi-agent platform for scientific discovery.",
+                "Intelligent research agents accelerate complex material science simulations and biological structure analysis pipelines.",
+                "High-signal academic integration models leverage continuous automated research to compress historical developmental timelines.",
+                "Global laboratories will shift toward fully automated hypothesis generation and computational experimentation protocols."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: LITHOGRAPHY PARTNERSHIP",
+            "heading": "ANTHROPIC: CLAUDE OPUS DEPLOYMENT",
             "points": [
-                "ASML announces a strategic partnership with Tata Electronics to bolster the semiconductor manufacturing ecosystem through advanced lithography and technical support.",
-                "The expansion reflects a wider effort to diversify critical manufacturing hardware supply chains, reducing geographic dependency for high-end chip production.",
-                "Collaboration includes the deployment of computational lithography tools that enable chipmakers to push the limits of nanometer-scale architecture performance.",
-                "Integration with local R&D centers supports the global surge in demand for the lithography machines required for advanced GPU and CPU output."
+                "Anthropic delivers Claude Opus four point seven offering specialized systems for coding and vision.",
+                "Enhanced frontier intelligence metrics demonstrate major operational efficiency gains across complex professional tasks.",
+                "Core safety integrations utilize rigorous scaling policies to protect automated corporate software development environments.",
+                "Software engineering teams will increasingly trust autonomous codebases to handle production-level deployment requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
