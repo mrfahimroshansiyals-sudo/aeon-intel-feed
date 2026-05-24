@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ADVANCING ARCHITECTURAL",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "NEXT-GEN ARTIFICIAL",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "OPENAI: GPT-5.5 ENGINE",
             "points": [
-                "OpenAI officially launches its next-generation GPT-5.5 model, optimizing multi-modal processing speed and autonomous enterprise execution.",
-                "The model achieves a dramatic reduction in latency while significantly improving native reasoning pathways across complex environments.",
-                "Systems architects can immediately deploy GPT-5.5 to power complex agent workflows requiring zero-shot planning capabilities.",
-                "This release accelerates the obsolescence of narrow-task pipelines by unifying deep cognitive orchestration within one API."
+                "OpenAI officially deploys its next-generation GPT-5.5 frontier model architecture globally to optimize automated reasoning.",
+                "Early enterprise testing indicates latency overhead drops by forty percent while execution speed doubles continuously.",
+                "The update integrates advanced context recognition protocols directly into conversational safety pipelines for secure scaling.",
+                "Systems architects predict rapid transition toward fully autonomous digital workflows and persistent agent networks globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI OMNI",
+            "heading": "ANTHROPIC: CLAUDE OPUS ADVANCEMENTS",
             "points": [
-                "Google DeepMind introduces Gemini Omni, enabling real-time generation and reasoning directly from native video and audio streams.",
-                "Developers can build high-performance agentic applications using unified multimodal inputs without relying on external transcription steps.",
-                "The architecture minimizes pipeline overhead by processing visual and textual data feeds through a single co-designed transformer.",
-                "This update signals a massive shift toward spatial intelligence systems capable of processing dense real-world physical environments."
+                "Anthropic unveils Claude Opus 4.7 featuring enhanced multi-modal processing and highly complex agentic coding capabilities.",
+                "Developers observe a thirty percent performance increase across complex professional workflows and specialized visual tasks.",
+                "Project Glasswing protocols secure critical software supply chains to mitigate frontier vulnerability risks systematically.",
+                "Autonomous programming assistants will likely displace traditional manual debugging cycles within modern software development offices."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: A16 TRANSISTOR",
+            "heading": "TSMC: NEXT-GEN SILICON DESIGN",
             "points": [
-                "TSMC showcases its advanced A16 nanosheet transistor technology incorporating the innovative backside Super Power Rail delivery system.",
-                "The design drastically improves power efficiency and signal speeds for high-performance computing and heavy enterprise AI workloads.",
-                "Backside power delivery solves critical chip-level routing congestion, allowing denser integration of next-generation silicon compute dies.",
-                "Microchip designers can leverage these structural advancements to maximize training throughput inside hyperscale data center clusters."
+                "Taiwan Semiconductor Manufacturing Company showcases its advanced A16 nanosheet architecture incorporating Super Power Rail technology.",
+                "The physical design achieves exceptional energy efficiency improvements and power delivery optimization for high-performance computing.",
+                "Backside power solutions and NanoFlex technology allow hardware designers to configure highly customized silicon cell layouts.",
+                "Foundries accelerating these extreme sub-nanometer nodes will dominate international AI processor supply chains for years."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: INSTINCT MI350P",
+            "heading": "MICROSOFT: AZURE AGENTIC DEPLOYMENTS",
             "points": [
-                "AMD deploys its Instinct MI350P PCIe GPUs alongside new Multipath Reliable Connection networking protocols to optimize workloads.",
-                "The hardware configuration addresses single-path transmission bottlenecks, improving overall packet delivery reliability across large cluster nodes.",
-                "Infrastructure architects can run massive transformer workloads directly within existing enterprise servers without costly custom chassis modifications.",
-                "This release strengthens competitive alternatives in the high-density accelerators market, lowering overall enterprise hardware barrier to entry."
+                "Microsoft introduces new agentic capabilities in Azure and GitHub to seamlessly unify development and IT operations.",
+                "Automated orchestration reduces legacy database modernization overhead by twenty percent via Azure Accelerate migration pathways.",
+                "Engineers can orchestrate highly complex multi-model workflows and ship secure enterprise applications with lower latency.",
+                "Organizations leveraging integrated developer platforms will significantly outpace competitors in building resilient agent architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MODULAR: MOJO 1.0",
+            "heading": "NVIDIA: CHIP ARCHITECTURE DEMAND",
             "points": [
-                "Modular ships Mojo 1.0, combining Python style syntax with low-level systems programming control over heterogeneous hardware architectures.",
-                "The compiler introduces precise memory ownership management and robust GPU programming support to replace fragmented C++ implementations.",
-                "Enterprise software teams can accelerate performance critical operations while maintaining clean and readable application codebases throughout development.",
-                "This milestone enables developers to build highly optimized machine learning pipelines bypassing complex multi-language software stacks entirely."
+                "NVIDIA reports record-breaking revenue of eighty-one billion dollars driven by unprecedented global demand for infrastructure.",
+                "Sequential quarterly revenue rises by twenty percent as data center operators expand high-density processing clusters.",
+                "Strategic board appointments strengthen corporate governance ahead of massive multi-generational high-performance computing platform rollouts.",
+                "Financial markets anticipate sustained hardware capital expenditure surges as enterprises continue building massive foundation models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: OPUS 4.7",
+            "heading": "GOOGLE: DEEPMIND OMNI SYSTEM",
             "points": [
-                "Anthropic launches Claude 4.7 Opus, featuring advanced tool utilization and autonomous agentic coding frameworks for complex engineering.",
-                "The system achieves superior scores on multi-step reasoning benchmarks, outperforming industry peers in codebase maintenance and refactoring.",
-                "Corporate engineering divisions can integrate the model to automate legacy software migrations and real-time security vulnerability screening.",
-                "This update signals the rapid emergence of collaborative artificial intelligence partners capable of maintaining massive enterprise codebases."
+                "Google DeepMind releases Gemini Omni to facilitate real-time multi-modal generation beginning with high-fidelity video synthesis.",
+                "The system improves multi-modal alignment by twenty-five percent across massive datasets spanning text and audio.",
+                "Integrating these action-oriented models with scientific pipelines accelerates complex hypothesis generation and technical discovery cycles.",
+                "Creative industries and scientific research sectors will face massive operational changes as generation speeds drop."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STANFORD: SCALING METRICS",
+            "heading": "MODULAR: MOJO SYSTEM RELEASE",
             "points": [
-                "Stanford researchers propose a new approach to scaling laws that could radically transform how deep learning models train.",
-                "The methodology focuses on optimizing data quality over raw volume, saving substantial compute resources during initial pre-training stages.",
-                "Labs can leverage these mathematical insights to train high-performing custom models on much smaller budgets than before.",
-                "This breakthrough democratizes deep learning development by decreasing dependence on ultra-expensive, hyperscale infrastructure setups across the world."
+                "Modular announces the milestone launch of Mojo one point zero blending Python syntax with Rust speed.",
+                "Systems programmers gain precise memory control and native graphics processing unit programming capabilities within enterprises.",
+                "The compiled language addresses critical performance bottlenecks by removing traditional runtime overhead from complex models.",
+                "This production release represents a serious alternative to traditional programming frameworks for edge deployment architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
