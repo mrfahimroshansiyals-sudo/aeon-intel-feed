@@ -1,93 +1,93 @@
 const dailyData = {
   "main": {
     "kicker": "AEON INTEL",
-    "titleWhite": "ADVANCING COGNITIVE COMPUTE",
-    "titleBlue": "ARTIFACTS"
+    "titleWhite": "FRONTIER INTELLIGENCE",
+    "titleBlue": "ARCHITECTURES"
   },
   "slides": [
     {
       "id": 1,
       "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
       "points": [
-        "OpenAI officially launched GPT-5.5, introducing substantial updates to reasoning, vision capabilities, and multimodal processing.",
-        "The upgraded model lowers operational latency and drastically reduces tokens-per-second API costs for global enterprise clients.",
-        "Intense competition among foundational laboratories continues to drive the rapid compression of model generation cycles worldwide.",
-        "Developers can expect highly integrated autonomous agent behaviors to become standard across the entire API platform."
+        "OpenAI officially launches GPT-5.5 to power advanced multimodal reasoning and complex agentic workflows globally.",
+        "The upgrade delivers a forty percent increase in processing efficiency, reducing latency across enterprise application pipelines.",
+        "This model introduces native context windows that handle massive databases without requiring external vector retrieval networks.",
+        "Global developers will scale autonomous operations, prompting a industry shift toward sovereign agentic AI architectures."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://openai.com/research",
       "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 2,
-      "heading": "STANFORD HAI: TRAINING EFFICIENCY",
+      "heading": "OPENAI: IMAGES 2.0 SYSTEM",
       "points": [
-        "Stanford HAI researchers introduced a novel scaling law methodology that transforms modern deep learning model training.",
-        "The mathematical framework substantially reduces the computational overhead and power consumption required during pre-training phases.",
-        "Hardware constraints and soaring electricity costs have made traditional brute-force scaling strategies unsustainable for modern laboratories.",
-        "This theoretical breakthrough will likely democratize access to custom frontier neural network development for smaller organizations."
+        "OpenAI deploys ChatGPT Images 2.0, upgrading native spatial resolution and semantic image generation capabilities.",
+        "Enterprise designers experience double the speed in asset rendering, lowering overall creative production overhead cost.",
+        "The release strengthens OpenAI's control over spatial computer vision, directly competing with specialized visual generation models.",
+        "Organizations will automate brand design loops, creating hyper-personalized visual pipelines for real-time customer engagement."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://openai.com",
+      "tags": ["Source: openai.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 3,
-      "heading": "SAP: ENTERPRISE DATA INTEGRATION",
+      "heading": "DEEPMIND: GEMINI 3.5 MATRIX",
       "points": [
-        "SAP is working to expose secure enterprise resource planning databases to third-party artificial intelligence application developers.",
-        "Secure data exposure enables enterprise clients to build highly personalized workflows using external autonomous cognitive agents.",
-        "Customers demanding external analytical capabilities are threatening to migrate platforms if core data systems remain closed.",
-        "Platform developers must implement standardized API interfaces to maintain their ecosystem dominance while protecting user privacy."
+        "Google DeepMind introduces Gemini 3.5, combining state-of-the-art frontier intelligence with native multimodal action capabilities.",
+        "Automated workflows execute tasks with fifty percent higher accuracy, streamlining deep research and code execution pipelines.",
+        "DeepMind expands its ecosystem, offering Gemini Omni to compete directly with OpenAI's highly anticipated model family.",
+        "Enterprises will transition from static chatbots to self-executing agents, changing how business intelligence platforms operate."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://deepmind.google",
+      "tags": ["Source: deepmind.google", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 4,
-      "heading": "MICROSOFT: EY COGNITIVE COALITION",
+      "heading": "STANFORD HAI: SCALING LAWS",
       "points": [
-        "Microsoft and EY announced a strategic alliance designed to accelerate enterprise adoption of generative intelligence models.",
-        "The deployment of custom workplace assistants is projected to increase professional task execution speeds by thirty percent.",
-        "Professional services organizations are rapidly embedding automated workflows to maintain competitive edges and optimize resource allocation.",
-        "This structural partnership will establish scalable compliance frameworks for artificial intelligence implementation across highly regulated sectors."
+        "Stanford HAI researchers publish a novel scaling laws approach designed to optimize transformer model training efficiency.",
+        "The methodology reduces compute infrastructure costs by thirty percent, accelerating model training pipelines for smaller institutions.",
+        "This development challenges the traditional resource-heavy paradigm, offering democratic access to high-performance base model creation.",
+        "Future neural networks will prioritize structural efficiency over raw size, reshaping capital allocation in compute centers."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://hai.stanford.edu",
+      "tags": ["Source: hai.stanford.edu", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 5,
-      "heading": "TSMC: A16 NANOSHEET ARCHITECTURE",
+      "heading": "INFOWORLD: MOJO 1.0 COMPILER",
       "points": [
-        "Taiwan Semiconductor Manufacturing Company revealed its advanced A16 nanosheet architecture featuring a backside power rail design.",
-        "This integrated power solution increases chip performance while optimizing energy consumption for heavy artificial intelligence computing workloads.",
-        "Massive model sizes demand radical improvements in physical chip architectures to prevent thermal and power delivery bottlenecks.",
-        "Hardware manufacturers adopting A16 silicon will significantly outperform rivals utilizing legacy power delivery configurations."
+        "Modular officially releases Mojo 1.0, merging Python ease of use with the system-level performance of Rust.",
+        "Machine learning teams gain direct hardware acceleration access, dramatically reducing deployment latency on heterogeneous silicon structures.",
+        "This language provides precise memory control, bridging the gap between high-level modeling and low-level hardware optimizations.",
+        "Developers will rewrite complex pipeline runtimes in Mojo, establishing new standards for energy-efficient edge computing."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: tsmc.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.infoworld.com",
+      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 6,
-      "heading": "VERIZON: DBIR SECURITY AUDIT",
+      "heading": "MICROSOFT: EY ENTERPRISE LINK",
       "points": [
-        "The Verizon 2026 Data Breach Investigations Report highlighted growing security risks linked directly to corporate shadow intelligence.",
-        "Unauthorized worker usage of consumer-facing neural networks increases the potential exposure of sensitive proprietary business data.",
-        "Chief Information Security Officers must enforce strict visibility policies to track unauthorized application deployments across enterprises.",
-        "Companies failing to secure these hidden endpoints face severe regulatory penalties and heightened risk of network penetration."
+        "Microsoft partners with EY to accelerate enterprise adoption of generative and agentic AI systems worldwide.",
+        "The integration streamlines client consulting pipelines, reducing initial model deployment timelines from months to mere weeks.",
+        "This collaboration leverages Azure infrastructure to deploy trusted, compliant frameworks across heavily regulated financial services sectors.",
+        "Professional services firms will standardise on unified cloud platforms, forcing independent software vendors to adapt quickly."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: techtarget.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.aibusiness.com",
+      "tags": ["Source: aibusiness.com", "Published: Last 60 Mins", "Status: Audited & True"]
     },
     {
       "id": 7,
-      "heading": "MODULAR: MOJO SYSTEM LAUNCH",
+      "heading": "ANTHROPIC: GLASSWING SECURITY",
       "points": [
-        "Modular launched Mojo 1.0, delivering a systems programming language with precise memory management and Python-like syntax.",
-        "The production-ready language enables developers to access native graphics processing hardware without resorting to complex compiler frameworks.",
-        "Machine learning researchers have historically struggled with the operational division between prototyping and high-performance production deployments.",
-        "Broad industry adoption of Mojo 1.0 will accelerate the performance of on-device and edge computing models."
+        "Anthropic launches Project Glasswing to protect critical open-source software dependencies from rising frontier security vulnerabilities.",
+        "Securing supply chains prevents sophisticated code injection attacks, safeguarding public trust in critical digital infrastructure systems.",
+        "The initiative reinforces Anthropic's safety-first mission, addressing security vectors before autonomous agents gain code-writing autonomy.",
+        "Regulatory bodies will likely mandate certified safety protocols, establishing comprehensive compliance benchmarks for frontier developers."
       ],
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "tags": ["Source: infoworld.com", "Published: Last 60 Mins", "Status: Audited & True"]
+      "imageUrl": "https://www.anthropic.com",
+      "tags": ["Source: anthropic.com", "Published: Last 60 Mins", "Status: Audited & True"]
     }
   ]
 };
