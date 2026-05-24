@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS COGNITIVE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AGENTIC INFRASTRUCTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA CPU AGENT PLATFORM",
+            "heading": "MICROSOFT: AGENTIC WORKFLOW SCALING",
             "points": [
-                "NVIDIA delivers the Vera CPU architected specifically to power autonomous agent workflows in top AI laboratories.",
-                "Labs deploy the hardware to achieve exponential scaling of multi-agent execution frameworks within unified clusters.",
-                "The architecture unifies compute resources to eliminate memory latency bottlenecks during heavy agentic reasoning tasks.",
-                "Researchers predict this platform will establish a new hardware benchmark for real-time autonomous systems development."
+                "Microsoft and EY announce a billion dollar initiative to accelerate enterprise agentic AI deployment via specialized engineering teams.",
+                "This partnership seeks to address the complex integration hurdles of deploying autonomous agentic systems within rigid legacy IT ecosystems.",
+                "Forward deployed engineers will lead the transition for clients moving from traditional workflows into fully automated AI agentic operations.",
+                "The initiative highlights a shift towards managed implementation services to ensure reliable business outcomes in critical enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TSMC 2NM VENICE PROCESSORS",
+            "heading": "AMD: COMPUTE INFRASTRUCTURE EXPANSION",
             "points": [
-                "AMD initiates the production ramp of its next-generation Venice EPYC processors on TSMC's 2nm platform.",
-                "The transition targets massive power efficiency improvements and substantial density gains for enterprise data centers.",
-                "Integrating advanced nanosheet architecture allows hyperscalers to run larger model architectures at significantly lower operating costs.",
-                "Hardware architects anticipate the 2nm Venice line will intensify competition across high-performance computing markets worldwide."
+                "AMD confirms a strategic investment exceeding ten billion dollars in Taiwan to accelerate local semiconductor and AI compute ecosystems.",
+                "The investment focuses on expanding production capacity for next generation EPYC processors and high performance AI networking hardware stacks.",
+                "This capital injection secures regional supply chain sovereignty for advanced 2nm processes and crucial agentic computing chip architectures.",
+                "Global market analysts anticipate this move will significantly tighten supply constraints for competing hyperscalers during 2027 infrastructure cycles."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,44 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
+            "heading": "GOOGLE: GEMINI AGENTIC ARCHITECTURE",
             "points": [
-                "OpenAI officially introduces the GPT-5.5 model designed to elevate frontier intelligence, reasoning capabilities, and multimodal actions.",
-                "Developers leverage the updated system to deploy highly stable, autonomous coding agents across complex enterprise environments.",
-                "The architectural optimization reduces token processing costs while enhancing context awareness and long-term planning routines.",
-                "Enterprise leaders expect GPT-5.5 to accelerate the broad transition from simple chatbots to fully autonomous digital workers."
+                "Google Cloud unveils Gemini 3.5 Flash and Gemini Omni models designed to prioritize enterprise cost efficiency and cross modal inputs.",
+                "These updates introduce native support for real time agentic reasoning and complex orchestration within existing cloud management toolsets.",
+                "The release strategy emphasizes lowering latency for high throughput enterprise applications requiring immediate intelligent system reactions.",
+                "Stakeholders gain access to frontier intelligence with enhanced action capabilities meant to streamline large scale business model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: CO-SCIENTIST RESEARCH PLATFORM",
+            "heading": "TSMC: NANO-SCALE SILICON SOVEREIGNTY",
             "points": [
-                "Google DeepMind launches Co-Scientist to serve as a collaborative, multi-agent AI platform accelerating scientific discovery workflows.",
-                "Research groups utilize the system to generate novel biological hypotheses and automate structured experimental designs globally.",
-                "The system coordinates specialized agent roles to synthesize massive scientific datasets into actionable academic insights seamlessly.",
-                "Principal investigators predict Co-Scientist will dramatically compress the timeline required to discover novel therapeutic compounds."
+                "TSMC showcases A16 Nanosheet technology utilizing backside power rails to optimize performance for high density artificial intelligence compute loads.",
+                "This architecture breakthrough enables superior power efficiency and thermal management for the next wave of agentic-ready AI processors.",
+                "NanoFlex Pro integration provides chip designers with increased flexibility in optimizing logic blocks for specialized AI workloads.",
+                "The roadmap confirms massive capacity increases for 2nm and 1.6nm production nodes to satisfy global demand for accelerator chips."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ASML: MISTRAL AI LITHOGRAPHY",
+            "heading": "NVIDIA: ACCELERATED NETWORK GRIDS",
             "points": [
-                "ASML integrates custom Mistral AI models to advance computational lithography and optimize silicon manufacturing precision tools.",
-                "The deployment drives microchip development forward by improving wafer patterning throughput and overall factory yield metrics.",
-                "Utilizing private edge deployments guarantees the protection of sensitive intellectual property throughout the manufacturing process.",
-                "Semiconductor industry analysts expect this partnership to redefine operational efficiency standards for next-generation fabrication facilities."
+                "NVIDIA accelerates 6G networking research through GPU native automation and AI driven digital twin simulation platforms.",
+                "New sessions highlight integration of learning driven algorithms into wireless infrastructure to maintain high throughput performance in 2026.",
+                "Strategic deployment of Vera CPU racks aims to provide dedicated agentic intelligence at the network edge and data centers.",
+                "Industry leaders signal that hardware accelerated wireless performance will be the foundation for future real time agentic connectivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL: SOVEREIGN AGENTIC DEPLOYMENT",
+            "points": [
+                "Mistral AI expands its enterprise agent portfolio focusing on private, self contained deployments for highly regulated global industry sectors.",
+                "New orchestration frameworks allow organizations to retain full control of sensitive data while maintaining state of the art performance.",
+                "Deeply engaged technical support models now help enterprises bridge the gap between experimental pilots and production grade automation.",
+                "Corporate focus shifts toward providing tailored AI models that adapt to specific internal knowledge bases and operational constraints."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "EUROPEAN UNION: AI ACT TRANSPARENCY",
-            "points": [
-                "European regulators enforce Article 50 guidelines mandating strict transparency measures for general-purpose artificial intelligence models.",
-                "Compliance audits require providers to implement clear watermarking and systematic disclosure mechanisms for generated synthetic content.",
-                "This legal framework forces global technology enterprises to overhaul their governance structures before entering European markets.",
-                "Legal scholars anticipate these strict requirements will establish a powerful regulatory blueprint for worldwide AI governance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "MICROSOFT & EY: AGENTIC AI DEPLOYMENT",
+            "heading": "ANTHROPIC: FRONTIER SAFETY INTEGRATION",
             "points": [
-                "Microsoft partners with EY on a massive initiative to assist global enterprises in deploying autonomous agent architectures.",
-                "Dedicated forward-deployed engineering teams target the modernization of critical financial, operational, and administrative business workflows.",
-                "The alliance leverages Azure cloud infrastructure to scale secure, compliant multi-model orchestrations across diverse corporate environments.",
-                "Industry executives project this venture will significantly accelerate the tangible monetization of enterprise cognitive investments."
+                "Anthropic releases updated documentation on responsible scaling policies and hardware level safety mechanisms for frontier scale AI development.",
+                "New guidelines focus on securing critical software infrastructure against emerging threats in the increasingly autonomous agentic software era.",
+                "Ongoing research into model alignment science provides enterprises with standardized frameworks for auditing agent behavior in production environments.",
+                "Public benefit mission directives continue to prioritize rigorous oversight of large scale model integration within commercial business stacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
