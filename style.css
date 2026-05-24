@@ -127,7 +127,7 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 60px;
     text-align: left;
-    padding: 0;
+    padding: 45px 0 0 0; /* UPDATED: Safety clearance padding-top blocks upper ascender clipping */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -135,7 +135,7 @@ body {
     align-content: flex-start;
     width: 100%;
     max-width: 780px; 
-    max-height: 720px;
+    max-height: 720px; /* Consistently caps vertical layout growth */
     overflow: hidden;
 }
 
@@ -144,18 +144,19 @@ body {
 .main-hook-style header h1 div {
     display: inline-block !important;
     transform: scaleY(1.5);
-    transform-origin: left;
-    font-size: clamp(80px, 11cqw, 130px) !important; 
-    line-height: 1.3 !important;
+    transform-origin: left top; /* UPDATED: Locks origin point to prevent upper bounding box overshoot */
+    font-size: clamp(60px, 11cqw, 130px) !important; /* UPDATED: Drop down dynamic baseline to fit heavy strings */
+    line-height: 1.45 !important; /* UPDATED: Elevated padding coefficient absorbs the 1.5x scale height completely */
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: normal !important;
-    word-break: keep-all !important;
+    overflow-wrap: break-word !important; /* UPDATED: Smart break strategies applied to protect layout limits */
+    word-break: break-word !important; /* UPDATED: Forces extreme length words to wrap internally */
+    white-space: normal !important; /* UPDATED: Standardizes dynamic wrap parameters */
     color: var(--text-white);
     text-align: left;
     margin-right: 28px;
-    margin-bottom: 35px;
+    margin-bottom: 10px; /* UPDATED: Adjusted margin parameters balance extra line height spacing */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -163,7 +164,7 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
     margin-right: 0px;
 }
 
