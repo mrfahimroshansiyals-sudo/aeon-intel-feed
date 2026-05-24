@@ -62,7 +62,7 @@ body {
     background-size: cover;
     background-position: center;
     background-color: var(--bg-black);
-    container-type: inline-size;
+    container-type: inline-size; /* Allows cqw calculations based on context */
 }
 
 .content-body {
@@ -83,14 +83,14 @@ body {
 
 .main-hook-style .content-body {
     padding-top: 100px;
-    padding-left: 200px;
-    padding-right: 100px;
+    padding-left: 150px;  /* Widened text area to give text maximum horizontal growth room */
+    padding-right: 150px; 
     padding-bottom: 100px;
     max-height: 1120px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start; /* Aligns contents from top to accurately predict space distribution */
     align-items: flex-start;
     text-align: left;
 }
@@ -118,23 +118,25 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     text-align: left;
     padding: 0;
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     text-align: left;
-    padding: 15px 0 15px 0; /* Clear internal breathing space prevents ascender cropping */
+    padding: 10px 0;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: space-between; /* Evenly spaces elements without manual margin hacking */
     align-items: flex-start;
     width: 100%;
     max-width: 780px; 
-    min-height: 520px; /* Replaces the restrictive height cap with a safe baseline layout container */
+    height: auto;
+    min-height: 480px; /* Elastic framework scale eliminates horizontal and vertical text shearing */
+    max-height: 560px; /* Absolute ceiling barrier limits text blocks strictly above line 4 */
     overflow: hidden;
 }
 
@@ -143,10 +145,11 @@ body {
 .main-hook-style header h1 div {
     display: block !important;
     width: 100%;
-    font-size: clamp(85px, 11.5cqw, 135px) !important; /* Adjusted scale factor keeps layout bounds balanced and stable */
-    line-height: 0.90 !important; /* Clean line-height eliminates overlapping issues */
+    /* Responsive clamp adjusts automatically based on word size limits while keeping layout massive */
+    font-size: clamp(80px, 12.5cqw, 140px) !important; 
+    line-height: 0.98 !important; /* Higher, safe line height metric eliminates letter overlap */
     font-weight: 1500 !important;
-    letter-spacing: -2px !important;
+    letter-spacing: -1px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important; 
     word-break: break-all !important; 
@@ -154,7 +157,7 @@ body {
     color: var(--text-white);
     text-align: left;
     margin-right: 0px;
-    margin-bottom: 0px; /* Cleared erratic spacing variables */
+    margin-bottom: 0px; /* Let flex box layout handle the micro vertical gaps natively */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -164,11 +167,11 @@ body {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
     margin-right: 0px;
-    margin-top: auto; /* Solid alignment anchor locks blue keyword cleanly onto the 4th line boundary */
+    margin-top: auto; 
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: 20px;
+    margin-top: auto; /* Pushes the bulletin section safely away from the text boundaries */
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
@@ -183,7 +186,7 @@ body {
     letter-spacing: 2px;
     line-height: 1;
     color: var(--aeon-blue);
-    margin-bottom: 20px; 
+    margin-bottom: 15px; 
     text-transform: uppercase;
 }
 
@@ -199,7 +202,7 @@ body {
     font-weight: 100;
     color: #ffffff;
     letter-spacing: 1px;
-    line-height: 1; 
+    line-height: 1.2; 
     margin-bottom: 10px; 
     text-transform: uppercase;
     display: flex;
