@@ -51,7 +51,8 @@ def fetch_and_clean():
                 # Remove non-content junk
                 for element in soup(["script", "style", "nav", "footer", "iframe"]):
                     element.extract()
-                text = soup.get_text(separator=' ', strip=True)[:1000]
+                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
+                text = soup.get_text(separator=' ', strip=True)[:5000]
                 scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
         except Exception:
             continue # Fail silently to keep the pipeline moving
