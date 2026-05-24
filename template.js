@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "TRANSFORMATION"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "heading": "TSMC: ADVANCED SILICON ROADMAP",
             "points": [
-                "NVIDIA deploys the Vera CPU, its first specialized architecture custom-built for powering next-generation autonomous AI agents.",
-                "The architecture delivers optimized performance metrics across top-tier artificial intelligence research laboratories globally during initial deployment phases.",
-                "This hardware release marks a shift toward dedicated agentic processors designed to handle complex multi-modal decision workflows.",
-                "AI developers will secure accelerated processing capabilities to scale agent deployments without hitting traditional CPU processing bottlenecks."
+                "TSMC unveils A16 nanosheet architecture featuring integrated backside power rails for HPC and AI clusters.",
+                "This production breakthrough significantly optimizes power efficiency and signal integrity for next-generation frontier model training loads.",
+                "Strategic deployment of A14 and A16 nodes positions TSMC as the primary foundry for agentic silicon.",
+                "Foundry leadership solidifies dominance in the competitive race for sovereign AI hardware and manufacturing scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: VENICE EPYC PRODUCTION",
+            "heading": "MICROSOFT & EY: AGENTIC SCALE",
             "points": [
-                "AMD initiates the production ramp of its next-generation Venice EPYC enterprise processors utilizing TSMC advanced two-nanometer process technology.",
-                "The transition to two-nanometer nodes yields massive improvements in energy efficiency and transistor density for data center workloads.",
-                "Leveraging TSMC cutting-edge fabrication secures high-performance computing capabilities critical for training and running next-generation artificial intelligence models.",
-                "Hyperscalers will achieve superior total cost of ownership benchmarks while expanding high-density cloud computing infrastructure across global zones."
+                "Microsoft and EY announce a billion-dollar strategic partnership to accelerate enterprise deployment of agentic AI systems.",
+                "Forward-deployed engineers will embed within client infrastructures to solve complex integration challenges for autonomous workflows.",
+                "This initiative marks a critical transition from simple AI copilots to scalable autonomous agent-based enterprise ecosystems.",
+                "Corporate stakeholders should anticipate accelerated adoption cycles and reduced technical friction in large-scale AI integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: DISCRETE GEOMETRY DISCOVERY",
+            "heading": "AMD: AGENT COMPUTING EXPANSION",
             "points": [
-                "An advanced OpenAI deep learning model successfully disproves a long-standing central conjecture in the field of discrete geometry.",
-                "This breakthrough demonstrates the capability of neural networks to solve complex abstract mathematical formulations previously thought unsolvable.",
-                "The mathematical validation highlights the expanding role of deep learning systems as collaborative partners in pure scientific research.",
-                "Academic researchers will increasingly leverage generative AI systems to accelerate theoretical discoveries across various advanced scientific disciplines."
+                "AMD announces a ten-billion-dollar investment in the Taiwan ecosystem to bolster AI infrastructure and logic manufacturing.",
+                "New Ryzen AI Halo developer platforms empower localized execution of complex agentic models on client devices.",
+                "Strategic production ramp of Venice processors on 2nm technology targets high-performance needs of the agentic era.",
+                "Enterprise reliance on diversified, open-ecosystem hardware architectures becomes a defensive necessity against hyperscaler vertical lock-in."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: CO-SCIENTIST DEPLOYMENT",
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Google DeepMind introduces Co-Scientist, a multi-agent artificial intelligence platform built to accelerate scientific discovery and collaborative research.",
-                "The system coordinates specialized AI agents to analyze complex laboratory data and generate verifiable scientific hypotheses autonomously.",
-                "Integrating multi-agent workflows into scientific pipelines represents a fundamental shift toward automated, end-to-end research and development processes.",
-                "Research institutions will compress drug discovery and materials science lifecycles by employing automated multi-agent collaboration systems globally."
+                "Google Cloud launches Gemini 3.5 Flash specifically engineered to lower inference costs for enterprise-grade autonomous agents.",
+                "Enhanced orchestration and governance features simplify the integration of frontier models into established production data pipelines.",
+                "The updated Data Cloud provides the system of action required for autonomous reasoning across disparate databases.",
+                "This release creates a direct challenge to existing model providers by prioritizing economic efficiency for agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "STANFORD: DATA SCIENCE MERGER",
+            "heading": "SPACEX IPO: COMPUTE CAPITAL",
             "points": [
-                "Stanford University officially merges its Human-Centered Artificial Intelligence institute with the Stanford Data Science initiative under unified leadership.",
-                "The consolidated academic institute pools extensive multidisciplinary resources to advance open-science methodologies and team-based research at scale.",
-                "This structural reorganization reflects a broader academic pivot toward combining data-driven computing with ethical artificial intelligence governance frameworks.",
-                "Global policymakers and academic institutions will receive more cohesive, data-backed guidance to build safe and equitable AI standards."
+                "SpaceX IPO filings reveal massive investment in frontier-scale compute infrastructure to power proprietary AI development cycles.",
+                "Market observers note a new paradigm where aerospace companies leverage capital intensity to secure dedicated AI hardware.",
+                "The financial disclosures highlight the strategic importance of internal compute sovereignty for next-generation automated navigation systems.",
+                "Investors are evaluating the direct correlation between private rocket development and advanced AI operational capabilities today."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: hai.stanford.edu",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "INFOWORLD: MOJO 1.0 RELEASE",
             "points": [
-                "Anthropic releases Claude Opus 4.7, delivering highly advanced capabilities for autonomous coding, multi-agent coordination, and complex vision.",
-                "The upgraded model achieves superior benchmarks in execution precision for critical enterprise development tasks and multi-modal operations.",
-                "Deploying high-intelligence models with native agentic tools enables deep software environment integration and automated troubleshooting of complex codebases.",
-                "Organizations will rapidly transition from simple chat assistants to fully integrated, autonomous software agents that execute end-to-end workflows."
+                "Mojo 1.0 officially launches as a systems programming language optimized for high-performance AI hardware and memory.",
+                "The language combines Python ease of use with Rust-level performance to streamline complex GPU-based AI applications.",
+                "Strong type systems and granular memory controls provide developers with unprecedented optimization potential for training agents.",
+                "Technical shift toward specialized AI languages suggests an industry move away from bloated software layer dependencies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: ENTERPRISE AI INITIATIVE",
+            "heading": "NVIDIA: AGENTIC HARDWARE SHIFT",
             "points": [
-                "Microsoft partners with Ernst and Young to invest substantial resources in accelerating enterprise adoption of advanced agentic AI.",
-                "The alliance deploys specialized forward-engineered teams to integrate autonomous workflows into complex legacy enterprise corporate operations globally.",
-                "Large-scale system integrations represent a major commercial effort to transition enterprises from experimental pilots to production-ready agentic systems.",
-                "Chief information officers will leverage pre-built frameworks to mitigate integration complexities and realize faster returns on AI investments."
+                "NVIDIA accelerates the Vera CPU deployment to dedicated agent labs, optimizing processing for autonomous task planning.",
+                "Record revenue projections for fiscal 2027 underscore the parabolic demand for hardware capable of executing agent workflows.",
+                "Strategic focus on GPU-native network automation defines the new architecture for highly scalable, intelligent grid systems.",
+                "Hardware-software convergence represents the ultimate bottleneck and competitive advantage in the rapidly evolving AI landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
