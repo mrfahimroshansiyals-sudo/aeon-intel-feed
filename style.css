@@ -129,10 +129,14 @@ body {
     text-align: left;
     padding: 0;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: flex-start;
+    align-content: flex-start;
     width: 100%;
     max-width: 780px; 
+    max-height: 720px;
+    overflow: hidden;
 }
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
@@ -141,16 +145,17 @@ body {
     display: inline-block !important;
     transform: scaleY(1.5);
     transform-origin: left;
-    font-size: clamp(80px, 12cqw, 140px) !important; 
-    line-height: 1.4 !important;
+    font-size: clamp(80px, 11cqw, 130px) !important; 
+    line-height: 1.3 !important;
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important;
-    word-break: break-word !important;
+    overflow-wrap: normal !important;
+    word-break: keep-all !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 15px;
+    margin-right: 28px;
+    margin-bottom: 35px;
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -158,7 +163,8 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 0px;
+    margin-bottom: 35px;
+    margin-right: 0px;
 }
 
 .main-hook-style .bulletin-container {
