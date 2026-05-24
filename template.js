@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC FRAMEWORKS",
-        "titleBlue": "ACCELERATE"
+        "titleWhite": "NEXT-GEN AI",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 ARCHITECTURE",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "OpenAI releases GPT-5.5 integrating advanced content provenance and highly sophisticated real-time voice intelligence architecture.",
-                "The novel model architecture optimizes context processing mechanisms for sensitive, multi-turn enterprise conversations and workflows.",
-                "Enhanced image capabilities debut via ChatGPT Images 2.0 to expand visual generative options across international markets.",
-                "Developers secure direct API access to scale high-throughput multimodal applications within decentralized cloud hosting environments."
+                "OpenAI launches GPT-5.5 to deliver advanced reasoning, coding, and real-time multimodal interaction capabilities.",
+                "The architecture processes complex operational workflows with lower latency and higher token throughput efficiency.",
+                "Developers can leverage native integration frameworks to orchestrate multi-agent operations across enterprise cloud systems.",
+                "Early enterprise testing indicates substantial gains in programmatic code generation and structured data extraction tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: DATA CENTER ACCELERATION",
+            "heading": "NVIDIA: INFRASTRUCTURE REVENUE SURGE",
             "points": [
-                "NVIDIA records eighty-one billion dollars in quarterly revenue demonstrating unprecedented demand for next-generation hardware platforms.",
-                "Global hyperscalers rapidly acquire accelerated compute stacks to support massive enterprise infrastructure modernization and deployment.",
-                "Independent board changes with Suzanne Nora Johnson appointed to guide strategic investment plans through fiscal 2027.",
-                "Financial markets respond to massive structural scaling shifts as hardware procurement cycles shorten across major regions."
+                "NVIDIA reports record first quarter fiscal 2027 revenue of eighty-one point six billion dollars.",
+                "The sequential revenue increase of twenty percent reflects massive global enterprise investment in accelerated computing.",
+                "Next-generation hardware architectures continue driving market expansion for hyperscale data centers and sovereign cloud systems.",
+                "Financial metrics confirm sustained demand for advanced silicon layers optimized to train complex frontier models."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DEEPMIND: MULTIMODAL GEMINI OMNI",
+            "heading": "MODULAR: MOJO 1.0 SYSTEMS RELEASE",
             "points": [
-                "DeepMind introduces Gemini Omni allowing users to instantly synthesize complex outputs from raw real-time video inputs.",
-                "The concurrent release of Gemini 3.5 combines frontier intelligence with complex automated actions for autonomous agents.",
-                "Collaborative research assistants like Co-Scientist accelerate scientific discoveries using deep neural network optimization pathways.",
-                "Enterprise developers gain immediate deployment channels using cost-efficient Gemini Flash architectures designed for extreme performance."
+                "Mojo one point zero debuts by combining expressive Python syntax with high-performance Rust systems programming.",
+                "Developers gain precise memory control and native graphics processing unit programming support for enterprise workloads.",
+                "The language bridges the gap between raw hardware efficiency and rapid artificial intelligence application development.",
+                "Engineering teams can now construct high-performance machine learning pipelines without relying on complex external libraries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TSMC: NANOSHEET BACKSIDE POWER",
+            "heading": "STANFORD HAI: SCALING LAW CRACKED",
             "points": [
-                "TSMC reveals A16 nanosheet semiconductor nodes utilizing the innovative Super Power Rail for backside power delivery.",
-                "The architecture provides critical efficiency gains required to sustain massive high-performance computing and machine learning platforms.",
-                "Parallel advancements in A14 NanoFlex technology expand design parameters for next-generation mobile and edge chip designs.",
-                "Advanced packaging ecosystems integrate specialized three-dimensional integrated circuit designs to maximize transistor density and throughput."
+                "Stanford researchers introduce novel model scaling laws that dramatically optimize training compute and parameter allocation.",
+                "This research changes how frontier developers allocate expensive compute resources across diverse neural network architectures.",
+                "Optimized training cycles promise to lower the financial entry barrier for training custom sovereign intelligence models.",
+                "The mathematical framework suggests substantial efficiency improvements for both dense and mixture-of-experts model structures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "AMD: INSTINCT MI350P NETWORKING",
             "points": [
-                "Anthropic showcases Claude Opus 4.7 delivering superior execution metrics for coding, visual analysis, and agentic workflows.",
-                "Project Glasswing initiatives launch to secure critical software architectures against emerging automated vector threats and vulnerabilities.",
-                "The model facilitates autonomous deep-space tasks helping NASA robotic rovers navigate highly complex extraterrestrial surface conditions.",
-                "Public benefit structures prioritize rigorous safety evaluations while scaling model capacities for international financial institutions."
+                "AMD introduces Instinct MI350P PCIe GPUs alongside advanced multipath reliable connection networking technologies for scalability.",
+                "The hardware enables enterprises to deploy sovereign acceleration units within their pre-existing data center infrastructure.",
+                "Multipath reliable connection tech resolves data transmission bottlenecks that commonly plague traditional single-path networking solutions.",
+                "This deployment model directly lowers capital expenditure requirements for training complex multi-modal intelligence agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AWS: AGENTIC SPACE ORCHESTRATION",
+            "heading": "GOOGLE CLOUD: WIZ SECURITY DEPLOYMENT",
             "points": [
-                "AWS coordinates with Blue Origin to implement decentralized agentic intelligence software for advanced aerospace system automation.",
-                "Mission operators deploy custom agent frameworks to monitor hardware telemetry data across complex long-duration space journeys.",
-                "High-capacity storage environments like Amazon Simple Storage Service secure massive telemetry feeds for deep-learning analysis tasks.",
-                "Strategic investments validate cloud-native automation systems handling critical national security workloads under strict isolation parameters."
+                "Google Cloud partners with Wiz to redefine enterprise security architecture for the emerging agentic computing era.",
+                "The unified safety framework mitigates shadow deployment vulnerabilities across complex hybrid and multicloud orchestration platforms.",
+                "Security orchestration systems actively scan cloud operations to verify compliance and prevent unauthorized data exfiltration.",
+                "This strategic alliance delivers real-time threat detection capabilities customized for high-throughput autonomous transaction networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AZURE AGENTIC INTEGRATION",
+            "heading": "TSMC: A16 NANOSHEET PRODUCTION",
             "points": [
-                "Microsoft announces deep agentic capabilities linking Azure cloud infrastructure directly to GitHub development pipelines and operations.",
-                "Developers leverage synchronized environment architectures to automate enterprise database modernization and legacy application transformation protocols.",
-                "The unified orchestration layer minimizes deployment overhead while enforcing robust corporate data governance across multicloud networks.",
-                "Global consulting consortiums validate these integration pathways to accelerate scaled platform transitions within heavily regulated industries."
+                "TSMC highlights its A16 nanosheet architecture featuring backside power delivery designed for artificial intelligence accelerators.",
+                "Super Power Rail technology improves energy efficiency while optimizing complex signal routing across high-density computing chips.",
+                "The design promises to accelerate throughput for next-generation hardware platforms processing intensive scientific workloads.",
+                "Next-generation silicon lithography scaling continues to enable significant performance boosts for deep learning systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
