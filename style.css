@@ -62,7 +62,7 @@ body {
     background-size: cover;
     background-position: center;
     background-color: var(--bg-black);
-    container-type: inline-size; /* Allows cqw calculations based on context */
+    container-type: inline-size;
 }
 
 .content-body {
@@ -83,14 +83,14 @@ body {
 
 .main-hook-style .content-body {
     padding-top: 100px;
-    padding-left: 150px;  /* Widened text area to give text maximum horizontal growth room */
-    padding-right: 150px; 
+    padding-left: 200px;
+    padding-right: 100px;
     padding-bottom: 100px;
     max-height: 1120px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Aligns contents from top to accurately predict space distribution */
+    justify-content: center;
     align-items: flex-start;
     text-align: left;
 }
@@ -118,46 +118,39 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     text-align: left;
     padding: 0;
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     text-align: left;
-    padding: 10px 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Evenly spaces elements without manual margin hacking */
     align-items: flex-start;
     width: 100%;
     max-width: 780px; 
-    height: auto;
-    min-height: 480px; /* Elastic framework scale eliminates horizontal and vertical text shearing */
-    max-height: 560px; /* Absolute ceiling barrier limits text blocks strictly above line 4 */
-    overflow: hidden;
 }
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important;
-    width: 100%;
-    /* Responsive clamp adjusts automatically based on word size limits while keeping layout massive */
-    font-size: clamp(80px, 12.5cqw, 140px) !important; 
-    line-height: 0.98 !important; /* Higher, safe line height metric eliminates letter overlap */
+    display: inline-block !important;
+    transform: scaleY(1.5);
+    transform-origin: left;
+    font-size: clamp(80px, 12cqw, 140px) !important; 
+    line-height: 1.4 !important;
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important; 
-    word-break: break-all !important; 
-    white-space: nowrap !important; 
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
     color: var(--text-white);
     text-align: left;
-    margin-right: 0px;
-    margin-bottom: 0px; /* Let flex box layout handle the micro vertical gaps natively */
+    margin-bottom: 15px;
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -166,12 +159,10 @@ body {
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
-    margin-right: 0px;
-    margin-top: auto; 
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: auto; /* Pushes the bulletin section safely away from the text boundaries */
+    margin-top: 20px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
@@ -186,7 +177,7 @@ body {
     letter-spacing: 2px;
     line-height: 1;
     color: var(--aeon-blue);
-    margin-bottom: 15px; 
+    margin-bottom: 20px; 
     text-transform: uppercase;
 }
 
@@ -202,7 +193,7 @@ body {
     font-weight: 100;
     color: #ffffff;
     letter-spacing: 1px;
-    line-height: 1.2; 
+    line-height: 1; 
     margin-bottom: 10px; 
     text-transform: uppercase;
     display: flex;
