@@ -2,81 +2,17 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: STRATEGIC ECOSYSTEM EXPANSION",
+            "heading": "MICROSOFT: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "AMD commits 10 billion dollars to Taiwan ecosystem investments to accelerate the production of next generation AI infrastructure components.",
-                "The company announces the production ramp of Venice EPYC processors on TSMC 2nm process technology for superior data center efficiency.",
-                "Agentic AI platforms like Ryzen AI Halo represent a major shift toward local PC processing to minimize cloud latency costs.",
-                "New Instinct MI350P and MI430X GPUs challenge incumbents by offering unmatched FP64 performance and TCO for enterprise HPC workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: PARABOLIC INFRASTRUCTURE DEMAND",
-            "points": [
-                "NVIDIA reports record fiscal quarterly revenue of 81.6 billion dollars confirming that AI capital expenditure remains on a parabolic trajectory.",
-                "New Vera CPU platform targets specialized agentic workloads at major AI labs to enhance autonomous reinforcement learning infrastructure capability.",
-                "Partnerships with Dell and Google Cloud reinforce the move toward accelerated computing models and 6G AI native wireless performance.",
-                "CEO Jensen Huang emphasizes that current energy efficient architectures are essential for scaling the world's most compute intensive AI clusters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TSMC: NANOSHEET POWER INNOVATION",
-            "points": [
-                "TSMC showcases A16 Nanosheet technology with Super Power Rail to provide the best backside power solution for next generation AI hardware.",
-                "Investment focus shifts toward leadership silicon to address the compute intensity required by hyperscale LLM and agentic model deployments.",
-                "The 2026 Technology Symposium highlights deep integration within the OIP ecosystem to accelerate time to market for high-performance chips.",
-                "Manufacturing scaling continues to prioritize 2nm and 1.4nm process nodes to maintain dominance in the global semiconductor AI supply chain."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "DEEPIND: FRONTIER AGENTIC INTELLIGENCE",
-            "points": [
-                "Google DeepMind introduces Gemini 3.5 and Omni to combine frontier level intelligence with real time operational actions for enterprise users.",
-                "Co-Scientist research platform emerges as a collaborative AI partner designed to accelerate biological and materials science discovery workflows.",
-                "Gemini for Science integrates advanced reasoning into simulation environments to model complex physical phenomena at scale for research institutions.",
-                "New multi-modal models enable creation from any input type significantly reducing the overhead of processing disparate synthetic data streams."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: AGENTIC WORKFLOW INTEGRATION",
-            "points": [
-                "Microsoft and EY commit 1 billion dollars to deploy forward-engineered AI agents that modernize complex IT and data infrastructures for clients.",
-                "Azure Accelerate for Databases provides dedicated resources to optimize SQL estate migration and fine-tune data for generative AI applications.",
-                "New agentic DevOps capabilities on GitHub allow developers to bridge IT operations and application deployment in a single automated flow.",
-                "Cloud platform strategy now centers on agentic orchestration to reduce technical debt and accelerate enterprise-grade model implementation and governance."
+                "Microsoft Build 2026 unveils agentic architecture designed to automate multi-model workflows across enterprise production environments.",
+                "Connected agent frameworks allow organizations to modernize technical debt by integrating data and application layers seamlessly.",
+                "Expansion of European datacenter regions supports high-performance requirements for large-scale, compute-intensive AI workloads and regional compliance.",
+                "New Azure Accelerate initiative offers structured skilling and database modernization strategies specifically tailored for rapid agentic deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "OPENAI: CONTENT PROVENANCE FOCUS",
+            "id": 2,
+            "heading": "AMD: SILICON ECOSYSTEM INVESTMENT",
             "points": [
-                "OpenAI releases advancements in content provenance systems to bolster safety and transparency across their expanding generative AI product ecosystem.",
-                "Researchers successfully disprove a central conjecture in discrete geometry, demonstrating the advanced reasoning capabilities of newer frontier models.",
-                "GPT-5.5 product release introduces enhanced multi-modal features for complex professional work, vision, and autonomous agentic task performance.",
-                "New personal finance experience in ChatGPT highlights the strategic expansion of AI applications into retail-oriented highly sensitive personal data sectors."
+                "AMD commits over 10 billion dollars toward Taiwan ecosystem investments to accelerate critical AI infrastructure production capacity.",
+                "Production ramp of next-generation EPYC Venice processors on TSMC 2nm technology targets high-performance data center scalability requirements.",
+                "Introduction of Ryzen AI Halo developer platforms advances the development of local agentic computers and specialized processing units.",
+                "Strategic focus on Multipath Reliable Connection networking models addresses bottlenecks in traditional data center and edge computing systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "GOOGLE DEEPMIND: MULTI-MODAL FRONTIER",
+            "points": [
+                "Gemini 3.5 introduces frontier intelligence models specifically engineered to synthesize action with complex reasoning and multi-modal inputs.",
+                "Co-Scientist platform launches as a collaborative multi-agent research partner to significantly accelerate scientific discovery across technical domains.",
+                "Gemini Omni capabilities enable real-time generation and editing of any input type, emphasizing versatile model responsiveness in production.",
+                "Expansion of open Gemma 4 models maximizes intelligence-per-parameter, providing developers with efficient tools for distributed AI applications."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY PROGRESS",
+            "points": [
+                "ASML appoints Marco Pieters as new CTO, signaling a strategic focus on advanced computational lithography for nano-scale manufacturing.",
+                "Strategic partnership with Tata Electronics aims to advance the semiconductor manufacturing ecosystem through collaborative high-tech infrastructure development.",
+                "Company operations continue to support global chipmakers in producing faster, more energy-efficient microchips required for modern AI infrastructure.",
+                "Ongoing focus on e-beam market expansion strengthens supply chains for foundational semiconductor manufacturing processes in key Asian regions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: PRIVATE DEPLOYMENT FRAMEWORKS",
+            "points": [
+                "Mistral AI emphasizes self-contained private deployments, enabling enterprises to maintain full control over proprietary data and AI models.",
+                "New agentic workflows integrated with enterprise search and observability tools support production-grade deployment in hybrid cloud environments.",
+                "Applied AI scientists provide domain-specialized guidance for scaling model training and lifecycle management in highly regulated global industries.",
+                "End-to-end platform tooling facilitates custom model development, allowing companies to align proprietary knowledge directly with frontier AI performance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: ACCELERATED AGENTIC COMPUTE",
+            "points": [
+                "NVIDIA Vera platform launches as the first CPU architecture specifically engineered for autonomous agentic computing at scale.",
+                "Financial results report record revenue of 81.6 billion dollars for Q1 fiscal 2027, driven by sustained AI infrastructure demand.",
+                "Expansion of NVIDIA RTX and DGX Spark technologies supports the development of self-improving agents within diverse edge computing deployments.",
+                "New strategic focus on AI-Native 6G wireless performance showcases the role of learning-driven algorithms in future networking infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: FRONTIER MODEL CUSTOMIZATION",
+            "heading": "GOOGLE CLOUD: AGENTIC DATA CLOUD",
             "points": [
-                "Mistral AI emphasizes self-contained private deployments enabling organizations to run production AI anywhere from on-premises to edge device nodes.",
-                "Forge platform offers end-to-end model training, synthetic data generation, and lifecycle management for domain-specialized corporate research teams.",
-                "Collaboration with ASML and Stellantis highlights the shift toward customized industry-specific AI models integrated into core manufacturing and design.",
-                "New enterprise agent frameworks incorporate powerful orchestration and safety tooling for deployment within regulated and high-security computing environments."
+                "Google Cloud expands the agentic Data Cloud to serve as a comprehensive system of action for complex enterprise workflows.",
+                "Introduction of Gemini Enterprise App provides a centralized front door for agent orchestration, governance, and model application integration.",
+                "New infrastructure scaling efforts support the agentic era by enhancing high-performance cloud compute and container management capabilities.",
+                "Partnership initiatives and GEAR credits encourage builders to develop enterprise-grade agents while utilizing extensive foundation model ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
