@@ -9,7 +9,7 @@ const path = require('path');
     console.log("Cleaning out any old slide images from previous runs...");
     const existingFiles = fs.readdirSync(downloadPath);
     existingFiles.forEach(file => {
-        if (file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.crdownload')) {
+        if (file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.webp') || file.endsWith('.crdownload')) {
             fs.unlinkSync(path.join(downloadPath, file));
         }
     });
@@ -45,7 +45,7 @@ const path = require('path');
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
-        const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png'));
+        const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp'));
         totalFiles = files.length;
         if (totalFiles >= 11) break; 
     }
@@ -53,21 +53,21 @@ const path = require('path');
     console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
 
     // Organize and sequentially rename the captured files cleanly (slide_01 to slide_11)
-    const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png'));
+    const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp'));
     files.forEach((file) => {
         const fullPath = path.join(downloadPath, file);
         let newName = "";
 
         if (file.includes('MAIN')) {
-            newName = "slide_01.png";
+            newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_09.png";
+            newName = "slide_11.webp";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
-                // Adds 1 so SLIDE_1 becomes slide_02.png (leaving slide_01 for MAIN)
+                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN)
                 const slideNum = parseInt(match[1]) + 1; 
-                newName = `slide_${String(slideNum).padStart(2, '0')}.png`;
+                newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
             }
         }
 
