@@ -1,38 +1,38 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED TECH",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AGENTIC COMPUTE SOVEREIGNTY",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INFOWORLD: MCP CONTEXT ENGINEERING",
+            "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
             "points": [
-                "Model Context Protocol emerges as a standard for supplying coding agents with real-time software engineering context.",
-                "Engineering teams report dynamic context injection reduces hallucination rates in automated code generation by forty percent.",
-                "Organizations decouple context pipelines from monolithic language model dependencies to avoid vendor lock-in risk architectures.",
-                "We project standardized context protocols will fundamentally redefine enterprise runtime agent orchestration across hybrid cloud environments."
+                "OpenAI officially launches its next-generation GPT-5.5 model, optimizing multi-modal context handling and real-time inference latency.",
+                "Early enterprise benchmarks indicate a forty percent reduction in computational overhead for high-frequency agentic tasks.",
+                "The architecture shifts frontier scaling laws toward autonomous execution layers, bypassing legacy middleware systems entirely.",
+                "Developers gain direct orchestration capabilities, allowing native integration of multi-model workflows without custom orchestration layers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PAVONA: OPEN SECURE HARDWARE",
+            "heading": "PAVONA: OPEN HARDWARE SECURE CHIPS",
             "points": [
-                "Pavona launches an open-source hardware ecosystem designed to secure custom silicon chips against architectural exploits.",
-                "Initial testing suggests the secure chip design maintains throughput while reducing silicon-level side-channel vulnerability threats.",
-                "Enterprises gain sovereign control over custom silicon deployment by leveraging audited, royalty-free open architecture chip designs.",
-                "We anticipate this open ecosystem will accelerate the democratization of specialized high-security chips for edge intelligence."
+                "Pavona introduces an open hardware ecosystem designed to secure cryptographic signatures inside native AI processing units.",
+                "The framework reduces security vulnerability surfaces by sixty percent compared to proprietary legacy chip architectures.",
+                "Open-source hardware sovereignty mitigates supply chain risks while providing verifiable trust boundaries for enterprise intelligence.",
+                "Chip design teams can now customize silicon-level security features, accelerating defense-grade edge model deployments globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -41,78 +41,78 @@ const dailyData = {
             "id": 3,
             "heading": "DEEPSEEK: V4-PRO PRICING DISRUPTION",
             "points": [
-                "DeepSeek initiates a major AI pricing war by implementing steep cost reductions for its V4-Pro models.",
-                "Developer teams observe up to fifty percent lower API costs for large-scale production inference workloads globally.",
-                "This aggressive pricing strategy forces competitor model providers to defend their high-margin business models with discounts.",
-                "We expect the resulting commoditization of frontier models will shift enterprise focus toward workflow integration and orchestration."
+                "DeepSeek implements aggressive price reductions for its V4-Pro API, sparking an intense valuation war across frontier developers.",
+                "The ninety percent cost reduction enables ultra-low-cost token generation, rendering legacy proprietary pricing models commercially uncompetitive.",
+                "This structural shift forces global hyperscalers to transition from pure raw token monetization to value-added agentic services.",
+                "Enterprise buyers can now deploy massive agentic fleets without facing prohibitive operational expenditures on infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INFOWORLD: DELIBERATE STATIC SECURITY",
+            "heading": "AMD: VENICE 2NM CHIP RAMP",
             "points": [
-                "The CVE Lite command line tool introduces deliberately AI-free static security checks for automated software development.",
-                "Deploying deterministic validation scripts eliminates false positives commonly associated with non-deterministic artificial intelligence vulnerability scanners.",
-                "Securing the CI/CD pipeline with offline CLI tools ensures strict compliance within heavily regulated software environments.",
-                "We forecast hybrid devsecops strategies will partition deterministic validation from predictive code generation for optimal resilience."
+                "AMD initiates the production ramp of its next-generation EPYC Venice processors leveraging advanced TSMC two-nanometer node technology.",
+                "The structural shrink yields a thirty percent performance uplift and significant power efficiency gains for heavy workloads.",
+                "Integrating two-nanometer architecture strengthens AMD's position against proprietary silicon alternatives in high-density corporate data centers.",
+                "Cloud providers can significantly optimize their energy footprints while doubling overall compute capacity per server rack."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DOW JONES: CHATBOT MEMORY HAZARDS",
+            "heading": "NVIDIA: VERA AGENTIC CPU ARRIVAL",
             "points": [
-                "Chatbots featuring persistent long-term memories introduce significant data security risks and privacy concerns for enterprises.",
-                "Uncontrolled memory accumulation exposes organizations to toxic data retention and compliance failures under active privacy regulations.",
-                "Architects must implement localized memory-wiping protocols to prevent unauthorized cross-tenant intelligence leakage inside collaborative hubs.",
-                "We predict stringent memory access control frameworks will become standard requirements for production-grade agentic system deployments."
+                "NVIDIA delivers its first CPU platform specifically optimized for orchestrating multi-agent autonomous workflows to top laboratories.",
+                "The specialized silicon speeds agent context switching speeds by three times compared to traditional general-purpose server processors.",
+                "This architecture shifts the balance of system-level computing power back toward tightly coupled CPU-GPU hybrid execution environments.",
+                "Research organizations can now run massive reinforcement learning iterations locally without incurring network serialization bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: wsj.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CIO.COM: RESILIENT INFRASTRUCTURE TRAPS",
+            "heading": "XAI & ANTHROPIC: COMPUTE MARKET COOPERATIVE",
             "points": [
-                "IT leaders navigating modernization initiatives must actively avoid complex architectural traps hiding within plain sight.",
-                "Simplifying legacy database connections saves modern enterprises millions of dollars in unnecessary API and custom routing charges.",
-                "Decoupling core infrastructure layers allows developers to rapidly swap models without disrupting enterprise-wide transaction workflows.",
-                "We anticipate that infrastructure flexibility will separate successful deployments from costly technical debt cycles this year."
+                "Regulatory filings reveal rival AI model developers are directly trading frontier-scale compute infrastructure allocations in a standalone market.",
+                "The strategic arrangement allows dynamic resource balancing, utilizing underallocated clusters to offset temporary localized spikes in demands.",
+                "Compute is rapidly emerging as a highly liquid commodity, decoupling model training operations from strict hyperscaler ecosystem locks.",
+                "Independent providers can optimize capital expenditures by actively trading idle server capacity with direct marketplace competitors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REUTERS: OUTSIDE TECHNOLOGY GOVERNANCE",
+            "heading": "MICROSOFT & EY: AGENTIC WORKPLACE ALLIANCE",
             "points": [
-                "Anthropic co-founder Chris Olah advocates for guiding frontier AI systems from outside major corporate monopolies.",
-                "Establishing external oversight bodies reduces the influence of concentrated venture capital over safety and compliance frameworks.",
-                "Sovereign entities are increasing pressure on model developers to accept third-party audits of automated system weights.",
-                "We expect decentralized governance models will play a pivotal role in enforcing international artificial intelligence compliance."
+                "Microsoft partners with Ernst and Young to invest one billion dollars into deploying advanced agentic AI architectures.",
+                "The massive global rollout targets millions of professional service workers, automating complex multi-step transactional and auditing processes.",
+                "This deployment proves that the AI era is transitioning from simple chat interfaces to deep, autonomous task execution.",
+                "Corporate decision-makers can now achieve quantifiable return on investment by implementing fully automated end-to-end business workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: reuters.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
