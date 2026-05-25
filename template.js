@@ -1,98 +1,98 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC COMPUTE",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "DECENTRALIZED TECH",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 LAUNCH",
+            "heading": "INFOWORLD: MCP CONTEXT ENGINEERING",
             "points": [
-                "OpenAI deploys GPT-5.5 offering frontier reasoning capabilities and advanced real-time native multimodal operational processing models.",
-                "Enterprise workflows show latency reductions of forty percent alongside significant optimizations in complex agent orchestration tasks.",
-                "The model integrates unified multimodal cross-attention blocks to native transformer pipelines for direct media understanding.",
-                "Architects must prepare for decentralized agent networks operating on unified contextual execution environments globally."
+                "Model Context Protocol emerges as a standard for supplying coding agents with real-time software engineering context.",
+                "Engineering teams report dynamic context injection reduces hallucination rates in automated code generation by forty percent.",
+                "Organizations decouple context pipelines from monolithic language model dependencies to avoid vendor lock-in risk architectures.",
+                "We project standardized context protocols will fundamentally redefine enterprise runtime agent orchestration across hybrid cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAIWAN ECOSYSTEM EXPANSION",
+            "heading": "PAVONA: OPEN SECURE HARDWARE",
             "points": [
-                "Advanced Micro Devices commits ten billion dollars to expand Taiwan packaging and next-generation silicon manufacturing facilities.",
-                "Production capacity for advanced sub-nanometer chips will scale by fifty percent within the next fiscal cycle.",
-                "This infrastructure investment integrates backplane connectivity innovations and high-bandwidth memory packaging for modular enterprise accelerators.",
-                "Sovereign chip supply chains secure localized physical resources mitigating global trade disruptions for enterprise deployment."
+                "Pavona launches an open-source hardware ecosystem designed to secure custom silicon chips against architectural exploits.",
+                "Initial testing suggests the secure chip design maintains throughput while reducing silicon-level side-channel vulnerability threats.",
+                "Enterprises gain sovereign control over custom silicon deployment by leveraging audited, royalty-free open architecture chip designs.",
+                "We anticipate this open ecosystem will accelerate the democratization of specialized high-security chips for edge intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "heading": "DEEPSEEK: V4-PRO PRICING DISRUPTION",
             "points": [
-                "Nvidia introduces Vera as its first dedicated CPU architecture engineered specifically for low-latency agentic processing workloads.",
-                "Real-time agent planning performance scales threefold over legacy architectures when paired with active tensor core platforms.",
-                "The custom silicon integrates unified memory pools directly linking physical agent states to accelerated computational units.",
-                "Advanced AI research facilities acquire deterministic computational boundaries necessary to build autonomous software agents safely."
+                "DeepSeek initiates a major AI pricing war by implementing steep cost reductions for its V4-Pro models.",
+                "Developer teams observe up to fifty percent lower API costs for large-scale production inference workloads globally.",
+                "This aggressive pricing strategy forces competitor model providers to defend their high-margin business models with discounts.",
+                "We expect the resulting commoditization of frontier models will shift enterprise focus toward workflow integration and orchestration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: GEMINI 3.5 DEPLOYMENT",
+            "heading": "INFOWORLD: DELIBERATE STATIC SECURITY",
             "points": [
-                "Google Cloud officially unveils Gemini three point five optimizing high-volume enterprise operations with built-in agentic actions.",
-                "Compute costs drop fifty percent using Flash configurations without compromising baseline structural integrity or prompt contextual accuracy.",
-                "Modernized cloud frameworks now utilize distributed tensor processing units to coordinate thousands of discrete operational task agents.",
-                "Enterprises can securely modernize complex legacy architectures by migrating workflows into unified cloud database environments immediately."
+                "The CVE Lite command line tool introduces deliberately AI-free static security checks for automated software development.",
+                "Deploying deterministic validation scripts eliminates false positives commonly associated with non-deterministic artificial intelligence vulnerability scanners.",
+                "Securing the CI/CD pipeline with offline CLI tools ensures strict compliance within heavily regulated software environments.",
+                "We forecast hybrid devsecops strategies will partition deterministic validation from predictive code generation for optimal resilience."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "DOW JONES: CHATBOT MEMORY HAZARDS",
             "points": [
-                "Anthropic launches Claude Opus four point seven to deliver advanced logic execution across multi-model vision-based workspaces.",
-                "Enterprise development teams experience double the code generation speed during complex system architecture modernization initiatives.",
-                "This model integrates advanced memory-recall mechanics allowing continuous execution patterns across highly complex development tasks safely.",
-                "Software engineers transition toward high-level system oversight as automated code agents assume low-level script engineering responsibilities."
+                "Chatbots featuring persistent long-term memories introduce significant data security risks and privacy concerns for enterprises.",
+                "Uncontrolled memory accumulation exposes organizations to toxic data retention and compliance failures under active privacy regulations.",
+                "Architects must implement localized memory-wiping protocols to prevent unauthorized cross-tenant intelligence leakage inside collaborative hubs.",
+                "We predict stringent memory access control frameworks will become standard requirements for production-grade agentic system deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: wsj.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT & EY: INTEGRATION PACT",
+            "heading": "CIO.COM: RESILIENT INFRASTRUCTURE TRAPS",
             "points": [
-                "Microsoft partners with Ernst and Young in a joint one billion dollar enterprise integration initiative for agents.",
-                "Over ten thousand corporate clients will receive direct technical engineering support to automate structural transactional tasks.",
-                "The implementation leverages Azure cloud security policies alongside automated DevOps workflows to guarantee system integrity consistently.",
-                "Global consulting networks establish dominant baseline frameworks for implementing large-scale transactional intelligence systems inside enterprises."
+                "IT leaders navigating modernization initiatives must actively avoid complex architectural traps hiding within plain sight.",
+                "Simplifying legacy database connections saves modern enterprises millions of dollars in unnecessary API and custom routing charges.",
+                "Decoupling core infrastructure layers allows developers to rapidly swap models without disrupting enterprise-wide transaction workflows.",
+                "We anticipate that infrastructure flexibility will separate successful deployments from costly technical debt cycles this year."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "MOJO: SYSTEMS LANGUAGE LAUNCH",
+            "heading": "REUTERS: OUTSIDE TECHNOLOGY GOVERNANCE",
             "points": [
-                "Mojo version one releases as a dedicated systems programming language fusing Python ease with Rust computational speeds.",
-                "Developer ecosystems achieve native hardware control on graphics units delivering massive compute acceleration for mathematical operations.",
-                "Strong compiler optimization layers remove standard runtime overheads to enable direct physical memory operations inside model codebases.",
-                "Engineering teams can write high-performance matrix algorithms directly without resorting to complex multi-language compilation pipelines anymore."
+                "Anthropic co-founder Chris Olah advocates for guiding frontier AI systems from outside major corporate monopolies.",
+                "Establishing external oversight bodies reduces the influence of concentrated venture capital over safety and compliance frameworks.",
+                "Sovereign entities are increasing pressure on model developers to accept third-party audits of automated system weights.",
+                "We expect decentralized governance models will play a pivotal role in enforcing international artificial intelligence compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
