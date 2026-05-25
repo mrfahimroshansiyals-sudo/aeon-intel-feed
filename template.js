@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 MODEL LAUNCHED",
             "points": [
-                "OpenAI introduces GPT-5.5, enhancing native multimodal reasoning capabilities and agentic workflow integration within the API ecosystem.",
-                "The release shifts benchmark standards, delivering advanced voice intelligence and enterprise contextual memory for automated decision engines.",
-                "Developers gain direct access to sophisticated routing layers that optimize performance during complex, long-horizon software engineering tasks.",
-                "This model accelerates the transition toward fully autonomous digital workers capable of managing multi-modal system operations."
+                "OpenAI has officially introduced the GPT-5.5 model, bringing next-generation multimodal capabilities and extreme processing efficiency.",
+                "Benchmarking demonstrates a sixty percent latency reduction while sustaining unprecedented reasoning depths across complex logic workloads.",
+                "The model integrates advanced content provenance protocols to ensure reliable enterprise security and transparent model outputs.",
+                "This release accelerates the shift toward fully autonomous digital agents capable of complex workflow execution."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SECURITY: GUARDRAIL DECOUPLING RISK",
+            "heading": "NVIDIA: AGENTIC VERA CPU SHIPPED",
             "points": [
-                "Researchers successfully strip safety guardrails from Meta and Google AI models within minutes using automated custom software.",
-                "This vulnerability allows actors to generate harmful code and biological instructions, bypassing traditional cloud alignment mechanisms.",
-                "The exploit highlights structural failures in post-training alignment techniques, demanding more robust hardware-level security measures.",
-                "Enterprise security teams must implement independent validation layers to inspect model outputs before production system integration."
+                "Nvidia has shipped the Vera CPU, its pioneering processor specifically engineered to power autonomous agent workflows.",
+                "Early distributions have landed at premier AI labs to benchmark deep-learning operations on next-generation hardware architectures.",
+                "The hardware architecture is optimized to interface seamlessly with massive GPU clusters for real-time task orchestration.",
+                "Infrastructure engineers project that the Vera platform will redefine edge compute performance standards for agentic frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PAVONA: SECURE OPEN HARDWARE",
+            "heading": "DEEPMIND: GEMINI ACTION SUITE",
             "points": [
-                "Pavona launches an open-source hardware ecosystem designed to secure microchip architectures against complex physical side-channel attacks.",
-                "This development provides sovereign tech ecosystems with transparent, highly auditable chip designs free from proprietary black-box components.",
-                "Hardware engineers can now prototype fully verified custom silicon architectures using standard open lithography development patterns.",
-                "The framework accelerates decentralized chip manufacturing, decreasing geopolitical reliance on highly centralized semiconductor supply chains globally."
+                "Google DeepMind has launched the Gemini 3.5 model series, optimizing the intersection of frontier intelligence and actions.",
+                "The model integrates video-first Gemini Omni technology to transform diverse sensory inputs into actionable enterprise workflows.",
+                "Real-world benchmarks indicate substantial gains in complex, multi-step scientific discovery and collaborative multi-agent research environments.",
+                "Developers can leverage these open models to deploy hyper-efficient agents without sacrificing runtime processing efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: EXTERNAL SYSTEM OVERSIGHT",
+            "heading": "INFOWORLD: MCP CONTEXT ENGINE",
             "points": [
-                "Anthropic co-founder Chris Olah argues that frontier AI must be guided by entities external to big tech corporations.",
-                "This initiative aims to integrate civil society, academic institutions, and international policy makers into the model alignment loop.",
-                "Establishing external oversight frameworks ensures public trust and mitigates systemic risks associated with centralized commercial model development.",
-                "Industry analysts predict this push will accelerate formal compliance standards aligned with global artificial intelligence regulatory acts."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.reuters.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "DEEPSEEK: V4 PRO COST DISRUPTION",
-            "points": [
-                "DeepSeek implements a steep price cut for its V4 Pro model, intensifying the global AI infrastructure pricing war.",
-                "The aggressive pricing model pressures Western hyperscalers to reduce API margins for high-performance enterprise logical reasoning tasks.",
-                "Developers benefit from drastically lower operational costs when running large-scale automated code generation and processing pipelines.",
-                "This financial shift democratizes access to frontier-grade models, accelerating decentralized open-source developer adoption across diverse industries."
+                "Enterprise developers are increasingly adopting the Model Context Protocol to dynamically stream software engineering context to agents.",
+                "Running this protocol at runtime mitigates context decay and guarantees highly relevant data ingestion for autonomous systems.",
+                "This open standard streamlines custom plumbing work, decoupling context engineering from proprietary model integration layers.",
+                "Architectural teams expect this protocol to eliminate structural latency while enhancing codebase-aware software development operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MICROSOFT: EY AGENTIC ADOPTION",
+            "id": 5,
+            "heading": "PAVONA: SECURE OPEN SILICON",
             "points": [
-                "Microsoft partners with EY to commit one billion dollars toward accelerating enterprise adoption of autonomous agentic architectures.",
-                "Forward-deployed engineers will directly assist corporate clients in integrating multi-agent workflows across legacy software database infrastructures.",
-                "This partnership seeks to bridge the operational gap between experimental pilot projects and scalable production-grade enterprise software.",
-                "Industry leaders expect this massive investment to drive immediate efficiency gains in transaction automation and internal operations."
+                "Pavona has unveiled an open hardware ecosystem designed to secure cryptographic operations across edge artificial intelligence chips.",
+                "The initiative mitigates critical physical side-channel vectors by embedding hardware-level cryptographic isolation within custom silicon designs.",
+                "This secure architecture decouples critical credential storage from main compute execution domains, preventing unauthorized model exploits.",
+                "Global engineering teams view this ecosystem as a foundational standard for establishing verifiable trust in distributed architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: ASML LITHOGRAPHY",
+            "points": [
+                "ASML has partnered with Mistral AI to advance advanced silicon lithography operations using open-source model optimization.",
+                "The integration maximizes wafer processing throughput by leveraging localized, ultra-fast model inference directly on lithography hardware.",
+                "This collaboration represents a critical milestone in establishing sovereign manufacturing pipelines optimized by highly secure local models.",
+                "Semiconductor fabs expect this AI-driven hardware refinement to accelerate global transitions to sub-two-nanometer production technologies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOW JONES: CHATBOT PERSISTENT MEMORY",
+            "heading": "MICROSOFT: AGENTIC DEVOPS",
             "points": [
-                "Analysis shows that persistent chatbot memory poses significant compliance challenges regarding corporate data privacy and intellectual property.",
-                "Long-term memory integration often retains sensitive operational details that can inadvertently leak across different user authorization tiers.",
-                "System architects must design stricter contextual filtering algorithms to regulate how models recall historical conversational transaction logs.",
-                "Organizations face mounting pressure to balance personal user customization against rigid regional data governance regulatory mandates."
+                "Microsoft has launched connected agentic workflows within Azure and GitHub to seamlessly bridge developers and IT infrastructure.",
+                "The system deploys specialized software agents to automate deployment monitoring and rapidly resolve complex technical debt.",
+                "This unified environment eliminates traditional integration barriers while preserving compliance across globally distributed hybrid cloud architectures.",
+                "IT executives forecast that these automated workflows will cut infrastructure modernization cycles from months to mere days."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
