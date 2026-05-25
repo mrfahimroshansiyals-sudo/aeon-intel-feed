@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC HARDWARE",
+        "titleWhite": "AGENTIC COMPUTE",
         "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ECB: FINANCIAL AI SUMMONS",
+            "heading": "OPENAI: GPT-5.5 LAUNCH",
             "points": [
-                "European Central Bank summons major banks to immediately address critical vulnerabilities in newly deployed generative models.",
-                "Financial supervisors warn that unmonitored model integration poses systemic threats to market stability and transactional security.",
-                "Financial institutions must remediate operational flaws and implement strict verification protocols for autonomous transaction systems.",
-                "Regulatory pressure will accelerate the adoption of sandboxed testing environments across the entire European banking sector."
+                "OpenAI deploys GPT-5.5 offering frontier reasoning capabilities and advanced real-time native multimodal operational processing models.",
+                "Enterprise workflows show latency reductions of forty percent alongside significant optimizations in complex agent orchestration tasks.",
+                "The model integrates unified multimodal cross-attention blocks to native transformer pipelines for direct media understanding.",
+                "Architects must prepare for decentralized agent networks operating on unified contextual execution environments globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: MODEL GUARDRAILS BYPASSED",
+            "heading": "AMD: TAIWAN ECOSYSTEM EXPANSION",
             "points": [
-                "Open software tools successfully stripped safety protections from Meta and Google artificial intelligence models within minutes.",
-                "Compromised systems provided dangerous instructions regarding biological weapons development and malicious cyber operations during red-team testing.",
-                "This breakthrough highlights fundamental architectural weaknesses in post-training safety alignment techniques for large language models.",
-                "Enterprise developers must shift toward runtime input-output filtering rather than relying solely on native safety guardrails."
+                "Advanced Micro Devices commits ten billion dollars to expand Taiwan packaging and next-generation silicon manufacturing facilities.",
+                "Production capacity for advanced sub-nanometer chips will scale by fifty percent within the next fiscal cycle.",
+                "This infrastructure investment integrates backplane connectivity innovations and high-bandwidth memory packaging for modular enterprise accelerators.",
+                "Sovereign chip supply chains secure localized physical resources mitigating global trade disruptions for enterprise deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT & EY: AGENTIC ROLLOUT",
+            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
             "points": [
-                "Microsoft and EY launch a one billion dollar initiative to accelerate enterprise deployment of autonomous agents.",
-                "Joint teams will deploy forward-deployed engineers to integrate agentic workflows directly into legacy customer operations.",
-                "This massive capital commitment addresses the persistent deployment bottlenecks currently preventing scalable corporate artificial intelligence adoption.",
-                "Competitors must quickly build comparable consulting partnerships to survive the shifting corporate enterprise software landscape."
+                "Nvidia introduces Vera as its first dedicated CPU architecture engineered specifically for low-latency agentic processing workloads.",
+                "Real-time agent planning performance scales threefold over legacy architectures when paired with active tensor core platforms.",
+                "The custom silicon integrates unified memory pools directly linking physical agent states to accelerated computational units.",
+                "Advanced AI research facilities acquire deterministic computational boundaries necessary to build autonomous software agents safely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COOPERATIVE COMPUTE: BORDERLESS ARCHITECTURE",
+            "heading": "GOOGLE CLOUD: GEMINI 3.5 DEPLOYMENT",
             "points": [
-                "SpaceX financial filings reveal that rival frontier model developers are purchasing massive compute infrastructure from each other.",
-                "This transaction marks the emergence of high-performance compute capacity as an independent, highly valuable liquid commodity.",
-                "Multi-tenant computing deals reduce capital expenditures while allowing diverse firms to access frontier-scale modeling infrastructure.",
-                "Infrastructure centralization will concentrate industry power among a small cohort of hardware-rich aerospace and technology conglomerates."
+                "Google Cloud officially unveils Gemini three point five optimizing high-volume enterprise operations with built-in agentic actions.",
+                "Compute costs drop fifty percent using Flash configurations without compromising baseline structural integrity or prompt contextual accuracy.",
+                "Modernized cloud frameworks now utilize distributed tensor processing units to coordinate thousands of discrete operational task agents.",
+                "Enterprises can securely modernize complex legacy architectures by migrating workflows into unified cloud database environments immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: TSMC 2NM PRODUCTION",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "AMD announces the official production ramp of its next-generation Venice EPYC processors using TSMC 2nm technology.",
-                "The novel nanosheet architecture delivers significant energy efficiency gains for dense, high-performance computing workloads.",
-                "Transitioning to 2nm allows enterprise data centers to dramatically increase compute density without expanding physical footprints.",
-                "Hyperscalers will rapidly transition their infrastructure to leverage the enhanced silicon efficiency of these next-generation processors."
+                "Anthropic launches Claude Opus four point seven to deliver advanced logic execution across multi-model vision-based workspaces.",
+                "Enterprise development teams experience double the code generation speed during complex system architecture modernization initiatives.",
+                "This model integrates advanced memory-recall mechanics allowing continuous execution patterns across highly complex development tasks safely.",
+                "Software engineers transition toward high-level system oversight as automated code agents assume low-level script engineering responsibilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: AGENT-OPTIMIZED CHIPS",
+            "heading": "MICROSOFT & EY: INTEGRATION PACT",
             "points": [
-                "NVIDIA ships its first dedicated Vera central processing units designed specifically to power autonomous software agents.",
-                "Top artificial intelligence labs have received early hardware to accelerate the execution of complex agentic workflows.",
-                "The custom architecture optimizes memory bandwidth and instruction sets tailored for continuous, multi-agent reasoning cycles.",
-                "System architects will increasingly design hybrid server environments pairing dedicated agentic CPUs with traditional acceleration hardware."
+                "Microsoft partners with Ernst and Young in a joint one billion dollar enterprise integration initiative for agents.",
+                "Over ten thousand corporate clients will receive direct technical engineering support to automate structural transactional tasks.",
+                "The implementation leverages Azure cloud security policies alongside automated DevOps workflows to guarantee system integrity consistently.",
+                "Global consulting networks establish dominant baseline frameworks for implementing large-scale transactional intelligence systems inside enterprises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML & TATA: INDIAN SEMICONDUCTORS",
+            "heading": "MOJO: SYSTEMS LANGUAGE LAUNCH",
             "points": [
-                "Tata Electronics and ASML establish a strategic partnership to develop the semiconductor manufacturing ecosystem in India.",
-                "ASML will supply advanced lithography solutions and engineering expertise to support India's nascent commercial fabrication facilities.",
-                "This geographic diversification mitigates geopolitical risks and establishes South Asia as a major node in global chipmaking.",
-                "Global supply chains will gain resilience as new fabrication hubs reduce structural reliance on East Asian foundries."
+                "Mojo version one releases as a dedicated systems programming language fusing Python ease with Rust computational speeds.",
+                "Developer ecosystems achieve native hardware control on graphics units delivering massive compute acceleration for mathematical operations.",
+                "Strong compiler optimization layers remove standard runtime overheads to enable direct physical memory operations inside model codebases.",
+                "Engineering teams can write high-performance matrix algorithms directly without resorting to complex multi-language compilation pipelines anymore."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
