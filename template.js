@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FORGING AGENTIC",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN AGENTIC HARDWARE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "ECB: FINANCIAL AI SUMMONS",
             "points": [
-                "OpenAI officially launches GPT-5.5, delivering significant advancements in multi-modal reasoning and complex execution capabilities.",
-                "The updated architecture introduces native real-time audio integration alongside highly specialized agentic planning frameworks.",
-                "Developers gain access to enhanced reasoning structures designed to systematically scale complex enterprise automation tasks.",
-                "This release marks a definitive shift toward autonomous operational workflows across deep software engineering pipelines."
+                "European Central Bank summons major banks to immediately address critical vulnerabilities in newly deployed generative models.",
+                "Financial supervisors warn that unmonitored model integration poses systemic threats to market stability and transactional security.",
+                "Financial institutions must remediate operational flaws and implement strict verification protocols for autonomous transaction systems.",
+                "Regulatory pressure will accelerate the adoption of sandboxed testing environments across the entire European banking sector."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: EY CO-DEVELOPMENT",
+            "heading": "SECURITY: MODEL GUARDRAILS BYPASSED",
             "points": [
-                "Microsoft and Ernst & Young launch a massive alliance leveraging forward-deployed engineers to integrate agentic software.",
-                "The initiative focuses on deploying autonomous multi-agent systems directly into legacy enterprise transactional environments.",
-                "Organizations can now automate complex multi-departmental accounting, tax compliance, and auditing procedures with minimal oversight.",
-                "This strategic collaboration accelerates the direct displacement of traditional consulting hours with digital intelligence platforms."
+                "Open software tools successfully stripped safety protections from Meta and Google artificial intelligence models within minutes.",
+                "Compromised systems provided dangerous instructions regarding biological weapons development and malicious cyber operations during red-team testing.",
+                "This breakthrough highlights fundamental architectural weaknesses in post-training safety alignment techniques for large language models.",
+                "Enterprise developers must shift toward runtime input-output filtering rather than relying solely on native safety guardrails."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEX: COMPUTE MARKET COUPLING",
+            "heading": "MICROSOFT & EY: AGENTIC ROLLOUT",
             "points": [
-                "SpaceX financial documents reveal an emerging paradigm where frontier AI developers trade core computing capacity directly.",
-                "Competitors like Anthropic and xAI increasingly purchase compute infrastructure from one another to resolve capacity bottlenecks.",
-                "This structural shift highlights the high value of GPU clusters as a standalone commodity asset class.",
-                "Industry consolidation accelerates as hardware access dictates the absolute development speed of next-generation frontier models."
+                "Microsoft and EY launch a one billion dollar initiative to accelerate enterprise deployment of autonomous agents.",
+                "Joint teams will deploy forward-deployed engineers to integrate agentic workflows directly into legacy customer operations.",
+                "This massive capital commitment addresses the persistent deployment bottlenecks currently preventing scalable corporate artificial intelligence adoption.",
+                "Competitors must quickly build comparable consulting partnerships to survive the shifting corporate enterprise software landscape."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GOOGLE: CODEMENDER SECURITY MERGER",
+            "heading": "COOPERATIVE COMPUTE: BORDERLESS ARCHITECTURE",
             "points": [
-                "Google integrates its advanced CodeMender system into the broader agentic ecosystem to automate cloud security auditing.",
-                "The system leverages real-time feedback loops to automatically patch vulnerabilities within critical software production pipelines.",
-                "Integrating defensive AI directly into development environments dramatically reduces the surface area for zero-day exploits.",
-                "Organizations can significantly lower operational overhead by transitioning from manual security reviews to autonomous patching."
+                "SpaceX financial filings reveal that rival frontier model developers are purchasing massive compute infrastructure from each other.",
+                "This transaction marks the emergence of high-performance compute capacity as an independent, highly valuable liquid commodity.",
+                "Multi-tenant computing deals reduce capital expenditures while allowing diverse firms to access frontier-scale modeling infrastructure.",
+                "Infrastructure centralization will concentrate industry power among a small cohort of hardware-rich aerospace and technology conglomerates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: VENICE 2NM PRODUCTION",
+            "heading": "AMD: TSMC 2NM PRODUCTION",
             "points": [
-                "AMD announces the official production ramp of its EPYC Venice processors utilizing TSMC's leading-edge 2nm nanosheet process.",
-                "The architectural update delivers unprecedented compute density and power efficiency gains for high-performance agentic systems.",
-                "These next-generation chips integrate specialized memory interfaces designed specifically to run ultra-large language models.",
-                "Hyperscalers adopting these processors will achieve dramatically lower total cost of ownership for frontier-scale inference."
+                "AMD announces the official production ramp of its next-generation Venice EPYC processors using TSMC 2nm technology.",
+                "The novel nanosheet architecture delivers significant energy efficiency gains for dense, high-performance computing workloads.",
+                "Transitioning to 2nm allows enterprise data centers to dramatically increase compute density without expanding physical footprints.",
+                "Hyperscalers will rapidly transition their infrastructure to leverage the enhanced silicon efficiency of these next-generation processors."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "HUAWEI: CHIP DESIGN SANCTION BYPASS",
+            "heading": "NVIDIA: AGENT-OPTIMIZED CHIPS",
             "points": [
-                "Huawei reveals a major chip design breakthrough bypassing foreign export restrictions on advanced semiconductor manufacturing tools.",
-                "The company prepares an autumn production release of high-end mobile processors to rival top-tier Western silicon.",
-                "This development confirms the rapid acceleration of domestic chip manufacturing capabilities within heavily restricted geographic regions.",
-                "Global supply chains face structural fragmentation as sovereign nations achieve complete independence in hardware design pipelines."
+                "NVIDIA ships its first dedicated Vera central processing units designed specifically to power autonomous software agents.",
+                "Top artificial intelligence labs have received early hardware to accelerate the execution of complex agentic workflows.",
+                "The custom architecture optimizes memory bandwidth and instruction sets tailored for continuous, multi-agent reasoning cycles.",
+                "System architects will increasingly design hybrid server environments pairing dedicated agentic CPUs with traditional acceleration hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.reuters.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WORKDAY: SANA ITSM INTEGRATION",
+            "heading": "ASML & TATA: INDIAN SEMICONDUCTORS",
             "points": [
-                "Workday expands its Sana AI agent capabilities beyond corporate finance into core information technology service management.",
-                "The expansion merges employee organizational data with operational technical workflows to streamline complex internal service tickets.",
-                "Deep contextual mapping enables these autonomous systems to resolve employee infrastructure requests without requiring human intervention.",
-                "This rollout threatens traditional ITSM providers by unifying administrative operations under a single agentic control layer."
+                "Tata Electronics and ASML establish a strategic partnership to develop the semiconductor manufacturing ecosystem in India.",
+                "ASML will supply advanced lithography solutions and engineering expertise to support India's nascent commercial fabrication facilities.",
+                "This geographic diversification mitigates geopolitical risks and establishes South Asia as a major node in global chipmaking.",
+                "Global supply chains will gain resilience as new fabrication hubs reduce structural reliance on East Asian foundries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
