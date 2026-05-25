@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC SECURE",
-        "titleBlue": "PROTOCOLS"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "GOOGLE: OPEN AGENT EXECUTION",
             "points": [
-                "Google released the open-source Agent Executor to help enterprises run autonomous AI agents in production.",
-                "Standardized runtimes reduce integration overhead, allowing organizations to scale multi-agent operational workflows without friction.",
-                "This framework addresses enterprise-grade governance deficits by establishing structural security controls over agent code execution.",
-                "Engineering teams can transition from experimental agent prototypes to managed, sovereign orchestration pipelines seamlessly."
+                "Google integrates open source Agent Executor into production runtimes to streamline AI agent scaling.",
+                "New runtime addresses operational bottlenecks by facilitating complex orchestration and data governance for enterprise workloads.",
+                "Analysts note that while deployment velocity increases, fundamental safety and governance concerns remain critical hurdles.",
+                "This release signals Google's move to standardize agentic logic within the broader enterprise application ecosystem."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: GLASSWING SECURITY PROJECT",
+            "heading": "MICROSOFT: EY AGENT PARTNERSHIP",
             "points": [
-                "Anthropic introduced Project Glasswing to establish rigorous security frameworks protecting critical open-source software codebases.",
-                "Automated codebase vetting mitigates systemic supply-chain vulnerabilities before malicious actors can exploit software dependencies.",
-                "The initiative integrates deep semantic analysis with sandboxed execution environments to isolate potentially compromised libraries.",
-                "Enterprise security architects will require verified model-driven audits for all third-party software integrations henceforth."
+                "Microsoft and EY commit $1 billion to accelerate the deployment of agentic AI within enterprises.",
+                "Microsoft provides specialized forward-deployed engineers to integrate autonomous agents into client infrastructure and operations.",
+                "The initiative focuses on bridging the gap between existing ERP data and modern AI-driven agent workflows.",
+                "EY targets large-scale adoption by automating complex internal processes through Microsoft's expanded agentic toolchain."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MODEL CONTEXT PROTOCOL: INTEGRATION",
+            "heading": "AMD: TAIWAN ECOSYSTEM EXPANSION",
             "points": [
-                "Developers are adopting Model Context Protocol to supply coding agents with real-time software engineering context.",
-                "Dynamically served context eliminates massive token waste while dramatically improving the accuracy of agentic code.",
-                "Utilizing decoupled state schemas allows agents to query complex repository architectures without exhaustive database indexing.",
-                "Software engineering teams will increasingly pivot toward protocol-driven context pipelines over standard model fine-tuning."
+                "AMD announces a $10 billion investment in Taiwan to bolster AI infrastructure and production capacity.",
+                "Capital allocation targets next-generation chip manufacturing processes essential for high-performance agentic compute environments.",
+                "Investment includes ramping production of the Venice EPYC processors using advanced 2nm node technology.",
+                "Strategy strengthens the hardware supply chain necessary for supporting massive, agentic-ready data center deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: V4-PRO PRICING DISRUPTION",
+            "heading": "NVIDIA: FISCAL Q1 RECORD REVENUE",
             "points": [
-                "DeepSeek announced aggressive price reductions for its V4-Pro API, sparking an intense global model pricing war.",
-                "Drastically lowered compute costs enable bootstrapped startups to run massive parallel processing pipelines without capital constraints.",
-                "The company leverages highly optimized Mixture-of-Experts architectures to deliver premium capabilities at a fraction of competitors' costs.",
-                "Hyperscalers will be forced to subsidize their proprietary offerings or lose market share to open-source alternatives."
+                "NVIDIA reports record Q1 fiscal 2027 revenue of $81.6 billion, reflecting 20 percent quarterly growth.",
+                "Results highlight sustained enterprise demand for accelerated computing and high-performance AI infrastructure platforms.",
+                "CEO Jensen Huang confirms focus on infrastructure optimized for agent-based learning and model orchestration.",
+                "Market metrics validate the ongoing global hardware shift towards agentic data center and GPU-centric architecture."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "DEEPSEEK: MARKET PRICING WAR",
+            "points": [
+                "DeepSeek implements aggressive V4-Pro pricing cuts, escalating competitive pressure on proprietary AI model providers.",
+                "Reductions challenge incumbents to justify premium costs versus open-weight performance for enterprise-scale AI implementations.",
+                "Strategic moves disrupt cost-efficiency benchmarks, forcing enterprises to re-evaluate their model sourcing strategies.",
+                "Industry analysts anticipate rapid market consolidation as cost-per-token decreases across the competitive landscape."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "PAVONA: SECURE HARDWARE CONSORTIUM",
-            "points": [
-                "Pavona launched an open-source hardware ecosystem to democratize the development and fabrication of secure silicon chips.",
-                "Open hardware designs empower sovereign nations to verify chip architectures, eliminating hidden backdoors and physical vulnerabilities.",
-                "The platform provides standardized, cryptographic core templates that can be audited directly by global hardware engineers.",
-                "Fabless chip startups will leverage these verified designs to accelerate high-integrity compute deployments across critical industries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "SECURITY CLI: AI-FREE VULNERABILITY ARCHITECTURE",
+            "heading": "INFOWORLD: MCP SYSTEM EVOLUTION",
             "points": [
-                "The CVE Lite CLI tool provides developers with a streamlined, intentionally AI-free interface for tracking software vulnerabilities.",
-                "By avoiding generative model hallucinations, security teams ensure highly accurate, deterministic vulnerability assessments of critical systems.",
-                "This CLI queries raw security databases directly to deliver unmodified, cryptographically signed threat data to terminal environments.",
-                "Critical infrastructure operators will mandate verified non-synthetic toolchains to maintain compliance with upcoming cybersecurity mandates."
+                "Model Context Protocol usage surges among developers seeking real-time, relevant software engineering context for agents.",
+                "Protocol adoption minimizes hallucination risks by anchoring agent reasoning to live, project-specific codebase metadata.",
+                "Technical shift highlights a transition from static training data to dynamic, context-aware AI development environments.",
+                "Enterprises are adopting standardized protocols to enhance the reliability of autonomous software engineering AI agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "WORKDAY: ITSM PLATFORM UNIFICATION",
+            "heading": "TECHTARGET: CISO SECURITY TRENDS",
             "points": [
-                "Workday expanded Sana AI into its ITSM suite, unifying human resources, finance, and IT operational workflows.",
-                "Centralizing multi-departmental data streams dramatically increases corporate productivity and automates complex cross-functional employee service requests.",
-                "A unified context layer dynamically translates unstructured user queries into structured database transactions across legacy enterprise systems.",
-                "Corporate CIOs will favor consolidated workflow suites over disparate single-point software solutions to reduce integration overheads."
+                "Verizon 2026 DBIR identifies shadow AI and third-party risk as primary threats to corporate security.",
+                "New report underscores critical gaps in how enterprises manage and govern AI-integrated software supply chains.",
+                "CISOs face increasing pressure to balance rapid AI deployment with stringent data privacy and compliance mandates.",
+                "Strategic security posture now requires proactive threat modeling for agentic interactions and autonomous system access."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
