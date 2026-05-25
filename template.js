@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
+        "titleWhite": "FORGING AGENTIC",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT & EY: AGENTIC SCALE",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "Microsoft and EY initiated a one billion dollar venture to expedite agentic AI deployment for global enterprise clients.",
-                "The partnership leverages forward-deployed engineers to operationalize autonomous agent frameworks directly within client infrastructure environments effectively.",
-                "This initiative aims to resolve the deployment bottleneck where AI lacks the capacity to self-implement across complex systems.",
-                "Stakeholders should anticipate a rapid acceleration in multi-agent orchestration adoption within regulated industrial and corporate sectors."
+                "OpenAI officially launches GPT-5.5, delivering significant advancements in multi-modal reasoning and complex execution capabilities.",
+                "The updated architecture introduces native real-time audio integration alongside highly specialized agentic planning frameworks.",
+                "Developers gain access to enhanced reasoning structures designed to systematically scale complex enterprise automation tasks.",
+                "This release marks a definitive shift toward autonomous operational workflows across deep software engineering pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MICROSOFT: EY CO-DEVELOPMENT",
+            "points": [
+                "Microsoft and Ernst & Young launch a massive alliance leveraging forward-deployed engineers to integrate agentic software.",
+                "The initiative focuses on deploying autonomous multi-agent systems directly into legacy enterprise transactional environments.",
+                "Organizations can now automate complex multi-departmental accounting, tax compliance, and auditing procedures with minimal oversight.",
+                "This strategic collaboration accelerates the direct displacement of traditional consulting hours with digital intelligence platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,61 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "AMD: SILICON ECOSYSTEM EXPANSION",
-            "points": [
-                "AMD announced ten billion dollars in Taiwan ecosystem investments targeting the critical acceleration of global AI hardware infrastructure.",
-                "Production ramp-up for the Venice EPYC processor line on TSMC 2nm technology demonstrates deep commitment to high-performance computing.",
-                "The integration of Ryzen AI Max 400 series processors signals a shift toward local agentic compute at the endpoint.",
-                "Market observers expect this capital injection to significantly challenge existing compute dominance in the high-density AI data center."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA CLOUD",
+            "heading": "SPACEX: COMPUTE MARKET COUPLING",
             "points": [
-                "Google Cloud introduced Gemini 3.5 and Omni models to provide frontier intelligence capabilities for autonomous agentic workflows at scale.",
-                "The updated Data Cloud ecosystem now powers a system of action designed to reduce latency in complex automated decision-making.",
-                "Enterprises are migrating legacy workloads to this AI-ready cloud architecture to leverage built-in orchestration and advanced security monitoring.",
-                "This shift mandates that architects prioritize unified model governance to maintain integrity in fully automated agentic production environments."
+                "SpaceX financial documents reveal an emerging paradigm where frontier AI developers trade core computing capacity directly.",
+                "Competitors like Anthropic and xAI increasingly purchase compute infrastructure from one another to resolve capacity bottlenecks.",
+                "This structural shift highlights the high value of GPU clusters as a standalone commodity asset class.",
+                "Industry consolidation accelerates as hardware access dictates the absolute development speed of next-generation frontier models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: FRONTIER SOVEREIGNTY",
+            "heading": "GOOGLE: CODEMENDER SECURITY MERGER",
             "points": [
-                "Mistral AI continues to scale private deployments on-premises and at the edge to ensure full sovereign control over data.",
-                "The Studio platform provides enterprise-grade orchestration and observability tooling necessary for production-ready, mission-critical autonomous agentic systems.",
-                "By decoupling AI intelligence from reliance on singular public cloud providers, Mistral enables modular, customized deployment strategies for industries.",
-                "The roadmap emphasizes deep domain specialization via custom pre-training and synthetic data generation to enhance specific operational intelligence."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "INFO-WORLD: MOJO 1.0 MILESTONE",
-            "points": [
-                "The release of Mojo 1.0 marks a critical evolution in systems programming designed for high-performance AI and GPU compute.",
-                "Mojo introduces precise memory control and strong typing, effectively bridging the gap between Python-like syntax and hardware-level performance.",
-                "This development simplifies the development of low-latency inference engines, critical for real-time agentic responses in enterprise applications.",
-                "Software architects are evaluating Mojo as a superior alternative for building the underlying primitives of next-generation intelligent systems."
+                "Google integrates its advanced CodeMender system into the broader agentic ecosystem to automate cloud security auditing.",
+                "The system leverages real-time feedback loops to automatically patch vulnerabilities within critical software production pipelines.",
+                "Integrating defensive AI directly into development environments dramatically reduces the surface area for zero-day exploits.",
+                "Organizations can significantly lower operational overhead by transitioning from manual security reviews to autonomous patching."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "TSMC: A16 NANOSHEET INNOVATION",
+            "id": 5,
+            "heading": "AMD: VENICE 2NM PRODUCTION",
             "points": [
-                "TSMC is scaling the A16 nanosheet technology featuring backside power rails to optimize energy efficiency for AI-driven workloads.",
-                "This architectural breakthrough provides the performance density required for next-generation large language models and massive-scale multi-agent simulation environments.",
-                "Leadership in silicon manufacturing remains the primary lever for global AI infrastructure development in the current geopolitical and economic climate.",
-                "The integration of NanoFlex Pro technology allows for more adaptive chip design for specific edge-to-cloud AI use cases."
+                "AMD announces the official production ramp of its EPYC Venice processors utilizing TSMC's leading-edge 2nm nanosheet process.",
+                "The architectural update delivers unprecedented compute density and power efficiency gains for high-performance agentic systems.",
+                "These next-generation chips integrate specialized memory interfaces designed specifically to run ultra-large language models.",
+                "Hyperscalers adopting these processors will achieve dramatically lower total cost of ownership for frontier-scale inference."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "HUAWEI: CHIP DESIGN SANCTION BYPASS",
+            "points": [
+                "Huawei reveals a major chip design breakthrough bypassing foreign export restrictions on advanced semiconductor manufacturing tools.",
+                "The company prepares an autumn production release of high-end mobile processors to rival top-tier Western silicon.",
+                "This development confirms the rapid acceleration of domestic chip manufacturing capabilities within heavily restricted geographic regions.",
+                "Global supply chains face structural fragmentation as sovereign nations achieve complete independence in hardware design pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: RESEARCH CONJECTURE DISPROOF",
+            "heading": "WORKDAY: SANA ITSM INTEGRATION",
             "points": [
-                "OpenAI researchers successfully utilized advanced models to disprove a long-standing central conjecture in the field of discrete geometry.",
-                "This accomplishment highlights the shift of AI systems from simple information retrieval to genuine scientific reasoning and discovery capabilities.",
-                "The implications for life sciences and material engineering are profound, as models now autonomously navigate complex, multi-dimensional search spaces.",
-                "This signal underscores the increasing feasibility of using agentic platforms to solve historically intractable mathematical and physical research problems."
+                "Workday expands its Sana AI agent capabilities beyond corporate finance into core information technology service management.",
+                "The expansion merges employee organizational data with operational technical workflows to streamline complex internal service tickets.",
+                "Deep contextual mapping enables these autonomous systems to resolve employee infrastructure requests without requiring human intervention.",
+                "This rollout threatens traditional ITSM providers by unifying administrative operations under a single agentic control layer."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
