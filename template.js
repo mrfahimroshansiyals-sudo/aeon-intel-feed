@@ -2,7 +2,7 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "ENTERPRISE AI SEEM ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleBlue": "AUTONOMYS"
     },
     "slides": [
         {
