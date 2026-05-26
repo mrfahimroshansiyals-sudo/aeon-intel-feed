@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC SILICON",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "OPENAI: GPT-5.5 FRONTIER LAUNCH",
             "points": [
-                "OpenAI officially deploys GPT-5.5 featuring advanced reasoning capabilities engineered for complex enterprise workflows.",
-                "Initial benchmarks indicate a forty percent reduction in latency for high-volume automated data processing tasks.",
-                "The model integrates directly into existing agent frameworks to support seamless transactional execution across systems.",
-                "Enterprise developers gain immediate API access to accelerate custom agent deployments within secure cloud environments."
+                "OpenAI officially introduces its next-generation GPT-5.5 frontier intelligence model to power advanced enterprise workflows.",
+                "The model integrates deep context reasoning to execute autonomous, multi-step actions across complex digital environments.",
+                "Systems developers can now access enhanced cognitive orchestration pathways directly through the standardized API interface.",
+                "This architecture establishes a new paradigm for secure, high-throughput autonomous agents operating in production."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI OMNI",
+            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
             "points": [
-                "Google DeepMind launches Gemini Omni to generate multimodal outputs directly from native video and audio inputs.",
-                "The architecture processes complex raw physical inputs with a threefold increase in cross-modal reasoning efficiency.",
-                "Developers leverage the platform to construct highly contextual real-time feedback loops for autonomous agents.",
-                "This deployment shifts the industry standard toward native multimodal understanding without intermediate text conversion steps."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: VERA ARCHITECTURE",
-            "points": [
-                "Nvidia delivers its first dedicated Vera CPU designed specifically to run agentic workloads in labs.",
-                "This chip architecture yields a substantial performance uplift for high-throughput reinforcement learning processing pipelines.",
-                "Leading AI laboratories deploy the silicon to decouple dependency on traditional x86 server hardware systems.",
-                "The enterprise market expects accelerated timelines for hosting fully autonomous deep learning nodes on-premises."
+                "NVIDIA deploys its first specialized CPU architecture engineered specifically to run autonomous enterprise AI agents.",
+                "Top-tier global research laboratories are actively receiving early shipments of the agent-optimized Vera silicon hardware.",
+                "The hardware leverages high-bandwidth memory interfaces to accelerate massive parallel data transfers during execution cycles.",
+                "Systems architects predict this processor will significantly reduce operational latency within enterprise multi-agent networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: VENICE 2NM",
+            "id": 3,
+            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
             "points": [
-                "AMD ramps production of its Venice EPYC processors leveraging TSMC advanced two nanometer process node.",
-                "This transition delivers significant improvements in power efficiency and compute density for dense AI datacenters.",
-                "Global hyper-scalers prepare server infrastructure to accommodate the next generation of high-density silicon architectures.",
-                "This engineering milestone tightens competition against market leaders in the high-performance computing hardware space."
+                "Google open-sources its Agent Executor framework to accelerate production deployments of enterprise-grade digital workers.",
+                "The tool provides standardized runtime environments that simplify monitoring and orchestrating autonomous agentic pipelines.",
+                "Developers can leverage this infrastructure to eliminate custom boilerplate code for agent decision-making loops.",
+                "This release lowers the technological barrier for scaling robust cognitive workflows across cloud environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: AGENTIC DEVOPS DEPLOY",
+            "points": [
+                "Microsoft announces deep integration of connected AI agents within its Azure and GitHub developer platforms.",
+                "These agentic assistants actively automate code generation, pipeline orchestration, and cloud infrastructure management tasks.",
+                "Testing demonstrates a significant reduction in overall software development lifecycle duration and deployment error rates.",
+                "Engineers can shift focus toward high-level software system design rather than manual cloud configuration processes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: MATHEMATICAL BREAKTHROUGH",
+            "points": [
+                "An advanced OpenAI neural network successfully disproves a fundamental conjecture within discrete geometry mathematical research.",
+                "The model navigated vast combinatorial spaces to generate a valid counterexample that stumped human mathematicians.",
+                "This breakthrough highlights the growing capacity of deep learning models to solve complex, formal logical problems.",
+                "Researchers expect this methodology to accelerate discoveries across advanced materials science and cryptographic systems engineering."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: VENICE EPYC TSMC 2NM",
+            "points": [
+                "AMD initiates the production ramp of its next-generation Venice EPYC processors on TSMC's advanced two-nanometer process node.",
+                "The new architecture delivers substantial improvements in compute efficiency and density for modern hyper-scale data centers.",
+                "Integration of advanced backside power delivery systems enables superior thermal management and structural power reliability.",
+                "This milestone solidifies AMD's competitive positioning in high-performance computing markets geared toward intensive model training."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,45 +102,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INFOWORLD: CONTEXT PROTOCOL",
-            "points": [
-                "Model Context Protocol emerges as the open standard for delivering software engineering context to coding agents.",
-                "Engineering teams report dramatic reductions in token consumption by serving highly relevant repository context on demand.",
-                "The protocol decouples language models from proprietary database schemes to simplify real-time data ingestion pipelines.",
-                "Software organizations adopt this open framework to standardize agentic development across diverse enterprise environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "PAVONA: SECURE HARDWARE",
-            "points": [
-                "Pavona launches an open hardware ecosystem designed to secure microchip designs against physical side-channel attacks.",
-                "Developers access open-source blueprints to build transparent cryptographic verification structures directly into physical silicon.",
-                "This open paradigm shifts secure hardware manufacturing toward community-driven audits and sovereign chip production pipelines.",
-                "Critical infrastructure industries prioritize these transparent architectures to mitigate supply chain tampering risks globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "DEEPSEEK: PRICING WAR",
+            "heading": "DEEPSEEK: V4-PRO AGGRESSIVE PRICE CUT",
             "points": [
-                "DeepSeek slashes pricing for its V4-Pro model to disrupt the competitive enterprise generative AI market.",
-                "The price reduction forces Western model providers to reconsider margin structures for high-volume API transaction services.",
-                "Large enterprises leverage the lower operational costs to scale agentic workloads across vast computational arrays.",
-                "This economic shift accelerates the commoditization of raw intelligence tokens for global system integration projects."
+                "DeepSeek slashes licensing fees for its high-performance V4-Pro model to challenge established market competitors.",
+                "The aggressive pricing strategy intensifies the ongoing cost compression trend across the global artificial intelligence sector.",
+                "Enterprise customers benefit from substantially lower operational expenses when running high-volume, complex inference workloads.",
+                "This disruption forces rival model developers to optimize their infrastructure or risk losing critical market share."
             ],
             "imageUrl": "",
             "tags": [
