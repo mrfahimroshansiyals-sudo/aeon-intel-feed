@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SCALING AUTONOMOUS AGENT",
+        "titleBlue": "PLATFORMS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: OPEN AGENT EXECUTION",
+            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
             "points": [
-                "Google integrates open source Agent Executor into production runtimes to streamline AI agent scaling.",
-                "New runtime addresses operational bottlenecks by facilitating complex orchestration and data governance for enterprise workloads.",
-                "Analysts note that while deployment velocity increases, fundamental safety and governance concerns remain critical hurdles.",
-                "This release signals Google's move to standardize agentic logic within the broader enterprise application ecosystem."
+                "Google released open source Agent Executor runtime to support enterprise AI agent deployments in production environments.",
+                "Standardized runtime environments mitigate operational overhead while optimizing infrastructure resource consumption during agent execution scaling.",
+                "System architects leverage unified execution frameworks to address persistent governance challenges across multi-agent enterprise landscapes.",
+                "Enterprises will transition from isolated pilot applications toward robust, production-grade autonomous cognitive agent pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: EY AGENT PARTNERSHIP",
+            "heading": "MICROSOFT: BILLION DOLLAR ALLIANCE",
             "points": [
-                "Microsoft and EY commit $1 billion to accelerate the deployment of agentic AI within enterprises.",
-                "Microsoft provides specialized forward-deployed engineers to integrate autonomous agents into client infrastructure and operations.",
-                "The initiative focuses on bridging the gap between existing ERP data and modern AI-driven agent workflows.",
-                "EY targets large-scale adoption by automating complex internal processes through Microsoft's expanded agentic toolchain."
+                "Microsoft partnered with EY on a massive one billion dollar initiative deploying dedicated agentic AI engineering.",
+                "Forward-deployed engineering teams directly accelerate enterprise adoption pathways while optimizing technical integration and operational costs.",
+                "Joint system deployment strategies alleviate skilled talent bottlenecks hindering large-scale multi-agent enterprise rollout designs.",
+                "Global enterprises will rapidly replace legacy transactional pipelines with sophisticated, co-engineered autonomous worker networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: TAIWAN ECOSYSTEM EXPANSION",
+            "heading": "XAI: INFRASTRUCTURE COMPUTE EXCHANGE",
             "points": [
-                "AMD announces a $10 billion investment in Taiwan to bolster AI infrastructure and production capacity.",
-                "Capital allocation targets next-generation chip manufacturing processes essential for high-performance agentic compute environments.",
-                "Investment includes ramping production of the Venice EPYC processors using advanced 2nm node technology.",
-                "Strategy strengthens the hardware supply chain necessary for supporting massive, agentic-ready data center deployments."
+                "Recent filings reveal competitor model makers directly purchasing frontier-scale compute infrastructure from one another's holdings.",
+                "Shared hardware ecosystems maximize silicon utilization rates across competing labs while stabilizing capital expenditure requirements.",
+                "The emergence of raw compute as a standalone business decouples hardware hosting from proprietary model development architectures.",
+                "Strategic compute alliances will reshape hyperscale data center dynamics and influence hardware supply chains globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SALESFORCE: HEADLESS DATA INTEGRATION",
+            "points": [
+                "Salesforce integrated deep headless data connections with Informatica to decouple enterprise data layers from applications.",
+                "Developers eliminate extensive custom integration plumbing and lower administrative burdens during autonomous workflow creation stages.",
+                "Unifying disparate transactional data sources directly provides clean context vectors for production-grade agentic decision platforms.",
+                "Organizations will increasingly demand modular headless data layers to bypass proprietary legacy system integration bottlenecks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PAVONA: OPEN SECURE HARDWARE",
+            "points": [
+                "Pavona launched an open-source hardware ecosystem designed to construct secure, sovereign cryptographic silicon processors.",
+                "System designers gain auditable hardware blueprints that mitigate supply chain vulnerabilities and prevent microcode manipulation risks.",
+                "Developing transparent chip designs establishes critical trust foundations for highly regulated critical infrastructure deployments globally.",
+                "Defense and enterprise sectors will migrate key cryptographic workloads to open, verifiable processor architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: TSMC TWO NANOMETER RAMP",
+            "points": [
+                "AMD initiated the production ramp of its next-generation Venice EPYC processors on TSMC two nanometer process.",
+                "Advanced nanosheet architecture delivers significant performance-per-watt efficiency gains critical for hyper-scale AI data centers.",
+                "Integrating cutting-edge silicon nodes directly offsets soaring electrical grid demands associated with frontier training workloads.",
+                "Cloud providers will upgrade server arrays to leverage next-generation architecture for denser compute density profiles."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: FISCAL Q1 RECORD REVENUE",
-            "points": [
-                "NVIDIA reports record Q1 fiscal 2027 revenue of $81.6 billion, reflecting 20 percent quarterly growth.",
-                "Results highlight sustained enterprise demand for accelerated computing and high-performance AI infrastructure platforms.",
-                "CEO Jensen Huang confirms focus on infrastructure optimized for agent-based learning and model orchestration.",
-                "Market metrics validate the ongoing global hardware shift towards agentic data center and GPU-centric architecture."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "DEEPSEEK: MARKET PRICING WAR",
-            "points": [
-                "DeepSeek implements aggressive V4-Pro pricing cuts, escalating competitive pressure on proprietary AI model providers.",
-                "Reductions challenge incumbents to justify premium costs versus open-weight performance for enterprise-scale AI implementations.",
-                "Strategic moves disrupt cost-efficiency benchmarks, forcing enterprises to re-evaluate their model sourcing strategies.",
-                "Industry analysts anticipate rapid market consolidation as cost-per-token decreases across the competitive landscape."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INFOWORLD: MCP SYSTEM EVOLUTION",
-            "points": [
-                "Model Context Protocol usage surges among developers seeking real-time, relevant software engineering context for agents.",
-                "Protocol adoption minimizes hallucination risks by anchoring agent reasoning to live, project-specific codebase metadata.",
-                "Technical shift highlights a transition from static training data to dynamic, context-aware AI development environments.",
-                "Enterprises are adopting standardized protocols to enhance the reliability of autonomous software engineering AI agents."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "TECHTARGET: CISO SECURITY TRENDS",
+            "heading": "DEEPMIND: GEMINI ACTION MODELS",
             "points": [
-                "Verizon 2026 DBIR identifies shadow AI and third-party risk as primary threats to corporate security.",
-                "New report underscores critical gaps in how enterprises manage and govern AI-integrated software supply chains.",
-                "CISOs face increasing pressure to balance rapid AI deployment with stringent data privacy and compliance mandates.",
-                "Strategic security posture now requires proactive threat modeling for agentic interactions and autonomous system access."
+                "Google DeepMind introduced Gemini three point five combining advanced reasoning capabilities with direct transactional execution.",
+                "Real-time environmental feedback loops allow autonomous systems to self-correct during complex multi-step workflow execution.",
+                "Combining frontier modal comprehension with active system execution bridges the gap between passive reading and active doing.",
+                "Cognitive software layers will shift from basic answering engines toward fully autonomous operational decision systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
