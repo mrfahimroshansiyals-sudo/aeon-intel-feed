@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "HARDWARE"
+        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PAVONA: SECURE CHIP ECOSYSTEM",
+            "heading": "OPENAI: GPT-5.5 PLATFORM",
             "points": [
-                "Pavona launched an open hardware ecosystem designed to secure custom microchips against physical and digital attacks.",
-                "Hardware designers can now integrate verified open-source security modules into proprietary silicon designs without licensing fees.",
-                "This transition shifts sovereign chip protection from proprietary black-box security architectures to transparent peer-reviewed standards.",
-                "Enterprise edge devices will achieve higher security baselines as open-source silicon verification scales across global foundries."
+                "OpenAI introduces its next-generation GPT-5.5 model, establishing a new paradigm for frontier intelligence and real-time execution.",
+                "The architecture delivers highly optimized multi-modal throughput, reducing latency critical for high-frequency transactional enterprise deployments.",
+                "Developers gain access to enhanced context window capabilities designed for continuous multi-agent system execution without memory decay.",
+                "This release accelerates the obsolescence of legacy fine-tuning methods by natively supporting highly complex in-context retrieval structures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: BACKSIDE POWER INNOVATION",
+            "heading": "PAVONA: SECURE SILICON ECOSYSTEM",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company revealed its advanced A16 nanosheet architecture featuring innovative Super Power Rail backside power.",
-                "Backside power delivery significantly reduces voltage drop and resistance, maximizing performance for high-performance computing systems.",
-                "Integrating NanoFlex technology with nanosheet transistors optimizes design flexibility and boosts energy efficiency for next-generation hardware.",
-                "Advanced AI accelerators will achieve unprecedented compute density while reducing thermal footprints in hyper-scale data centers."
+                "Pavona launches a decentralized open-source hardware initiative designed to establish verified cryptographic validation directly at raw silicon levels.",
+                "The community-driven architecture mitigates firmware-level side-channel exploits, offering sovereign security frameworks for mission-critical hyperscale data centers.",
+                "Engineering teams can now audit hardware-root-of-trust execution paths, bypassing proprietary semiconductor black-box designs completely during chip fabrication.",
+                "This collaborative approach guarantees robust hardware-level physical isolation mechanisms tailored to withstand hostile edge-computing environment deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: TSMC 2NM VENICE PRODUCTION",
+            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
             "points": [
-                "AMD announced the production ramp of its next-generation Venice EPYC processors on TSMC's advanced two-nanometer process.",
-                "Transitioning to two-nanometer lithography delivers massive performance-per-watt efficiency gains for enterprise cloud and AI workloads.",
-                "The Venice architecture pairs high-density Zen cores with advanced packaging to resolve intensive multi-threaded enterprise processing bottlenecks.",
-                "Hyperscalers will rapidly transition to Venice silicon to decrease operational power costs for massive model inference."
+                "Google deploys an open-source Agent Executor runtime, enabling seamless production orchestration of complex, multi-agent enterprise software environments.",
+                "The framework addresses persistent operational challenges by providing standardized pathways for secure runtime governance and automated system auditing.",
+                "Platform engineers can isolate agentic decision loops, preventing cascading failures across highly distributed legacy enterprise microservices platforms.",
+                "This release signals Google's intent to democratize agentic infrastructure orchestration, lowering software development integration costs drastically."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: DISCRETE GEOMETRY PROOF",
+            "heading": "DEEPSEEK: PRICING WAR ESCALATION",
             "points": [
-                "OpenAI research models disproved a long-standing central conjecture in discrete geometry through deep automated reasoning.",
-                "This mathematical discovery validates the capacity of advanced artificial intelligence to solve complex, unsolved academic problems.",
-                "Solving spatial conjectures proves that neural network architectures can transcend mere pattern matching into true logical reasoning.",
-                "Future algorithmic designs will incorporate automated geometric proofs to optimize high-dimensional vector search and database retrieval."
+                "DeepSeek slashes V4-Pro API pricing aggressively, initiating an unprecedented cost-per-token deflationary spiral across the global frontier model landscape.",
+                "The massive pricing reduction forces Western hyperscalers to re-evaluate their long-term infrastructure monetization strategies and structural gross margins.",
+                "Enterprise architects can now execute ultra-high-volume pipeline reasoning workflows without encountering restrictive budget-limiting cloud consumption boundaries.",
+                "This dramatic commercial shift accelerates the commoditization of foundational models, pivoting competitive focus toward workflow-layer orchestration mechanisms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "STANFORD HAI: MODEL SCALING REFORM",
+            "heading": "CVE LITE: AI-FREE DEVSECOPS",
             "points": [
-                "Stanford researchers introduced a novel approach to scaling laws that transforms how large language models are trained.",
-                "This methodology reduces computational waste by predicting optimal training configurations before deploying frontier-scale hardware resources.",
-                "Modifying traditional parameter-to-data scaling math allows smaller neural networks to achieve performance parity with larger models.",
-                "Academic and smaller corporate labs can train highly competitive specialized models without requiring hyperscaler-level financial budgets."
+                "CVE Lite CLI emerges as a security-centric framework delivering automated vulnerability scanning entirely isolated from generative AI dependencies.",
+                "The local command-line tool ensures deterministic static analysis, eliminating the risk of synthetic hallucinations during code verification processes.",
+                "DevSecOps teams gain highly reliable, air-gapped threat detection capabilities that respect strict data privacy mandates within regulated environments.",
+                "This deliberate architectural decision establishes a critical defense-in-depth layer against sophisticated software supply chain poisoning vectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: AGENT-OPTIMIZED VERA CPU",
+            "heading": "STANFORD: SYSTEMIC REJECTION METRICS",
             "points": [
-                "NVIDIA delivered its first dedicated Vera CPU designed specifically for agentic artificial intelligence to leading research laboratories.",
-                "The dedicated silicon architecture accelerates local reasoning loops and autonomous decision execution across enterprise software stacks.",
-                "Integrating Vera CPUs into existing server configurations optimizes the resource distribution between parallel graphics and sequential processing.",
-                "Next-generation AI laboratories will build sovereign agent clusters capable of continuous self-improvement and autonomous software engineering."
+                "Stanford HAI researchers expose systemic racial bias and high rejection rates embedded within automated enterprise AI hiring algorithms.",
+                "Quantitative evaluations reveal that uncalibrated screening models systematically filter qualified candidates based on correlated linguistic and socioeconomic markers.",
+                "The findings necessitate immediate implementation of rigorous algorithmic audit standards and continuous bias-mitigation frameworks across human resource architectures.",
+                "Organizations must pivot toward verifiable, transparent model evaluation benchmarks to avoid severe regulatory liabilities and ethical compliance failures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: NATIVE GEMINI OMNI",
+            "heading": "HUAWEI: CHIP DESIGN BREAKTHROUGH",
             "points": [
-                "Google DeepMind launched Gemini Omni to generate multi-format outputs directly from video inputs within unified neural architectures.",
-                "Native multimodal processing eliminates latency-inducing translation steps, enabling real-time complex video analysis and direct action execution.",
-                "The consolidated neural architecture processes visual, audio, and textual modalities simultaneously without relying on separate specialized models.",
-                "Enterprise developers will deploy highly responsive visual agents capable of interpreting physical environments for industrial robotics applications."
+                "Huawei files a landmark silicon architecture patent, indicating a massive breakthrough in sovereign advanced chip design capabilities.",
+                "The proprietary packaging innovation bypasses existing lithography constraints, enabling high-performance computing output under strict international technology sanctions.",
+                "This development signals rapid Chinese acceleration toward complete semiconductor supply chain self-reliance, reshaping geopolitical hardware procurement dynamics globally.",
+                "Global markets must prepare for highly competitive, localized enterprise hardware solutions that operate independently of Western technology stacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
