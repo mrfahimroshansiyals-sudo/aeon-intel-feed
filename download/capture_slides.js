@@ -41,7 +41,7 @@ const path = require('path');
 
     console.log("Awaiting engine synthesis pipeline to process all 9 slides...");
     
-    // Wait until exactly all 9 images have finished downloading completely
+    // Wait until exactly 9 images have finished downloading completely
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
