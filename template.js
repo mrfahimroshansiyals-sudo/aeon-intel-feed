@@ -1,98 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION AGENTIC",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTOMATED AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEBUT",
+            "heading": "MISTRAL AI: HARVEY LEGAL PARTNERSHIP",
             "points": [
-                "OpenAI officially releases GPT-5.5, introducing advanced reasoning, complex multi-modal workflows, and agentic planning capabilities.",
-                "The update dramatically scales throughput performance while slashing latency for intensive enterprise-grade API deployments.",
-                "Developers can now leverage native multi-step orchestration frameworks directly integrated within the core model layer.",
-                "Global enterprises gain immediate access to highly autonomous agents capable of managing complex production systems."
+                "Mistral AI partners with legal platform Harvey to deploy highly specialized, domain-specific generative models for complex legal workflows.",
+                "Legal operations realize significant latency and cost reductions by offloading document processing and drafting to secure model architectures.",
+                "The agreement reflects a growing industry pivot toward highly tailored LLMs designed for specialized, regulated professional sectors.",
+                "Enterprises will increasingly bypass general-purpose models in favor of highly optimized, domain-specific AI systems for critical workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: HARVEY PARTNERSHIP",
+            "heading": "ENTERPRISE IT: VIBE CODING GOVERNANCE",
             "points": [
-                "Mistral AI partners with Harvey to deliver highly specialized, secure large language models for legal sectors.",
-                "The collaboration targets domain-specific accuracy, dramatically reducing processing times for complex contract audits and compliance.",
-                "Enterprise architectures integrate fine-tuned weights directly within self-contained private cloud environments for strict data privacy.",
-                "Corporate legal departments obtain unprecedented sovereign intelligence capabilities without risking confidential client documentation."
+                "IT leaders enlist business-end users to build applications using conversational, high-level natural language instructions and coding assistants.",
+                "Rapid pilot prototyping cycles drop from months to hours while demanding new governance frameworks to control sprawl.",
+                "The democratization of development shifts the role of central IT from active software authorship to strict platform architecture oversight.",
+                "Modern enterprises will experience a surge in custom applications built entirely by non-technical business units using generative platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "CYBERSECURITY: AGENTIC SPEED PROTOCOLS",
             "points": [
-                "Google introduces an open-source Agent Executor runtime designed to streamline scaling autonomous agents in production.",
-                "The system resolves critical orchestration bottlenecks, allowing enterprise developers to run thousands of concurrent agents.",
-                "Tightly integrated within Google Cloud infrastructure, the framework provides robust governance and real-time execution monitoring.",
-                "Enterprise IT leaders can now deploy complex multi-agent systems with unified security and operational controls."
+                "Autonomous agentic workflows bypass traditional human-centric security checkpoints, exposing systems to rapid, machine-speed identity and execution threats.",
+                "Security frameworks must evolve to monitor transactional velocity, enforcing real-time identity and access management for non-human software actors.",
+                "The removal of human friction in AI-driven execution models renders legacy perimeter defense strategies entirely obsolete.",
+                "Organizations will implement automated, zero-trust security layers designed specifically to govern and restrict rogue autonomous software agent actions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: V4-PRO PRICE DISRUPT",
+            "heading": "GOOGLE CLOUD: OPEN AGENT EXECUTOR",
             "points": [
-                "DeepSeek slashes prices for its V4-Pro model, significantly escalating the global generative AI market pricing war.",
-                "The steep cost reduction forces competitors to optimize operational efficiencies to preserve cloud infrastructure margins.",
-                "Scaled enterprise applications benefit from direct API cost reductions, enabling massive data ingestion and parsing.",
-                "Startups and research institutions gain highly affordable access to frontier-class reasoning models for broad experimentation."
+                "Google releases its open-source Agent Executor runtime environment to streamline enterprise-grade agent orchestration and production deployment.",
+                "Developers gain structured tools to manage agent execution states, reducing integration overhead in highly complex, multi-model environments.",
+                "This release targets operational bottlenecks in scaling AI agents from isolated pilot environments into reliable, production-ready systems.",
+                "Open-source orchestration standards will dominate the enterprise software market as developers seek to prevent vendor lock-in."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: VENICE 2NM TSMC RAMP",
+            "heading": "STANFORD HAI: BIAS IN AI HIRING",
             "points": [
-                "AMD accelerates production ramp of its next-generation Venice EPYC processors using TSMC advanced 2nm technology.",
-                "The hardware transition yields significant compute efficiency gains and reduces massive data center power consumption footprints.",
-                "Silicon-level integration leverages TSMC backside power delivery, optimizing high-performance computing workloads for agentic AI clusters.",
-                "Hyperscalers secure advanced hardware pipelines to support escalating demands of sovereign, frontier-scale artificial intelligence models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "STANFORD: BIAS AUDIT SYSTEM",
-            "points": [
-                "Stanford HAI researchers reveal systemic racial bias and automatic rejection patterns in widely deployed AI hiring tools.",
-                "The audit highlights critical operational vulnerabilities in algorithmic filtering, leading to major legal compliance issues.",
-                "Enterprise software architectures require robust, real-time monitoring and bias mitigation layers to protect applicant pipelines.",
-                "Chief Human Resources Officers must rapidly overhaul automated recruiting tools to align with shifting regulatory standards."
+                "Stanford research warns that automated AI-driven resume screening tools introduce systemic racial biases and high rejection rates.",
+                "Automated recruitment systems face heightened compliance and regulatory scrutiny as organizations seek to eliminate algorithmic hiring disparities.",
+                "Declining model transparency complicates independent audits, highlighting the critical need for robust, standardized human-centric AI evaluation frameworks.",
+                "Global enterprises will mandate human-in-the-loop validation for all high-risk automated decision systems to comply with international regulations."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "IEEE: DNA SYNTHESIS BREAKTHROUGH",
+            "id": 6,
+            "heading": "DEEPSEEK: MODEL PRICING WARS",
             "points": [
-                "A novel DNA synthesis platform dramatically slashes the time required to build complex synthetic genetic sequences.",
-                "The technical leap accelerates bio-computational research workflows, cutting experimental turnaround cycles from weeks to hours.",
-                "Microfluidic systems interface directly with AI design models, creating an automated pipeline for rapid sequence fabrication.",
-                "Biotechnology firms can rapidly prototype customized therapies, accelerating clinical development pipelines for global healthcare initiatives."
+                "DeepSeek slashes prices for its V4-Pro model, escalating a global price war among frontier model providers.",
+                "Drastic price reductions lower operational barriers for startups and enterprises seeking high-performance general-purpose AI capabilities.",
+                "The cost reduction places immediate financial pressure on Western competitors, forcing them to justify premium subscription pricing models.",
+                "Basic API access will rapidly commoditize, forcing frontier labs to monetize proprietary tooling and ecosystem integration frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INFO WORLD: MODEL CONTEXT PROTOCOL",
+            "points": [
+                "Software engineers adopt Model Context Protocol to dynamically feed precise software engineering context directly to coding agents.",
+                "Dynamic context injection dramatically improves agentic coding accuracy, reducing hallucination rates during complex codebase modifications.",
+                "This approach moves beyond static context windows toward dynamic, runtime-level data retrieval tailored for autonomous software development.",
+                "Development environments will integrate context protocols natively, enabling seamless, bi-directional communication between models and local development environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
