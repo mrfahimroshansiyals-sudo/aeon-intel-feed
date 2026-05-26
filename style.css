@@ -146,7 +146,7 @@ body {
     align-items: center;
     width: 100%;
     /* Adaptive calculation balancing word lengths and viewport container dynamics smoothly */
-    font-size: clamp(65px, 11cqw, 150px) !important; 
+    font-size: clamp(85px, 11cqw, 165px) !important; 
     line-height: 0.90 !important; /* Tight spacing layout to eliminate clipping behaviors */
     font-stretch: condensed !important; 
     font-weight: 1500 !important;
