@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AGENTIC SILICON",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 PLATFORM",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "OpenAI introduces its next-generation GPT-5.5 model, establishing a new paradigm for frontier intelligence and real-time execution.",
-                "The architecture delivers highly optimized multi-modal throughput, reducing latency critical for high-frequency transactional enterprise deployments.",
-                "Developers gain access to enhanced context window capabilities designed for continuous multi-agent system execution without memory decay.",
-                "This release accelerates the obsolescence of legacy fine-tuning methods by natively supporting highly complex in-context retrieval structures."
+                "OpenAI officially deploys GPT-5.5 featuring advanced reasoning capabilities engineered for complex enterprise workflows.",
+                "Initial benchmarks indicate a forty percent reduction in latency for high-volume automated data processing tasks.",
+                "The model integrates directly into existing agent frameworks to support seamless transactional execution across systems.",
+                "Enterprise developers gain immediate API access to accelerate custom agent deployments within secure cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PAVONA: SECURE SILICON ECOSYSTEM",
+            "heading": "GOOGLE: GEMINI OMNI",
             "points": [
-                "Pavona launches a decentralized open-source hardware initiative designed to establish verified cryptographic validation directly at raw silicon levels.",
-                "The community-driven architecture mitigates firmware-level side-channel exploits, offering sovereign security frameworks for mission-critical hyperscale data centers.",
-                "Engineering teams can now audit hardware-root-of-trust execution paths, bypassing proprietary semiconductor black-box designs completely during chip fabrication.",
-                "This collaborative approach guarantees robust hardware-level physical isolation mechanisms tailored to withstand hostile edge-computing environment deployments."
+                "Google DeepMind launches Gemini Omni to generate multimodal outputs directly from native video and audio inputs.",
+                "The architecture processes complex raw physical inputs with a threefold increase in cross-modal reasoning efficiency.",
+                "Developers leverage the platform to construct highly contextual real-time feedback loops for autonomous agents.",
+                "This deployment shifts the industry standard toward native multimodal understanding without intermediate text conversion steps."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "NVIDIA: VERA ARCHITECTURE",
             "points": [
-                "Google deploys an open-source Agent Executor runtime, enabling seamless production orchestration of complex, multi-agent enterprise software environments.",
-                "The framework addresses persistent operational challenges by providing standardized pathways for secure runtime governance and automated system auditing.",
-                "Platform engineers can isolate agentic decision loops, preventing cascading failures across highly distributed legacy enterprise microservices platforms.",
-                "This release signals Google's intent to democratize agentic infrastructure orchestration, lowering software development integration costs drastically."
+                "Nvidia delivers its first dedicated Vera CPU designed specifically to run agentic workloads in labs.",
+                "This chip architecture yields a substantial performance uplift for high-throughput reinforcement learning processing pipelines.",
+                "Leading AI laboratories deploy the silicon to decouple dependency on traditional x86 server hardware systems.",
+                "The enterprise market expects accelerated timelines for hosting fully autonomous deep learning nodes on-premises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: PRICING WAR ESCALATION",
+            "heading": "AMD: VENICE 2NM",
             "points": [
-                "DeepSeek slashes V4-Pro API pricing aggressively, initiating an unprecedented cost-per-token deflationary spiral across the global frontier model landscape.",
-                "The massive pricing reduction forces Western hyperscalers to re-evaluate their long-term infrastructure monetization strategies and structural gross margins.",
-                "Enterprise architects can now execute ultra-high-volume pipeline reasoning workflows without encountering restrictive budget-limiting cloud consumption boundaries.",
-                "This dramatic commercial shift accelerates the commoditization of foundational models, pivoting competitive focus toward workflow-layer orchestration mechanisms."
+                "AMD ramps production of its Venice EPYC processors leveraging TSMC advanced two nanometer process node.",
+                "This transition delivers significant improvements in power efficiency and compute density for dense AI datacenters.",
+                "Global hyper-scalers prepare server infrastructure to accommodate the next generation of high-density silicon architectures.",
+                "This engineering milestone tightens competition against market leaders in the high-performance computing hardware space."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CVE LITE: AI-FREE DEVSECOPS",
+            "heading": "INFOWORLD: CONTEXT PROTOCOL",
             "points": [
-                "CVE Lite CLI emerges as a security-centric framework delivering automated vulnerability scanning entirely isolated from generative AI dependencies.",
-                "The local command-line tool ensures deterministic static analysis, eliminating the risk of synthetic hallucinations during code verification processes.",
-                "DevSecOps teams gain highly reliable, air-gapped threat detection capabilities that respect strict data privacy mandates within regulated environments.",
-                "This deliberate architectural decision establishes a critical defense-in-depth layer against sophisticated software supply chain poisoning vectors."
+                "Model Context Protocol emerges as the open standard for delivering software engineering context to coding agents.",
+                "Engineering teams report dramatic reductions in token consumption by serving highly relevant repository context on demand.",
+                "The protocol decouples language models from proprietary database schemes to simplify real-time data ingestion pipelines.",
+                "Software organizations adopt this open framework to standardize agentic development across diverse enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STANFORD: SYSTEMIC REJECTION METRICS",
+            "heading": "PAVONA: SECURE HARDWARE",
             "points": [
-                "Stanford HAI researchers expose systemic racial bias and high rejection rates embedded within automated enterprise AI hiring algorithms.",
-                "Quantitative evaluations reveal that uncalibrated screening models systematically filter qualified candidates based on correlated linguistic and socioeconomic markers.",
-                "The findings necessitate immediate implementation of rigorous algorithmic audit standards and continuous bias-mitigation frameworks across human resource architectures.",
-                "Organizations must pivot toward verifiable, transparent model evaluation benchmarks to avoid severe regulatory liabilities and ethical compliance failures."
+                "Pavona launches an open hardware ecosystem designed to secure microchip designs against physical side-channel attacks.",
+                "Developers access open-source blueprints to build transparent cryptographic verification structures directly into physical silicon.",
+                "This open paradigm shifts secure hardware manufacturing toward community-driven audits and sovereign chip production pipelines.",
+                "Critical infrastructure industries prioritize these transparent architectures to mitigate supply chain tampering risks globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: hai.stanford.edu",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "HUAWEI: CHIP DESIGN BREAKTHROUGH",
+            "heading": "DEEPSEEK: PRICING WAR",
             "points": [
-                "Huawei files a landmark silicon architecture patent, indicating a massive breakthrough in sovereign advanced chip design capabilities.",
-                "The proprietary packaging innovation bypasses existing lithography constraints, enabling high-performance computing output under strict international technology sanctions.",
-                "This development signals rapid Chinese acceleration toward complete semiconductor supply chain self-reliance, reshaping geopolitical hardware procurement dynamics globally.",
-                "Global markets must prepare for highly competitive, localized enterprise hardware solutions that operate independently of Western technology stacks."
+                "DeepSeek slashes pricing for its V4-Pro model to disrupt the competitive enterprise generative AI market.",
+                "The price reduction forces Western model providers to reconsider margin structures for high-volume API transaction services.",
+                "Large enterprises leverage the lower operational costs to scale agentic workloads across vast computational arrays.",
+                "This economic shift accelerates the commoditization of raw intelligence tokens for global system integration projects."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: reuters.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
