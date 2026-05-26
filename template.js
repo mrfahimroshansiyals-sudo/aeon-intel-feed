@@ -1,18 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTOMATED AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "ENGINEERING AGENTIC",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL AI: HARVEY LEGAL PARTNERSHIP",
+            "heading": "NVIDIA: VERA CPU LAUNCH",
             "points": [
-                "Mistral AI partners with legal platform Harvey to deploy highly specialized, domain-specific generative models for complex legal workflows.",
-                "Legal operations realize significant latency and cost reductions by offloading document processing and drafting to secure model architectures.",
-                "The agreement reflects a growing industry pivot toward highly tailored LLMs designed for specialized, regulated professional sectors.",
-                "Enterprises will increasingly bypass general-purpose models in favor of highly optimized, domain-specific AI systems for critical workflows."
+                "Nvidia launches its first dedicated agentic CPU designed specifically to accelerate autonomous machine-speed workflows.",
+                "The processor delivers twofold faster kernel compilation and four times greater memory bandwidth than standard architectures.",
+                "Modern enterprise architectures require high-performance hardware to eliminate computation bottlenecks during active agent runtime processing.",
+                "Organizations adopting this hardware will significantly lower their infrastructure latency and operational expenditure costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "SPACEX: MILITARY SATELLITE CONTRACT",
+            "points": [
+                "SpaceX secures a massive military contract to build a secure high-speed orbital communications network.",
+                "The defense initiative allocates over two billion dollars to integrate real-time satellite telemetry with military platforms.",
+                "Developing sovereign orbital infrastructure guarantees low-latency data transit across highly contested global operating environments.",
+                "Defense agencies will rapidly deploy autonomous tracking networks by leveraging mature commercial satellite constellations immediately."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.reuters.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MISTRAL AI: HARVEY PARTNERSHIP",
+            "points": [
+                "Mistral AI collaborates with legal platform Harvey to deploy highly specialized generative models for corporate operations.",
+                "The integration automates complex corporate auditing procedures while maintaining strict user data privacy compliance standards.",
+                "Sovereignty-focused industries increasingly demand localized models that prevent sensitive proprietary records from leaving corporate boundaries.",
+                "Corporate legal teams will radically accelerate document verification processes using sovereign open-weights model fine-tuning."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,61 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "ENTERPRISE IT: VIBE CODING GOVERNANCE",
-            "points": [
-                "IT leaders enlist business-end users to build applications using conversational, high-level natural language instructions and coding assistants.",
-                "Rapid pilot prototyping cycles drop from months to hours while demanding new governance frameworks to control sprawl.",
-                "The democratization of development shifts the role of central IT from active software authorship to strict platform architecture oversight.",
-                "Modern enterprises will experience a surge in custom applications built entirely by non-technical business units using generative platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CYBERSECURITY: AGENTIC SPEED PROTOCOLS",
-            "points": [
-                "Autonomous agentic workflows bypass traditional human-centric security checkpoints, exposing systems to rapid, machine-speed identity and execution threats.",
-                "Security frameworks must evolve to monitor transactional velocity, enforcing real-time identity and access management for non-human software actors.",
-                "The removal of human friction in AI-driven execution models renders legacy perimeter defense strategies entirely obsolete.",
-                "Organizations will implement automated, zero-trust security layers designed specifically to govern and restrict rogue autonomous software agent actions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "GOOGLE CLOUD: OPEN AGENT EXECUTOR",
+            "heading": "AMD: VENICE PROCESSOR RAMP",
             "points": [
-                "Google releases its open-source Agent Executor runtime environment to streamline enterprise-grade agent orchestration and production deployment.",
-                "Developers gain structured tools to manage agent execution states, reducing integration overhead in highly complex, multi-model environments.",
-                "This release targets operational bottlenecks in scaling AI agents from isolated pilot environments into reliable, production-ready systems.",
-                "Open-source orchestration standards will dominate the enterprise software market as developers seek to prevent vendor lock-in."
+                "AMD initiates the production scaling of its next-generation enterprise processor using advanced manufacturing processes.",
+                "Utilizing cutting-edge two-nanometer node technology dramatically increases transistor density while slashing power consumption.",
+                "Enterprise data centers require enhanced thermal efficiency to support the surging demand of dense compute clusters.",
+                "Hardware architects can deploy highly scalable processing frameworks that easily sustain massive parallel generative intelligence computations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "STANFORD HAI: BIAS IN AI HIRING",
+            "heading": "STANFORD HAI: ORGANIZATIONS LAB",
             "points": [
-                "Stanford research warns that automated AI-driven resume screening tools introduce systemic racial biases and high rejection rates.",
-                "Automated recruitment systems face heightened compliance and regulatory scrutiny as organizations seek to eliminate algorithmic hiring disparities.",
-                "Declining model transparency complicates independent audits, highlighting the critical need for robust, standardized human-centric AI evaluation frameworks.",
-                "Global enterprises will mandate human-in-the-loop validation for all high-risk automated decision systems to comply with international regulations."
+                "Stanford researchers establish a specialized laboratory to analyze how algorithmic automation alters modern corporate workflows.",
+                "Preliminary studies reveal that unmonitored hiring algorithms introduce systematic demographic biases within enterprise recruitment pipelines.",
+                "Deploying ethical governance frameworks remains essential as companies transition from simple automation to fully agentic operations.",
+                "Chief information officers must implement comprehensive auditing tools to guarantee compliance with emerging global labor regulations."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: MODEL PRICING WARS",
+            "heading": "MICROSOFT: AGENTIC DEVOPS INTEGRATION",
             "points": [
-                "DeepSeek slashes prices for its V4-Pro model, escalating a global price war among frontier model providers.",
-                "Drastic price reductions lower operational barriers for startups and enterprises seeking high-performance general-purpose AI capabilities.",
-                "The cost reduction places immediate financial pressure on Western competitors, forcing them to justify premium subscription pricing models.",
-                "Basic API access will rapidly commoditize, forcing frontier labs to monetize proprietary tooling and ecosystem integration frameworks."
+                "Microsoft integrates advanced autonomous software agents directly into its cloud development and deployment pipelines.",
+                "The updated workspace bridges corporate operations and engineering teams to resolve complex codebase issues within days.",
+                "Unifying development environments with agentic intelligence reduces technical debt by automating routine software refactoring cycles.",
+                "Engineering leads can accelerate feature shipment timelines by delegating repetitive maintenance tasks to reliable software agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFO WORLD: MODEL CONTEXT PROTOCOL",
+            "heading": "EUROPEAN UNION: GPAI COMPLIANCE",
             "points": [
-                "Software engineers adopt Model Context Protocol to dynamically feed precise software engineering context directly to coding agents.",
-                "Dynamic context injection dramatically improves agentic coding accuracy, reducing hallucination rates during complex codebase modifications.",
-                "This approach moves beyond static context windows toward dynamic, runtime-level data retrieval tailored for autonomous software development.",
-                "Development environments will integrate context protocols natively, enabling seamless, bi-directional communication between models and local development environments."
+                "The European Commission issues critical draft guidelines detailing strict compliance obligations for general purpose intelligence models.",
+                "Model providers must comply with new transparency and risk management protocols starting by late summer.",
+                "Developing standardized compliance metrics ensures safer deployment pathways for advanced commercial technologies across continental markets.",
+                "Compliance officers must rapidly audit their existing training pipelines to meet the new statutory transparency requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
