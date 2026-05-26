@@ -22,46 +22,6 @@ const path = require('path');
     
     const page = await browser.newPage();
 
-    // ==========================================================================
-    // INTEGRATED LAYOUT MATRIX ENGINE: DYNAMIC TEXT FIT (PRESERVER)
-    // ==========================================================================
-    await page.evaluateOnNewDocument(() => {
-        function dynamicallyMaximizeHeadline() {
-            const headerContainer = document.querySelector('.main-hook-style header h1');
-            if (!headerContainer) return;
-
-            const textLines = headerContainer.querySelectorAll('span, div');
-            const containerWidth = headerContainer.clientWidth;
-
-            textLines.forEach(line => {
-                line.style.fontSize = '10px';
-                
-                const currentWidth = line.getBoundingClientRect().width;
-                if (currentWidth > 0) {
-                    let optimizedSize = (containerWidth / currentWidth) * 10;
-                    
-                    const maxSafeFont = 165; 
-                    const minSafeFont = 65;
-                    
-                    if (optimizedSize > maxSafeFont) optimizedSize = maxSafeFont;
-                    if (optimizedSize < minSafeFont) optimizedSize = minSafeFont;
-
-                    line.style.fontSize = `${optimizedSize}px`;
-                }
-            });
-        }
-
-        // Initialize engine listener cycles across early document loads
-        document.addEventListener('DOMContentLoaded', dynamicallyMaximizeHeadline);
-        window.addEventListener('load', dynamicallyMaximizeHeadline);
-        window.addEventListener('resize', dynamicallyMaximizeHeadline);
-        
-        if (document.fonts) {
-            document.fonts.ready.then(dynamicallyMaximizeHeadline);
-        }
-    });
-    // ==========================================================================
-
     // Intercept the browser's native download behavior and force it into your 'download' folder
     const client = await page.target().createCDPSession();
     await client.send('Page.setDownloadBehavior', {
@@ -73,25 +33,6 @@ const path = require('path');
     await page.goto('https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed', {
         waitUntil: 'networkidle2',
         timeout: 60000
-    });
-
-    // Forced layout calculation run right before execution click sequences
-    await page.evaluate(() => {
-        const headerContainer = document.querySelector('.main-hook-style header h1');
-        if (headerContainer) {
-            const textLines = headerContainer.querySelectorAll('span, div');
-            const containerWidth = headerContainer.clientWidth;
-            textLines.forEach(line => {
-                line.style.fontSize = '10px';
-                const currentWidth = line.getBoundingClientRect().width;
-                if (currentWidth > 0) {
-                    let optimizedSize = (containerWidth / currentWidth) * 10;
-                    if (optimizedSize > 165) optimizedSize = 165;
-                    if (optimizedSize < 65) optimizedSize = 65;
-                    line.style.fontSize = `${optimizedSize}px`;
-                }
-            });
-        }
     });
 
     console.log("Triggering your engine's bulk download sequence...");
