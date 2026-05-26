@@ -82,15 +82,15 @@ body {
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 120px;
-    padding-left: 160px;
-    padding-right: 120px;
-    padding-bottom: 120px;
-    max-height: 1150px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    max-height: 1120px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     text-align: left;
 }
@@ -100,7 +100,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     padding: 0;
 }
 
@@ -118,44 +118,39 @@ body {
     letter-spacing: 15px;
     line-height: 2;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     text-align: left;
     padding: 0;
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     text-align: left;
-    padding: 10px 0; 
+    padding: 0;
     display: flex;
-    flex-direction: column; 
-    justify-content: space-between; /* Perfect vertical distribution for 3, 4, 5, or 6 lines */
+    flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    max-width: 820px; /* Rigidly locks the right edge boundary before your red line */
-    height: 620px; /* Permanent box height - text can never overflow down */
-    max-height: 620px; 
-    overflow: hidden;
+    max-width: 780px; 
 }
 
-/* Base properties applied to each word segment within the H1 */
+/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
     display: inline-block !important;
-    width: auto !important; /* Allows JS to accurately measure width changes */
-    max-width: 100% !important;
-    line-height: 0.82 !important; /* Premium tight line format to ensure zero overlapping elements */
-    font-stretch: condensed !important; 
+    transform: scaleY(1.5);
+    transform-origin: left;
+    font-size: clamp(80px, 12cqw, 140px) !important; 
+    line-height: 1.4 !important;
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    white-space: nowrap !important;
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    transform-origin: left center;
+    margin-bottom: 15px;
 }
 
 /* Force the very last word in the layout container to turn dark blue */
@@ -163,10 +158,11 @@ body {
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
+    margin-bottom: 0px;
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: auto; 
+    margin-top: 20px;
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
