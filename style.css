@@ -127,36 +127,39 @@ body {
     font-family: var(--font-title) !important;
     margin-bottom: 40px;
     text-align: left;
-    padding: 20px 0 20px 0; 
+    padding: 20px 0; 
     display: flex;
     flex-direction: column; 
-    justify-content: flex-start; /* Aligns lines naturally to prevent erratic gaping */
+    justify-content: space-between; /* Evenly distributes lines from top to bottom regardless of count */
     align-items: flex-start;
     width: 100%;
-    max-width: 800px; 
-    height: auto; /* Replaces strict heights with organic flex container values */
-    max-height: 660px; /* Strong strict ceiling bounds text exactly above line 4 */
+    max-width: 840px; /* Safely expands the boundary rightward to maximize available space */
+    height: 620px; /* Locks the master box area so text volume fits perfectly */
+    max-height: 620px; 
     overflow: hidden;
 }
 
 /* Base properties applied to each word segment within the H1 - MAXIMIZED & RESPONSIVE */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important;
+    display: flex !important; /* Switch to flex to allow inner inline scaling adjustments */
+    align-items: center;
     width: 100%;
-    /* Recalibrated layout scales accurately on mobile contexts to block bleeding edge overflows */
-    font-size: clamp(75px, 11.5cqw, 140px) !important; 
-    line-height: 0.98 !important; /* Premium line height multiplier completely ends element overlapping */
+    /* Adaptive calculation balancing word lengths and viewport container dynamics smoothly */
+    font-size: clamp(65px, 11cqw, 150px) !important; 
+    line-height: 0.90 !important; /* Tight spacing layout to eliminate clipping behaviors */
     font-stretch: condensed !important; 
     font-weight: 1500 !important;
     letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important; 
-    word-break: break-all !important; 
+    overflow-wrap: normal !important; 
+    word-break: keep-all !important; 
     white-space: nowrap !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 6px; /* Smooth metric spacing factor prevents line collision */
+    margin-bottom: 0px; /* Managed strictly via parent container distribution spacing rules */
+    flex: 1; /* Instructs line rows to dynamically expand and occupy empty workspace */
+    min-height: 0; /* Guard against line blowout clipping over bounding boxes */
 }
 
 /* Force the very last word in the layout container to turn dark blue and lock cleanly */
@@ -165,11 +168,12 @@ body {
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
     margin-bottom: 0px;
-    margin-top: 0px; /* Removes auto-margin wedge that creates abnormal vertical gaps */
+    margin-top: 0px; 
+    flex: 1;
 }
 
 .main-hook-style .bulletin-container {
-    margin-top: auto; /* Clean layout float pushes lists to bottom area automatically */
+    margin-top: auto; 
     max-width: 100%;
     flex: 0 1 auto; 
     display: flex;
