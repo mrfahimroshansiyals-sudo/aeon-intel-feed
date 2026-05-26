@@ -1,98 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING AUTONOMOUS AGENT",
-        "titleBlue": "PLATFORMS"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "Google released open source Agent Executor runtime to support enterprise AI agent deployments in production environments.",
-                "Standardized runtime environments mitigate operational overhead while optimizing infrastructure resource consumption during agent execution scaling.",
-                "System architects leverage unified execution frameworks to address persistent governance challenges across multi-agent enterprise landscapes.",
-                "Enterprises will transition from isolated pilot applications toward robust, production-grade autonomous cognitive agent pipelines."
+                "OpenAI officially releases its GPT-5.5 frontier model designed to advance reasoning and context awareness.",
+                "Early benchmarks demonstrate substantial latency reductions and a fifty percent improvement in complex math processing.",
+                "The architecture shifts enterprise workflows toward highly integrated, native multi-step reasoning agents without external tools.",
+                "Enterprises will rapidly transition legacy applications to this cognitive layer, significantly reducing custom orchestration codebases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: BILLION DOLLAR ALLIANCE",
+            "heading": "DEEPMIND: GEMINI OMNI ARCHITECTURE",
             "points": [
-                "Microsoft partnered with EY on a massive one billion dollar initiative deploying dedicated agentic AI engineering.",
-                "Forward-deployed engineering teams directly accelerate enterprise adoption pathways while optimizing technical integration and operational costs.",
-                "Joint system deployment strategies alleviate skilled talent bottlenecks hindering large-scale multi-agent enterprise rollout designs.",
-                "Global enterprises will rapidly replace legacy transactional pipelines with sophisticated, co-engineered autonomous worker networks."
+                "Google DeepMind launches Gemini Omni, facilitating native multimodal creation across video, audio, and code-based inputs.",
+                "The model processes high-fidelity visual streams in real time, drastically lowering deployment costs for edge applications.",
+                "This update positions native video processing at the core of enterprise automation and next-generation agent platforms.",
+                "Developers will leverage Gemini Omni to build immersive, real-time spatial agents without complex pre-processing pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "XAI: INFRASTRUCTURE COMPUTE EXCHANGE",
+            "heading": "NVIDIA: VERA AGENT CPU",
             "points": [
-                "Recent filings reveal competitor model makers directly purchasing frontier-scale compute infrastructure from one another's holdings.",
-                "Shared hardware ecosystems maximize silicon utilization rates across competing labs while stabilizing capital expenditure requirements.",
-                "The emergence of raw compute as a standalone business decouples hardware hosting from proprietary model development architectures.",
-                "Strategic compute alliances will reshape hyperscale data center dynamics and influence hardware supply chains globally."
+                "NVIDIA deploys its first specialized Vera CPU designed explicitly to accelerate autonomous multi-agent software environments.",
+                "The hardware achieves massive throughput gains while optimizing energy efficiency across enterprise data center installations.",
+                "Integrating Vera CPUs directly into AI clusters eliminates latency bottlenecks during continuous agentic reasoning tasks.",
+                "Top AI laboratories will deploy these chips to run self-improving software frameworks with minimal latency overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALESFORCE: HEADLESS DATA INTEGRATION",
+            "heading": "AMD: VENICE EPYC PRODUCTION",
             "points": [
-                "Salesforce integrated deep headless data connections with Informatica to decouple enterprise data layers from applications.",
-                "Developers eliminate extensive custom integration plumbing and lower administrative burdens during autonomous workflow creation stages.",
-                "Unifying disparate transactional data sources directly provides clean context vectors for production-grade agentic decision platforms.",
-                "Organizations will increasingly demand modular headless data layers to bypass proprietary legacy system integration bottlenecks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "PAVONA: OPEN SECURE HARDWARE",
-            "points": [
-                "Pavona launched an open-source hardware ecosystem designed to construct secure, sovereign cryptographic silicon processors.",
-                "System designers gain auditable hardware blueprints that mitigate supply chain vulnerabilities and prevent microcode manipulation risks.",
-                "Developing transparent chip designs establishes critical trust foundations for highly regulated critical infrastructure deployments globally.",
-                "Defense and enterprise sectors will migrate key cryptographic workloads to open, verifiable processor architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: TSMC TWO NANOMETER RAMP",
-            "points": [
-                "AMD initiated the production ramp of its next-generation Venice EPYC processors on TSMC two nanometer process.",
-                "Advanced nanosheet architecture delivers significant performance-per-watt efficiency gains critical for hyper-scale AI data centers.",
-                "Integrating cutting-edge silicon nodes directly offsets soaring electrical grid demands associated with frontier training workloads.",
-                "Cloud providers will upgrade server arrays to leverage next-generation architecture for denser compute density profiles."
+                "AMD ramps production of its Venice EPYC processors utilizing TSMC's cutting-edge two-nanometer silicon fabrication technology.",
+                "The transition delivers unmatched performance-per-watt efficiency to support highly demanding high-performance computing clusters.",
+                "This partnership secures a robust hardware supply chain for hyperscalers scaling next-generation generative AI workloads.",
+                "Hardware architects will transition to this advanced platform to mitigate spiraling energy costs in modern datacenters."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DEEPMIND: GEMINI ACTION MODELS",
+            "id": 5,
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Google DeepMind introduced Gemini three point five combining advanced reasoning capabilities with direct transactional execution.",
-                "Real-time environmental feedback loops allow autonomous systems to self-correct during complex multi-step workflow execution.",
-                "Combining frontier modal comprehension with active system execution bridges the gap between passive reading and active doing.",
-                "Cognitive software layers will shift from basic answering engines toward fully autonomous operational decision systems."
+                "Anthropic introduces Claude Opus 4.7, significantly enhancing coding capabilities, vision processing, and complex professional workflows.",
+                "The model reduces context engineering overhead while maintaining highly reliable outputs in massive multi-file coding repositories.",
+                "This release strengthens the enterprise software ecosystem by providing safer, more reliable automation across critical pipelines.",
+                "Software engineering teams will deploy Claude Opus to automate secure codebase reviews and continuous deployment cycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PAVONA: SECURE OPEN HARDWARE",
+            "points": [
+                "Pavona launches a fully open hardware ecosystem to accelerate the development of highly secure enterprise microchips.",
+                "This initiative provides transparent, auditable silicon designs that eliminate systemic hardware vulnerabilities and backdoor risks.",
+                "Open-source chip design represents a paradigm shift toward democratized, trustless hardware manufacturing in critical sovereign sectors.",
+                "Global engineering teams will utilize these validated architectures to secure edge computing and defense hardware configurations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INFOWORLD: CONTEXT ENGINEERING PROTOCOL",
+            "points": [
+                "Software developers embrace the Model Context Protocol to feed real-time engineering context directly into autonomous agents.",
+                "Standardizing context delivery eliminates custom integrations and reduces model inference costs across complex enterprise networks.",
+                "Unified data sharing protocols establish the groundwork for scalable, highly cooperative multi-agent software engineering systems.",
+                "Engineering organizations will adopt this protocol to bridge isolated data silos and boost overall agentic productivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
