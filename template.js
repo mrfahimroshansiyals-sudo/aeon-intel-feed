@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENGINEERING AGENTIC",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC HARDWARE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: VERA CPU LAUNCH",
             "points": [
-                "Nvidia launches its first dedicated agentic CPU designed specifically to accelerate autonomous machine-speed workflows.",
-                "The processor delivers twofold faster kernel compilation and four times greater memory bandwidth than standard architectures.",
-                "Modern enterprise architectures require high-performance hardware to eliminate computation bottlenecks during active agent runtime processing.",
-                "Organizations adopting this hardware will significantly lower their infrastructure latency and operational expenditure costs."
+                "NVIDIA officially deployed its Vera CPU architecture specifically designed to power autonomous AI agent workflows.",
+                "Top global laboratories integrated the high-throughput silicon to accelerate massive parallelized agent processing capabilities.",
+                "The custom architecture optimizes memory bandwidth efficiency to bypass legacy bottlenecks during model inference tasks.",
+                "Systems engineers predict immediate performance scaling across complex multi-agent execution pipelines using this hardware."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEX: MILITARY SATELLITE CONTRACT",
+            "heading": "AMD: VENICE 2NM PRODUCTION",
             "points": [
-                "SpaceX secures a massive military contract to build a secure high-speed orbital communications network.",
-                "The defense initiative allocates over two billion dollars to integrate real-time satellite telemetry with military platforms.",
-                "Developing sovereign orbital infrastructure guarantees low-latency data transit across highly contested global operating environments.",
-                "Defense agencies will rapidly deploy autonomous tracking networks by leveraging mature commercial satellite constellations immediately."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.reuters.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: HARVEY PARTNERSHIP",
-            "points": [
-                "Mistral AI collaborates with legal platform Harvey to deploy highly specialized generative models for corporate operations.",
-                "The integration automates complex corporate auditing procedures while maintaining strict user data privacy compliance standards.",
-                "Sovereignty-focused industries increasingly demand localized models that prevent sensitive proprietary records from leaving corporate boundaries.",
-                "Corporate legal teams will radically accelerate document verification processes using sovereign open-weights model fine-tuning."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: VENICE PROCESSOR RAMP",
-            "points": [
-                "AMD initiates the production scaling of its next-generation enterprise processor using advanced manufacturing processes.",
-                "Utilizing cutting-edge two-nanometer node technology dramatically increases transistor density while slashing power consumption.",
-                "Enterprise data centers require enhanced thermal efficiency to support the surging demand of dense compute clusters.",
-                "Hardware architects can deploy highly scalable processing frameworks that easily sustain massive parallel generative intelligence computations."
+                "AMD commenced production ramp of its next-generation Venice EPYC processors utilizing TSMC advanced two-nanometer node technology.",
+                "The architecture targets high-density enterprise environments needing severe processing capabilities for local agentic computing stacks.",
+                "This deployment integrates robust local hardware platforms to secure decentralized edge networks without cloud latency dependencies.",
+                "Hardware architects project unprecedented energy efficiency gains across sovereign data centers deploying these microchips globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +38,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "STANFORD HAI: ORGANIZATIONS LAB",
+            "id": 3,
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "Stanford researchers establish a specialized laboratory to analyze how algorithmic automation alters modern corporate workflows.",
-                "Preliminary studies reveal that unmonitored hiring algorithms introduce systematic demographic biases within enterprise recruitment pipelines.",
-                "Deploying ethical governance frameworks remains essential as companies transition from simple automation to fully agentic operations.",
-                "Chief information officers must implement comprehensive auditing tools to guarantee compliance with emerging global labor regulations."
+                "OpenAI officially released its GPT-5.5 model introducing advanced real-time reasoning and agentic execution capabilities.",
+                "The model features specialized multimodal interfaces to seamlessly parse complex visual data alongside code repositories.",
+                "Developers can leverage native API environments to build highly autonomous systems with reduced cognitive latency.",
+                "This release signals a critical shift toward persistent digital entities capable of executing complex professional tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "points": [
+                "Google open-sourced its production-grade Agent Executor runtime to streamline enterprise deployment of complex digital agents.",
+                "The framework provides specialized orchestration layers designed to resolve critical governance challenges during runtime operations.",
+                "Infrastructure teams can now execute parallel agent behaviors safely within sandboxed cloud development environments.",
+                "Engineers expect this open ecosystem to accelerate standardizations for scalable enterprise execution of automated workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: HARVEY LEGAL ALLIANCE",
+            "points": [
+                "Mistral AI announced a strategic partnership with Harvey to deliver highly specialized legal intelligence models.",
+                "The collaboration focuses on fine-tuning frontier open-source architectures to securely handle sensitive enterprise compliance requirements.",
+                "Corporate legal departments can deploy these tailored systems within private sovereign cloud architectures to preserve absolute privacy.",
+                "This maneuver establishes a clear path for open model ecosystems to displace proprietary legal tech alternatives."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AGENTIC DEVOPS INTEGRATION",
+            "heading": "MICROSOFT: AGENTIC WORKFLOW INTEGRATION",
             "points": [
-                "Microsoft integrates advanced autonomous software agents directly into its cloud development and deployment pipelines.",
-                "The updated workspace bridges corporate operations and engineering teams to resolve complex codebase issues within days.",
-                "Unifying development environments with agentic intelligence reduces technical debt by automating routine software refactoring cycles.",
-                "Engineering leads can accelerate feature shipment timelines by delegating repetitive maintenance tasks to reliable software agents."
+                "Microsoft and GitHub launched connected agent capabilities to automate software development workflows directly within Azure infrastructure.",
+                "The integrated system minimizes developer intervention by automatically resolving technical debt and complex repository refactoring tasks.",
+                "Enterprises can deploy these autonomous developer agents to scale product lifecycles without expanding human engineering resource allocations.",
+                "Chief technology officers expect agentic DevOps pipelines to redefine software engineering velocity and operational architecture limits."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: GPAI COMPLIANCE",
+            "heading": "XAI: STANDALONE COMPUTE TRADING",
             "points": [
-                "The European Commission issues critical draft guidelines detailing strict compliance obligations for general purpose intelligence models.",
-                "Model providers must comply with new transparency and risk management protocols starting by late summer.",
-                "Developing standardized compliance metrics ensures safer deployment pathways for advanced commercial technologies across continental markets.",
-                "Compliance officers must rapidly audit their existing training pipelines to meet the new statutory transparency requirements."
+                "Financial filings revealed that frontier AI labs are trading massive compute capacities directly with industry competitors.",
+                "This transactional behavior highlights a emerging standalone marketplace where raw processing power serves as primary capital.",
+                "Startups utilize these secondary infrastructure pipelines to bypass long lead times associated with primary hardware acquisition.",
+                "Analysts project this sovereign capacity trading will dictate the physical deployment velocity of next-generation model architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
