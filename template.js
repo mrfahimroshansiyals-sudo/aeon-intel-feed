@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SILICON AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "NEXT GEN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA AGENTIC CPU",
+            "heading": "IEEE SPECTRUM: JUNCTIONLESS TRANSISTORS DEVELOPED",
             "points": [
-                "NVIDIA launches the Vera CPU designed specifically to execute autonomous agentic workloads at frontier laboratories.",
-                "Architecture optimization delivers exceptional energy efficiency compared to traditional enterprise server chip offerings.",
-                "The hardware integrates seamlessly with BlueField data processing units to accelerate distributed agent pipelines.",
-                "Lab deployments will drive immediate performance gains for complex physical and conversational modeling tasks."
+                "Junctionless transistors provide a viable architectural pathway for fabricating high-performance three-dimensional integrated microchips.",
+                "Experimental fabrications demonstrate significant reductions in manufacturing complexity while boosting thermal dissipation efficiency.",
+                "This semiconductor design bypasses traditional junction doping limitations to enable dense vertical stacking structures.",
+                "Microchip fabricators will deploy this methodology to accelerate next-generation silicon density scaling paradigms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: VENICE 2NM PRODUCTION",
+            "heading": "OPENAI: GPT-5.5 ARCHITECTURE RELEASED",
             "points": [
-                "AMD initiates the production ramp of next-generation Venice EPYC processors using TSMC 2nm architecture.",
-                "The transition to advanced silicon processes increases performance scaling and lowers total ownership costs significantly.",
-                "Venice chips establish a highly efficient foundation for enterprise artificial intelligence and high-performance computing workloads.",
-                "Hardware delivery enables cloud operators to scale dense neural network deployments without exceeding power budgets."
+                "OpenAI has officially launched GPT-5.5 to power advanced reasoning and highly autonomous agent workflows.",
+                "Early developer benchmarks demonstrate massive efficiency gains in handling highly complex multi-step logical operations.",
+                "The architecture natively integrates continuous execution-level loops to sustain long-horizon programmatic tasks reliably.",
+                "Enterprise developers will transition from simple chat assistants to fully autonomous agentic processing pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
+            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST DEPLOYED",
             "points": [
-                "OpenAI releases GPT-5.5 to enhance complex software engineering and multi-modal reasoning across enterprise applications.",
-                "The model establishes superior benchmarks in code generation, agentic workflow execution, and logical puzzle solving.",
-                "Deep architectural updates improve context window processing speeds and lower API invocation latency for developers.",
-                "Enterprise customers gain access to refined tool use capabilities for managing highly autonomous agent workflows."
+                "Google DeepMind deployed Co-Scientist as an advanced multi-agent system designed to accelerate scientific research.",
+                "Operational testing confirms rapid generation and validation of complex biological hypotheses with minimal supervision.",
+                "The platform coordinates specialized research agents utilizing real-time synthesis of massive global scientific databases.",
+                "Research laboratories will implement this cooperative model to bypass traditional manual literature review stages."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "NVIDIA: VERA RUBIN DSX LAUNCHED",
             "points": [
-                "Google introduces an open-source Agent Executor to simplify the orchestration of autonomous agents in production.",
-                "The runtime environment standardizes governance, monitoring, and error handling for multi-agent systems across clouds.",
-                "Developer teams can now scale complex agent architectures without building custom deployment scaffolding from scratch.",
-                "Open standard integration ensures cross-platform compatibility and mitigates proprietary vendor lock-in for enterprise engineers."
+                "NVIDIA released the Vera Rubin DSX blueprint to optimize liquid cooling and maximize computational efficiency.",
+                "Data center operators can simulate entire facility lifecycles to reduce energy overhead by thirty percent.",
+                "The architecture integrates Omniverse digital twins to continuously monitor thermal spikes in real time.",
+                "Infrastructure engineers will leverage this design framework to deploy dense next-generation AI factories globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PAVONA: OPENTITAN SECURITY ROOT",
+            "heading": "AMD: VENICE 2NM TSMC PRODUCTION",
             "points": [
-                "Pavona launches an open-hardware ecosystem featuring OpenTitan to secure silicon roots of trust for servers.",
-                "The framework provides transparent and verifiable hardware security to protect sensitive artificial intelligence training environments.",
-                "Organizations can audit cryptographic identities directly at the physical chip level to prevent malicious firmware attacks.",
-                "This community initiative drives sovereign chip design adoption across highly regulated banking and defense computing centers."
+                "AMD announced the production ramp of its next-generation EPYC Venice processors on TSMC two-nanometer process.",
+                "The transition guarantees exceptional performance-per-watt upgrades across large-scale enterprise server clusters.",
+                "Leveraging advanced back-side power delivery ensures stable current flow under intensive computing workloads.",
+                "Cloud providers will utilize these processors to slash operational costs for intensive machine learning training."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: V4-PRO AGGRESSIVE PRICING",
+            "heading": "PAVONA: OPENTITAN CHIP ECOSYSTEM",
             "points": [
-                "DeepSeek aggressively slashes pricing for V4-Pro, triggering an intense cost-to-performance battle among large model providers.",
-                "Substantial operational cost reductions lower barriers to entry for startups deploying highly advanced conversational systems.",
-                "The price reduction forces western developers to optimize their pricing models and computational efficiency metrics.",
-                "Reduced token costs accelerate the widespread commercial deployment of context-dense analytical workflows across multiple industries."
+                "Pavona launched a highly secure open-hardware ecosystem utilizing root-of-trust components from the OpenTitan standard.",
+                "System deployments verify robust hardware-level defense mechanisms against sophisticated supply chain physical tampering attempts.",
+                "Open-source chip designs enable independent auditing to eliminate hidden backdoors within critical communications hardware.",
+                "Security-focused enterprises will adopt these open architectures to guarantee sovereign control over core cryptographic functions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: HARVEY LEGAL INTEGRATION",
+            "heading": "STANFORD HAI: SCALING LAW ARCHITECTURE",
             "points": [
-                "Mistral AI partners with Harvey to deliver highly specialized generative models to the global legal sector.",
-                "The collaboration optimizes pre-trained models for complex contract analysis, regulatory compliance, and document drafting pipelines.",
-                "Enterprise customers can run these legal tools securely on private clouds to maintain strict client confidentiality.",
-                "Legal operations witness dramatic speed increases in document review and deep case law research synthesis processes."
+                "Stanford HAI researchers introduced an optimized scaling methodology to reduce computational requirements during model training.",
+                "Training simulations demonstrate substantial compute savings while maintaining target performance levels across complex tasks.",
+                "The framework alters parameter allocation algorithms to maximize intelligence output per unit of energy expended.",
+                "Machine learning engineering teams will implement these mathematical insights to train high-performance models cost-effectively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
