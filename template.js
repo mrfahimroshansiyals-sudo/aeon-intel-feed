@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN COMPUTE",
-        "titleBlue": "UNLEASHED"
+        "titleWhite": "SILICON AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 SYSTEM RELEASE",
+            "heading": "NVIDIA: VERA AGENTIC CPU",
             "points": [
-                "OpenAI officially releases GPT-5.5 featuring enhanced reasoning and advanced multi-modal agentic execution capabilities.",
-                "Enterprise workflows gain massive speedups with native agent tools designed for complex autonomous production tasks.",
-                "The model integrates deeply into custom API pipelines allowing real-time context optimization and prompt engineering.",
-                "Developers can build safer agentic systems with advanced content provenance and security guardrails built-in."
+                "NVIDIA launches the Vera CPU designed specifically to execute autonomous agentic workloads at frontier laboratories.",
+                "Architecture optimization delivers exceptional energy efficiency compared to traditional enterprise server chip offerings.",
+                "The hardware integrates seamlessly with BlueField data processing units to accelerate distributed agent pipelines.",
+                "Lab deployments will drive immediate performance gains for complex physical and conversational modeling tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA AGENTIC CPU",
+            "heading": "AMD: VENICE 2NM PRODUCTION",
             "points": [
-                "Nvidia introduces the Vera CPU engineered specifically to accelerate agentic workloads across top-tier AI labs.",
-                "Hardware optimizations yield unmatched energy efficiency and throughput compared to traditional competitive multi-core server processors.",
-                "The chip utilizes an advanced architecture designed to handle complex reinforcement learning and real-time execution pipelines.",
-                "Top AI research institutes deploy Vera systems to scale their autonomous multi-agent production frameworks efficiently."
+                "AMD initiates the production ramp of next-generation Venice EPYC processors using TSMC 2nm architecture.",
+                "The transition to advanced silicon processes increases performance scaling and lowers total ownership costs significantly.",
+                "Venice chips establish a highly efficient foundation for enterprise artificial intelligence and high-performance computing workloads.",
+                "Hardware delivery enables cloud operators to scale dense neural network deployments without exceeding power budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: HARVEY LEGAL INTEGRATION",
+            "heading": "OPENAI: GPT-5.5 MODEL RELEASE",
             "points": [
-                "Mistral AI partners with Harvey to deliver highly tailored generative models for specialized legal industry workflows.",
-                "Legal enterprises automate complex document analysis and discovery processes while maintaining strict sovereign data privacy standards.",
-                "The partnership utilizes optimized open-source models fine-tuned on proprietary legal datasets for highly accurate reasoning.",
-                "Law firms deploy secure private cloud architectures to scale domain-specific intelligence without exposing sensitive client files."
+                "OpenAI releases GPT-5.5 to enhance complex software engineering and multi-modal reasoning across enterprise applications.",
+                "The model establishes superior benchmarks in code generation, agentic workflow execution, and logical puzzle solving.",
+                "Deep architectural updates improve context window processing speeds and lower API invocation latency for developers.",
+                "Enterprise customers gain access to refined tool use capabilities for managing highly autonomous agent workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SK HYNIX: REVENUE VALUATION SPIKE",
+            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
             "points": [
-                "SK Hynix reaches a historic one trillion dollar valuation fueled by global demand for high-end memory.",
-                "High-bandwidth memory supply constraints tighten worldwide as hardware manufacturers struggle to meet parabolic AI datacenter demands.",
-                "Advanced silicon integration technologies enable ultra-fast data transfer rates crucial for next-generation frontier model training clusters.",
-                "Semiconductor market volatility increases as retail investments surge alongside heavy hardware infrastructure capital expenditure cycles."
+                "Google introduces an open-source Agent Executor to simplify the orchestration of autonomous agents in production.",
+                "The runtime environment standardizes governance, monitoring, and error handling for multi-agent systems across clouds.",
+                "Developer teams can now scale complex agent architectures without building custom deployment scaffolding from scratch.",
+                "Open standard integration ensures cross-platform compatibility and mitigates proprietary vendor lock-in for enterprise engineers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SAMSUNG: VIETNAM CHIP TESTING",
+            "heading": "PAVONA: OPENTITAN SECURITY ROOT",
             "points": [
-                "Samsung details a one point five billion dollar investment for an advanced semiconductor testing facility in Vietnam.",
-                "Global chip supply chains diversify further to secure critical backend packaging pipelines against escalating geopolitical risks.",
-                "The state of the art facility will focus on high-performance testing of next-generation logic and memory modules.",
-                "Technological sovereignty increases across Southeast Asian production hubs as major players redistribute critical manufacturing operations globally."
+                "Pavona launches an open-hardware ecosystem featuring OpenTitan to secure silicon roots of trust for servers.",
+                "The framework provides transparent and verifiable hardware security to protect sensitive artificial intelligence training environments.",
+                "Organizations can audit cryptographic identities directly at the physical chip level to prevent malicious firmware attacks.",
+                "This community initiative drives sovereign chip design adoption across highly regulated banking and defense computing centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.reuters.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CHINA: STATE SURVEILLANCE OVERHAUL",
+            "heading": "DEEPSEEK: V4-PRO AGGRESSIVE PRICING",
             "points": [
-                "China modernizes its massive national surveillance infrastructure by deploying advanced real-time artificial intelligence tracking models.",
-                "Municipal police forces leverage legacy network upgrades to automate suspect identification and predictive behavior analysis systems.",
-                "Large-scale computer vision models run across distributed cloud nodes to process vast multi-modal stream data simultaneously.",
-                "Sovereign surveillance capabilities reach unprecedented precision raising critical international policy debates regarding privacy and ethics."
+                "DeepSeek aggressively slashes pricing for V4-Pro, triggering an intense cost-to-performance battle among large model providers.",
+                "Substantial operational cost reductions lower barriers to entry for startups deploying highly advanced conversational systems.",
+                "The price reduction forces western developers to optimize their pricing models and computational efficiency metrics.",
+                "Reduced token costs accelerate the widespread commercial deployment of context-dense analytical workflows across multiple industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: GENETIC DNA SYNTHESIS",
+            "heading": "MISTRAL AI: HARVEY LEGAL INTEGRATION",
             "points": [
-                "A novel synthesis technique drastically accelerates the time required to construct custom complex genetic DNA sequences.",
-                "Biological engineering laboratories scale up experimental throughput to develop targeted molecular therapeutics and synthetic materials faster.",
-                "Automated microfluidic platforms leverage computational modeling to eliminate traditional chemical bottlenecks in genetic sequence assembly.",
-                "Healthcare researchers gain direct pathways to prototype customized genomic therapies for previously untreatable hereditary medical conditions."
+                "Mistral AI partners with Harvey to deliver highly specialized generative models to the global legal sector.",
+                "The collaboration optimizes pre-trained models for complex contract analysis, regulatory compliance, and document drafting pipelines.",
+                "Enterprise customers can run these legal tools securely on private clouds to maintain strict client confidentiality.",
+                "Legal operations witness dramatic speed increases in document review and deep case law research synthesis processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
