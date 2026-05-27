@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC HARDWARE",
+        "titleWhite": "COGNITIVE ARCHITECTURAL",
         "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA CPU LAUNCH",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "NVIDIA officially deployed its Vera CPU architecture specifically designed to power autonomous AI agent workflows.",
-                "Top global laboratories integrated the high-throughput silicon to accelerate massive parallelized agent processing capabilities.",
-                "The custom architecture optimizes memory bandwidth efficiency to bypass legacy bottlenecks during model inference tasks.",
-                "Systems engineers predict immediate performance scaling across complex multi-agent execution pipelines using this hardware."
+                "OpenAI launches GPT-5.5 delivering advanced reasoning capabilities and specialized agentic system execution out of the box.",
+                "Mid-tier enterprises achieve massive computational efficiency improvements while slashing baseline orchestration costs across complex multi-modal workflows.",
+                "The underlying architecture decouples legacy context windows to prioritize direct algorithmic optimization and structured task execution.",
+                "Engineering teams can now deploy highly autonomous operational pipelines without relying on external orchestration middleware layers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: VENICE 2NM PRODUCTION",
+            "heading": "NVIDIA: VERA AGENTIC CPU",
             "points": [
-                "AMD commenced production ramp of its next-generation Venice EPYC processors utilizing TSMC advanced two-nanometer node technology.",
-                "The architecture targets high-density enterprise environments needing severe processing capabilities for local agentic computing stacks.",
-                "This deployment integrates robust local hardware platforms to secure decentralized edge networks without cloud latency dependencies.",
-                "Hardware architects project unprecedented energy efficiency gains across sovereign data centers deploying these microchips globally."
+                "NVIDIA introduces its first dedicated Vera CPU designed specifically to accelerate autonomous AI agent workloads.",
+                "Hardware acceleration reduces execution latency by forty percent compared to traditional high-performance general purpose server processors.",
+                "The chip integrates deep memory architectures to handle real-time context swapping across massive agent networks simultaneously.",
+                "Enterprise data centers will experience unprecedented thermal efficiency gains while scaling localized model deployment environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "GOOGLE: OPEN AGENT EXECUTOR",
             "points": [
-                "OpenAI officially released its GPT-5.5 model introducing advanced real-time reasoning and agentic execution capabilities.",
-                "The model features specialized multimodal interfaces to seamlessly parse complex visual data alongside code repositories.",
-                "Developers can leverage native API environments to build highly autonomous systems with reduced cognitive latency.",
-                "This release signals a critical shift toward persistent digital entities capable of executing complex professional tasks."
+                "Google releases an open-source Agent Executor runtime environment to streamline enterprise-grade agent orchestration in production.",
+                "System administrators report immediate stabilization of execution-level workloads across diverse hybrid multi-cloud containerized deployments.",
+                "The runtime directly addresses persistent governance challenges by providing deep visibility into autonomous agent decision trees.",
+                "Development teams can now standardize deployment pipelines using verified open-source components instead of proprietary frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "MISTRAL AI: HARVEY LEGAL CO-PILOT",
             "points": [
-                "Google open-sourced its production-grade Agent Executor runtime to streamline enterprise deployment of complex digital agents.",
-                "The framework provides specialized orchestration layers designed to resolve critical governance challenges during runtime operations.",
-                "Infrastructure teams can now execute parallel agent behaviors safely within sandboxed cloud development environments.",
-                "Engineers expect this open ecosystem to accelerate standardizations for scalable enterprise execution of automated workflows."
+                "Mistral AI partners with Harvey to deploy customized generative models tailored for high-stakes corporate legal operations.",
+                "Legal departments achieve significant productivity gains by automating contract analysis, compliance verification, and deep document auditing.",
+                "This integration utilizes highly secure private clouds ensuring absolute confidentiality and compliance with strict data regulations.",
+                "Corporate counsel can safely leverage localized model intelligence to accelerate complex case research without exposing sensitive information."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: HARVEY LEGAL ALLIANCE",
+            "heading": "DEVELOPERS: MODEL CONTEXT PROTOCOL",
             "points": [
-                "Mistral AI announced a strategic partnership with Harvey to deliver highly specialized legal intelligence models.",
-                "The collaboration focuses on fine-tuning frontier open-source architectures to securely handle sensitive enterprise compliance requirements.",
-                "Corporate legal departments can deploy these tailored systems within private sovereign cloud architectures to preserve absolute privacy.",
-                "This maneuver establishes a clear path for open model ecosystems to displace proprietary legal tech alternatives."
+                "Developers increasingly adopt Model Context Protocol to supply coding agents with highly relevant runtime context dynamically.",
+                "Technical teams observe dramatic reductions in token consumption while maintaining extreme precision during complex software engineering tasks.",
+                "The protocol establishes a standard bridge between diverse data silos and frontier intelligence models during execution.",
+                "Organizations will dramatically accelerate application modernization by decoupling contextual data pipelines from proprietary artificial intelligence architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AGENTIC WORKFLOW INTEGRATION",
+            "heading": "STANFORD HAI: BIAS DETECTION",
             "points": [
-                "Microsoft and GitHub launched connected agent capabilities to automate software development workflows directly within Azure infrastructure.",
-                "The integrated system minimizes developer intervention by automatically resolving technical debt and complex repository refactoring tasks.",
-                "Enterprises can deploy these autonomous developer agents to scale product lifecycles without expanding human engineering resource allocations.",
-                "Chief technology officers expect agentic DevOps pipelines to redefine software engineering velocity and operational architecture limits."
+                "Stanford HAI researchers demonstrate that automated hiring tools persistently generate systemic racial bias and candidate rejection patterns.",
+                "Enterprise recruiting platforms face immediate regulatory scrutiny as audit trails reveal deeply flawed predictive filtering mechanisms.",
+                "The findings highlight an urgent need for independent and highly transparent evaluation frameworks across corporate human resources.",
+                "Compliance officers must rapidly redesign screening workflows to align with strict evolving global artificial intelligence standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "XAI: STANDALONE COMPUTE TRADING",
+            "heading": "PAVONA: SECURE CHIP ECOSYSTEM",
             "points": [
-                "Financial filings revealed that frontier AI labs are trading massive compute capacities directly with industry competitors.",
-                "This transactional behavior highlights a emerging standalone marketplace where raw processing power serves as primary capital.",
-                "Startups utilize these secondary infrastructure pipelines to bypass long lead times associated with primary hardware acquisition.",
-                "Analysts project this sovereign capacity trading will dictate the physical deployment velocity of next-generation model architectures."
+                "Pavona launches a comprehensive open-hardware ecosystem to secure next-generation semiconductor architectures from physical-layer exploits.",
+                "Hardware designers achieve total architectural sovereignty while reducing prototyping lifecycles for highly customized mission-critical silicon products.",
+                "The open framework integrates direct cryptographic verification blocks straight into the core processor design pipeline.",
+                "Defense and aerospace manufacturers will rapidly migrate to audited silicon designs to mitigate geopolitical supply chain risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
