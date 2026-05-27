@@ -1,34 +1,98 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA EXPANSION",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "Google Cloud unveils Gemini 3.5 integrating frontier intelligence with direct system action capabilities for production.",
-                "Enterprise platforms now support Gemini Omni for multimodal input processing across heterogeneous data environments globally.",
-                "New Google AI Threat Defense protocols provide preemptive security measures against evolving adversary-led exploitation in models.",
-                "Businesses can now leverage GEAR program credits to accelerate deployment of enterprise-grade autonomous agentic workflows."
+                "OpenAI has officially launched its next-generation GPT-5.5 frontier model targeting complex multi-modal agent workflows.",
+                "The architecture introduces advanced reasoning patterns that natively support continuous execution without human intervention.",
+                "Enterprise infrastructure teams can now leverage this model for highly deterministic and production-grade logic gates.",
+                "The deployment signals a major acceleration in the industry's shift toward fully autonomous systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: AI FACTORY INFRASTRUCTURE",
+            "heading": "SNOWFLAKE: $6B AMAZON INFRASTRUCTURE",
             "points": [
-                "NVIDIA officially defines AI Factories as the fundamental new infrastructure standard for modern intelligence-based workloads.",
-                "The Vera CPU architecture demonstrates high-performance metrics specifically tuned for agentic reasoning and complex execution tasks.",
-                "Strategic focus shifts toward mass-scale compute clusters designed to sustain parabolic demand in global data center buildouts.",
-                "NVIDIA confirms deep integration of hardware-software stacks to optimize energy efficiency for large-scale autonomous training environments."
+                "Snowflake has executed a monumental six billion dollar cloud infrastructure agreement with Amazon.",
+                "The massive operational deal focuses on deploying agentic computing chips and scaling data lake platforms.",
+                "This deep strategic commitment underpins Snowflake's push to decouple legacy storage from active runtime pipelines.",
+                "Global enterprises will experience accelerated processing speeds for real-time generative AI analytical workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.bloomberg.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "DELL: $9.7B PENTAGON DEFENSE",
+            "points": [
+                "Dell has secured a highly competitive nine point seven billion dollar software contract with the Pentagon.",
+                "The multi-year initiative will modernize legacy defense operations by integrating secure edge computing technologies.",
+                "This strategic deployment reinforces federal trust in sovereign hardware systems amidst growing global technology competition.",
+                "The massive capital allocation will establish highly resilient and completely air-gapped data centers globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "META: SUBSCRIPTION AI SERVICES",
+            "points": [
+                "Meta is initiating private testing of premium AI subscription services with entry tiers priced monthly.",
+                "The pricing strategy targets a transition from ad-supported monetization to recurring direct software service revenue.",
+                "Premium tier subscribers will gain direct access to higher-throughput model endpoints and customizable context windows.",
+                "This major pricing pivot shifts the competitive dynamics of consumer-facing frontier model access worldwide."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CHINA: SURVEILLANCE INFRASTRUCTURE",
+            "points": [
+                "Local authorities in China have initiated a nationwide technical upgrade of their public surveillance network.",
+                "The modernization integrates advanced tracking models and deep learning engines directly into legacy camera systems.",
+                "This comprehensive technical overhaul aims to process multi-modal data streams in real time at the edge.",
+                "The transition highlights a growing focus on deploying sovereign hardware to power strategic national assets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: AI FACTORY ARCHITECTURE",
+            "points": [
+                "NVIDIA has announced a systematic shift toward AI Factories as the primary infrastructure for intelligence.",
+                "These specialized computing facilities utilize energy-efficient architectures to convert raw grid power into active tokens.",
+                "The framework aims to support continuous agent execution at scale across distributed global enterprise networks.",
+                "Enterprise partners are rapidly adopting this design to achieve real-time operational processing and automation."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AMD: AGENTIC COMPUTING INVESTMENTS",
-            "points": [
-                "AMD announces a massive 10 billion dollar capital injection into Taiwan to accelerate localized AI infrastructure capacity.",
-                "Production ramp-up for Venice processors on 2nm TSMC nodes targets next-generation agentic compute requirements for enterprises.",
-                "Integration of Ryzen AI Max PRO processors enables high-efficiency local inference capabilities on edge compute devices.",
-                "Shift in CPU and GPU equations suggests a pivot toward distributed execution models for future agentic software."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MISTRAL AI: FRONTIER MODEL TAILORING",
-            "points": [
-                "Mistral AI expands its enterprise offerings to include deep-context agents capable of adapting to specialized workflows.",
-                "New partnership models facilitate private, self-contained AI deployments for manufacturing and maritime logistics sectors worldwide.",
-                "Studio platform features provide end-to-end observability and governance for businesses managing complex, multi-agent AI ecosystems.",
-                "Applied AI teams deliver hands-on assistance to realize value across diverse regulatory and operational deployment environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TECHTARGET: GOVERNANCE EVOLUTION",
-            "points": [
-                "IT leaders are shifting focus from basic compliance to observability and trust-based decision ownership in AI.",
-                "Enterprise organizations cautiously trial agentic infrastructure while maintaining strict gatekeeping protocols for developer pipeline access.",
-                "Increased focus on AI risk management highlights the inadequacy of traditional security boundaries against autonomous machine actions.",
-                "CIO strategies now incorporate rigorous data management frameworks to prevent shadow AI and third-party data vulnerability."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "IEEE: SECURE CHIP ECOSYSTEMS",
-            "points": [
-                "Pavona launches an open-hardware ecosystem utilizing OpenTitan root-of-trust components to secure enterprise semiconductor architecture.",
-                "Junctionless transistor research reveals new scalable paths toward achieving 3D chip density and performance requirements.",
-                "Engineering standards are evolving to address the integration of AI models into virtual sensor modeling environments.",
-                "Technical maturity in autonomous trucking software highlights the intersection of AI safety and heavy transport operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "STANFORD HAI: AI MEASUREMENT GAP",
+            "heading": "SK HYNIX: $1T SEMICONDUCTOR",
             "points": [
-                "Recent research highlights a widening discrepancy between AI\u2019s technical capabilities and existing societal governance frameworks.",
-                "Stanford launches the AI and Organizations Lab to provide rigorous measurement of AI efficacy within workplace science.",
-                "Emerging evidence suggests automated hiring tools require tighter algorithmic bias monitoring to ensure systemic fairness in recruitment.",
-                "Academic-led studies push for transparent, context-specific benchmarks to replace fragmented, one-off AI evaluation methodologies."
+                "SK Hynix has joined Samsung and Micron in the prestigious trillion dollar valuation club.",
+                "The rapid financial ascent is driven by unprecedented global demand for high-end high-bandwidth memory chips.",
+                "This critical memory supply squeeze remains a primary bottleneck for scaling high-performance enterprise server infrastructure.",
+                "The massive market valuation reflects intense systemic competition to secure hardware components for frontier models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
