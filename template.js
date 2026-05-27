@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IEEE SPECTRUM: JUNCTIONLESS TRANSISTORS DEVELOPED",
+            "heading": "GOOGLE CLOUD: AGENTIC DATA EXPANSION",
             "points": [
-                "Junctionless transistors provide a viable architectural pathway for fabricating high-performance three-dimensional integrated microchips.",
-                "Experimental fabrications demonstrate significant reductions in manufacturing complexity while boosting thermal dissipation efficiency.",
-                "This semiconductor design bypasses traditional junction doping limitations to enable dense vertical stacking structures.",
-                "Microchip fabricators will deploy this methodology to accelerate next-generation silicon density scaling paradigms."
+                "Google Cloud unveils Gemini 3.5 integrating frontier intelligence with direct system action capabilities for production.",
+                "Enterprise platforms now support Gemini Omni for multimodal input processing across heterogeneous data environments globally.",
+                "New Google AI Threat Defense protocols provide preemptive security measures against evolving adversary-led exploitation in models.",
+                "Businesses can now leverage GEAR program credits to accelerate deployment of enterprise-grade autonomous agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.5 ARCHITECTURE RELEASED",
+            "heading": "NVIDIA: AI FACTORY INFRASTRUCTURE",
             "points": [
-                "OpenAI has officially launched GPT-5.5 to power advanced reasoning and highly autonomous agent workflows.",
-                "Early developer benchmarks demonstrate massive efficiency gains in handling highly complex multi-step logical operations.",
-                "The architecture natively integrates continuous execution-level loops to sustain long-horizon programmatic tasks reliably.",
-                "Enterprise developers will transition from simple chat assistants to fully autonomous agentic processing pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE DEEPMIND: CO-SCIENTIST DEPLOYED",
-            "points": [
-                "Google DeepMind deployed Co-Scientist as an advanced multi-agent system designed to accelerate scientific research.",
-                "Operational testing confirms rapid generation and validation of complex biological hypotheses with minimal supervision.",
-                "The platform coordinates specialized research agents utilizing real-time synthesis of massive global scientific databases.",
-                "Research laboratories will implement this cooperative model to bypass traditional manual literature review stages."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: VERA RUBIN DSX LAUNCHED",
-            "points": [
-                "NVIDIA released the Vera Rubin DSX blueprint to optimize liquid cooling and maximize computational efficiency.",
-                "Data center operators can simulate entire facility lifecycles to reduce energy overhead by thirty percent.",
-                "The architecture integrates Omniverse digital twins to continuously monitor thermal spikes in real time.",
-                "Infrastructure engineers will leverage this design framework to deploy dense next-generation AI factories globally."
+                "NVIDIA officially defines AI Factories as the fundamental new infrastructure standard for modern intelligence-based workloads.",
+                "The Vera CPU architecture demonstrates high-performance metrics specifically tuned for agentic reasoning and complex execution tasks.",
+                "Strategic focus shifts toward mass-scale compute clusters designed to sustain parabolic demand in global data center buildouts.",
+                "NVIDIA confirms deep integration of hardware-software stacks to optimize energy efficiency for large-scale autonomous training environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: VENICE 2NM TSMC PRODUCTION",
+            "id": 3,
+            "heading": "AMD: AGENTIC COMPUTING INVESTMENTS",
             "points": [
-                "AMD announced the production ramp of its next-generation EPYC Venice processors on TSMC two-nanometer process.",
-                "The transition guarantees exceptional performance-per-watt upgrades across large-scale enterprise server clusters.",
-                "Leveraging advanced back-side power delivery ensures stable current flow under intensive computing workloads.",
-                "Cloud providers will utilize these processors to slash operational costs for intensive machine learning training."
+                "AMD announces a massive 10 billion dollar capital injection into Taiwan to accelerate localized AI infrastructure capacity.",
+                "Production ramp-up for Venice processors on 2nm TSMC nodes targets next-generation agentic compute requirements for enterprises.",
+                "Integration of Ryzen AI Max PRO processors enables high-efficiency local inference capabilities on edge compute devices.",
+                "Shift in CPU and GPU equations suggests a pivot toward distributed execution models for future agentic software."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "PAVONA: OPENTITAN CHIP ECOSYSTEM",
+            "id": 4,
+            "heading": "MISTRAL AI: FRONTIER MODEL TAILORING",
             "points": [
-                "Pavona launched a highly secure open-hardware ecosystem utilizing root-of-trust components from the OpenTitan standard.",
-                "System deployments verify robust hardware-level defense mechanisms against sophisticated supply chain physical tampering attempts.",
-                "Open-source chip designs enable independent auditing to eliminate hidden backdoors within critical communications hardware.",
-                "Security-focused enterprises will adopt these open architectures to guarantee sovereign control over core cryptographic functions."
+                "Mistral AI expands its enterprise offerings to include deep-context agents capable of adapting to specialized workflows.",
+                "New partnership models facilitate private, self-contained AI deployments for manufacturing and maritime logistics sectors worldwide.",
+                "Studio platform features provide end-to-end observability and governance for businesses managing complex, multi-agent AI ecosystems.",
+                "Applied AI teams deliver hands-on assistance to realize value across diverse regulatory and operational deployment environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TECHTARGET: GOVERNANCE EVOLUTION",
+            "points": [
+                "IT leaders are shifting focus from basic compliance to observability and trust-based decision ownership in AI.",
+                "Enterprise organizations cautiously trial agentic infrastructure while maintaining strict gatekeeping protocols for developer pipeline access.",
+                "Increased focus on AI risk management highlights the inadequacy of traditional security boundaries against autonomous machine actions.",
+                "CIO strategies now incorporate rigorous data management frameworks to prevent shadow AI and third-party data vulnerability."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "IEEE: SECURE CHIP ECOSYSTEMS",
+            "points": [
+                "Pavona launches an open-hardware ecosystem utilizing OpenTitan root-of-trust components to secure enterprise semiconductor architecture.",
+                "Junctionless transistor research reveals new scalable paths toward achieving 3D chip density and performance requirements.",
+                "Engineering standards are evolving to address the integration of AI models into virtual sensor modeling environments.",
+                "Technical maturity in autonomous trucking software highlights the intersection of AI safety and heavy transport operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,12 +103,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "STANFORD HAI: SCALING LAW ARCHITECTURE",
+            "heading": "STANFORD HAI: AI MEASUREMENT GAP",
             "points": [
-                "Stanford HAI researchers introduced an optimized scaling methodology to reduce computational requirements during model training.",
-                "Training simulations demonstrate substantial compute savings while maintaining target performance levels across complex tasks.",
-                "The framework alters parameter allocation algorithms to maximize intelligence output per unit of energy expended.",
-                "Machine learning engineering teams will implement these mathematical insights to train high-performance models cost-effectively."
+                "Recent research highlights a widening discrepancy between AI\u2019s technical capabilities and existing societal governance frameworks.",
+                "Stanford launches the AI and Organizations Lab to provide rigorous measurement of AI efficacy within workplace science.",
+                "Emerging evidence suggests automated hiring tools require tighter algorithmic bias monitoring to ensure systemic fairness in recruitment.",
+                "Academic-led studies push for transparent, context-specific benchmarks to replace fragmented, one-off AI evaluation methodologies."
             ],
             "imageUrl": "",
             "tags": [
