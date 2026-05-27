@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "SNOWFLAKE: AWS CLOUD INTEGRATION",
             "points": [
-                "OpenAI has officially launched its next-generation GPT-5.5 frontier model targeting complex multi-modal agent workflows.",
-                "The architecture introduces advanced reasoning patterns that natively support continuous execution without human intervention.",
-                "Enterprise infrastructure teams can now leverage this model for highly deterministic and production-grade logic gates.",
-                "The deployment signals a major acceleration in the industry's shift toward fully autonomous systems."
+                "Snowflake secured a six billion dollar partnership with Amazon Web Services to accelerate next-generation agentic computing frameworks.",
+                "The enterprise-level agreement triggers a massive thirty-six percent product-revenue acceleration across multiple globally distributed cloud environments.",
+                "Data architecture operations migrate directly toward agentic processing layers, reducing latency while maximizing multi-cloud data warehousing pipelines.",
+                "Strategic decision-makers will leverage the unified engine to deploy high-throughput autonomous workflows across hybrid transactional systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SNOWFLAKE: $6B AMAZON INFRASTRUCTURE",
+            "heading": "META: SUBSCRIPTION MODEL LAUNCH",
             "points": [
-                "Snowflake has executed a monumental six billion dollar cloud infrastructure agreement with Amazon.",
-                "The massive operational deal focuses on deploying agentic computing chips and scaling data lake platforms.",
-                "This deep strategic commitment underpins Snowflake's push to decouple legacy storage from active runtime pipelines.",
-                "Global enterprises will experience accelerated processing speeds for real-time generative AI analytical workloads."
+                "Meta initiated testing of artificial intelligence subscription tiers starting at approximately eight dollars monthly for advanced tools.",
+                "Zuckerberg confirmed that launching a proprietary cloud computing business infrastructure model is actively under structural consideration.",
+                "The deployment moves Meta away from purely advertising-driven models toward robust enterprise-grade transactional software subscriptions.",
+                "Corporate operators gain predictable monetization frameworks for scaling customized large language model operations across consumer applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.bloomberg.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DELL: $9.7B PENTAGON DEFENSE",
+            "heading": "DELL: DEFENSE CONTRACT SECURED",
             "points": [
-                "Dell has secured a highly competitive nine point seven billion dollar software contract with the Pentagon.",
-                "The multi-year initiative will modernize legacy defense operations by integrating secure edge computing technologies.",
-                "This strategic deployment reinforces federal trust in sovereign hardware systems amidst growing global technology competition.",
-                "The massive capital allocation will establish highly resilient and completely air-gapped data centers globally."
+                "Dell secured a massive nine point seven billion dollar software contract with the United States Pentagon.",
+                "The defense integration optimizes federal network computing architectures, deploying robust software layers across secure military operations.",
+                "Strategically aligning with state administrations empowers hardware giants to capture substantial multi-year sovereign public sector revenue streams.",
+                "Military IT leaders will utilize modernized edge infrastructure configurations to accelerate tactical secure data processing systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "META: SUBSCRIPTION AI SERVICES",
+            "heading": "SK HYNIX: VALUATION MILESTONE",
             "points": [
-                "Meta is initiating private testing of premium AI subscription services with entry tiers priced monthly.",
-                "The pricing strategy targets a transition from ad-supported monetization to recurring direct software service revenue.",
-                "Premium tier subscribers will gain direct access to higher-throughput model endpoints and customizable context windows.",
-                "This major pricing pivot shifts the competitive dynamics of consumer-facing frontier model access worldwide."
+                "SK Hynix officially joined the prestigious one trillion dollar market valuation tier alongside Samsung and Micron.",
+                "Exploding global demand for high-bandwidth memory architectures optimized for next-generation AI chipsets propelled the massive stock rally.",
+                "Extreme supply tightness in hardware fabrication lines drives long-term pricing leverage for advanced hardware component manufacturers.",
+                "Global server developers must navigate persistent structural memory shortages by securing long-term allocation agreements with top manufacturers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CHINA: SURVEILLANCE INFRASTRUCTURE",
+            "heading": "KYNDRYL: SOVEREIGN ACQUISITION BLOCKED",
             "points": [
-                "Local authorities in China have initiated a nationwide technical upgrade of their public surveillance network.",
-                "The modernization integrates advanced tracking models and deep learning engines directly into legacy camera systems.",
-                "This comprehensive technical overhaul aims to process multi-modal data streams in real time at the edge.",
-                "The transition highlights a growing focus on deploying sovereign hardware to power strategic national assets."
+                "The Dutch government formally blocked Kyndryl from acquiring IT services provider Solvinity due to public security risks.",
+                "Solvinity manages critical digital identity infrastructure, making the transaction a highly sensitive point of national interest.",
+                "European regulatory authorities are increasingly prioritizing tech sovereignty by auditing international mergers involving critical local infrastructures.",
+                "Enterprise consolidators must prepare for stringent security audits when proposing mergers that impact foundational public sector networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: AI FACTORY ARCHITECTURE",
+            "heading": "NVIDIA: TAIWAN SEMICONDUCTOR EXPANSION",
             "points": [
-                "NVIDIA has announced a systematic shift toward AI Factories as the primary infrastructure for intelligence.",
-                "These specialized computing facilities utilize energy-efficient architectures to convert raw grid power into active tokens.",
-                "The framework aims to support continuous agent execution at scale across distributed global enterprise networks.",
-                "Enterprise partners are rapidly adopting this design to achieve real-time operational processing and automation."
+                "Nvidia signaled a planned investment of one hundred fifty billion dollars annually into the Taiwan manufacturing ecosystem.",
+                "The massive capital deployment targets advanced silicon manufacturing, assembly facilities, and localized AI computing research centers.",
+                "This strategic funding reinforces Taiwan's position as the primary epicenter for physical AI hardware production lines.",
+                "Semiconductor architects expect the massive investment to stabilize high-end GPU supply chains amidst rising global geopolitical tensions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SK HYNIX: $1T SEMICONDUCTOR",
+            "heading": "MISTRAL AI: LEGAL SECTOR EXPANSION",
             "points": [
-                "SK Hynix has joined Samsung and Micron in the prestigious trillion dollar valuation club.",
-                "The rapid financial ascent is driven by unprecedented global demand for high-end high-bandwidth memory chips.",
-                "This critical memory supply squeeze remains a primary bottleneck for scaling high-performance enterprise server infrastructure.",
-                "The massive market valuation reflects intense systemic competition to secure hardware components for frontier models."
+                "Mistral AI entered a strategic partnership with Harvey to deliver specialized generative models for legal industry automation.",
+                "The collaboration adapts sovereign open-source architectures to handle complex compliance documentation and regulatory analysis workflows securely.",
+                "Targeted domain verticalization allows lean AI startups to challenge enterprise giants by delivering highly specialized software tools.",
+                "Corporate legal departments will accelerate contract analysis pipelines while maintaining strict data privacy inside private cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.reuters.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
