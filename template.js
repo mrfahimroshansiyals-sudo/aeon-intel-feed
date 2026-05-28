@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AGENT",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "AGENTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 EMERGENCE",
+            "heading": "ANTHROPIC: VALUATION SURGE",
             "points": [
-                "OpenAI launches GPT-5.5 to deliver advanced reasoning capabilities across complex enterprise workflows and deep multi-modal operations.",
-                "Real-time contextual processing efficiency decreases latency by forty percent while scaling active model transaction volumes globally.",
-                "The model integrates native code generation pipelines to assist developers in managing sovereign digital intelligence deployments safely.",
-                "Enterprises can leverage this architecture to construct highly autonomous agentic systems with minimal manual operational oversight."
+                "Anthropic finalizes a monumental sixty-five billion dollar funding round, elevating its market valuation to nearly one trillion dollars.",
+                "This capital influx positions the Claude creator ahead of OpenAI, disrupting established venture capital rankings within Silicon Valley.",
+                "The unprecedented funding round highlights the soaring commercial demand and hyper-scale investment pouring into enterprise-grade generative intelligence platforms.",
+                "Analysts predict this sovereign capitalization will accelerate the global deployment of long-horizon autonomous agents across heavily regulated sectors."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "points": [
+                "OpenAI officially launches GPT-5.5, introducing frontier-level reasoning capabilities and deeply integrated multi-modal multi-agent system execution frameworks.",
+                "Early benchmarks show massive performance gains in processing complex logical pipelines and long-context enterprise application tasks simultaneously.",
+                "This architectural evolution bridges the historical gap between static conversational assistance and real-time autonomous operational execution.",
+                "Developers can immediately leverage these enhanced API endpoints to engineer highly resilient, autonomous workflows for production environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Anthropic releases Claude Opus 4.8 designed to execute complex coding operations and autonomous agentic workflows seamlessly.",
-                "Early performance benchmarks demonstrate substantial accuracy improvements in long-running professional tasks and massive multi-modal file parsing.",
-                "This upgrade reinforces the enterprise commitment to securing critical software pipelines through rigorous responsible scaling policies.",
-                "Global organizations can deploy the advanced model directly within regulated clouds to guarantee sovereign data privacy compliance."
+                "Anthropic deploys Claude Opus 4.8, boosting capabilities across complex code generation, logical reasoning, and programmatic tasks.",
+                "Operational metrics confirm significant improvements in consistency, facilitating the reliable execution of highly complex, long-running agentic workflows.",
+                "This model release targets enterprise environments requiring strict adherence to intricate data processing and software engineering guidelines.",
+                "Enterprise architects can utilize this updated model to safely automate complex back-office operations and legacy system modernization."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "SNOWFLAKE: NATOMA ACQUISITION",
+            "id": 4,
+            "heading": "SNOWFLAKE: GOVERNANCE ACQUISITION",
             "points": [
-                "Snowflake acquires Natoma to build a comprehensive Model Context Protocol orchestration layer for complex agentic workflows.",
-                "The integration enables CIOs to govern multi-agent operations securely across highly heterogeneous and distributed enterprise systems.",
-                "This strategic transaction positions Snowflake as the primary runtime coordinator for autonomous corporate AI systems globally.",
-                "System administrators gain deep visibility to track execution safety and enforce strict real-time operational guardrails instantly."
+                "Snowflake acquires Natoma, establishing a native governance layer for orchestrating multi-agent systems across highly heterogeneous enterprise data environments.",
+                "The strategic transaction addresses critical security bottlenecks by ensuring seamless context engineering and secure data-sharing protocol compliance.",
+                "By positioning itself as the orchestration foundation, Snowflake aims to simplify the secure deployment of sovereign business agents.",
+                "Chief Information Officers can leverage this acquisition to mitigate operational risks associated with unregulated, cross-system autonomous agent actions."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ROBINHOOD: AGENTIC TRADING DEPLOYMENT",
+            "id": 5,
+            "heading": "AWS: OPENSEARCH REBUILD",
             "points": [
-                "Robinhood introduces autonomous trading features enabling AI agents to execute financial transactions within highly regulated environments.",
-                "The pioneering move establishes a regulatory precedent that will encourage global fintech institutions to deploy agentic models.",
-                "Financial developers can program custom investment agents that react to market shifts at machine speed safely.",
-                "The breakthrough signals a shift toward fully autonomous capital allocation systems operating with automated risk mitigation protocols."
+                "Amazon Web Services completely rebuilds OpenSearch Serverless, introducing advanced agent skills to optimize enterprise information retrieval systems.",
+                "The overhaul drastically boosts query speeds and system scalability, establishing OpenSearch as a critical infrastructure layer for agents.",
+                "Integrating native agent skills directly into the database engine eliminates latency and simplifies semantic search deployment pipelines.",
+                "Enterprise development teams can leverage these serverless capabilities to rapidly build context-aware, highly responsive, scale-ready autonomous search applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,45 +86,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "STARBURST: DISTRIBUTED AI PLATFORM",
-            "points": [
-                "Starburst launches an advanced platform extending agentic AI capabilities directly to highly distributed multi-cloud data storage systems.",
-                "Organizations can build predictive applications without incurring the high costs and operational risks of moving enterprise datasets.",
-                "The architecture enforces decentralized processing algorithms that keep sensitive corporate information secure within its native environment.",
-                "Engineers can immediately query large data lakes to accelerate model training cycles and enhance decision-making speeds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "NVIDIA: ROBOTICS SIMULATION ADVANCEMENT",
+            "heading": "ROBINHOOD: AGENTIC TRADING",
             "points": [
-                "NVIDIA Research delivers a technical breakthrough transitioning physical embodied AI systems from simulation directly to real-world deployment.",
-                "Robotic arms leverage Jetson edge processors to interpret complex natural language instructions and coordinate mechanical movements autonomously.",
-                "The open-source pipeline lowers development costs significantly while accelerating international hardware manufacturing innovation for industrial robotics.",
-                "Global factories can integrate these autonomous manipulation models to streamline assembly pipelines with minimal human physical training."
+                "Robinhood announces plans to permit autonomous AI agents to execute financial trades, initiating a paradigm shift in retail finance.",
+                "This capability allows software entities to manage investment portfolios directly, signaling a massive trend toward fully automated asset management.",
+                "The integration of programmatic trading interfaces for AI agents marks the convergence of agentic workflows with consumer capital markets.",
+                "Regulators and compliance officers must now establish strict oversight frameworks to monitor algorithmic market behavior and programmatic liquidity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SNOWFLAKE: AMAZON DATA COOPERATIVE",
+            "heading": "IBM: QUANTUM INVESTMENT",
             "points": [
-                "Snowflake secures a major strategic cloud agreement with Amazon Web Services to accelerate scalable model deployment options.",
-                "Quarterly financial performance spikes thirty-seven percent as global enterprise spending on cloud-native intelligence platforms increases rapidly.",
-                "The partnership streamlines massive data storage integration processes for clients building high-throughput predictive analytics systems.",
-                "Corporate decision-makers can leverage this joint infrastructure to launch resilient machine learning pipelines across global markets."
+                "IBM pledges ten billion dollars to quantum computing development, accelerating hardware scaling and post-quantum cryptographic defense research.",
+                "The strategic investment follows the disruptive release of Anthropic's \"Mythos,\" triggering an immediate industry-wide cybersecurity modernization push.",
+                "IBM aims to deploy resilient quantum-safe architectures that protect sensitive enterprise infrastructures against machine-speed cryptographic vulnerabilities.",
+                "Tech leaders must quickly adapt defensive engineering strategies to protect legacy software stacks from evolving agent-led exploits."
             ],
             "imageUrl": "",
             "tags": [
