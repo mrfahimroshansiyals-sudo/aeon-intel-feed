@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT GEN AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 LAUNCH",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "OpenAI officially launches its next-generation GPT-5.5 model, bringing enhanced multi-modal capabilities and agentic reasoning systems.",
-                "The architecture significantly reduces processing latency while scaling parameters to improve long-context understanding across complex tasks.",
-                "This model introduces native agentic workflows that allow autonomous systems to execute multi-step programmatic objectives seamlessly.",
-                "Enterprise deployment of the model begins immediately through API endpoints, targeting complex professional software engineering workflows."
+                "OpenAI officially releases its next-generation GPT-5.5 model alongside ChatGPT Images 2.0 for advanced multimodal tasks.",
+                "The system dramatically improves voice intelligence capabilities and integrates content provenance features to secure public interactions.",
+                "This release marks a shift toward specialized agentic frameworks capable of reasoning over complex industrial environments.",
+                "Enterprises will transition from simple chatbots to autonomous agent structures that manage intricate transaction lifecycles safely."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: SILICON EXPLORATION",
+            "heading": "SNOWFLAKE: INFRASTRUCTURE EXPANSION",
             "points": [
-                "Mistral AI announces plans to explore custom chip designs to bypass current global hardware allocation constraints.",
-                "The European startup seeks to optimize proprietary models directly on custom silicon to maximize compute efficiency ratios.",
-                "This strategic pivot aims to establish architectural sovereignty while reducing dependency on standard cloud infrastructure providers.",
-                "Engineering teams will focus on developing custom accelerators tailored specifically for localized small-language model operations."
+                "Snowflake partners deeply with Amazon Web Services to execute massive data cloud operations at global enterprise scale.",
+                "The strategic cloud alliance secures a massive six billion dollar commitment for cloud database and compute infrastructure.",
+                "This expansion ensures low-latency execution of high-volume analytical workloads across distributed hybrid cloud storage tiers globally.",
+                "Organizations will access deeper data pipelines and seamless scaling for large-scale enterprise AI model training runs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "heading": "NVIDIA: VERA AGENTIC HARDWARE",
             "points": [
-                "NVIDIA delivers its first agent-focused Vera CPU to top research laboratories for initial high-performance computing testing.",
-                "The architecture optimizes memory bandwidth and processing speed specifically to support autonomous cognitive agent decision-making loops.",
-                "Early benchmarks indicate massive energy efficiency gains compared to standard host processors running heavy neural network workloads.",
-                "This silicon release accelerates the transition of global data centers into highly integrated AI factories of intelligence."
+                "NVIDIA ships its first dedicated Vera CPU designed purposefully to power autonomous agent workflows in laboratories.",
+                "The processor optimizes token processing efficiency per watt to outperform legacy compute architectures in agentic workloads.",
+                "This silicon release establishes physical infrastructure optimized for real-time model training and high-volume agent execution demands.",
+                "AI laboratories will rapidly deploy more responsive physical robotic agents and complex self-improving software systems globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: VENICE 2NM PROCESS",
+            "heading": "AMD: VENICE 2NM PRODUCTION",
             "points": [
-                "AMD announces the production ramp of its next-generation Venice EPYC processor utilizing TSMC's advanced 2nm technology.",
-                "The chip architecture significantly boosts energy efficiency and transistor density to manage extreme modern data center workloads.",
-                "Integrating 2nm technology enables unprecedented computing speeds for dense transformer networks and massive cloud infrastructure deployments.",
-                "This hardware milestone positions the organization to secure major design wins within upcoming sovereign AI cloud environments."
+                "AMD initiates the production ramp of its next-generation Venice EPYC processors leveraging advanced TSMC two-nanometer process technology.",
+                "Integrating two-nanometer architecture yields significant thermal performance gains and minimizes power draw across dense datacenter clusters.",
+                "The silicon development leverages innovative backside power delivery mechanisms to support high-performance computing and massive workloads.",
+                "Hyperscalers will run large-scale foundational architectures with dramatically reduced operational footprints and lower carbon emissions."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "STANFORD UNIVERSITY: INSTITUTE MERGER",
+            "heading": "SNOWFLAKE: NATOMA ACQUISITION",
             "points": [
-                "Stanford University merges its HAI research group with the Data Science initiative to catalyze interdisciplinary AI breakthroughs.",
-                "James Landay assumes leadership of the unified entity, aiming to foster open academic evaluation of emerging models.",
-                "The restructuring pools substantial computing resources and researcher talents to address critical data transparency challenges worldwide.",
-                "This consolidation establishes a highly comprehensive academic framework to evaluate the societal and national security impacts of AI."
+                "Snowflake acquires Natoma to embed Model Context Protocol capabilities directly into its native data governance ecosystem.",
+                "The transaction enables enterprise CIOs to orchestrate complex agentic workflows spanning across highly heterogeneous software databases.",
+                "Integrating this protocol resolves traditional metadata bottlenecks and establishes unified security controls for autonomous software systems.",
+                "Enterprise developers will deploy secure agent networks without rebuilding legacy data systems or compromising operational compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: INDIA ECOSYSTEM EXPANSION",
+            "heading": "MISTRAL AI: SILICON ENGINEERING",
             "points": [
-                "ASML establishes a strategic partnership with Tata Electronics to develop a robust semiconductor manufacturing ecosystem in India.",
-                "This agreement accelerates the construction of domestic fabrication facilities by securing advanced lithography equipment and technical expertise.",
-                "The initiative diversifies the global silicon supply chain and reduces geopolitical risk associated with concentrated hardware manufacturing.",
-                "This collaboration establishes a crucial hardware foundation to support long-term sovereign high-performance computing infrastructure development globally."
+                "Mistral AI plans exploration of custom silicon chip designs to accelerate proprietary foundation model training runs.",
+                "Developing in-house hardware will insulate the software firm from semiconductor supply constraints and lower overall execution costs.",
+                "This step reflects a growing trend of sovereign AI builders establishing vertical integration over their infrastructure stack.",
+                "Cloud providers must prepare for highly specialized, model-optimized hardware arrays competing directly with generalized computing processors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHTARGET: OPENAI DAYBREAK SECURITY",
+            "heading": "KIRKLAND & ELLIS: ENTERPRISE COGNITION",
             "points": [
-                "Security researchers examine OpenAI's Daybreak platform, demonstrating both accelerated vulnerability discovery and increased automated exploitation capabilities.",
-                "The tool enables automated vulnerability scanning but simultaneously raises critical accountability concerns among enterprise security operation teams.",
-                "This technology triggers an AI-driven arms race, forcing defenders to adopt machine-speed response systems to counter threats.",
-                "Cybersecurity organizations must transition from passive defense models to real-time agentic system monitoring to protect data assets."
+                "Global law firm Kirkland & Ellis commits five hundred million dollars to build proprietary artificial intelligence infrastructure.",
+                "The investment aims to encapsulate the firm\u2019s collective lawyer intelligence within an private secure legal technology platform.",
+                "This move demonstrates how highly regulated elite firms are prioritizing sovereign software assets over generic commercial solutions.",
+                "Traditional professional service business models will rapidly transform as proprietary intelligent platforms automate deep analysis processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
