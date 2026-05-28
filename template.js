@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN HARDWARE",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "COGNITIVE INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 LAUNCH",
             "points": [
-                "NVIDIA deploys its first custom Vera CPU engineered specifically to accelerate agentic AI workloads in major labs.",
-                "The specialized silicon architecture delivers major efficiency gains over traditional processors during high-throughput agent execution pipelines.",
-                "Enterprise data centers can now seamlessly integrate heterogeneous CPU-GPU compute clusters for real-time model training tasks.",
-                "System architects predict rapid adoption of agent-optimized hardware to bypass traditional performance bottlenecks in large-scale deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AMD: EPYC VENICE PRODUCTION",
-            "points": [
-                "AMD initiates the high-volume production ramp of its next-generation Venice EPYC processors utilizing TSMC two-nanometer process technology.",
-                "The migration to two-nanometer nodes delivers substantial performance-per-watt improvements across cloud and enterprise data center environments.",
-                "System designers gain enhanced compute density and memory bandwidth necessary for executing complex localized generative model operations.",
-                "This manufacturing shift secures AMD stable hardware pipelines to meet surging global demand for high-performance AI infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE: AGENT EXECUTOR OPEN-SOURCED",
-            "points": [
-                "Google releases its open-source Agent Executor framework to simplify the deployment of autonomous systems within enterprise environments.",
-                "Operational teams can leverage standardized execution pathways to safely manage complex multi-agent workflows across distributed cloud networks.",
-                "The software architecture provides critical guardrails and trace monitoring capabilities to ensure highly reliable production agent performance.",
-                "Enterprise developers gain a robust foundation for building predictable action-oriented applications while reducing overall engineering complexity."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
-            "points": [
-                "OpenAI officially introduces its GPT-5.5 model family designed to deliver advanced reasoning and highly autonomous agent orchestration capabilities.",
-                "The frontier model architecture optimizes token consumption and execution latency for enterprise-grade conversational and transactional workloads.",
-                "Developers can leverage enhanced API endpoints to integrate complex multi-step reasoning processes into legacy software ecosystems.",
-                "Industry analysts expect this release to accelerate the deployment of deeply integrated autonomous systems across global markets."
+                "OpenAI officially launches its next-generation GPT-5.5 model, bringing enhanced multi-modal capabilities and agentic reasoning systems.",
+                "The architecture significantly reduces processing latency while scaling parameters to improve long-context understanding across complex tasks.",
+                "This model introduces native agentic workflows that allow autonomous systems to execute multi-step programmatic objectives seamlessly.",
+                "Enterprise deployment of the model begins immediately through API endpoints, targeting complex professional software engineering workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "PENTAGON: MICROSOFT CLOUD CONTRACT",
+            "id": 2,
+            "heading": "MISTRAL AI: SILICON EXPLORATION",
             "points": [
-                "The Pentagon awards Microsoft a nine point seven billion dollar cloud contract to streamline software license sprawl.",
-                "This massive defense agreement consolidates legacy IT systems under a unified and secure enterprise cloud management framework.",
-                "Military operations gain enhanced data interoperability and advanced threat intelligence capabilities through integrated security operations center platforms.",
-                "Defense and engineering stakeholders predict this consolidation will establish strong baseline compliance standards for future federal acquisitions."
+                "Mistral AI announces plans to explore custom chip designs to bypass current global hardware allocation constraints.",
+                "The European startup seeks to optimize proprietary models directly on custom silicon to maximize compute efficiency ratios.",
+                "This strategic pivot aims to establish architectural sovereignty while reducing dependency on standard cloud infrastructure providers.",
+                "Engineering teams will focus on developing custom accelerators tailored specifically for localized small-language model operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.reuters.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "points": [
+                "NVIDIA delivers its first agent-focused Vera CPU to top research laboratories for initial high-performance computing testing.",
+                "The architecture optimizes memory bandwidth and processing speed specifically to support autonomous cognitive agent decision-making loops.",
+                "Early benchmarks indicate massive energy efficiency gains compared to standard host processors running heavy neural network workloads.",
+                "This silicon release accelerates the transition of global data centers into highly integrated AI factories of intelligence."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: VENICE 2NM PROCESS",
+            "points": [
+                "AMD announces the production ramp of its next-generation Venice EPYC processor utilizing TSMC's advanced 2nm technology.",
+                "The chip architecture significantly boosts energy efficiency and transistor density to manage extreme modern data center workloads.",
+                "Integrating 2nm technology enables unprecedented computing speeds for dense transformer networks and massive cloud infrastructure deployments.",
+                "This hardware milestone positions the organization to secure major design wins within upcoming sovereign AI cloud environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "STANFORD UNIVERSITY: INSTITUTE MERGER",
+            "points": [
+                "Stanford University merges its HAI research group with the Data Science initiative to catalyze interdisciplinary AI breakthroughs.",
+                "James Landay assumes leadership of the unified entity, aiming to foster open academic evaluation of emerging models.",
+                "The restructuring pools substantial computing resources and researcher talents to address critical data transparency challenges worldwide.",
+                "This consolidation establishes a highly comprehensive academic framework to evaluate the societal and national security impacts of AI."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PAVONA: OPENTITAN CHIP ECOSYSTEM",
+            "heading": "ASML: INDIA ECOSYSTEM EXPANSION",
             "points": [
-                "Pavona launches a collaborative open-hardware ecosystem utilizing secure OpenTitan root-of-trust components for silicon-level security assurance.",
-                "Hardware developers can now verify physical integrity of silicon designs to prevent supply chain tampering and unauthorized firmware execution.",
-                "The open framework establishes decentralized security blueprints for manufacturing tamper-resistant chips used in highly sensitive environments.",
-                "Security engineers expect open-source silicon to redefine trust standards for critical computing infrastructure and cloud servers worldwide."
+                "ASML establishes a strategic partnership with Tata Electronics to develop a robust semiconductor manufacturing ecosystem in India.",
+                "This agreement accelerates the construction of domestic fabrication facilities by securing advanced lithography equipment and technical expertise.",
+                "The initiative diversifies the global silicon supply chain and reduces geopolitical risk associated with concentrated hardware manufacturing.",
+                "This collaboration establishes a crucial hardware foundation to support long-term sovereign high-performance computing infrastructure development globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TATA: ASML SEMICONDUCTOR PARTNERSHIP",
+            "heading": "TECHTARGET: OPENAI DAYBREAK SECURITY",
             "points": [
-                "Tata Electronics and ASML establish a strategic partnership to develop India's emerging semiconductor manufacturing and lithography ecosystem.",
-                "The collaboration delivers advanced lithography training and technical support to accelerate local fabrication facility construction schedules.",
-                "Integrating European precision engineering with local manufacturing capabilities strengthens global supply chain resilience for critical silicon components.",
-                "Global tech leaders anticipate this alliance will establish South Asia as a major competitive hub for chip production."
+                "Security researchers examine OpenAI's Daybreak platform, demonstrating both accelerated vulnerability discovery and increased automated exploitation capabilities.",
+                "The tool enables automated vulnerability scanning but simultaneously raises critical accountability concerns among enterprise security operation teams.",
+                "This technology triggers an AI-driven arms race, forcing defenders to adopt machine-speed response systems to counter threats.",
+                "Cybersecurity organizations must transition from passive defense models to real-time agentic system monitoring to protect data assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
