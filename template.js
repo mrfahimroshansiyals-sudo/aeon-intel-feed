@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "NEXT-GEN HARDWARE",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SNOWFLAKE: AWS CLOUD INTEGRATION",
+            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
             "points": [
-                "Snowflake secured a six billion dollar partnership with Amazon Web Services to accelerate next-generation agentic computing frameworks.",
-                "The enterprise-level agreement triggers a massive thirty-six percent product-revenue acceleration across multiple globally distributed cloud environments.",
-                "Data architecture operations migrate directly toward agentic processing layers, reducing latency while maximizing multi-cloud data warehousing pipelines.",
-                "Strategic decision-makers will leverage the unified engine to deploy high-throughput autonomous workflows across hybrid transactional systems."
+                "NVIDIA deploys its first custom Vera CPU engineered specifically to accelerate agentic AI workloads in major labs.",
+                "The specialized silicon architecture delivers major efficiency gains over traditional processors during high-throughput agent execution pipelines.",
+                "Enterprise data centers can now seamlessly integrate heterogeneous CPU-GPU compute clusters for real-time model training tasks.",
+                "System architects predict rapid adoption of agent-optimized hardware to bypass traditional performance bottlenecks in large-scale deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "META: SUBSCRIPTION MODEL LAUNCH",
+            "heading": "AMD: EPYC VENICE PRODUCTION",
             "points": [
-                "Meta initiated testing of artificial intelligence subscription tiers starting at approximately eight dollars monthly for advanced tools.",
-                "Zuckerberg confirmed that launching a proprietary cloud computing business infrastructure model is actively under structural consideration.",
-                "The deployment moves Meta away from purely advertising-driven models toward robust enterprise-grade transactional software subscriptions.",
-                "Corporate operators gain predictable monetization frameworks for scaling customized large language model operations across consumer applications."
+                "AMD initiates the high-volume production ramp of its next-generation Venice EPYC processors utilizing TSMC two-nanometer process technology.",
+                "The migration to two-nanometer nodes delivers substantial performance-per-watt improvements across cloud and enterprise data center environments.",
+                "System designers gain enhanced compute density and memory bandwidth necessary for executing complex localized generative model operations.",
+                "This manufacturing shift secures AMD stable hardware pipelines to meet surging global demand for high-performance AI infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DELL: DEFENSE CONTRACT SECURED",
+            "heading": "GOOGLE: AGENT EXECUTOR OPEN-SOURCED",
             "points": [
-                "Dell secured a massive nine point seven billion dollar software contract with the United States Pentagon.",
-                "The defense integration optimizes federal network computing architectures, deploying robust software layers across secure military operations.",
-                "Strategically aligning with state administrations empowers hardware giants to capture substantial multi-year sovereign public sector revenue streams.",
-                "Military IT leaders will utilize modernized edge infrastructure configurations to accelerate tactical secure data processing systems."
+                "Google releases its open-source Agent Executor framework to simplify the deployment of autonomous systems within enterprise environments.",
+                "Operational teams can leverage standardized execution pathways to safely manage complex multi-agent workflows across distributed cloud networks.",
+                "The software architecture provides critical guardrails and trace monitoring capabilities to ensure highly reliable production agent performance.",
+                "Enterprise developers gain a robust foundation for building predictable action-oriented applications while reducing overall engineering complexity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SK HYNIX: VALUATION MILESTONE",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "SK Hynix officially joined the prestigious one trillion dollar market valuation tier alongside Samsung and Micron.",
-                "Exploding global demand for high-bandwidth memory architectures optimized for next-generation AI chipsets propelled the massive stock rally.",
-                "Extreme supply tightness in hardware fabrication lines drives long-term pricing leverage for advanced hardware component manufacturers.",
-                "Global server developers must navigate persistent structural memory shortages by securing long-term allocation agreements with top manufacturers."
+                "OpenAI officially introduces its GPT-5.5 model family designed to deliver advanced reasoning and highly autonomous agent orchestration capabilities.",
+                "The frontier model architecture optimizes token consumption and execution latency for enterprise-grade conversational and transactional workloads.",
+                "Developers can leverage enhanced API endpoints to integrate complex multi-step reasoning processes into legacy software ecosystems.",
+                "Industry analysts expect this release to accelerate the deployment of deeply integrated autonomous systems across global markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: reuters.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "KYNDRYL: SOVEREIGN ACQUISITION BLOCKED",
+            "heading": "PENTAGON: MICROSOFT CLOUD CONTRACT",
             "points": [
-                "The Dutch government formally blocked Kyndryl from acquiring IT services provider Solvinity due to public security risks.",
-                "Solvinity manages critical digital identity infrastructure, making the transaction a highly sensitive point of national interest.",
-                "European regulatory authorities are increasingly prioritizing tech sovereignty by auditing international mergers involving critical local infrastructures.",
-                "Enterprise consolidators must prepare for stringent security audits when proposing mergers that impact foundational public sector networks."
+                "The Pentagon awards Microsoft a nine point seven billion dollar cloud contract to streamline software license sprawl.",
+                "This massive defense agreement consolidates legacy IT systems under a unified and secure enterprise cloud management framework.",
+                "Military operations gain enhanced data interoperability and advanced threat intelligence capabilities through integrated security operations center platforms.",
+                "Defense and engineering stakeholders predict this consolidation will establish strong baseline compliance standards for future federal acquisitions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.reuters.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: TAIWAN SEMICONDUCTOR EXPANSION",
+            "heading": "PAVONA: OPENTITAN CHIP ECOSYSTEM",
             "points": [
-                "Nvidia signaled a planned investment of one hundred fifty billion dollars annually into the Taiwan manufacturing ecosystem.",
-                "The massive capital deployment targets advanced silicon manufacturing, assembly facilities, and localized AI computing research centers.",
-                "This strategic funding reinforces Taiwan's position as the primary epicenter for physical AI hardware production lines.",
-                "Semiconductor architects expect the massive investment to stabilize high-end GPU supply chains amidst rising global geopolitical tensions."
+                "Pavona launches a collaborative open-hardware ecosystem utilizing secure OpenTitan root-of-trust components for silicon-level security assurance.",
+                "Hardware developers can now verify physical integrity of silicon designs to prevent supply chain tampering and unauthorized firmware execution.",
+                "The open framework establishes decentralized security blueprints for manufacturing tamper-resistant chips used in highly sensitive environments.",
+                "Security engineers expect open-source silicon to redefine trust standards for critical computing infrastructure and cloud servers worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: LEGAL SECTOR EXPANSION",
+            "heading": "TATA: ASML SEMICONDUCTOR PARTNERSHIP",
             "points": [
-                "Mistral AI entered a strategic partnership with Harvey to deliver specialized generative models for legal industry automation.",
-                "The collaboration adapts sovereign open-source architectures to handle complex compliance documentation and regulatory analysis workflows securely.",
-                "Targeted domain verticalization allows lean AI startups to challenge enterprise giants by delivering highly specialized software tools.",
-                "Corporate legal departments will accelerate contract analysis pipelines while maintaining strict data privacy inside private cloud environments."
+                "Tata Electronics and ASML establish a strategic partnership to develop India's emerging semiconductor manufacturing and lithography ecosystem.",
+                "The collaboration delivers advanced lithography training and technical support to accelerate local fabrication facility construction schedules.",
+                "Integrating European precision engineering with local manufacturing capabilities strengthens global supply chain resilience for critical silicon components.",
+                "Global tech leaders anticipate this alliance will establish South Asia as a major competitive hub for chip production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
