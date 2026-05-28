@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
+        "titleWhite": "NEXT-GEN AGENT",
         "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 EMERGENCE",
             "points": [
-                "OpenAI officially releases its next-generation GPT-5.5 model alongside ChatGPT Images 2.0 for advanced multimodal tasks.",
-                "The system dramatically improves voice intelligence capabilities and integrates content provenance features to secure public interactions.",
-                "This release marks a shift toward specialized agentic frameworks capable of reasoning over complex industrial environments.",
-                "Enterprises will transition from simple chatbots to autonomous agent structures that manage intricate transaction lifecycles safely."
+                "OpenAI launches GPT-5.5 to deliver advanced reasoning capabilities across complex enterprise workflows and deep multi-modal operations.",
+                "Real-time contextual processing efficiency decreases latency by forty percent while scaling active model transaction volumes globally.",
+                "The model integrates native code generation pipelines to assist developers in managing sovereign digital intelligence deployments safely.",
+                "Enterprises can leverage this architecture to construct highly autonomous agentic systems with minimal manual operational oversight."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SNOWFLAKE: INFRASTRUCTURE EXPANSION",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Snowflake partners deeply with Amazon Web Services to execute massive data cloud operations at global enterprise scale.",
-                "The strategic cloud alliance secures a massive six billion dollar commitment for cloud database and compute infrastructure.",
-                "This expansion ensures low-latency execution of high-volume analytical workloads across distributed hybrid cloud storage tiers globally.",
-                "Organizations will access deeper data pipelines and seamless scaling for large-scale enterprise AI model training runs."
+                "Anthropic releases Claude Opus 4.8 designed to execute complex coding operations and autonomous agentic workflows seamlessly.",
+                "Early performance benchmarks demonstrate substantial accuracy improvements in long-running professional tasks and massive multi-modal file parsing.",
+                "This upgrade reinforces the enterprise commitment to securing critical software pipelines through rigorous responsible scaling policies.",
+                "Global organizations can deploy the advanced model directly within regulated clouds to guarantee sovereign data privacy compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: VERA AGENTIC HARDWARE",
-            "points": [
-                "NVIDIA ships its first dedicated Vera CPU designed purposefully to power autonomous agent workflows in laboratories.",
-                "The processor optimizes token processing efficiency per watt to outperform legacy compute architectures in agentic workloads.",
-                "This silicon release establishes physical infrastructure optimized for real-time model training and high-volume agent execution demands.",
-                "AI laboratories will rapidly deploy more responsive physical robotic agents and complex self-improving software systems globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: VENICE 2NM PRODUCTION",
-            "points": [
-                "AMD initiates the production ramp of its next-generation Venice EPYC processors leveraging advanced TSMC two-nanometer process technology.",
-                "Integrating two-nanometer architecture yields significant thermal performance gains and minimizes power draw across dense datacenter clusters.",
-                "The silicon development leverages innovative backside power delivery mechanisms to support high-performance computing and massive workloads.",
-                "Hyperscalers will run large-scale foundational architectures with dramatically reduced operational footprints and lower carbon emissions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "SNOWFLAKE: NATOMA ACQUISITION",
             "points": [
-                "Snowflake acquires Natoma to embed Model Context Protocol capabilities directly into its native data governance ecosystem.",
-                "The transaction enables enterprise CIOs to orchestrate complex agentic workflows spanning across highly heterogeneous software databases.",
-                "Integrating this protocol resolves traditional metadata bottlenecks and establishes unified security controls for autonomous software systems.",
-                "Enterprise developers will deploy secure agent networks without rebuilding legacy data systems or compromising operational compliance."
+                "Snowflake acquires Natoma to build a comprehensive Model Context Protocol orchestration layer for complex agentic workflows.",
+                "The integration enables CIOs to govern multi-agent operations securely across highly heterogeneous and distributed enterprise systems.",
+                "This strategic transaction positions Snowflake as the primary runtime coordinator for autonomous corporate AI systems globally.",
+                "System administrators gain deep visibility to track execution safety and enforce strict real-time operational guardrails instantly."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: SILICON ENGINEERING",
+            "id": 4,
+            "heading": "ROBINHOOD: AGENTIC TRADING DEPLOYMENT",
             "points": [
-                "Mistral AI plans exploration of custom silicon chip designs to accelerate proprietary foundation model training runs.",
-                "Developing in-house hardware will insulate the software firm from semiconductor supply constraints and lower overall execution costs.",
-                "This step reflects a growing trend of sovereign AI builders establishing vertical integration over their infrastructure stack.",
-                "Cloud providers must prepare for highly specialized, model-optimized hardware arrays competing directly with generalized computing processors."
+                "Robinhood introduces autonomous trading features enabling AI agents to execute financial transactions within highly regulated environments.",
+                "The pioneering move establishes a regulatory precedent that will encourage global fintech institutions to deploy agentic models.",
+                "Financial developers can program custom investment agents that react to market shifts at machine speed safely.",
+                "The breakthrough signals a shift toward fully autonomous capital allocation systems operating with automated risk mitigation protocols."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "STARBURST: DISTRIBUTED AI PLATFORM",
+            "points": [
+                "Starburst launches an advanced platform extending agentic AI capabilities directly to highly distributed multi-cloud data storage systems.",
+                "Organizations can build predictive applications without incurring the high costs and operational risks of moving enterprise datasets.",
+                "The architecture enforces decentralized processing algorithms that keep sensitive corporate information secure within its native environment.",
+                "Engineers can immediately query large data lakes to accelerate model training cycles and enhance decision-making speeds."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: ROBOTICS SIMULATION ADVANCEMENT",
+            "points": [
+                "NVIDIA Research delivers a technical breakthrough transitioning physical embodied AI systems from simulation directly to real-world deployment.",
+                "Robotic arms leverage Jetson edge processors to interpret complex natural language instructions and coordinate mechanical movements autonomously.",
+                "The open-source pipeline lowers development costs significantly while accelerating international hardware manufacturing innovation for industrial robotics.",
+                "Global factories can integrate these autonomous manipulation models to streamline assembly pipelines with minimal human physical training."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "KIRKLAND & ELLIS: ENTERPRISE COGNITION",
+            "heading": "SNOWFLAKE: AMAZON DATA COOPERATIVE",
             "points": [
-                "Global law firm Kirkland & Ellis commits five hundred million dollars to build proprietary artificial intelligence infrastructure.",
-                "The investment aims to encapsulate the firm\u2019s collective lawyer intelligence within an private secure legal technology platform.",
-                "This move demonstrates how highly regulated elite firms are prioritizing sovereign software assets over generic commercial solutions.",
-                "Traditional professional service business models will rapidly transform as proprietary intelligent platforms automate deep analysis processes."
+                "Snowflake secures a major strategic cloud agreement with Amazon Web Services to accelerate scalable model deployment options.",
+                "Quarterly financial performance spikes thirty-seven percent as global enterprise spending on cloud-native intelligence platforms increases rapidly.",
+                "The partnership streamlines massive data storage integration processes for clients building high-throughput predictive analytics systems.",
+                "Corporate decision-makers can leverage this joint infrastructure to launch resilient machine learning pipelines across global markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
