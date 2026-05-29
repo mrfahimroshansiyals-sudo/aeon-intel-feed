@@ -1,82 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER AI",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS AGENTIC ARCHITECTURE",
+        "titleBlue": "TRANSITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: RECORD CAPITAL EXPANSION",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Anthropic finalized a landmark sixty-five billion dollar funding round, pushing its private valuation to nine hundred sixty-five billion.",
-                "The massive capital injection positions the safety-focused startup ahead of OpenAI in total market valuation and execution resources.",
-                "This funding highlights intense global competition among tech giants to secure sovereign compute leadership and commercialize frontier systems.",
-                "Market observers expect the valuation surge to accelerate specialized model training cycles and expand target enterprise deployment scopes."
+                "Anthropic deploys Claude Opus 4.8 to enhance multi-step coding, complex agentic reasoning, and professional data-heavy workflows.",
+                "The model update improves execution consistency for long-running software engineering tasks and automated systems architecture validation.",
+                "Enhanced capabilities optimize autonomous pipeline code generation while significantly decreasing execution errors across production cloud environments.",
+                "Enterprises gain a robust foundation for deploying high-fidelity agentic workflows with reduced latency and improved operational accuracy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: bloomberg.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "APOLLO: MONUMENTAL CHIP FINANCING",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "Apollo is structuring a historic thirty-six billion dollar debt vehicle to fund Anthropic\u2019s acquisition of custom Google silicon.",
-                "This transaction represents the largest-ever private credit deal designed specifically to finance enterprise semiconductor hardware and infrastructure.",
-                "Transitioning to non-traditional credit facilities allows frontier intelligence firms to secure massive compute resources without diluting equity stakes.",
-                "Expect specialized credit structures to increasingly dominate the funding of massive data center construction and semiconductor acquisition pipelines."
+                "OpenAI officially introduces its next-generation GPT-5.5 model featuring native action orchestration and advanced frontier reasoning capabilities.",
+                "The architecture integrates specialized modalities to execute complex, multi-modal workflows across enterprise cloud and edge environments.",
+                "Developers can leverage advanced action interfaces to program highly autonomous agents that handle real-time system interactions.",
+                "This milestone shifts developer focus from simple chat interfaces toward fully agentic software engineering and execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: bloomberg.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SNOWFLAKE: GOVERNED AGENTIC ORCHESTRATION",
+            "heading": "BLUE ORIGIN: ROCKET TEST EXPLOSION",
             "points": [
-                "Snowflake announced its acquisition of Natoma to integrate native Model Context Protocol tools directly into its data platforms.",
-                "The transaction establishes an interoperable orchestration tier for managing agentic workflows across highly fragmented legacy enterprise data systems.",
-                "Integrating standard context sharing protocols directly solves persistent issues of data governance and security within autonomous agent ecosystems.",
-                "Enterprises will shift toward consolidated metadata management models to ensure compliance while running thousands of autonomous software agents."
+                "A Blue Origin rocket explodes on the launch pad during a critical static fire test in Texas.",
+                "The unexpected failure occurs just days before a planned deployment of Amazon's Project Kuiper internet-routing satellites.",
+                "Ground testing anomalies require thorough engineering audits of propulsion systems, delaying upcoming aerospace logistics and commercial schedules.",
+                "Satellite constellation operators must recalibrate deployment timelines to mitigate escalating launch risks and infrastructure insurance premiums."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AWS: REENGINEERED SERVERLESS ARCHITECTURE",
+            "heading": "SNOWFLAKE: GOVERNED AGENTIC ACQUISITION",
             "points": [
-                "Amazon Web Services rebuilt its OpenSearch Serverless engine to natively support advanced autonomous agent skills and actions.",
-                "The structural modernization optimizes vector retrieval times while lowering total operational overhead for real-time Retrieval-Augmented Generation workflows.",
-                "Decoupling storage and compute inside the vector database engine enables seamless execution of complex, multi-step agent actions.",
-                "Future cloud storage platforms will prioritize integrated agent reasoning layers over basic passive indexing and data storage designs."
+                "Snowflake acquires Model Context Protocol specialist Natoma to accelerate integration of governed agentic workflows across enterprise platforms.",
+                "The transaction enables seamless context exchange between heterogeneous databases and autonomous artificial intelligence orchestration layers.",
+                "IT leaders can implement unified security policies for agents interacting with disparate distributed data lakes and pipelines.",
+                "The acquisition solidifies Snowflake's strategic position as the primary control and governance hub for enterprise agent networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COREWEAVE: COHESIVE SYSTEM STACKING",
+            "heading": "COREWEAVE: AGENTIC HARDWARE STACK",
             "points": [
-                "Specialized cloud operator CoreWeave acquired targeted software assets to establish a unified, proprietary hardware-software stack for agents.",
-                "These integrations significantly reduce latency and operational overhead during large-scale model inference and distributed training execution phases.",
-                "Building integrated software layers directly on specialized GPU infrastructure allows neoclouds to compete aggressively with hyperscale platforms.",
-                "Expect alternative compute providers to rapidly consolidate software tools to deliver fully optimized, turn-key agentic deployment environments."
+                "Neocloud provider CoreWeave expands its software infrastructure to offer a comprehensive hardware-software stack for autonomous agent training.",
+                "Strategic software acquisitions allow the firm to maximize compute utilization and streamline low-latency inference across GPU clusters.",
+                "The unified stack enables rapid deployment of agentic models without the complexity of managing disparate infrastructure layers.",
+                "This development establishes a specialized alternative to traditional public hyperscalers for compute-heavy generative artificial intelligence workloads."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "DELL: EXTREME SERVE CAPACITY SCALING",
+            "heading": "MISTRAL AI: INFRASTRUCTURE EXPANSION",
             "points": [
-                "Dell raised its annual market outlook, targeting over sixty billion dollars in revenue driven by massive AI server demand.",
-                "The upward revision reflects rapid enterprise adoption of dense liquid-cooled rack systems optimized for next-generation frontier model deployments.",
-                "Hardware bottlenecks are shifting from basic chip availability to advanced datacenter power distribution and thermal management systems.",
-                "Sustained server backlogs will compel hardware manufacturers to expand global supply networks and accelerate localized assembly factory operations."
+                "Mistral AI partners with Digital Realty to build out high-performance sovereign computing infrastructure across European data centers.",
+                "The collaboration focuses on scaling localized physical resources to meet surging demand for private enterprise model deployment.",
+                "Deploying frontier models on regional hardware ensures strict compliance with emerging regulatory requirements and data sovereignty laws.",
+                "European enterprises gain access to secure, low-latency execution environments tailored for highly sensitive financial and industrial applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: bloomberg.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: OPUS 4.8 AGENT UPGRADE",
+            "heading": "ROBINHOOD: FINANCIAL AGENT ENABLER",
             "points": [
-                "Anthropic launched its Claude Opus 4.8 upgrade, delivering dramatic improvements across complex programming, professional tasks, and workflows.",
-                "The upgraded model offers unmatched execution consistency required to orchestrate multi-step autonomous processes over long-running digital work sessions.",
-                "Optimizing execution reliability rather than raw benchmark scores reflects an industry pivot toward practical enterprise-grade agent automation systems.",
-                "Developers will increasingly transition from simple text generation prompts to designing complex, multi-modal autonomous agent architectures."
+                "Robinhood launches technical integrations allowing authorized autonomous AI agents to execute financial transactions directly on its platform.",
+                "This capability marks a critical transition from simple decision-support tools to transactional agentic commerce in retail finance.",
+                "Automated execution frameworks leverage API structures to implement complex investment strategies without direct human intervention or delays.",
+                "Financial regulators must adapt framework compliance rules to address the legal and operational risks of agent-led trading activities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
