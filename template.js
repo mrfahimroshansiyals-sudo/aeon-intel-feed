@@ -1,18 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "PARADIGM"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SURGE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: MYTHOS SECURITY AUDIT",
+            "heading": "DELL: AI SERVER REVENUE PEAK",
             "points": [
-                "Anthropic's new Mythos Preview model exposed over ten thousand high-severity software vulnerabilities during its first month.",
-                "Tech giants are rapidly refactoring threat detection pipelines to prevent automated exploits of identified codebase flaws.",
-                "Security architects must implement robust verification guardrails to neutralize automated vulnerability discovery before malicious actors deploy tools.",
-                "CIOs are balancing defensive scanning speed against the elevated risk of exposing sensitive infrastructure configurations to attackers."
+                "Dell reported unprecedented fiscal growth driven by explosive demand for enterprise AI-grade server infrastructure globally.",
+                "Revenue metrics indicate that AI hardware deployment is now the primary driver for corporate capital expenditure.",
+                "Analysts note this surge validates the transition from experimental AI pilots to massive, production-scale infrastructure rollouts.",
+                "The company successfully courted major US leadership, securing favorable positioning within the new domestic industrial policy framework."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MISTRAL: AGENTIC VIBE DEPLOYMENT",
+            "points": [
+                "Mistral AI launched Vibe, an autonomous agent platform designed for long-horizon task execution and workflow orchestration.",
+                "The architecture supports persistent memory, enabling agents to retain context across complex, multi-step enterprise business processes.",
+                "Mistral Compute infrastructure now provides frontier-grade scaling for organizations integrating agents into maritime and financial operations.",
+                "By automating document synthesis and scheduling, Vibe significantly reduces the operational overhead of traditional software development cycles."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ANTHROPIC: MYTHOS VULNERABILITY SWEEP",
+            "points": [
+                "Anthropic's Mythos Preview identified over 10,000 security flaws within major enterprise tech stacks in one month.",
+                "This initiative highlights the dual-use risk where AI agents can proactively discover vulnerabilities faster than human teams.",
+                "Security professionals are now treating the deployment of agentic models as a high-stakes, adversarial cybersecurity arms race.",
+                "The findings mandate a shift in governance from compliance checklists to rigorous, real-time observability in agentic systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,97 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "ROBINHOOD: AGENTIC TRANSACTION GATEWAY",
-            "points": [
-                "Robinhood launched financial integration APIs enabling autonomous artificial intelligence agents to execute market trades and manage transactions.",
-                "Financial systems face structural shifts as non-human actors directly participate in high-frequency trading and capital allocation.",
-                "Enterprise developers are configuring real-time compliance filters to authorize agent expenditures within strict multi-layered security frameworks.",
-                "Trading infrastructure must adapt to hyper-rapid transaction volumes triggered by algorithmic agent networks operating without human delays."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ANTHROPIC: OPUS ARCHITECTURE REFACTOR",
-            "points": [
-                "Anthropic released Claude Opus four point eight engineered specifically for multi-step agentic workflows and complex programming tasks.",
-                "Developer teams report major efficiency improvements in long-running enterprise tasks requiring continuous execution and memory retention.",
-                "System integration demands robust state management setups to handle extended agent runtimes across disparate legacy environments.",
-                "Enterprises are deploying this upgraded model to orchestrate autonomous coding pipelines and reduce manual code review overhead."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "AWS: OPENSEARCH AGENT INTEGRATION",
+            "heading": "GOOGLE: GEMINI AGENT ORCHESTRATION",
             "points": [
-                "Amazon Web Services overhauled OpenSearch Serverless to natively support modular agent skills for autonomous pipeline orchestration.",
-                "Operations teams can directly deploy search-driven tools into active production environments with minimal pipeline configuration effort.",
-                "The rebuilt serverless vector database leverages decoupled storage layers to optimize agent query latencies at global scale.",
-                "Data engineers are shifting towards serverless retrieval architectures to eliminate manual cluster provisioning for generative intelligence."
+                "Google Cloud introduced Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct action capabilities.",
+                "The platform provides a unified registry for agent orchestration, simplifying the lifecycle management of complex AI apps.",
+                "New threat defense tools allow enterprises to actively outpace adversarial attacks by monitoring agent behavior in real-time.",
+                "Development velocity is accelerated through the GEAR program, providing standardized credits for learning agentic architecture design."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: SECURE OPEN SOURCE INITIATIVE",
+            "heading": "AWS: AGENTIC DATA SUBSTRATE",
             "points": [
-                "IBM and Red Hat pledged five billion dollars to secure open-source software against automated supply chain exploits.",
-                "Global technology pipelines will receive critical security patches to fortify foundational tools powering cloud native architectures.",
-                "Engineers are integrating standardized cryptography algorithms and verified package registries directly into modern DevOps pipeline configurations.",
-                "This massive investment aims to protect critical digital infrastructure from weaponized vulnerability discovery engines powered by AI."
+                "AWS is rebuilding OpenSearch Serverless to incorporate native Agent Skills for improved enterprise data retrieval and analysis.",
+                "The shift towards agentic workflows in AWS is reducing the complexity and technical debt of legacy infrastructure migrations.",
+                "Cloud-based agentic frameworks allow for seamless integration between dev environments and production-grade software deployment pipelines.",
+                "The provider is heavily betting on Bedrock AgentCore to unify multi-model workflows for 100M+ customer support scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: DEEPMIND FRONTIER UPGRADE",
+            "heading": "AMD: AGENTIC CPU GPU EQUATION",
             "points": [
-                "Google DeepMind unveiled Gemini Omni and Gemini three point five optimized for real-time video and multimodal action capabilities.",
-                "Enterprise builders are migrating to native action models to unify visual recognition, conversational processing, and task execution.",
-                "The underlying infrastructure leverages advanced TPU clusters to process multi-format inputs simultaneously without incurring severe latency spikes.",
-                "Organizations are leveraging these multi-agent frameworks to automate field diagnostics, medical imaging, and real-world robot navigation."
+                "AMD's new strategy integrates CPUs and GPUs to move AI systems from conversational answers to automated actions.",
+                "The Ryzen AI Halo platform facilitates local AI development, effectively decoupling critical agentic workloads from the cloud.",
+                "Over 10 billion in investments across the Taiwan ecosystem accelerates the manufacturing ramp of EPYC Venice processors.",
+                "This holistic portfolio approach ensures enterprise-level reliability, efficiency, and scalability for next-generation data center AI infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AGENTIC DEVOPS FRAMEWORK",
+            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADE",
             "points": [
-                "Microsoft launched agentic DevOps capabilities uniting Azure and GitHub to autonomously resolve legacy application technical debt.",
-                "Software development cycles are shrinking as cooperative agents automatically identify code refactoring opportunities and deploy updates.",
-                "The system uses secure execution sandboxes to isolate agent operations during automated codebase modernization and testing procedures.",
-                "Enterprise engineering departments are adopting autonomous coding agents to scale code maintenance while maintaining strict compliance oversight."
+                "Robinhood is integrating AI agents to execute financial trades and perform spending tasks on behalf of users.",
+                "This move signals a broader trend of agentic systems moving into highly regulated and mainstream retail financial markets.",
+                "Financial leaders are monitoring the emergence of these automated transaction agents for potential risks and systemic market impact.",
+                "The development requires new guardrails for agentic decision-making to maintain strict compliance with financial industry regulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
