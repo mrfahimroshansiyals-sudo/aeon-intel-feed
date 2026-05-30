@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 ARCHITECTURE DEBUT",
+            "heading": "NVIDIA: Q1 RECORD REVENUE",
             "points": [
-                "OpenAI officially launches GPT-5.5, introducing multimodal reasoning, advanced action execution engines, and expanded context window capabilities.",
-                "The upgrade targets enterprise productivity workflows, aiming to scale autonomous tasks by optimizing system-level API execution costs.",
-                "Architectural designs integrate real-time voice and native image processing pipelines directly into the core model weights.",
-                "This release intensifies foundation model competition, forcing enterprises to reassess their private orchestration deployment strategies immediately."
+                "NVIDIA reported record quarterly revenue of $81.6 billion for fiscal 2027, marking a 20% sequential increase driven by massive infrastructure demand.",
+                "The company is aggressively scaling its AI factories platform to redefine how enterprises build and operate large-scale intelligence infrastructure globally.",
+                "Strategic focus on the new Vera CPU platform signals a tactical hardware shift aimed at capturing higher share against intensifying competitive architectures.",
+                "Market analysts confirm parabolic demand growth as companies move beyond model prototyping toward deploying full-scale, persistent agentic compute environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: OPUS 4.8 SYSTEM UPGRADE",
+            "heading": "SOFTBANK: EU AI INFRASTRUCTURE",
             "points": [
-                "Anthropic deploys Claude Opus 4.8 with enhanced coding reasoning and persistent consistency over long-running industrial workflows.",
-                "The update improves context maintenance, minimizing system latency across large-scale software engineering and code generation tasks.",
-                "By targeting customer developer friction, Anthropic strengthens its position in the specialized enterprise developer ecosystem.",
-                "Enterprises gain reliable automated pipeline execution, reducing overall operational overhead associated with buggy code-generation deployments."
+                "SoftBank has pledged a \u20ac75 billion investment to construct Europe\u2019s largest artificial intelligence facility located within French borders.",
+                "This initiative positions France as a primary hub for global AI ambitions, focusing on sovereign infrastructure and localized high-performance computing capabilities.",
+                "The massive capital injection aims to mitigate reliance on US-based data silos while fostering a competitive environment for regional European AI development.",
+                "Industry experts view this development as a signal of shifting capital flow toward state-level infrastructure projects designed for industrial-scale deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ROBINHOOD: TRANSACTIONS AGENTIC INTEGRATION",
+            "heading": "ANTHROPIC: MYTHOS SECURITY AUDIT",
             "points": [
-                "Robinhood launches specialized tools allowing autonomous AI agents to initiate trades and execute financial transactions directly.",
-                "This mechanism integrates brokerage pipelines with agentic protocols, transitioning digital AI assistance into active economic participants.",
-                "Secure transactional frameworks require robust cryptographic signing keys to authenticate decentralized agent actions safely and securely.",
-                "Strategic shifts toward automated retail trading threaten to disrupt traditional wealth management models within the next year."
+                "The Anthropic Mythos Preview exposed over 10,000 security flaws across major tech giants during a single month of intensive systematic testing.",
+                "This revelation underscores the extreme risk profile inherent in current large-scale model deployments when integrated into enterprise production pipelines without oversight.",
+                "Security researchers indicate that these vulnerabilities represent both critical threats to digital infrastructure and opportunities for advanced automated defense mechanisms.",
+                "CIOs are advised to prioritize rigorous governance frameworks and observability tools to manage the unintended security surfaces created by autonomous AI agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GARTNER: AUTONOMOUS AGENT RISK FORECAST",
+            "heading": "MISTRAL: AUTONOMOUS VIBE LAUNCH",
             "points": [
-                "Gartner projects that forty percent of enterprises will decommission autonomous agents by twenty twenty-seven due to governance failures.",
-                "Uncontrolled behavior and lack of traceability drive immediate need for real-time observability in orchestrating agent networks.",
-                "Organizational leaders must implement comprehensive compliance frameworks to monitor agent decisions and prevent severe operational errors.",
-                "Failure to establish strict guardrails will likely stall production scaling of agentic systems across heavily regulated sectors."
+                "Mistral AI introduced Vibe, an autonomous agent platform designed for long-horizon task execution, memory-backed scheduling, and multi-tool operational autonomy.",
+                "The system enables enterprise users to automate complex, multi-step workflows while maintaining strict control over data privacy and internal business logic.",
+                "Integration with Mistral\u2019s compute infrastructure allows for seamless deployment across edge-to-cloud environments, enhancing the portability of custom-trained business models.",
+                "Early adoption by major European firms highlights a shift toward using agentic tools that prioritize domain-specific alignment over general-purpose model performance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SALESFORCE: HEADLESS 360 AGENT PLAY",
+            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADING",
             "points": [
-                "Salesforce introduces Headless 360, allowing enterprises to embed customer relationship data directly into external AI agents.",
-                "New consumption-based monetization models could significantly complicate cloud budgeting and increase platform lock-in for enterprise IT.",
-                "Decoupled architecture enables seamless external API access while centralizing customer profiles in secure backend storage layers.",
-                "CIOs face renewed pressure to audit API traffic to avoid unpredictable expenses linked to automated agent interactions."
+                "Robinhood is initiating new agentic tools that empower AI systems to execute trades and financial transactions on behalf of retail users.",
+                "This development marks a significant transition from passive AI investment advice to active autonomous execution within volatile global financial markets.",
+                "Regulatory bodies are closely monitoring this trend as it necessitates new standards for financial liability, transparency, and algorithmic risk management.",
+                "The integration of agent-led trading indicates a broader market movement toward automating high-velocity, high-consequence consumer financial operations globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SWISS RESEARCH: QUANTUM RANDOMNESS SOURCE",
+            "heading": "GOOGLE: GEMINI OMNI INFRASTRUCTURE",
             "points": [
-                "Swiss researchers demonstrate a certifiably perfect random number generator utilizing quantum hardware mechanisms for extreme encryption security.",
-                "The technology provides mathematically unbreakable seed numbers, eliminating deterministic predictability flaws in current communication protocols.",
-                "Deploying physical entropy sources secures high-value data environments against potential decryption threats from future quantum computer systems.",
-                "Global telecommunication networks will require hardware upgrades to integrate quantum-grade random seed distribution protocols across edge nodes."
+                "Google unveiled the Gemini Omni model series, capable of multimodal processing across video, audio, and text with significant performance improvements over predecessors.",
+                "This infrastructure upgrade is designed to power the next generation of real-time intelligent agents within the Google Cloud enterprise ecosystem.",
+                "Advanced capabilities in cross-modal input synthesis aim to enable developers to create immersive AI applications that bridge the digital-physical divide.",
+                "Market analysts expect this deployment to set a new competitive benchmark for foundational model intelligence combined with actionable, low-latency utility."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: REGIONAL COMPUTE EXPANSION",
+            "heading": "AMD: TAIWAN ECOSYSTEM INVESTMENTS",
             "points": [
-                "Mistral AI partners with Digital Realty to deploy scalable high-performance compute clusters across European data center facilities.",
-                "The alliance guarantees localized data processing, aligning with regional European AI Act compliance and sovereign storage requirements.",
-                "Sovereign cloud infrastructure isolates sensitive enterprise workflows from foreign jurisdiction data collection policies and external threats.",
-                "This partnership enables local enterprises to deploy low-latency frontier models without sacrificing strict legislative regulatory compliance."
+                "AMD announced a strategic $10 billion investment plan targeting the Taiwan semiconductor ecosystem to accelerate AI infrastructure development and production.",
+                "The funding supports the production ramp of next-generation EPYC processors utilizing TSMC\u2019s advanced 2nm manufacturing process technology for maximum efficiency.",
+                "This move reflects a coordinated effort to secure high-performance supply chains while scaling local AI infrastructure for global enterprise compute needs.",
+                "The commitment underscores the critical interdependence of US chip designers and East Asian silicon fabrication capacity in sustaining long-term AI hardware scaling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
