@@ -1,82 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AI Agents Deploy",
-        "titleBlue": "Governance"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL RELEASE",
+            "heading": "ANTHROPIC: OPUS CORE UPGRADE",
             "points": [
-                "OpenAI has released its latest frontier model, GPT-5.5, indicating significant advancements in AI capabilities and performance.",
-                "The model's deployment suggests substantial improvements handling complex tasks and real-world applications across industries.",
-                "Architecturally, GPT-5.5 likely features optimized transformer designs and efficient inference mechanisms for scalable enterprise integration.",
-                "Stakeholders can anticipate accelerated AI development cycles and new product offerings leveraging GPT-5.5 advanced functionalities."
+                "Anthropic deployed Claude Opus 4.8 to enhance execution consistency across long-running agentic tasks.",
+                "Testing exposed ten thousand vulnerability flaws, proving both operational opportunities and architectural security risks.",
+                "The model integrates deep code optimization to prevent context dropping during multi-step background processing.",
+                "Regulated enterprises are implementing restricted execution environments to safely test these advanced agentic capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: VOICE API ENHANCEMENTS LAUNCH",
+            "heading": "AWS: OPENSEARCH REBUILD",
             "points": [
-                "OpenAI introduced new models for its voice intelligence API, significantly advancing speech recognition and synthesis.",
-                "The API enhancements facilitate more sophisticated voice-enabled applications, driving real-time human-computer interaction and automation.",
-                "These models represent a strategic architectural expansion, enabling deeper integration of conversational AI into emerging digital ecosystems.",
-                "Developers and businesses gain powerful tools for creating intuitive voice interfaces, streamlining operations and enhancing user experiences."
+                "Amazon Web Services reconstructed its OpenSearch Serverless architecture to natively support multi-agent execution pipelines.",
+                "The system introduces modular agent skills to optimize vector database queries without manual tuning.",
+                "Decoupled indexing and search workloads minimize compute overhead while maintaining low-latency state synchronization.",
+                "Cloud architects can now deploy persistent knowledge retrieval mechanisms directly inside secure enterprise boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: GEMINI 3.5 & OMNI DEPLOYMENT",
+            "heading": "ROBINHOOD: TRANSACTION API",
             "points": [
-                "Google launched Gemini 3.5, combining frontier intelligence with action, and Gemini Omni for multimodal content creation.",
-                "These models offer advanced agentic capabilities, enabling complex multi-step tasks and diverse content generation.",
-                "This represents a strategic move towards a unified AI platform, enhancing architectural sovereignty and leveraging Google's infrastructure.",
-                "Enterprises can now build sophisticated AI agents and generative applications, accelerating innovation and transforming digital interaction."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT AZURE: AGENTIC IT/DEV WORKFLOWS",
-            "points": [
-                "Microsoft Azure introduced new agentic capabilities integrating IT and developer workflows, streamlining operations.",
-                "These connected agents enable rapid modernization of infrastructure, data, and applications in days.",
-                "The architectural shift empowers autonomous systems to manage cloud environments, fostering efficiency.",
-                "Organizations will experience improved development velocity, with AI agents optimizing resource allocation autonomously."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ROBINHOOD: AGENTIC AI FINANCIAL TRADING",
-            "points": [
-                "Robinhood plans to integrate AI agents for financial trading and spending, potentially mainstreaming AI-driven transactions.",
-                "This development could significantly alter personal finance management, offering automated investment strategies and real-time spending.",
-                "Architectural implementation requires robust security and compliance frameworks for AI autonomy in finance.",
-                "This move highlights a pivotal industrial metric shift towards agentic AI adoption, pushing competitors towards intelligent services."
+                "Robinhood unveiled transactional APIs enabling autonomous AI agents to execute financial trades and allocate capital.",
+                "The integration marks a major shift toward high-frequency, decentralized retail portfolio management without human intervention.",
+                "Security frameworks utilize hardware-level cryptographic keys to authorize micro-transactions within pre-defined financial guardrails.",
+                "Financial engineering firms expect this capability to reshape liquidity patterns across retail market structures."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ANTHROPIC: MYTHOS REVEALS 10K SECURITY FLAWS",
+            "id": 4,
+            "heading": "DEEPMIND: OMNI ARCHITECTURE",
             "points": [
-                "Anthropic's Mythos Preview exposed over 10,000 security flaws across tech giants in its first month.",
-                "This quantitative validation highlights AI's power in vulnerability discovery, presenting opportunities for defense and exploitation risks.",
-                "Architecturally, Mythos demonstrates sophisticated analysis, underscoring critical needs for robust AI governance and secure development.",
-                "This implies a heightened AI arms race for CISOs, necessitating rapid adoption of AI-driven security tools."
+                "Google DeepMind released Gemini Three Point Five, combining multi-modal frontier intelligence with real-time autonomous actions.",
+                "The architecture processes concurrent audio, video, and text inputs to generate instant multi-system command responses.",
+                "Integrated action loops enable the system to orchestrate software tools directly from spatial visual recognition.",
+                "Enterprise developers are testing this model to automate complex physical processes and system-level diagnostic tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: VENICE SEMICONDUCTOR",
+            "points": [
+                "Advanced Micro Devices announced the production ramp of its next-generation Venice EPYC processors.",
+                "Built on Taiwan Semiconductor's two-nanometer nanosheet process, the chip maximizes power efficiency for training.",
+                "The design incorporates backside power solutions to alleviate thermal throttling in high-density computer clusters.",
+                "Cloud infrastructure providers plan to deploy these processors to support intensive multi-agent AI workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "COREWEAVE: STACK DECOUPLING",
+            "points": [
+                "CoreWeave expanded its custom software stack to optimize hardware resource allocation across GPU-accelerated environments.",
+                "The system virtualizes massive cluster deployments to minimize networking bottlenecks during massive parallel training.",
+                "Decoupled orchestration layers allow developers to provision naked-metal performance without traditional virtualization overhead.",
+                "This software enhancement directly targets high-performance workloads, offering significant total cost of ownership reductions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO MAGAZINE: AI AGENT GOVERNANCE RISKS",
+            "heading": "MICROSOFT: AGENTIC DEVOPS",
             "points": [
-                "Gartner predicts 40% of enterprise AI agents decommissioned by 2027 due to governance failures.",
-                "This forecast validates critical industrial metrics concerning AI agent reliability and the urgent need for robust oversight.",
-                "Architectural sovereignty demands evolving AI governance beyond technical implementation, focusing on trust, observability, and ownership.",
-                "IT leaders must build four reliability guarantees into AI agent substrates, transforming pilot-to-production phases effectively."
+                "Microsoft integrated collaborative agentic capabilities across Azure and GitHub to automate end-to-end software delivery workflows.",
+                "Connected developer agents actively identify and remediate complex technical debt across legacy codebase repositories.",
+                "The system unifies continuous integration and deployment monitoring through real-time state tracking and verification engines.",
+                "Enterprise teams report drastic reductions in development cycle times by delegating routine maintenance to agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
