@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC SYSTEMS",
-        "titleBlue": "EVOLVING"
+        "titleWhite": "AUTONOMOUS ENTERPRISE AGENTIC",
+        "titleBlue": "SYNERGY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEBUT",
+            "heading": "GOOGLE DEEPMIND: GEMINI ACTION ARCHITECTURE",
             "points": [
-                "OpenAI officially introduces its next-generation frontier model GPT-5.5 designed for complex reasoning tasks.",
-                "The model elevates operational throughput, reducing transaction latency across autonomous enterprise systems by forty percent.",
-                "This architecture decouples agentic orchestration layers from legacy structures to achieve real-time decentralized security.",
-                "Enterprises must immediately re-engineer their API integration pathways to harness the enhanced functional parameters safely."
+                "Google DeepMind launches Gemini 3.5 and Gemini Omni, blending frontier reasoning with native real-time video action.",
+                "This update deploys Google Antigravity and Gemini Enterprise to coordinate multi-agent processes across unified cloud runtimes.",
+                "Enterprises gain direct orchestration and governance tools to scale real-time multi-modal action pipelines on Google Cloud.",
+                "The deployment minimizes latency and compute costs while accelerating complex enterprise agent behaviors across distributed infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "ANTHROPIC: CLAUDE OPUS AND MYTHOS",
             "points": [
-                "Anthropic launches Claude Opus 4.8 offering enhanced performance across professional coding and autonomous agentic work.",
-                "Early benchmark tests demonstrate a substantial increase in task consistency during highly complex long-running computational workloads.",
-                "The upgrade addresses critical developer friction points by optimizing context retrieval capabilities within deep technical frameworks.",
-                "System architects can now deploy more reliable background workflows without experiencing severe operational degradation over time."
+                "Anthropic releases Claude Opus 4.8 alongside the Mythos preview environment to address long-running enterprise tasks.",
+                "The Mythos security scanner successfully identifies over ten thousand vulnerabilities across complex technology stacks within thirty days.",
+                "IT leaders gain a powerful framework to assess codebases and deploy agents for automated threat resolution protocols.",
+                "This development forces organizations to balance advanced autonomous coding pipelines with structured continuous security verification mechanisms."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,44 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: MYTHOS SECURITY AUDIT",
+            "heading": "MISTRAL AI: VIBE AUTONOMOUS ENVIRONMENT",
             "points": [
-                "Anthropic's Claude Mythos Preview identifies over ten thousand critical security vulnerabilities during its initial month.",
-                "The massive exposure prompts urgent system patches across several prominent multinational technology conglomerates and cloud providers.",
-                "Automated vulnerability discovery highlights the dual-use risks and defensive opportunities inherent in advanced autonomous agent systems.",
-                "Enterprise security leads must transition toward continuous, AI-driven penetration testing protocols to secure vulnerable software."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AWS: OPENSEARCH SERVERLESS UPGRADE",
-            "points": [
-                "Amazon Web Services fully rebuilds OpenSearch Serverless while integrating native autonomous agent execution skills directly.",
-                "This upgrade optimizes operational resource allocation and minimizes processing overhead costs for highly distributed enterprise databases.",
-                "Decoupling search mechanisms from fixed infrastructure allows developers to construct high-throughput context-aware artificial intelligence agents.",
-                "Database administrators should adopt this architecture to streamline vector operations without managing underlying computing clusters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com/blogs/aws",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: SOVEREIGN CLOUD PARTNERSHIP",
-            "points": [
-                "Mistral AI collaborates with Digital Realty to significantly scale localized high-performance European artificial intelligence infrastructure.",
-                "The joint venture provides enterprise clients with low-latency access to sovereign cloud storage and computing resources.",
-                "Aligning with the European Union AI Act enforces stringent compliance standards across distributed public sector workloads.",
-                "European organizations can securely scale sensitive data models while keeping operational infrastructure fully within local jurisdictions."
+                "Mistral AI introduces Vibe and Vibe for Code, bringing autonomous agent scheduling to local developer terminals.",
+                "The environment supports multi-step scheduling, persistent memory architectures, and async code generation for legacy system translations.",
+                "Developers bypass complex setups by running highly efficient reasoning loops directly within IDE and background command lines.",
+                "This launch enables enterprise engineering teams to automate CI/CD pipelines and structural code reviews with complete privacy."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RYZEN HALO PLATFORM",
+            "id": 4,
+            "heading": "MICROSOFT: AGENT SECURITY CONTROLS",
             "points": [
-                "Advanced Micro Devices unveils the Ryzen AI Halo Developer Platform to empower local machine learning operations.",
-                "The processors deliver unmatched power efficiency, drastically lowering local energy consumption during continuous hardware execution tasks.",
-                "This hardware-first approach shifts execution paradigms by enabling high-performance localized agent computers directly at edge boundaries.",
-                "Desktop developers can now run complex model evaluations locally without relying on expensive cloud-based server arrays."
+                "Microsoft publishes an open-source security toolkit designed to govern and constrain autonomous software agent execution loops.",
+                "Azure accelerates DevOps by linking developers and infrastructure managers directly through unified agentic workflow templates.",
+                "The combined architecture mitigates technical debt and prevents runtime errors within highly distributed enterprise cloud environments.",
+                "Enterprises can safely authorize agents for infrastructure-as-code deployments while maintaining deterministic human-in-the-loop validation checkpoints."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: GPT-5.5 ENGINE AND DAYBREAK SCANNING",
+            "points": [
+                "OpenAI launches GPT-5.5 alongside Daybreak, a real-time vulnerability discovery engine designed to transform enterprise cyber defense.",
+                "The framework enables automated code analysis and contextual understanding for secure real-time software deployment pipelines.",
+                "Daybreak identifies structural flaws while balancing defensive protocols against malicious AI-driven threat actor exploitation techniques.",
+                "Stakeholders must adopt dynamic accountability guidelines as automated systems take over critical infrastructure scanning and patching duties."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: VENICE PROCESSORS ON TSMC 2NM SILICON",
+            "points": [
+                "AMD ramps production of Venice EPYC processors using TSMC 2nm nanosheet technology with backside power delivery.",
+                "This architectural integration provides extreme silicon density, optimizing high-performance computing pipelines for next-generation model training.",
+                "Data centers reduce thermal overhead and power consumption while increasing local execution speeds for multi-agent workflows.",
+                "The hardware leap cements AMD and TSMC as leading suppliers for high-density, sovereign computing infrastructures globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "IBM: OPEN SOURCE SECURITY",
+            "heading": "STARBURST: DISTRIBUTED DATA AGENT ENGINE",
             "points": [
-                "IBM and Red Hat commit five billion dollars to bolster cybersecurity defenses within open-source ecosystems.",
-                "The massive funding will accelerate the deployment of audited enterprise software registries across cloud environments globally.",
-                "Securing base layers protects critical digital infrastructure from sophisticated supply chain compromises and persistent threat actors.",
-                "Development teams will benefit from pre-hardened components, reducing time-to-market for compliant enterprise-grade software applications."
+                "Starburst releases an enterprise platform that deploys AI agents directly across decentralized, multi-cloud data storage clusters.",
+                "This structural approach eliminates high data movement costs, latency spikes, and governance risks for analytical workflows.",
+                "Organizations can securely execute generative queries and build context-rich applications without duplicating massive production datasets.",
+                "Enterprise architectures shift toward edge-based processing, enabling real-time sovereign analysis on highly regulated storage infrastructures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
