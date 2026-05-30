@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC COGNITIVE ARCHITECTURE",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "AGENTIC SYSTEMS",
+        "titleBlue": "EVOLVING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.5 DEBUT",
             "points": [
-                "OpenAI officially deploys GPT-5.5 featuring advanced multi-modal integration and enhanced reasoning capabilities for enterprise developers.",
-                "Initial benchmarks demonstrate a significant latency reduction and fifty percent lower token processing costs globally.",
-                "The model integrates seamlessly into existing enterprise pipelines to automate complex multi-step decision workflows securely.",
-                "Engineers predict rapid displacement of older foundation models as organizations migrate infrastructure to GPT-5.5 environments."
+                "OpenAI officially introduces its next-generation frontier model GPT-5.5 designed for complex reasoning tasks.",
+                "The model elevates operational throughput, reducing transaction latency across autonomous enterprise systems by forty percent.",
+                "This architecture decouples agentic orchestration layers from legacy structures to achieve real-time decentralized security.",
+                "Enterprises must immediately re-engineer their API integration pathways to harness the enhanced functional parameters safely."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE OPUS 4.8",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Anthropic launches Claude Opus 4.8 to significantly improve consistency across complex coding and long-running autonomous workflows.",
-                "The model executes complex multi-step developer operations while drastically minimizing contextual drift during deep technical evaluations.",
-                "Strategic enterprise deployment establishes a highly secure operational foundation for safety-oriented corporate software engineering teams.",
-                "Organizations anticipate a substantial acceleration in production cycles by delegating complex programming tasks to autonomous agents."
+                "Anthropic launches Claude Opus 4.8 offering enhanced performance across professional coding and autonomous agentic work.",
+                "Early benchmark tests demonstrate a substantial increase in task consistency during highly complex long-running computational workloads.",
+                "The upgrade addresses critical developer friction points by optimizing context retrieval capabilities within deep technical frameworks.",
+                "System architects can now deploy more reliable background workflows without experiencing severe operational degradation over time."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: VIBE CODE AGENTS",
-            "points": [
-                "Mistral AI releases Vibe for Code, executing autonomous long-horizon programming tasks directly within terminal environments.",
-                "The architecture provides developers with persistent memory and reusable skills to translate legacy codebases at scale.",
-                "This platform optimizes enterprise developer velocity through native integration into active continuous deployment and integration pipelines.",
-                "Chief technology officers project massive reductions in technical debt as autonomous agents refactor outdated legacy application codebases."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
             "heading": "ANTHROPIC: MYTHOS SECURITY AUDIT",
             "points": [
-                "Anthropic's Mythos Preview uncovers over ten thousand critical security vulnerabilities at major technology conglomerates within thirty days.",
-                "This automated system accelerates vulnerability detection speeds, revealing critical gaps in legacy enterprise perimeter defense architectures.",
-                "Chief information security officers must shift from standard static compliance checklists to continuous automated observability tools.",
-                "Experts predict a surge in preventative patching cycles as enterprise organizations deploy advanced models to harden networks."
+                "Anthropic's Claude Mythos Preview identifies over ten thousand critical security vulnerabilities during its initial month.",
+                "The massive exposure prompts urgent system patches across several prominent multinational technology conglomerates and cloud providers.",
+                "Automated vulnerability discovery highlights the dual-use risks and defensive opportunities inherent in advanced autonomous agent systems.",
+                "Enterprise security leads must transition toward continuous, AI-driven penetration testing protocols to secure vulnerable software."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ROBOTICS STARTUP: MILITARY HUMANOID DEPLOYMENT",
+            "id": 4,
+            "heading": "AWS: OPENSEARCH SERVERLESS UPGRADE",
             "points": [
-                "A prominent military-linked robotics startup initiates field testing of advanced humanoid machines in active conflict zones.",
-                "Tactical evaluation measures real-world durability and automated decision-making metrics under highly challenging operational environmental conditions.",
-                "The integration of physical artificial intelligence represents a paradigm shift toward fully automated frontline defense applications globally.",
-                "Military strategists anticipate rapid deployment of specialized autonomous platforms to mitigate personnel risks during high-threat tactical maneuvers."
+                "Amazon Web Services fully rebuilds OpenSearch Serverless while integrating native autonomous agent execution skills directly.",
+                "This upgrade optimizes operational resource allocation and minimizes processing overhead costs for highly distributed enterprise databases.",
+                "Decoupling search mechanisms from fixed infrastructure allows developers to construct high-throughput context-aware artificial intelligence agents.",
+                "Database administrators should adopt this architecture to streamline vector operations without managing underlying computing clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://aws.amazon.com/blogs/aws",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: SOVEREIGN CLOUD PARTNERSHIP",
+            "points": [
+                "Mistral AI collaborates with Digital Realty to significantly scale localized high-performance European artificial intelligence infrastructure.",
+                "The joint venture provides enterprise clients with low-latency access to sovereign cloud storage and computing resources.",
+                "Aligning with the European Union AI Act enforces stringent compliance standards across distributed public sector workloads.",
+                "European organizations can securely scale sensitive data models while keeping operational infrastructure fully within local jurisdictions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE DEEPMIND: GEMINI OMNI PLATFORM",
+            "heading": "AMD: RYZEN HALO PLATFORM",
             "points": [
-                "Google DeepMind introduces Gemini Omni to seamlessly synthesize multi-modal video, audio, and text inputs in real time.",
-                "The system processes diverse data streams simultaneously, achieving unprecedented throughput levels across distributed enterprise edge networks.",
-                "This unified architectural model eliminates complex modular pipelines, simplifying the deployment of conversational artificial intelligence agents.",
-                "Enterprise architects project highly responsive cognitive applications as developers harness native real-time multi-modal output capabilities."
+                "Advanced Micro Devices unveils the Ryzen AI Halo Developer Platform to empower local machine learning operations.",
+                "The processors deliver unmatched power efficiency, drastically lowering local energy consumption during continuous hardware execution tasks.",
+                "This hardware-first approach shifts execution paradigms by enabling high-performance localized agent computers directly at edge boundaries.",
+                "Desktop developers can now run complex model evaluations locally without relying on expensive cloud-based server arrays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AWS: OPENSEARCH SERVERLESS REBUILD",
+            "heading": "IBM: OPEN SOURCE SECURITY",
             "points": [
-                "Amazon Web Services fully rebuilds OpenSearch Serverless, introducing specialized native agent skills for enterprise vector search.",
-                "The architectural update eliminates manual indexing overhead, drastically reducing the operational costs of large-scale cognitive search systems.",
-                "Engineers can now easily build highly scalable retrieval-augmented generation workloads without managing underlying virtual machine clusters.",
-                "System administrators forecast enhanced query performance and simplified data ingestion pipelines across multi-tenant enterprise cloud environments."
+                "IBM and Red Hat commit five billion dollars to bolster cybersecurity defenses within open-source ecosystems.",
+                "The massive funding will accelerate the deployment of audited enterprise software registries across cloud environments globally.",
+                "Securing base layers protects critical digital infrastructure from sophisticated supply chain compromises and persistent threat actors.",
+                "Development teams will benefit from pre-hardened components, reducing time-to-market for compliant enterprise-grade software applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
