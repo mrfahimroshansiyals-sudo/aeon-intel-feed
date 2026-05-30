@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "HYPER-SCALE AGENTIC",
-        "titleBlue": "ORCHESTRATION"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "SYSTEMS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: MYTHOS VULNERABILITY DISCOVERY",
+            "heading": "OPENAI: GPT-5.5 MODEL DEPLOYMENT",
             "points": [
-                "Anthropic's Mythos Preview automated agent successfully exposed over ten thousand severe security vulnerabilities across multiple technology giants.",
-                "The automated system identified widespread architectural flaws across complex corporate networks within its first thirty days of operational deployment.",
-                "High-performance security agents are transforming cybersecurity from slow manual audits to continuous autonomous vulnerability discovery and remediation pipelines.",
-                "Security executives must quickly implement defensive AI guardrails to counter highly rapid, machine-speed exploitation of exposed network vulnerabilities."
+                "OpenAI officially released GPT-5.5 to enhance frontier intelligence and advanced system execution.",
+                "The model delivers an immediate 40 percent boost in multi-step analytical reasoning capabilities.",
+                "This release represents a shift toward highly autonomous agentic workflows across enterprise networks.",
+                "Enterprise systems must adapt rapidly as autonomous agents assume complex transactional responsibilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "ANTHROPIC: OPUS 4.8 UPGRADE",
             "points": [
-                "Anthropic launched Claude Opus 4.8 to deliver superior performance in complex coding, multi-step scheduling, and long-horizon agentic tasks.",
-                "The model provides massive consistency improvements for complex workflows running continuously across enterprise software engineering environments.",
-                "The upgrade shifts AI development toward highly autonomous systems capable of executing prolonged transactional processes without human oversight.",
-                "Engineering teams can now delegate entire legacy code refactoring pipelines to self-correcting agents operating within persistent cloud environments."
+                "Anthropic launched Claude Opus 4.8 to improve agentic tasks and long-running developer workflows.",
+                "Benchmarks reveal substantial accuracy gains in automated legacy code translation and pipeline optimization.",
+                "The release aligns with Project Glasswing to protect critical software infrastructure from vulnerabilities.",
+                "Organizations can now confidently delegate high-complexity engineering tasks to localized agent structures."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "SALESFORCE: AGENTIC CRM INTEGRATION",
+            "heading": "DEEPMIND: GEMINI 3.5 ARCHITECTURE",
             "points": [
-                "Salesforce launched the Headless 360 framework to seamlessly embed comprehensive customer database access within external AI agent architectures.",
-                "Integrating real-time transaction records directly into active agent workspaces eliminates API latency overhead for automated business workflows.",
-                "Decoupling the legacy presentation layer from underlying customer data enables highly flexible, secure model-to-database connections at global scale.",
-                "Chief information officers must transition to flexible consumption-based budgeting to accommodate unpredictable database queries from autonomous agents."
+                "Google DeepMind introduced Gemini 3.5 to combine real-time action models with multi-modal capabilities.",
+                "Operational latency decreased by 30 percent during complex video and voice processing tests.",
+                "The architecture integrates Gemini Omni to unify multi-agent execution frameworks within enterprises.",
+                "This deployment will accelerate the transition toward highly responsive physical and digital environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMAZON: INFERENCE COST MANAGEMENT",
+            "heading": "AMD: VENICE 2NM TSMC PRODUCTION",
             "points": [
-                "Amazon terminated an internal developer tokenmaxxing leaderboard program to eliminate uncontrolled spending on model training and execution.",
-                "Rogue testing of massive context-window queries by developers triggered immediate, unsustainable cloud hosting and raw compute operational expenses.",
-                "Ungoverned employee access to experimental generative models highlights a critical enterprise requirement for real-time inference guardrails and quotas.",
-                "Operational managers must deploy automated policy enforcement mechanisms to prevent unexpected budget depletion from massive token consumption."
+                "AMD initiated the production ramp of its Venice EPYC processors using TSMC's 2nm nanosheet.",
+                "The transition delivers a 15 percent performance increase over previous generation server architectures.",
+                "Integrating nanosheet technology with backside power rails resolves critical high-performance compute power bottlenecks.",
+                "Enterprise data centers will achieve unprecedented energy efficiency ratios for heavy AI workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "QUANTUM CRYPTO: SWISS RANDOMIZATION",
+            "heading": "MICROSOFT: AGENTIC DEVOPS INTEGRATION",
             "points": [
-                "Swiss researchers engineered a certifiably perfect random number source leveraging quantum mechanics to revolutionize global cryptographic data security.",
-                "The physical device delivers absolute statistical unpredictability, eliminating predictable patterns that compromise traditional pseudo-random number generator algorithms.",
-                "True quantum randomness establishes a secure foundation for unbreakable encryption keys required by next-generation decentralized cloud infrastructure.",
-                "Security architects must integrate physical quantum sources into existing key-management systems to defend against advanced algorithmic decryption threats."
+                "Microsoft integrated new agentic capabilities connecting Azure and GitHub to streamline developer workflows.",
+                "Automated agents reduce enterprise technical debt by 35 percent through continuous codebase refactoring.",
+                "The workflow merges GitHub Copilot directly with local cloud environment monitoring and configuration tools.",
+                "This unified framework represents a fundamental shift toward self-healing and autonomous software pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GARTNER: ENTERPRISE AGENT GOVERNANCE",
+            "heading": "ANTHROPIC: MYTHOS SECURITY AUDITS",
             "points": [
-                "Gartner projected forty percent of enterprises will decommission or demote active autonomous agents due to severe governance failures.",
-                "Enterprise deployments face sudden operational blocks as uncoordinated agentic actions trigger cascading software errors across core infrastructure.",
-                "Deploying independent software agents without unified observability layers creates unmanageable compliance, security, and transaction-tracking operational hazards.",
-                "Technology leaders should prioritize orchestration frameworks and rigid validation boundaries before deploying autonomous agents into production environments."
+                "Anthropic's Claude Mythos Preview exposed over 10,000 high-risk security flaws across global technology firms.",
+                "The automated vulnerability discovery model scanned multi-repository codebases in less than thirty minutes.",
+                "This evaluation triggers an urgent need for advanced real-time AI security and patching guardrails.",
+                "Enterprise CISOs must redesign threat detection architectures to defend against rapid machine-generated attacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ROBINHOOD: TRANSACTIONAL AGENT TRADING",
+            "heading": "MISTRAL AI: VIBE LONG-HORIZON AGENT",
             "points": [
-                "Robinhood announced new API integrations enabling authorized AI agents to execute financial trades and complete secure transactional transfers autonomously.",
-                "Decoupling user execution allows high-speed algorithmic agents to adjust portfolio structures in response to volatile microsecond market fluctuations.",
-                "Empowering models to act as fiduciary representatives shifts standard automated trading toward fully cognitive, agent-driven wealth management ecosystems.",
-                "Financial regulators will likely introduce strict identity verification guidelines specifically targeting non-human entities executing trades on public networks."
+                "Mistral AI launched the Vibe agent platform designed to execute multi-step long-horizon enterprise tasks.",
+                "The system handles complex document synthesis and autonomous code reviews across distributed development networks.",
+                "This release implements persistent memory and reusable skill execution to maintain deep contextual consistency.",
+                "Organizations can now automate prolonged operational workflows without losing critical high-level strategic alignment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
