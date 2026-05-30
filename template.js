@@ -1,98 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "SURGE"
+        "titleWhite": "NEXT-GEN AGENTIC",
+        "titleBlue": "SYNAPSE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DELL: AI SERVER REVENUE PEAK",
+            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
             "points": [
-                "Dell reported unprecedented fiscal growth driven by explosive demand for enterprise AI-grade server infrastructure globally.",
-                "Revenue metrics indicate that AI hardware deployment is now the primary driver for corporate capital expenditure.",
-                "Analysts note this surge validates the transition from experimental AI pilots to massive, production-scale infrastructure rollouts.",
-                "The company successfully courted major US leadership, securing favorable positioning within the new domestic industrial policy framework."
+                "OpenAI officially deploys GPT-5.5 featuring state-of-the-art native intelligence and deep multi-modal content reasoning capabilities.",
+                "The system provides immediate performance improvements for complex scientific simulations and localized enterprise development environments.",
+                "Architectural integration establishes advanced content provenance frameworks to ensure secure data tracking across production pipelines.",
+                "Industry experts forecast rapid integration of specialized life sciences models across commercial biotechnology platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL: AGENTIC VIBE DEPLOYMENT",
+            "heading": "ANTHROPIC: OPUS 4.8 ENGINE",
             "points": [
-                "Mistral AI launched Vibe, an autonomous agent platform designed for long-horizon task execution and workflow orchestration.",
-                "The architecture supports persistent memory, enabling agents to retain context across complex, multi-step enterprise business processes.",
-                "Mistral Compute infrastructure now provides frontier-grade scaling for organizations integrating agents into maritime and financial operations.",
-                "By automating document synthesis and scheduling, Vibe significantly reduces the operational overhead of traditional software development cycles."
+                "Anthropic rolls out Claude Opus 4.8 optimized for long-running workflows and complex software engineering tasks.",
+                "Developers report significant speed improvements and lower error rates during complex multi-step agentic application execution.",
+                "The model utilizes advanced context engineering parameters to minimize memory drift during highly complex processing operations.",
+                "Enterprises deploying this system will achieve unprecedented automation capabilities across legacy engineering pipelines by next year."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: MYTHOS VULNERABILITY SWEEP",
+            "heading": "AMD: VENICE 2NM CHIPS",
             "points": [
-                "Anthropic's Mythos Preview identified over 10,000 security flaws within major enterprise tech stacks in one month.",
-                "This initiative highlights the dual-use risk where AI agents can proactively discover vulnerabilities faster than human teams.",
-                "Security professionals are now treating the deployment of agentic models as a high-stakes, adversarial cybersecurity arms race.",
-                "The findings mandate a shift in governance from compliance checklists to rigorous, real-time observability in agentic systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE: GEMINI AGENT ORCHESTRATION",
-            "points": [
-                "Google Cloud introduced Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct action capabilities.",
-                "The platform provides a unified registry for agent orchestration, simplifying the lifecycle management of complex AI apps.",
-                "New threat defense tools allow enterprises to actively outpace adversarial attacks by monitoring agent behavior in real-time.",
-                "Development velocity is accelerated through the GEAR program, providing standardized credits for learning agentic architecture design."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AWS: AGENTIC DATA SUBSTRATE",
-            "points": [
-                "AWS is rebuilding OpenSearch Serverless to incorporate native Agent Skills for improved enterprise data retrieval and analysis.",
-                "The shift towards agentic workflows in AWS is reducing the complexity and technical debt of legacy infrastructure migrations.",
-                "Cloud-based agentic frameworks allow for seamless integration between dev environments and production-grade software deployment pipelines.",
-                "The provider is heavily betting on Bedrock AgentCore to unify multi-model workflows for 100M+ customer support scale."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: AGENTIC CPU GPU EQUATION",
-            "points": [
-                "AMD's new strategy integrates CPUs and GPUs to move AI systems from conversational answers to automated actions.",
-                "The Ryzen AI Halo platform facilitates local AI development, effectively decoupling critical agentic workloads from the cloud.",
-                "Over 10 billion in investments across the Taiwan ecosystem accelerates the manufacturing ramp of EPYC Venice processors.",
-                "This holistic portfolio approach ensures enterprise-level reliability, efficiency, and scalability for next-generation data center AI infrastructure."
+                "AMD invests over ten billion dollars in Taiwan to accelerate advanced global artificial intelligence infrastructure.",
+                "The corporate initiative targets immediate production ramp of next-generation EPYC Venice processors on TSMC two-nanometer nodes.",
+                "Integrating backside power solutions allows data centers to maximize performance while maintaining stringent energy efficiency metrics.",
+                "This hardware transition will likely redefine high-performance computing paradigms for sovereign cloud architectures within eighteen months."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADE",
+            "id": 4,
+            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADING",
             "points": [
-                "Robinhood is integrating AI agents to execute financial trades and perform spending tasks on behalf of users.",
-                "This move signals a broader trend of agentic systems moving into highly regulated and mainstream retail financial markets.",
-                "Financial leaders are monitoring the emergence of these automated transaction agents for potential risks and systemic market impact.",
-                "The development requires new guardrails for agentic decision-making to maintain strict compliance with financial industry regulations."
+                "Robinhood launches specialized tools allowing autonomous agents to execute financial transactions and trade on user behalf.",
+                "This integration shifts consumer finance platforms toward completely decentralized agentic transaction models for retail investing.",
+                "The transaction framework employs strict security boundaries alongside real-time user validation parameters for risk mitigation.",
+                "This development is predicted to trigger a major paradigm shift in automated wealth management systems globally."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TECHTARGET: MYTHOS VULNERABILITY AUDIT",
+            "points": [
+                "Anthropic Claude Mythos Preview uncovers over ten thousand security vulnerabilities during its initial month of testing.",
+                "The findings demonstrate profound potential for automated vulnerability discovery within enterprise software and cloud networks.",
+                "Enterprise IT leaders must now adapt their cybersecurity architectures to defend against automated, AI-driven penetration attacks.",
+                "This discovery will accelerate the development of autonomous defensive systems capable of real-time network patch deployment."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI PLATFORM",
+            "points": [
+                "Google DeepMind launches Gemini Omni, a native multi-modal platform starting with real-time video and audio processing.",
+                "The architecture provides ultra-low latency processing, allowing users to build highly interactive environmental simulation tools.",
+                "Developers can orchestrate multi-model workflows using advanced agentic execution layers powered by next-generation TPU hardware.",
+                "This framework will rapidly accelerate the deployment of physical AI agents in real-world robotics settings."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL AI: VIBE AUTONOMOUS ENGINE",
+            "points": [
+                "Mistral AI introduces Vibe, an autonomous agent engineered to execute complex, long-horizon tasks and professional work.",
+                "ASML successfully integrates these models to accelerate advanced semiconductor lithography and automated software development pipelines.",
+                "The agentic framework leverages persistent memory and reusable skill registries to achieve structured data analysis capabilities.",
+                "Future iterations will likely transform global logistics and maritime transport operations through localized agent coordination networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
