@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE COMPUTE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "AUTONOMOUS AGENTIC ARCHITECTURE",
+        "titleBlue": "TRANSFORMATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 LAUNCH",
+            "heading": "OPENAI: GPT-5.5 ENGINE LAUNCH",
             "points": [
-                "OpenAI deploys GPT-5.5 featuring frontier intelligence and native multi-model capabilities for complex corporate tasks.",
-                "Enterprise developers access the new API to accelerate complex operational automation and model orchestration workflows.",
-                "The model sets a brand new benchmark in natural language execution and automated code deployment.",
-                "Organizations transitioning to this model expect to see a drastic reduction in legacy integration costs."
+                "OpenAI has launched GPT-5.5 introducing advanced native multimodal reasoning and next-generation logic processing capabilities.",
+                "This model elevates standard code generation and complex multi-step execution logic across diverse enterprise workloads.",
+                "The architectural upgrade ensures deep optimization for distributed agent frameworks operating across high-scale cloud clusters.",
+                "Enterprise developers can immediately integrate the model to coordinate complex autonomous workflows with enhanced precision."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: OPUS UPGRADE",
+            "heading": "ANTHROPIC: CLAUDE OPUS 4.8",
             "points": [
-                "Anthropic releases Claude Opus 4.8 alongside Mythos Preview to systematically audit enterprise software environments.",
-                "The automated security testing suite exposed ten thousand critical security vulnerabilities during its initial month.",
-                "Systems architects are leveraging the upgraded model to autonomously identify and patch zero-day application exploits.",
-                "Chief information security officers predict this will revolutionize automated security operations across cloud infrastructure."
+                "Anthropic released Claude Opus 4.8 featuring massive upgrades across coding performance and complex professional reasoning.",
+                "The model exhibits superior consistency designed specifically for handling long-running multi-agent infrastructure orchestration tasks.",
+                "This development targets the critical enterprise demand for reliable autonomous software engineering and system design pipelines.",
+                "Organizations can utilize the upgraded architecture to mitigate latency and optimize complex algorithmic software reviews."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEEPMIND: AGENTIC FRONTIER",
+            "heading": "ROBINHOOD: AGENTIC TRANSACTION CORE",
             "points": [
-                "Google DeepMind unveils Gemini 3.5 and Gemini Omni, combining advanced reasoning with real-time video-to-anything generation.",
-                "Early test deployments show a massive decrease in multi-step execution latency for agentic software workflows.",
-                "The architecture leverages a new unified multi-agent system to safely orchestrate complex autonomous digital tasks.",
-                "Developers are shifting production workflows to this model to enable continuous execution-level system automation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: VENICE TSMC 2NM",
-            "points": [
-                "AMD announces production ramp of Venice EPYC processors built on TSMC's advanced two-nanometer process technology.",
-                "The innovative backside power solution offers significant improvements in performance-per-watt for high-performance computing centers.",
-                "Silicon manufacturing partners are accelerating production schedules to meet surging global demand for AI-optimized chipsets.",
-                "Datacenter operators will acquire these processors to achieve unprecedented energy efficiency in large-scale model training."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SOFTBANK: MASSIVE COMPUTE INVESTMENTS",
-            "points": [
-                "SoftBank pledges seventy-five billion euros to construct Europe's largest artificial intelligence compute facility in France.",
-                "The sovereign data center infrastructure will support massive neural network training and high-performance cloud operations.",
-                "European technology leaders plan to leverage this capacity to build localized, compliant AI sovereign models.",
-                "This capital injection establishes France as the leading hub for high-performance computing on the continent."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AWS: REBUILT SERVERLESS SEARCH",
-            "points": [
-                "Amazon Web Services rebuilds OpenSearch Serverless, introducing native agent skills for highly autonomous data orchestration.",
-                "The update reduces engineering complexity by enabling intelligent agents to execute automated queries and transactions.",
-                "Database engineers can now construct serverless agentic workflows without managing complex underlying vector storage layers.",
-                "Enterprises deploying these features will experience significantly faster retrieval times for large-scale production semantic searches."
+                "Robinhood announced plans to authorize autonomous artificial intelligence agents to execute financial trades on customer behalf.",
+                "The system introduces programmatic spending protocols that bridge generative capabilities directly with secure transaction processing backends.",
+                "This milestone represents a major shift toward automated wealth management and agent-driven capital allocation frameworks.",
+                "Financial institutions must adapt security architectures to support high-throughput machine-to-machine microtransactions under strict compliance controls."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MODULAR: MOJO PRODUCTION READY",
+            "id": 4,
+            "heading": "CYBERSECURITY: CLAUDE MYTHOS FLAWS",
             "points": [
-                "Modular officially launches Mojo 1.0, combining Python's developer accessibility with Rust's precise systems-level memory control.",
-                "The language delivers massive performance gains by optimizing hardware-level execution across diverse GPU accelerator architectures.",
-                "Software developers are adopting this toolkit to build lightning-fast machine learning pipelines without execution overhead.",
-                "Industry experts predict Mojo will become the primary systems programming language for edge AI applications."
+                "Comprehensive testing of Anthropic Claude Mythos Preview exposed over ten thousand distinct cybersecurity vulnerabilities at tech giants.",
+                "The widespread findings highlight critical vulnerabilities while demonstrating how advanced models speed up defensive and offensive security.",
+                "Chief information security officers face unprecedented pressure to implement continuous observability over autonomous AI vulnerability scanners.",
+                "Regulatory compliance frameworks must evolve rapidly to establish clear accountability rules for machine-detected software vulnerability remediations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AWS: OPENSEARCH SERVERLESS UPGRADE",
+            "points": [
+                "Amazon Web Services rebuilt OpenSearch Serverless to introduce advanced integrated agent skills for enterprise vector search.",
+                "The updated infrastructure enables developer teams to orchestrate autonomous retrieval workflows directly within serverless vector databases.",
+                "This integration reduces compute overhead while optimizing information synthesis across vast distributed unstructured corporate knowledge networks.",
+                "Database administrators can leverage pre-built skills to accelerate the deployment of high-performance contextual retrieval systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.5 DEPLOY",
+            "points": [
+                "Google DeepMind launched Gemini 3.5 alongside Gemini Omni establishing native multi-modal execution capabilities across edge environments.",
+                "The system features the Co-Scientist multi-agent platform designed to accelerate complex scientific discovery and research processes.",
+                "These models integrate high-speed vision and audio reasoning to drive immediate real-world action in enterprise applications.",
+                "Cloud architects can harness this unified model family to consolidate media processing and multi-step cognitive workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "NVIDIA: PHYSICAL ROBOTICS ENGINE",
+            "points": [
+                "NVIDIA Research introduced a breakthrough pipeline advancing physical artificial intelligence from simulation environments to the real world.",
+                "The platform uses NemoClaw and Nemotron on-premise technologies to orchestrate complex spatial reasoning and manipulation tasks.",
+                "This architecture bridges the gap between digital generative systems and mechanical execution in heavy industrial settings.",
+                "Industrial engineers can rapidly scale automated robot operations across complex manufacturing floors with unified simulation verification."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
