@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED AGENTIC",
+        "titleWhite": "NEXT GEN SILICON",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: OPUS UPGRADE",
+            "heading": "OPENAI: GPT-5.5 LAUNCH",
             "points": [
-                "Anthropic released Claude Opus 4.8 alongside the Mythos Preview to secure complex agentic pipelines.",
-                "Mythos preview testing successfully exposed over ten thousand severe security flaws within global enterprise platforms.",
-                "This model delivers advanced multi-step reasoning capabilities to execute secure and persistent autonomous coding workflows.",
-                "Enterprise development teams will leverage these agentic frameworks to accelerate software deployment under strict security."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.5 DEPLOYMENT",
-            "points": [
-                "OpenAI launched GPT-5.5 and ChatGPT Images 2.0 to enable multimodal enterprise operations.",
-                "The new frontier model offers eighteen-minute read response speeds for processing massive biological data sets.",
-                "Integrating GPT-Rosalind allows researchers to automate discrete geometry calculations and complex life science workflows.",
-                "Global laboratories will deploy automated coding agents to accelerate drug discovery pipelines without misalignment risks."
+                "OpenAI officially releases GPT-5.5, introducing enhanced multi-step execution capabilities and advanced native reasoning structures.",
+                "Enterprise workflows can now automate highly complex transactional procedures with significantly reduced latency overheads.",
+                "This launch signals a major shift toward completely autonomous systems capable of continuous background task orchestration.",
+                "Organizations must immediately redesign their legacy API pipelines to leverage these next-generation agentic models safely."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "NVIDIA: RTX SPARK ENGINE",
+            "id": 2,
+            "heading": "NVIDIA: RTX SPARK DEBUT",
             "points": [
-                "Nvidia unveiled the RTX Spark superchip to power locally-run agentic software across commercial laptop ecosystems.",
-                "The platform accelerates physical artificial intelligence systems to run complex calculations inside active industrial environments.",
-                "Deploying Alpamayo 2 and Cosmos 3 enables autonomous vehicles to analyze spatial data before execution.",
-                "Auto manufacturers will adopt these reference humanoid systems to automate factory assembly lines using physical AI."
+                "NVIDIA unveils the RTX Spark system-on-chip, engineered to run complex autonomous agent architectures locally on personal computers.",
+                "Hardware-accelerated local intelligence reduces dependence on centralized cloud computing resources, dropping data transit costs dramatically.",
+                "This hardware initiative directly challenges existing silicon architectures from competitors Apple, Intel, and AMD.",
+                "Software developers must optimize their client-side applications to utilize on-device neural processing units effectively."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "GOOGLE: GEMINI ACTION SERIES",
+            "id": 3,
+            "heading": "SOFTBANK: VALUATION SURGE",
             "points": [
-                "Google released Gemini 3.5 and Gemini Omni to combine frontier intelligence with autonomous agent actions.",
-                "These models process video inputs directly to orchestrate real-time translations across disparate enterprise database pipelines.",
-                "Using Google Flow and Co-Scientist networks enables complex collaboration to accelerate molecular research efforts.",
-                "Enterprise developers will deploy these agentic models to eliminate legacy computing silos through unified workflows."
+                "SoftBank overtakes Toyota as Japan\u2019s most valuable enterprise, driven by unprecedented investor demand for AI-focused infrastructure assets.",
+                "This capital reallocation validates long-term investment strategies focused on sovereign microchip factories and global compute networks.",
+                "The valuation flip highlights the shifting macroeconomic balance from traditional physical manufacturing to high-growth digital technologies.",
+                "Institutional portfolios are likely to accelerate capital migration into businesses controlling critical artificial intelligence hardware pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: ALPAMAYO REASONING",
+            "points": [
+                "NVIDIA releases Alpamayo 2, a super open reasoning model designed to vocalize internal decision-making inside autonomous robotaxis.",
+                "Real-time verbalization of situational planning significantly builds passenger trust and enhances machine-to-human interface transparency.",
+                "Integrating deep reasoning pathways directly into physical edge devices marks a massive evolution for autonomous machine control.",
+                "Regulatory bodies may mandate verbalized reasoning architectures to simplify the auditing of autonomous vehicle accidents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: VENICE 2NM SILICON",
+            "heading": "NVIDIA: UNITREE INTEGRATION",
             "points": [
-                "AMD announced production scaling for its next-generation Venice EPYC processors using TSMC 2nm process technology.",
-                "The advanced hardware delivers optimal total cost of ownership while driving high-performance enterprise data center workloads.",
-                "Combining Ryzen AI Halo architectures with adaptive computing cards accelerates on-premise model execution at the edge.",
-                "Infrastructure architects will utilize these physical accelerators to sustain sovereign AI computation under lower power footprints."
+                "NVIDIA selects Chinese robotics pioneer Unitree to integrate with its proprietary hardware platforms for physical intelligence applications.",
+                "This strategic alignment accelerates commercialization timelines for advanced bipedal platforms across various industrial manufacturing environments.",
+                "Joint hardware and software ecosystems enable rapid deployment of standardized robotics skills across diverse enterprise sectors.",
+                "Global manufacturers must prepare for automated physical labor forces as humanoid hardware costs continue to decrease."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: VIBE PLATFORM",
+            "heading": "CHINA: NEURAL INTERFACE CHIP",
             "points": [
-                "Mistral AI launched the Vibe autonomous agent stack for long-horizon enterprise tasks and code translation.",
-                "Partnering with Digital Realty scales European infrastructure to deploy secure localized model fine-tuning and hosting.",
-                "The system implements persistent memory capabilities to schedule multi-step workloads across hybrid cloud runtime environments.",
-                "Global maritime and financial enterprises will automate legacy database modernization by running sandboxed code generation."
+                "China officially approves the world\u2019s first invasive brain-computer interface chip, marking a monumental milestone in neural technology.",
+                "This medical clearance unlocks direct high-bandwidth data transfers between human cortical regions and external silicon computing systems.",
+                "The development establishes a competitive front for cognitive sovereignty, bypassing traditional external muscular control interfaces entirely.",
+                "Ethical frameworks must be aggressively updated to govern personal cognitive privacy as cybernetic implants become commercially viable."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AWS: OPENSEARCH SERVERLESS",
+            "heading": "ANTHROPIC: MYTHOS TESTING",
             "points": [
-                "Amazon rebuilt its OpenSearch Serverless platform to introduce specialized agent skills for real-time information retrieval.",
-                "The upgrade cuts operational latency by executing automated queries directly over distributed enterprise database architectures.",
-                "Incorporating Bedrock AgentCore workflows allows developers to orchestrate multi-model systems without manual integration overhead.",
-                "Enterprises will transition toward serverless knowledge engines to securely synthesize unstructured files for automated assistants."
+                "Anthropic\u2019s Mythos Preview model uncovers over ten thousand security vulnerabilities across major global technology firms during initial testing.",
+                "Automated exploit identification exposes critical system weaknesses at scale, threatening legacy software infrastructure safety and security.",
+                "The offensive deployment of AI-driven vulnerability scanners alters the balance of power between system attackers and defenders.",
+                "Enterprise security operations must implement continuous automated patching systems to counter rapidly escalating AI-driven threat vectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
