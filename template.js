@@ -1,98 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT ERA",
-        "titleBlue": "INTELLIGENCE"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: CONFIDENTIAL IPO FILING",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "Anthropic has confidentially filed its initial public offering prospectus with the Securities and Exchange Commission.",
-                "The enterprise valuation reached nine hundred billion dollars following a massive funding round last week.",
-                "This strategic listing represents a historic milestone, positioning the startup directly ahead of rival OpenAI.",
-                "Financial markets anticipate this offering will catalyze unprecedented liquidity across the entire artificial intelligence ecosystem."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: ALPAMAYO REASONING ENGINE",
-            "points": [
-                "Nvidia launched the Alpamayo two super open reasoning model designed specifically for autonomous driving applications.",
-                "The architecture provides real-time audio output of the vehicle's internal thinking and strategic decision-making path.",
-                "This integration delivers unprecedented safety validation for commercial robotaxi networks operating in dense urban environments.",
-                "Developers expect this platform to accelerate autonomous vehicle deployment by bridging critical neural reasoning gaps."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FIVETRAN & DBT: DATA MERGER",
-            "points": [
-                "Fivetran and DBT Labs completed their merger to build a unified enterprise data integration layer.",
-                "The combined architecture delivers optimized data pipelines essential for deploying real-time autonomous intelligence agents.",
-                "This consolidation eliminates significant engineering overhead associated with migrating distributed databases into modern modeling frameworks.",
-                "Enterprises can now orchestrate high-throughput processing environments with superior governance, lineage tracking, and operational efficiency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FLOWISE: MCP SECURITY VULNERABILITY",
-            "points": [
-                "A critical security vulnerability in the Flowise Model Context Protocol implementation allows execution of unauthorized commands.",
-                "The exploit exposes system resources to automated hijacking through malicious prompts embedded in external files.",
-                "Security researchers warn that uncontrolled agent execution risks introducing significant liabilities across production DevOps pipelines.",
-                "Systems administrators must immediately deploy emergency patches to protect critical server nodes from unauthorized orchestration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "IEEE: MEMORY WALL BREAKTHROUGH",
-            "points": [
-                "Engineering teams unveiled a novel server architecture engineered specifically to overcome the hardware memory wall.",
-                "The hardware breakthrough maximizes bandwidth throughput between advanced processing units and massive high-performance storage arrays.",
-                "This structural redesign significantly reduces operational latency during large-scale model training and complex inference tasks.",
-                "Hyperscalers plan to integrate these modular designs to drastically improve computing efficiency inside next-generation facilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "OPENAI: GPT-5.5 ARCHITECTURE",
-            "points": [
-                "OpenAI officially released its next-generation GPT five point five model showcasing advanced reasoning and agency.",
-                "The new model delivers substantial performance upgrades across complex engineering, logic, and multi-step task execution.",
-                "Developers can leverage native integration frameworks to build reliable autonomous agents with persistent memory systems.",
-                "This release solidifies frontier capabilities while driving down compute overhead for large-scale enterprise production environments."
+                "OpenAI has launched its frontier GPT-5.5 model, introducing advanced multi-modal capabilities and reasoning.",
+                "The model improves operational execution speeds while cutting API latency for enterprise workloads significantly.",
+                "This launch positions OpenAI to capture dominant share in agentic workflow orchestration frameworks.",
+                "Enterprises must immediately audit legacy pipelines to integrate these highly optimized reasoning capabilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "COREWEAVE: NEOCLOUD STACK EXPANSION",
+            "id": 2,
+            "heading": "ALPHABET: $10B BERKSHIRE INVESTMENT",
             "points": [
-                "Neocloud infrastructure provider CoreWeave significantly expanded its enterprise software stack for massive training clusters.",
-                "The platform became the first provider to host Nvidia's newest high-performance hardware computing systems.",
-                "This deployment enables rapid scale-out options for companies developing advanced reasoning and generative foundation models.",
-                "Industry analysts predict this rollout will disrupt traditional cloud providers by offering highly optimized hardware instances."
+                "Berkshire Hathaway has deployed an additional ten billion dollars into Alphabet, reinforcing its AI positioning.",
+                "The massive capital injection enhances Google's capacity to scale high-density data center infrastructure globally.",
+                "This investment signals Wall Street confidence in Alphabet's long-term proprietary chip and model strategy.",
+                "Competitors face intensified pressure as Google accelerates custom TPUs and agentic cloud platform development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "CREDO TECH: METRIC VALIDATION",
+            "points": [
+                "Credo Technology experienced a stock decline despite reporting a remarkable hundred-fifty-seven percent revenue growth.",
+                "Market reactions highlight extreme valuation pressures and elevated expectations for hardware enablers in AI.",
+                "Connectivity bottlenecks remain a critical focal point for scaling next-generation optical and silicon architectures.",
+                "Investors will demand immediate hardware performance validation before committing further capital to infrastructure players."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "HPE: AI INFRASTRUCTURE RAMP",
+            "points": [
+                "Hewlett Packard Enterprise surged thirty percent following its strongest corporate earnings beat since fiscal year eighteen.",
+                "High-density liquid cooling demand drove record-breaking order backlogs for enterprise AI system architectures.",
+                "The performance underscores a rapid pivot from experimental pilots to scaled physical infrastructure deployment.",
+                "Enterprise buyers must secure long-term hardware allocations to avoid severe supply chain bottleneck constraints."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE LAUNCH",
+            "points": [
+                "Nvidia has launched open-source tools and runtime security controls to optimize agentic AI developer workflows.",
+                "The newly introduced CPU architecture significantly minimizes communication latency between physical autonomous robotic systems.",
+                "Nvidia's expansion into full-stack agentic software solidifies its competitive moat beyond baseline GPU hardware.",
+                "Organizations will rapidly transition toward physical AI systems powered by open, secure development frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "STANFORD HAI: CODING AGENT LIMITS",
+            "points": [
+                "Stanford HAI researchers demonstrated that autonomous AI coding agents fail to collaborate effectively in teams.",
+                "System tests showed high error rates and coordination failures when agents attempted multi-step collective tasks.",
+                "The study highlights critical limitations in current multi-agent orchestration architectures for complex software engineering.",
+                "Software architects must maintain strict human-in-the-loop oversight to avoid compound technical debt generation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://hai.stanford.edu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "FIVETRAN & DBT: DATA LAYER MERGER",
+            "points": [
+                "Fivetran and dbt Labs have completed a merger to establish a unified data layer for AI.",
+                "The integration eliminates traditional pipeline complexity, accelerating data preparation for enterprise agentic applications significantly.",
+                "Consolidating ingestion and transformation pipelines provides a standardized foundation for real-time model training datasets.",
+                "Enterprise CIOs should leverage unified pipelines to streamline data governance across distributed model environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
