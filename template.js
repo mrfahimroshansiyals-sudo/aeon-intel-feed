@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN SILICON",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT ERA",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 LAUNCH",
+            "heading": "ANTHROPIC: CONFIDENTIAL IPO FILING",
             "points": [
-                "OpenAI officially releases GPT-5.5, introducing enhanced multi-step execution capabilities and advanced native reasoning structures.",
-                "Enterprise workflows can now automate highly complex transactional procedures with significantly reduced latency overheads.",
-                "This launch signals a major shift toward completely autonomous systems capable of continuous background task orchestration.",
-                "Organizations must immediately redesign their legacy API pipelines to leverage these next-generation agentic models safely."
+                "Anthropic has confidentially filed its initial public offering prospectus with the Securities and Exchange Commission.",
+                "The enterprise valuation reached nine hundred billion dollars following a massive funding round last week.",
+                "This strategic listing represents a historic milestone, positioning the startup directly ahead of rival OpenAI.",
+                "Financial markets anticipate this offering will catalyze unprecedented liquidity across the entire artificial intelligence ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: RTX SPARK DEBUT",
+            "heading": "NVIDIA: ALPAMAYO REASONING ENGINE",
             "points": [
-                "NVIDIA unveils the RTX Spark system-on-chip, engineered to run complex autonomous agent architectures locally on personal computers.",
-                "Hardware-accelerated local intelligence reduces dependence on centralized cloud computing resources, dropping data transit costs dramatically.",
-                "This hardware initiative directly challenges existing silicon architectures from competitors Apple, Intel, and AMD.",
-                "Software developers must optimize their client-side applications to utilize on-device neural processing units effectively."
+                "Nvidia launched the Alpamayo two super open reasoning model designed specifically for autonomous driving applications.",
+                "The architecture provides real-time audio output of the vehicle's internal thinking and strategic decision-making path.",
+                "This integration delivers unprecedented safety validation for commercial robotaxi networks operating in dense urban environments.",
+                "Developers expect this platform to accelerate autonomous vehicle deployment by bridging critical neural reasoning gaps."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "SOFTBANK: VALUATION SURGE",
+            "heading": "FIVETRAN & DBT: DATA MERGER",
             "points": [
-                "SoftBank overtakes Toyota as Japan\u2019s most valuable enterprise, driven by unprecedented investor demand for AI-focused infrastructure assets.",
-                "This capital reallocation validates long-term investment strategies focused on sovereign microchip factories and global compute networks.",
-                "The valuation flip highlights the shifting macroeconomic balance from traditional physical manufacturing to high-growth digital technologies.",
-                "Institutional portfolios are likely to accelerate capital migration into businesses controlling critical artificial intelligence hardware pipelines."
+                "Fivetran and DBT Labs completed their merger to build a unified enterprise data integration layer.",
+                "The combined architecture delivers optimized data pipelines essential for deploying real-time autonomous intelligence agents.",
+                "This consolidation eliminates significant engineering overhead associated with migrating distributed databases into modern modeling frameworks.",
+                "Enterprises can now orchestrate high-throughput processing environments with superior governance, lineage tracking, and operational efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: ALPAMAYO REASONING",
+            "heading": "FLOWISE: MCP SECURITY VULNERABILITY",
             "points": [
-                "NVIDIA releases Alpamayo 2, a super open reasoning model designed to vocalize internal decision-making inside autonomous robotaxis.",
-                "Real-time verbalization of situational planning significantly builds passenger trust and enhances machine-to-human interface transparency.",
-                "Integrating deep reasoning pathways directly into physical edge devices marks a massive evolution for autonomous machine control.",
-                "Regulatory bodies may mandate verbalized reasoning architectures to simplify the auditing of autonomous vehicle accidents."
+                "A critical security vulnerability in the Flowise Model Context Protocol implementation allows execution of unauthorized commands.",
+                "The exploit exposes system resources to automated hijacking through malicious prompts embedded in external files.",
+                "Security researchers warn that uncontrolled agent execution risks introducing significant liabilities across production DevOps pipelines.",
+                "Systems administrators must immediately deploy emergency patches to protect critical server nodes from unauthorized orchestration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: UNITREE INTEGRATION",
+            "heading": "IEEE: MEMORY WALL BREAKTHROUGH",
             "points": [
-                "NVIDIA selects Chinese robotics pioneer Unitree to integrate with its proprietary hardware platforms for physical intelligence applications.",
-                "This strategic alignment accelerates commercialization timelines for advanced bipedal platforms across various industrial manufacturing environments.",
-                "Joint hardware and software ecosystems enable rapid deployment of standardized robotics skills across diverse enterprise sectors.",
-                "Global manufacturers must prepare for automated physical labor forces as humanoid hardware costs continue to decrease."
+                "Engineering teams unveiled a novel server architecture engineered specifically to overcome the hardware memory wall.",
+                "The hardware breakthrough maximizes bandwidth throughput between advanced processing units and massive high-performance storage arrays.",
+                "This structural redesign significantly reduces operational latency during large-scale model training and complex inference tasks.",
+                "Hyperscalers plan to integrate these modular designs to drastically improve computing efficiency inside next-generation facilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CHINA: NEURAL INTERFACE CHIP",
+            "heading": "OPENAI: GPT-5.5 ARCHITECTURE",
             "points": [
-                "China officially approves the world\u2019s first invasive brain-computer interface chip, marking a monumental milestone in neural technology.",
-                "This medical clearance unlocks direct high-bandwidth data transfers between human cortical regions and external silicon computing systems.",
-                "The development establishes a competitive front for cognitive sovereignty, bypassing traditional external muscular control interfaces entirely.",
-                "Ethical frameworks must be aggressively updated to govern personal cognitive privacy as cybernetic implants become commercially viable."
+                "OpenAI officially released its next-generation GPT five point five model showcasing advanced reasoning and agency.",
+                "The new model delivers substantial performance upgrades across complex engineering, logic, and multi-step task execution.",
+                "Developers can leverage native integration frameworks to build reliable autonomous agents with persistent memory systems.",
+                "This release solidifies frontier capabilities while driving down compute overhead for large-scale enterprise production environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: MYTHOS TESTING",
+            "heading": "COREWEAVE: NEOCLOUD STACK EXPANSION",
             "points": [
-                "Anthropic\u2019s Mythos Preview model uncovers over ten thousand security vulnerabilities across major global technology firms during initial testing.",
-                "Automated exploit identification exposes critical system weaknesses at scale, threatening legacy software infrastructure safety and security.",
-                "The offensive deployment of AI-driven vulnerability scanners alters the balance of power between system attackers and defenders.",
-                "Enterprise security operations must implement continuous automated patching systems to counter rapidly escalating AI-driven threat vectors."
+                "Neocloud infrastructure provider CoreWeave significantly expanded its enterprise software stack for massive training clusters.",
+                "The platform became the first provider to host Nvidia's newest high-performance hardware computing systems.",
+                "This deployment enables rapid scale-out options for companies developing advanced reasoning and generative foundation models.",
+                "Industry analysts predict this rollout will disrupt traditional cloud providers by offering highly optimized hardware instances."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
