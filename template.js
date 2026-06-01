@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 RELEASE",
+            "heading": "ALPHABET: STRATEGIC CAPITAL INJECTION",
             "points": [
-                "OpenAI has launched its frontier GPT-5.5 model, introducing advanced multi-modal capabilities and reasoning.",
-                "The model improves operational execution speeds while cutting API latency for enterprise workloads significantly.",
-                "This launch positions OpenAI to capture dominant share in agentic workflow orchestration frameworks.",
-                "Enterprises must immediately audit legacy pipelines to integrate these highly optimized reasoning capabilities."
+                "Alphabet initiates an unprecedented 80 billion dollar equity raise specifically targeting massive expansion of global artificial intelligence infrastructure footprints.",
+                "Berkshire Hathaway strategically participates with a 10 billion dollar capital infusion signaling institutional confidence in long-term AI-driven computational dominance.",
+                "This substantial funding effort accelerates the deployment of high-density data center architectures designed to support next-generation generative AI workloads globally.",
+                "Market analysts anticipate this liquidity event will reshape competitive dynamics by enabling rapid hardware procurement and facility scaling operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.bloomberg.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ALPHABET: $10B BERKSHIRE INVESTMENT",
+            "heading": "NVIDIA: AGENTIC HARDWARE ECOSYSTEM",
             "points": [
-                "Berkshire Hathaway has deployed an additional ten billion dollars into Alphabet, reinforcing its AI positioning.",
-                "The massive capital injection enhances Google's capacity to scale high-density data center infrastructure globally.",
-                "This investment signals Wall Street confidence in Alphabet's long-term proprietary chip and model strategy.",
-                "Competitors face intensified pressure as Google accelerates custom TPUs and agentic cloud platform development."
+                "Nvidia expands its worldwide AI cloud ecosystem integrating proprietary silicon directly into the fabric of global enterprise-grade infrastructure deployments.",
+                "The new Vera CPU architecture optimizes agentic task completion by 80 percent compared to legacy x86 processing for AI factory workloads.",
+                "Hardware-software convergence now enables advanced physical AI and robotics integration within industrial factory operations at unprecedented production speeds.",
+                "Strategic partnerships across Taiwan facilitate the acceleration of silicon manufacturing and AI hardware distribution across critical technology supply chains."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CREDO TECH: METRIC VALIDATION",
+            "heading": "AMD: TAIWAN INFRASTRUCTURE INVESTMENT",
             "points": [
-                "Credo Technology experienced a stock decline despite reporting a remarkable hundred-fifty-seven percent revenue growth.",
-                "Market reactions highlight extreme valuation pressures and elevated expectations for hardware enablers in AI.",
-                "Connectivity bottlenecks remain a critical focal point for scaling next-generation optical and silicon architectures.",
-                "Investors will demand immediate hardware performance validation before committing further capital to infrastructure players."
+                "AMD commits over 10 billion dollars in cumulative investments across the Taiwan silicon ecosystem to solidify its AI infrastructure supply chain.",
+                "Production ramp-up of the next-generation Venice EPYC processor leverages TSMC 2nm technology to deliver record-breaking computational performance for data centers.",
+                "Agentic AI platforms like the Ryzen AI Halo initiative prioritize localized execution for critical tasks and reducing latency in complex environments.",
+                "Strategic focus on open software ecosystems ensures scalability and performance reliability for enterprises deploying large-scale AI applications and solutions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HPE: AI INFRASTRUCTURE RAMP",
+            "heading": "ANTHROPIC: FRONTIER IPO FILING",
             "points": [
-                "Hewlett Packard Enterprise surged thirty percent following its strongest corporate earnings beat since fiscal year eighteen.",
-                "High-density liquid cooling demand drove record-breaking order backlogs for enterprise AI system architectures.",
-                "The performance underscores a rapid pivot from experimental pilots to scaled physical infrastructure deployment.",
-                "Enterprise buyers must secure long-term hardware allocations to avoid severe supply chain bottleneck constraints."
+                "Anthropic officially submits confidential documentation for a landmark initial public offering as market valuation expectations for safe AI systems soar.",
+                "New model release of Opus 4.8 optimizes performance for complex agentic workflows and coding tasks for high-stakes professional enterprise environments.",
+                "Regulatory positioning remains a central pillar as the firm balances rapid product scaling with rigorous safety and responsibility standards globally.",
+                "Institutional investors view this IPO as a definitive bellwether for the long-term economic sustainability of model-focused frontier AI companies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE LAUNCH",
+            "heading": "GOOGLE DEEPMIND: AGENTIC DISCOVERY",
             "points": [
-                "Nvidia has launched open-source tools and runtime security controls to optimize agentic AI developer workflows.",
-                "The newly introduced CPU architecture significantly minimizes communication latency between physical autonomous robotic systems.",
-                "Nvidia's expansion into full-stack agentic software solidifies its competitive moat beyond baseline GPU hardware.",
-                "Organizations will rapidly transition toward physical AI systems powered by open, secure development frameworks."
+                "Google DeepMind introduces Gemini 3.5 and Omni systems designed to bridge frontier model intelligence with real-time autonomous operational agentic capabilities.",
+                "Co-Scientist research partnership tools enable multi-agent systems to accelerate complex material science and biological research discovery cycles exponentially faster.",
+                "World model simulations integrated into Street View data allow for the creation of high-fidelity environmental digital twins for training AI.",
+                "Technical roadmaps prioritize intelligence-per-parameter efficiency to allow high-performance reasoning on smaller and more accessible edge compute model architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STANFORD HAI: CODING AGENT LIMITS",
+            "heading": "MISTRAL: AUTONOMOUS WORK ARCHITECTURE",
             "points": [
-                "Stanford HAI researchers demonstrated that autonomous AI coding agents fail to collaborate effectively in teams.",
-                "System tests showed high error rates and coordination failures when agents attempted multi-step collective tasks.",
-                "The study highlights critical limitations in current multi-agent orchestration architectures for complex software engineering.",
-                "Software architects must maintain strict human-in-the-loop oversight to avoid compound technical debt generation."
+                "Mistral AI launches Vibe platforms to facilitate long-horizon task execution through specialized agentic workflows tailored for complex enterprise domain knowledge.",
+                "New coding agent capabilities allow for architectural-aware reasoning within IDE environments to significantly increase software development velocity for industrial customers.",
+                "Compute orchestration platform empowers organizations to maintain full deployment portability across cloud to edge infrastructure environments for sovereign AI.",
+                "Strategic integration with major industrial partners demonstrates the tangible productivity benefits of deploying autonomous agents for document synthesis and analysis."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FIVETRAN & DBT: DATA LAYER MERGER",
+            "heading": "IEEE: AI MEMORY WALL DISRUPTION",
             "points": [
-                "Fivetran and dbt Labs have completed a merger to establish a unified data layer for AI.",
-                "The integration eliminates traditional pipeline complexity, accelerating data preparation for enterprise agentic applications significantly.",
-                "Consolidating ingestion and transformation pipelines provides a standardized foundation for real-time model training datasets.",
-                "Enterprise CIOs should leverage unified pipelines to streamline data governance across distributed model environments."
+                "New server architectures highlighted by IEEE researchers aim to dismantle the memory wall bottleneck currently inhibiting large-scale AI model performance.",
+                "Precision agriculture advancements leverage specialized AI sensors to address global fertilizer shortages and resource optimization during times of geopolitical tension.",
+                "Humanoid robotics research utilizing pneumatic air-muscle actuators demonstrates novel approaches to soft robotics independent of traditional motor-based mechanical engineering.",
+                "Deep technical analysis of RF system phase noise impact provides critical insights for stabilizing high-speed telecommunications systems in modern AI-integrated networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
