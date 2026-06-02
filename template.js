@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE SYSTEMS",
-        "titleBlue": "UNIFIED"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: MICROSOFT AGENTIC COLLABORATION",
+            "heading": "NVIDIA: AGENTIC DEPLOYMENT UNIFICATION",
             "points": [
-                "Nvidia and Microsoft launched a unified stack to standardize autonomous agentic deployments across Windows and cloud infrastructure.",
-                "The integration reduces latency by forty percent during local inference tasks on edge computing platforms.",
-                "This architecture unifies developer runtimes to bridge local client processing with hyper-scale enterprise cloud environments.",
-                "System architects will transition hybrid workflows toward standardized client-to-cloud agentic operations within months."
+                "NVIDIA partnered with Microsoft to build a unified deployment stack supporting agentic artificial intelligence from edge to cloud.",
+                "Enterprise developers can run autonomous systems locally on Windows devices or scale dynamically using Azure cloud resources.",
+                "This integration bridges local runtime execution environments with massive cloud computing clusters to minimize latency.",
+                "CIOs can implement highly responsive autonomous workers without worrying about fragmented underlying hardware infrastructures."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "WORKDAY: AGENT PASSPORT DEBUTS",
+            "heading": "MICROSOFT: FABRIC BACKEND EVOLUTION",
             "points": [
-                "Workday introduced Agent Passport to verify, test, and safely monitor autonomous enterprise artificial intelligence agents.",
-                "Early telemetry shows a fifty percent decrease in agent orchestration errors during live compliance testing.",
-                "The framework implements real-time monitoring and strict governance across distributed corporate software environments.",
-                "Compliance officers can now programmatically audit autonomous agents prior to complete operational deployment."
+                "Microsoft launched Rayfin as a fully managed, code-optimized backend as a service operating natively inside Microsoft Fabric.",
+                "The integration delivers real-time contextual data streaming directly to enterprise agents to accelerate decision cycles.",
+                "Grounding agents in unified corporate memory structures avoids the need for complex custom middleware pipelines.",
+                "Database architects can now design lightweight transactional engines optimized for autonomous workflows and low latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SNOWFLAKE: HORIZON CONTEXT DEPLOYMENT",
+            "heading": "SNOWFLAKE: CONTEXTUAL AGENT ORCHESTRATION",
             "points": [
-                "Snowflake launched Horizon Context to provide autonomous software agents with unified semantic understanding of enterprise data.",
-                "The system optimizes data discovery pathways, decreasing execution costs for multi-step database queries by thirty percent.",
-                "This platform integrates structured governance layers directly into complex decentralized machine learning models.",
-                "Data engineers will bypass manual pipeline orchestration to establish continuous real-time semantic monitoring."
+                "Snowflake released Horizon Context and CoWork platforms to establish a shared business understanding for autonomous agents.",
+                "These features streamline governance and significantly reduce the structural friction associated with deploying AI agents at scale.",
+                "Centralizing data governance within the warehouse environment ensures that external agents remain compliant with organizational policies.",
+                "Enterprise leaders can confidently operationalize cognitive workers knowing their core corporate data remains fully protected."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FABRIC AGENTIC ARCHITECTURE",
+            "heading": "CISCO: AGENTICOPS CONTROL CONVERGENCE",
             "points": [
-                "Microsoft unveiled Rayfin and Foundry IQ to deliver an optimized backend for enterprise agentic grounding.",
-                "Developers report a sixty percent reduction in integration times when building contextually aware organizational workflows.",
-                "This infrastructure combines low-latency database technologies with managed context registries for reliable execution.",
-                "Cloud architects will leverage unified knowledge layers to decrease dependency on isolated third-party model providers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "CISCO: CLOUD CONTROL AGENTICOPS",
-            "points": [
-                "Cisco launched Cloud Control to converge disparate IT monitoring systems into a unified AgenticOps management plane.",
-                "IT operations teams report forty percent faster recovery times during distributed cloud infrastructure failures.",
-                "The unified control plane coordinates autonomous agents to optimize multi-cloud network routing dynamically.",
-                "Infrastructure leads will migrate legacy monitoring frameworks to real-time agentic automation architectures rapidly."
+                "Cisco unveiled Cloud Control, a centralized control plane designed specifically to manage agent-based IT infrastructure operations.",
+                "The platform unifies previously disparate infrastructure management utilities to accelerate automated network issue resolution times.",
+                "Deploying cognitive agents within the network topology enables proactive system monitoring and autonomous configuration updates.",
+                "Network administrators gain unified visibility over self-healing systems, significantly lowering operational costs and manual errors."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RYZEN HALO ARCHITECTURE",
+            "id": 5,
+            "heading": "WORKDAY: AGENT MONITORING PORTABILITY",
             "points": [
-                "AMD launched the Ryzen AI Halo developer platform to optimize local consumer computer execution speeds.",
-                "Hardware acceleration improves on-device model training throughput by thirty-five percent compared to previous silicon designs.",
-                "The architecture addresses memory bandwidth limitations, allowing offline deployment of highly complex neural networks.",
-                "Mobile developers can now build sophisticated local workloads without relying on continuous cloud API connectivity."
+                "Workday launched Agent Passport to facilitate the rigorous testing, monitoring, and verification of enterprise AI agents.",
+                "The framework enables rapid transition of custom cognitive workflows from initial prompt design to production environments.",
+                "By establishing standardized tracking protocols, this tool monitors agent behaviors across complex transactional business processes.",
+                "Compliance officers can safely authorize autonomous processes by verifying agent permissions through a trusted security framework."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "FIVETRAN & DBT: DATA COALESCENCE",
+            "points": [
+                "Fivetran and DBT Labs completed their corporate merger to deliver a unified operational data layer for AI.",
+                "The combined services provide the robust pipeline infrastructure required to continuously prepare data for downstream agents.",
+                "Standardizing transformation rules inside a single platform reduces the latency of ingesting raw real-world data sources.",
+                "Data engineering teams can establish clean, reliable pipelines to power complex corporate AI workloads without manual intervention."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US GOVERNMENT: AI VETTING EXECUTIVE ORDER",
+            "heading": "ANTHROPIC: MYTHOS VULNERABILITY TESTING",
             "points": [
-                "President Trump signed an executive order requiring companies to provide early federal access to models.",
-                "The regulation mandates security screening protocols, potentially adding twenty percent overhead to developmental timelines.",
-                "This policy shifts regulatory compliance focus from post-deployment auditing to pre-release safety assessments.",
-                "Enterprise developers must adapt validation pipelines to satisfy new sovereign testing and validation standards."
+                "Anthropic's Mythos Preview platform identified over ten thousand security flaws at global tech giants during its initial month.",
+                "The automated security scanner reveals both critical integration risks and immense defensive opportunities for next-generation systems.",
+                "Deploying proactive testing models across enterprise code repositories helps surface zero-day vulnerabilities before malicious actors exploit them.",
+                "Chief Information Security Officers can utilize autonomous scanning agents to reinforce defense perimeters across critical software infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
