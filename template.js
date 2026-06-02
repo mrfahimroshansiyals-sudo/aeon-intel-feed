@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "Sovereign Agent Compute",
+        "titleBlue": "Infrastructure"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ALPHABET: STRATEGIC CAPITAL INJECTION",
+            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
             "points": [
-                "Alphabet initiates an unprecedented 80 billion dollar equity raise specifically targeting massive expansion of global artificial intelligence infrastructure footprints.",
-                "Berkshire Hathaway strategically participates with a 10 billion dollar capital infusion signaling institutional confidence in long-term AI-driven computational dominance.",
-                "This substantial funding effort accelerates the deployment of high-density data center architectures designed to support next-generation generative AI workloads globally.",
-                "Market analysts anticipate this liquidity event will reshape competitive dynamics by enabling rapid hardware procurement and facility scaling operations."
+                "OpenAI officially deploys its next-generation GPT-5.5 frontier model to unlock advanced multi-step planning capabilities.",
+                "The architecture dramatically reduces execution latency while expanding context window parameters for enterprise-scale cognitive processing.",
+                "This deployment sets a new industry standard for autonomous agent orchestration across complex multi-modal workflows.",
+                "Enterprise developers gain immediate API access to coordinate highly sophisticated reasoning and decision-making logic systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.bloomberg.com/technology",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: AGENTIC HARDWARE ECOSYSTEM",
+            "heading": "NVIDIA: VERA AGENT CPU",
             "points": [
-                "Nvidia expands its worldwide AI cloud ecosystem integrating proprietary silicon directly into the fabric of global enterprise-grade infrastructure deployments.",
-                "The new Vera CPU architecture optimizes agentic task completion by 80 percent compared to legacy x86 processing for AI factory workloads.",
-                "Hardware-software convergence now enables advanced physical AI and robotics integration within industrial factory operations at unprecedented production speeds.",
-                "Strategic partnerships across Taiwan facilitate the acceleration of silicon manufacturing and AI hardware distribution across critical technology supply chains."
+                "NVIDIA unveils the Vera CPU engineered specifically to accelerate autonomous AI agentic workflows in enterprise factories.",
+                "The novel architecture delivers eighty percent faster agent task completion rates compared to traditional x86 processor infrastructure.",
+                "It seamlessly extends the accelerated computing platform from graphics processors directly to specialized agent core computing.",
+                "Data centers can immediately scale reinforcement learning and telemetry orchestration via unified software-hardware systems integration."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,76 +39,76 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: TAIWAN INFRASTRUCTURE INVESTMENT",
+            "heading": "FIVETRAN & DBT: DATA LAYER MERGER",
             "points": [
-                "AMD commits over 10 billion dollars in cumulative investments across the Taiwan silicon ecosystem to solidify its AI infrastructure supply chain.",
-                "Production ramp-up of the next-generation Venice EPYC processor leverages TSMC 2nm technology to deliver record-breaking computational performance for data centers.",
-                "Agentic AI platforms like the Ryzen AI Halo initiative prioritize localized execution for critical tasks and reducing latency in complex environments.",
-                "Strategic focus on open software ecosystems ensures scalability and performance reliability for enterprises deploying large-scale AI applications and solutions."
+                "Fivetran and dbt Labs finalize a historic merger to construct a unified modern data layer for AI.",
+                "The combined infrastructure platform consolidates complex data pipelines and preparation for autonomous agent deployments.",
+                "This technical integration eliminates critical data movement bottlenecks to enable real-time contextual updates for LLM models.",
+                "Enterprise engineering teams can now seamlessly orchestrate trusted, governable intelligence schemas from distributed database nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: FRONTIER IPO FILING",
+            "heading": "SOFTBANK: SOVEREIGN FRENCH BUILDUP",
             "points": [
-                "Anthropic officially submits confidential documentation for a landmark initial public offering as market valuation expectations for safe AI systems soar.",
-                "New model release of Opus 4.8 optimizes performance for complex agentic workflows and coding tasks for high-stakes professional enterprise environments.",
-                "Regulatory positioning remains a central pillar as the firm balances rapid product scaling with rigorous safety and responsibility standards globally.",
-                "Institutional investors view this IPO as a definitive bellwether for the long-term economic sustainability of model-focused frontier AI companies."
+                "SoftBank commits eighty-seven billion dollars to construct state-of-the-art AI infrastructure across the French sovereign territory.",
+                "The massive capital injection aims to position Europe as a primary hub for decentralized frontier compute processing.",
+                "This physical development ensures local data processing compliance while reinforcing strategic continental hardware independence.",
+                "Regional enterprises gain low-latency access to high-performance supercomputing clusters powered by next-generation accelerator hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE DEEPMIND: AGENTIC DISCOVERY",
+            "heading": "ALPHABET: LANDMARK CAPITAL EXPANSION",
             "points": [
-                "Google DeepMind introduces Gemini 3.5 and Omni systems designed to bridge frontier model intelligence with real-time autonomous operational agentic capabilities.",
-                "Co-Scientist research partnership tools enable multi-agent systems to accelerate complex material science and biological research discovery cycles exponentially faster.",
-                "World model simulations integrated into Street View data allow for the creation of high-fidelity environmental digital twins for training AI.",
-                "Technical roadmaps prioritize intelligence-per-parameter efficiency to allow high-performance reasoning on smaller and more accessible edge compute model architectures."
+                "Alphabet details plans to raise eighty billion dollars through equity sales to fund next-generation AI infrastructure.",
+                "The financing includes a strategic ten billion dollar private placement from Berkshire Hathaway to expand data centers.",
+                "This capital allocation targets massive scaling of planetary compute grids to sustain sovereign hyperscale operations.",
+                "Financial markets respond to this unprecedented fundraising effort as the global compute arms race intensifies rapidly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: AUTONOMOUS WORK ARCHITECTURE",
+            "heading": "ANTHROPIC: PUBLIC OFFERING TRANSITION",
             "points": [
-                "Mistral AI launches Vibe platforms to facilitate long-horizon task execution through specialized agentic workflows tailored for complex enterprise domain knowledge.",
-                "New coding agent capabilities allow for architectural-aware reasoning within IDE environments to significantly increase software development velocity for industrial customers.",
-                "Compute orchestration platform empowers organizations to maintain full deployment portability across cloud to edge infrastructure environments for sovereign AI.",
-                "Strategic integration with major industrial partners demonstrates the tangible productivity benefits of deploying autonomous agents for document synthesis and analysis."
+                "Anthropic files for a blockbuster initial public offering to prepare Wall Street for historic AI market liquidity.",
+                "The transition marks a crucial maturation phase for frontier research labs moving toward scalable public market financing.",
+                "This regulatory milestone follows the launch of their highly advanced Claude Opus model suite for enterprise environments.",
+                "Investors gain structured access to fund frontier safety frameworks and scaled cognitive infrastructure on a global level."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE: AI MEMORY WALL DISRUPTION",
+            "heading": "SYSTEM DESIGN: MEMORY WALL BREACH",
             "points": [
-                "New server architectures highlighted by IEEE researchers aim to dismantle the memory wall bottleneck currently inhibiting large-scale AI model performance.",
-                "Precision agriculture advancements leverage specialized AI sensors to address global fertilizer shortages and resource optimization during times of geopolitical tension.",
-                "Humanoid robotics research utilizing pneumatic air-muscle actuators demonstrates novel approaches to soft robotics independent of traditional motor-based mechanical engineering.",
-                "Deep technical analysis of RF system phase noise impact provides critical insights for stabilizing high-speed telecommunications systems in modern AI-integrated networks."
+                "Engineering teams unveil novel server architectures engineered explicitly to bypass the physical memory wall of modern chips.",
+                "The design optimizes high-bandwidth memory allocation to sustain parallel execution of multiple autonomous enterprise agents.",
+                "This hardware advancement significantly reduces computational bottleneck constraints during deep reinforcement learning operations.",
+                "Infrastructure operators can deploy dense cognitive pipelines without suffering typical memory-to-processor transmission latency penalties."
             ],
             "imageUrl": "",
             "tags": [
