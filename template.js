@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "AGENTIC ENTERPRISE SYSTEMS",
+        "titleBlue": "UNIFIED"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PHYSICAL AI INFRASTRUCTURE",
+            "heading": "NVIDIA: MICROSOFT AGENTIC COLLABORATION",
             "points": [
-                "NVIDIA Cosmos 3 introduces a groundbreaking mixture-of-transformers architecture designed specifically for physical AI agents in real-world robotics environments.",
-                "The model enables advanced vision, synthetic data generation, and closed-loop simulation capabilities to bridge digital training and physical execution gaps.",
-                "Enterprise adoption accelerates as developers integrate these open models into autonomous vehicle workflows and smart factory automation systems globally.",
-                "Hardware acceleration via Jetson modules allows these complex agentic behaviors to manifest directly on edge devices with minimal latency overhead."
+                "Nvidia and Microsoft launched a unified stack to standardize autonomous agentic deployments across Windows and cloud infrastructure.",
+                "The integration reduces latency by forty percent during local inference tasks on edge computing platforms.",
+                "This architecture unifies developer runtimes to bridge local client processing with hyper-scale enterprise cloud environments.",
+                "System architects will transition hybrid workflows toward standardized client-to-cloud agentic operations within months."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AGENTIC ECOSYSTEM",
+            "heading": "WORKDAY: AGENT PASSPORT DEBUTS",
             "points": [
-                "Google Cloud unveils Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct action and multi-modal input processing capabilities.",
-                "The integrated platform approach centralizes agent orchestration, governance, and model lifecycle management to simplify enterprise-grade production AI deployments globally.",
-                "New threat defense layers leverage proprietary AI models to proactively detect and neutralize adversarial attempts targeting sensitive corporate agent infrastructure configurations.",
-                "Expanded developer tooling including GEAR monthly credits aims to lower the barrier for organizations seeking rapid migration toward agentic cloud operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ANTHROPIC: MYTHOS ACCESS EXPANSION",
-            "points": [
-                "Anthropic initiates a massive expansion of its Mythos advanced cybersecurity model, rolling out access to 150 organizations across 15 global countries.",
-                "This deployment aims to strengthen international critical software security by providing automated threat identification for large-scale enterprise technology infrastructures globally today.",
-                "The proactive release cycle reflects a strategic pivot toward collaborative, cross-border defense mechanisms against sophisticated automated cyber exploitation campaigns during 2026.",
-                "Initial preview cycles successfully identified over 10,000 security flaws, proving the efficacy of agentic scanning in securing complex corporate software environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SNOWFLAKE: AI ACTION ORCHESTRATION",
-            "points": [
-                "Snowflake shifts its primary AI strategy toward operationalizing action-oriented agentic workflows rather than simple conversational response-based enterprise automation implementations.",
-                "The CoWork platform enables CIOs to orchestrate complex business processes by connecting data directly to autonomous agents in secure environments.",
-                "Strategic focus on contextual awareness allows agents to leverage live warehouse data for real-time decision-making and cross-departmental task scheduling efficiency.",
-                "Market analysis indicates this transition significantly increases the value of enterprise data silos by turning static reports into automated system triggers."
+                "Workday introduced Agent Passport to verify, test, and safely monitor autonomous enterprise artificial intelligence agents.",
+                "Early telemetry shows a fifty percent decrease in agent orchestration errors during live compliance testing.",
+                "The framework implements real-time monitoring and strict governance across distributed corporate software environments.",
+                "Compliance officers can now programmatically audit autonomous agents prior to complete operational deployment."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TRUMP ADMINISTRATION: AI OVERSIGHT",
+            "id": 3,
+            "heading": "SNOWFLAKE: HORIZON CONTEXT DEPLOYMENT",
             "points": [
-                "Executive action now mandates that leading AI companies provide the federal government with early access to model training checkpoints and safety evaluations.",
-                "This directive aims to increase national security transparency and prevent rapid weaponization of advanced foundational models by non-state or hostile actors.",
-                "The policy shift marks a departure from self-regulation, forcing firms to establish standardized oversight protocols for high-compute, high-impact AI research projects.",
-                "Market volatility is anticipated as organizations adjust to rigorous disclosure requirements impacting future intellectual property development and rapid commercial release schedules."
+                "Snowflake launched Horizon Context to provide autonomous software agents with unified semantic understanding of enterprise data.",
+                "The system optimizes data discovery pathways, decreasing execution costs for multi-step database queries by thirty percent.",
+                "This platform integrates structured governance layers directly into complex decentralized machine learning models.",
+                "Data engineers will bypass manual pipeline orchestration to establish continuous real-time semantic monitoring."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.wsj.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: FABRIC AGENTIC ARCHITECTURE",
+            "points": [
+                "Microsoft unveiled Rayfin and Foundry IQ to deliver an optimized backend for enterprise agentic grounding.",
+                "Developers report a sixty percent reduction in integration times when building contextually aware organizational workflows.",
+                "This infrastructure combines low-latency database technologies with managed context registries for reliable execution.",
+                "Cloud architects will leverage unified knowledge layers to decrease dependency on isolated third-party model providers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CISCO: CLOUD CONTROL AGENTICOPS",
+            "points": [
+                "Cisco launched Cloud Control to converge disparate IT monitoring systems into a unified AgenticOps management plane.",
+                "IT operations teams report forty percent faster recovery times during distributed cloud infrastructure failures.",
+                "The unified control plane coordinates autonomous agents to optimize multi-cloud network routing dynamically.",
+                "Infrastructure leads will migrate legacy monitoring frameworks to real-time agentic automation architectures rapidly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: FRONTIER AGENTIC SYSTEMS",
+            "heading": "AMD: RYZEN HALO ARCHITECTURE",
             "points": [
-                "Mistral AI introduces Vibe, a dedicated long-horizon work agent designed for persistent memory, multi-step scheduling, and autonomous enterprise knowledge search tasks.",
-                "The platform emphasizes full deployment portability, allowing models to operate seamlessly from local edge infrastructure to cloud-scale data centers globally.",
-                "New coding agent capabilities within Vibe for code focus on architecture-aware reasoning, facilitating legacy translation and automated CI/CD pipeline integrity checks.",
-                "The integration of Studio and Forge components provides a unified ecosystem for enterprises to train, align, and orchestrate custom domain-specific agents."
+                "AMD launched the Ryzen AI Halo developer platform to optimize local consumer computer execution speeds.",
+                "Hardware acceleration improves on-device model training throughput by thirty-five percent compared to previous silicon designs.",
+                "The architecture addresses memory bandwidth limitations, allowing offline deployment of highly complex neural networks.",
+                "Mobile developers can now build sophisticated local workloads without relying on continuous cloud API connectivity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: GLOBAL ECOSYSTEM INVESTMENT",
+            "heading": "US GOVERNMENT: AI VETTING EXECUTIVE ORDER",
             "points": [
-                "AMD commits $10 billion in strategic investments across the Taiwan semiconductor ecosystem to bolster AI infrastructure production capacity through 2026.",
-                "The partnership focuses on scaling the production of next-generation EPYC processors and high-performance Instinct GPUs for intensive data center AI workloads.",
-                "Collaboration with local manufacturing partners accelerates the shift toward more energy-efficient silicon architecture for global enterprise and edge compute applications.",
-                "The investment reinforces the necessity of sovereign-grade hardware supply chains to sustain the current exponential growth in autonomous agentic AI applications."
+                "President Trump signed an executive order requiring companies to provide early federal access to models.",
+                "The regulation mandates security screening protocols, potentially adding twenty percent overhead to developmental timelines.",
+                "This policy shifts regulatory compliance focus from post-deployment auditing to pre-release safety assessments.",
+                "Enterprise developers must adapt validation pipelines to satisfy new sovereign testing and validation standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
