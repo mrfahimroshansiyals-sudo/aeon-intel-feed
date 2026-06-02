@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Sovereign Agent Compute",
-        "titleBlue": "Infrastructure"
+        "titleWhite": "FRONTIER COGNITIVE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER MODEL",
+            "heading": "OPENAI: GPT-5.5 RELEASE",
             "points": [
-                "OpenAI officially deploys its next-generation GPT-5.5 frontier model to unlock advanced multi-step planning capabilities.",
-                "The architecture dramatically reduces execution latency while expanding context window parameters for enterprise-scale cognitive processing.",
-                "This deployment sets a new industry standard for autonomous agent orchestration across complex multi-modal workflows.",
-                "Enterprise developers gain immediate API access to coordinate highly sophisticated reasoning and decision-making logic systems."
+                "OpenAI officially released GPT-5.5 to advance real-time conversational capabilities across enterprise digital agent workflows.",
+                "The model integrates advanced contextual understanding algorithms to scale multi-model automated engineering tasks efficiently.",
+                "This deployment bridges legacy application interfaces with dynamic agentic reasoning for optimized organizational productivity.",
+                "Enterprise developers gain immediate API access to execute complex, long-horizon decision sequences securely."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA AGENT CPU",
+            "heading": "ALPHABET: AI CAPEX EXPANSION",
             "points": [
-                "NVIDIA unveils the Vera CPU engineered specifically to accelerate autonomous AI agentic workflows in enterprise factories.",
-                "The novel architecture delivers eighty percent faster agent task completion rates compared to traditional x86 processor infrastructure.",
-                "It seamlessly extends the accelerated computing platform from graphics processors directly to specialized agent core computing.",
-                "Data centers can immediately scale reinforcement learning and telemetry orchestration via unified software-hardware systems integration."
+                "Alphabet plans an eighty billion dollar stock sale to fund massive hardware infrastructure expansions.",
+                "Berkshire Hathaway backed the initiative with a ten billion dollar direct private placement investment.",
+                "The historic capital injection targets global data center scaling and next-generation sovereign computing clusters.",
+                "Hyperscale infrastructure spending intensifies competition for absolute dominance in deep physical AI workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ANTHROPIC: BLOCKBUSTER IPO FILING",
+            "points": [
+                "Anthropic filed for a blockbuster initial public offering to accelerate frontier research and development.",
+                "The public transition balances rapid commercial scaling with their highly structured public benefit corporation charter.",
+                "Increased capital reserves will directly fund the training of next-generation safe foundational models worldwide.",
+                "Financial markets prepare for unprecedented valuation metrics centered on enterprise agentic software deployment capabilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TENCENT: WECHAT AGENT INTEGRATION",
+            "points": [
+                "Tencent accelerates development of a native artificial intelligence agent for the ubiquitous WeChat application.",
+                "The strategic deployment aims to capture consumer-facing agentic market share within highly regulated regional ecosystems.",
+                "Integrating intelligent conversational agents directly into super-apps transforms daily transactional digital infrastructure interfaces.",
+                "Localized model engineering guarantees low-latency task execution across millions of active daily mobile endpoints."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: JETSON AGENTIC SYSTEMS",
+            "points": [
+                "Nvidia launched advanced Jetson platforms to run localized agentic artificial intelligence inside physical robotic systems.",
+                "The upgrade delivers real-time spatial awareness and decentralized execution capabilities at the industrial edge.",
+                "Autonomous factories can now deploy physical agents without relying on constant cloud database connections.",
+                "Industrial operators achieve significant latency reductions while maintaining strict local operational data privacy standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FIVETRAN & DBT: DATA LAYER MERGER",
+            "id": 6,
+            "heading": "FIVETRAN: DATA LAYER MERGER",
             "points": [
-                "Fivetran and dbt Labs finalize a historic merger to construct a unified modern data layer for AI.",
-                "The combined infrastructure platform consolidates complex data pipelines and preparation for autonomous agent deployments.",
-                "This technical integration eliminates critical data movement bottlenecks to enable real-time contextual updates for LLM models.",
-                "Enterprise engineering teams can now seamlessly orchestrate trusted, governable intelligence schemas from distributed database nodes."
+                "Fivetran and DBT Labs merged to establish a unified enterprise data integration layer for agents.",
+                "The combined architecture simplifies pipeline construction and raw data preparation for high-frequency model ingestion.",
+                "Standardizing data preparation pipelines eliminates critical latency bottlenecks in distributed multi-agent system environments.",
+                "Enterprise customers can seamlessly deploy real-time retrieval-augmented generation architectures across hybrid cloud frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "SOFTBANK: SOVEREIGN FRENCH BUILDUP",
-            "points": [
-                "SoftBank commits eighty-seven billion dollars to construct state-of-the-art AI infrastructure across the French sovereign territory.",
-                "The massive capital injection aims to position Europe as a primary hub for decentralized frontier compute processing.",
-                "This physical development ensures local data processing compliance while reinforcing strategic continental hardware independence.",
-                "Regional enterprises gain low-latency access to high-performance supercomputing clusters powered by next-generation accelerator hardware."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ALPHABET: LANDMARK CAPITAL EXPANSION",
-            "points": [
-                "Alphabet details plans to raise eighty billion dollars through equity sales to fund next-generation AI infrastructure.",
-                "The financing includes a strategic ten billion dollar private placement from Berkshire Hathaway to expand data centers.",
-                "This capital allocation targets massive scaling of planetary compute grids to sustain sovereign hyperscale operations.",
-                "Financial markets respond to this unprecedented fundraising effort as the global compute arms race intensifies rapidly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ANTHROPIC: PUBLIC OFFERING TRANSITION",
-            "points": [
-                "Anthropic files for a blockbuster initial public offering to prepare Wall Street for historic AI market liquidity.",
-                "The transition marks a crucial maturation phase for frontier research labs moving toward scalable public market financing.",
-                "This regulatory milestone follows the launch of their highly advanced Claude Opus model suite for enterprise environments.",
-                "Investors gain structured access to fund frontier safety frameworks and scaled cognitive infrastructure on a global level."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "SYSTEM DESIGN: MEMORY WALL BREACH",
+            "heading": "DEEPMIND: CONSCIOUSNESS STUDY EXPANSION",
             "points": [
-                "Engineering teams unveil novel server architectures engineered explicitly to bypass the physical memory wall of modern chips.",
-                "The design optimizes high-bandwidth memory allocation to sustain parallel execution of multiple autonomous enterprise agents.",
-                "This hardware advancement significantly reduces computational bottleneck constraints during deep reinforcement learning operations.",
-                "Infrastructure operators can deploy dense cognitive pipelines without suffering typical memory-to-processor transmission latency penalties."
+                "Google DeepMind, Anthropic, and Meta expanded collaborative research investigating machine consciousness and cognitive boundaries.",
+                "Scientists analyze behavioral safety benchmarks and structural self-awareness indicators within frontier neural network configurations.",
+                "Developing robust empirical metrics for machine awareness prevents catastrophic alignment failures in autonomous agents.",
+                "The initiative establishes international scientific guardrails before autonomous cognitive architectures achieve widespread commercial scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
