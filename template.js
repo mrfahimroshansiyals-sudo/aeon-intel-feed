@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTS REWRITE GLOBAL",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 AGENTIC DEPLOYMENT",
+            "heading": "NVIDIA: PHYSICAL AI INFRASTRUCTURE",
             "points": [
-                "OpenAI introduces GPT-5.5 to deliver advanced multi-modal agentic action across complex systems.",
-                "The model optimizes intelligence-per-parameter to execute long-horizon enterprise workflows and deep logical reasoning.",
-                "API integration advances voice intelligence capabilities, significantly lowering latency for global customer-facing deployment.",
-                "Safety protocols monitor internal coding agents continuously to prevent architectural misalignment during autonomous operations."
+                "NVIDIA Cosmos 3 introduces a groundbreaking mixture-of-transformers architecture designed specifically for physical AI agents in real-world robotics environments.",
+                "The model enables advanced vision, synthetic data generation, and closed-loop simulation capabilities to bridge digital training and physical execution gaps.",
+                "Enterprise adoption accelerates as developers integrate these open models into autonomous vehicle workflows and smart factory automation systems globally.",
+                "Hardware acceleration via Jetson modules allows these complex agentic behaviors to manifest directly on edge devices with minimal latency overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ALPHABET: $80B AI CAPEX BUILD-OUT",
+            "heading": "GOOGLE CLOUD: AGENTIC ECOSYSTEM",
             "points": [
-                "Alphabet plans to raise eighty billion dollars through equity sales to fund massive AI infrastructure.",
-                "Berkshire Hathaway supports this initiative by investing an additional ten billion dollars in Alphabet shares.",
-                "The capital injection accelerates the global rollout of TPU clusters and agentic data centers worldwide.",
-                "Analysts warn that huge funding drives highlight escalating capital requirements for sustaining competitive frontier models."
+                "Google Cloud unveils Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct action and multi-modal input processing capabilities.",
+                "The integrated platform approach centralizes agent orchestration, governance, and model lifecycle management to simplify enterprise-grade production AI deployments globally.",
+                "New threat defense layers leverage proprietary AI models to proactively detect and neutralize adversarial attempts targeting sensitive corporate agent infrastructure configurations.",
+                "Expanded developer tooling including GEAR monthly credits aims to lower the barrier for organizations seeking rapid migration toward agentic cloud operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: BLOCKBUSTER BLOCK IPO",
+            "heading": "ANTHROPIC: MYTHOS ACCESS EXPANSION",
             "points": [
-                "Anthropic files for a blockbuster initial public offering to accelerate frontier model development and safety.",
-                "The landmark listing reflects surging enterprise adoption of Claude models and responsible scaling policy implementations.",
-                "Fresh public capital will fund massive cloud compute clusters required for training next-generation foundational architectures.",
-                "Strategic IPO timing highlights growing market demand for audited, safe, and highly reliable enterprise AI models."
+                "Anthropic initiates a massive expansion of its Mythos advanced cybersecurity model, rolling out access to 150 organizations across 15 global countries.",
+                "This deployment aims to strengthen international critical software security by providing automated threat identification for large-scale enterprise technology infrastructures globally today.",
+                "The proactive release cycle reflects a strategic pivot toward collaborative, cross-border defense mechanisms against sophisticated automated cyber exploitation campaigns during 2026.",
+                "Initial preview cycles successfully identified over 10,000 security flaws, proving the efficacy of agentic scanning in securing complex corporate software environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "SOFTBANK: $87B REGIONAL COMPUTER",
+            "heading": "SNOWFLAKE: AI ACTION ORCHESTRATION",
             "points": [
-                "SoftBank commits eighty-seven billion dollars to accelerate advanced AI infrastructure buildout throughout the French ecosystem.",
-                "The funding supports high-performance computing nodes designed to host sovereign European AI models and applications.",
-                "Regional investments aim to establish France as a premier global hub for physical AI development.",
-                "Strategic infrastructure scaling ensures sovereign compliance while providing critical low-latency compute resources to European enterprises."
+                "Snowflake shifts its primary AI strategy toward operationalizing action-oriented agentic workflows rather than simple conversational response-based enterprise automation implementations.",
+                "The CoWork platform enables CIOs to orchestrate complex business processes by connecting data directly to autonomous agents in secure environments.",
+                "Strategic focus on contextual awareness allows agents to leverage live warehouse data for real-time decision-making and cross-departmental task scheduling efficiency.",
+                "Market analysis indicates this transition significantly increases the value of enterprise data silos by turning static reports into automated system triggers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FIVETRAN: UNIFIED DATA MERGER",
+            "heading": "TRUMP ADMINISTRATION: AI OVERSIGHT",
             "points": [
-                "Fivetran and DBT Labs complete a merger to establish a unified data layer for AI.",
-                "The combined platform integrates raw pipeline ingestion with automated transformation to streamline enterprise data flows.",
-                "Unified data layers minimize latency and structural errors when deploying autonomous agents across distributed systems.",
-                "The merger enables seamless context engineering by delivering highly accurate real-time data directly to models."
+                "Executive action now mandates that leading AI companies provide the federal government with early access to model training checkpoints and safety evaluations.",
+                "This directive aims to increase national security transparency and prevent rapid weaponization of advanced foundational models by non-state or hostile actors.",
+                "The policy shift marks a departure from self-regulation, forcing firms to establish standardized oversight protocols for high-compute, high-impact AI research projects.",
+                "Market volatility is anticipated as organizations adjust to rigorous disclosure requirements impacting future intellectual property development and rapid commercial release schedules."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.wsj.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: SILICON FAB AUTOMATION",
+            "heading": "MISTRAL: FRONTIER AGENTIC SYSTEMS",
             "points": [
-                "NVIDIA and TSMC partner to integrate physical AI systems inside advanced semiconductor fabrication facilities.",
-                "Neural networks analyze real-time lithography data to improve silicon yield rates on next-generation manufacturing processes.",
-                "Implementing digital twins accelerates design cycles for Rubin architecture graphics chips and custom silicon designs.",
-                "Strategic fab automation mitigates production bottlenecks while scaling global supply of high-performance artificial intelligence chips."
+                "Mistral AI introduces Vibe, a dedicated long-horizon work agent designed for persistent memory, multi-step scheduling, and autonomous enterprise knowledge search tasks.",
+                "The platform emphasizes full deployment portability, allowing models to operate seamlessly from local edge infrastructure to cloud-scale data centers globally.",
+                "New coding agent capabilities within Vibe for code focus on architecture-aware reasoning, facilitating legacy translation and automated CI/CD pipeline integrity checks.",
+                "The integration of Studio and Forge components provides a unified ecosystem for enterprises to train, align, and orchestrate custom domain-specific agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AZURE: AGENTIC DEVOPS INTEGRATION",
+            "heading": "AMD: GLOBAL ECOSYSTEM INVESTMENT",
             "points": [
-                "Microsoft Azure launches new agentic DevOps capabilities connecting developers and IT operations within unified workflows.",
-                "Integrated AI agents automate infrastructure provisioning and continuous deployment pipelines while minimizing technical debt.",
-                "Seamless GitHub integration allows autonomous agents to identify software vulnerabilities and apply critical security patches.",
-                "Modernizing development environments with collaborative agents significantly reduces human latency in enterprise application delivery."
+                "AMD commits $10 billion in strategic investments across the Taiwan semiconductor ecosystem to bolster AI infrastructure production capacity through 2026.",
+                "The partnership focuses on scaling the production of next-generation EPYC processors and high-performance Instinct GPUs for intensive data center AI workloads.",
+                "Collaboration with local manufacturing partners accelerates the shift toward more energy-efficient silicon architecture for global enterprise and edge compute applications.",
+                "The investment reinforces the necessity of sovereign-grade hardware supply chains to sustain the current exponential growth in autonomous agentic AI applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
