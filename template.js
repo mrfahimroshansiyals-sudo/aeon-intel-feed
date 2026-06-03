@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT AGENT",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "CONVERGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: UNMETERED INTELLIGENCE",
+            "heading": "MICROSOFT: FRONTIER TUNING",
             "points": [
-                "Microsoft fully commits to AI models by introducing unmetered intelligence options for enterprise operations.",
-                "Unmetered licensing models eliminate high token billing variability to stabilize operational budgets across departments.",
-                "Integration with Rayfin on Microsoft Fabric creates an optimized backend for highly-scalable agentic processing.",
-                "Enterprise architects can now run continuous model queries without facing sudden scaling cost penalties."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CISCO: AGENTICOPS CONTROL PLANE",
-            "points": [
-                "Cisco releases Cloud Control platform to unite disparate AgenticOps tools for direct enterprise infrastructure management.",
-                "Consolidated operational control reduces infrastructure monitoring overhead by unifying isolated agent fleets into single dashboards.",
-                "The control plane utilizes autonomous systems to oversee network routing, server loads, and edge security.",
-                "System administrators gain secure automation loops that execute real-time structural adjustments without manual scripting."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SNOWFLAKE: COWORK ORCHESTRATION",
-            "points": [
-                "Snowflake launches CoWork framework to transition enterprise AI workloads from static answers to autonomous actions.",
-                "Integrating Horizon Context allows distributed database agents to share unified semantic understanding of business processes.",
-                "The design shifts structured data warehouses into dynamic environments executing complex multi-step transaction pipelines.",
-                "Organizations can bypass custom middleware integration layers to deploy native transactional intelligence directly on data."
+                "Microsoft introduces Frontier Tuning to train enterprise AI models directly on real-world workflow behavior instead of static text documents.",
+                "Integrated Rayfin backend-as-a-service on Microsoft Fabric accelerates agent-to-production deployment cycles by up to forty percent.",
+                "Enterprise architectures shift from simple retrieval-augmented generation toward action-oriented agent fleets utilizing unified cognitive context.",
+                "CIOs must restructure data pipelines to continuously capture interactive organizational behavior for ongoing model alignment."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "WORKDAY: AGENT PASSPORT TESTING",
+            "id": 2,
+            "heading": "TSMC: NANOSHEET ARCHITECTURE",
             "points": [
-                "Workday launches Agent Passport to test and monitor complex autonomous workflows within the modern enterprise.",
-                "Real-time observation capabilities allow security teams to audit compliance protocols before putting agents into production.",
-                "This technology introduces sandboxed verification environments that prevent unauthorized backend access during rapid developer iterations.",
-                "Human oversight is shifting from manual coding audits to automated behavioral profiling of system agents."
+                "TSMC details its A16 nanosheet architecture integrating innovative backside Super Power Rail technology for high-performance AI processors.",
+                "The physical design achieves superior energy efficiency and significant compute density gains for next-generation generative AI workloads.",
+                "Silicon engineering shifts from traditional frontside power routing to backside networks to overcome critical power delivery bottlenecks.",
+                "Hardware architects must redesign power delivery systems to accommodate nanosheet configurations in advanced cloud data centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AMD: QUANTUM COLLABORATION",
+            "points": [
+                "AMD collaborates with OQC and JPMorgan Chase to launch a hybrid Quantum-AI platform in London.",
+                "The system targets advanced multi-agent transactional modeling to process financial datasets with sub-millisecond network execution latencies.",
+                "The infrastructure couples FPGA-driven adaptive computing platforms with superconducting quantum processors to accelerate neural network performance.",
+                "Financial institutions must prepare for algorithmic transitions as quantum-classical hybrid nodes enter active banking operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: SECURITY AUTOMATION",
+            "points": [
+                "Anthropic deploys Project Glasswing to automate critical infrastructure security patch generation using highly specialized AI agents.",
+                "Initial Mythos testing uncovered more than ten thousand software vulnerabilities across global technology giants in thirty days.",
+                "Continuous vulnerability scanning transitions from periodic manual audits to real-time, agent-driven software supply chain mitigation frameworks.",
+                "CISOs must deploy automated validation guardrails to safely ingest and execute machine-generated security hotfixes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FIVETRAN: DATA MERGER FOR AI",
+            "heading": "CISCO: CLOUD AGENTICOPS",
             "points": [
-                "Fivetran and DBT Labs complete structural merger to form a consolidated data integration layer for AI.",
-                "The combined entity delivers clean pipeline orchestration to feed contextual data directly into active agent networks.",
-                "Merged ingestion and transformation layers eliminate traditional processing delays to achieve sub-second data preparation speeds.",
-                "Developers can build high-fidelity applications backed by constantly synchronized and structurally validated enterprise information."
+                "Cisco unveils Cloud Control to establish a unified control plane for coordinating agentic operations across IT infrastructure.",
+                "Automated network orchestration reduces manual configuration workloads while systematically eliminating human-induced routing errors across distributed environments.",
+                "Legacy infrastructure management tools converge into a singular, decentralized control plane orchestrated by autonomous network agents.",
+                "IT directors should adopt standardized AgenticOps protocols to successfully manage sprawling multi-cloud agent fleets."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "NVIDIA: NEMOCLAW AGENT ENGINE",
+            "heading": "SNOWFLAKE: SEMANTIC COWORK",
             "points": [
-                "Nvidia and industrial software leaders partner to build autonomous engineering systems powered by NemoClaw agents.",
-                "Deploying Jetson frameworks on-premise accelerates real-world processing of sensory signals within physical manufacturing factories.",
-                "High-bandwidth agentic computing nodes translate digital decisions into physical actions on secure shop floors.",
-                "Industrial manufacturers will transition manual assembly pipelines into self-correcting systems managed by distributed AI engineers."
+                "Snowflake launches CoWork and Horizon Context to provide autonomous agents with a common semantic business understanding.",
+                "Unified metadata layers eliminate data silos, allowing distributed agents to execute cross-functional transactions without manual integration steps.",
+                "Enterprise data platforms evolve from passive analytics repositories into active environments hosting transactional multi-agent ecosystems.",
+                "Data officers must define strict governance frameworks to control agentic write access within core database tables."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADING",
+            "heading": "DEEPMIND: SCIENTIFIC MULTI-AGENTS",
             "points": [
-                "Robinhood introduces specialized agent trading capabilities allowing AI models to execute transactions on client behalf.",
-                "Algorithmic agents run continuous market evaluation loops to optimize trade timing without requiring user interaction.",
-                "High-security transaction protocols isolate agent execution environments to protect retail investor capital from malicious exploits.",
-                "Financial retail platforms are pivoting from informative dashboards to fully automated asset allocation and trading services."
+                "Google DeepMind introduces Co-Scientist, a collaborative multi-agent platform designed to accelerate complex scientific research processes.",
+                "Automated laboratory simulation models drastically reduce the time required to design, test, and validate chemical compounds.",
+                "High-throughput compute pipelines combine Gemini Omni multimodal inputs with decentralized agent nodes to execute autonomous physical simulations.",
+                "Pharmaceutical researchers must integrate autonomous multi-agent pipelines to maintain competitive discovery velocities in drug development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
