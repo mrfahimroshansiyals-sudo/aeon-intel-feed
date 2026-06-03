@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "CONVERGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC DEPLOYMENT UNIFICATION",
+            "heading": "NVIDIA: WINDOWS UNIFIED AGENT STACK",
             "points": [
-                "NVIDIA partnered with Microsoft to build a unified deployment stack supporting agentic artificial intelligence from edge to cloud.",
-                "Enterprise developers can run autonomous systems locally on Windows devices or scale dynamically using Azure cloud resources.",
-                "This integration bridges local runtime execution environments with massive cloud computing clusters to minimize latency.",
-                "CIOs can implement highly responsive autonomous workers without worrying about fragmented underlying hardware infrastructures."
+                "Nvidia and Microsoft release a unified agentic platform bridging local Windows runtimes directly to cloud environments.",
+                "Local GPU acceleration executes low-latency inference while routing complex workloads to high-capacity cloud clusters seamlessly.",
+                "OpenShell runtime introduces secure governance tools, policy enforcement, and smart local-to-cloud query routing mechanisms.",
+                "Systems engineers gain unified orchestration layers that mitigate enterprise data leakage during high-frequency agent actions."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FABRIC BACKEND EVOLUTION",
+            "heading": "MICROSOFT: FABRIC AGENT BACKEND",
             "points": [
-                "Microsoft launched Rayfin as a fully managed, code-optimized backend as a service operating natively inside Microsoft Fabric.",
-                "The integration delivers real-time contextual data streaming directly to enterprise agents to accelerate decision cycles.",
-                "Grounding agents in unified corporate memory structures avoids the need for complex custom middleware pipelines.",
-                "Database architects can now design lightweight transactional engines optimized for autonomous workflows and low latency."
+                "Microsoft Fabric integrates Rayfin as a fully managed, code-optimized backend database for agentic operations.",
+                "High-throughput agent interactions achieve sub-millisecond latencies through decentralized query execution across memory pools.",
+                "Deep integration with Azure HorizonDB enables scalable transactional writes and structural data ingestion for pipelines.",
+                "Enterprises deploy autonomous agent fleets with native persistence layers and standardized software development kits."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "SNOWFLAKE: CONTEXTUAL AGENT ORCHESTRATION",
+            "heading": "SNOWFLAKE: HORIZON CONTEXT ORCHESTRATION",
             "points": [
-                "Snowflake released Horizon Context and CoWork platforms to establish a shared business understanding for autonomous agents.",
-                "These features streamline governance and significantly reduce the structural friction associated with deploying AI agents at scale.",
-                "Centralizing data governance within the warehouse environment ensures that external agents remain compliant with organizational policies.",
-                "Enterprise leaders can confidently operationalize cognitive workers knowing their core corporate data remains fully protected."
+                "Snowflake launches Horizon Context to equip autonomous enterprise agents with real-time semantic business logic.",
+                "Structured telemetry streams and transactional tables merge seamlessly into agent memory stores without ETL overhead.",
+                "The CoWork system coordinates multi-step operational tasks across complex distributed relational database schemas securely.",
+                "Database administrators can govern agent behavior through centralized policy models, preventing unauthorized data modification."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,60 +55,60 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "CISCO: AGENTICOPS CONTROL CONVERGENCE",
+            "heading": "WORKDAY: AGENT PASSPORT VERIFICATION",
             "points": [
-                "Cisco unveiled Cloud Control, a centralized control plane designed specifically to manage agent-based IT infrastructure operations.",
-                "The platform unifies previously disparate infrastructure management utilities to accelerate automated network issue resolution times.",
-                "Deploying cognitive agents within the network topology enables proactive system monitoring and autonomous configuration updates.",
-                "Network administrators gain unified visibility over self-healing systems, significantly lowering operational costs and manual errors."
+                "Workday releases Agent Passport to establish rigorous compliance testing and behavioral monitoring for agents.",
+                "Real-time diagnostic sweeps flag structural errors and functional misalignment before agents execute production HR workflows.",
+                "Standardized verification tokens document agent capabilities and enforce operational boundaries within enterprise core software.",
+                "Operational teams verify compliance metrics continuously, neutralizing systemic risks from unmonitored human resources software integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WORKDAY: AGENT MONITORING PORTABILITY",
+            "heading": "ANTHROPIC: GLASSWING INFRASTRUCTURE",
             "points": [
-                "Workday launched Agent Passport to facilitate the rigorous testing, monitoring, and verification of enterprise AI agents.",
-                "The framework enables rapid transition of custom cognitive workflows from initial prompt design to production environments.",
-                "By establishing standardized tracking protocols, this tool monitors agent behaviors across complex transactional business processes.",
-                "Compliance officers can safely authorize autonomous processes by verifying agent permissions through a trusted security framework."
+                "Anthropic opens Project Glasswing to one hundred fifty additional enterprise partners targeting critical software security.",
+                "Massive-scale automated vulnerability scans detect thousands of high-risk security flaws across proprietary enterprise codebases.",
+                "Advanced contextual parsing aligns automated patch generation systems directly with existing software development lifecycle frameworks.",
+                "Infrastructure managers resolve security vulnerabilities rapidly, resolving the bottleneck between detection and software patch deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FIVETRAN & DBT: DATA COALESCENCE",
+            "heading": "AMD: RYZEN AGENT COMPUTING",
             "points": [
-                "Fivetran and DBT Labs completed their corporate merger to deliver a unified operational data layer for AI.",
-                "The combined services provide the robust pipeline infrastructure required to continuously prepare data for downstream agents.",
-                "Standardizing transformation rules inside a single platform reduces the latency of ingesting raw real-world data sources.",
-                "Data engineering teams can establish clean, reliable pipelines to power complex corporate AI workloads without manual intervention."
+                "AMD launches Ryzen AI Halo developer platforms tailored specifically for high-efficiency local agent execution.",
+                "Next-generation silicon delivers significant energy-performance ratio improvements, supporting sustained on-device neural processing workloads.",
+                "Hybrid silicon architecture balances compute loads between specialized matrix processors and traditional system execution units.",
+                "Hardware engineers bypass cloud bandwidth constraints, deploying sophisticated agentic software models directly on client endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: MYTHOS VULNERABILITY TESTING",
+            "heading": "CISCO: CLOUD AGENTICOPS CONTROL",
             "points": [
-                "Anthropic's Mythos Preview platform identified over ten thousand security flaws at global tech giants during its initial month.",
-                "The automated security scanner reveals both critical integration risks and immense defensive opportunities for next-generation systems.",
-                "Deploying proactive testing models across enterprise code repositories helps surface zero-day vulnerabilities before malicious actors exploit them.",
-                "Chief Information Security Officers can utilize autonomous scanning agents to reinforce defense perimeters across critical software infrastructure."
+                "Cisco unveils Cloud Control to unify disparate AgenticOps tools under a single IT infrastructure plane.",
+                "Integrated monitoring frameworks minimize operations latency by coordinating autonomous agents managing complex network routing configurations.",
+                "High-fidelity telemetric channels track real-time resource allocations, system anomalies, and agentic cross-dependency behaviors across domains.",
+                "Network administrators maintain operational integrity while shifting manual system adjustments to automated, closed-loop agentic networks."
             ],
             "imageUrl": "",
             "tags": [
