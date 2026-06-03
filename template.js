@@ -1,98 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "CONVERGENCE"
+        "titleWhite": "AUTONOMOUS AGENT TECH",
+        "titleBlue": "SECURED"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FRONTIER TUNING",
+            "heading": "NVIDIA: PHYSICAL AI SKILLS",
             "points": [
-                "Microsoft introduces Frontier Tuning to train enterprise AI models directly on real-world workflow behavior instead of static text documents.",
-                "Integrated Rayfin backend-as-a-service on Microsoft Fabric accelerates agent-to-production deployment cycles by up to forty percent.",
-                "Enterprise architectures shift from simple retrieval-augmented generation toward action-oriented agent fleets utilizing unified cognitive context.",
-                "CIOs must restructure data pipelines to continuously capture interactive organizational behavior for ongoing model alignment."
+                "NVIDIA launched agent skills for autonomous vehicles and robotics to advance physical artificial intelligence research.",
+                "The release scales autonomous vehicle operations by improving multi-agent training efficiency across digital twin environments.",
+                "This framework decouples robot training from physical limits, enabling rapid validation of spatial computer vision.",
+                "Developers will deploy highly adaptable physical systems that safely coordinate complex real-world grasping maneuvers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: NANOSHEET ARCHITECTURE",
+            "heading": "MICROSOFT: FRONTIER TUNING LAUNCH",
             "points": [
-                "TSMC details its A16 nanosheet architecture integrating innovative backside Super Power Rail technology for high-performance AI processors.",
-                "The physical design achieves superior energy efficiency and significant compute density gains for next-generation generative AI workloads.",
-                "Silicon engineering shifts from traditional frontside power routing to backside networks to overcome critical power delivery bottlenecks.",
-                "Hardware architects must redesign power delivery systems to accommodate nanosheet configurations in advanced cloud data centers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: QUANTUM COLLABORATION",
-            "points": [
-                "AMD collaborates with OQC and JPMorgan Chase to launch a hybrid Quantum-AI platform in London.",
-                "The system targets advanced multi-agent transactional modeling to process financial datasets with sub-millisecond network execution latencies.",
-                "The infrastructure couples FPGA-driven adaptive computing platforms with superconducting quantum processors to accelerate neural network performance.",
-                "Financial institutions must prepare for algorithmic transitions as quantum-classical hybrid nodes enter active banking operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: SECURITY AUTOMATION",
-            "points": [
-                "Anthropic deploys Project Glasswing to automate critical infrastructure security patch generation using highly specialized AI agents.",
-                "Initial Mythos testing uncovered more than ten thousand software vulnerabilities across global technology giants in thirty days.",
-                "Continuous vulnerability scanning transitions from periodic manual audits to real-time, agent-driven software supply chain mitigation frameworks.",
-                "CISOs must deploy automated validation guardrails to safely ingest and execute machine-generated security hotfixes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "CISCO: CLOUD AGENTICOPS",
-            "points": [
-                "Cisco unveils Cloud Control to establish a unified control plane for coordinating agentic operations across IT infrastructure.",
-                "Automated network orchestration reduces manual configuration workloads while systematically eliminating human-induced routing errors across distributed environments.",
-                "Legacy infrastructure management tools converge into a singular, decentralized control plane orchestrated by autonomous network agents.",
-                "IT directors should adopt standardized AgenticOps protocols to successfully manage sprawling multi-cloud agent fleets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "SNOWFLAKE: SEMANTIC COWORK",
-            "points": [
-                "Snowflake launches CoWork and Horizon Context to provide autonomous agents with a common semantic business understanding.",
-                "Unified metadata layers eliminate data silos, allowing distributed agents to execute cross-functional transactions without manual integration steps.",
-                "Enterprise data platforms evolve from passive analytics repositories into active environments hosting transactional multi-agent ecosystems.",
-                "Data officers must define strict governance frameworks to control agentic write access within core database tables."
+                "Microsoft released Frontier Tuning to train enterprise models on real operational behaviors instead of documents.",
+                "The tuning service dramatically reduces false decisions by aligning machine learning outputs with organizational policies.",
+                "Shifting model training toward behavioral execution marks a critical decoupling from passive knowledge retrieval frameworks.",
+                "Corporate architectures will transition from simple answering agents to highly precise autonomous transactional engines."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DEEPMIND: SCIENTIFIC MULTI-AGENTS",
+            "id": 3,
+            "heading": "US GOVERNMENT: HARDWARE SUPPLY THREATS",
             "points": [
-                "Google DeepMind introduces Co-Scientist, a collaborative multi-agent platform designed to accelerate complex scientific research processes.",
-                "Automated laboratory simulation models drastically reduce the time required to design, test, and validate chemical compounds.",
-                "High-throughput compute pipelines combine Gemini Omni multimodal inputs with decentralized agent nodes to execute autonomous physical simulations.",
-                "Pharmaceutical researchers must integrate autonomous multi-agent pipelines to maintain competitive discovery velocities in drug development."
+                "National security investigators identified Chinese circuit boards embedded deep within US enterprise artificial intelligence chips.",
+                "The discovery triggers immediate security audits across federal systems to mitigate potential hardware backdoor vulnerabilities.",
+                "Silicon supply chain integrity faces intense scrutiny as policymakers demand complete decoupling from unverified manufacturers.",
+                "Defense agencies will enforce strict provenance protocols, forcing hardware developers to accelerate localized manufacturing strategies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ALPHABET: HISTORIC CAPEX EXPANSION",
+            "points": [
+                "Google expanded its latest equity raising round to eighty-five billion dollars to fund massive infrastructure.",
+                "The unprecedented capital influx supports hyper-scale data center construction and advanced chip procurement globally.",
+                "Institutional investors backed this massive fundraising despite long-term profitability concerns surrounding generative computing workloads.",
+                "Competitors must rapidly scale their own capital reserves to match Google's aggressive physical infrastructure footprint."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "STANFORD HAI: REAL-TIME CHATBOT AUDIT",
+            "points": [
+                "Stanford researchers conducted a real-time audit of six commercial chatbots digesting active global news stories.",
+                "The study exposed significant latency gaps and inconsistencies in how commercial models process fast-breaking information.",
+                "Relying on unverified commercial API layers introduces substantial hallucinations into automated enterprise decision-making pipelines.",
+                "Organizations will adopt localized, real-time retrieval architectures to ensure safe and factual automated data processing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://hai.stanford.edu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "CROWDSTRIKE: AI MARKET DEFICIT",
+            "points": [
+                "CrowdStrike reported strong earnings driven by security demand but saw shares drop ten percent post-market.",
+                "High valuation multiples pressurized the cybersecurity leader despite beating wall street revenue and guidance expectations.",
+                "This sharp decline highlights intense market sensitivity toward software vendor growth rates amid heavy infrastructure spending.",
+                "Enterprise software providers must demonstrate immediate operational margin improvements to sustain high public market valuations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMD: QUANTUM AI COLLABORATION",
+            "points": [
+                "Advanced Micro Devices joined forces with JPMorganChase and OQC to develop a quantum-accelerated intelligence platform.",
+                "This hybrid computing project optimizes financial machine learning algorithms to execute complex risk calculations instantly.",
+                "Fusing quantum processors with traditional accelerators represents a paradigm shift for high-performance enterprise compute strategies.",
+                "Financial institutions will leverage this hybrid architecture to secure decisive advantages in real-time high-frequency trading."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
