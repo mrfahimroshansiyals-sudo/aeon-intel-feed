@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT",
-        "titleBlue": "ORCHESTRATION"
+        "titleWhite": "INTELLIGENT AGENT",
+        "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA & MICROSOFT: UNIFIED STACK",
+            "heading": "MICROSOFT: UNMETERED INTELLIGENCE",
             "points": [
-                "NVIDIA and Microsoft partner to launch a unified software stack accelerating multi-device agentic AI deployment across enterprise environments.",
-                "The integration enables seamless local Windows execution and cloud scale, reducing agent latency by over forty percent.",
-                "System architects can leverage shared runtime environments, ensuring unified data governance and simplified compliance across hybrid infrastructure.",
-                "Enterprise operators gain immediate access to cross-platform developer tools, securing long-term operational consistency and accelerated deployment cycles."
+                "Microsoft fully commits to AI models by introducing unmetered intelligence options for enterprise operations.",
+                "Unmetered licensing models eliminate high token billing variability to stabilize operational budgets across departments.",
+                "Integration with Rayfin on Microsoft Fabric creates an optimized backend for highly-scalable agentic processing.",
+                "Enterprise architects can now run continuous model queries without facing sudden scaling cost penalties."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: NEMOCLAW INFRASTRUCTURE",
+            "heading": "CISCO: AGENTICOPS CONTROL PLANE",
             "points": [
-                "NVIDIA NemoClaw enables industrial software leaders to build secure, autonomous AI engineers specialized in complex physical systems.",
-                "Autonomous engineers automate up to eighty percent of routine simulation trials, drastically shortening industrial design validation cycles.",
-                "The platform incorporates strict security guardrails, preventing unsafe automated commands in high-precision physical manufacturing environments.",
-                "Industrial enterprises can deploy self-correcting engineering pipelines, minimizing human errors and boosting overall manufacturing yield."
+                "Cisco releases Cloud Control platform to unite disparate AgenticOps tools for direct enterprise infrastructure management.",
+                "Consolidated operational control reduces infrastructure monitoring overhead by unifying isolated agent fleets into single dashboards.",
+                "The control plane utilizes autonomous systems to oversee network routing, server loads, and edge security.",
+                "System administrators gain secure automation loops that execute real-time structural adjustments without manual scripting."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "WORKDAY: AGENT PASSPORT",
+            "heading": "SNOWFLAKE: COWORK ORCHESTRATION",
             "points": [
-                "Workday launches Agent Passport, a novel framework designed to test, monitor, and regulate enterprise AI agents.",
-                "The testing suite speeds up agent deployment from concept to production, lowering validation overhead by thirty percent.",
-                "This architecture establishes standardized credentialing and tracking protocols, assuring secure cross-application workflows and compliance reporting.",
-                "Human resources and finance teams can confidently authorize autonomous agents to execute complex business transactions safely."
+                "Snowflake launches CoWork framework to transition enterprise AI workloads from static answers to autonomous actions.",
+                "Integrating Horizon Context allows distributed database agents to share unified semantic understanding of business processes.",
+                "The design shifts structured data warehouses into dynamic environments executing complex multi-step transaction pipelines.",
+                "Organizations can bypass custom middleware integration layers to deploy native transactional intelligence directly on data."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "SNOWFLAKE: COWORK PLATFORM",
+            "heading": "WORKDAY: AGENT PASSPORT TESTING",
             "points": [
-                "Snowflake launches CoWork and Horizon Context to transition enterprise artificial intelligence from passive answers to autonomous actions.",
-                "New streaming services deliver real-time data to active agents, eliminating up to ninety percent of informational latencies.",
-                "The upgrade embeds unified metadata layers directly into data warehouses, optimizing semantic search and context retrieval capabilities.",
-                "Chief information officers can systematically orchestrate and govern complex agentic workloads within a single secure data ecosystem."
+                "Workday launches Agent Passport to test and monitor complex autonomous workflows within the modern enterprise.",
+                "Real-time observation capabilities allow security teams to audit compliance protocols before putting agents into production.",
+                "This technology introduces sandboxed verification environments that prevent unauthorized backend access during rapid developer iterations.",
+                "Human oversight is shifting from manual coding audits to automated behavioral profiling of system agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: FABRIC RAYFIN",
+            "heading": "FIVETRAN: DATA MERGER FOR AI",
             "points": [
-                "Microsoft introduces Rayfin on Fabric alongside Azure HorizonDB, providing an optimized, fully managed backend for agentic applications.",
-                "PostgreSQL-engineered HorizonDB provides ultra-low latency, handling millions of read operations per second for intensive model training.",
-                "The unified architecture bridges real-time transactional databases with semantic intelligence layers, streamlining complex vector storage deployments.",
-                "Database administrators can scale global AI workloads effortlessly while maintaining strict operational security and consistent cost efficiency."
+                "Fivetran and DBT Labs complete structural merger to form a consolidated data integration layer for AI.",
+                "The combined entity delivers clean pipeline orchestration to feed contextual data directly into active agent networks.",
+                "Merged ingestion and transformation layers eliminate traditional processing delays to achieve sub-second data preparation speeds.",
+                "Developers can build high-fidelity applications backed by constantly synchronized and structurally validated enterprise information."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CISCO: AGENTICOPS CONTROL",
+            "heading": "NVIDIA: NEMOCLAW AGENT ENGINE",
             "points": [
-                "Cisco Cloud Control launches to unify AgenticOps, streamlining automated infrastructure management across multi-cloud enterprise networks.",
-                "The centralized control plane collapses previously siloed tracking metrics, boosting operational network performance by twenty-five percent.",
-                "By integrating disparate hardware monitoring software, the platform enables autonomous healing protocols across global edge environments.",
-                "Infrastructure engineering teams can confidently transition to agent-led operations, drastically reducing manual troubleshooting and system downtime."
+                "Nvidia and industrial software leaders partner to build autonomous engineering systems powered by NemoClaw agents.",
+                "Deploying Jetson frameworks on-premise accelerates real-world processing of sensory signals within physical manufacturing factories.",
+                "High-bandwidth agentic computing nodes translate digital decisions into physical actions on secure shop floors.",
+                "Industrial manufacturers will transition manual assembly pipelines into self-correcting systems managed by distributed AI engineers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "HYLAND: CONTENT AGENTS",
+            "heading": "ROBINHOOD: AGENTIC FINANCIAL TRADING",
             "points": [
-                "Hyland releases a specialized AI agent platform featuring tailored vertical integrations for enterprise content management systems.",
-                "Intelligent document processing agents reduce manual indexing workloads by seventy-five percent across healthcare and financial services.",
-                "The platform leverages secure API connectors, ensuring compliance with strict privacy regulations during automated data extraction procedures.",
-                "Organizations can rapidly transition raw document archives into structured datasets, driving immediate gains in transaction processing efficiency."
+                "Robinhood introduces specialized agent trading capabilities allowing AI models to execute transactions on client behalf.",
+                "Algorithmic agents run continuous market evaluation loops to optimize trade timing without requiring user interaction.",
+                "High-security transaction protocols isolate agent execution environments to protect retail investor capital from malicious exploits.",
+                "Financial retail platforms are pivoting from informative dashboards to fully automated asset allocation and trading services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
