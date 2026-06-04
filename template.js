@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENT",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC STACK DEPLOYMENT",
+            "heading": "MICROSOFT: FABRIC RAYFIN PLATFORM",
             "points": [
-                "Nvidia partners with Microsoft to release a unified software stack designed for agentic AI deployments globally.",
-                "The architecture standardizes agent orchestration from local Windows edge devices up to multi-node azure clouds.",
-                "Systems engineers get integrated developer tools to build and deploy sovereign physical and digital AI agents.",
-                "This blueprint accelerates runtime environments for enterprises scaling multi-agent frameworks across secure private infrastructure environments."
+                "Microsoft introduced Rayfin as a fully managed agentic backend service integrated natively into its Fabric data platform.",
+                "Enterprise developers deploy autonomous agents accessing unified context layers with seventy percent faster data orchestration times.",
+                "Integrating relational engines with agent-optimized backends allows enterprises to bypass fragile data movement and manual code stitching.",
+                "Chief information officers will transition away from static databases toward dynamic agent-ready architectures to sustain competitive advantage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FRONTIER TUNING LAUNCH",
+            "heading": "SNOWFLAKE: HORIZON CONTEXT ENGINE",
             "points": [
-                "Microsoft launches Frontier Tuning service to train AI models on transactional enterprise behaviors and workflows.",
-                "The framework moves beyond standard retrieval augmented generation to teach models operational decision making structures.",
-                "IT leaders can align foundation models with complex internal business logic and legacy database transaction flows.",
-                "This training paradigm dramatically improves task execution accuracy for autonomous digital agents working within enterprise applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SNOWFLAKE: HORIZON CONTEXT DEPLOYMENT",
-            "points": [
-                "Snowflake debuts Horizon Context providing autonomous agents with a unified semantic understanding of corporate data assets.",
-                "The platform secures active datasets while supplying AI engines with real time metadata and structural governance.",
-                "Data teams can now catalog unstructured files to feed contextual corporate information into operational agent pipelines.",
-                "This technology mitigates compliance risks by establishing strict access controls over data layers feeding autonomous workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "CISCO: AGENTICOPS CONTROL PLANE",
-            "points": [
-                "Cisco unveils Cloud Control to unify agentic operations across distributed IT network and cloud infrastructure systems.",
-                "The unified dashboard consolidates disparate monitoring tools into a single control plane for automated network management.",
-                "Network administrators can deploy autonomous software agents to monitor and resolve hardware anomalies across multi-cloud environments.",
-                "This convergence streamlines system maintenance while establishing real-time security boundaries across physical and virtual enterprise nodes."
+                "Snowflake launched Horizon Context to provide autonomous AI agents with a unified semantic understanding of business data.",
+                "The system allows thousands of concurrent agents to safely query enterprise catalogs while maintaining strict data governance.",
+                "Consolidating analytical metadata into a shared context layer resolves the structural mismatch between raw databases and LLMs.",
+                "IT leaders will enforce compliance rules globally across all deployed operational agents using central semantic policy engines."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: QUANTUM-AI RESEARCH PLATFORM",
+            "id": 3,
+            "heading": "CISCO: AGENTICOPS CONTROL PLANE",
             "points": [
-                "AMD collaborates with JPMorganChase and OQC to research and develop a quantum AI platform in London.",
-                "The research initiative aims to combine hybrid quantum computing with advanced artificial intelligence optimization algorithms.",
-                "Financial analysts will leverage the experimental system to design highly efficient algorithmic trading and risk modeling frameworks.",
-                "This deep research milestone signals a shift toward hardware accelerated platforms capable of solving complex transactional operations."
+                "Cisco announced Cloud Control, a novel centralized control plane designed to unify infrastructure management through autonomous AI agents.",
+                "Operating networks using agentic automation cuts manual administrative overhead by over forty percent across hybrid cloud instances.",
+                "Merging disparate operations tools under one unified agentic control framework marks a massive leap in IT infrastructure evolution.",
+                "Infrastructure teams will pivot from writing monitoring scripts to overseeing autonomous agents that heal corporate networks programmatically."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: RYZEN HALO ARCHITECTURE",
+            "points": [
+                "AMD unveiled its Ryzen AI Halo developer platform to accelerate local agentic computing directly on endpoint hardware.",
+                "Delivering massive localized processing power enables deep learning models to run offline with zero cloud latency penalties.",
+                "Transitioning execution workloads to edge devices reduces expensive cloud API bills and preserves enterprise data privacy boundaries.",
+                "Security engineers will increasingly mandate local silicon execution to eliminate transmission vulnerabilities inherent in cloud-based model systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NVIDIA: PHYSICAL AI RESEARCH",
+            "id": 5,
+            "heading": "NVIDIA: NEMOCLAW AGENT STACK",
             "points": [
-                "Nvidia research team unlocks advanced robotic grasping and automated training methodologies for scalable autonomous driving models.",
-                "The updated physical AI suite delivers pre-trained skills to enhance spatial reasoning in autonomous vehicular fleets.",
-                "Developers can train virtual agents in high-fidelity simulations before deploying physical controllers to real-world edge devices.",
-                "This framework accelerates commercial humanoid robotics development by scaling real-time sensory processing and manipulation training cycles."
+                "NVIDIA partnered with Microsoft to release a unified stack for agentic AI deployment utilizing the NemoClaw framework.",
+                "Companies can build secure autonomous software engineers that successfully execute complex code generation tasks with high accuracy.",
+                "Merging physical AI with local and cloud runtimes establishes a comprehensive ecosystem for industrial-scale agent deployment globally.",
+                "Product owners will automate routine maintenance and migration workflows, significantly compressing the typical software development life cycle."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +86,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "FIVETRAN: DATA LAYER INTEGRATION",
+            "id": 6,
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
             "points": [
-                "Fivetran completes its merger with DBT Labs to establish a unified, robust data integration layer for AI.",
-                "The consolidated software pipeline accelerates data preparation by standardizing transformation workflows across multiple distinct cloud databases.",
-                "Enterprise architects can now deliver clean, structured data arrays directly into operational machine learning pipelines instantly.",
-                "This operational integration removes data engineering bottlenecks to streamline real-time agent training and analytical modeling frameworks."
+                "Google DeepMind introduced Gemini Omni, an advanced model series capable of generating native multimodal outputs starting with video.",
+                "The action-oriented architecture enables models to execute multi-step agentic workflows based directly on visual and auditory cues.",
+                "Upgrading model capabilities from static text processing to real-time sensory perception accelerates the realization of fully autonomous systems.",
+                "Enterprises will deploy visual agents to manage complex physical security, customer service, and real-time environment analysis workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "FIVETRAN: DBT LABS INTEGRATION",
+            "points": [
+                "Fivetran and DBT Labs completed their merger to build a unified data integration and preparation layer for agents.",
+                "Preparing structured datasets dynamically ensures that operational AI models receive clean, schema-verified context feeds in real time.",
+                "Standardizing the pipeline from extraction to semantic modeling eliminates dirty data issues that crash deployed autonomous agents.",
+                "Data engineering teams will transition into strategic context curators, optimizing pipelines to fuel real-time business decision engines."
             ],
             "imageUrl": "",
             "tags": [
