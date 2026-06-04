@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT TECH",
-        "titleBlue": "SECURED"
+        "titleWhite": "AGENTS SHIFTING GLOBAL",
+        "titleBlue": "ORCHESTRATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PHYSICAL AI SKILLS",
+            "heading": "AMD: QUANTUM-AI PLATFORM INCEPTION",
             "points": [
-                "NVIDIA launched agent skills for autonomous vehicles and robotics to advance physical artificial intelligence research.",
-                "The release scales autonomous vehicle operations by improving multi-agent training efficiency across digital twin environments.",
-                "This framework decouples robot training from physical limits, enabling rapid validation of spatial computer vision.",
-                "Developers will deploy highly adaptable physical systems that safely coordinate complex real-world grasping maneuvers."
+                "AMD partners with OQC and JPMorganChase to construct a novel quantum artificial intelligence platform in London.",
+                "The research initiative scales financial transaction processing and explores hybrid quantum-classical algorithms for global banking infrastructure.",
+                "Integrating quantum processors with EPYC CPUs optimizes cryptographic frameworks and enhances computational speed for real-time asset pricing.",
+                "Financial institutions leverage this architecture to solve complex optimization challenges and establish sovereign quantum data protection."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA: PHYSICAL ROBOTICS AGENT SKILLS",
+            "points": [
+                "NVIDIA releases advanced agent skills to accelerate autonomous driving, physical robotics simulation, and cognitive vision processing architectures.",
+                "The framework delivers high-fidelity spatial reasoning and real-time path planning capabilities across diverse hardware sensor arrays.",
+                "Developers leverage simulated synthetic environments to train autonomous agents safely before deployment into complex industrial factories.",
+                "This physical intelligence suite bridges the virtual-to-real gap, driving scaling efficiencies in manufacturing automation pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MICROSOFT: FRONTIER TUNING LAUNCH",
+            "id": 3,
+            "heading": "MICROSOFT: FRONTIER BEHAVIOR TUNING",
             "points": [
-                "Microsoft released Frontier Tuning to train enterprise models on real operational behaviors instead of documents.",
-                "The tuning service dramatically reduces false decisions by aligning machine learning outputs with organizational policies.",
-                "Shifting model training toward behavioral execution marks a critical decoupling from passive knowledge retrieval frameworks.",
-                "Corporate architectures will transition from simple answering agents to highly precise autonomous transactional engines."
+                "Microsoft launches Frontier Tuning to train artificial intelligence models directly on real-world transactional enterprise behavioral dynamics.",
+                "The service moves beyond static document grounding, optimizing agent decision-making processes across complex multi-departmental workflow tasks.",
+                "Enterprises integrate local operational patterns to drastically reduce hallucination rates within automated strategic planning pipelines.",
+                "CIOs utilize this architecture to achieve deterministic execution and orchestrate highly customized autonomous digital workforces safely."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "US GOVERNMENT: HARDWARE SUPPLY THREATS",
-            "points": [
-                "National security investigators identified Chinese circuit boards embedded deep within US enterprise artificial intelligence chips.",
-                "The discovery triggers immediate security audits across federal systems to mitigate potential hardware backdoor vulnerabilities.",
-                "Silicon supply chain integrity faces intense scrutiny as policymakers demand complete decoupling from unverified manufacturers.",
-                "Defense agencies will enforce strict provenance protocols, forcing hardware developers to accelerate localized manufacturing strategies."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "ALPHABET: HISTORIC CAPEX EXPANSION",
-            "points": [
-                "Google expanded its latest equity raising round to eighty-five billion dollars to fund massive infrastructure.",
-                "The unprecedented capital influx supports hyper-scale data center construction and advanced chip procurement globally.",
-                "Institutional investors backed this massive fundraising despite long-term profitability concerns surrounding generative computing workloads.",
-                "Competitors must rapidly scale their own capital reserves to match Google's aggressive physical infrastructure footprint."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "STANFORD HAI: REAL-TIME CHATBOT AUDIT",
             "points": [
-                "Stanford researchers conducted a real-time audit of six commercial chatbots digesting active global news stories.",
-                "The study exposed significant latency gaps and inconsistencies in how commercial models process fast-breaking information.",
-                "Relying on unverified commercial API layers introduces substantial hallucinations into automated enterprise decision-making pipelines.",
-                "Organizations will adopt localized, real-time retrieval architectures to ensure safe and factual automated data processing."
+                "Stanford researchers publish a real-time audit assessing six leading commercial chatbots on news accuracy and bias.",
+                "The study reveals significant performance disparities when models process highly dynamic, unstructured real-time global news streams.",
+                "Establishing rigorous independent benchmarks remains critical as enterprises deploy autonomous systems for direct business intelligence ingestion.",
+                "System architects must implement continuous monitoring layers to mitigate hallucinated current events and ensure semantic integrity."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "CROWDSTRIKE: AI MARKET DEFICIT",
+            "id": 5,
+            "heading": "CYBERSECURITY: EXCLUSIVITY POLICY IMPACT",
             "points": [
-                "CrowdStrike reported strong earnings driven by security demand but saw shares drop ten percent post-market.",
-                "High valuation multiples pressurized the cybersecurity leader despite beating wall street revenue and guidance expectations.",
-                "This sharp decline highlights intense market sensitivity toward software vendor growth rates amid heavy infrastructure spending.",
-                "Enterprise software providers must demonstrate immediate operational margin improvements to sustain high public market valuations."
+                "A new executive order promotes artificial intelligence model exclusivity, creating friction for open-source cyber defense developers.",
+                "The directive strengthens relationships between federal agencies and centralized model providers to protect critical national digital assets.",
+                "Security researchers warn that restricted model access bottlenecks collaborative vulnerability identification across cross-border software supply chains.",
+                "Sovereign nations must balance strict safety controls with open architectural environments to sustain rapid security patching capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMERICAN EXPRESS: DEMOCRATIZED ANALYTICS",
+            "points": [
+                "American Express implements a strategic framework focused on democratizing analytical capabilities while keeping core data highly centralized.",
+                "The paradigm minimizes data exposure, mitigating security risks while empowering business units to generate real-time insights.",
+                "Decentralized analytics layers allow safe model experimentation without compromising enterprise compliance or client privacy protection standards.",
+                "Financial enterprises utilize this governance model to maintain strict transactional sovereignty while scaling localized intelligence applications."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: QUANTUM AI COLLABORATION",
+            "heading": "INFOWORLD: FAST PYTHON LINTING DEBUT",
             "points": [
-                "Advanced Micro Devices joined forces with JPMorganChase and OQC to develop a quantum-accelerated intelligence platform.",
-                "This hybrid computing project optimizes financial machine learning algorithms to execute complex risk calculations instantly.",
-                "Fusing quantum processors with traditional accelerators represents a paradigm shift for high-performance enterprise compute strategies.",
-                "Financial institutions will leverage this hybrid architecture to secure decisive advantages in real-time high-frequency trading."
+                "The release of Pyrefly 1.0 introduces an optimized, highly concurrent linting engine for modern enterprise Python codebases.",
+                "The tool streamlines software supply chains by automatically identifying performance bottlenecks and deprecated syntax across development pipelines.",
+                "Integrating fast linting frameworks reduces technical debt and accelerates deployment cycles for agentic AI application backends.",
+                "Software engineering teams leverage Pyrefly to maintain high code quality standards inside continuous integration and delivery loops."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
