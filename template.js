@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT ENGINE",
-        "titleBlue": "RUNTIMES"
+        "titleWhite": "EDGE AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: GEMMA EDGE INTELLIGENCE",
+            "heading": "ANTHROPIC: GLOBAL SLOWDOWN CALL",
             "points": [
-                "Google launches the Gemma four twelve billion open-source model optimized for local edge agentic workflows.",
-                "This architecture operates under Apache protocols to bypass public cloud latency and network infrastructure bottlenecks.",
-                "Enterprise developers can execute secure microservices locally without transmitting proprietary business metadata to external servers.",
-                "Local processing capabilities unlock responsive offline processing of multi-step autonomous tasks across corporate digital environments."
+                "Anthropic issues an urgent global petition urging international regulators to decelerate frontier model training speed immediately.",
+                "The request aims to prevent catastrophic national security vulnerabilities stemming from rapid and unchecked agentic AI capabilities.",
+                "Corporate leaders must prepare for incoming regulatory friction as compliance requirements tighten across international sovereign jurisdictions.",
+                "Enterprise budgets will likely pivot toward alignment testing and security monitoring instead of raw training expansion."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: wsj.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FABRIC RAYFIN RUNTIME",
+            "heading": "GOOGLE: LOCAL AGENT DEPLOYMENT",
             "points": [
-                "Microsoft releases Rayfin on Fabric as a managed backend system engineered specifically for agentic execution.",
-                "The platform delivers ultra-low latency PostgreSQL database operations directly to generative AI software development teams.",
-                "Enterprise architects can integrate transactional data management and autonomous workflows inside one unified cloud environment.",
-                "This centralized deployment model accelerates the integration of secure database agents into complex legacy platforms."
+                "Google releases the Gemma 4 12B open-weights model to shift agentic processing to localized enterprise laptops.",
+                "The model features Apache 2.0 licensing to allow secure on-device computation without relying on centralized clouds.",
+                "Organizations can bypass high network latency and strict data residency issues by deploying workflows directly onto edge.",
+                "Hardware architectures must adapt to handle increased localized memory and compute demands at the edge layer."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "QUANTINUUM: QUANTUM DEBUT ACCELERATION",
+            "heading": "US NSA: MYTHOS CYBER DEFENSE",
             "points": [
-                "Quantinuum lists on public markets with a high-value debut trading at sixty-eight dollars per share.",
-                "Surging market interest reflects enterprise demands for scaling physical classical-quantum processors to solve optimization challenges.",
-                "Next-generation quantum structures will utilize this funding injection to bypass silicon boundaries for model training.",
-                "Global firms anticipate faster schedules for implementing advanced quantum security protections across their cloud systems."
+                "The National Security Agency deploys Anthropic's Mythos platform to counter aggressive foreign cybersecurity threats.",
+                "The system analyzes complex network vulnerabilities to automatically patch infrastructure before malicious agents can exploit them.",
+                "Military and intelligence organizations are rapidly integrating large language models into standard offensive and defensive tactical operations.",
+                "Sovereign nations must establish dedicated AI cyber units to defend critical national infrastructure against automated structural attacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com/newswires",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RYZEN HALO DEVELOPER PLATFORM",
+            "heading": "MICROSOFT: RAYFIN FABRIC RUNTIME",
             "points": [
-                "AMD debuts the Ryzen AI Halo Developer Platform to support advanced localized agent execution workflows.",
-                "The silicon architecture blends powerful computing components to transition personal computers into autonomous computing nodes.",
-                "Developers access on-chip processing resources engineered to run continuous background software operations without web dependencies.",
-                "This localized approach controls operational spending while isolating proprietary transactional telemetry from public cloud pipelines."
+                "Microsoft launches Rayfin on Fabric as a managed agentic-code optimized backend service to simplify developer deployment.",
+                "The service unifies fragmented enterprise data lakes and governance layers to enable seamless autonomous application workflows.",
+                "Developers can build production-ready agents directly inside Fabric without provisioning complex external runtime database infrastructure.",
+                "IT leadership can enforce consistent organizational security policy controls over the entire active AI fleet."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: PHYSICAL AGENT SKILLS",
+            "heading": "SPACEX: HYPERSCALE REVENUE PROJECTION",
             "points": [
-                "NVIDIA Research shares physical agent skills to accelerate machine learning across autonomous vehicles and robotics.",
-                "The software enables smarter target grasping mechanisms and localized computer vision inside complex manufacturing areas.",
-                "Industrial enterprises can implement these models to minimize training discrepancies between simulated and real operations.",
-                "These pre-trained modules indicate an industry shift toward fully automated heavy machinery and flexible logistics."
+                "Goldman Sachs estimates SpaceX's annual AI revenue will grow one hundredfold to support a trillion-dollar valuation.",
+                "The projections depend heavily on expanding global satellite constellations and integrating real-time edge processing nodes.",
+                "Defense agencies are contracting orbital bandwidth to power low-latency tactical communication networks for autonomous military fleets.",
+                "Aerospace engineering and intelligence operations are converging onto a unified global network for real-time telemetry processing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: PROJECT GLASSWING SECURITY",
+            "heading": "BROADCOM: SEMICONDUCTOR MARKET VOLATILITY",
             "points": [
-                "Anthropic introduces Project Glasswing to protect critical enterprise infrastructure layers from emerging automated digital vulnerabilities.",
-                "The system limits operational exposure caused by running persistent autonomous models within closed production networks.",
-                "Engineering groups must use secure monitoring systems to discover potential alignment issues before deploying agents.",
-                "This cybersecurity standard provides clear governance baselines for hosting continuous background agents on corporate networks."
+                "Broadcom triggers a major chip market downturn after releasing conservative future revenue forecasts for hardware demand.",
+                "This adjustment prompts institutional investors to rotate capital from high-valuation hardware suppliers into enterprise software platforms.",
+                "Hardware supply chains must balance short-term overcapacity risks against the long-term infrastructure needs of global hyperscalers.",
+                "Semiconductor manufacturing strategies will focus heavily on yield optimization rather than expanding raw physical fab output."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com/news",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CISCO: CLOUD AGENTICOPS CONVERGENCE",
+            "heading": "PALANTIR: PRIVATE EQUITY INSIGHTS",
             "points": [
-                "Cisco launches Cloud Control to integrate complex AgenticOps tasks across distributed software and networking systems.",
-                "The controller combines decentralized workflow management tools into one unified telemetry window for network operators.",
-                "Technical support departments gain complete operational visibility to identify agent conflicts before system failures happen.",
-                "This operational framework accelerates automated healing processes without sacrificing baseline security protocols within corporate structures."
+                "Kirkland and Ellis partners with Palantir to develop specialized AI systems for advising elite buyout funds.",
+                "The proprietary system automates due diligence processes to analyze risks in complex corporate acquisitions and deals.",
+                "Legal departments are transitioning from static template reviews to interactive, platform-based data analysis tools for transactions.",
+                "Investment groups will leverage automated pipelines to accelerate acquisition speed while reducing manual regulatory auditing costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
