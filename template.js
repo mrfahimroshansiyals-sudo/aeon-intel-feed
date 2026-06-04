@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "EDGE AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: GLOBAL SLOWDOWN CALL",
+            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
             "points": [
-                "Anthropic issues an urgent global petition urging international regulators to decelerate frontier model training speed immediately.",
-                "The request aims to prevent catastrophic national security vulnerabilities stemming from rapid and unchecked agentic AI capabilities.",
-                "Corporate leaders must prepare for incoming regulatory friction as compliance requirements tighten across international sovereign jurisdictions.",
-                "Enterprise budgets will likely pivot toward alignment testing and security monitoring instead of raw training expansion."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: wsj.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GOOGLE: LOCAL AGENT DEPLOYMENT",
-            "points": [
-                "Google releases the Gemma 4 12B open-weights model to shift agentic processing to localized enterprise laptops.",
-                "The model features Apache 2.0 licensing to allow secure on-device computation without relying on centralized clouds.",
-                "Organizations can bypass high network latency and strict data residency issues by deploying workflows directly onto edge.",
-                "Hardware architectures must adapt to handle increased localized memory and compute demands at the edge layer."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "US NSA: MYTHOS CYBER DEFENSE",
-            "points": [
-                "The National Security Agency deploys Anthropic's Mythos platform to counter aggressive foreign cybersecurity threats.",
-                "The system analyzes complex network vulnerabilities to automatically patch infrastructure before malicious agents can exploit them.",
-                "Military and intelligence organizations are rapidly integrating large language models into standard offensive and defensive tactical operations.",
-                "Sovereign nations must establish dedicated AI cyber units to defend critical national infrastructure against automated structural attacks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: RAYFIN FABRIC RUNTIME",
-            "points": [
-                "Microsoft launches Rayfin on Fabric as a managed agentic-code optimized backend service to simplify developer deployment.",
-                "The service unifies fragmented enterprise data lakes and governance layers to enable seamless autonomous application workflows.",
-                "Developers can build production-ready agents directly inside Fabric without provisioning complex external runtime database infrastructure.",
-                "IT leadership can enforce consistent organizational security policy controls over the entire active AI fleet."
+                "Microsoft launches Rayfin as an agent-optimized fully managed backend service on the Fabric data ecosystem.",
+                "Enterprise developers can now build and deploy context-aware autonomous agents utilizing streamlined software development kits.",
+                "The unified runtime simplifies data pipeline governance by integrating transactional databases directly with large language models.",
+                "Systems engineers expect this architecture to accelerate multi-agent orchestration deployments across hybrid cloud environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SPACEX: HYPERSCALE REVENUE PROJECTION",
+            "id": 2,
+            "heading": "GOOGLE: GEMMA EDGE INTELLIGENCE",
             "points": [
-                "Goldman Sachs estimates SpaceX's annual AI revenue will grow one hundredfold to support a trillion-dollar valuation.",
-                "The projections depend heavily on expanding global satellite constellations and integrating real-time edge processing nodes.",
-                "Defense agencies are contracting orbital bandwidth to power low-latency tactical communication networks for autonomous military fleets.",
-                "Aerospace engineering and intelligence operations are converging onto a unified global network for real-time telemetry processing."
+                "Google releases Gemma Four Twelve-B to enable advanced local execution of agentic workflows on laptops.",
+                "The open-source model maximizes parameter efficiency to run complex reasoning tasks without relying on cloud infrastructure.",
+                "Local device processing ensures robust data privacy and minimizes API latency for enterprise deployment scenarios.",
+                "Security architects predict widespread adoption of offline edge intelligence in regulated financial and medical sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MISTRAL AI: VIBE AGENT RUNTIME",
+            "points": [
+                "Mistral introduces Vibe to automate long-horizon complex tasks with persistent memory and reusable skills.",
+                "The specialized engine supports asynchronous code generation and legacy translation directly within terminal environments.",
+                "Global shipping and banking conglomerates are deploying the system to optimize core operational decision-making loops.",
+                "Autonomous coding agents will soon handle continuous integration and automated software deployment pipelines independently."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: NEMOCLAW AGENT DEPLOYMENT",
+            "points": [
+                "Nvidia launches NemoClaw software to build secure autonomous engineers for advanced physical industrial applications.",
+                "The unified development stack connects localized devices with cloud resources to streamline agentic deployment pipelines.",
+                "Factory operators can simulate complex robotic maneuvers using digital twins integrated with deep reasoning capabilities.",
+                "Manufacturers expect these physical AI advances to significantly reduce operational downtime in high-throughput assembly lines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: QUANTUM COLLABORATIVE PLATFORM",
+            "points": [
+                "AMD partners with Oxford Quantum Circuits and JPMorgan Chase to engineer a new quantum-AI platform.",
+                "The London-based project combines adaptive computing chips with superconducting qubits to accelerate complex financial calculations.",
+                "Cryptographic researchers are targeting optimization models that require simultaneous processing of massive unstructured market datasets.",
+                "Financial institutions expect quantum hybrid architectures to redefine high-frequency algorithmic trading strategies within five years."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BROADCOM: SEMICONDUCTOR MARKET VOLATILITY",
+            "heading": "MICROSOFT: AZURE HORIZONDB DATABASE",
             "points": [
-                "Broadcom triggers a major chip market downturn after releasing conservative future revenue forecasts for hardware demand.",
-                "This adjustment prompts institutional investors to rotate capital from high-valuation hardware suppliers into enterprise software platforms.",
-                "Hardware supply chains must balance short-term overcapacity risks against the long-term infrastructure needs of global hyperscalers.",
-                "Semiconductor manufacturing strategies will focus heavily on yield optimization rather than expanding raw physical fab output."
+                "Microsoft unveils Azure HorizonDB to deliver ultra-low latency PostgreSQL reads powered by integrated artificial intelligence.",
+                "The cloud database grounds digital assistants in real-time context using the newly released Foundry IQ layer.",
+                "System administrators gain comprehensive fleet observability and policy guardrails through centralized control plane operations.",
+                "Database engineers will leverage this technology to scale mission-critical transaction systems without degrading compute performance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PALANTIR: PRIVATE EQUITY INSIGHTS",
+            "heading": "SUPABASE: VIBE CODING PARADIGM",
             "points": [
-                "Kirkland and Ellis partners with Palantir to develop specialized AI systems for advising elite buyout funds.",
-                "The proprietary system automates due diligence processes to analyze risks in complex corporate acquisitions and deals.",
-                "Legal departments are transitioning from static template reviews to interactive, platform-based data analysis tools for transactions.",
-                "Investment groups will leverage automated pipelines to accelerate acquisition speed while reducing manual regulatory auditing costs."
+                "Supabase achieves a ten billion dollar valuation following the exponential rise of developer vibe-coding adoption.",
+                "The enterprise database platform leverages automated code generation to allow rapid deployment of scalable backend services.",
+                "Abstracting traditional syntax frameworks allows software engineers to focus entirely on system architecture and design.",
+                "Industry analysts forecast that automated code platforms will fundamentally disrupt traditional software engineering staffing models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
