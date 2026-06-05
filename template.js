@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "COGNITIVE ARCHITECTURE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: ALIGNMENT SCALE",
+            "heading": "OPENAI: FEDERAL PARTNERSHIP INQUIRY",
             "points": [
-                "Anthropic advocates slowing frontier artificial intelligence research to prioritize safety and human alignment protocols.",
-                "Unchecked scaling velocities raise critical enterprise concerns regarding autonomous code generation and model self-construction.",
-                "Organizations must transition budgets from sheer model size to robust safety architectures and verification systems.",
-                "C-suite leaders will face increased pressure to audit autonomous systems before deploying them into production."
+                "OpenAI and the Trump administration initiate high-level talks regarding a potential federal equity stake in the laboratory.",
+                "The strategic negotiation aims to secure massive compute resources while addressing critical national security and sovereignty mandates.",
+                "This unprecedented public-private alignment could establish a centralized state-backed framework for domestic artificial intelligence infrastructure development.",
+                "Enterprise buyers must monitor how state intervention impacts commercial licensing and proprietary model access guidelines globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMAZON: LOGISTICS ROBOTICS",
+            "heading": "ENTERPRISE: MODEL ROUTING ARCHITECTURE",
             "points": [
-                "Amazon reveals its next-generation warehouse robotics system as part of a massive European infrastructure expansion.",
-                "The eleven billion dollar capital deployment aims to drastically optimize fulfillment speeds across multiple logistics facilities.",
-                "Industrial automation represents a massive shift toward fully integrated agentic systems operating inside physical environments.",
-                "Competitors must accelerate their own hardware automation efforts to maintain parity with Amazon's logistics scale."
+                "Enterprises adopt dynamic model routing frameworks to mitigate runaway operational costs associated with large frontier model API calls.",
+                "Automated routing algorithms dynamically assign query workloads to smaller open-source models based on cost and performance telemetry.",
+                "This shift threatens the high-margin subscription models of dominant providers by commoditizing basic cognitive compute transactions.",
+                "Systems architects should deploy multi-model pipelines to optimize processing efficiency and avoid vendor lock-in risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: VALUATION MARKETS",
+            "heading": "ANTHROPIC: RESOURCE SCALE CAPITALIZATION",
             "points": [
-                "Anthropic files for an initial public offering to secure capital for compute scaling and research.",
-                "Capital requirements are transitioning the industry focus from breakthrough architectures to massive sustainable compute infrastructure.",
-                "CIOs face shifting budget dynamics as software-as-a-service providers embed costly AI models directly into pricing.",
-                "Investors will closely scrutinize commercial monetization strategies rather than relying solely on raw model capabilities."
+                "Anthropic prepares an initial public offering to fund massive physical computing clusters required for future frontier systems.",
+                "The strategic filing indicates the industry is transitioning from model design breakthroughs toward massive hardware capital expenditures.",
+                "Access to public capital markets allows Anthropic to build sovereign cloud clusters independent of major hyperscaler partnerships.",
+                "Institutional investors must evaluate long-term energy contracts and custom chip supply pipelines as critical competitive advantages."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "INFOWORLD: PIPELINE ARCHITECTURE",
+            "heading": "AMAZON: NEXT-GEN WAREHOUSE ROBOTICS",
             "points": [
-                "Embedding pipelines are officially replacing traditional extract, transform, and load workflows in modern data architectures.",
-                "Data teams are restructuring ingestion layers to convert unstructured enterprise data into high-dimensional vector spaces.",
-                "Vector databases demand real-time semantic processing pipelines rather than batch-processed relational database schemas and queries.",
-                "Enterprise architects must redesign legacy ingestion channels to support continuous vector embedding generation at scale."
+                "Amazon deploys its latest autonomous warehouse robotics architecture as part of a massive eleven billion dollar expansion.",
+                "The new machine integration optimizes logistics throughput by leveraging real-time spatial computing and edge decision-making models.",
+                "This deployment represents a major milestone in physical AI scalability across distributed global fulfillment network nodes.",
+                "Logistical operators must prepare for fully automated sorting pipelines that dramatically reduce human operational overhead requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFOWORLD: AGENTIC COST",
+            "heading": "MICROSOFT: AGENT EXPLOIT CLASSIFICATION",
             "points": [
-                "IT leadership must confront the hidden infrastructure and computing costs associated with deploying agentic frameworks.",
-                "Agent architectures require continuous loop querying which exponentially multiplies token consumption compared to traditional interfaces.",
-                "Organizations need to balance the autonomy of agent networks with strict financial guardrails and optimization.",
-                "Companies failing to monitor agent loop cycles face sudden, unsustainable cloud computing and API bills."
+                "Microsoft cybersecurity research identifies seven critical exploit vectors targeting autonomous agent orchestration pipelines and memory storage.",
+                "Vulnerabilities include prompt injection bypasses and data exfiltration paths that compromise enterprise security boundaries during runtime.",
+                "This analysis underscores the urgent need for robust runtime monitoring and strict isolation of agentic memory databases.",
+                "Enterprise security teams must implement strict defensive guardrails before deploying autonomous agents in production database environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "CIO: ADOPTION METRICS",
+            "heading": "GITHUB: COPILOT USAGE-BASED BILLING",
             "points": [
-                "Relying strictly on token usage leaderboards creates perverse incentives for enterprise artificial intelligence system adoption.",
-                "Employees may artificially inflate prompt lengths without improving true business productivity, outcomes, or cost efficiencies.",
-                "IT leaders must establish comprehensive performance metrics that measure actual value delivered rather than token volume.",
-                "Poorly designed performance indicators will directly result in wasted operational budgets and distorted software analytics."
+                "GitHub rolls out advanced Copilot capabilities alongside a new consumption-based billing structure for enterprise accounts.",
+                "The flexible payment model charges organizations based on active model interactions rather than static seat licenses.",
+                "This transition forces development managers to implement usage controls to prevent unexpected operational budget overruns across teams.",
+                "Organizations should establish automated budget telemetry to monitor programmatic code generation patterns and optimize developer licensing costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMNESTY SPAIN: SOVEREIGN SECURITY",
+            "heading": "SOFTBANK: COGNITIVE MODEL CO-DESIGN",
             "points": [
-                "Amnesty International Spain implements a specialized technology model designed to enforce absolute digital data sovereignty.",
-                "The non-profit structure demonstrates how organizations can resist platform lock-in and secure highly sensitive user data.",
-                "Shifting data laws and regional regulations force modern enterprises to decouple critical workloads from foreign clouds.",
-                "Global enterprises must adopt similar localized hosting strategies to maintain trust and guarantee regulatory compliance."
+                "SoftBank chairman Masayoshi Son reveals that advanced artificial intelligence systems are actively designing OpenAI next-generation model.",
+                "This automated design cycle signals a significant acceleration toward artificial superintelligence through recursive system self-improvement loops.",
+                "The reliance on machine-led optimization marks a departure from traditional human-engineered algorithmic development and architecture tuning.",
+                "Strategic planners must anticipate a rapid compression of model development lifecycles as self-evolving code becomes the norm."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
