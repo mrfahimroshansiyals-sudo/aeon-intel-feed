@@ -1,98 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INFRASTRUCTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "SOVEREIGN ENTERPRISE AI",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
+            "heading": "GOOGLE: SPACEX COMPUTE LEASE",
             "points": [
-                "Google secures a critical compute partnership with SpaceX for monthly data center capacity at scale.",
-                "The deal establishes a massive monthly transaction throughput worth nearly nine hundred and twenty million dollars.",
-                "This integration decouples legacy operations by shifting critical deep learning workloads to advanced outer edge networks.",
-                "Enterprise architects must anticipate accelerated low-latency deployment capabilities for next-generation planetary cloud systems."
+                "Google signs a massive nine hundred and twenty million dollar monthly deal leasing SpaceX computing infrastructure.",
+                "The transaction provides critical hardware capacity to power next-generation xAI data center model training operations.",
+                "Hyperscalers are increasingly leveraging private aerospace infrastructure to bankroll the accelerating multi-billion dollar intelligence boom.",
+                "This strategic alliance shifts capital deployment models away from purely proprietary terrestrial cloud hardware centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CAPITAL SCALE SHIFT",
+            "heading": "GOOGLE DEEPMIND: GEMMA 4 EDGE",
             "points": [
-                "Anthropic files for an initial public offering to fund massive structural resources for next-generation frontier intelligence.",
-                "The public transition reflects a critical strategic pivot from basic modeling research to intensive infrastructure development.",
-                "Corporate leaders face tightening AI budgets as capital demands for maintaining frontier-level models escalate rapidly worldwide.",
-                "Long-term enterprise planning must incorporate sustainable resource allocation strategies for increasingly expensive cloud compute architectures."
+                "Google releases the Gemma four twelve-billion parameter open model optimizing advanced intelligence-per-parameter capacities.",
+                "The new architecture dramatically accelerates localized processing times for agentic workflows on physical hardware devices.",
+                "Frontier model races are rapidly transitioning toward local execution environments to bypass cloud latency dependencies.",
+                "Developers will prioritize lightweight decentralized parameters over centralized hyperscaler computation networks for real-time edge processing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: MULTI-BILLION AGENT INITIATIVE",
+            "heading": "US GOVERNMENT: FRONTIER MODEL REVIEW",
             "points": [
-                "Meta weighs a massive equity raising initiative to fund global development of enterprise-scale conversational artificial intelligence.",
-                "The plan targets converting over one billion consumer communications into high-value automated business transaction endpoints.",
-                "Integrating direct consumer chat networks with backend enterprise platforms creates massive real-time operational database challenges.",
-                "Security teams must establish rigid decentralized guardrails to protect highly sensitive enterprise data across distributed agents."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: TAIWAN ECOSYSTEM INVESTMENTS",
-            "points": [
-                "AMD commits over ten billion dollars in Taiwan to accelerate local semiconductor fabrication and packaging pipelines.",
-                "The massive capital allocation secures advanced microchip packaging capabilities vital for running next-generation hardware architectures.",
-                "Shifting sovereign silicon manufacturing to specialized local partners minimizes supply chain vulnerabilities for global tech enterprises.",
-                "System engineers should optimize system integration to leverage accelerated hardware capacities coming from the Taiwanese ecosystem."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMAZON: NEXT-GEN ROBOTIC EXPANSION",
-            "points": [
-                "Amazon deploys a next-generation robotics platform through a multi-billion dollar expansion program across the European continent.",
-                "The automation drive optimizes logistics throughput by introducing intelligent physical agents into complex fulfillment facility workflows.",
-                "Combining spatial computing with autonomous mechanics decreases standard package sorting times and reduces human operational hazards.",
-                "Operations executives must integrate physical automation frameworks into their overall digital twin architectural supply chain strategies."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "WHITE HOUSE: PRERELEASE REVIEW ORDER",
-            "points": [
-                "A new executive order establishes a strict voluntary prerelease review process for domestic frontier intelligence models.",
-                "This policy raises critical regulatory questions regarding product release timelines and overall vendor compliance framework criteria.",
-                "Organizations must prepare internal compliance systems to align directly with evolving federal risk management security protocols.",
-                "Legal teams should implement continuous audits to ensure enterprise procurement pipelines meet national safety compliance standards."
+                "The White House initiates a voluntary executive order establishing a strict prerelease review process.",
+                "This policy introduces complex compliance checks that directly alter enterprise procurement timelines for next-generation models.",
+                "Sovereign security frameworks are forcing artificial intelligence creators to balance rapid deployment against national security mandates.",
+                "Compliance professionals must restructure validation protocols to manage regulatory oversight during critical pre-deployment phases."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MICROSOFT: AGENT SECURITY AUDIT",
+            "id": 4,
+            "heading": "MISTRAL AI: VIBE AGENT DEPLOYMENT",
             "points": [
-                "Microsoft security researchers identify seven critical architectural pathways vulnerable to exploitation within autonomous AI agent systems.",
-                "The discovered vulnerabilities allow malicious actors to compromise critical system instructions through targeted prompt injection techniques.",
-                "Enterprise defenders must implement immediate perimeter sanitization protocols and restrict autonomous execution privileges across active networks.",
-                "Future deployment of agentic pipelines requires hard isolations to prevent cascade failures across interconnected software environments."
+                "Mistral launches the Vibe AI agent system engineered specifically to handle persistent long-horizon task schedules.",
+                "The model integrates direct multi-step scheduling and reusable skills to streamline continuous enterprise code generation.",
+                "Industrial operations are moving rapidly from conversational interfaces to autonomous execution engines across deep legacy databases.",
+                "Software development pipelines will increasingly rely on persistent memory blocks to automate background architectural maintenance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "JPMORGANCHASE: QUANTUM-AI RESEARCH",
+            "points": [
+                "JPMorganChase partners with OQC and AMD to develop an advanced hybrid quantum computing platform.",
+                "The collaboration leverages adaptive FPGA architectures to accelerate highly complex financial transaction modeling and risk analysis.",
+                "Financial institutions are merging classical hardware with quantum systems to unlock massive real-time computational advantages.",
+                "Future banking security protocols will incorporate quantum-resistant cryptographic systems to safeguard highly sensitive data streams."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT: CLAUDE COST CONSTRAINTS",
+            "points": [
+                "Microsoft is reportedly canceling engineer subscriptions to Claude Code due to escalating operational API expenses.",
+                "Escalating token usage is forcing enterprises to establish dynamic model routing to control runaway compute costs.",
+                "IT departments face a balancing act between developer productivity gains and strict financial governance boundaries.",
+                "Organizations will increasingly deploy unmetered local intelligence options over expensive proprietary external subscription models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "META: CHAT AGENT DEPLOYMENT",
+            "points": [
+                "Meta rolls out enterprise-grade chat agents designed to transition customer messaging threads into automated workflows.",
+                "The global initiative aims to deploy specialized autonomous systems across major messaging platforms within minutes.",
+                "High-volume consumer channels are transforming into primary nodes for transaction execution and structured backend data ingestion.",
+                "Enterprise architectures must adapt to handle distributed agent-to-agent communication networks over legacy customer service tools."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
