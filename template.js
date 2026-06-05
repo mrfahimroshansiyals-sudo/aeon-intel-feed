@@ -1,98 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE AI",
-        "titleBlue": "SHIFT"
+        "titleWhite": "GLOBAL COMPUTE",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: SPACEX COMPUTE LEASE",
+            "heading": "ASML: INDIA CHIP EXPANSION",
             "points": [
-                "Google signs a massive nine hundred and twenty million dollar monthly deal leasing SpaceX computing infrastructure.",
-                "The transaction provides critical hardware capacity to power next-generation xAI data center model training operations.",
-                "Hyperscalers are increasingly leveraging private aerospace infrastructure to bankroll the accelerating multi-billion dollar intelligence boom.",
-                "This strategic alliance shifts capital deployment models away from purely proprietary terrestrial cloud hardware centers."
+                "Tata Electronics partnered with ASML to build and accelerate India's emerging semiconductor fabrication ecosystem.",
+                "The partnership accelerates deployment of state-of-the-art lithography systems to establish localized domestic chip manufacturing capacity.",
+                "ASML will provide crucial machinery and engineering expertise to establish India's competitive global chip footprint.",
+                "Global technology supply chains are diversifying rapidly away from Taiwan dependencies toward decentralized semiconductor manufacturing nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: GEMMA 4 EDGE",
+            "heading": "MICROSOFT: HORIZONDB LAUNCH",
             "points": [
-                "Google releases the Gemma four twelve-billion parameter open model optimizing advanced intelligence-per-parameter capacities.",
-                "The new architecture dramatically accelerates localized processing times for agentic workflows on physical hardware devices.",
-                "Frontier model races are rapidly transitioning toward local execution environments to bypass cloud latency dependencies.",
-                "Developers will prioritize lightweight decentralized parameters over centralized hyperscaler computation networks for real-time edge processing."
+                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and integrated artificial intelligence within PostgreSQL environments.",
+                "The database system allows enterprise applications to deploy real-time scalable intelligence without experiencing database performance degradation.",
+                "Built-in AI features enable direct model execution and cognitive indexing within transactional cloud database architectures.",
+                "Developers can seamlessly transition complex transactional workloads into unified, intelligence-driven cloud database application environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US GOVERNMENT: FRONTIER MODEL REVIEW",
+            "heading": "GOOGLE: SPACEX COMPUTE DEAL",
             "points": [
-                "The White House initiates a voluntary executive order establishing a strict prerelease review process.",
-                "This policy introduces complex compliance checks that directly alter enterprise procurement timelines for next-generation models.",
-                "Sovereign security frameworks are forcing artificial intelligence creators to balance rapid deployment against national security mandates.",
-                "Compliance professionals must restructure validation protocols to manage regulatory oversight during critical pre-deployment phases."
+                "Google contracted with SpaceX in a monumental thirty-billion-dollar deal to secure massive critical computing capacity.",
+                "The agreement guarantees SpaceX lease payments of nine hundred twenty million dollars monthly for high-density compute infrastructure.",
+                "High-throughput satellite communications are merging directly with hyper-scale cloud facilities to scale next-generation model training.",
+                "This deep infrastructure alliance establishes unprecedented compute capacity consolidation to dominate the frontier intelligence race."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: VIBE AGENT DEPLOYMENT",
+            "heading": "ANTHROPIC: RESOURCE-CENTRIC IPO",
             "points": [
-                "Mistral launches the Vibe AI agent system engineered specifically to handle persistent long-horizon task schedules.",
-                "The model integrates direct multi-step scheduling and reusable skills to streamline continuous enterprise code generation.",
-                "Industrial operations are moving rapidly from conversational interfaces to autonomous execution engines across deep legacy databases.",
-                "Software development pipelines will increasingly rely on persistent memory blocks to automate background architectural maintenance."
+                "Anthropic filed for an initial public offering signaling a fundamental pivot from algorithmic models to intensive resource scaling.",
+                "Capital requirements to build and maintain advanced models are reshaping traditional venture funding structures for public markets.",
+                "Strategic cloud infrastructure access and energy resources are becoming the primary competitive moats for frontier developers.",
+                "Enterprise budgeting must adapt as model deployment costs transition from software licensing fees to physical infrastructure assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "JPMORGANCHASE: QUANTUM-AI RESEARCH",
+            "heading": "MICROSOFT: CLAUDE SUBSCRIPTION CUT",
             "points": [
-                "JPMorganChase partners with OQC and AMD to develop an advanced hybrid quantum computing platform.",
-                "The collaboration leverages adaptive FPGA architectures to accelerate highly complex financial transaction modeling and risk analysis.",
-                "Financial institutions are merging classical hardware with quantum systems to unlock massive real-time computational advantages.",
-                "Future banking security protocols will incorporate quantum-resistant cryptographic systems to safeguard highly sensitive data streams."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: CLAUDE COST CONSTRAINTS",
-            "points": [
-                "Microsoft is reportedly canceling engineer subscriptions to Claude Code due to escalating operational API expenses.",
-                "Escalating token usage is forcing enterprises to establish dynamic model routing to control runaway compute costs.",
-                "IT departments face a balancing act between developer productivity gains and strict financial governance boundaries.",
-                "Organizations will increasingly deploy unmetered local intelligence options over expensive proprietary external subscription models."
+                "Microsoft began canceling Claude Code developer tool subscriptions for its engineers due to excessive operational costs.",
+                "Escalating computational pricing for agentic programming tools is forcing major software enterprises to reevaluate development budgets.",
+                "The cancellation highlights the economic unsustainability of deploying unoptimized autonomous coding agents across massive developer fleets.",
+                "Enterprises must establish rigorous economic guardrails on token consumption before deploying autonomous software development agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "META: CHAT AGENT DEPLOYMENT",
+            "id": 6,
+            "heading": "MICROSOFT: AGENT VULNERABILITY",
             "points": [
-                "Meta rolls out enterprise-grade chat agents designed to transition customer messaging threads into automated workflows.",
-                "The global initiative aims to deploy specialized autonomous systems across major messaging platforms within minutes.",
-                "High-volume consumer channels are transforming into primary nodes for transaction execution and structured backend data ingestion.",
-                "Enterprise architectures must adapt to handle distributed agent-to-agent communication networks over legacy customer service tools."
+                "Microsoft security researchers identified seven distinct systemic vulnerabilities capable of compromising autonomous artificial intelligence agents.",
+                "The vulnerabilities highlight structural weaknesses in delegation layers, tool execution pathways, and external data ingestion models.",
+                "These threat vectors present severe risks of privilege escalation and unauthorized transactional execution within enterprise networks.",
+                "Securing agentic workflows requires shifting from basic input filtering to zero-trust transactional isolation frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU: ART-50 COMPLIANCE MANDATE",
+            "points": [
+                "The European Union AI Act established strict Article Fifty compliance transparency guidelines effective by August twenty-twenty-six.",
+                "AI system providers must implement comprehensive disclosures, detailing technical specifications and synthetic content identification mechanisms.",
+                "Failure to establish regulatory reporting protocols risks heavy administrative penalties and potential market exclusion across member states.",
+                "Global enterprises must immediately align their architecture monitoring systems to meet mandatory European governance compliance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
