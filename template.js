@@ -1,18 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI AGENT",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "DECENTRALIZED AGENTIC",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FABRIC AGENT RUNTIME",
+            "heading": "GOOGLE: GEMMA 4 EDGE",
             "points": [
-                "Microsoft released Rayfin as a fully managed backend-as-a-service specifically for agentic AI architectures within the Fabric ecosystem.",
-                "The platform provides native orchestration to simplify contextual data binding and enterprise-grade deployment for complex, multi-step agent workflows.",
-                "Developers can now leverage unified governance models to secure AI agents operating on siloed datasets across distributed cloud environments.",
-                "Integration with Azure AI portfolio ensures high-performance compute access for compute-intensive tasks, accelerating time-to-market for production-grade intelligent systems."
+                "Google released Gemma 4 12B under Apache 2.0 license, bringing lightweight, highly efficient model architectures to local devices.",
+                "Local agentic deployment reduces data latency to single-digit milliseconds while drastically decreasing enterprise cloud-egress transaction costs.",
+                "This model architecture enables secure, disconnected workflows on client laptops, decoupling operations from continuous cloud dependencies.",
+                "Enterprises will rapidly shift developer workstations to local AI-driven runtime systems, enhancing decentralized data privacy standards."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "CISCO: AGENTIC SECURITY LAUNCH",
+            "points": [
+                "Cisco launched an agentic artificial intelligence security framework to defend critical enterprise networks against sophisticated autonomous cyber threats.",
+                "The deployment mitigates automated zero-day exploitation risks by executing real-time threat isolation across distributed cloud environments.",
+                "Integrating autonomous security agents into the core transport layer eliminates the dependency on traditional perimeter-focused firewalls.",
+                "Security operations centers will transition from manual triage processes to automated, agent-led remediation protocols by next quarter."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MICROSOFT: FABRIC RAYFIN INTEGRATION",
+            "points": [
+                "Microsoft introduced Rayfin on Azure Fabric, providing a fully managed, agent-optimized backend as a service platform.",
+                "Developers can scale relational data indexing workloads ten times faster without manual server configuration or continuous runtime tuning.",
+                "This integration establishes an unified, context-aware data layer that feeds autonomous AI agents real-time operational database telemetry.",
+                "IT architects will consolidate fragmented database microservices into a single, cohesive serverless runtime optimized for intelligent pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "GOOGLE: EDGE AI ACCELERATION",
+            "id": 4,
+            "heading": "NVIDIA: PHYSICAL AI AGENTS",
             "points": [
-                "Google released Gemma 4 12B under the Apache 2.0 license to enable high-efficiency agentic workflows directly on local edge devices.",
-                "The model architecture optimizes intelligence-per-parameter, allowing enterprises to run sophisticated reasoning tasks without constant dependency on external cloud connectivity.",
-                "New Gemini 3.5 frontier models introduce deeper action-taking capabilities, allowing autonomous systems to trigger complex sequences across internal software APIs.",
-                "Deployment frameworks emphasize privacy-first computing, mitigating data transmission risks while maintaining enterprise-grade performance for distributed AI applications globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: PHYSICAL AI BREAKTHROUGHS",
-            "points": [
-                "NVIDIA expanded its physical AI research suite with advanced grasping algorithms for robotics and autonomous system training at scale.",
-                "The NemoClaw platform empowers industrial software leaders to build and deploy secure, autonomous AI engineers in controlled on-premise environments.",
-                "New blueprints for factory operations integrate vision AI and agent skills, drastically reducing manual intervention in complex manufacturing and assembly processes.",
-                "Partnerships with Microsoft ensure a unified stack for agentic deployment, spanning from local hardware to massive cloud-based training clusters."
+                "NVIDIA announced specialized agent skills for autonomous vehicles, vision systems, and robotics to advance physical artificial intelligence research.",
+                "These pre-trained models accelerate spatial reasoning execution speeds by forty percent in complex, dynamic industrial environments.",
+                "By utilizing Omniverse and Jetson platforms, physical systems can synthesize real-world sensor telemetry into immediate operational decisions.",
+                "Industrial automation engineers will deploy more resilient, self-correcting robotic fleets across smart factories without requiring localized retraining."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: AGENTIC INFRASTRUCTURE EXPANSION",
-            "points": [
-                "AMD announced a massive $10 billion investment in Taiwan's ecosystem to accelerate infrastructure development for next-generation agentic computing.",
-                "Production ramp of the EPYC Venice processors utilizes advanced 2nm process technology to provide necessary compute headroom for massive AI models.",
-                "The Ryzen AI Halo Developer Platform provides dedicated resources for developers building localized AI applications on high-performance CPU/GPU hybrid architectures.",
-                "Strategic collaborations, including quantum-AI research with JPMorganChase, signal AMD's intent to dominate specialized compute markets beyond standard data center training."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "MISTRAL: AUTONOMOUS AGENT TOOLS",
+            "heading": "MISTRAL AI: VIBE LONG-HORIZON",
             "points": [
-                "Mistral AI launched Vibe, an autonomous agent framework designed specifically for long-horizon tasks and multi-step organizational process automation.",
-                "The platform features persistent memory and reusable skills, allowing agents to retain context across extended sessions and complex operational workflows.",
-                "Vibe for code enables asynchronous development, architecture-aware reasoning, and automated CI/CD for enterprise software teams seeking higher velocity.",
-                "Enterprise users gain full deployment portability, maintaining control over infrastructure from edge nodes to sovereign cloud-based inference environments."
+                "Mistral AI launched Vibe, an autonomous agent platform designed specifically for long-horizon task execution and persistent multi-step scheduling.",
+                "Enterprise teams can automate complex, multi-layered document synthesis and software testing workflows with minimal human oversight required.",
+                "The system leverages modular tools, persistent memory blocks, and reusable skills to construct highly reliable, self-directed developer workflows.",
+                "Operations managers will drastically lower manual intervention rates while scaling background analytical tasks across global digital workspaces."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: CISCO SECURITY PUSH",
+            "heading": "AMD: QUANTUM-AI LONDON INITIATIVE",
             "points": [
-                "Cisco officials have pushed for new agentic security standards to address the widening trust gap in automated enterprise infrastructure deployments.",
-                "Industry experts warn that while agentic efficiency increases, organizations lack the governance mechanisms to monitor AI actions in real-time.",
-                "New findings suggest a shift toward 'AI-first' security where agents defend network perimeters by analyzing traffic patterns at machine speeds.",
-                "Businesses remain cautious, balancing the desire for automated threat mitigation against the risk of unforeseen AI errors in production."
+                "AMD, JPMorganChase, and OQC commenced a joint research collaboration to develop a next-generation quantum artificial intelligence platform.",
+                "This strategic project aims to accelerate complex financial portfolio optimization and risk evaluation simulations beyond classical computing limits.",
+                "The hybrid architecture combines adaptive FPGA accelerators, high-performance EPYC processors, and superconducting quantum hardware into a unified plane.",
+                "Financial institutions will eventually deploy real-time market simulation engines capable of processing multidimensional transactional variables simultaneously."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE: MEASURING AI SOCIETAL IMPACT",
+            "heading": "ANTHROPIC: FRONTIER CYBER DEFENSE",
             "points": [
-                "IEEE analysts are calling for rigorous metrics beyond simple benchmark performance to quantify the true societal impact of deployed AI models.",
-                "Current industry evaluations fail to capture long-term human displacement or systemic bias, leaving decision-makers blind to non-technical deployment risks.",
-                "Future AI auditing frameworks will likely mandate transparency reports on model reasoning pathways to ensure alignment with public policy goals.",
-                "Research efforts aim to standardize these impact measurements, transforming subjective safety concerns into verifiable data points for enterprise boards."
+                "The US National Security Agency is utilizing Anthropic's Mythos AI model for advanced defensive cyber operation workflows.",
+                "Intelligence analysts can identify and block sophisticated nation-state software vulnerabilities in critical infrastructure networks at unprecedented scales.",
+                "Integrating secure frontier models directly into air-gapped defense architectures ensures highly sensitive telemetry remains fully isolated from public clouds.",
+                "Federal cybersecurity directors will shift resources toward proactive threat-hunting agents, minimizing response times to automated structural network breaches."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
