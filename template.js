@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AUTONOMOUS SOVEREIGN AGENT",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
+            "heading": "US GOVT: SOVEREIGN EQUITY INVESTMENTS",
             "points": [
-                "Microsoft launches Rayfin as an agent-optimized fully managed backend service on the Fabric data ecosystem.",
-                "Enterprise developers can now build and deploy context-aware autonomous agents utilizing streamlined software development kits.",
-                "The unified runtime simplifies data pipeline governance by integrating transactional databases directly with large language models.",
-                "Systems engineers expect this architecture to accelerate multi-agent orchestration deployments across hybrid cloud environments."
+                "US policymakers are actively debating direct federal equity stakes in critical domestic artificial intelligence infrastructure developments.",
+                "National security officials plan to secure strategic technology supply chains through targeted public funding mechanisms.",
+                "The proposed financial intervention represents a major shift toward state-backed architectural sovereignty and semiconductor security.",
+                "Industry leaders expect these sovereign investments to accelerate advanced computing laboratory expansions and manufacturing capacity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMMA EDGE INTELLIGENCE",
+            "heading": "ANTHROPIC: GLOBAL DEVELOPMENT PAUSE",
             "points": [
-                "Google releases Gemma Four Twelve-B to enable advanced local execution of agentic workflows on laptops.",
-                "The open-source model maximizes parameter efficiency to run complex reasoning tasks without relying on cloud infrastructure.",
-                "Local device processing ensures robust data privacy and minimizes API latency for enterprise deployment scenarios.",
-                "Security architects predict widespread adoption of offline edge intelligence in regulated financial and medical sectors."
+                "Anthropic executives have formally requested a global pause on advanced artificial intelligence systems training runs.",
+                "The safety warning focuses on unmonitored recursive self-improvement loops within next-generation frontier intelligence models.",
+                "Sovereign governance frameworks must adapt quickly to prevent catastrophic misalignment risks in automated system optimization.",
+                "Corporate enterprise clients are evaluating these safety standards to modify current deployment roadmaps for agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: VIBE AGENT RUNTIME",
+            "heading": "GOOGLE: GEMMA EDGE DEPLOYMENT",
             "points": [
-                "Mistral introduces Vibe to automate long-horizon complex tasks with persistent memory and reusable skills.",
-                "The specialized engine supports asynchronous code generation and legacy translation directly within terminal environments.",
-                "Global shipping and banking conglomerates are deploying the system to optimize core operational decision-making loops.",
-                "Autonomous coding agents will soon handle continuous integration and automated software deployment pipelines independently."
+                "Google released the Gemma 4 12B model under an open-source Apache license for local device processing.",
+                "The model optimizes advanced reasoning capabilities to allow secure, low-latency execution directly on enterprise laptop hardware.",
+                "Local agentic execution preserves data privacy by processing sensitive corporate information without relying on public cloud APIs.",
+                "Developers can rapidly build highly customized offline tools using this parameter-efficient architecture for distributed team workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: NEMOCLAW AGENT DEPLOYMENT",
+            "heading": "MICROSOFT: FABRIC RAYFIN RUNTIME",
             "points": [
-                "Nvidia launches NemoClaw software to build secure autonomous engineers for advanced physical industrial applications.",
-                "The unified development stack connects localized devices with cloud resources to streamline agentic deployment pipelines.",
-                "Factory operators can simulate complex robotic maneuvers using digital twins integrated with deep reasoning capabilities.",
-                "Manufacturers expect these physical AI advances to significantly reduce operational downtime in high-throughput assembly lines."
+                "Microsoft introduced Rayfin as a fully managed backend runtime designed specifically for AI agent deployment.",
+                "The integration inside Microsoft Fabric unifies data governance, storage systems, and real-time computation under one control plane.",
+                "Software engineering teams can scale code-optimized architectures without provisioning complex underlying database infrastructures manually.",
+                "This platform play positions Fabric as a dominant orchestration Layer for corporate transactional agent networks globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: QUANTUM COLLABORATIVE PLATFORM",
+            "heading": "AMD: QUANTUM AI PLATFORM",
             "points": [
-                "AMD partners with Oxford Quantum Circuits and JPMorgan Chase to engineer a new quantum-AI platform.",
-                "The London-based project combines adaptive computing chips with superconducting qubits to accelerate complex financial calculations.",
-                "Cryptographic researchers are targeting optimization models that require simultaneous processing of massive unstructured market datasets.",
-                "Financial institutions expect quantum hybrid architectures to redefine high-frequency algorithmic trading strategies within five years."
+                "AMD partnered with JPMorganChase and OQC to construct an advanced quantum computing platform in London.",
+                "The research initiative combines high-performance adaptive processing hardware with novel hybrid quantum algorithm models.",
+                "Finance sector participants plan to leverage this hardware integration to optimize high-frequency trading calculations.",
+                "This system deployment proves the viability of processing complex financial calculations using specialized hardware accelerators."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AZURE HORIZONDB DATABASE",
+            "heading": "CISCO: MYTHOS SECURITY DEPLOYMENT",
             "points": [
-                "Microsoft unveils Azure HorizonDB to deliver ultra-low latency PostgreSQL reads powered by integrated artificial intelligence.",
-                "The cloud database grounds digital assistants in real-time context using the newly released Foundry IQ layer.",
-                "System administrators gain comprehensive fleet observability and policy guardrails through centralized control plane operations.",
-                "Database engineers will leverage this technology to scale mission-critical transaction systems without degrading compute performance."
+                "Cisco launched agentic security defenses to address trust issues regarding automated enterprise threat intelligence sharing.",
+                "The initiative urges companies to adopt the Mythos standard to secure distributed corporate network boundaries effectively.",
+                "Security operation centers can automate complex threat mitigation steps through highly coordinated, self-healing software agents.",
+                "Network administrators gain total visibility into automated actions, reducing risks associated with algorithmic decision-making."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUPABASE: VIBE CODING PARADIGM",
+            "heading": "JPMORGAN: TOKENIZED DEPOSIT ARCHITECTURE",
             "points": [
-                "Supabase achieves a ten billion dollar valuation following the exponential rise of developer vibe-coding adoption.",
-                "The enterprise database platform leverages automated code generation to allow rapid deployment of scalable backend services.",
-                "Abstracting traditional syntax frameworks allows software engineers to focus entirely on system architecture and design.",
-                "Industry analysts forecast that automated code platforms will fundamentally disrupt traditional software engineering staffing models."
+                "JPMorgan and Citi designed a novel tokenized deposit system to modernize traditional digital banking operations.",
+                "The secure platform provides an alternative to public cryptocurrencies by using distributed ledger database designs.",
+                "Financial institutions can process multi-million dollar cross-border settlements with immediate finality and minimal transaction fees.",
+                "This corporate payment infrastructure accelerates treasury management strategies and improves global asset liquidity parameters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
