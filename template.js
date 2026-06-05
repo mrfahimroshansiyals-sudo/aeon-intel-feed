@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE ARCHITECTURE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "GLOBAL INFRASTRUCTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FEDERAL PARTNERSHIP INQUIRY",
+            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
             "points": [
-                "OpenAI and the Trump administration initiate high-level talks regarding a potential federal equity stake in the laboratory.",
-                "The strategic negotiation aims to secure massive compute resources while addressing critical national security and sovereignty mandates.",
-                "This unprecedented public-private alignment could establish a centralized state-backed framework for domestic artificial intelligence infrastructure development.",
-                "Enterprise buyers must monitor how state intervention impacts commercial licensing and proprietary model access guidelines globally."
+                "Google secures a critical compute partnership with SpaceX for monthly data center capacity at scale.",
+                "The deal establishes a massive monthly transaction throughput worth nearly nine hundred and twenty million dollars.",
+                "This integration decouples legacy operations by shifting critical deep learning workloads to advanced outer edge networks.",
+                "Enterprise architects must anticipate accelerated low-latency deployment capabilities for next-generation planetary cloud systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ENTERPRISE: MODEL ROUTING ARCHITECTURE",
+            "heading": "ANTHROPIC: CAPITAL SCALE SHIFT",
             "points": [
-                "Enterprises adopt dynamic model routing frameworks to mitigate runaway operational costs associated with large frontier model API calls.",
-                "Automated routing algorithms dynamically assign query workloads to smaller open-source models based on cost and performance telemetry.",
-                "This shift threatens the high-margin subscription models of dominant providers by commoditizing basic cognitive compute transactions.",
-                "Systems architects should deploy multi-model pipelines to optimize processing efficiency and avoid vendor lock-in risks."
+                "Anthropic files for an initial public offering to fund massive structural resources for next-generation frontier intelligence.",
+                "The public transition reflects a critical strategic pivot from basic modeling research to intensive infrastructure development.",
+                "Corporate leaders face tightening AI budgets as capital demands for maintaining frontier-level models escalate rapidly worldwide.",
+                "Long-term enterprise planning must incorporate sustainable resource allocation strategies for increasingly expensive cloud compute architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: RESOURCE SCALE CAPITALIZATION",
+            "heading": "META: MULTI-BILLION AGENT INITIATIVE",
             "points": [
-                "Anthropic prepares an initial public offering to fund massive physical computing clusters required for future frontier systems.",
-                "The strategic filing indicates the industry is transitioning from model design breakthroughs toward massive hardware capital expenditures.",
-                "Access to public capital markets allows Anthropic to build sovereign cloud clusters independent of major hyperscaler partnerships.",
-                "Institutional investors must evaluate long-term energy contracts and custom chip supply pipelines as critical competitive advantages."
+                "Meta weighs a massive equity raising initiative to fund global development of enterprise-scale conversational artificial intelligence.",
+                "The plan targets converting over one billion consumer communications into high-value automated business transaction endpoints.",
+                "Integrating direct consumer chat networks with backend enterprise platforms creates massive real-time operational database challenges.",
+                "Security teams must establish rigid decentralized guardrails to protect highly sensitive enterprise data across distributed agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMAZON: NEXT-GEN WAREHOUSE ROBOTICS",
+            "heading": "AMD: TAIWAN ECOSYSTEM INVESTMENTS",
             "points": [
-                "Amazon deploys its latest autonomous warehouse robotics architecture as part of a massive eleven billion dollar expansion.",
-                "The new machine integration optimizes logistics throughput by leveraging real-time spatial computing and edge decision-making models.",
-                "This deployment represents a major milestone in physical AI scalability across distributed global fulfillment network nodes.",
-                "Logistical operators must prepare for fully automated sorting pipelines that dramatically reduce human operational overhead requirements."
+                "AMD commits over ten billion dollars in Taiwan to accelerate local semiconductor fabrication and packaging pipelines.",
+                "The massive capital allocation secures advanced microchip packaging capabilities vital for running next-generation hardware architectures.",
+                "Shifting sovereign silicon manufacturing to specialized local partners minimizes supply chain vulnerabilities for global tech enterprises.",
+                "System engineers should optimize system integration to leverage accelerated hardware capacities coming from the Taiwanese ecosystem."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMAZON: NEXT-GEN ROBOTIC EXPANSION",
+            "points": [
+                "Amazon deploys a next-generation robotics platform through a multi-billion dollar expansion program across the European continent.",
+                "The automation drive optimizes logistics throughput by introducing intelligent physical agents into complex fulfillment facility workflows.",
+                "Combining spatial computing with autonomous mechanics decreases standard package sorting times and reduces human operational hazards.",
+                "Operations executives must integrate physical automation frameworks into their overall digital twin architectural supply chain strategies."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: AGENT EXPLOIT CLASSIFICATION",
-            "points": [
-                "Microsoft cybersecurity research identifies seven critical exploit vectors targeting autonomous agent orchestration pipelines and memory storage.",
-                "Vulnerabilities include prompt injection bypasses and data exfiltration paths that compromise enterprise security boundaries during runtime.",
-                "This analysis underscores the urgent need for robust runtime monitoring and strict isolation of agentic memory databases.",
-                "Enterprise security teams must implement strict defensive guardrails before deploying autonomous agents in production database environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "GITHUB: COPILOT USAGE-BASED BILLING",
+            "heading": "WHITE HOUSE: PRERELEASE REVIEW ORDER",
             "points": [
-                "GitHub rolls out advanced Copilot capabilities alongside a new consumption-based billing structure for enterprise accounts.",
-                "The flexible payment model charges organizations based on active model interactions rather than static seat licenses.",
-                "This transition forces development managers to implement usage controls to prevent unexpected operational budget overruns across teams.",
-                "Organizations should establish automated budget telemetry to monitor programmatic code generation patterns and optimize developer licensing costs."
+                "A new executive order establishes a strict voluntary prerelease review process for domestic frontier intelligence models.",
+                "This policy raises critical regulatory questions regarding product release timelines and overall vendor compliance framework criteria.",
+                "Organizations must prepare internal compliance systems to align directly with evolving federal risk management security protocols.",
+                "Legal teams should implement continuous audits to ensure enterprise procurement pipelines meet national safety compliance standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SOFTBANK: COGNITIVE MODEL CO-DESIGN",
+            "heading": "MICROSOFT: AGENT SECURITY AUDIT",
             "points": [
-                "SoftBank chairman Masayoshi Son reveals that advanced artificial intelligence systems are actively designing OpenAI next-generation model.",
-                "This automated design cycle signals a significant acceleration toward artificial superintelligence through recursive system self-improvement loops.",
-                "The reliance on machine-led optimization marks a departure from traditional human-engineered algorithmic development and architecture tuning.",
-                "Strategic planners must anticipate a rapid compression of model development lifecycles as self-evolving code becomes the norm."
+                "Microsoft security researchers identify seven critical architectural pathways vulnerable to exploitation within autonomous AI agent systems.",
+                "The discovered vulnerabilities allow malicious actors to compromise critical system instructions through targeted prompt injection techniques.",
+                "Enterprise defenders must implement immediate perimeter sanitization protocols and restrict autonomous execution privileges across active networks.",
+                "Future deployment of agentic pipelines requires hard isolations to prevent cascade failures across interconnected software environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
