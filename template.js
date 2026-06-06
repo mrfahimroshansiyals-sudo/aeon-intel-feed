@@ -1,82 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SCALING THE AGENTIC",
+        "titleBlue": "FRONTIER"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: SPACEX COMPUTE LEASE",
+            "heading": "UNIVERSITY OF TORONTO: AUTONOMOUS WORM",
             "points": [
-                "Google secures a massive computing capacity lease with SpaceX to expand hyper-scale AI training infrastructures.",
-                "The multi-year agreement guarantees sustained data center throughput during global semiconductor supply chain bottlenecks.",
-                "Integrating satellite telecom infrastructure with terrestrial compute nodes creates a highly resilient cloud operating topology.",
-                "This structural alignment signals a deeper convergence between aerospace networks and high-performance deep learning complexes."
+                "Researchers construct a proof-of-concept autonomous AI worm capable of reasoning and dynamically adapting to target environments.",
+                "The dynamic system automatically scans software code, identifies security vulnerabilities, and generates customized exploits in real time.",
+                "Security teams must transition from static defense definitions to automated mitigation frameworks designed for polymorphic payloads.",
+                "Enterprises will face rapid exposure as malicious autonomous agents begin exploiting zero-day vulnerabilities at network speed."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY IQ DEPLOYMENT",
+            "heading": "MICROSOFT: AGENT SECURE VECTORS",
             "points": [
-                "Microsoft launches Foundry IQ to unify organizational knowledge layers for highly contextualized agentic AI operations.",
-                "The platform delivers enterprise-grade grounding metrics to mitigate hallucinations in autonomous database querying workflows.",
-                "By bridging disparate application silos, the architecture provides a unified data fabric for distributed models.",
-                "Enterprise CIOs can now deploy autonomous agents with absolute data privacy controls across hybrid ecosystems."
+                "Microsoft cybersecurity researchers catalog seven distinct architectural vulnerabilities that allow hackers to compromise autonomous AI agent networks.",
+                "Exploitation of these vectors permits unauthorized memory injection, prompt override execution, and downstream tool integration hijacking.",
+                "The findings require immediate redesigns of agent execution boundaries, privilege management, and multi-agent consensus validation patterns.",
+                "Chief Information Security Officers must enforce strict isolated runtimes and zero-trust policies for all active enterprise agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMOCLAW AGENT RUNTIME",
+            "heading": "AMAZON: NEXT-GEN ROBOTICS PUSH",
             "points": [
-                "Nvidia introduces NemoClaw to enable secure and autonomous AI engineering agents within complex industrial software.",
-                "The framework leverages accelerated physical AI models to execute highly specialized system optimization tasks automatically.",
-                "Integrating directly into enterprise development pipelines prevents security breaches during real-time autonomous code generation runs.",
-                "This orchestration paradigm shifts developer workflows from manual coding to supervising autonomous software engineering loops."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: HORIZONDB UPGRADE",
-            "points": [
-                "Microsoft Azure releases HorizonDB to embed native artificial intelligence workloads directly into scalable PostgreSQL architectures.",
-                "The system achieves ultra-low latency read operations to support real-time retrieval-augmented generation in enterprise applications.",
-                "Decoupling traditional storage bottlenecks allows database administrators to scale compute dynamically based on query density.",
-                "This database transformation reduces network overhead by executing embedding generation and vector search within PostgreSQL."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "META: GLOBAL AGENT DEPLOYMENT",
-            "points": [
-                "Meta deploys a global enterprise AI agent framework to transform messaging channels into transactional engines.",
-                "The system automates multi-turn customer interactions with persistent memory and precise tool-calling capabilities across networks.",
-                "This architecture decouples front-end user engagement from legacy customer relationship management database processing models.",
-                "Enterprise adoption will scale transactional efficiency by automating support pipelines without substantial infrastructure expansion costs."
+                "Amazon initiates deployment of its next-generation warehouse robots across Europe to drive high-capacity logistics automation.",
+                "The massive eleven point six billion dollar capital campaign directly targets immediate operational speed and throughput gains.",
+                "Deep hardware-software co-design enables these physical agents to safely navigate complex industrial spaces alongside human labor.",
+                "Global competitors must accelerate their physical AI roadmaps to survive escalating margins in automated fulfillment infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: QUANTUM-AI CO-DEVELOPMENT",
+            "id": 4,
+            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
             "points": [
-                "AMD collaborates with OQC and JPMorganChase to design a hybrid quantum-classical artificial intelligence research platform.",
-                "The initiative optimizes deep learning models by running complex financial algorithms on co-processor hardware architectures.",
-                "This research signals the convergence of quantum processing units with accelerated GPU compute pools in London.",
-                "Enterprise financial institutions will leverage this architecture to solve multi-dimensional risk and fraud detection challenges."
+                "Google contracts with SpaceX for nine hundred twenty million dollars monthly to secure massive computing infrastructure access.",
+                "This transaction leverages specialized data centers to support hyper-scale AI training runs and massive model deployment requirements.",
+                "Hyperscalers are increasingly forced to diversify physical hosting partners to bypass electrical power grid constraints globally.",
+                "Strategic compute alliances will determine which major technology giants maintain leadership in the ongoing frontier model race."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GITHUB: COPILOT BILLING SHIFT",
+            "points": [
+                "GitHub rolls out updated Copilot capabilities alongside an immediate shift to enterprise usage-based consumption billing frameworks.",
+                "IT organizations transition from static seat licensing models to dynamic billing based strictly on individual developer consumption.",
+                "Advanced integration features offer deeper code orchestration capabilities while introducing strict cost governance controls for technology leaders.",
+                "Companies must deploy active monitoring tools to prevent runaway developer usage costs while optimizing generative coding productivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "WHITE HOUSE: MODEL REVIEW ORDER",
+            "points": [
+                "The executive administration introduces a mandatory pre-release review process for all upcoming frontier artificial intelligence models.",
+                "Developers must submit advanced architectures for federal security analysis, potentially delaying product deployment cycles for months.",
+                "This regulatory action marks a major shift toward direct federal oversight of highly capable general-purpose technologies.",
+                "Venture-backed labs must adapt their development timelines to accommodate federal safety audits and complex compliance reporting."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: LITHOGRAPHY INTEGRATION",
+            "heading": "ANTHROPIC: STRATEGIC IPO FILING",
             "points": [
-                "ASML integrates customized Mistral AI models to accelerate advanced semiconductor lithography and design optimization workflows.",
-                "The joint deployment optimizes precision wafer pattern generation, reducing processing time in high-volume chip manufacturing.",
-                "Using local LLM weights on-premises ensures absolute intellectual property security during critical fabrication system calibrations.",
-                "This architectural collaboration improves manufacturing yields and lithography system performance for next-generation silicon node architectures."
+                "Anthropic files for an initial public offering, shifting public attention to capital efficiency and computational resource sustainability.",
+                "The transaction signals a structural transition where model deployment economics eclipse raw parameter scale in enterprise evaluation.",
+                "Wall Street demands clear monetization roadmaps as capital-intensive model development costs continue to pressure private venture funding.",
+                "Enterprise buyers can expect more predictable long-term pricing as leading labs prioritize financial sustainability over pure research."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
