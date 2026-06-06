@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING THE AGENTIC",
-        "titleBlue": "FRONTIER"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "UNIVERSITY OF TORONTO: AUTONOMOUS WORM",
+            "heading": "TORONTO: AUTONOMOUS CYBER WORM",
             "points": [
-                "Researchers construct a proof-of-concept autonomous AI worm capable of reasoning and dynamically adapting to target environments.",
-                "The dynamic system automatically scans software code, identifies security vulnerabilities, and generates customized exploits in real time.",
-                "Security teams must transition from static defense definitions to automated mitigation frameworks designed for polymorphic payloads.",
-                "Enterprises will face rapid exposure as malicious autonomous agents begin exploiting zero-day vulnerabilities at network speed."
+                "Researchers engineered a proof-of-concept autonomous AI worm capable of dynamic vulnerability discovery and real-time strategic adaptation.",
+                "Enterprise security environments must shift from static signature detection to dynamic, behavioral threat analysis frameworks immediately.",
+                "This development highlights the immediate double-edged sword of deploying autonomous reasoning agents inside sensitive production infrastructure.",
+                "Organizations will face highly targeted, self-mutating malware strains that easily bypass traditional perimeter defense systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AGENT SECURE VECTORS",
+            "heading": "WHITE HOUSE: FRONTIER MODEL REVIEW",
             "points": [
-                "Microsoft cybersecurity researchers catalog seven distinct architectural vulnerabilities that allow hackers to compromise autonomous AI agent networks.",
-                "Exploitation of these vectors permits unauthorized memory injection, prompt override execution, and downstream tool integration hijacking.",
-                "The findings require immediate redesigns of agent execution boundaries, privilege management, and multi-agent consensus validation patterns.",
-                "Chief Information Security Officers must enforce strict isolated runtimes and zero-trust policies for all active enterprise agents."
+                "A new voluntary executive order establishes a formal prerelease review process targeting frontier artificial intelligence models.",
+                "AI vendor release schedules will face significant regulatory delays, complicating cloud procurement timelines for enterprise buyers.",
+                "Sovereign oversight efforts increasingly focus on pre-deployment safety evaluations rather than post-release operational monitoring techniques.",
+                "Compliance teams must integrate strict external vetting milestones into their strategic technology adoption roadmaps going forward."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMAZON: NEXT-GEN ROBOTICS PUSH",
+            "heading": "ANTHROPIC: RESOURCE-CENTRIC IPO",
             "points": [
-                "Amazon initiates deployment of its next-generation warehouse robots across Europe to drive high-capacity logistics automation.",
-                "The massive eleven point six billion dollar capital campaign directly targets immediate operational speed and throughput gains.",
-                "Deep hardware-software co-design enables these physical agents to safely navigate complex industrial spaces alongside human labor.",
-                "Global competitors must accelerate their physical AI roadmaps to survive escalating margins in automated fulfillment infrastructure."
+                "Anthropic filed for an initial public offering, shifting industry priorities from model breakthroughs to physical compute resources.",
+                "Enterprise CIOs must prepare to navigate changing pricing structures as vendor focus shifts toward infrastructure monetization.",
+                "Sustained market leadership now depends heavily on securing massive energy reserves and advanced semiconductor manufacturing allocations.",
+                "The AI sector is transitioning from theoretical algorithmic research into a mature, capital-intensive industrial infrastructure race."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
+            "heading": "AMAZON: ROBOTICS CAPITAL INFUSION",
             "points": [
-                "Google contracts with SpaceX for nine hundred twenty million dollars monthly to secure massive computing infrastructure access.",
-                "This transaction leverages specialized data centers to support hyper-scale AI training runs and massive model deployment requirements.",
-                "Hyperscalers are increasingly forced to diversify physical hosting partners to bypass electrical power grid constraints globally.",
-                "Strategic compute alliances will determine which major technology giants maintain leadership in the ongoing frontier model race."
+                "Amazon introduced its next-generation industrial humanoid robot backed by an eleven billion dollar European automation initiative.",
+                "Logistics facilities will experience dramatic throughput increases while simultaneously reducing reliance on manual warehouse floor labor.",
+                "Physical AI integration represents the next logical frontier for scaling operational efficiency across global supply chain networks.",
+                "Industrial enterprises will rapidly deploy autonomous physical fleets to combat rising operational costs and regional labor shortages."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GITHUB: COPILOT BILLING SHIFT",
+            "heading": "GITHUB: COPILOT CONTEXTUAL BILLING",
             "points": [
-                "GitHub rolls out updated Copilot capabilities alongside an immediate shift to enterprise usage-based consumption billing frameworks.",
-                "IT organizations transition from static seat licensing models to dynamic billing based strictly on individual developer consumption.",
-                "Advanced integration features offer deeper code orchestration capabilities while introducing strict cost governance controls for technology leaders.",
-                "Companies must deploy active monitoring tools to prevent runaway developer usage costs while optimizing generative coding productivity."
+                "GitHub deployed advanced developer assistance features alongside the activation of a new usage-based API billing model.",
+                "Software development organizations face unpredictable engineering costs as pricing models shift from seat subscriptions to consumption.",
+                "This change reflects a broader cloud industry movement toward alignment of model execution costs with actual utility.",
+                "IT leaders must implement strict rate-limiting policies to prevent uncontrolled token consumption across their developer teams."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "WHITE HOUSE: MODEL REVIEW ORDER",
+            "heading": "MICROSOFT: THREAT MODELING ADVANCEMENTS",
             "points": [
-                "The executive administration introduces a mandatory pre-release review process for all upcoming frontier artificial intelligence models.",
-                "Developers must submit advanced architectures for federal security analysis, potentially delaying product deployment cycles for months.",
-                "This regulatory action marks a major shift toward direct federal oversight of highly capable general-purpose technologies.",
-                "Venture-backed labs must adapt their development timelines to accommodate federal safety audits and complex compliance reporting."
+                "Security researchers identified seven novel attack vectors targeting autonomous AI agents and execution layer prompt routing mechanisms.",
+                "System architects must redesign agentic workflows to validate intermediate steps and prevent unauthorized privilege escalation exploits.",
+                "As enterprises delegate transactional authority to autonomous tools, the security boundary shifts from user identity to agent state.",
+                "Future development frameworks will mandate isolated sandboxes and zero-trust verification models for all autonomous digital workers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: STRATEGIC IPO FILING",
+            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
             "points": [
-                "Anthropic files for an initial public offering, shifting public attention to capital efficiency and computational resource sustainability.",
-                "The transaction signals a structural transition where model deployment economics eclipse raw parameter scale in enterprise evaluation.",
-                "Wall Street demands clear monetization roadmaps as capital-intensive model development costs continue to pressure private venture funding.",
-                "Enterprise buyers can expect more predictable long-term pricing as leading labs prioritize financial sustainability over pure research."
+                "Microsoft launched HorizonDB, introducing native machine learning optimizations and ultra-low latency directly inside PostgreSQL database systems.",
+                "Developers can now execute complex data retrieval operations with built-in AI acceleration without configuring external database pipelines.",
+                "This release represents a significant shift toward embedding intelligence directly into primary relational cloud storage engines.",
+                "Enterprise data architectures will move away from legacy extract-transform-load patterns toward direct, intelligent in-database processing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
