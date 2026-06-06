@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "COGNITIVE AGENTIC SYSTEM",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
+            "heading": "ANTHROPIC: IPO ROADMAP",
             "points": [
-                "NVIDIA accelerates physical AI research by integrating specialized agent skills for autonomous robotics and vision systems.",
-                "This initiative enhances machine perception in real-time environments, allowing robots to navigate complex physical spaces reliably.",
-                "Enterprise stakeholders gain direct access to new agent frameworks that bridge the gap between digital models and physical operational workflows.",
-                "The deployment of these skills marks a shift toward embodied intelligence in industrial automation and factory floor management."
+                "Anthropic files for an initial public offering to fund massive capital expenditures required for frontier model training.",
+                "Enterprise budgets are shifting rapidly toward scaling existing model parameters rather than awaiting speculative architectural breakthroughs.",
+                "The transition underscores a critical industry pivot where capital scaling efficiency overrides basic foundational model design.",
+                "CIOs must balance long-term research alignment initiatives against immediate operational licensing fees for advanced models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA & MICROSOFT: UNIFIED AGENTIC STACK",
+            "points": [
+                "Nvidia partners with Microsoft to deploy a unified software stack designed for agentic AI orchestration.",
+                "Developers gain seamless local execution capabilities across local Windows devices and scalable hybrid cloud computing environments.",
+                "The unified stack integrates deep hardware acceleration directly into enterprise operating systems for decentralized computing workloads.",
+                "Organizations can now execute complex agentic workflows locally without risking sensitive data exposure to public clouds."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,45 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "GOOGLE: GEMMA 4 EDGE ADVANCEMENT",
-            "points": [
-                "Google releases Gemma 4 12B to optimize high-performance AI deployment directly on constrained edge devices globally.",
-                "This architecture reduces computational overhead while maintaining frontier-level reasoning capabilities for distributed business application scenarios.",
-                "Enterprises can now execute private local inference without compromising data residency or reliance on latency-heavy cloud pipelines.",
-                "Market analysts confirm this move significantly accelerates the migration of intelligent workloads from centralized data centers to edge infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "MICROSOFT: AGENTIC BACKEND INTEGRATION",
+            "heading": "AMAZON: ROBOTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "Microsoft launches Rayfin on Fabric, a managed backend-as-a-service specifically engineered for enterprise-grade autonomous agent scaling.",
-                "The platform provides native orchestration, observability, and guardrails to ensure production AI systems maintain strict operational consistency.",
-                "By centralizing agent intelligence, Microsoft allows organizations to build resilient apps that leverage real-time business data flows.",
-                "Integration with Azure infrastructure ensures high throughput for compute-intensive workloads while maintaining rigorous corporate compliance standards."
+                "Amazon initiates an eleven point six billion dollar European investment to deploy next-generation autonomous logistics robots.",
+                "The automated hardware upgrade optimizes real-time warehouse inventory management and accelerates fulfillment velocity across regional centers.",
+                "This capital injection reinforces the convergence of physical AI agents with highly scaled logistics fulfillment infrastructure.",
+                "Industrial enterprises must adopt advanced cyber-physical control planes to orchestrate large fleets of autonomous mobile robots."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: IPO FILING STRATEGIC SHIFT",
+            "heading": "GOOGLE: GEMMA EDGE INTELLIGENCE",
             "points": [
-                "Anthropic submits formal IPO documentation, signaling a transition toward sustainable capital-intensive AI infrastructure for long-term growth.",
-                "Market observers indicate the filing highlights the rising cost of training frontier-scale models vs. resource-intensive commercial deployments.",
-                "This move forces a broader reassessment of enterprise AI valuation frameworks focusing on recurring operational viability over research.",
-                "Stakeholders anticipate accelerated competitive consolidation as public markets demand clarity on model unit economics and sustainability."
+                "Google launches Gemma Four Twelve-B to maximize computing intelligence-per-parameter directly on resource-constrained edge devices.",
+                "Low-latency local processing reduces dependence on centralized cloud infrastructure for real-time mobile and industrial workloads.",
+                "This architecture enables autonomous local decision-making while significantly lowering data transmission costs and network bandwidth requirements.",
+                "Software engineers can deploy highly capable reasoning engines directly into consumer hardware without requiring internet connectivity."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMAZON: EUROPEAN ROBOTIC PUSH",
+            "heading": "TORONTO RESEARCH: AUTONOMOUS CYBER WORM",
             "points": [
-                "Amazon commits 11.6 billion dollars to expand next-generation robotic infrastructure across its European fulfillment and distribution networks.",
-                "The massive capital deployment aims to modernize logistics via automated systems that increase operational speed and warehouse safety.",
-                "This strategic investment reinforces AWS cloud-based control architectures as the primary brain for global distributed hardware fleets.",
-                "Competitors face mounting pressure to match this scale, driving faster innovation cycles in industrial-grade autonomous handling technologies."
+                "Researchers engineer an autonomous artificial intelligence worm capable of dynamically scanning networks to exploit complex vulnerabilities.",
+                "The proof-of-concept malware adapts its payload strategies in real-time to bypass traditional static cybersecurity defenses.",
+                "Security architectures must transition immediately toward continuous agentic threat detection paradigms to mitigate adaptive automated intrusions.",
+                "CISOs will face highly sophisticated automated zero-day campaigns requiring zero-trust configurations and active defensive AI agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: ENTERPRISE AGENT ROLLOUT",
+            "heading": "META: ENTERPRISE CONVERSATIONAL AGENTS",
             "points": [
-                "Meta initiates global rollout of enterprise AI agents designed to automate complex customer interactions across messaging channels.",
-                "The platform integrates directly into existing business communication stacks to bridge fragmented silos into unified automated conversational flows.",
-                "This release marks an aggressive entry into the agentic workspace market to challenge established software giants with scale.",
-                "Businesses can now deploy sophisticated autonomous responders within minutes to lower overhead while improving real-time response precision."
+                "Meta deploys an advanced agentic framework enabling businesses to build custom customer agents in minutes.",
+                "The initiative aims to convert billions of conversational messaging interactions into transactional, automated business operations workflows.",
+                "Messaging channels are evolving from simple communications platforms into fully programmable transactional environments for enterprise services.",
+                "Organizations must integrate legacy database backends with natural language interfaces to unlock immediate self-service customer interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: 2NM INFRASTRUCTURE SCALE",
+            "heading": "AMD & JPMORGAN: QUANTUM AI PLATFORM",
             "points": [
-                "TSMC confirms production ramp for next-gen processors using advanced 2nm technology to meet rising AI compute demand.",
-                "The fabrication breakthrough provides the necessary transistor density for high-performance AI workloads that require extreme energy efficiency.",
-                "Strategic capacity expansion signals continued dominance in the semiconductor supply chain essential for training future frontier models.",
-                "Global infrastructure providers are securing long-term supply agreements to support the hardware demands of upcoming autonomous agent generations."
+                "AMD collaborates with JPMorganChase and Oxford Quantum Circuits to research and build a hybrid Quantum-AI platform.",
+                "The strategic alliance explores accelerating complex algorithmic financial modeling and real-time transaction processing using quantum hardware.",
+                "Integrating adaptive silicon with quantum computing architectures establishes a new performance baseline for high-frequency financial calculations.",
+                "Financial institutions will leverage hybrid quantum pipelines to optimize risk portfolios and secure transactional networks against decryption."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
