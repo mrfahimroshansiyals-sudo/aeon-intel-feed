@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "COGNITIVE ARCHITECTURE DEPLOYMENT",
+        "titleBlue": "CORE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TORONTO: AUTONOMOUS CYBER WORM",
+            "heading": "MICROSOFT: FOUNDRY DEPLOYMENT",
             "points": [
-                "Researchers engineered a proof-of-concept autonomous AI worm capable of dynamic vulnerability discovery and real-time strategic adaptation.",
-                "Enterprise security environments must shift from static signature detection to dynamic, behavioral threat analysis frameworks immediately.",
-                "This development highlights the immediate double-edged sword of deploying autonomous reasoning agents inside sensitive production infrastructure.",
-                "Organizations will face highly targeted, self-mutating malware strains that easily bypass traditional perimeter defense systems."
+                "Microsoft launched Foundry IQ and HorizonDB for ultra-low latency PostgreSQL scaling and unified agentic context.",
+                "Operational benchmarks indicate latency reductions of up to forty percent during distributed agent query execution phases.",
+                "This deployment decouples legacy data silos, shifting enterprise database topologies toward native AI and agentic optimization.",
+                "Systems architects will utilize this unified memory layer to deploy autonomous transactional flows securely across cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WHITE HOUSE: FRONTIER MODEL REVIEW",
+            "heading": "ANTHROPIC: MARKET CAPITALIZATION",
             "points": [
-                "A new voluntary executive order establishes a formal prerelease review process targeting frontier artificial intelligence models.",
-                "AI vendor release schedules will face significant regulatory delays, complicating cloud procurement timelines for enterprise buyers.",
-                "Sovereign oversight efforts increasingly focus on pre-deployment safety evaluations rather than post-release operational monitoring techniques.",
-                "Compliance teams must integrate strict external vetting milestones into their strategic technology adoption roadmaps going forward."
+                "Anthropic filed for its initial public offering, shifting frontier AI development focus from model size to resource sustainability.",
+                "Global enterprise buyers are restructuring multi-million dollar software-as-a-service budgets to accommodate rising token-based computing demands.",
+                "The transition highlights a critical pivot from compute-heavy training runs to efficient, long-horizon multi-step agent reasoning engines.",
+                "Chief information officers will increasingly favor unmetered intelligence models to balance scaling costs with transactional throughput limits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: RESOURCE-CENTRIC IPO",
+            "heading": "GOOGLE: GEMMA EDGE DEPLOYMENT",
             "points": [
-                "Anthropic filed for an initial public offering, shifting industry priorities from model breakthroughs to physical compute resources.",
-                "Enterprise CIOs must prepare to navigate changing pricing structures as vendor focus shifts toward infrastructure monetization.",
-                "Sustained market leadership now depends heavily on securing massive energy reserves and advanced semiconductor manufacturing allocations.",
-                "The AI sector is transitioning from theoretical algorithmic research into a mature, capital-intensive industrial infrastructure race."
+                "Google released Gemma Four Twelve-B, maximizing parameter-level intelligence for localized offline execution on enterprise devices.",
+                "This optimization reduces local device processing requirements while maintaining high-fidelity reasoning benchmarks without constant server calls.",
+                "Edge devices are emerging as primary execution nodes, relieving processing bottlenecks currently plaguing centralized public cloud infrastructures.",
+                "Developers will rapidly shift consumer-facing application designs toward local runtime models, bypassing cloud latency and hosting fees."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMAZON: ROBOTICS CAPITAL INFUSION",
+            "heading": "NVIDIA: PHYSICAL AGENT ARCHITECTURE",
             "points": [
-                "Amazon introduced its next-generation industrial humanoid robot backed by an eleven billion dollar European automation initiative.",
-                "Logistics facilities will experience dramatic throughput increases while simultaneously reducing reliance on manual warehouse floor labor.",
-                "Physical AI integration represents the next logical frontier for scaling operational efficiency across global supply chain networks.",
-                "Industrial enterprises will rapidly deploy autonomous physical fleets to combat rising operational costs and regional labor shortages."
+                "Nvidia launched NemoClaw and physical AI agent workflows, establishing real-time decision loops for industrial robotics and vehicles.",
+                "Early trials show automated physical assembly task errors dropped significantly, signaling a major leap in operational consistency.",
+                "Merging virtual simulations with actual robotic action marks the start of autonomous, closed-loop heavy manufacturing systems worldwide.",
+                "Industrial leaders will deploy these safe agentic architectures to run autonomous factories with minimal human supervisor intervention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GITHUB: COPILOT CONTEXTUAL BILLING",
+            "heading": "EUROPEAN UNION: AI COMPLIANCE REGIME",
             "points": [
-                "GitHub deployed advanced developer assistance features alongside the activation of a new usage-based API billing model.",
-                "Software development organizations face unpredictable engineering costs as pricing models shift from seat subscriptions to consumption.",
-                "This change reflects a broader cloud industry movement toward alignment of model execution costs with actual utility.",
-                "IT leaders must implement strict rate-limiting policies to prevent uncontrolled token consumption across their developer teams."
+                "The European Union finalized practical compliance guidelines for Article Fifty, enforcing strict transparency rules on generative systems.",
+                "Providers of general-purpose AI models must audit their datasets and document model outputs before the August deadline.",
+                "Regulatory boundaries are redefining global deployment strategies, forcing enterprises to adopt auditable, transparent data tracking pipelines.",
+                "Corporate compliance teams will prioritize automated governance tools to avoid severe penalties and preserve access to European markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: THREAT MODELING ADVANCEMENTS",
+            "heading": "AMD: AGENT COMPUTING HARDWARE",
             "points": [
-                "Security researchers identified seven novel attack vectors targeting autonomous AI agents and execution layer prompt routing mechanisms.",
-                "System architects must redesign agentic workflows to validate intermediate steps and prevent unauthorized privilege escalation exploits.",
-                "As enterprises delegate transactional authority to autonomous tools, the security boundary shifts from user identity to agent state.",
-                "Future development frameworks will mandate isolated sandboxes and zero-trust verification models for all autonomous digital workers."
+                "AMD introduced the Ryzen AI Halo platform and Ryzen AI Max PRO processors to accelerate local agentic workflows.",
+                "The hardware architecture achieves forty-five trillion operations per second, radically boosting edge model execution times and throughput.",
+                "This chip release shifts desktop processing dynamics, giving edge client computers hardware parity with cloud-based inferencing servers.",
+                "Enterprise IT procurement will transition to AI PC architectures to enable persistent, secure local background agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
+            "heading": "ASML: LITHOGRAPHY AI CO-PROCESSING",
             "points": [
-                "Microsoft launched HorizonDB, introducing native machine learning optimizations and ultra-low latency directly inside PostgreSQL database systems.",
-                "Developers can now execute complex data retrieval operations with built-in AI acceleration without configuring external database pipelines.",
-                "This release represents a significant shift toward embedding intelligence directly into primary relational cloud storage engines.",
-                "Enterprise data architectures will move away from legacy extract-transform-load patterns toward direct, intelligent in-database processing."
+                "ASML integrated Mistral AI models to automate and accelerate computational lithography routines during silicon wafer pattern generation.",
+                "The integration yields dramatic improvements in lithography simulation speeds, lowering the computing overhead for next-generation nanometer designs.",
+                "Applying language models to physical lithography processes demonstrates the widening industrial footprint of multi-modal AI systems.",
+                "Semiconductor manufacturers will combine neural models with physical hardware to overcome lithographic scaling limits at sub-nanometer levels."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
