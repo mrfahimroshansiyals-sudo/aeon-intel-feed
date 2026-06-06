@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL COMPUTE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: INDIA CHIP EXPANSION",
+            "heading": "AMD: AGENTIC HALO PLATFORM",
             "points": [
-                "Tata Electronics partnered with ASML to build and accelerate India's emerging semiconductor fabrication ecosystem.",
-                "The partnership accelerates deployment of state-of-the-art lithography systems to establish localized domestic chip manufacturing capacity.",
-                "ASML will provide crucial machinery and engineering expertise to establish India's competitive global chip footprint.",
-                "Global technology supply chains are diversifying rapidly away from Taiwan dependencies toward decentralized semiconductor manufacturing nodes."
+                "AMD launched the Ryzen AI Halo Developer Platform leveraging next-generation CPU and GPU co-processing architectures.",
+                "This silicon integration maximizes performance-per-watt metrics for locally executed enterprise agentic workloads.",
+                "The platform bypasses cloud latencies by facilitating complex multi-step reasoning models directly at the network edge.",
+                "Organizations can significantly decrease overall operational dependency on costly centralized data center infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
             "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and integrated artificial intelligence within PostgreSQL environments.",
-                "The database system allows enterprise applications to deploy real-time scalable intelligence without experiencing database performance degradation.",
-                "Built-in AI features enable direct model execution and cognitive indexing within transactional cloud database architectures.",
-                "Developers can seamlessly transition complex transactional workloads into unified, intelligence-driven cloud database application environments."
+                "Google DeepMind announced Gemini Omni, enabling developers to generate and synthesize complex multi-modal video outputs.",
+                "The system accelerates design workflows by establishing seamless, real-time translations across text, audio, and visual inputs.",
+                "This unified architecture eliminates separate modular pipelines to process all data forms within a single model.",
+                "Content creators gain high-speed generative capability while dramatically reducing processing overheads and latency spikes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: SPACEX COMPUTE DEAL",
+            "heading": "OPENAI: FEDERAL PARTNERSHIP",
             "points": [
-                "Google contracted with SpaceX in a monumental thirty-billion-dollar deal to secure massive critical computing capacity.",
-                "The agreement guarantees SpaceX lease payments of nine hundred twenty million dollars monthly for high-density compute infrastructure.",
-                "High-throughput satellite communications are merging directly with hyper-scale cloud facilities to scale next-generation model training.",
-                "This deep infrastructure alliance establishes unprecedented compute capacity consolidation to dominate the frontier intelligence race."
+                "The Trump administration is negotiating a potential government equity stake in OpenAI to secure domestic technology.",
+                "This strategic alliance could protect national security and establish rigorous oversight over critical AI development pipelines.",
+                "Federal integration directly influences the governance, hardware distribution, and public policy frameworks of frontier artificial intelligence.",
+                "Private-sector enterprises must prepare for changing regulatory barriers and state-sponsored infrastructure control models."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: RESOURCE-CENTRIC IPO",
+            "heading": "MICROSOFT AZURE: HORIZONDB LAUNCH",
             "points": [
-                "Anthropic filed for an initial public offering signaling a fundamental pivot from algorithmic models to intensive resource scaling.",
-                "Capital requirements to build and maintain advanced models are reshaping traditional venture funding structures for public markets.",
-                "Strategic cloud infrastructure access and energy resources are becoming the primary competitive moats for frontier developers.",
-                "Enterprise budgeting must adapt as model deployment costs transition from software licensing fees to physical infrastructure assets."
+                "Microsoft introduced Azure HorizonDB, a new PostgreSQL cloud database service optimized with built-in artificial intelligence.",
+                "The platform delivers ultra-low latency reads and dynamic scaling to support mission-critical transactional enterprise applications.",
+                "Unified AI integration allows database engines to self-optimize indexing configurations based on real-time operational loads.",
+                "Developers can deploy complex, highly responsive database structures without managing complex manual performance-tuning procedures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: CLAUDE SUBSCRIPTION CUT",
+            "heading": "GOOGLE: SPACEX COMPUTING LEASE",
             "points": [
-                "Microsoft began canceling Claude Code developer tool subscriptions for its engineers due to excessive operational costs.",
-                "Escalating computational pricing for agentic programming tools is forcing major software enterprises to reevaluate development budgets.",
-                "The cancellation highlights the economic unsustainability of deploying unoptimized autonomous coding agents across massive developer fleets.",
-                "Enterprises must establish rigorous economic guardrails on token consumption before deploying autonomous software development agents."
+                "Google has agreed to lease massive compute capacity from SpaceX at xAI supercomputing data center installations.",
+                "The transaction, valued at nine hundred twenty million dollars monthly, secures critical infrastructure for upcoming frontier models.",
+                "This hybrid structure leverages satellite network infrastructure alongside decentralized supercomputing facilities to scale regional intelligence.",
+                "The deal underlines the escalating hardware race and consolidation of compute power among global technology conglomerates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AGENT VULNERABILITY",
+            "heading": "UNIVERSITY OF TORONTO: AI WORM",
             "points": [
-                "Microsoft security researchers identified seven distinct systemic vulnerabilities capable of compromising autonomous artificial intelligence agents.",
-                "The vulnerabilities highlight structural weaknesses in delegation layers, tool execution pathways, and external data ingestion models.",
-                "These threat vectors present severe risks of privilege escalation and unauthorized transactional execution within enterprise networks.",
-                "Securing agentic workflows requires shifting from basic input filtering to zero-trust transactional isolation frameworks."
+                "Researchers engineered a proof-of-concept autonomous AI worm capable of discovering network vulnerabilities and dynamically adapting attacks.",
+                "This malicious model illustrates how autonomous agents can compromise security perimeters without manual human direction.",
+                "The system utilizes continuous feedback loops to bypass legacy firewalls and rewrite its payload configuration mid-transit.",
+                "Security administrators must deploy real-time threat detection to counter self-evolving agentic intrusion tactics across networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU: ART-50 COMPLIANCE MANDATE",
+            "heading": "ANTHROPIC: OPUS UPGRADE",
             "points": [
-                "The European Union AI Act established strict Article Fifty compliance transparency guidelines effective by August twenty-twenty-six.",
-                "AI system providers must implement comprehensive disclosures, detailing technical specifications and synthetic content identification mechanisms.",
-                "Failure to establish regulatory reporting protocols risks heavy administrative penalties and potential market exclusion across member states.",
-                "Global enterprises must immediately align their architecture monitoring systems to meet mandatory European governance compliance."
+                "Anthropic launched Claude Opus four point eight, featuring critical architectural enhancements for execution of long-running operations.",
+                "The updated model delivers superior accuracy across complex programming, structural reasoning, and continuous agentic enterprise tasks.",
+                "Enhanced contextual retention enables consistent system execution across extensive multi-hour programmatic logic workflows without error.",
+                "Developers can now delegate complex backend system maintenance to independent agents with high operational trust."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
