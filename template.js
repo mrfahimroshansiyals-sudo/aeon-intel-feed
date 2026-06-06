@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "POWER"
+        "titleWhite": "SOVEREIGN ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: RAYFIN FABRIC INTEGRATION",
-            "points": [
-                "Microsoft launches Rayfin, a fully managed, agent-optimized backend as a service integrated directly into Microsoft Fabric.",
-                "This release enables enterprise developers to deploy autonomous code workflows with sub-millisecond query execution speeds.",
-                "By bypassing traditional legacy middleware, Rayfin optimizes the execution loop for highly complex agentic systems.",
-                "Enterprise CIOs can now scale multi-agent architectures without dedicating massive engineering resources to backend pipeline configuration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
             "heading": "GOOGLE: SPACEX COMPUTE LEASE",
             "points": [
-                "Google signs a massive lease agreement to pay SpaceX nine hundred and twenty million dollars monthly for computing capacity.",
-                "This strategic partnership secures dedicated server access at xAI data centers to satisfy soaring enterprise workloads.",
-                "The multi-billion-dollar deal guarantees stable raw power and massive processing pipelines required for next-generation frontier training.",
-                "This aggressive capital allocation underscores the critical global shortage of high-performance localized artificial intelligence computing hubs."
+                "Google secures a massive computing capacity lease with SpaceX to expand hyper-scale AI training infrastructures.",
+                "The multi-year agreement guarantees sustained data center throughput during global semiconductor supply chain bottlenecks.",
+                "Integrating satellite telecom infrastructure with terrestrial compute nodes creates a highly resilient cloud operating topology.",
+                "This structural alignment signals a deeper convergence between aerospace networks and high-performance deep learning complexes."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AMAZON: NEXT-GEN INDUSTRIAL ROBOTICS",
+            "id": 2,
+            "heading": "MICROSOFT: FOUNDRY IQ DEPLOYMENT",
             "points": [
-                "Amazon unveils its next-generation autonomous industrial robot as part of a multi-billion-dollar European logistics expansion.",
-                "This deployment automates complex warehouse sorting, improving package handling efficiency by more than thirty percent globally.",
-                "By embedding physical agentic vision workflows, these machines navigate volatile, real-time industrial environments safely without human intervention.",
-                "Supply chain operators will experience dramatically reduced fulfillment cycles and lower operational overhead across major European hubs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: QUANTUM-AI RESEARCH COOPERATIVE",
-            "points": [
-                "AMD collaborates with JPMorganChase and OQC to construct a next-generation hybrid quantum-artificial intelligence processing platform.",
-                "The venture integrates superconducting quantum processors with advanced enterprise hardware to tackle complex financial transaction modeling.",
-                "This architectural framework leverages quantum mechanics alongside deep neural networks to accelerate risk analysis algorithms significantly.",
-                "Financial institutions will gain unparalleled precision in real-time fraud detection and portfolio optimization at extreme scales."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
-            "points": [
-                "Microsoft introduces Azure HorizonDB, bringing ultra-low latency reads and native artificial intelligence capabilities to standard PostgreSQL.",
-                "The platform leverages hardware-accelerated vectors to process massive relational datasets without sacrificing transactional integrity or speed.",
-                "This modern architectural approach unifies traditional database systems with the semantic requirements of modern machine learning.",
-                "Developers can rapidly build and scale mission-critical applications that require real-time data retrieval for agentic workflows."
+                "Microsoft launches Foundry IQ to unify organizational knowledge layers for highly contextualized agentic AI operations.",
+                "The platform delivers enterprise-grade grounding metrics to mitigate hallucinations in autonomous database querying workflows.",
+                "By bridging disparate application silos, the architecture provides a unified data fabric for distributed models.",
+                "Enterprise CIOs can now deploy autonomous agents with absolute data privacy controls across hybrid ecosystems."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "GOOGLE: GEMMA 4 EDGE DEPLOYMENT",
+            "id": 3,
+            "heading": "NVIDIA: NEMOCLAW AGENT RUNTIME",
             "points": [
-                "Google launches Gemma 4 12B, a model designed to maximize parameter efficiency on localized edge devices.",
-                "The open weights architecture achieves frontier-level intelligence benchmarks while operating natively within highly restricted hardware bounds.",
-                "Shifting computational execution to the edge mitigates latency, bypasses cloud subscription overhead, and keeps sensitive data private.",
-                "Device manufacturers can integrate sophisticated agentic features directly into phones and local hardware appliances without performance penalties."
+                "Nvidia introduces NemoClaw to enable secure and autonomous AI engineering agents within complex industrial software.",
+                "The framework leverages accelerated physical AI models to execute highly specialized system optimization tasks automatically.",
+                "Integrating directly into enterprise development pipelines prevents security breaches during real-time autonomous code generation runs.",
+                "This orchestration paradigm shifts developer workflows from manual coding to supervising autonomous software engineering loops."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: HORIZONDB UPGRADE",
+            "points": [
+                "Microsoft Azure releases HorizonDB to embed native artificial intelligence workloads directly into scalable PostgreSQL architectures.",
+                "The system achieves ultra-low latency read operations to support real-time retrieval-augmented generation in enterprise applications.",
+                "Decoupling traditional storage bottlenecks allows database administrators to scale compute dynamically based on query density.",
+                "This database transformation reduces network overhead by executing embedding generation and vector search within PostgreSQL."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "META: GLOBAL AGENT DEPLOYMENT",
+            "points": [
+                "Meta deploys a global enterprise AI agent framework to transform messaging channels into transactional engines.",
+                "The system automates multi-turn customer interactions with persistent memory and precise tool-calling capabilities across networks.",
+                "This architecture decouples front-end user engagement from legacy customer relationship management database processing models.",
+                "Enterprise adoption will scale transactional efficiency by automating support pipelines without substantial infrastructure expansion costs."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TORONTO: ADAPTIVE AI WORM PROOF",
+            "id": 6,
+            "heading": "AMD: QUANTUM-AI CO-DEVELOPMENT",
             "points": [
-                "University of Toronto researchers construct a proof-of-concept autonomous worm capable of dynamically exploiting system vulnerabilities.",
-                "The adaptive malware analyzes system defenses and shifts its execution tactics in real time to bypass security barriers.",
-                "This demonstration signals a critical transition toward highly sophisticated, machine-speed cyber threats targeting vulnerable enterprise environments.",
-                "Cybersecurity officers must implement proactive zero-trust validation layers to defend corporate infrastructure from automated polymorphic attacks."
+                "AMD collaborates with OQC and JPMorganChase to design a hybrid quantum-classical artificial intelligence research platform.",
+                "The initiative optimizes deep learning models by running complex financial algorithms on co-processor hardware architectures.",
+                "This research signals the convergence of quantum processing units with accelerated GPU compute pools in London.",
+                "Enterprise financial institutions will leverage this architecture to solve multi-dimensional risk and fraud detection challenges."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL: LITHOGRAPHY INTEGRATION",
+            "points": [
+                "ASML integrates customized Mistral AI models to accelerate advanced semiconductor lithography and design optimization workflows.",
+                "The joint deployment optimizes precision wafer pattern generation, reducing processing time in high-volume chip manufacturing.",
+                "Using local LLM weights on-premises ensures absolute intellectual property security during critical fabrication system calibrations.",
+                "This architectural collaboration improves manufacturing yields and lithography system performance for next-generation silicon node architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
