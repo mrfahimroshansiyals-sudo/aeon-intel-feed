@@ -1,82 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE AGENTIC SYSTEM",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT GEN AI",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: IPO ROADMAP",
+            "heading": "NVIDIA: RTX SPARK PC DEBUT",
             "points": [
-                "Anthropic files for an initial public offering to fund massive capital expenditures required for frontier model training.",
-                "Enterprise budgets are shifting rapidly toward scaling existing model parameters rather than awaiting speculative architectural breakthroughs.",
-                "The transition underscores a critical industry pivot where capital scaling efficiency overrides basic foundational model design.",
-                "CIOs must balance long-term research alignment initiatives against immediate operational licensing fees for advanced models."
+                "Nvidia launches RTX Spark PCs bringing dedicated hardware acceleration for local AI processing directly to Windows systems.",
+                "Users experience dramatically reduced latency for on-device generative tasks without relying on external cloud compute networks.",
+                "This integration establishes local GPU tensor cores as the standard foundation for execution of consumer AI tasks.",
+                "Software developers will pivot toward optimizing local neural engines over cloud-based API architectures for everyday applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA & MICROSOFT: UNIFIED AGENTIC STACK",
+            "heading": "GITHUB: COPILOT METRIC EVOLUTION",
             "points": [
-                "Nvidia partners with Microsoft to deploy a unified software stack designed for agentic AI orchestration.",
-                "Developers gain seamless local execution capabilities across local Windows devices and scalable hybrid cloud computing environments.",
-                "The unified stack integrates deep hardware acceleration directly into enterprise operating systems for decentralized computing workloads.",
-                "Organizations can now execute complex agentic workflows locally without risking sensitive data exposure to public clouds."
+                "GitHub rolls out usage-based billing structures alongside advanced collaborative development capabilities for Copilot enterprise accounts.",
+                "Engineering organizations face shifting economics where execution costs align directly with active developer interaction and token consumption.",
+                "Enterprise IT leaders must implement comprehensive token-governance frameworks to balance deployment scale with corporate operating budgets.",
+                "This pricing model shifts software development toward hyper-optimized prompt architectures that minimize unnecessary model loops and queries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMAZON: ROBOTIC INFRASTRUCTURE EXPANSION",
+            "heading": "AMD: QUANTUM-AI FINANCIAL DEPLOYMENT",
             "points": [
-                "Amazon initiates an eleven point six billion dollar European investment to deploy next-generation autonomous logistics robots.",
-                "The automated hardware upgrade optimizes real-time warehouse inventory management and accelerates fulfillment velocity across regional centers.",
-                "This capital injection reinforces the convergence of physical AI agents with highly scaled logistics fulfillment infrastructure.",
-                "Industrial enterprises must adopt advanced cyber-physical control planes to orchestrate large fleets of autonomous mobile robots."
+                "AMD collaborates with JPMorgan Chase and OQC to build a hybrid quantum-classical artificial intelligence research platform.",
+                "Financial institutions gain access to unprecedented computational speeds for running complex optimization and risk analysis neural networks.",
+                "The project leverages advanced AMD adaptive computing hardware to bridge silicon processors with superconducting quantum computing circuits.",
+                "This integration accelerates the timeline for quantum machine learning applications in global high-frequency trading and security platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: GEMMA EDGE INTELLIGENCE",
+            "heading": "GOOGLE: COMPUTE INFRASTRUCTURE EXPANSION",
             "points": [
-                "Google launches Gemma Four Twelve-B to maximize computing intelligence-per-parameter directly on resource-constrained edge devices.",
-                "Low-latency local processing reduces dependence on centralized cloud infrastructure for real-time mobile and industrial workloads.",
-                "This architecture enables autonomous local decision-making while significantly lowering data transmission costs and network bandwidth requirements.",
-                "Software engineers can deploy highly capable reasoning engines directly into consumer hardware without requiring internet connectivity."
+                "Google commits to paying SpaceX nine hundred twenty million dollars monthly for compute capacity at specialized data centers.",
+                "This transaction dramatically expands Google's physical server footprint to support intensive training runs for next-generation frontier models.",
+                "Leveraging SpaceX orbital connectivity establishes a unique, satellite-linked ground infrastructure network for massive distributed machine learning pipelines.",
+                "Competitors will seek non-traditional infrastructure alliances to match the scale requirements of emergent multi-agent sovereign platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TORONTO RESEARCH: AUTONOMOUS CYBER WORM",
+            "heading": "TORONTO: ADAPTIVE CYBERSECURITY WORM",
             "points": [
-                "Researchers engineer an autonomous artificial intelligence worm capable of dynamically scanning networks to exploit complex vulnerabilities.",
-                "The proof-of-concept malware adapts its payload strategies in real-time to bypass traditional static cybersecurity defenses.",
-                "Security architectures must transition immediately toward continuous agentic threat detection paradigms to mitigate adaptive automated intrusions.",
-                "CISOs will face highly sophisticated automated zero-day campaigns requiring zero-trust configurations and active defensive AI agents."
+                "University of Toronto researchers construct an autonomous AI worm designed to dynamically identify and adapt to vulnerabilities.",
+                "Enterprise security systems must evolve to counter self-updating automated threats that bypass traditional signature-based detection mechanisms.",
+                "The proof of concept demonstrates how agentic neural networks can automate complex cyberattack loops without human intervention.",
+                "Cybersecurity defenses will increasingly deploy counter-agentic models to actively hunt and neutralize adaptive autonomous exploits in real-time."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "META: ENTERPRISE CONVERSATIONAL AGENTS",
+            "heading": "ASML: MISTRAL LITHOGRAPHY OPTIMIZATION",
             "points": [
-                "Meta deploys an advanced agentic framework enabling businesses to build custom customer agents in minutes.",
-                "The initiative aims to convert billions of conversational messaging interactions into transactional, automated business operations workflows.",
-                "Messaging channels are evolving from simple communications platforms into fully programmable transactional environments for enterprise services.",
-                "Organizations must integrate legacy database backends with natural language interfaces to unlock immediate self-service customer interactions."
+                "ASML deploys Mistral AI model architectures to accelerate and optimize advanced semiconductor lithography and chip manufacturing processes.",
+                "Lithography systems achieve faster processing times for silicon wafer patterning while reducing overall mechanical calibration errors.",
+                "Integrating localized language models directly into hardware fabrication loops represents a paradigm shift for computational lithography systems.",
+                "Silicon manufacturers will increasingly embed domain-specific AI models deep inside heavy industrial machinery to maximize microchip yields."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD & JPMORGAN: QUANTUM AI PLATFORM",
+            "heading": "MICROSOFT: AI-NATIVE HORIZONDB LAUNCH",
             "points": [
-                "AMD collaborates with JPMorganChase and Oxford Quantum Circuits to research and build a hybrid Quantum-AI platform.",
-                "The strategic alliance explores accelerating complex algorithmic financial modeling and real-time transaction processing using quantum hardware.",
-                "Integrating adaptive silicon with quantum computing architectures establishes a new performance baseline for high-frequency financial calculations.",
-                "Financial institutions will leverage hybrid quantum pipelines to optimize risk portfolios and secure transactional networks against decryption."
+                "Microsoft introduces Azure HorizonDB, an ultra-low latency PostgreSQL database service with built-in artificial intelligence operational layers.",
+                "Enterprise developers can run real-time vector searches and model inferences directly inside their relational database environments.",
+                "This release simplifies cloud architecture by eliminating the need to sync separate transactional databases and vector indexing platforms.",
+                "Standard enterprise data architectures will migrate toward databases that treat AI inference capabilities as a default native subsystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
