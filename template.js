@@ -2,33 +2,33 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "DECENTRALIZED AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TORONTO: AUTONOMOUS WORM",
+            "heading": "NVIDIA: RTX SPARK DEPLOYMENT",
             "points": [
-                "Researchers engineered an autonomous AI worm capable of dynamically identifying systemic database vulnerabilities.",
-                "The recursive adaptation engine autonomously adjusts attack vectors without requiring manual human developer intervention.",
-                "Enterprise security frameworks must evolve to counter self replicating agents designed to exploit LLM integrations.",
-                "Corporate defensive posture requires real-time automated patching pipelines to mitigate autonomous cyber risks."
+                "Nvidia accelerates local deployment of consumer AI by launching RTX Spark hardware across Windows ecosystems globally.",
+                "Strategic partnerships with Krafton and NCsoft drive massive live performance verification inside Korean internet cafes.",
+                "Integrating localized tensor processing architecture mitigates traditional cloud latency for high-throughput gaming and consumer applications.",
+                "Hardware manufacturers project localized execution layers will soon decouple consumer client machines from centralized cloud systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: RAYFIN BACKEND",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Microsoft launched Rayfin on Fabric as a fully managed and agent optimized application backend.",
-                "The architecture delivers ultra low latency data operations utilizing Azure HorizonDB database engine optimizations.",
-                "Enterprise developers can seamlessly scale complex multi agent workflows across unified global hybrid cloud resources.",
-                "Decentralized systems will increasingly bypass traditional middle tier application layers to achieve extreme transaction scale."
+                "Microsoft delivers Azure HorizonDB bringing built-in artificial intelligence processing directly inside low-latency PostgreSQL relational databases.",
+                "Architectural optimization yields ultra-low read latency while scaling mission-critical enterprise applications without typical performance bottlenecks.",
+                "Enterprise data architects can now deploy localized generative models directly beside primary storage layers without egress.",
+                "This integration forces a massive architectural consolidation that eliminates separate external pipeline requirements for transactional analysis."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE: SPACEX COMPUTE",
+            "heading": "MISTRAL AI: VIBE AGENT RELEASE",
             "points": [
-                "Google secured massive compute capacity at specialized data centers via strategic long term aerospace contracts.",
-                "The commercial transaction allocates approximately nine hundred twenty million dollars monthly for high performance resources.",
-                "Enterprise cloud hyperscalers are forging direct physical infrastructure partnerships to sustain sovereign generative model training.",
-                "Hyperscale supply chains will prioritize physical energy and computing proximity over legacy distributed public networks."
+                "Mistral AI releases Vibe a persistent memory agent designed to execute complex long-horizon operational tasks autonomously.",
+                "The system automates multi-step task scheduling and legacy code translation inside specialized development and corporate environments.",
+                "Deep integration with ASML and HSBC verifies localized agent effectiveness in highly regulated technical operating environments.",
+                "Enterprise systems will increasingly shift toward autonomous orchestration layers that minimize direct developer manual pipeline management."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GOOGLE: SPACEX COMPUTE AGREEMENT",
+            "points": [
+                "Google commits to paying SpaceX nine hundred twenty million dollars monthly for compute capacity inside data centers.",
+                "The massive financial transaction secures high-density processing power specifically optimized for next-generation intelligence model training protocols.",
+                "This multi-billion dollar agreement highlights extreme global constraints on advanced microchip allocation and physical infrastructure availability.",
+                "Infrastructure engineers predict satellite-linked cloud centers will play a dominant role in scaling decentralized computation resources."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "OPENAI: CHATGPT OVERHAUL",
-            "points": [
-                "OpenAI planned a massive architectural overhaul to transition toward high margin corporate enterprise products.",
-                "The startup strategic transition aims to maximize corporate revenue generation ahead of its projected IPO.",
-                "Legacy consumer chatbot models are being refactored into persistent, transactional agent networks for global business.",
-                "Enterprise leaders will face shifting licensing models as foundational vendors prioritize business integration capabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "AMD: HALO PLATFORM",
+            "heading": "AMD: QUANTUM-AI SYSTEM COLLABORATION",
             "points": [
-                "AMD introduced the Ryzen AI Halo developer platform to accelerate local agentic computing processing tasks.",
-                "The processor architecture optimizes co-allocation of computing tasks for high intensity edge model execution.",
-                "Hardware manufacturers are shifting focus toward local execution environments to reduce public cloud infrastructure dependency.",
-                "Next generation developers will deploy autonomous personal agents that operate entirely offline with sovereign hardware."
+                "AMD partners with JPMorgan Chase and OQC to build a hybrid quantum-artificial intelligence processing platform.",
+                "The physical deployment leverages adaptive processors to accelerate advanced algorithmic calculations for international financial system architectures.",
+                "This system integrates secure cryptographic standards alongside accelerated deep learning models to process global transactional datasets.",
+                "Corporate researchers anticipate hybrid quantum architectures will redefine high-frequency security algorithms within global banking networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "GITHUB: USAGE BILLING",
+            "heading": "MICROSOFT: FABRIC RAYFIN INTEGRATION",
             "points": [
-                "GitHub deployed usage-based billing mechanisms alongside advanced Copilot features to optimize development environments.",
-                "The transition changes developer pricing models from flat-rate subscriptions to variable, execution-focused consumption metrics.",
-                "Organizations must actively monitor programmatic code generation cycles to avoid runaway compute and engineering costs.",
-                "Automated code generation will undergo strict enterprise orchestration audits to ensure cost-to-performance efficiency gains."
+                "Microsoft launches Rayfin a fully managed agent-optimized backend service natively integrated within the Fabric data ecosystem.",
+                "The software-as-a-service framework provides developers with unified software development kits to orchestrate complex background agent workflows.",
+                "Establishing this natively managed layer reduces security risks associated with third-party agent connections across cloud environments.",
+                "Database administrators will transition toward unified data fabrics that natively run persistent autonomous agent tasks seamlessly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: NEMOCLAW AGENTS",
+            "heading": "AMAZON: EUROPEAN ROBOTICS EXPANSION",
             "points": [
-                "Industrial software developers leveraged NemoClaw to build secure, autonomous AI engineers for physical tasks.",
-                "The micro-agent deployment optimizes industrial workflows by implementing real-time reasoning and safe execution policies.",
-                "Integrating physical AI agents directly into factory blueprints bridges legacy machinery with advanced cognitive networks.",
-                "Heavy manufacturing sectors will rapidly achieve autonomous operational safety through real-time localized vision intelligence."
+                "Amazon deploys next-generation autonomous robotics systems backed by a massive eleven billion dollar European infrastructure investment.",
+                "The deployment leverages localized physical intelligence models to manage highly complex logistics operations inside industrial warehouses.",
+                "Integrating advanced computer vision models scales sorting throughput while mitigating severe structural labor shortages across Europe.",
+                "Industrial operators forecast fully autonomous physical agents will entirely dominate global distribution network management by decade end."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
