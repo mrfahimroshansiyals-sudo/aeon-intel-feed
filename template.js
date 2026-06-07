@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC EDGE ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "ENTERPRISE COGNITIVE",
+        "titleBlue": "SYSTEMS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: IPO FILING",
+            "heading": "DEEPMIND: AGENTIC OMNI ENGINE",
             "points": [
-                "Anthropic files for a public listing as resource demands eclipse model breakthroughs in global AI development.",
-                "Financial commitments to sustain model architectures are driving major firms toward aggressive capital market strategies immediately.",
-                "Enterprises must prepare for shifting vendor economics as software providers restructure their long-term licensing pricing models.",
-                "Industry analysts predict a consolidation phase where capital access overrides raw algorithmic differentiation among top players."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GOOGLE: EDGE DEPLOYMENT",
-            "points": [
-                "Google releases the Gemma 4 12B model designed to optimize raw parameters directly for decentralized architectures.",
-                "Edge devices gain substantial localized reasoning capabilities, minimizing reliance on continuous high-bandwidth cloud infrastructure connection.",
-                "Developers can deploy powerful open-source models onto consumer-grade computing hardware for real-time offline agent execution.",
-                "This shift accelerates the distribution of intelligence from centralized data farms directly onto consumer-focused mobile endpoints."
+                "Google DeepMind releases Gemini Omni and Gemini 3.5 to process multi-input video feeds for agentic workflows.",
+                "The architecture optimizes context windows and reduces response latency across multi-modal enterprise operations by forty percent.",
+                "Multiagent systems decouple core decision logic from centralized cloud structures to enable fast and localized processing.",
+                "Global developers will transition from static chatbots to autonomous workflows capable of managing complex real world tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +22,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "NVIDIA: PHYSICAL AGENTS",
+            "id": 2,
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL SCALE",
             "points": [
-                "Nvidia launches advanced agent skills designed for autonomous vehicles, industrial robotics, and multi-modal computer vision applications.",
-                "The physical AI framework enables autonomous machines to interact dynamically within complex and unmapped physical environments.",
-                "Developers leverage these pre-trained behaviors to compress deployment cycles of intelligent physical robots in industrial sectors.",
-                "Scaled simulation environments allow agent training algorithms to run concurrently across thousands of virtual physical testbeds."
+                "Microsoft launches HorizonDB to deliver low latency reads and integrated artificial intelligence models for PostgreSQL databases.",
+                "The integrated system lowers operational overhead while scaling analytical queries across federated hybrid cloud datasets significantly.",
+                "Combining Foundry IQ with relational databases establishes a unified secure knowledge layer for real time agentic context.",
+                "Database administrators can leverage automated memory systems to maintain low latency scaling during heavy analytical workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: NEMOCLAW AGENT WORKFLOWS",
+            "points": [
+                "NVIDIA launches NemoClaw software to enable industrial enterprises to build and deploy secure autonomous artificial intelligence engineers.",
+                "The platform scales agent training throughput by ten times utilizing unified workstation to cloud hardware execution pipelines.",
+                "Deploying physical AI agents accelerates simulation environments for robotics autonomous driving and advanced scientific research workloads.",
+                "System architects will deploy specialized local agent fleets capable of executing complex physical actions without latency."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,44 +55,44 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMAZON: ROBOTICS EXPANSION",
+            "heading": "ANTHROPIC: OPUS AGENTIC CORE",
             "points": [
-                "Amazon deploys next-generation automated robots across European fulfillment facilities as part of a massive capital investment.",
-                "The multibillion-dollar automation initiative optimizes supply chain operations and dramatically reduces product processing times in warehouses.",
-                "Integrating physical automation and agentic coordination represents a significant transformation of standard global distribution logistics.",
-                "Logistics operators must adapt workflows to maximize human-machine collaboration while managing highly complex automated machinery networks."
+                "Anthropic upgrades Claude Opus four point eight to enhance capabilities across coding complex agentic tasks and workflows.",
+                "The model delivers improved consistency and error reduction for enterprise developers running continuous long term code operations.",
+                "High operational costs of frontier models shift corporate strategic focus from raw parameters toward localized efficiency gains.",
+                "Chief technology officers must reallocate budgets to support advanced agent reasoning systems over basic retrieval architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "heading": "AMD: VENICE SEMICONDUCTOR RAMP",
             "points": [
-                "Microsoft launches Azure HorizonDB to deliver ultra-low latency and scalable reads for mission-critical PostgreSQL databases.",
-                "Built-in artificial intelligence capabilities enable real-time query optimization without compromising application performance during peak scaling periods.",
-                "Cloud database architectures are morphing to support integrated vector pipelines and continuous transactional workloads directly on-prem.",
-                "Systems engineers can build responsive applications that execute complex analytical tasks over massive transactional datasets dynamically."
+                "AMD accelerates production of its next generation Venice EPYC processor utilizing TSMC advanced two nanometer process technology.",
+                "The architectural transition delivers twenty percent higher power efficiency and increased density for large scale data center deployments.",
+                "Local development platforms like Ryzen AI Halo shift high performance agentic processing workloads directly to the client edge.",
+                "Hardware infrastructure engineers can lower total cost of ownership by deploying specialized silicon optimized for local execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: VIBE RELEASE",
+            "heading": "MISTRAL AI: VIBE LONG-HORIZON AGENTS",
             "points": [
-                "Mistral AI introduces the Vibe autonomous agent framework specialized for executing complex, long-horizon developer workflows.",
-                "The software orchestrates multi-step processes, persistent memory, and tool integration directly across modern cloud terminal interfaces.",
-                "Engineering teams can delegate repetitive code migration, continuous integration tasks, and unit test generation to background agents.",
-                "This paradigm redefines software production by introducing autonomous loops capable of operating without immediate human intervention."
+                "Mistral AI introduces Vibe to execute long horizon enterprise tasks with integrated tools and persistent system memory structures.",
+                "Autonomous coding capabilities streamline legacy code translation and automate continuous integration testing by fifty percent.",
+                "Portable agent orchestration engines allow organizations to deploy advanced model intelligence across any cloud or edge environment.",
+                "Enterprise software engineers can delegate routine software maintenance to background agents operating autonomously within local terminals."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "AMD: HALO PLATFORM",
+            "heading": "EUROPEAN UNION: GPAI ACT COMPLIANCE",
             "points": [
-                "AMD announces the Ryzen AI Halo developer platform to power local execution of advanced next-generation agent computers.",
-                "The dedicated silicon platform optimizes memory bandwidth and processing throughput for high-performance localized neural network operations.",
-                "Chip designers are prioritising heterogeneous compute systems that balance central processing units with dedicated neural acceleration hardware.",
-                "Local hardware empowerment minimizes security concerns and latency bottlenecks associated with third-party cloud-based model inference endpoints."
+                "The European Union finalized draft guidelines clarifying strict compliance obligations for general purpose artificial intelligence model providers.",
+                "Failure to establish rigorous risk management and transparency protocols could result in substantial fines for global tech firms.",
+                "Imposing clear regulatory boundaries forces enterprise developers to integrate auditable tracing and data quality controls into pipelines.",
+                "Legal compliance officers must proactively transition existing deployments into high risk safety frameworks before the strict August deadlines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
