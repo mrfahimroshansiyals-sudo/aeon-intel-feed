@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AGENTIC DEPLOYMENT",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL: AUTONOMOUS VIBE LAUNCH",
+            "heading": "AMD: VENICE 2NM PRODUCTION",
             "points": [
-                "Mistral released Vibe AI, an autonomous agent for long-horizon enterprise tasks and persistent memory management.",
-                "The platform supports multi-step task scheduling, structured data analysis, and autonomous document synthesis across workflows.",
-                "Integration of Vibe for Code enables asynchronous code generation and architecture-aware reasoning within developer environments.",
-                "Enterprises now utilize this framework to decouple complex logic from legacy stacks via automated migration."
+                "AMD initiates production ramp of Venice EPYC processors using TSMC advanced two-nanometer nanosheet technology.",
+                "The transition unlocks unprecedented performance gains while securing over ten billion dollars in Taiwanese ecosystem investments.",
+                "This deployment integrates next-generation silicon architectures to optimize heavily disaggregated data center operations at scale.",
+                "Stakeholders expect these chips to redefine computing efficiency and establish sovereign hardware footprints by late autumn."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMMA 4 EDGE EXPANSION",
+            "heading": "NVIDIA: NEMOCLAW AGENT STACK",
             "points": [
-                "Google deployed Gemma 4 12B to enable high-intelligence model execution directly on localized edge devices.",
-                "This architecture maximizes intelligence-per-parameter, reducing latency for real-time application processing in resource-constrained environments.",
-                "Engineers are utilizing these portable models for secure, offline-capable inference without sacrificing core frontier performance.",
-                "Strategic shift towards edge-native AI allows enterprises to maintain data residency while leveraging global intelligence."
+                "NVIDIA launches NemoClaw and collaborates with Microsoft to engineer a unified, multi-platform agentic deployment architecture.",
+                "This framework accelerates local inference capabilities while streamlining cognitive workload distribution across edge and cloud infrastructure.",
+                "The system integrates physical AI pipelines directly with secure corporate directories and real-time execution environments.",
+                "Enterprise developers will rapidly deploy autonomous engineering entities with minimal code modification starting next quarter."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: PHYSICAL AI BREAKTHROUGHS",
+            "heading": "MICROSOFT: HORIZONDB LAUNCH",
             "points": [
-                "NVIDIA unveiled advanced research for physical AI enabling smarter autonomous driving and scalable agent training.",
-                "New agent skills for robotics and vision AI are accelerating the deployment of smart autonomous systems.",
-                "Integration with Microsoft unified stack supports agentic AI deployment from local devices to the cloud.",
-                "This expansion facilitates high-fidelity simulation and real-world implementation of complex robotic navigation and control."
+                "Microsoft releases Azure HorizonDB bringing built-in artificial intelligence features and ultra-low latency directly to PostgreSQL.",
+                "The service optimizes database transactions by integrating Rayfin agent-optimized backend capabilities into the Fabric ecosystem.",
+                "Combining low-latency execution with automated memory caching allows developers to build highly scalable real-time applications.",
+                "System administrators will bypass traditional ETL pipelines, enabling instant telemetry analysis for critical agent workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: QUANTUM-AI RESEARCH PIVOT",
+            "heading": "GOOGLE: GEMMA EDGE DEPLOYMENT",
             "points": [
-                "AMD announced a strategic research collaboration with OQC and JPMorganChase to develop a Quantum-AI platform.",
-                "The initiative focuses on hybrid infrastructure integration to explore future computational leaps beyond classical binary architectures.",
-                "Investments across the Taiwan ecosystem exceed $10 billion to secure high-performance computing supply chain resilience.",
-                "This effort provides enterprise foundations for post-quantum cryptographic security and next-generation high-speed data analytics."
+                "Google introduces Gemma Four twelve-billion parameter open models to maximize compute intelligence at the edge.",
+                "The architecture reduces parameters while drastically improving processing speeds across consumer devices without cloud dependency.",
+                "Deploying lighter, hyper-optimized models directly on hardware mitigates latency issues and strengthens localized data privacy.",
+                "Mobile application developers will build independent agentic environments that operate entirely without network connectivity limitations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: FOUNDRY IQ ARCHITECTURE",
+            "heading": "OPENAI: CHATGPT OVERHAUL",
             "points": [
-                "Microsoft Azure introduced Foundry IQ to provide ubiquitous knowledge across organizational data for enterprise AI agents.",
-                "The framework grounds agents in verified internal context to improve trust and decision accuracy at scale.",
-                "New backend-as-a-service features on Microsoft Fabric optimize agent performance and developer observability for deployment.",
-                "Integration of guardrails and policy controls ensures enterprise-grade compliance for large-scale multi-agent orchestrations."
+                "OpenAI initiates a comprehensive architectural overhaul of ChatGPT to pivot the service toward highly lucrative enterprise agents.",
+                "The strategic platform redesign optimizes transaction margins ahead of an anticipated initial public offering in late autumn.",
+                "Recasting the interface as a coordinated routing engine enables deep integration with complex corporate transactional databases.",
+                "Executive planners expect the transition to lock in sustainable subscription revenues and dominate institutional software budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: PROJECT GLASSWING SECURE",
+            "heading": "META: ENTERPRISE AGENT ROLLOUT",
             "points": [
-                "Anthropic launched Project Glasswing, an initiative focused on securing critical software infrastructure in the AI era.",
-                "Research efforts prioritize mitigating systemic risks while maintaining high-performance coding and agentic task execution capacity.",
-                "New model updates enhance consistency for long-running professional work, reducing errors in complex logic workflows.",
-                "Enterprises are adopting these safety-focused paradigms to harden codebases against emerging AI-driven vulnerability exploitation."
+                "Meta launches autonomous AI conversational agents globally to automate business interactions across high-volume chat channels.",
+                "Businesses can deploy optimized communicative models in minutes, immediately scaling customer service throughput without manual oversight.",
+                "The infrastructure decouples legacy databases by utilizing lightweight context-retrieval mechanisms designed for immediate real-time response.",
+                "IT leaders will migrate traditional client service workflows directly onto social network communication vectors immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARKET: IRELAND DATA CENTER SHIFT",
+            "heading": "TORONTO: ADAPTIVE CYBER WORM",
             "points": [
-                "Ireland has mandated that tech titans bring their own power capacity when developing new data centers.",
-                "This policy response addresses the grid load crisis caused by accelerating hyperscale AI compute infrastructure demands.",
-                "Global firms must now integrate sustainable energy generation or battery storage directly into facility design blueprints.",
-                "Industrial shifts toward autonomous power management are becoming a primary constraint for European expansion strategies."
+                "University of Toronto researchers engineer a proof-of-concept autonomous worm capable of dynamically executing exploits.",
+                "The self-replicating system leverages reasoning models to actively probe network defenses and alter attack methodologies automatically.",
+                "This discovery exposes severe systemic vulnerabilities in agentic systems that rely on unmonitored tools and APIs.",
+                "Security operations centers must urgently re-evaluate threat protection metrics to block self-mutating AI-driven attack vectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
