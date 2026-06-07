@@ -1,66 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS SYSTEM",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "DEEP TRANSACTIONAL",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: RTX SPARK",
+            "heading": "GOOGLE: DATA CENTER EXPANSION",
             "points": [
-                "Nvidia launched RTX Spark integration to accelerate hardware-level execution of deep localized generative models inside consumer systems.",
-                "Local gaming rigs leverage specialized Tensor cores to scale agentic physical modeling and real-time environment simulation workflows.",
-                "Disaggregated inference architectures shift complex mathematical calculations from remote cloud servers down to local client silicon.",
-                "Enterprise systems deploy secure on-premises capabilities without incurring latency penalties or relying on external cloud network infrastructure."
+                "Google implements modular energy procurement strategies to accelerate critical hyperscale data center infrastructure delivery globally.",
+                "The proprietary framework bypasses grid capacity limitations, optimizing power utilization efficiency across newly constructed physical sites.",
+                "Architectural decoupling of energy ingestion systems secures stable workloads during severe regional power grid instabilities.",
+                "Infrastructure engineers predict these developments will establish a new paradigm for rapid, self-sustained cloud hardware deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB ENGINE",
+            "heading": "OPENAI: CHATGPT OVERHAUL STRATEGY",
             "points": [
-                "Microsoft released Azure HorizonDB to bring ultra-low latency and automated AI capabilities directly to PostgreSQL databases.",
-                "The relational engine scales operations seamlessly to prevent performance degradation during intensive real-time transactional data queries.",
-                "Integrating deep learning capabilities directly into database storage layers eliminates the need for external vector search utilities.",
-                "Systems architects can deploy mission-critical analytical applications with unified governance across highly distributed enterprise data fleets."
+                "OpenAI executes a massive architectural redesign of ChatGPT to prioritize high-margin enterprise software products.",
+                "This structural change pivots focus from raw model scaling to robust, workflow-integrated agentic service deployment.",
+                "Legacy consumer interfaces are systematically decoupled to secure sovereign, enterprise-grade transactional pathways for corporate subscribers.",
+                "Financial analysts anticipate this infrastructure realignment will significantly optimize profitability margins ahead of a planned IPO."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EU AI ACT: TRANSPARENCY RULES",
+            "heading": "AMD: QUANTUM-AI PLATFORM INVERSION",
             "points": [
-                "Regulatory bodies finalized Article 50 guidelines enforcing strict transparency requirements for general purpose artificial intelligence models.",
-                "AI providers must establish robust documentation frameworks to trace synthetic training data inputs before the August deadline.",
-                "Deployers face severe compliance audits if system interfaces fail to clearly disclose active automated user interactions.",
-                "Global technology organizations must restructure deployment pipelines to guarantee complete alignment with European digital safety legislation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: RYZEN HALO",
-            "points": [
-                "AMD debuted its Ryzen AI Halo platform designed specifically to power next-generation local agentic computer architectures.",
-                "Advanced processors merge high-performance CPU cores with adaptive compute engines to maximize localized inference execution speeds.",
-                "Local silicon devices run complex autonomous agents continuously without relying on external cloud API orchestration resources.",
-                "Enterprise developers gain unprecedented physical control over proprietary datasets by executing advanced pipelines entirely on local endpoints."
+                "AMD partners with JPMorgan Chase and OQC to engineer an advanced hybrid Quantum-AI computing platform.",
+                "The integration utilizes superconducting quantum hardware coupled with AMD adaptive accelerators to execute complex financial models.",
+                "Developing unified algorithmic pipelines allows real-time quantum acceleration of classical machine learning models within enterprise environments.",
+                "Systems architects forecast this paradigm will dramatically reduce processing latency for high-frequency transactional data analysis."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE: GEMMA EDGE",
+            "id": 4,
+            "heading": "MICROSOFT: AGENTIC EXPLOIT VULNERABILITIES",
             "points": [
-                "Google launched the Gemma 4 twelve-billion parameter model optimized specifically for high-performance edge device deployments.",
-                "The open weights model maximizes intelligence density per parameter to enable complex reasoning on restricted consumer hardware.",
-                "Edge deployments reduce deep learning operational costs by shifting processing burdens away from expensive centralized cloud datacenters.",
-                "Hardware engineers can easily deploy scalable autonomous agents directly into compact robotics and mobile device environments globally."
+                "Microsoft security researchers identify seven critical attack vectors compromising autonomous agentic AI software execution pipelines.",
+                "Vulnerabilities target multi-layered delegation frameworks, allowing malicious actors to hijack cascading automated decision-making processes.",
+                "The findings highlight severe systemic risks within current enterprise integrations of unsupervised, tool-using software agents.",
+                "Security teams must enforce strict runtime verification layers to prevent unauthorized execution of nested command payloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TORONTO: AUTONOMOUS AI WORM",
+            "points": [
+                "University of Toronto researchers engineer an autonomous AI worm capable of dynamic, real-time vulnerability discovery.",
+                "The proof-of-concept payload utilizes localized reasoning models to adapt attack strategies against target enterprise software.",
+                "Traditional signature-based security systems fail to detect the morphing behavioral footprints of this self-replicating threat.",
+                "Enterprise defenders must transition toward zero-trust microsegmentation models to successfully isolate adaptive network intrusions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE OPUS",
+            "heading": "GOOGLE: SPACEX COMPUTE LEASE",
             "points": [
-                "Anthropic launched Claude Opus 4.8 delivering massive performance improvements across complex software development and agentic workflows.",
-                "The upgraded model features robust multi-step reasoning capabilities designed to safely manage long-running enterprise execution tasks.",
-                "Developer teams leverage the system to automate background maintenance and translation of monolithic legacy software codebases.",
-                "Enterprise software architects can build highly reliable autonomous tools that minimize hallucination rates during complex operations."
+                "Google enters a massive multi-million dollar agreement with SpaceX to supply critical power for xAI data centers.",
+                "The transaction transfers nine hundred twenty million dollars monthly, securing high-performance compute capacity for next-generation training.",
+                "Integrating direct satellite connectivity frameworks with ground-level cluster sites minimizes latency for massive distributed database workloads.",
+                "Strategic planners project this agreement will secure unprecedented computing sovereignty amid intensifying global hardware supply constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TORONTO: AUTONOMOUS WORM",
+            "heading": "METRICS: TOKEN USE INCENTIVES",
             "points": [
-                "Academic researchers engineered a proof-of-concept autonomous worm capable of dynamically scanning and exploiting enterprise system vulnerabilities.",
-                "The adaptive script leverages local language models to automatically rewrite exploit payloads when encountering active network defenses.",
-                "Security teams must pivot from static signature detection models toward real-time behavioral analysis to counter adaptive threats.",
-                "This technical breakthrough highlights critical risks inherent in deploying unregulated agentic software agents inside enterprise networks."
+                "Enterprise organizations implementing simple token consumption metrics suffer from severely distorted workforce behavioral patterns.",
+                "Relying strictly on volume-based leaderboards drives workers to artificially inflate API queries without improving output quality.",
+                "This tracking misalignment triggers exponential increases in enterprise computing expenses while masking true software operational efficiency.",
+                "Chief technology officers recommend replacing simple quantitative tracking with outcome-driven qualitative success parameters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
