@@ -1,50 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: $30B SPACEX COMPUTE",
+            "heading": "SEMICONDUCTOR: GLOBAL MEMORY PARTNERSHIP",
             "points": [
-                "Google agreed to secure a landmark thirty billion dollar AI computing partnership with aerospace leader SpaceX.",
-                "This monumental infrastructure deal addresses the skyrocketing hardware demands required to train next-generation enterprise models.",
-                "The strategic framework utilizes orbital satellite networks and high-performance clusters to optimize distributed machine learning workloads.",
-                "Analysts predict this collaboration will redefine global cloud competitiveness and diversify hyperscaler computing reliance patterns."
+                "NVIDIA and SK hynix finalized a multiyear technology agreement to advance high-bandwidth memory for global AI factories.",
+                "The partnership focuses on accelerating infrastructure deployment to meet the surging demand for sovereign AI compute environments.",
+                "This initiative is critical for sustaining the gigawatt-scale AI factory buildout required for next-generation model training.",
+                "Strategic alignment between chip designers and memory manufacturers secures the supply chain against ongoing compute bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INTEL: GOOGLE FOUNDRY ACQUISITION",
+            "heading": "CLOUD: SOVEREIGN AI FACTORY EXPANSION",
             "points": [
-                "Intel secured Google as a high-profile customer for its cutting-edge semiconductor contract manufacturing foundry services.",
-                "The massive custom silicon partnership immediately catalyzed a significant surge in Intel's public stock market valuation.",
-                "This validation positions Intel as a viable Western alternative to traditional East Asian chip manufacturing hubs.",
-                "Industry stakeholders anticipate this client acquisition will accelerate domestic production of advanced artificial intelligence hardware."
+                "NAVER is collaborating with NVIDIA to scale sovereign AI infrastructure starting at 55 megawatts toward gigawatt levels.",
+                "These regional investments are designed to decouple national digital assets from centralized dependency on hyperscaler data centers.",
+                "The deployment integrates high-performance networking and GPU clusters specifically for local language model training requirements.",
+                "The shift underscores a global trend toward building indigenous compute clusters to ensure domestic data sovereignty."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "STANFORD HAI: PSYCHADAPTER TOOL",
+            "heading": "POLICY: AI GOVERNANCE AND SECURITY",
             "points": [
-                "Stanford researchers developed PsychAdapter to customize personality traits, age, and mental health characteristics in LLMs.",
-                "The adaptive layer fine-tunes linguistic outputs to simulate realistic human behaviors during complex interactive scenarios.",
-                "This breakthrough addresses the persistent challenge of sterile, robotic agent interactions within customer service ecosystems.",
-                "Future integrations will likely enhance immersive training environments and highly personalized digital companion applications worldwide."
+                "New EU AI Act guidelines refine the classification of General Purpose AI models and enforcement of transparency protocols.",
+                "The regulation mandates strict documentation and compliance layers for developers of frontier-grade, high-risk AI applications.",
+                "Enterprise firms must adapt their operating models to meet stringent transparency rules taking full effect by August.",
+                "The framework provides a blueprint for global regulators regarding AI oversight, safety metrics, and ethical deployment standards."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "RESEARCH: AGENTIC SYSTEM LIMITATIONS",
+            "points": [
+                "Stanford HAI research reveals critical failures in multi-agent collaborative coding teams regarding complex task scheduling and communication.",
+                "The study highlights that current agentic frameworks lack the behavioral consistency necessary for reliable, non-supervised software engineering.",
+                "Enterprises are cautioned against over-reliance on agentic workflows without rigorous, human-in-the-loop validation and robust error handling.",
+                "Future developments must focus on improving the foundational reasoning and team-coordination capabilities of these autonomous software agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +70,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "PEGASYSTEMS: SECURE BLUEPRINT AGENT",
+            "id": 5,
+            "heading": "HARDWARE: ADAPTIVE AI INFRASTRUCTURE",
             "points": [
-                "Pegasystems updated its Blueprint tool to simplify the deployment of autonomous agents within highly regulated enterprises.",
-                "The upgrade mitigates operational risks and compliance violations by enforcing strict architectural boundaries during execution.",
-                "Organizations can now design complex transactional workflows that maintain compliance without sacrificing developmental automation speed.",
-                "This deployment model represents a critical shift toward safer, auditable AI integrations across international banking systems."
+                "TSMC showcases advanced A16 nanosheet technology with backside power delivery specifically optimized for high-performance AI workloads.",
+                "The architecture significantly enhances energy efficiency, addressing the power constraints of scaling large-scale compute data centers.",
+                "Integration of NanoFlex and super power rails supports the density required for next-generation logic processors.",
+                "This hardware advancement is essential for maintaining the performance scaling trajectory required for future frontier-model development."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SECURITY: AUTONOMOUS THREAT VECTORS",
+            "points": [
+                "University of Toronto researchers demonstrated a functional autonomous AI worm capable of dynamic vulnerability identification and adaptation.",
+                "The proof-of-concept highlights the emerging threat of self-spreading, intelligent malware within hardened enterprise cloud environments.",
+                "Security teams must prioritize the development of AI-driven defensive measures that can outpace automated adversarial exploitation cycles.",
+                "The discovery mandates a fundamental reevaluation of current automated incident response strategies and perimeter security postures."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INFOWORLD: MODEL CONTEXT PROTOCOL",
-            "points": [
-                "Developers introduced ten new Model Context Protocol servers to bridge large language models and databases.",
-                "These specialized connectors allow autonomous agents to interact with leading enterprise database platforms via natural language.",
-                "By standardizing data access protocols, the framework eliminates custom middleware requirements for complex analytical pipelines.",
-                "Software architects expect this protocol-driven approach to rapidly accelerate the utility of agentic database queries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INFOWORLD: PROTOCOL BUFFER EXPLOIT",
-            "points": [
-                "Cybersecurity researchers identified severe vulnerabilities in Protocol Buffers schemas that expose systems to remote code execution.",
-                "These critical security gaps allow malicious actors to exploit serialization mechanisms within distributed microservices architectures.",
-                "Securing these widespread serialization pipelines requires immediate patching and rigorous validation of inbound network payloads.",
-                "Security teams must re-evaluate legacy API integrations to prevent catastrophic exploits targeting mission-critical enterprise systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "LINUX FOUNDATION: AI TOKENOMICS",
+            "heading": "MARKET: STRATEGIC COMPUTE INVESTMENTS",
             "points": [
-                "The Linux Foundation launched the Tokenomics Foundation to standardize AI cost-management across multi-cloud production environments.",
-                "This initiative provides a common framework to measure, benchmark, and optimize token usage billing metrics.",
-                "Chief Information Officers can now curb unpredictable expenses stemming from highly complex multi-agentic system behaviors.",
-                "Standardizing token metrics will foster transparent market pricing and accelerate the corporate deployment of agentic technologies."
+                "AMD commits over $10 billion in investments across the Taiwan ecosystem to accelerate regional AI infrastructure development.",
+                "The strategic capital infusion focuses on broadening the footprint of GPU and CPU availability for AI developers.",
+                "Collaboration with local academic and tech partners aims to foster sovereign AI research and development capabilities.",
+                "The investment marks a significant pivot toward decentralized, high-capacity compute clusters tailored for global enterprise scaling needs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
