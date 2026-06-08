@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "GLOBAL INFRASTRUCTURE",
+        "titleBlue": "CONSOLIDATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SEMICONDUCTOR: GLOBAL MEMORY PARTNERSHIP",
+            "heading": "OPENAI: CONFIDENTIAL S-1 IPO FILING",
             "points": [
-                "NVIDIA and SK hynix finalized a multiyear technology agreement to advance high-bandwidth memory for global AI factories.",
-                "The partnership focuses on accelerating infrastructure deployment to meet the surging demand for sovereign AI compute environments.",
-                "This initiative is critical for sustaining the gigawatt-scale AI factory buildout required for next-generation model training.",
-                "Strategic alignment between chip designers and memory manufacturers secures the supply chain against ongoing compute bottlenecks."
+                "OpenAI has privately submitted a draft S-1 prospectus to the SEC for a historic public listing.",
+                "The highly anticipated IPO is projected to value the ChatGPT creator at more than one trillion dollars.",
+                "This transition to public markets represents a critical structural shift for frontier artificial intelligence funding mechanisms.",
+                "Global institutional investors must prepare to evaluate complex structural governance alongside unprecedented cash-intensive scaling requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CLOUD: SOVEREIGN AI FACTORY EXPANSION",
+            "heading": "GOOGLE: SPACEX COMPUTE PACT",
             "points": [
-                "NAVER is collaborating with NVIDIA to scale sovereign AI infrastructure starting at 55 megawatts toward gigawatt levels.",
-                "These regional investments are designed to decouple national digital assets from centralized dependency on hyperscaler data centers.",
-                "The deployment integrates high-performance networking and GPU clusters specifically for local language model training requirements.",
-                "The shift underscores a global trend toward building indigenous compute clusters to ensure domestic data sovereignty."
+                "Google has secured a massive thirty-billion-dollar deal with SpaceX to accelerate frontier artificial intelligence compute capabilities.",
+                "The colossal infrastructure agreement utilizes SpaceX satellite networks to deliver low-latency cloud processing for global enterprises.",
+                "Integrating satellite-based hardware addresses deep communication bottlenecks across decentralized high-performance computing and edge deployments.",
+                "Hyperscalers are increasingly forced to leverage non-traditional infrastructure to sustain extreme computational training and ingestion speeds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "POLICY: AI GOVERNANCE AND SECURITY",
+            "heading": "APPLE: TRIPLE ALLIANCE INTEGRATION",
             "points": [
-                "New EU AI Act guidelines refine the classification of General Purpose AI models and enforcement of transparency protocols.",
-                "The regulation mandates strict documentation and compliance layers for developers of frontier-grade, high-risk AI applications.",
-                "Enterprise firms must adapt their operating models to meet stringent transparency rules taking full effect by August.",
-                "The framework provides a blueprint for global regulators regarding AI oversight, safety metrics, and ethical deployment standards."
+                "Apple is partnering with Google and Nvidia to build and execute its most advanced AI model ecosystem.",
+                "This alliance integrates Nvidia graphics hardware and Google cloud architecture to upgrade standard Siri conversational intelligence.",
+                "Combining consumer device dominance with leading cloud infrastructure signals a massive consolidation of frontier machine learning deployments.",
+                "Mobile operating systems are pivoting rapidly toward hybrid edge-to-cloud workflows to protect user privacy and lower latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RESEARCH: AGENTIC SYSTEM LIMITATIONS",
+            "heading": "UBER: LONDON ROBOTAXI LAUNCH",
             "points": [
-                "Stanford HAI research reveals critical failures in multi-agent collaborative coding teams regarding complex task scheduling and communication.",
-                "The study highlights that current agentic frameworks lack the behavioral consistency necessary for reliable, non-supervised software engineering.",
-                "Enterprises are cautioned against over-reliance on agentic workflows without rigorous, human-in-the-loop validation and robust error handling.",
-                "Future developments must focus on improving the foundational reasoning and team-coordination capabilities of these autonomous software agents."
+                "Uber and autonomous driving developer Wayve have partnered to launch London's very first artificial intelligence robotaxis.",
+                "The localized deployment aims to transition fleet navigation from traditional heuristic models to end-to-end neural networks.",
+                "This commercial framework provides critical urban telemetry data to refine deep reinforcement learning safety and spatial planning.",
+                "Transportation networks are accelerating the integration of localized machine vision systems to achieve scale in complex environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "HARDWARE: ADAPTIVE AI INFRASTRUCTURE",
+            "heading": "CORNING: AMAZON GLASS PACT",
             "points": [
-                "TSMC showcases advanced A16 nanosheet technology with backside power delivery specifically optimized for high-performance AI workloads.",
-                "The architecture significantly enhances energy efficiency, addressing the power constraints of scaling large-scale compute data centers.",
-                "Integration of NanoFlex and super power rails supports the density required for next-generation logic processors.",
-                "This hardware advancement is essential for maintaining the performance scaling trajectory required for future frontier-model development."
+                "Corning has finalized a major supply-chain agreement with Amazon to support accelerated artificial intelligence infrastructure deployments.",
+                "The partnership secures specialized optical components necessary to scale high-bandwidth connections inside next-generation hyperscale data centers.",
+                "Physical materials constraints are increasingly dictating the maximum speed of enterprise model training and distributed cluster interconnects.",
+                "Cloud operators must secure upstream physical hardware manufacturing channels to prevent severe network bandwidth bottlenecks at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: AUTONOMOUS THREAT VECTORS",
+            "heading": "LINUX FOUNDATION: TOKENOMICS INITIATIVE",
             "points": [
-                "University of Toronto researchers demonstrated a functional autonomous AI worm capable of dynamic vulnerability identification and adaptation.",
-                "The proof-of-concept highlights the emerging threat of self-spreading, intelligent malware within hardened enterprise cloud environments.",
-                "Security teams must prioritize the development of AI-driven defensive measures that can outpace automated adversarial exploitation cycles.",
-                "The discovery mandates a fundamental reevaluation of current automated incident response strategies and perimeter security postures."
+                "The Linux Foundation has launched the Tokenomics Foundation to systematically manage rising enterprise artificial intelligence compute expenditures.",
+                "The initiative introduces standard open-source frameworks to optimize multi-agentic system spending across diverse models and clouds.",
+                "Establishing unified benchmarking metrics allows enterprise technology leaders to balance model accuracy against token-based runtime costs.",
+                "Standardized cost optimization frameworks will accelerate the deployment of autonomous enterprise workflows within highly volatile compute markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARKET: STRATEGIC COMPUTE INVESTMENTS",
+            "heading": "IBM: SHADOW AI GOVERNANCE",
             "points": [
-                "AMD commits over $10 billion in investments across the Taiwan ecosystem to accelerate regional AI infrastructure development.",
-                "The strategic capital infusion focuses on broadening the footprint of GPU and CPU availability for AI developers.",
-                "Collaboration with local academic and tech partners aims to foster sovereign AI research and development capabilities.",
-                "The investment marks a significant pivot toward decentralized, high-capacity compute clusters tailored for global enterprise scaling needs."
+                "A new IBM study reveals that enterprise technology leaders are being held accountable for unmanaged shadow AI deployments.",
+                "Over forty percent of global organizations now deploy machine learning systems operating completely outside of direct IT oversight.",
+                "The decentralization of model access creates critical vulnerabilities in corporate data governance, regulatory compliance, and security policies.",
+                "Chief Information Officers must implement real-time observability pipelines to detect, monitor, and regulate rogue endpoint model interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
