@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE COGNITIVE",
-        "titleBlue": "SYSTEMS"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DEEPMIND: AGENTIC OMNI ENGINE",
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI LAUNCH",
             "points": [
-                "Google DeepMind releases Gemini Omni and Gemini 3.5 to process multi-input video feeds for agentic workflows.",
-                "The architecture optimizes context windows and reduces response latency across multi-modal enterprise operations by forty percent.",
-                "Multiagent systems decouple core decision logic from centralized cloud structures to enable fast and localized processing.",
-                "Global developers will transition from static chatbots to autonomous workflows capable of managing complex real world tasks."
+                "Google DeepMind has officially unveiled Gemini Omni as its newest frontier model family for native multimodal processing.",
+                "The platform enables users to create and generate complex outputs starting from video and audio input streams.",
+                "This architecture marks a departure from traditional text-based prompting toward holistic model capability across all sensory data.",
+                "Enterprises can now deploy Gemini Omni via Google AI Studio to accelerate real-time content generation workflows today."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL SCALE",
+            "heading": "NVIDIA & SK HYNIX: AI MEMORY PARTNERSHIP",
             "points": [
-                "Microsoft launches HorizonDB to deliver low latency reads and integrated artificial intelligence models for PostgreSQL databases.",
-                "The integrated system lowers operational overhead while scaling analytical queries across federated hybrid cloud datasets significantly.",
-                "Combining Foundry IQ with relational databases establishes a unified secure knowledge layer for real time agentic context.",
-                "Database administrators can leverage automated memory systems to maintain low latency scaling during heavy analytical workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: NEMOCLAW AGENT WORKFLOWS",
-            "points": [
-                "NVIDIA launches NemoClaw software to enable industrial enterprises to build and deploy secure autonomous artificial intelligence engineers.",
-                "The platform scales agent training throughput by ten times utilizing unified workstation to cloud hardware execution pipelines.",
-                "Deploying physical AI agents accelerates simulation environments for robotics autonomous driving and advanced scientific research workloads.",
-                "System architects will deploy specialized local agent fleets capable of executing complex physical actions without latency."
+                "NVIDIA and SK Hynix have formalized a multiyear technology partnership to advance memory components for AI factories.",
+                "The collaboration focuses on integrating high-bandwidth memory directly into the fabric of next-generation physical AI infrastructure.",
+                "This strategic alliance aims to resolve bottlenecks in data-intensive workloads for large-scale GPU cluster compute environments.",
+                "Hardware engineers now have access to unified memory architectures optimized for the extreme demands of model training."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: OPUS AGENTIC CORE",
+            "id": 3,
+            "heading": "ANTHROPIC: PROJECT GLASSWING INITIATIVE",
             "points": [
-                "Anthropic upgrades Claude Opus four point eight to enhance capabilities across coding complex agentic tasks and workflows.",
-                "The model delivers improved consistency and error reduction for enterprise developers running continuous long term code operations.",
-                "High operational costs of frontier models shift corporate strategic focus from raw parameters toward localized efficiency gains.",
-                "Chief technology officers must reallocate budgets to support advanced agent reasoning systems over basic retrieval architectures."
+                "Anthropic launched Project Glasswing, an initiative designed to secure critical software infrastructure within the new AI era.",
+                "The project focuses on hardening enterprise codebases against the rapid evolution of autonomous and agentic system threats.",
+                "Technical teams are utilizing these new security primitives to ensure model alignment and long-term operational systems integrity.",
+                "This release emphasizes safety-first deployment models for organizations handling sensitive corporate data and mission-critical applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: VENICE SEMICONDUCTOR RAMP",
+            "id": 4,
+            "heading": "AZURE: HORIZONDB DATABASE RELEASE",
             "points": [
-                "AMD accelerates production of its next generation Venice EPYC processor utilizing TSMC advanced two nanometer process technology.",
-                "The architectural transition delivers twenty percent higher power efficiency and increased density for large scale data center deployments.",
-                "Local development platforms like Ryzen AI Halo shift high performance agentic processing workloads directly to the client edge.",
-                "Hardware infrastructure engineers can lower total cost of ownership by deploying specialized silicon optimized for local execution."
+                "Microsoft Azure has introduced HorizonDB, a new PostgreSQL service designed specifically for ultra-low latency AI workloads.",
+                "The platform offers built-in AI integration to allow real-time vector reads for enterprise-grade autonomous software agent operations.",
+                "By decoupling data storage from compute, Azure provides a scalable path for mission-critical apps requiring dynamic adaptation.",
+                "Database administrators can now implement vector-aware indexing to support the growing requirements of complex agentic AI systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TSMC: A16 BACKSIDE POWER ARCHITECTURE",
+            "points": [
+                "TSMC has finalized the production roadmap for A16 technology utilizing advanced nanosheets and a super power rail.",
+                "This architecture provides best-in-class power density specifically tailored for high-performance computing and complex AI model training.",
+                "The implementation of backside power delivery represents a critical evolution in semiconductor manufacturing for sovereign silicon competitiveness.",
+                "Global infrastructure providers are now aligning their hardware procurement strategies to match the imminent availability of A16 wafers."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,12 +87,12 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: VIBE LONG-HORIZON AGENTS",
+            "heading": "MISTRAL: VIBE AGENT DEPLOYMENT",
             "points": [
-                "Mistral AI introduces Vibe to execute long horizon enterprise tasks with integrated tools and persistent system memory structures.",
-                "Autonomous coding capabilities streamline legacy code translation and automate continuous integration testing by fifty percent.",
-                "Portable agent orchestration engines allow organizations to deploy advanced model intelligence across any cloud or edge environment.",
-                "Enterprise software engineers can delegate routine software maintenance to background agents operating autonomously within local terminals."
+                "Mistral AI has launched Vibe, an autonomous agent platform designed for long-horizon work and enterprise knowledge search.",
+                "The system supports complex task scheduling and persistent memory, allowing agents to maintain context over extended operational cycles.",
+                "Developers can now integrate Vibe into terminal and IDE environments to automate coding and architecture-aware software generation.",
+                "This platform provides full deployment portability from the local edge to cloud environments for custom model tuning."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: GPAI ACT COMPLIANCE",
+            "heading": "TECHTARGET: AUTONOMOUS AI WORM STUDY",
             "points": [
-                "The European Union finalized draft guidelines clarifying strict compliance obligations for general purpose artificial intelligence model providers.",
-                "Failure to establish rigorous risk management and transparency protocols could result in substantial fines for global tech firms.",
-                "Imposing clear regulatory boundaries forces enterprise developers to integrate auditable tracing and data quality controls into pipelines.",
-                "Legal compliance officers must proactively transition existing deployments into high risk safety frameworks before the strict August deadlines."
+                "University of Toronto researchers have demonstrated a proof-of-concept AI worm capable of autonomous vulnerability identification and adaptation.",
+                "The study highlights the critical need for new defense-in-depth strategies in the face of evolving autonomous attack vectors.",
+                "Enterprise security teams are reevaluating their procurement models to include pre-release review processes for all frontier model deployments.",
+                "The findings underscore that AI-driven cyber threats represent a new risk tier for global networked enterprise IT infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
