@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS INFRASTRUCTURE",
-        "titleBlue": "EXPANSION"
+        "titleWhite": "ENTERPRISE AI",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: PUBLIC TRANSITION",
+            "heading": "ANTHROPIC: MYTHOS MODEL LAUNCH",
             "points": [
-                "OpenAI submits a confidential draft S-1 to the Securities and Exchange Commission for an initial public offering.",
-                "The planned public listing will fundamentally alter market valuations and accelerate massive funding rounds for artificial intelligence.",
-                "Structural modifications aim to balance non-profit oversight with aggressive commercial growth scaling across global enterprise markets.",
-                "This strategic move positions the organization to raise unprecedented capital for frontier models and computational infrastructure."
+                "Anthropic has officially released Fable 5, a high-performance Mythos-class AI model now available for general public usage.",
+                "The model features enhanced agentic reasoning and long-context consistency, designed to handle complex professional and multi-step coding tasks.",
+                "Enterprise integration is immediately supported through Microsoft Foundry and GitHub Copilot to accelerate internal deployment and agentic workflows.",
+                "This release marks a significant milestone in Anthropic's transition to public-facing frontier intelligence following their earlier private beta period."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
+            "heading": "MICROSOFT: FOUNDRY AGENT ECOSYSTEM",
             "points": [
-                "Google executes a landmark thirty billion dollar deal with SpaceX to secure extensive low-Earth orbit satellite infrastructure.",
-                "The massive capital commitment provides distributed edge computational capabilities directly linking global cloud networks with spatial data.",
-                "This hybrid architecture bypasses traditional terrestrial bandwidth limitations to enable real-time model inference at global scales.",
-                "The partnership establishes a robust spatial network layer designed to handle massive telemetry and decentralized machine learning workloads."
+                "Microsoft Azure has integrated Fable 5 into its Foundry platform to provide enterprise-ready backend services for autonomous AI agents.",
+                "The new Foundry IQ architecture allows organizations to connect disparate data silos, providing agents with unified, trusted organizational knowledge.",
+                "Engineers can now leverage agent-optimized backends to deploy scalable, high-latency-sensitive AI workloads directly within existing cloud environments.",
+                "This infrastructure update signals a shift toward persistent, memory-capable AI agents within the Microsoft enterprise software stack."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: SOVEREIGN FACTORY DEPLOYMENT",
+            "heading": "TSMC: 2026 SILICON ARCHITECTURE",
             "points": [
-                "Nvidia partners with South Korean telecom leaders to deploy gigawatt-scale infrastructure optimized for high-performance physical intelligence.",
-                "The integration of localized DSX platforms secures regional data sovereignty while accelerating high-bandwidth memory fabric development pipelines.",
-                "This collaborative manufacturing approach aims to insulate regional supply chains from unpredictable global hardware allocation disruptions.",
-                "Strategic localization mitigates Latency challenges while establishing solid foundational infrastructure for advanced industrial robotics across Asia."
+                "TSMC confirmed rapid development of A16 nanosheet technology featuring backside power rails to optimize energy delivery for high-performance AI compute.",
+                "The foundry is focusing on NanoFlex Pro integration to maximize clock frequency and thermal efficiency for next-generation data center processors.",
+                "Strategic investments in 3D IC design and packaging are prioritizing the infrastructure needs of global sovereign AI factories and clusters.",
+                "This roadmap underscores the industry's reliance on TSMC's advanced lithography to sustain the rapid growth of large-scale agentic intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: UNITED KINGDOM SOVEREIGNTY",
+            "heading": "NVIDIA: SOVEREIGN AI INFRASTRUCTURE",
             "points": [
-                "AMD commits two billion pounds to accelerate research and design sovereign microelectronics infrastructure within the United Kingdom.",
-                "The massive financial injection expands academic and commercial collaborations to build optimized hardware solutions for localized models.",
-                "This investment represents a strategic shift toward regional chip design to reduce dependence on singular global manufacturing hubs.",
-                "The localized ecosystem fosters long-term supply resilience and sovereign computing capabilities across the entire European tech landscape."
+                "NVIDIA is aggressively scaling sovereign AI factory partnerships, including new gigawatt-scale initiatives with SK Telecom and NAVER.",
+                "The company\u2019s DSX platform is now the standard for powering localized AI clouds, ensuring domestic control over national computing capacity.",
+                "New collaborations with LG and Doosan are pushing the boundaries of physical AI, mobile robotics, and industrial digital twin infrastructure.",
+                "These regional partnerships indicate a broader strategy to decentralize AI compute while maintaining Nvidia\u2019s dominant hardware and software stack."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GSK: BIOTECH ACQUISITION FORCE",
+            "heading": "AMD: GLOBAL AI INVESTMENT",
             "points": [
-                "GSK agrees to buy cancer therapeutics developer Nuvalent for over ten billion dollars to expand clinical pipelines.",
-                "The high-value transaction signals rapid consolidation in AI-driven drug discovery sectors to optimize molecule design and synthesis.",
-                "This acquisition accelerates the transition of machine learning platforms from theoretical laboratory models into verified clinical deployments.",
-                "Combining massive pharmaceutical capital with targeted biotechnology speeds up critical computational medicine delivery schedules globally."
+                "AMD has pledged $10 billion in investments within the Taiwan ecosystem to bolster the regional AI infrastructure and hardware supply chain.",
+                "The company is accelerating production of its Venice EPYC processors on TSMC's 2nm node to satisfy hyperscaler demands for AI compute.",
+                "Strategic research partnerships with institutions like Imperial College London are targeting sovereign AI discovery and quantum-AI platform development.",
+                "This investment confirms AMD\u2019s aggressive posture in diversifying the compute market against existing industry incumbents through open standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LINUX FOUNDATION: COMPUTE TOKENOMICS",
+            "heading": "GOOGLE: AGENTIC DATA CLOUD",
             "points": [
-                "The Linux Foundation launches the Tokenomics Foundation to standardize budget management and cost tracking across multi-agentic operations.",
-                "This specialized framework allows developers to accurately measure, benchmark, and optimize variable spending on decentralized model architectures.",
-                "Establishing transparent open-source parameters prevents cost runaway during complex parallel agent tasks in real-world business scenarios.",
-                "The initiative delivers a systematic approach to optimize return on investment for enterprise level software engineering units."
+                "Google Cloud is positioning its Data Cloud as a fundamental system of action for orchestrating complex, enterprise-grade AI agents.",
+                "Gemini 3.5 and the new Gemini Omni model support multimodal inputs, enabling agents to process video and audio in real-time.",
+                "The platform now includes proactive AI threat defense mechanisms to secure agentic systems against emerging adversarial vulnerabilities and attacks.",
+                "Integration of agent development within the Google AI Studio environment lowers the barrier to entry for building production-ready AI workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STANFORD HAI: PERSONA SYNTHESIS",
+            "heading": "MISTRAL: AUTONOMOUS WORKFLOWS",
             "points": [
-                "Stanford researchers release PsychAdapter to precisely control and generate highly realistic text matching specific human personality parameters.",
-                "The tool enables direct clinical simulations and deeply customized interaction profiles without retraining foundational neural network weights.",
-                "This fine-tuning technique presents scalable pathways for creating deeply contextual virtual assistants across regulated medical fields.",
-                "Enhanced behavioral adaptation methods open new doors for authentic, ethical, and structured communication within advanced agentic systems."
+                "Mistral AI has launched its Vibe agent platform, specifically engineered for long-horizon work and autonomous multi-step task scheduling.",
+                "The Vibe for Code toolset offers architecture-aware reasoning, enabling developers to automate legacy code translation and CI/CD operations.",
+                "Enterprise offerings now support end-to-end observability and custom model alignment through the Forge training and evaluation suite.",
+                "This focus on developer-centric autonomy allows organizations to ship AI-driven software stacks with tighter integration into existing IDEs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: hai.stanford.edu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
