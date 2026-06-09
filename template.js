@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SECURE ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: MYTHOS MODEL RELEASE",
+            "heading": "ANTHROPIC: FABLE 5 LAUNCH",
             "points": [
-                "Anthropic has officially released Claude Fable 5, integrating previously restricted Mythos-class AI capabilities for public use.",
-                "The model deployment features automated guardrails designed to mitigate cybersecurity risks and prevent misuse during enterprise applications.",
-                "Analysts report that these integrated security safeguards may cast a significantly wider cybersecurity net than initially disclosed.",
-                "Enterprises are currently evaluating the performance balance between high-tier reasoning capabilities and the new restrictive safety parameters."
+                "Anthropic released its Mythos-class Claude Fable 5 model to general users featuring advanced automated cyber-risk guardrails.",
+                "The model enhances agentic task execution while restricting malicious utility through strict real-time behavioral policy controls.",
+                "Deployment integrates natively with Microsoft Foundry and GitHub Copilot to streamline enterprise-grade agentic development ecosystems.",
+                "This commercial release forces competitors to accelerate safety-first model alignments to capture safety-conscious enterprise clients."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SOVEREIGN AI INFRASTRUCTURE",
+            "heading": "NVIDIA: APPLE PCC INTEGRATION",
             "points": [
-                "NVIDIA has secured multi-year technology partnerships to advance memory development specifically for global AI factory buildouts.",
-                "Collaborations with SK hynix and South Korean leaders aim to scale sovereign AI infrastructure toward gigawatt-level capacity.",
-                "Strategic initiatives include deploying the DSX platform to optimize inference on distributed networks across regional AI grids.",
-                "The focus on domestic infrastructure signals a shift toward geographically localized control over foundational compute and memory."
+                "NVIDIA announced its Confidential Computing architecture will expand and secure Apple's Private Cloud Compute infrastructure deployments.",
+                "This partnership ensures end-to-end encryption for processed data, protecting sensitive user workloads at hardware-level execution.",
+                "Hardware-enforced secure enclaves protect model weights and client queries within unified private cloud server nodes.",
+                "This architecture sets a precedent for consumer tech firms demanding zero-trust security layouts across cloud environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FOUNDRY CLOUD INTEGRATION",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Microsoft Azure has integrated Claude Fable 5 into its Foundry platform and GitHub Copilot for enterprise developers.",
-                "New backend-as-a-service offerings like Rayfin are optimizing agentic workflows directly on the Microsoft Fabric data ecosystem.",
-                "Foundry IQ enables unified knowledge grounding, allowing AI agents to query organizational context across distributed data silos.",
-                "This deployment expands the reach of agentic infrastructure to mainstream development environments, emphasizing scalability and security."
+                "Microsoft launched Azure HorizonDB, bringing ultra-low latency scalable reads and integrated AI capabilities directly to PostgreSQL.",
+                "Enterprises can now operationalize real-time transactional databases for large language model grounding without performance bottlenecks.",
+                "The database utilizes native hardware acceleration and optimized indexing pipelines to bridge legacy datasets with agents.",
+                "PostgreSQL-driven applications will rapidly consolidate, reducing third-party data staging tools and simplifying enterprise AI stacks."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "TSMC: ADVANCED SILICON PRODUCTION",
+            "heading": "WHITE HOUSE: AI TESTING LIMITS",
             "points": [
-                "TSMC is scaling production of its A16 nanosheet technology, featuring backside power delivery for high-performance AI computing.",
-                "The company\u2019s 2026 symposium highlights leadership in AI-focused silicon, emphasizing NanoFlex flexibility for diverse chip architectures.",
-                "Strategic investments in the Taiwan ecosystem exceed $10 billion to ensure sustainable supply chain resilience for AI processors.",
-                "These hardware advancements provide the physical foundation required for next-generation, energy-efficient AI model training and inference."
+                "The White House moved to rein in its official AI-testing unit citing heightened national security concerns.",
+                "This direct intervention creates stricter validation bottlenecks for domestic frontier model testing before public deployment phases.",
+                "Testing mandates now require deeper compliance audits matching the evolving standards of the EU AI Act frameworks.",
+                "Federal oversight expansion will delay commercialization timelines for advanced sovereign AI systems seeking government procurement."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: GEMMA AND AGENTIC DATA",
+            "heading": "AMAZON: CORNING OPTICAL EXPANSION",
             "points": [
-                "Google has launched Gemma 4 12B, a unified, encoder-free multimodal model designed for high intelligence-per-parameter performance.",
-                "New updates to the Data Cloud emphasize an agentic architecture, positioning the platform as a primary system of action.",
-                "Google Cloud is rolling out AI Threat Defense to secure these agentic workloads against emerging adversarial attack patterns.",
-                "Integration with Gemini Enterprise app provides a front-end portal for employees to leverage frontier intelligence in real-time."
+                "Amazon partnered with Corning to supply specialized fiber optics for its massive AI data center infrastructure expansion.",
+                "The integration scales network bandwidth capacity to handle intense distributed multi-node AI model training workloads efficiently.",
+                "Ultra-high-density optical cabling mitigates systemic physical latency between high-performance GPU and custom accelerator clusters.",
+                "Optical interconnect investments will dominate capital expenditures as hyperscalers rush to prevent inter-node communication bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: AGENTIC CPU/GPU EQUATION",
+            "heading": "OPENAI: CONFIDENTIAL IPO FILING",
             "points": [
-                "AMD is shifting focus toward agentic AI, emphasizing the synergy between EPYC CPUs and Instinct GPUs for action-oriented models.",
-                "A $2 billion investment commitment in the UK underscores the company\u2019s push into sovereign AI research and discovery.",
-                "Research collaborations, including those with JPMorganChase, are establishing new platforms for quantum-AI integration and development.",
-                "Open ecosystem approaches like ROCm aim to provide developers with flexible, end-to-end solutions for scalable enterprise AI deployment."
+                "OpenAI submitted a confidential draft S-1 statement to the SEC, initiating its highly anticipated public listing.",
+                "The public market entry forces unprecedented transparency regarding operational profitability, GPU expenditures, and training data liabilities.",
+                "The transition signals structural reorganization from research-focused non-profit roots into a massive commercial computing powerhouse.",
+                "Wall Street listing will trigger a wave of late-stage capital reallocation among rival generative foundation model startups."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: FRONTIER AGENTIC WORKFLOWS",
+            "heading": "AMD: SOVEREIGN UK INVESTMENT",
             "points": [
-                "Mistral AI is expanding its agentic platform, introducing tools like Vibe for long-horizon task scheduling and autonomous execution.",
-                "Studio and Forge environments now support end-to-end observability and custom model training for domain-specific enterprise adaptation.",
-                "The company is actively partnering with manufacturing and financial sectors to streamline operations via AI agent integration.",
-                "Mistral\u2019s open-weights strategy maintains focus on giving organizations direct control over frontier model architecture and deployment."
+                "AMD committed up to two billion pounds to accelerate artificial intelligence innovation and research across the United Kingdom.",
+                "This investment expands localized high-performance computing resources and establishes collaborative sovereign AI infrastructures with Imperial College.",
+                "The funding deploys advanced EPYC processors and Instinct accelerators to power academic and enterprise research initiatives.",
+                "This regional hub strategy strengthens UK hardware autonomy while solidifying AMD's market share against dominant chip competitors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
