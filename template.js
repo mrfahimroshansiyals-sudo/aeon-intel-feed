@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI FRONTIER",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AUTONOMOUS INFRASTRUCTURE",
+        "titleBlue": "EXPANSION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: CORPORATE IPO SHIFT",
+            "heading": "OPENAI: PUBLIC TRANSITION",
             "points": [
-                "OpenAI has confidentially submitted its draft S-1 registration statement to the SEC for a public offering.",
-                "The filing marks a pivotal transition for the research organization toward a formal public market entity.",
-                "Investors are now positioning for a mega-scale tech debut following intense market speculation on valuation.",
-                "This shift underscores the maturation of generative AI platforms into standard industrial financial assets today."
+                "OpenAI submits a confidential draft S-1 to the Securities and Exchange Commission for an initial public offering.",
+                "The planned public listing will fundamentally alter market valuations and accelerate massive funding rounds for artificial intelligence.",
+                "Structural modifications aim to balance non-profit oversight with aggressive commercial growth scaling across global enterprise markets.",
+                "This strategic move positions the organization to raise unprecedented capital for frontier models and computational infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEX: AI COMPUTE PARTNERSHIP",
+            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
             "points": [
-                "Google has finalized a massive thirty billion dollar deal with SpaceX to acquire AI compute power.",
-                "The investment secures significant satellite-based infrastructure to facilitate high-demand global artificial intelligence model inference requirements.",
-                "SpaceX will deploy specialized hardware arrays capable of supporting low-latency data processing in space-based environments.",
-                "This capital injection validates the emergence of non-terrestrial data centers as critical strategic AI infrastructure."
+                "Google executes a landmark thirty billion dollar deal with SpaceX to secure extensive low-Earth orbit satellite infrastructure.",
+                "The massive capital commitment provides distributed edge computational capabilities directly linking global cloud networks with spatial data.",
+                "This hybrid architecture bypasses traditional terrestrial bandwidth limitations to enable real-time model inference at global scales.",
+                "The partnership establishes a robust spatial network layer designed to handle massive telemetry and decentralized machine learning workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL: AUTONOMOUS AGENT VIBE",
+            "heading": "NVIDIA: SOVEREIGN FACTORY DEPLOYMENT",
             "points": [
-                "Mistral AI launched Vibe, an autonomous agent platform designed for managing complex, long-horizon enterprise work streams.",
-                "The system provides persistent memory and reusable skill sets to automate multi-step scheduling and data synthesis.",
-                "Vibe for code integrates natively into IDEs to handle legacy code translation and automated testing workflows.",
-                "Enterprises can now deploy front-line agents that reason across proprietary documents and live structured datasets."
+                "Nvidia partners with South Korean telecom leaders to deploy gigawatt-scale infrastructure optimized for high-performance physical intelligence.",
+                "The integration of localized DSX platforms secures regional data sovereignty while accelerating high-bandwidth memory fabric development pipelines.",
+                "This collaborative manufacturing approach aims to insulate regional supply chains from unpredictable global hardware allocation disruptions.",
+                "Strategic localization mitigates Latency challenges while establishing solid foundational infrastructure for advanced industrial robotics across Asia."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: GEMINI 3.5 RELEASE",
+            "heading": "AMD: UNITED KINGDOM SOVEREIGNTY",
             "points": [
-                "Google Cloud introduced Gemini 3.5, a frontier-scale model series focused on actionable intelligence and multi-modal reasoning.",
-                "The release includes Gemini Omni, enabling real-time processing of diverse inputs including high-fidelity streaming video data.",
-                "DeepMind integrated the model into the Co-Scientist framework to accelerate autonomous discovery in scientific research fields.",
-                "New enterprise tools offer unified orchestration and governance for scaling agentic applications across cloud environments."
+                "AMD commits two billion pounds to accelerate research and design sovereign microelectronics infrastructure within the United Kingdom.",
+                "The massive financial injection expands academic and commercial collaborations to build optimized hardware solutions for localized models.",
+                "This investment represents a strategic shift toward regional chip design to reduce dependence on singular global manufacturing hubs.",
+                "The localized ecosystem fosters long-term supply resilience and sovereign computing capabilities across the entire European tech landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: SK HYNIX ALLIANCE",
+            "heading": "GSK: BIOTECH ACQUISITION FORCE",
             "points": [
-                "NVIDIA and SK hynix announced a multiyear partnership to develop next-generation memory for AI factory buildouts.",
-                "This collaboration aims to solve memory bandwidth bottlenecks currently restricting performance in massive training cluster deployments.",
-                "SK Telecom will leverage this technology to construct a gigawatt-scale AI cloud facility within South Korea.",
-                "Strategic silicon-level alignment secures the supply chain for sovereign AI infrastructure across the global market."
+                "GSK agrees to buy cancer therapeutics developer Nuvalent for over ten billion dollars to expand clinical pipelines.",
+                "The high-value transaction signals rapid consolidation in AI-driven drug discovery sectors to optimize molecule design and synthesis.",
+                "This acquisition accelerates the transition of machine learning platforms from theoretical laboratory models into verified clinical deployments.",
+                "Combining massive pharmaceutical capital with targeted biotechnology speeds up critical computational medicine delivery schedules globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GSK: BIOTECH ACQUISITION",
+            "heading": "LINUX FOUNDATION: COMPUTE TOKENOMICS",
             "points": [
-                "GSK announced a ten point six billion dollar acquisition of cancer biotech firm Nuvalent today.",
-                "The deal represents the largest purchase by the pharmaceutical giant in eight years to expand portfolios.",
-                "AI-driven predictive modeling for drug discovery likely facilitated the valuation of the target biotech's pipeline.",
-                "Pharmaceutical R&D is increasingly shifting towards automated, agentic platforms to compress lengthy drug development cycles."
+                "The Linux Foundation launches the Tokenomics Foundation to standardize budget management and cost tracking across multi-agentic operations.",
+                "This specialized framework allows developers to accurately measure, benchmark, and optimize variable spending on decentralized model architectures.",
+                "Establishing transparent open-source parameters prevents cost runaway during complex parallel agent tasks in real-world business scenarios.",
+                "The initiative delivers a systematic approach to optimize return on investment for enterprise level software engineering units."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: UK AI INVESTMENT",
+            "heading": "STANFORD HAI: PERSONA SYNTHESIS",
             "points": [
-                "AMD committed two billion pounds to accelerate AI innovation and scientific research across the United Kingdom.",
-                "The investment focuses on sovereign AI infrastructure, partnering with Imperial College London for advanced computing platforms.",
-                "AMD continues to expand its open ecosystem, providing CPU and GPU resources for high-performance AI workloads.",
-                "Strategic funding aims to bolster the UK's domestic capability for large-scale model training and data analysis."
+                "Stanford researchers release PsychAdapter to precisely control and generate highly realistic text matching specific human personality parameters.",
+                "The tool enables direct clinical simulations and deeply customized interaction profiles without retraining foundational neural network weights.",
+                "This fine-tuning technique presents scalable pathways for creating deeply contextual virtual assistants across regulated medical fields.",
+                "Enhanced behavioral adaptation methods open new doors for authentic, ethical, and structured communication within advanced agentic systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
