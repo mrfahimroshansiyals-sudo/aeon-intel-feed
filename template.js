@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT SOVEREIGN",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SECURE AGENTIC INFRASTRUCTURE",
+        "titleBlue": "INTEGRATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: SOVEREIGN AI LAB",
+            "heading": "NVIDIA: CONFIDENTIAL COMPUTING SECURES APPLE",
             "points": [
-                "AMD and Dell partnered with Cambridge University to establish a new UK Sovereign AI Innovation Lab.",
-                "This infrastructure deployment will utilize next-generation EPYC processors and Instinct accelerators to optimize localized academic research.",
-                "The initiative establishes a secure hardware footprint decoupled from centralized public cloud nodes for sensitive workflows.",
-                "Public sector organizations will gain immediate access to accelerated compute clusters while maintaining strict regulatory compliance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: LOCAL GEMMA ACCELERATION",
-            "points": [
-                "NVIDIA optimized Google DeepMind's DiffusionGemma models to run efficiently on local RTX workstation GPUs.",
-                "Local execution speeds achieved a four-fold increase in image-generation performance compared to unoptimized hardware frameworks.",
-                "The architecture reduces dependency on costly cloud APIs by shifting inference workloads directly to edge devices.",
-                "Software developers can build secure offline generative applications without compromising raw execution speed or output accuracy."
+                "Nvidia Confidential Computing integrates with Apple Private Cloud Compute to secure intensive cloud-based artificial intelligence workloads.",
+                "This integration mitigates data exposure risks during multi-node processing of sensitive mathematical model training computations.",
+                "This deployment marks a major shift towards end-to-end hardware-level cryptographic isolation for consumer device ecosystems.",
+                "Enterprises can securely process proprietary corporate information on consumer-facing cloud networks without risk of exposure."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AWS: FINOPS AGENT INTEGRATION",
+            "id": 2,
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL UPGRADE",
             "points": [
-                "Amazon Web Services launched a dedicated FinOps Agent to automatically monitor and manage cloud cost architectures.",
-                "The tool bridges engineering development cycles with financial control systems to prevent unplanned cost overruns dynamically.",
-                "Granular resource mapping allows enterprise infrastructure teams to assign operational costs directly to active model deployments.",
-                "Automated cloud spending compliance will significantly reduce systemic cloud waste across decentralized machine learning pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SALESFORCE: m3ter BILLING ACQUISITION",
-            "points": [
-                "Salesforce announced an agreement to acquire m3ter to power complex usage-based pricing models for software.",
-                "The purchase enables automated metering and billing services designed to support multi-agent enterprise application ecosystems.",
-                "Integrating utility-based pricing structures allows customers to align software expenses with precise actual processing resource consumption.",
-                "Enterprise platforms must modernize transactional billing systems as the market transitions toward autonomous agent execution architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ANTHROPIC: CLAUDE FABLE 5",
-            "points": [
-                "Anthropic officially introduced Claude Fable 5, delivering enhanced long-horizon reasoning capabilities for enterprise-grade autonomous workflows.",
-                "Slower execution speeds and increased operational costs reflect the heavy multi-step verification loops embedded inside the model.",
-                "Businesses must balance the high financial premium of advanced model reasoning against basic lower-latency task requirements.",
-                "Strategic deployment of reasoning models will target highly regulated industries demanding absolute zero-defect task completion metrics."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
-            "points": [
-                "Microsoft unveiled Azure HorizonDB, engineering a high-performance PostgreSQL database fully optimized for enterprise AI agent systems.",
-                "The service delivers ultra-low latency reads and native vector searching to accelerate real-time data retrieval operations.",
-                "Deep integration with the Microsoft Fabric ecosystem provides developers with instant grounding resources for intelligent agents.",
-                "Companies can seamlessly scale mission-critical transaction systems without suffering traditional database performance bottlenecks or latency spikes."
+                "Azure HorizonDB brings ultra-low latency, scalable reads, and built-in artificial intelligence features directly to PostgreSQL databases.",
+                "Users experience rapid performance scaling with sub-millisecond query responses for heavy real-time data analytical applications.",
+                "The release addresses growing enterprise demand for localized database processing power to run highly intensive AI applications.",
+                "Database administrators can easily deploy real-time analytics pipelines without migrating legacy schema to entirely new engines."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
+            "id": 3,
+            "heading": "AMD: SOVEREIGN LAB LAUNCH",
             "points": [
-                "Google agreed to pay SpaceX thirty billion dollars to secure deep satellite-linked AI compute capacity globally.",
-                "The infrastructure partnership ensures high-speed low-latency cloud connectivity for distributed edge intelligence systems in remote regions.",
-                "Leveraging orbital constellations allows Google to expand its sovereign AI data network beyond traditional terrestrial fibers.",
-                "This massive investment establishes a highly resilient cloud tier immune to localized physical fiber optic disruptions."
+                "AMD partners with Dell and University of Cambridge to launch the sovereign United Kingdom AI Innovation Lab.",
+                "The facility integrates rack-scale EPYC hardware systems to drive local academic and industrial technology development initiatives.",
+                "This initiative cements regional compute independence while enabling secure localized fine-tuning of advanced neural networks.",
+                "UK organizations can build highly customized foundation models while retaining full custody over national scientific data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: CLAUDE FABLE RELEASE",
+            "points": [
+                "Anthropic releases Claude Fable Five inside Microsoft Foundry and GitHub Copilot for complex coding operations.",
+                "The updated architectural setup improves long-horizon task execution speeds and reasoning capabilities for multi-step software development.",
+                "Integrating this model across key environments ensures developer accessibility and standardized performance metrics within corporate workflows.",
+                "Software engineering teams will experience accelerated software delivery timelines due to automated complex syntax generation capabilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: VIBE AGENT LAUNCH",
+            "points": [
+                "Mistral AI introduces Vibe, an autonomous agent engineered to resolve long-horizon work and complex coding tasks.",
+                "The software deploys persistent memory systems to handle intricate multi-step scheduling across vast enterprise tooling frameworks.",
+                "Providing high-level autonomy changes the dynamic from simple chatbot querying to sophisticated automated digital workplace operations.",
+                "Corporate developers can delegate repetitive integration pipelines to background agents that continually monitor structural performance degradation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: MEMORY ALLIANCE ESTABLISHED",
+            "points": [
+                "Nvidia and SK hynix establish a multiyear technology partnership to advance memory architectures for global AI factories.",
+                "The collaboration aims to supply high-bandwidth memory chips to meet intensive data throughput needs in massive datacenters.",
+                "Securing advanced memory supply lines remains critical to sustaining global physical compute cluster expansion and efficiency.",
+                "Datacenter builders can expect more integrated memory-compute designs that drastically reduce latency during large-scale model training."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOOGLE CLOUD: GEMINI EXPANSION",
+            "points": [
+                "Google Cloud unveils Gemini Three Point Five which combines frontier model intelligence with complex action capabilities.",
+                "The new system allows seamless multi-modal execution spanning video input processing and instant local environment deployment.",
+                "Elevating generative models into direct execution systems marks a transition toward fully operational corporate software assistants.",
+                "System architects can construct robust, end-to-end agentic workflows that securely execute transactional updates across legacy infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
