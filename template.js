@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE AGENTIC INFRASTRUCTURE",
-        "titleBlue": "INTEGRATION"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: CONFIDENTIAL COMPUTING SECURES APPLE",
+            "heading": "AMD: SOVEREIGN LAB",
             "points": [
-                "Nvidia Confidential Computing integrates with Apple Private Cloud Compute to secure intensive cloud-based artificial intelligence workloads.",
-                "This integration mitigates data exposure risks during multi-node processing of sensitive mathematical model training computations.",
-                "This deployment marks a major shift towards end-to-end hardware-level cryptographic isolation for consumer device ecosystems.",
-                "Enterprises can securely process proprietary corporate information on consumer-facing cloud networks without risk of exposure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL UPGRADE",
-            "points": [
-                "Azure HorizonDB brings ultra-low latency, scalable reads, and built-in artificial intelligence features directly to PostgreSQL databases.",
-                "Users experience rapid performance scaling with sub-millisecond query responses for heavy real-time data analytical applications.",
-                "The release addresses growing enterprise demand for localized database processing power to run highly intensive AI applications.",
-                "Database administrators can easily deploy real-time analytics pipelines without migrating legacy schema to entirely new engines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: SOVEREIGN LAB LAUNCH",
-            "points": [
-                "AMD partners with Dell and University of Cambridge to launch the sovereign United Kingdom AI Innovation Lab.",
-                "The facility integrates rack-scale EPYC hardware systems to drive local academic and industrial technology development initiatives.",
-                "This initiative cements regional compute independence while enabling secure localized fine-tuning of advanced neural networks.",
-                "UK organizations can build highly customized foundation models while retaining full custody over national scientific data."
+                "AMD collaborated with Dell and Cambridge University to launch the UK Sovereign AI Innovation Lab in June 2026.",
+                "The partnership utilizes AMD EPYC processors and Instinct GPUs to accelerate high-performance research compute frameworks.",
+                "This deployment establishes localized compute sovereignty, mitigating reliance on external monolithic hyperscaler cloud environments.",
+                "Researchers can deploy complex agentic models safely within a secure, high-density academic computing ecosystem."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: CLAUDE FABLE RELEASE",
+            "id": 2,
+            "heading": "GOOGLE: DIFFUSIONGEMMA RELEASE",
             "points": [
-                "Anthropic releases Claude Fable Five inside Microsoft Foundry and GitHub Copilot for complex coding operations.",
-                "The updated architectural setup improves long-horizon task execution speeds and reasoning capabilities for multi-step software development.",
-                "Integrating this model across key environments ensures developer accessibility and standardized performance metrics within corporate workflows.",
-                "Software engineering teams will experience accelerated software delivery timelines due to automated complex syntax generation capabilities."
+                "Google DeepMind launched DiffusionGemma to enable four times faster text generation on local hardware environments.",
+                "NVIDIA concurrently optimized this lightweight model to run seamlessly on consumer-grade RTX graphical processing units.",
+                "This development shifts inference workloads from centralized cloud architectures directly to edge-native computing devices.",
+                "Enterprise developers gain immediate latency improvements while maintaining complete control over private user data streams."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MICROSOFT: CLAUDE INTEGRATION",
+            "points": [
+                "Microsoft integrated Anthropic Claude Fable five, a mythos class model, into Foundry and Copilot.",
+                "This deployment provides developers with advanced reasoning capabilities designed for long-running autonomous enterprise workflows.",
+                "The integration leverages Microsoft's scalable cloud infrastructure to ensure consistent performance during complex multi-step reasoning.",
+                "Businesses can automate sophisticated cognitive tasks securely without risking proprietary information exposure across public APIs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SALESFORCE: BILLING ACQUISITION",
+            "points": [
+                "Salesforce acquired usage-based billing platform m3ter to support its transition to agentic AI services.",
+                "The transaction enables real-time monetization tracking of autonomous system executions across massive enterprise application suites.",
+                "Legacy subscription billing models are replaced with dynamic API call-based financial tracking within Salesforce Core.",
+                "Customers will shift to paying strictly for successful operational outcomes rather than static seat licensing fees."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: VIBE AGENT LAUNCH",
+            "heading": "SK TELECOM: GIGAWATT CLOUD",
             "points": [
-                "Mistral AI introduces Vibe, an autonomous agent engineered to resolve long-horizon work and complex coding tasks.",
-                "The software deploys persistent memory systems to handle intricate multi-step scheduling across vast enterprise tooling frameworks.",
-                "Providing high-level autonomy changes the dynamic from simple chatbot querying to sophisticated automated digital workplace operations.",
-                "Corporate developers can delegate repetitive integration pipelines to background agents that continually monitor structural performance degradation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NVIDIA: MEMORY ALLIANCE ESTABLISHED",
-            "points": [
-                "Nvidia and SK hynix establish a multiyear technology partnership to advance memory architectures for global AI factories.",
-                "The collaboration aims to supply high-bandwidth memory chips to meet intensive data throughput needs in massive datacenters.",
-                "Securing advanced memory supply lines remains critical to sustaining global physical compute cluster expansion and efficiency.",
-                "Datacenter builders can expect more integrated memory-compute designs that drastically reduce latency during large-scale model training."
+                "SK Telecom partnered with NVIDIA to build a gigawatt-scale AI cloud utilizing the DSX platform.",
+                "This regional infrastructure expansion establishes high-performance sovereign computing power across South Korea's industrial landscape.",
+                "High-density memory architectures from SK hynix will supply the ultra-high bandwidth required for next-generation factories.",
+                "Localized infrastructure prevents critical industrial intelligence from leaking outside national boundaries during massive model training."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "GOOGLE CLOUD: GEMINI EXPANSION",
+            "id": 6,
+            "heading": "ORACLE: DATA CENTER EXPANSION",
             "points": [
-                "Google Cloud unveils Gemini Three Point Five which combines frontier model intelligence with complex action capabilities.",
-                "The new system allows seamless multi-modal execution spanning video input processing and instant local environment deployment.",
-                "Elevating generative models into direct execution systems marks a transition toward fully operational corporate software assistants.",
-                "System architects can construct robust, end-to-end agentic workflows that securely execute transactional updates across legacy infrastructure."
+                "Oracle announced plans to invest seventy billion dollars in global data center development next fiscal year.",
+                "The capital allocation targets high-performance cooling systems and hardware configurations tailored for massive scale training.",
+                "This hyper-scale expansion addresses the unprecedented demand for enterprise-grade hosting of multi-modal generative systems.",
+                "Investors remain cautious over the massive upfront capital expenditures required to sustain physical infrastructure leadership."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AWS: CLOUD COST MANAGEMENT",
+            "points": [
+                "Amazon Web Services launched FinOps Agent to automatically optimize cloud spending inside developer active workflows.",
+                "The utility bridges the gap between cloud financial accountability and rapid software engineering deployment pipelines.",
+                "Continuous resource analysis prevents runaway training costs before developers commit changes to production cloud environments.",
+                "Engineering teams can maintain aggressive development velocity without triggering unpredictable infrastructure budget overruns at scale."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
