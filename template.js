@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE ENTERPRISE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN COMPUTING",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: FABLE 5 LAUNCH",
+            "heading": "ANTHROPIC: CLAUDE FABLE 5",
             "points": [
-                "Anthropic released its Mythos-class Claude Fable 5 model to general users featuring advanced automated cyber-risk guardrails.",
-                "The model enhances agentic task execution while restricting malicious utility through strict real-time behavioral policy controls.",
-                "Deployment integrates natively with Microsoft Foundry and GitHub Copilot to streamline enterprise-grade agentic development ecosystems.",
-                "This commercial release forces competitors to accelerate safety-first model alignments to capture safety-conscious enterprise clients."
+                "Anthropic officially launched Claude Fable Five, introducing enterprise-grade Mythos-class reasoning with advanced autonomous capabilities.",
+                "The model features automated cyber-risk safeguards, though early testing indicates potential over-blocking of legitimate security analysis workflows.",
+                "Complex multistep reasoning increases operational latency, forcing enterprises to balance high-fidelity intelligence against execution speed requirements.",
+                "IT buyers must evaluate the steep pricing premiums of Fable Five against lower-cost alternative reasoning models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -25,94 +25,94 @@ const dailyData = {
             "id": 2,
             "heading": "NVIDIA: APPLE PCC INTEGRATION",
             "points": [
-                "NVIDIA announced its Confidential Computing architecture will expand and secure Apple's Private Cloud Compute infrastructure deployments.",
-                "This partnership ensures end-to-end encryption for processed data, protecting sensitive user workloads at hardware-level execution.",
-                "Hardware-enforced secure enclaves protect model weights and client queries within unified private cloud server nodes.",
-                "This architecture sets a precedent for consumer tech firms demanding zero-trust security layouts across cloud environments."
+                "Nvidia deployed its Confidential Computing architecture to secure and scale Apple's proprietary Private Cloud Compute workloads globally.",
+                "The integration enables secure execution of sensitive Apple Intelligence workloads within untrusted third-party cloud data center environments.",
+                "Hardware-enforced cryptographic isolation ensures absolute data privacy without compromising real-time high-throughput GPU processing performance.",
+                "This milestone establishes a new standard for trust boundaries in sovereign hybrid cloud artificial intelligence infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
             "points": [
-                "Microsoft launched Azure HorizonDB, bringing ultra-low latency scalable reads and integrated AI capabilities directly to PostgreSQL.",
-                "Enterprises can now operationalize real-time transactional databases for large language model grounding without performance bottlenecks.",
-                "The database utilizes native hardware acceleration and optimized indexing pipelines to bridge legacy datasets with agents.",
-                "PostgreSQL-driven applications will rapidly consolidate, reducing third-party data staging tools and simplifying enterprise AI stacks."
+                "Google finalized a historic thirty billion dollar agreement with SpaceX to secure massive long-term AI computation infrastructure.",
+                "The partnership leverages SpaceX satellite networks to build distributed space-based computing frameworks for global edge workloads.",
+                "This massive investment allows Google to challenge traditional cloud architectures by integrating low-latency satellite orbital data links.",
+                "Enterprise developers gain immediate access to unprecedented hybrid cloud environments powered by high-speed global satellite communications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WHITE HOUSE: AI TESTING LIMITS",
+            "heading": "MICROSOFT: HORIZONDB AZURE LAUNCH",
             "points": [
-                "The White House moved to rein in its official AI-testing unit citing heightened national security concerns.",
-                "This direct intervention creates stricter validation bottlenecks for domestic frontier model testing before public deployment phases.",
-                "Testing mandates now require deeper compliance audits matching the evolving standards of the EU AI Act frameworks.",
-                "Federal oversight expansion will delay commercialization timelines for advanced sovereign AI systems seeking government procurement."
+                "Microsoft unveiled Azure HorizonDB, a highly scalable PostgreSQL service engineered specifically for ultra-low latency enterprise workloads.",
+                "The database features built-in artificial intelligence acceleration, optimizing read operations automatically without manual query tuning.",
+                "This backend architecture integrates seamlessly with Microsoft Fabric, allowing developers to scale mission-critical applications instantly.",
+                "Organizations can run resource-intensive AI agents directly on high-volume transactional databases without performance degradation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMAZON: CORNING OPTICAL EXPANSION",
+            "heading": "OPENAI: BLOCKBUSTER IPO FILING",
             "points": [
-                "Amazon partnered with Corning to supply specialized fiber optics for its massive AI data center infrastructure expansion.",
-                "The integration scales network bandwidth capacity to handle intense distributed multi-node AI model training workloads efficiently.",
-                "Ultra-high-density optical cabling mitigates systemic physical latency between high-performance GPU and custom accelerator clusters.",
-                "Optical interconnect investments will dominate capital expenditures as hyperscalers rush to prevent inter-node communication bottlenecks."
+                "OpenAI confidentially submitted its draft S-1 filing to the SEC, initiating a monumental transition toward public market listing.",
+                "The filing highlights strategic efforts to restructure corporate governance and satisfy strict investor demands for sustainable profitability.",
+                "Public listing will expose OpenAI's balance sheet to unprecedented scrutiny regarding heavy computing expenditures and licensing liabilities.",
+                "This historic move is expected to trigger a wave of venture-backed artificial intelligence IPO filings across the industry."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: CONFIDENTIAL IPO FILING",
+            "heading": "MALWARE: HADES AI DECEPTION",
             "points": [
-                "OpenAI submitted a confidential draft S-1 statement to the SEC, initiating its highly anticipated public listing.",
-                "The public market entry forces unprecedented transparency regarding operational profitability, GPU expenditures, and training data liabilities.",
-                "The transition signals structural reorganization from research-focused non-profit roots into a massive commercial computing powerhouse.",
-                "Wall Street listing will trigger a wave of late-stage capital reallocation among rival generative foundation model startups."
+                "Security researchers identified a sophisticated malware strain named Hades that is designed specifically to deceive autonomous AI defenders.",
+                "The threat operates by feeding fabricated behavioral metrics to automated security agents, successfully masking malicious activities in networks.",
+                "Enterprises relying solely on autonomous AI triage must redesign verification frameworks to detect adversarial system state manipulation.",
+                "This discovery highlights a critical vulnerability in the industry-wide rush toward fully delegated security orchestration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: SOVEREIGN UK INVESTMENT",
+            "heading": "AMAZON: CORNING FIBER PARTNERSHIP",
             "points": [
-                "AMD committed up to two billion pounds to accelerate artificial intelligence innovation and research across the United Kingdom.",
-                "This investment expands localized high-performance computing resources and establishes collaborative sovereign AI infrastructures with Imperial College.",
-                "The funding deploys advanced EPYC processors and Instinct accelerators to power academic and enterprise research initiatives.",
-                "This regional hub strategy strengthens UK hardware autonomy while solidifying AMD's market share against dominant chip competitors."
+                "Amazon partnered with leading fiber optics manufacturer Corning to support its massive global data center infrastructure expansion.",
+                "The deal secures a reliable supply of high-density optical fiber to connect sprawling AI-focused compute campuses.",
+                "Secure hardware pipelines are essential for preventing bottlenecks as high-performance cluster configurations demand faster interconnect speeds.",
+                "This strategic supply chain move shields Amazon from escalating global material shortages amid aggressive hyperscale capital expenditures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
