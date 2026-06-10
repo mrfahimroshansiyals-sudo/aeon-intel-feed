@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FOUNDRY COGNITIVE UPGRADE",
+            "heading": "MARKET VOLATILITY: INFLATIONARY PRESSURE",
             "points": [
-                "Microsoft integrates Anthropic Claude Fable five mythos class model into Foundry and GitHub Copilot environments.",
-                "Developers leverage enhanced reasoning capabilities to build complex agentic workflows directly inside Azure enterprise subscriptions.",
-                "The deployment establishes new security paradigms for validating autonomous software code without human engineering bottlenecks.",
-                "This strategic integration positions Azure as the premium hyperscaler platform for hosting high-cognitive reasoning applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: CONFIDENTIAL SECURITY SECURED",
-            "points": [
-                "NVIDIA confidential computing on Google Cloud enables Apple to extend private cloud compute to third-party datacenters.",
-                "Cryptographically secure enclaves guarantee data privacy while processing complex Apple Intelligence workloads at global scale.",
-                "The architecture addresses growing enterprise demands for secure multi-tenant cloud environments processing highly sensitive proprietary datasets.",
-                "This hardware-enforced isolation mitigates data leakage risks across federated cloud nodes serving billions of active endpoints."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: SOVEREIGN UK INVESTMENT",
-            "points": [
-                "AMD commits up to two billion pounds to accelerate artificial intelligence innovation and sovereign infrastructure research.",
-                "A strategic partnership with Imperial College London will drive scientific discovery using next-generation compute clusters.",
-                "The investment strengthens domestic chip capabilities and establishes localized data centers independent of foreign technology dependencies.",
-                "Researchers gain direct access to cutting-edge adaptive silicon accelerators to pioneer secure public-sector software systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AWS: AUTOMATED FINOPS DEPLOYMENT",
-            "points": [
-                "Amazon Web Services deploys a dedicated FinOps Agent to automate cloud cost management within developer workflows.",
-                "Engineering teams receive real-time resource optimization recommendations to mitigate exponential computing overhead from modern model training.",
-                "The automation framework streamlines financial governance by mapping technical pipeline operations directly to organizational budget constraints.",
-                "This operational shift empowers developers to maintain high development velocity while preventing uncontrolled cloud infrastructure spend."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "META: REGIONAL HYPERSCALE EXPANSION",
-            "points": [
-                "Meta secures a strategic data center agreement in India to bolster regional hyperscale AI infrastructure capabilities.",
-                "Localized processing power supports the global deployment of enterprise-grade virtual agents and next-generation translation networks.",
-                "The localized nodes ensure strict compliance with regional data residency laws while minimizing network latency bottlenecks.",
-                "This expansion positions Meta to capture rapidly growing enterprise AI demand across the South Asian digital market."
+                "US consumer prices reached a three-year high of 4.2 percent annual inflation during May 2026.",
+                "Rising energy costs amid Middle East tensions are driving severe market instability across global equities.",
+                "Investors are currently fleeing technology stocks in record numbers as interest rate cut expectations diminish.",
+                "Macroeconomic instability is forcing enterprise IT leaders to reconsider long-term capital expenditure on AI projects."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "GOOGLE: SPACEX COMPUTE ALLOCATION",
+            "id": 2,
+            "heading": "SYSTEMIC RISK: AI CYBERSECURITY THREATS",
             "points": [
-                "Google structures a thirty billion dollar compute allocation agreement with SpaceX to scale enterprise agentic infrastructure.",
-                "The massive computational reserve supports the training of Gemini three point five and Omni multimodal systems.",
-                "Deep spatial satellite connectivity integrates seamlessly with regional cloud clusters to provide ultra-low-latency processing globally.",
-                "Enterprise customers gain scalable high-throughput pipelines designed to handle continuous real-time data ingestion and processing workloads."
+                "New malware variants like Hades are specifically designed to manipulate and deceive AI security agents.",
+                "Enterprises continue to deploy software containing known security flaws while accelerating rapid AI-driven development cycles.",
+                "Security research highlights that AI agents now serve as potential single points of failure for businesses.",
+                "Regulatory bodies are tightening oversight requirements for secure software products beginning in the current week."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "INFRASTRUCTURE: GIGAWATT-SCALE DEMANDS",
+            "points": [
+                "NAVER is partnering with NVIDIA to expand sovereign AI infrastructure toward future gigawatt-scale data centers.",
+                "Partnerships with SK Telecom aim to build specialized AI cloud platforms to drive regional technical innovation.",
+                "Energy requirements for next-generation AI factories are dictating architectural designs for cooling and power distribution.",
+                "Major hyperscalers are securing multi-year technology deals to guarantee memory supplies for advanced AI compute."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "DEVELOPMENT: AGENTIC WORKFLOW SHIFTS",
+            "points": [
+                "Enterprise reliance on autonomous agents is increasing, shifting developer focus from code writing to oversight.",
+                "Mistral AI is integrating agentic platforms to streamline operations for major logistics and maritime global leaders.",
+                "GitHub Copilot usage-based billing is forcing teams to optimize code generation to avoid mounting operational costs.",
+                "Senior engineers are increasingly becoming the bottleneck as they struggle to review massive AI-generated codebases."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "COMPUTE: SEMICONDUCTOR SOVEREIGNTY",
+            "points": [
+                "AMD is committing over 10 billion dollars to Taiwan to accelerate foundational AI infrastructure ecosystem growth.",
+                "TSMC is prioritizing backside power solutions in A16 nanosheet technology to support high-performance AI compute demands.",
+                "New computational lithography tools are enabling chipmakers to push silicon density to unprecedented nanometer-level limits.",
+                "Strategic partnerships are forming across global regions to decouple advanced chip manufacturing from single-source dependencies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RESEARCH: FRONTIER MODEL EVALUATION",
+            "points": [
+                "Stanford researchers report that AI coding agents currently demonstrate critical failures in collaborative team-based software tasks.",
+                "New research provides real-time auditing of commercial chatbots to measure performance gaps in practical enterprise applications.",
+                "PsychAdapter technology now allows researchers to dial in specific personality traits to simulate human-like AI behaviors.",
+                "Independent metrics suggest a widening gap between rapid technical capabilities and existing human-centered governance frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SK HYNIX MEMORY",
+            "heading": "OPERATIONS: ENTERPRISE CLOUD GOVERNANCE",
             "points": [
-                "NVIDIA partners with SK hynix to advance next-generation memory systems for the global AI factory buildout.",
-                "Enhanced high-bandwidth memory chips are optimized to support processing demands of the new Vera Rubin platform.",
-                "The tight hardware integration resolves critical data transfer bottlenecks between advanced processors and storage architectures.",
-                "Hardware manufacturers can now scale dense server racks while maintaining high energy efficiency and structural stability."
+                "AWS is rolling out new FinOps agents to provide automated cloud financial governance for AI-heavy workflows.",
+                "Enterprises are adopting data lakehouses as the central backbone for unified analytics and generative AI operations.",
+                "The EU AI Act compliance ledger is now mandatory, forcing rigorous transparency rules on all general-purpose models.",
+                "IT leadership is restructuring to balance employee experimentation with strict security oversight for unauthorized shadow AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
