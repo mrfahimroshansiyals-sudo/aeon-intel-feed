@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "INTELLIGENT SOVEREIGN",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARKET VOLATILITY: INFLATIONARY PRESSURE",
+            "heading": "AMD: SOVEREIGN AI LAB",
             "points": [
-                "US consumer prices reached a three-year high of 4.2 percent annual inflation during May 2026.",
-                "Rising energy costs amid Middle East tensions are driving severe market instability across global equities.",
-                "Investors are currently fleeing technology stocks in record numbers as interest rate cut expectations diminish.",
-                "Macroeconomic instability is forcing enterprise IT leaders to reconsider long-term capital expenditure on AI projects."
+                "AMD and Dell partnered with Cambridge University to establish a new UK Sovereign AI Innovation Lab.",
+                "This infrastructure deployment will utilize next-generation EPYC processors and Instinct accelerators to optimize localized academic research.",
+                "The initiative establishes a secure hardware footprint decoupled from centralized public cloud nodes for sensitive workflows.",
+                "Public sector organizations will gain immediate access to accelerated compute clusters while maintaining strict regulatory compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SYSTEMIC RISK: AI CYBERSECURITY THREATS",
+            "heading": "NVIDIA: LOCAL GEMMA ACCELERATION",
             "points": [
-                "New malware variants like Hades are specifically designed to manipulate and deceive AI security agents.",
-                "Enterprises continue to deploy software containing known security flaws while accelerating rapid AI-driven development cycles.",
-                "Security research highlights that AI agents now serve as potential single points of failure for businesses.",
-                "Regulatory bodies are tightening oversight requirements for secure software products beginning in the current week."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "INFRASTRUCTURE: GIGAWATT-SCALE DEMANDS",
-            "points": [
-                "NAVER is partnering with NVIDIA to expand sovereign AI infrastructure toward future gigawatt-scale data centers.",
-                "Partnerships with SK Telecom aim to build specialized AI cloud platforms to drive regional technical innovation.",
-                "Energy requirements for next-generation AI factories are dictating architectural designs for cooling and power distribution.",
-                "Major hyperscalers are securing multi-year technology deals to guarantee memory supplies for advanced AI compute."
+                "NVIDIA optimized Google DeepMind's DiffusionGemma models to run efficiently on local RTX workstation GPUs.",
+                "Local execution speeds achieved a four-fold increase in image-generation performance compared to unoptimized hardware frameworks.",
+                "The architecture reduces dependency on costly cloud APIs by shifting inference workloads directly to edge devices.",
+                "Software developers can build secure offline generative applications without compromising raw execution speed or output accuracy."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "DEVELOPMENT: AGENTIC WORKFLOW SHIFTS",
+            "id": 3,
+            "heading": "AWS: FINOPS AGENT INTEGRATION",
             "points": [
-                "Enterprise reliance on autonomous agents is increasing, shifting developer focus from code writing to oversight.",
-                "Mistral AI is integrating agentic platforms to streamline operations for major logistics and maritime global leaders.",
-                "GitHub Copilot usage-based billing is forcing teams to optimize code generation to avoid mounting operational costs.",
-                "Senior engineers are increasingly becoming the bottleneck as they struggle to review massive AI-generated codebases."
+                "Amazon Web Services launched a dedicated FinOps Agent to automatically monitor and manage cloud cost architectures.",
+                "The tool bridges engineering development cycles with financial control systems to prevent unplanned cost overruns dynamically.",
+                "Granular resource mapping allows enterprise infrastructure teams to assign operational costs directly to active model deployments.",
+                "Automated cloud spending compliance will significantly reduce systemic cloud waste across decentralized machine learning pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SALESFORCE: m3ter BILLING ACQUISITION",
+            "points": [
+                "Salesforce announced an agreement to acquire m3ter to power complex usage-based pricing models for software.",
+                "The purchase enables automated metering and billing services designed to support multi-agent enterprise application ecosystems.",
+                "Integrating utility-based pricing structures allows customers to align software expenses with precise actual processing resource consumption.",
+                "Enterprise platforms must modernize transactional billing systems as the market transitions toward autonomous agent execution architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPUTE: SEMICONDUCTOR SOVEREIGNTY",
+            "heading": "ANTHROPIC: CLAUDE FABLE 5",
             "points": [
-                "AMD is committing over 10 billion dollars to Taiwan to accelerate foundational AI infrastructure ecosystem growth.",
-                "TSMC is prioritizing backside power solutions in A16 nanosheet technology to support high-performance AI compute demands.",
-                "New computational lithography tools are enabling chipmakers to push silicon density to unprecedented nanometer-level limits.",
-                "Strategic partnerships are forming across global regions to decouple advanced chip manufacturing from single-source dependencies."
+                "Anthropic officially introduced Claude Fable 5, delivering enhanced long-horizon reasoning capabilities for enterprise-grade autonomous workflows.",
+                "Slower execution speeds and increased operational costs reflect the heavy multi-step verification loops embedded inside the model.",
+                "Businesses must balance the high financial premium of advanced model reasoning against basic lower-latency task requirements.",
+                "Strategic deployment of reasoning models will target highly regulated industries demanding absolute zero-defect task completion metrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RESEARCH: FRONTIER MODEL EVALUATION",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Stanford researchers report that AI coding agents currently demonstrate critical failures in collaborative team-based software tasks.",
-                "New research provides real-time auditing of commercial chatbots to measure performance gaps in practical enterprise applications.",
-                "PsychAdapter technology now allows researchers to dial in specific personality traits to simulate human-like AI behaviors.",
-                "Independent metrics suggest a widening gap between rapid technical capabilities and existing human-centered governance frameworks."
+                "Microsoft unveiled Azure HorizonDB, engineering a high-performance PostgreSQL database fully optimized for enterprise AI agent systems.",
+                "The service delivers ultra-low latency reads and native vector searching to accelerate real-time data retrieval operations.",
+                "Deep integration with the Microsoft Fabric ecosystem provides developers with instant grounding resources for intelligent agents.",
+                "Companies can seamlessly scale mission-critical transaction systems without suffering traditional database performance bottlenecks or latency spikes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPERATIONS: ENTERPRISE CLOUD GOVERNANCE",
+            "heading": "GOOGLE: SPACEX COMPUTE ALLIANCE",
             "points": [
-                "AWS is rolling out new FinOps agents to provide automated cloud financial governance for AI-heavy workflows.",
-                "Enterprises are adopting data lakehouses as the central backbone for unified analytics and generative AI operations.",
-                "The EU AI Act compliance ledger is now mandatory, forcing rigorous transparency rules on all general-purpose models.",
-                "IT leadership is restructuring to balance employee experimentation with strict security oversight for unauthorized shadow AI."
+                "Google agreed to pay SpaceX thirty billion dollars to secure deep satellite-linked AI compute capacity globally.",
+                "The infrastructure partnership ensures high-speed low-latency cloud connectivity for distributed edge intelligence systems in remote regions.",
+                "Leveraging orbital constellations allows Google to expand its sovereign AI data network beyond traditional terrestrial fibers.",
+                "This massive investment establishes a highly resilient cloud tier immune to localized physical fiber optic disruptions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
