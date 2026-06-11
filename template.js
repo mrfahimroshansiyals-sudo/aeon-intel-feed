@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "TRANSFORMATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DEEPMIND: MULTI-AGENT INTERACTION SAFETY",
+            "heading": "MICROSOFT: OPEN-SOURCE AGENT EVALUATION",
             "points": [
-                "DeepMind alerts industry to emerging threat patterns when millions of autonomous AI agents interact within shared environments.",
-                "Unmanaged agent populations trigger systemic cascading loops that jeopardize operational stability and elevate enterprise network vulnerabilities.",
-                "Systems engineers must deploy sandboxed testing environments to monitor and regulate unsupervised multi-agent coordination protocols dynamically.",
-                "Unregulated agentic behavior will force security architects to implement real-time kill-switches across critical software infrastructure."
+                "Microsoft has open-sourced a comprehensive evaluation framework designed specifically to stress-test autonomous enterprise agents.",
+                "The framework measures agent reliability across complex API orchestration workflows to guarantee secure transaction execution.",
+                "Software engineers can now systematically audit agentic decision loops prior to deploying models into production environments.",
+                "This release accelerates the enterprise transition toward robust, self-correcting agentic architectures with minimal human oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB AZURE LAUNCH",
+            "heading": "DATABRICKS: OPENSHARING INTEGRATION RESTRUCTURE",
             "points": [
-                "Microsoft launches HorizonDB to deliver fully managed PostgreSQL performance with integrated low-latency AI query optimization.",
-                "High-throughput operations achieve substantial scaling efficiency by migrating mission-critical relational databases directly to the intelligent cloud.",
-                "Modern enterprise applications leverage native vector search and hybrid analytics decoupled from traditional compute bottlenecks.",
-                "Legacy database architectures face rapid deprecation as organizations mandate native intelligence capabilities inside core storage engines."
+                "Databricks launched OpenSharing to eliminate the expensive integration tax historically associated with multi-platform enterprise artificial intelligence.",
+                "This protocol enables secure and zero-copy live data sharing across diverse cloud data lakehouse storage environments.",
+                "Enterprises can bypass complex pipeline rebuilds to feed real-time unstructured datasets directly into downstream reasoning engines.",
+                "Eliminating proprietary data silos radically lowers computational overhead while boosting cross-enterprise collaborative analytics capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: SOVEREIGN INNOVATION LAB",
+            "heading": "OPENAI: STRATEGIC MODEL PRICE WAR",
             "points": [
-                "AMD partners with Dell and Cambridge University to establish a sovereign artificial intelligence research laboratory.",
-                "The multi-million pound initiative delivers high-performance EPYC compute infrastructures directly to localized public sector researchers.",
-                "Building localized hardware clusters ensures strict compliance with regional data residency guidelines and digital sovereignty laws.",
-                "National entities will increasingly bypass centralized hyperscaler clouds to construct private supercomputing platforms for defensive capabilities."
+                "OpenAI is mulling an aggressive pricing strategy to directly counter Anthropic's newly launched Claude Fable five model.",
+                "This pricing battle targets enterprise reasoning workloads where deep cognition cost-performance ratios dictate developer platform selection.",
+                "Lowering inference pricing pressures profit margins but dramatically accelerates market adoption of highly advanced logical reasoning architectures.",
+                "Market analysts predict this aggressive optimization cycle will force rapid hardware and software co-design efficiency improvements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL: VIBE AGENT RELEASE",
+            "heading": "IT LEADERSHIP: AI-NATIVE SOFTWARE DELIVERY",
             "points": [
-                "Mistral AI releases the Vibe agent platform engineered to execute complex, long-horizon developer workflows autonomously.",
-                "Software teams experience rapid deployment acceleration by utilizing asynchronous, architecture-aware code generation and automated testing systems.",
-                "Moving from static code assistants to interactive, agentic coding systems represents a fundamental shift in software architecture.",
-                "Enterprises utilizing self-correcting code engines will dramatically reduce their dependency on manual syntax debugging operations."
+                "Modern software delivery models are fundamentally shifting from basic AI-assisted coding to fully autonomous AI-native development.",
+                "Engineering teams are restructuring standard operating procedures to manage multi-agent code generation networks at massive scale.",
+                "This paradigm eliminates human syntax review bottlenecks by implementing automated validation loops inside continuous integration pipelines.",
+                "CIOs must rapidly modernize legacy infrastructure to support continuous, autonomous software assembly and deployment architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IEEE: TRAINING TIMING OPTIMIZATION",
+            "heading": "DEEPMIND: MULTI-AGENT INTERACTION SAFETY",
             "points": [
-                "Hardware engineering researchers develop a scheduling timing trick to optimize energy consumption during large language model training.",
-                "Deep learning data centers achieve up to fourteen percent total reduction in electricity usage during peak workloads.",
-                "Optimizing clock cycles and GPU idle periods shifts focus toward algorithmic efficiency rather than brute computing power.",
-                "Sustainable compute optimizations will enable hardware providers to lower the high operational cost of foundational models."
+                "Google DeepMind researchers warned about unpredictable emergent failure modes when millions of autonomous agents interact simultaneously.",
+                "Uncontrolled agent-to-agent feedback loops can lead to rapid cascade failures across interconnected financial and operational systems.",
+                "The study advocates for immediate development of robust global containment boundaries and real-time behavioral monitoring frameworks.",
+                "Organizations must proactively build architectural guardrails to prevent systemic synchronization anomalies in scaled agentic networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: APPLE CONFIDENTIAL COMPUTING",
+            "heading": "AMD: SOVEREIGN UK INNOVATION LAB",
             "points": [
-                "NVIDIA integrates custom Confidential Computing capabilities to secure and scale Apple\u2019s private cloud AI processing framework.",
-                "The architecture processes user telemetry securely, guaranteeing zero-trust cryptographic isolation from standard physical server operators.",
-                "Blending secure hardware enclaves with edge intelligence establishes a new global paradigm for highly sensitive personal data processing.",
-                "Consumer trust mandates will force tech conglomerates to adopt end-to-end hardware encryption for all cloud-hosted neural networks."
+                "AMD, Dell, and Cambridge University launched a Sovereign AI Innovation Lab to build high-performance computing clusters.",
+                "This lab combines AMD EPYC processors and Instinct accelerators to power local, secure scientific research initiatives.",
+                "The initiative aims to guarantee computational sovereignty for critical national infrastructure projects and regional academic networks.",
+                "This strategic partnership establishes a blueprint for localized, high-performance data processing outside centralized hyperscaler monopolies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO: AGENT GOVERNANCE GAP",
+            "heading": "META: SOVEREIGN INDIA DATA CENTER",
             "points": [
-                "Enterprise leaders report a widening governance gap as employees spin up unmonitored shadow AI agent deployments.",
-                "IT departments experience heightened security exposures and unbudgeted API consumption costs from rogue, self-delegating automation software.",
-                "Establishing robust, centralized policy control registries becomes a critical priority for maintaining compliance in regulated environments.",
-                "CIOs who fail to enforce strict usage guardrails risk catastrophic data leaks from misconfigured autonomic tools."
+                "Meta partnered with Reliance to build its first localized hyperscale data center facility in the Indian market.",
+                "The facility houses advanced hardware infrastructure designed specifically to run sovereign AI models for local users.",
+                "This architecture circumvents international data transit bottlenecks while strictly adhering to evolving regional compliance mandates.",
+                "Localizing physical compute infrastructure secures strategic dominance in rapidly expanding emerging digital markets across South Asia."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
