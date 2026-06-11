@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTS",
-        "titleBlue": "SCALE"
+        "titleWhite": "DECENTRALIZED ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: CLAUDE FABLE INTEGRATION",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "Anthropic deploys its new Mythos-class model Claude Fable Five directly into Microsoft Foundry and GitHub Copilot systems.",
-                "The integration shifts enterprise focus toward complex reasoning capabilities despite potential trade-offs in long-horizon task execution speeds.",
-                "Developers leverage the advanced model to manage multi-step coding iterations and sophisticated agentic workflows within enterprise environments.",
-                "This deployment strengthens the commercial competition between hyperscale cloud providers offering frontier reasoning models to global businesses."
+                "Microsoft launches Azure HorizonDB, delivering ultra-low latency PostgreSQL reads and native agentic AI functionality.",
+                "The database engine scales multi-region reads efficiently while maintaining strict real-time transactional synchronization metrics.",
+                "This architecture decouples traditional data warehouses to foster highly responsive distributed analytical application development.",
+                "Enterprises will rapidly transition transactional backends toward unified database layers to support autonomous workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FABRIC RAYFIN PLATFORM",
+            "heading": "DEEPMIND: ENCODER-FREE MULTIMODAL MODEL",
             "points": [
-                "Microsoft launches Rayfin as a fully managed agent-and-code optimized backend service natively integrated into Fabric.",
-                "The backend architecture enables developers to deploy scalable autonomous agents with ultra-low latency PostgreSQL database operations.",
-                "Organizations utilize the system to eliminate operational data silos and build resilient real-time transactional intelligence layers.",
-                "This framework accelerates the deployment of production-grade agentic DevOps tools across highly distributed hybrid cloud environments."
+                "Google DeepMind introduces Gemma 4 12B, an innovative unified encoder-free multimodal system.",
+                "The model architecture maximizes raw intelligence-per-parameter ratings to execute massive computations directly on edge devices.",
+                "Bypassing traditional dedicated encoders enables seamless cross-modal training and significantly slashes inference overhead bottlenecks.",
+                "Hardware developers will design consumer electronics optimized specifically for local, high-speed multimodal application execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: VIBE AGENT FRAMEWORK",
+            "heading": "ANTHROPIC: CLAUDE FABLE MODEL",
             "points": [
-                "Mistral AI releases the Vibe autonomous agent framework designed specifically for executing complex long-horizon enterprise tasks.",
-                "The system features persistent memory architectures alongside autonomous code generation capabilities to streamline industrial operations globally.",
-                "Early adoption by global giants ASML and HSBC demonstrates massive productivity gains across advanced semiconductor lithography.",
-                "Developers orchestrate these multi-step agents to translate legacy code bases and manage continuous deployment pipelines seamlessly."
+                "Anthropic deploys Claude Fable 5, a powerful mythos-class intelligence model optimized for complex multi-step reasoning.",
+                "Integration across Microsoft Foundry scales enterprise workflows but drives up computational costs during long-horizon tasks.",
+                "Safe reasoning boundaries require strict alignment guardrails to mitigate structural risks inside highly autonomous systems.",
+                "Global enterprises must budget for increased inference costs to leverage these enhanced deterministic analytical capacities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "IEEE SPECTRUM: LLM TRAINING OPTIMIZATION",
+            "points": [
+                "Researchers deploy a precise hardware-timing mechanism that dynamically regulates clock rates during training processes.",
+                "This novel hardware configuration slashes total electrical energy consumption by up to fourteen percent.",
+                "Optimizing transient compute states mitigates the extreme carbon footprint associated with frontier model pre-training.",
+                "Megawatt-scale data center operators will mandate timing-based hardware firmware updates to lower operational overheads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: VIBE AUTONOMOUS WORKFLOWS",
+            "points": [
+                "Mistral AI launches Vibe, an autonomous agent platform built for complex, long-horizon enterprise development.",
+                "The framework executes asynchronous coding tasks and legacy migrations across isolated secure terminal environments.",
+                "Sovereign containerized agents minimize operational dependencies by operating locally rather than using public SaaS APIs.",
+                "Engineering teams will delegate complex software maintenance cycles to local agent swarms to accelerate deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: UK SOVEREIGN LAB",
+            "id": 6,
+            "heading": "AMD: RACK-SCALE CPU PERFORMANCE",
             "points": [
-                "AMD partners with Dell Technologies and the University of Cambridge to establish a UK Sovereign AI Lab.",
-                "The strategic initiative leverages Epyc processors and Instinct accelerators to scale high-performance computing capabilities across Europe.",
-                "This laboratory secures critical research pipelines while accelerating localized scientific discovery and localized hardware architecture validation.",
-                "The massive investment drives regional technology independence and establishes robust infrastructure for next-generation sovereign intelligence networks."
+                "AMD optimizes EPYC processors for rack-scale execution to handle intensive agentic artificial intelligence workloads.",
+                "Balanced CPU and GPU co-processing eliminates data ingestion delays across high-throughput distributed pipeline architectures.",
+                "High-density socket performance remains critical as agents execute complex logical loops and tool-calling routines.",
+                "Infrastructure architects will prioritize high-performance computing clusters that combine dense multithreading with hardware acceleration."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: TELECOM CLOUD FACTORY",
-            "points": [
-                "NVIDIA partners with SK Telecom to construct a massive gigawatt-scale AI Cloud network across South Korea.",
-                "The infrastructure deployment utilizes the advanced NVIDIA DSX platform to satisfy surging enterprise cognitive processing demands.",
-                "This partnership accelerates the construction of next-generation physical AI systems and autonomous transportation networks in Asia.",
-                "Global telecom operators transition toward decentralized compute frameworks to power localized sovereign application deployments at scale."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "META: INDIAN DATA INFRASTRUCTURE",
-            "points": [
-                "Meta partners with Reliance to build its first dedicated high-capacity artificial intelligence data center in India.",
-                "The facility scales localized digital processing infrastructure to support expanding enterprise cognitive workloads and consumer services.",
-                "This deployment anchors regional digital sovereignty while optimizing model latency for millions of active mobile users.",
-                "Strategic hyper-scale infrastructure investments solidify market presence and establish localized foundations for regional agentic networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "OPENAI: CONFIDENTIAL IPO FILING",
+            "heading": "GOOGLE CLOUD: SPACE CHIP INFRASTRUCTURE",
             "points": [
-                "OpenAI submits a confidential draft S-One filing to the Securities and Exchange Commission for its public offering.",
-                "The regulatory submission marks a transition toward structured public capital markets to finance capital-intensive model development cycles.",
-                "Strategic financial maneuvering positions the organization to scale massive computer infrastructure partnerships with global aerospace firms.",
-                "Financial markets prepare for unprecedented valuations as the leading artificial intelligence developer opens its balance sheet."
+                "Google allocates thirty billion dollars to SpaceX for satellite-enabled, high-performance distributed cloud computing capabilities.",
+                "This immense partnership establishes robust low-latency connections across hundreds of orbital edge data nodes globally.",
+                "Merging orbital infrastructure with hyperscale clouds bypasses terrestrial fiber bottlenecks to secure sovereign edge systems.",
+                "Sovereign defense and shipping organizations will integrate this resilient satellite network for real-time edge security."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
