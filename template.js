@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED ENTERPRISE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
+            "heading": "DEEPMIND: MULTI-AGENT INTERACTION SAFETY",
             "points": [
-                "Microsoft launches Azure HorizonDB, delivering ultra-low latency PostgreSQL reads and native agentic AI functionality.",
-                "The database engine scales multi-region reads efficiently while maintaining strict real-time transactional synchronization metrics.",
-                "This architecture decouples traditional data warehouses to foster highly responsive distributed analytical application development.",
-                "Enterprises will rapidly transition transactional backends toward unified database layers to support autonomous workflows."
+                "DeepMind alerts industry to emerging threat patterns when millions of autonomous AI agents interact within shared environments.",
+                "Unmanaged agent populations trigger systemic cascading loops that jeopardize operational stability and elevate enterprise network vulnerabilities.",
+                "Systems engineers must deploy sandboxed testing environments to monitor and regulate unsupervised multi-agent coordination protocols dynamically.",
+                "Unregulated agentic behavior will force security architects to implement real-time kill-switches across critical software infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.technologyreview.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MICROSOFT: HORIZONDB AZURE LAUNCH",
+            "points": [
+                "Microsoft launches HorizonDB to deliver fully managed PostgreSQL performance with integrated low-latency AI query optimization.",
+                "High-throughput operations achieve substantial scaling efficiency by migrating mission-critical relational databases directly to the intelligent cloud.",
+                "Modern enterprise applications leverage native vector search and hybrid analytics decoupled from traditional compute bottlenecks.",
+                "Legacy database architectures face rapid deprecation as organizations mandate native intelligence capabilities inside core storage engines."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,77 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "DEEPMIND: ENCODER-FREE MULTIMODAL MODEL",
-            "points": [
-                "Google DeepMind introduces Gemma 4 12B, an innovative unified encoder-free multimodal system.",
-                "The model architecture maximizes raw intelligence-per-parameter ratings to execute massive computations directly on edge devices.",
-                "Bypassing traditional dedicated encoders enables seamless cross-modal training and significantly slashes inference overhead bottlenecks.",
-                "Hardware developers will design consumer electronics optimized specifically for local, high-speed multimodal application execution."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "ANTHROPIC: CLAUDE FABLE MODEL",
+            "heading": "AMD: SOVEREIGN INNOVATION LAB",
             "points": [
-                "Anthropic deploys Claude Fable 5, a powerful mythos-class intelligence model optimized for complex multi-step reasoning.",
-                "Integration across Microsoft Foundry scales enterprise workflows but drives up computational costs during long-horizon tasks.",
-                "Safe reasoning boundaries require strict alignment guardrails to mitigate structural risks inside highly autonomous systems.",
-                "Global enterprises must budget for increased inference costs to leverage these enhanced deterministic analytical capacities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "IEEE SPECTRUM: LLM TRAINING OPTIMIZATION",
-            "points": [
-                "Researchers deploy a precise hardware-timing mechanism that dynamically regulates clock rates during training processes.",
-                "This novel hardware configuration slashes total electrical energy consumption by up to fourteen percent.",
-                "Optimizing transient compute states mitigates the extreme carbon footprint associated with frontier model pre-training.",
-                "Megawatt-scale data center operators will mandate timing-based hardware firmware updates to lower operational overheads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: VIBE AUTONOMOUS WORKFLOWS",
-            "points": [
-                "Mistral AI launches Vibe, an autonomous agent platform built for complex, long-horizon enterprise development.",
-                "The framework executes asynchronous coding tasks and legacy migrations across isolated secure terminal environments.",
-                "Sovereign containerized agents minimize operational dependencies by operating locally rather than using public SaaS APIs.",
-                "Engineering teams will delegate complex software maintenance cycles to local agent swarms to accelerate deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: RACK-SCALE CPU PERFORMANCE",
-            "points": [
-                "AMD optimizes EPYC processors for rack-scale execution to handle intensive agentic artificial intelligence workloads.",
-                "Balanced CPU and GPU co-processing eliminates data ingestion delays across high-throughput distributed pipeline architectures.",
-                "High-density socket performance remains critical as agents execute complex logical loops and tool-calling routines.",
-                "Infrastructure architects will prioritize high-performance computing clusters that combine dense multithreading with hardware acceleration."
+                "AMD partners with Dell and Cambridge University to establish a sovereign artificial intelligence research laboratory.",
+                "The multi-million pound initiative delivers high-performance EPYC compute infrastructures directly to localized public sector researchers.",
+                "Building localized hardware clusters ensures strict compliance with regional data residency guidelines and digital sovereignty laws.",
+                "National entities will increasingly bypass centralized hyperscaler clouds to construct private supercomputing platforms for defensive capabilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "GOOGLE CLOUD: SPACE CHIP INFRASTRUCTURE",
+            "id": 4,
+            "heading": "MISTRAL: VIBE AGENT RELEASE",
             "points": [
-                "Google allocates thirty billion dollars to SpaceX for satellite-enabled, high-performance distributed cloud computing capabilities.",
-                "This immense partnership establishes robust low-latency connections across hundreds of orbital edge data nodes globally.",
-                "Merging orbital infrastructure with hyperscale clouds bypasses terrestrial fiber bottlenecks to secure sovereign edge systems.",
-                "Sovereign defense and shipping organizations will integrate this resilient satellite network for real-time edge security."
+                "Mistral AI releases the Vibe agent platform engineered to execute complex, long-horizon developer workflows autonomously.",
+                "Software teams experience rapid deployment acceleration by utilizing asynchronous, architecture-aware code generation and automated testing systems.",
+                "Moving from static code assistants to interactive, agentic coding systems represents a fundamental shift in software architecture.",
+                "Enterprises utilizing self-correcting code engines will dramatically reduce their dependency on manual syntax debugging operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "IEEE: TRAINING TIMING OPTIMIZATION",
+            "points": [
+                "Hardware engineering researchers develop a scheduling timing trick to optimize energy consumption during large language model training.",
+                "Deep learning data centers achieve up to fourteen percent total reduction in electricity usage during peak workloads.",
+                "Optimizing clock cycles and GPU idle periods shifts focus toward algorithmic efficiency rather than brute computing power.",
+                "Sustainable compute optimizations will enable hardware providers to lower the high operational cost of foundational models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: APPLE CONFIDENTIAL COMPUTING",
+            "points": [
+                "NVIDIA integrates custom Confidential Computing capabilities to secure and scale Apple\u2019s private cloud AI processing framework.",
+                "The architecture processes user telemetry securely, guaranteeing zero-trust cryptographic isolation from standard physical server operators.",
+                "Blending secure hardware enclaves with edge intelligence establishes a new global paradigm for highly sensitive personal data processing.",
+                "Consumer trust mandates will force tech conglomerates to adopt end-to-end hardware encryption for all cloud-hosted neural networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CIO: AGENT GOVERNANCE GAP",
+            "points": [
+                "Enterprise leaders report a widening governance gap as employees spin up unmonitored shadow AI agent deployments.",
+                "IT departments experience heightened security exposures and unbudgeted API consumption costs from rogue, self-delegating automation software.",
+                "Establishing robust, centralized policy control registries becomes a critical priority for maintaining compliance in regulated environments.",
+                "CIOs who fail to enforce strict usage guardrails risk catastrophic data leaks from misconfigured autonomic tools."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
