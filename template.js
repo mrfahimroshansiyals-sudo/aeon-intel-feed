@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "ECOSYSTEM"
+        "titleWhite": "DECENTRALIZED AGENTIC",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AGENT EVALUATION OPEN SOURCED",
+            "heading": "MICROSOFT: FOUNDRY FABLE DEPLOYMENT",
             "points": [
-                "Microsoft has open-sourced an advanced evaluation framework specifically engineered to validate enterprise-grade autonomous agents.",
-                "The system helps engineering teams monitor behavioral alignment and prevent unintended loops during runtime execution.",
-                "Standardizing evaluation architectures reduces the deployment overhead and audit requirements for highly regulated industries.",
-                "Corporate developers gain direct observability into model reasoning steps prior to deploying live agent clusters."
+                "Microsoft integrates Anthropic Claude Fable five into Foundry and GitHub Copilot for mythos-class complex reasoning.",
+                "The architecture targets heavy orchestration and deep reasoning capabilities over long-horizon workflows across enterprise development pipelines.",
+                "This integration reduces latency barriers by processing extensive agentic workflows directly inside managed cloud development environments.",
+                "Organizations gain sovereign control over reasoning loops while scaling critical automated software engineering across multiple developer teams."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DATABRICKS: OPENSHARING COLLABORATIVE PROTOCOL",
+            "heading": "COINBASE: AGENTIC FINANCIAL ENGINE",
             "points": [
-                "Databricks introduced OpenSharing as an open source protocol for sharing secure models and agent skills.",
-                "The standard aims to eliminate the complex integration tax associated with legacy cross-domain data pipelines.",
-                "Multi-tenant environments can now exchange model weights securely without exposing proprietary raw training datasets.",
-                "Enterprises can deploy collaborative AI applications across decentralized cloud environments with unified governance boundaries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "COINBASE: AGENTIC PAYMENT UTILITY LAUNCH",
-            "points": [
-                "Coinbase launched a specialized utility enabling autonomous AI agents to manage transactions and automated trading wallets.",
-                "This infrastructure provides models with native financial rails to execute gas-efficient smart contract commands seamlessly.",
-                "Machine-to-machine commerce represents a critical step toward fully decoupled digital economies without human intermediaries.",
-                "Developers can integrate payment protocols to let software agents pay for their own computing resources."
+                "Coinbase launches a dedicated interface enabling autonomous artificial intelligence agents to manage trading portfolios and execute payments.",
+                "The utility bypasses legacy manual transactional checks to provide native cryptographic wallets directly to specialized machine workflows.",
+                "This framework reduces friction for automated web3 processes while maintaining strict compliance protocols across global financial systems.",
+                "Engineers expect accelerated microtransaction volumes as autonomous systems begin executing automated real-time settlement operations independently."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "IEEE SPECTRUM: COMPUTATIONAL CLOCK TIMING TRICK",
+            "id": 3,
+            "heading": "DEEPMIND: MULTI-AGENT COLLISION RISKS",
             "points": [
-                "Researchers developed a novel timing trick that dynamically adjusts hardware clocking frequency during computation cycles.",
-                "This technical adjustment reduces large language model training energy consumption by up to fourteen percent overall.",
-                "Saving physical power during peak matrix multiplication operations does not degrade final model output quality.",
-                "Implementing this scheduling layer helps data centers lower operational carbon footprints without replacing expensive accelerators."
+                "Google DeepMind publishes research warning of severe coordination vulnerabilities when millions of autonomous agents interact simultaneously.",
+                "Unchecked multi-agent environments could trigger systemic cascade failures and unpredictable algorithmic feedback loops in production ecosystems.",
+                "Developers must implement robust boundaries and sandbox regulations to guarantee alignment as decentralized networks of agents expand.",
+                "This research serves as a critical baseline for architecting next-generation safety frameworks inside complex operational spaces."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.technologyreview.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: SOVEREIGN INNOVATION LAB",
+            "points": [
+                "AMD joins Dell and University of Cambridge to deploy the United Kingdom sovereign artificial intelligence innovation lab.",
+                "The platform leverages high-performance EPYC processors alongside advanced network fabrics to drive highly secure national computing research.",
+                "This deployment minimizes dependence on external proprietary cloud environments while fostering native technological capability across sensitive sectors.",
+                "The consortium aims to accelerate complex academic and industrial workloads through localized hardware optimization and strategic partnerships."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "IEEE: DYNAMIC CLOCK LLM TRAINING",
+            "points": [
+                "Research highlights a dynamic hardware clocking frequency adjustment technique that drops large language model training consumption significantly.",
+                "The temporal processing optimization decreases overall thermal dissipation and energy usage by up to fourteen percent seamlessly.",
+                "Adjusting processor clock speeds mid-computation eliminates waste without degrading performance or accuracy during complex neural network training.",
+                "Infrastructure engineers can implement this hardware timing adjustment to improve server density in highly constrained data centers."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: SOUTH KOREAN GIGAWATT COOPERATION",
-            "points": [
-                "SK Telecom partnered with NVIDIA to build a massive gigawatt-scale AI Cloud network in South Korea.",
-                "The high-performance deployment leverages the advanced DSX platform to establish sovereign processing infrastructure nationwide.",
-                "This strategic alignment guarantees continuous high-bandwidth memory supplies optimized specifically for high-capacity generative models.",
-                "Telecommunication hubs can leverage regional localized supercomputers to accelerate domestic enterprise software development securely."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "ANTHROPIC: MYTHOS FABLE MODEL EXPANSION",
+            "heading": "DATABRICKS: AI DATA OPENSHARING",
             "points": [
-                "Anthropic released Fable 5 as its newest mythos-class AI model optimized for complex agentic workflows.",
-                "The architectural update dramatically improves coding consistency and handles long-running multi-step operations without human intervention.",
-                "Over one hundred fifty organizations across fifteen countries are deploying the advanced reasoning system immediately.",
-                "Public benefit scaling frameworks dictate strict security and alignment monitoring during these expanded production runs."
+                "Databricks announces OpenSharing to eliminate integration taxes associated with exchanging models and agentic skills across organizations.",
+                "The open-source protocol establishes native collaboration pathways for secure cross-organizational artificial intelligence utilization and deployment strategies.",
+                "This structure optimizes the interoperability of complex enterprise datasets without exposing primary weights or underlying training assets.",
+                "Businesses can now rapidly deploy and combine third-party agent skills within deeply protected operational boundaries globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO: SHADOW AGENT DEPLOYMENT COMPLIANCE",
+            "heading": "NAVER: SOVEREIGN CLOUD SCALE-UP",
             "points": [
-                "Chief Information Officers face escalating security risks from uncoordinated shadow AI tools deployed by employees.",
-                "Enterprises lack clear visibility into which custom workflows or autonomous agents are operating across networks.",
-                "Decentralized execution creates significant governance gaps and potential regulatory liabilities under upcoming global AI legislations.",
-                "IT leadership must establish centralized control planes to monitor model access without stifling developer innovation."
+                "NAVER expands sovereign infrastructure with Nvidia starting at fifty-five megawatts with plans to achieve gigawatt-scale capacity.",
+                "The infrastructure buildout utilizes state-of-the-art systems to secure regional digital independence against dominant global monolithic clouds.",
+                "This development ensures high-performance localized data processing while strictly adhering to evolving global sovereignty and privacy compliance.",
+                "Regional enterprises can deploy sovereign models on dedicated local hardware optimized specifically for secure geographic operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
