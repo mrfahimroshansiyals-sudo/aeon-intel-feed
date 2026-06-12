@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED ENTERPRISE AGENT",
-        "titleBlue": "SYSTEMS"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DATABRICKS: OPENSHARING PROTOCOL",
+            "heading": "ANTHROPIC: CLAUDE FABLE 5 INTEGRATION",
             "points": [
-                "Databricks launched OpenSharing, an open protocol to share AI models and agent skills across enterprise networks.",
-                "The protocol reduces model integration taxes and cuts complex proprietary data pipeline overheads by forty percent.",
-                "It standardizes decentralized asset distribution and secure cross-domain model governance without vendor lock-in constraints.",
-                "Enterprises will rapidly deploy collaborative multi-agent ecosystems across diverse federated cloud computing directories."
+                "Anthropic integrates its mythos-class Claude Fable 5 model directly into Microsoft Foundry and GitHub Copilot platforms.",
+                "The integration delivers advanced reasoning capabilities but presents slower execution latency and higher operational pricing structures.",
+                "This model targets long-horizon tasks through a complex process flow optimized for secure enterprise developer environments.",
+                "Developers can leverage superior contextual understanding to automate sophisticated software engineering workflows across globally distributed teams."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "DATABRICKS: OPENSHARING STANDARD RELEASED",
+            "points": [
+                "Databricks introduces the open-source OpenSharing protocol to facilitate secure sharing of AI assets across enterprise boundaries.",
+                "This standard eliminates traditional integration taxes by enabling seamless exchange of model architectures and agent skills.",
+                "The decentralized governance framework secures data streams without locking organizations into proprietary vendor clouds or platforms.",
+                "Global enterprises can collaborate dynamically on shared agentic assets while maintaining strict compliance with local regulations."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,77 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MICROSOFT: AGENT EVALUATION ENGINE",
-            "points": [
-                "Microsoft open-sourced an AI evaluation framework designed to systematically measure autonomous enterprise agent performance.",
-                "Teams can benchmark agentic workflows against strict reliability metrics to identify architectural execution failure points.",
-                "This open-source framework aims to close the growing accountability gap of shadow AI deployments.",
-                "Developers will build safer production-grade agents with verified decision-making guardrails and lower hallucination risks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "NVIDIA: LOCAL GEMMA ACCELERATION",
+            "heading": "MICROSOFT: FABRIC RAYFIN AGENTIC BACKEND",
             "points": [
-                "Nvidia optimized Google DeepMind's DiffusionGemma model to accelerate local text and image generation performance.",
-                "Edge devices using local hardware acceleration can now execute complex image generation tasks four times faster.",
-                "Local processing minimizes latency hurdles and resolves enterprise data privacy concerns for sensitive client workloads.",
-                "Hardware-optimized local models will empower developers to build highly responsive off-grid generative applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NEURA ROBOTICS: COGNITIVE PHYSICAL AI",
-            "points": [
-                "Neura Robotics raised one point four billion dollars to scale advanced cognitive physical artificial intelligence platforms.",
-                "The capital injection will accelerate the commercial deployment of collaborative humanoid robots in industrial environments.",
-                "This funding highlights a massive structural pivot toward merging generative software models with physical machinery.",
-                "Industrial manufacturers will deploy adaptive autonomous robots capable of executing highly precise manual tasks safely."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMD: SOVEREIGN INNOVATION LAB",
-            "points": [
-                "AMD partnered with Dell Technologies and Cambridge University to launch a UK Sovereign AI Innovation Lab.",
-                "The advanced facility combines scale computing architectures to power public-sector scientific research and workforce training.",
-                "This project strengthens local computing infrastructure and decreases dependence on foreign proprietary technology stacks.",
-                "National governments will increasingly prioritize localized infrastructure to protect critical digital intellectual property assets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: CLAUDE FABLE RUNTIME",
-            "points": [
-                "Microsoft announced the integration of Anthropic's Claude Fable model into the Azure Foundry ecosystem.",
-                "The mythos class model enables deep logical reasoning capabilities across long-horizon enterprise development workflows.",
-                "High-capacity models on Azure Foundry optimize continuous developer productivity through advanced agentic code generation.",
-                "Engineering teams will deploy highly sophisticated autonomous systems capable of complex legacy code translations."
+                "Microsoft launches Rayfin, a fully managed backend service optimized specifically for autonomous agents within Microsoft Fabric.",
+                "The infrastructure reduces developer friction by unifying application context across the enterprise intelligence layer and Foundry IQ.",
+                "Integrating directly with scalable databases, Rayfin establishes low-latency data access pathways required for complex agent orchestration.",
+                "Organizations can deploy highly responsive, state-aware AI workforces capable of performing multi-step transactional tasks securely."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ORACLE: OUTCOME BASED BILLING",
+            "id": 4,
+            "heading": "AMD: SOVEREIGN AI INNOVATION LAB",
             "points": [
-                "Oracle initiated a pilot program for outcome-based AI billing to replace traditional token-based payment models.",
-                "This structure ensures organizations pay exclusively for successful task completions instead of raw compute consumption.",
-                "Shifting to outcome-based metrics mitigates the financial risks of looping agents and unpredictable usage spikes.",
-                "Enterprise procurement teams will gain predictable budgeting control over their decentralized autonomous agent fleets."
+                "AMD collaborates with Dell and the University of Cambridge to deploy a sovereign AI innovation lab.",
+                "A massive two billion pound commitment scales high-performance computing infrastructure and scientific research across the United Kingdom.",
+                "Rack-scale EPYC central processing units execute agentic workloads alongside adaptive computing accelerators to balance power demands.",
+                "Sovereign entities gain critical hardware infrastructure to train and deploy localized foundation models safely and independently."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ORACLE: OUTCOME-BASED AI BILLING",
+            "points": [
+                "Oracle pilots an outcome-based AI billing program to replace volatile token-based pricing models for enterprise customers.",
+                "The pricing transition offers corporate buyers predictable budgeting cycles by matching infrastructure expenditures with functional outputs.",
+                "Decoupling financial metrics from token consumption mitigates the strategic risk of spiraling costs during long-horizon loops.",
+                "CIOs can scale complex autonomous agents with transparent operational costs, accelerating migration to AI-native business processes."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RESEARCH: DYNAMIC CLOCKING ENERGY SAVINGS",
+            "points": [
+                "Researchers demonstrate a new dynamic clocking frequency technique to significantly reduce deep learning energy footprints.",
+                "Adjusting hardware processing speeds dynamically during matrix multiplication cuts LLM training energy consumption by fourteen percent.",
+                "The hardware-level optimization preserves model validation accuracy while systematically lowering thermal profiles in hyperscale data centers.",
+                "Infrastructure providers can implement this timing mechanism to optimize hardware efficiency without degrading performance boundaries."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "DEEPMIND: ENCODER-FREE MULTIMODAL MODEL",
+            "points": [
+                "Google DeepMind releases Gemma 4 12B, a unified, encoder-free multimodal model designed specifically for edge deployment.",
+                "The architecture maximizes parameter intelligence while lowering memory footprints to execute complex tasks locally on devices.",
+                "Eliminating separate visual encoders streamlines computational graphs and native processing pipelines across diverse hardware acceleration platforms.",
+                "Edge devices can perform real-time, high-fidelity multimodal reasoning autonomously without relying on continuous cloud connectivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
