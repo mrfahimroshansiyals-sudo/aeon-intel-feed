@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "NEXT GENERATION COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA & SK HYNIX: MEMORY ALLIANCE",
+            "heading": "AMD: UK SOVEREIGN LAB",
             "points": [
-                "NVIDIA and SK hynix finalized a multiyear technology partnership targeting advanced memory architectures for next-generation AI factories.",
-                "The collaboration focuses on integrating high-bandwidth memory variants directly into scalable, liquid-cooled data center server nodes.",
-                "This alignment secures immediate access to essential memory supply chains amid soaring global hardware production demands.",
-                "Enterprise architects should expect lower latency and increased throughput capabilities in upcoming physical AI computing platforms."
+                "AMD launched a UK Sovereign AI Innovation Lab in collaboration with Dell Technologies and University of Cambridge.",
+                "The computing initiative leverages EPYC processors and Instinct accelerators to power localized public sector research projects.",
+                "This strategic investment aims to bolster national infrastructure security and develop high-performance compute expertise across industries.",
+                "Researchers can now deploy complex localized workloads without relying on external non-sovereign cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY FABLE DEPLOYMENT",
+            "heading": "MICROSOFT: CLAUDE FABLE 5",
             "points": [
-                "Microsoft integrated Anthropic Claude Fable 5 within the Microsoft Foundry catalog and GitHub Copilot developer platforms.",
-                "This deployment unlocks enhanced long-horizon reasoning capabilities and complex agentic task execution workflows across cloud environments.",
-                "Systems developers can now leverage advanced coding capabilities directly within integrated development environments and terminal terminals.",
-                "Corporate managers must monitor the computational overhead of these reasoning models against performance gains in automation."
+                "Microsoft integrated Anthropic Claude Fable five mythos class model directly into Foundry and GitHub Copilot architectures.",
+                "The specialized deployment offers developers enhanced contextual capabilities and safety guardrails inside corporate cloud development environments.",
+                "Enterprises gain immediate access to next-generation reasoning capabilities optimized for high-performance agentic workflows.",
+                "This rollout strengthens Azure's position as the leading developer platform for advanced cognitive model deployments globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: OPENSHARING ASSET STANDARD",
+            "heading": "DATABRICKS: OPENSHARING SYSTEM",
             "points": [
-                "Databricks introduced OpenSharing as a modern open-source standard for exchanging secure machine learning assets across platforms.",
-                "The protocol simplifies cross-organization sharing of foundational artificial intelligence models and autonomous software agent skills safely.",
-                "By removing heavy custom integration pipelines, the system eliminates the traditional integration tax of enterprise data.",
-                "CIOs can leverage the framework to build federated AI systems without exposing proprietary underlying databases directly."
+                "Databricks introduced OpenSharing to combat the high integration tax currently associated with enterprise artificial intelligence.",
+                "The open source protocol enables seamless distribution of AI models and agent skills across diverse corporate platforms.",
+                "Organizations can securely exchange foundational models with external business partners without risking proprietary operational data leaks.",
+                "This data management advance standardizes collaborative pipelines while preserving strict governance and access control mechanisms."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD & DELL: SOVEREIGN INNOVATION LAB",
+            "heading": "DEEPMIND: LOCAL ACCELERATION",
             "points": [
-                "AMD partnered with Dell Technologies and the University of Cambridge to launch a UK Sovereign AI Lab.",
-                "The state-of-the-art facility integrates high-performance EPYC processors and Instinct accelerators to advance domestic scientific research.",
-                "This initiative directly strengthens localized computing capability while decoupling academic computational infrastructure from foreign single-vendor ecosystems.",
-                "Researchers expect accelerated discoveries in quantum physics, materials science, and secure machine learning model development methodologies."
+                "Google DeepMind partnered with NVIDIA to optimize DiffusionGemma for high-speed execution on local edge consumer hardware.",
+                "The collaborative engineering effort delivers four times faster text generation capabilities for local model execution pipelines.",
+                "Developers can leverage specialized hardware acceleration on RTX systems to build highly responsive offline applications.",
+                "Localized deployment mitigates latency and bandwidth issues while offering complete privacy for sensitive enterprise user data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ORACLE: OUTCOME-BASED MODEL BILLING",
+            "heading": "ASML: LITHOGRAPHY AI",
             "points": [
-                "Oracle initiated a pilot program for outcome-based AI billing to replace unpredictable token-based pricing models completely.",
-                "The new transaction architecture allows enterprise customers to pay solely for successful transactional outputs and resolutions.",
-                "This development helps financial officers establish more predictable IT budgets for complex autonomous agent workflows globally.",
-                "Competitors will likely face pressure to reform their public API pricing to match these consumer-friendly structures."
+                "ASML deployed advanced AI-native engineering systems to optimize precision patterns during next-generation semiconductor lithography processes.",
+                "The automated software platform integrates machine learning models directly into hardware calibration and chip manufacturing tasks.",
+                "This deployment dramatically reduces operational errors and accelerates production timelines for global high-volume microchip fabrications.",
+                "Leading hardware foundries can scale performance capabilities to meet surging global computing demands for AI acceleration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT FABRIC: RAYFIN BACKEND LAUNCH",
+            "heading": "NEURA ROBOTICS: PHYSICAL AI",
             "points": [
-                "Microsoft Fabric launched Rayfin, a fully managed, agent-optimized backend as a service tailored for autonomous workflows.",
-                "The platform provides systems developers with pre-built runtime environments and optimized software development kits for rapid scaling.",
-                "Grounded integration allows secure connections across distributed enterprise data layers with robust identity management controls built-in.",
-                "Software engineering teams can reduce pipeline operational complexity when deploying multi-agent systems inside legacy digital ecosystems."
+                "Neura Robotics secured one point four billion dollars in funding to accelerate development of physical AI systems.",
+                "The capital injection will scale production of cognitive robotic platforms engineered for industrial and healthcare operational environments.",
+                "Integrating advanced machine learning with mechanical hardware enables robots to navigate complex physical workspaces with high autonomy.",
+                "This massive financial backing highlights intensifying global investor interest in physical automation technologies and advanced robotics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMAZON & CORNING: DATA CENTER EXPANSION",
+            "heading": "ORACLE: OUTCOME BILLING",
             "points": [
-                "Amazon partnered with Corning to expand its high-speed fiber-optic network infrastructure across global hyperscale data centers.",
-                "The strategic deployment delivers low-latency inter-cluster connectivity required to sustain massive multi-node AI model training runs.",
-                "Increased bandwidth capacity supports the rapid growth of compute-intensive agentic workloads and massive distributed data integration.",
-                "Network engineers will achieve higher system throughput while dramatically reducing operational power overhead across physical networking nodes."
+                "Oracle initiated a pilot program for outcome-based AI billing to replace traditional token-based software pricing models.",
+                "Enterprise customers will pay strictly for verified functional business results rather than raw micro-token usage metrics.",
+                "The novel paradigm addresses growing corporate budgeting frustrations stemming from highly unpredictable artificial intelligence execution costs.",
+                "Successful adoption of this pricing strategy could redefine standard software-as-a-service licensing terms across the entire industry."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
