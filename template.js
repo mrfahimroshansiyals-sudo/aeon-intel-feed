@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: CLAUDE FABLE 5 INTEGRATION",
+            "heading": "NVIDIA & SK HYNIX: MEMORY ALLIANCE",
             "points": [
-                "Anthropic integrates its mythos-class Claude Fable 5 model directly into Microsoft Foundry and GitHub Copilot platforms.",
-                "The integration delivers advanced reasoning capabilities but presents slower execution latency and higher operational pricing structures.",
-                "This model targets long-horizon tasks through a complex process flow optimized for secure enterprise developer environments.",
-                "Developers can leverage superior contextual understanding to automate sophisticated software engineering workflows across globally distributed teams."
+                "NVIDIA and SK hynix finalized a multiyear technology partnership targeting advanced memory architectures for next-generation AI factories.",
+                "The collaboration focuses on integrating high-bandwidth memory variants directly into scalable, liquid-cooled data center server nodes.",
+                "This alignment secures immediate access to essential memory supply chains amid soaring global hardware production demands.",
+                "Enterprise architects should expect lower latency and increased throughput capabilities in upcoming physical AI computing platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DATABRICKS: OPENSHARING STANDARD RELEASED",
+            "heading": "MICROSOFT: FOUNDRY FABLE DEPLOYMENT",
             "points": [
-                "Databricks introduces the open-source OpenSharing protocol to facilitate secure sharing of AI assets across enterprise boundaries.",
-                "This standard eliminates traditional integration taxes by enabling seamless exchange of model architectures and agent skills.",
-                "The decentralized governance framework secures data streams without locking organizations into proprietary vendor clouds or platforms.",
-                "Global enterprises can collaborate dynamically on shared agentic assets while maintaining strict compliance with local regulations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT: FABRIC RAYFIN AGENTIC BACKEND",
-            "points": [
-                "Microsoft launches Rayfin, a fully managed backend service optimized specifically for autonomous agents within Microsoft Fabric.",
-                "The infrastructure reduces developer friction by unifying application context across the enterprise intelligence layer and Foundry IQ.",
-                "Integrating directly with scalable databases, Rayfin establishes low-latency data access pathways required for complex agent orchestration.",
-                "Organizations can deploy highly responsive, state-aware AI workforces capable of performing multi-step transactional tasks securely."
+                "Microsoft integrated Anthropic Claude Fable 5 within the Microsoft Foundry catalog and GitHub Copilot developer platforms.",
+                "This deployment unlocks enhanced long-horizon reasoning capabilities and complex agentic task execution workflows across cloud environments.",
+                "Systems developers can now leverage advanced coding capabilities directly within integrated development environments and terminal terminals.",
+                "Corporate managers must monitor the computational overhead of these reasoning models against performance gains in automation."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: SOVEREIGN AI INNOVATION LAB",
+            "id": 3,
+            "heading": "DATABRICKS: OPENSHARING ASSET STANDARD",
             "points": [
-                "AMD collaborates with Dell and the University of Cambridge to deploy a sovereign AI innovation lab.",
-                "A massive two billion pound commitment scales high-performance computing infrastructure and scientific research across the United Kingdom.",
-                "Rack-scale EPYC central processing units execute agentic workloads alongside adaptive computing accelerators to balance power demands.",
-                "Sovereign entities gain critical hardware infrastructure to train and deploy localized foundation models safely and independently."
+                "Databricks introduced OpenSharing as a modern open-source standard for exchanging secure machine learning assets across platforms.",
+                "The protocol simplifies cross-organization sharing of foundational artificial intelligence models and autonomous software agent skills safely.",
+                "By removing heavy custom integration pipelines, the system eliminates the traditional integration tax of enterprise data.",
+                "CIOs can leverage the framework to build federated AI systems without exposing proprietary underlying databases directly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD & DELL: SOVEREIGN INNOVATION LAB",
+            "points": [
+                "AMD partnered with Dell Technologies and the University of Cambridge to launch a UK Sovereign AI Lab.",
+                "The state-of-the-art facility integrates high-performance EPYC processors and Instinct accelerators to advance domestic scientific research.",
+                "This initiative directly strengthens localized computing capability while decoupling academic computational infrastructure from foreign single-vendor ecosystems.",
+                "Researchers expect accelerated discoveries in quantum physics, materials science, and secure machine learning model development methodologies."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,12 +71,12 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "ORACLE: OUTCOME-BASED AI BILLING",
+            "heading": "ORACLE: OUTCOME-BASED MODEL BILLING",
             "points": [
-                "Oracle pilots an outcome-based AI billing program to replace volatile token-based pricing models for enterprise customers.",
-                "The pricing transition offers corporate buyers predictable budgeting cycles by matching infrastructure expenditures with functional outputs.",
-                "Decoupling financial metrics from token consumption mitigates the strategic risk of spiraling costs during long-horizon loops.",
-                "CIOs can scale complex autonomous agents with transparent operational costs, accelerating migration to AI-native business processes."
+                "Oracle initiated a pilot program for outcome-based AI billing to replace unpredictable token-based pricing models completely.",
+                "The new transaction architecture allows enterprise customers to pay solely for successful transactional outputs and resolutions.",
+                "This development helps financial officers establish more predictable IT budgets for complex autonomous agent workflows globally.",
+                "Competitors will likely face pressure to reform their public API pricing to match these consumer-friendly structures."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "RESEARCH: DYNAMIC CLOCKING ENERGY SAVINGS",
+            "heading": "MICROSOFT FABRIC: RAYFIN BACKEND LAUNCH",
             "points": [
-                "Researchers demonstrate a new dynamic clocking frequency technique to significantly reduce deep learning energy footprints.",
-                "Adjusting hardware processing speeds dynamically during matrix multiplication cuts LLM training energy consumption by fourteen percent.",
-                "The hardware-level optimization preserves model validation accuracy while systematically lowering thermal profiles in hyperscale data centers.",
-                "Infrastructure providers can implement this timing mechanism to optimize hardware efficiency without degrading performance boundaries."
+                "Microsoft Fabric launched Rayfin, a fully managed, agent-optimized backend as a service tailored for autonomous workflows.",
+                "The platform provides systems developers with pre-built runtime environments and optimized software development kits for rapid scaling.",
+                "Grounded integration allows secure connections across distributed enterprise data layers with robust identity management controls built-in.",
+                "Software engineering teams can reduce pipeline operational complexity when deploying multi-agent systems inside legacy digital ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: ENCODER-FREE MULTIMODAL MODEL",
+            "heading": "AMAZON & CORNING: DATA CENTER EXPANSION",
             "points": [
-                "Google DeepMind releases Gemma 4 12B, a unified, encoder-free multimodal model designed specifically for edge deployment.",
-                "The architecture maximizes parameter intelligence while lowering memory footprints to execute complex tasks locally on devices.",
-                "Eliminating separate visual encoders streamlines computational graphs and native processing pipelines across diverse hardware acceleration platforms.",
-                "Edge devices can perform real-time, high-fidelity multimodal reasoning autonomously without relying on continuous cloud connectivity."
+                "Amazon partnered with Corning to expand its high-speed fiber-optic network infrastructure across global hyperscale data centers.",
+                "The strategic deployment delivers low-latency inter-cluster connectivity required to sustain massive multi-node AI model training runs.",
+                "Increased bandwidth capacity supports the rapid growth of compute-intensive agentic workloads and massive distributed data integration.",
+                "Network engineers will achieve higher system throughput while dramatically reducing operational power overhead across physical networking nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
