@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTS RISE IN",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS AGENTIC ENTERPRISE",
+        "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: CLAUDE FABLE 5",
+            "heading": "SAMSUNG: GENERAL AI ADOPTION",
             "points": [
-                "Anthropic deploys its next-generation Claude Fable five mythos-class intelligence model to Microsoft Foundry and GitHub Copilot.",
-                "The model pricing is optimized for large enterprises executing complex reasoning and heavy agentic orchestration workloads.",
-                "Integration within GitHub Copilot enhances long-running developer tasks and delivers exceptional consistency for legacy codebases.",
-                "Real-time monitoring structures guarantee secure data flows across diverse public, hybrid, and private cloud deployment architectures."
+                "Samsung officially reversed its years-long ban on external generative artificial intelligence tools for all global operations.",
+                "Enterprise-wide deployment includes ChatGPT, Gemini, and Claude to drive immediate productivity gains across engineering divisions.",
+                "The strategy prioritizes secured endpoint integration to prevent previous high-profile corporate source code leaks.",
+                "This pivot signals a major enterprise shift toward managed model consumption rather than outright restriction."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: GEMMA 4 MULTIMODAL",
+            "heading": "OPENAI: SELF-HOSTED AGENT SANDBOXES",
             "points": [
-                "Google DeepMind launches Gemma four twelve-B as an encoder-free unified multimodal model optimized for edge devices.",
-                "This architecture shifts core AI capabilities directly to local processing units, bypassing traditional cloud-dependent network overheads.",
-                "The open-source model maximizes intelligence-per-parameter, allowing complex multi-modal applications to run on localized consumer hardware.",
-                "Real-time action integration and high-efficiency weights empower developer teams to deploy low-latency localized decision systems."
+                "OpenAI acquired Ona to deliver dedicated, self-hosted execution sandboxes tailored for corporate development teams.",
+                "The integration shifts Codex tool execution directly into secure, enterprise-controlled virtualized infrastructure environments.",
+                "Organizations can now execute complex agentic operations without exposing internal database paths to external APIs.",
+                "This structural acquisition secures OpenAI's footprint in the emerging enterprise autonomous coding workspace market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: SK HYNIX AI MEMORY",
+            "heading": "ANTHROPIC: CLAUDE FABLE RELEASE",
             "points": [
-                "NVIDIA and SK Hynix establish a multiyear partnership to develop next-generation memory for AI factories worldwide.",
-                "The partnership optimizes high-bandwidth memory architectures to meet massive processing demands of modern enterprise generative workloads.",
-                "This hardware-level integration directly solves memory throughput bottlenecks during gigawatt-scale cluster operations and complex model training.",
-                "Global AI datacenter infrastructures receive customized memory configurations designed explicitly for advanced physical and sovereign systems."
+                "Anthropic introduced Claude Fable five, a frontier mythos class model optimized for advanced multi-step reasoning.",
+                "The model has been natively integrated into Microsoft Foundry and GitHub Copilot for high-capacity coding.",
+                "This deployment targets complex software architecture synthesis and long-horizon autonomous task execution within enterprise repositories.",
+                "Enterprise pricing structures are adapting to reflect the higher computational cost of deep agentic loops."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: VIBE LONG HORIZON",
+            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
             "points": [
-                "Mistral AI introduces Vibe, an autonomous agent engineered specifically to execute long-horizon enterprise tasks and workflows.",
-                "The agent incorporates persistent memory and reusable skills to construct highly resilient automated software development workflows.",
-                "Developers gain architecture-aware reasoning and legacy code translation capabilities nested inside terminal and IDE workspace environments.",
-                "Seamless integration with secure databases allows localized agent execution from edge computing devices up to clouds."
+                "NVIDIA Blackwell chips secured the leading position on the industry's first standardized agentic artificial intelligence benchmark.",
+                "Hardware optimization dramatically reduces latency for continuous looping and real-time multi-agent execution at scale.",
+                "The performance metrics prove Blackwell can sustain intense processing demands of physical and autonomous systems.",
+                "This benchmark sets a new standard for testing next-generation rack-scale enterprise intelligence fabrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: OPENSHARING PROTOCOL",
+            "heading": "ADOBE: COWORKER ORCHESTRATION SUPERAGENT",
             "points": [
-                "Databricks launches OpenSharing, an open-source protocol engineered to facilitate seamless cross-domain asset distribution for enterprise AI.",
-                "The framework effectively eliminates the traditional integration tax associated with deploying multi-agent systems across separate organizational networks.",
-                "Organizations can securely share pre-trained foundation models, optimized agent skills, and complex data pipelines with trusted partners.",
-                "Granular cryptographic access controls guarantee rigorous security compliance without degrading performance or slowing down distributed collaborative research."
+                "Adobe launched Coworker, an advanced multi-agentic system designed to orchestrate complex marketing workflows autonomously.",
+                "The engine automates cross-channel content generation, asset optimization, and real-time performance analytics feedback loops.",
+                "Integration with existing enterprise marketing clouds allows seamless handoffs between creative humans and digital agents.",
+                "This release accelerates the transition from assisted software tools to fully collaborative agentic digital workspaces."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AGENT EVALUATION FRAMEWORK",
+            "heading": "DATABRICKS: OPENSHARING DATA PROTOCOL",
             "points": [
-                "Microsoft open sources a comprehensive evaluation framework designed to audit and monitor autonomous enterprise AI agents.",
-                "The tool addresses critical governance gaps by analyzing agentic decision-making, security guardrails, and persistent memory pathways.",
-                "Developers can rigorously test agent behaviors against predefined performance benchmarks prior to shipping products into production.",
-                "Automated evaluation protocols minimize systemic liability and prevent rogue loops during complex multi-agent database orchestrations."
+                "Databricks introduced OpenSharing, an open-source protocol to enable seamless collaboration across disparate data ecosystems.",
+                "The protocol eliminates the integration tax by standardizing how organizations share complex artificial intelligence models.",
+                "Data teams can now distribute secure agent skills and trained model weights without platform lock-in.",
+                "Open-source data sharing standardizes decentralized intelligence assets, enabling safer cross-company machine learning integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: UK SOVEREIGN AI LAB",
+            "heading": "SPACEX: MARKET CAPITALIZATION RECORD",
             "points": [
-                "AMD partners with Dell Technologies and the University of Cambridge to launch a national sovereign AI lab.",
-                "The facility will leverage advanced EPYC processors and Instinct graphics hardware to power scientific and academic research.",
-                "This strategic alliance underpins a multi-billion pound technology commitment focused on local computing autonomy and sovereign infrastructure.",
-                "Researchers will utilize specialized rack-scale compute resources to accelerate engineering breakthroughs in critical physical science disciplines."
+                "SpaceX completed a historic Initial Public Offering on Nasdaq, valuing the aerospace and intelligence giant at two trillion.",
+                "The company's massive satellite network and embedded edge computational nodes provide essential global sovereign communication pathways.",
+                "Capital raised will directly fund planetary telemetry projects and deep-space computational infrastructure needed for advanced modeling.",
+                "This financial milestone demonstrates the growing convergence of orbital infrastructure, data collection, and physical intelligence systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
