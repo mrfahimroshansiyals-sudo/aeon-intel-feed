@@ -1,18 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL SOVEREIGN AGENTIC",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: EXPORT MODEL SUSPENSION",
+            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
             "points": [
-                "Anthropic suspended Fable five and Mythos five models following United States government directives restricting foreign national access.",
-                "Federal agencies ordered immediate access restrictions to safeguard proprietary national security assets and prevent unauthorized foreign replication.",
-                "The suspension highlights escalating geopolitical friction over advanced neural networks and international software export control compliance.",
-                "Enterprises must quickly adapt deployment pipelines to manage compliance risks associated with cross-border infrastructure and operations."
+                "NVIDIA Blackwell processors secured the leading position on the inaugural benchmark designed for agentic AI infrastructure.",
+                "The testing validated real-world performance metrics for complex autonomous agents executing multi-step enterprise workflows.",
+                "Accelerating local token generation speeds minimizes round-trip latency to optimize sovereign high-throughput data centers.",
+                "Hardware-level performance improvements allow enterprises to run massive agent networks without compounding physical hardware overhead."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "OPENAI: ONA SANDBOX ACQUISITION",
+            "points": [
+                "OpenAI acquired startup Ona to integrate secure, self-hosted sandboxes directly into the Codex development ecosystem.",
+                "The transaction enables developers to execute complex autonomous agent tools within completely isolated, user-controlled runtime environments.",
+                "Decoupling execution environments from public clouds addresses critical enterprise compliance requirements for sensitive database operations.",
+                "Standardizing secure sandboxes will prevent malicious code execution during automated software engineering and code generation cycles."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ANTHROPIC: MODEL ACCESS RESTRICTION",
+            "points": [
+                "Anthropic suspended its latest frontier AI models following federal administrative directives targeting unauthorized foreign national access.",
+                "Regulatory compliance mandates restrict access to high-tier systems including Fable Five to safeguard critical sovereign capabilities.",
+                "The abrupt model freeze highlights mounting geopolitical tensions surrounding the export of advanced dual-use cognitive architectures.",
+                "Enterprises must establish resilient model fallbacks to mitigate sudden compliance-driven service interruptions in international operational regions."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,45 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "AMD: SOVEREIGN LAB LAUNCH",
-            "points": [
-                "AMD partnered with Dell and Cambridge University to establish a new sovereign artificial intelligence innovation laboratory.",
-                "The initiative leverages high-performance AMD Epyc processors to drive complex scientific research and national computational scaling.",
-                "The laboratory strengthens sovereign digital infrastructure within the United Kingdom to foster collaborative regional computing projects safely.",
-                "Researchers and enterprises gain direct access to robust local supercomputing resources for secure domestic research initiatives."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "WAYMO: INFRASTRUCTURE EXPANSION",
-            "points": [
-                "Waymo acquired Apple abandoned self-driving vehicle testing facility to accelerate autonomous fleet simulation and real-world trials.",
-                "The two hundred twenty million dollar transaction expands physical testing grounds required for rigorous edge case evaluation.",
-                "Physical infrastructure acquisition remains a critical bottleneck for scaling autonomous mobility platforms across key urban environments.",
-                "Competitors face increased pressure to secure testing facilities as specialized physical real estate availability rapidly diminishes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "OPENAI: AGENTIC SANDBOX ACQUISITION",
+            "heading": "SAMSUNG: BAN REVERSAL POLICY",
             "points": [
-                "OpenAI acquired startup Ona to provide dedicated self-hosted execution sandboxes for users of the Codex development platform.",
-                "This infrastructure integration moves automated execution environments directly under user governance, minimizing external telemetry and vulnerability.",
-                "The transaction marks a strategic pivot toward local execution of autonomous code generation tools and development workflows.",
-                "Software engineers can securely deploy autonomous agents without exposing sensitive proprietary codebases to third party environments."
+                "Samsung reversed its long-standing corporate ban on third-party generative AI services across its global business units.",
+                "The electronics giant is officially deploying ChatGPT, Gemini, and Claude to drive widespread internal software development.",
+                "Integrating comprehensive data loss prevention tools allows workers to utilize frontier models without risking source code exposure.",
+                "This cultural shift signals growing pressure on global conglomerates to embrace external AI to maintain competitive velocity."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: FABRIC BACKEND DEPLOYMENT",
+            "heading": "ADOBE: COWORKER ORCHESTRATION RELEASE",
             "points": [
-                "Microsoft launched Rayfin, an enterprise-grade agent-optimized backend as a service integrated directly into the Microsoft Fabric ecosystem.",
-                "The managed database framework provides scalable ultra-low latency reads engineered to support intensive autonomous intelligence application workloads.",
-                "Integrating runtime frameworks directly into enterprise data planes dramatically simplifies the deployment of context-aware software agents.",
-                "Data architects can deploy production-ready agent networks without building custom orchestration and memory storage infrastructure manually."
+                "Adobe released Coworker, an advanced orchestration framework designed to manage multi-agent marketing workflows at scale.",
+                "The platform automates complex end-to-end asset creation by coordinating specialized autonomous sub-agents through unified control channels.",
+                "Standardizing multi-agent choreography reduces manual oversight requirements and accelerates campaign deployment times across digital channels.",
+                "Enterprise marketing suites are transitioning from single-prompt assistants toward fully automated, self-correcting asset generation pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAMSUNG: ENTERPRISE AI INTEGRATION",
+            "heading": "DATABRICKS: OPENSHARING PROTOCOL LAUNCH",
             "points": [
-                "Samsung reversed its long-standing corporate ban on external generative tools, deploying Claude, ChatGPT, and Gemini company-wide.",
-                "The policy shift enables massive workforce enablement across global engineering, administrative, and creative software development branches.",
-                "Reconciling intellectual property protection with model utility signals a mature transition toward advanced enterprise security wrapper solutions.",
-                "Chief Information Officers are rapidly shifting budgets from restrictive security policies to robust, auditable user enablement models."
+                "Databricks introduced the OpenSharing protocol to eliminate integration taxes when collaborating on models and agentic skills.",
+                "The open-source standard facilitates seamless, secure sharing of proprietary AI assets across distinct enterprise data platforms.",
+                "Removing complex custom pipelines accelerates joint development efforts between organizations while maintaining strict data governance controls.",
+                "This protocol advances the open ecosystem by decentralizing model distribution and promoting cross-platform agent skill reuse."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BLACKWELL BENCHMARK LEAD",
+            "heading": "MICROSOFT: AGENT EVALUATION ENGINE",
             "points": [
-                "NVIDIA Blackwell graphics processing units secured top ranks in the first standardized industry benchmark for agentic infrastructure.",
-                "The performance metrics demonstrate unprecedented throughput speeds and high energy efficiency when orchestrating complex multi-agent workflows.",
-                "Hardware specialization is moving beyond simple training metrics toward optimizing continuous looping, tool use, and reasoning latency.",
-                "Infrastructure providers can confidently scale dense hardware clusters optimized specifically for long-horizon autonomous software agent execution."
+                "Microsoft open-sourced a comprehensive evaluation framework engineered specifically to benchmark autonomous enterprise agent performance.",
+                "The tool provides quantitative safety, reliability, and capability metrics for agents executing multi-step business process tasks.",
+                "Open-source testing standards enable developers to detect alignment issues and logical loops before deploying agents into production.",
+                "Establishing objective validation protocols is critical to resolving the enterprise accountability gap hindering autonomous AI adoption."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
