@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN SYSTEM",
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE TECH",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: MODEL ACCESS HALTED",
+            "heading": "ANTHROPIC: DEFENSIVE ACCESS CONTROL",
             "points": [
-                "Anthropic suspended global access to Claude Fable 5 and Mythos 5 following strict US government restrictions.",
-                "The directive cuts access for foreign nationals, impacting international development teams and active global enterprise contracts.",
-                "This sudden enforcement highlights rising geopolitical friction surrounding frontier models and sovereign cloud deployment strategies.",
-                "Organizations must quickly transition to localized private clouds to mitigate immediate geopolitical regulatory compliance risks."
+                "Anthropic disabled foreign national access to Claude Fable 5 and Mythos 5 models under federal government orders.",
+                "Global deployment strategies face disruption as international developer teams lose access to these advanced model endpoints.",
+                "The intervention underscores growing national security enforcement targeting frontier model execution and distributed cloud boundaries.",
+                "Enterprise architects must design fallback mechanisms utilizing localized open-source weights to mitigate sudden cloud-service compliance shutoffs."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEX: HISTORIC PUBLIC DEBUT",
+            "heading": "SPACEX: LIQUIDITY CAPITAL ACCELERATION",
             "points": [
-                "SpaceX successfully launched its massive initial public offering on Nasdaq, sending shares soaring nineteen percent on debut.",
-                "The blockbuster market entry pushed the valuation past two trillion dollars, minting the world first trillionaire.",
-                "This successful public listing triggers a new era of capital allocation toward deep-tech space and automation sectors.",
-                "Financial markets will accelerate massive institutional funding rounds for advanced satellite communication and AI network infrastructure."
+                "SpaceX launched its historic public offering on Nasdaq with shares surging nineteen percent on market debut.",
+                "The record-breaking initial public offering drove the aerospace giant's total market valuation beyond two trillion dollars.",
+                "This massive capital injection provides deep financial liquidity to accelerate orbital data centers and heavy infrastructure.",
+                "Venture firms are pivoting towards large-scale physical technology investments to capture downstream space-based computing infrastructure yields."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,76 +39,76 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "SAMSUNG: ENTERPRISE AI REVERSION",
+            "heading": "NAVER: SOVEREIGN CLOUD EXPANSION",
             "points": [
-                "Samsung reversed its long-standing ban on external generative tools to execute a comprehensive enterprise-wide digital upgrade.",
-                "The hardware giant is deploying ChatGPT, Gemini, and Claude globally to maximize employee software development productivity.",
-                "This strategic policy reversal signals a major corporate shift from strict defensive containment to active risk management.",
-                "Large technology manufacturers will increasingly adopt hybrid guardrails to leverage frontier models without exposing critical IP."
+                "NAVER collaborated with Nvidia to expand regional sovereign artificial intelligence infrastructure beginning with fifty-five megawatts.",
+                "The joint venture aims to scale operations to gigawatt capacity to meet regional computation demands safely.",
+                "By utilizing localized physical data centers NAVER bypasses international data export risks and maintains compliance.",
+                "Regional governments will increasingly mandate domestic cloud infrastructure partnerships to protect citizen data from foreign intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: SECURE CODEX SANDBOXING",
+            "heading": "CAMBRIDGE: SOVEREIGN RESEARCH LAB",
             "points": [
-                "OpenAI acquired developer platform Ona to provide self-hosted sandboxes for isolated enterprise code execution environments.",
-                "The strategic acquisition enables Codex users to run powerful agentic workflows inside infrastructure they fully control.",
-                "Integrating sandboxed environments addresses enterprise concerns regarding unauthorized data leakage and malicious code execution vectors.",
-                "Future software automation tools will mandate isolated local compute nodes to satisfy enterprise security and compliance."
+                "The University of Cambridge partnered with AMD and Dell to launch a UK Sovereign Innovation Lab.",
+                "The initiative accelerates local scientific discovery by providing direct access to specialized high-performance computing pipelines.",
+                "Integrating EPYC processors and Instinct accelerators establishes a secure, high-density hardware foundation for domestic model training.",
+                "Research organizations will prioritize localized hardware ecosystems to ensure sovereign research data remains within national borders."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: OPENSHARING PROTOCOL LAUNCH",
+            "heading": "DATABRICKS: DATA FEDERATION PROTOCOL",
             "points": [
-                "Databricks launched OpenSharing to establish a unified open-source protocol for sharing model assets across separate networks.",
-                "The architecture reduces integration costs by letting enterprises share distinct AI assets and proprietary agentic skills seamlessly.",
-                "This open standard aims to bypass expensive proprietary cloud vendor lock-ins and simplify multi-tenant model orchestration.",
-                "Corporate data pipelines will rapidly evolve to support decentralized model sharing without requiring heavy integration overhead."
+                "Databricks introduced OpenSharing as an open-source protocol designed for cross-domain model and agent skill sharing.",
+                "The framework eliminates the integration tax commonly paid when coordinating data pipelines across disparate enterprise clouds.",
+                "By standardizing access interfaces across organizations Databricks enables seamless, secure federated training and multi-agent operations.",
+                "Chief data officers can securely distribute proprietary fine-tuned models without risking exposure of underlying data lakes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CISA: FEDERAL PATCH TIMELINES",
+            "heading": "ASML: LITHOGRAPHY METRIC OPTIMIZATION",
             "points": [
-                "CISA updated its security directive, ordering federal agencies to remediate high-risk software flaws within three business days.",
-                "The compressed schedule forces security administrators to automate routine patch cycles and prioritize critical cloud infrastructure vulnerabilities.",
-                "Rapid exploitation of enterprise systems by advanced threat actors necessitated this dramatic reduction in patch latency windows.",
-                "Commercial enterprises will mirror federal baselines, making automated continuous vulnerability remediation a mandatory industry operational standard."
+                "ASML deployed AI-native computational lithography software to accelerate advanced sub-nanometer chip manufacturing across silicon wafer systems.",
+                "The technology dramatically reduces pattern correction calculation times during high-volume extreme ultraviolet manufacturing phases.",
+                "Applying neural network models to physical light diffraction simulation bridges the gap between hardware and software.",
+                "Leading semiconductor foundries will integrate these software optimization layers to maximize physical silicon throughput at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AGENT EVALUATION ENGINE",
+            "heading": "MICROSOFT: AGENT EVALUATION STANDARDS",
             "points": [
-                "Microsoft open sourced a testing framework designed to evaluate and validate the safety of autonomous enterprise agents.",
-                "The software provides robust diagnostics to measure agent performance, drift, and unexpected behavioral anomalies in production.",
-                "Safe multi-agent coordination requires strict standardized testing frameworks to prevent catastrophic misalignment and system failures.",
-                "Development teams will widely integrate open evaluation protocols into continuous deployment pipelines for reliable agent monitoring."
+                "Microsoft open-sourced its new artificial intelligence evaluation framework engineered specifically for testing autonomous enterprise agents.",
+                "The framework allows developers to rigorously benchmark model behavior, safety policies, and multi-step execution plans on-premise.",
+                "By providing standardized metric tracking Microsoft ensures enterprise applications maintain strict performance thresholds before public deployment.",
+                "Technical leads will adopt automated testing suites to reduce operational risks associated with unpredictable agent actions."
             ],
             "imageUrl": "",
             "tags": [
