@@ -1,34 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SAMSUNG: ENTERPRISE LLM INTEGRATION",
+            "heading": "MICROSOFT: FOUNDRY AGENT ORCHESTRATION",
             "points": [
-                "Samsung reverses its multi-year ban on external generative tools to deploy OpenAI, Google, and Anthropic platforms.",
-                "The rollout deploys custom chatbots enterprise-wide, targeting major efficiency gains and internal productivity enhancement.",
-                "This change transforms corporate data policies, integrating strict security guardrails with external models.",
-                "Executives anticipate this shift will accelerate software development and internal administrative workflows."
+                "Microsoft deploys Claude Fable 5 in Foundry and GitHub Copilot alongside the new low-latency HorizonDB.",
+                "Enterprise developers gain ultra-low latency reads and integrated AI grounding to eliminate application scaling bottlenecks.",
+                "Foundry IQ unifies operational context across Microsoft's internal intelligence layer to fuel production-grade agent fleets.",
+                "IT leaders must transition from manual database management toward fully automated agentic database backends."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: ONA INFRASTRUCTURE ACQUISITION",
+            "heading": "MISTRAL: VIBE AUTONOMOUS TASK SYSTEM",
             "points": [
-                "OpenAI acquires software startup Ona to integrate secure self-hosted sandboxes directly into Codex systems.",
-                "Codex developers gain isolated runtime environments, neutralizing the critical security risks of autonomous execution.",
-                "The integration shifts execution pipelines to client-controlled hardware, preventing unintended system alterations.",
-                "Engineering teams can now safely deploy complex coding agents without exposing private internal networks."
+                "Mistral AI releases the Vibe agent platform designed specifically to coordinate long-horizon tasks and custom models.",
+                "Developers leverage automated continuous integration and legacy code translation pipelines to bypass extensive manual reviews.",
+                "The platform offers complete deployment portability alongside unified agent registries to support multi-cloud sovereign installations.",
+                "Enterprise architectures will increasingly depend on highly customizable, self-hosted open models instead of centralized commercial APIs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ANTHROPIC: MODEL ACCESS DECOUPLING",
+            "points": [
+                "Anthropic suspends foreign national access to its elite models following a direct U.S. government security mandate.",
+                "Global operations face immediate disruption as localized offshore teams lose development access to Claude Fable models.",
+                "This geopolitical intervention signals a hard transition toward nationalized and legally sandboxed defense-grade cognitive computing platforms.",
+                "Multinational tech executives must rapidly architect sovereign local redundancies to insulate critical systems from national export bans."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: SANDBOX CONTROL ACQUISITION",
+            "points": [
+                "OpenAI acquires containerized sandbox developer Ona to provide self-hosted runtime environments for complex agent execution.",
+                "Codex developers gain complete hardware-level execution control to completely isolate autonomous actions within localized infrastructure.",
+                "The transaction resolves enterprise security hesitations by moving unsafe external code execution into isolated corporate sandboxes.",
+                "Chief Information Officers can confidently deploy autonomous coding agents without exposing sensitive internal systems to outside breaches."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "OPENAI: STATE ANTITRUST PROBE",
-            "points": [
-                "A broad coalition of state attorneys general launches an investigation into OpenAI corporate safety and governance.",
-                "Regulators target transparency standards, competitive mechanics, and potential consumer safety violations in model deployments.",
-                "This legal challenge forces greater auditing of model training sets, computational allocations, and algorithmic alignment.",
-                "Industry legal teams predict stricter compliance burdens for domestic builders of frontier foundation architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ADOBE: MULTI-AGENT MARKETING SYSTEM",
-            "points": [
-                "Adobe releases Coworker, an advanced marketing orchestration platform powered by coordinated multi-agent AI.",
-                "The system coordinates complex advertising campaigns autonomously, reducing manual orchestration overhead.",
-                "The backend utilizes specialized agency loops, managing real-time data ingestion and asset delivery pipelines.",
-                "Enterprise CMOs gain a modular architecture capable of running concurrent localized ad initiatives."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "ASML: COMPUTATIONAL LITHOGRAPHY UPGRADE",
+            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARKING",
             "points": [
-                "ASML integrates Mistral AI models to drive AI-native engineering pipelines across advanced chipmaking systems.",
-                "Automated neural networks optimize optical computational lithography steps, accelerating physical silicon pattern generation.",
-                "The design implements hybrid edge-cloud intelligence, bridging physical machinery telemetry with deep reasoning.",
-                "Chipmakers expect faster development cycles and reduced defect margins for sub-nanometer node production."
+                "Nvidia achieves top marks on the first agentic AI infrastructure benchmarks using its newly optimized Blackwell architectures.",
+                "Multi-megawatt sovereign AI data centers in Korea and Japan receive specialized memory updates to handle massive execution loops.",
+                "Partnering with SK Hynix and NAVER ensures direct hardware integration for next-generation sovereign physical AI environments.",
+                "Infrastructure engineers must prepare for high-density, liquid-cooled gigawatt setups to sustain continuous multi-agent loop processing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SPACEX: LANDMARK IPO DEBUT",
+            "heading": "DATABRICKS: OPENSHARING INTEROP PROTOCOL",
             "points": [
-                "SpaceX makes its historic public trading debut on Nasdaq, generating seventy-five billion dollars in capital.",
-                "The injection elevates SpaceX valuation to over two trillion dollars, funding next-generation satellite orbital networks.",
-                "The financial scaling supports massive space-based telemetry, communications, and orbital edge-computing cluster development.",
-                "Global telecommunication networks expect accelerated deployments of low-latency high-bandwidth satellite data links worldwide."
+                "Databricks introduces OpenSharing as an open protocol for sharing AI models, model weights, and custom agent skills.",
+                "Enterprise alliances bypass complex API wrappers and high integration taxes to collaborate seamlessly across diverse data platforms.",
+                "Establishing open standard registries allows developers to securely license and execute agent workflows inside federated networks.",
+                "Strategic data officers can safely monetize proprietary agent models without losing custody of primary analytical data assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARAMOUNT: WARNER BROS ACQUISITION",
+            "heading": "EU AI OFFICE: CHAPTER V COMPLIANCE",
             "points": [
-                "The Department of Justice approves Paramount Global acquisition of Warner Bros Discovery in a historic merger.",
-                "This transaction establishes a unified media giant with an combined enterprise valuation of over one hundred billion dollars.",
-                "Engineers prepare to consolidate complex content delivery network architectures and global streaming platform databases.",
-                "Media technology operators anticipate massive infrastructure optimizations and centralized subscription data management capabilities."
+                "The European Union clarifies strict transparency guidelines for general-purpose AI models entering enforcement by August 2026.",
+                "Providers must deliver detailed model documentation and copyright policy frameworks to avoid severe global non-compliance fines.",
+                "This regulatory sweep standardizes safety expectations across all member states to prevent malicious AI deployment models globally.",
+                "Legal compliance teams must immediately audit third-party open-source integrations to ensure absolute alignment with European mandates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
