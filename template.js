@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN INFRASTRUCTURE TECH",
-        "titleBlue": "SHIFT"
+        "titleWhite": "GLOBAL SOVEREIGN AGENTIC",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: DEFENSIVE ACCESS CONTROL",
+            "heading": "ANTHROPIC: EXPORT MODEL SUSPENSION",
             "points": [
-                "Anthropic disabled foreign national access to Claude Fable 5 and Mythos 5 models under federal government orders.",
-                "Global deployment strategies face disruption as international developer teams lose access to these advanced model endpoints.",
-                "The intervention underscores growing national security enforcement targeting frontier model execution and distributed cloud boundaries.",
-                "Enterprise architects must design fallback mechanisms utilizing localized open-source weights to mitigate sudden cloud-service compliance shutoffs."
+                "Anthropic suspended Fable five and Mythos five models following United States government directives restricting foreign national access.",
+                "Federal agencies ordered immediate access restrictions to safeguard proprietary national security assets and prevent unauthorized foreign replication.",
+                "The suspension highlights escalating geopolitical friction over advanced neural networks and international software export control compliance.",
+                "Enterprises must quickly adapt deployment pipelines to manage compliance risks associated with cross-border infrastructure and operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEX: LIQUIDITY CAPITAL ACCELERATION",
+            "heading": "AMD: SOVEREIGN LAB LAUNCH",
             "points": [
-                "SpaceX launched its historic public offering on Nasdaq with shares surging nineteen percent on market debut.",
-                "The record-breaking initial public offering drove the aerospace giant's total market valuation beyond two trillion dollars.",
-                "This massive capital injection provides deep financial liquidity to accelerate orbital data centers and heavy infrastructure.",
-                "Venture firms are pivoting towards large-scale physical technology investments to capture downstream space-based computing infrastructure yields."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NAVER: SOVEREIGN CLOUD EXPANSION",
-            "points": [
-                "NAVER collaborated with Nvidia to expand regional sovereign artificial intelligence infrastructure beginning with fifty-five megawatts.",
-                "The joint venture aims to scale operations to gigawatt capacity to meet regional computation demands safely.",
-                "By utilizing localized physical data centers NAVER bypasses international data export risks and maintains compliance.",
-                "Regional governments will increasingly mandate domestic cloud infrastructure partnerships to protect citizen data from foreign intelligence."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "CAMBRIDGE: SOVEREIGN RESEARCH LAB",
-            "points": [
-                "The University of Cambridge partnered with AMD and Dell to launch a UK Sovereign Innovation Lab.",
-                "The initiative accelerates local scientific discovery by providing direct access to specialized high-performance computing pipelines.",
-                "Integrating EPYC processors and Instinct accelerators establishes a secure, high-density hardware foundation for domestic model training.",
-                "Research organizations will prioritize localized hardware ecosystems to ensure sovereign research data remains within national borders."
+                "AMD partnered with Dell and Cambridge University to establish a new sovereign artificial intelligence innovation laboratory.",
+                "The initiative leverages high-performance AMD Epyc processors to drive complex scientific research and national computational scaling.",
+                "The laboratory strengthens sovereign digital infrastructure within the United Kingdom to foster collaborative regional computing projects safely.",
+                "Researchers and enterprises gain direct access to robust local supercomputing resources for secure domestic research initiatives."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "DATABRICKS: DATA FEDERATION PROTOCOL",
+            "id": 3,
+            "heading": "WAYMO: INFRASTRUCTURE EXPANSION",
             "points": [
-                "Databricks introduced OpenSharing as an open-source protocol designed for cross-domain model and agent skill sharing.",
-                "The framework eliminates the integration tax commonly paid when coordinating data pipelines across disparate enterprise clouds.",
-                "By standardizing access interfaces across organizations Databricks enables seamless, secure federated training and multi-agent operations.",
-                "Chief data officers can securely distribute proprietary fine-tuned models without risking exposure of underlying data lakes."
+                "Waymo acquired Apple abandoned self-driving vehicle testing facility to accelerate autonomous fleet simulation and real-world trials.",
+                "The two hundred twenty million dollar transaction expands physical testing grounds required for rigorous edge case evaluation.",
+                "Physical infrastructure acquisition remains a critical bottleneck for scaling autonomous mobility platforms across key urban environments.",
+                "Competitors face increased pressure to secure testing facilities as specialized physical real estate availability rapidly diminishes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: AGENTIC SANDBOX ACQUISITION",
+            "points": [
+                "OpenAI acquired startup Ona to provide dedicated self-hosted execution sandboxes for users of the Codex development platform.",
+                "This infrastructure integration moves automated execution environments directly under user governance, minimizing external telemetry and vulnerability.",
+                "The transaction marks a strategic pivot toward local execution of autonomous code generation tools and development workflows.",
+                "Software engineers can securely deploy autonomous agents without exposing sensitive proprietary codebases to third party environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: FABRIC BACKEND DEPLOYMENT",
+            "points": [
+                "Microsoft launched Rayfin, an enterprise-grade agent-optimized backend as a service integrated directly into the Microsoft Fabric ecosystem.",
+                "The managed database framework provides scalable ultra-low latency reads engineered to support intensive autonomous intelligence application workloads.",
+                "Integrating runtime frameworks directly into enterprise data planes dramatically simplifies the deployment of context-aware software agents.",
+                "Data architects can deploy production-ready agent networks without building custom orchestration and memory storage infrastructure manually."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: LITHOGRAPHY METRIC OPTIMIZATION",
+            "heading": "SAMSUNG: ENTERPRISE AI INTEGRATION",
             "points": [
-                "ASML deployed AI-native computational lithography software to accelerate advanced sub-nanometer chip manufacturing across silicon wafer systems.",
-                "The technology dramatically reduces pattern correction calculation times during high-volume extreme ultraviolet manufacturing phases.",
-                "Applying neural network models to physical light diffraction simulation bridges the gap between hardware and software.",
-                "Leading semiconductor foundries will integrate these software optimization layers to maximize physical silicon throughput at scale."
+                "Samsung reversed its long-standing corporate ban on external generative tools, deploying Claude, ChatGPT, and Gemini company-wide.",
+                "The policy shift enables massive workforce enablement across global engineering, administrative, and creative software development branches.",
+                "Reconciling intellectual property protection with model utility signals a mature transition toward advanced enterprise security wrapper solutions.",
+                "Chief Information Officers are rapidly shifting budgets from restrictive security policies to robust, auditable user enablement models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AGENT EVALUATION STANDARDS",
+            "heading": "NVIDIA: BLACKWELL BENCHMARK LEAD",
             "points": [
-                "Microsoft open-sourced its new artificial intelligence evaluation framework engineered specifically for testing autonomous enterprise agents.",
-                "The framework allows developers to rigorously benchmark model behavior, safety policies, and multi-step execution plans on-premise.",
-                "By providing standardized metric tracking Microsoft ensures enterprise applications maintain strict performance thresholds before public deployment.",
-                "Technical leads will adopt automated testing suites to reduce operational risks associated with unpredictable agent actions."
+                "NVIDIA Blackwell graphics processing units secured top ranks in the first standardized industry benchmark for agentic infrastructure.",
+                "The performance metrics demonstrate unprecedented throughput speeds and high energy efficiency when orchestrating complex multi-agent workflows.",
+                "Hardware specialization is moving beyond simple training metrics toward optimizing continuous looping, tool use, and reasoning latency.",
+                "Infrastructure providers can confidently scale dense hardware clusters optimized specifically for long-horizon autonomous software agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
