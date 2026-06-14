@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "DECENTRALIZED AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "APPLE: CONFIDENTIAL CLOUD COMPUTING",
+            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
             "points": [
-                "Apple integrates NVIDIA Confidential Computing architecture to protect highly sensitive workloads inside Private Cloud Compute.",
-                "Cryptographic data isolation prevents unauthorized virtual machine access during real-time hardware-level multi-tenant processing operations.",
-                "Secure enclave virtualization bridges on-device processing and massive remote cloud models without compromising consumer privacy guarantees.",
-                "Enterprise architects can safely scale proprietary workflow integrations knowing zero operational telemetry or user payloads are leaked."
+                "NVIDIA Blackwell chips secure top ranking on first-ever agentic AI infrastructure benchmarks for enterprise workloads.",
+                "The architecture processes agentic reasoning loops up to four times faster than previous Hopper generation systems.",
+                "This development establishes accelerated hardware foundations optimized for autonomous decision-making and agent tool execution.",
+                "Enterprises will increasingly transition from passive LLM chats to continuous agentic execution cycles on Blackwell clusters."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: CODEX SECURE SANDBOXES",
+            "heading": "OPENAI: CODEX SANDBOX ACQUISITION",
             "points": [
-                "OpenAI acquires startup Ona to deliver secure, self-hosted runtime sandboxes directly controlled by Codex enterprise developers.",
-                "Decoupled code execution layers run autonomous agent tasks safely outside primary host networks via micro-segmented environments.",
-                "Eliminating untrusted runtime risks accelerates enterprise agent deployment across complex production infrastructure pipelines and databases.",
-                "Cloud security teams gain granular visibility and control over self-executing agent processes without performance overhead penalties."
+                "OpenAI acquires startup Ona to deliver secure self-hosted sandboxes for autonomous Codex development tools.",
+                "Software developers gain direct containerized execution environments keeping executing agent scripts inside user-controlled boundaries.",
+                "The acquisition mitigates severe system security risks associated with unconstrained code execution by agentic coding models.",
+                "This setup will establish robust trust boundaries enabling safe autonomous software development across traditional legacy enterprises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: MODEL COMPLIANCE CRISIS",
+            "heading": "DATABRICKS: AI MODEL INTEGRATION",
             "points": [
-                "Anthropic disables global access to Claude Fable 5 and Mythos 5 models to satisfy urgent government compliance directives.",
-                "Sudden pipeline disruptions force enterprise clients to rapidly migrate production workflows onto alternative open-source model architectures.",
-                "Dynamic regulatory interventions emphasize the critical need for robust, multi-model redundancy strategies in modern software environments.",
-                "Legal teams must prioritize continuous compliance audits for large language models to prevent sudden service termination liabilities."
+                "Databricks launches OpenSharing as an open protocol for cross-domain sharing of models and active agent skills.",
+                "Enterprises completely bypass legacy integration taxes when collaborating on machine learning workloads with external ecosystem partners.",
+                "Modernizing collaboration workflows helps businesses exchange secure modeling assets without incurring high data-transfer charges.",
+                "Federated agent networks will rapidly proliferate as secure skill sharing becomes decentralized across diverse cloud platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAMSUNG: ENTERPRISE AI REVERSAL",
+            "heading": "MICROSOFT: ULTRA-LOW LATENCY DATABASE",
             "points": [
-                "Samsung completely reverses its multi-year ban on external generative AI tools, deploying major frontier models company-wide.",
-                "Integrated sandboxed access to ChatGPT, Gemini, and Claude drives rapid productivity gains across massive global engineering workforces.",
-                "Corporate paradigm shifts highlight the futility of broad bans over secured, managed enablement policies in tech manufacturing.",
-                "Chief Information Officers must shift strategies from defensive shadow AI restriction toward building zero-trust data protection frameworks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: FABRIC AGENTIC BACKEND",
-            "points": [
-                "Microsoft launches Rayfin, a fully managed, agent-optimized backend as a service operating natively on Microsoft Fabric.",
-                "Sub-second operational database synchronizations allow decoupled analytical layers to power low-latency autonomous action cycles without friction.",
-                "Converging data lakehouses with sovereign execution environments enables seamless developer access to high-fidelity, real-time organizational intelligence.",
-                "Software engineers can quickly construct complex multi-agent orchestrations directly on top of pre-integrated enterprise storage architectures."
+                "Microsoft introduces Azure HorizonDB providing native low-latency PostgreSQL capabilities specifically engineered for heavy AI operations.",
+                "Integrated scalability features allow developers to manage large-scale vector transactions without sacrificing retrieval performance.",
+                "The system optimizes data pipelines to provide real-time contexts directly into agentic reasoning frameworks at scale.",
+                "Mission-critical software will rely on such unified database architectures to enable instantaneous context processing for clients."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DATABRICKS: DECENTRALIZED DATA SHARING",
+            "id": 5,
+            "heading": "MISTRAL AI: LONG-HORIZON AGENTS",
             "points": [
-                "Databricks introduces OpenSharing, an open-source protocol to easily share models and agent skills across disparate enterprise domains.",
-                "Minimizing complex pipeline integration taxes allows federated business units to securely exchange curated intelligence assets without duplicating data.",
-                "Open standards are emerging as the preferred design pattern for establishing trusted, decentralized multi-agent collaboration ecosystems.",
-                "Enterprise data officers can streamline partner collaboration pipelines while enforcing unified governance, lineage tracking, and compliance parameters."
+                "Mistral AI unveils Vibe as an autonomous agent engineered for complex long-horizon operational workflows.",
+                "The framework manages advanced task scheduling and persistent memory states to coordinate multi-step technical execution autonomously.",
+                "Decoupling developer workflows from manual coding pipelines speeds up continuous integration and automated code reviews significantly.",
+                "Enterprise operations will migrate toward agent-centric models that run continuously across legacy computing infrastructures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: SOVEREIGN INNOVATION LAB",
+            "points": [
+                "AMD collaborates with Dell and Cambridge University to launch a dedicated Sovereign AI Innovation Lab.",
+                "The initiative accelerates local supercomputing infrastructure setups utilizing high-performance AMD Instinct GPUs and EPYC processors.",
+                "Developing regional compute power safeguards national digital sovereignty against centralized foreign cloud computing dependencies.",
+                "National research networks will increasingly deploy private computing infrastructure to maintain secure public datasets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: SOVEREIGN INNOVATION LAB",
+            "heading": "GOOGLE: EDGE MULTIMODAL INTELLIGENCE",
             "points": [
-                "AMD, Dell, and Cambridge University collaborate to launch a dedicated Sovereign AI Innovation Lab in the UK.",
-                "Leveraging scale-out EPYC processors and Instinct accelerators delivers optimized computational power for secure domestic scientific research projects.",
-                "National intelligence independence drives localized compute infrastructure design to reduce dependency on hyperscale cloud provider pipelines.",
-                "Research institutions can confidently scale compute-intensive physical AI simulation models within fully audited geographic and jurisdictional boundaries."
+                "Google DeepMind releases Gemma 4 12B as a unified encoder-free multimodal model for local device deployment.",
+                "Edge devices gain rapid intelligence-per-parameter performance while completely eliminating cloud processing latency overheads.",
+                "Shifting intensive computational tasks to local chips improves user privacy and reduces hyperscale cloud infrastructure demands.",
+                "Next-generation consumer electronics will execute complex multimodal interactions on-device without needing persistent internet connections."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
