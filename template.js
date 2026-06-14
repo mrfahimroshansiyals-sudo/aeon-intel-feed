@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE AGENTIC ARCHITECTURE",
-        "titleBlue": "INTEGRATION"
+        "titleWhite": "ENTERPRISE AGENTIC",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: ONA ACQUISITION",
+            "heading": "MICROSOFT: HORIZONDB ARCHITECTURE",
             "points": [
-                "OpenAI acquires sandboxing startup Ona to enable secure execution environments for autonomous coding agents.",
-                "The integration provides Codex enterprise customers with self-hosted, secure infrastructure to mitigate runtime risks.",
-                "Decoupling execution environments prevents malicious system overrides during complex multi-step programmatic agent workflows.",
-                "This transaction signals a shift toward containment-first strategies for deploying agentic software engineering pipelines."
+                "Azure launches HorizonDB combining native PostgreSQL compatibility with built-in artificial intelligence engines for enterprise application modernization.",
+                "Built-in indexing and scalable read pipelines deliver ultra-low latency response metrics across globally distributed databases.",
+                "The architectural framework decouples storage from compute to support dynamic scaling during intensive transactional workloads.",
+                "System architects will deploy highly responsive analytical tools without incurring additional database migration overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SAMSUNG: ENTERPRISE AI ROLLOUT",
+            "heading": "DATABRICKS: OPENSHARING PARADIGM",
             "points": [
-                "Samsung officially lifts its multi-year ban on external generative AI tools across global operations.",
-                "Employees gain audited access to ChatGPT, Gemini, and Claude interfaces to optimize hardware-software development.",
-                "The deployment relies on custom enterprise guardrails to prevent proprietary source code leaks.",
-                "Corporate adoption shifts the semiconductor titan toward a hybrid model of software-augmented engineering productivity."
+                "Databricks introduces OpenSharing as a unified open-source protocol to exchange complex artificial intelligence assets globally.",
+                "The standard mitigates integration fees by eliminating proprietary data format translations across federated computing environments.",
+                "Organizations gain the capability to safely distribute agent skills and foundational model parameters across external domains.",
+                "Inter-organizational collaboration model will pivot toward secure decentralized storage arrays sharing validated system parameters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
+            "heading": "NVIDIA: BLACKWELL PERFORMANCE",
             "points": [
-                "NVIDIA Blackwell architectures dominate the inaugural industry benchmark designed specifically for testing agentic workloads.",
-                "Hardware acceleration showcases unprecedented throughput capability during complex multi-agent orchestration and loop execution tests.",
-                "Optimizing the runtime stack yields major latency reductions when processing massive context windows simultaneously.",
-                "Specialized hardware-level optimizations establish Blackwell as the primary infrastructure foundation for agentic scaling."
+                "Blackwell platform establishes dominance on the industry first benchmark evaluated specifically for agentic artificial intelligence workloads.",
+                "Enhanced execution speed optimizes resource allocation to lower operational thermal and power footprints within data centers.",
+                "The system merges hardware acceleration with advanced software layers to enable continuous multi-agent loop operations.",
+                "High performance cluster designs will transition rapidly toward Blackwell frameworks to sustain high density model computation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: COMPLIANCE MODEL SHUTDOWN",
+            "heading": "DATADOG: DECENTRALIZED OBSERVABILITY",
             "points": [
-                "Anthropic suspends public access to its Fable 5 and Mythos 5 models immediately.",
-                "The unexpected service termination responds to a mandatory government compliance directive targeting unreleased parameters.",
-                "Enterprise operators face immediate disruption as downstream API dependencies require immediate fallback model re-routing.",
-                "Strict compliance measures illustrate growing national security oversight over frontier model capabilities and deployment."
+                "Datadog transitions toward decentralized architecture by supporting Bring Your Own Cloud integrations for enterprise clients.",
+                "System administrators query federated logs while retaining absolute sovereignty over underlying customer data repository locations.",
+                "The design decouples central software as a service platform dependencies from underlying cloud infrastructure environments.",
+                "Enterprises will bypass conventional vendor lock-in mechanics while maintaining uniform monitoring pipelines across complex systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: AGENT EVALUATION OPENED",
+            "heading": "MICROSOFT: FABRIC RAYFIN",
             "points": [
-                "Microsoft open-sources a comprehensive evaluation framework designed to standardize enterprise agent testing pipelines.",
-                "The toolkit measures task completion metrics and identifies structural misalignment risks in production systems.",
-                "Developers can run automated safety audits on local infrastructure before deploying autonomous agentic workflows.",
-                "Providing transparent testing utilities accelerates the migration from experimental pilots to regulated production workloads."
+                "Azure integrates Rayfin on Fabric to deliver an agent-optimized managed backend service for rapid deployment.",
+                "Developers leverage serverless execution environments to reduce cold start latency in transactional agent operations.",
+                "The infrastructure unifies telemetry pipelines to allow developers real-time monitoring of autonomous software execution loops.",
+                "Legacy backend systems will rapidly modernize through automated code integration paths using fully optimized SDK kits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: OPENSHARING STANDARD LAUNCH",
+            "heading": "ADOBE: MULTI-AGENT ORCHESTRATION",
             "points": [
-                "Databricks introduces the open-source OpenSharing protocol to eliminate integration taxes on shared artificial assets.",
-                "The standard allows organizations to securely exchange models, agents, and custom skills across environments.",
-                "Decoupling asset distribution from proprietary platforms reduces vendor lock-in risks for modern data engineering teams.",
-                "This architecture establishes a cross-domain collaboration standard to optimize multi-cloud artificial intelligence deployments."
+                "Adobe launches Coworker agent platform to orchestrate complex multi-step generative marketing pipelines across enterprise networks.",
+                "Dynamic workflow automation eliminates operational friction by coordinating distinct software agents toward shared business milestones.",
+                "Deep system integration ensures compliant data routing while generating structured campaign outputs within secure environments.",
+                "Enterprise marketing departments will automate complex asset production lines, significantly reducing manual pipeline coordination efforts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEURA ROBOTICS: PHYSICAL AI FUNDING",
+            "heading": "CISA: TIMELINE COMPRESSION",
             "points": [
-                "Neura Robotics secures a historic one-point-four billion dollar funding round to scale physical intelligence.",
-                "The massive capital injection accelerates the manufacturing and deployment of cognitive humanoid robots globally.",
-                "Developing advanced physical models aims to bridge the gap between digital reasoning and manual labor.",
-                "Increased capitalization validates industrial transition strategies targeting autonomous physical automation inside enterprise facilities."
+                "Federal cyber agency mandates a strict three-day remediation timeline for patching highly critical software vulnerabilities.",
+                "Rapid mitigation constraints force IT security teams to implement automated risk assessments and patching workflows.",
+                "The policy shifts operational priorities toward dynamic asset discovery and proactive scanning across federal enterprise networks.",
+                "Security operations centers will rapidly deploy continuous validation pipelines to meet accelerated threat response standards globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
