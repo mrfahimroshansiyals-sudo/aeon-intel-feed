@@ -1,98 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC TECH",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FABRIC AGENTIC BACKEND",
+            "heading": "SPACEX: HISTORIC PUBLIC DEBUT",
             "points": [
-                "Microsoft Azure launches Rayfin as an agent-optimized backend-as-a-service natively running inside Microsoft Fabric environments.",
-                "The architecture integrates Azure HorizonDB to deliver ultra-low latency PostgreSQL reads for massive enterprise agent deployments.",
-                "This integration removes legacy data bottlenecks by offering a unified context layer powered by Foundry IQ systems.",
-                "Enterprise developers can now build and scale complex database-grounded autonomous agents without experiencing traditional integration friction."
+                "SpaceX executes its highly anticipated public market debut, establishing a massive retail-powered equity valuation benchmark.",
+                "The listing opens institutional avenues, absorbing billions in capital while stabilizing volatile broader tech indices.",
+                "This capital infusion establishes a sovereign commercial precedent, challenging traditional venture funding routes for deep tech.",
+                "Global markets will likely reallocate portfolios, favoring highly capital-intensive aerospace and infrastructure projects."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: GOVERNMENT DIRECTIVE COMPLIANCE",
+            "heading": "ADOBE: COWORKER ENGINE RELEASE",
             "points": [
-                "Anthropic suspends public and enterprise access to Fable 5 and Mythos 5 models under direct government compliance orders.",
-                "The restrictive action follows intense national security discussions regarding foreign access to frontier artificial intelligence software capabilities.",
-                "This development shifts the regulatory landscape, proving that sovereign states will actively restrict distribution of advanced models.",
-                "Enterprise builders must design multi-model architectures to avoid sudden service disruption from geopolitical policy changes."
+                "Adobe releases Coworker, an advanced multi-agent orchestration platform designed for complex digital marketing automation.",
+                "The system automates content distribution, saving enterprise marketing teams significant weekly operational hours.",
+                "Decoupling execution from manual oversight represents a major transition toward autonomous corporate media generation.",
+                "Competitors must accelerate their own agentic rollouts to prevent immediate loss of market share."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
+            "heading": "OPENAI: SECURE SANDBOX ACQUISITION",
             "points": [
-                "NVIDIA Blackwell platforms achieve top performance marks on the industry's debut agentic artificial intelligence infrastructure benchmark tests.",
-                "The chipmaker simultaneously cements a massive multiyear hardware partnership with SK Hynix to advance high-bandwidth memory production.",
-                "Specialized memory bandwidth remains critical for scaling continuous sovereign agentic networks without experiencing severe throughput drops.",
-                "Hardware-centric optimizations will dictate which hyperscale cloud providers can efficiently host the next generation of autonomous workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: SOVEREIGN INNOVATION ALLIANCE",
-            "points": [
-                "AMD joins Dell and University of Cambridge to launch a state-of-the-art Sovereign AI Innovation Lab within Britain.",
-                "The computational facility leverages next-generation EPYC processors optimized specifically for rack-scale autonomous agent runtime execution.",
-                "This initiative signals a larger shift toward localized, high-performance computing resources decoupled from centralized American cloud infrastructure.",
-                "European enterprises can leverage this dedicated sovereign lab to build highly secure, compliant localized artificial intelligence models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE: UNIFIED MULTIMODAL ENGINES",
-            "points": [
-                "Google DeepMind releases Gemma 4 12B as a highly optimized, encoder-free multimodal open-weights model for edge environments.",
-                "The model architecture reduces computational overhead while simultaneously maximizing total intelligence per active parameter on local devices.",
-                "Google also deploys Gemini 3.5 to enable fluid agentic action workflows and real-time live translation capabilities globally.",
-                "Developer teams can leverage these compact models to execute highly complex localized vision and language tasks seamlessly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "OPENAI: SANDBOXED MODEL EXECUTION",
-            "points": [
-                "OpenAI acquires developer startup Ona to integrate secure, self-hosted execution environments directly into its Codex automation platform.",
-                "The sandbox infrastructure enables developers to run autonomous agents in completely isolated, user-controlled local environments.",
-                "This strategic transaction directly addresses growing enterprise security anxieties regarding external execution of sensitive proprietary source code.",
-                "Enterprise developers gain total oversight of runtime environments, significantly reducing risks associated with rogue autonomous agent actions."
+                "OpenAI acquires Ona to integrate secure, self-hosted sandboxes into its emerging developer tool ecosystem.",
+                "Developers gain immediate physical control, decreasing unauthorized data leakage risks by implementing isolated environments.",
+                "The transaction marks a decisive structural pivot toward enterprise-controlled infrastructure for complex agent execution.",
+                "Private hosting options will accelerate enterprise migration, building trust among highly regulated defense sectors."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "IEEE RESEARCH: LLM ENERGY REDUCTION",
+            "id": 4,
+            "heading": "SAMSUNG: SYSTEM-WIDE AI ADOPTION",
             "points": [
-                "Researchers discover that dynamically adjusting GPU clocking frequencies during training sessions reduces LLM energy use by fourteen percent.",
-                "The non-intrusive timing optimization successfully lowers hardware power requirements without degrading overall model intelligence or performance metrics.",
-                "This simple micro-architectural adjustment directly addresses the unsustainable carbon footprint and rising electricity costs of training frontier models.",
-                "Hyperscale data centers will rapidly adopt this clock-gating framework to satisfy stringent environmental compliance laws globally."
+                "Samsung officially reverses its multi-year ban on external generative tools, deploying major frontier models.",
+                "Over one hundred thousand global employees gain immediate access to enterprise-tier ChatGPT, Gemini, and Claude.",
+                "This shift highlights a broader corporate trend prioritizing productivity over complete internal platform isolation.",
+                "Large tech conglomerates will likely establish comprehensive hybrid data-sharing agreements with major model providers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: BLACKWELL BENCHMARK LEAD",
+            "points": [
+                "NVIDIA Blackwell chips secure top placements in the industry first standardized agentic computing infrastructure benchmark.",
+                "The hardware handles high-throughput model execution, demonstrating up to three times better latency performance.",
+                "Physical chip optimization is shifting from simple raw inference to complex multi-step agent loop processing.",
+                "Data centers must rapidly upgrade their cooling systems to support highly dense Blackwell hardware deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "DATABRICKS: OPENSHARING INITIATIVE",
+            "points": [
+                "Databricks introduces OpenSharing, establishing an open-source protocol for distributing operational machine learning model skills.",
+                "Enterprises can securely exchange analytical assets, removing heavy cloud integration fees across disconnected cloud environments.",
+                "This architectural framework decouples data transport from proprietary platforms, promoting a standardized data exchange model.",
+                "Open standard adoption will force legacy vendors to lower database egress fees to remain competitive."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ANTHROPIC: COMPLIANCE PAUSE",
+            "points": [
+                "Anthropic temporarily disables foreign access to Fable Five and Mythos Five to satisfy government directives.",
+                "International operations face immediate service disruption, forcing engineering teams to find compliant regional hosting alternatives.",
+                "The action underscores the growing friction between borderless AI capabilities and national security sovereignty laws.",
+                "Tech developers will construct isolated regional data nodes to withstand sudden political or regulatory interventions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
