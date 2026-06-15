@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC COOPERATIVE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "GLOBAL INTEL ARCHITECTURE",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: BLACKWELL AGENTIC BENCHMARK",
+            "heading": "ANTHROPIC: FEDERAL MODEL FREEZE",
             "points": [
-                "NVIDIA Blackwell architectures dominated the debut industry benchmark optimized for high-throughput agentic AI infrastructure execution.",
-                "The new platform delivers massive computational efficiency gains, reducing active token latency overhead by over forty percent.",
-                "Enterprise data centers can scale complex multi-agent frameworks natively without suffering critical hardware bottlenecks or memory limits.",
-                "Global hyperscalers will likely accelerate transition to Blackwell to satisfy the soaring computational demands of autonomous systems."
+                "United States export controls freeze Anthropic Fable and Mythos models over safety and national security concerns.",
+                "The regulatory intervention limits transatlantic deployment and halts immediate commercial scaling of high-parameter frontier networks.",
+                "Enterprise compliance architects must restructure risk frameworks to mitigate abrupt geopolitical software availability disruptions.",
+                "Geopolitical compliance will dictate future multi-model redundancy protocols across sovereign corporate cloud deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ADOBE: COWORKER ORCHESTRATION AGENT",
+            "heading": "OPENAI: ONA INFRASTRUCTURE ACQUISITION",
             "points": [
-                "Adobe unveiled Coworker, an advanced multi-agentic system designed to coordinate and automate complex enterprise marketing orchestration workflows.",
-                "The integration reduces manual task handoffs across creative projects, saving departments up to ten hours weekly.",
-                "This deployment showcases a shift toward task-level autonomy where specialized AI agents collaborate across legacy software ecosystems.",
-                "Modern enterprises will increasingly replace manual pipeline management with intelligent agentic layers to accelerate asset production timelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CISA: THREE-DAY PATCH DIRECTIVE",
-            "points": [
-                "CISA issued a strict directive compressing the mandatory patching timeline for high-risk vulnerabilities to just three days.",
-                "Federal agencies must implement automated remediation protocols rapidly to eliminate critical exploits within seventy-two hours.",
-                "This compressed window forces security operations centers to deploy advanced automated scanning and real-time defense mechanisms.",
-                "Private enterprises will soon adopt similar hyper-accelerated timelines to align with federal standards and prevent catastrophic breaches."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OPENAI: ONA SANDBOX ACQUISITION",
-            "points": [
-                "OpenAI acquired startup Ona to provide developers with secure self-hosted sandboxes for executing complex Codex instructions.",
-                "This acquisition enables isolated code execution environments, shielding external systems from malicious agent actions during testing.",
-                "Controlling the runtime environment represents a vital step toward securing autonomous agents against code injection risks.",
-                "Securing the execution boundary will drive broader enterprise adoption of autonomous developer tools in production environments."
+                "OpenAI acquires software startup Ona to introduce secure self-hosted execution sandboxes for Codex enterprise users.",
+                "This transaction provides developers with localized tool execution environments to eliminate external execution security risks.",
+                "The integration marks a shift toward decentralized agent operations by safeguarding confidential corporate codebase executions.",
+                "Enterprises can confidently deploy autonomous coding agents within isolated networks to protect intellectual property."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SAMSUNG: ENTERPRISE AI ROLLOUT",
+            "id": 3,
+            "heading": "MICROSOFT: OPEN AGENT EVALUATION",
             "points": [
-                "Samsung reversed its long-term ban on public generative artificial intelligence models to initiate a comprehensive internal transformation.",
-                "Thousands of employees will instantly gain secure access to top frontier models like ChatGPT, Gemini, and Claude.",
-                "The policy pivot highlights the growing pressure on enterprises to leverage external AI intelligence while establishing robust guardrails.",
-                "Major hardware manufacturers will shift toward sovereign enterprise wrappers to safely harvest the productivity gains of modern LLMs."
+                "Microsoft open sources a comprehensive evaluation framework designed to benchmark and audit enterprise autonomous agents.",
+                "The platform allows teams to rigorously test agentic workflows against compliance benchmarks before production deployment.",
+                "Standardizing evaluation tools reduces development latency and alleviates growing enterprise concerns over shadow agent behavior.",
+                "This open initiative forces a shift from closed proprietary testing suites to standardized community audit frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SALESFORCE: FIN SERVICE ACQUISITION",
+            "points": [
+                "Salesforce acquires conversational customer service platform Fin for thirty-six billion dollars to boost agentic capabilities.",
+                "The deal accelerates autonomous resolution engines to replace traditional human-in-the-loop customer support workflow systems.",
+                "Integrating Fin into the Einstein core architecture establishes immediate transactional autonomy for global enterprise clients.",
+                "Software consolidations indicate aggressive market moves to monopolize agentic customer interaction endpoints across key industries."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SAMSUNG: ENTERPRISE AI ADOPTION",
+            "points": [
+                "Samsung reverses its previous restrictive security ban on commercial generative artificial intelligence applications company-wide.",
+                "The global electronics manufacturer deploys ChatGPT, Gemini, and Claude across departments to accelerate engineering workflows.",
+                "Strict corporate guardrails and security layers are implemented to prevent intellectual property leaks during model interactions.",
+                "This reversal signifies a major industry acknowledgment that productivity gains outweigh initial data exposure risks."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: OPENSHARING STANDARDS",
+            "heading": "AMD: SOVEREIGN INNOVATION LAB",
             "points": [
-                "Databricks introduced OpenSharing, an open-source standard enabling seamless collaboration and secure sharing of enterprise artificial intelligence assets.",
-                "Teams can safely exchange trained models and complex agent skills across distinct domains without paying integration taxes.",
-                "Establishing an open sharing standard bypasses vendor lock-in, creating a highly interconnected, decentralized ecosystem of corporate intelligence.",
-                "Standardized model sharing protocols will rapidly democratize AI capabilities, accelerating collaborative development across global technology alliances."
+                "AMD collaborates with Dell and Cambridge University to launch a dedicated Sovereign AI Innovation Laboratory.",
+                "The initiative focuses on developing localized computing stacks and sovereign models using high-performance Instinct processors.",
+                "Establishing regional hardware labs ensures direct national control over critical scientific research and security data.",
+                "National security priorities are driving public-private partnerships to build independent, non-aligned supercomputing infrastructures globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: OPEN AGENT EVALUATION",
+            "heading": "DATABRICKS: OPENSHARING STANDARD",
             "points": [
-                "Microsoft open-sourced a robust evaluation framework engineered to benchmark and validate the safety of enterprise agentic applications.",
-                "Developers can rigorously test custom agents against edge-case failure modes to ensure reliable operational compliance and execution.",
-                "Standardizing agent evaluation is crucial for mitigating security issues, unintended system behaviors, and operational risks in production.",
-                "Open evaluation frameworks will become the foundational baseline for certifying compliant agents under upcoming global regulatory regimes."
+                "Databricks launches the OpenSharing protocol to facilitate cross-domain collaboration of artificial intelligence models and skills.",
+                "The open standard removes complex integration taxes associated with sharing proprietary algorithmic assets between enterprises.",
+                "Decoupling data sharing from vendor-specific formats improves structural interoperability across hybrid cloud database systems.",
+                "Data architects gain streamlined methods to securely monetize and distribute highly specialized multi-agent domain expertise."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
