@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INTEL ARCHITECTURE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: FEDERAL MODEL FREEZE",
+            "heading": "ANTHROPIC: GOVERNMENT MODEL FREEZE",
             "points": [
-                "United States export controls freeze Anthropic Fable and Mythos models over safety and national security concerns.",
-                "The regulatory intervention limits transatlantic deployment and halts immediate commercial scaling of high-parameter frontier networks.",
-                "Enterprise compliance architects must restructure risk frameworks to mitigate abrupt geopolitical software availability disruptions.",
-                "Geopolitical compliance will dictate future multi-model redundancy protocols across sovereign corporate cloud deployments."
+                "United States government orders freeze and export blocks on Anthropic's high-tier Claude Fable and Mythos AI models.",
+                "National security directives compel immediate disabling of advanced enterprise intelligence access to prevent critical technology transfers.",
+                "Sovereign regulatory interventions create severe operational disruption for multi-national enterprise clients relying on advanced agent deployments.",
+                "Corporate compliance architectures must rapidly pivot toward self-hosted and highly localized alternative open-source model frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: ONA INFRASTRUCTURE ACQUISITION",
+            "heading": "AMD: MEXT ACQUISITION INTEGRATION",
             "points": [
-                "OpenAI acquires software startup Ona to introduce secure self-hosted execution sandboxes for Codex enterprise users.",
-                "This transaction provides developers with localized tool execution environments to eliminate external execution security risks.",
-                "The integration marks a shift toward decentralized agent operations by safeguarding confidential corporate codebase executions.",
-                "Enterprises can confidently deploy autonomous coding agents within isolated networks to protect intellectual property."
+                "Advanced Micro Devices acquires MEXT to fundamentally accelerate memory optimization technology across its enterprise AI graphics chips.",
+                "Dynamic high-bandwidth memory allocation enables hyper-efficient data processing speeds for complex multi-agent hardware execution layers.",
+                "Architectural consolidation empowers global data centers to scale massive model workloads while minimizing overall hardware footprint requirements.",
+                "Next-generation hardware deployments will significantly optimize energy footprints and enhance operational execution efficiency across server architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: OPEN AGENT EVALUATION",
+            "heading": "NVIDIA: DEBT FUNDED FACTORY",
             "points": [
-                "Microsoft open sources a comprehensive evaluation framework designed to benchmark and audit enterprise autonomous agents.",
-                "The platform allows teams to rigorously test agentic workflows against compliance benchmarks before production deployment.",
-                "Standardizing evaluation tools reduces development latency and alleviates growing enterprise concerns over shadow agent behavior.",
-                "This open initiative forces a shift from closed proprietary testing suites to standardized community audit frameworks."
+                "Nvidia initiates a massive twenty-five billion dollar bond offering to heavily fund expanding global AI factory operations.",
+                "Accelerated physical infrastructure development requires unprecedented capital liquidity to sustain high-yield production of Blackwell computing architectures.",
+                "Dynamic scaling of next-generation sovereign microchip factories provides essential hardware foundation for complex multi-agent system execution.",
+                "Financial markets rapidly absorb advanced semiconductor debt structures to solidify hardware supremacy against evolving international competitor landscapes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALESFORCE: FIN SERVICE ACQUISITION",
+            "heading": "SALESFORCE: PLATFORM AGENT ACQUISITION",
             "points": [
-                "Salesforce acquires conversational customer service platform Fin for thirty-six billion dollars to boost agentic capabilities.",
-                "The deal accelerates autonomous resolution engines to replace traditional human-in-the-loop customer support workflow systems.",
-                "Integrating Fin into the Einstein core architecture establishes immediate transactional autonomy for global enterprise clients.",
-                "Software consolidations indicate aggressive market moves to monopolize agentic customer interaction endpoints across key industries."
+                "Salesforce acquires autonomous conversational agent developer Fin in a strategic three point six billion dollar cash transaction.",
+                "Integrating deep transactional capability directly into core enterprise customer relations architectures accelerates native automated support workflows.",
+                "Legacy software frameworks undergo rapid transformation into dynamic cognitive systems powered by highly specialized vertical model execution.",
+                "Enterprise technology operations shift fundamentally toward fully automated human-in-the-loop hybrid customer interaction management systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "SAMSUNG: ENTERPRISE AI ADOPTION",
+            "heading": "SPACEX: ORBITAL COMPUTE LAUNCH",
             "points": [
-                "Samsung reverses its previous restrictive security ban on commercial generative artificial intelligence applications company-wide.",
-                "The global electronics manufacturer deploys ChatGPT, Gemini, and Claude across departments to accelerate engineering workflows.",
-                "Strict corporate guardrails and security layers are implemented to prevent intellectual property leaks during model interactions.",
-                "This reversal signifies a major industry acknowledgment that productivity gains outweigh initial data exposure risks."
+                "SpaceX raises massive capital via public listing to develop integrated space-based energy and orbital data center infrastructure.",
+                "High-capacity satellite systems launch low-latency computing platforms to bypass traditional terrestrial network bottlenecks and geographic barriers.",
+                "Off-planet microprocessing arrays present innovative solutions for heavy compute workloads requiring massive natural thermal cooling resources.",
+                "Strategic space-based operations will redefine sovereign data residency boundaries and create highly resilient communications backup frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: SOVEREIGN INNOVATION LAB",
+            "heading": "MICROSOFT: HORIZONDB DEPLOYMENT",
             "points": [
-                "AMD collaborates with Dell and Cambridge University to launch a dedicated Sovereign AI Innovation Laboratory.",
-                "The initiative focuses on developing localized computing stacks and sovereign models using high-performance Instinct processors.",
-                "Establishing regional hardware labs ensures direct national control over critical scientific research and security data.",
-                "National security priorities are driving public-private partnerships to build independent, non-aligned supercomputing infrastructures globally."
+                "Microsoft unveils Azure HorizonDB to deliver ultra-low latency and built-in artificial intelligence processing directly inside PostgreSQL.",
+                "Scalable analytical queries run natively alongside transaction pipelines to eliminate typical data replication delays in database architectures.",
+                "Unified database layouts allow real-time enterprise software systems to retrieve context and execute highly localized vector operations.",
+                "Technical operations teams gain high-throughput data access pipelines to power real-time transactional workflows on managed cloud systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DATABRICKS: OPENSHARING STANDARD",
+            "heading": "DEEPMIND: NONLINEAR MODEL ACCELERATION",
             "points": [
-                "Databricks launches the OpenSharing protocol to facilitate cross-domain collaboration of artificial intelligence models and skills.",
-                "The open standard removes complex integration taxes associated with sharing proprietary algorithmic assets between enterprises.",
-                "Decoupling data sharing from vendor-specific formats improves structural interoperability across hybrid cloud database systems.",
-                "Data architects gain streamlined methods to securely monetize and distribute highly specialized multi-agent domain expertise."
+                "Google DeepMind introduces DiffusionGemma to bypass traditional left-to-right generation limitations in local artificial intelligence operations.",
+                "Parallel image and text generation architectures achieve four times faster execution performance on consumer-grade localized edge devices.",
+                "Compact and unified multimodal layouts provide decentralized developer environments with optimized open-source weights for complex applications.",
+                "Hardware-optimized processing arrays allow immediate integration into smartphone environments and highly secure local enterprise computing stacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
