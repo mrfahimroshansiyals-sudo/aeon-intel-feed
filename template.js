@@ -1,18 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "SYSTEMS"
+        "titleWhite": "SOVEREIGN AGENT",
+        "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: ONA SANDBOX ACQUISITION",
+            "heading": "ANTHROPIC: MODEL EXPORT FREEZE",
             "points": [
-                "OpenAI acquired sandboxing startup Ona to integrate secure, self-hosted execution environments into the Codex automation pipeline.",
-                "Enterprise developers gain complete sovereignty over executing external agent tools within highly isolated, customer-controlled environments.",
-                "This structural change directly mitigates security risks associated with running autonomous generative code on shared cloud systems.",
-                "Organizations can safely deploy agentic coding workflows without exposing sensitive proprietary data to third-party hosting networks."
+                "Washington froze exports of Fable and Mythos models forcing Anthropic to deploy staff to D.C.",
+                "National security restrictions raise massive doubts over how federal regulators will police frontier model scaling.",
+                "The unexpected export freeze disrupts global expansion plans and complicates sovereign infrastructure agreements across Europe.",
+                "Corporate enterprise clients face immediate compliance revisions as export controls restrict global access to frontier intelligence."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "SAMSUNG: GENAI ADOPTION REVERSAL",
+            "points": [
+                "Samsung reversed its long standing ban on external generative tools to drive corporate AI transformation.",
+                "Developers and staff now gain company-wide access to ChatGPT Gemini and Claude for complex engineering tasks.",
+                "Strict protocols will monitor data leakage while enabling employees to leverage external large language models.",
+                "This strategic shift reflects a broader global corporate realization that absolute bans degrade developer productivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: CODEX SANDBOX ACQUISITION",
+            "points": [
+                "OpenAI acquired startup Ona to integrate self-hosted execution sandboxes directly into the Codex development platform.",
+                "Enterprise developers can now execute autonomous coding agents inside fully secure customer-controlled local infrastructure environments.",
+                "The strategic acquisition mitigates critical security risks associated with unmonitored agentic code execution in cloud platforms.",
+                "Security teams gain direct observability over automated agent behaviors preventing malicious outbound network calls and loops."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SPACEX: MARKET FINANCING MILESTONE",
+            "points": [
+                "SpaceX launched a historic initial public offering triggering a massive new wave of deep technology financing.",
+                "Financial markets absorbed the record-breaking issuance despite broader macroeconomic volatility and high interest rate uncertainties.",
+                "The massive capital injection accelerates sovereign space infrastructure and next-generation communication network deployment globally.",
+                "Venture capital firms are shifting strategic asset allocations toward capital-intensive hardware and infrastructure projects."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
+            "id": 5,
             "heading": "NVIDIA: BLACKWELL BENCHMARK DOMINANCE",
             "points": [
-                "NVIDIA Blackwell architecture achieved top-tier performance on the inaugural industry benchmark dedicated to agentic AI workloads.",
-                "High-throughput processing capabilities reduce latency for multi-agent reasoning loops and accelerate autonomous tool execution at scale.",
-                "This breakthrough shifts computing paradigms from simple token generation toward continuous, real-time autonomous agent decision-making pipelines.",
-                "Enterprise data centers adopting Blackwell can dramatically scale up agent densities while keeping energy consumption overhead low."
+                "NVIDIA Blackwell GPUs secured the top position on the industry-first agentic artificial intelligence infrastructure benchmark.",
+                "The hardware platform demonstrated unmatched processing efficiency and throughput during complex long-horizon multi-step reasoning tasks.",
+                "Hyperscalers can optimize energy consumption while scaling autonomous model deployments across massive distributed data centers.",
+                "This performance milestone establishes Blackwell as the primary hardware foundation for sovereign enterprise agent orchestration."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: RAYFIN FABRIC INTEGRATION",
+            "id": 6,
+            "heading": "ADOBE: MULTI-AGENT ORCHESTRATION",
             "points": [
-                "Microsoft launched Rayfin as a fully managed, agent-optimized backend as a service within the Fabric ecosystem.",
-                "Developers can rapidly deploy stateful serverless databases specifically designed to handle memory states of autonomous AI agents.",
-                "The platform decouples heavy agent orchestrations from legacy database architectures to reduce latency during real-time retrieval cycles.",
-                "This solution simplifies the deployment of enterprise agents by providing built-in memory synchronization across distributed software nodes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "DATABRICKS: OPENSHARING DATA PROTOCOL",
-            "points": [
-                "Databricks introduced OpenSharing to establish an open-source standard for sharing complex AI models and agent skills.",
-                "The protocol eliminates the integration tax by enabling seamless asset sharing across disparate clouds and external partner networks.",
-                "Organizations can now securely exchange specialized agent tools and weights without relying on proprietary vendor data lakes.",
-                "Cross-industry consortia can rapidly combine localized AI models to build highly collaborative, multi-tenant agent ecosystems globally."
+                "Adobe released Coworker a specialized agent designed to orchestrate complex multi-step digital marketing workflows autonomously.",
+                "The system coordinates task execution across enterprise databases while maintaining strict brand alignment and compliance standards.",
+                "Marketers can automate content generation and distribution loops without requiring manual oversight or spreadsheet tracking.",
+                "Integration with enterprise applications enables real-time campaign optimization and direct ROI attribution for corporate leaders."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: HORIZONDB POSTGRES UPGRADE",
-            "points": [
-                "Azure HorizonDB brings ultra-low latency and scalable read operations with natively integrated AI capabilities to PostgreSQL databases.",
-                "Systems running transaction-heavy enterprise applications can process mission-critical queries without experiencing typical performance degradation bottlenecks.",
-                "The architecture embeds vector search and intelligence features directly into the relational layer for fast, local data retrieval.",
-                "IT teams can scale up generative AI integrations while maintaining traditional ACID compliance across historical corporate data stores."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: AGENT EVALUATION FRAMEWORK",
-            "points": [
-                "Microsoft open-sourced a comprehensive AI evaluation framework specifically engineered to assess the safety of enterprise agent behaviors.",
-                "Development teams can automatically measure tool alignment, hallucination rates, and task completion metrics across multi-agent systems.",
-                "Providing standardized testing environments helps enterprises mitigate risks before deploying autonomous agents into live production environments.",
-                "This framework accelerates agentic software delivery by introducing automated, repeatable grading protocols for non-deterministic AI decisions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "AMD: CAMBRIDGE SOVEREIGN LAB",
+            "heading": "CISA: HIGH-SPEED REMEDIATION MANDATE",
             "points": [
-                "AMD partnered with Dell and the University of Cambridge to establish the United Kingdom Sovereign AI Innovation Lab.",
-                "The initiative provides advanced rack-scale EPYC CPU and Instinct GPU infrastructure to accelerate regional scientific computing.",
-                "Developing national compute ecosystems helps sovereign nations maintain digital independence while fostering collaborative artificial intelligence research.",
-                "Local researchers can train high-security models on-site, bypassing dependency on centralized, foreign-owned cloud infrastructure providers."
+                "CISA compressed its mandatory software vulnerability patching timeline to just three days for federal agency networks.",
+                "The updated directive forces administrators to prioritize high-risk flaws to stay ahead of automated exploit vectors.",
+                "Cybersecurity professionals must transition from legacy schedules to continuous smart remediation cycles to maintain compliance.",
+                "This policy shift accelerates the adoption of automated patch management tools throughout the public sector."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
