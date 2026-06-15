@@ -1,34 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: GOVERNMENT MODEL FREEZE",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "United States government orders freeze and export blocks on Anthropic's high-tier Claude Fable and Mythos AI models.",
-                "National security directives compel immediate disabling of advanced enterprise intelligence access to prevent critical technology transfers.",
-                "Sovereign regulatory interventions create severe operational disruption for multi-national enterprise clients relying on advanced agent deployments.",
-                "Corporate compliance architectures must rapidly pivot toward self-hosted and highly localized alternative open-source model frameworks."
+                "Google DeepMind has introduced Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct operational action capabilities.",
+                "These models support multi-step planning and cross-modality execution, enabling agents to operate across video, audio, and text input streams.",
+                "The integration of Gemma 4 12B into the ecosystem provides an encoder-free architecture optimized for high-performance edge deployment scenarios.",
+                "Enterprise users are now leveraging these tools within AI Studio to transition from passive model interaction to proactive agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: MEXT ACQUISITION INTEGRATION",
+            "heading": "NVIDIA: SOVEREIGN FACTORY SCALE",
             "points": [
-                "Advanced Micro Devices acquires MEXT to fundamentally accelerate memory optimization technology across its enterprise AI graphics chips.",
-                "Dynamic high-bandwidth memory allocation enables hyper-efficient data processing speeds for complex multi-agent hardware execution layers.",
-                "Architectural consolidation empowers global data centers to scale massive model workloads while minimizing overall hardware footprint requirements.",
-                "Next-generation hardware deployments will significantly optimize energy footprints and enhance operational execution efficiency across server architectures."
+                "NVIDIA and SK hynix have formalized a multiyear technology partnership specifically engineered to advance memory architectures for global AI factories.",
+                "NAVER is deploying sovereign infrastructure starting at 55 megawatts with long-term plans to scale toward gigawatt-level processing capabilities.",
+                "NVIDIA continues to push its agentic infrastructure benchmark, reporting Blackwell performance gains in multi-tenant, real-time enterprise AI workload testing.",
+                "Collaborations with Doosan and LG groups emphasize the transition toward physical AI and advanced robotics infrastructure for industrial manufacturing sites."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AMD: RACK-SCALE AI EXECUTION",
+            "points": [
+                "AMD has acquired MEXT to integrate advanced memory optimization technology directly into its EPYC CPU and Instinct GPU portfolio.",
+                "The company is committing \u00a32 billion to the United Kingdom to establish a Sovereign AI Innovation Lab at Cambridge University.",
+                "New technical directives focus on rack-scale execution, positioning EPYC processors as the backbone for agentic AI workloads requiring high throughput.",
+                "Strategic collaborations with OQC and JPMorganChase are targeting the development of hybrid quantum-AI platforms for complex enterprise computational finance modeling."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "NVIDIA: DEBT FUNDED FACTORY",
-            "points": [
-                "Nvidia initiates a massive twenty-five billion dollar bond offering to heavily fund expanding global AI factory operations.",
-                "Accelerated physical infrastructure development requires unprecedented capital liquidity to sustain high-yield production of Blackwell computing architectures.",
-                "Dynamic scaling of next-generation sovereign microchip factories provides essential hardware foundation for complex multi-agent system execution.",
-                "Financial markets rapidly absorb advanced semiconductor debt structures to solidify hardware supremacy against evolving international competitor landscapes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "SALESFORCE: PLATFORM AGENT ACQUISITION",
+            "heading": "ANTHROPIC: REGULATORY MARKET FREEZE",
             "points": [
-                "Salesforce acquires autonomous conversational agent developer Fin in a strategic three point six billion dollar cash transaction.",
-                "Integrating deep transactional capability directly into core enterprise customer relations architectures accelerates native automated support workflows.",
-                "Legacy software frameworks undergo rapid transformation into dynamic cognitive systems powered by highly specialized vertical model execution.",
-                "Enterprise technology operations shift fundamentally toward fully automated human-in-the-loop hybrid customer interaction management systems."
+                "The Trump administration has issued an immediate freeze on Anthropic\u2019s Fable and Mythos models, citing national security concerns and export control violations.",
+                "This mandate forces Anthropic to disable access for enterprise clients, disrupting high-level agentic workflows currently reliant on these specific model versions.",
+                "Industry analysts observe that this action signals a aggressive new phase of US government oversight into powerful frontier model capabilities.",
+                "The resulting market uncertainty creates a significant operational vacuum for enterprises that integrated Mythos into their core mission-critical production pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEX: ORBITAL COMPUTE LAUNCH",
+            "heading": "MICROSOFT AZURE: FOUNDRY ECOSYSTEM",
             "points": [
-                "SpaceX raises massive capital via public listing to develop integrated space-based energy and orbital data center infrastructure.",
-                "High-capacity satellite systems launch low-latency computing platforms to bypass traditional terrestrial network bottlenecks and geographic barriers.",
-                "Off-planet microprocessing arrays present innovative solutions for heavy compute workloads requiring massive natural thermal cooling resources.",
-                "Strategic space-based operations will redefine sovereign data residency boundaries and create highly resilient communications backup frameworks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: HORIZONDB DEPLOYMENT",
-            "points": [
-                "Microsoft unveils Azure HorizonDB to deliver ultra-low latency and built-in artificial intelligence processing directly inside PostgreSQL.",
-                "Scalable analytical queries run natively alongside transaction pipelines to eliminate typical data replication delays in database architectures.",
-                "Unified database layouts allow real-time enterprise software systems to retrieve context and execute highly localized vector operations.",
-                "Technical operations teams gain high-throughput data access pipelines to power real-time transactional workflows on managed cloud systems."
+                "Microsoft Azure has launched Foundry Control Plane to provide enterprise-grade observability, security guardrails, and policy enforcement for AI fleets.",
+                "The new HorizonDB service introduces ultra-low latency PostgreSQL support, optimized for mission-critical AI applications requiring massive data throughput and scalability.",
+                "Foundry IQ enables organizations to ground their agents in unified corporate data, significantly improving trust and accuracy in autonomous decision tasks.",
+                "The Rayfin platform on Microsoft Fabric offers a fully managed, agent-optimized backend designed to simplify deployment for AI-first enterprise dev teams."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DEEPMIND: NONLINEAR MODEL ACCELERATION",
+            "id": 6,
+            "heading": "TSMC: A16 SILICON ARCHITECTURE",
             "points": [
-                "Google DeepMind introduces DiffusionGemma to bypass traditional left-to-right generation limitations in local artificial intelligence operations.",
-                "Parallel image and text generation architectures achieve four times faster execution performance on consumer-grade localized edge devices.",
-                "Compact and unified multimodal layouts provide decentralized developer environments with optimized open-source weights for complex applications.",
-                "Hardware-optimized processing arrays allow immediate integration into smartphone environments and highly secure local enterprise computing stacks."
+                "TSMC is prioritizing its A16 nanosheet technology with Super Power Rail to address the immense compute requirements of HPC and AI.",
+                "The company\u2019s latest symposium confirms that backside power solutions are now essential for maintaining energy efficiency in next-generation high-performance chips.",
+                "TSMC\u2019s NanoFlex Pro and advanced 3D IC packaging are enabling deeper integration of memory and logic for sovereign AI factory buildouts.",
+                "These silicon innovations represent a critical bottleneck resolution for global tech firms attempting to scale model training to petascale levels."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INFO-TECH: AGENTIC GOVERNANCE GAPS",
+            "points": [
+                "Enterprises are shifting from initial AI spending sprees to a rigorous focus on ROI metrics, questioning the sustainability of token-heavy AI budgets.",
+                "New research emphasizes that architecture-as-code is now required to turn compliance checks into automated tests for rapidly evolving AI agent ecosystems.",
+                "The rise of shadow AI among employees is prompting CIOs to implement stricter governance frameworks to mitigate security and data leakage risks.",
+                "Technical analysis suggests that successful agent deployment now depends more on human-workflow redesign than the underlying raw capabilities of the LLMs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
