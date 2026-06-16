@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INFRASTRUCTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "GLOBAL AGENTIC TECH",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: AI MARKET CONSOLIDATION",
+            "heading": "SPACEX: CURSOR AI ACQUISITION",
             "points": [
-                "SpaceX market capitalization surges, positioning the firm to overtake Amazon as the world's fifth-largest corporate entity.",
-                "The company announces a massive 60 billion dollar acquisition of AI coding startup Cursor for enterprise integration.",
-                "This strategic hardware-software play signals a transition into integrated orbital data center infrastructure and autonomous coding.",
-                "Market analysts expect this vertical consolidation to set a new benchmark for diversified AI-driven industrial conglomerates globally."
+                "SpaceX officially acquires AI coding startup Cursor in a strategic transaction valued at sixty billion dollars.",
+                "The deal bolsters SpaceX's internal software capabilities for long-horizon robotics and autonomous orbital operations management.",
+                "Market analysts view this acquisition as a direct challenge to Microsoft and Amazon in the race for infrastructure dominance.",
+                "The consolidation of AI coding talent into SpaceX signals an aggressive pivot toward fully autonomous aerospace systems integration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.bloomberg.com/technology",
+                "Source: https://www.wsj.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BANK OF JAPAN: MONETARY SHIFT",
+            "heading": "ANTHROPIC: REGULATORY ACCESS BLOCK",
             "points": [
-                "The Bank of Japan raises interest rates to 1 percent, marking the highest level observed since 1995.",
-                "Central bank authorities confirm the termination of monthly bond purchase reductions starting in the coming calendar year.",
-                "This policy pivot reflects heightened inflationary risk assessments and a major departure from ultra-loose monetary strategies.",
-                "Global markets react with volatility as the yen strengthens, impacting carry trade dynamics and international capital flows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com/technology",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
-            "points": [
-                "AMD finalizes the acquisition of MEXT to significantly enhance its AI portfolio with advanced memory optimization technology.",
-                "The integration focuses on boosting performance for rack-scale AI compute environments and high-density data center deployments.",
-                "This deal strengthens the AMD EPYC competitive edge in supporting agentic AI workloads requiring massive parallel processing.",
-                "Strategic expansion positions AMD to better compete with sovereign AI infrastructure providers across international enterprise markets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: POLICY COMPLIANCE SHIFT",
-            "points": [
-                "Anthropic implements a new privacy policy allowing US consumers to bypass the recent government-imposed Fable model ban.",
-                "The system utilizes identity document scanning to differentiate between domestic and foreign users for regulatory compliance.",
-                "This proactive measure highlights the growing pressure on model providers to manage geopolitical access constraints centrally.",
-                "Enterprises are closely monitoring these governance adjustments to ensure sustained operational continuity with Claude model integrations."
+                "Anthropic is forced to disable new model deployments due to an emergency government compliance order issued today.",
+                "New privacy policy provisions enable the company to differentiate between foreign and domestic users to satisfy regulators.",
+                "Enterprise customers report being locked out of Fable and Mythos systems as legal departments review the restrictions.",
+                "The incident highlights the intensifying friction between frontier AI labs and the evolving geopolitical technology export controls."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "QUALCOMM: AGENTIC HARDWARE SHIFT",
+            "id": 3,
+            "heading": "DATABRICKS: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Qualcomm leadership forecasts a significant transition where AI agents replace traditional app ecosystems on consumer devices.",
-                "Development efforts are currently focused on launching 40 new AI-native hardware devices to capture this emerging market.",
-                "The shift emphasizes local processing capabilities, reducing reliance on cloud latency for daily agentic task orchestration.",
-                "Industry experts view this as a primary catalyst for the next wave of edge computing hardware adoption."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "META: LINTER PERFORMANCE UPGRADE",
-            "points": [
-                "Meta releases Pyrefly 1.0, a high-performance Python linter and type checker built with the Rust programming language.",
-                "The tool provides blazing speed compared to legacy alternatives, specifically targeting complex AI-driven codebases for developers.",
-                "This release underscores the focus on improving developer productivity within large-scale machine learning engineering environments globally.",
-                "Advanced type checking features aim to reduce technical debt in autonomous agentic software development projects moving forward."
+                "Databricks launches LTAP as a foundational architecture specifically designed for deploying and scaling autonomous agentic applications.",
+                "The framework aims to bridge the gap between data silos and real-time inference requirements for large-scale enterprise workflows.",
+                "Technical integration focuses on providing developers with modular building blocks for complex, multi-step agent orchestration and governance.",
+                "Enterprise adoption of LTAP will likely accelerate the transition away from monolithic AI models toward distributed agent ecosystems."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DATA CENTERS: ENERGY RESILIENCY",
+            "id": 4,
+            "heading": "NVIDIA: AI FACTORY EXPANSION",
             "points": [
-                "Community backlash forces a re-evaluation of data center cooling infrastructure, prompting innovative software-defined energy load management.",
-                "Operators are adopting grid-interactive systems that dynamically dial down energy consumption during periods of extreme peak demand.",
-                "This shift toward flexibility addresses regulatory concerns and improves sustainability metrics for massive AI training clusters.",
-                "Industry adoption of these software-driven energy strategies is expected to mitigate the risk of further community escalation."
+                "NVIDIA deepens its multiyear partnership with SK hynix to advance next-generation memory modules for global AI factories.",
+                "New sovereign infrastructure initiatives starting at fifty-five megawatts underscore the shift toward localized AI compute production hubs.",
+                "Technological upgrades focus on energy-efficient memory architectures required for the massive scaling of autonomous AI agent clusters.",
+                "Strategic expansion confirms NVIDIA's intent to capture the underlying hardware requirements for the emerging global agentic economy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SCHNEIDER: DATA CENTER PARTNERSHIPS",
+            "points": [
+                "Schneider Electric enters a collaborative partnership with Foxconn to engineer the next generation of modular, high-efficiency data centers.",
+                "The alliance targets the critical infrastructure bottlenecks currently hindering the rapid expansion of massive-scale agentic AI deployments.",
+                "Hardware designs will incorporate AI-native thermal management systems to handle increasing rack-scale power densities and compute loads.",
+                "This industrial cooperation reflects an industry-wide pivot toward vertically integrated solutions for power-intensive AI inference operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ABB: PHYSICAL AI ALLIANCE",
+            "points": [
+                "ABB Robotics confirms a strategic partnership aimed at accelerating the integration of physical AI into industrial manufacturing processes.",
+                "The collaboration will focus on developing autonomous robots capable of real-time sensory perception and complex workspace adaptation.",
+                "Engineers are prioritizing the deployment of edge-based AI models to reduce latency in critical automated factory floor tasks.",
+                "This development marks a significant milestone in the broader industrial transition toward fully self-optimizing, intelligent physical systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "IBM: EMEA AI VISIBILITY",
+            "points": [
+                "IBM reports that EMEA enterprises suffer from significant visibility gaps regarding the infrastructure sustaining their sovereign AI models.",
+                "Executives are increasingly prioritizing infrastructure auditing to meet the strict compliance requirements of the European AI Act.",
+                "Research identifies a critical need for transparent telemetry across all levels of the AI hardware and software stack.",
+                "The push for visibility is expected to drive substantial investment in centralized management tools for hybrid-cloud AI environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
