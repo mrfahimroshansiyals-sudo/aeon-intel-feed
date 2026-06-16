@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED ENTERPRISE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "Agentic AI Architecture",
+        "titleBlue": "Shifts"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: NANOSHEET POWER RAIL",
+            "heading": "SPACEX: AGENTIC CODING ACCELERATION",
             "points": [
-                "TSMC announced the A16 nanosheet architecture featuring innovative Super Power Rail technology for high-performance computing.",
-                "The backside power solution drastically optimizes voltage regulation and silicon area efficiency inside next-generation accelerators.",
-                "Commercial integration of A14 with NanoFlex technology allows custom power-performance tuning for hyper-scale AI models.",
-                "Hardware architects can now deploy dense transistor layouts while preventing thermal throttling during sustained workloads."
+                "SpaceX acquires Cursor for $60 billion, integrating advanced agentic coding capabilities into its ecosystem.",
+                "This acquisition aims to significantly expand SpaceX's developer offerings and internal workflow automation efficiencies.",
+                "The strategic move strengthens architecture sovereignty by verticalizing critical AI software development for aerospace.",
+                "It positions SpaceX to redefine real-time coding agents, impacting future space and terrestrial operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SK HYNIX MEMORY PARTNERSHIP",
+            "heading": "IBM: EMEA AI GOVERNANCE DEFICIT",
             "points": [
-                "NVIDIA and SK hynix finalized a multiyear technology partnership to co-develop advanced memory architectures.",
-                "The collaboration focuses on integrating high-bandwidth memory variants directly into large-scale global AI factory networks.",
-                "Standardizing on ultra-fast memory components allows data centers to mitigate memory bandwidth bottlenecks during training.",
-                "Systems designers will leverage these performance gains to power complex multi-agent simulations across distributed nodes."
+                "IBM reports EMEA firms lack sufficient AI visibility despite a strong regional push for sovereignty.",
+                "This critical gap impedes regulatory compliance, risk management, and the ethical deployment of AI systems.",
+                "The findings underscore architectural challenges in integrating AI securely and transparently across enterprise data.",
+                "Businesses must prioritize robust observability frameworks to align AI initiatives with strategic governance goals."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEX: CURSOR SYSTEM ACQUISITION",
+            "heading": "ABB ROBOTICS: PHYSICAL AI ADVANCE",
             "points": [
-                "SpaceX finalized a sixty-billion-dollar acquisition of Cursor to aggressively scale its autonomous agentic coding operations.",
-                "Integrating Cursor into orbital networks accelerates the deployment of self-healing software frameworks across aerospace infrastructure.",
-                "Enterprise CIOs face critical strategic decisions as developer ecosystems adjust to consolidated proprietary coding platforms.",
-                "This transaction establishes a precedent where orbital data systems and software synthesis are completely unified vertically."
+                "ABB Robotics partners to accelerate physical AI development, enhancing robotic automation capabilities significantly.",
+                "This collaboration aims to embed advanced intelligence directly into industrial robots for complex real-world tasks.",
+                "The strategic alliance focuses on sovereign control over AI-driven physical systems, ensuring operational integrity.",
+                "It validates industrial AI's growth, projecting transformative impacts on manufacturing and logistics sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALESFORCE: FIN AGENTIC CX ACQUISITION",
+            "heading": "AZURE: RAYFIN AGENT OPTIMIZED BACKEND",
             "points": [
-                "Salesforce signed a definitive agreement to acquire agentic customer service startup Fin for three-point-six billion dollars.",
-                "Fin provides the foundational technology to accelerate autonomous, multi-step customer workflows within the Salesforce ecosystem.",
-                "The acquisition positions Salesforce to bypass traditional customer service middleware with native enterprise-grade agent coordination.",
-                "Engineering teams will begin immediate architectural ingestion to unify conversational data silos into secure active agents."
+                "Microsoft introduces Rayfin, an enterprise-ready, agent-optimized backend-as-a-service on Microsoft Fabric.",
+                "Rayfin provides a fully managed, code-optimized foundation for building and scaling advanced AI agents securely.",
+                "This service enhances architectural sovereignty by offering robust, controlled environments for agent deployment.",
+                "It promises accelerated development of intelligent applications, driving operational efficiency and innovation pathways."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: RACKSPACE DEPLOYMENT AGREEMENT",
+            "heading": "AZURE: HORIZONDB AI-POWERED POSTGRESQL",
             "points": [
-                "AMD and Rackspace Technology announced a phased deployment of thirty megawatts of high-density AI compute infrastructure.",
-                "The deployment leverages AMD Instinct accelerators to deliver optimized total cost of ownership for enterprise customers.",
-                "Rackspace intends to address escalating enterprise demands for dedicated sovereign compute clusters without compromising performance.",
-                "This physical infrastructure scale-out solidifies AMD as a viable alternative for high-performance agentic execution workloads."
+                "Azure launches HorizonDB, bringing ultra-low latency, scalable reads, and built-in AI to PostgreSQL databases.",
+                "This significant upgrade empowers mission-critical applications with real-time data processing and intelligent insights.",
+                "The integration boosts data architecture sovereignty, providing enhanced control over AI-driven database functions.",
+                "It enables enterprises to build highly adaptive, high-performance applications leveraging advanced AI capabilities natively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: FABRIC RAYFIN INTEGRATION",
+            "heading": "AZURE: FOUNDRY IQ KNOWLEDGE FABRIC",
             "points": [
-                "Microsoft launched Rayfin as a fully managed agent-optimized backend as a service within Microsoft Fabric.",
-                "Rayfin delivers low-latency data replication pipelines designed specifically to support rapid agentic looping and retrieval.",
-                "Developers can access Rayfin via native software development kits to synchronize state across disparate cloud architectures.",
-                "This integration minimizes the computational overhead required to ground intelligent agents on live operational enterprise data."
+                "Azure announces Foundry IQ, unifying context across enterprise data, applications, and workflows for AI agents.",
+                "This platform fuels agents with comprehensive, trusted organizational knowledge, enhancing decision-making accuracy.",
+                "Foundry IQ strengthens architectural sovereignty by centralizing and securing AI agent's access to critical information.",
+                "It ensures better, more reliable agent results at scale, transforming enterprise intelligence layer functionalities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IBM: SOVEREIGNTY VISIBILITY CAPABILITY",
+            "heading": "DATABRICKS: LTAP AGENTIC FOUNDATION",
             "points": [
-                "IBM research revealed that EMEA enterprises face significant blind spots regarding their underlying AI sovereignty infrastructure.",
-                "Despite compliance demands many executives lack visibility into the physical data hosting regions powering active workloads.",
-                "This operational gap threatens compliance with international data rules and increases systemic exposure to foreign disruptions.",
-                "Correcting these transparency gaps requires organizations to deploy comprehensive tracing tools across their hybrid cloud setups."
+                "Databricks pitches LTAP (Lakehouse Transactional Analytic Platform) as a new foundation for agentic applications.",
+                "This paradigm shift integrates operational and analytical processing, enabling real-time, data-driven AI agents.",
+                "LTAP promotes architectural sovereignty by offering a unified, high-performance platform for complex AI workloads.",
+                "It signifies a critical advancement in data management, directly supporting the next generation of autonomous applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
