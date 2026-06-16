@@ -1,50 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ARCHITECTURAL",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "GLOBAL INFRASTRUCTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: INFRASTRUCTURE COST SURGE",
+            "heading": "SPACEX: AI MARKET CONSOLIDATION",
             "points": [
-                "OpenAI recorded thirty-four billion dollars in spending last year ahead of its highly anticipated initial public offering.",
-                "Audited financials reveal massive escalations in compute infrastructure costs and rapid operational workforce expansion.",
-                "The surge in capital expenditure underscores the intense capital demands required to train next-generation frontier models.",
-                "Investors must weigh these astronomical operational costs against future revenue generation projections post-listing."
+                "SpaceX market capitalization surges, positioning the firm to overtake Amazon as the world's fifth-largest corporate entity.",
+                "The company announces a massive 60 billion dollar acquisition of AI coding startup Cursor for enterprise integration.",
+                "This strategic hardware-software play signals a transition into integrated orbital data center infrastructure and autonomous coding.",
+                "Market analysts expect this vertical consolidation to set a new benchmark for diversified AI-driven industrial conglomerates globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.bloomberg.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: FEDERAL COMPLIANCE EMBARGO",
+            "heading": "BANK OF JAPAN: MONETARY SHIFT",
             "points": [
-                "Anthropic locked enterprise clients out of its Fable and Mythos models following a strict government intervention.",
-                "Company executives are actively negotiating with Trump administration officials to restore access to suspended models.",
-                "The freeze highlights escalating regulatory interventions targeting high-compute private models under national security frameworks.",
-                "Global enterprises face sudden disruption, raising critical concerns regarding sovereign dependencies on single-vendor architectures."
+                "The Bank of Japan raises interest rates to 1 percent, marking the highest level observed since 1995.",
+                "Central bank authorities confirm the termination of monthly bond purchase reductions starting in the coming calendar year.",
+                "This policy pivot reflects heightened inflationary risk assessments and a major departure from ultra-loose monetary strategies.",
+                "Global markets react with volatility as the yen strengthens, impacting carry trade dynamics and international capital flows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SALESFORCE: SYSTEMIC AGENT ACQUISITION",
+            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
             "points": [
-                "Salesforce announced a three point six billion dollar acquisition of agentic intelligence firm Fin.",
-                "The transaction aims to aggressively accelerate the company automation timeline and integration of autonomous enterprise workflows.",
-                "Analysts debate whether this rapid consolidation will streamline product integration or create complex architecture overlap.",
-                "Enterprise customers must prepare for updated platform roadmaps as autonomous agents become deeply integrated natively."
+                "AMD finalizes the acquisition of MEXT to significantly enhance its AI portfolio with advanced memory optimization technology.",
+                "The integration focuses on boosting performance for rack-scale AI compute environments and high-density data center deployments.",
+                "This deal strengthens the AMD EPYC competitive edge in supporting agentic AI workloads requiring massive parallel processing.",
+                "Strategic expansion positions AMD to better compete with sovereign AI infrastructure providers across international enterprise markets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: POLICY COMPLIANCE SHIFT",
+            "points": [
+                "Anthropic implements a new privacy policy allowing US consumers to bypass the recent government-imposed Fable model ban.",
+                "The system utilizes identity document scanning to differentiate between domestic and foreign users for regulatory compliance.",
+                "This proactive measure highlights the growing pressure on model providers to manage geopolitical access constraints centrally.",
+                "Enterprises are closely monitoring these governance adjustments to ensure sustained operational continuity with Claude model integrations."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "SPACEX: ORBITAL INFRASTRUCTURE EXPANSION",
-            "points": [
-                "SpaceX plans integrated hardware and software platforms to deploy AI nodes within next-generation orbital data centers.",
-                "The architecture bridges space-based telemetry, specialized energy resources, and high-speed satellite communications arrays.",
-                "Financial analysts view the historical capital raise as a pivot toward space-based compute infrastructure networks.",
-                "This paradigm shift signals the birth of highly resilient, decoupled processing units operating outside terrestrial jurisdictions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "SCHNEIDER ELECTRIC: CO-DEVELOPED DATA FACTORIES",
+            "heading": "QUALCOMM: AGENTIC HARDWARE SHIFT",
             "points": [
-                "Schneider Electric partnered with Foxconn to co-design and construct next-generation enterprise-grade data centers globally.",
-                "The partnership addresses the escalating electrical power demands and cooling requirements of dense neural network clusters.",
-                "This integration aims to deliver modular energy architectures optimized specifically for high-capacity liquid-cooled hardware.",
-                "Infrastructure operators must adapt to localized power grids capable of supporting sustainable, multi-gigawatt computing facilities."
+                "Qualcomm leadership forecasts a significant transition where AI agents replace traditional app ecosystems on consumer devices.",
+                "Development efforts are currently focused on launching 40 new AI-native hardware devices to capture this emerging market.",
+                "The shift emphasizes local processing capabilities, reducing reliance on cloud latency for daily agentic task orchestration.",
+                "Industry experts view this as a primary catalyst for the next wave of edge computing hardware adoption."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cnbc.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: SYSTEMIC MEMORY ACQUISITION",
+            "heading": "META: LINTER PERFORMANCE UPGRADE",
             "points": [
-                "AMD acquired memory optimization startup MEXT to enhance its processing efficiency across high-performance silicon portfolios.",
-                "The transaction integrates specialized hardware architectures designed to alleviate critical bandwidth bottlenecks in agentic workloads.",
-                "This acquisition bolsters AMD capabilities to offer highly competitive, cost-effective alternatives to dominant industry GPU systems.",
-                "Data center architects will benefit from enhanced rack-scale execution efficiency and reduced overall thermal dissipation."
+                "Meta releases Pyrefly 1.0, a high-performance Python linter and type checker built with the Rust programming language.",
+                "The tool provides blazing speed compared to legacy alternatives, specifically targeting complex AI-driven codebases for developers.",
+                "This release underscores the focus on improving developer productivity within large-scale machine learning engineering environments globally.",
+                "Advanced type checking features aim to reduce technical debt in autonomous agentic software development projects moving forward."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "QUALCOMM: AGENTIC HARDWARE TRANSITION",
+            "heading": "DATA CENTERS: ENERGY RESILIENCY",
             "points": [
-                "Qualcomm announced that autonomous AI agents will completely replace traditional software applications on edge devices.",
-                "The semiconductor giant is actively developing forty distinct hardware devices designed for native agentic processing execution.",
-                "This shift requires a fundamental redesign of mobile system architectures to optimize localized, low-latency execution engines.",
-                "Developers must pivot from creating modular applications to designing specialized tools for unified AI orchestrators."
+                "Community backlash forces a re-evaluation of data center cooling infrastructure, prompting innovative software-defined energy load management.",
+                "Operators are adopting grid-interactive systems that dynamically dial down energy consumption during periods of extreme peak demand.",
+                "This shift toward flexibility addresses regulatory concerns and improves sustainability metrics for massive AI training clusters.",
+                "Industry adoption of these software-driven energy strategies is expected to mitigate the risk of further community escalation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
