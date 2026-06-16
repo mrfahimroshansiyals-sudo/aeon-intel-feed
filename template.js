@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE SOVEREIGN",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN ARCHITECTURAL",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: FEDERAL EXPORT BLOCK",
+            "heading": "OPENAI: INFRASTRUCTURE COST SURGE",
             "points": [
-                "US government mandates Anthropic disable Fable and Mythos models over national security compliance regulations.",
-                "Global enterprise customers lose access to top-tier cognitive models, forcing rapid infrastructure adaptation strategies.",
-                "Sovereignty compliance risks escalate as federal restrictions disrupt private sector deployment pipelines across international borders.",
-                "Corporate architectures must immediately implement multi-model redundancy fallback systems to bypass single-provider geopolitical bottlenecks."
+                "OpenAI recorded thirty-four billion dollars in spending last year ahead of its highly anticipated initial public offering.",
+                "Audited financials reveal massive escalations in compute infrastructure costs and rapid operational workforce expansion.",
+                "The surge in capital expenditure underscores the intense capital demands required to train next-generation frontier models.",
+                "Investors must weigh these astronomical operational costs against future revenue generation projections post-listing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: MEXT ACQUISITION",
+            "heading": "ANTHROPIC: FEDERAL COMPLIANCE EMBARGO",
             "points": [
-                "AMD acquires memory optimization startup MEXT to enhance next-generation hardware processing and processing efficiency.",
-                "Integration of patented memory technologies directly addresses architectural bottlenecks inherent in massive neural network scaling.",
-                "Enterprise workloads will benefit from lower latency and enhanced memory capacity across unified cloud networks.",
-                "Strategic expansion positions AMD to challenge legacy silicon manufacturers in the highly competitive AI chip market."
+                "Anthropic locked enterprise clients out of its Fable and Mythos models following a strict government intervention.",
+                "Company executives are actively negotiating with Trump administration officials to restore access to suspended models.",
+                "The freeze highlights escalating regulatory interventions targeting high-compute private models under national security frameworks.",
+                "Global enterprises face sudden disruption, raising critical concerns regarding sovereign dependencies on single-vendor architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: DEBT CAPITALIZATION",
+            "heading": "SALESFORCE: SYSTEMIC AGENT ACQUISITION",
             "points": [
-                "Nvidia initiates a massive twenty billion dollar debt sale to finance next-generation chip production pipelines.",
-                "The capital injection aims to secure supply chains and accelerate Blackwell architecture production across global fabs.",
-                "Financial markets demonstrate strong appetite for premium technological debt, signaling sustained infrastructure investment confidence.",
-                "Increased liquid reserves enable Nvidia to maintain dominance over high-performance computing markets through aggressive research funding."
+                "Salesforce announced a three point six billion dollar acquisition of agentic intelligence firm Fin.",
+                "The transaction aims to aggressively accelerate the company automation timeline and integration of autonomous enterprise workflows.",
+                "Analysts debate whether this rapid consolidation will streamline product integration or create complex architecture overlap.",
+                "Enterprise customers must prepare for updated platform roadmaps as autonomous agents become deeply integrated natively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALFORCE: FIN ACQUISITION",
+            "heading": "SPACEX: ORBITAL INFRASTRUCTURE EXPANSION",
             "points": [
-                "Salesforce agrees to acquire agentic startup Fin for three point six billion dollars to accelerate development.",
-                "The integration will directly embed autonomous execution capabilities into the core Customer Relationship Management cloud environment.",
-                "Enterprise architects must prepare for a rapid transition from assistive chatbots to fully autonomous agentic workflows.",
-                "This consolidation reflects a broader industry push toward high-value transaction automation instead of simple text generation."
+                "SpaceX plans integrated hardware and software platforms to deploy AI nodes within next-generation orbital data centers.",
+                "The architecture bridges space-based telemetry, specialized energy resources, and high-speed satellite communications arrays.",
+                "Financial analysts view the historical capital raise as a pivot toward space-based compute infrastructure networks.",
+                "This paradigm shift signals the birth of highly resilient, decoupled processing units operating outside terrestrial jurisdictions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SCHNEIDER: FOXCONN PARTNERSHIP",
+            "heading": "SCHNEIDER ELECTRIC: CO-DEVELOPED DATA FACTORIES",
             "points": [
-                "Schneider Electric partners with Foxconn to design and build highly efficient next-generation liquid cooled data centers.",
-                "The collaboration focuses on optimizing energy delivery and thermal management systems for intensive high-density computing loads.",
-                "Sustainable infrastructure becomes critical as global power grids face unprecedented strain from exponential server farm growth.",
-                "Operators adopting these designs will realize significant operational savings while satisfying stringent international environmental regulations."
+                "Schneider Electric partnered with Foxconn to co-design and construct next-generation enterprise-grade data centers globally.",
+                "The partnership addresses the escalating electrical power demands and cooling requirements of dense neural network clusters.",
+                "This integration aims to deliver modular energy architectures optimized specifically for high-capacity liquid-cooled hardware.",
+                "Infrastructure operators must adapt to localized power grids capable of supporting sustainable, multi-gigawatt computing facilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SPACEX: ORBITAL INFRASTRUCTURE",
+            "heading": "AMD: SYSTEMIC MEMORY ACQUISITION",
             "points": [
-                "SpaceX leverages its blockbuster initial public offering to accelerate development of space-based orbital data processing centers.",
-                "Integrating satellite constellations with edge compute nodes provides highly secure, low-latency communication networks across the globe.",
-                "Ground-based data center bottlenecks are bypassed entirely, introducing a new paradigm for sovereign military and enterprise communications.",
-                "Defense and logistics sectors will likely dominate early adoption of these resilient, extraterrestrial cloud hosting environments."
+                "AMD acquired memory optimization startup MEXT to enhance its processing efficiency across high-performance silicon portfolios.",
+                "The transaction integrates specialized hardware architectures designed to alleviate critical bandwidth bottlenecks in agentic workloads.",
+                "This acquisition bolsters AMD capabilities to offer highly competitive, cost-effective alternatives to dominant industry GPU systems.",
+                "Data center architects will benefit from enhanced rack-scale execution efficiency and reduced overall thermal dissipation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COHERE: MODEL CONTROL",
+            "heading": "QUALCOMM: AGENTIC HARDWARE TRANSITION",
             "points": [
-                "Cohere releases North Mini Code to give developers highly granular programmatic control over autonomous software generation.",
-                "The lightweight architecture executes locally, minimizing token transit costs and keeping highly sensitive proprietary data secure.",
-                "Software engineering teams can customize agentic behaviors directly within private, containerized deployment pipelines without external API dependencies.",
-                "Decreasing model sizes coupled with specialized reasoning capabilities accelerates the proliferation of edge-based engineering automation."
+                "Qualcomm announced that autonomous AI agents will completely replace traditional software applications on edge devices.",
+                "The semiconductor giant is actively developing forty distinct hardware devices designed for native agentic processing execution.",
+                "This shift requires a fundamental redesign of mobile system architectures to optimize localized, low-latency execution engines.",
+                "Developers must pivot from creating modular applications to designing specialized tools for unified AI orchestrators."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
