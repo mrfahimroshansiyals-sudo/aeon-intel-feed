@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
-        "titleBlue": "ACCELERATES"
+        "titleWhite": "COGNITIVE SOVEREIGN",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
+            "heading": "ANTHROPIC: FEDERAL EXPORT BLOCK",
             "points": [
-                "Google DeepMind has introduced Gemini 3.5 and Gemini Omni, focusing on frontier intelligence coupled with direct operational action capabilities.",
-                "These models support multi-step planning and cross-modality execution, enabling agents to operate across video, audio, and text input streams.",
-                "The integration of Gemma 4 12B into the ecosystem provides an encoder-free architecture optimized for high-performance edge deployment scenarios.",
-                "Enterprise users are now leveraging these tools within AI Studio to transition from passive model interaction to proactive agentic workflows."
+                "US government mandates Anthropic disable Fable and Mythos models over national security compliance regulations.",
+                "Global enterprise customers lose access to top-tier cognitive models, forcing rapid infrastructure adaptation strategies.",
+                "Sovereignty compliance risks escalate as federal restrictions disrupt private sector deployment pipelines across international borders.",
+                "Corporate architectures must immediately implement multi-model redundancy fallback systems to bypass single-provider geopolitical bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SOVEREIGN FACTORY SCALE",
+            "heading": "AMD: MEXT ACQUISITION",
             "points": [
-                "NVIDIA and SK hynix have formalized a multiyear technology partnership specifically engineered to advance memory architectures for global AI factories.",
-                "NAVER is deploying sovereign infrastructure starting at 55 megawatts with long-term plans to scale toward gigawatt-level processing capabilities.",
-                "NVIDIA continues to push its agentic infrastructure benchmark, reporting Blackwell performance gains in multi-tenant, real-time enterprise AI workload testing.",
-                "Collaborations with Doosan and LG groups emphasize the transition toward physical AI and advanced robotics infrastructure for industrial manufacturing sites."
+                "AMD acquires memory optimization startup MEXT to enhance next-generation hardware processing and processing efficiency.",
+                "Integration of patented memory technologies directly addresses architectural bottlenecks inherent in massive neural network scaling.",
+                "Enterprise workloads will benefit from lower latency and enhanced memory capacity across unified cloud networks.",
+                "Strategic expansion positions AMD to challenge legacy silicon manufacturers in the highly competitive AI chip market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: RACK-SCALE AI EXECUTION",
+            "heading": "NVIDIA: DEBT CAPITALIZATION",
             "points": [
-                "AMD has acquired MEXT to integrate advanced memory optimization technology directly into its EPYC CPU and Instinct GPU portfolio.",
-                "The company is committing \u00a32 billion to the United Kingdom to establish a Sovereign AI Innovation Lab at Cambridge University.",
-                "New technical directives focus on rack-scale execution, positioning EPYC processors as the backbone for agentic AI workloads requiring high throughput.",
-                "Strategic collaborations with OQC and JPMorganChase are targeting the development of hybrid quantum-AI platforms for complex enterprise computational finance modeling."
+                "Nvidia initiates a massive twenty billion dollar debt sale to finance next-generation chip production pipelines.",
+                "The capital injection aims to secure supply chains and accelerate Blackwell architecture production across global fabs.",
+                "Financial markets demonstrate strong appetite for premium technological debt, signaling sustained infrastructure investment confidence.",
+                "Increased liquid reserves enable Nvidia to maintain dominance over high-performance computing markets through aggressive research funding."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: REGULATORY MARKET FREEZE",
+            "heading": "SALFORCE: FIN ACQUISITION",
             "points": [
-                "The Trump administration has issued an immediate freeze on Anthropic\u2019s Fable and Mythos models, citing national security concerns and export control violations.",
-                "This mandate forces Anthropic to disable access for enterprise clients, disrupting high-level agentic workflows currently reliant on these specific model versions.",
-                "Industry analysts observe that this action signals a aggressive new phase of US government oversight into powerful frontier model capabilities.",
-                "The resulting market uncertainty creates a significant operational vacuum for enterprises that integrated Mythos into their core mission-critical production pipelines."
+                "Salesforce agrees to acquire agentic startup Fin for three point six billion dollars to accelerate development.",
+                "The integration will directly embed autonomous execution capabilities into the core Customer Relationship Management cloud environment.",
+                "Enterprise architects must prepare for a rapid transition from assistive chatbots to fully autonomous agentic workflows.",
+                "This consolidation reflects a broader industry push toward high-value transaction automation instead of simple text generation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT AZURE: FOUNDRY ECOSYSTEM",
+            "heading": "SCHNEIDER: FOXCONN PARTNERSHIP",
             "points": [
-                "Microsoft Azure has launched Foundry Control Plane to provide enterprise-grade observability, security guardrails, and policy enforcement for AI fleets.",
-                "The new HorizonDB service introduces ultra-low latency PostgreSQL support, optimized for mission-critical AI applications requiring massive data throughput and scalability.",
-                "Foundry IQ enables organizations to ground their agents in unified corporate data, significantly improving trust and accuracy in autonomous decision tasks.",
-                "The Rayfin platform on Microsoft Fabric offers a fully managed, agent-optimized backend designed to simplify deployment for AI-first enterprise dev teams."
+                "Schneider Electric partners with Foxconn to design and build highly efficient next-generation liquid cooled data centers.",
+                "The collaboration focuses on optimizing energy delivery and thermal management systems for intensive high-density computing loads.",
+                "Sustainable infrastructure becomes critical as global power grids face unprecedented strain from exponential server farm growth.",
+                "Operators adopting these designs will realize significant operational savings while satisfying stringent international environmental regulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: A16 SILICON ARCHITECTURE",
+            "heading": "SPACEX: ORBITAL INFRASTRUCTURE",
             "points": [
-                "TSMC is prioritizing its A16 nanosheet technology with Super Power Rail to address the immense compute requirements of HPC and AI.",
-                "The company\u2019s latest symposium confirms that backside power solutions are now essential for maintaining energy efficiency in next-generation high-performance chips.",
-                "TSMC\u2019s NanoFlex Pro and advanced 3D IC packaging are enabling deeper integration of memory and logic for sovereign AI factory buildouts.",
-                "These silicon innovations represent a critical bottleneck resolution for global tech firms attempting to scale model training to petascale levels."
+                "SpaceX leverages its blockbuster initial public offering to accelerate development of space-based orbital data processing centers.",
+                "Integrating satellite constellations with edge compute nodes provides highly secure, low-latency communication networks across the globe.",
+                "Ground-based data center bottlenecks are bypassed entirely, introducing a new paradigm for sovereign military and enterprise communications.",
+                "Defense and logistics sectors will likely dominate early adoption of these resilient, extraterrestrial cloud hosting environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFO-TECH: AGENTIC GOVERNANCE GAPS",
+            "heading": "COHERE: MODEL CONTROL",
             "points": [
-                "Enterprises are shifting from initial AI spending sprees to a rigorous focus on ROI metrics, questioning the sustainability of token-heavy AI budgets.",
-                "New research emphasizes that architecture-as-code is now required to turn compliance checks into automated tests for rapidly evolving AI agent ecosystems.",
-                "The rise of shadow AI among employees is prompting CIOs to implement stricter governance frameworks to mitigate security and data leakage risks.",
-                "Technical analysis suggests that successful agent deployment now depends more on human-workflow redesign than the underlying raw capabilities of the LLMs."
+                "Cohere releases North Mini Code to give developers highly granular programmatic control over autonomous software generation.",
+                "The lightweight architecture executes locally, minimizing token transit costs and keeping highly sensitive proprietary data secure.",
+                "Software engineering teams can customize agentic behaviors directly within private, containerized deployment pipelines without external API dependencies.",
+                "Decreasing model sizes coupled with specialized reasoning capabilities accelerates the proliferation of edge-based engineering automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
