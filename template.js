@@ -1,34 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "CONSOLIDATION"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: CURSOR INTEGRATION",
+            "heading": "NVIDIA: SOVEREIGN FACTORY EXPANSION",
             "points": [
-                "SpaceX launches a sixty billion dollar acquisition of Cursor to control developers workflows and orbital AI resources.",
-                "Compute expansion risks are scrutinized by global CIOs assessing the trust boundaries of integrated aerospace software platforms.",
-                "Systems developers gain direct access to massive space-bound hardware clusters designed to process localized orbital intelligence.",
-                "Integrating developer analytics within aerospace telemetry models enables rapid self-correcting agentic flight system development."
+                "NVIDIA and SK hynix forge multiyear partnership to develop next-generation memory for global AI factory buildouts.",
+                "NAVER scales sovereign AI infrastructure starting at 55 megawatts with clear expansion paths toward gigawatt-scale data centers.",
+                "SK Telecom announces deployment of gigawatt-scale AI Cloud in Korea utilizing the specialized NVIDIA DSX platform architecture.",
+                "These regional infrastructure wins consolidate the NVIDIA ecosystem as the foundational layer for nation-state sovereign AI initiatives."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SALESFORCE: FIN ACQUISITION",
+            "heading": "AMD: RACK SCALE PERFORMANCE",
             "points": [
-                "Salesforce plans a three point six billion dollar acquisition of agentic customer support startup Fin to accelerate automation.",
-                "Operational workflows shift from human middleware to autonomous digital agents capable of executing complex real-time enterprise transactions.",
-                "Architectural decoupling of legacy service frameworks enables rapid deployment of highly resilient customer experience AI pipelines.",
-                "Enterprise developers gain immediate native tools to deploy self-healing service workflows across fragmented multi-cloud application stacks."
+                "AMD acquires MEXT to integrate advanced memory optimization technologies directly into their existing high-performance AI hardware portfolio.",
+                "New strategic agreement with Rackspace Technology initiates immediate phased deployment of 30 megawatts of dedicated AMD AI compute.",
+                "AMD EPYC processor architecture is formally positioned as the primary requirement for efficient rack-scale execution of agentic workloads.",
+                "Capital commitments in the UK signal a massive expansion into sovereign AI research and localized data center operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SALESFORCE: AGENTIC CUSTOMER SERVICE",
+            "points": [
+                "Salesforce accelerates its transition into the agentic service sector through the acquisition of CX technology leader Fin.",
+                "The acquisition aims to bridge the gap between traditional CRM workflows and autonomous agentic customer support task management.",
+                "Integration focuses on deploying agentic capabilities at enterprise scale to replace legacy ticket-based customer interaction models globally.",
+                "Analysts expect immediate consolidation of Fin internal tools into the broader Salesforce ecosystem to drive agentic efficiency."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "DATABRICKS: AGENTIC COST SURGE",
-            "points": [
-                "Databricks reports over eighty percent revenue growth alongside shrinking margins driven by extensive agentic compute loops.",
-                "High density software queries and recursive agent calls escalate operating costs for sovereign cloud enterprise clients.",
-                "High transactional load requires transition toward localized hybrid database engines optimized for continuous multi-agent operation workloads.",
-                "Infrastructure engineers must optimize computational pipelines to mitigate budget volatility associated with uncontrolled agent token consumption."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "HPE: ENTERPRISE AI NETWORKING",
+            "heading": "DATADOG: AI INCIDENT MANAGEMENT",
             "points": [
-                "Hewlett Packard Enterprise launches advanced switching hardware and AI-powered remediation systems to secure mission critical workloads.",
-                "Enterprise networks transition toward self-healing fabrics designed to automate incident detection and streamline cloud infrastructure configurations.",
-                "Integrating intelligent assistants within network control planes reduces diagnostic latency across hybrid multi-tenant operational environments.",
-                "System engineers can confidently scale complex distributed datasets across secure low-latency data center architectures."
+                "Datadog DASH conference sessions reveal that AI-driven incident management requires human-designed platform engineering foundations for successful execution.",
+                "Enterprises must invest in platform engineers to oversee the reliability of autonomous incident remediation agents at production scale.",
+                "The focus shifts toward building robust observability pipelines that prevent AI agents from compounding operational downtime during incidents.",
+                "Stakeholders are cautioned that agent performance is intrinsically linked to the underlying platform ontology and data governance."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "CIO RESEARCH: PRICING VOLATILITY",
             "points": [
-                "Advanced Micro Devices secures a thirty megawatt compute partnership with Rackspace to deploy high-density hardware.",
-                "Integrating optimized memory architectures via newly acquired MEXT assets dramatically improves hardware throughput performance ratios.",
-                "Data centers leverage modular rack-scale CPU designs to drive energy efficiency across high-demand agentic workflows.",
-                "Platform engineers utilize open software ecosystems to bypass proprietary compute barriers and achieve cost-efficient scale."
+                "CIOs report significant budget volatility as SaaS providers shift forecasting risks onto buyers through new dynamic pricing models.",
+                "The era of unlimited AI adoption spending is officially replaced by a rigorous focus on ROI and value-based metrics.",
+                "Strategic IT initiatives are now prioritizing sovereign design constraints and architecture control to avoid long-term vendor lock-in cycles.",
+                "Leaders are advised to reopen the build versus buy question as internal system control becomes a competitive advantage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL",
+            "heading": "HPE: NETWORKED AI REMEDIATION",
             "points": [
-                "Microsoft announces Azure HorizonDB to bring ultra-low latency reads and native AI capabilities to PostgreSQL.",
-                "Applications leverage unified intelligence layers to surface real-time contextual knowledge across distributed enterprise database systems.",
-                "Modern databases integrate relational storage and agentic backends directly on Microsoft Fabric for seamless processing.",
-                "System architects reduce operational complexity by deploying zero-trust data strategies over adaptive cloud database instances."
+                "HPE Discover 2026 highlights a strategic shift toward AI-powered networking to manage surging enterprise data traffic loads.",
+                "New switching advancements are designed to support autonomous remediation, reducing the manual oversight required for complex data center fabrics.",
+                "The integration of AI assistant support into network operations seeks to automate fault detection and bandwidth allocation in real-time.",
+                "Enterprises are encouraged to leverage HPE networking infrastructure to accelerate their transition into automated agentic work environments globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTEL: TRANSITION TO FOUNDRY",
+            "heading": "MISTRAL: FRONTIER AGENTIC WORK",
             "points": [
-                "Intel begins production on its most advanced chip node to capture lucrative enterprise silicon contracts.",
-                "Advanced manufacturing capabilities aim to reverse financial bleeding by establishing an independent domestic semiconductor foundry division.",
-                "System architects secure resilient hardware supply chains by shifting critical manufacturing pipelines to onshore physical facilities.",
-                "Next-generation processing architectures accelerate local AI execution across secure consumer devices and large datacenter networks."
+                "Mistral AI introduces Vibe, a specialized agentic framework designed specifically for long-horizon task scheduling and persistent memory management.",
+                "New Vibe for code modules optimize asynchronous code generation and architecture-aware reasoning within existing IDE and terminal environments.",
+                "Mistral Studio now provides unified AI registry and observability guardrails to facilitate full deployment portability across cloud providers.",
+                "Organizations are leveraging these tools to streamline operations across maritime logistics, advanced semiconductor lithography, and public sector research."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
