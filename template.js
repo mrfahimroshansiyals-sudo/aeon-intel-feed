@@ -1,114 +1,114 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: DEVSECOPS AGENT UPGRADE",
+            "heading": "AWS: DEVOPS AGENT UPGRADE",
             "points": [
-                "AWS deployed major upgrades to its DevOps Agent, automating complex software release pipelines and configuration management.",
-                "The updated cloud-native engine automates vulnerability patching and code compliance reviews seamlessly during continuous deployment.",
-                "Systems integration of AWS Continuum enables real-time threat modeling across standard enterprise software engineering architectures.",
-                "Engineering teams can now bypass manual verification to deliver highly secure application features with minimal delay."
+                "AWS launched a new DevOps Agent designed to automate code vulnerability lifecycle management, shifting security from periodic testing to continuous, outcome-based remediation.",
+                "The tool integrates directly into existing CI/CD pipelines, offering real-time context-aware scanning that prioritizes threats according to architectural risk and system dependencies.",
+                "This release aims to eliminate release bottlenecks by handling testing and remediation autonomously, significantly increasing software development velocity for enterprise-scale engineering teams.",
+                "Stakeholders should expect reduced technical debt and faster production cycles as AWS moves to codify security as a native component of automated development workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEX: CURSOR AGENTIC ACQUISITION",
+            "heading": "MISTRAL: VIBE AGENT DEPLOYMENT",
             "points": [
-                "SpaceX announced a monumental sixty billion dollar acquisition of Cursor to dramatically accelerate agentic software engineering.",
-                "Integrating Cursor provides the aerospace leader with advanced developer workflow analytics and highly optimized compute engines.",
-                "Analysts suggest this acquisition secures critical AI coding infrastructure necessary for complex deep space system design.",
-                "The transaction establishes SpaceX as a major software force, redefining proprietary code generation standards globally."
+                "Mistral released Vibe, a specialized AI agent platform engineered for long-horizon enterprise tasks, capable of persistent memory, multi-step scheduling, and document synthesis.",
+                "The platform supports asynchronous code generation and legacy translation, positioning it as a direct competitor to high-end enterprise agentic stacks.",
+                "By providing an enterprise-grade agent orchestration framework, Mistral is enabling organizations to build custom, edge-to-cloud workflows with native observability and strict governance guardrails.",
+                "This signals a shift toward agentic sovereignty, where businesses can leverage proprietary knowledge graphs to power complex, multi-functional autonomous agent fleets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: GENIE ONTOLOGY UNIFICATION",
+            "heading": "MICROSOFT: FOUNDRY IQ INTEGRATION",
             "points": [
-                "Databricks launched its Genie Ontology platform to unify disparate business metadata definitions across complex enterprise environments.",
-                "Standardized ontology mapping guarantees high reliability for autonomous retrieval-augmented generation agents operating on raw database tables.",
-                "The unified semantic layer minimizes hallucination risks by establishing precise relational boundaries across transactional storage networks.",
-                "Modern enterprise architectures can now deploy trusted analytical systems that communicate via standardized data governance rules."
+                "Microsoft introduced Foundry IQ, an intelligence layer designed to ground AI agents in unified, cross-organizational data context for improved operational accuracy.",
+                "The new control plane offers centralized observability, policy management, and security guardrails for managing diverse AI agent fleets at scale within Azure.",
+                "Foundry IQ aims to bridge the gap between fragmented enterprise data silos, allowing agents to query and act upon authoritative knowledge across internal systems.",
+                "IT leaders can anticipate increased reliability in autonomous workflows, reducing hallucinations and ensuring that agentic outputs align with corporate data policies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALESFORCE: FIN AGENTIC ACQUISITION",
+            "heading": "DATABRICKS: GENIE ONTOLOGY BET",
             "points": [
-                "Salesforce finalized plans to acquire Irish customer experience automation firm Fin to boost its service cloud.",
-                "Integrating Fin expands agentic conversational capabilities, allowing customer support workflows to run autonomously without human intervention.",
-                "The tactical acquisition represents a significant platform consolidation shift toward deep transactional customer lifecycle management solutions.",
-                "Enterprises will leverage these native conversational architectures to scale operational support desks with unmatched response efficiency."
+                "Databricks launched Genie Ontology to unify business definitions across datasets, positioning context-aware data management as the primary foundation for trusted AI agents.",
+                "The feature allows enterprises to standardize data terminology in natural language, reducing ambiguity for agents operating across complex, multi-departmental data environments.",
+                "Analysts highlight that robust data governance and quality control remain the critical hurdles for moving autonomous agent pilots into scalable production environments.",
+                "This move emphasizes that the future of agentic AI depends less on model architecture and more on the underlying data fabrics providing reliable context."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: SK HYNIX PARTNERSHIP",
+            "heading": "FED: MONETARY POLICY SHIFT",
             "points": [
-                "Nvidia and SK Hynix initiated a multiyear technology partnership aimed at advancing memory for global factories.",
-                "The collaborative engineering effort focuses on integrating ultra-fast high bandwidth memory architectures into Blackwell computing systems.",
-                "Joint hardware development will alleviate severe data processing bottlenecks, fueling the next generation of massive models.",
-                "Semiconductor manufacturing targets will scale rapidly to meet surging global industrial requirements for energy-efficient computing operations."
+                "The Federal Reserve, under new leadership, signaled a pivot toward potential rate hikes in 2026, marking a departure from previous guidance and reflecting inflation concerns.",
+                "Markets reacted with volatility as central bank officials pared back dovish biases, signaling a more hawkish approach to managing current macroeconomic pressures.",
+                "This shift creates a more challenging capital environment for high-growth tech firms relying on debt-funded AI infrastructure expansion and large-scale data center builds.",
+                "Financial experts anticipate a tightening of investment criteria for speculative AI startups as the cost of capital recalibrates following the central bank's update."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IBM: SOVEREIGN VISIBILITY DEFICIT",
+            "heading": "ASML: LITHOGRAPHY AI ADVANCE",
             "points": [
-                "IBM reported that most EMEA firms face severe visibility deficits despite making significant sovereign infrastructure investments.",
-                "Lack of transparent monitoring structures hinders regulatory compliance efforts and stalls enterprise production deployments of models.",
-                "Chief Information Officers must balance localized cloud hosting demands against operational cost-efficiency metrics for model hosting.",
-                "Standardized observability protocols are desperately required to achieve true architectural sovereignty across European regulatory borders."
+                "ASML is scaling computational lithography by applying AI-native engineering to push semiconductor node limitations, crucial for supporting next-generation AI processor performance.",
+                "The company is collaborating with major silicon manufacturers to integrate AI-driven design optimization, enhancing power efficiency and precision in mass semiconductor production.",
+                "Advanced lithography systems are becoming increasingly critical to the AI industrial base, acting as the primary bottleneck for Blackwell-scale infrastructure deployment and roadmap advancement.",
+                "Expect continued strategic partnerships between ASML and hyperscalers as the demand for sovereign silicon continues to outpace current manufacturing capability and throughput."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: MEXT MEMORY ACQUISITION",
+            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
             "points": [
-                "AMD finalized the acquisition of memory optimization startup MEXT to enhance its processing hardware portfolio.",
-                "Integrating MEXT technology directly improves execution throughput and overall power efficiency for multi-tenant server workloads.",
-                "The acquisition helps AMD capture market share by delivering highly optimized silicon tailored for agentic workflows.",
-                "Enterprise data centers will gain significant performance benefits, reducing the total cost of running inference networks."
+                "AMD acquired MEXT, a specialist in memory optimization technology, to reinforce its AI portfolio and improve the performance-per-watt profile of its Instinct GPU product line.",
+                "The acquisition provides AMD with critical IP to address memory bottlenecks in agentic AI workloads, which require rapid access to vast, distributed knowledge bases.",
+                "AMD aims to challenge Nvidia\u2019s dominance by offering an end-to-end open ecosystem, ranging from CPUs and DPUs to optimized memory and advanced software stacks.",
+                "Enterprises can leverage this integration to achieve rack-scale AI performance with lower total cost of ownership compared to traditional proprietary closed-loop hardware solutions."
             ],
             "imageUrl": "",
             "tags": [
