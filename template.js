@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Agentic AI Architecture",
-        "titleBlue": "Shifts"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "CONSOLIDATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: AGENTIC CODING ACCELERATION",
+            "heading": "SPACEX: CURSOR INTEGRATION",
             "points": [
-                "SpaceX acquires Cursor for $60 billion, integrating advanced agentic coding capabilities into its ecosystem.",
-                "This acquisition aims to significantly expand SpaceX's developer offerings and internal workflow automation efficiencies.",
-                "The strategic move strengthens architecture sovereignty by verticalizing critical AI software development for aerospace.",
-                "It positions SpaceX to redefine real-time coding agents, impacting future space and terrestrial operations."
+                "SpaceX launches a sixty billion dollar acquisition of Cursor to control developers workflows and orbital AI resources.",
+                "Compute expansion risks are scrutinized by global CIOs assessing the trust boundaries of integrated aerospace software platforms.",
+                "Systems developers gain direct access to massive space-bound hardware clusters designed to process localized orbital intelligence.",
+                "Integrating developer analytics within aerospace telemetry models enables rapid self-correcting agentic flight system development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: EMEA AI GOVERNANCE DEFICIT",
+            "heading": "SALESFORCE: FIN ACQUISITION",
             "points": [
-                "IBM reports EMEA firms lack sufficient AI visibility despite a strong regional push for sovereignty.",
-                "This critical gap impedes regulatory compliance, risk management, and the ethical deployment of AI systems.",
-                "The findings underscore architectural challenges in integrating AI securely and transparently across enterprise data.",
-                "Businesses must prioritize robust observability frameworks to align AI initiatives with strategic governance goals."
+                "Salesforce plans a three point six billion dollar acquisition of agentic customer support startup Fin to accelerate automation.",
+                "Operational workflows shift from human middleware to autonomous digital agents capable of executing complex real-time enterprise transactions.",
+                "Architectural decoupling of legacy service frameworks enables rapid deployment of highly resilient customer experience AI pipelines.",
+                "Enterprise developers gain immediate native tools to deploy self-healing service workflows across fragmented multi-cloud application stacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ABB ROBOTICS: PHYSICAL AI ADVANCE",
+            "heading": "DATABRICKS: AGENTIC COST SURGE",
             "points": [
-                "ABB Robotics partners to accelerate physical AI development, enhancing robotic automation capabilities significantly.",
-                "This collaboration aims to embed advanced intelligence directly into industrial robots for complex real-world tasks.",
-                "The strategic alliance focuses on sovereign control over AI-driven physical systems, ensuring operational integrity.",
-                "It validates industrial AI's growth, projecting transformative impacts on manufacturing and logistics sectors."
+                "Databricks reports over eighty percent revenue growth alongside shrinking margins driven by extensive agentic compute loops.",
+                "High density software queries and recursive agent calls escalate operating costs for sovereign cloud enterprise clients.",
+                "High transactional load requires transition toward localized hybrid database engines optimized for continuous multi-agent operation workloads.",
+                "Infrastructure engineers must optimize computational pipelines to mitigate budget volatility associated with uncontrolled agent token consumption."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AZURE: RAYFIN AGENT OPTIMIZED BACKEND",
+            "heading": "HPE: ENTERPRISE AI NETWORKING",
             "points": [
-                "Microsoft introduces Rayfin, an enterprise-ready, agent-optimized backend-as-a-service on Microsoft Fabric.",
-                "Rayfin provides a fully managed, code-optimized foundation for building and scaling advanced AI agents securely.",
-                "This service enhances architectural sovereignty by offering robust, controlled environments for agent deployment.",
-                "It promises accelerated development of intelligent applications, driving operational efficiency and innovation pathways."
+                "Hewlett Packard Enterprise launches advanced switching hardware and AI-powered remediation systems to secure mission critical workloads.",
+                "Enterprise networks transition toward self-healing fabrics designed to automate incident detection and streamline cloud infrastructure configurations.",
+                "Integrating intelligent assistants within network control planes reduces diagnostic latency across hybrid multi-tenant operational environments.",
+                "System engineers can confidently scale complex distributed datasets across secure low-latency data center architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AZURE: HORIZONDB AI-POWERED POSTGRESQL",
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
             "points": [
-                "Azure launches HorizonDB, bringing ultra-low latency, scalable reads, and built-in AI to PostgreSQL databases.",
-                "This significant upgrade empowers mission-critical applications with real-time data processing and intelligent insights.",
-                "The integration boosts data architecture sovereignty, providing enhanced control over AI-driven database functions.",
-                "It enables enterprises to build highly adaptive, high-performance applications leveraging advanced AI capabilities natively."
+                "Advanced Micro Devices secures a thirty megawatt compute partnership with Rackspace to deploy high-density hardware.",
+                "Integrating optimized memory architectures via newly acquired MEXT assets dramatically improves hardware throughput performance ratios.",
+                "Data centers leverage modular rack-scale CPU designs to drive energy efficiency across high-demand agentic workflows.",
+                "Platform engineers utilize open software ecosystems to bypass proprietary compute barriers and achieve cost-efficient scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AZURE: FOUNDRY IQ KNOWLEDGE FABRIC",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL",
             "points": [
-                "Azure announces Foundry IQ, unifying context across enterprise data, applications, and workflows for AI agents.",
-                "This platform fuels agents with comprehensive, trusted organizational knowledge, enhancing decision-making accuracy.",
-                "Foundry IQ strengthens architectural sovereignty by centralizing and securing AI agent's access to critical information.",
-                "It ensures better, more reliable agent results at scale, transforming enterprise intelligence layer functionalities."
+                "Microsoft announces Azure HorizonDB to bring ultra-low latency reads and native AI capabilities to PostgreSQL.",
+                "Applications leverage unified intelligence layers to surface real-time contextual knowledge across distributed enterprise database systems.",
+                "Modern databases integrate relational storage and agentic backends directly on Microsoft Fabric for seamless processing.",
+                "System architects reduce operational complexity by deploying zero-trust data strategies over adaptive cloud database instances."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DATABRICKS: LTAP AGENTIC FOUNDATION",
+            "heading": "INTEL: TRANSITION TO FOUNDRY",
             "points": [
-                "Databricks pitches LTAP (Lakehouse Transactional Analytic Platform) as a new foundation for agentic applications.",
-                "This paradigm shift integrates operational and analytical processing, enabling real-time, data-driven AI agents.",
-                "LTAP promotes architectural sovereignty by offering a unified, high-performance platform for complex AI workloads.",
-                "It signifies a critical advancement in data management, directly supporting the next generation of autonomous applications."
+                "Intel begins production on its most advanced chip node to capture lucrative enterprise silicon contracts.",
+                "Advanced manufacturing capabilities aim to reverse financial bleeding by establishing an independent domestic semiconductor foundry division.",
+                "System architects secure resilient hardware supply chains by shifting critical manufacturing pipelines to onshore physical facilities.",
+                "Next-generation processing architectures accelerate local AI execution across secure consumer devices and large datacenter networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
