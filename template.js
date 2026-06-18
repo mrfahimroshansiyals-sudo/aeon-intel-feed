@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: FINOPS AGENT INTEGRATION",
+            "heading": "AWS: AGENTCORE FRAMEWORK",
             "points": [
-                "AWS launched an automated FinOps AI agent to optimize enterprise cloud budgets and monitor machine learning costs.",
-                "The agent integrates directly with Amazon Bedrock to provide granular cost attribution for generative AI application deployments.",
-                "Enterprise organizations can now dynamically track and allocate resource consumption across decentralized multi-model developer architectures.",
-                "Continuous financial optimization at the agentic layer mitigates runaway API expenses during long-running background execution cycles."
+                "AWS debuted Bedrock AgentCore to accelerate multi-agent optimization and coordinate autonomous runtime workflows.",
+                "New Bedrock cost tracking metrics optimize cloud budgets by attributing expenses to individual agents.",
+                "The framework integrates with Databricks and Snowflake to allow direct natural language database queries.",
+                "Enterprise developers gain granular resource controls to prevent runaway costs during long-running agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AGENT BACKEND ARCHITECTURE",
+            "heading": "MICROSOFT: HORIZONDB LAUNCH",
             "points": [
-                "Microsoft launched Rayfin as an enterprise-ready, agent-optimized backend service integrated natively within the Microsoft Fabric platform.",
-                "The service couples with Azure HorizonDB to deliver ultra-low latency PostgreSQL database operations for AI workloads.",
-                "Developers can easily build, adapt, and scale mission-critical applications without experiencing typical database performance bottlenecks.",
-                "Ubiquitous organizational context is unlocked across the entire intelligence layer using the newly introduced Foundry IQ."
+                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and native AI capabilities to PostgreSQL.",
+                "The system powers agentic apps with Foundry IQ to unify context layers across organization-wide databases.",
+                "Rayfin integration provides fully managed backend services to scale mission-critical workloads without performance degradation.",
+                "Architects can easily deploy secure agent fleets backed by robust observability and control plane tools."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: AGENTIC ENTERPRISE PLATFORM",
+            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
             "points": [
-                "Google Cloud shifted its core enterprise strategy to prioritize autonomous systems through the Gemini Enterprise platform.",
-                "The architecture unifies agent development, runtime orchestration, and comprehensive governance protocols within a single cloud environment.",
-                "Data Cloud updates convert passive enterprise data repositories into active systems capable of executing autonomous business workflows.",
-                "This paradigm shift enables organizations to deploy secure, context-aware AI agents across scalable global digital infrastructures."
+                "Databricks introduced ZeroOps architecture to eliminate database management bottlenecks in complex machine learning pipelines.",
+                "The Genie Ontology engine unifies business definitions to build context-aware and highly trusted enterprise agents.",
+                "Organizations can establish robust data quality guardrails before pushing generative models into active production.",
+                "Engineers resolve legacy architecture challenges by automating schema alignment across disparate transactional data networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: SOVEREIGN INFRASTRUCTURE EXPANSION",
+            "heading": "IBM: TRUSTED AI STORAGE",
             "points": [
-                "NVIDIA and SK hynix announced a multiyear technology partnership to advance next-generation memory for global AI factories.",
-                "NAVER is expanding sovereign AI infrastructure starting at fifty-five megawatts with plans to achieve gigawatt-scale capacity.",
-                "SK Telecom will build a gigawatt-scale AI Cloud in Korea utilizing the specialized NVIDIA DSX platform.",
-                "These parallel infrastructure developments secure hardware pipelines and memory architectures essential for sovereign computational independence."
+                "IBM unveiled enhanced storage systems designed to defend sensitive enterprise data against emerging vector vulnerabilities.",
+                "The updates address critical zero-trust implementation oversights that frequently stall high-scale machine learning deployments.",
+                "New governance protocols protect corporate training pipelines from data poisoning and unauthorized network access threats.",
+                "IT leaders secure unstructured datasets by enforcing continuous encryption across distributed cloud storage environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: ZEROOPS OPERATION PIPELINES",
+            "heading": "STANFORD HAI: PSYCHADAPTER LLM",
             "points": [
-                "Databricks targeted critical AI operational bottlenecks by launching its ZeroOps automated data management system.",
-                "The platform unifies complex business definitions across systems using the newly introduced Genie Ontology capabilities.",
-                "It minimizes manual developer intervention, enabling rapid deployment of highly reliable and context-aware enterprise AI agents.",
-                "Organizations can now streamline data pipelines without sacrificing strict data governance or overall metadata quality metrics."
+                "Stanford researchers developed PsychAdapter to fine-tune personality traits and mental health variables in LLMs.",
+                "The framework enables the creation of highly realistic synthetic individuals for complex professional simulation programs.",
+                "This breakthrough improves clinical AI evaluation by generating authentic human dialogues across diverse therapeutic scenarios.",
+                "Organizations leverage customized language profiles to deliver hyper-personalized digital content and human-centric virtual support."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: LONG HORIZON AGENTS",
+            "heading": "WAYMO: ROBOTAXI RECALL EDGE-CASE",
             "points": [
-                "Mistral AI released Vibe, an autonomous agent engineered to handle long-horizon tasks using persistent organizational memory.",
-                "The companion tool Vibe for Code brings asynchronous code generation and legacy translation directly into developer terminals.",
-                "This architecture-aware reasoning model automates continuous integration pipelines, test authoring, and background code reviews seamlessly.",
-                "Enterprises can execute multi-step task scheduling and complex document intelligence workflows on dedicated private GPU clusters."
+                "Waymo initiated a voluntary recall of three thousand nine hundred robotaxis following critical highway navigation errors.",
+                "The vehicles struggled with spatial mapping updates inside active highway construction zones during high-speed transit.",
+                "Engineers deployed software updates to prevent similar real-time pathfinding issues across the autonomous fleet.",
+                "This event highlights persistent hardware and software integration limits in dynamic, edge-case physical environment scenarios."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: COMPUTE DEPLOYMENT COLLABORATION",
+            "heading": "JPMORGAN CHASE: CLAUDE RESTRICTION",
             "points": [
-                "AMD and Rackspace Technology signed a definitive agreement for a phased thirty-megawatt deployment of AMD AI compute.",
-                "The infrastructure leverages rack-scale AMD EPYC processors optimized specifically to execute complex agentic AI workflows.",
-                "This expansion addresses skyrocketing demand for scalable high-performance compute resources within enterprise data center environments.",
-                "The partnership guarantees dedicated compute availability for clients deploying dense multi-agent networks at global industrial scale."
+                "JPMorgan Chase blocked employee access to Anthropic Claude models within its Hong Kong regional headquarters.",
+                "The decision matches previous actions by Goldman Sachs amid escalating compliance audits regarding global data sovereignty.",
+                "Financial institutions restrict external generative models to avoid leaks of proprietary market intelligence and clients' data.",
+                "Investment banks accelerate private on-premise model alternatives to maintain compliance with strict international privacy acts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
