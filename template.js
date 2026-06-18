@@ -1,66 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: DEVOPS AGENT UPGRADE",
+            "heading": "DATABRICKS: GENIE ONTOLOGY",
             "points": [
-                "AWS launched a new DevOps Agent designed to automate code vulnerability lifecycle management, shifting security from periodic testing to continuous, outcome-based remediation.",
-                "The tool integrates directly into existing CI/CD pipelines, offering real-time context-aware scanning that prioritizes threats according to architectural risk and system dependencies.",
-                "This release aims to eliminate release bottlenecks by handling testing and remediation autonomously, significantly increasing software development velocity for enterprise-scale engineering teams.",
-                "Stakeholders should expect reduced technical debt and faster production cycles as AWS moves to codify security as a native component of automated development workflows."
+                "Databricks launched Genie Ontology to unify business definitions and provide critical context for autonomous enterprise agents.",
+                "This framework eliminates data silos, allowing agentic pilots to transition rapidly into full-scale production environments.",
+                "High-performance data governance models now rely heavily on ontological layers to prevent unpredictable agent execution errors.",
+                "Organizations implementing this technology will achieve superior data transparency and robust compliance across distributed networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL: VIBE AGENT DEPLOYMENT",
+            "heading": "GITHUB: COPILOT DESKTOP",
             "points": [
-                "Mistral released Vibe, a specialized AI agent platform engineered for long-horizon enterprise tasks, capable of persistent memory, multi-step scheduling, and document synthesis.",
-                "The platform supports asynchronous code generation and legacy translation, positioning it as a direct competitor to high-end enterprise agentic stacks.",
-                "By providing an enterprise-grade agent orchestration framework, Mistral is enabling organizations to build custom, edge-to-cloud workflows with native observability and strict governance guardrails.",
-                "This signals a shift toward agentic sovereignty, where businesses can leverage proprietary knowledge graphs to power complex, multi-functional autonomous agent fleets."
+                "GitHub unveiled its agent-native Copilot Desktop application to streamline local software development workflows for global engineers.",
+                "The release coincides with new token-based billing structures, forcing enterprises to optimize their code generation expenditures.",
+                "Localized IDE tools represent a shift toward low-latency, agentic developer environments operating directly on the edge.",
+                "Engineering leaders must establish strict budget controls to mitigate rising costs associated with continuous token utilization."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FOUNDRY IQ INTEGRATION",
+            "heading": "AWS: DEVOPS AGENT",
             "points": [
-                "Microsoft introduced Foundry IQ, an intelligence layer designed to ground AI agents in unified, cross-organizational data context for improved operational accuracy.",
-                "The new control plane offers centralized observability, policy management, and security guardrails for managing diverse AI agent fleets at scale within Azure.",
-                "Foundry IQ aims to bridge the gap between fragmented enterprise data silos, allowing agents to query and act upon authoritative knowledge across internal systems.",
-                "IT leaders can anticipate increased reliability in autonomous workflows, reducing hallucinations and ensuring that agentic outputs align with corporate data policies."
+                "AWS upgraded its DevOps Agent to eliminate critical release bottlenecks through automated testing and deployment pipelines.",
+                "Development teams can now accelerate release cycles while maintaining strict software safety and security compliance standards.",
+                "Shifting maintenance into active CI/CD pipelines reduces overall operational overhead and eliminates lingering legacy technical debt.",
+                "Enterprises will experience drastically reduced downtime and continuous architectural health monitoring without manual engineering intervention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DATABRICKS: GENIE ONTOLOGY BET",
+            "heading": "Z.AI: LONG RUNNING GLM",
             "points": [
-                "Databricks launched Genie Ontology to unify business definitions across datasets, positioning context-aware data management as the primary foundation for trusted AI agents.",
-                "The feature allows enterprises to standardize data terminology in natural language, reducing ambiguity for agents operating across complex, multi-departmental data environments.",
-                "Analysts highlight that robust data governance and quality control remain the critical hurdles for moving autonomous agent pilots into scalable production environments.",
-                "This move emphasizes that the future of agentic AI depends less on model architecture and more on the underlying data fabrics providing reliable context."
+                "Z.ai pitched its GLM-5.2 model specifically designed to manage long-running, complex software engineering challenges.",
+                "The model enhances agentic reasoning capabilities, allowing systems to operate autonomously over extended software project timelines.",
+                "Specialized engineering models are outperforming generic foundational networks by focusing on target-oriented developer execution loops.",
+                "Future software development will rely on persistent, context-aware agents capable of executing multi-step systems maintenance independently."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,44 +71,44 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "FED: MONETARY POLICY SHIFT",
+            "heading": "AWS: CONTEXT ARCHITECTURE",
             "points": [
-                "The Federal Reserve, under new leadership, signaled a pivot toward potential rate hikes in 2026, marking a departure from previous guidance and reflecting inflation concerns.",
-                "Markets reacted with volatility as central bank officials pared back dovish biases, signaling a more hawkish approach to managing current macroeconomic pressures.",
-                "This shift creates a more challenging capital environment for high-growth tech firms relying on debt-funded AI infrastructure expansion and large-scale data center builds.",
-                "Financial experts anticipate a tightening of investment criteria for speculative AI startups as the cost of capital recalibrates following the central bank's update."
+                "AWS introduced AWS Context to map diverse corporate data into secure, governed knowledge graphs for agents.",
+                "This feature provides real-time situational awareness, resolving key retrieval-augmented generation failures during live production queries.",
+                "Enterprise agent adoption depends heavily on secure context layers that do not compromise sensitive user data.",
+                "Architects can now deploy highly intelligent agents that grow progressively smarter through continuous metadata feedback loops."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: LITHOGRAPHY AI ADVANCE",
+            "heading": "SALESFORCE: FIN ACQUISITION",
             "points": [
-                "ASML is scaling computational lithography by applying AI-native engineering to push semiconductor node limitations, crucial for supporting next-generation AI processor performance.",
-                "The company is collaborating with major silicon manufacturers to integrate AI-driven design optimization, enhancing power efficiency and precision in mass semiconductor production.",
-                "Advanced lithography systems are becoming increasingly critical to the AI industrial base, acting as the primary bottleneck for Blackwell-scale infrastructure deployment and roadmap advancement.",
-                "Expect continued strategic partnerships between ASML and hyperscalers as the demand for sovereign silicon continues to outpace current manufacturing capability and throughput."
+                "Salesforce announced plans to acquire Irish customer experience AI firm Fin to bolster its agentic service portfolio.",
+                "The acquisition aims to accelerate Salesforce's transition toward fully autonomous customer support systems at global scale.",
+                "Consolidation within the customer experience market highlights the intensifying race to secure mature agent-native technology stacks.",
+                "Global enterprises will soon deploy autonomous service representatives capable of resolving complex consumer tickets without delays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
             "points": [
-                "AMD acquired MEXT, a specialist in memory optimization technology, to reinforce its AI portfolio and improve the performance-per-watt profile of its Instinct GPU product line.",
-                "The acquisition provides AMD with critical IP to address memory bottlenecks in agentic AI workloads, which require rapid access to vast, distributed knowledge bases.",
-                "AMD aims to challenge Nvidia\u2019s dominance by offering an end-to-end open ecosystem, ranging from CPUs and DPUs to optimized memory and advanced software stacks.",
-                "Enterprises can leverage this integration to achieve rack-scale AI performance with lower total cost of ownership compared to traditional proprietary closed-loop hardware solutions."
+                "AMD and Rackspace signed a definitive agreement for a phased deployment of thirty megawatts of EPYC compute.",
+                "This massive infrastructure expansion delivers high-performance CPU processing power optimized specifically for demanding agentic execution loads.",
+                "High-density rack-scale architecture is becoming the foundational backbone required to support distributed corporate AI networks globally.",
+                "Managed service providers will offer highly scalable, energy-efficient processing environments tailored for next-generation sovereign operations."
             ],
             "imageUrl": "",
             "tags": [
