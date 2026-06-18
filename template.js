@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT AGENTIC",
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE CONTEXT LAUNCH",
+            "heading": "AWS: DEVOPS AUTOMATION ENGINE",
             "points": [
-                "Amazon Web Services launched Bedrock AgentCore to deliver advanced context mapping for agentic enterprise applications.",
-                "High-performance data pipelines integrate dynamically with dynamic knowledge graphs to reduce execution latency across cloud services.",
-                "Enterprise architectures are moving from simple retrieval-augmented generation models to fully autonomous context-aware systems of action.",
-                "Engineering teams will leverage structured metadata maps to deploy highly reliable operational agents at scale."
+                "Amazon Web Services launches DevOps Agent to run autonomous testing and eliminate software release bottlenecks.",
+                "The platform integrates continuous technical debt analysis through the new Transform Zero Debt autonomous engine.",
+                "Developers gain mobile operational control over active coding agent sessions via the Kiro iOS application.",
+                "This architecture shifts enterprise security outcomes from manual tracking to continuous, automated threat mitigation pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DATABRICKS: GENIE ONTOLOGY RELEASE",
+            "heading": "ANTHROPIC: AGENTIC MODEL UPGRADES",
             "points": [
-                "Databricks introduced Genie Ontology to unify disparate business definitions directly inside cloud-scale data fabric architectures.",
-                "Enterprise intelligence units can now bypass brittle data structures to secure consistent semantic translation across databases.",
-                "Relying on raw data lakes without rigorous semantic modeling introduces significant security risks during agent execution.",
-                "Chief information officers must adopt formalized metadata governance frameworks to ensure production agent outputs remain trusted."
+                "Anthropic deploys Claude Opus 4.8 offering enhanced accuracy across complex coding and long-running agentic tasks.",
+                "Project Glasswing expands model access to one hundred fifty new organizations across fifteen global countries.",
+                "The newly established Anthropic Institute addresses systemic societal challenges emerging from powerful frontier AI models.",
+                "These upgrades aim to capture enterprise markets requiring highly consistent performance on autonomous computational workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEX: CURSOR AGENTIC ACQUISITION",
+            "heading": "DATABRICKS: GENIE ONTOLOGY ARCHITECTURE",
             "points": [
-                "SpaceX targeted advanced agentic development pipelines through a historic sixty billion dollar acquisition of coding platform Cursor.",
-                "Integrating sovereign aerospace compute infrastructures accelerates software engineering velocity and minimizes long-term technical debt.",
-                "Deep integration of coding agents within space exploration frameworks signals massive capital consolidation in developer tool industries.",
-                "Aerospace firms will increasingly leverage automated software compilation to maintain mission-critical embedded control systems globally."
+                "Databricks introduces Genie Ontology to unify business definitions and build highly trusted production AI agents.",
+                "The system prioritizes contextual data governance to resolve critical data quality issues during agent deployments.",
+                "New security and cost control tools help enterprises successfully migrate initial pilots into production workloads.",
+                "Organizations can establish unified data fabrics that feed real-time semantic situational awareness directly to agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GITHUB: COPILOT DESKTOP ROLLOUT",
+            "heading": "MICROSOFT: FABRIC AGENT SYSTEM",
             "points": [
-                "GitHub launched its native Copilot Desktop application to establish an agent-first local development environment for developers.",
-                "Moving to token-based resource allocation structures introduces variable operational pricing dynamics for enterprise software engineering departments.",
-                "Localizing large language model capabilities reduces reliance on unstable public cloud infrastructures for sensitive programming tasks.",
-                "Development managers will face challenging architectural trade-offs between local performance guarantees and rising API processing costs."
+                "Microsoft launches Rayfin as an enterprise-ready agent-optimized backend as a service integrated into Microsoft Fabric.",
+                "Azure HorizonDB delivers ultra-low latency reads and integrated AI capabilities designed specifically for PostgreSQL databases.",
+                "Foundry IQ connects organizational knowledge to fuel active agents with unified, secure, and compliant context.",
+                "The suite establishes a central control plane for global visibility over massive enterprise agent deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "JPMORGAN: CLAUDE ACCESS RESTRICTION",
+            "heading": "JPMORGAN CHASE: CLAUDE ACCESS RESTRICTION",
             "points": [
-                "JPMorgan Chase terminated internal access to Anthropic Claude models for financial staff based in Hong Kong.",
-                "Strict geographic operational boundaries force regional compliance teams to audit generative applications for local sovereign data.",
-                "Financial institutions are increasingly fragmenting global network access to mitigate potential cross-border regulatory compliance risks.",
-                "Multi-national corporations will likely deploy localized open-source model configurations to guarantee complete internal regulatory compliance."
+                "JPMorgan Chase cuts off access to Anthropic's Claude models for all Hong Kong based employees.",
+                "This restrictive measure follows Goldman Sachs blocking AI tool usage in key Asian financial hubs.",
+                "The restriction highlights growing global sovereign AI debates and regulatory conflicts over technology export controls.",
+                "Financial institutions prioritize strict data protection policies to prevent unauthorized enterprise information leakages to external models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: MEMORY PARTNERSHIP EXPANSION",
+            "heading": "NVIDIA: NAVER SOVEREIGN INFRASTRUCTURE",
             "points": [
-                "NVIDIA partnered with SK Hynix to advance high-bandwidth memory architectures optimized for next-generation global AI factories.",
-                "Improved physical memory transfer bandwidth increases execution throughput for heavy workloads across dense neural network clusters.",
-                "Silicon supply chains are consolidating quickly as massive GPU architectures encounter severe physical memory transmission bottlenecks.",
-                "Hardware developers will optimize high-performance computing centers to support complex multitenant tasks at low physical temperatures."
+                "NVIDIA and NAVER announce plans to build a sovereign AI infrastructure starting at fifty-five megawatts scale.",
+                "The partnership aims to scale up to gigawatt levels to satisfy surging global AI compute demand.",
+                "SK Telecom also partners with NVIDIA to build a massive gigawatt-scale AI Cloud in South Korea.",
+                "These initiatives drive localized infrastructure sovereignty, reducing reliance on centralized public cloud data centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: GEMMA MULTIMODAL DEPLOYMENT",
+            "heading": "SPACEX: CURSOR ENGINE ACQUISITION",
             "points": [
-                "Google DeepMind announced Gemma Four Twelve Billion as an encoder-free multimodal model designed for edge deployments.",
-                "Local device architectures can process complex auditory and visual signals simultaneously without requesting remote cloud compute resources.",
-                "Designing unified parameter-efficient architectures shifts computational workloads away from massive hyper-scale data centers toward local edge devices.",
-                "Mobile hardware manufacturers will integrate native neural processing units to support real-time user-agent physical interactions."
+                "SpaceX targets agentic software development with a massive sixty billion dollar acquisition of coding assistant Cursor.",
+                "The strategic acquisition aims to accelerate complex aerospace software engineering pipelines using autonomous AI agents.",
+                "Integrating agent-native coding tools directly supports high-velocity development required for heavy rocket engineering cycles.",
+                "This transaction signals a massive capital allocation shift toward private, highly localized agentic programming frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
