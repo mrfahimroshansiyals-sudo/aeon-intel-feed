@@ -1,82 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: DEVOPS AUTOMATION ENGINE",
+            "heading": "GOOGLE CLOUD: GEMINI ENTERPRISE",
             "points": [
-                "Amazon Web Services launches DevOps Agent to run autonomous testing and eliminate software release bottlenecks.",
-                "The platform integrates continuous technical debt analysis through the new Transform Zero Debt autonomous engine.",
-                "Developers gain mobile operational control over active coding agent sessions via the Kiro iOS application.",
-                "This architecture shifts enterprise security outcomes from manual tracking to continuous, automated threat mitigation pipelines."
+                "Google Cloud launched Gemini Enterprise to centralize developer workflows for orchestrating and governing autonomous AI agents.",
+                "The platform scales transaction capacity by integrating agentic automation deeply into the core corporate data layer.",
+                "Modern enterprises can deploy self-governing agents without restructuring their legacy distributed cloud repository environments.",
+                "This architecture establishes real-time operational loops that fundamentally minimize manual integration workloads across business systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: AGENTIC MODEL UPGRADES",
+            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
             "points": [
-                "Anthropic deploys Claude Opus 4.8 offering enhanced accuracy across complex coding and long-running agentic tasks.",
-                "Project Glasswing expands model access to one hundred fifty new organizations across fifteen global countries.",
-                "The newly established Anthropic Institute addresses systemic societal challenges emerging from powerful frontier AI models.",
-                "These upgrades aim to capture enterprise markets requiring highly consistent performance on autonomous computational workflows."
+                "Databricks introduced ZeroOps capability to automate complex data management pipelines for production-grade enterprise AI agents.",
+                "The deployment architecture resolves system context bottlenecks by mapping unstructured assets into structured business ontologies.",
+                "Engineers can bypass manual data orchestration steps to run autonomous models on secure governance fabrics directly.",
+                "This operational optimization radically accelerates transition speeds from isolated pilot environments to live operational frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: GENIE ONTOLOGY ARCHITECTURE",
+            "heading": "ENPHASE ENERGY: INFRASTRUCTURE EXPANSION",
             "points": [
-                "Databricks introduces Genie Ontology to unify business definitions and build highly trusted production AI agents.",
-                "The system prioritizes contextual data governance to resolve critical data quality issues during agent deployments.",
-                "New security and cost control tools help enterprises successfully migrate initial pilots into production workloads.",
-                "Organizations can establish unified data fabrics that feed real-time semantic situational awareness directly to agents."
+                "Enphase Energy secured a vital valuation boost following strategic upgrades tailored for high-density AI data centers.",
+                "The firm deployed next-generation microinverter systems to handle surging power draw requirements from modern accelerators.",
+                "Integrating decentralized grid technologies safeguards massive compute clusters against localized energy distribution failures and blackouts.",
+                "Energy infrastructure providers face intense pressure to rapidly scale reliable electrical architecture for agentic hyperscale facilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FABRIC AGENT SYSTEM",
+            "heading": "ACCENTURE: REVENUE MODEL DISRUPTION",
             "points": [
-                "Microsoft launches Rayfin as an enterprise-ready agent-optimized backend as a service integrated into Microsoft Fabric.",
-                "Azure HorizonDB delivers ultra-low latency reads and integrated AI capabilities designed specifically for PostgreSQL databases.",
-                "Foundry IQ connects organizational knowledge to fuel active agents with unified, secure, and compliant context.",
-                "The suite establishes a central control plane for global visibility over massive enterprise agent deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "JPMORGAN CHASE: CLAUDE ACCESS RESTRICTION",
-            "points": [
-                "JPMorgan Chase cuts off access to Anthropic's Claude models for all Hong Kong based employees.",
-                "This restrictive measure follows Goldman Sachs blocking AI tool usage in key Asian financial hubs.",
-                "The restriction highlights growing global sovereign AI debates and regulatory conflicts over technology export controls.",
-                "Financial institutions prioritize strict data protection policies to prevent unauthorized enterprise information leakages to external models."
+                "Accenture shares fell to multi-year lows as markets evaluate automation risks to traditional human-intensive IT consulting models.",
+                "The massive growth of autonomous coding agents threatens billable developer hour metrics across global systems integrators.",
+                "Enterprise clients increasingly bypass traditional external development agencies by building custom software stacks using agentic architectures.",
+                "Systems integrators must rapidly transition their business models from human-scale delivery to automated outcome-based service frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NVIDIA: NAVER SOVEREIGN INFRASTRUCTURE",
+            "id": 5,
+            "heading": "STELLANTIS & UBER: AUTONOMOUS ALLIANCE",
             "points": [
-                "NVIDIA and NAVER announce plans to build a sovereign AI infrastructure starting at fifty-five megawatts scale.",
-                "The partnership aims to scale up to gigawatt levels to satisfy surging global AI compute demand.",
-                "SK Telecom also partners with NVIDIA to build a massive gigawatt-scale AI Cloud in South Korea.",
-                "These initiatives drive localized infrastructure sovereignty, reducing reliance on centralized public cloud data centers."
+                "Stellantis partnered with Wayve and Uber to deploy AI-driven autonomous robotaxis across major international markets.",
+                "The tripartite alliance combines high-volume automotive manufacturing with cloud hailing networks and embodied intelligence algorithms.",
+                "This hardware-software convergence allows real-world edge models to learn dynamically from continuous fleet driving telemetry inputs.",
+                "Global transportation networks are shifting permanently toward safety-validated, localized physical intelligence models running on device endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "OPENAI: GOOGLE TALENT ACQUISITION",
+            "points": [
+                "OpenAI recruited a top Google artificial intelligence leader to secure an advantage in the hyper-competitive laboratory talent war.",
+                "This strategic hiring wave intensifies intellectual property battles as premier labs construct advanced multimodal neural architectures.",
+                "Developing frontier models requires highly specialized technical experts capable of designing robust safety-first reinforcement learning loops.",
+                "Hyperscalers will continue aggressive talent acquisition campaigns to lock in vital human expertise for future model development."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEX: CURSOR ENGINE ACQUISITION",
+            "heading": "NVIDIA: ADVERTISING WORKFLOWS",
             "points": [
-                "SpaceX targets agentic software development with a massive sixty billion dollar acquisition of coding assistant Cursor.",
-                "The strategic acquisition aims to accelerate complex aerospace software engineering pipelines using autonomous AI agents.",
-                "Integrating agent-native coding tools directly supports high-velocity development required for heavy rocket engineering cycles.",
-                "This transaction signals a massive capital allocation shift toward private, highly localized agentic programming frameworks."
+                "NVIDIA expanded partner integrations at Cannes Lions to reconstruct global advertising architectures using generative design pipelines.",
+                "The systems leverage agentic creative assets to automate personalized marketing delivery without incurring substantial production overhead.",
+                "Deploying localized real-time rendering nodes at the network edge allows brands to synthesize dynamic interactive consumer media.",
+                "Enterprise creative suites are rapidly decoupling from static templates to embrace fluid, highly optimized generative agency operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
