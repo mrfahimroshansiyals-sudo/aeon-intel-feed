@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: CURSOR ACQUISITION",
+            "heading": "MICROSOFT & GOOGLE: AGENT RESOURCE DISCOVERY",
             "points": [
-                "SpaceX acquired AI coding platform Cursor for sixty billion dollars to accelerate advanced aerospace software engineering.",
-                "The multi-billion acquisition prioritizes rapid deployment of autonomous agentic systems within critical launch operations software.",
-                "Integrating agentic coding tools will significantly reduce development cycles for flight control software and telemetry.",
-                "This strategic consolidation underscores the growing enterprise demand for localized, high-security autonomous code generation systems."
+                "Tech giants propose Agentic Resource Discovery standard enabling autonomous agents to dynamically discover target tooling infrastructure.",
+                "The unified framework optimizes API discovery speeds across multi-cloud environments, reducing execution latency by forty percent.",
+                "This specification establishes interoperability between siloed agent platforms, accelerating enterprise-grade automation across distributed architectures.",
+                "System architects predict this protocol will trigger rapid migration toward completely autonomous decentralized enterprise application networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: MEXT ACQUISITION",
+            "heading": "AMD & JPMORGAN: QUANTUM COMPUTING PLATFORM",
             "points": [
-                "AMD completed the strategic acquisition of MEXT to integrate advanced hardware memory optimization technology globally.",
-                "This architectural integration enhances memory bandwidth and processing efficiency across next-generation enterprise AI chip portfolios.",
-                "Deploying specialized memory controllers directly addresses persistent hardware bottlenecks in large-scale model training workflows.",
-                "System architects expect this acquisition to bolster AMD's competitive positioning against dominant enterprise hardware competitors."
+                "AMD partners with JPMorganChase and OQC to build a hybrid quantum-classical artificial intelligence platform in London.",
+                "The system utilizes advanced processors to scale simulation throughput, optimizing complex algorithmic execution times by fifty-fold.",
+                "This marks a major step in combining supercomputing resources with deep learning to solve systemic financial modeling.",
+                "Analysts expect this architecture to redefine sovereign cybersecurity parameters and encryption defense capabilities for global banking."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,44 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENTIC ENTERPRISE",
+            "heading": "AWS: CONTINUUM EXPLOIT REMEDIATION",
             "points": [
-                "Google Cloud launched Gemini 3.5 and Gemini Omni to accelerate real-time multimodal agent orchestration.",
-                "The new systems enable autonomous enterprise workflows by processing complex video, audio, and code inputs.",
-                "Scalable agentic infrastructure allows developers to deploy highly coordinated multi-agent systems with unified governance rules.",
-                "This framework dramatically lowers operational complexity while offering strict compliance guardrails for digital sovereign environments."
+                "Amazon launches AWS Continuum to automate vulnerability discovery and remediation cycles at complete machine-level speed.",
+                "The system scans massive enterprise repositories continuously, eliminating security operations backlogs by up to eighty percent.",
+                "By shifting security from manual observation to autonomous outcomes, the platform hardens distributed multi-region cloud applications.",
+                "Sovereign cloud operators anticipate that automated threat modeling will significantly minimize zero-day exploitation risks across industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FABRIC RAYFIN",
+            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
             "points": [
-                "Microsoft introduced Rayfin as a fully managed agent-optimized backend as a service within Fabric.",
-                "The platform streamlines code execution and real-time database queries through integrated context and low-latency storage.",
-                "This development allows developers to deploy highly autonomous agents directly linked to unified organizational databases.",
-                "Microsoft aims to capture dominant enterprise market share by simplifying backend infrastructure for automated agentic applications."
+                "OpenAI introduces granular spend controls and real-time usage analytics directly within the ChatGPT Enterprise platform interface.",
+                "New admin dashboards allow direct allocation budgeting, preventing uncontrolled API usage surges across multi-department corporate infrastructures.",
+                "This update directly addresses enterprise anxiety regarding unpredictable token consumption and escalating cloud computing budgets globally.",
+                "Financial officers expect these auditing tools to stabilize operational cost structures during rapid generative software deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: NAVER SOVEREIGN",
+            "heading": "EUROPEAN COMMISSION: ADVISORY FORUM LAUNCH",
             "points": [
-                "NVIDIA and NAVER partnered to expand regional sovereign AI infrastructure starting with fifty-five megawatts capacity.",
-                "The initiative scales toward gigawatt-level capacity to guarantee complete national data residency and localization requirements.",
-                "Utilizing advanced Blackwell computing clusters ensures optimal processing efficiency for localized language model training deployments.",
-                "This deployment model serves as a strategic blueprint for nations seeking digital autonomy from foreign providers."
+                "The European Union formally establishes the Advisory Forum to provide technical expertise under the European AI Act.",
+                "The Forum unites industry specialists and academic leaders to deliver structured guidance on general-purpose model compliance.",
+                "This development creates a direct channel for enterprises to validate system transparency prior to strict enforcement.",
+                "Compliance officers predict this body will harmonize technical enforcement and regulatory criteria across all member states."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA & NAVER: GIGAWATT SCALE CLOUD",
+            "points": [
+                "NAVER expands sovereign artificial intelligence infrastructure utilizing NVIDIA hardware to support surging localized computing demands.",
+                "The initiative scales up from fifty-five megawatts toward gigawatt-scale data center capacity across the regional grid.",
+                "This strategic deployment ensures localized data custody while optimizing physical hardware efficiency for complex frontier workloads.",
+                "Infrastructure leads expect this partnership to serve as a blueprint for non-US sovereign cloud projects internationally."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
-            "points": [
-                "Databricks released ZeroOps to eliminate critical operational bottlenecks in enterprise machine learning and data pipeline management.",
-                "The automated platform handles serverless computing allocations and complex schema optimizations without manual engineering intervention.",
-                "Integrating intelligent orchestration tools significantly minimizes the overhead costs associated with persistent data architecture maintenance.",
-                "This release positions Databricks to capture extensive cloud market share by streamlining end-to-end data pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "MISTRAL AI: VIBE LONG HORIZON",
             "points": [
-                "AMD and Rackspace signed a definitive agreement for a thirty-megawatt deployment of advanced AI computing.",
-                "The phased rollout leverages high-performance EPYC processors to deliver rack-scale execution of complex agentic workloads.",
-                "This partnership drastically increases available bare-metal cloud infrastructure optimized specifically for intensive model training operations.",
-                "Enterprise clients will gain immediate access to highly scalable, cost-efficient processing capacity across global regions."
+                "Mistral AI releases Vibe, a specialized agent framework designed specifically for execution of complex long-horizon enterprise tasks.",
+                "The tool automates continuous code generation, legacy translation, and persistent system state tracking without human intervention.",
+                "Integrating this orchestration platform allows software development teams to drastically shrink release cycle bottlenecks and friction.",
+                "Engineering executives predict this asynchronous workflow agent will displace traditional static CI/CD pipeline automation tools entirely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
