@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING SOVEREIGN",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: MEXT MEMORY ACQUISITION",
+            "heading": "SPACEX: CURSOR ACQUISITION",
             "points": [
-                "AMD finalized its acquisition of MEXT to integrate high-bandwidth memory optimization tools across AI chip portfolios.",
-                "The acquisition addresses latency bottlenecks by optimizing physical memory footprints for large language model workloads.",
-                "This integration reinforces AMD's open ecosystem strategy by embedding low-level memory optimizations directly into ROCm.",
-                "Enterprise buyers gain improved cost-efficiency when deploying multi-billion parameter agentic architectures on AMD hardware."
+                "SpaceX acquired AI coding platform Cursor for sixty billion dollars to accelerate advanced aerospace software engineering.",
+                "The multi-billion acquisition prioritizes rapid deployment of autonomous agentic systems within critical launch operations software.",
+                "Integrating agentic coding tools will significantly reduce development cycles for flight control software and telemetry.",
+                "This strategic consolidation underscores the growing enterprise demand for localized, high-security autonomous code generation systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "AMD: MEXT ACQUISITION",
+            "points": [
+                "AMD completed the strategic acquisition of MEXT to integrate advanced hardware memory optimization technology globally.",
+                "This architectural integration enhances memory bandwidth and processing efficiency across next-generation enterprise AI chip portfolios.",
+                "Deploying specialized memory controllers directly addresses persistent hardware bottlenecks in large-scale model training workflows.",
+                "System architects expect this acquisition to bolster AMD's competitive positioning against dominant enterprise hardware competitors."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MICROSOFT: HORIZONDB DATABASE LAUNCH",
+            "id": 3,
+            "heading": "GOOGLE: AGENTIC ENTERPRISE",
             "points": [
-                "Microsoft introduced Azure HorizonDB, a high-performance PostgreSQL engine engineered with native generative AI integrations.",
-                "The service delivers ultra-low latency reads and seamless scaling to prevent pipeline degradation under heavy loads.",
-                "By unifying relational storage with AI capabilities, Microsoft streamlines the backend database layer for agentic applications.",
-                "Developers can build and scale mission-critical applications without deploying separate vector search database clusters."
+                "Google Cloud launched Gemini 3.5 and Gemini Omni to accelerate real-time multimodal agent orchestration.",
+                "The new systems enable autonomous enterprise workflows by processing complex video, audio, and code inputs.",
+                "Scalable agentic infrastructure allows developers to deploy highly coordinated multi-agent systems with unified governance rules.",
+                "This framework dramatically lowers operational complexity while offering strict compliance guardrails for digital sovereign environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: FABRIC RAYFIN",
+            "points": [
+                "Microsoft introduced Rayfin as a fully managed agent-optimized backend as a service within Fabric.",
+                "The platform streamlines code execution and real-time database queries through integrated context and low-latency storage.",
+                "This development allows developers to deploy highly autonomous agents directly linked to unified organizational databases.",
+                "Microsoft aims to capture dominant enterprise market share by simplifying backend infrastructure for automated agentic applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "SPACEX: CURSOR AI ACQUISITION",
+            "id": 5,
+            "heading": "NVIDIA: NAVER SOVEREIGN",
             "points": [
-                "SpaceX completed the landmark sixty billion dollar acquisition of Cursor to dominate the agentic software engineering space.",
-                "This transaction positions SpaceX to automate large-scale aerospace software development pipelines with advanced machine learning agents.",
-                "The buyout signals a major consolidation of AI-driven coding environments under primary infrastructure and satellite network leaders.",
-                "Traditional software deployment cycles face massive disruption as automated autonomous codebase maintenance becomes standard."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: SK HYNIX MEMORY ALLIANCE",
-            "points": [
-                "NVIDIA and SK hynix formed a multiyear partnership to develop next-generation memory architectures for modern AI factories.",
-                "The collaboration targets high-bandwidth memory scaling to support massive computational workloads across global data center networks.",
-                "By co-designing memory with GPU architectures, both firms solidify control over the global chip supply chain.",
-                "Enterprise data centers will secure highly optimized hardware configurations tailored specifically for trillion-parameter foundation models."
+                "NVIDIA and NAVER partnered to expand regional sovereign AI infrastructure starting with fifty-five megawatts capacity.",
+                "The initiative scales toward gigawatt-level capacity to guarantee complete national data residency and localization requirements.",
+                "Utilizing advanced Blackwell computing clusters ensures optimal processing efficiency for localized language model training deployments.",
+                "This deployment model serves as a strategic blueprint for nations seeking digital autonomy from foreign providers."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "DATABRICKS: ZEROOPS OPERATION LAUNCH",
+            "id": 6,
+            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
             "points": [
-                "Databricks launched its ZeroOps platform to systematically remove operational bottlenecks in enterprise artificial intelligence pipelines.",
-                "The platform automates compute provisioning and database tuning, cutting operational overhead for large-scale deployments significantly.",
-                "This release marks a shift toward completely automated infrastructure management, bypassing traditional human-in-the-loop DevOps workflows.",
-                "CIOs can deploy complex multi-agent intelligence networks without scaling dedicated system administration and engineering teams."
+                "Databricks released ZeroOps to eliminate critical operational bottlenecks in enterprise machine learning and data pipeline management.",
+                "The automated platform handles serverless computing allocations and complex schema optimizations without manual engineering intervention.",
+                "Integrating intelligent orchestration tools significantly minimizes the overhead costs associated with persistent data architecture maintenance.",
+                "This release positions Databricks to capture extensive cloud market share by streamlining end-to-end data pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AWS: DEVOPS AGENT INTEGRATION",
-            "points": [
-                "Amazon Web Services deployed the AWS DevOps Agent to automate the entire software release lifecycle seamlessly.",
-                "The update eliminates delivery bottlenecks by running autonomous code reviews, threat modeling, and continuous security scanning.",
-                "AWS integrates this agent directly into CI/CD pipelines to replace legacy, manual deployment verification steps.",
-                "Software engineering teams transition from active manual development into high-level monitoring of self-healing software systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "EU AI ACT: ADVISORY FORUM LAUNCH",
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
             "points": [
-                "The European Commission operationalized the Advisory Forum to supply technical expertise for EU AI Act enforcement.",
-                "The body guides compliance protocols across all member states to standardize audits for high-risk generative models.",
-                "This move establishes a centralized oversight mechanism, turning regulatory compliance into a critical architectural design constraint.",
-                "Global technology firms must adjust development pipelines immediately to comply with strict European algorithmic accountability standards."
+                "AMD and Rackspace signed a definitive agreement for a thirty-megawatt deployment of advanced AI computing.",
+                "The phased rollout leverages high-performance EPYC processors to deliver rack-scale execution of complex agentic workloads.",
+                "This partnership drastically increases available bare-metal cloud infrastructure optimized specifically for intensive model training operations.",
+                "Enterprise clients will gain immediate access to highly scalable, cost-efficient processing capacity across global regions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
