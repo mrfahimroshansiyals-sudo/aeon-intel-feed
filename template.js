@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AGENTIC ARCHITECTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: DEVOPS AGENT ENGINE",
+            "heading": "AWS: AGENTCORE INFRASTRUCTURE",
             "points": [
-                "AWS released automated DevOps Agent updates targeting software release bottlenecks through self-validating code deployments.",
-                "Autonomous pipelines decrease integration testing delays while managing container execution safety across high-throughput serverless configurations.",
-                "System monitors eliminate legacy deployment overhead by migrating local code checks into active cloud delivery nodes.",
-                "Enterprise development teams will achieve complete operational parity between code synthesis and immediate execution speed."
+                "AWS launched AgentCore to solve complex multi-step orchestration and resource discovery for industrial-scale agent deployment.",
+                "The platform enables developers to build, connect, and optimize agents using a governed knowledge graph for runtime context.",
+                "Integrated web-search capabilities allow agents to reach beyond static RAG, utilizing real-time data for autonomous decision-making.",
+                "This architecture significantly reduces the barrier between conceptual model training and production-ready enterprise agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FABRIC RAYFIN PLATFORM",
+            "heading": "GOOGLE CLOUD: AGENTIC SCALE",
             "points": [
-                "Microsoft launched Rayfin as a fully managed agent-optimized backend service integrated natively into Fabric architecture.",
-                "Scalable PostgreSQL integration via HorizonDB reduces query latency to deliver instant performance for mission-critical operations.",
-                "Connected organizational knowledge bases unify decentralized enterprise datasets through specialized context-aware orchestration layers.",
-                "Global infrastructure teams can seamlessly scale agentic workflows without experiencing traditional database performance degradation."
+                "Google Cloud introduced Gemini Enterprise Agent Ready to streamline the deployment of high-performance orchestration and governance frameworks.",
+                "The release includes specialized tools for end-to-end observability, ensuring complex agentic systems maintain operational integrity at scale.",
+                "New Gemini 3.5 integrations provide frontier-level intelligence with enhanced action capabilities across diverse enterprise business data sources.",
+                "Cloud-native management tools now offer advanced guardrails to support the transition toward fully autonomous operational data workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: OPENBAO SECURITY ADOPTION",
+            "heading": "MICROSOFT AZURE: RAYFIN BACKEND",
             "points": [
-                "Nvidia officially adopted OpenBao to replace previous secret management systems amid growing digital sovereignty demands.",
-                "Global infrastructure deployments benefit from secure cryptographic credential handshakes running across isolated GPU cluster networks.",
-                "Transitioning to open-source forks mitigates vendor lock-in risks associated with commercial credential storage platforms.",
-                "High-performance computing facilities will increasingly demand localized access controls to shield sensitive model weights."
+                "Microsoft Azure unveiled Rayfin, an agent-optimized backend as a service specifically designed for low-latency operational data processing.",
+                "The solution offers built-in AI grounding via Foundry IQ to bridge silos between organizational knowledge and autonomous agents.",
+                "Rayfin facilitates ubiquitous knowledge access, enabling higher trust and consistency for mission-critical enterprise AI application tasks.",
+                "Deep integration with Microsoft Fabric ensures that agentic workloads remain compliant while scaling across diverse cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "APPIA FOUNDATION: COMPLIANCE SPECS",
+            "heading": "MISTRAL AI: VIBE ECOSYSTEM",
             "points": [
-                "Google and Microsoft introduced unified specifications under Appia Foundation to evaluate enterprise model behavioral compliance.",
-                "Development organizations obtain systematic methods to verify structural policy alignment before initiating client-facing model deployments.",
-                "Establishing independent evaluation guardrails minimizes compliance liabilities without demanding direct regulatory intervention or audits.",
-                "Future enterprise procurement protocols will prioritize standardized validation frameworks to ensure safe operational boundaries."
+                "Mistral AI launched Vibe, an agentic framework specialized for long-horizon work and complex multi-step task scheduling duties.",
+                "The platform supports async code generation and architecture-aware reasoning, aimed at optimizing CI/CD and developer productivity cycles.",
+                "Vibe for Code provides deep terminal and IDE integration to facilitate legacy system translation and automated documentation maintenance.",
+                "Enterprises are deploying Vibe to streamline maritime and patent office workflows through autonomous, context-heavy reasoning capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: MEXT SILICON ACQUISITION",
+            "heading": "NVIDIA: PARTNERSHIP SOVEREIGNTY",
             "points": [
-                "AMD acquired memory optimization specialist MEXT to accelerate high-bandwidth hardware throughput for next-generation systems.",
-                "Enhanced silicon memory mapping mitigates interconnect bottlenecks during multi-node processing of dense agentic model arrays.",
-                "Strategic hardware acquisitions secure essential physical components necessary for executing highly parallelized cognitive reasoning tasks.",
-                "Infrastructure architects will experience significant performance gains across decentralized clusters utilizing modern rack-scale execution systems."
+                "NVIDIA announced multiyear partnerships with SK Hynix to advance next-generation memory solutions for global AI factory builds.",
+                "Collaborations with NAVER and SK Telecom focus on gigawatt-scale sovereign AI infrastructure development within the Korean market.",
+                "The Vera Rubin platform and Blackwell architecture now lead benchmarks in agentic infrastructure, driving extreme high-performance compute requirements.",
+                "Strategic optical backbone scaling continues with facility expansions aimed at meeting surging global demand for AI-ready data centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SPACEX: CURSOR PLATFORM ACQUISITION",
+            "heading": "AMD: RACK-SCALE PERFORMANCE",
             "points": [
-                "SpaceX initiated a planned sixty billion dollar acquisition of Cursor to secure advanced agentic programming tools.",
-                "Aerospace engineering cycles accelerate dramatically by automating embedded system code generation under extreme safety constraints.",
-                "Consolidating elite development tooling under physical space systems signals deep integration of autonomous industrial design.",
-                "CIOs must navigate potential availability shifts in public coding platforms as aerospace giants absorb key providers."
+                "AMD EPYC processors are being optimized for rack-scale execution, meeting the intense demand for high-density agentic AI workloads.",
+                "The company committed \u00a32 billion toward accelerating UK sovereign AI infrastructure, specifically for scientific research and workforce dev.",
+                "Acquisition of MEXT enhances the AMD portfolio with advanced memory optimization technologies for heterogeneous AI computing environments.",
+                "Open-source ROCm software stack improvements remain central to AMD's strategy for providing flexible and scalable end-to-end solutions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
+            "heading": "EU AI OFFICE: GOVERNANCE UPDATES",
             "points": [
-                "Databricks pitched hybrid transactional analytical processing to establish unified foundations for complex agentic enterprise systems.",
-                "Eliminating fragmented data pipelines directly reduces platform latency and operational costs for real-time enterprise intelligence.",
-                "Merging isolated database engines creates standardized governance frameworks for managing highly sensitive analytical data assets.",
-                "Systems engineers will bypass traditional transformation bottlenecks by feeding raw transaction logs directly to agents."
+                "The EU AI Act\u2019s Advisory Forum has officially commenced operations to provide technical expertise for standardized AI governance frameworks.",
+                "New compliance documentation addresses transparency rules for general-purpose AI models, impacting providers operating within the European Union.",
+                "Regulatory focus remains on mitigating systemic risks through mandatory audits and strict adherence to the upcoming transparency provisions.",
+                "Organizations are being prompted to integrate AI policy with HR and IT frameworks to manage legal liability and accountability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
