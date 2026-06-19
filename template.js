@@ -2,33 +2,33 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleBlue": "MEMORY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT & GOOGLE: AGENT RESOURCE DISCOVERY",
+            "heading": "NVIDIA: MEMORY SYSTEM PARTNERSHIP",
             "points": [
-                "Tech giants propose Agentic Resource Discovery standard enabling autonomous agents to dynamically discover target tooling infrastructure.",
-                "The unified framework optimizes API discovery speeds across multi-cloud environments, reducing execution latency by forty percent.",
-                "This specification establishes interoperability between siloed agent platforms, accelerating enterprise-grade automation across distributed architectures.",
-                "System architects predict this protocol will trigger rapid migration toward completely autonomous decentralized enterprise application networks."
+                "Nvidia and SK hynix announced a multiyear technology partnership to advance next-generation memory for global AI factories.",
+                "This strategic memory collaboration directly addresses the extreme hardware shortages currently threatening enterprise model deployment pipelines.",
+                "The engineering focus centers on co-developing high-bandwidth memory architectures optimized for intensive Blackwell platform cluster workloads.",
+                "System architects expect the integration of optimized memory stacks to radically increase deep learning throughput rates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD & JPMORGAN: QUANTUM COMPUTING PLATFORM",
+            "heading": "AMD: MEXT ACQUISITION DISCLOSURE",
             "points": [
-                "AMD partners with JPMorganChase and OQC to build a hybrid quantum-classical artificial intelligence platform in London.",
-                "The system utilizes advanced processors to scale simulation throughput, optimizing complex algorithmic execution times by fifty-fold.",
-                "This marks a major step in combining supercomputing resources with deep learning to solve systemic financial modeling.",
-                "Analysts expect this architecture to redefine sovereign cybersecurity parameters and encryption defense capabilities for global banking."
+                "AMD has officially acquired MEXT to expand its hardware portfolio with advanced memory optimization and acceleration technologies.",
+                "The integration will directly optimize data transmission pathways between EPYC processors and high-performance server memory architectures.",
+                "This acquisition strengthens AMD's competitive positioning against market incumbents by delivering superior rack-scale memory subsystem efficiency.",
+                "Hardware engineers predict this integration will significantly lower total cost of ownership for cloud training infrastructures."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AWS: CONTINUUM EXPLOIT REMEDIATION",
+            "heading": "NVIDIA: OPENBAO SECURITY ADOPTION",
             "points": [
-                "Amazon launches AWS Continuum to automate vulnerability discovery and remediation cycles at complete machine-level speed.",
-                "The system scans massive enterprise repositories continuously, eliminating security operations backlogs by up to eighty percent.",
-                "By shifting security from manual observation to autonomous outcomes, the platform hardens distributed multi-region cloud applications.",
-                "Sovereign cloud operators anticipate that automated threat modeling will significantly minimize zero-day exploitation risks across industries."
+                "Nvidia has adopted OpenBao, an open-source fork of HashiCorp's Vault, to secure enterprise digital secret management infrastructure.",
+                "The transition represents a strategic pivot toward software sovereignty amid escalating global regulatory compliance and vendor-lock concerns.",
+                "OpenBao will provide robust cryptographic key storage and dynamic identity authentication across distributed GPU computing environments.",
+                "Industry analysts view this adoption as a massive endorsement of community-led open-source security tools for enterprise-grade deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "OpenAI introduces granular spend controls and real-time usage analytics directly within the ChatGPT Enterprise platform interface.",
-                "New admin dashboards allow direct allocation budgeting, preventing uncontrolled API usage surges across multi-department corporate infrastructures.",
-                "This update directly addresses enterprise anxiety regarding unpredictable token consumption and escalating cloud computing budgets globally.",
-                "Financial officers expect these auditing tools to stabilize operational cost structures during rapid generative software deployments."
+                "Microsoft launched Azure HorizonDB to deliver ultra-low latency PostgreSQL database operations for mission-critical enterprise applications.",
+                "The new cloud database service features native artificial intelligence capabilities designed to optimize real-time data retrieval queries.",
+                "Enterprise developers can now build and scale agentic applications without encountering typical transactional database latency bottlenecks.",
+                "This deployment bridges the operational gap between transactional systems and real-time analytical data pipelines for automated agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EUROPEAN COMMISSION: ADVISORY FORUM LAUNCH",
+            "heading": "MISTRAL: VIBE AGENTIC FRAMEWORK",
             "points": [
-                "The European Union formally establishes the Advisory Forum to provide technical expertise under the European AI Act.",
-                "The Forum unites industry specialists and academic leaders to deliver structured guidance on general-purpose model compliance.",
-                "This development creates a direct channel for enterprises to validate system transparency prior to strict enforcement.",
-                "Compliance officers predict this body will harmonize technical enforcement and regulatory criteria across all member states."
+                "Mistral introduced the Vibe autonomous agent framework designed to execute complex, long-horizon enterprise tasks and coding workflows.",
+                "The framework operates natively across local terminal environments, IDE platforms, and continuous deployment pipelines for software engineers.",
+                "Vibe implements advanced reasoning architectures and persistent memory systems to translate legacy codebases with minimal human intervention.",
+                "Software architects predict this autonomous coding model will drastically reduce technical debt accumulation across legacy enterprise applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA & NAVER: GIGAWATT SCALE CLOUD",
+            "heading": "AMD: UK SOVEREIGN LAB",
             "points": [
-                "NAVER expands sovereign artificial intelligence infrastructure utilizing NVIDIA hardware to support surging localized computing demands.",
-                "The initiative scales up from fifty-five megawatts toward gigawatt-scale data center capacity across the regional grid.",
-                "This strategic deployment ensures localized data custody while optimizing physical hardware efficiency for complex frontier workloads.",
-                "Infrastructure leads expect this partnership to serve as a blueprint for non-US sovereign cloud projects internationally."
+                "AMD, Dell, and the University of Cambridge launched a collaborative Sovereign AI Innovation Lab in the United Kingdom.",
+                "The research laboratory utilizes high-performance AMD EPYC processors and Instinct accelerators to power local, secure public sector workloads.",
+                "This initiative represents a multi-million pound commitment to accelerating scientific discoveries while ensuring national computational sovereignty compliance.",
+                "Researchers plan to leverage this secure compute platform to train localized, domain-specific models for advanced healthcare applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: VIBE LONG HORIZON",
+            "heading": "OPENAI: ENTERPRISE FINANCIAL CONTROLS",
             "points": [
-                "Mistral AI releases Vibe, a specialized agent framework designed specifically for execution of complex long-horizon enterprise tasks.",
-                "The tool automates continuous code generation, legacy translation, and persistent system state tracking without human intervention.",
-                "Integrating this orchestration platform allows software development teams to drastically shrink release cycle bottlenecks and friction.",
-                "Engineering executives predict this asynchronous workflow agent will displace traditional static CI/CD pipeline automation tools entirely."
+                "OpenAI has integrated advanced spend controls and usage analytics dashboards directly into its ChatGPT Enterprise tier platform.",
+                "These tracking tools allow enterprise administrators to monitor API token consumption costs in real-time across entire departments.",
+                "The release directly addresses rising corporate anxieties regarding the escalating operational budgets of unstructured generative model usage.",
+                "Financial executives can now set strict consumption caps to prevent unauthorized, expensive model queries by automated internal processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
