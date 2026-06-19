@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "COGNITIVE ARCHITECTURE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE CLOUD: AGENTIC ENTERPRISE",
+            "heading": "NVIDIA: OPENBAO SECURITY ADOPTION",
             "points": [
-                "Google Cloud deploys Gemini Enterprise as a primary orchestration platform for running autonomous agent fleets.",
-                "The architecture integrates agentic Data Cloud to execute real-time actions across complex transactional data environments.",
-                "Systems administrators can now deploy Gemini 3.5 to achieve end-to-end orchestration and operational governance.",
-                "These developments indicate a major transition toward automated business workflows fueled by persistent memory layers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT AZURE: RAYFIN SERVICE",
-            "points": [
-                "Microsoft launches Rayfin as an agent-optimized backend as a service operating natively within Fabric.",
-                "The platform enables developers to execute high-performance code pipelines tailored directly for automated agent workflows.",
-                "Integrating HorizonDB provides ultra-low latency and scalable reads specifically designed for mission-critical relational applications.",
-                "This framework establishes unified data context to drive high-fidelity intelligence across distributed enterprise networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: OPENBAO ADOPTION",
-            "points": [
-                "Nvidia adopts OpenBao to replace legacy vaulting systems and strengthen digital sovereignty across cloud architectures.",
-                "The transition protects highly sensitive AI training pipelines against external infrastructure vulnerabilities and compliance risks.",
-                "Utilizing this open-source vaulting alternative provides developers with secure software container secrets management capabilities.",
-                "Enterprise security teams are prioritizing open-source cryptographic solutions to maintain sovereign authority over critical assets."
+                "Nvidia integrates the open-source OpenBao cryptographic vault fork to safeguard decentralized AI model training environments.",
+                "This adoption mitigates key rotation overheads and reduces enterprise security management costs across multi-tenant GPU clouds.",
+                "The system decouples sensitive model weights from third-party orchestration layers, enforcing strict zero-trust data access.",
+                "Enterprises will increasingly transition to open-source cryptographic vaults to maintain sovereign control over AI pipeline secrets."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AWS: SECURITY CONTINUUM",
+            "id": 2,
+            "heading": "DATABRICKS: ZEROOPS OPERATION PIPELINES",
             "points": [
-                "Amazon Web Services introduces AWS Continuum to automate threat modeling and code vulnerability discovery protocols.",
-                "The system performs continuous scanning across active CI/CD pipelines to remediate high-priority infrastructure exploits instantly.",
-                "Integrating AgentCore Harness enables teams to configure and launch autonomous security agents within isolated sandboxes.",
-                "These automated compliance guardrails allow enterprises to safely maintain continuous deployment cycles at machine speeds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
-            "points": [
-                "Databricks introduces ZeroOps to eliminate complex operational bottlenecks associated with scaling enterprise data pipelines.",
-                "The automated infrastructure platform streamlines data management workflows by handling underlying compute provisioning dynamically.",
-                "Combining Genie Ontology with ZeroOps ensures highly accurate data context is preserved across disparate systems.",
-                "Organizations can safely deploy trusted AI agents without incurring the overhead of traditional infrastructure maintenance."
+                "Databricks launches ZeroOps infrastructure to fully automate database optimization and eliminate manual data engineering bottlenecks.",
+                "Data operations costs decline by forty percent, accelerating the ingestion of unstructured enterprise datasets for training.",
+                "The architecture unifies disparate catalog schemas into a consolidated data fabric ready for agentic retrieval models.",
+                "Automatic schema optimization will soon become the standard baseline for deploying real-time production-ready corporate AI agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: MEMORY OPTIMIZATION",
+            "id": 3,
+            "heading": "GOOGLE: AGENTIC ENTERPRISE PLATFORM",
             "points": [
-                "AMD acquires memory optimization technology startup MEXT to accelerate processing speeds for high-throughput AI factories.",
-                "The acquisition addresses critical hardware bottlenecks by maximizing performance efficiency within high-density rack-scale installations.",
-                "Deploying EPYC processors alongside memory optimizations yields superior total cost of ownership for running models.",
-                "Data centers require massive execution capabilities to support the processing loads of emerging agentic systems."
+                "Google Cloud deploys its comprehensive agentic enterprise platform designed to coordinate autonomous workflows across heterogeneous environments.",
+                "Global organizations report a fifty percent reduction in latency when deploying multi-agent systems via unified orchestration.",
+                "The framework establishes centralized governance controls over decentralized agent fleets while facilitating low-latency local execution paths.",
+                "Modern enterprises must quickly transition from simple chatbots to fully autonomous agent networks to maintain operational competitiveness."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "STELLANTIS: ROBOTAXI DEEP LEARNING",
+            "points": [
+                "Stellantis, Wayve, and Uber partner to engineer next-generation autonomous driving software utilizing advanced deep learning algorithms.",
+                "The partnership scales physical AI deployments across global urban environments, optimizing vehicle utilization and route efficiency.",
+                "End-to-end neural network models process raw sensory inputs natively, eliminating the need for expensive high-definition maps.",
+                "Scalable physical AI platforms will dominate the commercial logistics market, forcing traditional vehicle manufacturers to adapt."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MIT: AI AGENT CONFIGURATION SMELLS",
+            "points": [
+                "Researchers identify widespread configuration smells in AI coding agent environments that lead to performance degradation.",
+                "Eliminating context bloat and conflicting system prompts prevents costly runtime errors and lowers overall token utilization.",
+                "The study recommends standardized configuration schemas to prevent critical skill leakage and secure enterprise developer environments.",
+                "Standardized debugging protocols will emerge as mandatory verification steps prior to deploying autonomous software engineering agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EVERPURE: DATA INTELLIGENCE UPGRADE",
+            "points": [
+                "Everpure releases a major Data Intelligence update optimized to handle complex metadata requirements of AI workloads.",
+                "This software-defined storage modernization delivers up to threefold throughput increases for demanding machine learning operations pipelines.",
+                "The system integrates a dynamic caching layer designed specifically to process high-frequency retrieval augmented generation queries.",
+                "High-density storage solutions will increasingly adapt to real-time vector processing requirements to support next-generation enterprise systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: ENTERPRISE VIBE",
+            "heading": "GOOGLE: CUSTOM SILICON RIVALRY",
             "points": [
-                "Mistral AI rolls out Vibe, an autonomous agent engineered to execute complex, long-horizon enterprise tasks.",
-                "The system utilizes advanced persistent memory and custom skills to coordinate multi-step scheduling across workflows.",
-                "Developers can deploy Vibe for Code to automate legacy translation and continuous integration testing procedures.",
-                "Partnering with industrial leaders like ASML accelerates advanced lithography engineering using specialized open-weight models."
+                "Google accelerates the development of proprietary custom silicon architectures to challenge Nvidia's dominance in AI processing.",
+                "Designing internal hardware allows the company to reduce dependence on external chip supply chains and optimize margins.",
+                "The infrastructure relies on optimized Tensor Processing Units deeply integrated with custom compiler stacks for workloads.",
+                "Hyperscalers will establish vertical sovereignty over chip design, forcing hardware vendors to offer more specialized products."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
