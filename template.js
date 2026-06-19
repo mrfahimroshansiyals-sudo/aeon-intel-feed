@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleWhite": "SOVEREIGN AGENTIC",
         "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE FRAMEWORK",
+            "heading": "GOOGLE CLOUD: AGENTIC ENTERPRISE",
             "points": [
-                "AWS debuted Bedrock AgentCore to accelerate multi-agent optimization and coordinate autonomous runtime workflows.",
-                "New Bedrock cost tracking metrics optimize cloud budgets by attributing expenses to individual agents.",
-                "The framework integrates with Databricks and Snowflake to allow direct natural language database queries.",
-                "Enterprise developers gain granular resource controls to prevent runaway costs during long-running agent execution."
+                "Google Cloud deploys Gemini Enterprise as a primary orchestration platform for running autonomous agent fleets.",
+                "The architecture integrates agentic Data Cloud to execute real-time actions across complex transactional data environments.",
+                "Systems administrators can now deploy Gemini 3.5 to achieve end-to-end orchestration and operational governance.",
+                "These developments indicate a major transition toward automated business workflows fueled by persistent memory layers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "heading": "MICROSOFT AZURE: RAYFIN SERVICE",
             "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and native AI capabilities to PostgreSQL.",
-                "The system powers agentic apps with Foundry IQ to unify context layers across organization-wide databases.",
-                "Rayfin integration provides fully managed backend services to scale mission-critical workloads without performance degradation.",
-                "Architects can easily deploy secure agent fleets backed by robust observability and control plane tools."
+                "Microsoft launches Rayfin as an agent-optimized backend as a service operating natively within Fabric.",
+                "The platform enables developers to execute high-performance code pipelines tailored directly for automated agent workflows.",
+                "Integrating HorizonDB provides ultra-low latency and scalable reads specifically designed for mission-critical relational applications.",
+                "This framework establishes unified data context to drive high-fidelity intelligence across distributed enterprise networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
+            "heading": "NVIDIA: OPENBAO ADOPTION",
             "points": [
-                "Databricks introduced ZeroOps architecture to eliminate database management bottlenecks in complex machine learning pipelines.",
-                "The Genie Ontology engine unifies business definitions to build context-aware and highly trusted enterprise agents.",
-                "Organizations can establish robust data quality guardrails before pushing generative models into active production.",
-                "Engineers resolve legacy architecture challenges by automating schema alignment across disparate transactional data networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "IBM: TRUSTED AI STORAGE",
-            "points": [
-                "IBM unveiled enhanced storage systems designed to defend sensitive enterprise data against emerging vector vulnerabilities.",
-                "The updates address critical zero-trust implementation oversights that frequently stall high-scale machine learning deployments.",
-                "New governance protocols protect corporate training pipelines from data poisoning and unauthorized network access threats.",
-                "IT leaders secure unstructured datasets by enforcing continuous encryption across distributed cloud storage environments."
+                "Nvidia adopts OpenBao to replace legacy vaulting systems and strengthen digital sovereignty across cloud architectures.",
+                "The transition protects highly sensitive AI training pipelines against external infrastructure vulnerabilities and compliance risks.",
+                "Utilizing this open-source vaulting alternative provides developers with secure software container secrets management capabilities.",
+                "Enterprise security teams are prioritizing open-source cryptographic solutions to maintain sovereign authority over critical assets."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "STANFORD HAI: PSYCHADAPTER LLM",
+            "id": 4,
+            "heading": "AWS: SECURITY CONTINUUM",
             "points": [
-                "Stanford researchers developed PsychAdapter to fine-tune personality traits and mental health variables in LLMs.",
-                "The framework enables the creation of highly realistic synthetic individuals for complex professional simulation programs.",
-                "This breakthrough improves clinical AI evaluation by generating authentic human dialogues across diverse therapeutic scenarios.",
-                "Organizations leverage customized language profiles to deliver hyper-personalized digital content and human-centric virtual support."
+                "Amazon Web Services introduces AWS Continuum to automate threat modeling and code vulnerability discovery protocols.",
+                "The system performs continuous scanning across active CI/CD pipelines to remediate high-priority infrastructure exploits instantly.",
+                "Integrating AgentCore Harness enables teams to configure and launch autonomous security agents within isolated sandboxes.",
+                "These automated compliance guardrails allow enterprises to safely maintain continuous deployment cycles at machine speeds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: hai.stanford.edu",
+                "Source: aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
+            "points": [
+                "Databricks introduces ZeroOps to eliminate complex operational bottlenecks associated with scaling enterprise data pipelines.",
+                "The automated infrastructure platform streamlines data management workflows by handling underlying compute provisioning dynamically.",
+                "Combining Genie Ontology with ZeroOps ensures highly accurate data context is preserved across disparate systems.",
+                "Organizations can safely deploy trusted AI agents without incurring the overhead of traditional infrastructure maintenance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WAYMO: ROBOTAXI RECALL EDGE-CASE",
+            "heading": "AMD: MEMORY OPTIMIZATION",
             "points": [
-                "Waymo initiated a voluntary recall of three thousand nine hundred robotaxis following critical highway navigation errors.",
-                "The vehicles struggled with spatial mapping updates inside active highway construction zones during high-speed transit.",
-                "Engineers deployed software updates to prevent similar real-time pathfinding issues across the autonomous fleet.",
-                "This event highlights persistent hardware and software integration limits in dynamic, edge-case physical environment scenarios."
+                "AMD acquires memory optimization technology startup MEXT to accelerate processing speeds for high-throughput AI factories.",
+                "The acquisition addresses critical hardware bottlenecks by maximizing performance efficiency within high-density rack-scale installations.",
+                "Deploying EPYC processors alongside memory optimizations yields superior total cost of ownership for running models.",
+                "Data centers require massive execution capabilities to support the processing loads of emerging agentic systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "JPMORGAN CHASE: CLAUDE RESTRICTION",
+            "heading": "MISTRAL AI: ENTERPRISE VIBE",
             "points": [
-                "JPMorgan Chase blocked employee access to Anthropic Claude models within its Hong Kong regional headquarters.",
-                "The decision matches previous actions by Goldman Sachs amid escalating compliance audits regarding global data sovereignty.",
-                "Financial institutions restrict external generative models to avoid leaks of proprietary market intelligence and clients' data.",
-                "Investment banks accelerate private on-premise model alternatives to maintain compliance with strict international privacy acts."
+                "Mistral AI rolls out Vibe, an autonomous agent engineered to execute complex, long-horizon enterprise tasks.",
+                "The system utilizes advanced persistent memory and custom skills to coordinate multi-step scheduling across workflows.",
+                "Developers can deploy Vibe for Code to automate legacy translation and continuous integration testing procedures.",
+                "Partnering with industrial leaders like ASML accelerates advanced lithography engineering using specialized open-weight models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
