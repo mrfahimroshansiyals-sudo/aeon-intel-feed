@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC ARCHITECTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "SOVEREIGN ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE INFRASTRUCTURE",
+            "heading": "GOOGLE & MICROSOFT: APPIA COMPLIANCE SPEC",
             "points": [
-                "AWS launched AgentCore to solve complex multi-step orchestration and resource discovery for industrial-scale agent deployment.",
-                "The platform enables developers to build, connect, and optimize agents using a governed knowledge graph for runtime context.",
-                "Integrated web-search capabilities allow agents to reach beyond static RAG, utilizing real-time data for autonomous decision-making.",
-                "This architecture significantly reduces the barrier between conceptual model training and production-ready enterprise agent execution."
+                "Tech giants Google and Microsoft have introduced the Appia Foundation specifications to prove enterprise artificial intelligence model compliance.",
+                "Enterprises can now leverage these unified specifications to audit model behaviors against complex international regulatory requirements systematically.",
+                "The framework establishes a collaborative open standard that decouples compliance validation from proprietary vendor cloud software environments.",
+                "System architects expect this standard to significantly accelerate cross-border software deployments by reducing governance validation bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AGENTIC SCALE",
+            "heading": "MICROSOFT: HORIZONDB POSTGRES UPGRADE",
             "points": [
-                "Google Cloud introduced Gemini Enterprise Agent Ready to streamline the deployment of high-performance orchestration and governance frameworks.",
-                "The release includes specialized tools for end-to-end observability, ensuring complex agentic systems maintain operational integrity at scale.",
-                "New Gemini 3.5 integrations provide frontier-level intelligence with enhanced action capabilities across diverse enterprise business data sources.",
-                "Cloud-native management tools now offer advanced guardrails to support the transition toward fully autonomous operational data workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT AZURE: RAYFIN BACKEND",
-            "points": [
-                "Microsoft Azure unveiled Rayfin, an agent-optimized backend as a service specifically designed for low-latency operational data processing.",
-                "The solution offers built-in AI grounding via Foundry IQ to bridge silos between organizational knowledge and autonomous agents.",
-                "Rayfin facilitates ubiquitous knowledge access, enabling higher trust and consistency for mission-critical enterprise AI application tasks.",
-                "Deep integration with Microsoft Fabric ensures that agentic workloads remain compliant while scaling across diverse cloud environments."
+                "Microsoft launched Azure HorizonDB to bring ultra-low latency reads and native artificial intelligence integration to PostgreSQL databases.",
+                "Database administrators can scale heavy transactional workloads seamlessly while executing real-time vector embeddings directly within the database layer.",
+                "This architecture minimizes latency by unifying transactional databases and analytical systems into a singular, cohesive cloud environment.",
+                "Developers predict this release will accelerate the creation of highly responsive, memory-optimized AI agents on Microsoft Fabric."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MISTRAL AI: VIBE ECOSYSTEM",
+            "id": 3,
+            "heading": "AMD: QUANTUM COMPUTING ACCELERATION",
             "points": [
-                "Mistral AI launched Vibe, an agentic framework specialized for long-horizon work and complex multi-step task scheduling duties.",
-                "The platform supports async code generation and architecture-aware reasoning, aimed at optimizing CI/CD and developer productivity cycles.",
-                "Vibe for Code provides deep terminal and IDE integration to facilitate legacy system translation and automated documentation maintenance.",
-                "Enterprises are deploying Vibe to streamline maritime and patent office workflows through autonomous, context-heavy reasoning capabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: PARTNERSHIP SOVEREIGNTY",
-            "points": [
-                "NVIDIA announced multiyear partnerships with SK Hynix to advance next-generation memory solutions for global AI factory builds.",
-                "Collaborations with NAVER and SK Telecom focus on gigawatt-scale sovereign AI infrastructure development within the Korean market.",
-                "The Vera Rubin platform and Blackwell architecture now lead benchmarks in agentic infrastructure, driving extreme high-performance compute requirements.",
-                "Strategic optical backbone scaling continues with facility expansions aimed at meeting surging global demand for AI-ready data centers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: RACK-SCALE PERFORMANCE",
-            "points": [
-                "AMD EPYC processors are being optimized for rack-scale execution, meeting the intense demand for high-density agentic AI workloads.",
-                "The company committed \u00a32 billion toward accelerating UK sovereign AI infrastructure, specifically for scientific research and workforce dev.",
-                "Acquisition of MEXT enhances the AMD portfolio with advanced memory optimization technologies for heterogeneous AI computing environments.",
-                "Open-source ROCm software stack improvements remain central to AMD's strategy for providing flexible and scalable end-to-end solutions."
+                "Advanced Micro Devices has launched new research initiatives to accelerate the hybrid future of quantum-classical computing architectures.",
+                "Computational engineers are leveraging specialized processing architectures to scale processing speeds of high-density mathematical algorithms significantly.",
+                "Integrating quantum-classical platforms optimizes data centers for next-generation sovereign physical artificial intelligence workloads and complex simulations.",
+                "Industry experts forecast that this unified quantum infrastructure will redefine scientific discovery speeds across European high-performance systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EU AI OFFICE: GOVERNANCE UPDATES",
+            "id": 4,
+            "heading": "NVIDIA: SK HYNIX CHIP PARTNERSHIP",
             "points": [
-                "The EU AI Act\u2019s Advisory Forum has officially commenced operations to provide technical expertise for standardized AI governance frameworks.",
-                "New compliance documentation addresses transparency rules for general-purpose AI models, impacting providers operating within the European Union.",
-                "Regulatory focus remains on mitigating systemic risks through mandatory audits and strict adherence to the upcoming transparency provisions.",
-                "Organizations are being prompted to integrate AI policy with HR and IT frameworks to manage legal liability and accountability."
+                "Nvidia and SK hynix announced a multiyear technology partnership to build next-generation memory systems for AI factories.",
+                "This alliance optimizes memory bandwidth to eliminate processing bottlenecks within gigawatt-scale data centers running dense LLM workloads.",
+                "By pairing advanced memory chips with Blackwell architectures, the enterprise ensures hardware readiness for heavy multi-agent simulations.",
+                "Data center architects expect this hardware integration to dramatically lower token generation costs for global enterprise clients."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AWS: BEDROCK KNOWLEDGE BASE RELEASE",
+            "points": [
+                "Amazon Web Services launched Bedrock Managed Knowledge Base to simplify retrieval-augmented generation architectures for global enterprise clients.",
+                "System engineers can now automate data ingestion, chunking, and vectorization without managing complex data pipelines manually.",
+                "This service integrates seamlessly with enterprise data fabrics, providing agents with highly secure, real-time contextual business data.",
+                "Software developers predict the service will dramatically reduce operational costs associated with maintaining custom semantic search systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU AI ACT: ADVISORY FORUM ESTABLISHED",
+            "points": [
+                "The European Commission established the Advisory Forum to deliver specialized technical expertise for EU AI Act enforcement.",
+                "This newly formed governance body will systematically assist the AI Board in evaluating high-risk systemic artificial intelligence models.",
+                "The forum serves as a critical structural bridge between academic research, industrial compliance, and sovereign regulatory frameworks.",
+                "Legal experts predict this administrative setup will provide businesses with much-needed clarity regarding upcoming August transparency rules."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
+            "points": [
+                "OpenAI added native spend controls and comprehensive usage analytics directly into the ChatGPT Enterprise administration dashboard system.",
+                "IT managers can now track API utilization dynamically and set hard monthly expenditure limits across multiple departments.",
+                "This enhancement directly addresses growing corporate concerns surrounding the soaring, unmonitored costs of large-scale agentic model deployments.",
+                "Chief Financial Officers project that these tracking tools will finally allow enterprises to evaluate exact algorithmic ROI."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
