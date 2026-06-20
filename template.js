@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "ASCENDANCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT & CISCO: AGENTIC DISCOVERY",
+            "heading": "MISTRAL: AUTONOMOUS VIBE",
             "points": [
-                "Microsoft, Google, and Cisco propose Agentic Resource Discovery protocol to standardize how autonomous agents find system tools.",
-                "Standardization eliminates redundant software integration pipelines and reduces execution delays across multi-agent environments by forty percent.",
-                "This collaborative framework shifts agent software designs from static tool binding towards dynamic runtime tool discovery.",
-                "Developers will easily deploy adaptive agent fleets that scale capability without modifying core API integration code."
+                "Mistral introduces Vibe, a long-horizon AI agent capable of persistent memory, multi-step task scheduling, and autonomous coding.",
+                "New infrastructure includes specialized Vibe for code modules designed for terminal and IDE integration with asynchronous reasoning.",
+                "Enterprise adoption accelerates across diverse sectors like maritime operations, legal patent analysis, and automotive engineering workflows globally.",
+                "The modular stack enables custom agent orchestration, full deployment portability, and enterprise-grade observability from edge to cloud."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: HYBRID QUANTUM COMPUTING",
+            "heading": "AMD: MEMORY OPTIMIZATION",
             "points": [
-                "AMD advances its hybrid quantum computing footprint to merge traditional high-performance processors with quantum acceleration systems.",
-                "Hybrid execution architectures resolve classical simulation bottlenecks to expedite physical modeling speed by a factor of ten.",
-                "This milestone solidifies silicon-level execution optimizations targeting chemical simulation and advanced sovereign digital defense infrastructures.",
-                "Enterprise data centers will soon deploy quantum co-processors alongside standard server racks for hyperscale calculations."
+                "AMD completes acquisition of MEXT to bolster memory optimization technologies within its expanding AI-centric hardware portfolio.",
+                "The company commits \u00a32bn to UK-based AI research labs, establishing sovereign computing nodes with Dell and Cambridge University.",
+                "New partnerships include high-frequency quantum-AI platforms with OQC and JPMorganChase, driving research into next-generation processing workloads.",
+                "Focus centers on rack-scale EPYC CPU performance to satisfy rising demands from agentic AI compute frameworks globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "APPIA FOUNDATION: COMPLIANCE SPECTRA",
+            "heading": "GOOGLE: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Google and Microsoft launch Appia Foundation specifications to assist enterprises in evaluating behavioral compliance of AI.",
-                "Transparent benchmarking standards reduce custom legal audit times for enterprise artificial intelligence models by half.",
-                "The initiative acts as a self-regulatory bridge before official state mandates enforce strict software validation criteria.",
-                "Organizations will adopt these open auditing blueprints to mitigate liabilities during high-frequency commercial agent deployments."
+                "Google unveils Gemini 3.5 and Omni, frontier intelligence models optimized for multimodal action and real-time interactive experiences.",
+                "New Agent Ready (GEAR) program provides 35 monthly credits to developers building enterprise-grade agents on Google Cloud.",
+                "Integration of AI Threat Defense tools enhances security posture by outpacing adversaries within complex agentic orchestration pipelines.",
+                "Expansion of Axion processors and Cloud TPUs delivers high-performance training backbones for next-generation agentic enterprise data applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
+            "heading": "NVIDIA: SOVEREIGN FACTORIES",
             "points": [
-                "OpenAI integrates granular spend controls and usage analytics inside ChatGPT Enterprise to manage rising processing costs.",
-                "Resource allocation tracking enables finance departments to limit unnecessary token usage and prevent unexpected billing surges.",
-                "This feature addresses urgent enterprise demands for financial predictability amid expanding corporate installations of large models.",
-                "CIOs can now confidently approve massive user expansion plans knowing operational budgets remain highly protected."
+                "NVIDIA partners with SK Hynix for multiyear R&D on high-bandwidth memory crucial for global AI factory expansion.",
+                "NAVER initiates sovereign AI infrastructure buildout starting at 55 megawatts, scaling rapidly toward gigawatt-level capacity targets.",
+                "NVIDIA DSX platform deployment powers AI cloud infrastructure in South Korea, accelerating local innovation and research initiatives.",
+                "Strategic focus on FERC grid interconnection ensures massive energy load management for high-density GPU cluster installations worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AWS: BEDROCK KNOWLEDGE BASE",
+            "heading": "AWS: AGENTIC DEVOPS",
             "points": [
-                "AWS launches Bedrock Managed Knowledge Base to remove engineering bottlenecks associated with Retrieval-Augmented Generation architectures.",
-                "Managed infrastructure decreases manual database synchronization efforts and cuts deployment schedules from weeks down to minutes.",
-                "The solution leverages automated vector embeddings to securely index disparate enterprise data repositories into active memory.",
-                "Software architects can implement secure context-aware querying systems without maintaining separate vector search engine databases."
+                "AWS releases AgentCore platform to streamline agent discovery, optimization, and feedback loops in isolated cloud environments.",
+                "DevOps Agent update automates code vulnerability remediation and autonomous testing, shifting security cycles into continuous CI/CD pipelines.",
+                "Amazon Quick debuts as a round-the-clock AI assistant, connecting diverse data sources for automated multi-step enterprise workflows.",
+                "Continuum framework provides machine-speed threat modeling and vulnerability validation across complex hybrid-cloud and edge software architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EUROPEAN UNION: AI ACT ADVISORY",
+            "heading": "MICROSOFT: FOUNDRY IQ",
             "points": [
-                "The European Union AI Act official Advisory Forum is established to provide deep technical expertise to policymakers.",
-                "Dynamic oversight ensures regulatory frameworks remain updated as frontier generative models evolve at rapid market paces.",
-                "The forum bridges the gap between commercial artificial intelligence laboratories and administrative compliance enforcement structures.",
-                "Tech companies operating within Europe must align their developmental roadmaps directly with upcoming Advisory Forum guidelines."
+                "Microsoft Azure introduces Foundry IQ, delivering unified organizational knowledge graphs to ground AI agents in trusted business data.",
+                "Rayfin backend-as-a-service on Microsoft Fabric offers agent-optimized, low-latency PostgreSQL scaling for mission-critical enterprise applications.",
+                "Foundry Control Plane provides comprehensive observability, security guardrails, and policy management for fleets of agents at scale.",
+                "Architecture focuses on abstracting infrastructure complexity while enhancing model explainability across global Azure AI deployment regions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MCLAREN F1: INTUITIVE ITSM ARCHITECTURE",
+            "heading": "TSMC: LEADERSHIP SILICON",
             "points": [
-                "McLaren F1 deploys AI-powered IT Service Management to automate complex telemetry and network configuration at races.",
-                "Dynamic ticketing automation enables engineering teams to deploy fully functional garage network environments one week faster.",
-                "The implementation highlights a growing industrial trend of leveraging machine intelligence to govern mission-critical physical operations.",
-                "Competitors will replicate these autonomous infrastructure models to maximize operational efficiency under highly volatile sporting conditions."
+                "TSMC showcases A16 nanosheet technology featuring innovative backside power rails designed for high-performance computing and agentic workloads.",
+                "NanoFlex Pro integration provides flexibility in chip design optimization, critical for next-generation frontier AI infrastructure buildouts.",
+                "Company scales sustainable manufacturing with green building initiatives to mitigate massive energy requirements for advanced lithography nodes.",
+                "Global collaboration with R&D centers continues to drive the holistic product portfolio required for modern silicon-based AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
