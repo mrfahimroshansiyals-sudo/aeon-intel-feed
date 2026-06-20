@@ -7,112 +7,112 @@ const dailyData = {
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL: VIBE AGENT RELEASE",
+            "heading": "MICROSOFT & CISCO: AGENTIC DISCOVERY",
             "points": [
-                "Mistral launches Vibe, an autonomous agent engineered for long-horizon task execution and persistent multi-step scheduling.",
-                "The platform features enterprise knowledge search and structured data analysis tools to optimize industrial workflows.",
-                "Integration with Mistral Forge allows custom domain adaptation and reinforcement learning on proprietary local infrastructure.",
-                "Enterprises will deploy these local agents across legacy pipelines to drastically reduce external cloud dependency."
+                "Microsoft, Google, and Cisco propose Agentic Resource Discovery protocol to standardize how autonomous agents find system tools.",
+                "Standardization eliminates redundant software integration pipelines and reduces execution delays across multi-agent environments by forty percent.",
+                "This collaborative framework shifts agent software designs from static tool binding towards dynamic runtime tool discovery.",
+                "Developers will easily deploy adaptive agent fleets that scale capability without modifying core API integration code."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: GEMINI ENTERPRISE",
+            "heading": "AMD: HYBRID QUANTUM COMPUTING",
             "points": [
-                "Google Cloud reveals Gemini Enterprise to deliver comprehensive agent development, orchestration, and unified governance frameworks.",
-                "Organizations leverage thirty-five monthly GEAR credits to build, test, and deploy production-grade agents at scale.",
-                "The agentic Data Cloud integrates systems of action directly with fully managed foundation model endpoints.",
-                "Chief Information Officers can now enforce enterprise-grade security guardrails across decentralized corporate software fleets."
+                "AMD advances its hybrid quantum computing footprint to merge traditional high-performance processors with quantum acceleration systems.",
+                "Hybrid execution architectures resolve classical simulation bottlenecks to expedite physical modeling speed by a factor of ten.",
+                "This milestone solidifies silicon-level execution optimizations targeting chemical simulation and advanced sovereign digital defense infrastructures.",
+                "Enterprise data centers will soon deploy quantum co-processors alongside standard server racks for hyperscale calculations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEX: CURSOR ACQUISITION",
+            "heading": "APPIA FOUNDATION: COMPLIANCE SPECTRA",
             "points": [
-                "SpaceX agrees to acquire AI-assisted code editor Cursor for sixty billion dollars to scale agentic coding.",
-                "This strategic move provides massive compute expansion to accelerate development pipelines for critical aerospace software.",
-                "Integrating specialized coding agents directly into development workflows minimizes manual code reviews and maintenance overhead.",
-                "The acquisition signals a rapid consolidation phase where defense tech firms control sovereign software development pipelines."
+                "Google and Microsoft launch Appia Foundation specifications to assist enterprises in evaluating behavioral compliance of AI.",
+                "Transparent benchmarking standards reduce custom legal audit times for enterprise artificial intelligence models by half.",
+                "The initiative acts as a self-regulatory bridge before official state mandates enforce strict software validation criteria.",
+                "Organizations will adopt these open auditing blueprints to mitigate liabilities during high-frequency commercial agent deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: MEXT MEMORY ACQUISITION",
+            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
             "points": [
-                "AMD acquires memory optimization firm MEXT to enhance silicon packaging architectures for large-scale enterprise deployments.",
-                "This acquisition optimizes high-performance data center processing to resolve critical memory bottlenecks in agentic workflows.",
-                "The integration of MEXT technology strengthens AMD EPYC and Instinct processor portfolios for hybrid deployments.",
-                "Hardware manufacturers are rapidly securing physical memory IP to compete against dominant market leaders in inference."
+                "OpenAI integrates granular spend controls and usage analytics inside ChatGPT Enterprise to manage rising processing costs.",
+                "Resource allocation tracking enables finance departments to limit unnecessary token usage and prevent unexpected billing surges.",
+                "This feature addresses urgent enterprise demands for financial predictability amid expanding corporate installations of large models.",
+                "CIOs can now confidently approve massive user expansion plans knowing operational budgets remain highly protected."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AWS: BEDROCK AGENTCORE DEPLOYMENT",
+            "heading": "AWS: BEDROCK KNOWLEDGE BASE",
             "points": [
-                "AWS launches Bedrock AgentCore to manage the lifecycle, resource discovery, and retrieval loops of agentic systems.",
-                "Bedrock Managed Knowledge Base simplifies retrieval-augmented generation to execute complex multi-step queries across corporate databases.",
-                "The system maps scattered data sources into a secure, governed knowledge graph accessed natively at runtime.",
-                "IT leaders will achieve continuous modernization of software assets by offloading maintenance tasks to autonomous agents."
+                "AWS launches Bedrock Managed Knowledge Base to remove engineering bottlenecks associated with Retrieval-Augmented Generation architectures.",
+                "Managed infrastructure decreases manual database synchronization efforts and cuts deployment schedules from weeks down to minutes.",
+                "The solution leverages automated vector embeddings to securely index disparate enterprise data repositories into active memory.",
+                "Software architects can implement secure context-aware querying systems without maintaining separate vector search engine databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "heading": "EUROPEAN UNION: AI ACT ADVISORY",
             "points": [
-                "Microsoft introduces Azure HorizonDB, bringing ultra-low latency reads and integrated AI capabilities to PostgreSQL database systems.",
-                "Developers deploy Rayfin backend-as-a-service on Microsoft Fabric to build and scale critical real-time agentic software.",
-                "Unified context grounded across organizational data ensures high accuracy and trust for multi-agent system operations.",
-                "Enterprise application backends will migrate toward highly specialized, agent-optimized cloud storage layers for rapid scaling."
+                "The European Union AI Act official Advisory Forum is established to provide deep technical expertise to policymakers.",
+                "Dynamic oversight ensures regulatory frameworks remain updated as frontier generative models evolve at rapid market paces.",
+                "The forum bridges the gap between commercial artificial intelligence laboratories and administrative compliance enforcement structures.",
+                "Tech companies operating within Europe must align their developmental roadmaps directly with upcoming Advisory Forum guidelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SK HYNIX CO-DEVELOPMENT",
+            "heading": "MCLAREN F1: INTUITIVE ITSM ARCHITECTURE",
             "points": [
-                "NVIDIA and SK hynix initiate a multiyear partnership to develop next-generation memory solutions for global factories.",
-                "This collaboration accelerates high-bandwidth memory production to meet skyrocketing compute requirements of sovereign physical infrastructure.",
-                "Co-developing advanced silicon substrates optimizes direct chip-to-chip interconnect bandwidth for large-scale neural network training.",
-                "Global infrastructure consortiums will increasingly rely on tightly coupled hardware alliances to maintain operational supply security."
+                "McLaren F1 deploys AI-powered IT Service Management to automate complex telemetry and network configuration at races.",
+                "Dynamic ticketing automation enables engineering teams to deploy fully functional garage network environments one week faster.",
+                "The implementation highlights a growing industrial trend of leveraging machine intelligence to govern mission-critical physical operations.",
+                "Competitors will replicate these autonomous infrastructure models to maximize operational efficiency under highly volatile sporting conditions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
