@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: OPENBAO ADOPTION",
+            "heading": "MICROSOFT: FOUNDRY IQ DEPLOYMENT",
             "points": [
-                "Nvidia officially adopted OpenBao to replace HashiCorp Vault for secure cryptographic key management operations.",
-                "This shift mitigates licensing cost escalations while securing critical sovereign credential storage pipelines globally.",
-                "The integration establishes an open security framework governed strictly under the OpenSSF foundational security standards.",
-                "Enterprise developers will transition away from proprietary secret engines toward community-led sovereign cryptographic architectures."
+                "Microsoft launched Foundry IQ to ground enterprise AI agents with unified context across organizational data systems.",
+                "This deployment enables ultra-low latency memory access and reduces token orchestration costs across hybrid cloud fabrics.",
+                "The architecture addresses critical enterprise security requirements by isolating sensitive corporate data within local governance planes.",
+                "Systems integrators can now build highly autonomous workflows that safely access decentralized databases without complex pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEX: CURSOR ACQUISITION",
+            "heading": "GOOGLE: APPIA COMPLIANCE SPECS",
             "points": [
-                "SpaceX initiates a massive sixty billion dollar acquisition of AI-assisted coding platform Cursor to scale computing.",
-                "The transaction delivers immediate cloud infrastructure expansion to accelerate complex aerospace telemetry and payload software.",
-                "Merging developer tools with deep aerospace compute infrastructure represents a shift toward vertical AI engineering.",
-                "CIOs must evaluate alternative IDE platforms to mitigate potential governance risks from defense sector consolidation."
+                "Google and Microsoft introduced Appia Foundation specifications to verify and prove compliant artificial intelligence behavior.",
+                "The framework provides structured testing suites to evaluate model outputs against complex regional regulatory compliance guidelines.",
+                "It mitigates operational liabilities by standardizing audit trails and risk metrics for high-stakes enterprise agent deployments.",
+                "Organizations can systematically validate third-party models before integrating them into mission-critical backend transactional processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AWS: AGENTCORE LAUNCH",
+            "heading": "DATABRICKS: ZEROOPS PLATFORM",
             "points": [
-                "Amazon Web Services introduced AgentCore alongside automated DevOps agents to streamline agentic retrieval-augmented generation pipelines.",
-                "The update eliminates manual semantic plumbing to reduce deployment cycles for enterprise knowledge graphs significantly.",
-                "AWS positions AgentCore as an end-to-end framework to build, connect, and safely optimize autonomous agents.",
-                "Systems integrators will leverage these managed tools to transition legacy software into active agentic execution."
+                "Databricks released Genie ZeroOps to automate operational diagnostics and resolve pipeline bottlenecks using intelligent agents.",
+                "The platform transitions database engineers from active troubleshooting to supervising automatically generated cloud infrastructure repairs.",
+                "Integrating transactional and analytical workloads minimizes data synchronization latency across distributed multi-region operational clouds.",
+                "Enterprise customers will see significant reductions in maintenance overhead and improved overall reliability of critical databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DATABRICKS: LTAP FOUNDATION",
+            "heading": "SPACEX: CURSOR PLATFORM ACQUISITION",
             "points": [
-                "Databricks launched its hybrid transactional and analytical processing architecture to support next-generation agentic applications.",
-                "This unified approach eliminates costly data pipelines to lower operational overhead by forty percent overall.",
-                "Merging real-time transactions with analytics creates a single unified repository for secure agent decision making.",
-                "Data engineers will bypass traditional ETL processes to deploy responsive autonomous agents directly on lakehouses."
+                "SpaceX announced plans to acquire code generation platform Cursor to accelerate sovereign space-grade software development.",
+                "The transaction provides Cursor with massive computing resources required to train next-generation context-aware programming models.",
+                "Enterprises are evaluating the security of outsourced coding assistants as military-grade entities consolidate primary developer tools.",
+                "This acquisition signals a strategic shift toward vertically integrated, automated software engineering pipelines in national security."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OVHCLOUD: SOVEREIGN FRONTIER",
+            "heading": "AMD: MEXT MEMORY INTEGRATION",
             "points": [
-                "France's OVHcloud deployed localized frontier AI training capabilities to provide compliant European cloud infrastructure alternatives.",
-                "The sovereign framework drastically reduces data exfiltration risks while maintaining competitive performance metrics for enterprises.",
-                "This infrastructure deployment supports European data sovereignty regulations under strict regional AI compliance frameworks.",
-                "European enterprises will increasingly migrate sensitive training workloads from American hyperscalers to regional clouds."
+                "AMD acquired memory optimization firm MEXT to enhance processing efficiency for high-performance enterprise artificial intelligence.",
+                "The hardware integration minimizes memory bottlenecks during intense rack-scale execution of complex multi-agent reasoning workloads.",
+                "This development strengthens AMD's competitive positioning against market leaders by delivering superior price-to-performance compute metrics.",
+                "Hyperscalers can deploy more energy-efficient server architectures while maintaining maximum throughput for massive concurrent queries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: GEMINI UPGRADES",
+            "heading": "AWS: DEVOPS AGENT DEPLOYMENT",
             "points": [
-                "Google launched Gemini three point five alongside Gemini Omni to power advanced enterprise-grade agentic platforms.",
-                "These multimodal models combine reasoning with actions to execute complex multi-step workflows across systems.",
-                "Google positions this release as the baseline for sovereign, real-time agent coordination across enterprise environments.",
-                "IT leaders will prioritize these action-oriented endpoints to automate transactional workloads without custom coding."
+                "Amazon Web Services upgraded its DevOps Agent to validate and test AI-generated code prior to production.",
+                "The continuous modernization engine automatically scans code repositories to remediate technical debt and security vulnerabilities instantly.",
+                "Developers can now offload complex release management processes directly to specialized, context-aware operational intelligence systems.",
+                "Enterprises will achieve drastically faster software delivery cycles while maintaining rigorous compliance with internal architectural standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: MEXT ACQUISITION",
+            "heading": "OVHCLOUD: SOVEREIGN AI INITIATIVE",
             "points": [
-                "Advanced Micro Devices acquired memory optimization startup MEXT to enhance next-generation enterprise hardware architectures.",
-                "The integration promises to solve severe bottlenecks to boost throughput for high-performance computing clusters.",
-                "This strategic acquisition targets hardware-level memory constraints directly within competitive AI model training environments.",
-                "Infrastructure architects will gain access to highly optimized silicon pipelines designed for complex agentic workloads."
+                "France's OVHcloud launched sovereign frontier models to provide European enterprises with secure alternatives to foreign clouds.",
+                "Rapidly declining training costs allow regional providers to construct highly competitive, localized large language model alternatives.",
+                "The initiative ensures complete data compliance with strict continental privacy mandates including the European AI Act.",
+                "Regional organizations can scale advanced automation without exposing sensitive operational data to external geopolitical surveillance risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
