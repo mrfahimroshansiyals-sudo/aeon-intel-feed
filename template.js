@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "ORCHESTRATION"
+        "titleWhite": "ENTERPRISE AGENTIC AI",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
+            "heading": "MICROSOFT: AGENTIC BACKEND UPGRADE",
             "points": [
-                "AMD acquired memory optimization firm MEXT to enhance high-performance memory controllers for rack-scale EPYC CPU deployments.",
-                "This acquisition addresses modern memory bandwidth bottlenecks to accelerate memory-bound agentic AI orchestration and scaling workloads.",
-                "Integrating MEXT technology directly improves the performance and thermal efficiency of enterprise-grade AI server architectures globally.",
-                "Stakeholders expect this integration to decrease total cost of ownership across distributed hyper-scale computing environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-            "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and integrated artificial intelligence capability for PostgreSQL.",
-                "The database platform processes multi-tenant analytical queries and transactional operations simultaneously without degrading critical engine performance.",
-                "It introduces native cloud scaling options engineered specifically for high-throughput enterprise applications and intensive model deployments.",
-                "System architects predict this technology will dramatically simplify transactional pipelines and eliminate complex database replication architectures."
+                "Microsoft launched Rayfin on Fabric as an enterprise-grade agent-optimized backend-as-a-service for mission-critical scaling.",
+                "This architecture supports native agentic workflows by providing managed infrastructure for complex application data and logic.",
+                "Integration with Foundry IQ enables unified context across intelligence layers to ensure trusted results at scale.",
+                "Developers now gain access to persistent memory and cross-platform orchestration capabilities for production-ready AI deployment."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AWS: CONTINUUM THREAT MITIGATION",
+            "id": 2,
+            "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
             "points": [
-                "Amazon Web Services released AWS Continuum to continuously discover, prioritize, and remediate cloud security vulnerabilities at scale.",
-                "The platform automates STRIDE category threat modeling directly from raw system design documents and application code.",
-                "Integrating security automation shifts vulnerability lifecycle management from periodic quarterly audits to continuous, real-time pipeline enforcement.",
-                "Security engineers expect this capability to neutralize automated frontier model exploits before they compromise active production."
+                "Google Cloud introduced advanced agentic Data Cloud features designed to power autonomous systems of action globally.",
+                "New infrastructure scaling protocols prioritize agentic orchestration and governance within the expanded Gemini enterprise ecosystem framework.",
+                "These updates facilitate high-performance AI deployment by leveraging optimized cloud-native TPU and GPU compute configurations.",
+                "Enterprises can now utilize end-to-end observability tools to manage autonomous AI agents across hybrid data environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: SOVEREIGN AI PARTNERSHIPS",
+            "points": [
+                "NVIDIA expanded multiyear technology partnerships with SK hynix to advance next-generation memory for global AI factories.",
+                "Collaboration with NAVER scales sovereign AI infrastructure starting at 55 megawatts toward potential gigawatt-scale data centers.",
+                "SK Telecom integrates NVIDIA DSX platforms to power domestic Korean AI innovation through specialized cloud infrastructure.",
+                "Strategic builds focus on energy-efficient architectures to address mounting grid stress while improving compute performance density."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: VIBE ORCHESTRATION PLATFORM",
+            "heading": "MISTRAL AI: FRONTIER AGENTIC VIBE",
             "points": [
-                "Mistral AI launched Vibe to execute long-horizon autonomous tasks utilizing persistent memory and reusable skill execution.",
-                "The agent architecture schedules multi-step analytical schedules while preserving enterprise governance and complete execution pipeline visibility.",
-                "Developers can orchestrate, evaluate, and deploy these custom agent workflows anywhere from localized edge to public clouds.",
-                "Enterprise software teams expect Vibe to automate complex legacy code migration and continuous integration testing loops."
+                "Mistral AI launched Vibe for code to streamline async code generation and architecture-aware reasoning for enterprise developers.",
+                "The platform provides dedicated GPU clusters and frontier-scale compute infrastructure for custom model training and alignment.",
+                "Integration services focus on domain-specialized AI, enabling companies to build tailored systems for long-horizon task execution.",
+                "Enterprise users leverage unified registries and guardrails to ensure production-grade deployment of agentic software applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "NVIDIA: GIGAWATT-SCALE AI FACTORIES",
+            "heading": "AWS: AGENTIC DEVOPS REVOLUTION",
             "points": [
-                "NVIDIA partnered with SK Telecom and NAVER to establish gigawatt-scale sovereign artificial intelligence cloud infrastructure.",
-                "The multi-megawatt facilities leverage the NVIDIA DSX platform alongside advanced memory architectures to accelerate regional model training.",
-                "Deploying localized infrastructure allows sovereign nations to maintain strict data residency compliance while scaling massive intelligence engines.",
-                "Enterprise analysts expect this regional expansion to decouple local digital ecosystems from centralized foreign cloud dependencies."
+                "AWS deployed autonomous agents for release management that validate and review code before production deployment cycles.",
+                "AgentCore provides an isolated environment for building and optimizing complex AI agents with flexible model swapping.",
+                "Continuous modernization tools analyze technical debt at scale while remediating issues autonomously within existing CI/CD pipelines.",
+                "Context-aware threat modeling surfaces vulnerabilities using design documentation to ensure security at machine-speed across development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: ADVISORY FORUM GOVERNANCE",
+            "heading": "AMD: RACK-SCALE AI SOVEREIGNTY",
             "points": [
-                "The European Union established the Advisory Forum to supply technical expertise for executing general-purpose model regulations.",
-                "The regulatory framework coordinates compliance verification workflows across member states for high-risk and general-purpose artificial intelligence systems.",
-                "This governance structure enforces Article Fifty transparency mandates to ensure auditable transparency and safety controls across deployment.",
-                "Compliance officers anticipate this structured oversight will set binding global benchmarks for safe enterprise algorithmic deployment models."
+                "AMD acquired MEXT to integrate advanced memory optimization technology into its growing AI-focused silicon portfolio.",
+                "New commitments in the UK support sovereign AI infrastructure through collaborative innovation labs for scientific research.",
+                "AMD EPYC processors deliver the rack-scale performance required to sustain high-intensity agentic AI execution environments.",
+                "Open ecosystem approaches foster flexibility and investment protection for enterprises building end-to-end AI deployment architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "APPIA FOUNDATION: COMPLIANCE PROOFS",
+            "heading": "EU AI ACT: GOVERNANCE ADVISORY",
             "points": [
-                "Google and Microsoft launched the Appia Foundation to standardize technical specifications for verifying compliant artificial intelligence behavior.",
-                "The open framework enables enterprises to systematically evaluate their operational alignment with complex regional algorithmic governance policies.",
-                "Establishing standardized compliance metrics replaces fragmented, custom evaluation processes with transparent, auditable validation and verification pipelines.",
-                "Industry leaders predict this collaborative framework will accelerate the safe commercial deployment of autonomous agent networks."
+                "The EU established the Advisory Forum to provide technical expertise and governance support under the AI Act.",
+                "Compliance frameworks now require organizations to implement transparency rules for general-purpose AI models by August 2026.",
+                "Regulatory efforts emphasize risk categorization to manage industrial impact while fostering trust in high-risk AI deployments.",
+                "Standardization bodies are actively mapping technical requirements to assist enterprises in proving compliance for international markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
