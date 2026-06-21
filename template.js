@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "Frontier AI Architectures",
+        "titleBlue": "Evolve"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE LAUNCH",
+            "heading": "MICROSOFT AZURE: RAYFIN AGENTIC BAAS",
             "points": [
-                "AWS deployed Bedrock AgentCore as a unified orchestration framework to streamline autonomous agent configuration.",
-                "Enterprise development cycles compress significantly through continuous tech debt remediation via automated code generation.",
-                "Context mapping engines bind unstructured corporate datasets directly into secure runtime knowledge graphs.",
-                "Organizations will achieve seamless legacy software modernization by deploying persistent autonomous code transformation workflows."
+                "Rayfin launched as an agent-optimized backend as a service on Microsoft Fabric, streamlining enterprise AI application deployment.",
+                "This fully managed platform offers crucial infrastructure for next-gen AI, reducing operational overhead and development bottlenecks.",
+                "Supports agent-first development paradigms, enabling acceleration of autonomous systems for complex, long-horizon tasks.",
+                "Ensures high performance, reliability, and security for mission-critical AI deployments, fostering innovation across industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE & MICROSOFT: APPIA FOUNDATION",
+            "heading": "MICROSOFT AZURE: HORIZONDB AI-PGSQL",
             "points": [
-                "Google and Microsoft introduced unified specifications to standardize compliance and behavioral auditing of generative models.",
-                "Enterprises can systematically evaluate algorithmic compliance without relying on fragmented third-party monitoring software tools.",
-                "The framework establishes open-source interfaces for verifiable safety reporting across multi-cloud enterprise deployments.",
-                "Standardized compliance blueprints will accelerate enterprise adoption of frontier models within heavily regulated global industries."
+                "Azure HorizonDB enhances PostgreSQL with built-in AI, enabling ultra-low latency and scalable reads for mission-critical apps.",
+                "Crucial for real-time analytics and AI-driven decision-making, it handles massive data volumes with superior performance.",
+                "AI integration within the database simplifies architecture, improves governance, and accelerates AI-powered feature development.",
+                "Enterprises gain faster insights and agile market responses, vital for scalable and future-proof AI strategies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: ZEROOPS ARCHITECTURE",
+            "heading": "MICROSOFT AZURE: FOUNDRY IQ KNOWLEDGE",
             "points": [
-                "Databricks introduced Genie ZeroOps to transition software engineering from manual debugging to automated review.",
-                "IT operational overhead drops as intelligent systems identify data pipeline anomalies and implement real-time corrections.",
-                "Integrating transactional and analytical layers under LTAP provides a secure data foundation for agentic workloads.",
-                "Unified data fabrics will define the next generation of scalable autonomous enterprise decision engine designs."
+                "Foundry IQ unlocks ubiquitous knowledge for AI agents, unifying context across Microsoft's ecosystem and external sources.",
+                "Maps diverse data into a governed knowledge graph, empowering agents with comprehensive, trustworthy, real-time information.",
+                "Bridges information silos, providing agents a holistic enterprise view for intelligent decision-making and problem-solving.",
+                "Grounds AI agents in organizational data, ensuring outputs are relevant, accurate, and aligned with enterprise policies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: MEXT ACQUISITION",
+            "heading": "GOOGLE CLOUD: GEMINI 3.5 FRONTIER",
             "points": [
-                "AMD acquired memory optimization startup MEXT to enhance silicon-level execution within intensive agentic computing loads.",
-                "Data centers gain substantial improvements in bandwidth utilization during large-scale model training and inference phases.",
-                "Hardware-accelerated memory optimization removes critical bottlenecks traditionally limiting multi-agent parallel processing efficiency.",
-                "Enhanced chip architectures will empower enterprises to deploy complex localized models directly on rack-scale systems."
+                "Google Cloud announces Gemini 3.5, advancing frontier intelligence models with enhanced cognitive and action-taking functionalities.",
+                "Optimized for intelligence-per-parameter, it delivers robust performance for demanding AI workloads and agentic behaviors.",
+                "Powers the evolving agentic enterprise, offering sophisticated reasoning and autonomous interaction with various systems.",
+                "Developers gain powerful tools to build more sophisticated and autonomous AI agents, boosting productivity and automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEX: CURSOR ACQUISITION",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI MULTIMODAL",
             "points": [
-                "SpaceX initiated a sixty billion dollar acquisition of Cursor to secure proprietary AI-driven development capabilities.",
-                "Compute capacity expansions will accelerate the deployment of sovereign software engineering tools across aerospace systems.",
-                "Consolidating high-performance code generation within specialized private infrastructure safeguards critical defense software pipelines.",
-                "High-value developer tools face consolidation as defense and industrial giants lock down critical AI engineering assets."
+                "Google Cloud unveils Gemini Omni, a groundbreaking multimodal AI model generating content from any input, starting with video.",
+                "Seamlessly processes and synthesizes information across text, images, audio, and video, enhancing contextual understanding.",
+                "Expands Google's AI offerings, democratizing access to advanced generative AI for complex content creation and analysis.",
+                "Accelerates content production, simulates scenarios, and enhances user experiences through dynamic AI-generated multimedia."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA & NAVER: SOVEREIGN CLOUD",
+            "heading": "GOOGLE DEEPMIND: GEMMA 4 12B MODEL",
             "points": [
-                "NVIDIA and NAVER partnered to scale sovereign cloud computing infrastructure to gigawatt capacity in Korea.",
-                "Localized high-performance compute centers secure native data processing without relying on offshore hyperscale cloud providers.",
-                "Scaling regional infrastructure with custom hardware platforms ensures compliance with strict national cybersecurity frameworks.",
-                "Nations will increasingly construct localized hardware environments to defend data sovereignty against foreign technological monopolies."
+                "DeepMind introduces Gemma 4 12B, a unified, encoder-free multimodal model for superior intelligence and efficiency.",
+                "Streamlined architecture potentially yields faster inference and reduced computational overhead, enhancing accessibility of advanced AI.",
+                "Positions as a foundational open model, enabling broad development upon state-of-the-art AI technology.",
+                "Benefits edge AI deployments and resource-constrained scenarios, accelerating innovation across the AI ecosystem globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI OFFICE: ADVISORY FORUM",
+            "heading": "GOOGLE DEEPMIND: DIFFUSIONGEMMA SPEED",
             "points": [
-                "The European Commission established the Advisory Forum to supply technical expertise for AI Act enforcement.",
-                "General purpose model developers must align system configurations with standardized transparency metrics and compliance rules.",
-                "The advisory body bridges technical engineering realities with legislative oversight to manage systemic model deployment risks.",
-                "Global compliance costs will rise as regulatory frameworks transition from high-level guidance to rigorous operational audits."
+                "DiffusionGemma achieves 4x faster text generation, significantly boosting efficiency and responsiveness of AI-powered text creation.",
+                "This speed enhancement is critical for fluid conversational AI and quicker content drafting in real-time applications.",
+                "Underscores DeepMind's optimization efforts for AI models, moving beyond capability to operational efficiency and scalability.",
+                "Businesses deploy more responsive AI text generation, improving user engagement and operational throughput across platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
