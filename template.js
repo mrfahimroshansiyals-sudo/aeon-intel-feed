@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC HARDWARE",
-        "titleBlue": "CONVERGENCE"
+        "titleWhite": "AUTONOMOUS SYSTEM",
+        "titleBlue": "GOVERNANCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: CURSOR ACQUISITION",
+            "heading": "MICROSOFT & GOOGLE: ARD INITIATIVE",
             "points": [
-                "SpaceX initiates a sixty billion dollar acquisition of Cursor to scale critical compute for agentic coding.",
-                "The transaction provides massive hardware expansion to address resource bottlenecks in software development workflows.",
-                "CIOs assess Cursor's security posture as it integrates deeply with aerospace-grade engineering pipelines.",
-                "This strategic consolidation positions SpaceX to dominate autonomous development frameworks and enterprise programming tooling."
+                "Microsoft, Google, and Cisco proposed the Agentic Resource Discovery framework to automate tool discovery for AI agents.",
+                "This specification resolves integration bottlenecks by enabling agents to dynamically locate, validate, and invoke remote enterprise APIs.",
+                "Organizations can bypass hardcoded paths, transitioning to open environments where software agents autonomously negotiate tool capabilities.",
+                "The initiative establishes a strong foundation for decentralized agent networks, reducing ongoing maintenance overhead for complex systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AGENTIC RESOURCE DISCOVERY",
+            "heading": "APPIA FOUNDATION: COMPLIANCE SPECS",
             "points": [
-                "Microsoft, Google, and Cisco propose Agentic Resource Discovery specifications to streamline autonomous tool access.",
-                "The framework mitigates skill leakage and context bloat by standardizing how agents select external systems.",
-                "Industry leaders aim to resolve costly agent routing errors through this open and interoperable standard.",
-                "Standardizing discovery protocols accelerates safe cross platform enterprise agent deployments across global cloud networks."
+                "Google and Microsoft introduced compliance specifications under the Appia Foundation to help enterprises systematically evaluate AI behavior.",
+                "The framework offers measurable metrics to prove model alignment, safety, and compliance with emerging international regulations.",
+                "By establishing standardized verification protocols, the foundation aims to bridge the gap between abstract guidelines and deployable code.",
+                "Enterprises can leverage these specifications to run automated audits, streamlining governance workflows across complex distributed model deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AWS: AGENTCORE ARCHITECTURE",
+            "heading": "OPENAI: CHATGPT SPEND CONTROLS",
             "points": [
-                "Amazon Web Services launches Bedrock AgentCore to manage and optimize complex multi agent enterprise workflows.",
-                "The orchestration platform features continuous learning loops inside isolated runtime environments for any model type.",
-                "Integrated context mapping allows agents to retrieve governed knowledge graphs during high frequency execution cycles.",
-                "This deployment minimizes custom development overhead while establishing strict operational guardrails for autonomous applications."
+                "OpenAI introduced granular spend controls and advanced usage analytics designed specifically for ChatGPT Enterprise tier administrators.",
+                "The feature provides real-time monitoring of API token consumption, direct cost allocation, and customizable budgeting thresholds.",
+                "IT leaders gain transparency into organizational model consumption patterns, allowing them to optimize compute investments before scaling up.",
+                "This release directly addresses the growing demand for fiscal governance in generative AI projects as operational costs escalate."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AWS: CONTINUUM MACHINE SECURITY",
+            "points": [
+                "AWS launched AWS Continuum, an automated security framework designed to discover, prioritize, validate, and remediate code vulnerabilities.",
+                "The platform operates at machine speed, shifting security protocols from passive monitoring to autonomous outcome-based execution loops.",
+                "By utilizing context-aware threat modeling, the system dynamically analyzes repositories to deliver validated fixes directly within pipelines.",
+                "This architectural shift allows enterprise security operations to counter rapid, AI-driven exploit methods developed by advanced adversaries."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: ADVANCED MEMORY CO-DEVELOPMENT",
-            "points": [
-                "NVIDIA and SK hynix forge a multiyear partnership to build next generation memory architectures.",
-                "The collaboration directly addresses critical global memory shortages stalling massive artificial intelligence factory rollouts.",
-                "Enhanced High Bandwidth Memory integration is crucial to optimize Blackwell and Rubin GPU chip performance.",
-                "This alliance secures a robust hardware supply chain for compute factories operating at gigawatt scale."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "MISTRAL AI: AUTONOMOUS VIBE ENGINE",
+            "heading": "MICROSOFT: AZURE HORIZONDB RELEASE",
             "points": [
-                "Mistral AI launches Vibe to orchestrate long horizon task scheduling with persistent memory modules.",
-                "The system handles structured data analysis and autonomous coding directly inside local development environments.",
-                "This native architecture empowers developers to bypass brittle application integrations using advanced semantic reasoning capabilities.",
-                "Enterprises leverage these portable agents across hybrid infrastructure to execute persistent, multi step business processes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: FABRIC RAYFIN DEPLOYMENT",
-            "points": [
-                "Microsoft introduces Rayfin, a fully managed backend service optimized for agentic workloads on Fabric.",
-                "The integration provides code optimized databases that drastically reduce operational latencies during intense runtime executions.",
-                "Developers access these tools through unified software development kits to synchronize multi agent context layers.",
-                "This launch enables rapid backend prototyping, eliminating typical system constraints associated with cloud database management."
+                "Microsoft announced Azure HorizonDB, a next-generation PostgreSQL cloud database engineered with ultra-low latency and built-in artificial intelligence.",
+                "The service integrates vector capabilities directly into the core engine to support high-performance scalable reads for agentic workloads.",
+                "Developers can build and scale mission-critical applications without experiencing traditional latency penalties associated with external databases.",
+                "This release positions PostgreSQL as a foundational data layer for executing real-time, context-rich model inferences at enterprise scale."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
+            "id": 6,
+            "heading": "NVIDIA: OPENBAO SECURE DEPLOYMENT",
             "points": [
-                "AMD acquires technology startup MEXT to integrate advanced hardware memory optimization across its processor portfolio.",
-                "This transaction enhances the execution speed of large scale agentic workloads running on EPYC processors.",
-                "Memory efficiency upgrades allow data centers to maximize performance while minimizing overall hardware energy consumption.",
-                "Secure silicon designs help enterprises maintain sovereignty over processing pipelines without compromising real time throughput."
+                "Nvidia officially adopted OpenBao, an open-source software fork of HashiCorp Vault, to manage highly sensitive cryptographic secrets.",
+                "This structural transition is driven by escalating global concerns regarding digital sovereignty and licensing changes in proprietary software.",
+                "The integration secures key management pathways across highly distributed AI factories, preserving open-source compatibility for developers globally.",
+                "Nvidia's backing of an OpenSSF-governed project signals a broader industry realignment toward collaborative, non-proprietary security foundations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EUROPEAN UNION: AI ADVISORY FORUM",
+            "points": [
+                "The European Commission established the Advisory Forum to provide technical expertise under the European Union AI Act frameworks.",
+                "The body will actively advise the Commission and AI Board, contributing to governance, model testing, and risk classifications.",
+                "This setup ensures that independent technical experts, industry stakeholders, and academic representatives directly shape real-world enforcement strategies.",
+                "Startups and enterprise operators must align their deployment pipelines with the emerging technical standards curated by this group."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
