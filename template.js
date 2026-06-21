@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AGENTIC HARDWARE",
+        "titleBlue": "CONVERGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: MEMORY FACTORY CO-DESIGN",
+            "heading": "SPACEX: CURSOR ACQUISITION",
             "points": [
-                "NVIDIA partnered with SK Hynix to co-design next-generation memory substrates tailored for global AI factory workloads.",
-                "The multiyear alliance accelerates high-bandwidth memory integration to eliminate performance bottlenecks in massive neural network training architectures.",
-                "Systems operators can leverage the co-designed memory layers to scale bandwidth throughput across distributed GPU clusters.",
-                "This strategic alignment guarantees specialized memory supply stability as hardware infrastructure scales to meet exponential workload demands."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AWS: CONTINUUM VULNERABILITY MITIGATION",
-            "points": [
-                "AWS launched Continuum to discover, validate, and remediate software vulnerabilities at machine speed using frontier models.",
-                "The system integrates context-aware threat modeling directly into developer CI/CD pipelines to secure autonomous deployment workflows.",
-                "Modern enterprise teams can transition from periodic vulnerability scanning to continuous automated penetration testing and patching.",
-                "Implementing autonomous guardrails reduces operational risk by enforcing compliance rules before any insecure code reaches production."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com/blogs/aws",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
-            "points": [
-                "AMD finalized its acquisition of MEXT to integrate advanced memory optimization technologies directly into its silicon portfolio.",
-                "The strategic integration enhances memory utilization efficiency across EPYC and Instinct processors running large language models.",
-                "Cloud providers benefit from improved hardware total cost of ownership by maximizing performance per watt parameters.",
-                "This technological acquisition strengthens AMD's position against competitors by delivering rack-scale processing enhancements for intensive workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: ULTRA-LOW LATENCY DATABASE",
-            "points": [
-                "Microsoft unveiled Azure HorizonDB, a high-performance PostgreSQL service featuring built-in artificial intelligence and scalable reads.",
-                "The database engine delivers ultra-low latency data access necessary to support real-time agentic application decisions.",
-                "System architects can seamlessly deploy HorizonDB to unify transactional workloads with complex analytical model inference pipelines.",
-                "This service helps enterprises minimize data pipeline complexity while maintaining strict operational consistency across distributed clouds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "INFO WORLD: AGENTIC RESOURCE DISCOVERY",
-            "points": [
-                "Microsoft, Google, and Cisco proposed the Agentic Resource Discovery protocol to standardize how AI agents locate tools.",
-                "The specification addresses critical governance bottlenecks by establishing uniform guidelines for safe enterprise resource interaction.",
-                "Developers can deploy self-directed agents that safely browse authorized APIs and documentation tables without human intervention.",
-                "This collaborative standardization effort mitigates security vulnerabilities associated with custom and unverified agent tool integrations."
+                "SpaceX initiates a sixty billion dollar acquisition of Cursor to scale critical compute for agentic coding.",
+                "The transaction provides massive hardware expansion to address resource bottlenecks in software development workflows.",
+                "CIOs assess Cursor's security posture as it integrates deeply with aerospace-grade engineering pipelines.",
+                "This strategic consolidation positions SpaceX to dominate autonomous development frameworks and enterprise programming tooling."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "TECH TARGET: OPENBAO SECURITY ADOPTION",
+            "id": 2,
+            "heading": "MICROSOFT: AGENTIC RESOURCE DISCOVERY",
             "points": [
-                "NVIDIA adopted OpenBao, an open-source HashiCorp Vault alternative, to enhance digital sovereignty in security operations.",
-                "The transition protects sensitive configuration state secrets within complex, multi-tenant accelerated computing environments from unauthorized access.",
-                "Platform engineers can deploy OpenBao to achieve robust cryptographic credential management without relying on restrictive commercial licenses.",
-                "This adoption signals a growing industry movement toward community-governed security tools for securing global AI infrastructure."
+                "Microsoft, Google, and Cisco propose Agentic Resource Discovery specifications to streamline autonomous tool access.",
+                "The framework mitigates skill leakage and context bloat by standardizing how agents select external systems.",
+                "Industry leaders aim to resolve costly agent routing errors through this open and interoperable standard.",
+                "Standardizing discovery protocols accelerates safe cross platform enterprise agent deployments across global cloud networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AWS: AGENTCORE ARCHITECTURE",
+            "points": [
+                "Amazon Web Services launches Bedrock AgentCore to manage and optimize complex multi agent enterprise workflows.",
+                "The orchestration platform features continuous learning loops inside isolated runtime environments for any model type.",
+                "Integrated context mapping allows agents to retrieve governed knowledge graphs during high frequency execution cycles.",
+                "This deployment minimizes custom development overhead while establishing strict operational guardrails for autonomous applications."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: ADVANCED MEMORY CO-DEVELOPMENT",
+            "points": [
+                "NVIDIA and SK hynix forge a multiyear partnership to build next generation memory architectures.",
+                "The collaboration directly addresses critical global memory shortages stalling massive artificial intelligence factory rollouts.",
+                "Enhanced High Bandwidth Memory integration is crucial to optimize Blackwell and Rubin GPU chip performance.",
+                "This alliance secures a robust hardware supply chain for compute factories operating at gigawatt scale."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: AUTONOMOUS VIBE ENGINE",
+            "points": [
+                "Mistral AI launches Vibe to orchestrate long horizon task scheduling with persistent memory modules.",
+                "The system handles structured data analysis and autonomous coding directly inside local development environments.",
+                "This native architecture empowers developers to bypass brittle application integrations using advanced semantic reasoning capabilities.",
+                "Enterprises leverage these portable agents across hybrid infrastructure to execute persistent, multi step business processes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT: FABRIC RAYFIN DEPLOYMENT",
+            "points": [
+                "Microsoft introduces Rayfin, a fully managed backend service optimized for agentic workloads on Fabric.",
+                "The integration provides code optimized databases that drastically reduce operational latencies during intense runtime executions.",
+                "Developers access these tools through unified software development kits to synchronize multi agent context layers.",
+                "This launch enables rapid backend prototyping, eliminating typical system constraints associated with cloud database management."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SOVEREIGN HYPERSCALE EXPANSION",
+            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
             "points": [
-                "NVIDIA and NAVER announced a sovereign AI infrastructure project starting at fifty-five megawatts in South Korea.",
-                "The blueprint charts a path toward gigawatt-scale computing centers designed to maintain local data control and privacy.",
-                "Regional enterprise clients can utilize localized sovereign cloud architectures to satisfy strict regional compliance laws.",
-                "This massive infrastructure expansion ensures non-reliant computing power to foster domestic technological autonomy and independent innovation."
+                "AMD acquires technology startup MEXT to integrate advanced hardware memory optimization across its processor portfolio.",
+                "This transaction enhances the execution speed of large scale agentic workloads running on EPYC processors.",
+                "Memory efficiency upgrades allow data centers to maximize performance while minimizing overall hardware energy consumption.",
+                "Secure silicon designs help enterprises maintain sovereignty over processing pipelines without compromising real time throughput."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
