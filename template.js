@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "SOVEREIGN AGENT INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: SILICON SOVEREIGNTY",
+            "heading": "NVIDIA: MEMORY FACTORY CO-DESIGN",
             "points": [
-                "TSMC introduces A16 nanosheet architecture with backside power rails to maximize compute for dense AI workloads.",
-                "Strategic manufacturing upgrades now focus on HPC integration, positioning 2026 nodes as the primary foundation for global infrastructure.",
-                "The company is aggressively scaling footprint across global fabs to maintain dominance in high-performance semiconductor supply chains.",
-                "Enhanced energy-efficient silicon designs provide the industrial backbone for next-generation agentic and real-time inference hardware needs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: AGENTIC ECOSYSTEM",
-            "points": [
-                "NVIDIA expands sovereign AI infrastructure via multi-gigawatt partnerships including NAVER and strategic memory alliances with SK hynix.",
-                "New DSX platform deployments facilitate regional AI cloud sovereignty, allowing localized control of critical data and inference models.",
-                "Strategic focus has shifted to the 'agentic factory' buildout, optimizing memory bandwidth for massive-scale real-time model execution.",
-                "Interconnection initiatives with FERC help stabilize power grid stress induced by rapid global data center compute scaling."
+                "NVIDIA partnered with SK Hynix to co-design next-generation memory substrates tailored for global AI factory workloads.",
+                "The multiyear alliance accelerates high-bandwidth memory integration to eliminate performance bottlenecks in massive neural network training architectures.",
+                "Systems operators can leverage the co-designed memory layers to scale bandwidth throughput across distributed GPU clusters.",
+                "This strategic alignment guarantees specialized memory supply stability as hardware infrastructure scales to meet exponential workload demands."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +22,29 @@ const dailyData = {
             ]
         },
         {
+            "id": 2,
+            "heading": "AWS: CONTINUUM VULNERABILITY MITIGATION",
+            "points": [
+                "AWS launched Continuum to discover, validate, and remediate software vulnerabilities at machine speed using frontier models.",
+                "The system integrates context-aware threat modeling directly into developer CI/CD pipelines to secure autonomous deployment workflows.",
+                "Modern enterprise teams can transition from periodic vulnerability scanning to continuous automated penetration testing and patching.",
+                "Implementing autonomous guardrails reduces operational risk by enforcing compliance rules before any insecure code reaches production."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com/blogs/aws",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 3,
-            "heading": "AWS: AGENTIC INFRASTRUCTURE",
+            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
             "points": [
-                "AWS unveils Amazon Quick, an autonomous AI assistant capable of managing enterprise-level agentic workflows and tool-chain orchestration.",
-                "AgentCore provides a unified framework to build, connect, and optimize multi-agent loops within isolated, governed runtime environments.",
-                "AWS Continuum integrates real-time vulnerability remediation and threat modeling at machine speed, shifting security from passive to proactive.",
-                "DevOps Agent updates automate release management, significantly reducing bottlenecks in complex CI/CD pipelines for large-scale AI applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE CLOUD: AGENTIC SCALE",
-            "points": [
-                "Google Cloud rolls out Gemini 3.5 and Omni, focusing on frontier intelligence coupled with multi-modal action capabilities for enterprises.",
-                "The agentic Data Cloud strategy prioritizes real-time systemic action, enabling dynamic database scaling for agent-ready enterprise workloads.",
-                "Google AI Threat Defense provides real-time protection against adversarial inputs, critical for securing agent-based autonomous business operations.",
-                "New developer tooling ensures compliance and observability across agentic deployments, lowering the friction for large-scale AI model migration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: FRONTIER VIBE",
-            "points": [
-                "Mistral debuts Vibe, an agentic AI platform designed for long-horizon work, persistent memory, and complex multi-step task scheduling.",
-                "Vibe for code streamlines development by offering async generation and architecture-aware reasoning directly within the enterprise IDE environment.",
-                "Studio provides full deployment portability for agents, allowing seamless transitions between edge devices and cloud-based frontier infrastructure.",
-                "Forge enables proprietary domain adaptation, allowing organizations to train and align models on specialized, high-value industrial datasets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: HETEROGENEOUS COMPUTE",
-            "points": [
-                "AMD completes acquisition of MEXT, integrating memory optimization technology to accelerate performance for next-gen agentic CPU architectures.",
-                "The company commits \u00a32 billion to UK sovereign AI infrastructure, fostering deep collaboration on AI-enabled scientific discovery projects.",
-                "Instinct GPUs and EPYC CPUs now dominate rack-scale execution, optimized for the high-concurrency demands of autonomous agent ecosystems.",
-                "AMD\u2019s open ecosystem approach provides crucial flexibility for enterprises avoiding vendor lock-in during massive data center hardware refreshes."
+                "AMD finalized its acquisition of MEXT to integrate advanced memory optimization technologies directly into its silicon portfolio.",
+                "The strategic integration enhances memory utilization efficiency across EPYC and Instinct processors running large language models.",
+                "Cloud providers benefit from improved hardware total cost of ownership by maximizing performance per watt parameters.",
+                "This technological acquisition strengthens AMD's position against competitors by delivering rack-scale processing enhancements for intensive workloads."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE",
+            "id": 4,
+            "heading": "MICROSOFT: ULTRA-LOW LATENCY DATABASE",
             "points": [
-                "The Advisory Forum is now operational, tasked with providing technical expertise to the European Commission for AI Act enforcement.",
-                "New transparency guidelines mandate rigorous documentation for GPAI models, shifting enterprise focus toward compliant and auditable AI systems.",
-                "Small business guides provide essential frameworks for SMEs to navigate high-risk classification without hindering operational agility or innovation.",
-                "Governance initiatives aim to standardize the classification of agents, ensuring that autonomy does not override necessary human-centric safeguards."
+                "Microsoft unveiled Azure HorizonDB, a high-performance PostgreSQL service featuring built-in artificial intelligence and scalable reads.",
+                "The database engine delivers ultra-low latency data access necessary to support real-time agentic application decisions.",
+                "System architects can seamlessly deploy HorizonDB to unify transactional workloads with complex analytical model inference pipelines.",
+                "This service helps enterprises minimize data pipeline complexity while maintaining strict operational consistency across distributed clouds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "INFO WORLD: AGENTIC RESOURCE DISCOVERY",
+            "points": [
+                "Microsoft, Google, and Cisco proposed the Agentic Resource Discovery protocol to standardize how AI agents locate tools.",
+                "The specification addresses critical governance bottlenecks by establishing uniform guidelines for safe enterprise resource interaction.",
+                "Developers can deploy self-directed agents that safely browse authorized APIs and documentation tables without human intervention.",
+                "This collaborative standardization effort mitigates security vulnerabilities associated with custom and unverified agent tool integrations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TECH TARGET: OPENBAO SECURITY ADOPTION",
+            "points": [
+                "NVIDIA adopted OpenBao, an open-source HashiCorp Vault alternative, to enhance digital sovereignty in security operations.",
+                "The transition protects sensitive configuration state secrets within complex, multi-tenant accelerated computing environments from unauthorized access.",
+                "Platform engineers can deploy OpenBao to achieve robust cryptographic credential management without relying on restrictive commercial licenses.",
+                "This adoption signals a growing industry movement toward community-governed security tools for securing global AI infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "NVIDIA: SOVEREIGN HYPERSCALE EXPANSION",
+            "points": [
+                "NVIDIA and NAVER announced a sovereign AI infrastructure project starting at fifty-five megawatts in South Korea.",
+                "The blueprint charts a path toward gigawatt-scale computing centers designed to maintain local data control and privacy.",
+                "Regional enterprise clients can utilize localized sovereign cloud architectures to satisfy strict regional compliance laws.",
+                "This massive infrastructure expansion ensures non-reliant computing power to foster domestic technological autonomy and independent innovation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
