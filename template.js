@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC AI",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AGENTIC BACKEND UPGRADE",
+            "heading": "TSMC: SILICON SOVEREIGNTY",
             "points": [
-                "Microsoft launched Rayfin on Fabric as an enterprise-grade agent-optimized backend-as-a-service for mission-critical scaling.",
-                "This architecture supports native agentic workflows by providing managed infrastructure for complex application data and logic.",
-                "Integration with Foundry IQ enables unified context across intelligence layers to ensure trusted results at scale.",
-                "Developers now gain access to persistent memory and cross-platform orchestration capabilities for production-ready AI deployment."
+                "TSMC introduces A16 nanosheet architecture with backside power rails to maximize compute for dense AI workloads.",
+                "Strategic manufacturing upgrades now focus on HPC integration, positioning 2026 nodes as the primary foundation for global infrastructure.",
+                "The company is aggressively scaling footprint across global fabs to maintain dominance in high-performance semiconductor supply chains.",
+                "Enhanced energy-efficient silicon designs provide the industrial backbone for next-generation agentic and real-time inference hardware needs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
+            "heading": "NVIDIA: AGENTIC ECOSYSTEM",
             "points": [
-                "Google Cloud introduced advanced agentic Data Cloud features designed to power autonomous systems of action globally.",
-                "New infrastructure scaling protocols prioritize agentic orchestration and governance within the expanded Gemini enterprise ecosystem framework.",
-                "These updates facilitate high-performance AI deployment by leveraging optimized cloud-native TPU and GPU compute configurations.",
-                "Enterprises can now utilize end-to-end observability tools to manage autonomous AI agents across hybrid data environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: SOVEREIGN AI PARTNERSHIPS",
-            "points": [
-                "NVIDIA expanded multiyear technology partnerships with SK hynix to advance next-generation memory for global AI factories.",
-                "Collaboration with NAVER scales sovereign AI infrastructure starting at 55 megawatts toward potential gigawatt-scale data centers.",
-                "SK Telecom integrates NVIDIA DSX platforms to power domestic Korean AI innovation through specialized cloud infrastructure.",
-                "Strategic builds focus on energy-efficient architectures to address mounting grid stress while improving compute performance density."
+                "NVIDIA expands sovereign AI infrastructure via multi-gigawatt partnerships including NAVER and strategic memory alliances with SK hynix.",
+                "New DSX platform deployments facilitate regional AI cloud sovereignty, allowing localized control of critical data and inference models.",
+                "Strategic focus has shifted to the 'agentic factory' buildout, optimizing memory bandwidth for massive-scale real-time model execution.",
+                "Interconnection initiatives with FERC help stabilize power grid stress induced by rapid global data center compute scaling."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MISTRAL AI: FRONTIER AGENTIC VIBE",
+            "id": 3,
+            "heading": "AWS: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Mistral AI launched Vibe for code to streamline async code generation and architecture-aware reasoning for enterprise developers.",
-                "The platform provides dedicated GPU clusters and frontier-scale compute infrastructure for custom model training and alignment.",
-                "Integration services focus on domain-specialized AI, enabling companies to build tailored systems for long-horizon task execution.",
-                "Enterprise users leverage unified registries and guardrails to ensure production-grade deployment of agentic software applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AWS: AGENTIC DEVOPS REVOLUTION",
-            "points": [
-                "AWS deployed autonomous agents for release management that validate and review code before production deployment cycles.",
-                "AgentCore provides an isolated environment for building and optimizing complex AI agents with flexible model swapping.",
-                "Continuous modernization tools analyze technical debt at scale while remediating issues autonomously within existing CI/CD pipelines.",
-                "Context-aware threat modeling surfaces vulnerabilities using design documentation to ensure security at machine-speed across development."
+                "AWS unveils Amazon Quick, an autonomous AI assistant capable of managing enterprise-level agentic workflows and tool-chain orchestration.",
+                "AgentCore provides a unified framework to build, connect, and optimize multi-agent loops within isolated, governed runtime environments.",
+                "AWS Continuum integrates real-time vulnerability remediation and threat modeling at machine speed, shifting security from passive to proactive.",
+                "DevOps Agent updates automate release management, significantly reducing bottlenecks in complex CI/CD pipelines for large-scale AI applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACK-SCALE AI SOVEREIGNTY",
+            "id": 4,
+            "heading": "GOOGLE CLOUD: AGENTIC SCALE",
             "points": [
-                "AMD acquired MEXT to integrate advanced memory optimization technology into its growing AI-focused silicon portfolio.",
-                "New commitments in the UK support sovereign AI infrastructure through collaborative innovation labs for scientific research.",
-                "AMD EPYC processors deliver the rack-scale performance required to sustain high-intensity agentic AI execution environments.",
-                "Open ecosystem approaches foster flexibility and investment protection for enterprises building end-to-end AI deployment architectures."
+                "Google Cloud rolls out Gemini 3.5 and Omni, focusing on frontier intelligence coupled with multi-modal action capabilities for enterprises.",
+                "The agentic Data Cloud strategy prioritizes real-time systemic action, enabling dynamic database scaling for agent-ready enterprise workloads.",
+                "Google AI Threat Defense provides real-time protection against adversarial inputs, critical for securing agent-based autonomous business operations.",
+                "New developer tooling ensures compliance and observability across agentic deployments, lowering the friction for large-scale AI model migration."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: FRONTIER VIBE",
+            "points": [
+                "Mistral debuts Vibe, an agentic AI platform designed for long-horizon work, persistent memory, and complex multi-step task scheduling.",
+                "Vibe for code streamlines development by offering async generation and architecture-aware reasoning directly within the enterprise IDE environment.",
+                "Studio provides full deployment portability for agents, allowing seamless transitions between edge devices and cloud-based frontier infrastructure.",
+                "Forge enables proprietary domain adaptation, allowing organizations to train and align models on specialized, high-value industrial datasets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: HETEROGENEOUS COMPUTE",
+            "points": [
+                "AMD completes acquisition of MEXT, integrating memory optimization technology to accelerate performance for next-gen agentic CPU architectures.",
+                "The company commits \u00a32 billion to UK sovereign AI infrastructure, fostering deep collaboration on AI-enabled scientific discovery projects.",
+                "Instinct GPUs and EPYC CPUs now dominate rack-scale execution, optimized for the high-concurrency demands of autonomous agent ecosystems.",
+                "AMD\u2019s open ecosystem approach provides crucial flexibility for enterprises avoiding vendor lock-in during massive data center hardware refreshes."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,12 +103,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE ADVISORY",
+            "heading": "EU AI ACT: GOVERNANCE",
             "points": [
-                "The EU established the Advisory Forum to provide technical expertise and governance support under the AI Act.",
-                "Compliance frameworks now require organizations to implement transparency rules for general-purpose AI models by August 2026.",
-                "Regulatory efforts emphasize risk categorization to manage industrial impact while fostering trust in high-risk AI deployments.",
-                "Standardization bodies are actively mapping technical requirements to assist enterprises in proving compliance for international markets."
+                "The Advisory Forum is now operational, tasked with providing technical expertise to the European Commission for AI Act enforcement.",
+                "New transparency guidelines mandate rigorous documentation for GPAI models, shifting enterprise focus toward compliant and auditable AI systems.",
+                "Small business guides provide essential frameworks for SMEs to navigate high-risk classification without hindering operational agility or innovation.",
+                "Governance initiatives aim to standardize the classification of agents, ensuring that autonomy does not override necessary human-centric safeguards."
             ],
             "imageUrl": "",
             "tags": [
