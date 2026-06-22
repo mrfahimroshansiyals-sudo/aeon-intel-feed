@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: HALOS FOR ROBOTICS",
+            "heading": "SPACEX: MODEL COMPUTE PROVISION",
             "points": [
-                "Nvidia introduced Halos for Robotics as the first comprehensive safety framework for real-world physical systems.",
-                "This architecture applies automated safety protocols to mitigate physical hazards in autonomous machine operations.",
-                "Enterprise developers can now deploy physical agent fleets with real-time hazard mitigation and validation.",
-                "Future physical AI systems will leverage this system to maintain operational compliance across industries."
+                "SpaceX signs a massive six billion dollar infrastructure and compute agreement with open source startup Reflection.",
+                "The enterprise deal secures robust high density infrastructure assets representing up to six point three billion dollars.",
+                "This partnership positions the aerospace giant directly as a sovereign high performance computing hardware utility supplier.",
+                "Model developers will increasingly rely on alternative private aerospace networks for uncensored high throughput GPU workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA: ROBOTIC SAFETY HALOS",
+            "points": [
+                "NVIDIA launches Halos for Robotics to establish the first full stack safety system for physical intelligence.",
+                "This environment provides comprehensive protection mechanisms protecting physical machinery from edge software execution errors.",
+                "Integrating real time verification blocks into robotic models guarantees safe operation across volatile industrial settings.",
+                "Manufacturers will rapidly deploy autonomous systems without fearing catastrophic hardware failure during edge processing loops."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "AWS: CONTINUUM SECURITY LAUNCH",
+            "id": 3,
+            "heading": "AWS: CONTINUOUS EXPLOIT REMEDIATION",
             "points": [
-                "Amazon Web Services released AWS Continuum to automate vulnerability discovery and remediation at machine speed.",
-                "The platform continuously monitors, prioritizes, and fixes software defects throughout the active development lifecycle.",
-                "Developers shift security operations from reactive monitoring to automated, proactive continuous remediation cycles.",
-                "This integration will significantly reduce enterprise exposure to zero-day exploits in distributed cloud environments."
+                "AWS introduces Continuum to continuously discover, prioritize, validate, and remediate application code vulnerabilities.",
+                "The autonomous pipeline minimizes security response times from days to minutes across enterprise cloud deployments.",
+                "This deployment shifts classical security scanning protocols from reactive posture analysis to automated pipeline execution.",
+                "Enterprise developers will achieve zero trust software delivery loops without requiring manual code review bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "SPACEX: CURSOR ACQUISITION",
-            "points": [
-                "SpaceX acquired agentic coding platform Cursor for sixty billion dollars to automate aerospace software development.",
-                "The multi-billion dollar acquisition positions autonomous coding agents as core infrastructure for defense manufacturing.",
-                "Engineering teams will deploy AI agents to continuously write, review, and maintain mission-critical flight software.",
-                "This integration establishes a precedent for heavy industrial automation driven by advanced agentic workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "MICROSOFT: HORIZONDB DATABASE",
+            "heading": "MICROSOFT: FABRIC AGENT BACKEND",
             "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency and built-in intelligence for scalable PostgreSQL workloads.",
-                "The cloud database architecture optimizes read performance to support real-time data ingestion for AI systems.",
-                "Software engineers can now deploy critical enterprise applications without experiencing traditional backend database bottlenecks.",
-                "This database technology will accelerate real-time transactional decision-making in large-scale enterprise agent networks."
+                "Microsoft Azure launches Rayfin, a fully managed agent optimized backend service native to Fabric.",
+                "Autonomous software agents can execute database transactions and run background tasks with minimal application latency.",
+                "The architecture represents a vital transition toward decentralized database backends designed exclusively for autonomous agents.",
+                "Engineering teams will deploy highly complex multi agent workflows without managing complex underlying database connections."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,44 +71,44 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMD: MEXT ACQUISITION",
+            "heading": "LOS ALAMOS: AGENTIC SCIENCE WORKLOADS",
             "points": [
-                "Advanced Micro Devices acquired memory optimization startup MEXT to expand its enterprise AI infrastructure portfolio.",
-                "The strategic acquisition integrates advanced memory efficiency systems directly into next-generation rack-scale computing platforms.",
-                "Hyperscale operators can optimize data throughput across graphics processing units and custom adaptive silicon.",
-                "This consolidation will drive down total cost of ownership for running massive agentic AI operations."
+                "Los Alamos National Laboratory selects the NVIDIA Vera CPU to power advanced agentic scientific AI.",
+                "Researchers can leverage extreme memory bandwidth to process complex simulations and experimental datasets in real time.",
+                "The integration highlights a global migration towards highly specialized silicon optimized for automated scientific discovery.",
+                "Sovereign research institutions will soon utilize automated agents to independently formulate and test scientific hypotheses."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: GEMINI ENTERPRISE",
+            "heading": "ANTHROPIC: ARTIFACT COLLABORATION MATRIX",
             "points": [
-                "Google Cloud unveiled Gemini Enterprise as a unified platform for AI agent development and governance.",
-                "The architecture provides centralized controls to orchestrate, evaluate, and secure autonomous enterprise software agents.",
-                "Operational teams gain deep visibility into agent behaviors while maintaining strict corporate compliance standards.",
-                "This system will accelerate the transition from simple chatbots to fully autonomous enterprise systems."
+                "Anthropic enhances Claude Artifacts to transform enterprise collaboration and streamline real time joint document authoring.",
+                "Teams experience significant productivity gains by generating and editing complex software code blocks side by side.",
+                "The feature demonstrates how modern chat interfaces are evolving into dynamic workspace canvases for multi agent cooperation.",
+                "Organizations will phase out traditional productivity suites in favor of persistent agentic generation environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BAIN: VIBECODING REPLICAS",
+            "heading": "BAIN: SOFTWARE TARGET CLONING",
             "points": [
-                "Bain and Company began using generative AI replicas to stress-test target software architectures during acquisitions.",
-                "The system employs vibecoding techniques to simulate extreme operational demands and identify hidden codebase weaknesses.",
-                "Financial institutions can accurately assess the technical debt of potential software targets before finalizing deals.",
-                "This methodology establishes a new standard for algorithmic due diligence in private equity transactions."
+                "Bain begins testing potential software acquisition targets by deploying simulated target company artificial intelligence replicas.",
+                "Analysts evaluate core product capabilities and scale liabilities within a secure virtual environment prior to bidding.",
+                "Using synthetic instances for corporate due diligence represents a major paradigm shift in corporate financial engineering.",
+                "Investment firms will execute highly automated risk assessments before committing physical capital to software mergers."
             ],
             "imageUrl": "",
             "tags": [
