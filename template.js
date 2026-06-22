@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INFRASTRUCTURE",
-        "titleBlue": "REBOOT"
+        "titleWhite": "AGENTIC ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PHYSICAL AI HALOS",
+            "heading": "NVIDIA: HALOS FOR ROBOTICS",
             "points": [
-                "NVIDIA launched Halos for Robotics to establish the first full-stack safety system for physical AI.",
-                "The architecture integrates real-time risk assessment parameters directly into autonomous industrial machine control loops.",
-                "This framework resolves critical functional safety limitations currently hindering the widespread deployment of edge robotics.",
-                "System integrators can now deploy collaborative robots without risking catastrophic physical operational failures in factories."
+                "Nvidia introduced Halos for Robotics as the first comprehensive safety framework for real-world physical systems.",
+                "This architecture applies automated safety protocols to mitigate physical hazards in autonomous machine operations.",
+                "Enterprise developers can now deploy physical agent fleets with real-time hazard mitigation and validation.",
+                "Future physical AI systems will leverage this system to maintain operational compliance across industries."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,96 +23,96 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEX: REFLECTION DATA POWER",
+            "heading": "AWS: CONTINUUM SECURITY LAUNCH",
             "points": [
-                "SpaceX secured a massive six billion dollar computing power agreement with artificial intelligence startup Reflection.",
-                "The contract provisions high-density data center space to support next-generation agentic and world model training.",
-                "This partnership leverages Starlink aerospace infrastructure to establish highly distributed sovereign computing nodes globally.",
-                "Hyperscale operators face intense pressure as aerospace networks aggressively enter the commercial raw computing market."
+                "Amazon Web Services released AWS Continuum to automate vulnerability discovery and remediation at machine speed.",
+                "The platform continuously monitors, prioritizes, and fixes software defects throughout the active development lifecycle.",
+                "Developers shift security operations from reactive monitoring to automated, proactive continuous remediation cycles.",
+                "This integration will significantly reduce enterprise exposure to zero-day exploits in distributed cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ALPHABET: TALENT DRAIN SHOCK",
+            "heading": "SPACEX: CURSOR ACQUISITION",
             "points": [
-                "Alphabet suffered a major market-cap wipeout following the high-profile defection of its top AI scientists.",
-                "Gemini co-lead Noam Shazeer joined OpenAI while DeepMind researcher John Jumper transitioned to Anthropic.",
-                "These executive departures highlight escalating competition for elite talent capable of engineering frontier AGI systems.",
-                "Public markets are increasingly penalizing legacy hyperscalers that fail to retain core generative architecture innovators."
+                "SpaceX acquired agentic coding platform Cursor for sixty billion dollars to automate aerospace software development.",
+                "The multi-billion dollar acquisition positions autonomous coding agents as core infrastructure for defense manufacturing.",
+                "Engineering teams will deploy AI agents to continuously write, review, and maintain mission-critical flight software.",
+                "This integration establishes a precedent for heavy industrial automation driven by advanced agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CHEVRON: MICROSOFT POWER DEAL",
+            "heading": "MICROSOFT: HORIZONDB DATABASE",
             "points": [
-                "Chevron and Microsoft finalized a twenty-year natural gas agreement to directly power Texas data centers.",
-                "The infrastructure integration features gas-fired power production plants built directly inside the cloud computing campus.",
-                "This alliance bypasses traditional electrical grid bottleneck constraints to ensure uninterrupted high-density microchip operation.",
-                "Energy independence will increasingly dictate which cloud platforms can successfully scale next-generation model training workloads."
+                "Microsoft launched Azure HorizonDB to deliver ultra-low latency and built-in intelligence for scalable PostgreSQL workloads.",
+                "The cloud database architecture optimizes read performance to support real-time data ingestion for AI systems.",
+                "Software engineers can now deploy critical enterprise applications without experiencing traditional backend database bottlenecks.",
+                "This database technology will accelerate real-time transactional decision-making in large-scale enterprise agent networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FIVE EYES: AI THREAT WARNING",
+            "heading": "AMD: MEXT ACQUISITION",
             "points": [
-                "The Five Eyes intelligence alliance warned that AI-powered cyber threats could succeed within months.",
-                "Global governments caution that Western technology advantages are rapidly eroding against highly coordinated adversary developments.",
-                "Sovereign defensive frameworks must shift immediately to automated threat mitigation models to protect national databases.",
-                "Corporate enterprises must deploy zero-trust agentic security systems to withstand highly sophisticated automated compromise campaigns."
+                "Advanced Micro Devices acquired memory optimization startup MEXT to expand its enterprise AI infrastructure portfolio.",
+                "The strategic acquisition integrates advanced memory efficiency systems directly into next-generation rack-scale computing platforms.",
+                "Hyperscale operators can optimize data throughput across graphics processing units and custom adaptive silicon.",
+                "This consolidation will drive down total cost of ownership for running massive agentic AI operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EUROPE: VERA RUBIN DEPLOYMENT",
+            "heading": "GOOGLE: GEMINI ENTERPRISE",
             "points": [
-                "Europe launched thirty-five new supercomputers utilizing the advanced NVIDIA Vera Rubin platform and Vera CPUs.",
-                "These scientific installations deliver native double-precision performance optimized specifically for agentic research workloads.",
-                "This deployment establishes high-performance computing sovereignty across European research centers and national industrial labs.",
-                "Scientists will leverage these exascale systems to rapidly accelerate breakthroughs in physics and molecular simulation."
+                "Google Cloud unveiled Gemini Enterprise as a unified platform for AI agent development and governance.",
+                "The architecture provides centralized controls to orchestrate, evaluate, and secure autonomous enterprise software agents.",
+                "Operational teams gain deep visibility into agent behaviors while maintaining strict corporate compliance standards.",
+                "This system will accelerate the transition from simple chatbots to fully autonomous enterprise systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AWS: CONTINUUM SECURITY ENGINE",
+            "heading": "BAIN: VIBECODING REPLICAS",
             "points": [
-                "Amazon Web Services introduced AWS Continuum to automate code security at machine execution speed.",
-                "The model-agnostic service continuously scans, prioritizes, and remediates code vulnerabilities across enterprise development pipelines.",
-                "This launch transitions enterprise cybersecurity from passive monitoring postures into active, automated remediation cycles.",
-                "Development organizations can now safely deploy autonomous coding agents while maintaining strict regulatory compliance baselines."
+                "Bain and Company began using generative AI replicas to stress-test target software architectures during acquisitions.",
+                "The system employs vibecoding techniques to simulate extreme operational demands and identify hidden codebase weaknesses.",
+                "Financial institutions can accurately assess the technical debt of potential software targets before finalizing deals.",
+                "This methodology establishes a new standard for algorithmic due diligence in private equity transactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
