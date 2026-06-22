@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC SYSTEM",
-        "titleBlue": "INTEGRATION"
+        "titleWhite": "AUTONOMOUS SOVEREIGN",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT & GOOGLE: AGENTIC DISCOVERY",
+            "heading": "COLLABORATIVE TECH: AGENTIC DISCOVERY",
             "points": [
-                "Microsoft, Google, and Cisco proposed Agentic Resource Discovery to help AI agents autonomously locate required operational tools.",
-                "This new framework minimizes configuration friction and enhances multi-agent orchestration efficiency across heterogeneous enterprise environments.",
-                "Dynamic resource discovery mitigates hardcoded dependencies, creating highly flexible and modular digital system topologies.",
-                "IT leaders will leverage this open specification to scale autonomous microservices without manual API registry management."
+                "Microsoft, Google, and Cisco proposed Agentic Resource Discovery to help AI agents autonomously find required runtime tools.",
+                "This standardized discovery protocol eliminates manually hardcoded API integrations, enabling dynamic multi-agent coordination across disparate enterprise cloud platforms.",
+                "Enterprises can now deploy scalable agent federations that self-assemble workflows based on real-time resource availability and capabilities.",
+                "This architectural shift marks the transition from static service-oriented structures to highly adaptive, self-configuring agentic compute environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "APPIA FOUNDATION: COMPLIANCE STANDARDS",
+            "heading": "NVIDIA: SOVEREIGN VAULT SECURED",
             "points": [
-                "Google and Microsoft introduced specifications through the Appia Foundation to help enterprises audit operational AI behavior.",
-                "The framework standardizes performance tracking, enabling engineering teams to prove compliance with complex international regulations.",
-                "Integrating standardized governance frameworks directly into core deployment pipelines secures data pipelines against unpredictable model actions.",
-                "Organizations adopting these open metrics will dramatically accelerate corporate compliance audits and minimize legal exposure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: DEPLOYING OPENBAO INFRASTRUCTURE",
-            "points": [
-                "Nvidia adopted OpenBao, an open-source HashiCorp Vault fork, to secure enterprise credential management systems globally.",
-                "Transitioning to community-governed security tools mitigates licensing risks while preserving highly scalable cloud-native access control mechanisms.",
-                "This strategic shift highlights growing industry demand for transparent, decentralized cryptographic identity management across microservices.",
-                "Global enterprises will increasingly mirror this move to safeguard their proprietary architectures against single-vendor security locks."
+                "Nvidia integrated OpenBao, an open-source HashiCorp Vault alternative, to bolster digital sovereignty and secure its infrastructure secrets.",
+                "This transition addresses growing international compliance anxieties regarding proprietary licensing changes in critical cryptographic management software systems.",
+                "The deployment establishes open-source security baselines across global AI factories, ensuring vendor-neutral access control and identity validation.",
+                "Global enterprises are projected to mirror this migration to maintain uninterrupted compliance with strict regional sovereign data laws."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MICROSOFT: AGENTIC DATABASE ARCHITECTURE",
+            "id": 3,
+            "heading": "APPIA FOUNDATION: COMPLIANCE FRAMEWORK",
             "points": [
-                "Microsoft unveiled Azure HorizonDB and Rayfin to deliver ultra-low latency, agent-optimized backend services on Fabric.",
-                "Combining high-performance PostgreSQL reads with modular code execution allows AI agents to query massive databases instantly.",
-                "Building specialized database engines addresses the distinct computational requirements of continuous, long-horizon transactional agent activities.",
-                "Modern software developers will transition to these unified platforms to bypass legacy data integration pipelines entirely."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "OVHCLOUD: EUROPEAN SOVEREIGN COMPUTING",
-            "points": [
-                "France's OVHcloud deployed localized frontier AI systems, offering European enterprises robust alternatives to dominant American platforms.",
-                "Utilizing localized infrastructure ensures strict data privacy protection while significantly reducing latency for regional business operations.",
-                "Regional hosting addresses critical European sovereignty constraints, keeping sensitive corporate data strictly within domestic regulatory jurisdictions.",
-                "European developers will prioritize localized cloud options to guarantee seamless compliance with incoming sovereign digital rules."
+                "Google and Microsoft launched the Appia Foundation to provide rigorous evaluation specifications proving enterprise AI system compliance.",
+                "The collective aims to standardise behavioral audits without imposing rigid regulations, enabling cross-border validation of autonomous agents.",
+                "Enterprises can utilize these open metrics to verify that neural network outputs conform to strict corporate safety guidelines.",
+                "This self-regulatory initiative helps mitigate legal liability before governments enact formal audit mandates across the AI industry."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "SPACEX: SIXTY BILLION CURSOR ACQUISITION",
+            "id": 4,
+            "heading": "AMD: HYBRID QUANTUM ADVANCEMENT",
             "points": [
-                "SpaceX initiated a massive sixty-billion-dollar acquisition of Cursor to dramatically accelerate its agentic software development capabilities.",
-                "Integrating automated coding assistants directly into aerospace production will rapidly decrease software iteration and testing cycles.",
-                "This high-valuation deal emphasizes the supreme strategic importance of owning proprietary, secure software generation infrastructure.",
-                "Industrial manufacturers will acquire specialized AI startups to achieve deep software engineering autonomy and operational superiority."
+                "AMD launched a critical research initiative focusing on hybrid quantum-classical computing platforms to accelerate next-generation AI workloads.",
+                "Integrating quantum processing units with classical EPYC processors reduces extreme latency overheads associated with complex cryptographic tasks.",
+                "The architecture allows researchers to offload probabilistic calculations to quantum hardware while executing deterministic data parsing on silicon.",
+                "This technology will provide massive performance gains for advanced modeling, secure communication networks, and quantum-safe hardware solutions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "EUROPEAN UNION: AI ADVISORY FORUM",
+            "points": [
+                "The European Commission officially established the Advisory Forum to provide deep technical expertise regarding EU AI Act implementation.",
+                "This specialized body will directly advise the AI Board on standardizing compliance, risk classification, and audit methodologies.",
+                "Their mandate ensures that harmonized standards reflect real-world engineering realities rather than purely theoretical legislative requirements.",
+                "Global businesses operating in Europe must align their operational models with these coming technical definitions immediately."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: HIGH-TEMPERATURE LIQUID COOLING",
+            "points": [
+                "Nvidia announced a breakthrough cooling system that operates efficiently using warm liquid at forty-five degrees Celsius.",
+                "This engineering milestone significantly reduces the massive energy footprint required to run hyperscale AI data centers globally.",
+                "By eliminating intensive refrigeration needs, operators can achieve drastic power savings while maintaining optimal processor performance.",
+                "The thermal architecture directly addresses grid strain, enabling sustainable scaling of next-generation physical AI computing factories."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: AI GOVERNANCE FORUM",
+            "heading": "SPACEX: SIXTY BILLION CURSOR ACQUISITION",
             "points": [
-                "The European Union established the Advisory Forum to provide critical technical expertise for AI Act enforcement.",
-                "The specialized body will advise the Commission, facilitating uniform compliance checks and standardized safety evaluations globally.",
-                "Creating centralized expert forums bridges the gap between fast-evolving generative architectures and rigorous governmental oversight frameworks.",
-                "Businesses must align their technical architectures with the Advisory Forum's guidelines to maintain European market access."
+                "SpaceX completed a sixty billion dollar acquisition of Cursor to dramatically expand its agentic software engineering capabilities.",
+                "The massive deal provides Cursor with critical capital and compute infrastructure needed to train advanced coding models.",
+                "Some analysts worry that SpaceX control could threaten the platform\u2019s neutrality and corporate trustworthiness within other enterprises.",
+                "This consolidation highlights the growing strategic value of autonomous code generation in high-stakes aerospace and defense industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
