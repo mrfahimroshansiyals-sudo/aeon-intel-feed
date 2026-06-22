@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS SOVEREIGN",
+        "titleWhite": "SOVEREIGN AGENTIC",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "COLLABORATIVE TECH: AGENTIC DISCOVERY",
+            "heading": "MICROSOFT: CHEVRON POWER ALLIANCE",
             "points": [
-                "Microsoft, Google, and Cisco proposed Agentic Resource Discovery to help AI agents autonomously find required runtime tools.",
-                "This standardized discovery protocol eliminates manually hardcoded API integrations, enabling dynamic multi-agent coordination across disparate enterprise cloud platforms.",
-                "Enterprises can now deploy scalable agent federations that self-assemble workflows based on real-time resource availability and capabilities.",
-                "This architectural shift marks the transition from static service-oriented structures to highly adaptive, self-configuring agentic compute environments."
+                "Chevron and Microsoft partnered to fuel West Texas artificial intelligence data centers utilizing local natural gas resources.",
+                "The collaboration addresses critical grid limitations by establishing dedicated on-site power generation for advanced cloud computing workloads.",
+                "This deal highlights the growing necessity of direct energy sourcing for scaling next-generation infrastructure safely.",
+                "Hyperscalers are increasingly bypassing traditional utility grids to secure reliable energy for massive AI compute clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.bloomberg.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SOVEREIGN VAULT SECURED",
+            "heading": "GOOGLE: AGENTIC PLATFORM DEPLOYMENT",
             "points": [
-                "Nvidia integrated OpenBao, an open-source HashiCorp Vault alternative, to bolster digital sovereignty and secure its infrastructure secrets.",
-                "This transition addresses growing international compliance anxieties regarding proprietary licensing changes in critical cryptographic management software systems.",
-                "The deployment establishes open-source security baselines across global AI factories, ensuring vendor-neutral access control and identity validation.",
-                "Global enterprises are projected to mirror this migration to maintain uninterrupted compliance with strict regional sovereign data laws."
+                "Google Cloud debuted Gemini 3.5 alongside Gemini Omni to power autonomous agent orchestration across corporate networks.",
+                "The enterprise-ready framework enables complex task execution and real-time data analysis across decentralized database architectures.",
+                "This release signals Google's aggressive pivot from basic copilot models to fully autonomous action-oriented AI systems.",
+                "Enterprise developers can now build and deploy specialized agent networks with minimized configuration and governance bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "APPIA FOUNDATION: COMPLIANCE FRAMEWORK",
+            "heading": "TECH LEADING: AGENTIC RESOURCE DISCOVERY",
             "points": [
-                "Google and Microsoft launched the Appia Foundation to provide rigorous evaluation specifications proving enterprise AI system compliance.",
-                "The collective aims to standardise behavioral audits without imposing rigid regulations, enabling cross-border validation of autonomous agents.",
-                "Enterprises can utilize these open metrics to verify that neural network outputs conform to strict corporate safety guidelines.",
-                "This self-regulatory initiative helps mitigate legal liability before governments enact formal audit mandates across the AI industry."
+                "Microsoft, Google, and Cisco proposed the Agentic Resource Discovery specification to standardize tool identification for AI.",
+                "The framework solves the critical challenge of autonomous agents locating and accessing necessary tools across environments.",
+                "Establishing this standard prevents integration fragmentation as enterprise architectures rapidly adopt multi-agent deployment strategies.",
+                "Dynamic asset discovery will allow disparate autonomous agents to cooperate seamlessly within complex hybrid cloud networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: HYBRID QUANTUM ADVANCEMENT",
+            "heading": "NVIDIA: OPENBAO SECURITY ADOPTION",
             "points": [
-                "AMD launched a critical research initiative focusing on hybrid quantum-classical computing platforms to accelerate next-generation AI workloads.",
-                "Integrating quantum processing units with classical EPYC processors reduces extreme latency overheads associated with complex cryptographic tasks.",
-                "The architecture allows researchers to offload probabilistic calculations to quantum hardware while executing deterministic data parsing on silicon.",
-                "This technology will provide massive performance gains for advanced modeling, secure communication networks, and quantum-safe hardware solutions."
+                "Nvidia adopted OpenBao to secure its high-performance compute environments amidst growing global digital sovereignty anxieties.",
+                "The open-source fork of HashiCorp Vault ensures robust cryptographic key management without proprietary licensing constraints.",
+                "Utilizing open-source security frameworks strengthens trust and deployment flexibility for international sovereign cloud infrastructure partners.",
+                "This transition underlines a broader enterprise migration toward open governance structures for critical security operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: SOVEREIGN COMPUTER ALLIANCE",
+            "points": [
+                "AMD partnered with Dell and University of Cambridge to launch the United Kingdom Sovereign AI Innovation Lab.",
+                "The initiative deploys high-density rack-scale EPYC CPU architectures to accelerate advanced scientific research and computing power.",
+                "This deployment reinforces European efforts to establish independent computing resources, mitigating reliance on foreign cloud providers.",
+                "Localized supercomputing clusters ensure critical research data remains strictly within national regulatory and physical jurisdictions."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "EUROPEAN UNION: AI ADVISORY FORUM",
-            "points": [
-                "The European Commission officially established the Advisory Forum to provide deep technical expertise regarding EU AI Act implementation.",
-                "This specialized body will directly advise the AI Board on standardizing compliance, risk classification, and audit methodologies.",
-                "Their mandate ensures that harmonized standards reflect real-world engineering realities rather than purely theoretical legislative requirements.",
-                "Global businesses operating in Europe must align their operational models with these coming technical definitions immediately."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "NVIDIA: HIGH-TEMPERATURE LIQUID COOLING",
+            "heading": "AMAZON: SECURING MACHINE OPERATIONS",
             "points": [
-                "Nvidia announced a breakthrough cooling system that operates efficiently using warm liquid at forty-five degrees Celsius.",
-                "This engineering milestone significantly reduces the massive energy footprint required to run hyperscale AI data centers globally.",
-                "By eliminating intensive refrigeration needs, operators can achieve drastic power savings while maintaining optimal processor performance.",
-                "The thermal architecture directly addresses grid strain, enabling sustainable scaling of next-generation physical AI computing factories."
+                "AWS introduced AWS Continuum to autonomously discover, prioritize, and remediate cloud infrastructure vulnerabilities at machine speed.",
+                "The platform replaces legacy periodic scanning with continuous, context-aware threat modeling across complex enterprise cloud networks.",
+                "Shifting to automated, agentic security operations allows organizations to counter AI-driven exploit vectors in real time.",
+                "Security teams can leverage validated remediation steps without slowing down continuous deployment pipelines or developer velocity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEX: SIXTY BILLION CURSOR ACQUISITION",
+            "heading": "EUROPEAN UNION: ACT ADVISORY BOARD",
             "points": [
-                "SpaceX completed a sixty billion dollar acquisition of Cursor to dramatically expand its agentic software engineering capabilities.",
-                "The massive deal provides Cursor with critical capital and compute infrastructure needed to train advanced coding models.",
-                "Some analysts worry that SpaceX control could threaten the platform\u2019s neutrality and corporate trustworthiness within other enterprises.",
-                "This consolidation highlights the growing strategic value of autonomous code generation in high-stakes aerospace and defense industries."
+                "The European Commission established the Advisory Forum to provide critical technical expertise for EU AI Act compliance.",
+                "The governing body will actively guide systemic risk assessments and transparency standards for general-purpose AI systems.",
+                "This operational step formalizes the enforcement framework as strict compliance deadlines approach for global technology providers.",
+                "Organizations must align their deployment strategies with specific Article fifty transparency rules to avoid severe penalties."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
