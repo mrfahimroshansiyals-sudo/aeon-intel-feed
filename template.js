@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "GLOBAL INFRASTRUCTURE",
+        "titleBlue": "REBOOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: CHEVRON POWER ALLIANCE",
+            "heading": "NVIDIA: PHYSICAL AI HALOS",
             "points": [
-                "Chevron and Microsoft partnered to fuel West Texas artificial intelligence data centers utilizing local natural gas resources.",
-                "The collaboration addresses critical grid limitations by establishing dedicated on-site power generation for advanced cloud computing workloads.",
-                "This deal highlights the growing necessity of direct energy sourcing for scaling next-generation infrastructure safely.",
-                "Hyperscalers are increasingly bypassing traditional utility grids to secure reliable energy for massive AI compute clusters."
+                "NVIDIA launched Halos for Robotics to establish the first full-stack safety system for physical AI.",
+                "The architecture integrates real-time risk assessment parameters directly into autonomous industrial machine control loops.",
+                "This framework resolves critical functional safety limitations currently hindering the widespread deployment of edge robotics.",
+                "System integrators can now deploy collaborative robots without risking catastrophic physical operational failures in factories."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.bloomberg.com/technology",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: AGENTIC PLATFORM DEPLOYMENT",
+            "heading": "SPACEX: REFLECTION DATA POWER",
             "points": [
-                "Google Cloud debuted Gemini 3.5 alongside Gemini Omni to power autonomous agent orchestration across corporate networks.",
-                "The enterprise-ready framework enables complex task execution and real-time data analysis across decentralized database architectures.",
-                "This release signals Google's aggressive pivot from basic copilot models to fully autonomous action-oriented AI systems.",
-                "Enterprise developers can now build and deploy specialized agent networks with minimized configuration and governance bottlenecks."
+                "SpaceX secured a massive six billion dollar computing power agreement with artificial intelligence startup Reflection.",
+                "The contract provisions high-density data center space to support next-generation agentic and world model training.",
+                "This partnership leverages Starlink aerospace infrastructure to establish highly distributed sovereign computing nodes globally.",
+                "Hyperscale operators face intense pressure as aerospace networks aggressively enter the commercial raw computing market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECH LEADING: AGENTIC RESOURCE DISCOVERY",
+            "heading": "ALPHABET: TALENT DRAIN SHOCK",
             "points": [
-                "Microsoft, Google, and Cisco proposed the Agentic Resource Discovery specification to standardize tool identification for AI.",
-                "The framework solves the critical challenge of autonomous agents locating and accessing necessary tools across environments.",
-                "Establishing this standard prevents integration fragmentation as enterprise architectures rapidly adopt multi-agent deployment strategies.",
-                "Dynamic asset discovery will allow disparate autonomous agents to cooperate seamlessly within complex hybrid cloud networks."
+                "Alphabet suffered a major market-cap wipeout following the high-profile defection of its top AI scientists.",
+                "Gemini co-lead Noam Shazeer joined OpenAI while DeepMind researcher John Jumper transitioned to Anthropic.",
+                "These executive departures highlight escalating competition for elite talent capable of engineering frontier AGI systems.",
+                "Public markets are increasingly penalizing legacy hyperscalers that fail to retain core generative architecture innovators."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: OPENBAO SECURITY ADOPTION",
+            "heading": "CHEVRON: MICROSOFT POWER DEAL",
             "points": [
-                "Nvidia adopted OpenBao to secure its high-performance compute environments amidst growing global digital sovereignty anxieties.",
-                "The open-source fork of HashiCorp Vault ensures robust cryptographic key management without proprietary licensing constraints.",
-                "Utilizing open-source security frameworks strengthens trust and deployment flexibility for international sovereign cloud infrastructure partners.",
-                "This transition underlines a broader enterprise migration toward open governance structures for critical security operations."
+                "Chevron and Microsoft finalized a twenty-year natural gas agreement to directly power Texas data centers.",
+                "The infrastructure integration features gas-fired power production plants built directly inside the cloud computing campus.",
+                "This alliance bypasses traditional electrical grid bottleneck constraints to ensure uninterrupted high-density microchip operation.",
+                "Energy independence will increasingly dictate which cloud platforms can successfully scale next-generation model training workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: SOVEREIGN COMPUTER ALLIANCE",
+            "heading": "FIVE EYES: AI THREAT WARNING",
             "points": [
-                "AMD partnered with Dell and University of Cambridge to launch the United Kingdom Sovereign AI Innovation Lab.",
-                "The initiative deploys high-density rack-scale EPYC CPU architectures to accelerate advanced scientific research and computing power.",
-                "This deployment reinforces European efforts to establish independent computing resources, mitigating reliance on foreign cloud providers.",
-                "Localized supercomputing clusters ensure critical research data remains strictly within national regulatory and physical jurisdictions."
+                "The Five Eyes intelligence alliance warned that AI-powered cyber threats could succeed within months.",
+                "Global governments caution that Western technology advantages are rapidly eroding against highly coordinated adversary developments.",
+                "Sovereign defensive frameworks must shift immediately to automated threat mitigation models to protect national databases.",
+                "Corporate enterprises must deploy zero-trust agentic security systems to withstand highly sophisticated automated compromise campaigns."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMAZON: SECURING MACHINE OPERATIONS",
+            "heading": "EUROPE: VERA RUBIN DEPLOYMENT",
             "points": [
-                "AWS introduced AWS Continuum to autonomously discover, prioritize, and remediate cloud infrastructure vulnerabilities at machine speed.",
-                "The platform replaces legacy periodic scanning with continuous, context-aware threat modeling across complex enterprise cloud networks.",
-                "Shifting to automated, agentic security operations allows organizations to counter AI-driven exploit vectors in real time.",
-                "Security teams can leverage validated remediation steps without slowing down continuous deployment pipelines or developer velocity."
+                "Europe launched thirty-five new supercomputers utilizing the advanced NVIDIA Vera Rubin platform and Vera CPUs.",
+                "These scientific installations deliver native double-precision performance optimized specifically for agentic research workloads.",
+                "This deployment establishes high-performance computing sovereignty across European research centers and national industrial labs.",
+                "Scientists will leverage these exascale systems to rapidly accelerate breakthroughs in physics and molecular simulation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: ACT ADVISORY BOARD",
+            "heading": "AWS: CONTINUUM SECURITY ENGINE",
             "points": [
-                "The European Commission established the Advisory Forum to provide critical technical expertise for EU AI Act compliance.",
-                "The governing body will actively guide systemic risk assessments and transparency standards for general-purpose AI systems.",
-                "This operational step formalizes the enforcement framework as strict compliance deadlines approach for global technology providers.",
-                "Organizations must align their deployment strategies with specific Article fifty transparency rules to avoid severe penalties."
+                "Amazon Web Services introduced AWS Continuum to automate code security at machine execution speed.",
+                "The model-agnostic service continuously scans, prioritizes, and remediates code vulnerabilities across enterprise development pipelines.",
+                "This launch transitions enterprise cybersecurity from passive monitoring postures into active, automated remediation cycles.",
+                "Development organizations can now safely deploy autonomous coding agents while maintaining strict regulatory compliance baselines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
