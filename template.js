@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC SYSTEM",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: HALOS ROBOTICS SAFETY",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Nvidia introduces Halos for Robotics, the industry's first full-stack safety system for physical autonomous systems.",
-                "The platform accelerates real-time edge processing and sensor integration to safely deploy automated warehouse agents.",
-                "This framework addresses deterministic control barriers, combining physical safety layers with generative neural network systems.",
-                "Global manufacturing fleets can scale human-robot collaboration while achieving rigorous international functional safety standards."
+                "NVIDIA launched the BioNeMo Agent Toolkit to deliver specialized tools for agentic life sciences discovery.",
+                "The platform accelerates molecular simulations and biochemical modeling using highly optimized containerized agent frameworks.",
+                "Deep integration with custom bio-large language models enables autonomous hypothesis generation across research labs.",
+                "Biopharma developers can now scale target identification pipelines with enterprise-grade security and verification protocols."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ASML: HIGH-NA EUV LITHOGRAPHY",
+            "heading": "ENTERPRISEDB: AI DATA UNIFICATION",
             "points": [
-                "ASML deploys its state-of-the-art four-hundred-million-dollar High-NA EUV lithography system for advanced microchip fabrication.",
-                "This ultra-precise hardware patterns sub-two-nanometer silicon architectures, doubling transistor densities for future hardware iterations.",
-                "The system addresses physical scaling limits by employing advanced anamorphic optics to pattern complex molecular layers.",
-                "Chipmakers acquire the critical infrastructure necessary to power next-generation agentic artificial intelligence supercomputer clusters."
+                "EnterpriseDB introduced advanced PostgreSQL features to unify distributed database assets for agentic application development.",
+                "These capabilities directly mitigate enterprise data sprawl that historically stalls deep learning model deployments.",
+                "Enhanced vector indexing and localized caching allow developers to query legacy systems with minimal latency.",
+                "IT administrators can seamlessly bridge operational databases and remote AI agents without complex pipeline engineering."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AWS: CONTINUUM MACHINE SECURITY",
+            "heading": "MICROSOFT: HORIZONDB LAUNCH",
             "points": [
-                "Amazon Web Services launches AWS Continuum to automate frontier-model-driven software vulnerability detection and patching.",
-                "Automated scanning continuously evaluates thousands of active repositories, reducing critical threat mitigation windows to minutes.",
-                "The engine integrates context-aware threat modeling directly within existing continuous deployment pipelines to secure workloads.",
-                "Enterprise development teams completely shift from manual security audits to automated, autonomous patch validation cycles."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: EPYC MEMORY OPTIMIZATION",
-            "points": [
-                "AMD integrates newly acquired MEXT software to enhance memory access and bandwidth optimization for EPYC processors.",
-                "Rack-scale server setups achieve substantial latency reductions when running intensive multi-agent AI execution pipelines.",
-                "This acquisition addresses hardware bottlenecks by managing complex thread allocation across heterogeneous high-performance computing clusters.",
-                "Enterprise clients can scale massive agentic reasoning loops locally without requiring costly public cloud infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
-            "points": [
-                "Mistral AI unmasks Vibe, an autonomous agent platform tailored for long-horizon operational workflows and coding.",
-                "Enterprises deploy persistent digital agents capable of executing complex code, document synthesis, and task scheduling.",
-                "The model incorporates dynamic tool discovery and specialized memory structures to retain operational state across iterations.",
-                "Corporate departments shift legacy business intelligence models into completely automated, self-correcting strategic decision engines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AZURE: HORIZONDB AI ENGINE",
-            "points": [
-                "Microsoft introduces Azure HorizonDB, engineered to bring ultra-low latency reads and native AI to PostgreSQL.",
-                "Applications process petabyte-scale transactions while executing contextual vector queries directly within the core relational database.",
-                "The system unifies structured data assets with agent-ready context layers, bypassing slow external API extraction pipelines.",
-                "System architects build highly responsive AI agents grounded directly on secure, transactionally consistent enterprise cloud storage."
+                "Microsoft unveiled HorizonDB, a high-performance PostgreSQL engine featuring ultra-low latency reads and built-in intelligence.",
+                "The database architecture scales mission-critical applications by natively optimizing transactional and analytical processing workloads.",
+                "Integrating HorizonDB with Microsoft Fabric establishes a secure, unified data plane for complex agentic workflows.",
+                "Enterprises can deploy resilient systems that automatically adjust computing resources based on real-time query demands."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SPACEX: CURSOR ENGINE ACQUISITION",
+            "id": 4,
+            "heading": "AWS: CONTINUOUS MODERNIZATION DEVOPS",
             "points": [
-                "SpaceX completes the strategic sixty-billion-dollar acquisition of Cursor to secure proprietary agentic software development frameworks.",
-                "The transaction integrates advanced AI pair programmers to automate critical launch and structural system simulation.",
-                "This acquisition couples deep telemetry data with localized, high-speed coding agents to accelerate orbital software iterations.",
-                "Defense and aerospace sectors move rapidly toward self-compiling, mission-critical codebase maintenance and real-time error correction."
+                "AWS introduced DevOps Agent and AWS Transform to automate continuous technology debt analysis and remediation.",
+                "The system autonomously scans thousands of repositories to deploy verified code patches directly into pipelines.",
+                "Shifting release management into machine-speed loops reduces manual developer intervention in legacy code maintenance.",
+                "Engineering teams can maintain high software velocity without risking architectural instability or accumulating structural technical debt."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: ADVANCED SUPERCOMPUTING POWER",
+            "points": [
+                "AMD powered four of the ten most powerful global supercomputers to advance high-performance computing leadership.",
+                "The company completed its acquisition of MEXT to integrate high-efficiency memory optimization technology into processors.",
+                "Synergizing rack-scale CPU performance with memory innovations satisfies the intense compute demands of agentic architectures.",
+                "Researchers can now run massive physics simulations and deep learning workloads at unprecedented energy efficiency levels."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
+            "points": [
+                "Mistral AI announced Mistral OCR 4 to enable high-accuracy document intelligence and unstructured data extraction.",
+                "The model integrates with the new Vibe agent platform to automate long-horizon complex cognitive enterprise tasks.",
+                "Deploying specialized vision-language capabilities allows organizations to parse dense financial and scientific documents with ease.",
+                "Developers can host these highly localized models across edge devices or secure private cloud environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE",
+            "points": [
+                "Google Cloud launched AI Threat Defense to proactively safeguard enterprise environments against advanced agentic security risks.",
+                "The system leverages Gemini intelligence to discover, validate, and remediate cloud vulnerabilities in real-time.",
+                "Traditional reactive monitoring models are replaced with autonomous, continuous posture evaluation across all network layers.",
+                "Security operations centers can now outpace adversaries by deploying self-healing configurations across distributed multi-cloud architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
