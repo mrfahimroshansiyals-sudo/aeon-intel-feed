@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "REBOOT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "NVIDIA released the BioNeMo Agent Toolkit to deliver specialized, domain-specific AI orchestration tools for advanced scientific discovery.",
-                "The platform accelerates early-stage drug design pipelines, enabling researchers to execute complex molecular simulations in parallel.",
-                "This release transitions physical biology from manual scientific testing to highly automated, agentic computational modeling at scale.",
-                "Global pharmaceutical firms will bypass legacy infrastructure, deploying autonomous agents directly to cloud-based biological simulation environments."
+                "Nvidia launched the BioNeMo Agent Toolkit offering specialized developer tools for autonomous life sciences research agents.",
+                "The platform enables molecular design scaling and structural predictions through optimized containerized agent workflows.",
+                "Researchers can now integrate LLMs with biological simulation frameworks seamlessly across GPU-accelerated infrastructure.",
+                "This toolkit accelerates therapeutic discovery timelines by automating target identification and validation pipeline execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "EDB: POSTGRESQL AGENTIC CONVERGENCE",
             "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency, scalable reads, and built-in artificial intelligence for PostgreSQL.",
-                "It optimizes high-throughput transactional database systems, reducing compute-intensive queries while maintaining high availability under heavy workloads.",
-                "This integration bridges structured corporate data directly to autonomous agents without relying on third-party analytical pipelines.",
-                "Enterprise developers can build responsive, memory-persistent applications that adapt dynamically to massive, real-time database modifications."
+                "EnterpriseDB merged real-time analytical capabilities directly into PostgreSQL to eliminate enterprise data sprawl bottlenecks.",
+                "The unified engine allows transactional databases to power agentic AI retrieval systems with minimal operational latency.",
+                "Organizations can deploy autonomous database agents without maintaining separate analytics and transactional storage layers.",
+                "This convergence simplifies enterprise architecture, enabling rapid scaling of production-ready localized retrieval networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: ENTERPRISE ORCHESTRATION",
+            "heading": "WHITE HOUSE: FEDERAL POST-QUANTUM CRYPTO",
             "points": [
-                "Mistral AI introduced OCR Four and Vibe to drive autonomous execution of long-horizon enterprise workflows and code.",
-                "Developers can deploy Vibe to coordinate multi-step tasks, schedule complex processes, and resolve asynchronous technical debt.",
-                "These tools establish a highly portable agent orchestration framework capable of running on edge or cloud infrastructure.",
-                "Corporations will transition from simple assistive copilots toward fully independent, goal-oriented software agents operating within production environments."
+                "New federal executive orders mandate swift implementation of quantum-resistant encryption across all government agency databases.",
+                "Contractors must align architecture with post-quantum standards to defend against retroactive decryption of harvested data.",
+                "This regulatory push accelerates enterprise adoption of cryptographic agility frameworks within federal cloud infrastructures.",
+                "Security leaders must immediately audit legacy endpoints to transition systemic data assets to validated quantum-safe networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AWS: CONTINUUM SECURITY DEFENSE",
+            "heading": "OPENAI: AUTOMATED VULNERABILITY MITIGATION",
             "points": [
-                "AWS launched Continuum, an automated security service designed to discover and remediate code vulnerabilities at machine speed.",
-                "The platform monitors repositories continuously, validating and executing precise code fixes without requiring manual IT intervention.",
-                "This technology shifts security engineering from reactive, storage-based log analysis to proactive, context-aware autonomous software remediation.",
-                "Development teams will dramatically accelerate safe software deployment cycles while eliminating critical administrative overhead and zero-day threat exposures."
+                "OpenAI initiated an automated initiative utilizing specialized agents to identify and patch security flaws in open-source software.",
+                "The system accelerates code review cycles, reducing human developer verification efforts for critical infrastructure libraries.",
+                "Automated patching mitigates supply chain risks before adversaries can weaponize newly discovered software vulnerabilities.",
+                "This system shifts software maintenance towards autonomous, self-healing codebases throughout the global development ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENTERPRISEDB: AI DATA UNIFICATION",
+            "heading": "CDATA: UNIFIED AI DATA INTEGRATION",
             "points": [
-                "EnterpriseDB unveiled advanced data capabilities designed to unify disparate databases for streamlined, high-performance artificial intelligence development.",
-                "The update addresses enterprise database sprawl, ensuring consistent, clean feeds reach autonomous agents without duplicating massive storage.",
-                "Unifying internal data lakes simplifies complex information retrieval pipelines, boosting the dynamic reasoning performance of AI applications.",
-                "Modern IT organizations will deploy highly specialized domain agents that navigate federated corporate assets without security friction."
+                "CData released advanced capabilities to simplify data integration pipelines for enterprise artificial intelligence development.",
+                "The updates reduce manual ETL tasks, instantly connecting distributed databases directly to live LLM context windows.",
+                "Developers can now orchestrate high-throughput pipelines without writing fragile custom connector code for each platform.",
+                "This technical integration establishes a robust data foundation essential for scaling real-time agentic enterprise systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MULTI-VENDOR: AGENTIC RESOURCE DISCOVERY",
+            "heading": "BACKBLAZE: COREWEAVE CLOUD ALLIANCE",
             "points": [
-                "Microsoft, Google, and Cisco proposed a collaborative specification for automated Agentic Resource Discovery across enterprise systems.",
-                "The protocol enables sovereign AI agents to automatically locate, authenticate, and connect with necessary third-party network tools.",
-                "This standard addresses the missing interoperability layer, allowing distributed agents to exchange resources without custom integrations.",
-                "Interconnected digital ecosystems will emerge, allowing autonomous systems to dynamically purchase and trade specialized computing services."
+                "Backblaze partnered with CoreWeave to integrate high-speed object storage directly with specialized GPU-accelerated computing nodes.",
+                "The architecture optimizes pipeline latency, allowing developers to train large models on massive datasets seamlessly.",
+                "This alliance provides an alternative infrastructure stack, bypassing traditional hyperscaler storage constraints and high egress costs.",
+                "Enterprises gain high-performance, cost-effective storage pipelines crucial for scaling demanding next-generation deep learning operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: EPYC SILICON OPTIMIZATION",
+            "heading": "ORACLE: INFRASTRUCTURE RESTRUCTURING DRIVE",
             "points": [
-                "AMD optimized its EPYC CPUs to deliver rack-scale performance tailored for high-concurrency, autonomous agentic reasoning workloads.",
-                "This silicon architecture maximizes compute efficiency, dramatically decreasing power demands during continuous multi-agent system execution loops.",
-                "The physical design addresses memory bottle-necks, ensuring prompt processing speeds scale linearly across massive hardware deployments.",
-                "Infrastructure architects will shift high-density processing on-premises, gaining digital sovereignty and reducing reliance on cloud-only GPU environments."
+                "Oracle eliminated twenty-one thousand jobs while substantially escalating capital expenditure for specialized global AI infrastructure.",
+                "The corporate restructuring shifts capital resources from legacy support structures toward hyper-scale cloud data centers.",
+                "This massive financial pivot highlights the enterprise transition toward fully automated, agent-driven customer service systems.",
+                "Organizations must adapt to a landscape dominated by hyper-optimized, low-overhead cloud infrastructure providers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
