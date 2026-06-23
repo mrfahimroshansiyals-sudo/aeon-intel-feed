@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AUTONOMOUS COMPUTATIONAL",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: MODEL COMPUTE PROVISION",
+            "heading": "SPACEX: COMPUTE ARCHITECTURE EXPANSION",
             "points": [
-                "SpaceX signs a massive six billion dollar infrastructure and compute agreement with open source startup Reflection.",
-                "The enterprise deal secures robust high density infrastructure assets representing up to six point three billion dollars.",
-                "This partnership positions the aerospace giant directly as a sovereign high performance computing hardware utility supplier.",
-                "Model developers will increasingly rely on alternative private aerospace networks for uncensored high throughput GPU workloads."
+                "SpaceX secured a landmark computing power contract with open-source artificial intelligence developer Reflection.",
+                "The transaction is valued up to six point three billion dollars to scale high-performance computing resources.",
+                "This initiative positions the aerospace firm directly as a primary supplier of sovereign deep-tech infrastructure.",
+                "Enterprise clients will bypass traditional hyperscalers to access direct, high-capacity physical AI modeling pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.cnbc.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: ROBOTIC SAFETY HALOS",
+            "heading": "NVIDIA: ROBOTIC SAFETY FRAMEWORK",
             "points": [
-                "NVIDIA launches Halos for Robotics to establish the first full stack safety system for physical intelligence.",
-                "This environment provides comprehensive protection mechanisms protecting physical machinery from edge software execution errors.",
-                "Integrating real time verification blocks into robotic models guarantees safe operation across volatile industrial settings.",
-                "Manufacturers will rapidly deploy autonomous systems without fearing catastrophic hardware failure during edge processing loops."
+                "Nvidia unveiled Halos for Robotics, the market's first complete physical artificial intelligence protection mechanism.",
+                "The platform guarantees real-time structural boundary enforcement to eliminate industrial automation operational anomalies.",
+                "Software layers integrate natively with autonomous systems to standardize physical compliance across heterogeneous hardware.",
+                "Industrial operators can deploy autonomous machine fleets with certified safety assurances, mitigating liability risks."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AWS: CONTINUOUS EXPLOIT REMEDIATION",
+            "heading": "AWS: CONTINUUM SECURITY AUTOMATION",
             "points": [
-                "AWS introduces Continuum to continuously discover, prioritize, validate, and remediate application code vulnerabilities.",
-                "The autonomous pipeline minimizes security response times from days to minutes across enterprise cloud deployments.",
-                "This deployment shifts classical security scanning protocols from reactive posture analysis to automated pipeline execution.",
-                "Enterprise developers will achieve zero trust software delivery loops without requiring manual code review bottlenecks."
+                "Amazon Web Services launched AWS Continuum to continuously detect and repair software vulnerabilities using AI.",
+                "The deployment accelerates patch validation timelines from weeks down to mere hours for legacy applications.",
+                "Autonomous agents execute validation loops within isolated sandboxes to protect live enterprise production pipelines.",
+                "Chief Information Security Officers will shift defensive posture from reactive observation to automated preventive remediation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://aws.amazon.com/blogs/aws",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FABRIC AGENT BACKEND",
+            "heading": "META: WHATSAPP LEADERSHIP TRANSITION",
             "points": [
-                "Microsoft Azure launches Rayfin, a fully managed agent optimized backend service native to Fabric.",
-                "Autonomous software agents can execute database transactions and run background tasks with minimal application latency.",
-                "The architecture represents a vital transition toward decentralized database backends designed exclusively for autonomous agents.",
-                "Engineering teams will deploy highly complex multi agent workflows without managing complex underlying database connections."
+                "Meta appointed Indian fintech entrepreneur Kunal Shah to lead global operations for WhatsApp messaging platform.",
+                "The executive change seeks to accelerate transactional artificial intelligence features across hundreds of millions of users.",
+                "Legacy consumer pipelines are shifting toward integrated, agentic transaction layers built on internal open models.",
+                "Global enterprises will soon utilize WhatsApp as a primary channel for fully autonomous customer acquisitions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOS ALAMOS: AGENTIC SCIENCE WORKLOADS",
+            "heading": "CHEVRON: GEOTHERMAL DATA INFRASTRUCTURE",
             "points": [
-                "Los Alamos National Laboratory selects the NVIDIA Vera CPU to power advanced agentic scientific AI.",
-                "Researchers can leverage extreme memory bandwidth to process complex simulations and experimental datasets in real time.",
-                "The integration highlights a global migration towards highly specialized silicon optimized for automated scientific discovery.",
-                "Sovereign research institutions will soon utilize automated agents to independently formulate and test scientific hypotheses."
+                "Chevron finalized a twenty-year agreement with Microsoft to construct custom power-producing artificial intelligence data centers.",
+                "Co-located gas-fired and renewable power plants will provide dedicated megawatt capacity directly to adjacent workloads.",
+                "The strategy decouples hyperscale data center operations from fragile public grids, guaranteeing continuous uptime.",
+                "Heavy industries will increasingly build sovereign on-site generation resources to support high-density computing arrays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: ARTIFACT COLLABORATION MATRIX",
+            "heading": "AMD: MEMORY OPTIMIZATION ACQUISITION",
             "points": [
-                "Anthropic enhances Claude Artifacts to transform enterprise collaboration and streamline real time joint document authoring.",
-                "Teams experience significant productivity gains by generating and editing complex software code blocks side by side.",
-                "The feature demonstrates how modern chat interfaces are evolving into dynamic workspace canvases for multi agent cooperation.",
-                "Organizations will phase out traditional productivity suites in favor of persistent agentic generation environments."
+                "Advanced Micro Devices completed the acquisition of MEXT to integrate advanced silicon memory optimization technologies.",
+                "The acquisition reduces memory latency overheads, boosting throughput for complex agentic rack-scale workload executions.",
+                "Hardware upgrades allow tighter integration between graphical processors and system memory across enterprise servers.",
+                "Cloud architects can deploy larger foundation models on smaller, highly efficient hardware footprints without bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com/en/corporate/newsroom",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BAIN: SOFTWARE TARGET CLONING",
+            "heading": "EU COMMISSION: ADVISORY FORUM INITIATION",
             "points": [
-                "Bain begins testing potential software acquisition targets by deploying simulated target company artificial intelligence replicas.",
-                "Analysts evaluate core product capabilities and scale liabilities within a secure virtual environment prior to bidding.",
-                "Using synthetic instances for corporate due diligence represents a major paradigm shift in corporate financial engineering.",
-                "Investment firms will execute highly automated risk assessments before committing physical capital to software mergers."
+                "The European Commission formalized the Advisory Forum to provide mandatory technical guidance under the AI Act.",
+                "Over one hundred global enterprises must align operating models with upcoming high-risk transparency classification standards.",
+                "Compliance frameworks necessitate real-time logging, bias auditing, and model explainability standards across corporate databases.",
+                "Technology developers must implement strict regulatory guardrails to maintain operational access to European digital markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
