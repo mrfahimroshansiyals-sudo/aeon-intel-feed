@@ -1,82 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "SOVEREIGN DATA INTELLIGENCE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CEREBRAS: EARNINGS DEBUT",
+            "heading": "ENTERPRISEDB: POSTGRES AGENTIC COALESCENCE",
             "points": [
-                "Cerebras launched its inaugural public quarterly earnings report, beating sales targets but forecasting compressed future margins.",
-                "The hardware upstart saw after-hours share prices plummet ten percent despite raising its full-year guidance.",
-                "This market reaction underscores intense capital competition within the specialized wafer-scale AI accelerator hardware ecosystem.",
-                "Hardware buyers must evaluate long-term merchant silicon viability as hyperscale cloud providers build custom chips."
+                "EnterpriseDB converged transactional and analytical database engines directly on PostgreSQL to power autonomous agent operations.",
+                "The architectural change resolves complex data sprawl barriers that previously stalled enterprise-scale agentic development cycles.",
+                "Consolidating analytical workloads prevents database replication latency and maintains real-time operational context for localized models.",
+                "Enterprise architects can now run dense analytical queries directly within transaction logs without external pipeline tools."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ALPHABET: DOW JONES INCLUSION",
+            "heading": "OPENAI: AI-LED VULNERABILITY REMEDIATION",
             "points": [
-                "Google parent Alphabet officially joins the Dow Jones Industrial Average, replacing veteran telecom provider Verizon.",
-                "This restructuring shifts market capitalization weight away from legacy telecommunications to AI-driven computing platforms.",
-                "The transition highlights the absolute dominance of scalable hyper-scaler cloud networks in global corporate infrastructure.",
-                "Enterprise architects should align their long-term roadmaps with core cloud providers driving massive capital expenditures."
+                "OpenAI deployed automated agentic workflows designed specifically to identify and remediate vulnerabilities in open-source libraries.",
+                "Automated code auditing reduces critical software patch cycles from several weeks down to mere seconds.",
+                "Shifting secure development lifecycles to AI-driven models hardens foundational digital infrastructure against supply chain exploits.",
+                "Security teams must transition from manual penetration testing to continuous, model-driven verification and validation pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT LAUNCH",
+            "heading": "GLOBAL COALITION: SOVEREIGN HARDWARE PACT",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to deliver domain-specific tools for autonomous biological discovery.",
-                "The toolkit accelerates molecular design and protein folding pipelines by automating complex laboratory data workflows.",
-                "By running containerized edge microservices, the system integrates sovereign scientific computation with secure local databases.",
-                "Pharmaceutical enterprises will increasingly deploy autonomous agentic workflows to reduce preclinical molecule discovery timelines significantly."
+                "European Union allies formally joined a United States technology treaty designed to secure global semiconductor supply chains.",
+                "The alliance reduces Western dependency on Chinese hardware fabrication facilities through diversified regional manufacturing investments.",
+                "Deepening geopolitical alliances establishes a multi-national framework for resilient, secure, and highly audited computational hardware.",
+                "Multinational enterprises face shifting regulatory landscapes requiring verified provenance for all regional AI infrastructure nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB DEBUT",
+            "heading": "PURE STORAGE: EVERPURE DATASTREAM PIPELINE",
             "points": [
-                "Microsoft launched Azure HorizonDB to bring ultra-low latency reads and native AI capabilities to PostgreSQL.",
-                "The database architecture supports million-scale vector searches with sub-millisecond response rates for agentic software applications.",
-                "Deep integration with Microsoft Fabric allows autonomous systems to query relational datasets without traditional pipeline bottlenecks.",
-                "Enterprise developers will transition from legacy data silos to real-time unified intelligence layers for agents."
+                "Pure Storage announced the Everpure Data Stream pipeline to accelerate data preparation for enterprise model training.",
+                "Streamlining pipeline processes drastically decreases ingestion delays for structured and unstructured enterprise storage architectures.",
+                "Rapid data readiness is critical as companies shift from static analytics toward real-time transactional AI models.",
+                "IT leaders can bypass heavy ETL operations and deliver high-throughput, clean data vectors directly to endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PURE STORAGE: EVERPURE DATA STREAM",
+            "heading": "CDATA: STREAMLINED DATA INTEGRATION ENGINE",
             "points": [
-                "Pure Storage unveiled the Everpure Data Stream platform to automate structured pipeline preparation for enterprise AI.",
-                "The framework ingests and prepares unstructured data streams up to ten times faster than manual pipelines.",
-                "This data engine decouples persistent storage layers from compute, allowing seamless real-time processing of models.",
-                "Organizations will minimize operational expenses by utilizing direct-to-storage processing rather than heavy database duplication engines."
+                "CData introduced native integrations that connect siloed operational databases directly to agentic application frameworks.",
+                "Minimizing custom coding requirements simplifies developer pipelines and accelerates the deployment of contextual business assistants.",
+                "Simplifying the structural connections between legacy databases and modern models removes deployment friction for enterprise teams.",
+                "Software developers can focus on agent reasoning loops rather than maintaining complex database connector configurations."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ENTERPRISEDB: POSTGRES AGENT CONVERGENCE",
+            "heading": "WHITE HOUSE: POST-QUANTUM CRYPTO DEADLINES",
             "points": [
-                "EnterpriseDB integrated advanced analytical capabilities directly into PostgreSQL databases to mitigate sprawling corporate data environments.",
-                "The update allows transactional databases to run complex analytics with zero performance degradation on core tables.",
-                "This architectural convergence provides localized memory and tools specifically optimized for autonomous software agent execution.",
-                "Database administrators will consolidate redundant analytical layers, lowering total cost of ownership for localized deployments."
+                "The White House issued strict executive mandates establishing transition deadlines for post-quantum cryptographic compliance across agencies.",
+                "Federal systems and private contractors must rapidly implement quantum-resistant encryption protocols to protect sensitive state data.",
+                "Proactive defense measures mitigate harvest-now-decrypt-later tactics employed by adversarial nations targeting traditional public key infrastructure.",
+                "Enterprise cybersecurity strategies must immediately integrate cryptographic agility to withstand imminent threat vectors from advanced quantum systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EUROPE: DIGITAL SOVEREIGNTY DEBATE",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT LAUNCH",
             "points": [
-                "European digital policy experts warn that strict sovereign cloud mandates could isolate regional enterprise computing networks.",
-                "Compliance requirements for the EU AI Act may increase operational costs for global hyper-scalers by thirty percent.",
-                "The divergence in regional security policies forces organizations to maintain fragmented multi-cloud application delivery architectures.",
-                "Sovereign entities must balance strict data security controls against the performance penalties of disconnected cloud ecosystems."
+                "NVIDIA released the BioNeMo Agent Toolkit to deliver domain-specific agent skills for complex biological simulations.",
+                "The toolkit enables researchers to orchestrate autonomous workflows that accelerate macromolecular design and genomic analysis.",
+                "Combining accelerated hardware computing with specialized biological models establishes a new paradigm for automated medical discoveries.",
+                "Pharmaceutical companies can scale discovery pipelines by deploying specialized agents capable of reasoning through chemical interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
