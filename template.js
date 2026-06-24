@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: CONTINUUM SECURITY SHIFT",
+            "heading": "AWS: AGENTCORE LAUNCH",
             "points": [
-                "AWS Continuum automates code vulnerability lifecycles using model-agnostic contextual analysis at machine execution speed.",
-                "The system initiates automated remediation in learn mode before graduating to continuous enforce mode.",
-                "Threat modeling algorithms automatically generate context-aware STRIDE mitigations directly from enterprise software design documents.",
-                "Continuous automated penetration testing replaces traditional quarterly scans with validated, reproducible proof-of-exploit mitigation paths."
+                "AWS released AgentCore and Quick to orchestrate persistent, multi-day autonomous AI agent workflows securely.",
+                "The platform connects enterprise databases to unified context graphs, reducing operational latency across cloud systems.",
+                "Developers can now deploy model-agnostic, isolated execution environments with continuous modernization and automated monitoring.",
+                "This architecture shifts enterprise cloud management from manual resource discovery to self-directed agentic action frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com/blogs/aws",
+                "Source: aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: BEDROCK AGENTCORE DEPLOYMENT",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Amazon Bedrock AgentCore provides an isolated configuration environment to build, connect, and optimize complex agents.",
-                "Embedded AWS Context engine maps organizational data into governed knowledge graphs queried dynamically during runtime execution.",
-                "Unified knowledge retrieval extends past basic RAG configurations to query distributed corporate databases and web sources.",
-                "Enterprise developers can rapidly switch foundational language models without reconfiguring autonomous agent pipelines or toolsets."
+                "Nvidia launched the BioNeMo Agent Toolkit to accelerate structural biology simulations using domain-specific workflows.",
+                "The software enables intelligent agents to execute automated physical molecular designs and speed drug discovery pipelines.",
+                "Integrating these agentic tools with accelerated supercomputing platforms significantly enhances multi-agent simulation scalability across laboratories.",
+                "Researchers expect the platform to automate complex scientific reasoning tasks, shortening pharmaceutical development timelines globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com/blogs/aws",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
+            "heading": "MICROSOFT: HORIZONDB DEPLOYMENT",
             "points": [
-                "Rayfin introduces an agent-optimized backend as a service natively integrated into the Microsoft Fabric platform.",
-                "Developers access fully managed, code-optimized SDKs to stream autonomous data operations across distributed cloud architectures.",
-                "Grounding operations utilize Foundry IQ context to map institutional knowledge securely into running agent instances.",
-                "The framework delivers high-performance database execution paths specifically designed for long-horizon automated machine workflows."
+                "Microsoft announced Azure HorizonDB, engineering an ultra-low latency PostgreSQL database optimized specifically for AI workloads.",
+                "The system delivers integrated AI capabilities directly into the database engine, reducing transactional execution bottlenecks.",
+                "Organizations can leverage Foundry IQ context layers to ground agent workflows in secure, real-time enterprise data.",
+                "This database layer prevents performance degradation while scaling mission-critical intelligent applications across distributed cloud infrastructures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB RELEASE",
+            "heading": "AMD: MEXT MEMORY OPTIMIZATION",
             "points": [
-                "Azure HorizonDB delivers ultra-low latency reads and native artificial intelligence integration to PostgreSQL database clusters.",
-                "Built-in optimization engines scale critical workloads without compromising performance during intensive multi-agent query executions.",
-                "The database architecture decouples legacy computing limits to support real-time data ingestion for downstream agent systems.",
-                "Enterprise operators can deploy scalable cloud storage options to mitigate database sprawl across hybrid software infrastructures."
+                "AMD acquired memory optimization startup MEXT to integrate advanced processing architectures into its AI hardware portfolio.",
+                "The transaction directly enhances silicon-level bandwidth, significantly boosting rack-scale EPYC processor execution efficiency and throughput.",
+                "This hardware-level integration reduces compute energy requirements, addressing critical power constraints facing modern data centers.",
+                "Analysts predict the strategic acquisition will fortify AMD's position in the global high-performance inference chip market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "SK HYNIX: NASDAQ EXPANSION",
             "points": [
-                "NVIDIA BioNeMo Agent Toolkit supplies domain-specific tools designed to accelerate autonomous molecular and biological discoveries.",
-                "The platform leverages specialized AI supercomputers to execute high-throughput virtual simulations of complex protein structures.",
-                "Biopharma researchers gain pre-trained agent skills to automate genomic sequence mapping and target compound identification processes.",
-                "Integration with Vera CPU infrastructure enables deep reasoning capabilities for autonomous scientific discovery pipelines at scale."
+                "South Korean memory pioneer SK Hynix planned a twenty-nine billion dollar Nasdaq listing to fund capacity.",
+                "The capital infusion will directly finance next-generation high-bandwidth memory production lines to satisfy global chip demand.",
+                "Establishing a US public footprint allows the company to secure strategic supply chains with global hyperscalers.",
+                "This historic public offering signals intensifying market competition over critical silicon infrastructure required for frontier systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: VIBE LONG-HORIZON ENGINE",
+            "heading": "MISTRAL AI: VIBE ENGINE",
             "points": [
-                "Mistral Vibe operates as an autonomous agent specialized in executing long-horizon tasks across enterprise systems.",
-                "The architecture features persistent memory alongside reusable skills to perform complex, multi-step scheduling and analysis workflows.",
-                "Vibe for Code brings terminal-native async code generation and automated CI/CD pipeline integration to developers.",
-                "Complete deployment portability lets enterprises run these orchestrations securely across private clouds or edge computing nodes."
+                "Mistral AI released Vibe and Mistral OCR Four, enabling autonomous long-horizon multi-step task execution for enterprises.",
+                "The software translates legacy code bases and automates complex continuous integration pipelines across diverse container platforms.",
+                "Deploying these agentic developer tools reduces structural tech debt without escalating operational model deployment costs.",
+                "This launch accelerates the transition of open-source artificial intelligence from passive assistants into proactive, sovereign workers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai/news",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENTERPRISEDB: POSTGRES ANALYTICS",
+            "heading": "US GOVERNMENT: QUANTUM MANDATE",
             "points": [
-                "EDB converges transactional and analytical processing workloads natively inside Postgres to support real-time autonomous agents.",
-                "Unified data storage eliminates architectural complexity, enabling immediate vector operations without external specialized data warehouse pipelines.",
-                "Unifying data layers solves widespread operational sprawl that historically limited enterprise agent deployment and model context windows.",
-                "Strategic database integration empowers downstream models to query analytical metrics directly from primary transactional databases safely."
+                "The White House issued executive mandates directing federal agencies to implement post-quantum cryptographic standards and compliance.",
+                "National security directives require prompt transition to quantum-resistant encryption protocols to protect highly classified intelligence assets.",
+                "Federal contractors must establish comprehensive software inventories to verify compliance before incoming defense procurement deadlines expire.",
+                "This policy initiative accelerates private sector migration toward cryptographic architectures designed to withstand future quantum adversaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
