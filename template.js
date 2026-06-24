@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "DECENTRALIZED ENTERPRISE",
+        "titleBlue": "SILICON"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE LAUNCH",
+            "heading": "OPENAI: JALAPE\u00d1O SILICON INITIATIVE",
             "points": [
-                "AWS released AgentCore and Quick to orchestrate persistent, multi-day autonomous AI agent workflows securely.",
-                "The platform connects enterprise databases to unified context graphs, reducing operational latency across cloud systems.",
-                "Developers can now deploy model-agnostic, isolated execution environments with continuous modernization and automated monitoring.",
-                "This architecture shifts enterprise cloud management from manual resource discovery to self-directed agentic action frameworks."
+                "OpenAI has collaborated with Broadcom to design and unveil its first custom-built inference processor named Jalape\u00f1o.",
+                "The novel custom silicon targets optimization of deep model inference while cutting dependence on third-party hardware manufacturers.",
+                "This development shifts the competitive landscape of hardware infrastructure, allowing OpenAI to run massive models more efficiently.",
+                "Enterprise developers can expect accelerated execution speeds and reduced operational costs for large-scale production agent deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "Nvidia launched the BioNeMo Agent Toolkit to accelerate structural biology simulations using domain-specific workflows.",
-                "The software enables intelligent agents to execute automated physical molecular designs and speed drug discovery pipelines.",
-                "Integrating these agentic tools with accelerated supercomputing platforms significantly enhances multi-agent simulation scalability across laboratories.",
-                "Researchers expect the platform to automate complex scientific reasoning tasks, shortening pharmaceutical development timelines globally."
+                "Mistral AI has officially released OCR Four, a specialized tool built to process complex unstructured document intelligence.",
+                "The architecture integrates innovative bounding box features to extract structured layout data from legacy corporate file systems.",
+                "This model enables seamless integration of unstructured enterprise documents directly into automated machine learning training data pipelines.",
+                "Organizations can immediately deploy OCR Four to bypass expensive document parsing workarounds and accelerate information retrieval systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB DEPLOYMENT",
+            "heading": "QUALCOMM: MODULAR SOFTWARE ACQUISITION",
             "points": [
-                "Microsoft announced Azure HorizonDB, engineering an ultra-low latency PostgreSQL database optimized specifically for AI workloads.",
-                "The system delivers integrated AI capabilities directly into the database engine, reducing transactional execution bottlenecks.",
-                "Organizations can leverage Foundry IQ context layers to ground agent workflows in secure, real-time enterprise data.",
-                "This database layer prevents performance degradation while scaling mission-critical intelligent applications across distributed cloud infrastructures."
+                "Qualcomm has signed a definitive acquisition agreement with Modular to accelerate the performance of on-device AI applications.",
+                "This strategic consolidation integrates Modular's high-performance AI software stack directly into Qualcomm's specialized mobile and edge hardware.",
+                "Developers gain a unified platform designed to build, compile, and execute latency-sensitive agentic workloads at the edge.",
+                "The transaction positions Qualcomm as a formidable ecosystem competitor against established legacy graphic processing unit hardware manufacturers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: MEXT MEMORY OPTIMIZATION",
+            "heading": "SK HYNIX: SECURES HBM CAPITALIZATION",
             "points": [
-                "AMD acquired memory optimization startup MEXT to integrate advanced processing architectures into its AI hardware portfolio.",
-                "The transaction directly enhances silicon-level bandwidth, significantly boosting rack-scale EPYC processor execution efficiency and throughput.",
-                "This hardware-level integration reduces compute energy requirements, addressing critical power constraints facing modern data centers.",
-                "Analysts predict the strategic acquisition will fortify AMD's position in the global high-performance inference chip market."
+                "South Korean chipmaker SK Hynix has announced a massive twenty-nine billion dollar initial public offering on the Nasdaq.",
+                "This capital injection is dedicated to scaling the fabrication of high-bandwidth memory required for advanced generative AI accelerators.",
+                "The strategic listing ensures a robust supply chain to meet the explosive global demand for next-generation computing infrastructure.",
+                "Hyperscalers and cloud providers will benefit from stabilized memory hardware inventories and faster implementation of exascale datacenters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SK HYNIX: NASDAQ EXPANSION",
+            "heading": "MICROSOFT: HORIZONDB ARCHITECTURE LAUNCH",
             "points": [
-                "South Korean memory pioneer SK Hynix planned a twenty-nine billion dollar Nasdaq listing to fund capacity.",
-                "The capital infusion will directly finance next-generation high-bandwidth memory production lines to satisfy global chip demand.",
-                "Establishing a US public footprint allows the company to secure strategic supply chains with global hyperscalers.",
-                "This historic public offering signals intensifying market competition over critical silicon infrastructure required for frontier systems."
+                "Microsoft has introduced HorizonDB on Azure, an ultra-low latency cloud database service engineered specifically for PostgreSQL operations.",
+                "The platform features integrated artificial intelligence mechanisms designed to optimize heavy read and write workloads for agentic applications.",
+                "Alongside HorizonDB, Microsoft deployed Rayfin, a fully managed backend optimized for agent and code execution on Fabric.",
+                "These managed database technologies significantly reduce database maintenance complexity and latency overhead for complex enterprise agent fleets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: VIBE ENGINE",
+            "heading": "BLACKSTONE: $30B JAPAN INFRASTRUCTURE",
             "points": [
-                "Mistral AI released Vibe and Mistral OCR Four, enabling autonomous long-horizon multi-step task execution for enterprises.",
-                "The software translates legacy code bases and automates complex continuous integration pipelines across diverse container platforms.",
-                "Deploying these agentic developer tools reduces structural tech debt without escalating operational model deployment costs.",
-                "This launch accelerates the transition of open-source artificial intelligence from passive assistants into proactive, sovereign workers."
+                "Blackstone has committed thirty billion dollars to construct state-of-the-art artificial intelligence data centers across major Japanese regions.",
+                "This massive capital layout targets regional digital infrastructure development to support localized sovereign artificial intelligence cloud hosting platforms.",
+                "The massive expansion addresses critical national energy constraints and data localization requirements mandated by regional regulatory compliance laws.",
+                "Global enterprises operating in Asia can leverage this localized infrastructure to deploy high-performance applications with absolute physical sovereignty."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US GOVERNMENT: QUANTUM MANDATE",
+            "heading": "ENTERPRISEDB: POSTGRES AGENTIC COALITION",
             "points": [
-                "The White House issued executive mandates directing federal agencies to implement post-quantum cryptographic standards and compliance.",
-                "National security directives require prompt transition to quantum-resistant encryption protocols to protect highly classified intelligence assets.",
-                "Federal contractors must establish comprehensive software inventories to verify compliance before incoming defense procurement deadlines expire.",
-                "This policy initiative accelerates private sector migration toward cryptographic architectures designed to withstand future quantum adversaries."
+                "EnterpriseDB has integrated advanced vector and analytical search features to natively support autonomous agentic workflows on PostgreSQL database engines.",
+                "The update directly tackles severe data sprawl issues that frequently hinder the performance of production enterprise AI models.",
+                "Developers can run real-time transaction processing and complex analytics inside a single, unified database schema without extra software.",
+                "This consolidated architectural approach dramatically simplifies the data pipelines required to deploy reliable, context-aware digital worker agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
