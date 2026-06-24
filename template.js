@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED ENTERPRISE",
-        "titleBlue": "SILICON"
+        "titleWhite": "NEXT-GEN AGENTIC SECURED",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: JALAPE\u00d1O SILICON INITIATIVE",
-            "points": [
-                "OpenAI has collaborated with Broadcom to design and unveil its first custom-built inference processor named Jalape\u00f1o.",
-                "The novel custom silicon targets optimization of deep model inference while cutting dependence on third-party hardware manufacturers.",
-                "This development shifts the competitive landscape of hardware infrastructure, allowing OpenAI to run massive models more efficiently.",
-                "Enterprise developers can expect accelerated execution speeds and reduced operational costs for large-scale production agent deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
             "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "Mistral AI has officially released OCR Four, a specialized tool built to process complex unstructured document intelligence.",
-                "The architecture integrates innovative bounding box features to extract structured layout data from legacy corporate file systems.",
-                "This model enables seamless integration of unstructured enterprise documents directly into automated machine learning training data pipelines.",
-                "Organizations can immediately deploy OCR Four to bypass expensive document parsing workarounds and accelerate information retrieval systems."
+                "Mistral AI released OCR 4 featuring structured bounding boxes to process complex unstructured document pipelines.",
+                "Enterprises can now convert legacy document formats into machine-readable JSON payloads with enhanced spatial layout accuracy.",
+                "The lightweight vision architecture integrates directly into agentic RAG workflows to resolve document intelligence bottlenecks.",
+                "Developers can leverage these structured layout features to accelerate automated financial and regulatory auditing pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "QUALCOMM: MODULAR SOFTWARE ACQUISITION",
+            "id": 2,
+            "heading": "AMD: SOVEREIGN COMPUTE DEPLOYMENT",
             "points": [
-                "Qualcomm has signed a definitive acquisition agreement with Modular to accelerate the performance of on-device AI applications.",
-                "This strategic consolidation integrates Modular's high-performance AI software stack directly into Qualcomm's specialized mobile and edge hardware.",
-                "Developers gain a unified platform designed to build, compile, and execute latency-sensitive agentic workloads at the edge.",
-                "The transaction positions Qualcomm as a formidable ecosystem competitor against established legacy graphic processing unit hardware manufacturers."
+                "AMD signed a definitive agreement with Rackspace for a phased deployment of thirty megawatts of compute capacity.",
+                "The infrastructure delivers high-density EPYC processors and Instinct GPUs designed strictly for highly regulated enterprise workloads.",
+                "This deployment provides localized sovereign cloud execution models, minimizing latency and complying with strict regional security policies.",
+                "Financial and public sector clients gain dedicated hardware partitions to execute sensitive model fine-tuning operations safely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "points": [
+                "Nvidia announced BioNeMo Agent Toolkit offering specialized domain tools and skills for agentic life sciences workflows.",
+                "Researchers can now easily deploy molecular design and simulation agents with advanced biological analysis capabilities.",
+                "The platform connects frontier biology models with scalable exascale supercomputing infrastructure like the new Vera Rubin.",
+                "Pharmaceutical companies can significantly reduce drug discovery timelines by automating target identification using autonomous digital agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SK HYNIX: SECURES HBM CAPITALIZATION",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "South Korean chipmaker SK Hynix has announced a massive twenty-nine billion dollar initial public offering on the Nasdaq.",
-                "This capital injection is dedicated to scaling the fabrication of high-bandwidth memory required for advanced generative AI accelerators.",
-                "The strategic listing ensures a robust supply chain to meet the explosive global demand for next-generation computing infrastructure.",
-                "Hyperscalers and cloud providers will benefit from stabilized memory hardware inventories and faster implementation of exascale datacenters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: HORIZONDB ARCHITECTURE LAUNCH",
-            "points": [
-                "Microsoft has introduced HorizonDB on Azure, an ultra-low latency cloud database service engineered specifically for PostgreSQL operations.",
-                "The platform features integrated artificial intelligence mechanisms designed to optimize heavy read and write workloads for agentic applications.",
-                "Alongside HorizonDB, Microsoft deployed Rayfin, a fully managed backend optimized for agent and code execution on Fabric.",
-                "These managed database technologies significantly reduce database maintenance complexity and latency overhead for complex enterprise agent fleets."
+                "Microsoft introduced Azure HorizonDB, a high-performance PostgreSQL engine featuring ultra-low latency and scalable read operations.",
+                "Systems can now ground autonomous agents on enterprise transaction records with immediate consistency and sub-millisecond query responses.",
+                "The relational engine embeds AI-optimized indexing layers to streamline real-time context retrieval across distributed cloud applications.",
+                "Enterprise database administrators can migrate legacy workloads to modernize transactional backend pipelines for autonomous agent operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "BLACKSTONE: $30B JAPAN INFRASTRUCTURE",
+            "id": 5,
+            "heading": "PURE STORAGE: EVERPURE DATA STREAM",
             "points": [
-                "Blackstone has committed thirty billion dollars to construct state-of-the-art artificial intelligence data centers across major Japanese regions.",
-                "This massive capital layout targets regional digital infrastructure development to support localized sovereign artificial intelligence cloud hosting platforms.",
-                "The massive expansion addresses critical national energy constraints and data localization requirements mandated by regional regulatory compliance laws.",
-                "Global enterprises operating in Asia can leverage this localized infrastructure to deploy high-performance applications with absolute physical sovereignty."
+                "Pure Storage launched Everpure Data Stream to unify disparate storage systems into optimized real-time data pipelines.",
+                "The platform automates data ingestion and formatting, allowing machine learning models to ingest streaming information instantly.",
+                "It mitigates enterprise data sprawl by constructing structured semantic layers directly above the physical storage fabric.",
+                "Chief Information Officers can rapidly scale pipeline capacity while maintaining strict enterprise access control and auditing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AWS: CONTINUUM SECURITY LAUNCH",
+            "points": [
+                "Amazon Web Services launched AWS Continuum to identify, validate, and remediate software vulnerabilities at automated machine speed.",
+                "Development teams can eliminate traditional manual security review delays by embedding continuous automated patching into pipelines.",
+                "The system runs model-agnostic, context-aware analysis engines that dynamically construct STRIDE-compliant threat models for application deployments.",
+                "Security operations leaders can mitigate zero-day exploits instantly through proactive execution of validated, automated vulnerability fixes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENTERPRISEDB: POSTGRES AGENTIC COALITION",
+            "heading": "GOOGLE DEEPMIND: DIFFUSIONGEMMA OPTIMIZATION",
             "points": [
-                "EnterpriseDB has integrated advanced vector and analytical search features to natively support autonomous agentic workflows on PostgreSQL database engines.",
-                "The update directly tackles severe data sprawl issues that frequently hinder the performance of production enterprise AI models.",
-                "Developers can run real-time transaction processing and complex analytics inside a single, unified database schema without extra software.",
-                "This consolidated architectural approach dramatically simplifies the data pipelines required to deploy reliable, context-aware digital worker agents."
+                "Google DeepMind released DiffusionGemma, a lightweight model achieving four-times faster text generation through novel diffusion engineering.",
+                "Operational budgets drop significantly due to reduced computational requirements for executing highly repetitive, high-throughput text operations.",
+                "The optimized pipeline leverages advanced parameter-efficient architectures to maximize model intelligence metrics on resource-constrained edge hardware.",
+                "Device manufacturers and software developers can embed highly capable local agents without degrading system performance or battery."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
