@@ -1,82 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE TRANSITION",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICRON: REVENUE QUADRUPLES VIA AI",
+            "heading": "OPENAI: JALAPENO CHIP DEPLOYMENT",
             "points": [
-                "Micron reports a 1400% profit surge driven by extreme global demand for high-bandwidth memory chips.",
-                "Soaring memory prices from the AI-boom infrastructure crunch are fueling historic quarterly earnings performance for manufacturers.",
-                "Financial markets reacted with massive volatility as investors re-evaluate the sustainability of current semiconductor sector growth.",
-                "Stakeholders anticipate further supply chain tightening as memory producers prioritize AI-grade hardware over consumer electronics requirements."
+                "OpenAI and Broadcom co-designed the custom Jalapeno inference chip to bypass traditional GPU bottleneck limitations.",
+                "The custom silicon architecture significantly lowers token pricing, relieving budget pressures for high-throughput enterprise model deployments.",
+                "This development marks a major shift towards proprietary hardware ecosystems, reducing reliance on third-party silicon manufacturers.",
+                "Enterprise buyers must evaluate custom chip compatibility when planning long-term infrastructure and model API platform migrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: BIONE-MO AGENT TOOLKIT",
+            "heading": "AWS: BEDROCK AGENTCORE DEPLOYMENT",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit to standardize agentic development frameworks within the complex life sciences domain.",
-                "New tools provide specialized skills for scientific research agents to accelerate drug discovery and molecular simulation throughput.",
-                "The release signals a pivot toward vertical-specific AI infrastructure designed to handle high-fidelity simulation and analysis tasks.",
-                "Enterprises can now deploy pre-validated agentic pipelines to automate multi-step scientific workflows without manual coding overheads."
+                "Amazon Web Services introduced Bedrock AgentCore to orchestrate, optimize, and safely run multi-model autonomous developer agents.",
+                "Combined with DevOps Agent and AWS Continuum, the suite automates complex vulnerability remediation and deployment tasks.",
+                "The platform integrates localized context engines and secure knowledge graphs to prevent autonomous agents from losing architectural focus.",
+                "Enterprise CIOs can now leverage continuous, machine-speed code modernization to eliminate legacy technical debt without human intervention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: BROADCOM JALAPENO CHIP",
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "OpenAI and Broadcom co-design the new Jalapeno inference chip to optimize token pricing for large-scale enterprise deployments.",
-                "The hardware aims to decouple inference costs from existing GPU supply chain constraints impacting major AI model providers.",
-                "Custom silicon development enables deeper control over computational efficiency, lowering the total cost of ownership for scaling.",
-                "Industry analysts foresee increased competitive pressure on incumbent chip designers to deliver application-specific AI optimized hardware architecture."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "QUALCOMM: MODULAR AI ACQUISITION",
-            "points": [
-                "Qualcomm confirms acquisition of AI platform developer Modular to expand its software-defined hardware capabilities for edge computing.",
-                "Strategic integration of Modular technologies enhances Qualcomm's ability to support complex agentic workloads on mobile silicon chips.",
-                "The move directly counters competitors who lack a cohesive end-to-end strategy from cloud training to localized device execution.",
-                "Market observers predict a massive push toward on-device inference as the core differentiator for next-generation mobile hardware."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: OCR 4 DATA CHALLENGE",
-            "points": [
-                "Mistral AI introduces OCR 4, a frontier-level model specifically optimized for translating unstructured visual data into machine-readable formats.",
-                "This release addresses critical bottlenecks in processing legacy documentation for integration into modern, agentic enterprise AI workflows.",
-                "Advanced capabilities allow systems to extract insights from varied document types, facilitating automated data ingestion for LLMs.",
-                "Enterprises are adopting this tool to bypass manual extraction and accelerate their transition to agent-centric knowledge management systems."
+                "Mistral AI launched Mistral OCR 4 to structurally digest complex, unstructured legacy document formats for enterprise pipelines.",
+                "The integration with Vibe agents allows autonomous scheduling, persistent memory, and deep multi-step analysis of ingested files.",
+                "This release expands open-weight model utility into complex document intelligence, challenging proprietary vertical solutions in financial sectors.",
+                "Organizations can safely deploy local, high-performance optical character recognition pipelines to maintain absolute digital sovereignty."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "BLACKSTONE: $30B JAPAN INFRASTRUCTURE",
+            "id": 4,
+            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
             "points": [
-                "Blackstone commits $30 billion to massive data center infrastructure expansion as Japan's AI resource competition heats up.",
-                "Investment prioritizes the physical foundations required for deploying agentic systems in the Asia-Pacific region at scale.",
-                "Capital influx signifies a shift toward sovereign AI development, securing localized execution capacity against global supply bottlenecks.",
-                "Industry leaders expect this expansion to anchor Japan's regional dominance in high-performance computing and AI-powered industrial manufacturing sectors."
+                "Microsoft Azure unveiled HorizonDB, a high-performance PostgreSQL service engineered specifically for scalable AI database reads.",
+                "HorizonDB combines with Foundry IQ to deliver ultra-low latency context grounding for autonomous agents at enterprise scale.",
+                "The architecture provides unified observability, guardrails, and control planes to manage decentralized fleets of transactional business agents.",
+                "Database administrators can modernize relational storage engines to natively feed deep learning pipelines without painful data serialization."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICRON: MEMORY SUPPLY CONSTRAINTS",
+            "points": [
+                "Micron Technology reported blockbuster earnings driven by extreme demand for high-bandwidth memory essential to modern AI accelerators.",
+                "Executives warned that high-bandwidth memory supplies will remain strictly constrained globally until well past the year 2027.",
+                "The ongoing silicon memory crisis is shifting market leverage toward hardware suppliers, driving up overall datacenter operational expenses.",
+                "Infrastructure procurement officers must secure long-term memory supply allocations immediately to prevent deployment delays for critical clusters."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
+            "points": [
+                "Qualcomm agreed to acquire Modular, the developer behind the Mojo programming language, to unify its AI software ecosystem.",
+                "The strategic acquisition supports Qualcomm's plan to almost double its non-handset business revenue targets by fiscal year 2029.",
+                "Consolidating high-performance runtime tools allows the chipmaker to challenge Nvidia dominance across edge and enterprise datacenter computing.",
+                "Software developers can expect highly optimized compiled execution paths when deploying complex neural networks onto silicon hardware."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "TECHTARGET: PQC READINESS ALERT",
+            "heading": "NVIDIA: BIONEMO TOOLKIT ENGINE",
             "points": [
-                "Research reveals 90% of global systems remain critically unprepared for post-quantum cryptographic standards required by upcoming threats.",
-                "CISOs face immediate pressure to upgrade infrastructure as adversaries gather encrypted data for future quantum-based decryption attacks.",
-                "Technical debt in legacy cryptographic implementations poses a major risk to institutional data security across all business sectors.",
-                "Proactive remediation is now being mandated by evolving federal guidelines to prevent mass exposure during the looming Q-Day."
+                "NVIDIA announced the BioNeMo Agent Toolkit to deliver domain-specific tools and skills optimized for agentic scientific exploration.",
+                "The toolkit enables autonomous biopharma workflows, reducing drug discovery timeline bottlenecks from months to hours using physics models.",
+                "By embedding life science frameworks into foundational agent architectures, Nvidia strengthens its vertical integration in healthcare computing.",
+                "Pharmaceutical research labs should adopt these pre-trained tools to accelerate molecular design pipelines and clinical trial modeling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
