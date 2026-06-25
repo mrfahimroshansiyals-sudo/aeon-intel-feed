@@ -1,50 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC AI",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS AGENT HARDWARE",
+        "titleBlue": "SQUEEZE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICRON: MEMORY MARKET SURGE",
+            "heading": "MICRON: MEMORY MARKET SQUEEZE",
             "points": [
-                "Micron reported blowout quarterly earnings, signaling a robust recovery in global memory demand for AI infrastructure hardware.",
-                "Market analysts cite this performance as a critical indicator for broader semiconductor health amid surging data center requirements.",
-                "Increased capital expenditure in the memory sector is driving efficiency gains for high-bandwidth memory (HBM) production worldwide.",
-                "Industry leaders view these metrics as validation of the sustained, multi-year infrastructure cycle underpinning current AI investment."
+                "Micron reports blockbuster earnings powered by soaring demand for high-bandwidth memory chips required for AI infrastructure.",
+                "Hyperscalers face escalating operating costs as high-bandwidth memory supply constraints squeeze hardware margins across cloud platforms.",
+                "Rising dynamic random-access memory prices force architectural optimizations to manage enterprise compute budgets during hardware deployment.",
+                "Industry analysts predict specialized hardware tiering will emerge to mitigate capital expenditure risks for major cloud operators."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.cnbc.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "APPLE: HARDWARE PRICE ADJUSTMENTS",
+            "heading": "APPLE: HARDWARE COST INFLATION",
             "points": [
-                "Apple increased MacBook and iPad prices by twenty percent citing critical shortages in advanced AI-optimized memory chips.",
-                "The supply crunch highlights the escalating competition for semiconductor capacity required by modern consumer generative AI platforms.",
-                "This pricing shift represents a strategic attempt to manage margins while navigating a globally constrained component ecosystem today.",
-                "Market reaction suggests that premium device vendors remain vulnerable to long-term AI-driven semiconductor supply chain systemic volatility."
+                "Apple increases MacBook and iPad prices by twenty percent globally in response to systemic memory chip shortages.",
+                "The consumer hardware supply chain faces critical component deficits driven by competitive hyperscaler high-bandwidth memory purchasing strategies.",
+                "Price adjustments reflect broader inflationary pressures in advanced semiconductor fabrication and competitive raw material acquisition pipelines.",
+                "Enterprise procurement programs must adjust hardware lifecycle strategies to accommodate escalating desktop and mobile client compute costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFOWORLD: AGENTIC SECURITY SUMMIT",
+            "heading": "BLACKBERRY: EDGE INTELLIGENCE SURGE",
             "points": [
-                "Confidential Computing Summit highlights that securing agentic AI against vulnerabilities remains a primary industry-wide engineering bottleneck today.",
-                "Emerging standards for DNS-style trust are being developed to verify agent identity and prevent malicious autonomous system intrusions.",
-                "Security architects are pivoting toward verifiable execution layers to maintain compliance within complex, distributed enterprise AI frameworks.",
-                "The integration of policy-enforcement layers is now essential for validating every individual agent action against regulatory safety guidelines."
+                "BlackBerry shares surge twenty-three percent as global markets pivot to value its embedded real-time QNX AI operating platform.",
+                "Automotive and industrial edge systems prioritize secure microkernel architectures to deploy localized intelligent agent frameworks.",
+                "Strategic infrastructure transitions drive enterprise migration away from legacy monolithic systems toward adaptive safety-certified edge computing platforms.",
+                "Securing intelligent edge software pipelines establishes defensible moats against centralized cloud deployment vulnerabilities in automated industries."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com/newswires",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: MODEL SCRAPING DEFENSE",
+            "points": [
+                "Anthropic accuses Alibaba of deploying twenty-five thousand synthetic user accounts to bypass API rate limits and scrape capabilities.",
+                "The alleged model distillation highlights systemic vulnerabilities in public LLM endpoints facing sophisticated automated competitors.",
+                "Enterprise data governance strategies require advanced telemetry to identify adversarial traffic patterns mimicking authentic user interactions.",
+                "Security engineers advocate for cryptographic watermarking of model outputs to verify unauthorized automated data ingestion cycles."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "OPENAI: SEC CONFIDENTIAL FILINGS",
-            "points": [
-                "OpenAI has moved to submit a confidential draft S-1 to the SEC, accelerating corporate transparency and financial disclosure.",
-                "This move reflects the organization's evolving mandate to standardize AI governance as it shifts toward massive-scale enterprise adoption.",
-                "Strategic alignment between safety research and market readiness is increasingly shaping the firm's path toward future liquidity events.",
-                "Regulatory bodies are closely monitoring these disclosures to establish precedents for foundational model disclosure and developer accountability standards."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "JPMORGAN: SUCCESSION STRATEGY SHIFT",
+            "heading": "LINUX FOUNDATION: AGENT IDENTITY TRUST",
             "points": [
-                "JPMorgan Chase announced the elevation of two co-presidents as part of a significant leadership restructuring within the bank.",
-                "The internal reorganization is intended to bolster divisional oversight as the firm integrates advanced AI across global operations.",
-                "Succession planning in major financial institutions now explicitly prioritizes candidates with proven technological transformation and operational expertise track.",
-                "Market observers view this move as a pivot toward stabilizing executive command for a volatile, high-tech financial landscape."
+                "The Linux Foundation launches an initiative to establish decentralized DNS-style trust frameworks specifically for autonomous AI agents.",
+                "New standards target automated identity registration and cryptographic verification of agent-to-agent operations across enterprise domains.",
+                "This directory model aims to resolve authentication challenges in complex cross-organization workflows executing without human oversight.",
+                "Implementing global registry models ensures compliant data exchanges and robust audit trails for federated agent ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT EXPANSION",
+            "heading": "CONFIDENTIAL COMPUTING: ENCLAVE AGENT SEC",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate life sciences research through specialized, domain-specific AI model integration.",
-                "The toolkit provides researchers with ready-made skills to automate complex molecular simulations and drug discovery workflows at scale.",
-                "By standardizing these agentic capabilities, NVIDIA is lowering the barrier for entry into high-performance computing-based biological innovation projects.",
-                "Strategic collaboration between AI labs and biotech firms is intensifying, marking a transition toward fully automated scientific discovery loops."
+                "Agentic security dominates the Confidential Computing Summit focusing on safeguarding autonomous runtime execution states.",
+                "Hardware-enforced secure enclaves protect sensitive memory spaces from host-level interception during decentralized decision-making processes.",
+                "Developers require zero-trust execution environments to mitigate rising attack vectors targetting decentralized runtime operational credentials.",
+                "Deploying secure enclave technology establishes verifiable data confidentiality boundaries for multi-agent enterprise infrastructure installations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: OCR 4 DATA CHALLENGES",
+            "heading": "SALESFORCE: PERFORMANCE OUTCOME PRICING",
             "points": [
-                "Mistral AI released OCR 4 to tackle the massive, persistent challenge of unstructured data integration in enterprise environments.",
-                "The model features bounding-box precision, enabling higher accuracy for legacy document processing and digitized internal corporate knowledge repositories.",
-                "This release emphasizes the strategic importance of high-fidelity data ingestion layers for training and querying custom agentic systems.",
-                "Enterprise users can now leverage these capabilities to transform opaque datasets into structured inputs for advanced AI workflows."
+                "Salesforce launches its autonomous customer service Help Agent featuring a disruptive outcomes-based pricing structure.",
+                "The two-dollar pay-per-resolution model shifts software financial metrics from seat-based licensing to direct productivity evaluations.",
+                "Enterprise buyers expect outcome-centric pricing to accelerate across the software industry as agent capabilities substitute human labor.",
+                "Adopting utility-style consumption frameworks aligns platform expenditures directly with operational efficiency and validated task completion metrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
