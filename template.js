@@ -1,98 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN CHIP",
+        "titleBlue": "SCALING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: JALAPENO CHIP DEPLOYMENT",
+            "heading": "OPENAI & BROADCOM: INFERENCE SILICON",
             "points": [
-                "OpenAI and Broadcom co-designed the custom Jalapeno inference chip to bypass traditional GPU bottleneck limitations.",
-                "The custom silicon architecture significantly lowers token pricing, relieving budget pressures for high-throughput enterprise model deployments.",
-                "This development marks a major shift towards proprietary hardware ecosystems, reducing reliance on third-party silicon manufacturers.",
-                "Enterprise buyers must evaluate custom chip compatibility when planning long-term infrastructure and model API platform migrations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AWS: BEDROCK AGENTCORE DEPLOYMENT",
-            "points": [
-                "Amazon Web Services introduced Bedrock AgentCore to orchestrate, optimize, and safely run multi-model autonomous developer agents.",
-                "Combined with DevOps Agent and AWS Continuum, the suite automates complex vulnerability remediation and deployment tasks.",
-                "The platform integrates localized context engines and secure knowledge graphs to prevent autonomous agents from losing architectural focus.",
-                "Enterprise CIOs can now leverage continuous, machine-speed code modernization to eliminate legacy technical debt without human intervention."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
-            "points": [
-                "Mistral AI launched Mistral OCR 4 to structurally digest complex, unstructured legacy document formats for enterprise pipelines.",
-                "The integration with Vibe agents allows autonomous scheduling, persistent memory, and deep multi-step analysis of ingested files.",
-                "This release expands open-weight model utility into complex document intelligence, challenging proprietary vertical solutions in financial sectors.",
-                "Organizations can safely deploy local, high-performance optical character recognition pipelines to maintain absolute digital sovereignty."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
-            "points": [
-                "Microsoft Azure unveiled HorizonDB, a high-performance PostgreSQL service engineered specifically for scalable AI database reads.",
-                "HorizonDB combines with Foundry IQ to deliver ultra-low latency context grounding for autonomous agents at enterprise scale.",
-                "The architecture provides unified observability, guardrails, and control planes to manage decentralized fleets of transactional business agents.",
-                "Database administrators can modernize relational storage engines to natively feed deep learning pipelines without painful data serialization."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICRON: MEMORY SUPPLY CONSTRAINTS",
-            "points": [
-                "Micron Technology reported blockbuster earnings driven by extreme demand for high-bandwidth memory essential to modern AI accelerators.",
-                "Executives warned that high-bandwidth memory supplies will remain strictly constrained globally until well past the year 2027.",
-                "The ongoing silicon memory crisis is shifting market leverage toward hardware suppliers, driving up overall datacenter operational expenses.",
-                "Infrastructure procurement officers must secure long-term memory supply allocations immediately to prevent deployment delays for critical clusters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
-            "points": [
-                "Qualcomm agreed to acquire Modular, the developer behind the Mojo programming language, to unify its AI software ecosystem.",
-                "The strategic acquisition supports Qualcomm's plan to almost double its non-handset business revenue targets by fiscal year 2029.",
-                "Consolidating high-performance runtime tools allows the chipmaker to challenge Nvidia dominance across edge and enterprise datacenter computing.",
-                "Software developers can expect highly optimized compiled execution paths when deploying complex neural networks onto silicon hardware."
+                "OpenAI and Broadcom debut custom AI inference silicon designed to accelerate neural network compute.",
+                "Custom ASICs reduce operational execution costs by up to forty percent compared to standard architectures.",
+                "This partnership signals a major architectural pivot toward custom merchant silicon away from GPU monopolies.",
+                "Enterprises will soon leverage cheaper dedicated endpoints as bespoke private cloud deployments scale globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "NVIDIA: BIONEMO TOOLKIT ENGINE",
+            "id": 2,
+            "heading": "QUALCOMM: MODULAR ACQUISITION",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to deliver domain-specific tools and skills optimized for agentic scientific exploration.",
-                "The toolkit enables autonomous biopharma workflows, reducing drug discovery timeline bottlenecks from months to hours using physics models.",
-                "By embedding life science frameworks into foundational agent architectures, Nvidia strengthens its vertical integration in healthcare computing.",
-                "Pharmaceutical research labs should adopt these pre-trained tools to accelerate molecular design pipelines and clinical trial modeling."
+                "Qualcomm acquires AI platform Modular to integrate advanced compilation technologies into its edge computing stack.",
+                "This acquisition optimizes unified execution of generative workflows across millions of low-power mobile devices.",
+                "Deploying edge architectures minimizes central cloud dependency by running complex neural networks locally on-device.",
+                "System integrators will gain superior model portability across diverse heterogeneous hardware ecosystems in real-time."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "BLACKSTONE: INFRASTRUCTURE EXPANSION",
+            "points": [
+                "Blackstone commits thirty billion dollars to accelerate enterprise hyperscale data center infrastructure development across Japan.",
+                "This capital deployment directly targets localized high-density cooling systems required for massive next-generation hardware clusters.",
+                "Sovereign computational limits are expanding rapidly to guarantee regional data residency and low-latency local processing.",
+                "Local enterprises will achieve rapid deployment velocities for dense multi-modal training and regional inference runs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MISTRAL AI: STRUCTURED OCR",
+            "points": [
+                "Mistral AI launches OCR four featuring advanced bounding box technology to parse complex unstructured enterprise documents.",
+                "Automated extraction engines convert legacy scanned files into structured formats with over ninety-five percent accuracy.",
+                "Integrating native parsing models directly into retrieval architectures eliminates fragile external document ingestion pipelines.",
+                "Operations teams will dramatically accelerate multi-format data ingestion for downstream agentic processing and analytical workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GARTNER: TOKEN PAYROLL PARITY",
+            "points": [
+                "Gartner projects enterprise AI coding token consumption costs are on track to rival human developer payrolls.",
+                "High invocation frequencies of autonomous coding agents increase infrastructure overhead by several orders of magnitude annually.",
+                "Chief Information Officers must balance developer velocity gains against exponential consumption-based pricing models immediately.",
+                "Modern software operations will shift toward optimized local compilation and agent execution frameworks to contain costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ANTHROPIC: EXPLOITATION EXPOSURE",
+            "points": [
+                "Anthropic accuses Alibaba of executing a coordinated campaign using fake accounts to extract proprietary model capabilities.",
+                "System monitors detected highly anomalous querying behaviors designed to bypass API rate-limiting thresholds and security controls.",
+                "This defensive escalation underscores the growing vulnerability of frontier weights to sophisticated model distillation tactics globally.",
+                "Security architectures must adopt zero-trust API boundaries and real-time behavioral fingerprinting to safeguard competitive advantages."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PURE STORAGE: EVERPURE PIPELINE",
+            "points": [
+                "Pure Storage unveils Everpure Data Stream at Pure Accelerate to optimize high-performance enterprise AI pipelines.",
+                "Unified data streams eliminate storage bottlenecks, accelerating data ingestion for active model training and fine-tuning.",
+                "Modern storage architectures must decouple legacy unstructured databases from real-time agentic retrieval and processing systems.",
+                "Enterprises will achieve faster training loops and lower overall storage latencies across highly distributed hybrid clouds."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
