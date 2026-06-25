@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "ENTERPRISE AGENTIC AI",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IEEE SPECTRUM: 3D SILICON SUCCESS",
+            "heading": "MICRON: MEMORY MARKET SURGE",
             "points": [
-                "Chip designers achieved record-breaking densities in 3D silicon integration by stacking active transistor layers directly.",
-                "This vertical architecture delivers a forty percent reduction in signal latency while minimizing energy overhead.",
-                "Foundries are pivoting to monolithic 3D integration to bypass physical limits of traditional planar designs.",
-                "Enterprise data centers must redesign thermal dissipation systems to accommodate highly dense vertical compute clusters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "LINUX FOUNDATION: AGENT TRUST PROTOCOL",
-            "points": [
-                "The Linux Foundation launched a project to establish decentralized DNS-style trust registries for autonomous agents.",
-                "The protocol authenticates machine identities across cloud networks in under ten milliseconds to block malicious spoofing.",
-                "This initiative creates an open standard for verifying cryptographic signatures in agent-to-agent transactional communications.",
-                "Systems architects will deploy decentralized identity ledgers to guarantee secure, sovereign operations between heterogeneous agent fleets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "IBM: SUB-1NM TRANSISTOR PROTOTYPE",
-            "points": [
-                "IBM revealed a hardware prototype utilizing sub-one-nanometer transistor architectures to extend historical Moore's Law scaling.",
-                "The architecture improves processing efficiency by seventy-five percent compared to contemporary commercial two-nanometer production designs.",
-                "Implementing nanosheet configurations with advanced backside power delivery optimizes structural current distribution across atomic layers.",
-                "Semiconductor foundries will invest billions to retool existing cleanrooms for complex sub-one-nanometer lithography processes."
+                "Micron reported blowout quarterly earnings, signaling a robust recovery in global memory demand for AI infrastructure hardware.",
+                "Market analysts cite this performance as a critical indicator for broader semiconductor health amid surging data center requirements.",
+                "Increased capital expenditure in the memory sector is driving efficiency gains for high-bandwidth memory (HBM) production worldwide.",
+                "Industry leaders view these metrics as validation of the sustained, multi-year infrastructure cycle underpinning current AI investment."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MICROSOFT: FABRIC RAYFIN PLATFORM",
+            "id": 2,
+            "heading": "APPLE: HARDWARE PRICE ADJUSTMENTS",
             "points": [
-                "Microsoft announced Rayfin, a managed agent-optimized backend as a service operating natively within Azure Fabric.",
-                "The service reduces latency for retrieval-augmented generation workloads by up to sixty percent during execution.",
-                "Integrating low-latency database backends allows automated agents to access dynamic organizational data without intermediate API layers.",
-                "Software developers will migrate legacy application architectures to unified fabric environments to optimize agentic runtime execution."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SALESFORCE: AUTONOMOUS AGENT PRICING",
-            "points": [
-                "Salesforce launched an autonomous help agent utilizing a novel pay-per-resolution pricing structure for enterprise customers.",
-                "Organizations can deploy pre-packaged agents capable of resolving complex service requests at two dollars per resolution.",
-                "This deployment model shifts software procurement from static seat licenses to value-driven, outcomes-based consumption metrics.",
-                "Chief information officers will restructure support operational budgets as autonomous systems displace human-centric helpdesk tiering models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "APPLE: COMPUTE MEMORY SCARCITY",
-            "points": [
-                "Apple increased hardware pricing by twenty percent due to global memory chip shortages driven by artificial intelligence.",
-                "The persistent supply crunch forces enterprise laptop and tablet configurations to escalate in baseline production cost.",
-                "High-bandwidth memory demand for AI clusters is cannibalizing global silicon wafer allocations for consumer hardware lines.",
-                "Corporate procurement divisions must extend refresh cycles for employee laptops to offset unbudgeted hardware capital expenditures."
+                "Apple increased MacBook and iPad prices by twenty percent citing critical shortages in advanced AI-optimized memory chips.",
+                "The supply crunch highlights the escalating competition for semiconductor capacity required by modern consumer generative AI platforms.",
+                "This pricing shift represents a strategic attempt to manage margins while navigating a globally constrained component ecosystem today.",
+                "Market reaction suggests that premium device vendors remain vulnerable to long-term AI-driven semiconductor supply chain systemic volatility."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "IEEE SPECTRUM: TRANSISTOR STACKING SPLIT",
+            "id": 3,
+            "heading": "INFOWORLD: AGENTIC SECURITY SUMMIT",
             "points": [
-                "Global chip manufacturing foundries are diverging on execution paths for future complementary field-effect transistor stacking designs.",
-                "Leading fabricators predict that varying architectures will cause performance gaps of fifteen percent between competing nodes.",
-                "The divergence focuses on whether to implement monolithic silicon integration or sequential three-dimensional packaging methods.",
-                "Cloud hyperscalers must multi-source silicon designs to hedge against yield variations across differing structural foundry methodologies."
+                "Confidential Computing Summit highlights that securing agentic AI against vulnerabilities remains a primary industry-wide engineering bottleneck today.",
+                "Emerging standards for DNS-style trust are being developed to verify agent identity and prevent malicious autonomous system intrusions.",
+                "Security architects are pivoting toward verifiable execution layers to maintain compliance within complex, distributed enterprise AI frameworks.",
+                "The integration of policy-enforcement layers is now essential for validating every individual agent action against regulatory safety guidelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: SEC CONFIDENTIAL FILINGS",
+            "points": [
+                "OpenAI has moved to submit a confidential draft S-1 to the SEC, accelerating corporate transparency and financial disclosure.",
+                "This move reflects the organization's evolving mandate to standardize AI governance as it shifts toward massive-scale enterprise adoption.",
+                "Strategic alignment between safety research and market readiness is increasingly shaping the firm's path toward future liquidity events.",
+                "Regulatory bodies are closely monitoring these disclosures to establish precedents for foundational model disclosure and developer accountability standards."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "JPMORGAN: SUCCESSION STRATEGY SHIFT",
+            "points": [
+                "JPMorgan Chase announced the elevation of two co-presidents as part of a significant leadership restructuring within the bank.",
+                "The internal reorganization is intended to bolster divisional oversight as the firm integrates advanced AI across global operations.",
+                "Succession planning in major financial institutions now explicitly prioritizes candidates with proven technological transformation and operational expertise track.",
+                "Market observers view this move as a pivot toward stabilizing executive command for a volatile, high-tech financial landscape."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: BIONEMO AGENT EXPANSION",
+            "points": [
+                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate life sciences research through specialized, domain-specific AI model integration.",
+                "The toolkit provides researchers with ready-made skills to automate complex molecular simulations and drug discovery workflows at scale.",
+                "By standardizing these agentic capabilities, NVIDIA is lowering the barrier for entry into high-performance computing-based biological innovation projects.",
+                "Strategic collaboration between AI labs and biotech firms is intensifying, marking a transition toward fully automated scientific discovery loops."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL: OCR 4 DATA CHALLENGES",
+            "points": [
+                "Mistral AI released OCR 4 to tackle the massive, persistent challenge of unstructured data integration in enterprise environments.",
+                "The model features bounding-box precision, enabling higher accuracy for legacy document processing and digitized internal corporate knowledge repositories.",
+                "This release emphasizes the strategic importance of high-fidelity data ingestion layers for training and querying custom agentic systems.",
+                "Enterprise users can now leverage these capabilities to transform opaque datasets into structured inputs for advanced AI workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
