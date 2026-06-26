@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE ARCHITECTURE",
+            "heading": "ANTHROPIC: ALIBABA DATA SCRAPING",
             "points": [
-                "AWS introduces AgentCore, a new platform designed for autonomous agent development and multi-model orchestration.",
-                "This infrastructure facilitates governed knowledge graph integration and runtime query capabilities across distributed enterprise data.",
-                "Engineers can now configure autonomous agents that perform long-horizon tasks with dedicated feedback and validation loops.",
-                "This shift transitions AWS from a compute provider to an end-to-end agentic application execution environment."
+                "Anthropic has initiated formal allegations against Alibaba regarding the unauthorized scraping of Claude model capabilities.",
+                "Investigations reveal approximately 25,000 fake accounts were utilized to systematically extract proprietary model responses and architecture.",
+                "This incident underscores the rising volatility in cross-border AI model theft and the necessity for robust data provenance.",
+                "Industry analysts anticipate this legal action will force enterprises to conduct deeper due diligence on third-party model providers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: THREAT DEFENSE",
+            "heading": "OPENAI & BROADCOM: INFERENCE UPGRADE",
             "points": [
-                "Google Cloud unveils AI Threat Defense to secure agentic workflows against emerging adversarial exploitation vectors.",
-                "The security suite provides continuous automated remediation for vulnerabilities within complex AI agent deployments at scale.",
-                "It integrates directly with Gemini Enterprise to provide context-aware security monitoring of autonomous enterprise actions.",
-                "This deployment sets a new standard for securing agent-to-agent communication in hybrid cloud environments."
+                "OpenAI and Broadcom have officially introduced a custom AI inference chip designed to optimize generative model throughput.",
+                "The collaborative hardware development targets the critical bottleneck of latency in large-scale enterprise deployment scenarios for agents.",
+                "This silicon advancement signals a major pivot toward vertically integrated AI hardware strategies for major model labs.",
+                "Market response reflects high investor sensitivity regarding competitive positioning against legacy hardware incumbents in the data center."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "EU AI ACT: GOVERNANCE UPDATES",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit to provide specialized agentic skills for high-performance scientific discovery.",
-                "The toolkit enables life sciences organizations to automate complex simulation and material research workflows autonomously.",
-                "This release emphasizes domain-specific tool integration, accelerating the transition to agent-led pharmaceutical and biotech development.",
-                "NVIDIA continues to solidify its role as the foundational silicon and software platform for scientific AI."
+                "New compliance documentation clarifies the operating parameters for the Advisory Forum tasked with EU AI Act enforcement.",
+                "Technical bodies are being mobilized to provide rigorous oversight of model behavior and transparency standards for general-purpose AI.",
+                "The EU continues to tighten regulatory grip to ensure safety as regional market integration accelerates toward standardization.",
+                "Organizations must align their AI deployment roadmaps with these evolving mandates to prevent significant financial or operational penalties."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
+            "heading": "MICROSOFT: QUANTUM DISPUTE ESCALATES",
             "points": [
-                "Mistral AI introduces OCR 4 to address critical data ingestion challenges within unstructured enterprise document formats.",
-                "The model enhances document intelligence and synthesis capabilities for agents operating in data-intensive financial sectors.",
-                "Integration with Studio facilitates the deployment of OCR 4 within custom agentic pipelines and enterprise applications.",
-                "This capability bridges the gap between traditional document processing and advanced, agent-aware data analysis workflows."
+                "Recent reports highlight skepticism within the research community regarding Microsoft\u2019s latest claims in Majorana chip quantum computing.",
+                "Experts continue to chip away at data validity, questioning the stability and scalability of current quantum platform designs.",
+                "The controversy introduces new uncertainty into the enterprise roadmap for integrating quantum-ready infrastructure into existing cloud networks.",
+                "Market participants are closely watching the technical resolution as this impacts long-term investment in next-generation processing capacity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT AZURE: HORIZONDB",
+            "heading": "VOLKSWAGEN: MASSIVE RESTRUCTURING",
             "points": [
-                "Microsoft announces Azure HorizonDB, a PostgreSQL-based cloud service engineered for ultra-low latency agentic reads.",
-                "The database provides built-in AI context support to scale mission-critical applications without performance degradation.",
-                "HorizonDB integrates with the Foundry control plane for improved observability and fleet-wide agent governance.",
-                "This infrastructure optimizes data access patterns specifically for real-time agentic reasoning and decision support."
+                "Volkswagen has announced plans to cut up to 100,000 jobs in a major initiative to drive cost efficiencies.",
+                "This aggressive restructuring follows the divestment of key marine engine units to private equity firm Bain Capital.",
+                "Strategic pivots reflect the urgent industrial need to reclaim competitiveness amidst intense global electrification and digital transformation pressure.",
+                "The scale of this workforce reduction signals deep structural volatility within the traditional European automotive manufacturing landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: AGENTICOPS DILEMMA",
+            "heading": "ON SEMI: PHYSICAL AI EXPANSION",
             "points": [
-                "Industry analysis highlights the growing complexity of AgenticOps as deterministic rule-based management fails to scale.",
-                "LLM-as-a-judge patterns provide promising evaluation but introduce significant cost and latency overhead in production.",
-                "Enterprises are shifting toward specialized validation layers to ensure agent compliance against evolving safety policies.",
-                "Strategic focus is moving from mere agent deployment toward rigorous, verifiable autonomous operations infrastructure."
+                "ON Semiconductor has finalized a $7 billion acquisition of Synaptics to accelerate its presence in the physical AI sector.",
+                "The deal merges advanced sensing technologies with high-performance computing to create edge-native intelligence solutions for smart hardware.",
+                "This consolidation reflects the broader industrial trend of integrating intelligence directly into device-level hardware architecture platforms globally.",
+                "Analysts project this move will significantly disrupt existing supply chains for specialized robotic and industrial automation components."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: HYBRID QUANTUM FUTURE",
+            "heading": "AIRWALLEX: AI AGENT FUNDING",
             "points": [
-                "AMD announces advancements in classical infrastructure to support the integration and scaling of quantum systems.",
-                "The company commits to providing optimized compute cycles for hybrid classical-quantum research and operational deployment.",
-                "This effort focuses on high-performance fabric interconnects necessary for real-time data handling in quantum workflows.",
-                "AMD strengthens its competitive position by bridging high-performance data center capabilities with emerging quantum technologies."
+                "Airwallex has successfully raised $320 million to expand its financial operations managed by autonomous AI agents globally.",
+                "The funding round highlights massive investor appetite for platforms that leverage agentic models for complex financial transaction processing.",
+                "Operational focus centers on automating cross-border payments with real-time risk evaluation and multi-step agentic execution frameworks.",
+                "This signals the next phase of financial technology integration where agents manage liquidity and compliance in real-time."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
