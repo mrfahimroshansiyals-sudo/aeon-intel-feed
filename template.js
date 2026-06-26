@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: STAGGERED MODEL RELEASE",
+            "heading": "AWS: AGENTCORE ARCHITECTURE",
             "points": [
-                "The US government requested OpenAI to stagger its GPT five point six model release to vet users.",
-                "This federal intervention forces a critical delay in deployment timelines for advanced enterprise intelligence applications.",
-                "Strategic compliance protocols are shifting toward proactive state oversight of frontier AI deployment infrastructures globally.",
-                "Enterprises must prepare for extended security clearance cycles before integrating future next-generation foundational models."
+                "AWS introduces AgentCore, a new platform designed for autonomous agent development and multi-model orchestration.",
+                "This infrastructure facilitates governed knowledge graph integration and runtime query capabilities across distributed enterprise data.",
+                "Engineers can now configure autonomous agents that perform long-horizon tasks with dedicated feedback and validation loops.",
+                "This shift transitions AWS from a compute provider to an end-to-end agentic application execution environment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "APPLE: CHIP SHORTAGE PRICE HIKE",
+            "heading": "GOOGLE CLOUD: THREAT DEFENSE",
             "points": [
-                "Apple increased MacBook and iPad prices by twenty percent due to severe AI-driven memory shortages.",
-                "The sudden price hike wiped out two hundred sixty-three billion dollars in Apple market capitalization.",
-                "Intense competition for high-bandwidth memory from enterprise AI datacenters is severely choking consumer hardware supply chains.",
-                "Hardware acquisition costs will continue escalating as hyperscalers prioritize silicon allocation for generative model training."
+                "Google Cloud unveils AI Threat Defense to secure agentic workflows against emerging adversarial exploitation vectors.",
+                "The security suite provides continuous automated remediation for vulnerabilities within complex AI agent deployments at scale.",
+                "It integrates directly with Gemini Enterprise to provide context-aware security monitoring of autonomous enterprise actions.",
+                "This deployment sets a new standard for securing agent-to-agent communication in hybrid cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SALESFORCE: PAY-PER-RESOLUTION AGENTS",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Salesforce launched an autonomous AI Help Agent featuring a novel pay-per-resolution business pricing model.",
-                "Enterprises will deploy these virtual agents to resolve customer service issues autonomously at two dollars per resolution.",
-                "This shift from SaaS licensing to outcome-based pricing directly links AI performance metrics to operational expenditures.",
-                "Legacy customer service frameworks will rapidly consolidate as resolution-based pricing models become the enterprise standard."
+                "NVIDIA launches BioNeMo Agent Toolkit to provide specialized agentic skills for high-performance scientific discovery.",
+                "The toolkit enables life sciences organizations to automate complex simulation and material research workflows autonomously.",
+                "This release emphasizes domain-specific tool integration, accelerating the transition to agent-led pharmaceutical and biotech development.",
+                "NVIDIA continues to solidify its role as the foundational silicon and software platform for scientific AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LINUX FOUNDATION: AGENT TRUST SYSTEM",
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "The Linux Foundation initiated a project to establish DNS-style trust registries for autonomous AI agents.",
-                "The open-source framework aims to secure distributed multi-agent interactions across heterogeneous enterprise digital ecosystems.",
-                "Establishing standardized identity layers prevents malicious agents from exploiting access controls in decentralized database architectures.",
-                "Sovereign organizations will mandate DNS-style verification protocols before permitting autonomous agentic operations within their networks."
+                "Mistral AI introduces OCR 4 to address critical data ingestion challenges within unstructured enterprise document formats.",
+                "The model enhances document intelligence and synthesis capabilities for agents operating in data-intensive financial sectors.",
+                "Integration with Studio facilitates the deployment of OCR 4 within custom agentic pipelines and enterprise applications.",
+                "This capability bridges the gap between traditional document processing and advanced, agent-aware data analysis workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: ALIBABA DATA SCRAPING",
+            "heading": "MICROSOFT AZURE: HORIZONDB",
             "points": [
-                "Anthropic accused Alibaba of utilizing twenty-five thousand fake accounts to scrape proprietary Claude model capabilities.",
-                "This high-profile dispute underscores escalating tensions over unauthorized model distillation and competitive intellectual property theft.",
-                "Enterprises are demanding transparent due diligence protocols regarding how leading AI labs secure proprietary training data.",
-                "Stricter rate-limiting architectures and forensic identity verification will become mandatory to prevent adversarial dataset harvesting."
+                "Microsoft announces Azure HorizonDB, a PostgreSQL-based cloud service engineered for ultra-low latency agentic reads.",
+                "The database provides built-in AI context support to scale mission-critical applications without performance degradation.",
+                "HorizonDB integrates with the Foundry control plane for improved observability and fleet-wide agent governance.",
+                "This infrastructure optimizes data access patterns specifically for real-time agentic reasoning and decision support."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONFIDENTIAL COMPUTING: AGENT SECURITY",
+            "heading": "TECHTARGET: AGENTICOPS DILEMMA",
             "points": [
-                "The Confidential Computing Summit focused heavily on securing agentic workloads against emerging runtime execution threats.",
-                "Hardware-enforced secure enclaves protect sensitive transactional data processed autonomously by distributed AI agent networks.",
-                "Standard container isolation is no longer sufficient when delegating high-privilege operational authority to autonomous software agents.",
-                "Confidential virtual machines will become the foundational infrastructure requirement for executing sensitive enterprise agent workflows."
+                "Industry analysis highlights the growing complexity of AgenticOps as deterministic rule-based management fails to scale.",
+                "LLM-as-a-judge patterns provide promising evaluation but introduce significant cost and latency overhead in production.",
+                "Enterprises are shifting toward specialized validation layers to ensure agent compliance against evolving safety policies.",
+                "Strategic focus is moving from mere agent deployment toward rigorous, verifiable autonomous operations infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ON SEMICONDUCTOR: SYNAPTICS ACQUISITION",
+            "heading": "AMD: HYBRID QUANTUM FUTURE",
             "points": [
-                "ON Semiconductor completed a seven billion dollar acquisition of Synaptics to accelerate physical AI capabilities.",
-                "The merger integrates advanced edge sensing technologies with power-efficient semiconductor processing for industrial automation systems.",
-                "Expanding physical AI portfolios allows semiconductor giants to control end-to-end telemetry and localized machine learning execution.",
-                "Industrial IoT sectors will see accelerated deployment of low-power autonomous chips capable of real-time environmental decision-making."
+                "AMD announces advancements in classical infrastructure to support the integration and scaling of quantum systems.",
+                "The company commits to providing optimized compute cycles for hybrid classical-quantum research and operational deployment.",
+                "This effort focuses on high-performance fabric interconnects necessary for real-time data handling in quantum workflows.",
+                "AMD strengthens its competitive position by bridging high-performance data center capabilities with emerging quantum technologies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
