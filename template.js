@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "SOVEREIGN ENTERPRISE AI",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: BIOGENOME AGENT TOOLKIT",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to provide domain-specific skills for accelerating complex scientific discovery research cycles.",
-                "The toolkit equips agents with specialized computational biology capabilities to process molecular simulation data at an industrial scale.",
-                "Researchers can now deploy multi-agent systems to perform autonomous protein structure modeling and drug candidate optimization workflows efficiently.",
-                "This release underscores the strategic push toward specialized, agentic AI frameworks tailored specifically for pharmaceutical and life sciences applications."
+                "Microsoft launched Azure HorizonDB to deliver ultra-low latency and scalable reads for enterprise PostgreSQL databases.",
+                "The managed service integrates built-in AI capabilities to streamline mission-critical cloud application scaling.",
+                "Operating within Azure, it eliminates separate database configurations to optimize performance-intensive real-time transactional workloads.",
+                "Organizations can deploy responsive applications globally without facing typical cloud data bottlenecks or performance degradation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: GEMINI 3.5 INFRA",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Google Cloud introduced Gemini 3.5 with integrated frontier intelligence and native action capabilities for high-performance enterprise agentic deployments.",
-                "The updated infrastructure supports the agentic data cloud to optimize real-time decision-making processes across global distributed organizational datasets.",
-                "New threat defense features provide automated security protocols specifically engineered to outpace adversaries targeting generative AI application layers.",
-                "Cloud-native development is now transitioning toward fully automated orchestration patterns that leverage Gemini models for complex system management."
+                "OpenAI announced GPT-5.6 Sol, restricting early access exclusively to security-vetted federal and corporate partners.",
+                "The model integrates next-generation cyber defense mechanisms designed to safeguard sensitive critical infrastructure networks.",
+                "Developed under tight federal supervision, this deployment represents a shift toward highly regulated frontier AI systems.",
+                "Enterprise operators must establish advanced compliance protocols to gain clearance for these restricted cognitive models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: SECURE CODEX WORKFLOWS",
+            "heading": "PGEDGE: COLDFRONT STORAGE CONVERGENCE",
             "points": [
-                "OpenAI expanded its security initiatives by deploying Daybreak tools designed to harden and protect global organizational data infrastructure environments.",
-                "New research breakthroughs in discrete geometry allow for mathematical problem-solving that surpasses previous computational constraints using automated modeling agents.",
-                "Enterprise users gain access to enhanced memory and context recognition protocols to streamline complex administrative and development operational tasks.",
-                "Focus remains on scaling safe internal coding agent deployments to maintain software integrity during rapid, automated high-velocity development cycles."
+                "pgEdge introduced ColdFront to unify OLTP and OLAP storage within distributed PostgreSQL database architectures.",
+                "The system reduces operational storage overhead while retaining application compatibility and historical data modification capabilities.",
+                "This convergence solves critical data access latency challenges for autonomous agents querying massive hybrid databases.",
+                "Database administrators can scale transactional and analytical workloads together without maintaining separate database pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: HYBRID QUANTUM INFRASTRUCTURE",
+            "heading": "RED HAT: COLLABORATIVE OSS SECURITY",
             "points": [
-                "AMD advances hybrid quantum computing by providing the essential classical infrastructure required to scale next-generation processing performance environments.",
-                "New research confirms AMD's leadership in high-performance enterprise server CPUs as validated by recent industry-wide analyst infrastructure benchmarks.",
-                "Strategic deployment of 30MW of compute capacity for regulated industries highlights the transition toward sovereign AI infrastructure investment models.",
-                "The firm is optimizing its broad portfolio to ensure robust support for agentic workloads requiring massive rack-scale execution efficiency."
+                "Red Hat partnered with IBM and Chainguard to launch a security clearinghouse for open-source vulnerabilities.",
+                "This initiative coordinates rapid triage to address the exponential rise of AI-generated open-source software security bugs.",
+                "By acting as maintainers of last resort, these companies protect critical digital supply chain infrastructure.",
+                "Engineering teams can consume verified open-source packages with reduced risk of automated code exploit injections."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: OCR 4 ADVANCEMENT",
+            "heading": "SALESFORCE: PAY-PER-RESOLUTION AGENTS",
             "points": [
-                "Mistral AI released OCR 4, a specialized model designed to ingest and structure complex unstructured enterprise documents for downstream reasoning.",
-                "The tool enhances data pipeline automation by converting visual documents into high-fidelity inputs for autonomous agentic processing workflows.",
-                "Enterprise adoption continues to grow across manufacturing and financial services as firms seek to reduce reliance on primary frontier models.",
-                "The platform provides critical control for localized model deployment, reinforcing the company's commitment to flexible and sovereign AI development."
+                "Salesforce unveiled an autonomous customer service Help Agent featuring a novel pay-per-resolution billing framework.",
+                "The system charges enterprises exactly two dollars per successful autonomous resolution across multiple channel platforms.",
+                "This represents a shift from traditional seat-based software licensing toward performance-oriented, outcome-based pricing models.",
+                "Customer experience leaders can instantly scale support operations while maintaining highly predictable, volume-linked operational budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: AI-NATIVE MANUFACTURING",
+            "heading": "IBM: TRANSISTOR DESIGN BREAKTHROUGH",
             "points": [
-                "ASML is applying AI-native engineering to optimize chip lithography processes required for the next generation of semiconductor production machines.",
-                "The company\u2019s strategic partnerships are scaling the semiconductor ecosystem in emerging markets to meet global demand for high-performance AI chips.",
-                "Holistic lithography advancements ensure that microchips achieve superior energy efficiency and speed while minimizing production overhead across global fabrication plants.",
-                "Technical roadmaps integrate advanced AI diagnostic tools to accelerate R&D cycles for sub-nanometer fabrication processes and precision manufacturing systems."
+                "IBM unveiled a revolutionary transistor stacking design engineered to extend semiconductor scaling limits for another decade.",
+                "The hardware breakthrough directly addresses rising power demands and thermal bottlenecks in hyperscale AI supercomputers.",
+                "Utilizing novel atomic-scale architectures, this technology delivers massive efficiency gains for next-generation model training.",
+                "Silicon foundries can sustain performance improvements without relying on increasingly unfeasible monolithic chip manufacturing methods."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STANFORD HAI: REAL-TIME OVERSIGHT",
+            "heading": "MISTRAL AI: OCR 4 DOCUMENT PARSING",
             "points": [
-                "Stanford HAI researchers advocate for integrated real-time monitoring frameworks to address critical safety gaps in clinical and radiological AI.",
-                "Integration of social science with technical development provides empirical data on the productivity impacts of AI across diverse labor sectors.",
-                "Academic restructuring initiatives are mobilizing team science at scale to ensure that open AI development remains a foundational governance pillar.",
-                "Rigorous, independent measurement is prioritized to counteract the widening gap between rapid technological integration and manageable human-centered policy frameworks."
+                "Mistral AI released Mistral OCR 4 to extract structured information from complex, unstructured enterprise documents.",
+                "The model processes dense PDF layouts and scanned images to fuel down-stream autonomous agent reasoning engines.",
+                "By integrating document parsing directly into model architectures, Mistral removes complex, external parsing pipelines entirely.",
+                "Software developers can build robust agentic workflows that ingest enterprise knowledge bases with superior processing accuracy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
