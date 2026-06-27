@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "COGNITIVE ARCHITECTURE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL RELEASE",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "OpenAI officially previewed GPT-5.6 Sol as a highly advanced next-generation model.",
-                "Access remains strictly limited to select enterprise users vetted closely by the United States government.",
-                "The restrictions address mounting regulatory concerns regarding autonomous agent deployment across critical digital infrastructure.",
-                "Vetted entities will pioneer sovereign workloads using this frontier model under strict government compliance protocols."
+                "OpenAI previews GPT-5.6 Sol delivering next generation architecture optimized for agentic workflows and complex reasoning.",
+                "The model establishes new performance benchmarks across professional tool integration and multi-step autonomous execution paths.",
+                "Enterprises gain immediate access to accelerated processing capabilities designed to mitigate typical latency bottlenecks.",
+                "This release signals a critical shift toward highly specialized intelligence layers replacing generic conversational formats."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: MYTHOS REGULATORY CLEARANCE",
+            "heading": "MISTRAL: VIBE AGENTIC ENGINE",
             "points": [
-                "The Trump administration rolled back active bans to permit selective access to Anthropic's Mythos model.",
-                "Approved government agencies and private firms can now leverage the model for highly sensitive workloads.",
-                "This strategic shift reflects tension between immediate national security controls and accelerating domestic AI capabilities.",
-                "Domestic enterprises must implement rigorous monitoring systems to ensure continuous compliance with volatile federal mandates."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: OCR 4 DEPLOYMENT",
-            "points": [
-                "Mistral AI launched Mistral OCR 4 to tackle massive unstructured data challenges across global enterprises.",
-                "The tool enables rapid processing of dense documents without forcing expensive cloud data migration cycles.",
-                "This architecture allows organizations to retain full governance over proprietary datasets within localized execution environments.",
-                "Global enterprises will rapidly scale document intelligence workflows while maintaining total data sovereignty compliance."
+                "Mistral launches Vibe an autonomous agent framework engineered to execute long-horizon software engineering operations.",
+                "Early integrations demonstrate substantial productivity gains by automating code translation and continuous integration testing.",
+                "The system maintains persistent memory across multi-step tasks to bypass legacy context window limitations.",
+                "Software developers can transition routine maintenance to autonomous background instances securing continuous system optimization."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate agentic workflows within the global life sciences sector.",
-                "The platform equips research teams with specialized domain tools to automate complex experimental discovery pipelines.",
-                "This framework integrates with existing supercomputing architecture to coordinate high-throughput biological simulation and modeling.",
-                "Bio-pharmaceutical enterprises will dramatically decrease early-stage therapeutic development timelines using autonomous discovery agents."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
+            "id": 3,
             "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "Microsoft Azure introduced HorizonDB to deliver ultra-low latency database reads and native artificial intelligence capabilities.",
-                "The engine scales mission-critical PostgreSQL applications without compromising transactional throughput or cloud database performance.",
-                "Integrating AI capabilities directly into the database engine eliminates latency overheads caused by external model calls.",
-                "Data architects will leverage this unified platform to build highly responsive, real-time agentic application backends."
+                "Microsoft introduces Azure HorizonDB integrating ultra-low latency reads and native AI capabilities into PostgreSQL.",
+                "The database engine achieves massive scalability gains enabling real-time context retrieval for enterprise agent fleets.",
+                "Native architectural enhancements resolve traditional data transfer bottlenecks between transactional databases and inference engines.",
+                "Engineers can deploy complex retrieval operations directly on historical data pools without risking application performance."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "BROADCOM: CUSTOM INFERENCE SILICON",
+            "id": 4,
+            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
             "points": [
-                "OpenAI and Broadcom teamed up to design and manufacture custom silicon optimized for AI inference workloads.",
-                "This co-developed chip aims to dramatically reduce enterprise operational energy consumption and computational scaling costs.",
-                "Relying on dedicated custom ASICs allows OpenAI to bypass traditional supply bottlenecks in GPU hardware markets.",
-                "Enterprise buyers can anticipate highly optimized cloud deployments and stable pricing schedules for complex inference models."
+                "Qualcomm agrees to acquire Modular to streamline heterogeneous computing execution across diverse edge device landscapes.",
+                "The transaction unifies native runtime compiler technologies with high performance mobile hardware architectures.",
+                "Developers receive a cohesive software stack designed to optimize model compilation across diverse silicon formats.",
+                "This consolidation accelerates local execution speed for complex generative applications operating without cloud dependencies."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "KOMPRISE: APACHE ICEBERG INTEGRATION",
+            "id": 5,
+            "heading": "OPENAI: BROADCOM CO-DEVELOPED CHIP",
             "points": [
-                "Komprise integrated Apache Iceberg to streamline complex unstructured data management across heterogeneous hybrid cloud infrastructures.",
-                "The integration enables deep semantic analysis of cold storage files without triggering expensive data movement costs.",
-                "This standardizes unstructured data formats to prepare legacy file repositories for immediate generative training ingestion.",
-                "Chief Information Officers can optimize storage budgets while simultaneously accelerating enterprise wide data readiness for AI."
+                "OpenAI and Broadcom introduce a co-developed inference chip optimized for high-throughput enterprise workloads.",
+                "Custom silicon designs drastically reduce operational energy costs associated with running frontier language models.",
+                "This development shifts hardware dependence away from traditional GPU clusters toward specialized application ASICs.",
+                "Enterprise cloud providers will integrate these chips to provide highly efficient cost-effective model deployment pathways."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "points": [
+                "NVIDIA releases the BioNeMo Agent Toolkit offering specialized domain tools for digital biology research.",
+                "The software framework accelerates drug discovery workflows by connecting automated design pipelines with deep learning.",
+                "Biological researchers can easily deploy autonomous agents to analyze molecular structures and predict compound interactions.",
+                "This toolset bridges the historical gap between standard computing infrastructure and specialized laboratory automation systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PGEDGE: COLDFRONT DATABASE CONVERGENCE",
+            "points": [
+                "pgEdge launches ColdFront storage architecture to merge transactional and analytical data pools for real-time intelligence.",
+                "System administrators can minimize expensive data duplication processes while preserving high-speed database write speeds.",
+                "The unified storage layer provides a highly cost-efficient foundation for hosting localized machine learning environments.",
+                "Enterprise networks get immediate performance gains by eliminating complex extract transform load pipeline operations entirely."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
