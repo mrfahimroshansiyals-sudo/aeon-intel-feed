@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ARCHITECTURAL",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "COGNITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM: MOORE'S LAW EXTENSION",
+            "heading": "MICROSOFT: HORIZONDB RELEASE",
             "points": [
-                "IBM has unveiled a pioneering transistor stacking technology designed to extend Moore's Law for another decade.",
-                "This architecture utilizes innovative materials to significantly bypass traditional silicon physical scaling limitations.",
-                "Integrating these dense chips allows hyper-scale data centers to maximize compute density while reducing power consumption.",
-                "Hardware engineers must prepare for a massive divergence in fabrication strategies over the next five years."
+                "Microsoft Azure launched HorizonDB to deliver ultra-low latency PostgreSQL services optimized for enterprise agentic AI workloads.",
+                "The system provides integrated vector operations and scalable storage to power real-time context retrieval for agents.",
+                "This architecture removes traditional serialization bottlenecks by processing transactional and analytical queries within a unified engine.",
+                "Enterprise developers gain immediate performance improvements when deploying memory-intensive applications across distributed global cloud regions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "heading": "MISTRAL AI: OCR UPGRADE",
             "points": [
-                "AMD signed a definitive agreement with Rackspace Technology for a phased thirty megawatt AI compute deployment.",
-                "This multi-phase infrastructure rollout will deliver high-performance EPYC and Instinct processors to regulated enterprise workloads.",
-                "Organizations gain robust on-premises processing power to execute private machine learning operations securely.",
-                "This strategic partnership directly challenges competitor cloud dominance in sovereign data center deployments."
+                "Mistral AI unveiled Mistral OCR Four to accelerate automated processing of highly complex unstructured enterprise documents.",
+                "The specialized model extracts deep structural metadata, tables, and nested figures with unmatched multi-modal comprehension speed.",
+                "By integrating this tool directly into Vibe agents, organizations can fully automate legacy data ingestion workflows.",
+                "This release significantly lowers cognitive processing overhead for intensive legal, financial, and industrial administrative tasks worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "NVIDIA: RUBIN DEPLOYMENT",
             "points": [
-                "Microsoft Azure launched HorizonDB to provide ultra-low latency and built-in artificial intelligence for PostgreSQL databases.",
-                "The system optimizes read performance to scale mission-critical applications without slowing down active production pipelines.",
-                "Developers can seamlessly build and deploy sophisticated agents grounded directly on enterprise operational data.",
-                "This integration will significantly decrease the overhead costs associated with external vector database synchronization."
+                "NVIDIA announced the Vera Rubin platform to power next-generation supercomputers optimized for planetary-scale scientific AI workloads.",
+                "The system integrates advanced Vera CPUs and ultra-fast networking to deliver unprecedented multi-node tensor processing efficiency.",
+                "This architectural leap establishes a highly scalable foundation for executing massive agentic simulations and physical AI models.",
+                "Global research laboratories can now dramatically accelerate material simulations and complex astronomical calculations at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
+            "heading": "OPENAI: INFERENCE HARDWARE",
             "points": [
-                "Mistral AI introduced its OCR four model specifically engineered to extract data from highly unstructured documents.",
-                "The system processes complex layouts and specialized symbols with unprecedented precision for enterprise pipelines.",
-                "This release accelerates document intelligence workflows and enhances retrieval-augmented generation accuracy for global enterprises.",
-                "Sovereign organizations can now run high-throughput document parsing entirely within secure, on-premises environments."
+                "OpenAI collaborated with Broadcom to design a highly specialized custom silicon chip dedicated to AI inference tasks.",
+                "The new processing unit dramatically reduces operational energy consumption while accelerating complex token generation during deployment.",
+                "This hardware initiative minimizes dependency on general-purpose GPUs and stabilizes soaring infrastructure costs for massive enterprises.",
+                "Developers will experience highly cost-effective scaling when deploying advanced reasoning models like GPT-5.6 Sol globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "US GOV: OPENAI EXPORT RESTRICTIONS",
+            "heading": "IBM: TRANSISTOR EVOLUTION",
             "points": [
-                "The United States government instructed OpenAI to restrict foreign access to its advanced model named Sol.",
-                "This decision enforces national security controls over next-generation models capable of executing complex autonomous workflows.",
-                "Sovereign states are accelerating localized model training to mitigate dependencies on restricted foreign technology platforms.",
-                "Enterprise compliance officers must implement rigorous guardrails to ensure alignment with rapidly changing export regulations."
+                "IBM departed from competitors by developing a novel vertical transistor stacking architecture to extend classic silicon scaling.",
+                "The unique three-dimensional design offers significant power efficiency gains and chip density improvements over traditional horizontal layouts.",
+                "This strategic engineering divergence challenges the uniform physical layouts currently championed by TSMC, Intel, and Samsung.",
+                "Next-generation semiconductor fabs must adapt their lithography strategies to accommodate this highly disruptive vertical integration paradigm."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PGEDGE: COLDFRONT DATABASE ENGINE",
+            "heading": "ANTHROPIC: MODEL SCRAPING",
             "points": [
-                "Database provider pgEdge joined the industry trend by launching ColdFront to merge relational and analytical storage.",
-                "The converged platform enables concurrent execution of transactional updates and real-time analytical queries on historical data.",
-                "By eliminating complex data pipeline transitions, developers can build faster-responding agentic workflows directly on databases.",
-                "Architects will rapidly transition toward unified database platforms to streamline infrastructure complexity and latency."
+                "Anthropic formally accused Alibaba of utilizing over twenty-five thousand automated fake accounts to scrape proprietary model capabilities.",
+                "The coordinated extraction campaign targeted Claude's advanced reasoning behaviors to train competitive domestic Chinese neural networks.",
+                "This high-profile dispute underscores the intensifying global rivalry over frontier model security and intellectual property protection.",
+                "Sovereign entities are expected to enact stricter compliance protocols to prevent unauthorized data collection by foreign entities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SALESFORCE: TRANSACTIONAL AGENT PRICING",
+            "heading": "COMPLIANCE: ADVISORY FORMATION",
             "points": [
-                "Salesforce launched its autonomous AI Help Agent introducing a unique pay-per-resolution commercial model.",
-                "Enterprises will be billed a flat rate of two dollars for every successfully resolved customer issue.",
-                "This transactional pricing structure shifts software valuation from seat-based licensing to direct operational value delivered.",
-                "Customer service organizations will rapidly automate tier-one operations to optimize baseline human personnel costs."
+                "The European Commission officially established the Advisory Forum to guide technical expertise under the EU AI Act.",
+                "This independent governance body will advise the European AI Office on systemic risks and enforcement of mandates.",
+                "The framework introduces rigorous transparency rules for deployers of high-risk systems operating within the single European market.",
+                "Global enterprise compliance officers must quickly align their development pipelines with these emerging statutory evaluation standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
