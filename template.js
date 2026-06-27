@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN ARCHITECTURAL",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DEEPMIND: AGENTIC FRONTIER",
+            "heading": "IBM: MOORE'S LAW EXTENSION",
             "points": [
-                "Google DeepMind has unveiled the Gemini 3.5 series which integrates frontier intelligence with proactive agentic capabilities for enterprise users.",
-                "The new platform enables real-time interaction models designed to facilitate complex multi-step reasoning across scientific and robotic application domains.",
-                "Strategic deployment is focusing on autonomous system orchestration by embedding models directly into existing research and planning infrastructure frameworks.",
-                "This release marks a pivot toward action-oriented AI systems that bridge the gap between pure research discovery and industrial implementation."
+                "IBM has unveiled a pioneering transistor stacking technology designed to extend Moore's Law for another decade.",
+                "This architecture utilizes innovative materials to significantly bypass traditional silicon physical scaling limitations.",
+                "Integrating these dense chips allows hyper-scale data centers to maximize compute density while reducing power consumption.",
+                "Hardware engineers must prepare for a massive divergence in fabrication strategies over the next five years."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ASML: LITHOGRAPHY ADVANCEMENTS",
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
             "points": [
-                "ASML is accelerating its integration of AI-native engineering methodologies to support the next generation of semiconductor chip manufacturing requirements.",
-                "The company is leveraging its holistic lithography ecosystem to optimize high-precision patterning processes critical for advanced node AI processor production.",
-                "Strategic partnerships in India and Europe emphasize a global push to stabilize the semiconductor supply chain through regional manufacturing ecosystem development.",
-                "Technological advancements are focused on enabling chipmakers to achieve higher energy efficiency and performance density for modern computing requirements."
+                "AMD signed a definitive agreement with Rackspace Technology for a phased thirty megawatt AI compute deployment.",
+                "This multi-phase infrastructure rollout will deliver high-performance EPYC and Instinct processors to regulated enterprise workloads.",
+                "Organizations gain robust on-premises processing power to execute private machine learning operations securely.",
+                "This strategic partnership directly challenges competitor cloud dominance in sovereign data center deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: AGENTIC INFRASTRUCTURE",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Microsoft Azure has launched Rayfin on Microsoft Fabric providing a fully managed backend optimized for agent-based and code-heavy enterprise workloads.",
-                "Foundry IQ enables the unification of organizational data context for AI agents to ensure trusted and scalable outcomes in production.",
-                "The new control plane offers enhanced observability guardrails and policy management to help developers safely scale multi-agent fleets across environments.",
-                "Architecture designs are shifting toward low-latency postgres integration to support the demands of high-performance mission-critical AI applications in enterprise."
+                "Microsoft Azure launched HorizonDB to provide ultra-low latency and built-in artificial intelligence for PostgreSQL databases.",
+                "The system optimizes read performance to scale mission-critical applications without slowing down active production pipelines.",
+                "Developers can seamlessly build and deploy sophisticated agents grounded directly on enterprise operational data.",
+                "This integration will significantly decrease the overhead costs associated with external vector database synchronization."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "NVIDIA has introduced the BioNeMo Agent Toolkit specifically designed to provide domain-specific tools for accelerating life sciences research and discovery.",
-                "Europe is witnessing a significant expansion in AI infrastructure with 35 new NVIDIA-powered HPC supercomputers currently entering active development phases.",
-                "The Vera Rubin platform combines native agentic processing capabilities with pod-scale infrastructure to support massive-scale AI training and inferencing requirements.",
-                "Integration of trusted 24/7 AI agents into telecommunications operations highlights the rapid commercialization and physical deployment of specialized models today."
+                "Mistral AI introduced its OCR four model specifically engineered to extract data from highly unstructured documents.",
+                "The system processes complex layouts and specialized symbols with unprecedented precision for enterprise pipelines.",
+                "This release accelerates document intelligence workflows and enhances retrieval-augmented generation accuracy for global enterprises.",
+                "Sovereign organizations can now run high-throughput document parsing entirely within secure, on-premises environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AI BUSINESS: SOVEREIGNTY PHASE",
+            "heading": "US GOV: OPENAI EXPORT RESTRICTIONS",
             "points": [
-                "The global AI market is entering a decisive sovereignty phase as geopolitical focus shifts toward controlling local data and infrastructure ownership.",
-                "Physical AI commercialization is gaining momentum as manufacturers move from limited research demonstrations to large-scale real-world deployment of autonomous hardware.",
-                "Investments are surging in AI energy infrastructure to address the growing power demands caused by massive data center expansion and computation.",
-                "Regulatory bodies in Europe are intensifying debates regarding digital sovereignty to ensure local control over critical AI-driven economic and industrial systems."
+                "The United States government instructed OpenAI to restrict foreign access to its advanced model named Sol.",
+                "This decision enforces national security controls over next-generation models capable of executing complex autonomous workflows.",
+                "Sovereign states are accelerating localized model training to mitigate dependencies on restricted foreign technology platforms.",
+                "Enterprise compliance officers must implement rigorous guardrails to ensure alignment with rapidly changing export regulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: ENTERPRISE SHIFT",
+            "heading": "PGEDGE: COLDFRONT DATABASE ENGINE",
             "points": [
-                "Enterprise data storage vendors are increasingly integrating Apache Iceberg to facilitate unstructured data management for improved AI readiness without expensive movement.",
-                "Growing adoption of agentic AI solutions in healthcare and finance is driving the need for tighter regulatory oversight of autonomous model actions.",
-                "IT departments are prioritizing energy and cost-efficiency measures as companies scramble to optimize AI infrastructure for long-term sustainable cloud deployment models.",
-                "Mobile app security and code auditing are becoming critical focus areas for developers managing the lifecycle of complex agentic AI applications."
+                "Database provider pgEdge joined the industry trend by launching ColdFront to merge relational and analytical storage.",
+                "The converged platform enables concurrent execution of transactional updates and real-time analytical queries on historical data.",
+                "By eliminating complex data pipeline transitions, developers can build faster-responding agentic workflows directly on databases.",
+                "Architects will rapidly transition toward unified database platforms to streamline infrastructure complexity and latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: OPEN AI ECOSYSTEM",
+            "heading": "SALESFORCE: TRANSACTIONAL AGENT PRICING",
             "points": [
-                "AMD continues to advance its hybrid quantum and AI computing strategy with a phased deployment of massive compute capacity for enterprises.",
-                "The company is solidifying its position in the AI vendor race by providing a comprehensive portfolio of CPU GPU and adaptive solutions.",
-                "Strategic investments in UK-based innovation labs demonstrate a commitment to advancing sovereign AI capabilities through open ecosystem collaboration with academia.",
-                "Developer-focused tools and optimized software platforms are enabling enterprises to scale agentic workloads efficiently across data center and edge environments."
+                "Salesforce launched its autonomous AI Help Agent introducing a unique pay-per-resolution commercial model.",
+                "Enterprises will be billed a flat rate of two dollars for every successfully resolved customer issue.",
+                "This transactional pricing structure shifts software valuation from seat-based licensing to direct operational value delivered.",
+                "Customer service organizations will rapidly automate tier-one operations to optimize baseline human personnel costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
