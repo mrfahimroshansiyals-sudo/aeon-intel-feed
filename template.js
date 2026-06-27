@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "SOVEREIGN ARCHITECTURAL",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: BIO-AGENT BREAKTHROUGH",
+            "heading": "OPENAI: BROADCOM CUSTOM SILICON",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate life sciences research via domain-specific agentic workflows.",
-                "The toolkit equips scientific enterprises with pre-built skills for complex molecular simulations and drug discovery pipelines.",
-                "Integration with existing infrastructure allows biotech firms to deploy laboratory-grade AI agents at massive operational scale.",
-                "This release marks a pivot toward industry-vertical specific agents designed for high-stakes, precision scientific computing environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT: FABRIC AGENT SERVICE",
-            "points": [
-                "Azure introduced Rayfin, an agent-optimized backend-as-a-service, directly into the existing Microsoft Fabric ecosystem architecture.",
-                "Rayfin enables developers to deploy autonomous agents with managed code execution for enterprise-grade data orchestration tasks.",
-                "This backend integration reduces latency in multi-agent workflows by unifying context across disparate organizational data silos.",
-                "Enterprise users can now implement persistent AI agents capable of handling complex transactional logic within Fabric."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TECHTARGET: DATA STORAGE SHIFT",
-            "points": [
-                "Komprise integrated Apache Iceberg to enable enterprises to analyze unstructured data without incurring costly data movement fees.",
-                "This storage-layer advancement is critical for AI readiness, allowing efficient processing of massive, non-indexed datasets globally.",
-                "Enterprises are increasingly adopting these architectural patterns to lower overhead while maintaining high performance for AI.",
-                "Data management vendors are converging on zero-copy analytics strategies to satisfy the intensive demands of agents."
+                "OpenAI collaborates with Broadcom to develop custom silicon optimized specifically for enterprise AI inference workloads.",
+                "The custom processing architecture directly targets the escalating energy constraints and hardware acquisition costs of modern infrastructure.",
+                "This co-development initiative marks a significant shift away from total dependency on off-the-shelf graphics processing hardware.",
+                "Broadcom vertical integration leverages custom ASIC manufacturing pipelines to secure long-term deployment scalability for advanced agentic models."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "CNBC: ANTHROPIC MYTHOS RELEASE",
+            "id": 2,
+            "heading": "IBM: DIVERGENT TRANSISTOR ARCHITECTURE",
             "points": [
-                "The Trump administration authorized Anthropic to release the Mythos model to select private companies and government agencies.",
-                "This high-stakes deployment indicates a tactical easing of AI export and security restrictions on advanced frontier models.",
-                "Market observers note this shift reflects a broader geopolitical competition over AI supremacy and sovereign model control.",
-                "The move provides select organizations with immediate access to cutting-edge reasoning capabilities previously held back by regulation."
+                "IBM introduces a unique transistor stacking methodology that deviates from paths chosen by TSMC and Intel.",
+                "The proprietary semiconductor design provides a reliable alternative pathway to extend Moore Law scaling for another decade.",
+                "Divergent architecture allows higher computing density within multi-layered chips without suffering critical thermal dissipation or power degradation.",
+                "This hardware breakthrough establishes a new competitive front for manufacturing advanced hyperscale artificial intelligence supercomputing processors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: VERA RUBIN PLATFORM",
+            "points": [
+                "NVIDIA launches the Vera Rubin architecture designed to deliver extreme POD-scale supercomputing power for agentic workloads.",
+                "The platform integrates specialized Vera CPUs optimized to manage high-throughput data pipelines for extreme scientific simulation environments.",
+                "Los Alamos National Laboratory has selected this specialized processing ecosystem to power next-generation sovereign physics simulations.",
+                "The unified hardware blueprint consolidates on-premise infrastructure into cohesive manufacturing factories optimized for deep autonomous agency."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
+            "points": [
+                "Qualcomm acquires AI development startup Modular to unify edge processing environments with next-generation unified software stacks.",
+                "The acquisition consolidates the Mojo programming framework directly into Qualcomm hardware ecosystems for superior on-device intelligence.",
+                "Integrating unified runtimes solves the chronic fragmentation issues currently limiting complex local generative AI processing performance.",
+                "Developers can now deploy high-performance agent architectures directly onto consumer hardware without utilizing expensive cloud infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CIO MAGAZINE: AGENT GOVERNANCE",
+            "heading": "OPENAI: REGULATORY ROLLOUT LIMITATIONS",
             "points": [
-                "IT leaders report that agentic AI requires new governance layers to monitor actions against compliance and policies.",
-                "Standard AI frameworks lack the granular, real-time evaluation logic necessary to prevent unauthorized or erratic agent behaviors.",
-                "Enterprises are forced to implement separate validation layers to verify every autonomous decision before final execution.",
-                "The industry is moving toward a mandatory oversight model to mitigate risks inherent in complex agent orchestration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INFO-WORLD: OPEN SOURCE AI",
-            "points": [
-                "OpenAI launched a Patch the Planet initiative to fix vulnerabilities in core open-source projects using AI.",
-                "The program pairs automated vulnerability analysis with human review to remediate critical flaws in global infrastructure.",
-                "Developers are utilizing these tools to secure their supply chains against increasingly sophisticated AI-driven cyber threats.",
-                "This initiative highlights the growing necessity for automated defense layers in maintaining critical open-source software foundations."
+                "Federal authorities instruct OpenAI to restrict global distribution of its previewed flagship artificial intelligence model Sol.",
+                "Security directives target potential national security vectors and alignment risks associated with highly autonomous agentic systems.",
+                "The sudden intervention emphasizes growing government scrutiny regarding the rapid decentralization of highly advanced generative platforms.",
+                "Global organizations must prepare for localized access policies and stricter operational boundaries imposed on frontier model deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MISTRAL: DOCUMENT INTELLIGENCE",
+            "id": 6,
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "Mistral released OCR 4, a specialized solution designed to tackle complex unstructured document processing for global enterprises.",
-                "The model provides advanced capabilities for extracting data from high-density layouts to feed into downstream agentic tasks.",
-                "This release supports the growing market trend toward using AI for autonomous synthesis of massive internal reports.",
-                "Enterprises can now leverage these tools to bridge the gap between legacy paper archives and AI workflows."
+                "Mistral AI launches OCR 4 designed specifically to unlock complex unstructured data for enterprise agent pipelines.",
+                "The specialized model processes highly dense multi-modal documents, accelerating retrieval-augmented generation workloads across key industrial sectors.",
+                "This software allows organizations to retain full sovereignty over document parsing pipelines without relying on external APIs.",
+                "Streamlining enterprise ingestion architectures mitigates traditional compliance hurdles while optimizing overall training efficiency for custom models."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PGEDGE: DATABASE CONVERGENCE ENGINE",
+            "points": [
+                "pgEdge releases ColdFront to unify transactional and analytical database systems within a single highly integrated platform.",
+                "The converged database platform minimizes costly data latency for autonomous agents executing real-time enterprise workflow decisions.",
+                "Merging relational structures simplifies storage management while significantly reducing structural operational overhead for high-throughput AI workloads.",
+                "Database modernization allows safe historical analytical modifications directly inside native production transaction logs without processing bottlenecks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
