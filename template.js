@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: MYTHOS DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 SOL RELEASE",
             "points": [
-                "Anthropic gains federal clearance to deploy its premium Mythos model to select enterprises and government agencies.",
-                "Secure deployment structures enable automated multi-agent collaboration across high-compliance national defense operations and infrastructure projects.",
-                "Decoupling legacy government frameworks permits accelerated integration of highly protected large-scale linguistic intelligence pipelines.",
-                "Public sector organizations will rapidly transition manual regulatory compliance systems into autonomous, sovereign digital decision engines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 SOL",
-            "points": [
-                "OpenAI launches GPT-5.6 Sol in a restricted preview for government-vetted organizations seeking cyber defense tools.",
-                "The model specializes in automated vulnerability remediation and advanced secure code generation across core infrastructure systems.",
-                "Vetted deployment models restrict early access to guarantee alignment with critical national security and defense protocols.",
-                "Enterprises will leverage these specialized capabilities to automate defense systems against complex, AI-driven malware attacks."
+                "OpenAI officially previewed GPT-5.6 Sol as a highly advanced next-generation model.",
+                "Access remains strictly limited to select enterprise users vetted closely by the United States government.",
+                "The restrictions address mounting regulatory concerns regarding autonomous agent deployment across critical digital infrastructure.",
+                "Vetted entities will pioneer sovereign workloads using this frontier model under strict government compliance protocols."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "id": 2,
+            "heading": "ANTHROPIC: MYTHOS REGULATORY CLEARANCE",
             "points": [
-                "Microsoft launches Azure HorizonDB delivering built-in artificial intelligence features natively integrated into PostgreSQL cloud database environments.",
-                "Ultra-low latency reads enable real-time semantic search and agentic indexing across massive enterprise transaction datasets.",
-                "Engineering teams can scale mission-critical applications instantly without suffering performance degradation during concurrent execution phases.",
-                "Database administrators will transition traditional transactional structures into highly responsive, AI-native memory caches for autonomous agents."
+                "The Trump administration rolled back active bans to permit selective access to Anthropic's Mythos model.",
+                "Approved government agencies and private firms can now leverage the model for highly sensitive workloads.",
+                "This strategic shift reflects tension between immediate national security controls and accelerating domestic AI capabilities.",
+                "Domestic enterprises must implement rigorous monitoring systems to ensure continuous compliance with volatile federal mandates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MISTRAL AI: OCR 4 DEPLOYMENT",
+            "points": [
+                "Mistral AI launched Mistral OCR 4 to tackle massive unstructured data challenges across global enterprises.",
+                "The tool enables rapid processing of dense documents without forcing expensive cloud data migration cycles.",
+                "This architecture allows organizations to retain full governance over proprietary datasets within localized execution environments.",
+                "Global enterprises will rapidly scale document intelligence workflows while maintaining total data sovereignty compliance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FABRIC RAYFIN",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Microsoft Fabric integrates Rayfin to provide a fully managed, agent-optimized backend database service via native SDKs.",
-                "Decentralized agents gain standardized execution environments to query structured storage arrays with minimal data transfer latency.",
-                "Unified analytics integration allows developers to deploy operational agent code directly alongside modern enterprise lakehouse architectures.",
-                "Engineering teams will utilize Rayfin to orchestrate complex transactional workflows across highly distributed cloud processing environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: BIONEMO TOOLKIT",
-            "points": [
-                "NVIDIA unveils the BioNeMo Agent Toolkit to accelerate drug discovery pipelines using highly specialized agentic tools.",
-                "Life sciences researchers can orchestrate complex biological simulations and predict molecular structures using accelerated computing nodes.",
-                "Integrating domain-specific physical AI tools decreases biochemical processing timescales from months to highly automated hourly execution cycles.",
-                "Pharmaceutical enterprises will rapidly deploy autonomous laboratory assistants to discover novel therapeutic compounds with minimal manual trial."
+                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate agentic workflows within the global life sciences sector.",
+                "The platform equips research teams with specialized domain tools to automate complex experimental discovery pipelines.",
+                "This framework integrates with existing supercomputing architecture to coordinate high-throughput biological simulation and modeling.",
+                "Bio-pharmaceutical enterprises will dramatically decrease early-stage therapeutic development timelines using autonomous discovery agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "id": 5,
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology for a phased thirty-megawatt deployment of enterprise compute.",
-                "Dedicated server clusters optimize heavy inference workloads for regulated industries requiring physical sovereignty and strict data separation.",
-                "Leveraging high-efficiency EPYC processors reduces operational carbon overheads while maximizing structural compute density across distributed centers.",
-                "Host companies will capture rising sovereign market demand by offering compliant, hardware-isolated processing infrastructure to enterprise buyers."
+                "Microsoft Azure introduced HorizonDB to deliver ultra-low latency database reads and native artificial intelligence capabilities.",
+                "The engine scales mission-critical PostgreSQL applications without compromising transactional throughput or cloud database performance.",
+                "Integrating AI capabilities directly into the database engine eliminates latency overheads caused by external model calls.",
+                "Data architects will leverage this unified platform to build highly responsive, real-time agentic application backends."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "BROADCOM: CUSTOM INFERENCE SILICON",
+            "points": [
+                "OpenAI and Broadcom teamed up to design and manufacture custom silicon optimized for AI inference workloads.",
+                "This co-developed chip aims to dramatically reduce enterprise operational energy consumption and computational scaling costs.",
+                "Relying on dedicated custom ASICs allows OpenAI to bypass traditional supply bottlenecks in GPU hardware markets.",
+                "Enterprise buyers can anticipate highly optimized cloud deployments and stable pricing schedules for complex inference models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PGEDGE: COLDFRONT ARCHITECTURE",
+            "heading": "KOMPRISE: APACHE ICEBERG INTEGRATION",
             "points": [
-                "pgEdge launches ColdFront to merge OLTP database speeds with cost-effective OLAP cloud storage arrays for AI applications.",
-                "The integrated architecture reduces general database maintenance overhead without sacrificing real-time querying performance on historical datasets.",
-                "Localized multi-master database clusters synchronize structured data dynamically across secure global network edges with low latency.",
-                "Enterprise developers will eliminate expensive offline data migration pipelines by analyzing operational data natively where it resides."
+                "Komprise integrated Apache Iceberg to streamline complex unstructured data management across heterogeneous hybrid cloud infrastructures.",
+                "The integration enables deep semantic analysis of cold storage files without triggering expensive data movement costs.",
+                "This standardizes unstructured data formats to prepare legacy file repositories for immediate generative training ingestion.",
+                "Chief Information Officers can optimize storage budgets while simultaneously accelerating enterprise wide data readiness for AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
