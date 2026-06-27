@@ -1,98 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE ARCHITECTURE",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "NVIDIA: BIO-AGENT BREAKTHROUGH",
             "points": [
-                "OpenAI previews GPT-5.6 Sol delivering next generation architecture optimized for agentic workflows and complex reasoning.",
-                "The model establishes new performance benchmarks across professional tool integration and multi-step autonomous execution paths.",
-                "Enterprises gain immediate access to accelerated processing capabilities designed to mitigate typical latency bottlenecks.",
-                "This release signals a critical shift toward highly specialized intelligence layers replacing generic conversational formats."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MISTRAL: VIBE AGENTIC ENGINE",
-            "points": [
-                "Mistral launches Vibe an autonomous agent framework engineered to execute long-horizon software engineering operations.",
-                "Early integrations demonstrate substantial productivity gains by automating code translation and continuous integration testing.",
-                "The system maintains persistent memory across multi-step tasks to bypass legacy context window limitations.",
-                "Software developers can transition routine maintenance to autonomous background instances securing continuous system optimization."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-            "points": [
-                "Microsoft introduces Azure HorizonDB integrating ultra-low latency reads and native AI capabilities into PostgreSQL.",
-                "The database engine achieves massive scalability gains enabling real-time context retrieval for enterprise agent fleets.",
-                "Native architectural enhancements resolve traditional data transfer bottlenecks between transactional databases and inference engines.",
-                "Engineers can deploy complex retrieval operations directly on historical data pools without risking application performance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
-            "points": [
-                "Qualcomm agrees to acquire Modular to streamline heterogeneous computing execution across diverse edge device landscapes.",
-                "The transaction unifies native runtime compiler technologies with high performance mobile hardware architectures.",
-                "Developers receive a cohesive software stack designed to optimize model compilation across diverse silicon formats.",
-                "This consolidation accelerates local execution speed for complex generative applications operating without cloud dependencies."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "OPENAI: BROADCOM CO-DEVELOPED CHIP",
-            "points": [
-                "OpenAI and Broadcom introduce a co-developed inference chip optimized for high-throughput enterprise workloads.",
-                "Custom silicon designs drastically reduce operational energy costs associated with running frontier language models.",
-                "This development shifts hardware dependence away from traditional GPU clusters toward specialized application ASICs.",
-                "Enterprise cloud providers will integrate these chips to provide highly efficient cost-effective model deployment pathways."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "NVIDIA releases the BioNeMo Agent Toolkit offering specialized domain tools for digital biology research.",
-                "The software framework accelerates drug discovery workflows by connecting automated design pipelines with deep learning.",
-                "Biological researchers can easily deploy autonomous agents to analyze molecular structures and predict compound interactions.",
-                "This toolset bridges the historical gap between standard computing infrastructure and specialized laboratory automation systems."
+                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate life sciences research via domain-specific agentic workflows.",
+                "The toolkit equips scientific enterprises with pre-built skills for complex molecular simulations and drug discovery pipelines.",
+                "Integration with existing infrastructure allows biotech firms to deploy laboratory-grade AI agents at massive operational scale.",
+                "This release marks a pivot toward industry-vertical specific agents designed for high-stakes, precision scientific computing environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "PGEDGE: COLDFRONT DATABASE CONVERGENCE",
+            "id": 2,
+            "heading": "MICROSOFT: FABRIC AGENT SERVICE",
             "points": [
-                "pgEdge launches ColdFront storage architecture to merge transactional and analytical data pools for real-time intelligence.",
-                "System administrators can minimize expensive data duplication processes while preserving high-speed database write speeds.",
-                "The unified storage layer provides a highly cost-efficient foundation for hosting localized machine learning environments.",
-                "Enterprise networks get immediate performance gains by eliminating complex extract transform load pipeline operations entirely."
+                "Azure introduced Rayfin, an agent-optimized backend-as-a-service, directly into the existing Microsoft Fabric ecosystem architecture.",
+                "Rayfin enables developers to deploy autonomous agents with managed code execution for enterprise-grade data orchestration tasks.",
+                "This backend integration reduces latency in multi-agent workflows by unifying context across disparate organizational data silos.",
+                "Enterprise users can now implement persistent AI agents capable of handling complex transactional logic within Fabric."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "TECHTARGET: DATA STORAGE SHIFT",
+            "points": [
+                "Komprise integrated Apache Iceberg to enable enterprises to analyze unstructured data without incurring costly data movement fees.",
+                "This storage-layer advancement is critical for AI readiness, allowing efficient processing of massive, non-indexed datasets globally.",
+                "Enterprises are increasingly adopting these architectural patterns to lower overhead while maintaining high performance for AI.",
+                "Data management vendors are converging on zero-copy analytics strategies to satisfy the intensive demands of agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CNBC: ANTHROPIC MYTHOS RELEASE",
+            "points": [
+                "The Trump administration authorized Anthropic to release the Mythos model to select private companies and government agencies.",
+                "This high-stakes deployment indicates a tactical easing of AI export and security restrictions on advanced frontier models.",
+                "Market observers note this shift reflects a broader geopolitical competition over AI supremacy and sovereign model control.",
+                "The move provides select organizations with immediate access to cutting-edge reasoning capabilities previously held back by regulation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CIO MAGAZINE: AGENT GOVERNANCE",
+            "points": [
+                "IT leaders report that agentic AI requires new governance layers to monitor actions against compliance and policies.",
+                "Standard AI frameworks lack the granular, real-time evaluation logic necessary to prevent unauthorized or erratic agent behaviors.",
+                "Enterprises are forced to implement separate validation layers to verify every autonomous decision before final execution.",
+                "The industry is moving toward a mandatory oversight model to mitigate risks inherent in complex agent orchestration."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "INFO-WORLD: OPEN SOURCE AI",
+            "points": [
+                "OpenAI launched a Patch the Planet initiative to fix vulnerabilities in core open-source projects using AI.",
+                "The program pairs automated vulnerability analysis with human review to remediate critical flaws in global infrastructure.",
+                "Developers are utilizing these tools to secure their supply chains against increasingly sophisticated AI-driven cyber threats.",
+                "This initiative highlights the growing necessity for automated defense layers in maintaining critical open-source software foundations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL: DOCUMENT INTELLIGENCE",
+            "points": [
+                "Mistral released OCR 4, a specialized solution designed to tackle complex unstructured document processing for global enterprises.",
+                "The model provides advanced capabilities for extracting data from high-density layouts to feed into downstream agentic tasks.",
+                "This release supports the growing market trend toward using AI for autonomous synthesis of massive internal reports.",
+                "Enterprises can now leverage these tools to bridge the gap between legacy paper archives and AI workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
