@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE SILICON",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "SOVEREIGN DATA",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AZURE HORIZONDB DEPLOYMENT",
+            "heading": "PGEDGE: COLDFRONT DEPLOYMENT",
             "points": [
-                "Microsoft Azure launched HorizonDB to bring integrated artificial intelligence capabilities and ultra-low latency reads to PostgreSQL.",
-                "The architecture processes mission-critical data scaling without performance degradation, bypassing traditional distributed database limits.",
-                "Developers can build resilient, highly scalable analytical applications by leveraging direct grounding context from localized tables.",
-                "Enterprise infrastructure gains native scalability, decoupling compute from stateful memory layers to optimize execution throughput."
+                "pgEdge released ColdFront to merge relational OLTP and OLAP storage systems for distributed AI databases.",
+                "Distributed enterprises can now execute localized analytical queries directly alongside transactional workloads without data replication latency.",
+                "The architecture reduces cloud storage expenses by tiering historic data assets into lower-cost object storage pools.",
+                "Database administrators will increasingly adopt unified database engines to eliminate complex pipeline architectures across global edges."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: AI THREAT DEFENSE",
+            "heading": "KOMPRISE: ICEBERG INTEGRATION",
             "points": [
-                "Google Cloud deployed Google AI Threat Defense to autonomously identify, analyze, and neutralize advanced system security adversaries.",
-                "The system monitors high-throughput workloads to mitigate zero-day vectors before they impact critical enterprise cloud environments.",
-                "Deep telemetry integration enables continuous behavioral auditing across localized virtual machines and Kubernetes orchestration frameworks.",
-                "Security operations centers transition to automated defense postures, eliminating manual remediation loops for complex infrastructure exploits."
+                "Komprise integrated Apache Iceberg to enable direct analytics on massive unstructured corporate datasets without migration.",
+                "This integration allows enterprise software to query unstructured data in place, reducing transfer fees.",
+                "By exposing unstructured storage directly to cloud query engines, organizations accelerate training data readiness.",
+                "Enterprise data architects can bypass proprietary pipelines in favor of open storage formats for AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
+            "heading": "REGULATORY: ACCESS LIMITATION",
             "points": [
-                "Mistral AI launched Mistral OCR 4 to enable advanced document intelligence and seamless unstructured data ingestion.",
-                "The specialized engine processes massive, multi-format business documents, converting complex figures and tables into structured JSON.",
-                "Integration with enterprise pipelines lowers latency, allowing downstream models to ingest historical archives without manual parsing.",
-                "Organizations can bypass proprietary document parsers, establishing secure, sovereign pipelines for internal model alignment and training."
+                "United States regulators directed OpenAI to restrict external access to its most powerful frontier intelligence systems.",
+                "This restriction impacts global enterprises seeking to leverage raw model capabilities for advanced automated workflows.",
+                "The policy reflects escalating national security concerns surrounding the export and misuse of sovereign AI capabilities.",
+                "Organizations must pivot toward private, self-hosted open-weights models to ensure complete developmental and operational independence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PGEDGE: DATABASE STORAGE MERGER",
+            "heading": "CONGRESS: REPLICA REGULATION",
             "points": [
-                "pgEdge integrated Apache Iceberg into its ColdFront architecture, combining transactional and analytical storage for artificial intelligence.",
-                "The hybrid engine eliminates expensive data movement, executing real-time analytical queries directly over live transactional data tables.",
-                "Distributed database clusters leverage decentralized architectures to maintain strict transactional compliance across multiple edge nodes globally.",
-                "Systems engineers can deploy agentic architectures that query massive histories while minimizing operational storage overhead costs."
+                "The United States Senate advanced the NO FAKES Act to establish federal intellectual property protections.",
+                "This legislative action directly targets unauthorized digital replicas of human voices, likenesses, and creative assets.",
+                "Chief information security officers must implement strict synthetic media validation protocols to prevent corporate identity spoofing.",
+                "Legal departments will require certified lineage tracking systems to guarantee all generative training materials are compliant."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: TRANSISTOR STACKING DEVIATION",
+            "heading": "COALITION: EFFICIENCY COALITION",
             "points": [
-                "IBM unveiled a proprietary 3D transistor stacking architecture that diverges from designs pursued by Intel and TSMC.",
-                "The geometry improves power delivery and thermal dissipation, extending physical silicon scaling limits beyond conventional boundaries.",
-                "This alternative fabrication pathway enables dense vertical chip stacking, boosting performance metrics for high-performance computing workloads.",
-                "Global semiconductor manufacturing architectures will likely fragment as manufacturers choose competing methodologies for next-generation silicon production."
+                "Qualcomm, OpenAI, and IBM initiated hardware developments to optimize infrastructure and lower carbon emissions.",
+                "New transistor architectures and targeted silicon acquisitions aim to drastically decrease modern datacenters' massive power demands.",
+                "Hardware optimizations will relieve severe electrical grid constraints that threaten current cloud infrastructure expansion models.",
+                "Technology buyers should anticipate specialized edge-native processors that significantly reduce long-term operational consumption and costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
+            "heading": "CONGRESS: COMPLIANCE OBLIGATION",
             "points": [
-                "Qualcomm signed a definitive agreement to acquire Modular, aiming to streamline and optimize hardware-agnostic software execution stacks.",
-                "The acquisition integrates advanced compiler technologies, boosting model optimization and deployment speed across heterogeneous edge computing systems.",
-                "Developers can compile complex neural networks directly to localized processors, bypassing traditional vendor-locked software runtime environments.",
-                "The transaction positions Qualcomm to challenge established inference monopolies by democratizing high-efficiency execution across edge platforms."
+                "Proposed American legislation forces foundation model developers to legally report dangerous behavior and security vulnerabilities.",
+                "The mandate imposes severe civil penalties for failing to disclose potential threats within strict reporting windows.",
+                "This regulatory oversight introduces critical compliance frameworks that parallel traditional enterprise software auditing and verification protocols.",
+                "Compliance teams must deploy automated risk tracking systems to ensure continual alignment with evolving statutory requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: INFRASTRUCTURE CHIP DEVELOPMENT",
+            "heading": "CISPE: SOVEREIGN CLOUD ALLIANCE",
             "points": [
-                "OpenAI partnered with Broadcom to develop a bespoke artificial intelligence inference chip designed for high-density workload operations.",
-                "The custom silicon aims to optimize token throughput and reduce energy consumption across massive distributed cloud infrastructures.",
-                "Bypassing standard accelerator constraints allows the organization to control proprietary physical execution layers for agentic processing.",
-                "The strategy signals a broader market shift as software giants build in-house hardware to mitigate global supply issues."
+                "Cloud infrastructure alliance CISPE declared sovereign virtualization impossible under Broadcom's current restrictive licensing models.",
+                "European cloud providers face severe cost increases, forcing a massive migration toward alternative hypervisor platforms.",
+                "This platform fragmentation threatens the unified cloud standards critical for deploying localized enterprise data fabrics.",
+                "Enterprise architects will prioritize open-source KVM solutions to decouple critical sovereign operations from proprietary vendor lock-in."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
