@@ -1,98 +1,98 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER ARCHITECTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "STRAIN"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "BROADCOM: OPENAI INFERENCE CHIP",
             "points": [
-                "OpenAI officially previews GPT-5.6 Sol to deliver next-generation frontier reasoning and advanced cognitive agent workflows.",
-                "Early testing indicates a forty percent reduction in execution latency for complex multi-step logical operations.",
-                "This release intensifies competition among model providers seeking dominance in high-end cognitive computing markets.",
-                "Enterprises must prepare to integrate these highly autonomous reasoning architectures within their existing software stacks."
+                "OpenAI partnered with Broadcom to develop a highly custom AI inference chip optimized for next-generation model execution.",
+                "The silicon deployment aims to reduce deep learning inference costs and diminish long-term dependency on Nvidia hardware.",
+                "Tech conglomerates are increasingly designing proprietary chips to bypass severe market shortages and manage massive compute workloads.",
+                "Enterprise buyers will transition to custom-silicon cloud instances, optimizing performance-per-watt metrics across global hybrid platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CHINA: AI STRATEGIC REORIENTATION",
+            "heading": "GOOGLE: INFRASTRUCTURE CAPACITY LIMITS",
             "points": [
-                "China resets the global AI race by prioritizing fully sovereign, highly localized on-premises hardware architectures.",
-                "This strategic transition aims to bypass international trade restrictions while maintaining high-performance deep learning capabilities.",
-                "Localizing infrastructure decouples domestic developers from foreign supply chains and proprietary cloud platform dependencies.",
-                "Global tech markets will likely experience bifurcated software ecosystems as Eastern sovereign architectures mature rapidly."
+                "Google instituted strict limits on Meta's access to Gemini models due to severe physical capacity constraints.",
+                "Extreme model query volumes are overwhelming hyperscale cloud grids, forcing operators to prioritize internal sovereign workloads.",
+                "Infrastructure limitations validate concerns that rapid enterprise adoption is outstripping immediate global data center capacity expansions.",
+                "Hardware limits will force major platforms to implement strict token throttling and increase enterprise API subscription costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "VERIFICATION: TRUSTWORTHY CHECKERS CRITICAL",
+            "heading": "QUALCOMM: MODULAR ACQUISITION DEAL",
             "points": [
-                "Financial sectors demand specialized, independent AI checker systems to verify output accuracy and mitigate hallucination risks.",
-                "Integrating real-time validation layers reduces downstream transaction errors by up to thirty-five percent globally.",
-                "Standard large language models lack the built-in deterministic controls required for strict regulatory compliance environments.",
-                "Third-party auditing platforms will soon become a mandatory component of any enterprise-grade agentic architecture."
+                "Qualcomm signed a definitive agreement to acquire Modular to streamline AI software development at the edge.",
+                "Integrating Modular\u2019s Mojo execution engine will optimize local on-chip execution, accelerating high-performance mobile computing workloads.",
+                "This acquisition challenges existing semiconductor paradigms by consolidating compiler technologies directly into low-power hardware offerings.",
+                "Edge device manufacturers will deploy highly efficient local models, bypassing cloud dependencies for real-time inference tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICRON: HARDWARE REVENUE SURGE",
+            "heading": "BIS: GLOBAL INVESTMENT WARNING",
             "points": [
-                "Micron nears unprecedented profitability driven by global demand for high-bandwidth memory chips in AI clusters.",
-                "Unprecedented memory allocation requirements from cloud service providers are driving massive capital expenditure growth worldwide.",
-                "Liquid-cooled data center architectures require dense memory configurations to prevent processing bottlenecks during model training.",
-                "Severe hardware supply constraints will persist, forcing enterprise buyers to secure long-term hardware procurement contracts."
+                "The Bank for International Settlements warned that extreme AI investment exuberance risks triggering a severe economic bust.",
+                "Massive capital expenditures without immediate commercial returns could severely destabilize technology funding cycles and global markets.",
+                "Financial regulators are tracking tech company debt levels as infrastructure hyper-scaling demands unsustainable amounts of capital.",
+                "Venture capital firms will tighten underwriting standards, prioritizing functional profitability over speculative foundational model training initiatives."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EXPORT CONTROL: MODEL RESTRICTIONS",
+            "heading": "IBM: TRANSISTOR STACKING DIVERGENCE",
             "points": [
-                "United States officials instruct OpenAI to restrict global access to its most powerful frontier models.",
-                "This national security mandate targets potential systemic vulnerabilities arising from malicious exploitation of advanced capabilities.",
-                "Geopolitical friction increasingly dictates the distribution and cloud availability of advanced general-purpose artificial intelligence models.",
-                "Multinationals must adapt to fragmented compliance frameworks that limit the cross-border deployment of proprietary agents."
+                "IBM unveiled a unique 3D transistor stacking path that diverges from designs by TSMC, Samsung, and Intel.",
+                "The novel architecture targets microchip density breakthroughs to extend Moore's law for high-performance computing systems.",
+                "Semiconductor manufacturing is fragmenting as chipmakers pioneer competitive proprietary lithography methods to scale multi-agent processing.",
+                "System architects will redesign motherboard frameworks to leverage specialized, non-standard silicon configurations for high-density servers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PGEDGE: DATABASE CONVERGENCE RELEASE",
+            "heading": "OPENAI: FEDERAL EXPORT RESTRICTION",
             "points": [
-                "pgEdge launches ColdFront to merge transactional and analytical storage for real-time artificial intelligence applications.",
-                "This database convergence reduces total storage overhead while accelerating historical data modification for localized agents.",
-                "Traditional database divisions create unnecessary latency bottlenecks that limit the execution speed of agentic systems.",
-                "Database administrators will rapidly transition toward unified storage platforms to support real-time enterprise intelligence workloads."
+                "United States regulators instructed OpenAI to restrict foreign access to its most advanced generative models.",
+                "Compliance requirements prevent international deployment of cutting-edge intelligence, reinforcing domestic technology protectionism policies.",
+                "Geopolitical security mandates are increasingly dictating model availability, transforming proprietary software libraries into strategic national assets.",
+                "Global organizations must build localized, sovereign model pipelines to avoid operational disruptions from external export controls."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "KOMPRISE: ICEBERG DATA INTEGRATION",
+            "heading": "ANTHROPIC: ALIBABA SCRAPING DISPUTE",
             "points": [
-                "Komprise integrates Apache Iceberg to analyze unstructured enterprise data without incurring expensive data movement costs.",
-                "This update enables seamless integration with AI pipelines, optimizing unstructured data management for rapid model training.",
-                "Minimizing unnecessary data transfer reduces cloud egress fees and enhances overall data governance for compliance.",
-                "Organizations will prioritize in-place unstructured data analytics to accelerate their internal machine learning preparation workflows."
+                "Anthropic accused Alibaba of utilizing twenty-five thousand automated accounts to systematically scrape Claude AI model outputs.",
+                "The unauthorized scraping activity bypasses API licensing fees, directly threatening commercial monetization strategies of western researchers.",
+                "Data provenance disputes are intensifying as international competitors extract synthetic training datasets to fast-track domestic capabilities.",
+                "Platform security teams will implement advanced cryptographic scraping defenses and strict bot-mitigation frameworks at the API gateway."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
