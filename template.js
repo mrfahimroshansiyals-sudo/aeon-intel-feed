@@ -1,114 +1,114 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING ENTERPRISE AI",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "FRONTIER ARCHITECTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Microsoft launched Azure HorizonDB engineered specifically to bring ultra-low latency and scalable reads to PostgreSQL databases.",
-                "The database integrates built-in artificial intelligence to execute near-real-time queries for mission-critical enterprise workloads.",
-                "This modern data platform enables seamless knowledge connection across distributed cloud applications and centralized storage systems.",
-                "Organizations will utilize this high-speed architecture to deploy responsive cognitive agents without sacrificing operational throughput."
+                "OpenAI officially previews GPT-5.6 Sol to deliver next-generation frontier reasoning and advanced cognitive agent workflows.",
+                "Early testing indicates a forty percent reduction in execution latency for complex multi-step logical operations.",
+                "This release intensifies competition among model providers seeking dominance in high-end cognitive computing markets.",
+                "Enterprises must prepare to integrate these highly autonomous reasoning architectures within their existing software stacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: BROADCOM INFERENCE SILICON",
+            "heading": "CHINA: AI STRATEGIC REORIENTATION",
             "points": [
-                "OpenAI and Broadcom co-developed a custom application-specific integrated circuit optimized exclusively for large language model inference workloads.",
-                "The specialized hardware design significantly mitigates power grid constraints while scaling processing capacity across private datacenters.",
-                "This custom chip integrates directly into high-density rack architectures to bypass standard commercial computing bottlenecks.",
-                "Enterprise buyers will leverage these tailored chips to run advanced generative models at reduced operational costs."
+                "China resets the global AI race by prioritizing fully sovereign, highly localized on-premises hardware architectures.",
+                "This strategic transition aims to bypass international trade restrictions while maintaining high-performance deep learning capabilities.",
+                "Localizing infrastructure decouples domestic developers from foreign supply chains and proprietary cloud platform dependencies.",
+                "Global tech markets will likely experience bifurcated software ecosystems as Eastern sovereign architectures mature rapidly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
+            "heading": "VERIFICATION: TRUSTWORTHY CHECKERS CRITICAL",
             "points": [
-                "Mistral AI launched OCR version four to resolve structural data ingestion bottlenecks within enterprise document pipelines.",
-                "The vision-language model converts highly complex unstructured documents into clean JSON formats with minimal operational latency.",
-                "This model deploys natively across sovereign cloud platforms to maintain strict regulatory compliance for global financial institutions.",
-                "Enterprises will automate high-volume back-office processing workflows by integrating this open-weight parser into agentic pipelines."
+                "Financial sectors demand specialized, independent AI checker systems to verify output accuracy and mitigate hallucination risks.",
+                "Integrating real-time validation layers reduces downstream transaction errors by up to thirty-five percent globally.",
+                "Standard large language models lack the built-in deterministic controls required for strict regulatory compliance environments.",
+                "Third-party auditing platforms will soon become a mandatory component of any enterprise-grade agentic architecture."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "heading": "MICRON: HARDWARE REVENUE SURGE",
             "points": [
-                "AMD signed a landmark agreement with Rackspace Technology for a phased thirty-megawatt deployment of enterprise compute.",
-                "The dedicated infrastructure leverages high-density Instinct accelerators and EPYC central processors to serve regulated industry workloads.",
-                "This hybrid blueprint delivers sovereign computing resources directly to enterprises requiring strict environmental and physical data controls.",
-                "Cloud operators will increasingly lease localized high-performance compute clusters to meet regional artificial intelligence processing mandates."
+                "Micron nears unprecedented profitability driven by global demand for high-bandwidth memory chips in AI clusters.",
+                "Unprecedented memory allocation requirements from cloud service providers are driving massive capital expenditure growth worldwide.",
+                "Liquid-cooled data center architectures require dense memory configurations to prevent processing bottlenecks during model training.",
+                "Severe hardware supply constraints will persist, forcing enterprise buyers to secure long-term hardware procurement contracts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "EXPORT CONTROL: MODEL RESTRICTIONS",
             "points": [
-                "NVIDIA unveiled the BioNeMo Agent Toolkit to deliver domain-specific cognitive tools for advanced digital biology workflows.",
-                "Life sciences researchers can deploy autonomous agents to accelerate complex molecular design and target identification processes.",
-                "The toolkit integrates seamlessly with existing accelerated computing pipelines to coordinate specialized multi-agent operations across labs.",
-                "Pharmaceutical firms will dramatically compress discovery timelines by embedding these highly specialized agents into research environments."
+                "United States officials instruct OpenAI to restrict global access to its most powerful frontier models.",
+                "This national security mandate targets potential systemic vulnerabilities arising from malicious exploitation of advanced capabilities.",
+                "Geopolitical friction increasingly dictates the distribution and cloud availability of advanced general-purpose artificial intelligence models.",
+                "Multinationals must adapt to fragmented compliance frameworks that limit the cross-border deployment of proprietary agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PGEDGE: COLDFRONT STORAGE INTEGRATION",
+            "heading": "PGEDGE: DATABASE CONVERGENCE RELEASE",
             "points": [
-                "pgEdge introduced ColdFront storage to merge transaction processing and historical analytical storage within a single PostgreSQL database.",
-                "The hybrid engine reduces overall storage overhead while maintaining fast query access to petabyte-scale application datastores.",
-                "ColdFront decouples active application workloads from historical records by organizing archived data into highly compressed parquet formats.",
-                "Devops teams will migrate to converged databases to streamline intelligence pipelines without managing disparate storage systems."
+                "pgEdge launches ColdFront to merge transactional and analytical storage for real-time artificial intelligence applications.",
+                "This database convergence reduces total storage overhead while accelerating historical data modification for localized agents.",
+                "Traditional database divisions create unnecessary latency bottlenecks that limit the execution speed of agentic systems.",
+                "Database administrators will rapidly transition toward unified storage platforms to support real-time enterprise intelligence workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "KOMPRISE: APACHE ICEBERG FEDERATION",
+            "heading": "KOMPRISE: ICEBERG DATA INTEGRATION",
             "points": [
-                "Komprise integrated Apache Iceberg to enable direct query analysis on massive unstructured datastores without moving physical files.",
-                "This integration removes high data egress fees while preparing petabyte-scale legacy storage systems for machine learning ingestion.",
-                "The system translates disparate file structures into optimized tables ready for immediate consumption by downstream analytical tools.",
-                "IT leaders will achieve rapid artificial intelligence readiness by decoupling structural analysis from underlying physical storage tiers."
+                "Komprise integrates Apache Iceberg to analyze unstructured enterprise data without incurring expensive data movement costs.",
+                "This update enables seamless integration with AI pipelines, optimizing unstructured data management for rapid model training.",
+                "Minimizing unnecessary data transfer reduces cloud egress fees and enhances overall data governance for compliance.",
+                "Organizations will prioritize in-place unstructured data analytics to accelerate their internal machine learning preparation workflows."
             ],
             "imageUrl": "",
             "tags": [
