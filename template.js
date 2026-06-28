@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "STRAIN"
+        "titleWhite": "ENTERPRISE SILICON",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "BROADCOM: OPENAI INFERENCE CHIP",
+            "heading": "MICROSOFT: AZURE HORIZONDB DEPLOYMENT",
             "points": [
-                "OpenAI partnered with Broadcom to develop a highly custom AI inference chip optimized for next-generation model execution.",
-                "The silicon deployment aims to reduce deep learning inference costs and diminish long-term dependency on Nvidia hardware.",
-                "Tech conglomerates are increasingly designing proprietary chips to bypass severe market shortages and manage massive compute workloads.",
-                "Enterprise buyers will transition to custom-silicon cloud instances, optimizing performance-per-watt metrics across global hybrid platforms."
+                "Microsoft Azure launched HorizonDB to bring integrated artificial intelligence capabilities and ultra-low latency reads to PostgreSQL.",
+                "The architecture processes mission-critical data scaling without performance degradation, bypassing traditional distributed database limits.",
+                "Developers can build resilient, highly scalable analytical applications by leveraging direct grounding context from localized tables.",
+                "Enterprise infrastructure gains native scalability, decoupling compute from stateful memory layers to optimize execution throughput."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: INFRASTRUCTURE CAPACITY LIMITS",
+            "heading": "GOOGLE: AI THREAT DEFENSE",
             "points": [
-                "Google instituted strict limits on Meta's access to Gemini models due to severe physical capacity constraints.",
-                "Extreme model query volumes are overwhelming hyperscale cloud grids, forcing operators to prioritize internal sovereign workloads.",
-                "Infrastructure limitations validate concerns that rapid enterprise adoption is outstripping immediate global data center capacity expansions.",
-                "Hardware limits will force major platforms to implement strict token throttling and increase enterprise API subscription costs."
+                "Google Cloud deployed Google AI Threat Defense to autonomously identify, analyze, and neutralize advanced system security adversaries.",
+                "The system monitors high-throughput workloads to mitigate zero-day vectors before they impact critical enterprise cloud environments.",
+                "Deep telemetry integration enables continuous behavioral auditing across localized virtual machines and Kubernetes orchestration frameworks.",
+                "Security operations centers transition to automated defense postures, eliminating manual remediation loops for complex infrastructure exploits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "QUALCOMM: MODULAR ACQUISITION DEAL",
+            "heading": "MISTRAL AI: OCR 4 RELEASE",
             "points": [
-                "Qualcomm signed a definitive agreement to acquire Modular to streamline AI software development at the edge.",
-                "Integrating Modular\u2019s Mojo execution engine will optimize local on-chip execution, accelerating high-performance mobile computing workloads.",
-                "This acquisition challenges existing semiconductor paradigms by consolidating compiler technologies directly into low-power hardware offerings.",
-                "Edge device manufacturers will deploy highly efficient local models, bypassing cloud dependencies for real-time inference tasks."
+                "Mistral AI launched Mistral OCR 4 to enable advanced document intelligence and seamless unstructured data ingestion.",
+                "The specialized engine processes massive, multi-format business documents, converting complex figures and tables into structured JSON.",
+                "Integration with enterprise pipelines lowers latency, allowing downstream models to ingest historical archives without manual parsing.",
+                "Organizations can bypass proprietary document parsers, establishing secure, sovereign pipelines for internal model alignment and training."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "BIS: GLOBAL INVESTMENT WARNING",
+            "heading": "PGEDGE: DATABASE STORAGE MERGER",
             "points": [
-                "The Bank for International Settlements warned that extreme AI investment exuberance risks triggering a severe economic bust.",
-                "Massive capital expenditures without immediate commercial returns could severely destabilize technology funding cycles and global markets.",
-                "Financial regulators are tracking tech company debt levels as infrastructure hyper-scaling demands unsustainable amounts of capital.",
-                "Venture capital firms will tighten underwriting standards, prioritizing functional profitability over speculative foundational model training initiatives."
+                "pgEdge integrated Apache Iceberg into its ColdFront architecture, combining transactional and analytical storage for artificial intelligence.",
+                "The hybrid engine eliminates expensive data movement, executing real-time analytical queries directly over live transactional data tables.",
+                "Distributed database clusters leverage decentralized architectures to maintain strict transactional compliance across multiple edge nodes globally.",
+                "Systems engineers can deploy agentic architectures that query massive histories while minimizing operational storage overhead costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: TRANSISTOR STACKING DIVERGENCE",
+            "heading": "IBM: TRANSISTOR STACKING DEVIATION",
             "points": [
-                "IBM unveiled a unique 3D transistor stacking path that diverges from designs by TSMC, Samsung, and Intel.",
-                "The novel architecture targets microchip density breakthroughs to extend Moore's law for high-performance computing systems.",
-                "Semiconductor manufacturing is fragmenting as chipmakers pioneer competitive proprietary lithography methods to scale multi-agent processing.",
-                "System architects will redesign motherboard frameworks to leverage specialized, non-standard silicon configurations for high-density servers."
+                "IBM unveiled a proprietary 3D transistor stacking architecture that diverges from designs pursued by Intel and TSMC.",
+                "The geometry improves power delivery and thermal dissipation, extending physical silicon scaling limits beyond conventional boundaries.",
+                "This alternative fabrication pathway enables dense vertical chip stacking, boosting performance metrics for high-performance computing workloads.",
+                "Global semiconductor manufacturing architectures will likely fragment as manufacturers choose competing methodologies for next-generation silicon production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: FEDERAL EXPORT RESTRICTION",
+            "heading": "QUALCOMM: MODULAR PLATFORM ACQUISITION",
             "points": [
-                "United States regulators instructed OpenAI to restrict foreign access to its most advanced generative models.",
-                "Compliance requirements prevent international deployment of cutting-edge intelligence, reinforcing domestic technology protectionism policies.",
-                "Geopolitical security mandates are increasingly dictating model availability, transforming proprietary software libraries into strategic national assets.",
-                "Global organizations must build localized, sovereign model pipelines to avoid operational disruptions from external export controls."
+                "Qualcomm signed a definitive agreement to acquire Modular, aiming to streamline and optimize hardware-agnostic software execution stacks.",
+                "The acquisition integrates advanced compiler technologies, boosting model optimization and deployment speed across heterogeneous edge computing systems.",
+                "Developers can compile complex neural networks directly to localized processors, bypassing traditional vendor-locked software runtime environments.",
+                "The transaction positions Qualcomm to challenge established inference monopolies by democratizing high-efficiency execution across edge platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: ALIBABA SCRAPING DISPUTE",
+            "heading": "OPENAI: INFRASTRUCTURE CHIP DEVELOPMENT",
             "points": [
-                "Anthropic accused Alibaba of utilizing twenty-five thousand automated accounts to systematically scrape Claude AI model outputs.",
-                "The unauthorized scraping activity bypasses API licensing fees, directly threatening commercial monetization strategies of western researchers.",
-                "Data provenance disputes are intensifying as international competitors extract synthetic training datasets to fast-track domestic capabilities.",
-                "Platform security teams will implement advanced cryptographic scraping defenses and strict bot-mitigation frameworks at the API gateway."
+                "OpenAI partnered with Broadcom to develop a bespoke artificial intelligence inference chip designed for high-density workload operations.",
+                "The custom silicon aims to optimize token throughput and reduce energy consumption across massive distributed cloud infrastructures.",
+                "Bypassing standard accelerator constraints allows the organization to control proprietary physical execution layers for agentic processing.",
+                "The strategy signals a broader market shift as software giants build in-house hardware to mitigate global supply issues."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
