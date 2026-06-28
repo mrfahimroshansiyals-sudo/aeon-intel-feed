@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE SILICON",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 SOL DEPLOYMENT",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology for a phased deployment of thirty megawatts of AI compute.",
-                "The infrastructure specifically serves highly regulated enterprise workloads requiring strict data sovereignty and operational security compliance.",
-                "This layout positions AMD EPYC and Instinct processors as key components in next-generation hybrid data center architectures.",
-                "Regulated industries will accelerate legacy infrastructure decoupling by leveraging AMD-powered localized private cloud environments."
+                "OpenAI has initiated the technical preview for GPT-5.6 Sol, a next-generation model designed for increased reasoning complexity. This model marks a significant shift toward deeper integration with enterprise workflows and autonomous agentic task execution.",
+                "The deployment architecture focuses on high-precision contextual awareness, allowing the model to bridge the gap between abstract instruction and complex functional output. This iteration prioritizes industrial-scale stability over simple language generation capabilities.",
+                "Internal benchmarks indicate substantial improvements in multi-step problem solving and long-horizon planning, critical for the model to effectively operate within enterprise-level automated environments. Stakeholders should anticipate tighter alignment with existing API infrastructure.",
+                "The integration of Sol into platform workflows signals a move toward persistent memory and reusable skill modules for organizational agents. This deployment reinforces OpenAI's strategy of becoming the primary orchestration layer for enterprise intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: DOCUMENT INTELLIGENCE",
+            "heading": "MISTRAL: OCR 4 ARCHITECTURE",
             "points": [
-                "Mistral AI introduces OCR four to resolve complex challenges associated with processing unstructured enterprise data.",
-                "The model enables ultra-fast text and visual recognition across massive document intelligence pipelines globally.",
-                "This release integrates directly with the wider Mistral ecosystem, reinforcing sovereign digital control for businesses.",
-                "Enterprises will automate high-volume document ingestion without relying on third-party cloud-based recognition APIs."
+                "Mistral has officially launched Mistral OCR 4, a frontier-scale model optimized for the complex ingestion and synthesis of unstructured document-based data. This technical release directly addresses the enterprise demand for high-fidelity data extraction.",
+                "The architecture leverages advanced multimodal perception to process diverse documents, ensuring seamless transition between raw input and structured, machine-readable datasets. It is built to operate across edge and cloud environments.",
+                "Enterprise users can integrate these capabilities to enhance multi-step task scheduling and reporting synthesis, reducing dependence on human-led data verification processes. This creates a scalable pipeline for proprietary knowledge transformation.",
+                "Deployment of OCR 4 across manufacturing and public sector partners demonstrates a focus on real-time operational efficiency. Organizations are now positioned to automate document-heavy workflows with greater consistency and architectural precision."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB LAUNCH",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Microsoft launches Azure HorizonDB bringing ultra-low latency and scalable reads to enterprise PostgreSQL database instances.",
-                "The system integrates built-in AI capabilities directly into the engine, streamlining operational transaction processing workloads.",
-                "By optimizing read-heavy tasks, the database supports real-time contextual grounding for enterprise intelligent agents.",
-                "Database architects can deploy high-performance applications without worrying about data synchronization bottlenecks or performance drops."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: BIOLOGIC AGENT TOOLKIT",
-            "points": [
-                "NVIDIA releases the BioNeMo Agent Toolkit to accelerate drug discovery using advanced agentic workflows.",
-                "This toolkit provides molecular biology developers with domain-specific skills, models, and specialized analytical tools.",
-                "The platform bridges high-performance computing with biological simulation, accelerating timelines for target discovery and validation.",
-                "Life sciences companies will rapidly build autonomous research workflows, cutting molecule validation cycles down significantly."
+                "NVIDIA announced the BioNeMo Agent Toolkit, providing domain-specific skills tailored for accelerating scientific discovery in the life sciences sector. This represents a strategic push into vertical-specific autonomous infrastructure.",
+                "The toolkit facilitates the deployment of specialized agents capable of executing complex simulations and data analysis tasks within high-performance computing environments. It effectively modularizes scientific R&D capabilities.",
+                "This initiative integrates natively with Europe's growing network of AI supercomputers, enabling researchers to leverage massive computational resources for accelerated drug and material discovery. It provides a standardized framework for agent interaction.",
+                "The platform's release indicates NVIDIA's transition toward offering full-stack agentic solutions that abstract away the complexity of hardware management for scientists. This will likely reduce the barriers to high-impact biological research."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "OPENAI: BROADCOM COLLABORATION",
+            "id": 4,
+            "heading": "STANFORD HAI: AI INDEX REPORT",
             "points": [
-                "OpenAI collaborates with Broadcom to introduce a customized inference chip targeting massive operational workload demands.",
-                "The custom silicon aims to reduce spiraling token consumption costs and overall energy footprint dramatically.",
-                "This development represents a strategic step toward lessening dependencies on commercial off-the-shelf graphics processing hardware.",
-                "Hardware-centric software optimization will allow deep tech companies to run extremely complex LLM deployments cost-effectively."
+                "Stanford HAI has released the 2026 AI Index Report, confirming a widening gap between technical model capabilities and existing global governance frameworks. The report highlights an urgent need for independent measurement.",
+                "Data transparency remains a critical bottleneck, as independent evaluation is becoming increasingly difficult to execute amidst the rapid industrial integration of AI systems. Technical progress is currently outpacing institutional oversight mechanisms.",
+                "The findings underscore the necessity of mobilizing team science at scale to ensure that AI development remains collaborative and augmentative rather than purely focused on labor replacement. Academic openness is deemed essential.",
+                "This report serves as a benchmark for policymakers and enterprise leaders to re-evaluate their adoption of autonomous systems. It confirms that the next era of development requires foundational governance and evaluation protocols."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://hai.stanford.edu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
+            "points": [
+                "Google Cloud has announced significant upgrades to its infrastructure to support the agentic era, specifically focusing on the integration of Gemini Enterprise into the data cloud. This enhances the system of action.",
+                "The new platform allows developers to build, orchestrate, and manage autonomous agents with built-in guardrails and comprehensive observability at enterprise scale. It bridges the gap between development and production.",
+                "By grounding agents in unified organizational data, Google aims to reduce hallucination rates and improve trust for mission-critical deployments. The move targets enterprises seeking to operationalize large-scale agent fleets.",
+                "The release of Gemini 3.5 capabilities provides developers with the frontier intelligence required to move beyond simple chat interfaces. This establishes a front door to AI-driven workflows for the entire workforce."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PGEDGE: COLDFRONT STORAGE MERGER",
+            "heading": "MICROSOFT AZURE: HORIZONDB LAUNCH",
             "points": [
-                "Database vendor pgEdge releases ColdFront to merge transactional OLTP and analytical OLAP storage architectures successfully.",
-                "The integration reduces cloud database storage costs drastically without sacrificing standard application query compatibility metrics.",
-                "This approach allows enterprises to run intensive machine learning and analytical pipelines on active database clusters.",
-                "Engineering teams will eliminate expensive data pipelines and extract-transform-load operations to power near real-time analytics."
+                "Microsoft has unveiled Azure HorizonDB, a new PostgreSQL cloud database service engineered to provide ultra-low latency and built-in AI for mission-critical application scaling. It integrates deeply with Microsoft Fabric.",
+                "The architecture is designed to support compute-intensive workloads by aligning database performance with modern generative AI demands. It simplifies the migration path for existing enterprise data stacks.",
+                "By bringing AI capabilities closer to the data layer, Azure reduces the need for frequent data movement, enhancing performance and security. This creates a foundation for highly efficient agentic backend services.",
+                "The product serves as an agent-optimized backend for enterprises looking to scale their AI apps without compromising on stability. It positions Azure as a central hub for complex data-driven agentic interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: ADVISORY FORUM FOR AI",
+            "heading": "COMPRICE: ICEBERG DATA MANAGEMENT",
             "points": [
-                "The European Commission establishes the Advisory Forum to provide critical technical expertise for the EU AI Act.",
-                "The body advises the AI Office and Board, streamlining governance for high-risk and general-purpose models.",
-                "Standardizing cross-border compliance checks helps startups navigate complex legal obligations across thirty European member states.",
-                "Compliance teams must adopt structured AI risk reporting workflows to maintain legal status in European markets."
+                "Komprise has integrated Apache Iceberg into its data management stack to facilitate the analysis of unstructured data without requiring costly data movement. This is a critical development for AI readiness.",
+                "The integration allows enterprises to maintain high-performance access to unstructured datasets while ensuring full compatibility with modern AI-training infrastructures. It addresses significant storage-related latency bottlenecks.",
+                "By optimizing data accessibility, Komprise enables IT leaders to leverage legacy repositories for contemporary machine learning workflows. This promotes cost-effective scaling of large-scale AI projects in the enterprise.",
+                "The move reflects a growing industry trend toward decoupling storage from compute to handle the massive data volumes required for agentic AI. It provides a flexible solution for data-heavy organizations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
