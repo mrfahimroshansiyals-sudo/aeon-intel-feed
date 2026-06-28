@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS INTELLIGENCE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN AGENT",
+        "titleBlue": "CONVERGENCE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "OpenAI previews GPT-5.6 Sol, a next-generation model engineered for sophisticated enterprise workflow automation.",
-                "The release introduces advanced codex structures, lowering integration friction across dynamic professional developer environments.",
-                "This architecture aims to deliver higher operational reasoning capabilities while maintaining enterprise data privacy boundaries.",
-                "Organizations adopting Sol will likely see accelerated agentic deployments across legacy transactional business channels."
+                "OpenAI has officially previewed its next-generation GPT-5.6 Sol model engineered for advanced reasoning and autonomous execution.",
+                "The model accelerates complex multi-step processing times by forty percent while dramatically reducing API token consumption costs.",
+                "Integration of Sol establishes a unified cognitive layer directly bridging natural language prompts with physical computing infrastructure.",
+                "Enterprises will soon deploy highly secure autonomous agents capable of managing mission-critical transactional pipelines without human intervention."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,80 +23,80 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: MYTHOS MODEL RELEASE",
+            "heading": "GOOGLE: GEMINI COMPUTER USE",
             "points": [
-                "Anthropic receives federal clearance to distribute its highly anticipated Mythos model to select enterprise and government agencies.",
-                "This approval enables highly secure public sector entities to integrate next-generation cognitive systems safely.",
-                "By target-releasing Mythos, Anthropic positions itself as a critical sovereign partner within regulated national security frameworks.",
-                "Access restrictions will drive intensified competition among cloud providers to host restricted-access sovereign models."
+                "Google DeepMind has deployed native computer use capabilities within the lightweight Gemini 3.5 Flash model architecture.",
+                "Developers can now automate complex screen interactions across desktop environments with minimal latency and high operational precision.",
+                "This update shifts agentic AI from isolated sandboxed environments into active direct manipulation of legacy software applications.",
+                "Organizations will rapidly transition back-office workflows to autonomous agents eliminating repetitive manual data entry tasks entirely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: INDIA SEMICONDUCTOR ALLIANCE",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "ASML joins forces with Tata Electronics to construct a robust semiconductor manufacturing ecosystem across India.",
-                "This deployment optimizes global lithography access, strengthening industrial semiconductor output within South Asian corridors.",
-                "The partnership drives physical infrastructure expansion, decoupling critical chip supply chains from traditional centralized geographic hubs.",
-                "India is projected to secure localized chip sovereignty, accelerating indigenous manufacturing timelines over the next decade."
+                "NVIDIA has launched the Vera Rubin platform designed to power next-generation supercomputers for automated agentic scientific exploration.",
+                "Over thirty-five European supercomputing centers are adopting the architecture to optimize massive parallel model processing workflows.",
+                "Co-designed hardware and software systems deliver unprecedented energy efficiency for large-scale physical simulations and deep learning models.",
+                "Scientific institutions will significantly accelerate drug discovery and advanced materials research using these powerful cognitive computing factories."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "KOMPRISE: APACHE ICEBERG INTEGRATION",
+            "heading": "MICROSOFT: RAYFIN FABRIC LAUNCH",
             "points": [
-                "Komprise integrates Apache Iceberg, streamlining unstructured data analysis directly at the storage source without migration.",
-                "Enterprises avoid costly cloud data transit fees while accelerating enterprise-wide AI readiness and model training cycles.",
-                "This architecture resolves a critical data governance challenge, enabling localized analytics within highly secure corporate boundaries.",
-                "Storage orchestration platforms will increasingly embed open-table formats to satisfy real-time unstructured data pipelines."
+                "Microsoft Azure has launched Rayfin an agent-optimized backend service integrated natively into the Fabric data platform.",
+                "Developers gain ultra-low latency access to PostgreSQL data pipelines streamlining the training and deployment of cognitive agents.",
+                "Grounding autonomous agents in real-time enterprise data minimizes hallucinations and strengthens transactional security across hybrid cloud ecosystems.",
+                "Systems integrators will deploy unified knowledge systems that allow autonomous agents to execute complex operations across databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PGEDGE: COLDFRONT STORAGE CONVERGENCE",
+            "heading": "US GOVERNMENT: MODEL RESTRICTIONS",
             "points": [
-                "pgEdge launches ColdFront, converging OLTP and OLAP storage capabilities to power high-throughput real-time AI agents.",
-                "The architecture slashes operational storage costs while maintaining complete PostgreSQL compatibility and historical data modification.",
-                "Unifying transaction processing and analytical storage simplifies corporate data systems, removing complex replication pipeline configurations.",
-                "Unified database engines will become the standard foundation for hosting autonomous, context-aware digital intelligence workflows."
+                "The United States government has directed OpenAI to restrict external access to its most advanced frontier models.",
+                "Strict federal mandates will force OpenAI to enforce rigorous screening protocols for high-compute model training and deployment.",
+                "This policy action highlights growing national security concerns regarding the proliferation of powerful dual-use cognitive technologies abroad.",
+                "Global tech alliances will likely fragment as nations enforce strict geographical boundaries on advanced artificial intelligence usage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SALESFORCE: AGENTIC PRICING REVOLUTION",
+            "heading": "GEOPOLITICS: CYBERSECURITY RACE",
             "points": [
-                "Salesforce rolls out an autonomous customer service AI agent operating under a disruptive pay-per-resolution pricing structure.",
-                "Businesses can now deploy pre-packaged cognitive agents that autonomously resolve complex customer queries for two dollars each.",
-                "This billing transition shifts enterprise software economics from seat-based licensing models to direct outcome-based business metrics.",
-                "Competitors must abandon traditional SaaS licensing frameworks as dynamic, transaction-based AI agent pricing becomes standard."
+                "Cybersecurity analysis indicates that Chinese defense models have matched Anthropic capabilities in identifying complex software vulnerabilities.",
+                "Parity in automated vulnerability discovery significantly reduces the defensive response time needed to patch critical digital infrastructure.",
+                "The rapid equalization of cyber-defense capabilities marks a major geopolitical shift in the global AI arms race.",
+                "Sovereign entities must aggressively fund localized secure model development to protect critical infrastructure from highly automated threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -105,10 +105,10 @@ const dailyData = {
             "id": 7,
             "heading": "QUALCOMM: MODULAR ACQUISITION",
             "points": [
-                "Qualcomm enters a definitive agreement to acquire Modular, aiming to revolutionize enterprise AI infrastructure and compilation.",
-                "The merger integrates advanced chip compilation tech, simplifying multi-hardware model execution across heterogeneous cloud environments.",
-                "This acquisition positions Qualcomm to compete directly with dominant silicon rivals by optimizing cross-platform developer toolchains.",
-                "Native software optimization suites will decide the next champions of data-center inference and edge-based silicon deployments."
+                "Qualcomm has finalized its acquisition of Modular a leading developer of unified enterprise artificial intelligence infrastructure platforms.",
+                "The acquisition consolidates hardware-agnostic compiler technologies enabling highly efficient model execution on low-power edge computing systems.",
+                "Merging silicon design with advanced compiler frameworks resolves critical energy bottlenecks across diverse edge and mobile deployments.",
+                "Device manufacturers will integrate highly optimized localized models accelerating the adoption of independent and private on-device intelligence."
             ],
             "imageUrl": "",
             "tags": [
