@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN DATA",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PGEDGE: COLDFRONT DEPLOYMENT",
+            "heading": "UTILITIES: POWER MERGER EXPLOSION",
             "points": [
-                "pgEdge released ColdFront to merge relational OLTP and OLAP storage systems for distributed AI databases.",
-                "Distributed enterprises can now execute localized analytical queries directly alongside transactional workloads without data replication latency.",
-                "The architecture reduces cloud storage expenses by tiering historic data assets into lower-cost object storage pools.",
-                "Database administrators will increasingly adopt unified database engines to eliminate complex pipeline architectures across global edges."
+                "AI data center expansion triggers a massive two hundred billion dollar merger boom within the energy sector.",
+                "Hyperscalers rapidly acquire private utility networks to secure dedicated electrical generation capacity for next generation clusters.",
+                "The transition requires deep integration of localized power infrastructure directly into specialized high performance computing facilities.",
+                "Grid operators must rapidly modernize transmission lines to prevent systemic thermal overloads from continuous computational draws."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "KOMPRISE: ICEBERG INTEGRATION",
+            "heading": "CISPE: SOVEREIGN CLOUD WARNING",
             "points": [
-                "Komprise integrated Apache Iceberg to enable direct analytics on massive unstructured corporate datasets without migration.",
-                "This integration allows enterprise software to query unstructured data in place, reducing transfer fees.",
-                "By exposing unstructured storage directly to cloud query engines, organizations accelerate training data readiness.",
-                "Enterprise data architects can bypass proprietary pipelines in favor of open storage formats for AI."
+                "European cloud body CISPE warns that restrictive Broadcom licensing models prevent the development of sovereign infrastructure.",
+                "Enterprises face escalating virtualization costs that disrupt local data residency strategies and sovereign platform deployments.",
+                "The operational shift forces cloud architects to migrate core hypervisors toward open source alternative technologies.",
+                "Sovereign cloud providers must now decouple critical operations from monopolistic legacy vendor supply chains immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATORY: ACCESS LIMITATION",
+            "heading": "PGEDGE: STORAGE CONVERGENCE ENGINE",
             "points": [
-                "United States regulators directed OpenAI to restrict external access to its most powerful frontier intelligence systems.",
-                "This restriction impacts global enterprises seeking to leverage raw model capabilities for advanced automated workflows.",
-                "The policy reflects escalating national security concerns surrounding the export and misuse of sovereign AI capabilities.",
-                "Organizations must pivot toward private, self-hosted open-weights models to ensure complete developmental and operational independence."
+                "pgEdge introduces ColdFront database storage merging transaction processing with analytical queries to support real time applications.",
+                "The system decreases overall operational expenditures by keeping historical logs editable without sacrificing application layer compatibility.",
+                "Architects leverage converged storage to bypass complex data pipeline movements during high throughput agent training runs.",
+                "Integrating transactional and analytical backends allows automated agents to read state and execute tasks simultaneously."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CONGRESS: REPLICA REGULATION",
+            "heading": "CONGRESS: MANDATORY RISK REPORTING",
             "points": [
-                "The United States Senate advanced the NO FAKES Act to establish federal intellectual property protections.",
-                "This legislative action directly targets unauthorized digital replicas of human voices, likenesses, and creative assets.",
-                "Chief information security officers must implement strict synthetic media validation protocols to prevent corporate identity spoofing.",
-                "Legal departments will require certified lineage tracking systems to guarantee all generative training materials are compliant."
+                "Proposed American legislation mandates that frontier developers legally report dangerous model capabilities and active security vulnerabilities.",
+                "The draft bill establishes strict regulatory compliance frameworks overseen by federal agencies to monitor autonomous systems.",
+                "Organizations must implement continuous automated testing audits to document model hallucinations and critical safety threshold breaches.",
+                "Compliance officers will face severe penalties if systemic model failure reporting lacks verified cryptographic telemetry records."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COALITION: EFFICIENCY COALITION",
+            "heading": "ANTHROPIC: MODEL SCRAPING DEFENSE",
             "points": [
-                "Qualcomm, OpenAI, and IBM initiated hardware developments to optimize infrastructure and lower carbon emissions.",
-                "New transistor architectures and targeted silicon acquisitions aim to drastically decrease modern datacenters' massive power demands.",
-                "Hardware optimizations will relieve severe electrical grid constraints that threaten current cloud infrastructure expansion models.",
-                "Technology buyers should anticipate specialized edge-native processors that significantly reduce long-term operational consumption and costs."
+                "Anthropic reveals and mitigates a highly coordinated automated harvesting campaign involving twenty five thousand fake accounts.",
+                "The malicious network traced back to automated scraping scripts targeting the Claude model interface without authorization.",
+                "Security engineers deployed dynamic request request rate limiting and advanced fingerprinting to isolate and block adversarial bots.",
+                "The incident underscores the growing geopolitical conflict over securing proprietary model intelligence from global state adversaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONGRESS: COMPLIANCE OBLIGATION",
+            "heading": "SALESFORCE: AUTONOMOUS AGENT AGENTFORCE",
             "points": [
-                "Proposed American legislation forces foundation model developers to legally report dangerous behavior and security vulnerabilities.",
-                "The mandate imposes severe civil penalties for failing to disclose potential threats within strict reporting windows.",
-                "This regulatory oversight introduces critical compliance frameworks that parallel traditional enterprise software auditing and verification protocols.",
-                "Compliance teams must deploy automated risk tracking systems to ensure continual alignment with evolving statutory requirements."
+                "Salesforce launches a localized customer service agent introducing a novel pay per resolution transactional pricing model.",
+                "Enterprises will bypass seat based licensing fees by paying exactly two dollars for every successfully resolved issue.",
+                "The framework integrates disparate customer databases to enable autonomous decision paths without human operator intervention protocols.",
+                "IT leaders must prepare to audit automated resolution quality metrics to control unexpected operational billings dynamically."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CISPE: SOVEREIGN CLOUD ALLIANCE",
+            "heading": "RESEARCHERS: QUANTUM ADVANCE DISPUTED",
             "points": [
-                "Cloud infrastructure alliance CISPE declared sovereign virtualization impossible under Broadcom's current restrictive licensing models.",
-                "European cloud providers face severe cost increases, forcing a massive migration toward alternative hypervisor platforms.",
-                "This platform fragmentation threatens the unified cloud standards critical for deploying localized enterprise data fabrics.",
-                "Enterprise architects will prioritize open-source KVM solutions to decouple critical sovereign operations from proprietary vendor lock-in."
+                "Independent physics researchers publish new analyses casting deep skepticism on Microsoft\u2019s claimed topological quantum computing breakthroughs.",
+                "Skeptics argue the reported Majorana chip program metrics fail to demonstrate reproducible hardware state coherence phases.",
+                "The dispute centers on interpretation of electrical signature data across simulated semiconductor and superconductor interfaces.",
+                "Strategic planning for quantum supremacy remains highly volatile as fundamental materials engineering verification cycles continue slowing down."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
