@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT GENERATION INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: AGENTIC INFRASTRUCTURE EXPANSION",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "AMD scales agentic AI workflows by aligning high-performance EPYC CPU portfolios for enterprise-wide data center integration. The strategy focuses on end-to-end workload efficiency via open ecosystem standards.",
-                "Strategic deployment of 30 MW of dedicated AI compute with Rackspace underscores a phased transition toward regulated enterprise cloud architectures. This move secures significant capacity for high-density, agent-driven operations.",
-                "Gartner's recognition of AMD as a front-runner highlights the market shift toward server CPUs optimized for intensive AI inference tasks. Competitive positioning is centered on TCO advantages over legacy silicon vendors.",
-                "Enterprises are leveraging AMD Versal and Instinct hardware to bridge the gap between edge AI development and cloud-scale deployment requirements. Reliability and scalability remain the primary drivers for these new infrastructure commitments."
+                "OpenAI previewed GPT-5.6 Sol, their latest next-generation frontier model optimized for complex automated workflows.",
+                "The architecture enhances agentic reasoning capabilities across multi-step enterprise operations and long-horizon tasks.",
+                "This release positions OpenAI to capture high-value enterprise automation segments requiring deep transactional autonomy.",
+                "Organizations can deploy this next-generation model to radically reduce operational latencies in complex workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA RUBIN SUPERCOMPUTING PLATFORM",
+            "heading": "ANTHROPIC: BLACKWELL ULTRA INTEGRATION",
             "points": [
-                "NVIDIA launches the Vera Rubin platform, a dedicated POD-scale architecture engineered to manage complex training and agentic AI workloads. This hardware ecosystem optimizes manufacturing-grade compute for global data infrastructure partners.",
-                "Thirty-five new AI supercomputers powered by NVIDIA technology are currently entering development across Europe. These installations represent a shift toward specialized HPC frameworks designed specifically for massive-scale research capabilities.",
-                "New collaborations with Azure integrate Anthropic\u2019s frontier models on NVIDIA GB300 chips. This deployment provides developers with unified access to extreme compute density within highly secure, managed cloud environments.",
-                "Industry adoption of NVIDIA Jetson in orbit showcases the expansion of physical AI into edge-constrained environments. Precision-engineered hardware is effectively decoupling high-performance compute from terrestrial power and cooling limitations."
+                "Anthropic partnered with Nvidia and Microsoft to run Claude models on Blackwell Ultra GB300 chips.",
+                "Integrating with Azure infrastructure delivers unprecedented processing speeds for compute-heavy enterprise agentic workloads.",
+                "This deployment minimizes model-extraction vulnerabilities while optimizing performance for secure, high-frequency enterprise querying.",
+                "Hardware-accelerated LLMs on sovereign cloud infrastructure will redefine real-time global intelligence pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE: GEMINI OMNI ARCHITECTURE",
+            "heading": "MICROSOFT: FABRIC RAYFIN DEPLOYMENT",
             "points": [
-                "Google Cloud introduces Gemini Omni to enable cross-modal intelligence processing for complex enterprise applications. The platform allows for the simultaneous ingestion and synthesis of video, audio, and text inputs.",
-                "Gemini 3.5 emerges as a frontier model series optimized for action-oriented workflows and real-time execution capabilities. The integration platform focuses on reducing latency for autonomous agentic task completion in production.",
-                "New security features like AI Threat Defense help enterprise customers outpace adversaries within complex multi-agent environments. Governance frameworks are embedded at the infrastructure layer to ensure data integrity during execution.",
-                "Startups are leveraging expanded cloud credits to build on Google\u2019s agentic Data Cloud. This transition enables businesses to treat their data as a system of action rather than static storage."
+                "Microsoft Fabric launched Rayfin, an enterprise-ready, fully managed agent-and-code optimized backend service.",
+                "Developers can access Rayfin via software development kits to accelerate high-frequency agent orchestration.",
+                "The managed service decouples legacy database structures to deliver low-latency transactional execution at scale.",
+                "This launch drives deeper adoption of unified data analytics within modern, secure cloud ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: FRONTIER MODEL INTEGRATION",
+            "heading": "SOUTH KOREA: HISTORIC SEMICONDUCTOR PUSH",
             "points": [
-                "Anthropic releases Claude Opus 4.8, a model refined for complex agentic tasks and professional-grade coding consistency. The focus is on handling long-running, autonomous workflows with high architectural precision and reduced hallucination rates.",
-                "Strategic availability of Claude models within Microsoft Foundry allows enterprise teams to leverage existing governance and authentication controls. This integration accelerates the adoption of frontier AI in strictly regulated sectors.",
-                "The Anthropic Institute launches to address the long-term societal risks posed by powerful, autonomous artificial intelligence models. This initiative provides a research-heavy counterbalance to the rapid commercial deployment of agentic technologies.",
-                "Expanded access to Project Glasswing reaches 150 global organizations, demonstrating a push toward ethical model usage and broader stakeholder adoption. This effort signals a maturity in safety protocols for large-scale enterprise deployments."
+                "South Korea unveiled an historic five hundred seventy-six billion dollar semiconductor investment program.",
+                "Samsung and SK Hynix will lead this initiative to develop advanced high-bandwidth memory chips.",
+                "This massive capital injection strengthens regional hardware sovereignty amidst escalating global silicon supply chain tensions.",
+                "Global hardware markets expect this move to stabilize next-generation high-performance computing hardware pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL: FRONTIER AI INFRASTRUCTURE",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Mistral introduces Vibe, an autonomous AI agent designed for long-horizon work and multi-step task scheduling across enterprise environments. The system emphasizes knowledge search, document synthesis, and persistent memory capabilities.",
-                "The company launches Mistral OCR 4 to tackle unstructured data challenges, enabling more effective ingestion of complex documents for model training. This tool bridges the gap between raw information and AI intelligence.",
-                "Collaboration with major industrial players like ASML and HSBC highlights Mistral's role in applied, domain-specialized AI deployments. These partnerships focus on streamlining maritime operations and advanced semiconductor manufacturing through custom agents.",
-                "Mistral Compute offers frontier-scale infrastructure to developers, providing dedicated GPU clusters for training and inference. This portable deployment architecture allows businesses to run production AI from edge to cloud environments."
+                "Microsoft introduced Azure HorizonDB, engineered to bring ultra-low latency and built-in AI to PostgreSQL.",
+                "The database platform features scalable reads and integrated machine learning capability for mission-critical applications.",
+                "This architecture enables developers to construct highly responsive agent networks without traditional storage performance penalties.",
+                "Enterprises adopting HorizonDB can scale real-time transactional databases alongside intense automated artificial intelligence workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: LEADERSHIP IN AI SILICON",
+            "heading": "FIREFLY: ORBITAL JETSON OPERATION",
             "points": [
-                "TSMC advances its A16 nanosheet technology with Super Power Rail to meet the extreme demands of HPC and AI hardware. The innovation focuses on backside power delivery to maximize performance per watt.",
-                "The A14 manufacturing process incorporates NanoFlex Pro, providing chip designers with unmatched flexibility for complex AI accelerator architectures. This advancement maintains TSMC\u2019s monopoly on the most critical AI silicon production.",
-                "Strategic expansion into regional manufacturing hubs in Germany, Japan, and the United States reflects a shift toward sovereign AI infrastructure. These efforts aim to secure the supply chain for next-generation AI processors.",
-                "Collaboration within the OIP ecosystem remains central to enabling 3D IC design for complex AI silicon. Industry leaders rely on TSMC's manufacturing excellence to scale from research prototypes to massive volume production."
+                "Firefly Aerospace successfully operated the Nvidia Jetson edge platform in lunar orbit for the first time.",
+                "This hardware deployment proves that advanced edge computing can reliably execute in extreme space environments.",
+                "It enables autonomous satellite telemetry processing, reducing relying on slow Earth-to-space communications networks.",
+                "Space exploration agencies will leverage high-performance edge hardware to process interstellar science datasets locally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU: AI ACT COMPLIANCE GOVERNANCE",
+            "heading": "AMD: RACKSPACE COMPUTE PARTNERSHIP",
             "points": [
-                "The EU AI Act establishes a new standard for regulating high-risk AI applications, forcing businesses to adopt transparent, auditable development practices. Compliance is now a fundamental requirement for market entry within the region.",
-                "New guidelines for GPAI model providers and deployers under Chapter V enforcement protocols define strict accountability measures. This framework impacts how frontier AI companies build and manage their models globally.",
-                "The Advisory Forum is operational, providing critical technical expertise to the European Commission and the AI Board. This body ensures that regulatory policy evolves alongside rapidly changing AI capabilities and technical architectures.",
-                "Small and medium enterprises now utilize centralized compliance checkers to navigate their legal obligations under the new AI regulations. This support ecosystem reduces the barrier to entry for smaller, innovation-driven AI startups."
+                "AMD signed a definitive agreement with Rackspace Technology for a phased thirty megawatt compute deployment.",
+                "The specialized infrastructure hosts secure Epyc CPUs to process highly regulated enterprise computing workloads.",
+                "This layout optimizes power efficiency and operating costs for data centers managing large-scale agentic workflows.",
+                "Data center operators will increasingly prioritize custom-configured silicon architectures to balance escalating electricity demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
