@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "UTILITIES: POWER MERGER EXPLOSION",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "AI data center expansion triggers a massive two hundred billion dollar merger boom within the energy sector.",
-                "Hyperscalers rapidly acquire private utility networks to secure dedicated electrical generation capacity for next generation clusters.",
-                "The transition requires deep integration of localized power infrastructure directly into specialized high performance computing facilities.",
-                "Grid operators must rapidly modernize transmission lines to prevent systemic thermal overloads from continuous computational draws."
+                "Microsoft released Azure HorizonDB to deliver ultra-low latency reads built directly into the PostgreSQL service layer.",
+                "The architecture provides dedicated AI-native memory management for mission-critical apps requiring high-throughput, real-time data processing capabilities.",
+                "Integration with Foundry IQ allows developers to ground AI agents in organizational data context for superior enterprise performance.",
+                "This release positions Azure as a primary competitor for high-performance agentic backends and scalable cloud-based AI storage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CISPE: SOVEREIGN CLOUD WARNING",
+            "heading": "OPENAI: GPT-5.6 SOL ANNOUNCEMENT",
             "points": [
-                "European cloud body CISPE warns that restrictive Broadcom licensing models prevent the development of sovereign infrastructure.",
-                "Enterprises face escalating virtualization costs that disrupt local data residency strategies and sovereign platform deployments.",
-                "The operational shift forces cloud architects to migrate core hypervisors toward open source alternative technologies.",
-                "Sovereign cloud providers must now decouple critical operations from monopolistic legacy vendor supply chains immediately."
+                "OpenAI previewed GPT-5.6 Sol, a next-generation model architecture optimized for agentic workflows and advanced task autonomy.",
+                "The model integrates enhanced context awareness, specifically engineered to improve decision-making in sensitive, multi-step enterprise process environments.",
+                "Research indicates Sol reduces hallucinations by 40% compared to previous iterations while maintaining extreme code-execution velocity.",
+                "Deployment marks a shift toward model-agnostic agentic tools designed for long-horizon planning and complex systemic workflow execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PGEDGE: STORAGE CONVERGENCE ENGINE",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "pgEdge introduces ColdFront database storage merging transaction processing with analytical queries to support real time applications.",
-                "The system decreases overall operational expenditures by keeping historical logs editable without sacrificing application layer compatibility.",
-                "Architects leverage converged storage to bypass complex data pipeline movements during high throughput agent training runs.",
-                "Integrating transactional and analytical backends allows automated agents to read state and execute tasks simultaneously."
+                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific agentic tools for life sciences.",
+                "The platform enables researchers to deploy specialized agents capable of material simulation and experimental astronomy at unprecedented speed.",
+                "Integration with the Vera Rubin supercomputing platform delivers world-class infrastructure for training complex foundational models in research labs.",
+                "This toolkit signals a transition toward vertically-integrated agentic solutions across global high-performance computing centers and industrial operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CONGRESS: MANDATORY RISK REPORTING",
+            "heading": "TSMC: A16 NANOSHEET INNOVATION",
             "points": [
-                "Proposed American legislation mandates that frontier developers legally report dangerous model capabilities and active security vulnerabilities.",
-                "The draft bill establishes strict regulatory compliance frameworks overseen by federal agencies to monitor autonomous systems.",
-                "Organizations must implement continuous automated testing audits to document model hallucinations and critical safety threshold breaches.",
-                "Compliance officers will face severe penalties if systemic model failure reporting lacks verified cryptographic telemetry records."
+                "TSMC unveiled the A16 Nanosheet platform featuring super power rail technology for next-generation high-performance computing chip production.",
+                "This architectural breakthrough enables significantly improved energy efficiency and signal integrity for AI-specific large-scale semiconductor silicon manufacturing.",
+                "The technology is optimized to support the intensive power demands of emerging agentic AI hardware at the 1.6nm node.",
+                "Global chipmakers will transition to this platform to secure competitive advantages in sovereign AI silicon fabrication capacity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: MODEL SCRAPING DEFENSE",
+            "heading": "MISTRAL: VIBE AGENT DEPLOYMENT",
             "points": [
-                "Anthropic reveals and mitigates a highly coordinated automated harvesting campaign involving twenty five thousand fake accounts.",
-                "The malicious network traced back to automated scraping scripts targeting the Claude model interface without authorization.",
-                "Security engineers deployed dynamic request request rate limiting and advanced fingerprinting to isolate and block adversarial bots.",
-                "The incident underscores the growing geopolitical conflict over securing proprietary model intelligence from global state adversaries."
+                "Mistral AI introduced Vibe, an autonomous agent system designed for long-horizon work, memory-backed skills, and multi-step reasoning tasks.",
+                "The Vibe for Code module offers developers asynchronous generation capabilities and architecture-aware reasoning within existing IDE environments.",
+                "The platform enables enterprises to build, test, and deploy customized models across edge-to-cloud infrastructure with granular sovereign control.",
+                "This release emphasizes the strategic pivot toward agentic observability, guardrails, and persistent memory across diverse professional service sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SALESFORCE: AUTONOMOUS AGENT AGENTFORCE",
+            "heading": "GOOGLE: GEMINI 3.5 RELEASE",
             "points": [
-                "Salesforce launches a localized customer service agent introducing a novel pay per resolution transactional pricing model.",
-                "Enterprises will bypass seat based licensing fees by paying exactly two dollars for every successfully resolved issue.",
-                "The framework integrates disparate customer databases to enable autonomous decision paths without human operator intervention protocols.",
-                "IT leaders must prepare to audit automated resolution quality metrics to control unexpected operational billings dynamically."
+                "Google Cloud launched Gemini 3.5 to provide frontier intelligence with advanced action-taking capabilities for enterprise application development.",
+                "Gemini Omni enables multimodal input processing, allowing seamless generation of complex outputs from any source data format.",
+                "Infrastructure upgrades facilitate scaling for the agentic era, improving data center efficiency through automated workload management strategies.",
+                "The release bridges the gap between raw compute power and usable AI agency for modern cloud-native software engineering teams."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RESEARCHERS: QUANTUM ADVANCE DISPUTED",
+            "heading": "AMD: HYBRID QUANTUM INFRASTRUCTURE",
             "points": [
-                "Independent physics researchers publish new analyses casting deep skepticism on Microsoft\u2019s claimed topological quantum computing breakthroughs.",
-                "Skeptics argue the reported Majorana chip program metrics fail to demonstrate reproducible hardware state coherence phases.",
-                "The dispute centers on interpretation of electrical signature data across simulated semiconductor and superconductor interfaces.",
-                "Strategic planning for quantum supremacy remains highly volatile as fundamental materials engineering verification cycles continue slowing down."
+                "AMD announced critical classical infrastructure advancements designed to develop, operate, and scale hybrid quantum computing systems effectively.",
+                "The deployment includes 30 MW of dedicated AI compute to serve regulated enterprise workloads through a strategic Rackspace partnership.",
+                "This development accelerates the integration of high-performance classical chips with next-generation quantum processing units for industrial research applications.",
+                "AMD continues to emphasize an open ecosystem approach to secure its leadership in global AI infrastructure and sovereignty efforts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
