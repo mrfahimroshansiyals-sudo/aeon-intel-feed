@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "ASCENSION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: AGENTIC SCALE EXPANSION",
+            "heading": "SOUTH KOREA: SEMICONDUCTOR SOVEREIGNTY",
             "points": [
-                "Anthropic is extending Project Glasswing to 150 global organizations to broaden AI model safety testing and ethical deployment.",
-                "The firm reported record-breaking study data from 81000 participants regarding AI societal impact and long-term human well-being expectations.",
-                "Claude Opus 4.8 introduces enhanced consistency for long-running agentic tasks professional coding and complex cross-departmental workflow orchestration.",
-                "Strategic launch of The Anthropic Institute focuses on confronting existential challenges posed by powerful AI within modern societal frameworks."
+                "South Korea launched a massive 576 billion dollar investment package targeting accelerated AI chip development cycles.",
+                "Samsung and SK Hynix are spearheading this state-backed initiative to secure regional semiconductor manufacturing leadership.",
+                "The push aims to localize deep-tier memory and logic production, reducing dependence on global supply chains.",
+                "Analysts suggest this capital injection will force rapid capacity expansion across all local AI-centric foundries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SCIENTIFIC AGENT TOOLKITS",
+            "heading": "AMD: EDGE COMPUTING ACCELERATION",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit specifically designed for domain-specific automation in life sciences and scientific discovery sectors.",
-                "Europe reported the development of 35 new NVIDIA AI supercomputers to advance continental high-performance computing and research sovereignty.",
-                "The new Vera Rubin platform enables extreme co-design for manufacturing and cloud infrastructure partners to accelerate large-scale AI deployment.",
-                "NVIDIA RTX Spark laptops now feature 128GB unified memory for running agentic AI workflows and complex prompts locally on-device."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: RACK-SCALE EXECUTION STRATEGY",
-            "points": [
-                "AMD signed a definitive agreement with Rackspace Technology for a phased 30MW deployment of advanced AI compute capacity.",
-                "The firm positions EPYC processors as essential foundations for high-density agentic AI workflows in regulated enterprise data center environments.",
-                "AMD currently leads industry benchmarks for AI server CPUs with an open ecosystem approach for cross-platform model optimization.",
-                "The upcoming Advancing AI 2026 summit in San Francisco targets critical shifts in hardware-to-model sovereignty and end-to-end performance scaling."
+                "AMD introduced the Versal Premium Gen 2 MoP, significantly boosting memory capacity for edge-deployed AI workloads.",
+                "This architecture focuses on reducing latency for real-time inference tasks in power-constrained manufacturing environments.",
+                "New hardware integrations enable more sophisticated local processing without relying on centralized data center throughput.",
+                "This release marks a strategic shift toward dominating the burgeoning high-performance industrial edge intelligence sector."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MICROSOFT: FOUNDRY AGENT ECOSYSTEM",
+            "id": 3,
+            "heading": "MISTRAL AI: ENTERPRISE DOCUMENT INTELLIGENCE",
             "points": [
-                "Microsoft Azure now features Claude Opus 4.8 and Haiku 4.5 models generally available within the Microsoft Foundry development environment.",
-                "Azure HorizonDB launches with built-in AI capabilities and ultra-low latency for scalable PostgreSQL database applications in mission-critical environments.",
-                "The Foundry Control Plane provides enterprise builders with granular observability and policy guardrails for managing large AI agent fleets.",
-                "Microsoft continues to integrate agent-optimized backends directly into Fabric to simplify AI application delivery for enterprise developer teams."
+                "Mistral AI launched OCR 4 to bridge the gap between unstructured physical documentation and digital reasoning.",
+                "The engine leverages frontier-scale visual comprehension to automate complex document synthesis and multi-step report generation.",
+                "Enterprises can now utilize native architecture to convert legacy paperwork into actionable, machine-readable agentic datasets.",
+                "This deployment significantly lowers the barrier for industries attempting to integrate legacy archives into modern workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AZURE: AGENTIC INFRASTRUCTURE EXPANSION",
+            "points": [
+                "Microsoft Azure announced general availability of Claude Opus 4.8 and Haiku 4.5 within the Foundry backend.",
+                "This integration provides enterprises with robust governance, authentication, and billing controls for complex agentic deployments.",
+                "Azure Foundry IQ now offers ubiquitous knowledge search, grounded in organizational data to improve agent output.",
+                "These enhancements allow organizations to scale AI agents while maintaining stringent, centralized enterprise-grade security oversight."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,12 +71,28 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA CLOUD",
+            "heading": "NVIDIA: BIO-SCIENTIFIC AGENT TOOLKITS",
             "points": [
-                "Google Cloud introduced AI Threat Defense to actively secure enterprises against evolving adversarial attacks targeting foundational AI model infrastructure.",
-                "The agentic Data Cloud update focuses on providing an automated system of action for real-time insights and enterprise governance.",
-                "Gemini Enterprise now offers a centralized platform for model orchestration enabling developers to build and scale AI agents securely.",
-                "New Gemini 3.5 integrations provide frontier intelligence capabilities with deeper action-oriented task management for enterprise-grade productivity applications."
+                "NVIDIA announced the BioNeMo Agent Toolkit to provide domain-specific acceleration for scientific discovery workflows.",
+                "This toolset equips agents with specialized libraries for protein folding, molecule synthesis, and genomic data modeling.",
+                "The platform supports rapid deployment on NVIDIA AI infrastructure, shortening the R&D cycle for life sciences.",
+                "By automating complex research processes, this technology fundamentally transforms laboratory data management into high-speed computation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE: AGENTIC WORKFLOW SCALING",
+            "points": [
+                "Google Cloud introduced Gemini 3.5 series models designed to unify frontier-level intelligence with real-time agentic actions.",
+                "New infrastructure capabilities include enhanced orchestration, governance, and unified registry services for managing agent fleets.",
+                "Developers can now deploy multi-modal agents that perform complex tasks across diverse enterprise data ecosystems seamlessly.",
+                "These updates emphasize high-speed operational deployment and simplified integration for businesses transitioning to agent-first workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,29 +102,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: FRONTIER AGENT VIBE",
-            "points": [
-                "Mistral AI launched Vibe an autonomous AI agent specifically engineered for long-horizon work and multi-step task scheduling across enterprise.",
-                "The Vibe for Code tool provides architecture-aware reasoning and automated CI/CD capabilities directly within the developer terminal and IDE.",
-                "Mistral OCR 4 improves document intelligence and data synthesis capabilities for enterprises handling complex unstructured and non-standardized digital inputs.",
-                "Applied AI services at Mistral focus on domain adaptation through end-to-end training and synthetic data generation for specialized industry sectors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "TECHTARGET: AI INFRASTRUCTURE FOCUS",
+            "heading": "COMPUTE: DATA ARCHITECTURE EVOLUTION",
             "points": [
-                "Enterprise firms are accelerating the integration of Apache Iceberg into data management strategies to analyze unstructured data without movement.",
-                "The NO FAKES Act advances through the US Senate posing new legal challenges for CISOs regarding unauthorized AI replica use.",
-                "Market analysis indicates that Qualcomm OpenAI and IBM are collaborating on chip and transistor designs to mitigate skyrocketing AI costs.",
-                "Biometric and AI governance standards for mobile security audits are becoming mandatory requirements for enterprise compliance within the global landscape."
+                "TechTarget reports rising integration of Apache Iceberg in storage tiers to optimize unstructured data management costs.",
+                "Enterprises are migrating toward converged analytics architectures that support high-volume AI model training and inference.",
+                "This convergence addresses storage efficiency and AI readiness, preventing expensive data movement between disparate legacy silos.",
+                "Industry vendors are rapidly shifting offerings to prioritize high-performance data pipelines essential for modern AI scale."
             ],
             "imageUrl": "",
             "tags": [
