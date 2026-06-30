@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: BLACKWELL ULTRA INTEGRATION",
+            "heading": "ANTHROPIC: AGENTIC SCALE SHIFT",
             "points": [
-                "Anthropic deploys its frontier Claude models onto NVIDIA Blackwell Ultra GB300 systems hosted on Microsoft Azure.",
-                "The deployment significantly accelerates model inference capabilities while minimizing latency across critical enterprise workloads.",
-                "This integration optimizes heavy agentic computing tasks within Azure's highly secure corporate infrastructure environments.",
-                "Enterprise developers can now harness maximum throughput for large-scale production deployments of advanced models."
+                "Anthropic expands Project Glasswing to 150 global organizations to test autonomous collaborative frameworks.",
+                "Claude Opus 4.8 improves long-running professional work consistency, marking a pivotal step for agentic operational stability.",
+                "Strategic deployment focus on secure enterprise authentication and governance controls ensures reliability for mission-critical tasks.",
+                "The Anthropic Institute launches to confront structural societal challenges posed by increasingly autonomous AI intelligence systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA: VERA RUBIN INFRASTRUCTURE",
+            "points": [
+                "NVIDIA unveils Vera Rubin platform, delivering POD-scale infrastructure designed for global-scale AI training and agentic workloads.",
+                "Europe accelerates hardware sovereignty with a record 35 new NVIDIA-powered AI HPC supercomputers currently in development.",
+                "BioNeMo Agent Toolkit provides domain-specific skills for accelerating complex scientific discovery within the agentic life sciences.",
+                "Integration of GB300 chips in Azure confirms the move toward ultra-high-density processing for large-scale enterprise models."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "AMD: ENTERPRISE CPU DOMINANCE",
+            "id": 3,
+            "heading": "GOOGLE: GEMINI OMNI DEPLOYMENT",
             "points": [
-                "Gartner designates AMD as the leading vendor for enterprise AI server central processing unit architectures.",
-                "A definitive agreement with Rackspace secures a massive thirty megawatt deployment of optimized AI compute.",
-                "Modern data centers increasingly select these processors to handle complex end-to-end agentic workflow workloads efficiently.",
-                "This shift establishes new performance benchmarks and superior total cost of ownership metrics for enterprises."
+                "Google DeepMind introduces Gemini 3.5 series, combining frontier intelligence with real-world action and agentic capabilities.",
+                "Gemini Omni provides multimodal input processing from video and audio for next-generation automated industrial workflows.",
+                "DeepMind invests in multi-agent safety research to ensure robust performance across non-deterministic, long-horizon enterprise tasks.",
+                "Google AI Threat Defense launches to secure agentic systems against emerging adversarial risks in automated environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: AGENTIC WORKFLOW SOVEREIGNTY",
+            "points": [
+                "AMD scales AI infrastructure through 30 MW compute deployment, specifically targeting highly regulated enterprise AI workload requirements.",
+                "Gartner identifies AMD as current front-runner in AI server CPUs, bolstering the case for open ecosystem approaches.",
+                "Versal Premium Gen 2 enhancements significantly boost memory capacity, reducing latency for complex agentic processing tasks.",
+                "Sovereign AI Innovation Labs continue expanding, focusing on local control for critical national research and economic data."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "OPENAI: BROADCOM CUSTOM SILICON",
+            "id": 5,
+            "heading": "MISTRAL: FRONTIER AI CONTROL",
             "points": [
-                "OpenAI co-develops an advanced custom artificial intelligence inference chip in collaboration with Broadcom engineers.",
-                "The hardware reduces massive energy expenditures while accelerating localized token processing speeds for complex queries.",
-                "Custom silicon deployments represent a strategic transition away from reliance on third-party hardware ecosystems.",
-                "Global organizations will soon access cost-effective model execution pathways bypassing traditional hardware supply chain bottlenecks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MISTRAL: UNSTRUCTURED DATA BREAKTHROUGH",
-            "points": [
-                "Mistral AI releases its highly anticipated OCR Four model to resolve unstructured corporate data processing challenges.",
-                "The specialized engine processes complex documents, hand-written text, and diverse visual inputs with near-perfect accuracy.",
-                "This development allows enterprises to easily transform unstructured legacy document archives into ready-to-use vector embeddings.",
-                "Data science teams can substantially accelerate pipeline development for downstream retrieval-augmented generation applications."
+                "Mistral releases OCR 4, optimizing unstructured data ingestion for advanced document intelligence and report synthesis pipelines.",
+                "Vibe AI agent platform targets long-horizon tasks through persistent memory, multi-step scheduling, and enterprise knowledge grounding.",
+                "Forge model customization platform enables organizations to train domain-specific models while maintaining strict infrastructure control.",
+                "Compute services offer dedicated GPU clusters designed for frontier-scale training and high-fidelity, secure model evaluation environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SOUTH KOREA: SEMICONDUCTOR MEGAPUSH",
-            "points": [
-                "South Korea initiates a massive five hundred seventy-six billion dollar artificial intelligence semiconductor industry initiative.",
-                "Partners Samsung and SK Hynix lead the industrial expansion to build next-generation high-bandwidth memory chips.",
-                "National sovereign technology policies increasingly prioritize domestic hardware production facilities to secure critical chip supply chains.",
-                "Global hardware markets will witness dramatic shifts in memory availability as production capabilities scale up rapidly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "MICROSOFT: HORIZONDB ULTRA DATABASE",
+            "heading": "TSMC: NANO-SCALE AI LEADERSHIP",
             "points": [
-                "Microsoft launches Azure HorizonDB bringing built-in artificial intelligence features directly to enterprise PostgreSQL database instances.",
-                "The database engine delivers ultra-low latency and scalable reads for extremely demanding mission-critical application workloads.",
-                "Integrating vector processing directly into operational databases eliminates complex data movement between siloed software systems.",
-                "System architects can now design highly responsive agentic architectures using existing relational database infrastructure models."
+                "TSMC expands AI capability through A16 nanosheet technology with innovative backside power rails for ultra-high compute performance.",
+                "A14 with NanoFlex Pro advances the next wave of energy-efficient AI chip manufacturing for high-performance computing centers.",
+                "Strategic focus on 3D IC design provides the dense interconnect necessary for upcoming agentic model parameter scaling.",
+                "Global fab expansion continues in US, Germany, and Japan to secure supply chain resilience for essential hardware components."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
+            "heading": "EU AI ACT: GOVERNANCE REALIGNMENT",
             "points": [
-                "Microsoft introduces Rayfin a fully managed agent-optimized backend as a service operating on Fabric.",
-                "This serverless platform automates runtime environment configuration and code execution for decentralized artificial intelligence agents.",
-                "Providing standardized agent backends accelerates the deployment of autonomous workflows across enterprise data lakes.",
-                "Developers will drastically reduce application delivery times by eliminating custom integration pipelines for cognitive workflows."
+                "EU AI Act enforcement mechanisms shift focus to provider transparency requirements for high-risk and general-purpose AI models.",
+                "Compliance checker tools simplify legal obligation mapping for SMEs navigating the evolving European digital sovereignty regulatory landscape.",
+                "Advisory Forum establishment provides formal channels for technical expertise to inform ongoing European Commission oversight strategies.",
+                "Article 50 transparency mandates push organizations to modernize internal documentation, audit, and risk management reporting pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
