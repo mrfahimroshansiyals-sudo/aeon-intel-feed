@@ -1,82 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "SHIFT"
+        "titleWhite": "ENTERPRISE AGENT ARCHITECTURE",
+        "titleBlue": "COALESCES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: EXPORT CONTROL RELIEF",
+            "heading": "ANTHROPIC: MODEL RE-RELEASE",
             "points": [
-                "The Trump administration officially lifted high-tech export controls on Anthropic's flagship Fable Five and Mythos Five frontier models.",
-                "Global research teams regain immediate low-latency API access to deploy advanced reasoning capabilities across fifteen active foreign countries.",
-                "This regulatory pivot shifts geopolitical tech restrictions back toward open bilateral research cooperation and high-performance Western distribution.",
-                "Enterprises can now deploy highly secure frontier architectures globally without facing severe international trade compliance friction points."
+                "Anthropic gains White House clearance to restore global distribution of Claude Fable five and Mythos five models.",
+                "Enterprises can now leverage advanced agentic capabilities formerly restricted under strict federal intelligence export control regulations.",
+                "The administration's sudden policy reversal highlights a critical geopolitical pivot toward accelerating domestic frontier model proliferation.",
+                "Stakeholders expect rapid integration of these newly authorized models into high-security aerospace and defense computing pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE DEBUT",
+            "heading": "MICROSOFT: MEMORA ARCHITECTURE",
             "points": [
-                "Anthropic launched Claude Science as its flagship product to accelerate complex computational biology and scientific discoveries.",
-                "Pharmaceutical enterprises can leverage specialized reasoning pipelines to compress drug discovery and chemical simulation lifecycles significantly.",
-                "The architecture uses highly focused domain grounding techniques to prevent hallucinations during critical molecular analysis procedures.",
-                "Researchers expect this tailored scientific intelligence engine to spark massive clinical trials acceleration over the next fiscal year."
+                "Microsoft officially unveils Memora to resolve critical state-tracking and long-term memory constraints hindering autonomous AI agents.",
+                "The system optimizes context-window persistence reducing token consumption costs across multi-turn enterprise application sessions by forty percent.",
+                "Deploying dedicated memory abstraction layers decouples agentic reasoning from basic underlying LLM context parameters completely.",
+                "System architects predict this technology will accelerate adoption of persistent digital workers in complex multi-step corporate workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "AWS: BEDROCK AGENTCORE",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit containing advanced specialized tools and skills optimized for agentic life sciences.",
-                "The platform empowers biological developers to quickly construct autonomous pipelines that run seamlessly alongside Claude Science.",
-                "This toolkit leverages accelerated hardware computing to analyze massive datasets and optimize multi-step scientific research workflows.",
-                "BioNeMo establishes a new industry benchmark for real-time biological simulations and automated lab execution paradigms globally."
+                "Amazon launches Bedrock AgentCore enabling rapid deployment of seventeen production-ready agentic AI systems within months.",
+                "Enterprises utilize these automated agent configurations to streamline complex customer service tasks and technical telemetry diagnostics.",
+                "Fully-managed agent orchestration platforms are replacing manual custom coding efforts as companies rush to automate internal procedures.",
+                "Organizations adopting these pre-configured frameworks will drastically reduce their time-to-market for sophisticated enterprise automation pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "GOOGLE: COMPUTE-READY MODELS",
             "points": [
-                "Microsoft integrated Anthropic's Claude Opus Four Point Eight and Haiku Four Point Five models into Foundry.",
-                "Enterprises gain robust governance, billing, and native authentication controls while executing workloads on secure Azure infrastructure.",
-                "This partnership brings premier multi-model optionality directly into cloud environments already standardized on Microsoft compliance frameworks.",
-                "IT leaders can easily scale complex agentic networks using trusted enterprise directories without incurring additional infrastructure overhead."
+                "Google launches Gemini three point five Flash featuring native computer use API controls for complex software interactions.",
+                "The model interacts directly with virtual operating systems to execute complicated, multi-step desktop tasks automatically.",
+                "Merging modal reasoning with native computer execution environments signals a massive shift toward highly proactive automation frameworks.",
+                "Software developers can immediately offload manual testing and repetitive coding pipelines directly to highly capable agentic models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: MEMORA AGENT MEMORY",
+            "heading": "MONGODB: ATLAS AI UPGRADE",
             "points": [
-                "Microsoft unveiled Memora, a new specialized database layer designed to resolve persistent memory limitations in AI agents.",
-                "This technology reduces operational latencies by allowing multi-agent systems to retain and retrieve contextual historical data efficiently.",
-                "Memora optimizes token consumption rates during prolonged business workflows by caching relevant memory structures close to execution.",
-                "Developers can now build long-horizon agentic applications that execute complex enterprise tasks without losing critical temporal details."
+                "MongoDB embeds advanced neural search reranking directly into its Atlas database platform to streamline retrieval architectures.",
+                "This native database integration dramatically improves semantic search accuracy while eliminating the latency of third-party external services.",
+                "Consolidating storage, vector capabilities, and ranking layers helps developers deploy robust retrieval-augmented generation applications much faster.",
+                "Database administrators will benefit from lower system complexity and highly predictable infrastructure costs at massive operational scale."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "US SENATE: AI AGENT ACT",
+            "heading": "COUCHBASE: EDGE DATABASE LAYER",
             "points": [
-                "The United States Senate introduced the AI AGENT Act to establish comprehensive governance over enterprise autonomous agents.",
-                "The legislation requires strict FTC registration and clear user-linked accountability structures for all deployed high-risk platforms.",
-                "This regulatory framework forces corporate security leaders to re-examine procurement, risk management, and overall operational safety standards.",
-                "Compliance teams must establish continuous audit pipelines to prevent liability and ensure safe operation within public domains."
+                "Couchbase launches custom Agent Memory features to support distributed agent deployments directly on remote edge computing devices.",
+                "Localized state storage allows decentralized agents to perform low-latency tasks without relying on continuous cloud database connectivity.",
+                "Expanding database functionality to physical edge systems represents a crucial step toward fully sovereign offline agent intelligence architectures.",
+                "Industrial stakeholders can now deploy secure, resilient autonomous systems in highly regulated or remote field operating environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COUCHBASE: EDGE AGENT MEMORY",
+            "heading": "US CONGRESS: AGENT GOVERNANCE",
             "points": [
-                "Couchbase launched an upgraded data layer featuring dedicated Agent Memory capabilities to support decentralized autonomous systems.",
-                "This engineering breakthrough extends real-time database transactions directly to edge devices without requiring constant cloud connectivity.",
-                "By integrating local data processing pipelines, the system guarantees low latency and robust security for offline field operations.",
-                "Field enterprises can now confidently run critical operations knowing agent memory remains synchronized across disconnected hybrid environments."
+                "The United States Senate introduces the AI AGENT Act establishing strict user-linked accountability guidelines for enterprise systems.",
+                "The proposed legislation mandates FTC registration and comprehensive audit logs for all highly autonomous agentic workflows deployed.",
+                "Federal regulatory oversight is shifting from basic base model training to the active deployment of agentic software.",
+                "Chief Information Officers must immediately update procurement and risk management strategies to align with upcoming federal standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
