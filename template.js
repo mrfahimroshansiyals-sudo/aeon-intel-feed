@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC FRONTIER",
-        "titleBlue": "DEPLOYMENTS"
+        "titleWhite": "SOVEREIGN ENTERPRISE AI",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: EXPORT REGULATORY REVERSAL",
+            "heading": "ANTHROPIC: GLOBAL EXPORT REVERSAL",
             "points": [
-                "US regulators reversed strict export bans on Anthropic Fable 5 and Mythos 5 frontier intelligence models.",
-                "Global enterprise access commences immediately to unlock high-capacity reasoning capabilities across regulated sovereign digital infrastructure.",
-                "The decision marks a critical shift in state oversight of frontier foundational models entering global markets.",
-                "Organizations can now deploy advanced cognitive runtimes globally without encountering previous compliance bottlenecks."
+                "Anthropic secures US authorization to deploy its frontier Fable five and Mythos five generative models globally.",
+                "Global enterprise access expands immediately, resolving cross-border operational bottlenecks for highly regulated corporate intelligence platforms.",
+                "This sudden reversal indicates shifting federal perspectives regarding the security of exporting next-generation sovereign algorithmic architectures.",
+                "Transnational organizations can now design cohesive multi-region orchestration layers using standardized high-intelligence model baselines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
             "points": [
-                "Anthropic released Sonnet 5 engineered specifically for highly autonomous multi-step software development and complex reasoning.",
-                "The architecture significantly optimizes token efficiency while executing complex terminal operations and legacy code migration.",
-                "Developers gain access to upgraded tools featuring native computer use and precise programmatic execution capabilities.",
-                "Early benchmarks indicate substantial productivity gains for enterprises transitioning to fully autonomous software engineering fleets."
+                "Anthropic deploys its advanced Opus four point eight and Haiku four point five models inside Microsoft Foundry.",
+                "Integrating these flagship systems reduces latency while leveraging Azure enterprise billing and administrative policy controls natively.",
+                "Hyperscalers are increasingly forced to host competing frontier algorithms to retain demanding enterprise application development workloads.",
+                "IT administrators gain unified oversight to securely manage diverse third-party models under a single enterprise credentialing directory."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "AWS: OPENSEARCH ANALYTICS ENGINE",
             "points": [
-                "Claude Science debuts as a specialized application integrating academic research tools, auditable artifacts, and compute.",
-                "The system streamlines scientific workflows by automating complex mathematical calculations and high-throughput data processing tasks.",
-                "Researchers can leverage built-in compliance guardrails to ensure complete reproducibility of scientific discoveries and simulations.",
-                "This release positions Anthropic at the forefront of the highly competitive computer-aided scientific research market."
+                "Amazon Web Services launches a highly optimized log analytics engine specifically engineered for managed OpenSearch deployments.",
+                "The novel software architecture significantly decreases long-term telemetry retention and incident response expenditures for enterprise customers.",
+                "This update directly addresses escalating compliance pressures requiring deep storage of continuous enterprise operations data feeds.",
+                "Security operations teams can scale incident log ingestion without exceeding predetermined infrastructure cost boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "MICROSOFT: MEMORA AGENT MEMORY",
             "points": [
-                "Microsoft integrated Anthropic Opus 4.8 and Haiku 4.5 directly into the Azure Foundry management control plane.",
-                "This deployment provides enterprises with built-in authentication, unified billing, and robust policy controls for agent fleets.",
-                "Systems can now execute workloads across heterogeneous models under a singular administrative governance framework.",
-                "The partnership accelerates hybrid cloud deployments by combining Azure security with Anthropic state-of-the-art cognitive engines."
+                "Microsoft Research introduces Project Memora to resolve conversational context scaling limits for autonomous enterprise assistant systems.",
+                "By shifting to cue-based abstractions rather than raw message history, the system substantially lowers overall token consumption.",
+                "This architecture represents a major step toward building persistent, cost-efficient memory paradigms for complex industrial agents.",
+                "Engineers can deploy long-horizon workflows without worrying about rapid performance degradation or escalating operational API expenses."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MONGODB: ATLAS RERANKING INTEGRATION",
+            "heading": "MONGODB: ATLAS EMBEDDED RERANKING",
             "points": [
-                "MongoDB embedded native reranking capabilities directly into Atlas to streamline retrieval-augmented generation pipeline architectures.",
-                "The technical upgrade dramatically reduces developer overhead and lowers overall token-based cognitive model inference costs.",
-                "Enterprises can now execute high-precision data retrieval operations without deploying external, costly search middleware layers.",
-                "This optimization allows database administrators to maintain strict compliance and data security at scale."
+                "MongoDB embeds native search reranking directly inside its Atlas database platform to streamline retrieval-augmented generation.",
+                "This native integration removes external middleware overhead, yielding accelerated query responses and simplified cloud application structures.",
+                "Consolidating core semantic search and ranking capabilities directly in database systems marks a major infrastructure shift.",
+                "Database architects can significantly lower vector retrieval latency while simultaneously reducing complex data pipeline maintenance workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: MEMORA MEMORY ARCHITECTURE",
+            "heading": "COUCHBASE: AGENT MEMORY EXPANSION",
             "points": [
-                "Microsoft Research unveiled Memora to resolve severe long-term recall and context window degradation in agent systems.",
-                "The framework structures agent memory around high-level abstractions and precise cue-based retrieval instead of raw history.",
-                "This design significantly optimizes computational resources, preventing token bloat in long-running autonomous enterprise operations.",
-                "Software architects can leverage Memora to deploy resilient multi-step agents capable of persisting across months."
+                "Couchbase launches a specialized data layer featuring autonomous agent memory and decentralized edge device synchronization capabilities.",
+                "The architecture empowers local applications to process complex queries independently, avoiding expensive persistent cloud network hops.",
+                "Extending agent capabilities directly to decentralized edge terminals represents a crucial step for industrial automation.",
+                "Remote operations managers can deploy resilient AI systems that remain fully functional during sudden network connectivity failures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "ASML: LITHOGRAPHY MISTRAL CO-DESIGN",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to deliver specialized tools for automated biological and chemical discovery.",
-                "The platform integrates directly with Claude Science to accelerate molecular simulation and complex protein design workflows.",
-                "Compute operations scale seamlessly on Blackwell Ultra architectures, maximizing throughput for deep learning research models.",
-                "Pharmaceutical enterprises can drastically compress early-stage drug discovery timelines using these hardware-optimized agentic workflows."
+                "ASML integrates Mistral custom language models to optimize advanced semiconductor photolithography and complex machine software engineering.",
+                "Leveraging specialized open-weight models helps engineers accelerate manufacturing design iterations while retaining strict intellectual property security.",
+                "Hardware manufacturers are rapidly adopting domain-specific AI models to automate highly precise physics simulation code generation.",
+                "Chip designers expect significant yield improvements by applying highly localized intelligence layers directly to manufacturing toolchains."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
