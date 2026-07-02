@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS FRONTIER AGENT",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "ADVANCING AGENTIC AI",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: FABLE DEPLOYMENT",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "US authorities lifted export controls on Anthropic Fable five and Mythos five model architectures.",
-                "Global enterprises gain instant access to high-tier frontier intelligence systems starting immediately this week.",
-                "This sudden policy shift establishes a highly critical precedent for cross-border algorithmic distribution models.",
-                "Organizations must quickly integrate robust safety guardrails to monitor these newly unblocked operational assets."
+                "Anthropic officially launched Fable 5 and Sonnet 5 following the lifting of export control restrictions today.",
+                "These models feature enhanced agentic reasoning capabilities designed for complex coding and high-level professional workflows globally.",
+                "The deployment marks a significant milestone in large-scale model accessibility for enterprise development environments this month.",
+                "Integration with Microsoft Foundry provides users with robust authentication and governance controls for secure model deployment."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
-            "points": [
-                "Azure hosts Anthropic frontier Claude Opus four point eight and Haiku four point five models.",
-                "Enterprise teams access premium agent-optimized models backed by native billing and centralized security governance controls.",
-                "This deployment reinforces hybrid cloud strategies by natively binding external frontier intelligence with enterprise fabrics.",
-                "Developers will bypass complex API wrappers to orchestrate production agents directly within regulated cloud domains."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
             "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Nvidia launched BioNeMo Agent Toolkit to deliver specialized deep learning tools for agentic biology workflows.",
-                "Life sciences researchers can now automate massive molecular simulation pipelines with intelligent generative models.",
-                "The framework integrates domain-specific reasoning interfaces with accelerated hardware to maximize complex workflow output rates.",
-                "Pharmaceutical discovery pipelines will transition rapidly toward autonomous target validation and synthetic compound design."
+                "NVIDIA announced the BioNeMo Agent Toolkit to provide domain-specific tools for life sciences research and drug discovery.",
+                "The platform integrates specialized agentic skills to accelerate complex scientific simulations across cloud and on-premise environments.",
+                "Researchers can now utilize pre-built agent architectures to automate laboratory data analysis and predictive biological modeling.",
+                "This toolkit directly supports the current industry shift toward agentic AI specialized for high-value research sectors."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: VERSAL PREMIUM GEN TWO",
+            "id": 3,
+            "heading": "MICROSOFT: FOUNDRY CLAUDE MODELS",
             "points": [
-                "Advanced Micro Devices unveiled the Versal Premium Gen two MoP to maximize silicon memory capacity.",
-                "Edge devices gain massive high-bandwidth memory access for running highly demanding neural network architectures locally.",
-                "This heterogeneous chip architecture integrates high-speed adaptive computing engines directly with dense memory caching layers.",
-                "Enterprise edge systems will achieve real-time response times for safety-critical localized artificial intelligence models."
+                "Microsoft announced general availability of Anthropic Claude Opus 4.8 and Haiku 4.5 within the Microsoft Foundry ecosystem.",
+                "Enterprise customers gain access to frontier intelligence models with unified Azure authentication and governance control layers.",
+                "This integration facilitates seamless deployment of agent-optimized backends across existing Microsoft Fabric infrastructure and workflows.",
+                "Foundry Control Plane provides observability and guardrails to manage AI agent fleets at global enterprise scale."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GOOGLE: CLOUD AI INFRASTRUCTURE",
+            "points": [
+                "Google Cloud introduced Gemini 3.5 frontier models designed for increased action capabilities and agentic workflow orchestration.",
+                "New AI Threat Defense features provide proactive security against sophisticated adversarial attacks in enterprise cloud environments.",
+                "The Gemini Enterprise Agent Platform now supports fully managed remote MCP server builds for developer-centric agent development.",
+                "Cloud infrastructure optimizations include enhanced support for Arm-based Axion processors to scale agentic compute efficiently."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: VERSAL PREMIUM GEN 2",
+            "points": [
+                "AMD launched the Versal Premium Gen 2 MoP to significantly boost memory capacity for AI-driven data center workloads.",
+                "The chip architecture is optimized for end-to-end agentic workflows, providing necessary throughput for complex inference tasks.",
+                "Recent benchmarks position AMD as a primary competitor for enterprise AI server CPUs against incumbent market leaders.",
+                "A strategic partnership with Rackspace targets 30MW of compute deployments to support highly regulated enterprise AI clusters."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: MEMORA MEMORY PROJECT",
-            "points": [
-                "Microsoft researchers unveiled Memora to optimize long-term cognitive recall systems for advanced artificial intelligence agents.",
-                "Intelligent agents utilize structured abstractions instead of raw conversational history to bypass token scaling bottlenecks.",
-                "The framework utilizes cue-based retrieval mechanisms to index organizational knowledge safely within secure database boundaries.",
-                "Enterprise agents will execute highly complex multi-step processes across long horizons without losing operational context."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "MONGODB: ATLAS RERANKING ENGINE",
+            "heading": "TECHTARGET: AGENTIC TOOLKIT GROWTH",
             "points": [
-                "MongoDB embedded native reranking capabilities directly into its Atlas database to simplify modern developer stacks.",
-                "AI developers can now deploy highly accurate retrieval-augmented generation systems with significantly reduced operational complexity.",
-                "The internal integration eliminates latency-inducing external api calls by performing crucial relevance calculations within the database.",
-                "Production deployments will achieve lower inference costs while maintaining high semantic accuracy across critical queries."
+                "Genesys acquired Pinkfish to accelerate contact center AI deployments and expand its existing agentic software toolkit.",
+                "Couchbase introduced new data layers featuring Agent Memory and edge device support to maintain competitive market share.",
+                "Enterprises are increasingly adopting agentic architectures that decouple data layers from application logic for better scalability.",
+                "New data management tools are tackling retrieval accuracy and regulatory compliance hurdles for large-scale AI project rollouts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: NANO BANANA LITE",
+            "heading": "MISTRAL: VIBE AGENT PLATFORM",
             "points": [
-                "Google DeepMind introduced the Nano Banana two Lite model to optimize rapid on-device image generation.",
-                "Mobile devices generate high-fidelity visual assets locally with minimal power consumption and reduced latency metrics.",
-                "The model maximizes efficiency parameters using highly optimized architectural pathways tailored for local consumer silicon hardware.",
-                "Developers will deploy interactive visual experiences natively inside consumer applications without incurring high server costs."
+                "Mistral AI launched Vibe, an autonomous agent platform designed for long-horizon task scheduling and enterprise knowledge synthesis.",
+                "Vibe for Code provides terminal and IDE integrated agents capable of automated CI/CD reviews and legacy translation.",
+                "The platform supports full deployment portability from edge devices to enterprise-grade cloud computing environments for custom models.",
+                "Mistral is scaling applied AI services to help organizations build domain-specialized, high-performance autonomous agent ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
