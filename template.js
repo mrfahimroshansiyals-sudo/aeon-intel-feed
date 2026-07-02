@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE AI",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN AGENTIC SYSTEM",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: GLOBAL EXPORT REVERSAL",
+            "heading": "ANTHROPIC: FABLE REGULATORY CLEARANCE",
             "points": [
-                "Anthropic secures US authorization to deploy its frontier Fable five and Mythos five generative models globally.",
-                "Global enterprise access expands immediately, resolving cross-border operational bottlenecks for highly regulated corporate intelligence platforms.",
-                "This sudden reversal indicates shifting federal perspectives regarding the security of exporting next-generation sovereign algorithmic architectures.",
-                "Transnational organizations can now design cohesive multi-region orchestration layers using standardized high-intelligence model baselines."
+                "Anthropic secures complete regulatory clearance to deploy Fable five and Mythos five models globally.",
+                "Lifted export controls immediately unlock advanced frontier intelligence for international enterprise software engineering teams.",
+                "Global organizations can now integrate highly agentic systems with standardized compliance frameworks without cross-border friction.",
+                "Future architectures will rapidly consolidate around these unrestricted high-capacity models to drive autonomous automation workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "ANTHROPIC: SONNET FIVE DEPLOYMENT",
             "points": [
-                "Anthropic deploys its advanced Opus four point eight and Haiku four point five models inside Microsoft Foundry.",
-                "Integrating these flagship systems reduces latency while leveraging Azure enterprise billing and administrative policy controls natively.",
-                "Hyperscalers are increasingly forced to host competing frontier algorithms to retain demanding enterprise application development workloads.",
-                "IT administrators gain unified oversight to securely manage diverse third-party models under a single enterprise credentialing directory."
+                "Anthropic releases Sonnet five delivering enhanced agentic capabilities for complex multi-step professional coding operations.",
+                "Early architectural benchmarks demonstrate massive efficiency gains in autonomous terminal execution and long-horizon tasks.",
+                "Developers can instantly consume these capabilities through native IDE integrations and custom agent orchestration platforms.",
+                "Enterprises will increasingly shift core engineering tasks to persistent autonomous systems to reduce human developer bottlenecks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MICROSOFT: FABRIC RAYFIN INTEGRATION",
+            "points": [
+                "Microsoft introduces Rayfin a fully managed agent optimized backend as a service on Fabric architecture.",
+                "Developers achieve ultra low latency data processing by executing agentic workflows directly via native SDKs.",
+                "The integration eliminates traditional middleware silos between real-time data storage layers and autonomous agent pipelines.",
+                "This release positions Microsoft Fabric as the dominant control plane for sovereign enterprise agent coordination."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AWS: OPENSEARCH ANALYTICS ENGINE",
-            "points": [
-                "Amazon Web Services launches a highly optimized log analytics engine specifically engineered for managed OpenSearch deployments.",
-                "The novel software architecture significantly decreases long-term telemetry retention and incident response expenditures for enterprise customers.",
-                "This update directly addresses escalating compliance pressures requiring deep storage of continuous enterprise operations data feeds.",
-                "Security operations teams can scale incident log ingestion without exceeding predetermined infrastructure cost boundaries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "MICROSOFT: MEMORA AGENT MEMORY",
+            "heading": "MICROSOFT: AZURE HORIZONDB RELEASE",
             "points": [
-                "Microsoft Research introduces Project Memora to resolve conversational context scaling limits for autonomous enterprise assistant systems.",
-                "By shifting to cue-based abstractions rather than raw message history, the system substantially lowers overall token consumption.",
-                "This architecture represents a major step toward building persistent, cost-efficient memory paradigms for complex industrial agents.",
-                "Engineers can deploy long-horizon workflows without worrying about rapid performance degradation or escalating operational API expenses."
+                "Microsoft unveils Azure HorizonDB engineered to deliver high speed reads and built-in artificial intelligence features.",
+                "This PostgreSQL compatible service minimizes operational overhead for mission-critical apps requiring real-time analytical capabilities.",
+                "Modern data platforms now support native vector optimizations directly within existing relational database cluster topologies.",
+                "Enterprise leaders can safely deploy scalable analytical backends without sacrificing ACID compliance or data security."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MONGODB: ATLAS EMBEDDED RERANKING",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "MongoDB embeds native search reranking directly inside its Atlas database platform to streamline retrieval-augmented generation.",
-                "This native integration removes external middleware overhead, yielding accelerated query responses and simplified cloud application structures.",
-                "Consolidating core semantic search and ranking capabilities directly in database systems marks a major infrastructure shift.",
-                "Database architects can significantly lower vector retrieval latency while simultaneously reducing complex data pipeline maintenance workloads."
+                "NVIDIA announces the BioNeMo Agent Toolkit providing domain specific tools for agentic life sciences workflows.",
+                "Pharmaceutical research teams can automate molecule generation and complex scientific analysis utilizing specialized digital agents.",
+                "The toolkit leverages accelerated computing platforms to drastically reduce molecular discovery cycles in cloud environments.",
+                "Industry researchers will rapidly scale biological modeling pipelines through automated agentic collaboration across secure architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MONGODB: ATLAS RERANKING INTEGRATION",
+            "points": [
+                "MongoDB integrates native search reranking directly into its Atlas database platform to streamline developer workflows.",
+                "The database level enhancement reduces query latency and lowers inference costs by optimizing context retrieval.",
+                "Enterprises can bypass complex multi-vendor retrieval pipelines to deploy reliable retrieval augmented generation architectures easily.",
+                "This integration will force traditional vector database providers to expand native capabilities to remain competitive."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
+            "id": 7,
             "heading": "COUCHBASE: AGENT MEMORY EXPANSION",
             "points": [
-                "Couchbase launches a specialized data layer featuring autonomous agent memory and decentralized edge device synchronization capabilities.",
-                "The architecture empowers local applications to process complex queries independently, avoiding expensive persistent cloud network hops.",
-                "Extending agent capabilities directly to decentralized edge terminals represents a crucial step for industrial automation.",
-                "Remote operations managers can deploy resilient AI systems that remain fully functional during sudden network connectivity failures."
+                "Couchbase introduces dedicated Agent Memory features within its real-time database architecture to support local intelligence.",
+                "Mobile and IoT devices can now run persistent autonomous agents offline without constant cloud connectivity.",
+                "This architectural upgrade ensures secure data synchronization across edge nodes while preserving transactional integrity protocols.",
+                "Decentralized enterprises will leverage offline memory models to enable true sovereign edge automation without interruption."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 7,
-            "heading": "ASML: LITHOGRAPHY MISTRAL CO-DESIGN",
-            "points": [
-                "ASML integrates Mistral custom language models to optimize advanced semiconductor photolithography and complex machine software engineering.",
-                "Leveraging specialized open-weight models helps engineers accelerate manufacturing design iterations while retaining strict intellectual property security.",
-                "Hardware manufacturers are rapidly adopting domain-specific AI models to automate highly precise physics simulation code generation.",
-                "Chip designers expect significant yield improvements by applying highly localized intelligence layers directly to manufacturing toolchains."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
