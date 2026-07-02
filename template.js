@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC FRONTIER",
+        "titleBlue": "DEPLOYMENTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYED",
+            "heading": "ANTHROPIC: EXPORT REGULATORY REVERSAL",
             "points": [
-                "Anthropic officially deployed Sonnet 5 and lifted export restrictions on Fable 5 and Mythos 5 models.",
-                "The regulatory clearance enables immediate global enterprise deployment of Anthropic's most advanced agentic computing architectures.",
-                "Developers can now utilize Sonnet 5 for highly autonomous software engineering and complex multi-step reasoning workflows.",
-                "This milestone marks a significant shift in US export controls governing frontier artificial intelligence systems."
+                "US regulators reversed strict export bans on Anthropic Fable 5 and Mythos 5 frontier intelligence models.",
+                "Global enterprise access commences immediately to unlock high-capacity reasoning capabilities across regulated sovereign digital infrastructure.",
+                "The decision marks a critical shift in state oversight of frontier foundational models entering global markets.",
+                "Organizations can now deploy advanced cognitive runtimes globally without encountering previous compliance bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: PROPOSED GOVERNMENT STAKE",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "OpenAI has proposed offering a five percent equity stake to the upcoming United States administration.",
-                "The strategic maneuver aims to mitigate mounting regulatory scrutiny and secure national sovereignty alignment in Washington.",
-                "This unprecedented public-private ownership structure could fundamentally redefine the governance of frontier artificial intelligence development.",
-                "Industry analysts suggest the proposal represents a defensive hedge against impending federal antitrust and compliance pressures."
+                "Anthropic released Sonnet 5 engineered specifically for highly autonomous multi-step software development and complex reasoning.",
+                "The architecture significantly optimizes token efficiency while executing complex terminal operations and legacy code migration.",
+                "Developers gain access to upgraded tools featuring native computer use and precise programmatic execution capabilities.",
+                "Early benchmarks indicate substantial productivity gains for enterprises transitioning to fully autonomous software engineering fleets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: NANO BANANA LITE 2",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
             "points": [
-                "Google launched Nano Banana 2 Lite alongside Gemini Omni Flash to accelerate on-device multimodal imaging capabilities.",
-                "The ultra-efficient models minimize processing latency and energy consumption for edge devices and mobile agent architectures.",
-                "Developers can deploy these lightweight visual intelligence engines across decentralized environments with minimal operational overhead.",
-                "This release signals Google's intent to dominate local, high-speed execution environments for agentic computer vision."
+                "Claude Science debuts as a specialized application integrating academic research tools, auditable artifacts, and compute.",
+                "The system streamlines scientific workflows by automating complex mathematical calculations and high-throughput data processing tasks.",
+                "Researchers can leverage built-in compliance guardrails to ensure complete reproducibility of scientific discoveries and simulations.",
+                "This release positions Anthropic at the forefront of the highly competitive computer-aided scientific research market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: MEMORA MEMORY ARCHITECTURE",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
             "points": [
-                "Microsoft introduced Project Memora to resolve the critical long-term memory constraints bottlenecking autonomous AI agents.",
-                "The architecture organizes agent knowledge around conceptual abstractions and cue-based retrieval instead of raw conversational history.",
-                "This technical shift dramatically reduces token consumption while maintaining precise context across extended operational horizons.",
-                "Enterprises can utilize Memora to construct highly durable, long-horizon agents for complex, continuous business operations."
+                "Microsoft integrated Anthropic Opus 4.8 and Haiku 4.5 directly into the Azure Foundry management control plane.",
+                "This deployment provides enterprises with built-in authentication, unified billing, and robust policy controls for agent fleets.",
+                "Systems can now execute workloads across heterogeneous models under a singular administrative governance framework.",
+                "The partnership accelerates hybrid cloud deployments by combining Azure security with Anthropic state-of-the-art cognitive engines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MONGODB: ATLAS RERANKING INTEGRATION",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to provide domain-specific tools for agentic life sciences workflows.",
-                "The toolkit integrates directly with Anthropic's Claude Science to accelerate computational biology and scientific discovery processes.",
-                "Researchers gain access to optimized biomolecular models running on advanced Blackwell GPU infrastructure for simulation.",
-                "This integration establishes a high-performance blueprint for autonomous, agent-led research in global pharmaceutical engineering."
+                "MongoDB embedded native reranking capabilities directly into Atlas to streamline retrieval-augmented generation pipeline architectures.",
+                "The technical upgrade dramatically reduces developer overhead and lowers overall token-based cognitive model inference costs.",
+                "Enterprises can now execute high-precision data retrieval operations without deploying external, costly search middleware layers.",
+                "This optimization allows database administrators to maintain strict compliance and data security at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MONGODB: ATLAS RERANKING INTEGRATION",
+            "heading": "MICROSOFT: MEMORA MEMORY ARCHITECTURE",
             "points": [
-                "MongoDB embedded search reranking directly into its Atlas database platform to streamline enterprise retrieval-augmented generation.",
-                "The in-database integration reduces developer overhead by eliminating the need for external secondary ranking systems.",
-                "This architectural consolidation minimizes data movement costs and significantly improves the accuracy of contextual AI queries.",
-                "IT leaders can deploy this capability to scale enterprise search systems while controlling computational inference budgets."
+                "Microsoft Research unveiled Memora to resolve severe long-term recall and context window degradation in agent systems.",
+                "The framework structures agent memory around high-level abstractions and precise cue-based retrieval instead of raw history.",
+                "This design significantly optimizes computational resources, preventing token bloat in long-running autonomous enterprise operations.",
+                "Software architects can leverage Memora to deploy resilient multi-step agents capable of persisting across months."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "META: CLOUD INFRASTRUCTURE INITIATIVE",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Meta plans to launch a dedicated cloud service business to directly monetize its massive AI infrastructure.",
-                "The strategy mitigates investor concerns regarding high capital expenditures by transforming internal centers into commercial platforms.",
-                "This shift positions Meta as a formidable utility competitor against established hyperscale cloud providers like Amazon.",
-                "Enterprises will gain access to direct, high-scale GPU capacities optimized specifically for open-source model execution."
+                "NVIDIA launched the BioNeMo Agent Toolkit to deliver specialized tools for automated biological and chemical discovery.",
+                "The platform integrates directly with Claude Science to accelerate molecular simulation and complex protein design workflows.",
+                "Compute operations scale seamlessly on Blackwell Ultra architectures, maximizing throughput for deep learning research models.",
+                "Pharmaceutical enterprises can drastically compress early-stage drug discovery timelines using these hardware-optimized agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
