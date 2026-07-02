@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "Sovereign Agentic Frontier",
+        "titleBlue": "Deployment"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE QUOTA UPGRADES",
+            "heading": "ANTHROPIC: GLOBAL EXPORT UNLOCKED",
             "points": [
-                "Amazon Web Services officially raised AgentCore runtime quotas up to five times for scaling enterprise agentic workflows.",
-                "This structural upgrade drastically minimizes deployment latency and prevents runtime execution timeouts during high-density multi-agent tasks.",
-                "High-throughput cloud environments require native scaling mechanisms to govern headless AI agents operating across enterprise networks.",
-                "Cloud architects can now rapidly orchestrate larger numbers of parallel agent actions without encountering infrastructure throttling."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: MODEL EXPORT COMPLIANCE",
-            "points": [
-                "United States regulators officially lifted strict export restrictions on Anthropic's advanced Fable 5 and Mythos 5 models.",
-                "Global enterprise customers immediately gain direct access to sovereign frontier intelligence models featuring advanced reasoning and safety.",
-                "Cross-border compliance mandates increasingly dictate how high-signal frontier AI technologies are distributed to international enterprise systems.",
-                "Multinational corporations will establish decentralized deployment architectures to leverage secure, highly regulated global AI endpoints."
+                "Anthropic launches agentic Sonnet 5 and secures global clearance by lifting export controls on frontier Fable 5 models.",
+                "Enterprise deployments scale rapidly across sovereign environments as global compliance barriers are systematically eliminated within just hours.",
+                "This compliance milestone shifts the strategic multi-model competitive landscape by offering highly secure, unrestricted frontier intelligence nodes.",
+                "Developers gain immediate access to top-tier reasoning capabilities, accelerating autonomous multi-agent systems deployment across global enterprise networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "GOOGLE: LITE IMAGE ACCELERATION",
+            "id": 2,
+            "heading": "NVIDIA: AGENTIC LIFE SCIENCES",
             "points": [
-                "Google DeepMind officially launched Nano Banana Two Lite as its fastest, most computationally efficient image model.",
-                "Developers can execute high-speed image processing and generation directly on edge hardware with minimal power consumption.",
-                "Localized generation frameworks decouple mobile and low-latency environments from costly, centralized cloud server processing pipelines.",
-                "Mobile application ecosystems will rapidly transition toward real-time, on-device spatial intelligence models with zero cloud fees."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: LONG-TERM AGENT MEMORY",
-            "points": [
-                "Microsoft Research unveiled Project Memora to resolve critical memory retention bottlenecks holding back complex AI agents.",
-                "The framework organizes structured organizational knowledge around abstractions instead of scraping raw conversational chat history archives.",
-                "Contextual data inflation represents a major threat to cost-efficient, long-horizon agent execution in enterprise applications.",
-                "AI engineers will soon deploy agents capable of maintaining continuous situational awareness over multi-month operational horizons."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "Nvidia announced BioNeMo Agent Toolkit to deliver domain-specific agentic tools optimized for advanced life sciences research.",
-                "Biological researchers can quickly design autonomous agent systems capable of orchestrating complex drug discovery simulation pipelines.",
-                "Integrating structural biological packages with frontier LLMs establishes a powerful new paradigm for automated scientific exploration.",
-                "Pharmaceutical giants will deploy specialized scientific agents to radically compress therapeutic molecule discovery and validation timelines."
+                "NVIDIA releases the BioNeMo Agent Toolkit to power advanced molecular modeling directly within the Claude Science application.",
+                "Biological discovery cycles accelerate exponentially by integrating specialized protein folding and genomic analysis tools into agent workflows.",
+                "This orchestration architecture connects deep library tools directly to natural language-driven agent systems for seamless operational execution.",
+                "Pharmaceutical research teams can now automate complex experimental simulations, drastically reducing overall drug discovery timelines worldwide."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "id": 3,
+            "heading": "GARTNER: SAAS BUSINESS RISK",
             "points": [
-                "Advanced Micro Devices signed a definitive agreement with Rackspace Technology for a phased thirty megawatt deployment.",
-                "The infrastructure expansion delivers massive dedicated processing power specifically tailored to serve highly regulated enterprise AI workloads.",
-                "Sovereign hosting facilities are scaling dedicated hardware clusters to satisfy strict compliance and data localization laws globally.",
-                "Enterprise IT leaders will shift critical processing workloads away from shared public clouds toward dedicated, secure clusters."
+                "Gartner warns that autonomous agentic workflows put over 234 billion dollars of enterprise software spending at risk.",
+                "Traditional seat-based licensing models face intense pressure as automated agents replace human clicks within complex enterprise software systems.",
+                "Enterprise buyers systematically shift their technological architectures away from traditional user interfaces toward direct background API-driven orchestrations.",
+                "Software vendors must rapidly pivot toward consumption-based or value-driven pricing structures to prevent massive upcoming revenue declines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: SOVEREIGN OWNERSHIP PROPOSAL",
+            "points": [
+                "OpenAI proposes handing a five percent equity stake to the United States government amid intensifying political pressures.",
+                "This strategic public-private partnership secures vital domestic defense alliances and strengthens federal-level strategic alignment of frontier AI.",
+                "The proposed model introduces novel governance mechanisms that legally integrate national security considerations into commercial core infrastructure.",
+                "Major laboratory players face pressure to nationalize key assets, restructuring global public-private venture capital models permanently."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AWS: AGENTCORE CAPACITY EXPANSION",
+            "points": [
+                "Amazon Web Services increases its Bedrock AgentCore runtime quotas by up to five times for high-density enterprise-scale deployments.",
+                "Global organizations can execute massive concurrent agent operations without encountering previous architectural bottlenecks or hardware throughput caps.",
+                "This scalable infrastructure upgrade addresses the high-density concurrency requirements critical for executing continuous multi-agent workloads.",
+                "Enterprises can seamlessly transition pilot programs into massive production fleets, accelerating complete operational business automation strategies globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT: FOUNDRY MODEL ORCHESTRATION",
+            "points": [
+                "Microsoft introduces Anthropic Claude Opus four point eight and Haiku four point five directly within Azure Foundry.",
+                "System administrators obtain complete governance, enterprise authentication, and streamlined billing options across separate model providers instantly.",
+                "The integration establishes a highly robust dual-vendor hybrid strategy, combining OpenAI and Anthropic models on a unified control plane.",
+                "Organizations can seamlessly balance compute costs and task complexity while maintaining strict security boundaries across enterprise workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COUCHBASE: EDGE AGENT MEMORY",
+            "heading": "AMD: SERVER CHIP DOMINANCE",
             "points": [
-                "Couchbase evolved its core offerings by introducing a performance-tuned data layer engineered for real-time edge AI operations.",
-                "The specialized database architecture embeds native Agent Memory capabilities directly into distributed, offline-first mobile and edge devices.",
-                "Decoupling agent memory storage from central databases protects offline operation integrity and reduces expensive network round-trip overhead.",
-                "Industrial hardware systems will execute localized, context-aware decisions without relying on persistent cloud database connections."
+                "Gartner names Advanced Micro Devices as the current front-runner in the competitive enterprise AI server CPU market.",
+                "AMD secures a major thirty megawatt compute deal with Rackspace to host heavily regulated sovereign enterprise workloads.",
+                "The hardware architecture utilizes high-capacity memory configurations, proving highly efficient for continuous end-to-end agentic pipeline processing workloads.",
+                "Data center operators face mounting pressure to diversify hardware architectures, challenging historical chip monopolies across the industry."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
