@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Sovereign Agentic Frontier",
-        "titleBlue": "Deployment"
+        "titleWhite": "AGENTIC INFRASTRUCTURE AUTONOMY",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: GLOBAL EXPORT UNLOCKED",
-            "points": [
-                "Anthropic launches agentic Sonnet 5 and secures global clearance by lifting export controls on frontier Fable 5 models.",
-                "Enterprise deployments scale rapidly across sovereign environments as global compliance barriers are systematically eliminated within just hours.",
-                "This compliance milestone shifts the strategic multi-model competitive landscape by offering highly secure, unrestricted frontier intelligence nodes.",
-                "Developers gain immediate access to top-tier reasoning capabilities, accelerating autonomous multi-agent systems deployment across global enterprise networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: AGENTIC LIFE SCIENCES",
-            "points": [
-                "NVIDIA releases the BioNeMo Agent Toolkit to power advanced molecular modeling directly within the Claude Science application.",
-                "Biological discovery cycles accelerate exponentially by integrating specialized protein folding and genomic analysis tools into agent workflows.",
-                "This orchestration architecture connects deep library tools directly to natural language-driven agent systems for seamless operational execution.",
-                "Pharmaceutical research teams can now automate complex experimental simulations, drastically reducing overall drug discovery timelines worldwide."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GARTNER: SAAS BUSINESS RISK",
-            "points": [
-                "Gartner warns that autonomous agentic workflows put over 234 billion dollars of enterprise software spending at risk.",
-                "Traditional seat-based licensing models face intense pressure as automated agents replace human clicks within complex enterprise software systems.",
-                "Enterprise buyers systematically shift their technological architectures away from traditional user interfaces toward direct background API-driven orchestrations.",
-                "Software vendors must rapidly pivot toward consumption-based or value-driven pricing structures to prevent massive upcoming revenue declines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
             "heading": "OPENAI: SOVEREIGN OWNERSHIP PROPOSAL",
             "points": [
-                "OpenAI proposes handing a five percent equity stake to the United States government amid intensifying political pressures.",
-                "This strategic public-private partnership secures vital domestic defense alliances and strengthens federal-level strategic alignment of frontier AI.",
-                "The proposed model introduces novel governance mechanisms that legally integrate national security considerations into commercial core infrastructure.",
-                "Major laboratory players face pressure to nationalize key assets, restructuring global public-private venture capital models permanently."
+                "OpenAI is in early talks to offer a five percent equity stake to the United States government.",
+                "This unprecedented proposal aims to mitigate rising political and regulatory pressures on frontier artificial intelligence developers.",
+                "The public ownership model could set a new global standard for state involvement in key technology firms.",
+                "Sovereign stakes represent a strategic pivot toward aligning national security interests directly with private AI laboratories."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AWS: AGENTCORE CAPACITY EXPANSION",
+            "id": 2,
+            "heading": "GARTNER: SAAS SPENDING DISRUPTION",
             "points": [
-                "Amazon Web Services increases its Bedrock AgentCore runtime quotas by up to five times for high-density enterprise-scale deployments.",
-                "Global organizations can execute massive concurrent agent operations without encountering previous architectural bottlenecks or hardware throughput caps.",
-                "This scalable infrastructure upgrade addresses the high-density concurrency requirements critical for executing continuous multi-agent workloads.",
-                "Enterprises can seamlessly transition pilot programs into massive production fleets, accelerating complete operational business automation strategies globally."
+                "Gartner warns that autonomous agentic systems put over two hundred billion dollars of SaaS software spending at risk.",
+                "Enterprise software platforms must quickly shift from legacy seat-based pricing models to dynamic transaction-based consumption and value monetization.",
+                "Headless AI agents are rapidly becoming the primary end-users of corporate application networks and software backends.",
+                "Traditional software companies face severe financial pressure if they fail to adapt their underlying operational architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AWS: AGENTCORE CAPACITY SCALING",
+            "points": [
+                "Amazon Web Services increased its AgentCore runtime quotas fivefold to support highly scalable enterprise autonomous systems.",
+                "The substantial infrastructure expansion allows massive fleets of software agents to execute persistent multi-step workflows concurrently.",
+                "Increased bandwidth directly addresses the growing enterprise demand for localized orchestration and distributed model routing capabilities.",
+                "IT organizations must implement strict spec-driven governance strategies to prevent uncontrolled cloud infrastructure resource bloat."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "QUANTUM SYSTEMS: AUTONOMOUS DEFENSE BOOM",
+            "points": [
+                "Drone intelligence pioneer Quantum Systems raised over one billion dollars to scale advanced tactical defense software.",
+                "The massive funding round highlights surging global interest in physical artificial intelligence and autonomous hardware applications.",
+                "Capital partners are aggressively investing in national security technologies amid heightened geopolitical tensions and supply chains.",
+                "High-performance edge computing frameworks are now essential components for modern defense robotics and military platforms globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "QLIK: DATA ENGINEERING AUTOMATION",
+            "points": [
+                "Qlik introduced automated data engineering tools alongside specialised quality agents to accelerate model readiness initiatives.",
+                "These specialized agents dynamically sanitize unstructured pipelines to ensure high-fidelity retrieval across diverse enterprise software architectures.",
+                "Automated data curation mitigates manual formatting overhead to streamline overall machine learning development pipelines significantly.",
+                "Improving data asset usability is a critical factor for organizations transitioning from pilot models into production environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: FOUNDRY MODEL ORCHESTRATION",
+            "heading": "MICROSOFT: BLACKWELL AZURE SYSTEM",
             "points": [
-                "Microsoft introduces Anthropic Claude Opus four point eight and Haiku four point five directly within Azure Foundry.",
-                "System administrators obtain complete governance, enterprise authentication, and streamlined billing options across separate model providers instantly.",
-                "The integration establishes a highly robust dual-vendor hybrid strategy, combining OpenAI and Anthropic models on a unified control plane.",
-                "Organizations can seamlessly balance compute costs and task complexity while maintaining strict security boundaries across enterprise workloads."
+                "Anthropic frontier models are running on ultra-fast Nvidia Blackwell processors within Microsoft Azure cloud systems.",
+                "The powerful hardware integration supports massive real-time scientific computation and deep code generation and complex reasoning processes.",
+                "Enterprise buyers benefit from enhanced throughput speeds coupled with stringent administrative and compliance controls on Azure.",
+                "Massive physical scale-out indicates rapid global deployment of hyper-scale server platforms for next-generation sovereign computing needs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: SERVER CHIP DOMINANCE",
+            "heading": "CIO: EXPORT SECURITY REPRIEVE",
             "points": [
-                "Gartner names Advanced Micro Devices as the current front-runner in the competitive enterprise AI server CPU market.",
-                "AMD secures a major thirty megawatt compute deal with Rackspace to host heavily regulated sovereign enterprise workloads.",
-                "The hardware architecture utilizes high-capacity memory configurations, proving highly efficient for continuous end-to-end agentic pipeline processing workloads.",
-                "Data center operators face mounting pressure to diversify hardware architectures, challenging historical chip monopolies across the industry."
+                "The United States government reversed export restrictions on Anthropic high-tier Fable five and Mythos five models.",
+                "Regulatory agencies are increasingly shaping the global distribution pipeline for top-tier enterprise artificial intelligence applications.",
+                "Lifting trade restrictions enables immediate global delivery of highly agentic systems to regulated corporate buyers worldwide.",
+                "Security policy decisions remain a vital driver for sovereign technical dominance in the international AI ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
