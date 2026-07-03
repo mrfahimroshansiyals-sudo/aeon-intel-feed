@@ -1,66 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "GOVERNANCE"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: SOVEREIGN STAKE PROPOSAL",
+            "heading": "TSMC: SILICON LEADERSHIP UPGRADE",
             "points": [
-                "OpenAI initiates early negotiations to provide the United States government with a five percent equity stake.",
-                "This sovereign equity strategy responds directly to mounting federal regulatory pressures on national artificial intelligence development.",
-                "The proposed structure aims to align national security interests with frontier machine learning infrastructure deployment.",
-                "Analysts project this unprecedented agreement could redefine public-private governance frameworks for high-compute silicon allocation."
+                "TSMC unveils A16 nanosheet architecture featuring super power rail technology for next generation high performance computing platforms.",
+                "This manufacturing breakthrough allows for superior energy efficiency and density required by modern data center agentic AI workloads.",
+                "Strategic deployment of these advanced nodes targets the widening gap between current hardware capabilities and emerging model requirements.",
+                "Industrial metrics indicate this shift will accelerate global AI adoption by lowering power overheads for large scale inference."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE CAPACITY BOOST",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Amazon Web Services elevates AgentCore runtime operational quotas by five hundred percent for scaling enterprise agents.",
-                "This system optimization mitigates execution bottlenecks across large-scale distributed agentic transaction workflows.",
-                "Developers can now orchestrate higher volumes of concurrent autonomous tasks without encountering severe rate limits.",
-                "Increased computational limits will directly accelerate the industrialization of headless workflows inside enterprise cloud networks."
+                "Anthropic releases Sonnet 5 as its most agentic model to date focusing on advanced reasoning and software development utility.",
+                "The model integrates directly into Microsoft Foundry enabling enterprise scale governance and authentication for global professional operations.",
+                "Export controls on Fable 5 and Mythos 5 models have been officially lifted facilitating expanded international market availability.",
+                "New Claude Science app empowers researchers with specialized computational tools and auditable artifacts for scientific innovation workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: EXPORT CONTROL REVERSAL",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "United States regulators officially lift strict export limitations on Anthropic\u2019s flagship Fable Five model series.",
-                "The regulatory clearance enables rapid international deployment of advanced architectural systems across sovereign global markets.",
-                "Organizations globally can now legally integrate highly secure frontier reasoning capabilities into their localized operations.",
-                "This decisive policy shift marks a pivotal moment for global compliance and localized infrastructure deployment."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT RELEASE",
-            "points": [
-                "Nvidia unveils the BioNeMo Agent Toolkit to power automated biological discovery pipelines using intelligent assistants.",
-                "The specialized toolkit integrates advanced molecular simulation tools directly into autonomous generative research agent frameworks.",
-                "Major pharmaceutical enterprises adopt this technology to accelerate target identification and protein design operations significantly.",
-                "Integrating specialized wet-lab software tools allows automated agents to conduct end-to-end scientific research workflows seamlessly."
+                "NVIDIA launches the BioNeMo Agent Toolkit providing domain specific skills to accelerate complex scientific discovery in life sciences.",
+                "This toolkit enables AI agents to execute real world scientific tasks such as protein structure prediction and molecular binding analysis.",
+                "Key industry partners including Eli Lilly and Snowflake are adopting these tools to move beyond simple chat interactions.",
+                "The architecture allows agents to interface with professional lab software for verifiable experiment planning and result evaluation."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GARTNER: SAAS VALUATION WARNING",
+            "id": 4,
+            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
             "points": [
-                "Gartner warns autonomous agentic systems put over two hundred billion dollars of SaaS spending at risk.",
-                "Traditional seat-based pricing structures face obsolescence as autonomous software agents replace conventional human system users.",
-                "Enterprise buyers must restructure software licensing agreements to focus heavily on performance metrics and transaction-based pricing.",
-                "Software providers must rapidly adapt their core monetization architectures to survive this monumental paradigm shift."
+                "AMD positions its CPU portfolio as the foundational layer for end to end agentic AI workflows in enterprise environments.",
+                "A definitive agreement with Rackspace Technology secures a phased 30 MW compute deployment for strictly regulated enterprise AI workloads.",
+                "Gartner identifies AMD as the current leader in enterprise AI server CPUs emphasizing their open ecosystem and scalability.",
+                "Versal Premium Gen 2 enhancements specifically boost memory capacity to handle complex agentic AI memory and compute constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
+            "points": [
+                "Google expands AI capabilities with Gemini Omni Flash and Nano Banana 2 Lite for scalable, low latency edge inference.",
+                "The new Agent Platform offers fully managed remote MCP servers to streamline development of production grade agentic applications.",
+                "Enterprise users gain access to AI Threat Defense tools specifically designed to outpace emerging adversary tactics in agentic systems.",
+                "Strategic focus remains on mobilizing science at scale by merging HAI research with integrated data cloud action platforms."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: BLACKWELL ULTRA INTEGRATION",
+            "heading": "MISTRAL: FRONTIER AI SERVICES",
             "points": [
-                "Microsoft deploys NVIDIA Blackwell Ultra GB300 hardware within Azure Foundry to power advanced Claude models.",
-                "This hardware optimization significantly lowers token generation costs while boosting real-time processing speeds for enterprises.",
-                "The integration merges sovereign infrastructure scaling with secure enterprise-grade authentication and unified billing governance controls.",
-                "Large organizations can now run massive computational workloads on state-of-the-art silicon with extreme operational efficiency."
+                "Mistral AI introduces Vibe and Vibe for code to support autonomous long horizon task completion and backend integration.",
+                "New OCR 4 capabilities enhance document intelligence and structured data analysis for complex industrial and financial service applications.",
+                "The Studio platform provides unified observability and guardrails for deploying agents from edge to cloud environments securely.",
+                "Enterprise adaptation services enable organizations to train custom models using proprietary knowledge for domain specific efficiency gains."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SNAPLOGIC: MCP BUILDER AUTOMATION",
+            "heading": "EU: AI ACT COMPLIANCE SHIFT",
             "points": [
-                "SnapLogic launches MCP Builder to automate the creation of Model Context Protocol servers from integrations.",
-                "This development simplifies developer pipelines by converting existing OpenAPI specifications into clean, standard connection endpoints.",
-                "Standardizing these interfaces allows diverse artificial intelligence assistants to seamlessly retrieve critical contextual business data.",
-                "Eliminating manual integration steps will drastically reduce development cycles for deploying secure, enterprise-grade agents."
+                "Regulatory bodies provide new guidance on Chapter V enforcement regarding transparency and provider obligations for general purpose AI models.",
+                "Staffing and recruitment businesses face new high risk designations requiring strict compliance audits for all automated ranking tools.",
+                "The Advisory Forum is actively standardizing technical expertise requirements to govern the integration of AI across European sectors.",
+                "Organizations must now implement transparent AI compliance checkers to ensure adherence to global standards for trust and safety."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
