@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INDUSTRIAL",
-        "titleBlue": "AUTOMATION"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "AGENTS"
     },
     "slides": [
         {
             "id": 1,
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "points": [
+                "OpenAI previews GPT-5.6 Sol, a next-generation frontier model designed to advance multimodal reasoning capabilities.",
+                "Early benchmarks demonstrate significant throughput improvements and lower token costs for high-volume enterprise production workloads.",
+                "The model architecture integrates deep reasoning protocols directly into the primary execution loop to optimize agentic workflows.",
+                "Enterprise developers can expect dramatic performance gains when orchestrating complex, multi-step autonomous workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
             "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit delivering specialized domain tools for autonomous digital scientific discovery workflows.",
-                "Global life science organizations leverage these tools to automate complex protein folding and molecular binding experiments.",
-                "The platform connects generalized language models directly to proprietary software instruments for execution-level physical scientific tasks.",
-                "Integrating agentic capabilities significantly accelerates modern drug discovery pipelines by removing manual computational research bottlenecks."
+                "NVIDIA launches BioNeMo Agent Toolkit to provide domain-specific computational tools for agentic life sciences workflows.",
+                "Researchers can instantly connect frontier AI models to specialized software for predicting molecular structures and interactions.",
+                "Dassault Syst\u00e8mes, Databricks, and major pharmaceutical firms are integrating the toolkit to accelerate biological discovery pipelines.",
+                "This integration transforms AI from static conversational engines into active partners executing complex laboratory calculations."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MICROSOFT: RAYFIN AGENT BACKEND",
-            "points": [
-                "Microsoft introduced Rayfin as a fully managed agent-optimized backend as a service integrated into Microsoft Fabric.",
-                "Enterprises utilize this dedicated framework to deploy secure, highly responsive database environments for autonomous software systems.",
-                "The system provides robust cloud infrastructure, unified developer toolkits, and critical low-latency state synchronization for agents.",
-                "This release establishes standardized architecture patterns for hosting complex multi-agent execution pipelines inside hyperscale data ecosystems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic launched Claude Science to provide customizable workspaces and built-in tools for advanced laboratory scientific research.",
-                "Researchers gain flexible computing access, audit trails, and automated workspace coordination to validate scientific modeling pipelines.",
-                "The custom application structure integrates native data formats and verified computational environments directly into model workspaces.",
-                "Standardized execution sandboxes ensure reproducible machine learning discoveries across collaborative industrial and academic research institutions."
+                "Anthropic introduces Claude Sonnet 5, offering advanced agentic capabilities for complex coding and professional applications.",
+                "The model matches prior frontier benchmarks while reducing execution latency and operational hosting costs for enterprises.",
+                "US regulators concurrently lifted export restrictions on Anthropic's Fable 5 and Mythos 5 large language models.",
+                "Global enterprises can now legally deploy highly sophisticated autonomous systems across a broader range of geographic locations."
             ],
             "imageUrl": "",
             "tags": [
@@ -57,26 +57,42 @@ const dailyData = {
             "id": 4,
             "heading": "AWS: AGENTCORE QUOTA EXPANSION",
             "points": [
-                "Amazon Web Services increased AgentCore service runtime quotas fivefold to accommodate massive enterprise autonomous agent scaling.",
-                "Organizations can now execute highly complex concurrent agentic workflows without experiencing operational throttling or platform performance degradation.",
-                "The expanded scale parameters enable continuous background execution environments supporting large fleets of cooperative digital workers.",
-                "Enhanced cloud quotas incentivize global businesses to deploy fully automated, high-throughput task execution strategies at scale."
+                "AWS increases its AgentCore runtime quotas up to fivefold to allow enterprises to scale autonomous agents.",
+                "Organizations can now handle larger concurrent agent fleets without encountering performance bottlenecks or orchestration delays.",
+                "This architectural expansion directly supports the rising demand for high-volume, multi-agent transactional workflows in production.",
+                "Scalability hurdles for distributed agent systems are dramatically reduced, accelerating the transition to autonomous backend automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GARTNER: SAAS BUSINESS IMPACT",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI RELEASE",
             "points": [
-                "Gartner projected autonomous agent adoption puts over two hundred billion dollars of traditional enterprise software spending at risk.",
-                "Software vendors face severe financial pressure to shift from seat-based subscription licensing models to outcome-based metrics.",
-                "Autonomous agents act as the primary platform operators, bypassing traditional graphical user interfaces for direct API interactions.",
-                "Legacy software developers must redesign application architectures to prioritize headless execution efficiency over human user engagement."
+                "Google Cloud releases Nano Banana 2 Lite and Gemini Omni Flash to optimize multimodal generation pipelines.",
+                "These models deliver highly optimized performance-to-parameter ratios, decreasing token expenses for high-throughput image and video generations.",
+                "The releases form a core component of Google's next-generation strategy focused on low-latency action-oriented AI architectures.",
+                "Developers gain an accessible tier of models capable of processing rich sensory data at fractions of historical costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GARTNER: SAAS BUSINESS RISK",
+            "points": [
+                "Gartner warns that agentic AI adoption puts over two hundred thirty-four billion dollars in software spending at risk.",
+                "Traditional seat-based pricing models face obsolescence as autonomous agents become the primary users of enterprise applications.",
+                "Vendors must shift from user-experience differentiation to programmatic, API-first transactional value metrics to retain corporate clients.",
+                "Enterprise software buyers will demand utility-based pricing structures aligned directly with the productivity gains of digital workforces."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MONGODB: EMBEDDED ATLAS RERANKING",
-            "points": [
-                "MongoDB embedded semantic reranking capabilities directly into its Atlas database platform to streamline AI infrastructure stacks.",
-                "Database engineers can significantly improve retrieval accuracy while reducing external API latency and operational orchestration overhead.",
-                "The unified architecture eliminates the need for standalone middleware, centralizing vector searches and ranking within one engine.",
-                "Integrating essential retrieval-augmented generation steps into the data layer optimizes total query costs for enterprise deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "ASML: MISTRAL AI LITHOGRAPHY",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "ASML partner Mistral AI announced deep integration of its frontier language models into advanced semiconductor lithography engineering.",
-                "Chip manufacturing operators leverage specialized AI assistance to diagnose high-precision equipment faults and optimize machine configurations rapidly.",
-                "The hybrid deployment relies on secure local infrastructure to protect critical semiconductor design intellectual property during operations.",
-                "Infusing hardware manufacturing software with localized intelligence signals a new paradigm of AI-assisted physical factory optimization."
+                "Microsoft launches Azure HorizonDB, a fully managed PostgreSQL database optimized for agentic workflows and real-time retrieval.",
+                "The database delivers ultra-low latency reads and natively integrated AI capabilities directly within core relational storage layers.",
+                "Modern agent architectures require low-latency state tracking and fast contextual lookups to maintain seamless long-horizon execution.",
+                "Data engineers can significantly simplify their application stacks by embedding vector search directly into production transaction databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
