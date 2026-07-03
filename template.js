@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "AGENTS"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "AWS: ENTERPRISE AGENT SCALING",
             "points": [
-                "OpenAI previews GPT-5.6 Sol, a next-generation frontier model designed to advance multimodal reasoning capabilities.",
-                "Early benchmarks demonstrate significant throughput improvements and lower token costs for high-volume enterprise production workloads.",
-                "The model architecture integrates deep reasoning protocols directly into the primary execution loop to optimize agentic workflows.",
-                "Enterprise developers can expect dramatic performance gains when orchestrating complex, multi-step autonomous workflows."
+                "AWS has significantly increased AgentCore runtime quotas by up to 5x for enterprise customers.",
+                "This capacity upgrade enables organizations to scale autonomous AI agents across complex distributed environments.",
+                "Enhanced throughput supports the deployment of large-scale agentic workflows within production cloud architectures.",
+                "Developers can now manage higher concurrent execution demands for mission-critical agentic orchestration services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit to provide domain-specific computational tools for agentic life sciences workflows.",
-                "Researchers can instantly connect frontier AI models to specialized software for predicting molecular structures and interactions.",
-                "Dassault Syst\u00e8mes, Databricks, and major pharmaceutical firms are integrating the toolkit to accelerate biological discovery pipelines.",
-                "This integration transforms AI from static conversational engines into active partners executing complex laboratory calculations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
             "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic introduces Claude Sonnet 5, offering advanced agentic capabilities for complex coding and professional applications.",
-                "The model matches prior frontier benchmarks while reducing execution latency and operational hosting costs for enterprises.",
-                "US regulators concurrently lifted export restrictions on Anthropic's Fable 5 and Mythos 5 large language models.",
-                "Global enterprises can now legally deploy highly sophisticated autonomous systems across a broader range of geographic locations."
+                "Anthropic has launched Sonnet 5, specifically architected for agentic professional coding and reasoning tasks.",
+                "The model integrates directly into Microsoft Foundry, expanding frontier intelligence access for enterprise users.",
+                "Export restrictions on advanced models have been lifted, accelerating global adoption of agentic AI frameworks.",
+                "Engineers are leveraging the model to automate complex multi-step workflows and software development lifecycles."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
+            "id": 3,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "AWS increases its AgentCore runtime quotas up to fivefold to allow enterprises to scale autonomous agents.",
-                "Organizations can now handle larger concurrent agent fleets without encountering performance bottlenecks or orchestration delays.",
-                "This architectural expansion directly supports the rising demand for high-volume, multi-agent transactional workflows in production.",
-                "Scalability hurdles for distributed agent systems are dramatically reduced, accelerating the transition to autonomous backend automation."
+                "NVIDIA introduced the BioNeMo Agent Toolkit to provide domain-specific intelligence for life sciences research.",
+                "The toolkit enables AI agents to execute hands-on scientific tasks like molecular binding simulations independently.",
+                "Strategic integration with Anthropic and OpenAI platforms facilitates advanced automation in drug discovery pipelines.",
+                "Research institutions gain optimized, low-latency access to high-performance computing resources for scientific AI deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE CLOUD: GEMINI OMNI RELEASE",
+            "id": 4,
+            "heading": "GOOGLE: AI THREAT DEFENSE",
             "points": [
-                "Google Cloud releases Nano Banana 2 Lite and Gemini Omni Flash to optimize multimodal generation pipelines.",
-                "These models deliver highly optimized performance-to-parameter ratios, decreasing token expenses for high-throughput image and video generations.",
-                "The releases form a core component of Google's next-generation strategy focused on low-latency action-oriented AI architectures.",
-                "Developers gain an accessible tier of models capable of processing rich sensory data at fractions of historical costs."
+                "Google Cloud launched AI Threat Defense to actively secure enterprise environments against adversarial AI attacks.",
+                "The security layer provides real-time monitoring and governance for complex agentic data cloud ecosystems.",
+                "This initiative proactively mitigates risks associated with the rapid proliferation of autonomous corporate AI systems.",
+                "Security architects can now implement fine-grained policy controls across multi-agent cloud infrastructure deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "GARTNER: SAAS BUSINESS RISK",
+            "id": 5,
+            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
             "points": [
-                "Gartner warns that agentic AI adoption puts over two hundred thirty-four billion dollars in software spending at risk.",
-                "Traditional seat-based pricing models face obsolescence as autonomous agents become the primary users of enterprise applications.",
-                "Vendors must shift from user-experience differentiation to programmatic, API-first transactional value metrics to retain corporate clients.",
-                "Enterprise software buyers will demand utility-based pricing structures aligned directly with the productivity gains of digital workforces."
+                "AMD is advancing an end-to-end portfolio of CPUs and GPUs specifically designed for agentic workflows.",
+                "New Versal Premium Gen 2 modules provide significant boosts to memory capacity for intensive AI workloads.",
+                "Partnerships with Rackspace and Dell demonstrate a shift toward sovereign AI infrastructure development labs.",
+                "The strategic focus on hybrid compute architectures targets maximum efficiency for real-time edge AI operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TSMC: LEADERSHIP SILICON ARCHITECTURE",
+            "points": [
+                "TSMC has unveiled the A16 nanosheet platform featuring proprietary Super Power Rail technology for HPC.",
+                "The A14 and A16 roadmaps prioritize power efficiency for next-generation generative AI chip production requirements.",
+                "Ongoing collaboration with global firms accelerates the deployment of high-performance silicon for agentic applications.",
+                "Manufacturing nodes are undergoing rigorous optimization to meet the global demand for AI-specific compute silicon."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
             "points": [
-                "Microsoft launches Azure HorizonDB, a fully managed PostgreSQL database optimized for agentic workflows and real-time retrieval.",
-                "The database delivers ultra-low latency reads and natively integrated AI capabilities directly within core relational storage layers.",
-                "Modern agent architectures require low-latency state tracking and fast contextual lookups to maintain seamless long-horizon execution.",
-                "Data engineers can significantly simplify their application stacks by embedding vector search directly into production transaction databases."
+                "Mistral released Vibe, a specialized agentic platform designed for long-horizon autonomous enterprise work tasks.",
+                "New tools focus on persistent memory and reusable skills to enhance agent reasoning in complex environments.",
+                "The Studio and Forge platforms offer developers full control over model customization and deployment portability.",
+                "Strategic adoption by firms like ASML underscores the shift toward domain-specialized, high-performance agentic systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
