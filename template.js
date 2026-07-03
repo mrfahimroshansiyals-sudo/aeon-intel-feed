@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT",
+        "titleWhite": "HYPERSCALE AGENTIC",
         "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CISPE: CLOUD SOVEREIGNTY STANDARD",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEWED",
             "points": [
-                "First four technology providers sign up to the CISPE certification program validating European cloud sovereignty.",
-                "Certifications establish secure data handling guidelines to prevent unauthorized third-party access across administrative boundaries.",
-                "Enterprises gain standardized regulatory assurance when deploying sensitive machine learning pipelines on European infrastructure.",
-                "This initial cohort lays the foundation for a highly resilient and fully compliant sovereign cloud."
+                "OpenAI previewed its next-generation GPT-5.6 Sol model engineered for advanced agentic workflow execution.",
+                "Early metrics indicate the next-generation model achieves unprecedented execution efficiency across complex multi-step digital operations.",
+                "This release positions Sol as a core orchestration engine within decentralized corporate agent infrastructures.",
+                "Developers will rapidly shift legacy automation pipelines toward this highly autonomous cognitive processing architecture."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
+            "heading": "AWS: AGENTCORE LIMITS QUINTUPLED",
             "points": [
-                "Amazon Web Services scales infrastructure limits by raising AgentCore runtime quotas up to fivefold.",
-                "Enhanced execution environments prevent performance degradation during concurrent execution of autonomous enterprise multi-agent workflows.",
-                "Engineers can now orchestrate long-horizon tasks across decoupled cloud native systems without hitting execution ceilings.",
-                "Increased throughput enables deep transactional autonomy across distributed enterprise software operations and databases."
+                "Amazon Web Services increased AgentCore runtime quotas by five times to support highly scaled enterprise agent deployments.",
+                "The fivefold capacity increase directly mitigates execution bottlenecks for concurrent transactional LLM requests across cloud nodes.",
+                "This update establishes scalable cloud infrastructure capable of hosting dense fleets of corporate micro-agents.",
+                "Large enterprises will rapidly expand their autonomous operations without encountering traditional API rate limit thresholds."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: CLAUDE FOUNDRY INTEGRATION",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE APP",
             "points": [
-                "Anthropic frontier models are now generally available within the secure Microsoft Foundry environment.",
-                "Enterprise developers access Claude five models while maintaining centralized billing and federated identity governance controls.",
-                "The deep hardware-level integration utilizes dedicated azure infrastructure optimizing latency for agentic software workflows.",
-                "This deployment model eliminates data leakage risks and speeds up secure production-grade application delivery."
+                "Anthropic announced Claude Science as a specialized application featuring integrated research tools and auditable compute resources.",
+                "The environment optimizes workflow orchestration by producing transparent audit trails for heavy scientific and mathematical computations.",
+                "This platform directly integrates with NVIDIA BioNeMo toolkits to accelerate agentic discoveries across global lifetech firms.",
+                "Corporate research divisions will transition toward these verified, safety-aligned architectures to protect sensitive IP."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GARTNER: AGENTIC SAAS DISRUPTION",
+            "points": [
+                "Gartner warns that autonomous agents put over two hundred billion dollars in enterprise SaaS spending at risk.",
+                "This market shift threatens traditional seat-based licensing models as autonomous agents replace manual human digital interactions.",
+                "SaaS providers must rapidly adapt their commercial architectures toward transactional pricing schemes to survive this transition.",
+                "CIOs will restructure software procurement strategies to focus on backend agent compatibility over frontend user interfaces."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TSMC: A16 NANOSHEET POWERED",
+            "points": [
+                "Taiwan Semiconductor Manufacturing Company introduced its A16 nanosheet architecture featuring innovative backside power rail technology.",
+                "The high-performance silicon delivers exceptional power delivery optimization and extreme density scaling for upcoming AI processors.",
+                "This architectural leap directly addresses the massive energy constraints faced by modern hyperscale artificial intelligence datacenters.",
+                "Hardware manufacturers will align next-generation design pipelines with these efficient power delivery configurations by twenty-six."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
+            "points": [
+                "Microsoft announced the general availability of Anthropic Claude models inside its secure cloud-based Microsoft Foundry ecosystem.",
+                "Azure users can now deploy Opus four point eight and Sonnet five with native enterprise-grade governance controls.",
+                "This deployment option merges frontier cognitive capabilities with existing billing and security compliance frameworks on Azure.",
+                "Regulated enterprises will leverage these managed models to safely automate highly critical backend financial and legal workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "QLIK: DATA QUALITY AGENT LAUNCH",
-            "points": [
-                "Qlik releases specialized data engineering tools featuring autonomous agents tasked with validating structural data quality.",
-                "Reusable data products accelerate training pipelines by streamlining the ingest of massive unstructured enterprise datasets.",
-                "System architects can programmatically guarantee high-fidelity data feeds to downstream custom machine learning models.",
-                "Improved data reliability directly reduces retrieval-augmented generation hallucinations and optimizes processing operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GARTNER: AGENTIC SAAS EVOLUTION",
-            "points": [
-                "Gartner reports that autonomous agents put over two hundred billion dollars of SaaS spending at risk.",
-                "Traditional seat-based pricing structures face disruption as digital agents replace human interactions with business applications.",
-                "Software vendors must pivot from user interface-led differentiation toward transactional value and API-centric integrations.",
-                "CIOs should evaluate vendor adaptability to agentic consumption models before finalizing long-term licensing agreements."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MICROSOFT: SYSTEM INTEGRATOR DEFIANCE",
-            "points": [
-                "Hyperscalers dedicate billions of dollars embedding thousands of engineers directly inside customer enterprise teams.",
-                "Direct engineer placements challenge the long-standing dominance of traditional systems integrators during cloud migration phases.",
-                "Direct collaboration minimizes friction when deploying custom large language models on complex hybrid infrastructure environments.",
-                "Organizations gain immediate access to core engineering expertise to build production-ready agentic workflows faster."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "MICROSOFT: VS CODE AGENT UPGRADES",
+            "heading": "DEEPMIND: GEMINI COMPUTER USE",
             "points": [
-                "Visual Studio Code updates its core software development toolkit targeting agentic system programming models.",
-                "Enhanced capabilities allow developers to optimize autonomous coding workflows and monitor multi-step agent behavior.",
-                "Integrated debugging tools mitigate unpredictable loops during automated system maintenance and structural refactoring processes.",
-                "Upgraded integrated development environments ensure reliable deployment of self-correcting software agents across enterprise codebases."
+                "Google DeepMind introduced native computer use capabilities within Gemini three point five Flash to automate software interactions.",
+                "The model autonomously navigates operating systems, executes complex multi-step workflows, and manipulates native digital interfaces directly.",
+                "This advancement shifts AI models from static conversational assistants toward dynamic systems capable of self-directed browser action.",
+                "Software developers will increasingly construct multi-agent networks operating directly inside virtual machine environments for continuous tasking."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
