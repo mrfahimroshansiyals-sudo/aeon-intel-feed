@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC RUNTIME ARCHITECTURE",
-        "titleBlue": "SCALING"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE QUOTAS EXPANDED",
+            "heading": "ANTHROPIC: CORE SECURITY DISPATCH",
             "points": [
-                "AWS expanded its AgentCore runtime quotas fivefold to accelerate enterprise deployment of autonomous agent fleets.",
-                "Platform administrators can deploy scaled agent networks without encountering infrastructure throttling or unexpected runtime bottlenecks.",
-                "Infrastructure scaling must adapt swiftly to support dense agent communication loops and persistent operational state directories.",
-                "Systems engineers can seamlessly transition heavy operational microservices into highly autonomous, multi-agent enterprise runtime structures."
+                "Anthropic officially redeploys Fable Five and Mythos Five after global export control restrictions are lifted.",
+                "The model releases feature advanced logic-based guardrails designed specifically to mitigate unauthorized cross-border capability leakage.",
+                "Enterprise architects must implement sovereign security boundaries to govern model interactions across highly restricted networks.",
+                "This compliance milestone establishes robust benchmarks for international technology transfers of high-tier artificial intelligence assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "MICROSOFT: AZURE AGENT DEPLOYMENT",
             "points": [
-                "Microsoft made Anthropic Claude models generally available within its enterprise-focused Foundry environment on Azure.",
-                "Global organizations gain access to advanced reasoning capabilities coupled with enterprise-grade authentication and unified billing.",
-                "Hybrid cloud strategies are increasingly standardizing around centralized model governance registries to ensure strict regulatory compliance.",
-                "Enterprise architects can deploy diverse frontier AI models without altering their underlying cloud identity security frameworks."
+                "Microsoft announces Rayfin as an enterprise-ready agentic backend service integrated natively into the Fabric data platform.",
+                "The execution environment delivers ultra-low latency Postgres queries via HorizonDB to power real-time autonomous systems.",
+                "System architects can now orchestrate high-throughput transactional flows without introducing complex custom database middleware solutions.",
+                "Early telemetry indicates substantial overhead reductions for decentralized AI agent operations across hybrid cloud environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,60 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FABRIC RAYFIN RELEASE",
+            "heading": "AWS: AGENTCORE RUNTIME EXPANSION",
             "points": [
-                "Microsoft launched Rayfin as a fully managed, agent-optimized backend as a service within Microsoft Fabric.",
-                "Developers can instantly synchronize complex multi-agent system states directly with robust, distributed cloud-scale data fabrics.",
-                "Modern agentic workloads require specialized database management structures that maintain real-time state synchronization across distributed platforms.",
-                "Engineering teams can eliminate traditional database middleware layers to optimize performance for collaborative enterprise agent fleets."
+                "Amazon Web Services increases AgentCore runtime execution quotas by five times to support massive enterprise scaling.",
+                "The quota expansion targets high-concurrency event handling to mitigate potential processing bottlenecks during traffic spikes.",
+                "Cloud engineering teams can deploy highly distributed agent swarms across redundant global availability zones efficiently.",
+                "This architectural shift establishes a more resilient computing foundation for modern multi-agent systems in production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL UPGRADE",
+            "heading": "NVIDIA: BIONEMO AGENT ENGINES",
             "points": [
-                "Microsoft introduced Azure HorizonDB to deliver low-latency reads and built-in artificial intelligence for PostgreSQL databases.",
-                "Mission-critical business applications achieve rapid retrieval speeds and highly scalable, real-time analytics for automated AI operations.",
-                "Modern data architectures are consolidating artificial intelligence tools directly into the transactional database layer to minimize latency.",
-                "Database administrators can safely retire separate vector databases by utilizing natively integrated relational database management platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ANTHROPIC: CLAUDE SONNET 5 LAUNCH",
-            "points": [
-                "Anthropic launched Claude Sonnet 5, offering advanced reasoning and highly efficient tool-use orchestration for professional developers.",
-                "Enterprise software engineering departments can automate complex programming pipelines while reducing overall model inference execution costs.",
-                "Generative AI models are evolving rapidly from basic conversation interfaces to highly autonomous code repository transformation tools.",
-                "Technology leaders can deploy specialized development agents to accelerate legacy codebase modernization with reliable software quality."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to deliver domain-specific tools for agentic life sciences workflows.",
-                "Biotechnology research teams can deploy specialized agents to rapidly accelerate complex molecular analysis and scientific discovery.",
-                "Specialized artificial intelligence systems are shifting from general productivity assistants toward highly verticalized scientific domain expertise.",
-                "Computational biology laboratories can integrate automated workflows that predict biochemical reactions with unmatched precision and speed."
+                "NVIDIA introduces the BioNeMo Agent Toolkit to deliver domain-specific tools for accelerating life sciences discovery pipelines.",
+                "The software library integrates natively with Claude Science to synthesize auditable biochemical research artifacts seamlessly.",
+                "Biotech developers can leverage accelerated compute nodes to automate cellular simulation and genomic sequence analysis tasks.",
+                "This framework dramatically shortens drug discovery timelines by operationalizing autonomous agent workflows in physical labs."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SNAPLOGIC: MCP SERVER GENERATOR",
+            "id": 5,
+            "heading": "GOOGLE DEEPMIND: OMNI ACTIONS",
             "points": [
-                "SnapLogic released MCP Builder to automate the generation of Model Context Protocol servers from OpenAPI integrations.",
-                "Enterprise developers can rapidly connect legacy database assets directly to autonomous agent networks using standardized protocols.",
-                "Standardized interoperability protocols are proving essential for linking disparate enterprise storage repositories with modern artificial intelligence.",
-                "System integration teams can bypass writing custom middleware adapters by utilizing automated protocol generators for AI systems."
+                "Google DeepMind launches Nano Banana Two Lite alongside Gemini Three Point Five for edge-ready execution.",
+                "The model architectures implement real-time computer use interfaces to interact directly with legacy digital environments.",
+                "Multi-agent developers benefit from highly optimized parameters that minimize local compute requirements for mobile devices.",
+                "These edge-native deployments accelerate the commercialization of lightweight vision and action models for consumers globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "QLIK: DATA AGENT ARCHITECTURE",
+            "points": [
+                "Qlik launches autonomous data quality agents to accelerate engineering pipelines for enterprise machine learning applications.",
+                "The system converts raw enterprise repositories into highly reusable data products without manual extraction steps.",
+                "Data engineers can resolve schema drift and ingest anomalies dynamically using integrated policy enforcement guardrails.",
+                "These micro-agents streamline foundational data preparation, establishing a reliable baseline for training production-grade model architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMD: PHASED SUPERCOMPUTING CLUSTER",
+            "points": [
+                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute.",
+                "The enterprise cluster utilizes EPYC processors and Instinct accelerators to support highly regulated workload execution.",
+                "Infrastructure architects can access sovereign, high-density hardware environments to build secure, private model training environments.",
+                "This deployment signals a major competitive shift in the hardware landscape for high-concurrency enterprise inferencing tasks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
