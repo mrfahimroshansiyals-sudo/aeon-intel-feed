@@ -1,18 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
-        "titleBlue": "EPOCH"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "AWS: AGENTCORE QUOTAS",
             "points": [
-                "Anthropic officially deploys Sonnet 5 with state-of-the-art agentic processing capabilities designed for critical enterprise tasks.",
-                "Developers achieve unmatched execution speed while building highly autonomous software pipelines using these advanced models.",
-                "Lifting export restrictions on Fable five and Mythos five accelerates the global diffusion of frontier intelligence.",
-                "Enterprises will rapidly displace legacy automation architectures in favor of deeply integrated, agent-first cognitive networks."
+                "Amazon Web Services raised default AgentCore runtime quotas by up to five times for high-throughput AI workloads.",
+                "Enterprise developers can run significantly more concurrent agent sessions without requiring manual quota increases from administrators.",
+                "The upgrade supports complex, long-horizon multi-agent orchestration frameworks operating within secure cloud-native environments.",
+                "Organizations will likely accelerate deployment of fully autonomous digital workers across global infrastructure pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "META: MUSE SPARK",
+            "points": [
+                "Meta released its Muse Spark update designed to significantly improve agentic reasoning and complex programming tasks.",
+                "Software development pipelines will achieve higher code generation accuracy and lower error rates during automated compilation.",
+                "The update integrates advanced context-window optimization to facilitate seamless multi-step tool use across large codebases.",
+                "Developers can delegate highly complex software engineering workflows directly to autonomous, background-running coding agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MICROSOFT: FRONTIER COMPANY",
+            "points": [
+                "Microsoft launched Microsoft Frontier Company to embed specialized engineering experts directly into partner enterprise development teams.",
+                "This dedicated co-innovation model bypasses traditional system integrators to accelerate customized deep technology deployments.",
+                "Deep integration ensures that proprietary enterprise datasets are mapped directly to highly optimized foundation models securely.",
+                "Enterprises will achieve faster production readiness and lower long-term integration costs for complex AI platforms."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: FABLE FIVE",
+            "points": [
+                "Anthropic announced the global release of Fable Five after international export restrictions were officially lifted.",
+                "Global enterprises gain immediate access to next-generation frontier intelligence models featuring advanced agentic planning capabilities.",
+                "The model runs on high-performance Blackwell Ultra infrastructure to deliver ultra-low latency inference across cloud frameworks.",
+                "Organizations can now implement highly sophisticated autonomous decision engines in previously restricted international market jurisdictions."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,61 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
-            "points": [
-                "Microsoft announces general availability of Claude Sonnet five and Opus four point eight within Microsoft Foundry.",
-                "Enterprise clients securely process complex agentic workflows while maintaining strict institutional authentication and governance standards.",
-                "Hosting these frontier systems natively on Azure guarantees seamless integration with existing cloud storage and database resources.",
-                "Large-scale organizations will aggressively consolidate their multicloud cognitive resources into single, managed enterprise control planes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
-            "points": [
-                "NVIDIA launches the BioNeMo Agent Toolkit offering customized toolsets specifically engineered for agentic life sciences workflows.",
-                "Researchers accelerate therapeutic molecule discovery by deploying automated agents that safely navigate complex biological data repositories.",
-                "Combining biological foundation models with targeted reasoning loops shifts the paradigm of pharmaceutical research toward pure automation.",
-                "Scientific research institutions will shift their core budgets toward building persistent, autonomous laboratory intelligence systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE: MULTIMODAL MODEL LITE",
-            "points": [
-                "Google releases Nano Banana two Lite alongside Gemini Omni Flash to power high-speed multimodal application development.",
-                "Scalable organizations reduce computational expenses while running edge-native vision and conversational automation systems simultaneously.",
-                "Deploying lightweight, highly efficient foundation models directly addresses the growing industrial demand for local device processing.",
-                "Mobile and edge architectures will increasingly rely on sub-billion parameter models to execute real-time cognitive tasks locally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "AMD: RACKSPACE COMPUTE DEAL",
+            "heading": "AMD: VERSAL GEN TWO",
             "points": [
-                "AMD secures a milestone agreement with Rackspace Technology to deploy thirty megawatts of specialized artificial intelligence compute.",
-                "Regulated enterprise workloads will gain immediate access to highly performant EPYC processors and Instinct accelerators.",
-                "Expanding domestic bare-metal capacity allows financial and healthcare entities to bypass public cloud residency limitations.",
-                "Private data centers will aggressively scale dedicated hardware environments to support long-running, proprietary generative applications securely."
+                "AMD introduced its Versal Premium Gen Two adaptive system-on-chip to greatly expand compute memory capacity.",
+                "High-performance computing networks can process massive data volumes with reduced physical bottlenecks and improved energy efficiency.",
+                "The platform utilizes optimized memory-on-package technology to accelerate critical training and real-time inference workloads.",
+                "Hardware architects can build denser, more responsive server nodes tailored for advanced deep learning applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AWS: AGENTCORE QUOTA UPGRADE",
+            "heading": "CISPE: SOVEREIGN CLOUD",
             "points": [
-                "Amazon Web Services elevates AgentCore runtime operational quotas by up to five times for active corporate accounts.",
-                "Enterprises scale their concurrent agent sessions seamlessly without encountering legacy runtime limits or seeking manually approved overrides.",
-                "Raising performance ceilings natively reflects the rapid enterprise transition from pilot experiments to multi-agent production deployments.",
-                "Business process outsourcing will rapidly diminish as automated agents handle millions of complex customer transactions simultaneously."
+                "Four cloud infrastructure providers signed onto the European CISPE certification program to establish sovereign cloud frameworks.",
+                "Regional enterprises can verify compliance with strict local data residency mandates and security standards programmatically.",
+                "The certification ensures rigorous isolation of sensitive workloads from external extra-territorial data access and surveillance.",
+                "Multi-national corporations will increasingly migrate critical operational datasets to certified European sovereign hosting environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: VIBE AUTONOMOUS ENGINE",
+            "heading": "NVIDIA: BLACKWELL AZURE",
             "points": [
-                "Mistral AI introduces OCR four and Vibe, an autonomous agent engineered to execute long-horizon enterprise tasks.",
-                "Advanced engineering teams deploy these specialized systems to perform continuous integration and automated code synthesis directly.",
-                "Releasing local development tools enables organizations to build secure, domain-specific programming assistants without exposing critical repositories.",
-                "Technical organizations will rapidly replace seat-based developer licenses with fully autonomous, architecture-aware digital engineering agents."
+                "Anthropic partnered with NVIDIA to run its frontier Claude models on the advanced GB300 Blackwell architecture.",
+                "Cloud developers utilizing Microsoft Azure can leverage unprecedented computational throughput for highly demanding agentic workflows.",
+                "The deployment combines native liquid-cooled supercomputing hardware with optimized software engines to minimize total token costs.",
+                "Enterprises will scale complex multi-turn conversational agents with significantly reduced computational overhead and latency profiles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
