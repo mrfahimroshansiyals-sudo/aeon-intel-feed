@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "HYPERSCALE AGENTIC",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEWED",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "OpenAI previewed its next-generation GPT-5.6 Sol model engineered for advanced agentic workflow execution.",
-                "Early metrics indicate the next-generation model achieves unprecedented execution efficiency across complex multi-step digital operations.",
-                "This release positions Sol as a core orchestration engine within decentralized corporate agent infrastructures.",
-                "Developers will rapidly shift legacy automation pipelines toward this highly autonomous cognitive processing architecture."
+                "NVIDIA launched the BioNeMo Agent Toolkit offering advanced domain-specific tools designed to accelerate life sciences research.",
+                "The system integrates directly with Anthropic Claude Science to provide secure and customizable computational workflows for researchers.",
+                "Biotech enterprises can now deploy specialized AI agents capable of automating complex molecular analysis and biological simulations.",
+                "This architectural integration establishes a scalable foundation for sovereign drug discovery pipelines and global bioinformatics infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE LIMITS QUINTUPLED",
+            "heading": "MICROSOFT: FRONTIER COMPANY LAUNCH",
             "points": [
-                "Amazon Web Services increased AgentCore runtime quotas by five times to support highly scaled enterprise agent deployments.",
-                "The fivefold capacity increase directly mitigates execution bottlenecks for concurrent transactional LLM requests across cloud nodes.",
-                "This update establishes scalable cloud infrastructure capable of hosting dense fleets of corporate micro-agents.",
-                "Large enterprises will rapidly expand their autonomous operations without encountering traditional API rate limit thresholds."
+                "Microsoft introduced Microsoft Frontier Company to embed engineering specialists directly into enterprise customer cloud environments.",
+                "The specialized unit co-designs and continuously optimizes complex client AI architectures to maximize concrete return on investment.",
+                "This structural shift challenges traditional systems integrators by providing native deep technical alignment within sovereign cloud operations.",
+                "Organizations will experience rapid deployment cycles and enhanced mitigation of operational risks in production agentic systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE APP",
+            "heading": "AWS: AGENTCORE CAPACITY ELEVATION",
             "points": [
-                "Anthropic announced Claude Science as a specialized application featuring integrated research tools and auditable compute resources.",
-                "The environment optimizes workflow orchestration by producing transparent audit trails for heavy scientific and mathematical computations.",
-                "This platform directly integrates with NVIDIA BioNeMo toolkits to accelerate agentic discoveries across global lifetech firms.",
-                "Corporate research divisions will transition toward these verified, safety-aligned architectures to protect sensitive IP."
+                "Amazon Web Services raised default AgentCore runtime quotas by five times to support massive enterprise agent scaling.",
+                "The quota adjustment enables organizations to run thousands of concurrent autonomous AI sessions without manual approval delays.",
+                "Enterprise developers can now design complex nested agent workflows that process larger real-time operational datasets seamlessly.",
+                "This infrastructure upgrade directly addresses the growing demand for high-throughput transactional autonomy in global cloud architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: SONNET 5 RELEASE",
+            "points": [
+                "Anthropic announced Sonnet 5 delivering highly advanced agentic capabilities optimized for complex enterprise programming and professional tasks.",
+                "The model features top-tier intelligence with specialized tools that streamline secure multi-step code generation and legacy system translation.",
+                "Simultaneously Anthropic lifted international export controls on Fable 5 and Mythos 5 to expand global accessibility immediately.",
+                "This rapid model refresh pressure-tests existing enterprise SaaS pricing strategies and accelerates autonomous system deployment timelines globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "GARTNER: AGENTIC SAAS DISRUPTION",
-            "points": [
-                "Gartner warns that autonomous agents put over two hundred billion dollars in enterprise SaaS spending at risk.",
-                "This market shift threatens traditional seat-based licensing models as autonomous agents replace manual human digital interactions.",
-                "SaaS providers must rapidly adapt their commercial architectures toward transactional pricing schemes to survive this transition.",
-                "CIOs will restructure software procurement strategies to focus on backend agent compatibility over frontend user interfaces."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "TSMC: A16 NANOSHEET POWERED",
+            "heading": "GOOGLE DEEPMIND: NANO BANANA",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company introduced its A16 nanosheet architecture featuring innovative backside power rail technology.",
-                "The high-performance silicon delivers exceptional power delivery optimization and extreme density scaling for upcoming AI processors.",
-                "This architectural leap directly addresses the massive energy constraints faced by modern hyperscale artificial intelligence datacenters.",
-                "Hardware manufacturers will align next-generation design pipelines with these efficient power delivery configurations by twenty-six."
+                "Google DeepMind released Nano Banana 2 Lite and Gemini Omni Flash to optimize local on-device image processing.",
+                "The action-oriented models combine multimodal intelligence with rapid execution speeds for real-time edge computing applications.",
+                "Developers can build lightweight mobile agents that execute complex local tasks without relying constantly on cloud-based latency.",
+                "This deployment reduces overall bandwidth consumption and advances the sovereign paradigm of highly localized hardware-integrated AI solutions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
+            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
             "points": [
-                "Microsoft announced the general availability of Anthropic Claude models inside its secure cloud-based Microsoft Foundry ecosystem.",
-                "Azure users can now deploy Opus four point eight and Sonnet five with native enterprise-grade governance controls.",
-                "This deployment option merges frontier cognitive capabilities with existing billing and security compliance frameworks on Azure.",
-                "Regulated enterprises will leverage these managed models to safely automate highly critical backend financial and legal workflows."
+                "AMD partnered with Rackspace Technology to deploy thirty megawatts of advanced AI compute for highly regulated workloads.",
+                "The phased infrastructure rollout utilizes EPYC processors and Instinct GPUs to deliver cost-effective high-performance enterprise processing.",
+                "This hardware deployment targets sovereign enterprises requiring strict compliance data sovereignty and robust on-premises infrastructure protection.",
+                "The strategic collaboration challenges dominant cloud monopolies by offering diversified options for localized high-density computing clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: GEMINI COMPUTER USE",
+            "heading": "META AI: MUSE SPARK UPDATE",
             "points": [
-                "Google DeepMind introduced native computer use capabilities within Gemini three point five Flash to automate software interactions.",
-                "The model autonomously navigates operating systems, executes complex multi-step workflows, and manipulates native digital interfaces directly.",
-                "This advancement shifts AI models from static conversational assistants toward dynamic systems capable of self-directed browser action.",
-                "Software developers will increasingly construct multi-agent networks operating directly inside virtual machine environments for continuous tasking."
+                "Meta AI announced a significant update to Muse Spark engineered to sharpen autonomous coding and agentic capabilities.",
+                "The framework enhances the context window and memory architectures of localized models to execute long-horizon programming tasks.",
+                "Software engineers can leverage these refined open models to construct reliable internal developer agents across corporate codebases.",
+                "This architectural optimization accelerates software delivery pipelines while reducing downstream maintenance overheads for engineering departments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
