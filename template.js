@@ -1,66 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "ENGINE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit offering advanced domain-specific tools designed to accelerate life sciences research.",
-                "The system integrates directly with Anthropic Claude Science to provide secure and customizable computational workflows for researchers.",
-                "Biotech enterprises can now deploy specialized AI agents capable of automating complex molecular analysis and biological simulations.",
-                "This architectural integration establishes a scalable foundation for sovereign drug discovery pipelines and global bioinformatics infrastructure."
+                "AWS elevates default runtime quotas for AgentCore by five times to support massive concurrent agent deployment.",
+                "Operational workloads scale seamlessly without manual quota request delays, optimizing large-scale enterprise execution overhead.",
+                "The upgrade establishes resilient cloud infrastructure for running agentic orchestration frameworks across multi-region deployments.",
+                "Enterprise architects will rapidly build complex multi-agent workflows leveraging expanded AWS ecosystem capabilities directly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FRONTIER COMPANY LAUNCH",
+            "heading": "MICROSOFT: RAYFIN SERVICE DEPLOYMENT",
             "points": [
-                "Microsoft introduced Microsoft Frontier Company to embed engineering specialists directly into enterprise customer cloud environments.",
-                "The specialized unit co-designs and continuously optimizes complex client AI architectures to maximize concrete return on investment.",
-                "This structural shift challenges traditional systems integrators by providing native deep technical alignment within sovereign cloud operations.",
-                "Organizations will experience rapid deployment cycles and enhanced mitigation of operational risks in production agentic systems."
+                "Microsoft introduces Rayfin, a fully-managed agent-optimized backend as a service integrated into Microsoft Fabric.",
+                "Developers leverage unified data layers to achieve ultra-low latency execution for autonomous operational tasks.",
+                "Fabric-centric telemetry ensures strict enterprise governance and secure tenant isolation for mission-critical agent networks.",
+                "Organizations will bypass legacy custom middleware by deploying direct-to-fabric cognitive automation engines instantly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AWS: AGENTCORE CAPACITY ELEVATION",
+            "heading": "ANTHROPIC: GLOBAL FABLE REDEPLOYMENT",
             "points": [
-                "Amazon Web Services raised default AgentCore runtime quotas by five times to support massive enterprise agent scaling.",
-                "The quota adjustment enables organizations to run thousands of concurrent autonomous AI sessions without manual approval delays.",
-                "Enterprise developers can now design complex nested agent workflows that process larger real-time operational datasets seamlessly.",
-                "This infrastructure upgrade directly addresses the growing demand for high-throughput transactional autonomy in global cloud architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: SONNET 5 RELEASE",
-            "points": [
-                "Anthropic announced Sonnet 5 delivering highly advanced agentic capabilities optimized for complex enterprise programming and professional tasks.",
-                "The model features top-tier intelligence with specialized tools that streamline secure multi-step code generation and legacy system translation.",
-                "Simultaneously Anthropic lifted international export controls on Fable 5 and Mythos 5 to expand global accessibility immediately.",
-                "This rapid model refresh pressure-tests existing enterprise SaaS pricing strategies and accelerates autonomous system deployment timelines globally."
+                "Anthropic releases Fable five and Mythos five models globally following official lifting of export controls.",
+                "Advanced mathematical logic and reasoning capabilities become immediately accessible to global developer communities worldwide.",
+                "The global deployment enables decentralized enterprise teams to standardise pipelines on high-tier proprietary reasoning engines safely.",
+                "Regional compliance leaders must adapt fast to handle borderless imports of highly sophisticated strategic intelligence."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: NANO BANANA",
+            "id": 4,
+            "heading": "GARTNER: SAAS MARKET DISRUPTION",
             "points": [
-                "Google DeepMind released Nano Banana 2 Lite and Gemini Omni Flash to optimize local on-device image processing.",
-                "The action-oriented models combine multimodal intelligence with rapid execution speeds for real-time edge computing applications.",
-                "Developers can build lightweight mobile agents that execute complex local tasks without relying constantly on cloud-based latency.",
-                "This deployment reduces overall bandwidth consumption and advances the sovereign paradigm of highly localized hardware-integrated AI solutions."
+                "Gartner reports agentic automation puts two hundred thirty-four billion dollars in software spending at risk.",
+                "Traditional seat-based pricing models face obsolescence as autonomous systems displace human users in enterprise platforms.",
+                "Legacy software companies must rapidly pivot to value-based execution metrics to secure contract renewals.",
+                "CIOs will aggressively renegotiate enterprise agreements to align directly with automated transaction output metrics."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "META: MUSE SPARK RESTRUCTURING",
+            "points": [
+                "Meta AI announces the Muse Spark update designed to accelerate agentic workflow engineering and code.",
+                "Developers achieve higher output frequency through optimized sequence generation tailored specifically for coding terminals.",
+                "Integrating lighter reasoning layers directly into IDE environments lowers local hardware computational requirements significantly.",
+                "Software engineering teams will dramatically reduce cycle times by delegating routine testing to automated agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE: NANO BANANA RELEASE",
+            "points": [
+                "Google launches Nano Banana two Lite as its fastest, highly-efficient edge image generation model yet.",
+                "Device-level execution latency drops dramatically, allowing real-time high-fidelity asset rendering in low-bandwidth environments.",
+                "The architecture represents a paradigm shift toward highly optimized parameter-efficient local vision intelligence models.",
+                "Mobile application developers will build highly responsive, offline-first generative features without heavy cloud API dependency."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
-            "points": [
-                "AMD partnered with Rackspace Technology to deploy thirty megawatts of advanced AI compute for highly regulated workloads.",
-                "The phased infrastructure rollout utilizes EPYC processors and Instinct GPUs to deliver cost-effective high-performance enterprise processing.",
-                "This hardware deployment targets sovereign enterprises requiring strict compliance data sovereignty and robust on-premises infrastructure protection.",
-                "The strategic collaboration challenges dominant cloud monopolies by offering diversified options for localized high-density computing clusters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "META AI: MUSE SPARK UPDATE",
+            "heading": "MICROSOFT: FRONTIER COMPANY LAUNCH",
             "points": [
-                "Meta AI announced a significant update to Muse Spark engineered to sharpen autonomous coding and agentic capabilities.",
-                "The framework enhances the context window and memory architectures of localized models to execute long-horizon programming tasks.",
-                "Software engineers can leverage these refined open models to construct reliable internal developer agents across corporate codebases.",
-                "This architectural optimization accelerates software delivery pipelines while reducing downstream maintenance overheads for engineering departments."
+                "Microsoft launches Microsoft Frontier Company to embed engineering teams directly inside enterprise client organizations.",
+                "Specialized engineers bypass traditional systemic integrators to accelerate customized co-innovation of core AI models.",
+                "This hands-on structural delivery model targets complex legacy system modernization and deep API architecture alignment.",
+                "Enterprise clients will rapidly achieve operational returns on high-value AI investments through dedicated professional oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
