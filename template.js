@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENT ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SCALING SECURE AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE LIMITS MULTIPLIED",
+            "heading": "ANTHROPIC: SONNET 5 GLOBAL RELEASE",
             "points": [
-                "AWS multiplied default AgentCore runtime quotas up to five times to handle massive enterprise workloads.",
-                "This upgrade enables thousands of concurrent session runs for autonomous AI agents without seeking manual approvals.",
-                "Organizations can now deploy complex customer support and analytics agent workflows directly on the cloud platform.",
-                "Developers gain immediate capacity to scale long-horizon background automation tasks without encountering infrastructure bottlenecks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT: AGENT-OPTIMIZED RAYFIN RELEASED",
-            "points": [
-                "Microsoft launched Rayfin as a fully managed agent-optimized backend as a service on Microsoft Fabric.",
-                "The system integrates seamlessly with Azure HorizonDB to deliver ultra-low latency reads for mission-critical applications.",
-                "Built-in AI functions directly streamline PostgreSQL processes to accelerate continuous agentic data retrieval and execution.",
-                "This architecture enables secure enterprise-grade authentication and policy governance controls across distributed developer teams."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 AGENT RELEASE",
-            "points": [
-                "Anthropic officially released Sonnet 5 delivering advanced coding intelligence alongside autonomous multi-step reasoning capabilities.",
-                "Global export restrictions on the high-performance Fable 5 and Mythos 5 models were simultaneously lifted.",
-                "These frontier models are now fully accessible globally via Microsoft Foundry hosted on Azure cloud instances.",
-                "Developers can immediately leverage these open-ended agents to automate complex software engineering and research workflows."
+                "Anthropic released Sonnet 5 globally tomorrow after international export controls on Fable 5 were officially lifted.",
+                "The model introduces advanced agentic intelligence capabilities optimized for secure enterprise engineering and professional workspace deployment.",
+                "Global developers gain direct access to sovereign frontier models across compliant multi-cloud architectures.",
+                "This milestone shifts competitive dynamics between closed ecosystems and highly compliant open-access professional developer frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "GARTNER: SAAS BUSINESS MODEL DISRUPTION",
+            "id": 2,
+            "heading": "MICROSOFT: FRONTIER CO-DESIGN CO-INNOVATION",
             "points": [
-                "Gartner warned that autonomous AI agents put over two hundred billion dollars of SaaS spending at risk.",
-                "Traditional software vendors face immense pressure to transition away from standard seat-based licensing models.",
-                "Enterprise buyers are increasingly demanding outcome-based transaction pricing as machine agents replace human software users.",
-                "Legacy product-led differentiation strategies must pivot to support seamless API integration for autonomous robotic workflows."
+                "Microsoft launched Frontier Company to embed engineering experts directly into enterprise customer teams globally.",
+                "The specialized firm challenges traditional systems integrators by offering direct co-design and continuous AI optimization pipelines.",
+                "Corporate clients secure dedicated engineering resources to accelerate the integration of high-signal autonomous model architectures.",
+                "This strategic model ensures robust operational returns on capital intensive digital transformation investments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AWS: AGENTCORE RUNTIME QUOTA BOOST",
+            "points": [
+                "Amazon Web Services increased default AgentCore runtime session limits up to fivefold for enterprise customers.",
+                "Higher resource allocations allow organisations to run massive concurrent agent workloads without requesting customized quota extensions.",
+                "This operational expansion directly supports high-volume transaction processing inside sovereign enterprise cloud environments.",
+                "Developers can scale autonomous workloads efficiently while maintaining stable runtime control over critical business logic."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT LAUNCH",
+            "points": [
+                "NVIDIA unveiled the BioNeMo Agent Toolkit to deliver domain-specific scientific tools for life sciences researchers.",
+                "The toolkit accelerates drug discovery by powering autonomous workflow coordination across diverse biological computing pipelines.",
+                "Researchers gain optimized integration path to deploy agentic models within secure enterprise science clouds.",
+                "The framework drastically lowers costs associated with structural biology simulations and molecular modeling workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AWS: LOW-COST TELEMETRY RETENTION ENGINE",
+            "heading": "GARTNER: ENTERPRISE SAAS MARKET THREAT",
             "points": [
-                "AWS introduced a highly cost-effective analytics engine for managed OpenSearch to slash system logging expenses.",
-                "Enterprises can now retain massive volumes of historical telemetry data for regulatory compliance and threat audits.",
-                "This backend architecture prevents rapid budget depletion associated with indexing multi-terabyte log data streams.",
-                "Security teams gain long-term forensic visibility without compromising real-time query performance across hybrid environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "EU: SOVEREIGN CLOUD CISPE DEPLOYMENT",
-            "points": [
-                "The first four prominent cloud providers officially signed up for the European CISPE data sovereignty program.",
-                "This initiative supports the European Union's regulatory push to establish highly secure and localized sovereign clouds.",
-                "Enterprise operations must guarantee strict alignment with strict data governance guidelines under local jurisdiction controls.",
-                "Compliant cloud infrastructure ensures total security isolation of sensitive customer data within regional European borders."
+                "Gartner warned that autonomous agentic AI models put two hundred thirty-four billion dollars in SaaS spending at risk.",
+                "Traditional software vendors face immense pressure to abandon seat-based monetization models in favor of transaction-based metrics.",
+                "Enterprise purchasers are pivoting toward custom integrations rather than relying strictly on standard proprietary user interfaces.",
+                "This architectural paradigm shift forces industry players to re-engineer core delivery models for automated systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "META: MUSE SPARK SYSTEM UPGRADE",
+            "id": 6,
+            "heading": "AZURE: HORIZONDB POSTGRESQL SYSTEM INTEGRATION",
             "points": [
-                "Meta announced the Muse Spark system update to drastically improve complex code generation and agentic automation.",
-                "The model upgrade targets advanced reasoning capabilities to coordinate multiple autonomous agents inside production pipelines.",
-                "Developers can deploy this lightweight architecture to run high-throughput programming tasks on local workstation setups.",
-                "This optimization reduces overall compute costs while maintaining peak performance during continuous integration test runs."
+                "Microsoft introduced Azure HorizonDB to bring ultra-low latency and built-in AI capabilities to enterprise PostgreSQL databases.",
+                "The managed database system optimizes data retrieval speeds for critical applications requiring intensive transactional processing.",
+                "Built-in machine learning models execute real-time search queries directly inside compliant cloud security boundaries.",
+                "Organizations can scale storage workloads without experiencing performance degradation or complex infrastructure integration overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOOGLE: GEMINI 3.5 FRONTIER UPGRADE",
+            "points": [
+                "Google Cloud launched Gemini 3.5 to combine frontier machine intelligence with native programmatic action capabilities.",
+                "The release includes the highly efficient Nano Banana 2 Lite model optimized for localized image generation.",
+                "Enterprises can deploy these responsive models at scale using Google's fully-managed Agent Platform infrastructure.",
+                "Automated workflows gain substantial latency reductions while executing complex tasks across hybrid cloud configurations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
