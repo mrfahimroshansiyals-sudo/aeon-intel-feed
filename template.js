@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE QUOTAS",
+            "heading": "AWS: AGENTCORE QUOTA MULTIPLIER",
             "points": [
-                "Amazon Web Services raised default AgentCore runtime quotas by up to five times for high-throughput AI workloads.",
-                "Enterprise developers can run significantly more concurrent agent sessions without requiring manual quota increases from administrators.",
-                "The upgrade supports complex, long-horizon multi-agent orchestration frameworks operating within secure cloud-native environments.",
-                "Organizations will likely accelerate deployment of fully autonomous digital workers across global infrastructure pipelines."
+                "AWS officially raises default AgentCore runtime quotas by fivefold to dramatically scale concurrent enterprise AI agent sessions.",
+                "This infrastructure enhancement removes manual request hurdles and allows frictionless execution of massive automated corporate analytical workflows.",
+                "The architecture shifts agent runtime orchestration from restricted localized sandboxes to highly flexible parallel execution environments.",
+                "Enterprises can instantly deploy thousands of autonomous software workers to streamline back-office operations and cross-system integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "META: MUSE SPARK",
+            "heading": "MICROSOFT: FRONTIER CO-INNOVATION ENGINE",
             "points": [
-                "Meta released its Muse Spark update designed to significantly improve agentic reasoning and complex programming tasks.",
-                "Software development pipelines will achieve higher code generation accuracy and lower error rates during automated compilation.",
-                "The update integrates advanced context-window optimization to facilitate seamless multi-step tool use across large codebases.",
-                "Developers can delegate highly complex software engineering workflows directly to autonomous, background-running coding agents."
+                "Microsoft launches Frontier Company to embed engineering experts directly within customer environments for deep AI system design.",
+                "The specialized division aims to accelerate enterprise adoption by co-innovating tailor-made machine learning pipelines and custom integrations.",
+                "This organizational strategy shifts focus from generic software licensing to hands-on co-development of proprietary client architectures.",
+                "Systems integrators face immediate pressure as primary cloud providers move directly into highly custom enterprise software deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FRONTIER COMPANY",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT RELEASE",
             "points": [
-                "Microsoft launched Microsoft Frontier Company to embed specialized engineering experts directly into partner enterprise development teams.",
-                "This dedicated co-innovation model bypasses traditional system integrators to accelerate customized deep technology deployments.",
-                "Deep integration ensures that proprietary enterprise datasets are mapped directly to highly optimized foundation models securely.",
-                "Enterprises will achieve faster production readiness and lower long-term integration costs for complex AI platforms."
+                "NVIDIA unveils the BioNeMo Agent Toolkit to deliver domain-specific cognitive tools for highly automated life sciences workflows.",
+                "The framework integrates advanced biophysics modeling libraries with robust agentic systems to accelerate computerized molecular discovery processes.",
+                "By leveraging optimized CUDA libraries, the toolkit significantly minimizes compute overhead for simulating complex multi-scale biological systems.",
+                "Biomedical organizations can quickly build secure autonomous agents capable of querying and compiling vast molecular structural databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: FABLE FIVE",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL INTEGRATION",
             "points": [
-                "Anthropic announced the global release of Fable Five after international export restrictions were officially lifted.",
-                "Global enterprises gain immediate access to next-generation frontier intelligence models featuring advanced agentic planning capabilities.",
-                "The model runs on high-performance Blackwell Ultra infrastructure to deliver ultra-low latency inference across cloud frameworks.",
-                "Organizations can now implement highly sophisticated autonomous decision engines in previously restricted international market jurisdictions."
+                "Microsoft introduces HorizonDB to bring ultra-low latency, scalable reads, and native artificial intelligence capabilities directly to PostgreSQL.",
+                "The managed database service minimizes synchronization delays and powers high-throughput retrieval for mission-critical generative application workloads.",
+                "This launch represents a significant consolidation of database storage and vector index search capabilities into unified managed systems.",
+                "Developers can bypass complex multi-database sync protocols by building responsive AI agents directly on top of transaction-ready data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: VERSAL GEN TWO",
+            "heading": "GARTNER: SEAT-BASED SAAS REVENUE WARN",
             "points": [
-                "AMD introduced its Versal Premium Gen Two adaptive system-on-chip to greatly expand compute memory capacity.",
-                "High-performance computing networks can process massive data volumes with reduced physical bottlenecks and improved energy efficiency.",
-                "The platform utilizes optimized memory-on-package technology to accelerate critical training and real-time inference workloads.",
-                "Hardware architects can build denser, more responsive server nodes tailored for advanced deep learning applications."
+                "Gartner projects agentic AI adoption puts two hundred thirty-four billion dollars in traditional enterprise SaaS spending at risk.",
+                "As autonomous software agents become primary application users, legacy seat-based pricing models face inevitable, structural obsolescence.",
+                "Software vendors must rapidly pivot toward transaction-based metrics and specialized machine-to-machine application programming interface features.",
+                "Enterprises will aggressively reallocate software budgets toward scalable autonomous processing power rather than costly human seat licenses."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CISPE: SOVEREIGN CLOUD",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE DEPLOYMENT",
             "points": [
-                "Four cloud infrastructure providers signed onto the European CISPE certification program to establish sovereign cloud frameworks.",
-                "Regional enterprises can verify compliance with strict local data residency mandates and security standards programmatically.",
-                "The certification ensures rigorous isolation of sensitive workloads from external extra-territorial data access and surveillance.",
-                "Multi-national corporations will increasingly migrate critical operational datasets to certified European sovereign hosting environments."
+                "Anthropic launches Claude Science, a customizable platform integrating specialized tools and secure, flexible computing environments for researchers.",
+                "The application enforces strict compliance standards by generating fully auditable computational artifacts for complex research peer reviews.",
+                "By bridging LLMs with scientific software environments, the system automates deep quantitative analysis while ensuring end-to-end data safety.",
+                "Scientific institutions can dramatically compress data-processing pipelines without sacrificing regulatory oversight or strict research security standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BLACKWELL AZURE",
+            "heading": "AMD: RACKSPACE SOVEREIGN COMPUTE PACT",
             "points": [
-                "Anthropic partnered with NVIDIA to run its frontier Claude models on the advanced GB300 Blackwell architecture.",
-                "Cloud developers utilizing Microsoft Azure can leverage unprecedented computational throughput for highly demanding agentic workflows.",
-                "The deployment combines native liquid-cooled supercomputing hardware with optimized software engines to minimize total token costs.",
-                "Enterprises will scale complex multi-turn conversational agents with significantly reduced computational overhead and latency profiles."
+                "AMD signs a definitive agreement with Rackspace Technology for a phased deployment of thirty megawatts of AI compute.",
+                "The localized hardware infrastructure will specifically host highly secure, compliant workloads for heavily regulated enterprise and government clients.",
+                "This deployment establishes highly sovereign physical processing nodes to insulate sensitive data from common public cloud vulnerabilities.",
+                "Regulated organizations gain access to massive enterprise-grade processing power while fully adhering to strict national data localization mandates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
