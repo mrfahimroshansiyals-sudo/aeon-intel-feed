@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AGENTIC AI",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE QUOTA MULTIPLIER",
+            "heading": "MICROSOFT: FRONTIER FIELD ENGINEERING",
             "points": [
-                "AWS officially raises default AgentCore runtime quotas by fivefold to dramatically scale concurrent enterprise AI agent sessions.",
-                "This infrastructure enhancement removes manual request hurdles and allows frictionless execution of massive automated corporate analytical workflows.",
-                "The architecture shifts agent runtime orchestration from restricted localized sandboxes to highly flexible parallel execution environments.",
-                "Enterprises can instantly deploy thousands of autonomous software workers to streamline back-office operations and cross-system integrations."
+                "Microsoft launched Frontier Company, embedding expert AI engineers directly into enterprise customer teams to co-innovate.",
+                "This initiative challenges the traditional systems integrator model by focusing on hands-on deployment of autonomous AI.",
+                "The shift signals a strategic move to ensure AI implementation success through direct human-technical collaboration models.",
+                "Enterprises gain accelerated access to advanced AI architectural expertise, bridging the gap between theory and execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aws.amazon.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FRONTIER CO-INNOVATION ENGINE",
+            "heading": "ANTHROPIC: SONNET 5 GLOBAL RELEASE",
             "points": [
-                "Microsoft launches Frontier Company to embed engineering experts directly within customer environments for deep AI system design.",
-                "The specialized division aims to accelerate enterprise adoption by co-innovating tailor-made machine learning pipelines and custom integrations.",
-                "This organizational strategy shifts focus from generic software licensing to hands-on co-development of proprietary client architectures.",
-                "Systems integrators face immediate pressure as primary cloud providers move directly into highly custom enterprise software deployment."
+                "Anthropic has lifted export controls on Fable 5 and Mythos 5, facilitating global availability of their latest models.",
+                "Sonnet 5 is now generally available, specifically optimized for high-intelligence coding and complex professional autonomous agent work.",
+                "The release positions Sonnet 5 as a primary competitor in the race for reliable, high-performance enterprise-grade logic.",
+                "Increased global accessibility will likely disrupt existing AI service deployments currently reliant on legacy architecture providers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT RELEASE",
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
             "points": [
-                "NVIDIA unveils the BioNeMo Agent Toolkit to deliver domain-specific cognitive tools for highly automated life sciences workflows.",
-                "The framework integrates advanced biophysics modeling libraries with robust agentic systems to accelerate computerized molecular discovery processes.",
-                "By leveraging optimized CUDA libraries, the toolkit significantly minimizes compute overhead for simulating complex multi-scale biological systems.",
-                "Biomedical organizations can quickly build secure autonomous agents capable of querying and compiling vast molecular structural databases."
+                "Google Cloud introduced Gemini 3.5 frontier intelligence, explicitly designed for agentic workflows and real-time operational action.",
+                "The deployment includes Gemini Omni Flash for high-speed processing, addressing critical latency requirements for enterprise automation.",
+                "New managed MCP servers enable remote orchestration, simplifying the integration of diverse AI agents into cloud systems.",
+                "This infrastructure upgrade prioritizes the scaling of agentic systems as the foundational layer of modern cloud computing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL INTEGRATION",
+            "heading": "AWS: AGENTCORE CAPACITY SCALING",
             "points": [
-                "Microsoft introduces HorizonDB to bring ultra-low latency, scalable reads, and native artificial intelligence capabilities directly to PostgreSQL.",
-                "The managed database service minimizes synchronization delays and powers high-throughput retrieval for mission-critical generative application workloads.",
-                "This launch represents a significant consolidation of database storage and vector index search capabilities into unified managed systems.",
-                "Developers can bypass complex multi-database sync protocols by building responsive AI agents directly on top of transaction-ready data."
+                "AWS has increased AgentCore runtime quotas by 5x, directly supporting the mass-scale deployment of enterprise AI agents.",
+                "The expansion addresses technical bottlenecks that previously hindered concurrent session handling for large-scale autonomous agent workloads.",
+                "By raising default limits, AWS enables organizations to scale complex AI workflows without immediate manual quota requests.",
+                "This capacity boost confirms a major industry trend toward high-concurrency, long-horizon AI agent enterprise operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GARTNER: SEAT-BASED SAAS REVENUE WARN",
+            "heading": "SAP: AI-DRIVEN RESTRUCTURING",
             "points": [
-                "Gartner projects agentic AI adoption puts two hundred thirty-four billion dollars in traditional enterprise SaaS spending at risk.",
-                "As autonomous software agents become primary application users, legacy seat-based pricing models face inevitable, structural obsolescence.",
-                "Software vendors must rapidly pivot toward transaction-based metrics and specialized machine-to-machine application programming interface features.",
-                "Enterprises will aggressively reallocate software budgets toward scalable autonomous processing power rather than costly human seat licenses."
+                "SAP is cutting hiring and travel budgets to significantly increase funding for internal AI development and systems.",
+                "A top-level leadership shakeup now places AI development control directly under the CEO, centralizing innovation efforts.",
+                "The move signals that enterprise software giants are prioritizing AI R&D as a survival imperative for 2026.",
+                "Operational budgets are being reallocated from legacy sales cycles into aggressive autonomous infrastructure and model training."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE DEPLOYMENT",
+            "heading": "NVIDIA: BIONE MO AGENT TOOLKIT",
             "points": [
-                "Anthropic launches Claude Science, a customizable platform integrating specialized tools and secure, flexible computing environments for researchers.",
-                "The application enforces strict compliance standards by generating fully auditable computational artifacts for complex research peer reviews.",
-                "By bridging LLMs with scientific software environments, the system automates deep quantitative analysis while ensuring end-to-end data safety.",
-                "Scientific institutions can dramatically compress data-processing pipelines without sacrificing regulatory oversight or strict research security standards."
+                "NVIDIA launched the BioNeMo Agent Toolkit to provide domain-specific tools for accelerating scientific discovery in life sciences.",
+                "The toolkit leverages NVIDIA's supercomputing infrastructure to run highly complex autonomous agents in laboratory and simulation environments.",
+                "Integration with Claude Science allows researchers to generate auditable artifacts, increasing trust in AI-driven experimental results.",
+                "This toolkit establishes a new standard for domain-specialized agentic AI in high-stakes pharmaceutical and medical research fields."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: RACKSPACE SOVEREIGN COMPUTE PACT",
+            "heading": "GARTNER: SAAS SPENDING SHIFT",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology for a phased deployment of thirty megawatts of AI compute.",
-                "The localized hardware infrastructure will specifically host highly secure, compliant workloads for heavily regulated enterprise and government clients.",
-                "This deployment establishes highly sovereign physical processing nodes to insulate sensitive data from common public cloud vulnerabilities.",
-                "Regulated organizations gain access to massive enterprise-grade processing power while fully adhering to strict national data localization mandates."
+                "Gartner identifies $234 billion in enterprise SaaS spending at risk due to the transition to autonomous agent systems.",
+                "Traditional seat-based pricing models are failing as AI agents replace human users, forcing vendors to reconsider contracts.",
+                "Enterprises are shifting procurement priorities toward utility-based consumption models optimized for autonomous rather than human-led application usage.",
+                "This market realignment threatens incumbents who refuse to decouple software value from traditional user-seat licensing architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
