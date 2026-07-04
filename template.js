@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AI FRONTIER",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AWS: AGENTCORE QUOTA ELEVATION",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Amazon Web Services increases default AgentCore runtime quotas by up to five times to handle scaling demands.",
-                "Enterprise organizations can now run massive concurrent agentic sessions without experiencing unexpected throttling or operational limits.",
-                "This infrastructure adjustment enables zero-latency dispatching across complex distributed software systems and microservices.",
-                "Cloud operators gain immediate architectural headroom to orchestrate complex multi-agent system execution pipelines seamlessly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: SONNET 5 AGENTIC DEPLOYMENT",
-            "points": [
-                "Anthropic introduces Sonnet 5 as its most advanced agentic model optimized for technical software engineering workflows.",
-                "Global export restrictions on Fable 5 and Mythos 5 models are lifted to broaden enterprise access.",
-                "Developers can deploy customizable computational workspaces tailored for scientific discovery with secure analytical sandboxes.",
-                "Enterprise software divisions can automate software development lifecycles securely utilizing high-performance autonomous coding architectures."
+                "Anthropic releases Sonnet 5 as a flagship agentic model optimized for professional coding and multi-tasking workflows.",
+                "Global export controls for Fable 5 and Mythos 5 were officially lifted effective July 1, 2026.",
+                "Claude Science app launched to integrate researcher-centric toolchains, ensuring auditable artifacts for complex scientific data synthesis.",
+                "Enterprise integration into Microsoft Foundry accelerates model availability across secure, governed corporate AI infrastructure environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: FRONTIER CO-DESIGN COHORT",
+            "id": 2,
+            "heading": "MICROSOFT: FRONTIER INFRASTRUCTURE",
             "points": [
-                "Microsoft establishes Microsoft Frontier Company to embed elite AI engineering specialists directly into customer technical teams.",
-                "Direct structural integration reduces traditional systems integration delays and accelerates enterprise machine learning implementation times.",
-                "Enterprise customers leverage dedicated engineering resources to co-design customized and highly scalable cloud computing intelligence architectures.",
-                "Technology leaders gain direct pipeline pathways to bypass third-party integration risks and construct high-signal architectures."
+                "Microsoft Frontier Company initiative deploys engineering experts directly into client teams to co-design and optimize AI implementation.",
+                "Anthropic Claude models are now generally available within Microsoft Foundry with enterprise-grade authentication and governance.",
+                "Focus shifts toward deep system-level integration rather than simple API access for high-stakes enterprise AI deployments.",
+                "New backend-as-a-service on Microsoft Fabric facilitates rapid scaling of agentic applications across distributed enterprise architectures."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "id": 3,
+            "heading": "GOOGLE: GEMINI 3.5 ECOSYSTEM",
             "points": [
-                "Advanced Micro Devices signs a strategic deployment agreement with Rackspace Technology for hardware infrastructure acceleration.",
-                "The phased delivery of thirty megawatts of specialized processors accelerates scalable enterprise machine learning workloads.",
-                "Highly secure datacenter resources are provisioned specifically to meet rigorous compliance mandates of regulated global industries.",
-                "Chief technology officers can execute high-performance analytics workloads with sovereign, hardware-secured infrastructure execution guarantees."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: VIBE AUTONOMOUS WORKFLOWS",
-            "points": [
-                "Mistral AI launches Mistral OCR 4 alongside Vibe, an autonomous agent engineered for long-horizon cognitive work.",
-                "The system executes multi-step task scheduling, structured data synthesis, and complex enterprise knowledge searches.",
-                "A unified agent registry integrates smoothly with terminal environments to facilitate continuous asynchronous programming pipelines.",
-                "System architects can deploy highly optimized local workflows across legacy databases without incurring extensive integration overheads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "GOOGLE DEEPMIND: OMNI ARCHITECTURE",
-            "points": [
-                "Google DeepMind deploys Nano Banana 2 Lite and Gemini Omni Flash to accelerate rapid image generation.",
-                "The updated architecture achieves up to four times faster text generation speeds through optimized diffusion techniques.",
-                "The model incorporates computer use actions and multimodal real-time live translations into a cohesive orchestration environment.",
-                "Lead engineers can program highly interactive multi-agent systems designed to coordinate complex autonomous behaviors reliably."
+                "Gemini 3.5 series launches with enhanced agentic capabilities and native support for multimodal reasoning and action execution.",
+                "Nano Banana 2 Lite joins the portfolio to enable high-efficiency local image generation and lightweight vision agent tasks.",
+                "Computer use functionality integrated into Gemini 3.5 Flash expands the scope of automation beyond API-based tool interactions.",
+                "Platform updates prioritize low-latency orchestration for large-scale enterprise agent fleets and unified development environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "COUCHBASE: AGENT MEMORY EXPANSION",
+            "id": 4,
+            "heading": "AWS: AGENTCORE SCALING QUOTAS",
             "points": [
-                "Couchbase develops a specialized data layer for artificial intelligence featuring advanced persistence frameworks called Agent Memory.",
-                "Local edge devices achieve sub-millisecond database response times during heavy computational analytical reasoning processing cycles.",
-                "Built-in memory stores reduce reliance on remote servers, establishing highly sovereign and resilient edge execution environments.",
-                "Edge computing engineers can deploy ultra-low latency intelligent agents capable of processing heavy workloads offline."
+                "AWS increases AgentCore runtime quotas by 5x to facilitate massive scaling of enterprise-grade AI agent sessions globally.",
+                "Higher throughput limits enable organizations to manage significantly larger, complex workloads without needing immediate manual quota increases.",
+                "Strategic focus remains on providing robust backend infrastructure for agents operating across diverse, multi-cloud enterprise deployments.",
+                "AgentCore enhancements support greater concurrency, allowing complex decision-making processes to run simultaneously across massive data estates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "points": [
+                "NVIDIA releases BioNeMo Agent Toolkit providing life science researchers with specialized tools for accelerated drug discovery pipelines.",
+                "Over 35 AI supercomputers currently in development across Europe leverage the NVIDIA HPC architecture for scientific breakthroughs.",
+                "Vera Rubin platform introduces native support for complex scientific modeling at record-breaking scale and power efficiency.",
+                "Tooling enables researchers to translate raw genomic data into actionable insights through standardized agentic AI workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL: FRONTIER AGENT VIBE",
+            "points": [
+                "Mistral introduces Vibe, a specialized AI agent platform built for long-horizon work and complex enterprise task orchestration.",
+                "Vibe for Code provides terminal-native, architecture-aware reasoning for automated CI/CD and legacy system codebase translations.",
+                "Enterprise users can leverage Mistral OCR 4 to convert high-density document imagery into structured intelligence for agents.",
+                "Customization suite Forge allows organizations to train and align frontier models directly on proprietary domain-specific data sets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TSMC: A16 NANOSHEET POWER",
+            "points": [
+                "TSMC highlights A16 Nanosheet process technology with innovative backside power rails for next-generation HPC and AI.",
+                "Advanced lithography roadmap focuses on minimizing energy consumption to support the power-intensive requirements of frontier AI models.",
+                "NanoFlex Pro integration provides flexibility for design teams aiming to optimize silicon for diverse AI-driven workloads.",
+                "Strategic focus on technology leadership aims to sustain the compute density needed for the next decade of AI."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
