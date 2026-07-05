@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING AUTONOMOUS AGENT",
-        "titleBlue": "ORCHESTRATION"
+        "titleWhite": "ENTERPRISE INTELLIGENCE AGENTS",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FRONTIER CO-DESIGN",
+            "heading": "EUROPEAN UNION: SOVEREIGN CLOUD",
             "points": [
-                "Microsoft launched Frontier Company to embed AI engineering experts directly into enterprise customer operations.",
-                "This strategic move challenges systems integrators by deploying thousands of full-time developers to scale systems.",
-                "Organizations bypass traditional outsourcing models to accelerate custom agent orchestration directly on cloud networks.",
-                "Global enterprises will shift toward co-designed proprietary architectures rather than generic off-the-shelf software platforms."
+                "Four major technology providers officially signed up for the European Union's sovereign cloud CISPE certification program.",
+                "This compliance milestone establishes robust data protection standards across European borders for critical enterprise infrastructure.",
+                "Local businesses can now securely host sensitive workloads without risking exposure to foreign regulatory frameworks.",
+                "Global cloud vendors must adapt to these strict regional standards to remain competitive in Europe."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE LIMITS EXPANDED",
-            "points": [
-                "Amazon Web Services increased AgentCore default runtime quotas by five times for concurrent workloads.",
-                "Enterprise developers can run thousands of autonomous agent sessions without requiring manual support approvals.",
-                "High-density orchestration demands higher telemetry throughput to prevent system failures during real-time transaction processing.",
-                "Enterprises will rapidly transition from single-task bots to massive multi-agent fleets processing continuous workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
             "heading": "ANTHROPIC: SONNET FIVE DEPLOYMENT",
             "points": [
-                "Anthropic released Sonnet Five globally after lifting export controls on its flagship underlying models.",
-                "Developers gain access to highly agentic software reasoning systems specialized for complex production environments.",
-                "The platform integrates advanced developer tools like Claude Code to automate system testing and documentation.",
-                "Fast model iterations will commoditize basic coding tasks while intensifying demand for high-level system architects."
+                "Anthropic released its highly advanced Sonnet five model featuring industry leading performance in coding tasks.",
+                "The model is now generally available within Microsoft Foundry on Azure to accelerate enterprise operations.",
+                "This deployment integrates secure enterprise authentication alongside billing and governance tools directly into existing environments.",
+                "Developers will build significantly more autonomous software systems utilizing this newly unlocked cognitive capability."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "QLIK: DATA QUALITY AGENTS",
+            "id": 3,
+            "heading": "CISCO: IN-HOUSE COGNITIVE AGENT",
             "points": [
-                "Qlik released advanced data engineering tools featuring autonomous quality agents and reusable corporate data products.",
-                "Engineering pipelines automatically cleanse structured and unstructured data to accelerate enterprise model training cycles.",
-                "Integrating automated validation agents directly into data lakes prevents corrupted telemetry from degrading active models.",
-                "Automated data governance will replace manual curation pipelines as enterprises scale real-time decision-making systems."
+                "Cisco deployed an internal multiuse artificial intelligence assistant designed to execute complex coding and human resources.",
+                "The system saves employees several hours of manual work each week by automated task execution.",
+                "This initiative proactively mitigates the security risks associated with unauthorized employee shadow artificial intelligence usage.",
+                "Modern enterprises will replicate this internal deployment strategy to secure proprietary workflows and corporate data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "META: MUSE SPARK RELEASE",
+            "id": 4,
+            "heading": "AMAZON AWS: AGENTCORE QUOTAS",
             "points": [
-                "Meta announced the Muse Spark update designed to dramatically improve programming and agentic workflows.",
-                "Developers can leverage enhanced local code generation to build highly secure offline agent systems.",
-                "Open architecture improvements empower engineering teams to customize foundational logic models for proprietary codebases.",
-                "Decentralized development teams will favor high-performance open models to maintain strict data sovereignty standards."
+                "Amazon Web Services increased its AgentCore runtime default quotas fivefold to support large scale operations.",
+                "Enterprises can now run thousands of concurrent autonomous agent sessions without requesting manual quota adjustments.",
+                "This infrastructure upgrade lowers latency and maximizes computational throughput during intensive real time data operations.",
+                "Systems architects will scale up agent deployments rapidly across global networks using these new capacities."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +70,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "GOOGLE: OMNI FLASH ARCHITECTURE",
+            "id": 5,
+            "heading": "SAP: STRATEGIC RESTRUCTURING",
             "points": [
-                "Google Cloud deployed Gemini Omni Flash alongside Nano Banana Two Lite for edge image processing.",
-                "Real-time multimodal models process complex visual inputs on local devices with minimal battery consumption.",
-                "Transitioning from centralized cloud processing to edge-native intelligence reduces global latency and bandwidth requirements.",
-                "Edge devices will become highly capable context-aware assistants operating independently from continuous cloud connectivity."
+                "SAP restructured corporate operations by cutting hiring and travel budgets to directly fund advanced intelligence projects.",
+                "This financial realignment shifts strategic development control directly under the supervision of the chief executive officer.",
+                "Corporate resources will concentrate entirely on embedding deep cognitive capabilities into legacy enterprise resource planning systems.",
+                "Competitors will face intense pressure to reallocate capital toward rapid artificial intelligence model integration."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE CLOUD: GEMINI SYSTEM",
+            "points": [
+                "Google DeepMind launched its fastest image generation model alongside the advanced Gemini omni flash system.",
+                "Developers can now leverage highly efficient multi modal capabilities with significantly reduced token processing costs.",
+                "This platform features fully managed remote model context protocol servers to enhance autonomous agent orchestration.",
+                "Businesses will rapidly adopt these low cost models to build responsive real time visual applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BIONEMO AGENT PLATFORM",
+            "heading": "QLIK: DATA QUALITY AGENTS",
             "points": [
-                "Nvidia launched the BioNeMo Agent Toolkit offering domain-specific tools for agentic scientific research pipelines.",
-                "Life sciences teams can deploy specialized agents to accelerate biochemical discovery and simulation workloads.",
-                "Integrating GPU-accelerated computing with autonomous agent planning enables rapid processing of vast molecular datasets.",
-                "Specialized vertical agent networks will redefine pharmaceutical research and development timelines within the year."
+                "Qlik introduced advanced data engineering tools featuring specialized agents designed to monitor real time quality.",
+                "The software allows engineers to easily create reusable data products to accelerate corporate intelligence workflows.",
+                "This integration directly addresses the critical pipeline bottlenecks that typically stall major enterprise model deployments.",
+                "Data engineers will achieve faster project turnaround times by automating manual cleaning and formatting tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
