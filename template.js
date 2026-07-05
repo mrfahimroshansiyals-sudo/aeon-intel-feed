@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI FRONTIER",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "ENTERPRISE AGENTIC",
+        "titleBlue": "PARADIGM"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "META: MUSE SPARK UPGRADE",
             "points": [
-                "Anthropic releases Sonnet 5 as a flagship agentic model optimized for professional coding and multi-tasking workflows.",
-                "Global export controls for Fable 5 and Mythos 5 were officially lifted effective July 1, 2026.",
-                "Claude Science app launched to integrate researcher-centric toolchains, ensuring auditable artifacts for complex scientific data synthesis.",
-                "Enterprise integration into Microsoft Foundry accelerates model availability across secure, governed corporate AI infrastructure environments."
+                "Meta AI launches Muse Spark update to sharpen complex code generation and agentic capabilities.",
+                "Engineering teams report immediate acceleration in development workflows for long-horizon autonomous software projects.",
+                "The runtime optimizations reduce latency across decentralized networks, enhancing overall response efficiency in testing.",
+                "Enterprise architects project improved system decoupling as legacy frameworks absorb agent-native operations systematically."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FRONTIER INFRASTRUCTURE",
+            "heading": "WORKDAY: AGENTIC PRICING TRANSITION",
             "points": [
-                "Microsoft Frontier Company initiative deploys engineering experts directly into client teams to co-design and optimize AI implementation.",
-                "Anthropic Claude models are now generally available within Microsoft Foundry with enterprise-grade authentication and governance.",
-                "Focus shifts toward deep system-level integration rather than simple API access for high-stakes enterprise AI deployments.",
-                "New backend-as-a-service on Microsoft Fabric facilitates rapid scaling of agentic applications across distributed enterprise architectures."
+                "Workday implements seatless agentic AI pricing models to align software expenditure with actual autonomous consumption.",
+                "Financial leaders face new predictive challenges as traditional seat-based budgeting models undergo radical functional displacement.",
+                "This shift prompts enterprises to develop real-time auditing pipelines to monitor decentralized SaaS transaction volumes.",
+                "Analysts predict widespread industry adoption of usage-based pricing structures across competitive enterprise software markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: GEMINI 3.5 ECOSYSTEM",
+            "heading": "CISPE: SOVEREIGN CLOUD CERTIFICATION",
             "points": [
-                "Gemini 3.5 series launches with enhanced agentic capabilities and native support for multimodal reasoning and action execution.",
-                "Nano Banana 2 Lite joins the portfolio to enable high-efficiency local image generation and lightweight vision agent tasks.",
-                "Computer use functionality integrated into Gemini 3.5 Flash expands the scope of automation beyond API-based tool interactions.",
-                "Platform updates prioritize low-latency orchestration for large-scale enterprise agent fleets and unified development environments."
+                "Four major cloud infrastructure providers officially register for the European sovereign cloud compliance initiative.",
+                "The regulatory framework guarantees strict regional data residency and operational isolation inside European Union boundaries.",
+                "Compliance audits assure enterprise customers of structural protection against extraterritorial data access requests.",
+                "Global cloud architectures must adapt to localized governance rules to maintain transactional access to European markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AWS: AGENTCORE SCALING QUOTAS",
+            "heading": "SAP: CEO-LED AI RESTRUCTURING",
             "points": [
-                "AWS increases AgentCore runtime quotas by 5x to facilitate massive scaling of enterprise-grade AI agent sessions globally.",
-                "Higher throughput limits enable organizations to manage significantly larger, complex workloads without needing immediate manual quota increases.",
-                "Strategic focus remains on providing robust backend infrastructure for agents operating across diverse, multi-cloud enterprise deployments.",
-                "AgentCore enhancements support greater concurrency, allowing complex decision-making processes to run simultaneously across massive data estates."
+                "SAP freezes hiring and non-essential travel to divert core capital reserves directly into global AI initiatives.",
+                "The structural reorganization places emerging technology development directly under executive control to accelerate delivery cycles.",
+                "Operational budget adjustments signal intense market pressure to outpace rival ERP platforms in autonomous workflows.",
+                "Enterprise software vendors must aggressively redeploy engineering resources to satisfy rising corporate demand for automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "CISCO: AGENTIC SYSTEM INTEGRATION",
             "points": [
-                "NVIDIA releases BioNeMo Agent Toolkit providing life science researchers with specialized tools for accelerated drug discovery pipelines.",
-                "Over 35 AI supercomputers currently in development across Europe leverage the NVIDIA HPC architecture for scientific breakthroughs.",
-                "Vera Rubin platform introduces native support for complex scientific modeling at record-breaking scale and power efficiency.",
-                "Tooling enables researchers to translate raw genomic data into actionable insights through standardized agentic AI workflows."
+                "Cisco deploys a comprehensive internal AI copilot to mitigate risks associated with unsanctioned shadow tools.",
+                "Employees save multiple working hours each week through automated code generation and streamlined HR interactions.",
+                "Centralized governance frameworks allow administrators to maintain absolute visibility over secure enterprise data streams.",
+                "Large organizations will increasingly mandate unified cognitive assistants to protect proprietary codebases from external exposure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: FRONTIER AGENT VIBE",
+            "heading": "AWS: AGENTCORE CAPACITY UPGRADE",
             "points": [
-                "Mistral introduces Vibe, a specialized AI agent platform built for long-horizon work and complex enterprise task orchestration.",
-                "Vibe for Code provides terminal-native, architecture-aware reasoning for automated CI/CD and legacy system codebase translations.",
-                "Enterprise users can leverage Mistral OCR 4 to convert high-density document imagery into structured intelligence for agents.",
-                "Customization suite Forge allows organizations to train and align frontier models directly on proprietary domain-specific data sets."
+                "Amazon Web Services increases AgentCore runtime limits fivefold to accommodate massive parallel autonomous processing demands.",
+                "Developers can now run thousands of concurrent session iterations without requesting manual quota adjustments first.",
+                "This scalability improvement simplifies orchestrating extensive multi-agent networks operating across complex hybrid cloud architectures.",
+                "Cloud platforms are rapidly shifting engineering priorities to support the persistent workload execution profiles of tomorrow."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: A16 NANOSHEET POWER",
+            "heading": "MICROSOFT: EMBEDDED ENGINEERING STRATEGY",
             "points": [
-                "TSMC highlights A16 Nanosheet process technology with innovative backside power rails for next-generation HPC and AI.",
-                "Advanced lithography roadmap focuses on minimizing energy consumption to support the power-intensive requirements of frontier AI models.",
-                "NanoFlex Pro integration provides flexibility for design teams aiming to optimize silicon for diverse AI-driven workloads.",
-                "Strategic focus on technology leadership aims to sustain the compute density needed for the next decade of AI."
+                "Microsoft establishes Microsoft Frontier Company to embed engineering teams directly into strategic enterprise customer offices.",
+                "The direct alignment model bypasses traditional third-party integrators to accelerate custom generative AI deployments safely.",
+                "Direct engineer access resolves critical architectural bottlenecks during complex on-premises model fine-tuning processes.",
+                "Primary technology vendors are assuming hands-on operational responsibility to guarantee real-world return on AI investments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
