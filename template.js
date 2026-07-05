@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE: AGENT PLATFORM MCP",
+            "heading": "META: MUSE SPARK UPDATE",
             "points": [
-                "Google deployed fully-managed remote Model Context Protocol servers to standardize enterprise agentic orchestration workflows globally.",
-                "Integrating remote servers minimizes custom integration overhead, enabling rapid agent deployment across distributed corporate data environments.",
-                "The architecture leverages secure, standardized APIs to decouple complex backend logic from client-side execution frameworks.",
-                "System architects can now scale coordinate microservices seamlessly while preserving strict data access control parameters."
+                "Meta launches its Muse Spark update to drastically enhance agentic execution and autonomous code generation capabilities.",
+                "Software development pipelines achieve accelerated iteration cycles by deploying highly optimized agent-driven coding architectures.",
+                "This framework integrates deep multi-step reasoning capabilities directly into terminal and background development environments.",
+                "Global enterprises can expect automated systems to handle increasingly complex repository maintenance tasks independently."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
+            "heading": "MICROSOFT: RAYFIN BACKEND ENGINE",
             "points": [
-                "Amazon Web Services expanded default AgentCore runtime session quotas fivefold to accelerate massive agentic scaling.",
-                "High default limits permit organizations to run thousands of concurrent operational workflows without custom requests.",
-                "The infrastructure upgrade directly mitigates processing bottlenecks during high-throughput enterprise resource planning execution phases.",
-                "Engineers can deploy autonomous agent clusters with increased reliability across multiple global cloud availability zones."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT: FRONTIER EMBEDDED TEAMS",
-            "points": [
-                "Microsoft launched Frontier Company to embed elite software engineers directly into legacy enterprise customer teams.",
-                "The collaborative model bypasses traditional systems integrators to co-design and continuously optimize specialized corporate systems.",
-                "This deployment shift accelerates direct adaptation of advanced frontier models within highly secure on-premises infrastructures.",
-                "Enterprise leaders secure continuous, high-signal architectural alignment while significantly reducing overall deployment failure rates."
+                "Microsoft introduces Rayfin, a fully managed, agent-optimized backend as a service operating on Microsoft Fabric.",
+                "Developers bypass manual infrastructure provisioning by leveraging Rayfin's natively optimized software development kit environments.",
+                "The system unifies real-time transactional data pipelines with autonomous agent execution layers seamlessly.",
+                "Engineering teams can accelerate the deployment of high-throughput decentralized cloud applications globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: GLOBAL FABLE RELEASE",
+            "id": 3,
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic released Fable Five and Mythos Five globally following the lifting of stringent export control regulations.",
-                "This clearance allows international enterprises to integrate advanced, highly agentic reasoning models into localized applications.",
-                "The decision marks a significant geopolitical pivot, enabling wider distribution of highly secure frontier computing technology.",
-                "Developers gain immediate access to advanced coding and professional intelligence frameworks across global cloud instances."
+                "Anthropic deploys Sonnet 5 globally, offering leading agentic capabilities designed for highly complex engineering tasks.",
+                "Enterprise automation workflows gain significant efficiency improvements through refined multi-step tool use execution paradigms.",
+                "The model incorporates advanced safety protocols to monitor autonomous actions within closed production spaces safely.",
+                "Developers will increasingly transition from simple code assistance to managing fully autonomous software agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TSMC: A16 BACKSIDE POWER",
+            "id": 4,
+            "heading": "AZURE: HORIZONDB DATABASE PLATFORM",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company showcased A16 nanosheet technology integrating innovative backside power delivery architectures.",
-                "The Super Power Rail design optimizes power routing efficiency, delivering substantial performance gains for high-performance computing.",
-                "This hardware evolution directly supports the massive power requirements of next-generation artificial intelligence hardware accelerators.",
-                "Global chip designers can achieve superior thermal efficiency and transistor density in modern data center deployments."
+                "Microsoft unveils Azure HorizonDB to deliver ultra-low latency PostgreSQL performance optimized for artificial intelligence.",
+                "Mission-critical applications scale read queries dynamically without risking operational degradation or data consistency losses.",
+                "The database engine embeds advanced vector indexing features directly alongside traditional relational querying layers.",
+                "System architects can now design responsive distributed applications requiring instant access to massive enterprise datasets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACKSPACE DEPLOYMENT COOPERATION",
+            "id": 5,
+            "heading": "AMD: VERSAL PREMIUM GEN 2",
             "points": [
-                "Advanced Micro Devices partnered with Rackspace Technology for a phased thirty megawatt AI compute infrastructure deployment.",
-                "This allocation delivers dedicated, high-performance processing hardware tailored strictly for highly regulated global enterprise workloads.",
-                "The architecture addresses growing corporate demands for secure, localized computing alternatives to standard public clouds.",
-                "Regulated industries can now execute complex machine learning models under strict sovereign data protection guidelines."
+                "AMD launches its Versal Premium Gen 2 system, maximizing memory capacity for advanced enterprise computing.",
+                "High-performance data centers achieve unprecedented throughput rates while processing intensive machine learning training workloads.",
+                "The architecture implements specialized memory-on-package technology to bypass traditional bandwidth bottleneck limitations effectively.",
+                "Hardware designers gain substantial performance margins when deploying next-generation localized deep learning infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ASML: LITHOGRAPHY MODEL INTEGRATION",
+            "id": 6,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "ASML partnered with Mistral AI to embed localized generative intelligence models into microchip lithography design.",
-                "This software integration optimizes precision manufacturing tolerances, accelerating high-volume output of cutting-edge silicon wafers.",
-                "The collaborative architecture demonstrates a growing shift toward applying domain-specific generative models within physics-based systems.",
-                "Advanced semiconductor fabs will achieve lower defect densities and faster production cycles for leading-edge nodes."
+                "NVIDIA releases the BioNeMo Agent Toolkit to power autonomous biological discovery inside scientific research ecosystems.",
+                "Pharmaceutical laboratories accelerate molecular analysis timelines by utilizing highly specialized agentic life sciences tools.",
+                "The toolkit integrates seamless connections between physical laboratory instrumentation and advanced cloud foundation models.",
+                "Scientific research groups can deploy intelligent digital assistants capable of automating multi-step biological experimental simulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "QLIK: DATA QUALITY AGENTS",
+            "points": [
+                "Qlik introduces autonomous data engineering agents to automate real-time pipeline monitoring and structural quality validation.",
+                "Corporate data lakes preserve high-fidelity information assets automatically without requiring constant manual engineering intervention.",
+                "The framework deploys localized machine learning models to detect schema anomalies across heterogeneous cloud sources.",
+                "Chief information officers can lower systemic operational risks when integrating raw data into active models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
