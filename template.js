@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION",
-        "titleBlue": "AGENTS"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "OpenAI has previewed GPT-5.6 Sol, a next-generation model optimized for advanced multi-agent coordination and deep reasoning tasks.",
-                "Early benchmarks indicate a substantial reduction in operational latency and increased context retrieval accuracy across complex tasks.",
-                "The architectural evolution positions GPT-5.6 Sol as a robust foundation for automated enterprise workflows and autonomous pipelines.",
-                "Developers can leverage these enhanced reasoning layers to deploy highly reliable systems with minimized alignment overhead."
+                "OpenAI previews GPT-5.6 Sol, a next-generation foundational model optimized for complex, multi-step role-based agent workflows.",
+                "Early internal evaluations demonstrate significant performance gains in transactional intelligence and autonomous multi-agent orchestration paradigms.",
+                "The model integrates unified context routing mechanisms to minimize latency and control token costs across enterprise applications.",
+                "Enterprise architects must prepare for rapid deployment of autonomous cognitive agents capable of executing highly specialized roles."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: FABLE 5 GLOBAL DEPLOYMENT",
+            "heading": "MISTRAL AI: VIBE AUTONOMOUS ENGINE",
             "points": [
-                "Anthropic has lifted export controls on Fable 5 and Mythos 5, alongside deploying their highly agentic Sonnet 5 model.",
-                "These updates significantly optimize complex coding workflows and high-speed multi-step agent reasoning capacities across enterprise deployments.",
-                "The models are engineered to operate natively on Azure within the newly launched high-performance Microsoft Foundry platform.",
-                "Enterprise architects can now execute secure and governed agentic frameworks with strict resource isolation capabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: OCR 4 RELEASE",
-            "points": [
-                "Mistral AI has introduced Mistral OCR 4 alongside Leanstral 1.5 to provide accelerated vision-text document processing.",
-                "The new architecture minimizes compute footprint while substantially boosting extraction precision for complex financial and technical documents.",
-                "ASML and major manufacturing enterprises have integrated these models to accelerate lithography data ingestion pipelines.",
-                "Systems engineers can deploy this lightweight footprint on edge nodes to maintain strict data sovereignty standards."
+                "Mistral AI introduces Vibe, an advanced autonomous agent engineered specifically for executing long-horizon tasks and scheduling.",
+                "Deployments demonstrate accelerated development velocity by automating complex code generation and legacy system translation pipelines.",
+                "The framework supports persistent memory, reusable operational skills, and complete deployment portability across edge and cloud.",
+                "Organizations will transition from simple chatbots to fully autonomous agent networks capable of managing entire operational workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "id": 3,
+            "heading": "MICROSOFT: HORIZONDB AI DATABASE",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to deliver domain-specific tools and skills for life sciences AI agents.",
-                "The toolkit accelerates drug discovery workflows by automating complex molecular analysis and biological simulation tasks on Blackwell.",
-                "Integration with Claude Science enables researchers to manage highly parallelized execution environments with full auditing.",
-                "Biotech organizations can deploy these validated microservices to reduce discovery timelines from months to days safely."
+                "Microsoft releases Azure HorizonDB, engineered to provide ultra-low latency PostgreSQL database operations with embedded intelligence.",
+                "System administrators can scale mission-critical transaction engines without sacrificing retrieval speeds during intensive analytics processing tasks.",
+                "Grounded database capabilities offer real-time data synchronization directly designed for high-concurrency enterprise artificial intelligence agent fleets.",
+                "Legacy transactional backends must transition to integrated intelligence layers to support real-time decentralized operational decision systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: FABLE 5 EXPORT CLEARANCE",
+            "points": [
+                "Anthropic announces global availability of Fable 5 after trade regulators officially lifted outstanding technology export controls.",
+                "Global organizations gain immediate access to frontier-class reasoning models designed to execute advanced cognitive automation tasks.",
+                "The deployment combines Sonnet 5 reasoning engines with customizable tools inside sandboxed environments for secure research.",
+                "Sovereign entities will rapidly integrate advanced intelligence models to accelerate domestic scientific discovery and technological sovereignty."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: BIONEMO AGENT FRAMEWORK",
+            "points": [
+                "NVIDIA launches BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific artificial intelligence agent orchestration.",
+                "Life science researchers experience dramatically shortened drug discovery cycles via automated biochemical analysis and literature synthesis.",
+                "The toolkit integrates seamlessly with Anthropic Claude Science, running complex workloads on high-performance Blackwell GPU architectures.",
+                "Pharmaceutical research will shift entirely toward agentic simulation pipelines, decreasing preclinical development timelines and associated costs."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AWS: AGENTCORE RUNTIME EXPANSION",
+            "id": 6,
+            "heading": "AWS: AGENTCORE CAPACITY BOOST",
             "points": [
-                "Amazon Web Services has raised default AgentCore runtime quotas by up to five times for enterprises.",
-                "This expansion allows organizations to scale concurrent AI agent sessions and handle larger transactional volumes seamlessly.",
-                "The infrastructure update directly addresses the rising demand for persistent, long-horizon multi-agent coordination in the cloud.",
-                "Operations teams can eliminate manual quota requests and deploy large-scale autonomous customer service agents immediately."
+                "Amazon Web Services increases default AgentCore runtime quotas fivefold to accommodate massive scaling of enterprise agents.",
+                "System engineers can now execute thousands of concurrent agent sessions without experiencing runtime throttling or failures.",
+                "Enhanced resource pooling structures optimize background processing lanes, lowering compute costs for complex multi-step reasoning systems.",
+                "Rapid quota expansion signals a structural transition where enterprise cloud infrastructure must prioritize agentic compute profiles."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: VERSAL PREMIUM GEN 2",
-            "points": [
-                "AMD has launched the Versal Premium Gen 2 MoP to significantly boost memory capacity for edge AI workloads.",
-                "This adaptive SoC provides high-bandwidth memory interfaces to run complex agentic workloads directly on localized hardware.",
-                "The launch positions AMD as a key competitor in the high-performance localized AI inference and sovereign compute markets.",
-                "Edge infrastructure engineers can run sophisticated real-time decision models without relying on remote cloud data centers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "COUCHBASE: AGENT MEMORY ENGINE",
+            "heading": "GARTNER: SAAS PRICING DISRUPTION",
             "points": [
-                "Couchbase has introduced a dedicated Agent Memory data layer designed to support persistent state for autonomous systems.",
-                "The update extends fast database synchronization directly to edge devices while managing distributed multi-step agent contexts.",
-                "This evolution aims to resolve critical synchronization bottlenecks in distributed agent architectures across hybrid enterprise clouds.",
-                "Enterprise database administrators can now secure agent transaction logs while maintaining low-latency state persistence globally."
+                "Gartner estimates that autonomous agentic architectures threaten over two hundred billion dollars in enterprise software expenditures.",
+                "Software vendors face immediate pressure to abandon traditional seat-based licensing models in favor of consumption metrics.",
+                "Autonomous system actors increasingly replace human users, driving a shift from graphical interfaces to machine-to-machine APIs.",
+                "Enterprise buyers should renegotiate legacy software contracts to align with transaction-based value delivery models immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.gartner.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
