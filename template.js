@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC",
-        "titleBlue": "PARADIGM"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "ORCHESTRATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "META: MUSE SPARK UPGRADE",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Meta AI launches Muse Spark update to sharpen complex code generation and agentic capabilities.",
-                "Engineering teams report immediate acceleration in development workflows for long-horizon autonomous software projects.",
-                "The runtime optimizations reduce latency across decentralized networks, enhancing overall response efficiency in testing.",
-                "Enterprise architects project improved system decoupling as legacy frameworks absorb agent-native operations systematically."
+                "OpenAI previews its next-generation GPT-5.6 Sol model to transform enterprise workflows with advanced reasoning engines.",
+                "The model introduces optimized token throughput metrics designed to drastically lower high-volume API execution latency.",
+                "This architectural leap addresses the critical limits of legacy transformer models in complex multi-step reasoning.",
+                "Systems integrators will likely migrate mission-critical transactional pipelines to this highly autonomous frontier framework."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WORKDAY: AGENTIC PRICING TRANSITION",
+            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
             "points": [
-                "Workday implements seatless agentic AI pricing models to align software expenditure with actual autonomous consumption.",
-                "Financial leaders face new predictive challenges as traditional seat-based budgeting models undergo radical functional displacement.",
-                "This shift prompts enterprises to develop real-time auditing pipelines to monitor decentralized SaaS transaction volumes.",
-                "Analysts predict widespread industry adoption of usage-based pricing structures across competitive enterprise software markets."
+                "Amazon Web Services increases AgentCore runtime quotas by five times to support massive enterprise agent scaling.",
+                "The quota expansion permits organizations to run concurrent agent sessions without experiencing standard API throttling boundaries.",
+                "This upgrade solidifies Bedrock as a highly scalable backbone for distributed autonomous agent orchestration fleets.",
+                "IT leaders can now deploy complex multi-agent workflows without constant manual resource allocation requests."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CISPE: SOVEREIGN CLOUD CERTIFICATION",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Four major cloud infrastructure providers officially register for the European sovereign cloud compliance initiative.",
-                "The regulatory framework guarantees strict regional data residency and operational isolation inside European Union boundaries.",
-                "Compliance audits assure enterprise customers of structural protection against extraterritorial data access requests.",
-                "Global cloud architectures must adapt to localized governance rules to maintain transactional access to European markets."
+                "Anthropic releases Sonnet 5 as its most capable agentic model optimized for autonomous enterprise code generation.",
+                "The launch coincides with the removal of global export restrictions on Fable five and Mythos five.",
+                "This release aims to provide developers with highly secure, context-aware environments for localized agent execution.",
+                "Organizations can immediately leverage this intelligence to accelerate software delivery and reduce legacy code technical debt."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAP: CEO-LED AI RESTRUCTURING",
+            "heading": "MICROSOFT: FRONTIER CO-DESIGN INITIATIVE",
             "points": [
-                "SAP freezes hiring and non-essential travel to divert core capital reserves directly into global AI initiatives.",
-                "The structural reorganization places emerging technology development directly under executive control to accelerate delivery cycles.",
-                "Operational budget adjustments signal intense market pressure to outpace rival ERP platforms in autonomous workflows.",
-                "Enterprise software vendors must aggressively redeploy engineering resources to satisfy rising corporate demand for automation."
+                "Microsoft launches Frontier Company to embed engineering experts directly into customer teams for custom system design.",
+                "The initiative targets accelerated returns on AI investments by building bespoke architectures directly on Azure Cloud.",
+                "This hands-on integration model bypasses traditional third-party systems integrators to ensure direct engineering alignment.",
+                "Enterprises will achieve faster deployment timelines for specialized agentic systems through this collaborative co-development pipeline."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CISCO: AGENTIC SYSTEM INTEGRATION",
+            "heading": "GOOGLE: NANO BANANA LITE RELEASE",
             "points": [
-                "Cisco deploys a comprehensive internal AI copilot to mitigate risks associated with unsanctioned shadow tools.",
-                "Employees save multiple working hours each week through automated code generation and streamlined HR interactions.",
-                "Centralized governance frameworks allow administrators to maintain absolute visibility over secure enterprise data streams.",
-                "Large organizations will increasingly mandate unified cognitive assistants to protect proprietary codebases from external exposure."
+                "Google Cloud rolls out Nano Banana Two Lite alongside Gemini Omni Flash for rapid image generation.",
+                "The lightweight model achieves unprecedented speed and processing efficiency during high-volume commercial visual generation tasks.",
+                "Deploying these optimized models on Google Cloud reduces computational footprint costs for enterprise visual content pipelines.",
+                "Organizations can scale personalized marketing assets dynamically without overloading heavy cloud GPU infrastructure reserves."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AWS: AGENTCORE CAPACITY UPGRADE",
+            "heading": "AMD: VERSAL MEMORY ACCELERATION",
             "points": [
-                "Amazon Web Services increases AgentCore runtime limits fivefold to accommodate massive parallel autonomous processing demands.",
-                "Developers can now run thousands of concurrent session iterations without requesting manual quota adjustments first.",
-                "This scalability improvement simplifies orchestrating extensive multi-agent networks operating across complex hybrid cloud architectures.",
-                "Cloud platforms are rapidly shifting engineering priorities to support the persistent workload execution profiles of tomorrow."
+                "AMD announces Versal Premium Gen Two adaptive system-on-chip to significantly boost memory capacity for hardware engines.",
+                "The new hardware design maximizes data transfer bandwidth for memory-bound high-performance computing and AI models.",
+                "Integrating this chip into data centers directly addresses memory bottlenecks during massive scale model inference cycles.",
+                "Chipmakers will gain unmatched hardware flexibility to run complex agentic workflows efficiently at reduced operational costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: EMBEDDED ENGINEERING STRATEGY",
+            "heading": "COUCHBASE: AGENT MEMORY INTEGRATION",
             "points": [
-                "Microsoft establishes Microsoft Frontier Company to embed engineering teams directly into strategic enterprise customer offices.",
-                "The direct alignment model bypasses traditional third-party integrators to accelerate custom generative AI deployments safely.",
-                "Direct engineer access resolves critical architectural bottlenecks during complex on-premises model fine-tuning processes.",
-                "Primary technology vendors are assuming hands-on operational responsibility to guarantee real-world return on AI investments."
+                "Couchbase introduces Agent Memory capabilities within its database engine to power persistent state storage for agents.",
+                "The database evolution enables real-time context retention across distributed edge devices and centralized cloud platforms.",
+                "This development resolves a major architectural hurdle in keeping autonomous agents synchronized over long-horizon tasks.",
+                "Developers can now construct hyper-personalized edge applications that maintain state consistency across fragmented network nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
