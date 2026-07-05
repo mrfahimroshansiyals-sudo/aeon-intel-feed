@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
-        "titleBlue": "ACCELERATING"
+        "titleWhite": "SCALING AUTONOMOUS AGENT",
+        "titleBlue": "ORCHESTRATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AGENTIC WORKFLOWS AT SCALE",
+            "heading": "MICROSOFT: FRONTIER CO-DESIGN",
             "points": [
-                "AWS has increased AgentCore runtime quotas by 5x to facilitate massive-scale concurrent AI agent sessions for enterprise workflows.",
-                "This capacity upgrade allows organizations to handle complex multi-step reasoning tasks without hitting traditional infrastructure rate-limiting bottlenecks.",
-                "The shift enables denser deployment of autonomous agents within cloud-native environments, moving beyond singular LLM prompting to persistent operations.",
-                "Enterprises can now maintain larger memory states for agents, directly improving performance in high-frequency, long-horizon data processing tasks."
+                "Microsoft launched Frontier Company to embed AI engineering experts directly into enterprise customer operations.",
+                "This strategic move challenges systems integrators by deploying thousands of full-time developers to scale systems.",
+                "Organizations bypass traditional outsourcing models to accelerate custom agent orchestration directly on cloud networks.",
+                "Global enterprises will shift toward co-designed proprietary architectures rather than generic off-the-shelf software platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "EUROPEAN SOVEREIGN AI INFRA",
+            "heading": "AWS: AGENTCORE LIMITS EXPANDED",
             "points": [
-                "The CISPE certification program has signed its first four cloud providers, marking a milestone for EU-wide sovereign cloud adoption.",
-                "This infrastructure layer is critical for compliance with the EU AI Act, ensuring that data residency and processing remain localized.",
-                "New certification standards force a shift in how AI-native services are deployed, prioritizing regional transparency over globalized, opaque stack integration.",
-                "This initiative directly mitigates the risks associated with non-European centralized cloud dependencies for sensitive industrial and public sector operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ENTERPRISE MODEL DEPLOYMENT",
-            "points": [
-                "Anthropic\u2019s frontier Claude models are now generally available within the Microsoft Foundry environment for immediate enterprise integration.",
-                "This move embeds advanced agentic capabilities directly into established corporate governance structures, leveraging existing authentication and billing pipelines.",
-                "Organizations can now deploy top-tier intelligence with granular policy controls, bypassing the typical friction of third-party model adoption.",
-                "The integration signals a strategic shift toward hybrid-cloud consumption of frontier models within regulated high-security business operating environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AI-NATIVE ENGINEERING SHIFTS",
-            "points": [
-                "Microsoft Frontier Company has launched an initiative to embed specialized engineering experts directly into customer AI development teams.",
-                "This high-touch model challenges the historical reliance on general systems integrators for managing complex, long-term enterprise AI transformations.",
-                "Direct co-design and co-innovation cycles are expected to dramatically accelerate the time-to-production for custom generative AI applications.",
-                "The shift signifies that vendor-to-customer collaboration is moving beyond software licensing toward deep architectural and operational partnership."
+                "Amazon Web Services increased AgentCore default runtime quotas by five times for concurrent workloads.",
+                "Enterprise developers can run thousands of autonomous agent sessions without requiring manual support approvals.",
+                "High-density orchestration demands higher telemetry throughput to prevent system failures during real-time transaction processing.",
+                "Enterprises will rapidly transition from single-task bots to massive multi-agent fleets processing continuous workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AUTOMATED GOVERNANCE LAYERS",
+            "id": 3,
+            "heading": "ANTHROPIC: SONNET FIVE DEPLOYMENT",
             "points": [
-                "Developers are increasingly utilizing spec-driven governance tools to prevent infrastructure bloat caused by unchecked AI agent activity.",
-                "New policy checks are being integrated directly into CI/CD pipelines, forcing agentic systems to operate within predefined resource boundaries.",
-                "By automating cost management at the infrastructure layer, enterprises can scale autonomous workflows without triggering uncontrollable cloud spending surges.",
-                "This defensive architecture is essential for maintaining operational viability as agentic systems move from pilot experimentation into production deployment."
+                "Anthropic released Sonnet Five globally after lifting export controls on its flagship underlying models.",
+                "Developers gain access to highly agentic software reasoning systems specialized for complex production environments.",
+                "The platform integrates advanced developer tools like Claude Code to automate system testing and documentation.",
+                "Fast model iterations will commoditize basic coding tasks while intensifying demand for high-level system architects."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "QLIK: DATA QUALITY AGENTS",
+            "points": [
+                "Qlik released advanced data engineering tools featuring autonomous quality agents and reusable corporate data products.",
+                "Engineering pipelines automatically cleanse structured and unstructured data to accelerate enterprise model training cycles.",
+                "Integrating automated validation agents directly into data lakes prevents corrupted telemetry from degrading active models.",
+                "Automated data governance will replace manual curation pipelines as enterprises scale real-time decision-making systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "META: MUSE SPARK RELEASE",
+            "points": [
+                "Meta announced the Muse Spark update designed to dramatically improve programming and agentic workflows.",
+                "Developers can leverage enhanced local code generation to build highly secure offline agent systems.",
+                "Open architecture improvements empower engineering teams to customize foundational logic models for proprietary codebases.",
+                "Decentralized development teams will favor high-performance open models to maintain strict data sovereignty standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,28 +87,28 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "SILICON CAPACITY EXPANSION",
+            "heading": "GOOGLE: OMNI FLASH ARCHITECTURE",
             "points": [
-                "NVIDIA and capital partners are scaling AI infrastructure buildouts to meet the exponential demand for domestic compute capacity.",
-                "Efforts to unlock compute at scale involve inviting external capital to fund the expansion of localized AI data centers.",
-                "The strategy focuses on building critical infrastructure within domestic borders to secure sovereign AI development and technological superiority.",
-                "Accelerated build cycles are currently being prioritized to support the next generation of physical AI and life sciences research."
+                "Google Cloud deployed Gemini Omni Flash alongside Nano Banana Two Lite for edge image processing.",
+                "Real-time multimodal models process complex visual inputs on local devices with minimal battery consumption.",
+                "Transitioning from centralized cloud processing to edge-native intelligence reduces global latency and bandwidth requirements.",
+                "Edge devices will become highly capable context-aware assistants operating independently from continuous cloud connectivity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AGENTIC TOOLKIT STANDARDIZATION",
+            "heading": "NVIDIA: BIONEMO AGENT PLATFORM",
             "points": [
-                "NVIDIA has unveiled the BioNeMo Agent Toolkit to standardize domain-specific agentic workflows for life sciences research applications.",
-                "This modular toolkit provides pre-configured skills that accelerate the discovery process within high-complexity biochemical simulation and analysis environments.",
-                "The standardization of these toolkits is creating a new ecosystem for accelerated scientific discovery at the intersection of AI.",
-                "Researchers now have direct access to automated artifact production, significantly reducing the manual overhead in complex multi-stage science pipelines."
+                "Nvidia launched the BioNeMo Agent Toolkit offering domain-specific tools for agentic scientific research pipelines.",
+                "Life sciences teams can deploy specialized agents to accelerate biochemical discovery and simulation workloads.",
+                "Integrating GPU-accelerated computing with autonomous agent planning enables rapid processing of vast molecular datasets.",
+                "Specialized vertical agent networks will redefine pharmaceutical research and development timelines within the year."
             ],
             "imageUrl": "",
             "tags": [
