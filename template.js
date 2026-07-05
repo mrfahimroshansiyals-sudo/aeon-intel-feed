@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "ORCHESTRATION"
+        "titleWhite": "COGNITIVE AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "OpenAI previews its next-generation GPT-5.6 Sol model to transform enterprise workflows with advanced reasoning engines.",
-                "The model introduces optimized token throughput metrics designed to drastically lower high-volume API execution latency.",
-                "This architectural leap addresses the critical limits of legacy transformer models in complex multi-step reasoning.",
-                "Systems integrators will likely migrate mission-critical transactional pipelines to this highly autonomous frontier framework."
+                "OpenAI previews GPT-5.6 Sol, a next-generation model engineered for sophisticated agentic reasoning and complex workflows.",
+                "Early benchmarks demonstrate substantial latency reductions and optimized token throughput compared to legacy frontier systems.",
+                "The model integrates deep contextual parsing layers to secure enterprise workloads against misalignment and drift.",
+                "Organizations will utilize this architecture to automate multi-step operations and high-value cognitive pipelines seamlessly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Amazon Web Services increases AgentCore runtime quotas by five times to support massive enterprise agent scaling.",
-                "The quota expansion permits organizations to run concurrent agent sessions without experiencing standard API throttling boundaries.",
-                "This upgrade solidifies Bedrock as a highly scalable backbone for distributed autonomous agent orchestration fleets.",
-                "IT leaders can now deploy complex multi-agent workflows without constant manual resource allocation requests."
+                "Anthropic launches Sonnet 5, offering high-tier coding intelligence and advanced multi-step planning capabilities.",
+                "Lifting global export controls on Fable 5 and Mythos 5 enables widespread enterprise-grade agentic optimization.",
+                "These models run natively on Nvidia Blackwell Ultra GB300 systems hosted inside Microsoft Foundry.",
+                "Cloud architects will leverage this high-performance integration to deliver highly secure agentic workflows globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Anthropic releases Sonnet 5 as its most capable agentic model optimized for autonomous enterprise code generation.",
-                "The launch coincides with the removal of global export restrictions on Fable five and Mythos five.",
-                "This release aims to provide developers with highly secure, context-aware environments for localized agent execution.",
-                "Organizations can immediately leverage this intelligence to accelerate software delivery and reduce legacy code technical debt."
+                "NVIDIA releases the BioNeMo Agent Toolkit to accelerate sovereign scientific discovery and advanced biological modeling.",
+                "The toolkit integrates specialized agentic skills directly into Anthropic's Claude Science for domain-specific execution.",
+                "This framework utilizes optimized compute pathways to dramatically minimize token costs during intensive research runs.",
+                "Pharmaceutical enterprises will rapidly deploy these specialized cognitive agents to streamline complex molecular workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FRONTIER CO-DESIGN INITIATIVE",
+            "heading": "DEEPMIND: GEMINI 3.5 COMPUTER USE",
             "points": [
-                "Microsoft launches Frontier Company to embed engineering experts directly into customer teams for custom system design.",
-                "The initiative targets accelerated returns on AI investments by building bespoke architectures directly on Azure Cloud.",
-                "This hands-on integration model bypasses traditional third-party systems integrators to ensure direct engineering alignment.",
-                "Enterprises will achieve faster deployment timelines for specialized agentic systems through this collaborative co-development pipeline."
+                "Google DeepMind introduces Gemini 3.5 with native computer use capabilities and multimodal action models.",
+                "Enterprise operators can now automate repetitive desktop workflows directly using raw screen-space visual inputs.",
+                "The model architecture is optimized for low-latency visual-action mapping via fully-managed remote server nodes.",
+                "Developers will rapidly implement these action-oriented models to bypass legacy application program interface constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: NANO BANANA LITE RELEASE",
+            "heading": "AMD: VERSAL PREMIUM GEN 2",
             "points": [
-                "Google Cloud rolls out Nano Banana Two Lite alongside Gemini Omni Flash for rapid image generation.",
-                "The lightweight model achieves unprecedented speed and processing efficiency during high-volume commercial visual generation tasks.",
-                "Deploying these optimized models on Google Cloud reduces computational footprint costs for enterprise visual content pipelines.",
-                "Organizations can scale personalized marketing assets dynamically without overloading heavy cloud GPU infrastructure reserves."
+                "AMD launches the Versal Premium Gen 2 MoP to boost memory capacity for complex workflows.",
+                "Increased bandwidth optimizes memory retrieval speeds, dramatically enhancing multi-agent data exchange and processing throughput.",
+                "The system acts as a specialized hardware accelerator, maximizing end-to-end efficiency across the enterprise.",
+                "Infrastructure teams will deploy these microchips to significantly lower total cost of ownership for AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: VERSAL MEMORY ACCELERATION",
+            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
             "points": [
-                "AMD announces Versal Premium Gen Two adaptive system-on-chip to significantly boost memory capacity for hardware engines.",
-                "The new hardware design maximizes data transfer bandwidth for memory-bound high-performance computing and AI models.",
-                "Integrating this chip into data centers directly addresses memory bottlenecks during massive scale model inference cycles.",
-                "Chipmakers will gain unmatched hardware flexibility to run complex agentic workflows efficiently at reduced operational costs."
+                "Mistral AI unveils the Vibe agent platform designed to manage long-horizon tasks and automated reviews.",
+                "Integrating Mistral OCR 4 allows these active agents to process complex unstructured documents with absolute precision.",
+                "The sovereign architecture enables localized execution, ensuring complete compliance with evolving European Union regulatory standards.",
+                "Enterprise leaders will adopt this platform to build resilient, self-healing software development and CI/CD pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COUCHBASE: AGENT MEMORY INTEGRATION",
+            "heading": "AWS: AGENTCORE RUNTIME ELEVATION",
             "points": [
-                "Couchbase introduces Agent Memory capabilities within its database engine to power persistent state storage for agents.",
-                "The database evolution enables real-time context retention across distributed edge devices and centralized cloud platforms.",
-                "This development resolves a major architectural hurdle in keeping autonomous agents synchronized over long-horizon tasks.",
-                "Developers can now construct hyper-personalized edge applications that maintain state consistency across fragmented network nodes."
+                "Amazon Web Services increases default AgentCore runtime quotas up to five times for enterprise users.",
+                "Higher capacity limits allow organizations to run thousands of concurrent agentic sessions without manual approvals.",
+                "This structural upgrade mitigates resource starvation risks during heavy peaks in model orchestration tasks.",
+                "System integrators will utilize these expanded quotas to scale complex, multi-agent frameworks across production workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
