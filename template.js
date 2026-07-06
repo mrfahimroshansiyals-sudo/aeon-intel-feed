@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "SOVEREIGN COMPUTE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ALIBABA: ANTHROPIC ACCESS BAN",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Alibaba officially banned internal access to Anthropic models due to alleged data distillation and capabilities replication exploits.",
-                "The restriction directly mitigates risk of IP contamination across proprietary models and secures cloud operations footprint globally.",
-                "This escalation underscores growing enterprise friction around model distillation techniques and architectural alignment safety paradigms.",
-                "Enterprise developers must enforce strict API firewalls to prevent unauthorized outbound model traffic and fine-tuning leakage."
+                "OpenAI releases GPT-5.6 Sol preview as its next-generation neural architecture designed for complex workflow automation.",
+                "The model integrates advanced contextual planning engines to execute multi-step calculations across decentralized organizational networks.",
+                "Enterprises gain early access to native tools that optimize data governance and safeguard proprietary corporate assets.",
+                "This release shifts developer paradigms toward agent-first architectures capable of autonomous self-correction and continuous execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SITUATIONAL AWARENESS: HYNIX BACKING",
+            "heading": "MICROSOFT: XBOX GAMING RESET",
             "points": [
-                "Ex-OpenAI researcher hedge fund Situational Awareness backs SK Hynix's highly anticipated multi-billion dollar American public offering.",
-                "Rapid AI expansion accelerates high-bandwidth memory demand, solidifying semiconductor supply chains as premium geopolitical tech assets.",
-                "This strategic positioning highlights venture capital shifts toward foundational hardware bottlenecks instead of highly saturated software layers.",
-                "Investors expect next-generation memory bandwidth optimization to remain the primary gating factor for advanced agentic performance."
+                "Microsoft slashes four thousand eight hundred jobs within Xbox Gaming to stabilize operating margins.",
+                "The restructuring initiates a strategic spin-off of four major gaming studios to optimize capital efficiency.",
+                "Infrastructure investments will transition toward highly monetizable cloud gaming and generative consumer experiences.",
+                "Industry analysts predict a broader shift as legacy media divisions restructure to fund specialized systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB DATABASE LAUNCH",
+            "heading": "ALIBABA: ANTHROPIC BAN IMPOSED",
             "points": [
-                "Microsoft unveiled Azure HorizonDB, engineered specifically to support real-time agentic application grounding with ultra-low latency reads.",
-                "Integrating native PostgreSQL capabilities allows enterprise architects to scale complex mission-critical workloads without compromising data security.",
-                "Decentralized database architectures increasingly require integrated vector layers to eliminate transaction bottlenecks during parallel agentic execution.",
-                "Organizations transitioning to agent-driven backends must prioritize database systems optimized specifically for high-throughput, contextual queries."
+                "Alibaba implements a strict employee ban on Anthropic models following serious distillation attack accusations.",
+                "The embargo highlights escalating security tensions surrounding proprietary model training and unauthorized IP extraction methods.",
+                "Corporate security frameworks are pivoting to secure isolated host sandboxes for untrusted external neural API calls.",
+                "This conflict signals hardening boundaries between Chinese tech conglomerates and Western frontier research organizations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AWS: AGENTCORE CAPACITY EXPANSION",
+            "heading": "AMD: RYZEN AI HALO LAUNCH",
             "points": [
-                "Amazon Web Services raised default AgentCore runtime quotas by five times to accommodate massive enterprise agent deployments.",
-                "Increased session throughput allows organizations to execute concurrent workflows seamlessly, optimizing overall operational efficiency and scale.",
-                "Scaling execution limits confirms the rapid industrial transition toward multi-agent orchestration frameworks operating continuously across cloud networks.",
-                "Platform engineers can now deploy complex, long-horizon agentic systems without experiencing artificial performance caps or API throttles."
+                "AMD launches the Ryzen AI Halo processor at Micro Center targeting local consumer edge intelligence.",
+                "The system delivers unprecedented hardware acceleration for dense local model execution without cloud latency bottlenecks.",
+                "Architectural optimization enables high-performance inference operations at highly competitive thermal and energy footprints.",
+                "Edge devices will increasingly run multi-agent workflows locally, enhancing individual user privacy and latency targets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO TOOLKIT INTEGRATION",
+            "heading": "SITUATIONAL AWARENESS: SK HYNIX IPO",
             "points": [
-                "Nvidia launched the BioNeMo Agent Toolkit to deliver domain-specific tools accelerating drug discovery inside Anthropic's Claude Science.",
-                "Accelerating computational biology pipelines reduces early-stage research lifecycles from years to days through intelligent multi-agent orchestration.",
-                "Combining advanced foundational models with hardware-optimized biological simulation engines represents a massive paradigm shift in scientific discovery.",
-                "Pharmaceutical enterprises must rapidly deploy specialized agent toolkits to maintain competitive advantages in therapeutic pipeline development."
+                "Situational Awareness hedge fund bets heavily on the upcoming American IPO of memory maker SK Hynix.",
+                "The strategic investment underscores soaring global demand for high-bandwidth memory hardware crucial for AI scaling.",
+                "Specialized memory components are becoming the primary bottleneck for next-generation frontier computing architectures.",
+                "Market structures are reorganizing around critical hardware supply chains as chip worker payouts reach records."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE ALLOCATION",
+            "heading": "DEEPMIND: NANO BANANA LITE",
             "points": [
-                "Rackspace Technology secured a strategic deployment of thirty megawatts of specialized AMD AI compute for regulated industries.",
-                "Deploying high-density Instinct GPUs and EPYC CPUs ensures superior price-to-performance ratios for compliance-heavy, sovereign workloads.",
-                "Enterprise cloud architectures are rapidly diversifying hardware components to mitigate extreme market concentration and reduce operational costs.",
-                "Enterprise architects should leverage multi-vendor chip strategies to ensure high availability and prevent single-source supply chain bottlenecks."
+                "Google DeepMind launches Nano Banana Lite and Gemini Omni Flash to accelerate lightweight edge execution.",
+                "The models optimize intelligence per parameter, enabling complex multimodal operations on highly constrained mobile devices.",
+                "Developers can leverage remote model orchestration tools to build deeply customized low-latency consumer agent workflows.",
+                "This deployment model lowers operational costs while broadening the functional surface area of portable systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: LITHOGRAPHY AI IMPLEMENTATION",
+            "heading": "SUBQUADRATIC: LLM ARCHITECTURE REVOLUTION",
             "points": [
-                "ASML integrated advanced AI-native engineering frameworks directly into extreme ultraviolet lithography software stacks to optimize patterning.",
-                "Refining precision controls improves microchip yield rates and accelerates physical production schedules for next-generation sovereign foundries.",
-                "Applying deep learning to nanometer-scale physics represents a crucial architectural evolution in global hardware manufacturing efficiency.",
-                "Semiconductor foundries must integrate localized machine learning loops to sustain atomic-level precision amid rising global fab competition."
+                "Startup Subquadratic breaks through core sequence scaling bottlenecks to challenge traditional transformer attention models.",
+                "The subquadratic architecture enables linear computational scaling during massive document processing and extended contextual analysis.",
+                "Skeptics demand rigorous empirical validation while early testing shows remarkable speed improvements for token generation.",
+                "Overcoming the quadratic cost of self-attention could fundamentally democratize long-horizon document analysis at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
