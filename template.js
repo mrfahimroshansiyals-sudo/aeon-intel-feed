@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC FRONTIER COMPUTE",
-        "titleBlue": "SCALING"
+        "titleWhite": "AUTONOMOUS ENTERPRISE ORCHESTRATION",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "OpenAI has officially previewed GPT-5.6 Sol, a highly anticipated next-generation model designed for complex agent workflows.",
-                "The next-generation architecture delivers unprecedented capabilities in automated codex orchestration and secured multi-system enterprise operations.",
-                "This model launch signals a major shift toward high-performance autonomous agents capable of managing entire digital business units.",
-                "Enterprises must quickly adapt their security frameworks to support the advanced computer use capabilities of these systems."
+                "OpenAI previews GPT-5.6 Sol, a next-generation model engineered specifically for advanced multi-step logical reasoning.",
+                "The architecture reduces token latency by forty percent while scaling computational accuracy across complex enterprise workloads.",
+                "This release bypasses traditional pipeline limits by integrating deep planning protocols directly within the core model framework.",
+                "Enterprises must quickly adapt their operational infrastructure to support these highly autonomous decision-making capabilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: MULTI-BILLION INFRASTRUCTURE LEASE",
+            "heading": "ANTHROPIC: MODEL EXPORT LIBERATION",
             "points": [
-                "Anthropic has secured a massive nineteen billion dollar data center lease with energy specialist TeraWulf in Kentucky.",
-                "This monumental transaction provides the raw power capacity required to train and run next-generation frontier intelligence models.",
-                "Large-scale physical infrastructure is now the primary bottleneck for tech giants aiming to deploy agentic software globally.",
-                "Investors are rapidly driving up valuation metrics for green energy data centers to support intensive AI hardware."
+                "Anthropic launches Sonnet 5 alongside the global lifting of strategic export controls on Fable five.",
+                "The upgraded model achieves a twofold efficiency increase in executing complex, long-horizon developer coding pipelines.",
+                "This deployment democratizes state-of-the-art agentic processing for global enterprises requiring secure local runtime environments.",
+                "Global organizations can now confidently deploy high-tier autonomous agents without violating strict international compliance standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: FRONTIER SERVICE COMPANY",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "Microsoft launched Frontier Company to directly embed elite engineering specialists into global enterprise customer operational teams.",
-                "The initiative accelerates returns on artificial intelligence deployments by circumventing traditional third-party systems integration pipelines.",
-                "This strategic pivot highlights the intense demand for highly specialized human expertise to implement autonomous agentic workflows.",
-                "Professional services firms must restructure their business models to compete with direct technology vendor implementation services."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AWS: AGENTCORE CONCURRENCY EXPANSION",
-            "points": [
-                "Amazon Web Services has increased its default AgentCore runtime quotas by five times for corporate cloud customers.",
-                "Enterprises can now run massive concurrent agent sessions and coordinate highly intensive workloads without requesting manual limits.",
-                "Scaled agent coordination requires significantly higher backend system capacities to prevent execution delays during peak usage.",
-                "Cloud architects can immediately deploy elaborate multi-agent automation systems without fearing immediate resource throttling."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://aws.amazon.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AZURE: CLAUDE FOUNDRY INTEGRATION",
-            "points": [
-                "Microsoft Azure has announced the general availability of Anthropic Claude models inside its managed enterprise Foundry platform.",
-                "Enterprise customers can now run Opus four point eight and Sonnet five with native authentication and billing.",
-                "Tech giants are increasingly offering diverse model ecosystems to retain massive corporate cloud infrastructure spend.",
-                "Enterprise buyers gain significant flexibility by utilizing multiple premier model providers within a unified administrative portal."
+                "Microsoft launches Azure HorizonDB to deliver ultra-low latency PostgreSQL scaling equipped with native intelligence features.",
+                "Database transactions execute thirty percent faster while utilizing integrated indexing to power real-time agent memory retrieval.",
+                "This service consolidates enterprise database systems by blending traditional relational storage with active vector intelligence layers.",
+                "Database administrators should migrate critical operational workloads to eliminate latency overhead during real-time transaction processing."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DEEPMIND: MULTI-MODAL MODEL ROLLOUTS",
+            "id": 4,
+            "heading": "GOOGLE: GEMINI AGENTIC UPGRADES",
             "points": [
-                "Google DeepMind launched Nano Banana Two Lite, their fastest and most efficient vision model designed for edge devices.",
-                "The new compact visual model drastically reduces image generation costs while delivering ultra-low latency on consumer hardware.",
-                "Developing highly optimized smaller models is critical for enabling localized artificial intelligence operations on mobile platforms.",
-                "Software developers can now integrate rapid, high-quality image processing capabilities directly into native consumer applications."
+                "Google Cloud rolls out Nano Banana Two Lite alongside Gemini three point five action-oriented model series.",
+                "The lightweight architecture reduces operational cost by fifty percent during high-frequency visual generation and processing.",
+                "This integration enables immediate edge deployment of lightweight vision models across massive distributed enterprise networks.",
+                "Chief technology officers can immediately leverage these lightweight structures to optimize real-time asset tracking pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: ENTERPRISE AGENT SYSTEMS",
+            "points": [
+                "Mistral AI releases Mistral OCR Four and the Vibe autonomous agent designed for long-horizon enterprise tasks.",
+                "The Vibe framework handles automated scheduling and document analysis across twenty connected enterprise software applications concurrently.",
+                "Organizations can transition from passive software platforms to persistent, self-correcting agent networks using custom forge environments.",
+                "Operational managers should deploy these persistent digital workers to eliminate manual verification bottlenecks in document workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "points": [
+                "AMD signs a definitive agreement with Rackspace Technology for a phased thirty-megawatt AI compute cluster deployment.",
+                "This robust hardware infrastructure directly hosts highly secure, regulated enterprise workloads requiring dedicated bare-metal server access.",
+                "The partnership validates the growing demand for dedicated, sovereign high-performance computing facilities outside public cloud hyperscalers.",
+                "Cloud architects must evaluate dedicated hardware tenancy models to ensure compliance with emerging data sovereignty mandates."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "ASML: LITHOGRAPHY PROCESS OPTIMIZATION",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to deliver specialized tools for automated scientific discovery in life sciences.",
-                "The platform brings accelerated computing capabilities directly to researchers using Anthropic Claude Science for biological analysis.",
-                "Integrating physics-informed agent models with general frontier models creates a highly potent environment for scientific breakthroughs.",
-                "Biotechnology companies can rapidly accelerate therapeutic discovery timelines by deploying autonomous agent workflows in their laboratories."
+                "ASML deploys Mistral AI model architectures to drive advanced semiconductor lithography and AI-native engineering processes.",
+                "The specialized engineering models process complex manufacturing telemetry to optimize system calibration times by twenty percent.",
+                "Integrating generative intelligence directly into silicon fabrication pipelines accelerates the development of next-generation hardware architectures.",
+                "Hardware manufacturers must merge software logic directly with physical machinery to maintain leadership in semiconductor precision."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
