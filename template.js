@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC AI INFRASTRUCTURE",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "AGENTIC FRONTIER COMPUTE",
+        "titleBlue": "SCALING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 FOUNDRY DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Anthropic deployed Claude Sonnet five and Haiku four point five within the Microsoft Foundry Azure framework.",
-                "The deployment enables enterprise users to leverage secure authentication, unified billing, and compliance controls for agentic workloads.",
-                "Integrating frontier models on Azure allows direct infrastructure mapping to Nvidia Blackwell GB300 superchip configurations.",
-                "Corporate builders can now orchestrate secure multi-agent systems using native enterprise-grade security structures."
+                "OpenAI has officially previewed GPT-5.6 Sol, a highly anticipated next-generation model designed for complex agent workflows.",
+                "The next-generation architecture delivers unprecedented capabilities in automated codex orchestration and secured multi-system enterprise operations.",
+                "This model launch signals a major shift toward high-performance autonomous agents capable of managing entire digital business units.",
+                "Enterprises must quickly adapt their security frameworks to support the advanced computer use capabilities of these systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FRONTIER CO-DESIGN INITIATION",
+            "heading": "ANTHROPIC: MULTI-BILLION INFRASTRUCTURE LEASE",
             "points": [
-                "Microsoft launched Frontier Company to deploy engineering experts directly inside customer teams for custom system co-design.",
-                "This initiative bypasses traditional systems integrators by embedding elite developers directly into strategic enterprise scaling projects.",
-                "The model accelerates the transition of custom enterprise pilots into highly optimized, production-grade cloud architectures.",
-                "Embedded engineers ensure continuous alignment of local software configurations with rapid cloud infrastructure updates."
+                "Anthropic has secured a massive nineteen billion dollar data center lease with energy specialist TeraWulf in Kentucky.",
+                "This monumental transaction provides the raw power capacity required to train and run next-generation frontier intelligence models.",
+                "Large-scale physical infrastructure is now the primary bottleneck for tech giants aiming to deploy agentic software globally.",
+                "Investors are rapidly driving up valuation metrics for green energy data centers to support intensive AI hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AWS: AGENTCORE CONCURRENCY EXPANSION",
+            "heading": "MICROSOFT: FRONTIER SERVICE COMPANY",
             "points": [
-                "Amazon Web Services raised AgentCore runtime quotas five-fold to accommodate massive scaling of enterprise autonomous agents.",
-                "The elevated platform limits allow organizations to execute concurrent agent sessions without requiring custom administrative approval.",
-                "This update directly mitigates operational latency during high-volume workflows across decoupled legacy cloud applications.",
-                "IT leaders can now deploy complex multi-step reasoning agents globally with minimal execution resource boundaries."
+                "Microsoft launched Frontier Company to directly embed elite engineering specialists into global enterprise customer operational teams.",
+                "The initiative accelerates returns on artificial intelligence deployments by circumventing traditional third-party systems integration pipelines.",
+                "This strategic pivot highlights the intense demand for highly specialized human expertise to implement autonomous agentic workflows.",
+                "Professional services firms must restructure their business models to compete with direct technology vendor implementation services."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,44 +55,44 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: FABLE 5 EXPORT RELEASE",
+            "heading": "AWS: AGENTCORE CONCURRENCY EXPANSION",
             "points": [
-                "Global export controls on Anthropic Fable five and Mythos five models have been officially lifted.",
-                "Both frontier intelligence systems are now accessible to developers globally, enabling immediate large-scale industrial deployment.",
-                "The decision marks a major regulatory shift, loosening distribution parameters for highly capable generative systems.",
-                "Organizations can integrate these unconstrained architectures to run highly specialized tasks across sovereign data regions."
+                "Amazon Web Services has increased its default AgentCore runtime quotas by five times for corporate cloud customers.",
+                "Enterprises can now run massive concurrent agent sessions and coordinate highly intensive workloads without requesting manual limits.",
+                "Scaled agent coordination requires significantly higher backend system capacities to prevent execution delays during peak usage.",
+                "Cloud architects can immediately deploy elaborate multi-agent automation systems without fearing immediate resource throttling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "heading": "AZURE: CLAUDE FOUNDRY INTEGRATION",
             "points": [
-                "AMD signed a definitive agreement with Rackspace Technology for a phased deployment of thirty megawatts of compute.",
-                "The massive physical footprint specifically hosts regulated enterprise workloads requiring strict architecture sovereignty and localized security.",
-                "This deployment provides highly secure, isolated AI infrastructure tailored for financial and healthcare compliance frameworks.",
-                "Operators benefit from Epyc processor efficiency, lowering total ownership costs while executing heavy model inference."
+                "Microsoft Azure has announced the general availability of Anthropic Claude models inside its managed enterprise Foundry platform.",
+                "Enterprise customers can now run Opus four point eight and Sonnet five with native authentication and billing.",
+                "Tech giants are increasingly offering diverse model ecosystems to retain massive corporate cloud infrastructure spend.",
+                "Enterprise buyers gain significant flexibility by utilizing multiple premier model providers within a unified administrative portal."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: NANO BANANA ACCELERATION",
+            "heading": "DEEPMIND: MULTI-MODAL MODEL ROLLOUTS",
             "points": [
-                "Google DeepMind released Nano Banana two Lite, their fastest and most efficient generative image model.",
-                "The architecture is optimized for edge environments and low-resource processors, expanding localized visual generation capabilities.",
-                "This release directly addresses the growing demand for fast, client-side intelligence without high cloud communication overhead.",
-                "Developers can integrate this compact visual model into real-time interactive apps across diverse mobile ecosystems."
+                "Google DeepMind launched Nano Banana Two Lite, their fastest and most efficient vision model designed for edge devices.",
+                "The new compact visual model drastically reduces image generation costs while delivering ultra-low latency on consumer hardware.",
+                "Developing highly optimized smaller models is critical for enabling localized artificial intelligence operations on mobile platforms.",
+                "Software developers can now integrate rapid, high-quality image processing capabilities directly into native consumer applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,12 +103,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "NVIDIA: BIONEMO AGENT INTEGRATION",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Nvidia launched the BioNeMo Agent Toolkit to deliver domain-specific skills for advanced life sciences research.",
-                "The framework integrates structural biology tools directly into Anthropic Claude Science, optimizing collaborative research tasks.",
-                "This release enables automated workflow execution, dramatically reducing drug discovery timelines via accelerated simulation pipelines.",
-                "Scientists can deploy secure agents capable of parsing deep biological data with unparalleled computational efficiency."
+                "NVIDIA launched the BioNeMo Agent Toolkit to deliver specialized tools for automated scientific discovery in life sciences.",
+                "The platform brings accelerated computing capabilities directly to researchers using Anthropic Claude Science for biological analysis.",
+                "Integrating physics-informed agent models with general frontier models creates a highly potent environment for scientific breakthroughs.",
+                "Biotechnology companies can rapidly accelerate therapeutic discovery timelines by deploying autonomous agent workflows in their laboratories."
             ],
             "imageUrl": "",
             "tags": [
