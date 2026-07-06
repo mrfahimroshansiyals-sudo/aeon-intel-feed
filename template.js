@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE INTELLIGENCE AGENTS",
-        "titleBlue": "SHIFT"
+        "titleWhite": "ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "EUROPEAN UNION: SOVEREIGN CLOUD",
+            "heading": "ANTHROPIC: SONNET 5 LAUNCH",
             "points": [
-                "Four major technology providers officially signed up for the European Union's sovereign cloud CISPE certification program.",
-                "This compliance milestone establishes robust data protection standards across European borders for critical enterprise infrastructure.",
-                "Local businesses can now securely host sensitive workloads without risking exposure to foreign regulatory frameworks.",
-                "Global cloud vendors must adapt to these strict regional standards to remain competitive in Europe."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: SONNET FIVE DEPLOYMENT",
-            "points": [
-                "Anthropic released its highly advanced Sonnet five model featuring industry leading performance in coding tasks.",
-                "The model is now generally available within Microsoft Foundry on Azure to accelerate enterprise operations.",
-                "This deployment integrates secure enterprise authentication alongside billing and governance tools directly into existing environments.",
-                "Developers will build significantly more autonomous software systems utilizing this newly unlocked cognitive capability."
+                "Anthropic officially deployed Sonnet 5 alongside Fable 5, lifting strict global export controls for enterprise users.",
+                "The advanced model maximizes intelligence-per-parameter, accelerating automated code generation and complex workflows by multiple magnitudes.",
+                "By deploying Sonnet 5, Anthropic aims to secure a dominant footprint in the highly competitive developer ecosystem.",
+                "Enterprise software development paradigms will shift permanently toward autonomous, model-driven, and highly integrated programming pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "CISCO: IN-HOUSE COGNITIVE AGENT",
+            "id": 2,
+            "heading": "MICROSOFT: FRONTIER CO INITIATIVE",
             "points": [
-                "Cisco deployed an internal multiuse artificial intelligence assistant designed to execute complex coding and human resources.",
-                "The system saves employees several hours of manual work each week by automated task execution.",
-                "This initiative proactively mitigates the security risks associated with unauthorized employee shadow artificial intelligence usage.",
-                "Modern enterprises will replicate this internal deployment strategy to secure proprietary workflows and corporate data."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMAZON AWS: AGENTCORE QUOTAS",
-            "points": [
-                "Amazon Web Services increased its AgentCore runtime default quotas fivefold to support large scale operations.",
-                "Enterprises can now run thousands of concurrent autonomous agent sessions without requesting manual quota adjustments.",
-                "This infrastructure upgrade lowers latency and maximizes computational throughput during intensive real time data operations.",
-                "Systems architects will scale up agent deployments rapidly across global networks using these new capacities."
+                "Microsoft established Microsoft Frontier Company to directly embed engineering experts inside client organizations for co-designing AI.",
+                "Embedding dedicated software engineers accelerates deployment cycles, bypassing traditional multi-month systems integrator delays quite effectively.",
+                "This high-touch services model directly challenges legacy consulting giants by tightening Microsoft's grip on enterprise infrastructure.",
+                "Sovereign organizations will prioritize hybrid development partnerships, altering how large-scale enterprise software contracts are structured globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,45 +38,77 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SAP: STRATEGIC RESTRUCTURING",
+            "id": 3,
+            "heading": "AWS: AGENTCORE QUOTA EXPANSION",
             "points": [
-                "SAP restructured corporate operations by cutting hiring and travel budgets to directly fund advanced intelligence projects.",
-                "This financial realignment shifts strategic development control directly under the supervision of the chief executive officer.",
-                "Corporate resources will concentrate entirely on embedding deep cognitive capabilities into legacy enterprise resource planning systems.",
-                "Competitors will face intense pressure to reallocate capital toward rapid artificial intelligence model integration."
+                "Amazon Web Services expanded default runtime quotas for AgentCore by five times to support heavy enterprise workflows.",
+                "Organizations can now execute up to five times more concurrent autonomous agent sessions without manual pipeline requests.",
+                "This upgrade relieves systemic bottlenecks across decentralized edge environments, enhancing overall compute elasticity for global deployments.",
+                "This strategic capacity increase will drastically reduce operational friction, allowing developers to scale multi-agent architectures seamlessly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "points": [
+                "AMD executed a definitive agreement with Rackspace Technology to deploy a phased thirty-megawatt AI computing cluster infrastructure.",
+                "The customized architecture delivers optimized processing capabilities, catering directly to regulated corporate and sovereign enterprise datasets.",
+                "Securing this scale strengthens AMD's competitive positioning against market incumbents in the enterprise cloud data center environment.",
+                "Regulated industries will leverage these specialized facilities to satisfy local compliance policies without compromising compute throughput benchmarks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE DEEPMIND: NANO BANANA RELEASE",
+            "points": [
+                "Google DeepMind unveiled Nano Banana 2 Lite, a highly compressed localized image model engineered for edge environments.",
+                "The model dramatically slashes local generation latency, offering high-fidelity processing on lightweight computing and mobile devices.",
+                "This release represents a significant architectural shift toward offline, zero-latency inference capabilities in the physical world.",
+                "Mobile developers will rapidly integrate high-performance imaging directly into consumer hardware, reducing reliance on centralized cloud servers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: GEMINI SYSTEM",
+            "heading": "MICROSOFT: HORIZONDB DATABASE LAUNCH",
             "points": [
-                "Google DeepMind launched its fastest image generation model alongside the advanced Gemini omni flash system.",
-                "Developers can now leverage highly efficient multi modal capabilities with significantly reduced token processing costs.",
-                "This platform features fully managed remote model context protocol servers to enhance autonomous agent orchestration.",
-                "Businesses will rapidly adopt these low cost models to build responsive real time visual applications."
+                "Microsoft launched Azure HorizonDB, engineered to provide ultra-low latency reads and native intelligence directly within PostgreSQL databases.",
+                "Developers can seamlessly build and scale transactional database structures while leveraging optimized backend real-time analytical capabilities.",
+                "By integrating native vector features, Microsoft streamlines infrastructure requirements for building resilient and interactive localized agents.",
+                "Enterprise architectures will rapidly transition away from complex database pipelines to unified, intelligence-native data warehouse models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "QLIK: DATA QUALITY AGENTS",
+            "heading": "QLIK: ENTERPRISE DATA AGENTS",
             "points": [
-                "Qlik introduced advanced data engineering tools featuring specialized agents designed to monitor real time quality.",
-                "The software allows engineers to easily create reusable data products to accelerate corporate intelligence workflows.",
-                "This integration directly addresses the critical pipeline bottlenecks that typically stall major enterprise model deployments.",
-                "Data engineers will achieve faster project turnaround times by automating manual cleaning and formatting tasks."
+                "Qlik introduced localized data quality agents and reusable components specifically designed to streamline complex pipeline engineering.",
+                "These automated tools significantly reduce the manual cleansing workload, preparing enterprise datasets for instant production assimilation.",
+                "Improving pipeline cleanliness directly resolves accuracy issues, allowing companies to deploy generative systems with absolute certainty.",
+                "Data engineers will increasingly pivot from manual script debugging to high-level system orchestration using automated pipelines."
             ],
             "imageUrl": "",
             "tags": [
