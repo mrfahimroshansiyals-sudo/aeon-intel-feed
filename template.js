@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC AI",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SCALING ENTERPRISE",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FOUNDRY AGENTIC SHIFT",
+            "heading": "META: MUSE SPARK RELEASE",
             "points": [
-                "Microsoft Foundry has enabled general availability for Anthropic's Claude 4.8 Opus and 5 Sonnet models.",
-                "Enterprise integration allows direct deployment of frontier models with native Azure security and governance controls.",
-                "New backend-as-a-service frameworks now support high-performance agent orchestration within the Fabric ecosystem for enterprises.",
-                "This shift mandates immediate architectural reviews to leverage agentic workflows directly within existing cloud infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
-            "points": [
-                "Anthropic officially lifted export restrictions on Fable 5 and Mythos 5, enabling global access for enterprise users.",
-                "Sonnet 5 introduces superior agentic reasoning capabilities specifically optimized for complex coding and professional workflow automation tasks.",
-                "This release emphasizes safety-first deployment models while significantly lowering the barrier for autonomous agentic task execution.",
-                "Global engineering teams should prioritize testing Sonnet 5 against current internal agentic benchmarks and reliability standards."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "META: NEW IMAGE MODEL RELEASE",
-            "points": [
-                "Meta released Muse Spark, its first major image generation model since the recent Zuckerberg-led AI reorganization.",
-                "The model provides an integrated solution for Instagram and chatbot platforms, directly challenging competitor imaging capabilities.",
-                "Enterprise advertisers gain enhanced generative options for rapid creative deployment across the company's massive social networks.",
-                "Expect intensified competition in the multimodal AI space as Meta pivots toward specialized advertising and engagement models."
+                "Meta released its first post-overhaul image generation model Muse Spark to capture enterprise creator market share.",
+                "The architecture integrates directly into the primary chatbot and Instagram frameworks to optimize real-time media generation.",
+                "Developers claim this model lowers inference costs significantly compared to proprietary options from OpenAI and Anthropic.",
+                "This deployment signals an aggressive pivot toward commoditizing foundational multi-modal systems across global social networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +22,45 @@ const dailyData = {
             ]
         },
         {
+            "id": 2,
+            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
+            "points": [
+                "Anthropic's frontier Claude model suite is now generally available within the enterprise-focused Microsoft Foundry platform.",
+                "Integration enables native billing, enterprise-grade authentication, and centralized security controls for complex corporate software deployments.",
+                "Systems engineers can now deploy Sonnet five and Opus models directly inside their existing Azure workspaces.",
+                "This expansion intensifies cloud competition by offering alternative high-intelligence models alongside native Microsoft Azure OpenAI services."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AWS: AGENTCORE QUOTA BOOST",
+            "points": [
+                "Amazon Web Services increased its default AgentCore runtime quotas fivefold to accommodate massive enterprise AI agent workloads.",
+                "The quota expansion allows organizations to execute thousands of concurrent agentic sessions without experiencing performance latency.",
+                "This infrastructure upgrade directly addresses the growing demand for highly scalable, autonomous workflow orchestration in production.",
+                "Enterprises can now scale complex transactional reasoning agents across global regions with significantly reduced throttling risks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://aws.amazon.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MICROSOFT: TYPESCRIPT GO REWRITE",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate scientific discovery in the life sciences research sector.",
-                "The toolkit provides domain-specific skills and tools for training agentic models on complex pharmaceutical and biotech data.",
-                "This release supports the growing trend of specialized AI agents replacing manual laboratory simulation and predictive processes.",
-                "Life science firms must integrate these toolkits to maintain competitive advantages in high-speed, agentic-driven drug development."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE: GEMINI 3.5 FLASH",
-            "points": [
-                "Google DeepMind introduced Gemini 3.5 Flash, featuring advanced computer use capabilities for autonomous UI-driven agentic tasks.",
-                "The model improves latency and efficiency for complex agent orchestration across distributed enterprise and cloud environments.",
-                "DeepMind is aggressively promoting multi-agent safety research to prevent emerging risks in automated, interactive agentic workflows.",
-                "Developers can access these models via AI Studio to build production-grade agents with heightened action-oriented capabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AWS: AGENTCORE QUOTA UPGRADE",
-            "points": [
-                "AWS has increased AgentCore runtime quotas by up to 5x to facilitate large-scale enterprise AI agent deployments.",
-                "The update allows organizations to maintain higher concurrent agent session loads without requesting manual infrastructure scaling increases.",
-                "This move reflects the shift toward high-volume, continuous agentic workloads within enterprise production and cloud environments.",
-                "CIOs should adjust provisioning strategies to capitalize on these newly expanded elastic limits for agent operations."
+                "Microsoft announced TypeScript seven point zero has reached release candidate status using a brand-new Go-based compiler architecture.",
+                "The transition to Go delivers compilation speeds up to ten times faster than previous JavaScript-based compiler iterations.",
+                "This optimization dramatically reduces continuous integration build pipelines and development loop latencies for large enterprise codebases.",
+                "Software engineers gain immediate execution efficiency while maintaining strict compatibility with existing modern web application standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +70,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "INDUSTRY: AI INFRASTRUCTURE SHIFT",
+            "id": 5,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Enterprises are pivoting from pure model development to managing infrastructure power and memory limits for agents.",
-                "Technical leadership now prioritizes long-term physical resilience planning over purely financial cost-cutting measures in AI budgets.",
-                "The sector is actively transitioning toward agentic-ready architectures that treat AI autonomy as a fundamental system requirement.",
-                "Strategic alignment must now focus on governance and security to manage risks inherent in real-time autonomous systems."
+                "NVIDIA launched the BioNeMo Agent Toolkit to provide specialized domain skills for the agentic life sciences industry.",
+                "The toolkit accelerates computational biology and drug discovery by linking advanced generative models with physical lab automation.",
+                "Researchers can deploy these pre-configured agents to analyze complex molecular structures and automate chemical synthesis workflows.",
+                "This release marks a significant expansion of GPU-accelerated software platforms tailored specifically for advanced scientific research."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "COUCHBASE: AGENT MEMORY ENGINE",
+            "points": [
+                "Couchbase introduced a new data layer containing dedicated Agent Memory capabilities to support decentralized edge artificial intelligence.",
+                "The update extends real-time operational database functionality directly to resource-constrained mobile and edge IoT hardware devices.",
+                "This system enables persistent state tracking and local context storage for autonomous agents operating offline.",
+                "Organizations can now run localized intelligence applications without relying continuously on centralized cloud infrastructure connectivity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "US ENTERPRISES: CHINESE MODEL ADOPTION",
+            "points": [
+                "Recent tracking reveals Chinese artificial intelligence models now account for over thirty percent of US enterprise token usage.",
+                "Substantially lower API pricing structures are driving Western developers to migrate non-sensitive workflows to overseas model providers.",
+                "This shift introduces critical questions regarding long-term operational dependency and compliance with changing data governance laws.",
+                "Industry leaders must balance immediate cost savings against potential supply chain disruptions and emerging geopolitical security risks."
             ],
             "imageUrl": "",
             "tags": [
