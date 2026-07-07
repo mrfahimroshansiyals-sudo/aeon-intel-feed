@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "FRONTIER AI ARCHITECTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "OpenAI releases GPT-5.6 Sol preview as its next-generation neural architecture designed for complex workflow automation.",
-                "The model integrates advanced contextual planning engines to execute multi-step calculations across decentralized organizational networks.",
-                "Enterprises gain early access to native tools that optimize data governance and safeguard proprietary corporate assets.",
-                "This release shifts developer paradigms toward agent-first architectures capable of autonomous self-correction and continuous execution."
+                "Anthropic releases Sonnet 5 as a flagship agentic model, emphasizing top-tier intelligence for coding and professional workflows.",
+                "The deployment integrates seamlessly with the newly launched Claude Science toolset for automated research and auditable artifact generation.",
+                "This release follows the lifting of export controls on the Fable 5 and Mythos 5 model series internationally.",
+                "Enterprises now gain access to advanced agentic reasoning capabilities via Microsoft Foundry and Azure hosting infrastructures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: XBOX GAMING RESET",
+            "heading": "MISTRAL: FRONTIER AGENTIC WORKFLOWS",
             "points": [
-                "Microsoft slashes four thousand eight hundred jobs within Xbox Gaming to stabilize operating margins.",
-                "The restructuring initiates a strategic spin-off of four major gaming studios to optimize capital efficiency.",
-                "Infrastructure investments will transition toward highly monetizable cloud gaming and generative consumer experiences.",
-                "Industry analysts predict a broader shift as legacy media divisions restructure to fund specialized systems."
+                "Mistral introduces the Vibe AI agent, specifically engineered for long-horizon task scheduling and enterprise-grade knowledge synthesis operations.",
+                "The firm expands its compute infrastructure offerings, allowing organizations to run frontier-scale training and inference clusters independently.",
+                "Mistral OCR 4 launches to address sophisticated document intelligence requirements across global manufacturing and public sector data pipelines.",
+                "New architectural integrations with ASML and HSBC underscore the platform's focus on domain-specialized, highly secure enterprise AI solutions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ALIBABA: ANTHROPIC BAN IMPOSED",
+            "heading": "NVIDIA: SCIENTIFIC AGENT TOOLKITS",
             "points": [
-                "Alibaba implements a strict employee ban on Anthropic models following serious distillation attack accusations.",
-                "The embargo highlights escalating security tensions surrounding proprietary model training and unauthorized IP extraction methods.",
-                "Corporate security frameworks are pivoting to secure isolated host sandboxes for untrusted external neural API calls.",
-                "This conflict signals hardening boundaries between Chinese tech conglomerates and Western frontier research organizations."
+                "NVIDIA announces the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific, agentic AI life sciences capabilities.",
+                "Deployment of 35 new AI supercomputers across Europe signals a massive expansion in regional high-performance computing power.",
+                "The Vera Rubin platform integrates native accelerated computing to support complex, large-scale scientific simulations at the frontier level.",
+                "NVIDIA strengthens its partnership with Anthropic, enabling Claude models to run on GB300 chips within the Azure ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RYZEN AI HALO LAUNCH",
+            "heading": "MICROSOFT: FRONTIER ENGINEERING PUSH",
             "points": [
-                "AMD launches the Ryzen AI Halo processor at Micro Center targeting local consumer edge intelligence.",
-                "The system delivers unprecedented hardware acceleration for dense local model execution without cloud latency bottlenecks.",
-                "Architectural optimization enables high-performance inference operations at highly competitive thermal and energy footprints.",
-                "Edge devices will increasingly run multi-agent workflows locally, enhancing individual user privacy and latency targets."
+                "Microsoft launches the Frontier Company to embed engineering experts directly into customer teams for continuous AI system co-innovation.",
+                "General availability of Claude models in Microsoft Foundry provides enterprises with secure, authenticated access to top-tier AI capabilities.",
+                "Azure HorizonDB launches to facilitate ultra-low latency, scalable PostgreSQL reads for mission-critical, AI-enhanced application data requirements.",
+                "New Agentic DevOps integrations on Azure allow developer teams to scale autonomous systems using sophisticated AI-powered toolsets and policies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SITUATIONAL AWARENESS: SK HYNIX IPO",
+            "heading": "GOOGLE: AGENTIC DATA EXPANSION",
             "points": [
-                "Situational Awareness hedge fund bets heavily on the upcoming American IPO of memory maker SK Hynix.",
-                "The strategic investment underscores soaring global demand for high-bandwidth memory hardware crucial for AI scaling.",
-                "Specialized memory components are becoming the primary bottleneck for next-generation frontier computing architectures.",
-                "Market structures are reorganizing around critical hardware supply chains as chip worker payouts reach records."
+                "Google Cloud unveils AI Threat Defense to help enterprises proactively identify and mitigate risks in rapidly scaling agentic ecosystems.",
+                "Gemini 3.5 series models reach general availability, delivering enhanced frontier intelligence coupled with direct operational action capabilities.",
+                "The Agent Platform now supports fully managed, remote MCP servers to simplify the orchestration of complex, multi-agent AI environments.",
+                "New startup programs provide massive credit injections to foster rapid development and deployment of enterprise-grade autonomous AI applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPMIND: NANO BANANA LITE",
+            "heading": "AWS: SCALING AGENTIC RUNTIMES",
             "points": [
-                "Google DeepMind launches Nano Banana Lite and Gemini Omni Flash to accelerate lightweight edge execution.",
-                "The models optimize intelligence per parameter, enabling complex multimodal operations on highly constrained mobile devices.",
-                "Developers can leverage remote model orchestration tools to build deeply customized low-latency consumer agent workflows.",
-                "This deployment model lowers operational costs while broadening the functional surface area of portable systems."
+                "AWS increases AgentCore runtime quotas by up to five times, facilitating massive scale for concurrent AI agent session workloads.",
+                "The new managed OpenSearch analytics engine aims to drastically lower costs for retaining telemetry data for compliance reporting.",
+                "Agentic AI integrations in Amazon Bedrock demonstrate successful deployment of 18 separate agentic solutions for industrial automotive customers.",
+                "Enhanced infrastructure limits empower organizations to handle increased memory and computational demands without requiring manual quota adjustment processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUBQUADRATIC: LLM ARCHITECTURE REVOLUTION",
+            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
             "points": [
-                "Startup Subquadratic breaks through core sequence scaling bottlenecks to challenge traditional transformer attention models.",
-                "The subquadratic architecture enables linear computational scaling during massive document processing and extended contextual analysis.",
-                "Skeptics demand rigorous empirical validation while early testing shows remarkable speed improvements for token generation.",
-                "Overcoming the quadratic cost of self-attention could fundamentally democratize long-horizon document analysis at scale."
+                "AMD emphasizes the necessity of end-to-end CPU portfolios to handle the complex, non-linear workloads inherent in modern agentic AI.",
+                "The company achieves a front-runner position in Gartner's enterprise AI vendor race, supported by industry-leading performance and energy efficiency.",
+                "New partnerships with Rackspace facilitate the phased deployment of 30 megawatts of dedicated AI compute for regulated enterprise environments.",
+                "Recent acquisitions in memory optimization technology signal a strategic shift toward solving the data-bottleneck challenges facing large-scale AI models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
