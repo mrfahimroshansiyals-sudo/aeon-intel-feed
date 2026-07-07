@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER AI ARCHITECTURE",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic releases Sonnet 5 as a flagship agentic model, emphasizing top-tier intelligence for coding and professional workflows.",
-                "The deployment integrates seamlessly with the newly launched Claude Science toolset for automated research and auditable artifact generation.",
-                "This release follows the lifting of export controls on the Fable 5 and Mythos 5 model series internationally.",
-                "Enterprises now gain access to advanced agentic reasoning capabilities via Microsoft Foundry and Azure hosting infrastructures."
+                "Anthropic released Sonnet 5, integrating advanced agentic workflows with top-tier coding and professional capabilities for global enterprises.",
+                "The model provides increased reasoning depth for complex multi-step task scheduling and persistent memory management in production environments.",
+                "Restrictions on previous Fable 5 and Mythos 5 models were lifted, accelerating the availability of high-intelligence tiers.",
+                "Enterprises can now utilize these models through secure cloud-foundry deployments to optimize domain-specific application development at scale."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MISTRAL: FRONTIER AGENTIC WORKFLOWS",
+            "heading": "MICROSOFT: FRONTIER ENGINEERING",
             "points": [
-                "Mistral introduces the Vibe AI agent, specifically engineered for long-horizon task scheduling and enterprise-grade knowledge synthesis operations.",
-                "The firm expands its compute infrastructure offerings, allowing organizations to run frontier-scale training and inference clusters independently.",
-                "Mistral OCR 4 launches to address sophisticated document intelligence requirements across global manufacturing and public sector data pipelines.",
-                "New architectural integrations with ASML and HSBC underscore the platform's focus on domain-specialized, highly secure enterprise AI solutions."
+                "Microsoft launched a specialized AI engineering company, Microsoft Frontier Company, to embed expert teams within customer organizations.",
+                "This initiative aims to co-design and continuously optimize AI systems, challenging traditional systems integration business models globally.",
+                "The strategy shifts from pure seat-based licensing toward deeply integrated, technical partnerships that drive direct enterprise implementation success.",
+                "Embedding engineers directly into customer teams will accelerate the deployment of agentic architectures across mission-critical business processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: SCIENTIFIC AGENT TOOLKITS",
+            "heading": "AWS: AGENTCORE QUOTA SCALING",
             "points": [
-                "NVIDIA announces the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific, agentic AI life sciences capabilities.",
-                "Deployment of 35 new AI supercomputers across Europe signals a massive expansion in regional high-performance computing power.",
-                "The Vera Rubin platform integrates native accelerated computing to support complex, large-scale scientific simulations at the frontier level.",
-                "NVIDIA strengthens its partnership with Anthropic, enabling Claude models to run on GB300 chips within the Azure ecosystem."
+                "AWS raised AgentCore runtime quotas by up to 5x to support higher concurrent enterprise AI agent workloads.",
+                "The update enables organizations to scale complex agentic operations without the friction of frequent manual limit increase requests.",
+                "Enhanced infrastructure capacity allows for larger state management and more complex multi-step reasoning chains in cloud deployments.",
+                "This capacity boost directly facilitates the rapid scaling of agentic AI solutions across global distributed enterprise architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FRONTIER ENGINEERING PUSH",
+            "heading": "GOOGLE: AGENTIC DATA CLOUD",
             "points": [
-                "Microsoft launches the Frontier Company to embed engineering experts directly into customer teams for continuous AI system co-innovation.",
-                "General availability of Claude models in Microsoft Foundry provides enterprises with secure, authenticated access to top-tier AI capabilities.",
-                "Azure HorizonDB launches to facilitate ultra-low latency, scalable PostgreSQL reads for mission-critical, AI-enhanced application data requirements.",
-                "New Agentic DevOps integrations on Azure allow developer teams to scale autonomous systems using sophisticated AI-powered toolsets and policies."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE: AGENTIC DATA EXPANSION",
-            "points": [
-                "Google Cloud unveils AI Threat Defense to help enterprises proactively identify and mitigate risks in rapidly scaling agentic ecosystems.",
-                "Gemini 3.5 series models reach general availability, delivering enhanced frontier intelligence coupled with direct operational action capabilities.",
-                "The Agent Platform now supports fully managed, remote MCP servers to simplify the orchestration of complex, multi-agent AI environments.",
-                "New startup programs provide massive credit injections to foster rapid development and deployment of enterprise-grade autonomous AI applications."
+                "Google Cloud introduced new capabilities within its agentic Data Cloud to enhance real-time decision-making for large-scale enterprise systems.",
+                "The platform now includes fully-managed remote MCP servers to simplify the orchestration of AI agents across hybrid ecosystems.",
+                "New Gemini 3.5 integrations provide frontier intelligence, allowing for advanced reasoning tasks directly embedded into data workflows.",
+                "These infrastructure upgrades facilitate better observability, policy controls, and security for managing vast fleets of AI agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,29 +70,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AWS: SCALING AGENTIC RUNTIMES",
+            "id": 5,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "AWS increases AgentCore runtime quotas by up to five times, facilitating massive scale for concurrent AI agent session workloads.",
-                "The new managed OpenSearch analytics engine aims to drastically lower costs for retaining telemetry data for compliance reporting.",
-                "Agentic AI integrations in Amazon Bedrock demonstrate successful deployment of 18 separate agentic solutions for industrial automotive customers.",
-                "Enhanced infrastructure limits empower organizations to handle increased memory and computational demands without requiring manual quota adjustment processes."
+                "NVIDIA announced the BioNeMo Agent Toolkit, providing specialized tools for accelerating scientific discovery in life sciences industries.",
+                "The toolkit equips agents with domain-specific skills, facilitating autonomous research cycles and complex bio-molecular simulation processing capabilities.",
+                "Integration with high-performance infrastructure allows researchers to streamline the pipeline from hypothesis generation to data-driven validation.",
+                "This release marks a significant evolution in physical AI, targeting high-value automated exploration within global pharmaceutical manufacturing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TSMC: A16 NANOSHEET POWER",
+            "points": [
+                "TSMC highlighted the A16 nanosheet technology featuring an innovative Super Power Rail for high-performance computing and AI infrastructure.",
+                "The architecture is specifically engineered to address the power-density demands of modern large-scale artificial intelligence server clusters.",
+                "This breakthrough supports significantly improved energy efficiency and performance scaling required by next-generation frontier AI model training.",
+                "Industry leaders expect the A16 process to set new standards for silicon sovereignty in the competitive AI-accelerated market."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
+            "heading": "AMD: AGENTIC WORKFLOW FOCUS",
             "points": [
-                "AMD emphasizes the necessity of end-to-end CPU portfolios to handle the complex, non-linear workloads inherent in modern agentic AI.",
-                "The company achieves a front-runner position in Gartner's enterprise AI vendor race, supported by industry-leading performance and energy efficiency.",
-                "New partnerships with Rackspace facilitate the phased deployment of 30 megawatts of dedicated AI compute for regulated enterprise environments.",
-                "Recent acquisitions in memory optimization technology signal a strategic shift toward solving the data-bottleneck challenges facing large-scale AI models."
+                "AMD reinforced its commitment to open ecosystem standards with a comprehensive portfolio of CPUs and GPUs for agentic workloads.",
+                "The strategy emphasizes end-to-end workflow optimization, ensuring that enterprise AI deployments remain performant, efficient, and fully scalable.",
+                "Recent acquisitions and technical partnerships are focused on advanced memory optimization and robust AI infrastructure for regulated environments.",
+                "Decision-makers are prioritizing this integrated hardware-software approach to mitigate TCO and ensure long-term architectural flexibility in AI."
             ],
             "imageUrl": "",
             "tags": [
