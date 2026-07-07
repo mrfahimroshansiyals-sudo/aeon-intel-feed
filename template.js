@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALING NEXT-GEN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN PLATFORM",
+            "heading": "MICROSOFT: AGENTIC ENGINEERING",
             "points": [
-                "NVIDIA launches the Vera Rubin supercomputing platform featuring max single-threaded CPU architectures for sequential multi-agent loops.",
-                "High single-threaded performance prevents sequential reasoning bottlenecks and ensures maximum utilization of associated GPU clusters.",
-                "System design optimizes serial reasoning steps and execution of tool calls during long-horizon autonomous tasks.",
-                "Enterprises can scale sequential agent operations without experiencing severe performance degradation or high compute overheads."
+                "Microsoft launched a specialized AI engineering unit focused on embedding experts directly into client organizations for co-designing agentic workflows.",
+                "This shift marks a departure from traditional mass-market sales toward high-touch technical partnerships to drive tangible enterprise ROI and adoption.",
+                "The firm aims to accelerate the deployment of autonomous systems by bridging the gap between frontier model potential and operational reality.",
+                "Industry analysts project this move will force competitors to reorganize professional services around deeply embedded, mission-specific technical implementation teams."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: TYPESCRIPT 7.0 RC",
+            "heading": "TSMC: SILICON SOVEREIGNTY",
             "points": [
-                "Microsoft releases Go-based TypeScript 7.0 candidate achieving ten times faster execution speeds than previous JavaScript versions.",
-                "The structural shift to Go minimizes compiler latency and radically accelerates enterprise application development pipelines.",
-                "Rebuilding core language tools in compiled languages represents a significant evolution in developer ecosystem infrastructure.",
-                "Large-scale software engineering teams can execute continuous integration pipelines with substantially reduced CPU and memory resources."
+                "TSMC has finalized the roadmap for its A16 nanosheet architecture, integrating backside power delivery to meet the demands of high-performance compute workloads.",
+                "The new design minimizes thermal bottlenecks, significantly enhancing the efficiency of training massive, multi-agent AI models within energy-constrained data environments.",
+                "Technical specifications reveal a targeted 20 percent increase in logic density, positioning the A16 as the foundation for 2027 enterprise chip infrastructure.",
+                "This architectural advancement secures TSMC\u2019s lead in power-per-watt metrics against emerging competition in the global high-end fabrication market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 AGENTS",
+            "heading": "AWS: AGENTCORE SCALING",
             "points": [
-                "Anthropic deploys Sonnet 5 model optimized for complex coding operations and autonomous professional work environments.",
-                "Concurrently lifted global export restrictions on Fable 5 expand access to elite cognitive reasoning systems globally.",
-                "The rollout addresses growing enterprise demand for localized model architectures capable of secure, long-horizon work streams.",
-                "Developers can leverage native code synthesis and automated refactoring tools to streamline continuous delivery software loops."
+                "AWS has implemented a 5x increase in AgentCore runtime quotas, enabling enterprises to handle significantly larger concurrent agent workloads without infrastructure friction.",
+                "The update directly supports the scaling of complex multi-agent systems, allowing for distributed orchestration of autonomous tasks across global cloud regions.",
+                "By increasing operational headroom, AWS aims to lower the barrier for organizations deploying mission-critical AI applications at enterprise scale and speed.",
+                "Market participants interpret this move as a strategic push to dominate the backend infrastructure layer for the rapidly expanding agentic economy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AWS: AGENTCORE QUOTA UPGRADE",
+            "heading": "ANTHROPIC: SCIENCE FRONTIER",
             "points": [
-                "Amazon Web Services increases AgentCore runtime quotas fivefold to facilitate rapid scaling of enterprise AI agents.",
-                "Higher limits empower organizations to process dense concurrent agent sessions without requiring manual service quota modifications.",
-                "Infrastructure expansion mitigates systemic scaling friction within serverless environment designs during periods of peak transaction demand.",
-                "Systems engineers can build massive multi-agent architectures knowing compute allocation scales seamlessly to prevent session timeouts."
+                "Anthropic has deployed the Claude Science application, a specialized environment for researchers that integrates custom tools and generates auditable, high-accuracy artifacts.",
+                "The platform automates the synthesis of complex data streams while maintaining strict alignment protocols essential for scientific reproducibility in AI-driven laboratories.",
+                "This release creates a dedicated vertical for research-focused agents capable of autonomously iterating on long-horizon hypotheses and simulation-based experimentation tasks.",
+                "The move positions Anthropic as the lead vendor for institutional research pipelines requiring verifiable, transparent, and deep domain-specific intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: FUSION GRID INVESTMENT",
+            "heading": "NVIDIA: BIONEMO AGENTIC",
             "points": [
-                "Google invests in nuclear fusion startups to secure commercial clean energy sources for future data center fleets.",
-                "Direct energy sourcing targets long-term physical resource constraints and rising power consumption of massive training runs.",
-                "Hyper-scale cloud providers are pivoting toward direct capital investments in advanced clean energy systems to bypass grids.",
-                "Sustainable, off-grid energy infrastructure will become a critical competitive differentiator for top-tier generative model operations."
+                "NVIDIA announced the BioNeMo Agent Toolkit to provide domain-specific primitives for automating scientific discovery in the life sciences sector.",
+                "The toolkit includes specialized skills for molecular docking and protein folding, accelerating the development pipeline for pharmaceutical and biotech enterprises.",
+                "This move operationalizes NVIDIA's full-stack strategy, enabling developers to build agentic workflows directly on top of their proprietary hardware and software.",
+                "The integration of agentic autonomy into drug discovery is projected to compress development cycles by an estimated thirty percent over two years."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: FRONTIER CO LAUNCH",
+            "heading": "GOOGLE: MULTI-AGENT SAFETY",
             "points": [
-                "Microsoft establishes the Frontier Company division to embed elite engineering squads directly within strategic client enterprises.",
-                "Embedded personnel will co-design and continuously optimize bespoke AI systems to maximize organizational return on investment.",
-                "This operational shift highlights the critical industry transition from off-the-shelf software sales to custom architecture engineering.",
-                "Enterprise clients can rapidly advance projects from experimental pilots to production systems with direct vendor support."
+                "Google DeepMind has issued a formal call for global research into multi-agent safety, citing systemic risks as millions of agents begin to interact.",
+                "The firm is pivoting its safety framework toward understanding the emergent behaviors and cascading effects of interconnected, autonomous intelligent systems at scale.",
+                "This initiative focuses on developing robust monitoring and guardrail protocols to prevent misalignment within automated, cross-platform workflows in production environments.",
+                "Researchers expect this to set the regulatory benchmark for enterprise-grade autonomous system governance over the next twelve months of rapid deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "QLIK: DATA QUALITY AGENTS",
+            "heading": "EU AI ACT: ENFORCEMENT",
             "points": [
-                "Qlik introduces specialized data quality agents and reusable components designed to streamline enterprise data pipeline automation.",
-                "Automated governance layers identify and remediate data anomalies before ingestion to prevent downstream model performance decay.",
-                "Ensuring precise, audited data streams is crucial for scaling RAG systems and autonomous multi-agent decision networks.",
-                "Data engineers can accelerate ingestion workflows and build highly reliable repositories optimized for direct agent access."
+                "The European Commission is finalizing the technical infrastructure for the AI Office to begin monitoring compliance with the Union\u2019s comprehensive AI regulations.",
+                "New mandates require mandatory transparency documentation and algorithmic accountability for all general-purpose AI models deployed within the regional economic zone.",
+                "Organizations are now prioritizing the implementation of automated compliance checkers to navigate the tiered risk frameworks established by the legislation.",
+                "The Act is rapidly becoming the global template for sovereignty-focused AI governance, forcing a transition toward compliant and auditable enterprise models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
