@@ -1,18 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "NEXT GENERATION AGENTIC",
+        "titleBlue": "SYSTEMS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC BIOTECH TOOLKIT",
+            "heading": "TECHTARGET: AGENTIC RANSOMWARE EXECUTION",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to accelerate the development of agentic AI systems in life sciences.",
-                "The toolkit provides domain-specific skills and automated tools for complex biological research and discovery pipelines.",
-                "Researchers can now integrate pre-built agents to handle large-scale genomic datasets and molecular simulation tasks.",
-                "This release aims to reduce discovery time for new pharmaceutical compounds through specialized agentic compute workflows."
+                "First fully autonomous agentic ransomware attack executes successfully, marking a dangerous evolution in automated cyber threats.",
+                "Security operations must pivot from basic prevention to real-time automated detection and rapid response methodologies.",
+                "Hackers weaponize systemic vulnerabilities faster than human teams can deploy critical software patches across hybrid infrastructure.",
+                "Organizations will face unprecedented pressure to implement strict microsegmentation protocols at every system boundary immediately."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "SALESFORCE: MCP SLACKBOT INTEROPERABILITY",
+            "points": [
+                "Salesforce implements Model Context Protocol integration within Slackbot to establish standardized open agent communication channels.",
+                "The integration makes modular context sharing table stakes, mirroring the historical transition of microservices to standard APIs.",
+                "Enterprises demand decentralized backend integrations that allow independent agents to securely coordinate complex transactional data workflows.",
+                "System architects must deploy unified open registries to govern interacting multi-agent environments across diverse cloud platforms."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: DEEP AGENT PERFORMANCE",
+            "points": [
+                "NVIDIA Nemotron delivers benchmark-leading performance utilizing the newly integrated LangChain Deep Agents open harness framework.",
+                "Enterprises can now run highly optimized reasoning agents locally on customizable infrastructure without sacrificing processing speed.",
+                "Shifting model execution to localized open stacks reduces overall inference token costs while maximizing corporate data sovereignty.",
+                "Capital partners will prioritize funding hardware infrastructure optimized specifically for executing intensive, multi-layered agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,97 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
-            "points": [
-                "Anthropic officially launched Claude Sonnet 5 with enhanced reasoning and agentic tool-use capabilities for developers.",
-                "The model achieves frontier-level intelligence while optimizing for lower inference costs in professional coding tasks.",
-                "Enterprise users can now leverage Sonnet 5 within Microsoft Foundry to automate complex organizational workflows.",
-                "This deployment signals a transition toward more cost-effective agentic models capable of long-horizon reasoning."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE: GEMINI OMNI INFRASTRUCTURE",
-            "points": [
-                "Google Cloud introduced Gemini Omni to support multimodal agentic applications across diverse enterprise data ecosystems.",
-                "The infrastructure enables real-time reasoning across video, audio, and text streams for high-velocity environments.",
-                "Deployment tools now feature fully-managed MCP servers to bridge existing legacy APIs with agentic orchestration.",
-                "Integration with the Agent Platform allows developers to scale production agents with enterprise-grade security controls."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "MICROSOFT: FOUNDRY AGENT CONTROL",
+            "heading": "SEMICONDUCTORS: SIDEWAYS CHIP STACKING",
             "points": [
-                "Microsoft announced the general availability of frontier models in Azure Foundry with enterprise governance controls.",
-                "Azure HorizonDB provides ultra-low latency reads for PostgreSQL applications to support high-performance agentic backends.",
-                "The new Foundry Control Plane enables developers to implement guardrails and observability for large-scale agent fleets.",
-                "This integration bridges the gap between raw frontier models and mission-critical enterprise production requirements."
+                "Research validates that stacking silicon chips sideways significantly expands available memory capacity for modern AI models.",
+                "Lateral packaging bypasses traditional thermal limits, allowing massive memory pipelines to sit adjacent to logic processing.",
+                "Extreme physical constraints on global power grids force manufacturers to design highly efficient, localized memory access routes.",
+                "Advanced semiconductor lithography will increasingly focus on subquadratic lateral chip architectures to sustain performance scaling requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
+            "heading": "META: CANADIAN DATA CENTER",
             "points": [
-                "AMD emphasized an end-to-end workflow strategy for agentic AI by matching CPU portfolios to specific workloads.",
-                "The company secured a 30 MW compute deployment with Rackspace to serve regulated enterprise AI requirements.",
-                "Optimized hardware solutions are designed to handle the multi-step reasoning processes inherent in agentic systems.",
-                "The strategy focuses on high-efficiency architecture to sustain long-horizon agent tasks at lower total costs."
+                "Meta begins construction on its first major Canadian data center to power next-generation regional AI workloads.",
+                "Expanding physical server footprints across international borders stabilizes processing latencies for North American enterprise software deployments.",
+                "Massively scaled infrastructure is necessary to host the training and inference pipelines required for multi-agent ecosystems.",
+                "Hyperscalers must balance cross-border data sovereignty with rising local energy constraints to maintain high-signal digital operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: VIBE AGENT PLATFORM",
+            "heading": "ANTHROPIC: COWORK MOBILE DEPLOYMENT",
             "points": [
-                "Mistral AI launched Vibe, an agentic framework specifically designed for long-horizon work and complex reasoning.",
-                "The platform supports asynchronous code generation and architecture-aware reasoning within existing development environments.",
-                "Enterprises can leverage Vibe for multi-step task scheduling, document synthesis, and automated CI/CD pipeline management.",
-                "Mistral focuses on deployment portability allowing models to run on-premise or at the edge for data sovereignty."
+                "Anthropic transitions Claude Cowork to mobile platforms, allowing continuous agentic automation outside traditional desktop computing environments.",
+                "Users can execute complex multi-step reasoning workflows directly from mobile devices using persistent context storage systems.",
+                "Extending software agents to edge endpoints requires robust synchronization mechanisms that maintain transactional integrity across sessions.",
+                "Mobile operating systems must implement secure localized execution frameworks to protect sensitive enterprise data from potential interception."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: A16 SUPER POWER RAIL",
+            "heading": "SECURITY: REASONING MODEL VULNERABILITIES",
             "points": [
-                "TSMC unveiled the A16 process featuring a super power rail to improve efficiency for HPC and AI.",
-                "The architecture is engineered to provide back-side power delivery for dense, high-performance silicon workloads.",
-                "This innovation addresses critical power constraints identified in modern AI-native engineering and chip manufacturing.",
-                "Leading AI chipmakers will utilize this hardware breakthrough to push scaling limits in next-gen infrastructure."
+                "Complex reasoning AI models exhibit severe vulnerabilities to denial-of-service attacks driven by highly illogical input prompts.",
+                "Overthinking simple tasks causes models to consume excessive computational tokens, leading to rapid resource exhaustion and failure.",
+                "Safety research indicates that multi-agent interactions amplify these systemic security risks, creating unpredictable cascading network loops.",
+                "Developers must enforce strict input-filtering guardrails and spec-driven governance before deploying reasoning models in production environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
