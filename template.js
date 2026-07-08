@@ -1,34 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AUTONOMOUS INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "OPENAI: REGULATORY GPT-5.6 CLEARANCE",
             "points": [
-                "OpenAI previews its next-generation GPT-5.6 Sol model engineered for advanced multi-step reasoning and complex agentic tasks.",
-                "The model delivers significant upgrades in cognitive throughput and task automation speed for enterprise workflows.",
-                "Architectural refinements optimize compute efficiency to drastically reduce per-token processing costs across scale deployments.",
-                "Enterprise developers gain immediate sandbox access to test autonomous decision-making capabilities within secure environments."
+                "OpenAI secures critical regulatory approval to initiate the global rollout of its next-generation GPT-5.6 model.",
+                "The model features deep architectural optimizations designed specifically to execute complex autonomous multi-step agent workflows.",
+                "Financial analysts predict this clearance will accelerate enterprise deployment of advanced real-time decision-making systems.",
+                "Sovereign compliance frameworks must now adapt to govern autonomous transaction engines operating across standard networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: MODEL CLARITY BREAKTHROUGH",
+            "heading": "SAMBANOVA: HARDWARE VALUATION SURGE",
             "points": [
-                "Anthropic introduces unprecedented visibility mechanics into its Claude models to eliminate black-box decision-making risks.",
-                "New diagnostic interfaces map neural activations to explain why specific outputs and responses are generated.",
-                "This transparency feature allows compliance teams to audit automated agent actions and satisfy complex regulatory standards.",
-                "Corporate procurement strategies are shifting rapidly toward models that provide native interpretability and safety controls."
+                "SambaNova reaches an eleven billion dollar valuation following increased investor interest in scaling custom hardware.",
+                "The architecture positions itself as a direct enterprise competitor to Nvidia custom chips for inference workloads.",
+                "Hardware engineers report that optimized chip configurations can significantly reduce token costs for large language models.",
+                "Global cloud providers are diversifying their infrastructure pools to bypass single-vendor constraints in accelerated computing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SPACEXAI: UNIFIED SYSTEM ARCHITECTURE",
+            "points": [
+                "SpaceXAI launches unified operations combining high-performance supercomputing clusters with global satellite communication networks.",
+                "The initiative targets sovereign infrastructure deployment bypasses traditional terrestrial data centers to enhance remote accessibility.",
+                "Software architectures leverage edge computing layers to run complex artificial intelligence workloads directly on orbital platforms.",
+                "Network engineers anticipate orbital supercomputing will deliver ultra-low latency processing to geographically isolated enterprise operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "REBELLIONS: NEXT-GEN CHIP IPO",
-            "points": [
-                "Samsung-backed AI inference chip startup Rebellions targets a South Korean initial public offering in early next year.",
-                "The market debut aims to raise substantial capital to accelerate development of highly efficient inference hardware.",
-                "Rising demand for localized hardware infrastructure creates strong competitive pressure on legacy GPU market dominance.",
-                "Global investors are diversifying portfolios to include specialized custom silicon fabricators targeting edge deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "APPLE: SILICON SOURCING DIVERSIFICATION",
+            "heading": "MICROSOFT: EMBEDDED ENGINEERING INITIATIVE",
             "points": [
-                "Apple initiates comprehensive testing of memory chips from China-backed ChangXin Memory Technologies for localized hardware.",
-                "The technical evaluation focuses on optimizing performance and power efficiency inside sovereign supply chain guidelines.",
-                "Sourcing from local suppliers allows the company to navigate geopolitical trade restrictions within the Chinese consumer market.",
-                "Competitors are forced to re-evaluate their regional memory sourcing strategies to maintain high-volume production schedules."
+                "Microsoft launches Microsoft Frontier Company to directly embed advanced software engineering teams inside enterprise client operations.",
+                "The strategic realignment transitions away from standard sales forces toward co-designing complex sovereign intelligence systems.",
+                "Corporate IT leaders can expect direct support when modernizing legacy mainframe systems with real-time autonomous agents.",
+                "This model guarantees high-signal alignment between proprietary corporate data layers and hyperscale cloud intelligence engines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMAZON: INFRASTRUCTURE CAPITAL RAISING",
+            "heading": "AWS: ENTERPRISE AGENT SCALING",
             "points": [
-                "Amazon seeks twenty-five billion dollars in debt capital as AI infrastructure costs trigger high-yield bond market movements.",
-                "Massive capital expenditure is required to build hyperscale data centers hosting next-generation foundational models.",
-                "High interest rates and heavy capital demands are starting to pressure short-term enterprise debt valuations.",
-                "Industry analysts predict a consolidation phase as only well-capitalized hyperscalers can sustain the current infrastructure race."
+                "Amazon Web Services increases default AgentCore runtime quotas fivefold to accommodate massive concurrent enterprise agent sessions.",
+                "The platform upgrade eliminates operational scaling bottlenecks for companies deploying large networks of autonomous microservices.",
+                "Infrastructure architects can now coordinate complex multi-agent workflows without requiring custom performance limit reviews.",
+                "This system adjustment establishes highly scalable foundations for real-time transactional monitoring across major commercial clouds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: FABRIC AGENT BACKEND",
+            "heading": "GOOGLE: AGENTIC COMPUTER USE",
             "points": [
-                "Microsoft launches Rayfin on Fabric as a fully-managed backend service optimized for running autonomous AI agents.",
-                "The system features ultra-low latency data pipelines engineered to support high-frequency decision-making at scale.",
-                "Integration with PostgreSQL allows developer teams to seamlessly query organizational knowledge databases without performance trade-offs.",
-                "Unified control planes give enterprise administrators centralized observability and policy governance over distributed agent fleets."
+                "Google DeepMind unveils Gemini 3.5 featuring native computer use tools designed to execute desktop automation tasks.",
+                "The advanced model combines complex visual reasoning with action APIs to interact directly with standard operating software.",
+                "Software developers can deploy localized scripts that allow agents to autonomously manage database and application interfaces.",
+                "Safety researchers are simultaneously establishing multi-agent evaluation frameworks to monitor unexpected behavioral deviations in production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE: GEMINI FRONTIER EXPANSION",
+            "heading": "ANTHROPIC: GLOBAL FABLE ROLLOUT",
             "points": [
-                "Google rolls out Gemini 3.5 alongside Nano Banana 2 Lite to expand frontier model capabilities.",
-                "The updated model suite focuses on executing complex multi-modal actions directly across web and local environments.",
-                "Developers can leverage remote Model Context Protocol servers to orchestrate deep integrations with external databases.",
-                "The lightweight image variant targets low-latency execution on edge devices without compromising generation fidelity."
+                "Anthropic redeploys Fable 5 globally immediately after federal regulatory authorities lift stringent technological export controls.",
+                "The intelligence engine features top-tier capabilities optimized specifically for complex programming and scientific research applications.",
+                "Enterprise developers obtain immediate access to highly structured outputs that generate completely auditable system engineering artifacts.",
+                "This international release intensifies competition among frontier model developers targeting high-signal corporate software development pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
