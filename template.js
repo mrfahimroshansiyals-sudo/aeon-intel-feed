@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
-        "titleBlue": "ACCELERATING"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic has officially launched Sonnet 5, marking a significant milestone in agentic model intelligence capabilities.",
-                "This release emphasizes enhanced coding performance and everyday professional workflows to bolster enterprise-level task automation efficacy.",
-                "The model aims to provide superior logic handling, moving beyond standard generative tasks toward deeper autonomous execution.",
-                "Stakeholders should integrate this iteration immediately to leverage improved reasoning benchmarks across complex development environments."
+                "Anthropic has officially launched Sonnet 5, positioning it as their most agentic model to date.",
+                "This release emphasizes enhanced coding performance and sophisticated reasoning capabilities for everyday enterprise-level professional tasks.",
+                "Strategic performance benchmarks indicate Sonnet 5 rivals the Opus 4.8 architecture while maintaining significantly lower operational pricing.",
+                "The model rollout is accompanied by expanded tool-use functionality to facilitate complex, multi-step autonomous workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY MODEL EXPANSION",
+            "heading": "MICROSOFT: FOUNDRY AI EXPANSION",
             "points": [
-                "Microsoft has integrated Anthropic\u2019s frontier Claude models, including Opus 4.8 and Sonnet 5, into Microsoft Foundry.",
-                "This deployment offers enterprises centralized authentication, billing, and governance controls for secure, scalable agentic workflows.",
-                "Foundry provides a unified control plane for managing heterogeneous AI fleets across hybrid and cloud infrastructures.",
-                "Adopting this environment allows organizations to unify siloed teams while maintaining enterprise-grade safety and compliance."
+                "Microsoft has integrated Anthropic\u2019s full Claude 5.x suite into the Microsoft Foundry platform environment.",
+                "Enterprise users gain access to standardized authentication and governance controls for frontier-scale model deployment operations.",
+                "This integration bridges high-capability models with Microsoft\u2019s proprietary ecosystem for seamless, secure enterprise workflow management.",
+                "The Foundry platform now provides unified observability guardrails for managing diverse AI fleets at enterprise scale."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "GOOGLE: GEMINI 3.5 RELEASE",
             "points": [
-                "NVIDIA introduced the BioNeMo Agent Toolkit to provide domain-specific tools for accelerating life sciences research discoveries.",
-                "The platform enables specialized agents to execute complex scientific workflows with high precision and reliable model interaction.",
-                "It integrates seamlessly into existing high-performance computing clusters to handle massive biological datasets and simulations efficiently.",
-                "Life science entities should deploy these toolkits to compress development timelines for novel drug and protein discovery."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE: GEMINI 3.5 FRONTIER",
-            "points": [
-                "Google DeepMind released Gemini 3.5, combining state-of-the-art frontier intelligence with native, real-time action-oriented execution capabilities.",
-                "The series features Nano Banana 2 Lite and Gemini Omni, focusing on extreme efficiency and multi-modal integration.",
-                "These models introduce advanced compute-scale architectures optimized for the increasingly autonomous, agentic era of enterprise software.",
-                "Development teams must evaluate these models for projects requiring immediate, low-latency cross-domain agentic logic processing."
+                "Google DeepMind introduced the Gemini 3.5 series, focusing on frontier intelligence combined with autonomous action capabilities.",
+                "The architecture introduces computer use features for Flash models to enable deeper interaction with software environments.",
+                "New Nano Banana 2 Lite models optimize image generation for resource-constrained, high-efficiency compute target deployments.",
+                "These updates represent a critical shift toward action-oriented AI systems capable of executing complex multi-modal tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AWS: AGENTCORE QUOTA SCALING",
+            "id": 4,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "AWS has increased AgentCore runtime quotas by up to 5x to facilitate massive-scale concurrent agent operations.",
-                "This infrastructure upgrade enables organizations to handle larger, more complex workloads without frequent manual quota increase requests.",
-                "Enhanced throughput supports deeper multi-step reasoning processes required for mission-critical enterprise AI deployment cycles and scaling.",
-                "Architects should prioritize this capacity expansion for production environments demanding high concurrency and persistent agent memory."
+                "NVIDIA launched the BioNeMo Agent Toolkit to provide domain-specific tools for the agentic life sciences sector.",
+                "The platform empowers researchers with pre-built skills for scientific discovery and high-performance, automated biological data processing.",
+                "Hardware-agnostic toolkits aim to accelerate pharmaceutical R&D workflows through tighter integration with AI-native supercomputing architectures.",
+                "Industry analysts observe this move as a strategic capture of the highly technical, high-margin scientific compute vertical."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: AGENTIC WORKFLOW SHIFT",
+            "points": [
+                "AMD reoriented its enterprise strategy toward supporting end-to-end agentic AI workflows across the entire compute stack.",
+                "The company announced a phased deployment of 30MW of AI compute capacity in partnership with Rackspace Technology.",
+                "Gartner positions AMD as a primary market front-runner for server-grade CPUs capable of powering intensive AI workloads.",
+                "Strategic acquisitions and hardware optimizations are focusing on memory capacity and low-latency throughput for agentic processing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: RANSOMWARE VULNERABILITIES",
+            "heading": "TSMC: A16 NANOSHEET PROGRESS",
             "points": [
-                "Security analysts warn of the first fully autonomous, agentic ransomware attack targeting standard enterprise infrastructure defense systems.",
-                "Autonomous malware now leverages AI to optimize attack vectors in real-time, bypassing traditional static defensive security measures.",
-                "Experts emphasize that rapid detection and response frameworks are now more critical than legacy signature-based security paradigms.",
-                "Security teams must implement AI-native observability tools to monitor and neutralize emergent adversarial agentic behavior immediately."
+                "TSMC is accelerating the production of A16 nanosheet semiconductors featuring innovative backside power rail technology solutions.",
+                "These chips are specifically optimized for High Performance Computing (HPC) and large-scale AI energy-efficient inference operations.",
+                "The company's technology symposium highlights a focus on scaling silicon leadership to meet the massive global demand.",
+                "Engineering advancements target tighter power delivery, essential for next-generation data centers facing significant electricity constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO: INFRASTRUCTURE CONSTRAINTS",
+            "heading": "ASML: AI-NATIVE ENGINEERING",
             "points": [
-                "Enterprise leaders report significant shifts toward extending hardware lifecycles due to persistent global AI physical supply constraints.",
-                "Memory shortages and power limitations are forcing CIOs to prioritize long-term physical resource planning over financial investments.",
-                "Effective strategies now require shifting from standard hardware purchasing to intelligent resource orchestration across distributed edge environments.",
-                "Infrastructure investment planning should focus on efficiency metrics to survive upcoming bottlenecks in global silicon and power."
+                "ASML is integrating AI-native engineering principles to enhance the precision of next-generation semiconductor manufacturing lithography equipment.",
+                "These advancements are critical for maintaining Moore's Law as manufacturers transition to more complex, smaller nanometer process nodes.",
+                "A new strategic partnership with Tata Electronics aims to strengthen the semiconductor supply chain ecosystem in India.",
+                "The firm continues to focus on holistic lithography to drive energy efficiency for global chip production at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
