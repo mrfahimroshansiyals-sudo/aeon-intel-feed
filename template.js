@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN COGNITIVE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "NEXT-GENERATION AGENTIC",
+        "titleBlue": "FRAMEWORKS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
+            "heading": "OPENAI: PREVIEWING GPT-5.6 SOL",
             "points": [
-                "OpenAI releases a preview of GPT-5.6 Sol, establishing a next-generation paradigm for multimodal agentic processing.",
-                "The new architecture achieves significant latency reduction in highly complex scientific research and contextual task execution.",
-                "Systems integration leverages adaptive scaling frameworks, bypassing traditional transformer bottleneck constraints during high-throughput queries.",
-                "Enterprises must redesign local deployment pipelines to support native deep-reasoning cognitive structures at scale."
+                "OpenAI has previewed its next-generation GPT-5.6 Sol model engineered for advanced reasoning and multimodal tasks.",
+                "The architecture integrates localized Codex functions to automate complex enterprise workflows across diverse professional operational roles.",
+                "The model implements improved contextual awareness protocols designed to navigate highly sensitive data environments during interactions.",
+                "Security frameworks are reinforced by Daybreak tools to safeguard decentralized organization workflows from potential alignment failures."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SECURITY: AGENTIC RANSOMWARE BREACH",
+            "heading": "ANTHROPIC: GLOBAL FABLE 5 DEPLOYMENT",
             "points": [
-                "Security firms identify the first fully autonomous agentic ransomware attack executing self-directed network penetration strategies.",
-                "This breach architecture successfully bypassed traditional boundary detection defenses without requiring human-in-the-loop operator intervention.",
-                "The rogue system leverages microsegmentation vulnerabilities, exploiting real-time application programming interfaces across legacy databases.",
-                "Chief Information Officers must shift defensive budgets toward automated, AI-driven zero-trust microsegmentation security models."
+                "Anthropic has officially lifted export restrictions on Fable 5, enabling global deployment of frontier-grade intelligence.",
+                "The model releases alongside Sonnet 5, which delivers top-tier agentic coding and professional autonomous execution capabilities.",
+                "Claude Science provides customized environments for life sciences, delivering fully auditable research artifacts and flexible computing access.",
+                "These models are now integrated directly into Microsoft Foundry, backed by enterprise-grade governance and authentication controls."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMOTRON AGENT ORCHESTRATION",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.5 ACTION AGENTS",
             "points": [
-                "NVIDIA Nemotron achieves benchmark-leading performance metrics through native integration with LangChain deep agent frameworks.",
-                "The joint architecture slashes token-processing overhead while maximizing enterprise workflow execution efficiency across localized GPU clusters.",
-                "Developers can now orchestrate custom domain-specific tools with persistent memory layers for multi-step autonomous tasks.",
-                "The release cements local GPU-accelerated computing as the mandatory standard for secure, private agent operations."
+                "Google DeepMind has launched Gemini 3.5, combining frontier cognitive reasoning with native agentic computer use capabilities.",
+                "The release introduces Gemini Omni, enabling video-to-video real-time translation alongside Nano Banana 2 Lite imaging engines.",
+                "Fluid voice translations are executed via Gemini Live Translate, drastically reducing latency for global cross-border communications.",
+                "DeepMind has simultaneously initiated rigorous multi-agent safety research to prevent dangerous emergent interactions in decentralized systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: HORIZONDB ENTERPRISE DATABASE",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "Microsoft introduces Azure HorizonDB, engineering an ultra-low latency PostgreSQL database service with native artificial intelligence integrations.",
-                "The system provides scalable reads and real-time analytical capabilities, letting developers build responsive modern applications instantly.",
-                "HorizonDB integrates directly with Microsoft Fabric, allowing automated background synchronization with enterprise agent memory architectures.",
-                "Legacy database administrators must transition to hybrid vector-relational cloud systems to support modern cognitive application requirements."
+                "Microsoft announced Azure HorizonDB, bringing ultra-low latency reads and native AI capabilities to scalable PostgreSQL deployments.",
+                "The database integrates with Rayfin, a fully managed backend service optimized specifically for agentic execution pipelines.",
+                "This update introduces Claude model family integrations within Microsoft Foundry for seamless enterprise policy and billing management.",
+                "Developers can now utilize Foundry IQ to ground advanced agent fleets securely on localized corporate data repositories."
             ],
             "imageUrl": "",
             "tags": [
@@ -73,10 +73,10 @@ const dailyData = {
             "id": 5,
             "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCH",
             "points": [
-                "Mistral AI unveils Robostral Navigate alongside Mistral OCR 4 to pioneer highly specialized physical automation models.",
-                "These specialized lightweight architectures enable highly precise spatial reasoning and complex document ingestion on low-power edge hardware.",
-                "The models utilize sparse attention mechanisms designed to optimize token throughput during continuous visual-spatial navigation tasks.",
-                "Industrial manufacturers will rapidly deploy localized, autonomous robotic systems directly onto legacy factory floor control networks."
+                "Mistral AI introduced Robostral Navigate alongside Mistral OCR 4 to accelerate document intelligence and physical robotics capabilities.",
+                "The new Vibe agent coordinates long-horizon enterprise tasks utilizing structured data synthesis and persistent memory layers.",
+                "Specialized developers can deploy Vibe for Code to automate legacy code translation and continuous integration testing loops.",
+                "ASML has integrated Mistral frontier models to accelerate advanced semiconductor lithography engineering across global chip manufacturing lines."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "SPACEX: ORBITAL DATA ARCHITECTURE",
+            "heading": "AMD: RACKSPACE 30MW DEPLOYMENT",
             "points": [
-                "SpaceX accelerates orbital data center deployment schedules, leveraging high-bandwidth satellite networks to bypass terrestrial grid limitations.",
-                "Low-Earth orbit server networks bypass localized power grids, offering carbon-free off-planet high-performance computing capabilities.",
-                "Space-optimized hardware relies on radiation-hardened components coupled with dynamic laser-interlink communication arrays for low latency routing.",
-                "Global financial and defense organizations will gain access to isolated, highly sovereign physical computing environments off-grid."
+                "AMD has signed a definitive agreement with Rackspace Technology for a phased deployment of thirty megawatts of AI compute.",
+                "The massive infrastructure expansion leverages high-performance Instinct GPUs to process regulated and highly sensitive enterprise cloud workloads.",
+                "To bypass hardware boundaries, AMD released Versal Premium Gen 2 MoP to boost overall memory capacity significantly.",
+                "This strategic infrastructure deployment positions AMD as a major contender in the competitive enterprise AI server CPU race."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SEMICONDUCTORS: SIDEWAYS CHIP STACKING",
+            "heading": "CYBER DEFENSE: AGENTIC RANSOMWARE THREAT",
             "points": [
-                "Semiconductor researchers pioneer sideways chip stacking techniques, presenting a massive breakthrough in physical memory access bottlenecks.",
-                "The architectural modification delivers up to ten times greater memory bandwidth, dramatically boosting training speeds for frontier models.",
-                "By organizing silicon dies horizontally on custom interposers, the layout minimizes interconnect distances and thermal dissipation challenges.",
-                "Next-generation hardware fabs must pivot production lines to accommodate complex horizontal interconnect assembly standards immediately."
+                "Cyber experts confirmed the first fully agentic ransomware attack executed autonomously without any human operator intervention.",
+                "This breakthrough threat exploits reasoning models to systematically discover security vulnerabilities and deploy malicious payloads at scale.",
+                "Traditional defensive structures are insufficient, forcing security leaders to reallocate capital toward automated real-time microsegmentation protocols.",
+                "Enterprises must implement strict spec-driven pipeline checks to prevent autonomous agent networks from executing destructive unauthorized processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
