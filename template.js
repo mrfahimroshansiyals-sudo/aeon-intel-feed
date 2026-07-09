@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE COGNITIVE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEXAI: GROK 4.5 RELEASE",
+            "heading": "SPACEXAI: GROK ENTERPRISE DEBUT",
             "points": [
-                "SpaceXAI has officially launched Grok 4.5 targeting enterprise coding workflows with enhanced task efficiency.",
-                "The model establishes a major competitive pricing advantage by significantly lowering operational token costs.",
-                "This infrastructure-led release integrates directly with SpaceX's expanding proprietary satellite and supercomputing network.",
-                "Developers gain a highly affordable alternative for executing complex automated coding tasks at scale."
+                "SpaceXAI launched Grok 4.5, optimized for low-cost, high-throughput enterprise coding and deep autonomous programming workloads.",
+                "The updated model drastically cuts operational API expenses compared to primary frontier artificial intelligence competitors.",
+                "This rollout positions SpaceXAI as a direct challenger to established enterprise software development and orchestration ecosystems.",
+                "CIOs can leverage this architecture to scale multi-agent developer workflows while significantly reducing overall technical debt."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "JETBRAINS: DEVELOPER UNIFICATION SUITE",
+            "heading": "OPENAI: CHATGPT WORK LAUNCH",
             "points": [
-                "JetBrains announced a unified software governance suite to streamline fragmented developer workflows across organizations.",
-                "The platform introduces robust vendor-agnostic resource controls and unified context sharing for development teams.",
-                "It integrates advanced monitoring protocols to mitigate security risks associated with autonomous coding agents.",
-                "Enterprises can safely scale agentic programming operations while maintaining tight budget and security oversight."
+                "OpenAI introduced ChatGPT Work powered by GPT-5.6 to handle highly complex, multi-modal corporate execution frameworks.",
+                "The model processes massive data contexts with improved accuracy, decreasing cognitive latency for complex corporate operations.",
+                "This release shifts OpenAI toward deep workspace integration, bypassing simple conversational interfaces for complex business processes.",
+                "Technology officers gain a unified, sovereign workspace to orchestrate automated agents without compromising enterprise data governance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "IBM: Z17 MAINFRAME DENSITY",
+            "points": [
+                "IBM debuted new z17 mainframe and LinuxOne servers designed specifically for space-constrained, high-density edge environments.",
+                "These hardware platforms compress server footprint requirements while boosting local operational hybrid cloud processing capability.",
+                "The integration allows legacy financial systems to run heavy neural network workloads adjacent to core transaction ledgers.",
+                "Infrastructure teams can now deploy localized machine learning models directly inside secure physical mainframe hardware units."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "JETBRAINS: UNIFIED COGNITIVE SUITE",
+            "points": [
+                "JetBrains announced AI for Teams, unifying disparate developer assistants into a secure, single-pane governance control center.",
+                "The system provides shared context and reusable workflows, cutting downstream pipeline execution costs by twenty percent.",
+                "This architecture mitigates the risk of fragmented developer tools by enforcing central enterprise policy at compile-time.",
+                "Software managers can monitor and audit automated code generation while maintaining strict compliance with intellectual property standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +70,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE RELEASE",
-            "points": [
-                "Microsoft has integrated Anthropic's frontier Claude models directly into its scalable Foundry platform.",
-                "Users now access Sonnet 5 and Opus 4.8 with native enterprise authentication controls.",
-                "This deployment combines Anthropic's model intelligence with Azure's secure, compliant cloud infrastructure system.",
-                "Large organizations can deploy advanced cognitive models within their pre-existing compliance and billing boundaries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-            "points": [
-                "Azure launched HorizonDB to deliver ultra-low latency performance engineered specifically for AI-native databases.",
-                "The system accelerates PostgreSQL reads while enabling seamless scaling for mission-critical enterprise applications.",
-                "Built-in artificial intelligence features optimize real-time data queries without causing operational database performance degradation.",
-                "IT leaders can build highly responsive applications that process complex transactional data in milliseconds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "NVIDIA: BIONEMO AGENT PLATFORM",
+            "heading": "MICROSOFT: AZURE FOUNDRY EXPANSION",
             "points": [
-                "NVIDIA released the BioNeMo Agent Toolkit to power specialized agentic workflows in scientific research.",
-                "The tools provide researchers with domain-specific skills to accelerate physical and molecular drug discovery.",
-                "The toolkit leverages accelerated hardware nodes to optimize complex biological data simulations on-premises.",
-                "Life sciences organizations can deploy intelligent agents to automate large-scale clinical experimentation pipelines."
+                "Anthropic Claude models achieved general availability on Microsoft Foundry, backed by enterprise billing and governance controls.",
+                "The Azure hosting architecture provides secure, low-latency API access to Sonnet five and Opus models simultaneously.",
+                "This deployment model integrates multi-tenant frontier intelligence directly into existing Microsoft secure cloud environments.",
+                "Enterprise buyers can now consolidate cognitive model spending under their current, unified Microsoft consumption agreements."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: NEMOTRON AGENT BREAKTHROUGH",
+            "points": [
+                "NVIDIA Nemotron achieved record-breaking agentic performance using the newly deployed LangChain Deep Agents optimization framework.",
+                "The deep integration optimizes token routing pathways, increasing multi-step reasoning accuracy across complex enterprise data schemas.",
+                "By anchoring models to execution frameworks, NVIDIA is transitioning from raw silicon delivery to complete agentic platforms.",
+                "Enterprise system architects can build highly autonomous workflows that execute long-horizon operations with minimized operational supervision."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE ALLOCATION",
+            "id": 7,
+            "heading": "AMD: RACKSPACE SOVEREIGN COMPUTE",
             "points": [
-                "AMD signed a definitive agreement with Rackspace Technology to deploy advanced hardware clusters.",
-                "The partnership allocates thirty megawatts of high-density compute capacity to power sovereign enterprise workloads.",
-                "The infrastructure utilizes specialized enterprise processors designed specifically for intense agentic operations and training.",
-                "Regulated industries obtain localized cloud computing power to scale confidential model deployments with confidence."
+                "AMD and Rackspace entered an agreement for a thirty megawatt deployment of dedicated sovereign artificial intelligence compute.",
+                "The dedicated silicon infrastructure delivers highly efficient processing capacity optimized for heavily regulated corporate compliance requirements.",
+                "This layout establishes dedicated, ring-fenced regional hardware nodes to bypass vulnerable public multi-tenant cloud ecosystems.",
+                "Risk managers gain access to isolated high-performance computing resources that meet local data residency and security mandates."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 7,
-            "heading": "ASML: MISTRAL LITHOGRAPHY SYSTEM",
-            "points": [
-                "ASML is accelerating advanced semiconductor lithography engineering by deploying customized Mistral AI model frameworks.",
-                "The integration streamlines high-precision chip manufacturing operations and optimizes complex physical production workflows.",
-                "This framework utilizes optimized edge-compatible weights to run physical reasoning directly on industrial machines.",
-                "Advanced hardware manufacturers can leverage local model execution to improve precision at nanometer scales."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
