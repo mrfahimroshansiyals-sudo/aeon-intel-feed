@@ -1,7 +1,7 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleWhite": "AUTONOMOUS AGENTIC",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
@@ -9,110 +9,110 @@ const dailyData = {
             "id": 1,
             "heading": "SPACEXAI: GROK 4.5 RELEASE",
             "points": [
-                "SpaceXAI officially launched Grok 4.5 today targeting high-performance enterprise software development and advanced coding automation environments.",
-                "The model delivers significant developer cost reductions to outperform major legacy rivals on complex software tasks.",
-                "It integrates deeply with satellite-linked edge computing infrastructure to establish a unified sovereign code execution pipeline.",
-                "Enterprises can expect immediate efficiency gains as high-density development environments transition to autonomous agentic code generation."
+                "SpaceXAI has officially launched Grok 4.5 targeting enterprise coding workflows with enhanced task efficiency.",
+                "The model establishes a major competitive pricing advantage by significantly lowering operational token costs.",
+                "This infrastructure-led release integrates directly with SpaceX's expanding proprietary satellite and supercomputing network.",
+                "Developers gain a highly affordable alternative for executing complex automated coding tasks at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PALO ALTO: AI TOKEN STRATEGY",
+            "heading": "JETBRAINS: DEVELOPER UNIFICATION SUITE",
             "points": [
-                "Palo Alto Networks CEO Nikesh Arora declared today that enterprise AI token pricing must drop ninety percent.",
-                "Skyrocketing API processing costs are currently preventing organizations from scaling their production deployments to the global edge.",
-                "High model operational expenses force organizations to rethink their reliance on expensive third-party frontier language frameworks.",
-                "This pricing pressure will accelerate corporate shifts toward hyper-optimized small localized models and custom sovereign silicon."
+                "JetBrains announced a unified software governance suite to streamline fragmented developer workflows across organizations.",
+                "The platform introduces robust vendor-agnostic resource controls and unified context sharing for development teams.",
+                "It integrates advanced monitoring protocols to mitigate security risks associated with autonomous coding agents.",
+                "Enterprises can safely scale agentic programming operations while maintaining tight budget and security oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: MAINFRAME Z17 SYSTEM",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE RELEASE",
             "points": [
-                "IBM unveiled new z17 mainframe models and LinuxOne servers optimized to integrate into space-constrained datacenter environments.",
-                "These hardware platforms optimize computational density and physical floor space while delivering high-throughput secure linux container operations.",
-                "The design targets hybrid cloud workloads requiring sub-millisecond transactions alongside native artificial intelligence model inference tasks.",
-                "Infrastructure architects gain enhanced deployment flexibility to run deep learning inference directly on localized core transaction engines."
+                "Microsoft has integrated Anthropic's frontier Claude models directly into its scalable Foundry platform.",
+                "Users now access Sonnet 5 and Opus 4.8 with native enterprise authentication controls.",
+                "This deployment combines Anthropic's model intelligence with Azure's secure, compliant cloud infrastructure system.",
+                "Large organizations can deploy advanced cognitive models within their pre-existing compliance and billing boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: EUROPEAN SUPERCOMPUTERS",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "NVIDIA announced that thirty-five next-generation artificial intelligence supercomputers are now actively in development across Europe.",
-                "These high-performance installations utilize the new Vera Rubin architecture to accelerate strategic localized scientific computation initiatives.",
-                "The massive buildout establishes foundational sovereign computing power that reduces regional dependencies on external cloud infrastructure platforms.",
-                "Scientific researchers will soon access unprecedented single-threaded processing capabilities to drive highly complex molecular biology simulations."
+                "Azure launched HorizonDB to deliver ultra-low latency performance engineered specifically for AI-native databases.",
+                "The system accelerates PostgreSQL reads while enabling seamless scaling for mission-critical enterprise applications.",
+                "Built-in artificial intelligence features optimize real-time data queries without causing operational database performance degradation.",
+                "IT leaders can build highly responsive applications that process complex transactional data in milliseconds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: TYPESCRIPT 7 SYSTEM",
+            "heading": "NVIDIA: BIONEMO AGENT PLATFORM",
             "points": [
-                "Microsoft has officially rolled out TypeScript seven delivering compiler compilation speeds up to ten times faster.",
-                "This architecture upgrade significantly minimizes build delays and optimizes heavy enterprise-grade web application development codebases globally.",
-                "By drastically reducing developer feedback loops the language standardizes rapid deployment architectures across modern cloud environments.",
-                "Frontend engineering teams can expect streamlined continuous integration pipelines and lower operational compute resource consumption rates."
+                "NVIDIA released the BioNeMo Agent Toolkit to power specialized agentic workflows in scientific research.",
+                "The tools provide researchers with domain-specific skills to accelerate physical and molecular drug discovery.",
+                "The toolkit leverages accelerated hardware nodes to optimize complex biological data simulations on-premises.",
+                "Life sciences organizations can deploy intelligent agents to automate large-scale clinical experimentation pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "JETBRAINS: UNIFIED GOVERNANCE SUITE",
+            "heading": "AMD: RACKSPACE COMPUTE ALLOCATION",
             "points": [
-                "JetBrains introduced its AI for Teams governance suite to consolidate fragmented software development agentic workflows securely.",
-                "The system provides unified context management reusable workflows and strict cost controls across multiple third-party language models.",
-                "Software engineering organizations can now monitor model usage and prevent private data leaks through a single control panel.",
-                "This centralized approach solves compliance challenges and allows secure multi-vendor model integration within enterprise developer environments."
+                "AMD signed a definitive agreement with Rackspace Technology to deploy advanced hardware clusters.",
+                "The partnership allocates thirty megawatts of high-density compute capacity to power sovereign enterprise workloads.",
+                "The infrastructure utilizes specialized enterprise processors designed specifically for intense agentic operations and training.",
+                "Regulated industries obtain localized cloud computing power to scale confidential model deployments with confidence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "META: CODELINE INITIATIVE",
+            "heading": "ASML: MISTRAL LITHOGRAPHY SYSTEM",
             "points": [
-                "Meta has entered the enterprise software coding market with a comprehensive suite of advanced development optimization tools.",
-                "The initiative directly challenges the established dominance of Anthropic Claude Code and OpenAI programming assistant frameworks today.",
-                "By releasing optimized open-source foundations Meta enables developers to build highly customized localized code synthesis agents freely.",
-                "Corporate development environments will benefit from increased vendor competition and a wider variety of specialized coding architectures."
+                "ASML is accelerating advanced semiconductor lithography engineering by deploying customized Mistral AI model frameworks.",
+                "The integration streamlines high-precision chip manufacturing operations and optimizes complex physical production workflows.",
+                "This framework utilizes optimized edge-compatible weights to run physical reasoning directly on industrial machines.",
+                "Advanced hardware manufacturers can leverage local model execution to improve precision at nanometer scales."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
