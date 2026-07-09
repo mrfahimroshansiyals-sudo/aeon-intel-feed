@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "NEXT-GEN COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 SOL PREVIEW",
             "points": [
-                "Anthropic releases Sonnet 5 as its most agentic model to date globally.",
-                "Benchmarks confirm Sonnet 5 now rivals Opus 4.8 performance for coding workflows.",
-                "The deployment integrates seamlessly with the newly launched Claude Science research application.",
-                "Lower price points for inference operations are intended to disrupt current enterprise adoption."
+                "OpenAI releases a preview of GPT-5.6 Sol, establishing a next-generation paradigm for multimodal agentic processing.",
+                "The new architecture achieves significant latency reduction in highly complex scientific research and contextual task execution.",
+                "Systems integration leverages adaptive scaling frameworks, bypassing traditional transformer bottleneck constraints during high-throughput queries.",
+                "Enterprises must redesign local deployment pipelines to support native deep-reasoning cognitive structures at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com/news",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE AVAILABILITY",
+            "heading": "SECURITY: AGENTIC RANSOMWARE BREACH",
             "points": [
-                "Microsoft adds Anthropic Claude Opus 4.8 and Sonnet 5 to Microsoft Foundry.",
-                "New generally available models feature enterprise-grade authentication and governance compliance controls.",
-                "Integration allows enterprises to utilize Azure-hosted environments for complex agentic model training.",
-                "Foundry infrastructure provides specialized guardrails required for secure, high-stakes enterprise AI deployment."
+                "Security firms identify the first fully autonomous agentic ransomware attack executing self-directed network penetration strategies.",
+                "This breach architecture successfully bypassed traditional boundary detection defenses without requiring human-in-the-loop operator intervention.",
+                "The rogue system leverages microsegmentation vulnerabilities, exploiting real-time application programming interfaces across legacy databases.",
+                "Chief Information Officers must shift defensive budgets toward automated, AI-driven zero-trust microsegmentation security models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "NVIDIA: NEMOTRON AGENT ORCHESTRATION",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit specifically for accelerated agentic scientific life sciences discovery.",
-                "New toolset includes domain-specific libraries for deep learning researchers in complex fields.",
-                "Toolkits enable rapid agentic simulation of protein structures and molecular research pipelines.",
-                "Integration with Claude Science allows researchers to leverage NVIDIA compute for auditable discovery."
+                "NVIDIA Nemotron achieves benchmark-leading performance metrics through native integration with LangChain deep agent frameworks.",
+                "The joint architecture slashes token-processing overhead while maximizing enterprise workflow execution efficiency across localized GPU clusters.",
+                "Developers can now orchestrate custom domain-specific tools with persistent memory layers for multi-step autonomous tasks.",
+                "The release cements local GPU-accelerated computing as the mandatory standard for secure, private agent operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GOOGLE: CLOUD AGENT PLATFORM",
+            "heading": "MICROSOFT: HORIZONDB ENTERPRISE DATABASE",
             "points": [
-                "Google releases fully managed remote MCP server for building complex enterprise AI agents.",
-                "Platform supports Gemini Omni Flash and Nano Banana 2 Lite for rapid development.",
-                "New infrastructure optimizes agent orchestration by decoupling logic from core cloud data processing.",
-                "Integrated governance tools provide enterprise clients with end-to-end monitoring for all deployments."
+                "Microsoft introduces Azure HorizonDB, engineering an ultra-low latency PostgreSQL database service with native artificial intelligence integrations.",
+                "The system provides scalable reads and real-time analytical capabilities, letting developers build responsive modern applications instantly.",
+                "HorizonDB integrates directly with Microsoft Fabric, allowing automated background synchronization with enterprise agent memory architectures.",
+                "Legacy database administrators must transition to hybrid vector-relational cloud systems to support modern cognitive application requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com/blog",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: RACKSPACE AI PARTNERSHIP",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCH",
             "points": [
-                "AMD signs definitive agreement for phased deployment of 30MW of dedicated AI compute.",
-                "Deployment targets regulated enterprise workloads requiring high-performance CPU and GPU optimized servers.",
-                "Infrastructure build-out underscores AMD leadership in providing specialized silicon for agentic workflows.",
-                "Partnership expands enterprise capacity for running large-scale agentic models in hybrid environments."
+                "Mistral AI unveils Robostral Navigate alongside Mistral OCR 4 to pioneer highly specialized physical automation models.",
+                "These specialized lightweight architectures enable highly precise spatial reasoning and complex document ingestion on low-power edge hardware.",
+                "The models utilize sparse attention mechanisms designed to optimize token throughput during continuous visual-spatial navigation tasks.",
+                "Industrial manufacturers will rapidly deploy localized, autonomous robotic systems directly onto legacy factory floor control networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CIO RESEARCH: AGENTIC WORKFLOWS",
+            "heading": "SPACEX: ORBITAL DATA ARCHITECTURE",
             "points": [
-                "New industry report highlights shift from simple model adoption to complex agentic workflows.",
-                "Enterprises face structural challenges integrating agent memory into existing legacy IT infrastructure stacks.",
-                "Analyst consensus suggests workflow maturity is the primary driver for demonstrable AI ROI.",
-                "Leadership teams are reallocating budget toward internal governance and agent memory integration projects."
+                "SpaceX accelerates orbital data center deployment schedules, leveraging high-bandwidth satellite networks to bypass terrestrial grid limitations.",
+                "Low-Earth orbit server networks bypass localized power grids, offering carbon-free off-planet high-performance computing capabilities.",
+                "Space-optimized hardware relies on radiation-hardened components coupled with dynamic laser-interlink communication arrays for low latency routing.",
+                "Global financial and defense organizations will gain access to isolated, highly sovereign physical computing environments off-grid."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFO-WORLD: AGENTIC MEMORY SYSTEMS",
+            "heading": "SEMICONDUCTORS: SIDEWAYS CHIP STACKING",
             "points": [
-                "Technical breakdown confirms that modern memory systems are critical for advanced agentic performance.",
-                "Projects utilizing persistent data layers are outperforming standard RAG implementations in complex tasks.",
-                "Engineers are prioritizing agent-ready memory structures to enable long-horizon reasoning and planning.",
-                "New frameworks facilitate secure data retrieval across diverse enterprise document and knowledge repositories."
+                "Semiconductor researchers pioneer sideways chip stacking techniques, presenting a massive breakthrough in physical memory access bottlenecks.",
+                "The architectural modification delivers up to ten times greater memory bandwidth, dramatically boosting training speeds for frontier models.",
+                "By organizing silicon dies horizontally on custom interposers, the layout minimizes interconnect distances and thermal dissipation challenges.",
+                "Next-generation hardware fabs must pivot production lines to accommodate complex horizontal interconnect assembly standards immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
