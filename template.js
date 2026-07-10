@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COMPUTE",
-        "titleBlue": "HORIZONS"
+        "titleWhite": "SOVEREIGN SYSTEM",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER",
+            "heading": "OPENAI: GPT-5.6 FRONTIER COGNITION",
             "points": [
-                "OpenAI has launched GPT-5.6 delivering frontier intelligence designed to scale with enterprise digital ambition.",
-                "The model introduces autonomous workflow optimization, significantly reducing operational friction across cloud-native environments.",
-                "Architectural decoupling allows organizations to deploy agentic systems with unprecedented transactional speed and accuracy.",
-                "Enterprise leaders can now leverage real-time contextual adaptation to bypass legacy middleware constraints completely."
+                "OpenAI released GPT-5.6 to provide enterprise-scale reasoning designed for highly ambitious computational workloads.",
+                "The model introduces native optimization layers that drastically reduce processing latencies across massive databases.",
+                "Architectural decoupling allows organizations to run complex multi-agent simulations without traditional API throughput limits.",
+                "Enterprise developers gain unprecedented control over token allocations during heavy production execution runs."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
+            "heading": "OPENAI: GPT-LIVE REALTIME STREAMING",
             "points": [
-                "SpaceXAI launched Grok 4.5 targeting massive enterprise coding applications with heavily optimized execution cost.",
-                "The platform integrates satellite backhaul and supercomputing clusters to deliver robust off-grid execution capabilities.",
-                "By unifying model training and hardware physical routing, the system bypasses traditional cloud provider bottlenecks.",
-                "Corporate developers gain direct access to cost-efficient agentic structures engineered specifically for complex system integrations."
+                "The newly unveiled GPT-Live architecture establishes continuous zero-latency streaming interfaces for natural language pipelines.",
+                "This framework enables instant context assimilation across high-throughput voice channels and multimodal interaction models.",
+                "Systems operators can deploy these models directly to edge nodes for decentralized localized processing.",
+                "Integrating live streaming data endpoints minimizes historical context drift during prolonged transaction windows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SK HYNIX: MEMORY EXPANSION",
+            "heading": "OPENAI: DAYBREAK SECURITY FRAMEWORK",
             "points": [
-                "SK Hynix completed a record twenty-six billion dollar listing to fund next-generation high-bandwidth memory.",
-                "The capital injection accelerates domestic semiconductor fabrication, securing hardware supplies for global hyper-scalers immediately.",
-                "Standardizing advanced memory architecture is critical to sustaining the massive processing demands of agentic AI.",
-                "Global supply chains will experience increased chip availability, mitigating geopolitical constraints on hardware distribution networks."
+                "OpenAI deployed Daybreak to offer comprehensive cybersecurity protection for enterprise system architectures worldwide.",
+                "The system uses real-time behavioral heuristics to neutralize malicious injections and compromised API tokens.",
+                "Security teams can enforce zero-trust policies dynamically across autonomous multi-agent developer environments.",
+                "Operational audits demonstrate significant reductions in vulnerability exposure metrics across critical cloud deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SK HYNIX: WALL STREET DEBUT",
+            "points": [
+                "SK Hynix raised twenty-six billion dollars in a historic Wall Street initial public offering.",
+                "The listing tests global investor appetite for advanced memory hardware designed specifically for AI.",
+                "High bandwidth memory supply chains will receive significant capital injections to accelerate manufacturing capacity.",
+                "Competitors face increased pressure as localized production capabilities expand across major North American hubs."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "IBM: SYSTEM Z17 UPGRADE",
-            "points": [
-                "IBM introduced new z17 mainframe models optimized specifically to integrate seamlessly into modern space-constrained environments.",
-                "The hardware upgrade delivers extreme density gains, lowering power draw while maintaining maximum cryptographic throughput.",
-                "Merging legacy mainframe security with cloud-native scalability allows secure real-time execution of critical financial models.",
-                "Infrastructure teams can confidently consolidate hybrid cloud footprints without compromising strict regulatory compliance frameworks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "JETBRAINS: DEVELOPER GOVERNANCE SUITE",
+            "heading": "RECORDING INDUSTRY: AI TRACK LABELS",
             "points": [
-                "JetBrains launched a unified AI governance suite designed to manage fragmented software development environments effectively.",
-                "The software provides granular telemetry tracking, reducing API resource consumption and associated operational billing overheads.",
-                "Establishing centralized model policies ensures enterprise codebases remain protected from unauthorized prompt injection vulnerabilities.",
-                "Engineering executives can now confidently deploy autonomous coding agents under a single, highly audited administration."
+                "Major record labels launched a coordinated campaign demanding explicit identification of AI-generated music tracks.",
+                "The industry aims to enforce strict metadata standards across all major digital streaming platforms.",
+                "Licensing frameworks must adapt to protect human artists from unauthorized voice model synthesis tools.",
+                "Platforms failing to comply face severe legal challenges regarding intellectual property rights and distribution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: TYPESCRIPT 7 COMPILE",
+            "heading": "META PLATFORMS: EU REGULATORY WARNING",
             "points": [
-                "Microsoft released TypeScript 7 delivering a massive ten-times speed increase for large-scale enterprise codebase compilations.",
-                "The engine rebuild drastically reduces developer idle time, maximizing continuous integration and delivery pipeline efficiency.",
-                "Optimizing compiler mechanics enables developers to construct highly complex, type-safe web applications with minimal overhead.",
-                "Software organizations will see immediate operational savings as automated deployment systems consume fewer cloud compute hours."
+                "The European Union formally warned Meta Platforms over addictive feed architectures on social media.",
+                "Regulators claim that algorithmic delivery designs fail to protect minor users from psychological harm.",
+                "Compliance mandates will force the immediate redesign of core recommendation systems operating within Europe.",
+                "Failure to implement appropriate safeguards risks multi-billion dollar penalties under the digital services act."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: MODEL INTERPRETABILITY DISCOVERY",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ACCELERATION",
             "points": [
-                "Anthropic researchers mapped a hidden conceptual space inside Claude to decode complex internal model behavior patterns.",
-                "This breakthrough provides unprecedented empirical visibility, helping compliance officers audit and verify automated decision-making processes.",
-                "Resolving deep safety and alignment challenges allows enterprises to safely deploy models in highly regulated sectors.",
-                "Future architectures will leverage these activation maps to prevent unexpected model deviations during live production workloads."
+                "Microsoft announced HorizonDB to bring ultra-low latency and built-in artificial intelligence to PostgreSQL databases.",
+                "The managed service optimizes read pathways dynamically to support high-performance agentic application deployment.",
+                "Enterprise developers can scale mission-critical applications seamlessly without suffering traditional database execution bottlenecks.",
+                "Built-in AI models execute complex vector queries directly at the core data layer."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
