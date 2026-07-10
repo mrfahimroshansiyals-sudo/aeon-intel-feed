@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "TRANSFORMATION"
+        "titleWhite": "NEXT GENERATION",
+        "titleBlue": "COGNITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: GEMINI AGENTIC UPGRADE",
+            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
             "points": [
-                "Google DeepMind launched Gemini 3.5 introducing native computer use capabilities for autonomous operational workflows.",
-                "The architecture integrates Omni Flash and Nano Banana 2 Lite to optimize edge processing speeds.",
-                "Developers can deploy these models immediately via the Google Cloud platform and secure enterprise APIs.",
-                "This release solidifies Google's market position against frontier agentic platforms in the enterprise ecosystem."
+                "OpenAI officially deployed the GPT-5.6 model delivering frontier scale intelligence to enterprise workflows globally.",
+                "The release showcases enhanced scaling capabilities designed to run highly complex transactional operations autonomously.",
+                "This deployment satisfies strict international compliance frameworks while maintaining maximum computational efficiency and execution speed.",
+                "Enterprises can now leverage this advanced infrastructure to automate end-to-end organizational workflows securely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: SONNET FIVE DEPLOYMENT",
+            "heading": "ANTHROPIC: FABLE 5 GLOBAL DEPLOYMENT",
             "points": [
-                "Anthropic released Sonnet 5 featuring frontier agentic capabilities optimized for heavy software engineering pipelines.",
-                "The company also launched Claude Science, a specialized application framework designed for complex academic research.",
-                "Lifting global export controls enables the worldwide deployment of Fable 5 across all business regions.",
-                "Enterprise clients can now leverage enhanced tool use protocols to execute multi-step programmatic objectives autonomously."
+                "Anthropic announced global redeployment of Fable five after international export controls were officially lifted.",
+                "The advanced model will immediately become accessible to developers seeking highly sophisticated agentic reasoning capabilities.",
+                "Claude Science integrations allow researchers to run auditable simulations using dedicated high-performance computing resources.",
+                "This rollout accelerates competitive pressures across the frontier model landscape for safe multi-agent deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "SK HYNIX: NASDAQ DEBUT EXPLOSION",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE RELEASE",
             "points": [
-                "SK Hynix shares surged fourteen percent following its highly anticipated market debut on the Nasdaq.",
-                "Enormous global demand for high-bandwidth memory chips continues to fuel capital expenditure across the sector.",
-                "The listing positions the South Korean hardware giant to compete directly with American memory manufacturer Micron.",
-                "This liquidity injection accelerates next-generation manufacturing capacity for advanced artificial intelligence hardware infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SPACEXAI: GROK INFRASTRUCTURE INVASION",
-            "points": [
-                "SpaceXAI launched Grok 4.5 achieving significant cost reductions for complex automated computer programming assignments.",
-                "Benchmarks demonstrate coding costs of under three dollars per task, significantly undercutting legacy model pricing.",
-                "The model serves as the company's premier commercial entry point targeting highly regulated enterprise environments.",
-                "Organizations can integrate this architecture to streamline internal software development lifecycle pipelines at scale."
+                "SpaceXAI launched Grok 4.5 demonstrating significantly lower software coding costs compared to key industry competitors.",
+                "Benchmark evaluations report execution costs at under three dollars per complex enterprise programming task.",
+                "The model enters the enterprise market to challenge dominant players with highly optimized inference processing.",
+                "Software engineering teams can drastically minimize development overheads using this newly optimized architectural model."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT AZURE: FOUNDRY INTEGRATION",
+            "id": 4,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT LAUNCH",
             "points": [
-                "Microsoft announced general availability of Anthropic's Claude models hosted natively inside the Foundry ecosystem.",
-                "Customers can now run Opus 4.8 and Sonnet 5 with integrated billing and governance.",
-                "The system coordinates secure identity validation alongside automated telemetry metrics to safeguard enterprise data privacy.",
-                "This deep cloud partnership enables rapid scaling of secure, multi-agent frameworks across existing enterprise infrastructure."
+                "NVIDIA launched the BioNeMo Agent Toolkit offering advanced domain-specific tools for biological and scientific discovery.",
+                "The platform integrates deep agentic capabilities enabling researchers to model complex molecular structures dynamically.",
+                "By leveraging optimized GPU acceleration science labs can drastically shorten standard pharmaceutical research pipelines.",
+                "This launch marks a significant shift toward AI-driven agentic workflows within global life science industries."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
+            "points": [
+                "Microsoft launched Azure HorizonDB bringing ultra-low latency reads and integrated artificial intelligence to PostgreSQL databases.",
+                "Enterprise developers can now seamlessly deploy mission-critical applications without sacrificing operational performance or database speed.",
+                "Anthropic frontier models are also now generally available through the secure Microsoft Foundry environment.",
+                "This integration simplifies cloud administration while providing robust data governance and unified billing controls."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "SK HYNIX: NASDAQ DEBUT SHIFTS MARKET",
             "points": [
-                "NVIDIA unveiled the BioNeMo Agent Toolkit to deliver highly specialized tools for biological research workflows.",
-                "The platform accelerates molecular discovery pipelines through targeted autonomous agentic reasoning and model execution tasks.",
-                "Researchers can leverage these capabilities within Claude Science to automate complex data analysis and simulation.",
-                "This framework establishes critical computational pathways to reduce standard drug discovery cycle times across industries."
+                "SK Hynix shares surged fourteen percent during its highly anticipated trading debut on the Nasdaq exchange.",
+                "The company reported astronomical enterprise demand for next-generation high-bandwidth memory chips powering modern AI systems.",
+                "This public listing highlights intense investor interest in scaling global physical infrastructure for accelerated computing.",
+                "Hardware manufacturing supply chains must expand rapidly to keep pace with escalating hardware requirements globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: LITHOGRAPHY CO-DESIGN",
+            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE THREAT",
             "points": [
-                "Mistral AI introduced Robostral Navigate alongside partnering with ASML to advance semiconductor lithography software engineering.",
-                "The collaboration focuses on utilizing highly optimized language models to automate complex physics-based simulation pipelines.",
-                "Deploying these models within Vibe for Code accelerates internal developmental processes for lithography hardware systems.",
-                "High-precision manufacturing benefits directly from integrating customized deep neural networks into specialized hardware calibration tasks."
+                "The first fully autonomous agentic ransomware attack has occurred sparking critical readiness concerns among security experts.",
+                "Security professionals emphasize that rapid detection and response capabilities are crucial to mitigating these autonomous threats.",
+                "Traditional passive defense perimeters must transition to real-time active threat hunting and automated system isolating.",
+                "Organizations must immediately implement zero-trust protocols to protect legacy infrastructure from malicious automated systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
