@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE INFRASTRUCTURE",
-        "titleBlue": "COGNITION"
+        "titleWhite": "FRONTIER COMPUTE",
+        "titleBlue": "HORIZONS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALING",
+            "heading": "OPENAI: GPT-5.6 FRONTIER",
             "points": [
-                "OpenAI releases GPT-5.6 offering frontier intelligence designed to scale with enterprise ambition.",
-                "The new architecture delivers massive scaling capabilities optimized for high-throughput autonomous agents and reasoning systems.",
-                "Developers can deploy this model directly within the API platform to automate complex multi-step logical operations.",
-                "This release redefines the frontier model landscape by lowering latency and scaling intelligence for worldwide businesses."
+                "OpenAI has launched GPT-5.6 delivering frontier intelligence designed to scale with enterprise digital ambition.",
+                "The model introduces autonomous workflow optimization, significantly reducing operational friction across cloud-native environments.",
+                "Architectural decoupling allows organizations to deploy agentic systems with unprecedented transactional speed and accuracy.",
+                "Enterprise leaders can now leverage real-time contextual adaptation to bypass legacy middleware constraints completely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SK HYNIX: JUMBO MARKET DEBUT",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
             "points": [
-                "South Korean chipmaker SK Hynix completes a record-breaking twenty-six billion dollar listing in the United States.",
-                "The historic capital raise reflects massive global demand for high-bandwidth memory chips essential for training models.",
-                "Fresh funding will directly expand advanced manufacturing capabilities to supply next-generation AI accelerators and silicon hardware.",
-                "Global enterprise hardware buyers gain more diversified and stable supply lines for critical physical memory infrastructure."
+                "SpaceXAI launched Grok 4.5 targeting massive enterprise coding applications with heavily optimized execution cost.",
+                "The platform integrates satellite backhaul and supercomputing clusters to deliver robust off-grid execution capabilities.",
+                "By unifying model training and hardware physical routing, the system bypasses traditional cloud provider bottlenecks.",
+                "Corporate developers gain direct access to cost-efficient agentic structures engineered specifically for complex system integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "SK HYNIX: MEMORY EXPANSION",
             "points": [
-                "Anthropic launches Sonnet 5 as their most agentic model to deliver top-tier coding performance.",
-                "This model release coincides with the global removal of export restrictions on Fable five and Mythos.",
-                "The architecture features advanced reasoning tools designed specifically for complex professional coding and everyday professional workflows.",
-                "Enterprises can integrate Sonnet 5 immediately via Microsoft Foundry or Google Cloud to scale workforces."
+                "SK Hynix completed a record twenty-six billion dollar listing to fund next-generation high-bandwidth memory.",
+                "The capital injection accelerates domestic semiconductor fabrication, securing hardware supplies for global hyper-scalers immediately.",
+                "Standardizing advanced memory architecture is critical to sustaining the massive processing demands of agentic AI.",
+                "Global supply chains will experience increased chip availability, mitigating geopolitical constraints on hardware distribution networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB",
+            "heading": "IBM: SYSTEM Z17 UPGRADE",
             "points": [
-                "Microsoft introduces Azure HorizonDB to bring ultra-low latency and scalable reads directly to PostgreSQL databases.",
-                "The database integrates built-in artificial intelligence to build, adapt, and scale mission-critical applications without latency.",
-                "Developers can now leverage Azure HorizonDB alongside Rayfin on Microsoft Fabric for unified agentic backends.",
-                "Organizations can construct highly responsive data systems that scale with autonomous agents without rewriting legacy configurations."
+                "IBM introduced new z17 mainframe models optimized specifically to integrate seamlessly into modern space-constrained environments.",
+                "The hardware upgrade delivers extreme density gains, lowering power draw while maintaining maximum cryptographic throughput.",
+                "Merging legacy mainframe security with cloud-native scalability allows secure real-time execution of critical financial models.",
+                "Infrastructure teams can confidently consolidate hybrid cloud footprints without compromising strict regulatory compliance frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEXAI: GROK 4.5 RELEASE",
+            "heading": "JETBRAINS: DEVELOPER GOVERNANCE SUITE",
             "points": [
-                "SpaceXAI launches Grok 4.5, marking their first major enterprise product since going public in June.",
-                "The model aims to compete directly with frontier providers by significantly lowering costs for coding tasks.",
-                "Grok 4.5 leverages a unified stack combining frontier models, satellite constellations, and dedicated supercomputing infrastructure.",
-                "Enterprises receive a competitive alternative for engineering tasks, driving down development expenses across the industry."
+                "JetBrains launched a unified AI governance suite designed to manage fragmented software development environments effectively.",
+                "The software provides granular telemetry tracking, reducing API resource consumption and associated operational billing overheads.",
+                "Establishing centralized model policies ensures enterprise codebases remain protected from unauthorized prompt injection vulnerabilities.",
+                "Engineering executives can now confidently deploy autonomous coding agents under a single, highly audited administration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MICROSOFT: TYPESCRIPT 7 COMPILE",
             "points": [
-                "NVIDIA launches the BioNeMo Agent Toolkit to accelerate scientific discoveries in the agentic life sciences era.",
-                "The toolkit provides domain-specific tools and skills enabling agents to process complex biological workflows efficiently.",
-                "Researchers can deploy BioNeMo tools within customizable applications like Claude Science to unlock flexible computer resource access.",
-                "Pharmaceutical and biotech companies can dramatically shorten drug discovery timelines through autonomous research pipeline execution."
+                "Microsoft released TypeScript 7 delivering a massive ten-times speed increase for large-scale enterprise codebase compilations.",
+                "The engine rebuild drastically reduces developer idle time, maximizing continuous integration and delivery pipeline efficiency.",
+                "Optimizing compiler mechanics enables developers to construct highly complex, type-safe web applications with minimal overhead.",
+                "Software organizations will see immediate operational savings as automated deployment systems consume fewer cloud compute hours."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
+            "heading": "ANTHROPIC: MODEL INTERPRETABILITY DISCOVERY",
             "points": [
-                "Mistral introduces Robostral Navigate, establishing a robust system of record for managing prompts and skills.",
-                "The framework helps enterprise teams track, evaluate, and coordinate autonomous agent activities across distributed environments.",
-                "This system unifies agent orchestration, end-to-end observability, and shared workflow deployment to maintain consistency.",
-                "Engineering organizations gain complete oversight of agentic assets, ensuring compliance with strict global software standards."
+                "Anthropic researchers mapped a hidden conceptual space inside Claude to decode complex internal model behavior patterns.",
+                "This breakthrough provides unprecedented empirical visibility, helping compliance officers audit and verify automated decision-making processes.",
+                "Resolving deep safety and alignment challenges allows enterprises to safely deploy models in highly regulated sectors.",
+                "Future architectures will leverage these activation maps to prevent unexpected model deviations during live production workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
