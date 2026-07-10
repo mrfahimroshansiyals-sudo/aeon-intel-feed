@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SHIFTS IN TECH",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "ENTERPRISE AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "APPLE: OPENAI LITIGATION",
+            "heading": "APPLE: OPENAI LAWSUIT",
             "points": [
-                "Apple filed a massive lawsuit against OpenAI alleging systematic theft of top-secret proprietary trade secrets.",
-                "The legal action marks a total collapse in negotiations between these two major Silicon Valley giants.",
-                "Corporate counsel alleges intellectual property extraction occurred systematically across multiple organizational engineering levels.",
-                "Analysts predict this litigation will force stricter data provenance compliance protocols across the generative model landscape."
+                "Apple files a major lawsuit against OpenAI alleging systematic theft of top-secret trade secrets and technical assets.",
+                "The litigation marks a total collapse in relations between two of the most powerful consumer tech giants.",
+                "Corporate security audits are now intensifying across joint partner networks to prevent intellectual property leaks.",
+                "Industry analysts predict a chilling effect on open collaboration models as litigation risks reach historic highs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -25,94 +25,94 @@ const dailyData = {
             "id": 2,
             "heading": "SK HYNIX: NASDAQ DEBUT",
             "points": [
-                "SK Hynix shares jumped thirteen percent during a highly anticipated Nasdaq trading debut.",
-                "Financial markets recorded immense demand for advanced high-bandwidth memory hardware optimized for heavy AI workloads.",
-                "The listing provides critical capital backing to expand production facilities amid global chip packaging supply bottlenecks.",
-                "Industry leaders project massive valuation adjustments for domestic semiconductor infrastructure players in the coming quarters."
+                "South Korean chipmaker SK Hynix debuts on Nasdaq with shares surging thirteen percent on immense hardware demand.",
+                "The listing consolidates the manufacturer's global leadership in high-bandwidth memory crucial for training frontier AI architectures.",
+                "Wall Street investors are aggressively reallocating capital to downstream hardware suppliers of advanced packaging solutions.",
+                "Financial markets indicate continued enterprise tolerance for high-cost infrastructure buildouts amid substantial generative AI demand."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: MAINFRAME AI INTEGRATION",
+            "heading": "IBM: MAINFRAME INTEGRATION",
             "points": [
-                "IBM launched advanced z17 and LinuxONE Rockhopper mainframe frames optimized specifically for enterprise hybrid clouds.",
-                "The hardware delivers scaled computing capacity in compact profiles designed to fit standard data center footprints.",
-                "Real-time on-chip AI inferencing capabilities allow organizations to process massive transactions with ultra-low latencies.",
-                "Enterprise CIOs can now bypass expensive latency issues by executing localized model training at physical points."
+                "IBM expands its enterprise footprint by launching new z17 mainframe models optimized for hybrid cloud environments.",
+                "The high-density hardware integration aims to deliver rapid secure processing within space-constrained modern corporate data centers.",
+                "Legacy system modernization is accelerated by merging localized hardware security with scalable agentic computing frameworks.",
+                "Infrastructure teams gain enhanced capacity to run localized inference models close to core operational transaction records."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAP: ON-PREMISE LICENSING CONCESSION",
+            "heading": "META: MUSE SPARK",
             "points": [
-                "SAP conceded major licensing ground to European Commission regulators regarding restrictive on-premise customer support policies.",
-                "This legal policy pivot frees enterprise IT organizations from highly expensive mandatory software support lock-ins.",
-                "The concession forces open support markets allowing third-party maintenance alternatives across European corporate networks.",
-                "Corporate clients must now quickly draft legacy system strategy plans ahead of upcoming software deadlines."
+                "Meta releases Muse Spark one-point-one, a highly optimized low-cost image generation model for small businesses.",
+                "The launch directly addresses growing enterprise scrutiny over skyrocketing compute token budgets and operational software costs.",
+                "Developers can leverage lightweight parameter designs to execute edge-based generation without relying on centralized cloud clusters.",
+                "Open model competition is escalating as providers shift focus from massive parameters to highly targeted efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: GPT-5.6 REGULATORY BALANCE",
+            "heading": "MICROSOFT: RAYFIN SERVICE",
             "points": [
-                "OpenAI released its new frontier model GPT-5.6 featuring advanced agentic planning capabilities for enterprise customers.",
-                "Deployment timelines reflect deep coordination with international governance frameworks to ensure strict structural compliance safety.",
-                "The architecture represents a clear shift toward deploying cheaper and highly efficient specialized domain models.",
-                "Enterprises can leverage these targeted capabilities to coordinate sophisticated digital workflows without inflating runtime budgets."
+                "Microsoft launches Rayfin, a fully managed backend as a service engineered explicitly for autonomous AI agents.",
+                "The platform integrates directly with Microsoft Fabric to enable seamless agentic orchestration and automated developer workflows.",
+                "Software architects can deploy complex sovereign workflows using pre-configured database triggers and integrated governance guardrails.",
+                "Enterprise-wide agent deployment transitions from complex manual coding to scalable low-code managed cloud services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: MUSE SPARK PERFORMANCE",
+            "heading": "MICROSOFT: HORIZONDB ENGINE",
             "points": [
-                "Meta launched its low-cost Muse Spark one point one model aimed directly at cost-conscious small enterprises.",
-                "The release targets growing executive scrutiny over ballooning enterprise cloud expenditures for generative AI models.",
-                "Developer teams can run high-throughput image generation tasks locally without relying on expensive remote APIs.",
-                "This strategic software drop establishes competitive pressure on startups providing premium hosted model subscription packages."
+                "Microsoft unveils Azure HorizonDB, bringing ultra-low latency reads and native intelligence integrations to PostgreSQL databases.",
+                "The cloud-native engine allows enterprises to execute rapid scaling operations without experiencing performance degradation or latency.",
+                "Standard database environments are upgraded to act as real-time context stores for transactional AI agent fleets.",
+                "Database administrators can now automate performance tuning and query optimization via embedded machine learning models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEXAI: GROK COST PERFORMANCE",
+            "heading": "SPACEXAI: GROK CODING",
             "points": [
-                "SpaceXAI launched its first major enterprise-grade model Grok four point five targeting automated software development.",
-                "Benchmark studies estimate operational task costs at under three dollars compared to rival coding tools.",
-                "The architecture relies on enhanced context window processing to ingest entire enterprise code bases seamlessly.",
-                "Corporate engineering teams will likely switch providers to dramatically reduce baseline operational cloud software expenditures."
+                "SpaceXAI launches Grok four-point-five, demonstrating significantly lower coding-task token costs than rival foundation models.",
+                "Benchmark results show the model reduces developmental expenses compared to competing options like Claude's Fable five.",
+                "Engineering teams can automate extensive code generation and software testing pipelines at a fraction of standard cost.",
+                "Price competition among frontier developers is intensifying, forcing model creators to optimize operational inference compute costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
