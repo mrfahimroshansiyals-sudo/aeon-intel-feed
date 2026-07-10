@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION",
-        "titleBlue": "COGNITION"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
+            "heading": "APPLE: TRADE SECRET LITIGATION",
             "points": [
-                "OpenAI officially deployed the GPT-5.6 model delivering frontier scale intelligence to enterprise workflows globally.",
-                "The release showcases enhanced scaling capabilities designed to run highly complex transactional operations autonomously.",
-                "This deployment satisfies strict international compliance frameworks while maintaining maximum computational efficiency and execution speed.",
-                "Enterprises can now leverage this advanced infrastructure to automate end-to-end organizational workflows securely."
+                "Apple initiated legal proceedings against OpenAI alleging systematic misappropriation of confidential trade secrets across multiple corporate levels.",
+                "This litigation marks the formal disintegration of the strategic partnership between two of Silicon Valley's most influential technology entities.",
+                "Market observers indicate the lawsuit could trigger significant scrutiny over AI development methodologies and data handling practices at OpenAI.",
+                "The legal clash threatens to disrupt ongoing platform integrations and complicates the roadmap for future generative AI model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: FABLE 5 GLOBAL DEPLOYMENT",
+            "heading": "IBM: MAINFRAME HYBRID UPGRADE",
             "points": [
-                "Anthropic announced global redeployment of Fable five after international export controls were officially lifted.",
-                "The advanced model will immediately become accessible to developers seeking highly sophisticated agentic reasoning capabilities.",
-                "Claude Science integrations allow researchers to run auditable simulations using dedicated high-performance computing resources.",
-                "This rollout accelerates competitive pressures across the frontier model landscape for safe multi-agent deployments."
+                "IBM introduced updated z17 mainframe models and LinuxONE servers engineered specifically for space-constrained modern data center environments.",
+                "The new hardware architecture emphasizes enhanced integration with hybrid cloud infrastructures to support high-performance enterprise AI workloads.",
+                "Updates incorporate advanced security features aimed at neutralizing sophisticated threats that leverage API tokens for unauthorized system access.",
+                "These systems provide a stable foundation for enterprises attempting to modernize legacy stacks without violating stringent regulatory compliance requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE RELEASE",
+            "heading": "META: ENTERPRISE AI EFFICACY",
             "points": [
-                "SpaceXAI launched Grok 4.5 demonstrating significantly lower software coding costs compared to key industry competitors.",
-                "Benchmark evaluations report execution costs at under three dollars per complex enterprise programming task.",
-                "The model enters the enterprise market to challenge dominant players with highly optimized inference processing.",
-                "Software engineering teams can drastically minimize development overheads using this newly optimized architectural model."
+                "Meta released Muse Spark 1.1, an optimized model designed to deliver enterprise-grade performance while significantly reducing AI operational costs.",
+                "The release specifically targets small and medium-sized businesses facing intense scrutiny over sustainable AI infrastructure and high compute spend.",
+                "Deployment of Muse Spark 1.1 provides organizations with a cost-effective alternative to larger, resource-intensive models in production environments.",
+                "Early analysis suggests this launch could influence competitive pricing models for image and multimodal AI services across the ecosystem."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT LAUNCH",
+            "heading": "NVIDIA: SCIENTIFIC AGENT TOOLKIT",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit offering advanced domain-specific tools for biological and scientific discovery.",
-                "The platform integrates deep agentic capabilities enabling researchers to model complex molecular structures dynamically.",
-                "By leveraging optimized GPU acceleration science labs can drastically shorten standard pharmaceutical research pipelines.",
-                "This launch marks a significant shift toward AI-driven agentic workflows within global life science industries."
+                "NVIDIA launched the BioNeMo Agent Toolkit to provide domain-specific tools for accelerating discovery in the agentic life sciences era.",
+                "The toolkit equips research agents with pre-built skills, enabling complex simulations and analysis with increased speed and accuracy.",
+                "This release supports the trend of vertical-specific AI agents that replace generic LLM workflows with highly specialized task execution.",
+                "Enterprise adoption of BioNeMo is expected to significantly reduce time-to-market for pharmaceutical research and complex biological model development."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
+            "heading": "ANTHROPIC: MODEL REDEPLOYMENT",
             "points": [
-                "Microsoft launched Azure HorizonDB bringing ultra-low latency reads and integrated artificial intelligence to PostgreSQL databases.",
-                "Enterprise developers can now seamlessly deploy mission-critical applications without sacrificing operational performance or database speed.",
-                "Anthropic frontier models are also now generally available through the secure Microsoft Foundry environment.",
-                "This integration simplifies cloud administration while providing robust data governance and unified billing controls."
+                "Anthropic officially lifted export controls on Fable 5 and Mythos 5, initiating global model availability for commercial and research users.",
+                "The redeployment facilitates immediate integration into professional pipelines, supporting advanced agentic workflows and coding tasks at high scale.",
+                "Regulatory confusion surrounding these models has been resolved by recent U.S. government confirmations that no additional permission was required.",
+                "Developers can now leverage these high-frontier models within the Anthropic Claude Science app for more efficient, auditable artifact generation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SK HYNIX: NASDAQ DEBUT SHIFTS MARKET",
+            "heading": "TSMC: TECHNOLOGY SYMPOSIUM",
             "points": [
-                "SK Hynix shares surged fourteen percent during its highly anticipated trading debut on the Nasdaq exchange.",
-                "The company reported astronomical enterprise demand for next-generation high-bandwidth memory chips powering modern AI systems.",
-                "This public listing highlights intense investor interest in scaling global physical infrastructure for accelerated computing.",
-                "Hardware manufacturing supply chains must expand rapidly to keep pace with escalating hardware requirements globally."
+                "TSMC highlighted the A16 nanosheet process technology with backside power rails, optimized specifically for high-performance computing and AI infrastructure.",
+                "The innovation roadmap demonstrates how current lithography advancements are expanding capability for the most intensive generative AI hardware requirements.",
+                "Strategic focus on AI leadership silicon aims to address the global demand for energy-efficient chips in data center environments.",
+                "Collaboration with the OIP ecosystem remains central to TSMC's strategy for enabling rapid iteration in next-generation chip architecture design."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE THREAT",
+            "heading": "GOOGLE: AGENTIC DATA CLOUD",
             "points": [
-                "The first fully autonomous agentic ransomware attack has occurred sparking critical readiness concerns among security experts.",
-                "Security professionals emphasize that rapid detection and response capabilities are crucial to mitigating these autonomous threats.",
-                "Traditional passive defense perimeters must transition to real-time active threat hunting and automated system isolating.",
-                "Organizations must immediately implement zero-trust protocols to protect legacy infrastructure from malicious automated systems."
+                "Google Cloud introduced new agentic capabilities within its Data Cloud, powering automated systems of action for large enterprise deployments.",
+                "Enhanced Gemini 3.5 models now support native agentic reasoning, enabling more reliable execution of complex multi-step professional work tasks.",
+                "Integration of agentic tools within the platform offers better observability and security guardrails for AI fleet management operations.",
+                "Google aims to outpace adversaries with the new AI Threat Defense suite, providing real-time protection for enterprise data ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
