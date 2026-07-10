@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN SYSTEM",
+        "titleWhite": "ENTERPRISE AI AGENT",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER COGNITION",
+            "heading": "MICROSOFT FOUNDRY: AGENTIC SCALE",
             "points": [
-                "OpenAI released GPT-5.6 to provide enterprise-scale reasoning designed for highly ambitious computational workloads.",
-                "The model introduces native optimization layers that drastically reduce processing latencies across massive databases.",
-                "Architectural decoupling allows organizations to run complex multi-agent simulations without traditional API throughput limits.",
-                "Enterprise developers gain unprecedented control over token allocations during heavy production execution runs."
+                "Microsoft released Claude models Opus 4.8 and Sonnet 5 within their Foundry managed enterprise environment.",
+                "This integration provides organizations with enterprise-grade authentication, governance, and billing controls for frontier AI models.",
+                "Azure customers can now deploy these agent-optimized backends directly on Microsoft Fabric using integrated SDKs.",
+                "The deployment marks a shift toward standardized, secure infrastructure for scaling agentic AI systems within corporations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-LIVE REALTIME STREAMING",
+            "heading": "ANTHROPIC: SONNET 5 AGENTIC UPGRADE",
             "points": [
-                "The newly unveiled GPT-Live architecture establishes continuous zero-latency streaming interfaces for natural language pipelines.",
-                "This framework enables instant context assimilation across high-throughput voice channels and multimodal interaction models.",
-                "Systems operators can deploy these models directly to edge nodes for decentralized localized processing.",
-                "Integrating live streaming data endpoints minimizes historical context drift during prolonged transaction windows."
+                "Anthropic introduced Sonnet 5, specifically architected for advanced agentic coding tasks and complex professional workflows.",
+                "The model features enhanced reasoning capabilities optimized for long-horizon task execution within enterprise development stacks.",
+                "Claude Science was simultaneously launched as a customizable workspace producing auditable, high-integrity research artifacts.",
+                "These releases enable tighter integration between AI-led hypothesis generation and scientific data analysis pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: DAYBREAK SECURITY FRAMEWORK",
+            "heading": "IBM: SDLC AI ORCHESTRATION",
             "points": [
-                "OpenAI deployed Daybreak to offer comprehensive cybersecurity protection for enterprise system architectures worldwide.",
-                "The system uses real-time behavioral heuristics to neutralize malicious injections and compromised API tokens.",
-                "Security teams can enforce zero-trust policies dynamically across autonomous multi-agent developer environments.",
-                "Operational audits demonstrate significant reductions in vulnerability exposure metrics across critical cloud deployments."
+                "IBM expanded its Bob AI platform to orchestrate the entire software development life cycle autonomously.",
+                "The updated platform moves beyond simple code generation into complex, multi-stage pipeline management and delivery.",
+                "New mainframe integration features ensure these agentic models remain performant within high-security data center environments.",
+                "This orchestration shift addresses the critical need for governance in AI-driven enterprise software production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SK HYNIX: WALL STREET DEBUT",
+            "heading": "NVIDIA: BIONE MO AGENT TOOLKIT",
             "points": [
-                "SK Hynix raised twenty-six billion dollars in a historic Wall Street initial public offering.",
-                "The listing tests global investor appetite for advanced memory hardware designed specifically for AI.",
-                "High bandwidth memory supply chains will receive significant capital injections to accelerate manufacturing capacity.",
-                "Competitors face increased pressure as localized production capabilities expand across major North American hubs."
+                "NVIDIA launched the BioNeMo Agent Toolkit to equip AI models with domain-specific skills for biological research.",
+                "The platform provides native tools for accelerated scientific discovery in life sciences and computational chemistry.",
+                "Europe announced 35 new NVIDIA-powered AI supercomputers, reinforcing critical infrastructure for sovereign compute capacity.",
+                "These developments focus on accelerating physical simulations using full-stack hardware and agentic software optimization."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RECORDING INDUSTRY: AI TRACK LABELS",
+            "heading": "MISTRAL: LONG HORIZON VIBE AGENTS",
             "points": [
-                "Major record labels launched a coordinated campaign demanding explicit identification of AI-generated music tracks.",
-                "The industry aims to enforce strict metadata standards across all major digital streaming platforms.",
-                "Licensing frameworks must adapt to protect human artists from unauthorized voice model synthesis tools.",
-                "Platforms failing to comply face severe legal challenges regarding intellectual property rights and distribution."
+                "Mistral released Vibe, an AI agent framework specifically built for complex long-horizon work and multi-step reasoning.",
+                "The system includes persistent memory and reusable skill modules tailored for enterprise-grade autonomous coding tasks.",
+                "Vibe for Code provides deep architecture-aware reasoning, enabling agents to handle legacy code translation and reviews.",
+                "These advancements facilitate seamless deployment of autonomous agents from edge devices to cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META PLATFORMS: EU REGULATORY WARNING",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE ENTRY",
             "points": [
-                "The European Union formally warned Meta Platforms over addictive feed architectures on social media.",
-                "Regulators claim that algorithmic delivery designs fail to protect minor users from psychological harm.",
-                "Compliance mandates will force the immediate redesign of core recommendation systems operating within Europe.",
-                "Failure to implement appropriate safeguards risks multi-billion dollar penalties under the digital services act."
+                "SpaceXAI launched Grok 4.5, optimized to drive down costs for complex enterprise-level autonomous coding tasks.",
+                "Benchmark data suggests a significant reduction in per-task computational overhead compared to contemporary rival models.",
+                "Industry adoption focuses on real-world testing and integration with existing proprietary software development workflows.",
+                "The release positions SpaceXAI as a direct challenger in the competitive market for enterprise-grade coding intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ACCELERATION",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "Microsoft announced HorizonDB to bring ultra-low latency and built-in artificial intelligence to PostgreSQL databases.",
-                "The managed service optimizes read pathways dynamically to support high-performance agentic application deployment.",
-                "Enterprise developers can scale mission-critical applications seamlessly without suffering traditional database execution bottlenecks.",
-                "Built-in AI models execute complex vector queries directly at the core data layer."
+                "Google DeepMind introduced Gemini 3.5, combining frontier intelligence with native action-taking capabilities.",
+                "New computer use features in Gemini 3.5 Flash allow agents to perform complex multi-modal interactions directly.",
+                "Gemini for Science provides collaborative research tools that integrate multi-step planning and model-based experimentation.",
+                "These updates underscore a strategic shift toward agents that can operate independently across software interfaces."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
