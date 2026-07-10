@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SHIFTS IN TECH",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "APPLE: TRADE SECRET LITIGATION",
+            "heading": "APPLE: OPENAI LITIGATION",
             "points": [
-                "Apple initiated legal proceedings against OpenAI alleging systematic misappropriation of confidential trade secrets across multiple corporate levels.",
-                "This litigation marks the formal disintegration of the strategic partnership between two of Silicon Valley's most influential technology entities.",
-                "Market observers indicate the lawsuit could trigger significant scrutiny over AI development methodologies and data handling practices at OpenAI.",
-                "The legal clash threatens to disrupt ongoing platform integrations and complicates the roadmap for future generative AI model deployments."
+                "Apple filed a massive lawsuit against OpenAI alleging systematic theft of top-secret proprietary trade secrets.",
+                "The legal action marks a total collapse in negotiations between these two major Silicon Valley giants.",
+                "Corporate counsel alleges intellectual property extraction occurred systematically across multiple organizational engineering levels.",
+                "Analysts predict this litigation will force stricter data provenance compliance protocols across the generative model landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: MAINFRAME HYBRID UPGRADE",
+            "heading": "SK HYNIX: NASDAQ DEBUT",
             "points": [
-                "IBM introduced updated z17 mainframe models and LinuxONE servers engineered specifically for space-constrained modern data center environments.",
-                "The new hardware architecture emphasizes enhanced integration with hybrid cloud infrastructures to support high-performance enterprise AI workloads.",
-                "Updates incorporate advanced security features aimed at neutralizing sophisticated threats that leverage API tokens for unauthorized system access.",
-                "These systems provide a stable foundation for enterprises attempting to modernize legacy stacks without violating stringent regulatory compliance requirements."
+                "SK Hynix shares jumped thirteen percent during a highly anticipated Nasdaq trading debut.",
+                "Financial markets recorded immense demand for advanced high-bandwidth memory hardware optimized for heavy AI workloads.",
+                "The listing provides critical capital backing to expand production facilities amid global chip packaging supply bottlenecks.",
+                "Industry leaders project massive valuation adjustments for domestic semiconductor infrastructure players in the coming quarters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: ENTERPRISE AI EFFICACY",
+            "heading": "IBM: MAINFRAME AI INTEGRATION",
             "points": [
-                "Meta released Muse Spark 1.1, an optimized model designed to deliver enterprise-grade performance while significantly reducing AI operational costs.",
-                "The release specifically targets small and medium-sized businesses facing intense scrutiny over sustainable AI infrastructure and high compute spend.",
-                "Deployment of Muse Spark 1.1 provides organizations with a cost-effective alternative to larger, resource-intensive models in production environments.",
-                "Early analysis suggests this launch could influence competitive pricing models for image and multimodal AI services across the ecosystem."
+                "IBM launched advanced z17 and LinuxONE Rockhopper mainframe frames optimized specifically for enterprise hybrid clouds.",
+                "The hardware delivers scaled computing capacity in compact profiles designed to fit standard data center footprints.",
+                "Real-time on-chip AI inferencing capabilities allow organizations to process massive transactions with ultra-low latencies.",
+                "Enterprise CIOs can now bypass expensive latency issues by executing localized model training at physical points."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: SCIENTIFIC AGENT TOOLKIT",
+            "heading": "SAP: ON-PREMISE LICENSING CONCESSION",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit to provide domain-specific tools for accelerating discovery in the agentic life sciences era.",
-                "The toolkit equips research agents with pre-built skills, enabling complex simulations and analysis with increased speed and accuracy.",
-                "This release supports the trend of vertical-specific AI agents that replace generic LLM workflows with highly specialized task execution.",
-                "Enterprise adoption of BioNeMo is expected to significantly reduce time-to-market for pharmaceutical research and complex biological model development."
+                "SAP conceded major licensing ground to European Commission regulators regarding restrictive on-premise customer support policies.",
+                "This legal policy pivot frees enterprise IT organizations from highly expensive mandatory software support lock-ins.",
+                "The concession forces open support markets allowing third-party maintenance alternatives across European corporate networks.",
+                "Corporate clients must now quickly draft legacy system strategy plans ahead of upcoming software deadlines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: MODEL REDEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 REGULATORY BALANCE",
             "points": [
-                "Anthropic officially lifted export controls on Fable 5 and Mythos 5, initiating global model availability for commercial and research users.",
-                "The redeployment facilitates immediate integration into professional pipelines, supporting advanced agentic workflows and coding tasks at high scale.",
-                "Regulatory confusion surrounding these models has been resolved by recent U.S. government confirmations that no additional permission was required.",
-                "Developers can now leverage these high-frontier models within the Anthropic Claude Science app for more efficient, auditable artifact generation."
+                "OpenAI released its new frontier model GPT-5.6 featuring advanced agentic planning capabilities for enterprise customers.",
+                "Deployment timelines reflect deep coordination with international governance frameworks to ensure strict structural compliance safety.",
+                "The architecture represents a clear shift toward deploying cheaper and highly efficient specialized domain models.",
+                "Enterprises can leverage these targeted capabilities to coordinate sophisticated digital workflows without inflating runtime budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: TECHNOLOGY SYMPOSIUM",
+            "heading": "META: MUSE SPARK PERFORMANCE",
             "points": [
-                "TSMC highlighted the A16 nanosheet process technology with backside power rails, optimized specifically for high-performance computing and AI infrastructure.",
-                "The innovation roadmap demonstrates how current lithography advancements are expanding capability for the most intensive generative AI hardware requirements.",
-                "Strategic focus on AI leadership silicon aims to address the global demand for energy-efficient chips in data center environments.",
-                "Collaboration with the OIP ecosystem remains central to TSMC's strategy for enabling rapid iteration in next-generation chip architecture design."
+                "Meta launched its low-cost Muse Spark one point one model aimed directly at cost-conscious small enterprises.",
+                "The release targets growing executive scrutiny over ballooning enterprise cloud expenditures for generative AI models.",
+                "Developer teams can run high-throughput image generation tasks locally without relying on expensive remote APIs.",
+                "This strategic software drop establishes competitive pressure on startups providing premium hosted model subscription packages."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE: AGENTIC DATA CLOUD",
+            "heading": "SPACEXAI: GROK COST PERFORMANCE",
             "points": [
-                "Google Cloud introduced new agentic capabilities within its Data Cloud, powering automated systems of action for large enterprise deployments.",
-                "Enhanced Gemini 3.5 models now support native agentic reasoning, enabling more reliable execution of complex multi-step professional work tasks.",
-                "Integration of agentic tools within the platform offers better observability and security guardrails for AI fleet management operations.",
-                "Google aims to outpace adversaries with the new AI Threat Defense suite, providing real-time protection for enterprise data ecosystems."
+                "SpaceXAI launched its first major enterprise-grade model Grok four point five targeting automated software development.",
+                "Benchmark studies estimate operational task costs at under three dollars compared to rival coding tools.",
+                "The architecture relies on enhanced context window processing to ingest entire enterprise code bases seamlessly.",
+                "Corporate engineering teams will likely switch providers to dramatically reduce baseline operational cloud software expenditures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
