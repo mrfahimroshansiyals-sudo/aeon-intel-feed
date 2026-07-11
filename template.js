@@ -1,98 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "COGNITIVE AGENTIC",
+        "titleBlue": "ASCENT"
     },
     "slides": [
         {
             "id": 1,
             "heading": "APPLE: OPENAI LITIGATION",
             "points": [
-                "Apple files a major lawsuit against OpenAI alleging systemic trade secret theft across multiple system layers.",
-                "The legal confrontation terminates a high profile technology partnership disrupting strategic commercial distribution channels globally.",
-                "Industry experts anticipate deep architectural audits of proprietary training data and foundational model ingestion pipelines.",
-                "Enterprises must re-evaluate multi-vendor risks as regulatory and legal battles threaten foundational model development stability."
+                "Apple files a massive lawsuit against OpenAI alleging systematic theft of top secret proprietary information.",
+                "The litigation threatens multi-billion dollar integrations and disrupts core engineering partnerships across Silicon Valley ecosystems.",
+                "This legal battle underscores growing industry friction over data sovereignty and intellectual property in foundation model training.",
+                "Corporate enterprise legal teams must implement stricter code containment protocols to prevent catastrophic trade secret leaks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
             "points": [
-                "OpenAI officially launches GPT-5.6 introducing advanced frontier intelligence engineered to scale with highly complex workloads.",
-                "The model dramatically improves enterprise orchestration capacities while maintaining compliance with modern global artificial intelligence acts.",
-                "Its neural design features optimized compute allocation to deliver high-signal reasoning at reduced operational execution costs.",
-                "Chief information officers gain access to robust agentic frameworks designed for end-to-end transaction automation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SK HYNIX: NASDAQ DEBUT",
-            "points": [
-                "South Korean memory leader SK Hynix debuts on Nasdaq trading up thirteen percent amid unprecedented demand.",
-                "The listing solidifies Western capital access for scaling high-bandwidth memory production essential to next-generation processors.",
-                "Next-generation silicon packaging relies heavily on SK Hynix hardware to sustain dense tensor processing operations.",
-                "Hardware suppliers and data center operators secure vital supply chains as hardware demand continues scaling aggressively."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
-            "points": [
-                "AMD signs a definitive agreement with Rackspace for a phased thirty-megawatt deployment of enterprise compute.",
-                "The infrastructure expansion provides secure highly regulated environments optimized for executing complex corporate workflows safely.",
-                "Deployments utilize AMD Instinct accelerators and EPYC central processing units to drive dense agentic operations.",
-                "Enterprise tenants gain access to sovereign high-density hardware clusters tailored for compliant cloud compute workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: RAYFIN BACKEND",
-            "points": [
-                "Microsoft Fabric introduces Rayfin a fully managed agent-optimized backend service designed to streamline application development.",
-                "Developers can now deploy low-latency code-optimized backends natively within integrated enterprise data analytics platforms.",
-                "The service features built-in authentication and policy controls to manage autonomous AI agents at scale.",
-                "Engineering teams reduce time-to-market for complex multi-agent applications by leveraging native fabric synchronization tools."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "IBM: BOB SDLC ORCHESTRATION",
-            "points": [
-                "IBM upgrades its Bob AI platform expanding capabilities from simple code generation to complete lifecycle orchestration.",
-                "Development teams can automate complex workflows spanning code deployment continuous integration and software governance protocols.",
-                "The architecture coordinates multi-step development pipelines while enforcing unified enterprise code safety standards automatically.",
-                "CTOs can securely accelerate enterprise software delivery timelines by utilizing end-to-end agentic software development systems."
+                "SpaceXAI releases Grok four point five to deliver highly efficient, low-cost enterprise coding task execution.",
+                "Performance benchmarks demonstrate massive savings reducing task costs to just two dollars and forty nine cents.",
+                "Low cost compute architectures are successfully shifting developer focus from model size to pure unit economics.",
+                "Competitors must quickly optimize their inference efficiency to prevent rapid client migration toward cheaper automation platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
+            "id": 3,
+            "heading": "MICROSOFT: FOUNDRY CLAUDE",
             "points": [
-                "SpaceXAI launches Grok 4.5 boasting significantly lower operational costs per coding task than competitor models.",
-                "The aggressive pricing structure forces a strategic paradigm shift toward highly cost-effective task-specific engineering models.",
-                "Optimization techniques reduce foundational token consumption while maintaining state-of-the-art accuracy on complex software benchmarks.",
-                "Enterprises can scale software engineering pipelines cost-effectively shifting routine maintenance to highly efficient agentic networks."
+                "Microsoft integrates Anthropic Claude five models into Microsoft Foundry with unified enterprise authentication and billing controls.",
+                "Enterprise customers gain instant secure access to advanced reasoning capabilities native to Azure cloud infrastructure networks.",
+                "Multi-model cloud ecosystems are becoming standard as organizations decouple applications from single foundation provider dependencies.",
+                "Developers can rapidly orchestrate diverse agentic fleets while maintaining strict centralized administrative and security oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "points": [
+                "NVIDIA launches the BioNeMo Agent Toolkit to power specialized autonomous discovery pipelines for life sciences researchers.",
+                "Biopharma research labs can deploy specialized AI agents to automate high throughput molecular modeling and screening operations.",
+                "Domain specific agentic workflows are rapidly replacing generic models to solve highly complex, specialized scientific equations.",
+                "Scientific organizations will shift R&D spending toward hyper accelerated simulation architectures rather than traditional wet laboratories."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE: AGENT PLATFORM EXPANSION",
+            "points": [
+                "Google Cloud deploys Gemini three point five alongside managed Model Context Protocol servers for agent development.",
+                "The upgraded platform seamlessly unifies real time data ingestion, system action, and secure tool usage orchestration.",
+                "Open integration standards like Model Context Protocol are becoming critical components of modern enterprise agent architectures.",
+                "Businesses will increasingly pivot toward agentic ecosystems capable of acting autonomously across distributed legacy backends."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com/blog",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TECHTARGET: AGENTIC MALWARE",
+            "points": [
+                "Security researchers identify the first fully autonomous agentic ransomware attack executing end-to-end network penetration campaigns.",
+                "Autonomous malware significantly compresses attack timelines requiring defensive systems to operate at pure machine speed thresholds.",
+                "Traditional signature based detection is insufficient against dynamic agents that continuously alter behavior during live exploits.",
+                "Cyber defense teams must deploy defensive AI agents to actively seek out and neutralize malicious machine activity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL: ROBOSTRAL SYSTEM RELEASE",
+            "points": [
+                "Mistral AI introduces Robostral Navigate and the Vibe agentic framework for long horizon autonomous coding workflows.",
+                "Software teams use these systems to automate persistent code translation and complex multi-step continuous deployment pipelines.",
+                "Native architecture-aware reasoning enables agents to manage complex software codebases without constant human loop intervention.",
+                "Organizations will dramatically restructure software engineering departments to prioritize high level system architecture over routine syntax writing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai/news",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
