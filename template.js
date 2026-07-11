@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "NEXT GEN AGENTIC",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "OpenAI officially released the GPT-5.6 frontier intelligence model designed to scale capabilities across complex enterprise architectures.",
-                "The model utilizes optimized token distribution pipelines to reduce processing latency by forty percent for agent workflows.",
-                "Deployment configurations integrate strictly with regional regulatory frameworks, ensuring sovereign compliance across international enterprise digital networks.",
-                "Enterprise architects can immediately implement these models to coordinate high-volume transactional pipelines under strict policy compliance."
+                "OpenAI launched its frontier GPT-5.6 model designed to scale intelligence dynamically across complex enterprise workflows.",
+                "Standardized testing showcases enhanced reasoning capabilities while mitigating performance degradation across massively parallel orchestration structures.",
+                "The architectural shift prioritizes highly scalable token execution limits to meet mounting digital agency productivity requirements.",
+                "System administrators anticipate rapid deployment of this model to revolutionize autonomous enterprise-level software engineering paradigms."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "APPLE: OPENAI IP LITIGATION",
+            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
             "points": [
-                "Apple filed a major lawsuit against OpenAI alleging systematic trade secret theft operating across all development levels.",
-                "The legal action targets proprietary algorithmic frameworks, potentially disrupting model training pipelines and near-term commercial rollouts.",
-                "This litigation represents a significant escalation in corporate intellectual property protection within competitive generative intelligence sectors.",
-                "Chief information officers must closely monitor potential licensing changes and systemic operational risks associated with third-party architectures."
+                "Mistral AI introduced Vibe, an autonomous agent framework optimized for persistent memory and long-horizon industrial workflows.",
+                "Computational benchmarks reveal streamlined multi-step task scheduling alongside integrated, native optical character recognition engine capabilities.",
+                "The system establishes an immutable schema record for prompts and specialized agent skills across private clouds.",
+                "Enterprise developers will utilize these decoupled execution pipelines to automate complex maritime and automotive manufacturing pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "APPLE: OPENAI TRADE SECRET LAWSUIT",
+            "points": [
+                "Apple initiated litigation against OpenAI alleging systemic theft of highly proprietary AI technologies at multiple architectural levels.",
+                "Legal disclosures threaten to expose core algorithmic methodologies and restrict unauthorized distribution of highly coveted intellectual property.",
+                "The confrontation signals intensifying competition for top-tier research personnel and secure model development pipelines globally.",
+                "Industry analysts predict this conflict will force stricter containment protocols and more rigorous software provenance verification checks."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AMD: RACKSPACE DEPLOYMENT AGREEMENT",
+            "id": 4,
+            "heading": "GOOGLE: GEMINI 3.5 ARCHITECTURE",
             "points": [
-                "AMD partnered with Rackspace Technology to execute a phased deployment of thirty megawatts of specialized AI compute.",
-                "This infrastructure expansion delivers high-performance processing capability specifically optimized to run heavily regulated enterprise machine learning workloads.",
-                "The strategic alignment relies entirely on open standards, offering hybrid deployment flexibility and protecting long-term enterprise investments.",
-                "System operators gain optimized total cost of ownership alongside energy efficient hardware scaling across distributed cloud networks."
+                "Google announced Gemini 3.5, unifying action-oriented frontier intelligence with specialized, high-efficiency vision models like Nano Banana.",
+                "The model features advanced computer-use capabilities that accelerate autonomous execution across legacy browser environments and interfaces.",
+                "Integrating direct model actions with managed server protocols reduces overall latency during real-time multi-agent decision tasks.",
+                "Network engineers expect these lightweight agents to operate ubiquitously across distributed edge infrastructures and consumer endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE PLATFORM",
+            "id": 5,
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Anthropic introduced Claude Science as a customizable application integrating specialized tools for advanced scientific research workflows.",
-                "The platform delivers completely auditable artifacts while offering flexible access to highly scalable cloud computing infrastructure resources.",
-                "This architecture directly bridges frontier model capabilities with specialized scientific packages to accelerate complex mathematical research.",
-                "Scientific organizations can deploy these secure, verifiable agents to automate data ingestion and synthesize complex experimental outputs."
+                "Anthropic released Sonnet 5, offering elevated intelligence parameters for agentic coding and complex multi-agent collaborative workspaces.",
+                "Global deployment follows the lifting of stringent export controls on predecessor models like Fable and Mythos.",
+                "Built-in safety architectures leverage constitutional alignment principles to monitor model behavior and prevent unauthorized code modifications.",
+                "Lead engineers predict the system will dramatically accelerate safe transition from experimental sandboxes to production environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
-            "points": [
-                "Microsoft announced the general availability of Anthropic Claude models inside the Azure-hosted Microsoft Foundry environment.",
-                "Integration utilizes existing enterprise authentication and centralized billing protocols to streamline model management across global divisions.",
-                "By combining frontier models with native Azure security, developers can build scalable, compliant multi-agent applications effortlessly.",
-                "Enterprise technology leaders can now deploy advanced cognitive agents within fully audited, corporate-approved cloud governance perimeters."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
             "points": [
-                "NVIDIA launched the BioNeMo Agent Toolkit containing domain-specific skills to accelerate automated research in life sciences.",
-                "The application suite empowers autonomous digital agents to process and analyze massive biological structures within seconds.",
-                "Integrating with existing research pipelines, the tools connect deep learning nodes to high-performance computing clusters seamlessly.",
-                "Pharmaceutical developers can scale computational drug discovery pipelines while maintaining absolute control over proprietary scientific datasets."
+                "AMD partnered with Rackspace Technology to deploy thirty megawatts of specialized AI compute for regulated enterprise applications.",
+                "The hardware integration utilizes advanced EPYC processors and Instinct graphics units to optimize high-performance computing performance.",
+                "This deployment targets high-density hybrid cloud infrastructure needs while ensuring strict compliance across national sovereignty frameworks.",
+                "Data center operators anticipate this alliance will challenge dominant market competitors by delivering cost-effective processing alternatives."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE LAUNCH",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
             "points": [
-                "Mistral AI introduced Robostral Navigate, establishing a robust system of record designed to catalog enterprise prompts.",
-                "The platform orchestrates complex multi-step processes, reducing task scheduling errors by thirty percent across sovereign cloud environments.",
-                "This infrastructure layer manages persistent agent memory systems and reusable operational skills across highly distributed edge frameworks.",
-                "System engineers can customize localized language models to automate complex long-horizon operations with reliable transactional tracking."
+                "SpaceXAI launched Grok 4.5, targeting developer operations with significantly reduced execution costs compared to rival models.",
+                "Comparative benchmarks estimate coding task costs at under three dollars, outperforming primary industry equivalents in efficiency.",
+                "The model leverages highly efficient token compression algorithms to optimize context window utilization during complex code analyses.",
+                "Devops managers foresee rapid integration of this model within automated pipelines to lower routine maintenance overheads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
