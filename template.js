@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "APPLE: OPENAI LITIGATION DEPLOYMENT",
+            "heading": "APPLE: OPENAI LITIGATION",
             "points": [
-                "Apple filed a massive lawsuit alleging systematic trade secret theft by OpenAI at every operational level.",
-                "The legal conflict severely threatens commercial collaborations and destabilizes the shared silicon valley AI ecosystem.",
-                "Enterprise architectures must now evaluate intellectual property risks when integrating proprietary third party large language models.",
-                "Expect stricter software security audits and enhanced code origin verification tracking across automated model training environments."
+                "Apple files a major lawsuit against OpenAI alleging systemic trade secret theft across multiple system layers.",
+                "The legal confrontation terminates a high profile technology partnership disrupting strategic commercial distribution channels globally.",
+                "Industry experts anticipate deep architectural audits of proprietary training data and foundational model ingestion pipelines.",
+                "Enterprises must re-evaluate multi-vendor risks as regulatory and legal battles threaten foundational model development stability."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SK HYNIX: NASDAQ DEBUT EXCELLENCE",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "SK Hynix registered a powerful thirteen percent surge during its highly anticipated Nasdaq stock market debut.",
-                "High bandwidth memory demand signals unmatched capitalization for advanced chip makers scaling next generation AI hardware.",
-                "Next-generation server infrastructure depends heavily on stable silicon supply chains delivering ultra-dense packaging architectures.",
-                "Global datacenter buildouts will shift dramatically toward high-bandwidth memory integrated solutions to bypass storage speed bottlenecks."
+                "OpenAI officially launches GPT-5.6 introducing advanced frontier intelligence engineered to scale with highly complex workloads.",
+                "The model dramatically improves enterprise orchestration capacities while maintaining compliance with modern global artificial intelligence acts.",
+                "Its neural design features optimized compute allocation to deliver high-signal reasoning at reduced operational execution costs.",
+                "Chief information officers gain access to robust agentic frameworks designed for end-to-end transaction automation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SK HYNIX: NASDAQ DEBUT",
+            "points": [
+                "South Korean memory leader SK Hynix debuts on Nasdaq trading up thirteen percent amid unprecedented demand.",
+                "The listing solidifies Western capital access for scaling high-bandwidth memory production essential to next-generation processors.",
+                "Next-generation silicon packaging relies heavily on SK Hynix hardware to sustain dense tensor processing operations.",
+                "Hardware suppliers and data center operators secure vital supply chains as hardware demand continues scaling aggressively."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "id": 4,
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
             "points": [
-                "AMD finalized a definitive agreement with Rackspace for phased deployment of thirty megawatts of specialized AI compute.",
-                "This deployment enables regulated enterprise clients to scale secure workloads leveraging optimized Epyc and Instinct chipsets.",
-                "Hybrid cloud setups are evolving toward hardware-isolated zones specifically tailored for highly audited compliance workloads.",
-                "Expect rapid enterprise adoption of alternative silicon vendors as hyperscalers look to break current accelerator monopolies."
+                "AMD signs a definitive agreement with Rackspace for a phased thirty-megawatt deployment of enterprise compute.",
+                "The infrastructure expansion provides secure highly regulated environments optimized for executing complex corporate workflows safely.",
+                "Deployments utilize AMD Instinct accelerators and EPYC central processing units to drive dense agentic operations.",
+                "Enterprise tenants gain access to sovereign high-density hardware clusters tailored for compliant cloud compute workloads."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: FOUNDRY MODEL INTEGRATION",
+            "id": 5,
+            "heading": "MICROSOFT: RAYFIN BACKEND",
             "points": [
-                "Anthropic launched Claude Opus four point eight, Sonnet five, and Haiku four point five on Microsoft Foundry.",
-                "Azure users can directly run highly secure agentic workloads with native authentication and compliance controls.",
-                "Cloud architectures now leverage multi-model ecosystems hosted inside unified governance frameworks to prevent API leakage risks.",
-                "Enterprise software developers will build deep automated workflows directly leveraging localized agentic capabilities on secure clouds."
+                "Microsoft Fabric introduces Rayfin a fully managed agent-optimized backend service designed to streamline application development.",
+                "Developers can now deploy low-latency code-optimized backends natively within integrated enterprise data analytics platforms.",
+                "The service features built-in authentication and policy controls to manage autonomous AI agents at scale.",
+                "Engineering teams reduce time-to-market for complex multi-agent applications by leveraging native fabric synchronization tools."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SPACEXAI: GROK ENTERPRISE RELEASE",
+            "id": 6,
+            "heading": "IBM: BOB SDLC ORCHESTRATION",
             "points": [
-                "SpaceXAI launched Grok four point five demonstrating significantly lower operational costs than competing enterprise development tools.",
-                "Benchmark estimates price coding tasks at roughly half the cost of competitive premium developer platforms.",
-                "Architectural strategies must balance raw model accuracy with sustainable token economics across continuous deployment pipelines.",
-                "Developers will shift toward cost-optimized models for routine system maintenance while reserving premium models for complex tasks."
+                "IBM upgrades its Bob AI platform expanding capabilities from simple code generation to complete lifecycle orchestration.",
+                "Development teams can automate complex workflows spanning code deployment continuous integration and software governance protocols.",
+                "The architecture coordinates multi-step development pipelines while enforcing unified enterprise code safety standards automatically.",
+                "CTOs can securely accelerate enterprise software delivery timelines by utilizing end-to-end agentic software development systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "IBM: MAINFRAME HYBRID UPGRADE",
-            "points": [
-                "IBM introduced new zSeventeen and LinuxONE Rockhopper mainframe models engineered specifically for hybrid cloud AI workloads.",
-                "These dense, customizable frames optimize physical server footprints while delivering exceptional security and high-speed processing.",
-                "Enterprise mainframe architectures are integrating dedicated on-chip accelerators to handle real-time transactional fraud detection models.",
-                "Financial institutions will modernize legacy systems using secure on-premise hardware instead of migrating fully to public clouds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "NVIDIA: BIONEMO AGENT DISCOVERY",
+            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
             "points": [
-                "NVIDIA unveiled the BioNeMo Agent Toolkit to power advanced agentic workflows across the scientific research sector.",
-                "Biologists can leverage domain-specific tools and specialized skills to accelerate digital drug discovery pipelines.",
-                "Modern life science platforms are transitioning to agentic frameworks that orchestrate multiple computational models and data sources.",
-                "Automated AI laboratories will dramatically reduce discovery timelines for critical therapies using self-correcting neural agents."
+                "SpaceXAI launches Grok 4.5 boasting significantly lower operational costs per coding task than competitor models.",
+                "The aggressive pricing structure forces a strategic paradigm shift toward highly cost-effective task-specific engineering models.",
+                "Optimization techniques reduce foundational token consumption while maintaining state-of-the-art accuracy on complex software benchmarks.",
+                "Enterprises can scale software engineering pipelines cost-effectively shifting routine maintenance to highly efficient agentic networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
