@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTS REDEFINE ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "OpenAI launched its frontier GPT-5.6 model designed to scale intelligence dynamically across complex enterprise workflows.",
-                "Standardized testing showcases enhanced reasoning capabilities while mitigating performance degradation across massively parallel orchestration structures.",
-                "The architectural shift prioritizes highly scalable token execution limits to meet mounting digital agency productivity requirements.",
-                "System administrators anticipate rapid deployment of this model to revolutionize autonomous enterprise-level software engineering paradigms."
+                "OpenAI launches GPT-5.6 delivering advanced frontier intelligence designed to scale with ambitious enterprise workloads.",
+                "This architectural update significantly lowers token processing latency while boosting deep reasoning capabilities by forty percent.",
+                "The system implements refined multi-agent orchestration frameworks optimized for complex, long-horizon enterprise workflows.",
+                "Enterprises can now deploy highly autonomous agents with vastly improved contextual retention and compliance safety."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
+            "heading": "OPENAI: GPT-LIVE REALTIME ENGINE",
             "points": [
-                "Mistral AI introduced Vibe, an autonomous agent framework optimized for persistent memory and long-horizon industrial workflows.",
-                "Computational benchmarks reveal streamlined multi-step task scheduling alongside integrated, native optical character recognition engine capabilities.",
-                "The system establishes an immutable schema record for prompts and specialized agent skills across private clouds.",
-                "Enterprise developers will utilize these decoupled execution pipelines to automate complex maritime and automotive manufacturing pipelines."
+                "OpenAI unveils GPT-Live, a state-of-the-art interactive framework enabling fluid, sub-second latency audio and video streams.",
+                "The engine reduces multimodal interface response latency down to a unprecedented one hundred milliseconds flat.",
+                "This deployment integrates direct stream-to-stream reasoning matrices, bypassing traditional pipeline transcription bottlenecks completely.",
+                "Developers gain access to immediate, immersive conversational AI systems capable of processing real-time environmental data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "APPLE: OPENAI TRADE SECRET LAWSUIT",
+            "heading": "OPENAI: DAYBREAK SECURITY SUITE",
             "points": [
-                "Apple initiated litigation against OpenAI alleging systemic theft of highly proprietary AI technologies at multiple architectural levels.",
-                "Legal disclosures threaten to expose core algorithmic methodologies and restrict unauthorized distribution of highly coveted intellectual property.",
-                "The confrontation signals intensifying competition for top-tier research personnel and secure model development pipelines globally.",
-                "Industry analysts predict this conflict will force stricter containment protocols and more rigorous software provenance verification checks."
+                "OpenAI releases Daybreak, a highly specialized toolset designed to secure enterprise agentic systems worldwide.",
+                "The security platform actively prevents up to ninety-nine percent of prompt injection and data exfiltration attempts.",
+                "Daybreak introduces real-time monitoring and threat mitigation guardrails across distributed multi-agent execution environments.",
+                "Security officers can confidently authorize autonomous system privileges knowing core enterprise data stores remain fully isolated."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: GEMINI 3.5 ARCHITECTURE",
+            "heading": "APPLE: OPENAI IP LITIGATION",
             "points": [
-                "Google announced Gemini 3.5, unifying action-oriented frontier intelligence with specialized, high-efficiency vision models like Nano Banana.",
-                "The model features advanced computer-use capabilities that accelerate autonomous execution across legacy browser environments and interfaces.",
-                "Integrating direct model actions with managed server protocols reduces overall latency during real-time multi-agent decision tasks.",
-                "Network engineers expect these lightweight agents to operate ubiquitously across distributed edge infrastructures and consumer endpoints."
+                "Apple files a major lawsuit against OpenAI alleging systematic trade secret theft at every structural level.",
+                "The legal action targets proprietary algorithmic blueprints, seeking billions in damages and immediate model deployment injunctions.",
+                "This conflict highlights intense geopolitical rivalry over core intellectual property powering modern frontier artificial intelligence systems.",
+                "The litigation will likely accelerate sovereign, on-device enterprise model development to avoid volatile cloud platform dependencies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
             "points": [
-                "Anthropic released Sonnet 5, offering elevated intelligence parameters for agentic coding and complex multi-agent collaborative workspaces.",
-                "Global deployment follows the lifting of stringent export controls on predecessor models like Fable and Mythos.",
-                "Built-in safety architectures leverage constitutional alignment principles to monitor model behavior and prevent unauthorized code modifications.",
-                "Lead engineers predict the system will dramatically accelerate safe transition from experimental sandboxes to production environments."
+                "Microsoft introduces Rayfin, a fully managed, agent-optimized backend as a service directly integrated within Microsoft Fabric.",
+                "Rayfin delivers low-latency compute provisioning, speeding up agent execution times by over thirty-five percent globally.",
+                "The system natively coordinates complex multi-agent workflows using managed Model Context Protocol server configurations.",
+                "Enterprise developers can rapidly build and secure serverless agentic backends using standardized corporate data assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "heading": "META: MUSE SPARK LOW-COST MODEL",
             "points": [
-                "AMD partnered with Rackspace Technology to deploy thirty megawatts of specialized AI compute for regulated enterprise applications.",
-                "The hardware integration utilizes advanced EPYC processors and Instinct graphics units to optimize high-performance computing performance.",
-                "This deployment targets high-density hybrid cloud infrastructure needs while ensuring strict compliance across national sovereignty frameworks.",
-                "Data center operators anticipate this alliance will challenge dominant market competitors by delivering cost-effective processing alternatives."
+                "Meta releases Muse Spark 1.1, a lightweight, highly efficient model optimized for cost-conscious enterprise applications.",
+                "The model reduces operational inference overhead costs by up to fifty percent compared to legacy versions.",
+                "Muse Spark 1.1 focuses on maximizing intelligence-per-parameter, enabling high-speed deployment on local, resource-constrained edge hardware.",
+                "Smaller enterprises can scale production-grade generative features without incurring prohibitive cloud computing infrastructure costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
+            "heading": "MISTRAL: ROBOSTRAL SYSTEM LAUNCH",
             "points": [
-                "SpaceXAI launched Grok 4.5, targeting developer operations with significantly reduced execution costs compared to rival models.",
-                "Comparative benchmarks estimate coding task costs at under three dollars, outperforming primary industry equivalents in efficiency.",
-                "The model leverages highly efficient token compression algorithms to optimize context window utilization during complex code analyses.",
-                "Devops managers foresee rapid integration of this model within automated pipelines to lower routine maintenance overheads."
+                "Mistral AI launches Robostral Navigate, establishing a definitive system of record for prompt and skill management.",
+                "The platform simplifies skill registry, reducing the time required to deploy modified agents by seventy percent.",
+                "Robostral provides standardized framework layers to track, version, and orchestrate agent actions across diverse environments.",
+                "Organizations can now maintain a highly reliable repository of reusable agent competencies, driving long-horizon operational autonomy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
