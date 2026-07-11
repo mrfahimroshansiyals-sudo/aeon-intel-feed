@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
-        "titleBlue": "SCALE"
+        "titleWhite": "SOVEREIGN AI",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI launches GPT-5.6, a frontier intelligence model focused on agentic scaling and high-ambition enterprise application integration tasks.",
-                "The model introduces enhanced context-sensitive reasoning designed to support complex, multi-step agentic workflows across diverse industrial data environments.",
-                "Strategic deployment focuses on minimizing latency for agentic operations while maximizing intelligence-per-parameter output for large-scale enterprise deployments.",
-                "This release positions OpenAI as a primary infrastructure provider for businesses scaling autonomous agents in high-stakes operational environments."
+                "OpenAI deploys GPT-5.6 frontier intelligence model engineered to scale with enterprise computational ambitions.",
+                "The release reflects strategic compliance adjustments adapted to emerging federal artificial intelligence regulatory environments.",
+                "Systems integrate advanced safety guardrails while maintaining deep contextual reasoning capabilities for enterprise customers.",
+                "Executives project this release will solidify OpenAI's market position as a premier enterprise software vendor."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
+            "heading": "APPLE: OPENAI LAWSUIT",
             "points": [
-                "Google Cloud unveils AI Threat Defense to secure autonomous agentic environments from evolving sophisticated cyber-threats in real-time.",
-                "Integration of Gemini 3.5 into the Agent Platform allows developers to deploy frontier models with enhanced action-oriented capabilities.",
-                "The new Agentic Data Cloud provides scalable, managed infrastructure specifically optimized for orchestrating multi-agent systems at enterprise scale.",
-                "Enhanced security guardrails for MCP servers ensure enterprise-grade compliance for sensitive autonomous cross-platform communication and data exchange."
+                "Apple files a major lawsuit against OpenAI alleging systematic theft of top-secret proprietary information.",
+                "Legal specialists warn this litigation could severely disrupt collaborative trade relationships across Silicon Valley.",
+                "The complaint asserts that intellectual property compromise occurred across multiple layers of core system architecture.",
+                "Corporate analysts anticipate prolonged court proceedings will intensify defensive security auditing among major tech firms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 RELEASE",
+            "heading": "ASML: MISTRAL INTEGRATION",
             "points": [
-                "Anthropic releases Sonnet 5, prioritizing agentic coding capabilities and high-tier reasoning for complex, professional-grade technical development tasks.",
-                "The model provides advanced tool-use features tailored for modern DevOps workflows and software engineering automation environments globally.",
-                "Sonnet 5 integrates directly with Claude Science to facilitate auditable, researcher-centric workflows requiring verifiable data processing and synthesis.",
-                "This launch represents a focused push into enterprise developer tools designed to boost productivity in autonomous coding pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
-            "points": [
-                "Mistral AI introduces Vibe, an autonomous agent platform optimized for long-horizon work and complex, multi-step task scheduling requirements.",
-                "Vibe enables persistent memory and reusable skill libraries, allowing agents to maintain operational continuity across varied enterprise tasks.",
-                "The platform supports edge-to-cloud deployment, providing maximum control for industrial sectors requiring localized AI intelligence and security.",
-                "Vibe for Code provides architecture-aware reasoning capabilities to automate legacy code translation and enterprise software lifecycle management."
+                "ASML integrates customized Mistral AI models to accelerate advanced semiconductor lithography engineering workflows.",
+                "Applying localized intelligence optimizes machine manufacturing throughput while protecting sensitive proprietary hardware blueprints.",
+                "The framework deploys localized open models to ensure strict data governance within the supply chain.",
+                "Chipmakers expect this integration will significantly reduce the timeline for bringing next-generation transistors to market."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: BIONE MO AGENT KIT",
+            "id": 4,
+            "heading": "AMD: RACKSPACE ALLIANCE",
             "points": [
-                "NVIDIA announces the BioNeMo Agent Toolkit, offering domain-specific tools for agents to accelerate complex life sciences research.",
-                "The toolkit integrates seamlessly with existing accelerated computing platforms to enable rapid, large-scale scientific discovery in pharmaceutical industries.",
-                "Continued expansion of NVIDIA Vera Rubin supercomputers across Europe drives the demand for high-performance agentic infrastructure deployments.",
-                "Extreme co-design of chips and energy software enables 40% higher GPU density, maximizing token throughput for enterprise AI factories."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AMD: AGENTIC WORKFLOW SYSTEMS",
-            "points": [
-                "AMD emphasizes the shift toward end-to-end agentic workflows, matching EPYC CPUs and Instinct GPUs to comprehensive enterprise operational needs.",
-                "A definitive partnership with Rackspace Technology for 30 MW of compute capacity marks a strategic expansion in regulated infrastructure.",
-                "AMD remains a front-runner for enterprise server CPUs, focusing on TCO and open ecosystem standards for AI developers.",
-                "Strategic focus on Versal Premium Gen 2 chips boosts memory capacity, addressing critical bottlenecks in high-density AI inference tasks."
+                "AMD secures a definitive partnership with Rackspace to deploy thirty megawatts of advanced AI compute.",
+                "Phased deployment delivers high-performance compute environments specifically tailored for highly regulated corporate workloads.",
+                "The infrastructure relies on optimized enterprise central processing units matched to end-to-end agentic workflows.",
+                "Operators project the deployment will significantly reduce total cost of ownership for private cloud customers."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TSMC: LEADERSHIP SILICON ROADMAP",
+            "id": 5,
+            "heading": "IBM: MAINFRAME UPGRADE",
             "points": [
-                "TSMC highlights the A16 nanosheet technology with Super Power Rail to address critical power delivery challenges for next-gen AI chips.",
-                "Advanced packaging and lithography roadmaps focus on maximizing chip-level performance for high-performance computing and complex agentic AI loads.",
-                "The 2026 Technology Symposium showcases leadership in expansion to meet the surging demand for AI-optimized, energy-efficient semiconductor solutions.",
-                "Strategic focus remains on enabling the global AI ecosystem through high-volume, precision manufacturing and continuous innovation in IC design."
+                "IBM unveils compact z17 mainframe models designed for seamless integration into space-constrained data centers.",
+                "Upgraded LinuxONE servers deliver high-density secure processing capacity for hybrid cloud artificial intelligence operations.",
+                "The physical footprint is optimized to minimize energy consumption while running localized deep learning workloads.",
+                "Enterprise systems architects can now scale secure transaction processing directly inside existing hardware cabinets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
+            "points": [
+                "SpaceXAI launches Grok 4.5 positioning the model as a highly cost-efficient option for enterprise coding.",
+                "Benchmark evaluations indicate coding-task costs are significantly lower than competitive general-purpose artificial intelligence models.",
+                "Optimized inference pipelines reduce computing resource consumption during complex software development lifecycle tasks.",
+                "Software development leaders are initiating real-world pilot tests to validate reported enterprise productivity gains."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MICROSOFT: RAYFIN DEPLOYMENT",
+            "points": [
+                "Microsoft releases Rayfin providing an agent-optimized backend as a service natively integrated into Fabric.",
+                "Developers can deploy scalable serverless infrastructures without managing complex underlying database connection layers.",
+                "The system leverages ultra-low latency data pipelines engineered specifically for real-time autonomous agent operations.",
+                "Enterprise teams can now accelerate deployment timelines for production-grade intelligent applications on Azure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
