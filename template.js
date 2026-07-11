@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTS REDEFINE ENTERPRISE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "NEXT GENERATION AGENTIC",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "OpenAI launches GPT-5.6 delivering advanced frontier intelligence designed to scale with ambitious enterprise workloads.",
-                "This architectural update significantly lowers token processing latency while boosting deep reasoning capabilities by forty percent.",
-                "The system implements refined multi-agent orchestration frameworks optimized for complex, long-horizon enterprise workflows.",
-                "Enterprises can now deploy highly autonomous agents with vastly improved contextual retention and compliance safety."
+                "OpenAI releases GPT-5.6 model introducing advanced reasoning capabilities designed to scale with enterprise digital workflows.",
+                "The model decreases token consumption while maintaining high accuracy benchmarks across multi-agent processing systems.",
+                "This release reflects direct compliance changes aligned with newly established United States artificial intelligence regulations.",
+                "Enterprises will acquire deeper operational automation controls despite shifting global compliance and monitoring policies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-LIVE REALTIME ENGINE",
+            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
             "points": [
-                "OpenAI unveils GPT-Live, a state-of-the-art interactive framework enabling fluid, sub-second latency audio and video streams.",
-                "The engine reduces multimodal interface response latency down to a unprecedented one hundred milliseconds flat.",
-                "This deployment integrates direct stream-to-stream reasoning matrices, bypassing traditional pipeline transcription bottlenecks completely.",
-                "Developers gain access to immediate, immersive conversational AI systems capable of processing real-time environmental data."
+                "Microsoft launches Rayfin as an agent-optimized backend service integrated directly into the Fabric platform environment.",
+                "Developers can deploy autonomous workflows with latency reductions exceeding forty percent compared to traditional cloud backends.",
+                "The service establishes centralized architecture for orchestrating decentralized artificial intelligence agents inside corporate structures.",
+                "Engineering teams will accelerate software delivery lifecycles by shifting away from manual database configuration routines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: DAYBREAK SECURITY SUITE",
+            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
             "points": [
-                "OpenAI releases Daybreak, a highly specialized toolset designed to secure enterprise agentic systems worldwide.",
-                "The security platform actively prevents up to ninety-nine percent of prompt injection and data exfiltration attempts.",
-                "Daybreak introduces real-time monitoring and threat mitigation guardrails across distributed multi-agent execution environments.",
-                "Security officers can confidently authorize autonomous system privileges knowing core enterprise data stores remain fully isolated."
+                "Azure introduces HorizonDB offering ultra-low latency and natively integrated artificial intelligence capabilities for PostgreSQL databases.",
+                "Database query response times drop to single-digit milliseconds while managing petabyte-scale transactions simultaneously.",
+                "This architectural upgrade represents a critical shift toward embedded vector search inside relational database engines.",
+                "Systems architects can now build highly scalable real-time applications without relying on external vector storage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "APPLE: OPENAI IP LITIGATION",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE ARCHITECTURE",
             "points": [
-                "Apple files a major lawsuit against OpenAI alleging systematic trade secret theft at every structural level.",
-                "The legal action targets proprietary algorithmic blueprints, seeking billions in damages and immediate model deployment injunctions.",
-                "This conflict highlights intense geopolitical rivalry over core intellectual property powering modern frontier artificial intelligence systems.",
-                "The litigation will likely accelerate sovereign, on-device enterprise model development to avoid volatile cloud platform dependencies."
+                "Mistral AI launches Robostral Navigate to serve as a decentralized system of record for prompt engineering.",
+                "The toolkit minimizes operational fragmentation by standardizing semantic agent behaviors across complex corporate network structures.",
+                "This platform shifts the agent deployment landscape from transient sessions toward persistent, auditable organizational intelligence.",
+                "Enterprise administrators will achieve complete visibility over distributed agent networks while maintaining local data privacy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
+            "heading": "IBM: Z17 MAINFRAME UPGRADE",
             "points": [
-                "Microsoft introduces Rayfin, a fully managed, agent-optimized backend as a service directly integrated within Microsoft Fabric.",
-                "Rayfin delivers low-latency compute provisioning, speeding up agent execution times by over thirty-five percent globally.",
-                "The system natively coordinates complex multi-agent workflows using managed Model Context Protocol server configurations.",
-                "Enterprise developers can rapidly build and secure serverless agentic backends using standardized corporate data assets."
+                "IBM expands its z17 mainframe and LinuxONE series with space-optimized configurations targeting hybrid cloud workloads.",
+                "The new models deliver massive compute density within standard data center racks, reducing cooling energy requirements.",
+                "This integration brings localized edge-inferencing capabilities straight to highly secure legacy transactional banking infrastructure.",
+                "Financial institutions will perform real-time fraud detection on-premises without transferring sensitive citizen records externally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: MUSE SPARK LOW-COST MODEL",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Meta releases Muse Spark 1.1, a lightweight, highly efficient model optimized for cost-conscious enterprise applications.",
-                "The model reduces operational inference overhead costs by up to fifty percent compared to legacy versions.",
-                "Muse Spark 1.1 focuses on maximizing intelligence-per-parameter, enabling high-speed deployment on local, resource-constrained edge hardware.",
-                "Smaller enterprises can scale production-grade generative features without incurring prohibitive cloud computing infrastructure costs."
+                "NVIDIA releases the BioNeMo Agent Toolkit to accelerate automated scientific discovery in the life sciences sector.",
+                "The framework reduces complex drug discovery pipeline cycles from months to days via agentic simulation platforms.",
+                "This release combines biological foundation models with dynamic planning tools to automate molecular design validation tasks.",
+                "Biotech researchers will deploy scalable autonomous agents that dynamically run wet-lab validation experiments on remote infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL SYSTEM LAUNCH",
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
             "points": [
-                "Mistral AI launches Robostral Navigate, establishing a definitive system of record for prompt and skill management.",
-                "The platform simplifies skill registry, reducing the time required to deploy modified agents by seventy percent.",
-                "Robostral provides standardized framework layers to track, version, and orchestrate agent actions across diverse environments.",
-                "Organizations can now maintain a highly reliable repository of reusable agent competencies, driving long-horizon operational autonomy."
+                "AMD signs a definitive agreement with Rackspace Technology for a thirty megawatt deployment of enterprise compute.",
+                "The phased deployment delivers scalable artificial intelligence compute optimized specifically for highly regulated sovereign enterprise environments.",
+                "This hardware partnership secures high-performance alternative silicon sources to counter ongoing global graphic processing unit shortages.",
+                "Cloud operators will gain guaranteed access to high-density servers capable of running complex next-generation models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
