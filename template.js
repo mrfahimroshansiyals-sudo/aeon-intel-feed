@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC FRONTIER ARCHITECTURE",
+        "titleWhite": "AGENTIC SYSTEM ARCHITECTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "heading": "APPLE: TRADE SECRET LITIGATION",
             "points": [
-                "OpenAI has officially deployed GPT-5.6 delivering highly scalable frontier intelligence designed for complex enterprise workflows.",
-                "Early operational testing shows significant computational efficiency gains over previous generational models across distributed cloud environments.",
-                "The architecture scales dynamically with organizational ambitions while maintaining strict regulatory compliance across global infrastructure layers.",
-                "Enterprise leaders can now execute highly advanced multi-agent systems with substantially reduced latency and higher accuracy rates."
+                "Apple initiated legal action against OpenAI alleging systematic theft of top-secret proprietary information and trade secrets.",
+                "The lawsuit highlights a total collapse in relations between the two Silicon Valley giants amid aggressive competitive scaling.",
+                "Apple claims the data acquisition scheme penetrated multiple levels of its internal organization and sensitive research divisions.",
+                "This conflict signals intensifying intellectual property protectionism as Big Tech entities guard sovereign AI development blueprints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "APPLE: OPENAI LITIGATION",
+            "heading": "SK HYNIX: NASDAQ MARKET ENTRY",
             "points": [
-                "Apple has filed a major lawsuit against OpenAI alleging systemic trade secret and proprietary hardware theft.",
-                "The legal battle threatens to permanently disrupt historical partnerships and reshape intellectual property boundaries in Silicon Valley.",
-                "Allegations state that confidential corporate assets and proprietary developer files were compromised at multiple organizational layers.",
-                "Technology enterprises must now implement aggressive internal hardware auditing measures to mitigate severe litigation risk vectors."
+                "South Korean memory chipmaker SK Hynix successfully debuted on the Nasdaq exchange with stock prices surging 13 percent.",
+                "The firm reported immense demand for its specialized high-bandwidth memory products crucial for modern data center operations.",
+                "Market analysts view this listing as a strategic move to capitalize on the ongoing global AI compute boom.",
+                "SK Hynix aims to leverage new US capital to accelerate production capacity for next-generation generative AI infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,44 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB ARCHITECTURE",
+            "heading": "IBM: ENTERPRISE MAINFRAME UPGRADE",
             "points": [
-                "Microsoft has launched HorizonDB delivering ultra-low latency PostgreSQL database operations integrated with native artificial intelligence capabilities.",
-                "Database administrators report massive query acceleration rates and streamlined scaling performance for mission-critical transactional enterprise applications.",
-                "The database architecture leverages direct Microsoft Fabric integrations to facilitate real-time analytical workflows without data duplication.",
-                "Developers can deploy scalable enterprise systems that combine traditional relational storage with real-time autonomous agent processing."
+                "IBM introduced new rack-style z17 mainframe models optimized specifically for AI-intensive and hybrid cloud processing workloads.",
+                "These hardware additions provide enhanced power and security modules within highly compact and modular deployment configurations.",
+                "The update includes advanced features for managing enterprise-scale LLMs while reducing the physical footprint in data centers.",
+                "IBM is positioning these systems to meet the critical demand for secure, high-performance on-premises AI execution environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
+            "points": [
+                "SpaceXAI officially launched Grok 4.5, targeting a significantly lower cost-per-coding-task compared to established industry competitors.",
+                "Initial performance benchmarks indicate a major shift in operational efficiency for complex enterprise-grade agentic automation workflows.",
+                "The model is designed to facilitate rapid development cycles while maintaining strict adherence to enterprise security protocols.",
+                "Analysts anticipate aggressive market adoption as businesses seek cost-effective alternatives for large-scale software development agent tasks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: FOUNDRY CLAUDE MODELS",
+            "points": [
+                "Anthropic's latest Claude models are now generally available within the Microsoft Foundry enterprise-ready development ecosystem.",
+                "This integration provides teams with centralized authentication, governance controls, and billing management for frontier-scale intelligence models.",
+                "Users can now leverage Opus 4.8 and Sonnet 5 directly through Azure for mission-critical enterprise AI deployment tasks.",
+                "The release underscores Microsoft\u2019s commitment to providing a multi-model environment for sophisticated agentic system architecture requirements."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MISTRAL AI: ROBOSTRAL DEPLOYMENT",
-            "points": [
-                "Mistral AI introduced Robostral Navigate establishing a centralized system of record for autonomous prompts and skills.",
-                "Enterprises can now systematically index autonomous capabilities to ensure predictable execution patterns across complex engineering workflows.",
-                "The framework addresses critical governance demands by tracking prompt behaviors and autonomous operational decisions in real time.",
-                "Organizations will achieve higher reproducibility and audits for multi-agent systems operating across legacy software infrastructures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: OMNI DEPLOYMENT",
-            "points": [
-                "Google DeepMind released Gemini Omni Flash alongside Nano Banana 2 Lite optimized for efficient image creation.",
-                "Developers can access rapid multimodal capabilities that combine native computer use and real-time audio action capabilities.",
-                "The dual-model strategy targets high-throughput edge environments while minimizing token consumption and cloud operational expenditures.",
-                "Companies can integrate highly responsive visual and voice translation agents into consumer-facing mobile applications instantly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO TOOLKIT",
+            "heading": "GOOGLE: AGENTIC DATA CLOUD",
             "points": [
-                "NVIDIA unveiled the BioNeMo Agent Toolkit providing domain-specific tools and skills optimized for scientific discovery.",
-                "Computational biologists can deploy specialized agentic systems that accelerate drug discovery and complex molecular analysis tasks.",
-                "The toolkit integrates seamlessly with existing accelerated computing pipelines to maximize single-thread processing efficiency at scale.",
-                "Life sciences researchers will drastically reduce research and development cycle timelines by utilizing automated agentic reasoning workflows."
+                "Google introduced new agentic capabilities to the Data Cloud platform aimed at accelerating real-time autonomous system action.",
+                "The platform enhancements include automated orchestration tools designed to improve the performance of deep learning compute workloads.",
+                "Organizations can now leverage enhanced Gemini integrations to drive near-real-time business insights from massive datasets efficiently.",
+                "The deployment focuses on simplifying the path to production for developers building the next generation of AI agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEXAI: GROK ENTERPRISE",
+            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY",
             "points": [
-                "SpaceXAI launched Grok 4.5 achieving superior cost efficiencies on software engineering tasks compared to market competitors.",
-                "Benchmark estimates show task costs of under three dollars compared to significantly higher pricing from rival models.",
-                "This release marks the organization's first comprehensive strategic pivot toward serving highly regulated enterprise development environments.",
-                "Software development teams can significantly lower continuous integration and development pipeline costs while maintaining top-tier code quality."
+                "ASML continues to solidify its role as the backbone for global semiconductor manufacturing through advanced lithography innovations.",
+                "The company is actively applying AI-native engineering to improve patterning precision for the most powerful microchips available.",
+                "Expanding manufacturing support in Asia and the US remains a core operational priority for scaling global supply.",
+                "ASML is driving the transition to nanometer-scale chip production, essential for the next era of high-performance computing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
