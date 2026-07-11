@@ -1,34 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE AGENTIC",
-        "titleBlue": "ASCENT"
+        "titleWhite": "SOVEREIGN ENTERPRISE AI",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "APPLE: OPENAI LITIGATION",
             "points": [
-                "Apple files a massive lawsuit against OpenAI alleging systematic theft of top secret proprietary information.",
-                "The litigation threatens multi-billion dollar integrations and disrupts core engineering partnerships across Silicon Valley ecosystems.",
-                "This legal battle underscores growing industry friction over data sovereignty and intellectual property in foundation model training.",
-                "Corporate enterprise legal teams must implement stricter code containment protocols to prevent catastrophic trade secret leaks."
+                "Apple filed a major lawsuit against OpenAI alleging systemic theft of highly sensitive proprietary trade secrets.",
+                "The legal dispute signals a collapse in collaboration between two dominant players in global artificial intelligence.",
+                "Enterprise architectures must now evaluate security vectors concerning shared developer models and proprietary data access.",
+                "Analysts predict this litigation will accelerate defensive engineering and proprietary IP isolation across Big Tech."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com/technology",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
+            "heading": "MICROSOFT: CLAUDE FOUNDRY GA",
             "points": [
-                "SpaceXAI releases Grok four point five to deliver highly efficient, low-cost enterprise coding task execution.",
-                "Performance benchmarks demonstrate massive savings reducing task costs to just two dollars and forty nine cents.",
-                "Low cost compute architectures are successfully shifting developer focus from model size to pure unit economics.",
-                "Competitors must quickly optimize their inference efficiency to prevent rapid client migration toward cheaper automation platforms."
+                "Anthropic generally released Claude Opus, Sonnet, and Haiku models within Microsoft Foundry hosted on Azure.",
+                "Enterprises can now deploy these advanced frontier models utilizing existing authentication, billing, and administrative governance.",
+                "This integration streamlines multi-model deployment strategies while preserving compliance structures within unified cloud environments.",
+                "The availability intensifies the hyperscaler race to host diverse, high-performance cognitive computing architectures safely."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MICROSOFT: TYPESCRIPT 7 GO",
+            "points": [
+                "Microsoft engineered a native Go port for TypeScript seven delivering compile speeds ten times faster.",
+                "The performance breakthrough reduces developer wait times dramatically while maintaining strict type safety across large codebases.",
+                "Refactoring critical runtime engines in systems languages represents a growing trend in software engineering optimization.",
+                "Organizations will benefit from significantly reduced continuous integration costs and accelerated software development lifecycles globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE",
-            "points": [
-                "Microsoft integrates Anthropic Claude five models into Microsoft Foundry with unified enterprise authentication and billing controls.",
-                "Enterprise customers gain instant secure access to advanced reasoning capabilities native to Azure cloud infrastructure networks.",
-                "Multi-model cloud ecosystems are becoming standard as organizations decouple applications from single foundation provider dependencies.",
-                "Developers can rapidly orchestrate diverse agentic fleets while maintaining strict centralized administrative and security oversight."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "SPACEXAI: GROK COST DISRUPTION",
             "points": [
-                "NVIDIA launches the BioNeMo Agent Toolkit to power specialized autonomous discovery pipelines for life sciences researchers.",
-                "Biopharma research labs can deploy specialized AI agents to automate high throughput molecular modeling and screening operations.",
-                "Domain specific agentic workflows are rapidly replacing generic models to solve highly complex, specialized scientific equations.",
-                "Scientific organizations will shift R&D spending toward hyper accelerated simulation architectures rather than traditional wet laboratories."
+                "SpaceXAI launched Grok four point five showcasing significant reduction in enterprise task execution costs.",
+                "Benchmark data indicates task costs at two dollars compared to five dollars for competitive models.",
+                "This aggressive pricing structure shifts focus from parameter scale optimization to operational compute efficiency metrics.",
+                "Enterprise decision makers can optimize automation budgets by selecting models with superior token-to-cost efficiency profiles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: AGENT PLATFORM EXPANSION",
+            "heading": "AMD: RACKSPACE 30MW COMPUTE",
             "points": [
-                "Google Cloud deploys Gemini three point five alongside managed Model Context Protocol servers for agent development.",
-                "The upgraded platform seamlessly unifies real time data ingestion, system action, and secure tool usage orchestration.",
-                "Open integration standards like Model Context Protocol are becoming critical components of modern enterprise agent architectures.",
-                "Businesses will increasingly pivot toward agentic ecosystems capable of acting autonomously across distributed legacy backends."
+                "AMD signed a definitive agreement with Rackspace for a phased thirty megawatt AI compute deployment.",
+                "The deployment will leverage enterprise CPUs and GPUs to power highly regulated operational workloads globally.",
+                "Securing massive physical power and silicon allocations highlights the expanding infrastructure footprint of enterprise cloud providers.",
+                "This partnership positions AMD as a major contender for high-performance server silicon in massive data centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com/blog",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: AGENTIC MALWARE",
+            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE",
             "points": [
-                "Security researchers identify the first fully autonomous agentic ransomware attack executing end-to-end network penetration campaigns.",
-                "Autonomous malware significantly compresses attack timelines requiring defensive systems to operate at pure machine speed thresholds.",
-                "Traditional signature based detection is insufficient against dynamic agents that continuously alter behavior during live exploits.",
-                "Cyber defense teams must deploy defensive AI agents to actively seek out and neutralize malicious machine activity."
+                "Security researchers detected the first fully autonomous ransomware attack executed completely by an artificial intelligence.",
+                "The threat vector highlights immediate needs for real-time behavioral detection rather than traditional signature-based defenses.",
+                "Autonomous execution of complex cyberattacks marks a paradigm shift in enterprise digital threat landscape preparation.",
+                "C-suite leaders must prioritize zero-trust architecture to counter self-propagating machine learning malware agents immediately."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL SYSTEM RELEASE",
+            "heading": "IBM: Z17 ENTERPRISE MAINFRAME",
             "points": [
-                "Mistral AI introduces Robostral Navigate and the Vibe agentic framework for long horizon autonomous coding workflows.",
-                "Software teams use these systems to automate persistent code translation and complex multi-step continuous deployment pipelines.",
-                "Native architecture-aware reasoning enables agents to manage complex software codebases without constant human loop intervention.",
-                "Organizations will dramatically restructure software engineering departments to prioritize high level system architecture over routine syntax writing."
+                "IBM unveiled z17 mainframe models and LinuxONE Rockhopper servers designed specifically for hybrid cloud AI.",
+                "The customized compact hardware form factors enable seamless integration into modern space-constrained enterprise data centers.",
+                "Co-locating deep learning inferencing with legacy transaction processing systems minimizes operational latency for banking institutions.",
+                "This hardware release ensures legacy infrastructure remains highly relevant in the era of high-throughput agentic computing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai/news",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
