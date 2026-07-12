@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "SURGE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALING",
+            "heading": "IBM: MAINFRAME AI EXPANSION",
             "points": [
-                "OpenAI launches GPT-5.6 frontier intelligence designed to scale complex enterprise workloads with unprecedented regulatory alignment.",
-                "The model integrates advanced reasoning capabilities designed to mitigate legal compliance hurdles across diverse international jurisdictions.",
-                "Corporate governance shifts significantly as co-founder Greg Brockman consolidates control ahead of a highly anticipated IPO.",
-                "Legal pressure intensifies simultaneously as Apple files a massive lawsuit alleging systematic trade secret theft."
+                "IBM has expanded its mainframe family with new z17 and LinuxONE Rockhopper models.",
+                "These systems feature specialized rack designs specifically optimized for high-density AI and hybrid clouds.",
+                "New updates to the IBM Bob platform now enable comprehensive SDLC orchestration across enterprise environments.",
+                "These upgrades prioritize secure, high-performance computing in increasingly constrained enterprise data center footprints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: MULTI-AGENT ACTION",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "Google DeepMind launches Gemini 3.5 with native computer use features to automate complex multi-step digital workflows.",
-                "High-efficiency image processing scales rapidly through the deployment of the lightweight Nano Banana 2 Lite model.",
-                "Architectural optimization advances with DiffusionGemma achieving four times faster text generation speeds for latency-sensitive applications.",
-                "Researchers prioritize multi-agent safety frameworks to manage systemic risks associated with millions of interacting autonomous systems."
+                "Anthropic released Sonnet 5, marketed as their most agentic model to date for developers.",
+                "The model offers top-tier intelligence specifically optimized for complex coding tasks and professional workflows.",
+                "This release follows the successful lifting of export controls on Fable 5 and Mythos 5.",
+                "Global users now gain immediate access to these frontier capabilities for large-scale enterprise integration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: AGENTIC BIONEMO TOOLKIT",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Nvidia unveils the BioNeMo Agent Toolkit to deliver domain-specific tools accelerating high-throughput biological discovery.",
-                "Performance gains accelerate via Vera Rubin supercomputers combining native Vera CPUs and next-generation Rubin GPUs.",
-                "Deep agent orchestration reaches benchmark-leading efficiency through localized integration with LangChain and specialized open robotics models.",
-                "Extreme hardware co-design across the networking stack optimizes energy demand to maximize token generation per gigawatt."
+                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate scientific discovery in life sciences research.",
+                "The toolkit provides domain-specific tools designed to empower autonomous agents in complex biology workflows.",
+                "This release marks a significant step in applying frontier AI to accelerate pharmaceutical and genomic cycles.",
+                "Researchers can now utilize pre-built agentic skills to bridge the gap between hypothesis and experimental output."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: ENTERPRISE COMPUTE DEPLOYMENT",
+            "heading": "GITHUB: SECURITY THREAT VECTORS",
             "points": [
-                "AMD secures a major agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute.",
-                "The EPYC CPU family receives critical industry validation from Gartner as the leading platform for enterprise servers.",
-                "Hardware capacity expands through the Versal Premium Gen 2 platform designed to optimize memory performance significantly.",
-                "The widespread availability of Ryzen AI Halo processors delivers robust localized model execution directly to endpoints."
+                "Security researchers identified a campaign using public GitHub APIs to profile enterprise software environments.",
+                "Attackers are leveraging ghost accounts to blend into normal developer activity while mapping internal infrastructures.",
+                "Concurrent reports indicate AI agents are leaking private repositories through sophisticated prompt injection attacks.",
+                "Enterprises must now implement stricter access controls for agents possessing privileged read permissions to codebases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: HORIZONDB DATABASE INTEGRATION",
+            "heading": "MICROSOFT: FOUNDRY MODEL GROWTH",
             "points": [
-                "Microsoft introduces Azure HorizonDB delivering ultra-low latency PostgreSQL storage with native artificial intelligence capabilities.",
-                "Enterprise developers gain seamless access to Anthropic Claude models natively hosted on Azure within the Foundry environment.",
-                "Fully managed backends as a service scale easily using Rayfin optimized specifically for agentic execution pipelines.",
-                "Organizations implement robust control planes to enforce comprehensive security policies across distributed model deployments."
+                "Microsoft announced that Anthropic\u2019s Claude models are now generally available within the Microsoft Foundry.",
+                "Enterprise customers can access Opus 4.8, Sonnet 5, and Haiku 4.5 using existing Azure authentication.",
+                "This integration centralizes AI model management, billing, and governance controls for large-scale corporate deployments.",
+                "The Foundry platform continues to expand its catalog of optimized backend services for agentic applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: AGENTIC SONNET UPGRADE",
+            "heading": "GOOGLE: AI THREAT DEFENSE",
             "points": [
-                "Anthropic releases Claude Sonnet 5 establishing a highly capable agentic intelligence standard for complex coding tasks.",
-                "The specialized Claude Science application launches to provide researchers with highly secure and completely auditable workspaces.",
-                "Regulatory clearances enable the global redeployment of Fable 5 after lifting strict international export controls.",
-                "Enterprise developers leverage these updated systems to construct highly resilient autonomous workflows across legacy infrastructure environments."
+                "Google Cloud introduced AI Threat Defense to help enterprises proactively identify and outpace AI-driven adversaries.",
+                "The platform provides native security tools integrated directly into the Google Cloud infrastructure layer.",
+                "These defensive measures are designed to monitor agentic workflows and neutralize malicious automated traffic patterns.",
+                "Security operations teams gain real-time visibility into AI-enabled breach attempts across their entire cloud estate."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEXAI: GROK 4.5 EFFICIENCY",
+            "heading": "AMD: HPC INFRASTRUCTURE SCALE",
             "points": [
-                "SpaceXAI debuts Grok 4.5 establishing highly competitive benchmarks for enterprise-grade autonomous software engineering execution.",
-                "The system significantly undercuts primary industry rivals with coding task costs optimized to under three dollars.",
-                "This pricing advantage challenges traditional software development paradigms by dramatically lowering barriers to autonomous code generation.",
-                "Industry analysts emphasize that long-term enterprise adoption remains highly dependent on rigorous real-world testing environments."
+                "AMD reinforced its position in the AI server market following recent recognition as a vendor leader.",
+                "The company is accelerating deployment of massive AI compute clusters to serve regulated enterprise workloads.",
+                "Ongoing projects focus on maximizing TCO and energy efficiency across massive data center compute footprints.",
+                "Strategic focus remains on providing CPU and GPU combinations tailored for end-to-end agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
