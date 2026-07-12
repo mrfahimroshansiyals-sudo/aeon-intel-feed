@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS SYSTEMS",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "ASCENDANCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "OpenAI has launched GPT-5.6 delivering frontier intelligence optimized for complex enterprise-level cognitive processing tasks.",
-                "Real-world testing shows advanced regulatory alignment while scaling productivity across heavily scrutinized global enterprise workflows.",
-                "The model incorporates refined safety guardrails to comply with shifting United States federal AI deployment frameworks.",
-                "Decision-makers must rapidly adapt governance models to integrate highly regulated general-purpose artificial intelligence networks."
+                "Anthropic officially launched Sonnet 5 today featuring advanced agentic reasoning capabilities for complex professional coding tasks.",
+                "This model integrates directly into Claude Science to facilitate automated research, auditable artifact creation, and flexible compute access.",
+                "Global availability begins tomorrow July 1 as the firm expands its reach into enterprise-grade high-intelligence automation suites.",
+                "Analysts suggest this release positions Anthropic as a primary competitor for autonomous multi-step enterprise workflows and synthesis."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "SpaceXAI released Grok 4.5 aggressively targeting enterprise coding pipelines with significantly reduced transactional token overhead.",
-                "Benchmark metrics show task execution costs at two dollars forty-nine cents, beating rival platforms.",
-                "This cost-efficient performance shifts developer focus from massive model scale toward highly optimized compute budgets.",
-                "Enterprises will restructure software development lifecycles to exploit massive financial savings from cost-optimized autonomous agents."
+                "Google DeepMind introduced the Gemini 3.5 series focusing on bridging frontier intelligence with real-time actionable computer use.",
+                "The release includes Gemini Omni Flash and Nano Banana 2 Lite models designed for extreme efficiency and speed.",
+                "New research partnerships and safety protocols aim to secure multi-agent systems within complex enterprise and scientific environments.",
+                "These updates emphasize a shift toward autonomous agents that can plan, reason, and execute tasks across diverse platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE HORIZONDB RELEASE",
+            "heading": "MISTRAL AI: ROBOSTRAL INTEGRATION",
             "points": [
-                "Microsoft launched Azure HorizonDB to bring ultra-low latency reads and native artificial intelligence integration to PostgreSQL.",
-                "Enterprises can now deploy mission-critical transactional applications that scale dynamically without experiencing performance degradation.",
-                "This cloud-native database architecture merges relational reliability with optimized vector search and real-time processing capabilities.",
-                "Systems engineers will increasingly migrate legacy databases to unified, AI-native relational cloud infrastructures for speed."
+                "Mistral AI unveiled Robostral to serve as a system of record for managing complex prompts and agentic skills.",
+                "New Vibe agents provide long-horizon task execution capabilities for document synthesis and persistent memory-based business workflows.",
+                "The platform supports comprehensive agent orchestration with enterprise-grade observability and guardrails for production-ready model deployment.",
+                "This suite enables organizations to maintain control while scaling autonomous AI applications from edge to cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "APPLE: OPENAI TRADE LAWSUIT",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Apple filed a massive lawsuit against OpenAI alleging systematic trade secret theft executing at every organization level.",
-                "The litigation injects unprecedented legal uncertainty into commercial enterprise agreements and cross-industry model licensing frameworks.",
-                "Legal battles threaten to expose proprietary architectural training methodologies and confidential algorithmic developments during discovery.",
-                "Corporate legal departments will demand stricter indemnity guarantees before approving deep integration of proprietary third-party models."
+                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific tools for agentic life sciences.",
+                "The platform utilizes extreme co-design across chips and infrastructure to maximize token revenue per gigawatt of power consumption.",
+                "Supercomputer development in Europe reaches record levels with 35 new NVIDIA AI HPC systems currently under active construction.",
+                "This infrastructure layer is critical for scaling agentic reasoning across energy-intensive industrial and academic research organizations globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "heading": "AZURE: FOUNDRY MODELS ENABLED",
             "points": [
-                "Mistral AI announced Robostral Navigate alongside Mistral OCR 4 to enable persistent memory for autonomous workflows.",
-                "The system orchestrates long-horizon tasks across complex enterprise applications with complete data privacy and deployment flexibility.",
-                "Highly specialized open weights allow organizations to customize agentic capabilities on sovereign data centers without vendor lock-in.",
-                "Systems integrators will deploy customized local agents to execute complex multi-step schedules safely behind corporate firewalls."
+                "Microsoft Azure now provides general availability for Claude 5 models hosted directly within the enterprise-grade Foundry platform.",
+                "New Rayfin backend-as-a-service offers agent-optimized infrastructure designed to integrate seamlessly into existing Azure billing and governance controls.",
+                "Azure HorizonDB launches to provide PostgreSQL users with built-in AI capabilities and ultra-low latency for mission-critical applications.",
+                "These additions demonstrate Microsoft's commitment to consolidating fragmented AI tools into a single managed enterprise ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IBM: MAINFRAME Z17 INTEGRATION",
+            "heading": "TSMC: A16 NANOSHEET PRODUCTION",
             "points": [
-                "IBM expanded the z17 mainframe family with custom rack models optimized for high-performance enterprise hybrid cloud environments.",
-                "Hardware optimizations accelerate local machine learning workloads directly alongside critical transactional system data in localized footprints.",
-                "The integrated architecture features updated IBM Bob capabilities to seamlessly orchestrate the entire software development lifecycle.",
-                "Infrastructure leaders can modernize legacy core systems without triggering security risks or violating strict data governance laws."
+                "TSMC is scaling its A16 nanosheet technology with Super Power Rail to support high-performance AI compute demands.",
+                "The roadmap focuses on extending leadership in silicon manufacturing for next-generation HPC and autonomous AI inference chips.",
+                "Global symposia highlight the critical role of the NanoFlex Pro ecosystem in driving energy-efficient AI model performance.",
+                "Capacity expansion plans for the A16 process remain aligned with high enterprise demand for advanced logic semiconductor nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: MICROSOFT FOUNDRY GA",
+            "heading": "IBM: MAINFRAME AI INTEGRATION",
             "points": [
-                "Anthropic made its frontier Claude model family generally available within Microsoft Foundry hosted natively on Azure.",
-                "Organizations can now deploy Sonnet five and Opus models with existing Azure billing and governance controls.",
-                "This multi-cloud hosting framework secures agent-optimized workloads using enterprise-grade authentication and strict structural policy guardrails.",
-                "Enterprise developers will rapidly scale multi-agent architectures utilizing unified cloud control planes and standardized billing models."
+                "IBM has expanded its mainframe family with new z17 and LinuxONE models targeting AI-driven hybrid cloud integration.",
+                "These hardware upgrades aim to provide secure, dense compute environments specifically for enterprise-level agentic task orchestration.",
+                "Recent updates to the IBM Bob platform enable end-to-end SDLC management beyond simple code generation capabilities for developers.",
+                "Mainframe integration allows organizations to modernize legacy IT infrastructure while maintaining rigorous regulatory compliance and security standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
