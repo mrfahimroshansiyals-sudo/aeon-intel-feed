@@ -1,86 +1,86 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COGNITIVE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "NEXT GENERATION AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "OpenAI launches GPT-5.6 frontier intelligence model engineered to scale with complex enterprise compute architectures.",
-                "The model release adapts to evolving international AI regulations while providing enhanced enterprise scaling configurations.",
-                "Integrated API platforms allow organizations to deploy highly specialized reasoning workflows on secure sovereign cloud instances.",
-                "Technical architects anticipate significant productivity gains across complex multi-agent orchestrations using optimized prompt token structures."
+                "OpenAI releases GPT-5.6 offering highly scalable frontier intelligence designed specifically for complex enterprise operations.",
+                "Real-time benchmarking shows significant reasoning performance improvements while reducing multi-turn conversation token usage overhead.",
+                "The model integrates advanced contextual tracking to mitigate data drift across massive multi-tenant cloud ecosystems.",
+                "Organizations can immediately deploy the architecture to automate highly sensitive transaction processing pipelines securely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "SpaceXAI launches Grok 4.5 targeting enterprise coding tasks with aggressive low-cost pricing structures.",
-                "Cost comparisons estimate Grok 4.5 at two dollars forty-nine cents per task undermining expensive market rivals.",
-                "Enterprise tech leaders must evaluate real-world software development lifecycle benchmarks beyond synthetic coding efficiency claims.",
-                "The competitive pricing pressure forces rival generative models to optimize their underlying operational token cost models."
+                "Microsoft unveils Azure HorizonDB providing ultra-low latency PostgreSQL performance optimized for large-scale enterprise AI agents.",
+                "The database native engine enables scalable reads and immediate context injection without compromising transaction throughput.",
+                "Integrated AI capabilities simplify retrieval-augmented generation architectures directly within the managed PostgreSQL cloud database ecosystem.",
+                "Infrastructure leaders can utilize HorizonDB to decouple heavy analytical pipelines from critical core transactional systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "APPLE: OPENAI LITIGATION",
+            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
             "points": [
-                "Apple files a major lawsuit alleging systemic trade secret theft by OpenAI across multiple development levels.",
-                "Legal documents claim proprietary AI technologies were wrongfully acquired to accelerate competitive commercial model capabilities.",
-                "This massive intellectual property conflict threatens collaborative partnerships and creates compliance uncertainty for enterprise integrations.",
-                "Industry analysts predict stricter data governance protocols as corporations seek to protect key software engineering assets."
+                "SpaceXAI launches Grok 4.5 targeting enterprise development with highly competitive coding-task cost structures.",
+                "Independent benchmarks evaluate the model execution cost at less than half of existing market alternatives.",
+                "The architecture optimizes deep code-base parsing to accelerate legacy translation and automate multi-step development pipelines.",
+                "Engineering teams can scale autonomous agent workflows while minimizing overall cloud token consumption expenses."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "IBM: Z17 MAINFRAME UPGRADE",
             "points": [
-                "Microsoft introduces Azure HorizonDB delivering ultra-low latency PostgreSQL performance engineered specifically for AI integrations.",
-                "The database integrates scalable reads with built-in artificial intelligence to power mission-critical enterprise applications.",
-                "Concurrent deployment of Rayfin provides a fully managed, agent-optimized backend-as-a-service natively within Microsoft Fabric.",
-                "Systems architects can now build, adapt, and scale distributed database workloads without suffering typical latency bottlenecks."
+                "IBM introduces new compact rack models for the z17 mainframe series targeting localized enterprise AI.",
+                "The hardware optimizes deep hybrid cloud operations by packing high-density processing power into standard datacenter frames.",
+                "Dedicated on-chip accelerators deliver real-time fraud detection and secure transaction processing at microsecond latency thresholds.",
+                "Enterprise architects can now run massive neural network inference tasks alongside legacy core database structures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE DETECTION",
+            "heading": "META: MUSE SPARK RELEASE",
             "points": [
-                "Security researchers identify the first fully autonomous agentic ransomware attack executing end-to-end network penetration.",
-                "The malicious AI model automatically orchestrates sophisticated intrusion tactics without requiring active human operator intervention.",
-                "Traditional perimeter defenses prove insufficient against real-time adaptive threats that mimic legitimate internal system administrators.",
-                "Security operations centers must rapidly deploy cognitive threat intelligence models to intercept automated ransomware pipelines."
+                "Meta launches Muse Spark 1.1 delivering high-efficiency visual generation capabilities designed for resource-constrained environments.",
+                "The lightweight model addresses growing industry concerns over runaway computing budgets and high operational GPU costs.",
+                "Optimized weights enable rapid edge deployment across decentralized endpoints without sacrificing high-fidelity generation accuracy.",
+                "Corporate decision-makers can reduce expensive cloud infrastructure dependencies by leveraging localized open-source model architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -89,30 +89,30 @@ const dailyData = {
             "id": 6,
             "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "NVIDIA launches the BioNeMo Agent Toolkit providing highly specialized tools for advanced agentic life sciences research.",
-                "The specialized framework enables researchers to deploy autonomous AI agents capable of accelerating critical drug discovery.",
-                "Integration within Claude Science combines frontier intelligence models with specialized scientific packages and physical compute infrastructure.",
-                "Biological engineering workflows are transitioning toward automated molecular modeling, drastically reducing initial pre-clinical simulation timelines."
+                "NVIDIA introduces the BioNeMo Agent Toolkit to orchestrate specialized autonomous pipelines in the life sciences.",
+                "The framework provides researchers with domain-specific tools to automate molecular modeling and accelerate drug discovery phases.",
+                "This agentic architecture integrates directly with secure cloud computing infrastructure to coordinate massive parallel simulations.",
+                "Pharmaceutical laboratories can streamline complex scientific workflows by deploying self-correcting neural agents across target databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "META: MUSE SPARK LAUNCH",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE RELEASE",
             "points": [
-                "Meta releases Muse Spark 1.1 to optimize enterprise digital asset generation under tight budget conditions.",
-                "The lightweight image model provides a cost-effective alternative for small and medium-sized business marketing operations.",
-                "Deployment occurs amid increasing industry scrutiny regarding the true operational return on expensive cloud infrastructure investments.",
-                "Scaled enterprises are shifting priority from massive foundational models toward targeted, highly efficient vertical model architectures."
+                "Mistral launches Robostral Navigate establishing an advanced system of record for managing custom prompt skills.",
+                "The platform enables organizations to register, audit, and systematically track agent capabilities across diverse business applications.",
+                "Decentralized development teams can secure multi-agent systems by implementing unified version control and access management.",
+                "The tooling mitigates operational risks associated with unauthorized model behavioral drift during autonomous task execution processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
