@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE INFRASTRUCTURE",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "FRONTIER COGNITIVE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 COMPLIANCE LAUNCH",
+            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
             "points": [
-                "OpenAI deployed its frontier model GPT-5.6 under newly clarified federal oversight and compliance procedures.",
-                "The model exhibits advanced general-purpose capabilities while aligning with the strict regulatory mandates of 2026.",
-                "Enterprise architects can leverage expanded parameters through secure API nodes with native government guardrails integrated.",
-                "Future deployment models will increasingly prioritize state-sanctioned compliance layers over pure compute scaling metrics."
+                "OpenAI launches GPT-5.6 frontier intelligence model engineered to scale with complex enterprise compute architectures.",
+                "The model release adapts to evolving international AI regulations while providing enhanced enterprise scaling configurations.",
+                "Integrated API platforms allow organizations to deploy highly specialized reasoning workflows on secure sovereign cloud instances.",
+                "Technical architects anticipate significant productivity gains across complex multi-agent orchestrations using optimized prompt token structures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 COST DISRUPTION",
+            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
             "points": [
-                "SpaceXAI launched Grok 4.5 targeting massive enterprise cost reductions across high-throughput software development cycles.",
-                "Benchmark metrics demonstrate coding costs of two dollars forty-nine cents compared to competitive enterprise platforms.",
-                "The architecture relies on streamlined token-routing efficiencies to dramatically undercut legacy cloud processing expenses.",
-                "Technical leaders must evaluate real-world developer agent performance against these aggressive synthetic operational cost baselines."
+                "SpaceXAI launches Grok 4.5 targeting enterprise coding tasks with aggressive low-cost pricing structures.",
+                "Cost comparisons estimate Grok 4.5 at two dollars forty-nine cents per task undermining expensive market rivals.",
+                "Enterprise tech leaders must evaluate real-world software development lifecycle benchmarks beyond synthetic coding efficiency claims.",
+                "The competitive pricing pressure forces rival generative models to optimize their underlying operational token cost models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE HORIZONDB ARCHITECTURE",
+            "heading": "APPLE: OPENAI LITIGATION",
             "points": [
-                "Microsoft launched Azure HorizonDB to deliver ultra-low latency reads and integrated artificial intelligence for PostgreSQL databases.",
-                "Additionally Anthropic's Claude frontier models are now fully integrated and generally available within Microsoft Foundry.",
-                "The combination permits direct orchestration of multi-agent workloads with enterprise security, authentication, and compliance governance.",
-                "System engineers will experience simplified vector storage scaling alongside native model registry pipeline automation controls."
+                "Apple files a major lawsuit alleging systemic trade secret theft by OpenAI across multiple development levels.",
+                "Legal documents claim proprietary AI technologies were wrongfully acquired to accelerate competitive commercial model capabilities.",
+                "This massive intellectual property conflict threatens collaborative partnerships and creates compliance uncertainty for enterprise integrations.",
+                "Industry analysts predict stricter data governance protocols as corporations seek to protect key software engineering assets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit providing specialized domain skills for AI agents in life sciences.",
-                "The platform automates drug discovery pipelines by accelerating molecular simulation models on specialized hardware fabrics.",
-                "Researchers can leverage these pre-built tools within collaborative environments like Claude Science to streamline analysis.",
-                "This release signals a critical shift toward highly verticalized multi-agent systems within complex industrial laboratories."
+                "Microsoft introduces Azure HorizonDB delivering ultra-low latency PostgreSQL performance engineered specifically for AI integrations.",
+                "The database integrates scalable reads with built-in artificial intelligence to power mission-critical enterprise applications.",
+                "Concurrent deployment of Rayfin provides a fully managed, agent-optimized backend-as-a-service natively within Microsoft Fabric.",
+                "Systems architects can now build, adapt, and scale distributed database workloads without suffering typical latency bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: Z17 MAINFRAME INTEGRATION",
+            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE DETECTION",
             "points": [
-                "IBM expanded its z17 mainframe and LinuxONE Rockhopper lines to optimize high-performance hybrid cloud architectures.",
-                "Simultaneously the upgraded IBM Bob platform orchestrates the complete software development life cycle using agentic systems.",
-                "The physical frames are engineered to maximize processing density while matching the demanding requirements of enterprise AI.",
-                "Legacy environments can modernise without triggering compliance risks by embedding autonomous orchestration deep within secure hardware."
+                "Security researchers identify the first fully autonomous agentic ransomware attack executing end-to-end network penetration.",
+                "The malicious AI model automatically orchestrates sophisticated intrusion tactics without requiring active human operator intervention.",
+                "Traditional perimeter defenses prove insufficient against real-time adaptive threats that mimic legitimate internal system administrators.",
+                "Security operations centers must rapidly deploy cognitive threat intelligence models to intercept automated ransomware pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: MUSE SPARK EFFICIENCY",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Meta launched Muse Spark one point one to address rising enterprise concerns over runaway token utilization costs.",
-                "This lightweight model offers small businesses a cost-effective alternative for generative image and document processing tasks.",
-                "The architectural footprint is optimized for low-latency inference on standard consumer-grade and enterprise edge compute hardware.",
-                "Deploying specialized lightweight models will help enterprises balance functional intelligence against restricted infrastructure capital expenditures."
+                "NVIDIA launches the BioNeMo Agent Toolkit providing highly specialized tools for advanced agentic life sciences research.",
+                "The specialized framework enables researchers to deploy autonomous AI agents capable of accelerating critical drug discovery.",
+                "Integration within Claude Science combines frontier intelligence models with specialized scientific packages and physical compute infrastructure.",
+                "Biological engineering workflows are transitioning toward automated molecular modeling, drastically reducing initial pre-clinical simulation timelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE CLOUD: REMOTE MCP STANDARD",
+            "heading": "META: MUSE SPARK LAUNCH",
             "points": [
-                "Google Cloud introduced fully-managed remote Model Context Protocol servers to standardize enterprise agent development and orchestration.",
-                "The integration enables seamless context sharing across distributed microservices, databases, and multi-agent systems on Google Cloud.",
-                "Developers can now build secure, unified connections between front-end interfaces and complex back-end processing pipelines.",
-                "Standardizing context protocols will eliminate proprietary architectural silos, fostering a highly interoperable agentic cloud ecosystem."
+                "Meta releases Muse Spark 1.1 to optimize enterprise digital asset generation under tight budget conditions.",
+                "The lightweight image model provides a cost-effective alternative for small and medium-sized business marketing operations.",
+                "Deployment occurs amid increasing industry scrutiny regarding the true operational return on expensive cloud infrastructure investments.",
+                "Scaled enterprises are shifting priority from massive foundational models toward targeted, highly efficient vertical model architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
