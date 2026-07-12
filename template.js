@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DEEP ENTERPRISE INFRASTRUCTURE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 ENTERPRISE SCALE",
+            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
             "points": [
-                "OpenAI introduces GPT-5.6 frontier intelligence model built specifically to scale with highly ambitious enterprise workloads.",
-                "Real-world benchmark estimations demonstrate significant capability improvements while maintaining cost efficiencies across parallel computing pipelines.",
-                "The architectural release showcases how OpenAI continues its strategic evolution toward becoming a pure enterprise-first vendor.",
-                "Enterprise builders expect these compliance-aligned models to rapidly accelerate production-level agent deployments across multiple industries."
+                "OpenAI deploys GPT-5.6 model introducing frontier intelligence designed to scale with highly ambitious enterprise workloads.",
+                "Real-time benchmarks show enhanced operational capabilities, though pricing dynamics prompt intensive cost-to-performance calculation audits.",
+                "The release follows strategic structural realignment and a confidential draft S-1 filing to the SEC.",
+                "Organizations must balance high-performance reasoning benefits against rising transactional token expenses across active deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FOUNDRY INTEGRATION OF CLAUDE",
+            "heading": "APPLE: OPENAI LITIGATION FILED",
             "points": [
-                "Anthropic frontier Claude models including Opus and Sonnet are now generally available within Microsoft Foundry.",
-                "The hosting on Azure enables enterprises to implement native billing alongside centralized compliance governance controls.",
-                "This deployment allows enterprise software teams to seamlessly orchestrate complex long-horizon agentic workflows across clouds.",
-                "Analysts project this multi-model hosting alliance will intensify hybrid cloud compute wars among major hyperscalers."
+                "Apple files a major lawsuit against OpenAI alleging systematic trade secret theft at every operational level.",
+                "The litigation challenges proprietary framework IP boundaries and potentially disrupts developer ecosystem partnership architectures globally.",
+                "Legal actions signal intensifying sovereign platform battles as consumer tech giants defend their proprietary software stacks.",
+                "Enterprise architects must audit dual-platform dependency risks to mitigate downstream compliance and third-party integration liability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: MUSE SPARK ENTERPRISE RELEASE",
+            "heading": "NVIDIA: NEMOTRON LANGCHAIN HARNESS",
             "points": [
-                "Meta launches Muse Spark one point one targeting cost-sensitive enterprise artificial intelligence budgets globally.",
-                "The low-cost model optimized for SMBs delivers highly efficient image generation capabilities without massive infrastructure overheads.",
-                "Developers can access streamlined deployment pathways to integrate lightweight media models directly into legacy enterprise software.",
-                "Industry experts anticipate this release will force competitors to drastically lower pricing for entry-level generative APIs."
+                "NVIDIA Nemotron achieves benchmark-leading performance utilizing the LangChain deep agent harness for autonomous operations.",
+                "System reduces multi-agent reasoning latencies, providing optimized orchestration across distributed data center infrastructure networks.",
+                "Accelerated hardware integration drives deep co-design capabilities across liquid-cooled Vera Rubin GPU architecture platforms.",
+                "Engineers can construct low-latency agentic workflows utilizing native microservices directly integrated into global supercomputing fabrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: MAINFRAME HYBRID CLOUD INTEGRATION",
+            "heading": "SPACEXAI: GROK 4.5 DEPLOYED",
             "points": [
-                "IBM announces zSeventeen mainframe models and LinuxOne Rockhopper servers designed for modern high-density data centers.",
-                "The compact customizable physical footprints enable hybrid cloud architectures to process intensive local AI workloads securely.",
-                "These hardware upgrades directly address physical space constraints while providing robust localized hardware security parameters.",
-                "Data center operators expect these integrations to extend the operational lifetime of legacy enterprise mainframes."
+                "SpaceXAI rolls out Grok 4.5 targeting enterprise coding tasks at highly aggressive price-to-performance metrics.",
+                "Task execution costs drop to nearly half of rival models, accelerating the commoditization of agentic programming.",
+                "This launch forces a margin squeeze across established API providers offering developer-centric automated coding solutions.",
+                "CIOs must evaluate alternative modeling options to optimize internal developer productivity margins without sacrificing execution safety."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEXAI: GROK ENTERPRISE CODING DEBUT",
+            "heading": "AMD: RACKSPACE COMPUTE AGREEMENT",
             "points": [
-                "SpaceXAI launches Grok four point five introducing significant cost reductions for complex automated coding tasks.",
-                "Benchmark estimates show coding costs dropping to under three dollars per task beating primary rival models.",
-                "The architectural performance offers massive budget relief for software development organizations deploying autonomous agentic networks.",
-                "Lead engineers predict this aggressive price strategy will trigger an enterprise-wide shift toward autonomous agentic development."
+                "AMD secures a phased deployment agreement with Rackspace Technology to supply thirty megawatts of enterprise AI compute.",
+                "Regulated industries gain dedicated infrastructure environments tailored for secure, high-throughput model execution and training.",
+                "The deal reinforces AMD's market gains as the current vendor to beat for enterprise server CPUs.",
+                "Operators of sensitive workloads can leverage sovereign cloud options that bypass traditional hyperscaler hardware lock-in."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAP: EU COMPLIANCE LICENSING CONCESSIONS",
+            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE THREAT",
             "points": [
-                "SAP concedes to European Commission pressure freeing enterprise customers from highly restrictive on-premises support policies.",
-                "The regulatory shift allows global organizations to maintain legacy software without facing immediate forced cloud migrations.",
-                "IT leaders gain unprecedented strategic flexibility as they prepare for the critical twenty twenty-seven enterprise upgrade deadline.",
-                "Enterprise advisors warn that licensing changes will demand comprehensive audits of current infrastructure asset portfolios."
+                "Security experts identify the first fully autonomous agentic ransomware attack executing a complete network compromise operation.",
+                "Automated deployment methods demand real-time telemetry detection tools rather than traditional signature-based static defensive playbooks.",
+                "Autonomous threat actors exploit privilege escalations and unprotected API channels to bypass legacy network access perimeters.",
+                "Security teams must deploy continuous agentic monitoring solutions to immediately intercept malicious automated workflows at the edge."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "APPLE: OPENAI INTELLECTUAL PROPERTY LAWSUIT",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
             "points": [
-                "Apple initiates landmark litigation against OpenAI alleging systemic theft of top-secret proprietary tech assets.",
-                "The lawsuit claims trade secret misappropriation occurred at every organizational level within OpenAI training pipelines.",
-                "This legal escalation introduces severe operational risks for corporate partners relying heavily on target generative models.",
-                "Corporate attorneys expect heightened intellectual property scrutiny to significantly disrupt impending artificial intelligence public offerings."
+                "Microsoft Foundry registers general availability of Anthropic Claude models including Opus four point eight and Sonnet five.",
+                "Developers gain access to highly agentic reasoning agents combined with enterprise-grade authentication and billing controls.",
+                "Multi-tenant hosting environments are increasingly standardizing model registries to offer secure, vendor-agnostic infrastructure access options.",
+                "Enterprise teams can securely build complex agentic pipelines within established compliance boundaries of their existing cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
