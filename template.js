@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE COGNITIVE ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "INTELLIGENT AGENT",
+        "titleBlue": "SCALE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
             "points": [
-                "OpenAI releases GPT-5.6 to deliver scalable frontier intelligence for highly ambitious enterprise workflows.",
-                "The model optimizes advanced multi-agent orchestration and decreases latent compute overhead across deep deployments.",
-                "This architectural leap establishes sovereign compliance frameworks to address expanding federal guidelines and restrictions.",
-                "Organizations can safely deploy customized cognitive nodes without risking internal operational data leakage."
+                "OpenAI officially deploys GPT-5.6 delivering highly scalable frontier intelligence for advanced multi-agent enterprise automation workflows.",
+                "The model architecture optimizes token efficiency to support complex reasoning tasks at significantly reduced operational costs.",
+                "This deployment marks a major shift towards stateful, continuous-execution environments integrated directly into corporate database layers.",
+                "Enterprise architects can now leverage deeper contextual awareness to orchestrate autonomous business processes securely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
+            "heading": "SPACEXAI: GROK 4.5 CODING COST REDUCTION",
             "points": [
-                "SpaceXAI launches Grok 4.5 to aggressively capture the enterprise code generation market share.",
-                "Benchmark testing establishes a highly competitive cost of two dollars forty-nine cents per task.",
-                "This pricing drastically undercuts alternative industry offerings including GPT-5.5 and Claude-based developer platforms.",
-                "Enterprise software teams can scale massive codebase migrations while maintaining minimal API token spending."
+                "SpaceXAI launches Grok 4.5 to compete directly with leading models in enterprise software development environments.",
+                "Benchmark estimates place Grok 4.5 task costs at two dollars and forty-nine cents versus five dollars for rivals.",
+                "The release targets the cost-heavy compilation phase by introducing highly specialized context-compression techniques.",
+                "Software development teams can dramatically scale autonomous agent operations without facing runaway cloud infrastructure token budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "APPLE: OPENAI TRADE LAWSUIT",
+            "heading": "MICROSOFT: CLAUDE AZURE INTEGRATION",
             "points": [
-                "Apple initiates legal proceedings against OpenAI alleging systematic trade secret theft at every structural level.",
-                "The litigation scrutinizes unauthorized proprietary asset integration and talent acquisition strategies across critical divisions.",
-                "This high-stakes dispute introduces massive regulatory uncertainty for organizations utilizing joint commercial platforms.",
-                "Global compliance directors must rapidly audit external model dependencies to mitigate downstream IP liabilities."
+                "Microsoft announces the general availability of Anthropic Claude models within its secure Azure Foundry enterprise platform.",
+                "Administrators can now deploy Opus four point eight and Sonnet five with centralized governance and compliance controls.",
+                "The architecture leverages native Azure security frameworks to eliminate data exposure risks during model inference phases.",
+                "Organizations gain a unified dashboard to orchestrate multi-vendor LLM configurations while maintaining robust data sovereignty."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT RELEASE",
             "points": [
-                "Microsoft announces general availability of Anthropic Claude models inside the Azure Foundry control plane.",
-                "The deployment provides unified billing alongside rigorous enterprise authentication and automated governance systems.",
-                "Developers gain direct API access to Opus and Sonnet models backed by Microsoft security.",
-                "Hybrid cloud architectures can seamlessly integrate diverse frontier systems within existing virtual private environments."
+                "NVIDIA introduces the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific molecular design workflows.",
+                "The toolkit implements specialized agent skills to automate complex pipeline tasks across heterogeneous high-performance computing clusters.",
+                "Integration with regional supercomputing hubs enables rapid, physical-AI driven simulations for advanced therapeutic drug discovery pipelines.",
+                "Biotech researchers can deploy autonomous AI workflows that dynamically adjust modeling parameters based on live scientific telemetry."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: MUSE SPARK EFFICIENCY",
+            "heading": "META: MUSE SPARK LOW-COST MODEL",
             "points": [
-                "Meta introduces the low-cost Muse Spark 1.1 model to optimize enterprise generative AI budgets.",
-                "The lightweight framework balances operational costs with high-fidelity output for small and medium businesses.",
-                "This release addresses intense scrutiny surrounding runaway token consumption in standard generative production workflows.",
-                "Developers can deploy decentralized node clusters without incurring the massive financial overhead of frontier platforms."
+                "Meta launches the low-cost Muse Spark one point one model to address intensifying enterprise spending scrutiny.",
+                "The lightweight model architecture reduces parameter overhead while sustaining competitive accuracy metrics for standard business applications.",
+                "This optimization strategy responds directly to rising developer frustration regarding volatile token costs in cloud-hosted solutions.",
+                "IT leaders can shift high-volume inference tasks to more cost-effective edge-computing layers using open-source model frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IBM: BOB PLATFORM ORCHESTRATION",
+            "heading": "IBM: BOB SDLC ORCHESTRATION UPGRADE",
             "points": [
-                "IBM expands the Bob AI platform to orchestrate the entire software development lifecycle.",
-                "The upgrade transitions tools from simple code generators into comprehensive multi-agent workflow systems.",
-                "Integration with z17 mainframes enables seamless cloud modernization without triggering immediate legacy regulatory risks.",
-                "IT administrators can safely implement automated testing loops across complex hybrid environment topologies."
+                "IBM expands its Bob platform to orchestrate the entire software development lifecycle beyond basic code generation.",
+                "The updated system coordinates multi-agent coding workflows to automate continuous integration and deployment testing procedures.",
+                "By standardizing agentic memory management, the system ensures consistent code governance across diverse enterprise mainframe platforms.",
+                "Engineering managers can deploy autonomous agents that securely refactor legacy applications under rigorous validation guardrails."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: NEMOTRON AGENT ACCELERATION",
+            "heading": "APPLE: OPENAI TRADE SECRET LITIGATION",
             "points": [
-                "NVIDIA Nemotron achieves benchmark-leading performance utilizing the customized LangChain Deep Agents reasoning framework.",
-                "The integration dramatically accelerates multi-step planning tasks across complex enterprise software engineering environments.",
-                "This breakthrough combines hardware-level optimization with advanced software agent tooling to maximize output efficiency.",
-                "Autonomous agents can now execute long-horizon computing operations with significantly reduced physical latency."
+                "Apple files a major lawsuit against OpenAI alleging systematic trade secret theft across multiple organizational levels.",
+                "The legal action introduces substantial regulatory and operational uncertainty for enterprises integrating consumer-facing generative models.",
+                "This conflict highlights the intensifying battle over intellectual property rights within the competitive global artificial intelligence landscape.",
+                "Enterprise compliance teams must carefully audit third-party dependencies to mitigate potential legal risks from proprietary training methods."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
