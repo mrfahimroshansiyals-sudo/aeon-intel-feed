@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION AGENTIC",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "DEEP ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "OPENAI: GPT-5.6 ENTERPRISE SCALE",
             "points": [
-                "OpenAI releases GPT-5.6 model introducing advanced reasoning capabilities designed to scale with enterprise digital workflows.",
-                "The model decreases token consumption while maintaining high accuracy benchmarks across multi-agent processing systems.",
-                "This release reflects direct compliance changes aligned with newly established United States artificial intelligence regulations.",
-                "Enterprises will acquire deeper operational automation controls despite shifting global compliance and monitoring policies."
+                "OpenAI introduces GPT-5.6 frontier intelligence model built specifically to scale with highly ambitious enterprise workloads.",
+                "Real-world benchmark estimations demonstrate significant capability improvements while maintaining cost efficiencies across parallel computing pipelines.",
+                "The architectural release showcases how OpenAI continues its strategic evolution toward becoming a pure enterprise-first vendor.",
+                "Enterprise builders expect these compliance-aligned models to rapidly accelerate production-level agent deployments across multiple industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: FABRIC RAYFIN BACKEND",
+            "heading": "MICROSOFT: FOUNDRY INTEGRATION OF CLAUDE",
             "points": [
-                "Microsoft launches Rayfin as an agent-optimized backend service integrated directly into the Fabric platform environment.",
-                "Developers can deploy autonomous workflows with latency reductions exceeding forty percent compared to traditional cloud backends.",
-                "The service establishes centralized architecture for orchestrating decentralized artificial intelligence agents inside corporate structures.",
-                "Engineering teams will accelerate software delivery lifecycles by shifting away from manual database configuration routines."
+                "Anthropic frontier Claude models including Opus and Sonnet are now generally available within Microsoft Foundry.",
+                "The hosting on Azure enables enterprises to implement native billing alongside centralized compliance governance controls.",
+                "This deployment allows enterprise software teams to seamlessly orchestrate complex long-horizon agentic workflows across clouds.",
+                "Analysts project this multi-model hosting alliance will intensify hybrid cloud compute wars among major hyperscalers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
+            "heading": "META: MUSE SPARK ENTERPRISE RELEASE",
             "points": [
-                "Azure introduces HorizonDB offering ultra-low latency and natively integrated artificial intelligence capabilities for PostgreSQL databases.",
-                "Database query response times drop to single-digit milliseconds while managing petabyte-scale transactions simultaneously.",
-                "This architectural upgrade represents a critical shift toward embedded vector search inside relational database engines.",
-                "Systems architects can now build highly scalable real-time applications without relying on external vector storage."
+                "Meta launches Muse Spark one point one targeting cost-sensitive enterprise artificial intelligence budgets globally.",
+                "The low-cost model optimized for SMBs delivers highly efficient image generation capabilities without massive infrastructure overheads.",
+                "Developers can access streamlined deployment pathways to integrate lightweight media models directly into legacy enterprise software.",
+                "Industry experts anticipate this release will force competitors to drastically lower pricing for entry-level generative APIs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE ARCHITECTURE",
+            "heading": "IBM: MAINFRAME HYBRID CLOUD INTEGRATION",
             "points": [
-                "Mistral AI launches Robostral Navigate to serve as a decentralized system of record for prompt engineering.",
-                "The toolkit minimizes operational fragmentation by standardizing semantic agent behaviors across complex corporate network structures.",
-                "This platform shifts the agent deployment landscape from transient sessions toward persistent, auditable organizational intelligence.",
-                "Enterprise administrators will achieve complete visibility over distributed agent networks while maintaining local data privacy."
+                "IBM announces zSeventeen mainframe models and LinuxOne Rockhopper servers designed for modern high-density data centers.",
+                "The compact customizable physical footprints enable hybrid cloud architectures to process intensive local AI workloads securely.",
+                "These hardware upgrades directly address physical space constraints while providing robust localized hardware security parameters.",
+                "Data center operators expect these integrations to extend the operational lifetime of legacy enterprise mainframes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: Z17 MAINFRAME UPGRADE",
+            "heading": "SPACEXAI: GROK ENTERPRISE CODING DEBUT",
             "points": [
-                "IBM expands its z17 mainframe and LinuxONE series with space-optimized configurations targeting hybrid cloud workloads.",
-                "The new models deliver massive compute density within standard data center racks, reducing cooling energy requirements.",
-                "This integration brings localized edge-inferencing capabilities straight to highly secure legacy transactional banking infrastructure.",
-                "Financial institutions will perform real-time fraud detection on-premises without transferring sensitive citizen records externally."
+                "SpaceXAI launches Grok four point five introducing significant cost reductions for complex automated coding tasks.",
+                "Benchmark estimates show coding costs dropping to under three dollars per task beating primary rival models.",
+                "The architectural performance offers massive budget relief for software development organizations deploying autonomous agentic networks.",
+                "Lead engineers predict this aggressive price strategy will trigger an enterprise-wide shift toward autonomous agentic development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "SAP: EU COMPLIANCE LICENSING CONCESSIONS",
             "points": [
-                "NVIDIA releases the BioNeMo Agent Toolkit to accelerate automated scientific discovery in the life sciences sector.",
-                "The framework reduces complex drug discovery pipeline cycles from months to days via agentic simulation platforms.",
-                "This release combines biological foundation models with dynamic planning tools to automate molecular design validation tasks.",
-                "Biotech researchers will deploy scalable autonomous agents that dynamically run wet-lab validation experiments on remote infrastructure."
+                "SAP concedes to European Commission pressure freeing enterprise customers from highly restrictive on-premises support policies.",
+                "The regulatory shift allows global organizations to maintain legacy software without facing immediate forced cloud migrations.",
+                "IT leaders gain unprecedented strategic flexibility as they prepare for the critical twenty twenty-seven enterprise upgrade deadline.",
+                "Enterprise advisors warn that licensing changes will demand comprehensive audits of current infrastructure asset portfolios."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "heading": "APPLE: OPENAI INTELLECTUAL PROPERTY LAWSUIT",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology for a thirty megawatt deployment of enterprise compute.",
-                "The phased deployment delivers scalable artificial intelligence compute optimized specifically for highly regulated sovereign enterprise environments.",
-                "This hardware partnership secures high-performance alternative silicon sources to counter ongoing global graphic processing unit shortages.",
-                "Cloud operators will gain guaranteed access to high-density servers capable of running complex next-generation models."
+                "Apple initiates landmark litigation against OpenAI alleging systemic theft of top-secret proprietary tech assets.",
+                "The lawsuit claims trade secret misappropriation occurred at every organizational level within OpenAI training pipelines.",
+                "This legal escalation introduces severe operational risks for corporate partners relying heavily on target generative models.",
+                "Corporate attorneys expect heightened intellectual property scrutiny to significantly disrupt impending artificial intelligence public offerings."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
