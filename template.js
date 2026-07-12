@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "ASCENDANCE"
+        "titleWhite": "ENTERPRISE COGNITIVE ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "Anthropic officially launched Sonnet 5 today featuring advanced agentic reasoning capabilities for complex professional coding tasks.",
-                "This model integrates directly into Claude Science to facilitate automated research, auditable artifact creation, and flexible compute access.",
-                "Global availability begins tomorrow July 1 as the firm expands its reach into enterprise-grade high-intelligence automation suites.",
-                "Analysts suggest this release positions Anthropic as a primary competitor for autonomous multi-step enterprise workflows and synthesis."
+                "OpenAI releases GPT-5.6 to deliver scalable frontier intelligence for highly ambitious enterprise workflows.",
+                "The model optimizes advanced multi-agent orchestration and decreases latent compute overhead across deep deployments.",
+                "This architectural leap establishes sovereign compliance frameworks to address expanding federal guidelines and restrictions.",
+                "Organizations can safely deploy customized cognitive nodes without risking internal operational data leakage."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE",
             "points": [
-                "Google DeepMind introduced the Gemini 3.5 series focusing on bridging frontier intelligence with real-time actionable computer use.",
-                "The release includes Gemini Omni Flash and Nano Banana 2 Lite models designed for extreme efficiency and speed.",
-                "New research partnerships and safety protocols aim to secure multi-agent systems within complex enterprise and scientific environments.",
-                "These updates emphasize a shift toward autonomous agents that can plan, reason, and execute tasks across diverse platforms."
+                "SpaceXAI launches Grok 4.5 to aggressively capture the enterprise code generation market share.",
+                "Benchmark testing establishes a highly competitive cost of two dollars forty-nine cents per task.",
+                "This pricing drastically undercuts alternative industry offerings including GPT-5.5 and Claude-based developer platforms.",
+                "Enterprise software teams can scale massive codebase migrations while maintaining minimal API token spending."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: ROBOSTRAL INTEGRATION",
+            "heading": "APPLE: OPENAI TRADE LAWSUIT",
             "points": [
-                "Mistral AI unveiled Robostral to serve as a system of record for managing complex prompts and agentic skills.",
-                "New Vibe agents provide long-horizon task execution capabilities for document synthesis and persistent memory-based business workflows.",
-                "The platform supports comprehensive agent orchestration with enterprise-grade observability and guardrails for production-ready model deployment.",
-                "This suite enables organizations to maintain control while scaling autonomous AI applications from edge to cloud environments."
+                "Apple initiates legal proceedings against OpenAI alleging systematic trade secret theft at every structural level.",
+                "The litigation scrutinizes unauthorized proprietary asset integration and talent acquisition strategies across critical divisions.",
+                "This high-stakes dispute introduces massive regulatory uncertainty for organizations utilizing joint commercial platforms.",
+                "Global compliance directors must rapidly audit external model dependencies to mitigate downstream IP liabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific tools for agentic life sciences.",
-                "The platform utilizes extreme co-design across chips and infrastructure to maximize token revenue per gigawatt of power consumption.",
-                "Supercomputer development in Europe reaches record levels with 35 new NVIDIA AI HPC systems currently under active construction.",
-                "This infrastructure layer is critical for scaling agentic reasoning across energy-intensive industrial and academic research organizations globally."
+                "Microsoft announces general availability of Anthropic Claude models inside the Azure Foundry control plane.",
+                "The deployment provides unified billing alongside rigorous enterprise authentication and automated governance systems.",
+                "Developers gain direct API access to Opus and Sonnet models backed by Microsoft security.",
+                "Hybrid cloud architectures can seamlessly integrate diverse frontier systems within existing virtual private environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AZURE: FOUNDRY MODELS ENABLED",
+            "heading": "META: MUSE SPARK EFFICIENCY",
             "points": [
-                "Microsoft Azure now provides general availability for Claude 5 models hosted directly within the enterprise-grade Foundry platform.",
-                "New Rayfin backend-as-a-service offers agent-optimized infrastructure designed to integrate seamlessly into existing Azure billing and governance controls.",
-                "Azure HorizonDB launches to provide PostgreSQL users with built-in AI capabilities and ultra-low latency for mission-critical applications.",
-                "These additions demonstrate Microsoft's commitment to consolidating fragmented AI tools into a single managed enterprise ecosystem."
+                "Meta introduces the low-cost Muse Spark 1.1 model to optimize enterprise generative AI budgets.",
+                "The lightweight framework balances operational costs with high-fidelity output for small and medium businesses.",
+                "This release addresses intense scrutiny surrounding runaway token consumption in standard generative production workflows.",
+                "Developers can deploy decentralized node clusters without incurring the massive financial overhead of frontier platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: A16 NANOSHEET PRODUCTION",
+            "heading": "IBM: BOB PLATFORM ORCHESTRATION",
             "points": [
-                "TSMC is scaling its A16 nanosheet technology with Super Power Rail to support high-performance AI compute demands.",
-                "The roadmap focuses on extending leadership in silicon manufacturing for next-generation HPC and autonomous AI inference chips.",
-                "Global symposia highlight the critical role of the NanoFlex Pro ecosystem in driving energy-efficient AI model performance.",
-                "Capacity expansion plans for the A16 process remain aligned with high enterprise demand for advanced logic semiconductor nodes."
+                "IBM expands the Bob AI platform to orchestrate the entire software development lifecycle.",
+                "The upgrade transitions tools from simple code generators into comprehensive multi-agent workflow systems.",
+                "Integration with z17 mainframes enables seamless cloud modernization without triggering immediate legacy regulatory risks.",
+                "IT administrators can safely implement automated testing loops across complex hybrid environment topologies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IBM: MAINFRAME AI INTEGRATION",
+            "heading": "NVIDIA: NEMOTRON AGENT ACCELERATION",
             "points": [
-                "IBM has expanded its mainframe family with new z17 and LinuxONE models targeting AI-driven hybrid cloud integration.",
-                "These hardware upgrades aim to provide secure, dense compute environments specifically for enterprise-level agentic task orchestration.",
-                "Recent updates to the IBM Bob platform enable end-to-end SDLC management beyond simple code generation capabilities for developers.",
-                "Mainframe integration allows organizations to modernize legacy IT infrastructure while maintaining rigorous regulatory compliance and security standards."
+                "NVIDIA Nemotron achieves benchmark-leading performance utilizing the customized LangChain Deep Agents reasoning framework.",
+                "The integration dramatically accelerates multi-step planning tasks across complex enterprise software engineering environments.",
+                "This breakthrough combines hardware-level optimization with advanced software agent tooling to maximize output efficiency.",
+                "Autonomous agents can now execute long-horizon computing operations with significantly reduced physical latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
