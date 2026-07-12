@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT ERA",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 LAUNCH",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI has officially launched its frontier GPT-5.6 model to scale highly ambitious enterprise AI reasoning workloads.",
-                "The architecture delivers advanced capabilities designed for deep transactional autonomy across complex distributed software environments.",
-                "Early integrations demonstrate massive performance gains when executing multi-step workflows without manual human intervention.",
-                "Enterprise deployment strategies are rapidly pivoting toward this high-signal model to reduce operational latency significantly."
+                "OpenAI releases GPT-5.6 featuring advanced reasoning and native scaling designed for complex, regulated enterprise-grade agent deployments.",
+                "The new model architecture optimizes token throughput while reducing latency for highly sensitive transaction processing environments.",
+                "This rollout directly aligns with the latest EU AI Act compliance guidelines for general purpose systems.",
+                "Enterprises will shift legacy workflows to GPT-5.6 to achieve autonomous, legally compliant operational decision making."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: DIFFUSIONGEMMA RELEASE",
+            "heading": "GOOGLE DEEPMIND: NANO BANANA LITE",
             "points": [
-                "Google DeepMind has introduced DiffusionGemma to accelerate text generation performance across edge devices.",
-                "The model achieves a fourfold increase in generation speed while maintaining high contextual accuracy.",
-                "This optimization enables developers to deploy highly responsive language interfaces without excessive computational resource consumption.",
-                "Organizations can leverage these lightweight open models to achieve rapid local inference capabilities globally."
+                "Google DeepMind introduces Nano Banana 2 Lite and Gemini Omni Flash for high-speed local processing tasks.",
+                "Local model deployments achieve extreme intelligence-per-parameter ratings, slashing edge cloud networking dependencies and operational costs.",
+                "Edge architecture shifts workloads away from centralized data centers to localized, low-latency device nodes.",
+                "Device manufacturers will prioritize Nano Banana integrations to offer seamless, offline multimodal capabilities to customers."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL",
+            "heading": "ANTHROPIC: SONNET 5 AGENTS",
             "points": [
-                "Microsoft has launched Azure HorizonDB to bring ultra-low latency and scalable reads to PostgreSQL databases.",
-                "The database engine integrates built-in artificial intelligence capabilities to optimize mission-critical transactional application performance.",
-                "Developers can now deploy resilient data architectures that seamlessly scale under highly demanding enterprise workloads.",
-                "This launch accelerates legacy database modernization efforts by decoupling traditional infrastructure limitations from modern apps."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: FABLE 5 REDEPLOYMENT",
-            "points": [
-                "Anthropic has cleared global export controls to immediately redeploy its highly capable Fable five model.",
-                "The model features advanced agentic capabilities optimized for complex professional coding and operational tasks.",
-                "Global availability empowers enterprises to orchestrate sophisticated workflows within secure compliance and governance frameworks.",
-                "Engineers can utilize the model's high-intelligence capabilities to accelerate software development lifecycles seamlessly."
+                "Anthropic launches Sonnet 5, offering advanced agentic orchestration alongside global redeployment of the Fable model.",
+                "Developer teams report accelerated code generation and automated task scheduling across complex enterprise application directories.",
+                "Lifting export controls on frontier models enables global organizations to standardize operations on unified security frameworks.",
+                "Organizations will utilize Sonnet 5 as the core orchestration engine for multi-agent autonomous engineering pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "id": 4,
+            "heading": "SPACEXAI: GROK 4.5 BENCHMARK",
             "points": [
-                "AMD and Rackspace Technology have signed an agreement for a thirty megawatt AI compute deployment.",
-                "The phased infrastructure rollout specifically targets regulated enterprise workloads requiring strict data sovereignty controls.",
-                "This partnership leverages AMD's advanced CPUs and accelerators to deliver highly efficient processing at scale.",
-                "Regulated industries gain secure access to dedicated high-performance computing resources to run sensitive workloads safely."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
-            "points": [
-                "SpaceXAI has officially launched Grok 4.5 to compete directly in the enterprise agentic coding market.",
-                "The model achieves significantly lower operational costs per coding task compared to rival frontier models.",
-                "Enterprise architects can utilize this cost-efficient engine to automate repetitive software development pipelines seamlessly.",
-                "This release intensifies the market race for accessible, high-performance developer tools across global industries."
+                "SpaceXAI launches Grok 4.5, delivering highly competitive pricing structures optimized specifically for enterprise programming tasks.",
+                "Benchmarks record development costs of two dollars forty-nine cents, substantially undercutting competing frontier foundation models.",
+                "Aggressive compute pricing accelerates the commercialization of generative coding tools across major software development divisions.",
+                "Competitive price wars will pressure other model providers to restructure their API token licensing and costs."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +70,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "IBM: MAINFRAME Z17 INTEGRATION",
+            "id": 5,
+            "heading": "NVIDIA: BIONEMO TOOLKIT",
             "points": [
-                "IBM has introduced new z17 mainframe models optimized for hybrid cloud and AI infrastructure workloads.",
-                "These compact servers deliver elite security and high-performance computing power within tight data center footprints.",
-                "Enterprise infrastructure teams can leverage these systems to run demanding deep learning tasks locally.",
-                "The integration of on-premises mainframe technology accelerates hybrid cloud adoption strategies across regulated sectors."
+                "NVIDIA announces the BioNeMo Agent Toolkit to power highly specialized agentic workflows for global life sciences.",
+                "Researchers leverage accelerated computing tools directly within customized apps to expedite molecular discovery and analysis.",
+                "Integrating biochemical domain tools with agent frameworks represents a massive leap for automated digital biology labs.",
+                "Pharmaceutical giants will accelerate drug discovery pipelines by deploying deep agent networks on accelerated hardware."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT: HORIZONDB ENGINE",
+            "points": [
+                "Microsoft deploys HorizonDB on Azure, integrating native AI engine capabilities directly into PostgreSQL database environments.",
+                "The database provides ultra-low latency reads and massive scale to handle high-frequency agentic data transactions.",
+                "Merging database services with local inference steps reduces latency and simplifies complex cloud data engineering architectures.",
+                "Enterprise cloud migrations will favor database designs that run agentic workloads directly on the storage tier."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "IBM: BOB SDLC ORCHESTRATION",
+            "points": [
+                "IBM expands the Bob AI platform to orchestrate the entire software development lifecycle beyond simple code generation.",
+                "Engineering organizations achieve unified governance and seamless workflow automation across complex multi-agent development tasks.",
+                "Transitioning from standalone coding tools to unified SDLC platforms resolves critical software engineering fragmentation issues.",
+                "Enterprise software groups will phase out legacy IDEs in favor of fully automated agent development environments."
             ],
             "imageUrl": "",
             "tags": [
