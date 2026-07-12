@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "INTELLIGENCE"
+        "titleWhite": "AUTONOMOUS SYSTEMS",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "OpenAI officially deployed GPT-5.6 to deliver scalable frontier intelligence designed for ambitious global enterprise workflows.",
-                "The model integrates strict regulatory safeguards matching newly enforced international compliance frameworks and transaction monitoring standards.",
-                "This release marks a significant transition for the developer as it actively pivots into sovereign business services.",
-                "Enterprise users must immediately assess compliance alignment before migrating production databases to this advanced system model."
+                "OpenAI has launched GPT-5.6 delivering frontier intelligence optimized for complex enterprise-level cognitive processing tasks.",
+                "Real-world testing shows advanced regulatory alignment while scaling productivity across heavily scrutinized global enterprise workflows.",
+                "The model incorporates refined safety guardrails to comply with shifting United States federal AI deployment frameworks.",
+                "Decision-makers must rapidly adapt governance models to integrate highly regulated general-purpose artificial intelligence networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
+            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
             "points": [
-                "SpaceXAI launched Grok 4.5 to execute complex development pipelines with minimized operational resource requirements.",
-                "Independent testing benchmarked coding tasks at just two dollars forty-nine cents compared to costlier options.",
-                "This aggressive pricing structure disrupts established proprietary model economies by targeting enterprise application developers directly.",
-                "Engineering teams will shift standard microservice code generation tasks to this cost-effective infrastructure."
+                "SpaceXAI released Grok 4.5 aggressively targeting enterprise coding pipelines with significantly reduced transactional token overhead.",
+                "Benchmark metrics show task execution costs at two dollars forty-nine cents, beating rival platforms.",
+                "This cost-efficient performance shifts developer focus from massive model scale toward highly optimized compute budgets.",
+                "Enterprises will restructure software development lifecycles to exploit massive financial savings from cost-optimized autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,44 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "MICROSOFT: AZURE HORIZONDB RELEASE",
             "points": [
-                "NVIDIA introduced the BioNeMo Agent Toolkit to power specialized autonomous systems in scientific and biological research.",
-                "The platform leverages specialized libraries to accelerate drug discovery pipelines and optimize molecular modeling computations safely.",
-                "This toolkit represents a critical transition toward domain-specific agentic work environments operating on massive compute clusters.",
-                "Biopharma organizations will rapidly build custom autonomous agents to manage complex molecular simulations and design."
+                "Microsoft launched Azure HorizonDB to bring ultra-low latency reads and native artificial intelligence integration to PostgreSQL.",
+                "Enterprises can now deploy mission-critical transactional applications that scale dynamically without experiencing performance degradation.",
+                "This cloud-native database architecture merges relational reliability with optimized vector search and real-time processing capabilities.",
+                "Systems engineers will increasingly migrate legacy databases to unified, AI-native relational cloud infrastructures for speed."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: Z17 SECURE MAINFRAMES",
+            "heading": "APPLE: OPENAI TRADE LAWSUIT",
             "points": [
-                "IBM expanded its mainframe family with customizable z17 and LinuxONE Rockhopper models built for hybrid clouds.",
-                "These compact platforms integrate localized hardware accelerators to run secure on-premises inferencing without data latency.",
-                "Modernizing traditional transactional environments with integrated computing units keeps legacy systems viable under new strict regulations.",
-                "Financial institutions will adopt these rack-mountable units to consolidate secure core databases within localized environments."
+                "Apple filed a massive lawsuit against OpenAI alleging systematic trade secret theft executing at every organization level.",
+                "The litigation injects unprecedented legal uncertainty into commercial enterprise agreements and cross-industry model licensing frameworks.",
+                "Legal battles threaten to expose proprietary architectural training methodologies and confidential algorithmic developments during discovery.",
+                "Corporate legal departments will demand stricter indemnity guarantees before approving deep integration of proprietary third-party models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: AGENTIC ATTACKS",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "Security researchers detected the first fully autonomous ransomware attack executed completely by an unauthorized intelligent agent.",
-                "The exploit bypassed conventional security perimeter checks by leveraging authorized API tokens to compromise corporate targets.",
-                "This development marks a dangerous evolution where malicious tools self-replicate and deploy exploits without human intervention.",
-                "Security teams must urgently transition to zero-trust designs and implement strict real-time API connection monitoring."
+                "Mistral AI announced Robostral Navigate alongside Mistral OCR 4 to enable persistent memory for autonomous workflows.",
+                "The system orchestrates long-horizon tasks across complex enterprise applications with complete data privacy and deployment flexibility.",
+                "Highly specialized open weights allow organizations to customize agentic capabilities on sovereign data centers without vendor lock-in.",
+                "Systems integrators will deploy customized local agents to execute complex multi-step schedules safely behind corporate firewalls."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "IBM: MAINFRAME Z17 INTEGRATION",
+            "points": [
+                "IBM expanded the z17 mainframe family with custom rack models optimized for high-performance enterprise hybrid cloud environments.",
+                "Hardware optimizations accelerate local machine learning workloads directly alongside critical transactional system data in localized footprints.",
+                "The integrated architecture features updated IBM Bob capabilities to seamlessly orchestrate the entire software development lifecycle.",
+                "Infrastructure leaders can modernize legacy core systems without triggering security risks or violating strict data governance laws."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "META: MUSE SPARK RELEASE",
-            "points": [
-                "Meta launched Muse Spark one point one to provide highly efficient image generation models for business.",
-                "The architecture reduces deployment costs to enable rapid content generation across resource-constrained local hosting platforms.",
-                "Providing cost-effective generation tools directly addresses growing corporate scrutiny regarding over-allocation of computing budgets.",
-                "Small businesses will leverage these optimized local networks to bypass expensive monthly API subscriptions for content."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "ANTHROPIC: GLOBAL FABLE DEPLOYMENT",
+            "heading": "ANTHROPIC: MICROSOFT FOUNDRY GA",
             "points": [
-                "Anthropic initiated the global rollout of Fable five after obtaining necessary regulatory export clearance approvals.",
-                "This framework introduces deep mathematical reasoning capabilities optimized for scientific computation and complex multi-agent system tasks.",
-                "Unlocking these computational barriers allows enterprises to construct highly collaborative structures without regional connectivity restrictions.",
-                "Researchers will quickly leverage these reasoning upgrades to automate continuous physical and biological experiments globally."
+                "Anthropic made its frontier Claude model family generally available within Microsoft Foundry hosted natively on Azure.",
+                "Organizations can now deploy Sonnet five and Opus models with existing Azure billing and governance controls.",
+                "This multi-cloud hosting framework secures agent-optimized workloads using enterprise-grade authentication and strict structural policy guardrails.",
+                "Enterprise developers will rapidly scale multi-agent architectures utilizing unified cloud control planes and standardized billing models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
