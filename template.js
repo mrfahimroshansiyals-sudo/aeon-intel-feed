@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
+            "heading": "OPENAI: GPT-5.6 SCALING",
             "points": [
-                "OpenAI deploys GPT-5.6 model introducing frontier intelligence designed to scale with highly ambitious enterprise workloads.",
-                "Real-time benchmarks show enhanced operational capabilities, though pricing dynamics prompt intensive cost-to-performance calculation audits.",
-                "The release follows strategic structural realignment and a confidential draft S-1 filing to the SEC.",
-                "Organizations must balance high-performance reasoning benefits against rising transactional token expenses across active deployments."
+                "OpenAI launches GPT-5.6 frontier intelligence designed to scale complex enterprise workloads with unprecedented regulatory alignment.",
+                "The model integrates advanced reasoning capabilities designed to mitigate legal compliance hurdles across diverse international jurisdictions.",
+                "Corporate governance shifts significantly as co-founder Greg Brockman consolidates control ahead of a highly anticipated IPO.",
+                "Legal pressure intensifies simultaneously as Apple files a massive lawsuit alleging systematic trade secret theft."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "APPLE: OPENAI LITIGATION FILED",
+            "heading": "DEEPMIND: MULTI-AGENT ACTION",
             "points": [
-                "Apple files a major lawsuit against OpenAI alleging systematic trade secret theft at every operational level.",
-                "The litigation challenges proprietary framework IP boundaries and potentially disrupts developer ecosystem partnership architectures globally.",
-                "Legal actions signal intensifying sovereign platform battles as consumer tech giants defend their proprietary software stacks.",
-                "Enterprise architects must audit dual-platform dependency risks to mitigate downstream compliance and third-party integration liability."
+                "Google DeepMind launches Gemini 3.5 with native computer use features to automate complex multi-step digital workflows.",
+                "High-efficiency image processing scales rapidly through the deployment of the lightweight Nano Banana 2 Lite model.",
+                "Architectural optimization advances with DiffusionGemma achieving four times faster text generation speeds for latency-sensitive applications.",
+                "Researchers prioritize multi-agent safety frameworks to manage systemic risks associated with millions of interacting autonomous systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMOTRON LANGCHAIN HARNESS",
+            "heading": "NVIDIA: AGENTIC BIONEMO TOOLKIT",
             "points": [
-                "NVIDIA Nemotron achieves benchmark-leading performance utilizing the LangChain deep agent harness for autonomous operations.",
-                "System reduces multi-agent reasoning latencies, providing optimized orchestration across distributed data center infrastructure networks.",
-                "Accelerated hardware integration drives deep co-design capabilities across liquid-cooled Vera Rubin GPU architecture platforms.",
-                "Engineers can construct low-latency agentic workflows utilizing native microservices directly integrated into global supercomputing fabrics."
+                "Nvidia unveils the BioNeMo Agent Toolkit to deliver domain-specific tools accelerating high-throughput biological discovery.",
+                "Performance gains accelerate via Vera Rubin supercomputers combining native Vera CPUs and next-generation Rubin GPUs.",
+                "Deep agent orchestration reaches benchmark-leading efficiency through localized integration with LangChain and specialized open robotics models.",
+                "Extreme hardware co-design across the networking stack optimizes energy demand to maximize token generation per gigawatt."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,28 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "SPACEXAI: GROK 4.5 DEPLOYED",
+            "heading": "AMD: ENTERPRISE COMPUTE DEPLOYMENT",
             "points": [
-                "SpaceXAI rolls out Grok 4.5 targeting enterprise coding tasks at highly aggressive price-to-performance metrics.",
-                "Task execution costs drop to nearly half of rival models, accelerating the commoditization of agentic programming.",
-                "This launch forces a margin squeeze across established API providers offering developer-centric automated coding solutions.",
-                "CIOs must evaluate alternative modeling options to optimize internal developer productivity margins without sacrificing execution safety."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMD: RACKSPACE COMPUTE AGREEMENT",
-            "points": [
-                "AMD secures a phased deployment agreement with Rackspace Technology to supply thirty megawatts of enterprise AI compute.",
-                "Regulated industries gain dedicated infrastructure environments tailored for secure, high-throughput model execution and training.",
-                "The deal reinforces AMD's market gains as the current vendor to beat for enterprise server CPUs.",
-                "Operators of sensitive workloads can leverage sovereign cloud options that bypass traditional hyperscaler hardware lock-in."
+                "AMD secures a major agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute.",
+                "The EPYC CPU family receives critical industry validation from Gartner as the leading platform for enterprise servers.",
+                "Hardware capacity expands through the Versal Premium Gen 2 platform designed to optimize memory performance significantly.",
+                "The widespread availability of Ryzen AI Halo processors delivers robust localized model execution directly to endpoints."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "CYBERSECURITY: AGENTIC RANSOMWARE THREAT",
+            "id": 5,
+            "heading": "MICROSOFT: HORIZONDB DATABASE INTEGRATION",
             "points": [
-                "Security experts identify the first fully autonomous agentic ransomware attack executing a complete network compromise operation.",
-                "Automated deployment methods demand real-time telemetry detection tools rather than traditional signature-based static defensive playbooks.",
-                "Autonomous threat actors exploit privilege escalations and unprotected API channels to bypass legacy network access perimeters.",
-                "Security teams must deploy continuous agentic monitoring solutions to immediately intercept malicious automated workflows at the edge."
+                "Microsoft introduces Azure HorizonDB delivering ultra-low latency PostgreSQL storage with native artificial intelligence capabilities.",
+                "Enterprise developers gain seamless access to Anthropic Claude models natively hosted on Azure within the Foundry environment.",
+                "Fully managed backends as a service scale easily using Rayfin optimized specifically for agentic execution pipelines.",
+                "Organizations implement robust control planes to enforce comprehensive security policies across distributed model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ANTHROPIC: AGENTIC SONNET UPGRADE",
+            "points": [
+                "Anthropic releases Claude Sonnet 5 establishing a highly capable agentic intelligence standard for complex coding tasks.",
+                "The specialized Claude Science application launches to provide researchers with highly secure and completely auditable workspaces.",
+                "Regulatory clearances enable the global redeployment of Fable 5 after lifting strict international export controls.",
+                "Enterprise developers leverage these updated systems to construct highly resilient autonomous workflows across legacy infrastructure environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "SPACEXAI: GROK 4.5 EFFICIENCY",
             "points": [
-                "Microsoft Foundry registers general availability of Anthropic Claude models including Opus four point eight and Sonnet five.",
-                "Developers gain access to highly agentic reasoning agents combined with enterprise-grade authentication and billing controls.",
-                "Multi-tenant hosting environments are increasingly standardizing model registries to offer secure, vendor-agnostic infrastructure access options.",
-                "Enterprise teams can securely build complex agentic pipelines within established compliance boundaries of their existing cloud environments."
+                "SpaceXAI debuts Grok 4.5 establishing highly competitive benchmarks for enterprise-grade autonomous software engineering execution.",
+                "The system significantly undercuts primary industry rivals with coding task costs optimized to under three dollars.",
+                "This pricing advantage challenges traditional software development paradigms by dramatically lowering barriers to autonomous code generation.",
+                "Industry analysts emphasize that long-term enterprise adoption remains highly dependent on rigorous real-world testing environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
