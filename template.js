@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "FRONTIER"
+        "titleWhite": "AGENTIC INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER",
+            "heading": "OPENAI: FRONTIER AGENT ROLLOUT",
             "points": [
-                "OpenAI officially released GPT-5.6 delivering highly scalable frontier intelligence designed for complex enterprise automation.",
-                "The model handles massively complex tasks while reducing API execution costs across federated systems.",
-                "This architecture integrates deep safety controls to comply directly with modern global AI governance standards.",
-                "Developers expect this model to accelerate the deployment of highly autonomous systems across diverse industries."
+                "OpenAI launched ChatGPT Work to combine ChatGPT, Codex, and GPT-5.6 into a unified agentic automation framework.",
+                "The enterprise-tier agent automates complex workplace tasks while securing sensitive corporate data across distributed infrastructure networks.",
+                "Integrating Codex with frontier reasoning engines allows real-time code generation and autonomous orchestration of business workflows.",
+                "Organizations gain massive productivity boosts by deploying these highly integrated digital workers within legacy enterprise ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AZURE HORIZONDB",
+            "heading": "MISTRAL: ROBOTIC VISION BREAKTHROUGH",
             "points": [
-                "Microsoft announced Azure HorizonDB integrating ultra-low latency reads and native artificial intelligence into PostgreSQL databases.",
-                "Enterprise database instances achieve significant performance upgrades and scale seamlessly under heavy production workloads.",
-                "The database enables developers to build highly responsive, data-driven applications without incurring complex infrastructure overhead.",
-                "IT architectures will increasingly combine cloud transactional databases with real-time vector search capabilities."
+                "Mistral introduced Robostral Navigate, an AI model enabling robots to navigate using a single color camera.",
+                "The novel architecture bypasses expensive lidar, depth sensors, or multi-viewpoint hardware setups to significantly reduce robotics costs.",
+                "By optimizing edge-based visual processing, the model brings low-latency spatial intelligence to light industrial hardware deployments.",
+                "This advancement democratizes autonomous robotics, enabling small enterprises to deploy sophisticated physical automation with minimal capital."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 RELEASE",
+            "heading": "SPACEXAI: LOW COST CODING",
             "points": [
-                "Anthropic launched Claude Sonnet 5 featuring advanced agentic capabilities optimized for professional programming workflows.",
-                "Early evaluations demonstrate substantial execution speed gains in writing, debugging, and maintaining complex codebases.",
-                "The system integrates directly with Claude Science to give researchers powerful, highly auditable computing resources.",
-                "Enterprise engineering teams will rapidly shift toward autonomous code generation paradigms for legacy software modernization."
+                "SpaceXAI released Grok 4.5, achieving a lower coding-task execution cost than current industry-leading frontier models.",
+                "Benchmark audits show Grok 4.5 costs only two dollars forty-nine cents per standard enterprise development task.",
+                "This pricing undercuts competitive offerings from OpenAI and Anthropic, triggering an aggressive price war in code generation.",
+                "Developers can scale automated software engineering pipelines at half the operational cost of traditional agent platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: GEMINI 3.5 ACTION",
+            "heading": "ANTHROPIC: FOUNDRY MODEL INTEGRATION",
             "points": [
-                "Google introduced Gemini 3.5 and Nano Banana 2 Lite, combining frontier intelligence with action.",
-                "The ultra-efficient image model significantly reduces latency and compute footprint during edge-based device deployment.",
-                "This release features the Agent Platform with fully managed remote Model Context Protocol server capabilities.",
-                "System architects will leverage these micro-models to deliver low-power cognitive features on consumer devices."
+                "Microsoft announced general availability of Anthropic Claude models within the secure Microsoft Foundry enterprise platform.",
+                "Enterprises can now leverage Opus 4.8, Sonnet 5, and Haiku 4.5 with built-in corporate governance policies.",
+                "The deep integration simplifies cross-cloud deployment by unifying billing and authentication protocols across Azure environments.",
+                "IT administrators can confidently scale agentic software architectures under strict regulatory compliance and data protection guidelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: VERA RUBIN PLATFORM",
+            "heading": "IBM: MAINFRAME COGNITIVE UPGRADE",
             "points": [
-                "NVIDIA unveiled the Vera Rubin supercomputing platform designed to accelerate global scientific discovery and intelligence.",
-                "The unified chip architecture scales up with NVLink to deliver massive throughput for heavy workloads.",
-                "This infrastructure links Vera central processing units with Rubin graphic processors for optimal energy efficiency.",
-                "Research institutions will leverage this hardware to train next-generation models at unprecedented operational speeds."
+                "IBM introduced z17 and LinuxONE Rockhopper mainframe frames optimized for secure hybrid cloud artificial intelligence.",
+                "The new server architectures maximize data center space efficiency while delivering high-speed execution of localized workloads.",
+                "Concurrently, the expanded Bob platform orchestrates the complete software development lifecycle using autonomous agent technology.",
+                "Legacy enterprise customers can deploy microservices directly alongside mainframe data stores to minimize operational execution latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SPACEXAI: GROK 4.5 DEBUT",
+            "heading": "NVIDIA: AGENTIC LIFE SCIENCES",
             "points": [
-                "SpaceXAI launched Grok 4.5 marking their official entry into high-performance enterprise artificial intelligence markets.",
-                "Third-party benchmarks estimate coding task costs drop significantly compared to rival frontier foundational models.",
-                "This aggressive pricing strategy targets organizations seeking to optimize high-volume software development pipelines efficiently.",
-                "CTOs will heavily evaluate these cost-effective models to lower overall developer operations expenses this year."
+                "Nvidia launched the BioNeMo Agent Toolkit to deliver specialized domain-specific skills for biological research workflows.",
+                "The open toolkit optimizes molecular simulation and drug discovery processes via highly integrated digital agent clusters.",
+                "Integrating these custom tools with Claude Science allows researchers to automate auditable scientific experimentation across networks.",
+                "This framework accelerates the validation of complex chemical structures, drastically reducing time-to-market for novel therapeutic treatments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: VIBE ENGINE",
+            "heading": "AMD: ENTERPRISE AI COMPUTE",
             "points": [
-                "Mistral AI introduced Vibe, an autonomous agent engineered to execute complex, long-horizon operational workflows.",
-                "The platform manages persistent memory and orchestrates multi-step schedules across various enterprise software systems.",
-                "It targets legacy code translation and automated continuous integration pipelines within highly regulated industrial sectors.",
-                "Businesses will utilize these specialized agents to streamline maritime, financial, and advanced manufacturing operations."
+                "AMD partnered with Rackspace Technology for a phased thirty megawatt deployment of high-performance AI compute infrastructure.",
+                "The dedicated server capacity targets highly regulated enterprise workloads using Instinct GPUs and EPYC CPU architectures.",
+                "This massive deployment solidifies AMD as a primary challenger to legacy dominance in the global server market.",
+                "Enterprise operators obtain highly scalable processing environments with superior total cost of ownership for running models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
