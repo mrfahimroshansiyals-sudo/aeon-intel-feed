@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE AUTONOMOUS",
-        "titleBlue": "SYSTEMS"
+        "titleWhite": "AGENTIC AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEXAI: GROK 4.5 DEPLOYMENT",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
             "points": [
-                "SpaceXAI deployed Grok 4.5 optimizing execution costs to target intensive corporate software development tasks.",
-                "Benchmark results show coding tasks priced at $2.49 compared to $11.80 under legacy enterprise environments.",
-                "The platform shifts structural development approaches by prioritizing raw compute performance over sheer model parameter weight.",
-                "Enterprise architects must validate real-world pipeline efficiency before executing broad transitions to these cost-optimized agents."
+                "Microsoft generally releases Anthropic Claude models on Foundry with enterprise-grade authentication and billing controls.",
+                "Organizations deploy frontier language capabilities securely within existing Azure governance frameworks to scale operations.",
+                "High-density hosting of external foundation models minimizes enterprise data egress while optimizing multi-model application architectures.",
+                "Enterprises will increasingly consolidate third-party model access under single-pane cloud management platforms for unified auditing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ARCHITECTURE",
+            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
             "points": [
-                "Microsoft unveiled Azure HorizonDB introducing native artificial intelligence capabilities directly into high-throughput enterprise PostgreSQL systems.",
-                "The architecture delivers ultra-low latency reads enabling operational systems to process deep agentic queries concurrently.",
-                "Integrating AI models into local database layers bypasses network hops to maximize database performance and speed.",
-                "Data engineers can build sovereign transaction systems that run automated inference processes directly at the storage tier."
+                "SpaceXAI releases Grok 4.5, achieving significantly lower transaction costs compared to rival premium coding models.",
+                "Benchmark estimates indicate average coding tasks cost half as much as alternative developer-focused systems.",
+                "Drastic cost reductions shift enterprise incentives toward deploying autonomous coding agents at mass scale.",
+                "Competitive pricing pressures will force alternative providers to restructure their developer billing and API models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY LABS: AGENTIC RANSOMWARE DETECTION",
+            "heading": "IBM: BOB SDLC ORCHESTRATION",
             "points": [
-                "Cybersecurity analysts detected the first fully autonomous agentic ransomware attack executing comprehensive operations without human intervention.",
-                "Modern defensive systems must prioritize immediate detection of anomalous behaviors instead of relying on traditional signatures.",
-                "This architectural shift forces security operations centers to deploy real-time counter-agents managing automated networks directly.",
-                "Security leaders should audit API tokens and endpoint access privileges to mitigate unauthorized autonomous executions."
+                "IBM expands Bob AI platform capabilities to fully orchestrate the entire software development lifecycle.",
+                "Software engineering teams automate code generation, continuous integration, and deployments through unified agentic workflows.",
+                "Moving beyond isolated code completion tools enables end-to-end task automation across complex hybrid cloud architectures.",
+                "Modern development environments will transition to fully agentic platforms requiring less manual configuration and engineering overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: Z17 MAINFRAME HYBRID INTEGRATION",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "IBM launched compact z17 mainframe models designed to integrate on-premises hybrid clouds with localized AI operations.",
-                "These hardware frameworks optimize data center footprints while processing intense cryptographic workloads at the core scale.",
-                "Standardizing mainframe processing pipelines permits corporations to execute sensitive machine learning inference alongside legacy workloads.",
-                "Systems architects can achieve significant processing efficiency gains by utilizing localized models on customized secure hardware."
+                "NVIDIA launches BioNeMo Agent Toolkit to deliver specialized tools for biological and chemical agentic research.",
+                "Life sciences organizations accelerate drug discovery pipelines by executing automated scientific reasoning and laboratory tasks.",
+                "Accelerated computing architectures power localized AI agents designed to handle proprietary, highly complex genomic datasets.",
+                "Scientific discovery will shift toward autonomous, closed-loop systems capable of designing and testing virtual experiments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE DEPLOYMENT",
+            "heading": "META: MUSE SPARK RELEASE",
             "points": [
-                "Anthropic generative models are now generally available within the enterprise-focused Microsoft Foundry ecosystem on Azure.",
-                "Organizations access Opus and Sonnet models alongside unified billing mechanisms and strict compliance management systems.",
-                "This structural integration provides seamless multi-cloud model deployments governed by standard tenant security configuration protocols.",
-                "Corporate leaders can leverage sovereign security controls to protect internal databases while utilizing advanced reasoning engines."
+                "Meta releases Muse Spark 1.1, a highly efficient image generation model optimized for enterprise deployments.",
+                "Small and medium enterprises significantly reduce creative asset generation expenses while maintaining premium visual quality.",
+                "Low-cost edge-capable architectures allow businesses to customize visual models without requiring expensive data center resources.",
+                "Commercial content creation will undergo rapid automation as hyper-personalized visual models become cheap to run."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
+            "heading": "GOOGLE: GEMINI ACTION ARCHITECTURE",
             "points": [
-                "Mistral AI introduced Robostral Navigate alongside Vibe to automate long-horizon complex technical tasks for enterprises.",
-                "These specialized systems orchestrate code translation and multi-step task schedules across distributed cloud computing infrastructures.",
-                "Deploying persistent memory architectures allows automated coding agents to function consistently within continuous integration pipelines.",
-                "Software development managers can accelerate delivery timelines by offloading repetitive code refactoring and maintenance tasks."
+                "Google DeepMind delivers Gemini 3.5, introducing native computer use capabilities and advanced agentic action loops.",
+                "Enterprises build sophisticated agents capable of navigating complex software interfaces to automate legacy database workflows.",
+                "Combining high-level reasoning with screen interaction marks a critical evolution toward direct digital environment control.",
+                "Virtual assistants will transform into proactive digital workers operating seamlessly across diverse web-based software ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: NEMOTRON DEEP AGENTS BENCHMARK",
+            "heading": "ANTHROPIC: SONNET AGENTIC UPGRADE",
             "points": [
-                "NVIDIA Nemotron achieved leading benchmark performance by integrating advanced LangChain frameworks into deep agentic reasoning systems.",
-                "This co-designed software system delivers rapid token outputs to increase inference efficiency during complex operational loops.",
-                "Aligning hardware capabilities with logical orchestration libraries unlocks scalable execution speeds for multi-agent industrial applications.",
-                "AI engineers should utilize integrated deep agents to automate massive data analysis tasks in enterprise centers."
+                "Anthropic deploys Sonnet 5, offering advanced reasoning capacities tailored specifically for autonomous professional workflows.",
+                "Developers experience substantial performance improvements in complex, long-horizon coding tasks and multi-file code editing.",
+                "Deep integration of browser and tool-use capabilities enables seamless background execution of engineering-heavy pipelines.",
+                "Engineering organizations will restructure development workflows to prioritize agent-human collaboration over manual code authorship."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
