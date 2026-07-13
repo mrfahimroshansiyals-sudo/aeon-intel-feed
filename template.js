@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AI Hardware Sovereignty",
-        "titleBlue": "Shocks"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "FRONTIER"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: REVENUE SURGE DETECTED",
+            "heading": "OPENAI: GPT-5.6 FRONTIER",
             "points": [
-                "TSMC reported a massive sixty-eight percent surge in June revenue driven by high-performance AI processor manufacturing demands.",
-                "Quarterly earnings projections increase as global technology giants scale custom silicon orders for training next-generation foundational neural networks.",
-                "Extreme co-design across the semiconductor manufacturing supply chain remains critical to sustaining this explosive high-bandwidth memory throughput.",
-                "Analysts predict sustained market dominance for TSMC as competition struggles to match high-volume advanced lithography packaging capabilities."
+                "OpenAI officially released GPT-5.6 delivering highly scalable frontier intelligence designed for complex enterprise automation.",
+                "The model handles massively complex tasks while reducing API execution costs across federated systems.",
+                "This architecture integrates deep safety controls to comply directly with modern global AI governance standards.",
+                "Developers expect this model to accelerate the deployment of highly autonomous systems across diverse industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SK HYNIX: VALUATION VOLATILITY REPORT",
+            "heading": "MICROSOFT: AZURE HORIZONDB",
             "points": [
-                "SK Hynix shares plunged fifteen percent following a volatile Nasdaq debut complicated by geopolitical shocks in the Middle East.",
-                "Regional military escalation near critical shipping lanes threatens global supply lines for specialized high-bandwidth memory component distribution networks.",
-                "System architects warn of potential hardware pricing volatility if transit restrictions disrupt key logistical pathways for semiconductor integration.",
-                "Investors are repositioning capital into safer assets as macroeconomic and localized regional conflicts destabilize international chip market valuations."
+                "Microsoft announced Azure HorizonDB integrating ultra-low latency reads and native artificial intelligence into PostgreSQL databases.",
+                "Enterprise database instances achieve significant performance upgrades and scale seamlessly under heavy production workloads.",
+                "The database enables developers to build highly responsive, data-driven applications without incurring complex infrastructure overhead.",
+                "IT architectures will increasingly combine cloud transactional databases with real-time vector search capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: DATA CENTER INFRASTRUCTURE EXPANSION",
+            "heading": "ANTHROPIC: SONNET 5 RELEASE",
             "points": [
-                "Meta announced plans to build a massive fifty billion dollar artificial intelligence data center facility in Louisiana.",
-                "Generous state tax incentives helped secure the landmark infrastructure project to power massive agentic and generative reasoning model workloads.",
-                "The deployment represents a major step toward physical AI operational scale and deep localized enterprise model inference processing.",
-                "This facility will directly scale operational compute capacity to support next-generation multimodal consumer and corporate product ecosystems."
+                "Anthropic launched Claude Sonnet 5 featuring advanced agentic capabilities optimized for professional programming workflows.",
+                "Early evaluations demonstrate substantial execution speed gains in writing, debugging, and maintaining complex codebases.",
+                "The system integrates directly with Claude Science to give researchers powerful, highly auditable computing resources.",
+                "Enterprise engineering teams will rapidly shift toward autonomous code generation paradigms for legacy software modernization."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HELSING: DEFENSE AI VENTURE CAPITALIZATION",
+            "heading": "GOOGLE: GEMINI 3.5 ACTION",
             "points": [
-                "European defense artificial intelligence firm Helsing raised one point eight billion dollars at an eighteen billion dollar valuation.",
-                "Global venture capital firms backed the sovereign defense-focused startup to accelerate the development of autonomous security software platforms.",
-                "Strategic funding will expand deep software integration across autonomous drone swarms and real-time edge security monitoring systems.",
-                "Defense ministries increasingly rely on localized AI models to modernise national security infrastructure against emerging modern electronic warfare."
+                "Google introduced Gemini 3.5 and Nano Banana 2 Lite, combining frontier intelligence with action.",
+                "The ultra-efficient image model significantly reduces latency and compute footprint during edge-based device deployment.",
+                "This release features the Agent Platform with fully managed remote Model Context Protocol server capabilities.",
+                "System architects will leverage these micro-models to deliver low-power cognitive features on consumer devices."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICRON: MEMORY CAPEX OVERSUPPLY THREAT",
+            "heading": "NVIDIA: VERA RUBIN PLATFORM",
             "points": [
-                "Micron Technology experienced stock declines as memory rivals increased capital expenditures to secure future semiconductor market share.",
-                "Surging infrastructure investments stoke oversupply fears across the high-bandwidth memory sector as hardware production capacity accelerates globally.",
-                "Enterprise buyers must balance current inventory procurement strategy against projected price corrections in the upcoming fiscal quarters.",
-                "Industry analysts warn that unchecked capital deployment could lead to structural imbalances in the specialized hardware supply chains."
+                "NVIDIA unveiled the Vera Rubin supercomputing platform designed to accelerate global scientific discovery and intelligence.",
+                "The unified chip architecture scales up with NVLink to deliver massive throughput for heavy workloads.",
+                "This infrastructure links Vera central processing units with Rubin graphic processors for optimal energy efficiency.",
+                "Research institutions will leverage this hardware to train next-generation models at unprecedented operational speeds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IBM: HYBRID CLOUD MAINFRAME DEPLOYMENT",
+            "heading": "SPACEXAI: GROK 4.5 DEBUT",
             "points": [
-                "IBM introduced updated z17 mainframe models alongside LinuxONE Rockhopper servers designed for space-constrained modern enterprise data centers.",
-                "The updated hardware architecture integrates low-latency hybrid cloud processing to optimize localized real-time machine learning inference workflows.",
-                "Systems engineering divisions can now run complex AI models directly on secure mainframe environments without costly cloud egress.",
-                "This physical hardware release strengthens decentralized security capabilities for heavily regulated financial and governmental transaction processing environments."
+                "SpaceXAI launched Grok 4.5 marking their official entry into high-performance enterprise artificial intelligence markets.",
+                "Third-party benchmarks estimate coding task costs drop significantly compared to rival frontier foundational models.",
+                "This aggressive pricing strategy targets organizations seeking to optimize high-volume software development pipelines efficiently.",
+                "CTOs will heavily evaluate these cost-effective models to lower overall developer operations expenses this year."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE DEBUT",
+            "heading": "MISTRAL AI: VIBE ENGINE",
             "points": [
-                "SpaceXAI launched Grok four point five aiming to capture critical market share within the competitive corporate software sector.",
-                "New benchmark data shows substantial reductions in computational and coding-task execution costs compared to rival premium software models.",
-                "Enterprise tech leaders are evaluating the agentic framework to optimize software development life cycle productivity and automation.",
-                "The development signals intensifying competition in the market for specialized coding and autonomous business operations software agents."
+                "Mistral AI introduced Vibe, an autonomous agent engineered to execute complex, long-horizon operational workflows.",
+                "The platform manages persistent memory and orchestrates multi-step schedules across various enterprise software systems.",
+                "It targets legacy code translation and automated continuous integration pipelines within highly regulated industrial sectors.",
+                "Businesses will utilize these specialized agents to streamline maritime, financial, and advanced manufacturing operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
