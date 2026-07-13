@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GITHUB: COPILOT UPGRADE CANVAS",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE DEPLOYMENT",
             "points": [
-                "GitHub Copilot introduced an upgrade canvas system designed specifically to modernize legacy enterprise .NET applications automatically.",
-                "Software developers can now migrate legacy frameworks efficiently, reducing technical debt across large-scale enterprise codebases.",
-                "This integration shifts automated development environments from simple code generation into structured, continuous application modernization.",
-                "Organizations will likely accelerate legacy systems decommissioning, minimizing manual refactoring costs and security vulnerability windows."
+                "Anthropic has launched Claude Science, a customizable workspace designed specifically to integrate high-performance scientific computing tools.",
+                "The platform generates fully auditable artifacts, ensuring regulatory and experimental compliance across intensive computational biology workloads.",
+                "This deployment aligns with the global release of Sonnet Five, optimizing agentic execution for complex coding workflows.",
+                "Researchers can now easily scale resources, reducing total iteration time for data-driven hypothesis testing and validation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "SPACEXAI: GROK ENTERPRISE INFERENCE",
+            "points": [
+                "SpaceXAI has launched Grok Four point Five, establishing its first dedicated entry into competitive enterprise-level agentic markets.",
+                "Benchmark analysis estimates coding task costs at two dollars forty-nine cents, substantially undercutting key market competitors.",
+                "The model challenges OpenAI and Anthropic by offering significantly reduced operational overhead for scalable enterprise development pipelines.",
+                "Real-world enterprise testing remains essential to evaluate long-term reliability across complex, multi-layered software engineering systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,97 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "APPLE: ALIGNED CHIP PARTNERSHIPS",
-            "points": [
-                "Apple and Google are strengthening technical AI ties following significant legal disputes within the frontier model ecosystem.",
-                "Joint engineering initiatives will distribute massive multimodal workloads across decentralized consumer devices and cloud computing infrastructures.",
-                "This strategic realignment consolidates market share while bypassing direct reliance on singular closed proprietary model architectures.",
-                "Developers should expect highly optimized cross-platform APIs integrating Google Gemini intelligence directly into native Apple hardware."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "STANFORD HAI: SAFETY EVALUATION FLAW",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATIONAL MODEL",
             "points": [
-                "Stanford researchers exposed critical flaws in chatbot safety testing, finding human experts rarely agree on safety evaluations.",
-                "Inconsistent human benchmarking undermines the reliability of safety guardrails for deployment in high-stakes healthcare environments.",
-                "The study highlights a widening gap between rapid chatbot integration and robust standardized framework validation methods.",
-                "Enterprise developers must implement objective, multi-layered algorithmic validation protocols rather than relying solely on subjective expert reviews."
+                "Mistral has introduced Robostral Navigate, a specialized artificial intelligence model engineered specifically for autonomous robotic vision.",
+                "The architecture processes visual inputs using only a single color camera, entirely bypassing traditional LiDAR hardware.",
+                "Eliminating expensive depth sensors drastically reduces raw manufacturing hardware costs for deploying lightweight, agile edge robots.",
+                "This lightweight visual-only design optimizes localized spatial reasoning, accelerating autonomous coordination across complex industrial environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IEEE: TECHNICAL INTERVIEW ARMS RACE",
+            "heading": "MICROSOFT: RAYFIN BACKEND DEPLOYMENT",
             "points": [
-                "An escalating AI arms race in technical interviews has emerged as candidates and companies deploy competing autonomous agents.",
-                "Traditional coding assessments are rendered obsolete by advanced real-time reasoning models assisting prospective software engineering candidates.",
-                "This paradigm shift forces hiring organizations to redesign evaluation frameworks around system design and collaborative architecture.",
-                "Human resources departments will adopt behavioral and live sandbox testing environments to verify authentic software development capability."
+                "Microsoft has announced Rayfin, a fully managed, code-optimized backend service integrated directly within the Microsoft Fabric ecosystem.",
+                "The serverless architecture simplifies database management, allowing engineering teams to deploy production-ready agentic networks with minimal friction.",
+                "Developers can leverage native software development kits to execute real-time state synchronization across distributed analytical environments.",
+                "This integration establishes high-speed communication channels, optimizing the deployment of secure, autonomous transactional layers across enterprises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "heading": "IBM: MAINFRAME HYBRID INFRASTRUCTURE",
             "points": [
-                "Microsoft launched Azure HorizonDB to bring ultra-low latency reads and native artificial intelligence integration to PostgreSQL.",
-                "Database administrators can scale critical workloads globally without experiencing typical performance degradation or high latency overhead.",
-                "Integrating PostgreSQL with real-time vector search capabilities accelerates the development of local retrieval-augmented generation applications.",
-                "Enterprise software architectures will rapidly transition away from complex database clusters toward simplified AI-native relational storage."
+                "IBM has expanded its hardware lineup, introducing new compact rack models for the zSeventeen mainframe series.",
+                "These units are engineered specifically to integrate high-density artificial intelligence processing within space-constrained modern enterprise data centers.",
+                "The LinuxONE Rockhopper provides unmatched hardware-level encryption, securing sensitive financial transactions against emerging quantum computing threats.",
+                "This physical design allows legacy enterprises to modernize infrastructure, maintaining high-throughput compute performance under massive workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: RAYFIN FABRIC INTEGRATION",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Microsoft introduced Rayfin, a fully managed, agent-optimized backend as a service natively integrated into Microsoft Fabric.",
-                "Engineering teams can instantly deploy stateful AI agents capable of orchestrating complex transactional workflows securely.",
-                "Rayfin combines software development kit flexibility with enterprise-grade governance controls to streamline real-time data ingestion pipelines.",
-                "Decentralized cloud architectures will increasingly leverage unified agentic backends to orchestrate high-throughput microservices without manual code."
+                "NVIDIA has unveiled the BioNeMo Agent Toolkit, offering domain-specific utilities to accelerate discovery in life sciences.",
+                "The framework supplies pre-trained biological models, allowing researchers to automate highly complex multi-step generative drug design pipelines.",
+                "Seamless integration with third-party software environments allows organizations to orchestrate scalable research agents across high-performance clusters.",
+                "This suite empowers biotech firms to quickly synthesize biological data, transforming the landscape of computational clinical development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE DEPLOYMENT",
+            "heading": "OPENAI: CHATGPT WORK ROLLOUT",
             "points": [
-                "Mistral unveiled Robostral Navigate, an autonomous robotics model requiring inputs from only a single color camera feed.",
-                "Physical robots can successfully navigate complex environments without expensive LIDAR systems, depth sensors, or multiple perspective arrays.",
-                "This approach significantly reduces hardware bill-of-materials costs while maximizing processing efficiency for edge-based embodied intelligence.",
-                "Industrial manufacturers will accelerate the deployment of light-weight, highly capable autonomous mobile robots across complex logistics facilities."
+                "OpenAI has launched ChatGPT Work, merging advanced Codex capabilities with the new GPT-Five point Six model engine.",
+                "The platform automates complex administrative workflows, coordinating multiple specialized AI agents to execute end-to-end office tasks autonomously.",
+                "This enterprise suite delivers highly context-aware recommendations, significantly reducing token consumption across high-volume digital collaboration platforms.",
+                "Organizations can safely deploy these secure workspaces, driving immediate operational efficiency gains across global corporate IT infrastructures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
