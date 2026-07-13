@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AGENTIC FRONTIER",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE INTEGRATION",
+            "heading": "OPENAI: GPT-5.6 SCALE",
             "points": [
-                "Microsoft generally releases Anthropic Claude models on Foundry with enterprise-grade authentication and billing controls.",
-                "Organizations deploy frontier language capabilities securely within existing Azure governance frameworks to scale operations.",
-                "High-density hosting of external foundation models minimizes enterprise data egress while optimizing multi-model application architectures.",
-                "Enterprises will increasingly consolidate third-party model access under single-pane cloud management platforms for unified auditing."
+                "OpenAI releases GPT-5.6 model introducing optimized scaling architecture engineered for dense enterprise-grade workflows.",
+                "The model features a ninety percent reduction in token consumption costs across complex API orchestration tasks.",
+                "Dynamic alignment with updated US government guidelines enables secure deployment across heavily regulated global industries.",
+                "Enterprise architects will rapidly decouple legacy infrastructure to adopt this high-density agentic backend standard."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 LAUNCH",
+            "heading": "SPACEXAI: GROK 4.5 RELEASE",
             "points": [
-                "SpaceXAI releases Grok 4.5, achieving significantly lower transaction costs compared to rival premium coding models.",
-                "Benchmark estimates indicate average coding tasks cost half as much as alternative developer-focused systems.",
-                "Drastic cost reductions shift enterprise incentives toward deploying autonomous coding agents at mass scale.",
-                "Competitive pricing pressures will force alternative providers to restructure their developer billing and API models."
+                "SpaceXAI launches Grok 4.5 targeting enterprise developers with advanced context reasoning capabilities.",
+                "Benchmark metrics indicate task processing costs of just over two dollars compared to alternative systems.",
+                "Lower engineering overhead shifts competitive dynamics for organizations scaling parallel code generation fleets.",
+                "Software development lifecycle orchestrators will integrate cheaper models to significantly reduce continuous deployment pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: BOB SDLC ORCHESTRATION",
+            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
             "points": [
-                "IBM expands Bob AI platform capabilities to fully orchestrate the entire software development lifecycle.",
-                "Software engineering teams automate code generation, continuous integration, and deployments through unified agentic workflows.",
-                "Moving beyond isolated code completion tools enables end-to-end task automation across complex hybrid cloud architectures.",
-                "Modern development environments will transition to fully agentic platforms requiring less manual configuration and engineering overhead."
+                "Microsoft Azure announces general availability of Anthropic Claude models optimized for foundry orchestration layers.",
+                "Unifying multiple authentication patterns reduces administrative deployment latency by eighty percent across business operations.",
+                "Enterprise-grade billing and policy governance controls are now integrated directly within Fabric cloud instances.",
+                "Technology officers will confidently scale sovereign multi-agent systems using these secured hosting environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "IBM: MAINFRAME HYBRID INTEGRATION",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit to deliver specialized tools for biological and chemical agentic research.",
-                "Life sciences organizations accelerate drug discovery pipelines by executing automated scientific reasoning and laboratory tasks.",
-                "Accelerated computing architectures power localized AI agents designed to handle proprietary, highly complex genomic datasets.",
-                "Scientific discovery will shift toward autonomous, closed-loop systems capable of designing and testing virtual experiments."
+                "IBM launches z17 mainframe models and LinuxOne Rockhopper servers designed for dense hybrid-cloud environments.",
+                "Compact modular footprint design delivers forty percent footprint savings in space-constrained on-premises computing centers.",
+                "Built-in acceleration engines optimize real-time inference workloads directly alongside critical legacy transactional databases.",
+                "Financial institutions will maintain secure localized processing environments while accelerating massive deep learning analytics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: MUSE SPARK RELEASE",
+            "heading": "TSMC: AI REVENUE EXPLOSION",
             "points": [
-                "Meta releases Muse Spark 1.1, a highly efficient image generation model optimized for enterprise deployments.",
-                "Small and medium enterprises significantly reduce creative asset generation expenses while maintaining premium visual quality.",
-                "Low-cost edge-capable architectures allow businesses to customize visual models without requiring expensive data center resources.",
-                "Commercial content creation will undergo rapid automation as hyper-personalized visual models become cheap to run."
+                "TSMC reports a sixty-eight percent surge in June revenue driven by explosive hardware demands.",
+                "Unprecedented global demand for advanced silicon lithography pushes monthly revenues to new record highs.",
+                "Accelerating capital investments underscore the global transition toward specialized high-performance computing hardware fabrications.",
+                "System integrators will secure early wafer allocations to mitigate projected packaging bottlenecks in late 2026."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: GEMINI ACTION ARCHITECTURE",
+            "heading": "NVIDIA: BIONEMO AGENTIC TOOLKIT",
             "points": [
-                "Google DeepMind delivers Gemini 3.5, introducing native computer use capabilities and advanced agentic action loops.",
-                "Enterprises build sophisticated agents capable of navigating complex software interfaces to automate legacy database workflows.",
-                "Combining high-level reasoning with screen interaction marks a critical evolution toward direct digital environment control.",
-                "Virtual assistants will transform into proactive digital workers operating seamlessly across diverse web-based software ecosystems."
+                "NVIDIA launches BioNeMo Agent Toolkit offering domain-specific tools for agentic life sciences discoveries.",
+                "Specialized analytical tools accelerate target molecule screening workflows by a factor of ten.",
+                "The architecture seamlessly connects deep neural networks with complex biological modeling software systems.",
+                "Pharmaceutical research labs will deploy specialized computational agents to drastically compress pre-clinical testing schedules."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: SONNET AGENTIC UPGRADE",
+            "heading": "TECHTARGET: AGENTIC RANSOMWARE THREAT",
             "points": [
-                "Anthropic deploys Sonnet 5, offering advanced reasoning capacities tailored specifically for autonomous professional workflows.",
-                "Developers experience substantial performance improvements in complex, long-horizon coding tasks and multi-file code editing.",
-                "Deep integration of browser and tool-use capabilities enables seamless background execution of engineering-heavy pipelines.",
-                "Engineering organizations will restructure development workflows to prioritize agent-human collaboration over manual code authorship."
+                "Security researchers identify the first fully autonomous ransomware operation executing attacks without human interaction.",
+                "Exploiting privileged credentials through prompt injection compromises private source repositories within seconds.",
+                "The incident underscores systemic architectural vulnerabilities when giving automated AI agents raw workspace access.",
+                "Cybersecurity teams must immediately transition to zero-trust verification frameworks protecting all internal API keys."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
