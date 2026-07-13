@@ -1,98 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER AGENT ROLLOUT",
+            "heading": "AMD: AGENTIC WORKFLOW SCALING",
             "points": [
-                "OpenAI launched ChatGPT Work to combine ChatGPT, Codex, and GPT-5.6 into a unified agentic automation framework.",
-                "The enterprise-tier agent automates complex workplace tasks while securing sensitive corporate data across distributed infrastructure networks.",
-                "Integrating Codex with frontier reasoning engines allows real-time code generation and autonomous orchestration of business workflows.",
-                "Organizations gain massive productivity boosts by deploying these highly integrated digital workers within legacy enterprise ecosystems."
+                "AMD announces comprehensive portfolio of CPUs and GPUs optimized specifically for end to end agentic AI workflows.",
+                "Strategic deployment of 30 MW of compute capacity via Rackspace partnership targets regulated enterprise data center workloads.",
+                "Gartner positions AMD as the current front runner for enterprise AI server CPU market share leadership.",
+                "New hardware integrations focus on reducing total cost of ownership while maximizing performance for edge deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL: ROBOTIC VISION BREAKTHROUGH",
+            "heading": "DOW JONES: MARKET VOLATILITY SPIKE",
             "points": [
-                "Mistral introduced Robostral Navigate, an AI model enabling robots to navigate using a single color camera.",
-                "The novel architecture bypasses expensive lidar, depth sensors, or multi-viewpoint hardware setups to significantly reduce robotics costs.",
-                "By optimizing edge-based visual processing, the model brings low-latency spatial intelligence to light industrial hardware deployments.",
-                "This advancement democratizes autonomous robotics, enabling small enterprises to deploy sophisticated physical automation with minimal capital."
+                "Global indices face significant pressure as AI related debt jumps ninety nine percent over the last year.",
+                "Trump administration threats to impose twenty percent tolls on Strait of Hormuz cargo trigger sharp oil price volatility.",
+                "MarketWatch reports a trillion dollar big tech spending spree leading to investor anxiety regarding capital efficiency.",
+                "Chip stocks including SK Hynix tumble as fears regarding AI demand sustainability resurface among institutional equity investors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SPACEXAI: LOW COST CODING",
+            "heading": "INFOWORLD: ENTERPRISE AI ARCHITECTURE",
             "points": [
-                "SpaceXAI released Grok 4.5, achieving a lower coding-task execution cost than current industry-leading frontier models.",
-                "Benchmark audits show Grok 4.5 costs only two dollars forty-nine cents per standard enterprise development task.",
-                "This pricing undercuts competitive offerings from OpenAI and Anthropic, triggering an aggressive price war in code generation.",
-                "Developers can scale automated software engineering pipelines at half the operational cost of traditional agent platforms."
+                "Microsoft integrates GitHub Copilot upgrade canvas to modernize complex legacy dot NET applications within development workflows.",
+                "Industry experts warn that AI agents at scale require strict guardrails to ensure fail safe incident resolution.",
+                "SpaceXAI launches Grok 4.5 benchmarking significantly lower operational coding task costs compared to primary competitor frontier models.",
+                "CrowdStrike identifies five new AI prompt injection threats targeting the integrity of enterprise level generative model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: FOUNDRY MODEL INTEGRATION",
+            "heading": "NVIDIA: SCIENTIFIC DISCOVERY TOOLS",
             "points": [
-                "Microsoft announced general availability of Anthropic Claude models within the secure Microsoft Foundry enterprise platform.",
-                "Enterprises can now leverage Opus 4.8, Sonnet 5, and Haiku 4.5 with built-in corporate governance policies.",
-                "The deep integration simplifies cross-cloud deployment by unifying billing and authentication protocols across Azure environments.",
-                "IT administrators can confidently scale agentic software architectures under strict regulatory compliance and data protection guidelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "IBM: MAINFRAME COGNITIVE UPGRADE",
-            "points": [
-                "IBM introduced z17 and LinuxONE Rockhopper mainframe frames optimized for secure hybrid cloud artificial intelligence.",
-                "The new server architectures maximize data center space efficiency while delivering high-speed execution of localized workloads.",
-                "Concurrently, the expanded Bob platform orchestrates the complete software development lifecycle using autonomous agent technology.",
-                "Legacy enterprise customers can deploy microservices directly alongside mainframe data stores to minimize operational execution latency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NVIDIA: AGENTIC LIFE SCIENCES",
-            "points": [
-                "Nvidia launched the BioNeMo Agent Toolkit to deliver specialized domain-specific skills for biological research workflows.",
-                "The open toolkit optimizes molecular simulation and drug discovery processes via highly integrated digital agent clusters.",
-                "Integrating these custom tools with Claude Science allows researchers to automate auditable scientific experimentation across networks.",
-                "This framework accelerates the validation of complex chemical structures, drastically reducing time-to-market for novel therapeutic treatments."
+                "NVIDIA unveils BioNeMo Agent Toolkit providing domain specific skills to accelerate life sciences research and drug discovery.",
+                "Europe confirms record deployment of thirty five new NVIDIA AI HPC supercomputers currently under rapid development stages.",
+                "Vera Rubin platform combines native architecture for world class scientific supercomputing and extreme scale compute efficiency.",
+                "Company highlights strategic focus on physical AI and robotics through increased open source framework and model support."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AMD: ENTERPRISE AI COMPUTE",
+            "id": 5,
+            "heading": "MISTRAL: FRONTIER MODEL ADOPTION",
             "points": [
-                "AMD partnered with Rackspace Technology for a phased thirty megawatt deployment of high-performance AI compute infrastructure.",
-                "The dedicated server capacity targets highly regulated enterprise workloads using Instinct GPUs and EPYC CPU architectures.",
-                "This massive deployment solidifies AMD as a primary challenger to legacy dominance in the global server market.",
-                "Enterprise operators obtain highly scalable processing environments with superior total cost of ownership for running models."
+                "Mistral announces Robostral Navigate enabling advanced robotic control using single color camera input without reliance on Lidar.",
+                "Enterprise adoption accelerates across sectors with HSBC and ASML leveraging custom tailored AI systems for productivity.",
+                "Company introduces Vibe platform specifically designed for long horizon task scheduling and persistent memory enterprise operations.",
+                "Frontier scale infrastructure for training and inference is now accessible for organizations requiring sovereign AI control."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AZURE: AGENTIC CLOUD INTEGRATION",
+            "points": [
+                "Anthropic frontier Claude models are now generally available within Microsoft Foundry with enterprise grade governance controls.",
+                "Azure HorizonDB provides ultra low latency PostgreSQL cloud database service optimized for mission critical AI application requirements.",
+                "Agentic DevOps framework utilizes AI powered tools and GitHub services to deliver continuous innovation for developer teams.",
+                "Microsoft strengthens hybrid and multicloud strategy by unifying siloed systems under the centralized AI native control plane."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI ACT: GOVERNANCE UPDATES",
+            "points": [
+                "Scientific panel of independent experts established to support enforcement of general purpose AI model compliance requirements.",
+                "New guidance provided for staffing businesses classifying AI driven candidate ranking tools as high risk systems.",
+                "Compliance checker tools assist SMEs in evaluating legal obligations under the first comprehensive global AI regulation framework.",
+                "Advisory forum now active to contribute technical expertise to the European Commission regarding AI board governance policies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
