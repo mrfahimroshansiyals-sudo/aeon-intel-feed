@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC FRONTIER",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AI Hardware Sovereignty",
+        "titleBlue": "Shocks"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALE",
+            "heading": "TSMC: REVENUE SURGE DETECTED",
             "points": [
-                "OpenAI releases GPT-5.6 model introducing optimized scaling architecture engineered for dense enterprise-grade workflows.",
-                "The model features a ninety percent reduction in token consumption costs across complex API orchestration tasks.",
-                "Dynamic alignment with updated US government guidelines enables secure deployment across heavily regulated global industries.",
-                "Enterprise architects will rapidly decouple legacy infrastructure to adopt this high-density agentic backend standard."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 RELEASE",
-            "points": [
-                "SpaceXAI launches Grok 4.5 targeting enterprise developers with advanced context reasoning capabilities.",
-                "Benchmark metrics indicate task processing costs of just over two dollars compared to alternative systems.",
-                "Lower engineering overhead shifts competitive dynamics for organizations scaling parallel code generation fleets.",
-                "Software development lifecycle orchestrators will integrate cheaper models to significantly reduce continuous deployment pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT: FOUNDRY CLAUDE GA",
-            "points": [
-                "Microsoft Azure announces general availability of Anthropic Claude models optimized for foundry orchestration layers.",
-                "Unifying multiple authentication patterns reduces administrative deployment latency by eighty percent across business operations.",
-                "Enterprise-grade billing and policy governance controls are now integrated directly within Fabric cloud instances.",
-                "Technology officers will confidently scale sovereign multi-agent systems using these secured hosting environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "IBM: MAINFRAME HYBRID INTEGRATION",
-            "points": [
-                "IBM launches z17 mainframe models and LinuxOne Rockhopper servers designed for dense hybrid-cloud environments.",
-                "Compact modular footprint design delivers forty percent footprint savings in space-constrained on-premises computing centers.",
-                "Built-in acceleration engines optimize real-time inference workloads directly alongside critical legacy transactional databases.",
-                "Financial institutions will maintain secure localized processing environments while accelerating massive deep learning analytics."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TSMC: AI REVENUE EXPLOSION",
-            "points": [
-                "TSMC reports a sixty-eight percent surge in June revenue driven by explosive hardware demands.",
-                "Unprecedented global demand for advanced silicon lithography pushes monthly revenues to new record highs.",
-                "Accelerating capital investments underscore the global transition toward specialized high-performance computing hardware fabrications.",
-                "System integrators will secure early wafer allocations to mitigate projected packaging bottlenecks in late 2026."
+                "TSMC reported a massive sixty-eight percent surge in June revenue driven by high-performance AI processor manufacturing demands.",
+                "Quarterly earnings projections increase as global technology giants scale custom silicon orders for training next-generation foundational neural networks.",
+                "Extreme co-design across the semiconductor manufacturing supply chain remains critical to sustaining this explosive high-bandwidth memory throughput.",
+                "Analysts predict sustained market dominance for TSMC as competition struggles to match high-volume advanced lithography packaging capabilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENTIC TOOLKIT",
+            "id": 2,
+            "heading": "SK HYNIX: VALUATION VOLATILITY REPORT",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit offering domain-specific tools for agentic life sciences discoveries.",
-                "Specialized analytical tools accelerate target molecule screening workflows by a factor of ten.",
-                "The architecture seamlessly connects deep neural networks with complex biological modeling software systems.",
-                "Pharmaceutical research labs will deploy specialized computational agents to drastically compress pre-clinical testing schedules."
+                "SK Hynix shares plunged fifteen percent following a volatile Nasdaq debut complicated by geopolitical shocks in the Middle East.",
+                "Regional military escalation near critical shipping lanes threatens global supply lines for specialized high-bandwidth memory component distribution networks.",
+                "System architects warn of potential hardware pricing volatility if transit restrictions disrupt key logistical pathways for semiconductor integration.",
+                "Investors are repositioning capital into safer assets as macroeconomic and localized regional conflicts destabilize international chip market valuations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "META: DATA CENTER INFRASTRUCTURE EXPANSION",
+            "points": [
+                "Meta announced plans to build a massive fifty billion dollar artificial intelligence data center facility in Louisiana.",
+                "Generous state tax incentives helped secure the landmark infrastructure project to power massive agentic and generative reasoning model workloads.",
+                "The deployment represents a major step toward physical AI operational scale and deep localized enterprise model inference processing.",
+                "This facility will directly scale operational compute capacity to support next-generation multimodal consumer and corporate product ecosystems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "HELSING: DEFENSE AI VENTURE CAPITALIZATION",
+            "points": [
+                "European defense artificial intelligence firm Helsing raised one point eight billion dollars at an eighteen billion dollar valuation.",
+                "Global venture capital firms backed the sovereign defense-focused startup to accelerate the development of autonomous security software platforms.",
+                "Strategic funding will expand deep software integration across autonomous drone swarms and real-time edge security monitoring systems.",
+                "Defense ministries increasingly rely on localized AI models to modernise national security infrastructure against emerging modern electronic warfare."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICRON: MEMORY CAPEX OVERSUPPLY THREAT",
+            "points": [
+                "Micron Technology experienced stock declines as memory rivals increased capital expenditures to secure future semiconductor market share.",
+                "Surging infrastructure investments stoke oversupply fears across the high-bandwidth memory sector as hardware production capacity accelerates globally.",
+                "Enterprise buyers must balance current inventory procurement strategy against projected price corrections in the upcoming fiscal quarters.",
+                "Industry analysts warn that unchecked capital deployment could lead to structural imbalances in the specialized hardware supply chains."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "IBM: HYBRID CLOUD MAINFRAME DEPLOYMENT",
+            "points": [
+                "IBM introduced updated z17 mainframe models alongside LinuxONE Rockhopper servers designed for space-constrained modern enterprise data centers.",
+                "The updated hardware architecture integrates low-latency hybrid cloud processing to optimize localized real-time machine learning inference workflows.",
+                "Systems engineering divisions can now run complex AI models directly on secure mainframe environments without costly cloud egress.",
+                "This physical hardware release strengthens decentralized security capabilities for heavily regulated financial and governmental transaction processing environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHTARGET: AGENTIC RANSOMWARE THREAT",
+            "heading": "SPACEXAI: GROK 4.5 ENTERPRISE DEBUT",
             "points": [
-                "Security researchers identify the first fully autonomous ransomware operation executing attacks without human interaction.",
-                "Exploiting privileged credentials through prompt injection compromises private source repositories within seconds.",
-                "The incident underscores systemic architectural vulnerabilities when giving automated AI agents raw workspace access.",
-                "Cybersecurity teams must immediately transition to zero-trust verification frameworks protecting all internal API keys."
+                "SpaceXAI launched Grok four point five aiming to capture critical market share within the competitive corporate software sector.",
+                "New benchmark data shows substantial reductions in computational and coding-task execution costs compared to rival premium software models.",
+                "Enterprise tech leaders are evaluating the agentic framework to optimize software development life cycle productivity and automation.",
+                "The development signals intensifying competition in the market for specialized coding and autonomous business operations software agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
