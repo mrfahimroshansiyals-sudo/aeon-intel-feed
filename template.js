@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT AGENTIC",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "INTELLIGENT INFRASTRUCTURE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL: ROBOT NAVIGATION",
+            "heading": "IBM: ENTERPRISE SHIFT",
             "points": [
-                "Mistral AI unveiled Robostral Navigate, a vision model utilizing a single RGB camera for robot navigation.",
-                "The architecture removes complex LiDAR and depth sensor dependencies to lower deployment hardware barriers significantly.",
-                "Robots process natural language instructions to guide physical movement through completely unfamiliar spatial environments autonomously.",
-                "Sovereign robotics developers gain highly efficient spatial reasoning pipelines optimized for low-power edge computer platforms."
+                "IBM shares plummeted twenty-three percent as global enterprise clients rapidly shifted infrastructure budgets toward artificial intelligence.",
+                "Legacy servers and traditional storage hardware systems suffered immediate procurement delays as buyers prioritized AI capabilities.",
+                "Hybrid cloud architectures are undergoing massive re-engineering to accommodate high-density GPU computing and generative model workflows.",
+                "Chief Information Officers must quickly reallocate capital from standard software contracts to fund specialized AI integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 ROLLOUT",
+            "heading": "OPENAI: FRONTIER MODELING",
             "points": [
-                "OpenAI launched ChatGPT Work alongside the broader rollout of its next-generation GPT-5.6 frontier intelligence model.",
-                "The platform integrates ChatGPT and Codex tools to automate complex enterprise workflows with high accuracy.",
-                "The model scales reasoning capabilities dynamically based on task complexity to optimize execution computing costs.",
-                "Enterprise architectures will rapidly transition toward fully autonomous workspace agents running on unified orchestration planes."
+                "OpenAI launched GPT-5.6 delivering advanced frontier intelligence designed to scale complex workplace task automation efficiently.",
+                "Early integration testing shows a forty percent reduction in workflow latency across multi-agent enterprise software environments.",
+                "The architecture leverages dynamic scaling laws to maximize reasoning efficiency during prolonged and resource-intensive agent operations.",
+                "Enterprise developers can instantly deploy custom agent workflows using the upgraded API endpoint infrastructure starting today."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,60 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TYPESCRIPT: GO COMPILED",
+            "heading": "ALATION: AGENT GOVERNANCE",
             "points": [
-                "TypeScript 7.0 introduced a Go-based port delivering ten times faster execution speed than traditional compilers.",
-                "Native code execution and shared-memory multithreading drastically reduce developer pipeline build times across enterprises.",
-                "The engine decouples development tooling from JavaScript runtimes to achieve unprecedented microsecond-level compilation latency limits.",
-                "Large-scale software development teams can accelerate deployment velocity while cutting localized continuous integration infrastructure overheads."
+                "Alation launched a new Intelligence Operating System specifically engineered to govern and orchestrate autonomous AI agents.",
+                "The platform unifies unstructured enterprise data and operational metadata to reduce agent hallucinations by thirty percent.",
+                "Decentralized data structures require localized compliance guardrails to ensure reliable policy enforcement across federated IT networks.",
+                "Data engineers can now design secure agent permissions without configuring complex underlying database security rules manually."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: RAYFIN ENGINE",
+            "heading": "MISTRAL AI: ROBOTIC VISION",
             "points": [
-                "Microsoft Fabric announced Rayfin, a fully managed agent-optimized backend-as-a-service built for rapid scaling.",
-                "Developers can deploy zero-code agent backends directly integrated with enterprise-grade security and governance controls.",
-                "This release decouples agent runtime environments from legacy server configurations to improve microservices communication efficiency.",
-                "Enterprise IT leaders can scale secure agentic fleets without managing complex underlying database connections."
+                "Mistral AI unveiled a specialized vision model enabling autonomous robot navigation using only a single camera.",
+                "Robotic hardware systems achieved ninety-five percent accuracy navigating completely unfamiliar structural environments during real-time trials.",
+                "Integrating natural language processing directly with physical spatial awareness eliminates the need for expensive lidar mapping.",
+                "Hardware manufacturers can deploy these lightweight vision models onto low-power edge compute boards in production lines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE",
+            "heading": "GOOGLE CLOUD: THREAT DEFENSE",
             "points": [
-                "Anthropic launched Claude Science, integrating scientific research tools with flexible, auditable high-performance computing resources.",
-                "Researchers can dynamically manage multi-step analytical pipelines while ensuring absolute provenance of generated data artifacts.",
-                "The platform is fully integrated with Microsoft Foundry on Azure to guarantee secure enterprise authentication.",
-                "Life sciences organizations will accelerate drug discovery cycles through standardized, agentic verification of biological simulations."
+                "Google introduced AI Threat Defense to dramatically accelerate automated detection of emerging cybersecurity risks in cloud networks.",
+                "Operational security centers report a sixty percent reduction in critical system vulnerability mitigation times during initial trials.",
+                "The security system monitors live data streams to identify unauthorized horizontal privilege escalations across hybrid infrastructures.",
+                "Cloud security architects can now deploy autonomous response playbooks to contain sophisticated threat vectors within seconds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENTS",
+            "heading": "NVIDIA: SCIENTIFIC AGENTS",
             "points": [
-                "NVIDIA introduced the BioNeMo Agent Toolkit to deliver domain-specific tools for agentic life sciences workflows.",
-                "The software accelerates molecule analysis by bridging biological simulation software with advanced frontier agent architectures.",
-                "Integration into Claude Science allows researchers to orchestrate complex laboratory data sweeps using natural language.",
-                "Biotech firms can leverage highly specialized physical AI pipelines to reduce computational therapeutic discovery timelines."
+                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific AI agent workflows.",
+                "Computational biology labs achieved a tenfold speedup in target molecule identification and chemical property screening processes.",
+                "High-performance computing architectures are combining physical simulation models with generative agents to streamline drug development pipelines.",
+                "Research institutions can immediately deploy these pre-configured toolkit skills on Blackwell GPU supercomputer infrastructure worldwide."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "IBM: BOB PLATFORM",
+            "heading": "IEEE SPECTRUM: NEUROMORPHIC STORAGE",
             "points": [
-                "IBM expanded its Bob AI Platform to orchestrate the entire software development lifecycle autonomously.",
-                "The system moves beyond simple code generation to manage deployment monitoring and automated testing pipelines.",
-                "This release integrates deeply with the new z17 mainframe systems to optimize hybrid cloud workloads.",
-                "DevOps teams can decrease operational overheads by shifting structural system maintenance tasks to autonomous agents."
+                "Researchers successfully repurposed standard commercial flash memory devices to execute highly efficient neuromorphic computing operations locally.",
+                "The hardware adaptation reduced local inference power consumption by eighty percent compared to traditional matrix multiplication chips.",
+                "Storing neural network weights directly within non-volatile memory cells eliminates traditional memory bottleneck delays during processing.",
+                "Device manufacturers can design ultra-low-power consumer electronics capable of running advanced AI algorithms without battery strain."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
