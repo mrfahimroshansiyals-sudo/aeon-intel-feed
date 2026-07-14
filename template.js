@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INTELLIGENCE"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 ROLLOUT",
+            "heading": "ASML: LITHOGRAPHY SCALING",
             "points": [
-                "OpenAI has launched ChatGPT Work to orchestrate enterprise workloads utilizing the newly deployed GPT-5.6 foundation model.",
-                "Early integration benchmarks indicate that the system reduces manual document routing overhead by up to forty percent.",
-                "Deploying these native agentic capabilities enables companies to deprecate redundant middleware and consolidate complex operational stacks.",
-                "Enterprise technology leaders must prepare for rapid workflow shifts as autonomous reasoning agents assume transactional tasks."
+                "ASML leverages AI native engineering frameworks to optimize extreme ultraviolet lithography precision for sub 2nm chip fabrication processes.",
+                "High volume manufacturing nodes now integrate autonomous diagnostic loops to reduce defect densities during wafer patterning cycles.",
+                "Strategic output capacity expands as lithography systems incorporate generative models for real time optical proximity correction and adjustment.",
+                "Chipmakers globally transition toward AI driven holistic lithography to maintain production yields despite increasing architectural transistor complexity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
             "points": [
-                "Anthropic introduced Claude Science as a dedicated platform integrating research-specific tools and fully auditable computational artifacts.",
-                "The new framework runs on Microsoft Foundry, providing secure, governed access to frontier models with centralized billing.",
-                "Hosting the platform on Azure infrastructure ensures compliance with rigid corporate data policies and regulatory frameworks.",
-                "Research institutions will rapidly transition to auditable AI workspaces to ensure reproducibility and secure proprietary insights."
+                "OpenAI accelerates the rollout of GPT 5.6 across enterprise segments to facilitate autonomous multi agent workflow orchestration.",
+                "New model architectures optimize context window utilization for long horizon reasoning tasks in complex financial and engineering sectors.",
+                "Security layers are integrated directly into inference pipelines to monitor agentic behavior and prevent unauthorized data exfiltration risks.",
+                "Operational efficiency metrics improve as enterprises deploy frontier intelligence to automate legacy software maintenance and code refactoring."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE RELEASE",
+            "heading": "MISTRAL: AUTONOMOUS AGENTIC STACK",
             "points": [
-                "Mistral debuted Robostral Navigate, an autonomous robotics AI model requiring input from only a single color camera.",
-                "Eliminating secondary Lidar and depth sensors decreases hardware manufacturing costs for industrial robots by thirty percent.",
-                "This vision-only approach challenges existing multi-sensor paradigms and accelerates the deployment of lightweight edge intelligence systems.",
-                "Hardware manufacturers will prioritize monocular vision systems to optimize supply chains and lower power consumption budgets."
+                "Mistral introduces Vibe AI agent platform designed for long horizon task execution across disparate enterprise software environments.",
+                "Architecture aware reasoning engines enable agents to translate legacy code bases into modern languages with minimal human intervention.",
+                "Edge to cloud deployment models provide enterprises with modular control over data residency and localized model performance requirements.",
+                "Unified observability interfaces allow developers to track agentic state changes in real time across complex production workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SPACEXAI: GROK 4.5 RELEASE",
+            "heading": "AMD: AGENTIC HARDWARE WORKFLOWS",
             "points": [
-                "SpaceXAI launched Grok 4.5, establishing its first enterprise-grade entry targeted at optimizing complex software development tasks.",
-                "Benchmark studies show the platform operates at under three dollars per coding task, representing significant cost reductions.",
-                "Lower transactional compute costs will force competitors to re-evaluate pricing structures for autonomous developer tools globally.",
-                "Software engineering departments will increasingly migrate from legacy assistants to highly optimized, lower-cost agentic coding architectures."
+                "AMD expands its AI compute portfolio to support full end to end agentic workflows within large scale data centers.",
+                "Instinct GPU clusters achieve benchmark leading efficiency by optimizing memory bandwidth for massive scale autonomous agentic model training.",
+                "Open ecosystem standards facilitate interoperability across diverse hardware acceleration layers including EPYC CPUs and Versal AI SoCs.",
+                "Strategic enterprise partnerships enable phased deployment of multi megawatt compute power to handle regulated and mission critical AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: GEMINI 3.5 UPGRADE",
+            "heading": "GOOGLE: AGENTIC CLOUD PLATFORM",
             "points": [
-                "Google introduced native computer use capabilities in Gemini 3.5 Flash alongside the efficient Nano Banana 2 Lite.",
-                "Combining computer interaction with compact architecture delivers ultra-fast, local execution times for latency-sensitive applications.",
-                "Enhancing agentic workflows with low-latency models shifts the computing paradigm from cloud API dependency to edge-based execution.",
-                "Application developers will pivot toward local model deployment, drastically reducing hosting bills while maintaining high operational throughput."
+                "Google Cloud integrates AI threat defense into infrastructure layers to proactively outpace adversary attempts against autonomous agentic systems.",
+                "Gemini Enterprise platform provides unified governance and orchestration frameworks for managing massive fleets of AI driven agents.",
+                "Remote MCP server management enhances developer ability to build scalable agents across heterogeneous containerized infrastructure and cloud environments.",
+                "Data Cloud upgrades enable real time synthesis of structured insights for accelerated decision making in high velocity enterprise markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: RACKSPACE COMPUTE EXPANSION",
+            "heading": "NVIDIA: BIONEMO AGENTIC TOOLKIT",
             "points": [
-                "AMD finalized a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute infrastructure.",
-                "This phased rollout secures high-capacity processing nodes to host regulated, security-sensitive enterprise workloads across multiple global regions.",
-                "Expanding localized, secure hosting alternatives dilutes the dominance of traditional hyper-scalers over critical enterprise training infrastructure.",
-                "Regulated industries will accelerate cloud migration plans now that sovereign, high-density AI infrastructure is readily available."
+                "NVIDIA launches BioNeMo Agent Toolkit to provide domain specific acceleration for life sciences and drug discovery research efforts.",
+                "High performance supercomputing clusters across Europe integrate Blackwell architecture to optimize real time AI inference at scale.",
+                "New developer frameworks enable the seamless integration of physical AI and robotics models into standard enterprise simulation environments.",
+                "Strategic capital partnerships drive the buildout of sovereign AI infrastructure capable of supporting advanced scientific and medical breakthroughs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IBM: MAINFRAME AI INTEGRATION",
+            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
             "points": [
-                "IBM expanded its z17 mainframe family and LinuxONE Rockhopper platforms to target demanding hybrid cloud AI workloads.",
-                "The compact, customizable rack configurations maximize power efficiency and throughput within highly constrained data center footprints.",
-                "Integrating specialized AI acceleration directly into legacy transaction environments avoids costly, high-latency external cloud data hops.",
-                "Financial institutions will leverage these specialized frames to process real-time fraud models without compromising transaction speeds."
+                "Scientific panel of independent experts formalizes governance protocols for general purpose AI models to ensure regulatory compliance across member states.",
+                "Transparency rules under Article 50 mandate strict reporting for providers and deployers of high risk autonomous intelligence systems.",
+                "Compliance checker tools simplify the legal evaluation process for SMEs navigating the evolving regulatory landscape of European AI.",
+                "Institutional frameworks facilitate cross border cooperation on AI safety and oversight to align technological innovation with ethical standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
