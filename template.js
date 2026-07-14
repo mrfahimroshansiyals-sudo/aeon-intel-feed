@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT INFRASTRUCTURE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "GLOBAL AI PARADIGM",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM: ENTERPRISE SHIFT",
+            "heading": "OPENAI: FRONTIER MODEL SCALING",
             "points": [
-                "IBM shares plummeted twenty-three percent as global enterprise clients rapidly shifted infrastructure budgets toward artificial intelligence.",
-                "Legacy servers and traditional storage hardware systems suffered immediate procurement delays as buyers prioritized AI capabilities.",
-                "Hybrid cloud architectures are undergoing massive re-engineering to accommodate high-density GPU computing and generative model workflows.",
-                "Chief Information Officers must quickly reallocate capital from standard software contracts to fund specialized AI integrations."
+                "OpenAI officially rolls out GPT-5.6 delivering frontier intelligence designed to scale with enterprise ambitions.",
+                "The system integrates advanced reasoning models to automate complex multi-step workflows across legacy operational systems.",
+                "This release signals a transition toward fully autonomous agents capable of managing diverse software environments.",
+                "Enterprises must prepare to shift capital expenditures from basic copilots to fully agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: FRONTIER MODELING",
+            "heading": "NEW YORK: GRID INFRASTRUCTURE CRUNCH",
             "points": [
-                "OpenAI launched GPT-5.6 delivering advanced frontier intelligence designed to scale complex workplace task automation efficiently.",
-                "Early integration testing shows a forty percent reduction in workflow latency across multi-agent enterprise software environments.",
-                "The architecture leverages dynamic scaling laws to maximize reasoning efficiency during prolonged and resource-intensive agent operations.",
-                "Enterprise developers can instantly deploy custom agent workflows using the upgraded API endpoint infrastructure starting today."
+                "New York State institutes a strict one-year moratorium suspending all new data center building projects.",
+                "The legislative action responds directly to escalating public backlash regarding regional grid capacity and emissions.",
+                "This development pressures hyperscalers to optimize compute density and seek alternative sovereign energy grids globally.",
+                "Organizations will face rising cloud operational costs as regional capacity limits constrain localized server footprints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ALATION: AGENT GOVERNANCE",
+            "heading": "APPLE: EDGE COMPUTING SHRINKAGE",
             "points": [
-                "Alation launched a new Intelligence Operating System specifically engineered to govern and orchestrate autonomous AI agents.",
-                "The platform unifies unstructured enterprise data and operational metadata to reduce agent hallucinations by thirty percent.",
-                "Decentralized data structures require localized compliance guardrails to ensure reliable policy enforcement across federated IT networks.",
-                "Data engineers can now design secure agent permissions without configuring complex underlying database security rules manually."
+                "Apple initiates strategic discussions with an early-stage startup specializing in compact localized model architecture optimization.",
+                "The partnership aims to execute complex generative intelligence operations natively on consumer smartphone hardware platforms.",
+                "This movement bypasses costly cloud latency bottlenecks by utilizing highly optimized on-device hardware engines.",
+                "Mobile developers will pivot toward designing localized agent workflows that function entirely without external APIs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: ROBOTIC VISION",
+            "heading": "IBM: INFRASTRUCTURE BUDGET DISRUPTION",
             "points": [
-                "Mistral AI unveiled a specialized vision model enabling autonomous robot navigation using only a single camera.",
-                "Robotic hardware systems achieved ninety-five percent accuracy navigating completely unfamiliar structural environments during real-time trials.",
-                "Integrating natural language processing directly with physical spatial awareness eliminates the need for expensive lidar mapping.",
-                "Hardware manufacturers can deploy these lightweight vision models onto low-power edge compute boards in production lines."
+                "IBM stock experiences a dramatic twenty-five percent decline as corporate spending rapidly rotates toward AI.",
+                "Chief executive Arvind Krishna confirms clients are actively prioritizing immediate server and specialized storage acquisitions.",
+                "This transition underscores a structural migration of enterprise budgets away from traditional hybrid cloud IT.",
+                "Legacy software providers must quickly pivot to remain relevant as capital allocations favor deep automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: THREAT DEFENSE",
+            "heading": "NVIDIA: SOVEREIGN CHIP EXPORT BARRIERS",
             "points": [
-                "Google introduced AI Threat Defense to dramatically accelerate automated detection of emerging cybersecurity risks in cloud networks.",
-                "Operational security centers report a sixty percent reduction in critical system vulnerability mitigation times during initial trials.",
-                "The security system monitors live data streams to identify unauthorized horizontal privilege escalations across hybrid infrastructures.",
-                "Cloud security architects can now deploy autonomous response playbooks to contain sophisticated threat vectors within seconds."
+                "United States trade officials confirm highly restricted shipping volume of advanced H200 accelerators to China.",
+                "Sovereign regulatory constraints continue to restrict the global flow of high-performance semiconductor components and software.",
+                "This supply limitation accelerates domestic chip development initiatives within secondary regional manufacturing ecosystems globally.",
+                "Global supply chains must anticipate prolonged hardware delivery cycles for cutting-edge infrastructure design projects."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: SCIENTIFIC AGENTS",
+            "heading": "SK HYNIX: SEMICONDUCTOR CAPITAL EXPANSION",
             "points": [
-                "NVIDIA announced the BioNeMo Agent Toolkit to accelerate scientific discovery through domain-specific AI agent workflows.",
-                "Computational biology labs achieved a tenfold speedup in target molecule identification and chemical property screening processes.",
-                "High-performance computing architectures are combining physical simulation models with generative agents to streamline drug development pipelines.",
-                "Research institutions can immediately deploy these pre-configured toolkit skills on Blackwell GPU supercomputer infrastructure worldwide."
+                "Barclays forecasts that SK Hynix global market valuation could potentially double due to high-bandwidth memory.",
+                "The financial projections reflect soaring global demand for specialized memory architectures optimized for frontier training.",
+                "Sustained architectural scaling requires massive memory throughput improvements to keep pace with next-generation processing units.",
+                "Investors will continue channeling significant capital toward primary physical hardware and semiconductor supply chain leaders."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: NEUROMORPHIC STORAGE",
+            "heading": "OPENAI: REAL TIME CHAT INTERACTIVITY",
             "points": [
-                "Researchers successfully repurposed standard commercial flash memory devices to execute highly efficient neuromorphic computing operations locally.",
-                "The hardware adaptation reduced local inference power consumption by eighty percent compared to traditional matrix multiplication chips.",
-                "Storing neural network weights directly within non-volatile memory cells eliminates traditional memory bottleneck delays during processing.",
-                "Device manufacturers can design ultra-low-power consumer electronics capable of running advanced AI algorithms without battery strain."
+                "OpenAI officially launches GPT-Live introducing a highly responsive interactive interface for zero-latency workspace execution.",
+                "The tool decreases voice and audio latency to enable seamless human-agent collaboration in high-stress operational environments.",
+                "This rollout represents a major leap forward in building persistent context-aware virtual corporate team members.",
+                "Enterprises will quickly integrate native real-time audio systems to replace legacy transactional customer service tools."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
