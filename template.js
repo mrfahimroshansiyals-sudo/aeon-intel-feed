@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
+        "titleBlue": "ENGINE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: LITHOGRAPHY SCALING",
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
             "points": [
-                "ASML leverages AI native engineering frameworks to optimize extreme ultraviolet lithography precision for sub 2nm chip fabrication processes.",
-                "High volume manufacturing nodes now integrate autonomous diagnostic loops to reduce defect densities during wafer patterning cycles.",
-                "Strategic output capacity expands as lithography systems incorporate generative models for real time optical proximity correction and adjustment.",
-                "Chipmakers globally transition toward AI driven holistic lithography to maintain production yields despite increasing architectural transistor complexity."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
-            "points": [
-                "OpenAI accelerates the rollout of GPT 5.6 across enterprise segments to facilitate autonomous multi agent workflow orchestration.",
-                "New model architectures optimize context window utilization for long horizon reasoning tasks in complex financial and engineering sectors.",
-                "Security layers are integrated directly into inference pipelines to monitor agentic behavior and prevent unauthorized data exfiltration risks.",
-                "Operational efficiency metrics improve as enterprises deploy frontier intelligence to automate legacy software maintenance and code refactoring."
+                "OpenAI launches GPT-5.6 alongside ChatGPT Work to automate complex multi-step enterprise workflows.",
+                "The system optimizes token throughput rates while reducing API runtime costs for large-scale production deployments.",
+                "Integrating Codex and frontier models enables decentralized agents to execute autonomous transactions across legacy databases.",
+                "Organizations will transition from basic chat interfaces to fully autonomous workplace operational systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,29 @@ const dailyData = {
             ]
         },
         {
+            "id": 2,
+            "heading": "ANTHROPIC: SONNET 5 AGENTS",
+            "points": [
+                "Anthropic releases Sonnet 5 and Claude Science to deliver advanced agentic coding and research capabilities.",
+                "The specialized platform outputs fully auditable artifacts while managing complex computational pipelines across environments.",
+                "Deploying customizable agent workspaces reduces development cycles by decoupling model reasoning from underlying infrastructure.",
+                "Researchers gain immediate access to secure, compliance-ready sandbox environments for accelerated scientific discovery."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 3,
-            "heading": "MISTRAL: AUTONOMOUS AGENTIC STACK",
+            "heading": "GOOGLE: GEMINI 3.5 ACTION",
             "points": [
-                "Mistral introduces Vibe AI agent platform designed for long horizon task execution across disparate enterprise software environments.",
-                "Architecture aware reasoning engines enable agents to translate legacy code bases into modern languages with minimal human intervention.",
-                "Edge to cloud deployment models provide enterprises with modular control over data residency and localized model performance requirements.",
-                "Unified observability interfaces allow developers to track agentic state changes in real time across complex production workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: AGENTIC HARDWARE WORKFLOWS",
-            "points": [
-                "AMD expands its AI compute portfolio to support full end to end agentic workflows within large scale data centers.",
-                "Instinct GPU clusters achieve benchmark leading efficiency by optimizing memory bandwidth for massive scale autonomous agentic model training.",
-                "Open ecosystem standards facilitate interoperability across diverse hardware acceleration layers including EPYC CPUs and Versal AI SoCs.",
-                "Strategic enterprise partnerships enable phased deployment of multi megawatt compute power to handle regulated and mission critical AI."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE: AGENTIC CLOUD PLATFORM",
-            "points": [
-                "Google Cloud integrates AI threat defense into infrastructure layers to proactively outpace adversary attempts against autonomous agentic systems.",
-                "Gemini Enterprise platform provides unified governance and orchestration frameworks for managing massive fleets of AI driven agents.",
-                "Remote MCP server management enhances developer ability to build scalable agents across heterogeneous containerized infrastructure and cloud environments.",
-                "Data Cloud upgrades enable real time synthesis of structured insights for accelerated decision making in high velocity enterprise markets."
+                "Google DeepMind introduces Gemini 3.5 featuring native computer use actions and multimodal Omni Flash.",
+                "The model processes high-fidelity video streams to execute direct operating system interactions in real time.",
+                "Building on fully managed model context protocol servers streamlines secure multi-agent governance and orchestration.",
+                "Next-generation agent platforms will autonomously manipulate desktop software to bypass traditional API constraints."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NVIDIA: BIONEMO AGENTIC TOOLKIT",
+            "id": 4,
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATION",
             "points": [
-                "NVIDIA launches BioNeMo Agent Toolkit to provide domain specific acceleration for life sciences and drug discovery research efforts.",
-                "High performance supercomputing clusters across Europe integrate Blackwell architecture to optimize real time AI inference at scale.",
-                "New developer frameworks enable the seamless integration of physical AI and robotics models into standard enterprise simulation environments.",
-                "Strategic capital partnerships drive the buildout of sovereign AI infrastructure capable of supporting advanced scientific and medical breakthroughs."
+                "Mistral AI unveils Robostral Navigate enabling autonomous physical robot control using a single camera.",
+                "The lightweight model processes video inputs without requiring expensive LiDAR sensors or multiple depth perspectives.",
+                "Integrating low-latency vision-language-action models reduces edge computing power requirements for commercial deployment.",
+                "Hardware developers can dramatically lower manufacturing costs while scaling spatial reasoning capabilities on edge devices."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: AZURE HORIZONDB",
+            "points": [
+                "Microsoft launches Azure HorizonDB bringing ultra-low latency and built-in AI capabilities to PostgreSQL databases.",
+                "Rayfin delivers an agent-optimized backend as a service natively integrated within the Fabric data ecosystem.",
+                "Modernizing cloud databases with co-located AI models minimizes network latency during high-frequency agent queries.",
+                "Software architects can deploy complex transactional structures without managing separate database and reasoning pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: VERSAL GEN 2 MEMORY",
+            "points": [
+                "AMD launches Versal Premium Gen 2 systems to significantly boost memory capacity for edge workloads.",
+                "A definitive agreement with Rackspace secures thirty megawatts of localized GPU infrastructure for regulated industries.",
+                "Combining high-bandwidth adaptive computing with secure cloud hosting addresses sovereignty concerns in enterprise workloads.",
+                "Infrastructure leaders can confidently scale massive parallel processing workloads within tightly controlled perimeter security frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
+            "heading": "MICROSOFT: TYPESCRIPT 7 GO PORT",
             "points": [
-                "Scientific panel of independent experts formalizes governance protocols for general purpose AI models to ensure regulatory compliance across member states.",
-                "Transparency rules under Article 50 mandate strict reporting for providers and deployers of high risk autonomous intelligence systems.",
-                "Compliance checker tools simplify the legal evaluation process for SMEs navigating the evolving regulatory landscape of European AI.",
-                "Institutional frameworks facilitate cross border cooperation on AI safety and oversight to align technological innovation with ethical standards."
+                "TypeScript 7.0 arrives featuring a Go-based port that delivers ten times faster performance execution.",
+                "Native code speeds and shared memory multithreading drastically reduce compilation overhead for large enterprise systems.",
+                "Migrating the compiler stack to Go eliminates JavaScript engine limitations during massive code modernizations.",
+                "Engineering teams will experience near-instantaneous builds while scaling complex application architectures across microservices environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
