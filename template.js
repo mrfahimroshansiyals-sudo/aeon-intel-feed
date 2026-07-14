@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ORACLE: AI AGENT STUDIO EXPANSION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER AGENT",
             "points": [
-                "Oracle integrates pro-code tools within its Agent Studio to combine deterministic automations with generative capabilities.",
-                "Enterprise developers can rapidly deploy validated decision-making agents across critical ERP and Fusion software suites.",
-                "The hybrid architecture establishes centralized governance to manage probabilistic outputs alongside legacy database transaction integrity.",
-                "Organizations will shift from isolated chat interfaces toward deeply embedded autonomous transactional workflows."
+                "OpenAI releases GPT-5.6 and GPT-Live designed to scale enterprise workflow automation dynamically across distributed networks.",
+                "The model enables persistent, long-horizon multi-agent tasks with localized execution frameworks reducing processing latency significantly.",
+                "Architectural decoupling separates core reasoning from active execution modules, facilitating isolated secure sandbox computations.",
+                "Enterprise architects must transition legacy workflows toward autonomous agent loops to remain competitive in 2026."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: z17 SECURE INFRASTRUCTURE LAUNCH",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "IBM unveils z17 and LinuxONE Rockhopper servers designed for secure enterprise-scale artificial intelligence inference workloads.",
-                "Compact hardware form factors allow dense data center integration while optimizing power efficiency per computing rack.",
-                "The architecture integrates cryptographic co-processors directly into mainframe layers to protect sensitive runtime model parameters.",
-                "Legacy financial networks will process real-time transaction evaluations on-premises without routing data to external clouds."
+                "NVIDIA introduces the BioNeMo Agent Toolkit to accelerate sovereign agentic workflows within advanced life sciences research.",
+                "The platform deploys specialized biological toolsets and pre-trained models to optimize complex molecular simulation processing.",
+                "System integration with Vera Rubin supercomputers ensures massive parallelization of deep learning scientific discovery pipelines.",
+                "Global pharmaceuticals will accelerate pipeline testing speeds, drastically cutting molecular design cycles via autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: ROBOTIC VISION PLATFORM",
+            "heading": "NEW YORK: DATA CENTER BAN",
             "points": [
-                "Mistral AI launches Robostral Navigate, a specialized vision model engineered for autonomous robot navigation tasks.",
-                "Spatial intelligence systems utilize lightweight vision frameworks to decrease onboard computing power requirements significantly.",
-                "The model acts as a physical AI agent that translates raw visual telemetry into real-time spatial coordinates.",
-                "Industrial manufacturing facilities will deploy cheaper edge-based robotic systems without requiring constant high-bandwidth network connectivity."
+                "New York institutes a temporary ban on new AI-specific data center development due to electrical grid capacity.",
+                "The state suspension directly impacts planned high-performance compute facilities requiring substantial megawatt capacity allocations.",
+                "Cloud providers face immediate pressure to locate next-generation physical clusters in alternative resource-abundant geopolitical regions.",
+                "Hyperscalers must prioritize energy-flexible software architectures to navigate mounting localized grid restrictions globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALATION: AGENT INTELLIGENCE OS UNVEILED",
+            "heading": "IBM: ENTERPRISE AI SPENDING SHIFT",
             "points": [
-                "Alation introduces its Intelligence Operating System to streamline the creation, monitoring, and compliance of enterprise agents.",
-                "Data team workflows leverage real-time metadata lineages to prevent hallucinated decisions during autonomous workflows.",
-                "The unified framework couples data context with agent environments to ensure structural safety and regulatory compliance.",
-                "Large organizations will systematically audit machine-to-machine interactions to satisfy emerging global digital compliance mandates."
+                "IBM shares drop 25 percent as corporate clients shift capital allocation toward GPU-intensive artificial intelligence infrastructure.",
+                "Legacy software revenues decline sharply while cloud compute and specialized hardware procurement experience unprecedented capital inflows.",
+                "Mainframe modernization architectures now integrate directly with AI inference processors to defend core enterprise workloads.",
+                "Legacy technology vendors must aggressively pivot portfolios toward generative models or risk severe market valuation penalties."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CRIBL: SECURE SECOPS ARCHITECTURE",
+            "heading": "MICROSOFT: AZURE CLAUDE FOUNDRY",
             "points": [
-                "Cribl acquires CardinalOps to merge advanced detection engineering rules into its Bring Your Own Agent architecture.",
-                "Security teams execute automated threat hunts across diverse data streams without maintaining costly centralized storage pools.",
-                "The integration decouples ingestion pipelines from traditional SIEM backends to enable localized edge-based threat identification.",
-                "Enterprise security architecture will shift to dynamic, agentic defense mechanisms capable of self-healing software environments."
+                "Microsoft announces general availability of Anthropic Claude models inside the secure enterprise-managed Azure Foundry platform.",
+                "The integration ensures zero-data retention policies and native integration with centralized enterprise identity access management.",
+                "Hybrid cloud configurations allow developers to orchestrate multi-model pathways with high-throughput and predictable billing structures.",
+                "System architects can confidently deploy highly compliant agentic applications leveraging diverse frontier model capabilities safely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: LOUISIANA HYPERSCALE BUILD",
+            "heading": "ORACLE: AGENT STUDIO EXPANSION",
             "points": [
-                "Meta commits fifty billion dollars to construct a massive five-gigawatt hyperscale AI supercluster in Louisiana.",
-                "The facility provides unprecedented computational resources to train next-generation frontier models and autonomous agent workflows.",
-                "Massive power infrastructure challenges local grid capacities, forcing developers to integrate software-driven dynamic load shedding algorithms.",
-                "Hyperscalers will consolidate compute resources in specialized geolocations to dominate physical infrastructure capabilities globally."
+                "Oracle expands its AI Agent Studio, combining low-code and professional-code programming interfaces for developer teams.",
+                "The updated toolkit streamlines integration of autonomous workflows directly into mission-critical corporate Fusion business applications.",
+                "Developers gain access to integrated governance layers that actively monitor and validate model-generated data pipelines.",
+                "Enterprise application developers will rapidly deploy customized agentic tools directly embedded in legacy operational databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TAIWAN CHIPMAKER: PHOTONICS UPGRADE",
+            "heading": "ALATION: AGENT GOVERNANCE OS",
             "points": [
-                "Taiwan's second-largest chipmaker achieves a production milestone in advanced silicon photonics packaging for AI accelerators.",
-                "Transitioning from electronic copper interconnects to optical pathways multiplies chip-to-chip bandwidth speeds while reducing latency.",
-                "Integrating optical transceivers directly into multi-chip modules bypasses traditional performance bottlenecks of electrical signaling systems.",
-                "Global hardware supply chains will leverage electro-optic copackaging to sustain Moore\u2019s Law in next-generation computing architectures."
+                "Alation delivers a unified Intelligence Operating System to govern autonomous artificial intelligence agent interactions and access.",
+                "The system centralizes technical metadata and operational context to prevent catastrophic hallucinations within live database environments.",
+                "Structured data governance architectures are optimized to enforce real-time enterprise compliance rules across multiple models.",
+                "Chief Information Officers will require standardized metadata engines before authorizing deep autonomous agent system access."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
