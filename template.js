@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI PARADIGM",
-        "titleBlue": "SHIFT"
+        "titleWhite": "DECENTRALIZED ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL SCALING",
+            "heading": "NEW YORK: DATA CENTER BAN",
             "points": [
-                "OpenAI officially rolls out GPT-5.6 delivering frontier intelligence designed to scale with enterprise ambitions.",
-                "The system integrates advanced reasoning models to automate complex multi-step workflows across legacy operational systems.",
-                "This release signals a transition toward fully autonomous agents capable of managing diverse software environments.",
-                "Enterprises must prepare to shift capital expenditures from basic copilots to fully agentic workflows."
+                "New York Governor Kathy Hochul signed a one-year moratorium on new proof-of-work and AI data center development.",
+                "This legislation halts construction to offset mounting environmental impacts and protect regional power grid stability amid rising demand.",
+                "Infrastructure developers must pivot to states offering modular grid integrations and progressive energy allocation frameworks for high-compute loads.",
+                "Enterprise operators face immediate capacity bottlenecks as regional regulators restrict legacy high-density compute facilities to maintain local emission goals."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NEW YORK: GRID INFRASTRUCTURE CRUNCH",
+            "heading": "ORACLE: PRO-CODE AGENT PLATFORM",
             "points": [
-                "New York State institutes a strict one-year moratorium suspending all new data center building projects.",
-                "The legislative action responds directly to escalating public backlash regarding regional grid capacity and emissions.",
-                "This development pressures hyperscalers to optimize compute density and seek alternative sovereign energy grids globally.",
-                "Organizations will face rising cloud operational costs as regional capacity limits constrain localized server footprints."
+                "Oracle expanded its Agent Studio for Fusion Applications, combining no-code simplicity with professional developer extensibility.",
+                "The platform blends deterministic processes with probabilistic language models, providing complete operational governance over multi-agent workflows.",
+                "Integrators can now customize enterprise software actions across financial, manufacturing, and customer service departments seamlessly.",
+                "This deployment model eliminates developmental silos, enabling rapid scaling of tailored autonomous assistants across legacy ERP environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "APPLE: EDGE COMPUTING SHRINKAGE",
+            "heading": "ALATION: AGENT GOVERNANCE ENGINE",
             "points": [
-                "Apple initiates strategic discussions with an early-stage startup specializing in compact localized model architecture optimization.",
-                "The partnership aims to execute complex generative intelligence operations natively on consumer smartphone hardware platforms.",
-                "This movement bypasses costly cloud latency bottlenecks by utilizing highly optimized on-device hardware engines.",
-                "Mobile developers will pivot toward designing localized agent workflows that function entirely without external APIs."
+                "Alation launched its Intelligence Operating System to centralize data context and govern autonomous AI agents systematically.",
+                "The unified platform addresses trust deficits by mapping corporate metadata directly to custom language model decision paths.",
+                "Enterprise users can now secure sensitive data assets while scaling agentic workflows across complex hybrid cloud infrastructure.",
+                "Chief Information Officers gain real-time oversight, preventing unauthorized data exfiltration and ensuring strict regulatory compliance at scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: INFRASTRUCTURE BUDGET DISRUPTION",
+            "heading": "META: FIVE GIGAWATT SUPERCLUSTER",
             "points": [
-                "IBM stock experiences a dramatic twenty-five percent decline as corporate spending rapidly rotates toward AI.",
-                "Chief executive Arvind Krishna confirms clients are actively prioritizing immediate server and specialized storage acquisitions.",
-                "This transition underscores a structural migration of enterprise budgets away from traditional hybrid cloud IT.",
-                "Legacy software providers must quickly pivot to remain relevant as capital allocations favor deep automation."
+                "Meta announced plans to construct a massive five-gigawatt AI supercomputer cluster in Louisiana costing fifty billion dollars.",
+                "The infrastructure investment signals unprecedented capital commitment to secure processing supremacy for frontier AI foundation training.",
+                "This mega-scale facility will leverage local nuclear and renewable generation to satisfy massive power demands sustainably.",
+                "Tech giants are racing to secure long-term utility commitments, creating deep spatial and structural shifts in global grids."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: SOVEREIGN CHIP EXPORT BARRIERS",
+            "heading": "MISTRAL AI: EMBODIED NAVIGATION",
             "points": [
-                "United States trade officials confirm highly restricted shipping volume of advanced H200 accelerators to China.",
-                "Sovereign regulatory constraints continue to restrict the global flow of high-performance semiconductor components and software.",
-                "This supply limitation accelerates domestic chip development initiatives within secondary regional manufacturing ecosystems globally.",
-                "Global supply chains must anticipate prolonged hardware delivery cycles for cutting-edge infrastructure design projects."
+                "Mistral AI launched a novel vision-language model engineered specifically to accelerate physical robot navigation and spatial reasoning.",
+                "The architecture processes visual inputs locally to compute safe trajectories without relying on continuous cloud connectivity.",
+                "Industrial manufacturing partners can deploy this lightweight framework to optimize autonomous warehouse logistics and physical operations.",
+                "This advancement bridges the gap between digital reasoning and real-world physical automation across complex enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SK HYNIX: SEMICONDUCTOR CAPITAL EXPANSION",
+            "heading": "TAIWAN SEMICONDUCTOR: SILICON PHOTONICS",
             "points": [
-                "Barclays forecasts that SK Hynix global market valuation could potentially double due to high-bandwidth memory.",
-                "The financial projections reflect soaring global demand for specialized memory architectures optimized for frontier training.",
-                "Sustained architectural scaling requires massive memory throughput improvements to keep pace with next-generation processing units.",
-                "Investors will continue channeling significant capital toward primary physical hardware and semiconductor supply chain leaders."
+                "Taiwan's second-largest chipmaker achieved a major production milestone in silicon photonics to boost data transfer speeds.",
+                "The breakthrough integrates optical communication lines directly onto silicon dies, drastically reducing system latency and thermal output.",
+                "Next-generation AI supercomputers will utilize these co-packaged optics to bypass physical copper limitations at massive scale.",
+                "The milestone consolidates Taiwan's global dominance in semiconductor packaging, shaping future server architectures and high-bandwidth fabrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: REAL TIME CHAT INTERACTIVITY",
+            "heading": "IBM: MAINFRAME INFERENCE POWER",
             "points": [
-                "OpenAI officially launches GPT-Live introducing a highly responsive interactive interface for zero-latency workspace execution.",
-                "The tool decreases voice and audio latency to enable seamless human-agent collaboration in high-stress operational environments.",
-                "This rollout represents a major leap forward in building persistent context-aware virtual corporate team members.",
-                "Enterprises will quickly integrate native real-time audio systems to replace legacy transactional customer service tools."
+                "IBM introduced updated z17 mainframes and LinuxOne Rockhopper servers designed specifically for compact data center integration.",
+                "The new hardware delivers secure hybrid cloud performance and on-chip AI inference directly inside modern edge environments.",
+                "Enterprises can now execute localized fraud detection and transactional security without routing sensitive data to external clouds.",
+                "This integration merges legacy high-performance mainframe security with scalable modern infrastructure to lower operational latency significantly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
