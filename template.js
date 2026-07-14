@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECENTRALIZED ENTERPRISE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NEW YORK: DATA CENTER BAN",
+            "heading": "IBM: INFRASTRUCTURE REALLOCATION",
             "points": [
-                "New York Governor Kathy Hochul signed a one-year moratorium on new proof-of-work and AI data center development.",
-                "This legislation halts construction to offset mounting environmental impacts and protect regional power grid stability amid rising demand.",
-                "Infrastructure developers must pivot to states offering modular grid integrations and progressive energy allocation frameworks for high-compute loads.",
-                "Enterprise operators face immediate capacity bottlenecks as regional regulators restrict legacy high-density compute facilities to maintain local emission goals."
+                "IBM shares fell twenty-five percent as enterprise clients aggressively diverted legacy technology budgets toward artificial intelligence infrastructure.",
+                "Chief executive Arvind Krishna acknowledged the firm faltered as customers prioritized servers and storage optimized for advanced intelligence.",
+                "This abrupt spending shift highlights a rapid structural transition away from traditional software services toward cognitive computing systems.",
+                "Legacy hardware vendors must pivot rapidly to high-density compute architectures to maintain relevance in modern enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ORACLE: PRO-CODE AGENT PLATFORM",
+            "heading": "OPENAI: FRONTIER MODELING",
             "points": [
-                "Oracle expanded its Agent Studio for Fusion Applications, combining no-code simplicity with professional developer extensibility.",
-                "The platform blends deterministic processes with probabilistic language models, providing complete operational governance over multi-agent workflows.",
-                "Integrators can now customize enterprise software actions across financial, manufacturing, and customer service departments seamlessly.",
-                "This deployment model eliminates developmental silos, enabling rapid scaling of tailored autonomous assistants across legacy ERP environments."
+                "OpenAI launched GPT-5.6 and ChatGPT Work to deliver highly scalable frontier intelligence for complex enterprise workflows.",
+                "The model features deep reasoning upgrades designed to streamline multi-step task orchestration and code execution across businesses.",
+                "It enables organizations to transition from simple chat assistants to fully autonomous digital agents with persistent memory.",
+                "Enterprise developers can integrate these capabilities through secure API platforms to accelerate end-to-end software delivery cycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ALATION: AGENT GOVERNANCE ENGINE",
+            "heading": "META: SUPERCLUSTER EXPANSION",
             "points": [
-                "Alation launched its Intelligence Operating System to centralize data context and govern autonomous AI agents systematically.",
-                "The unified platform addresses trust deficits by mapping corporate metadata directly to custom language model decision paths.",
-                "Enterprise users can now secure sensitive data assets while scaling agentic workflows across complex hybrid cloud infrastructure.",
-                "Chief Information Officers gain real-time oversight, preventing unauthorized data exfiltration and ensuring strict regulatory compliance at scale."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "META: FIVE GIGAWATT SUPERCLUSTER",
-            "points": [
-                "Meta announced plans to construct a massive five-gigawatt AI supercomputer cluster in Louisiana costing fifty billion dollars.",
-                "The infrastructure investment signals unprecedented capital commitment to secure processing supremacy for frontier AI foundation training.",
-                "This mega-scale facility will leverage local nuclear and renewable generation to satisfy massive power demands sustainably.",
-                "Tech giants are racing to secure long-term utility commitments, creating deep spatial and structural shifts in global grids."
+                "Meta planned a fifty billion dollar investment to construct a five gigawatt supercluster in Louisiana for training.",
+                "The facility represents an unprecedented scaling initiative aimed at powering next-generation physical artificial intelligence and world models.",
+                "Such immense power requirements underscore the intensifying race among hyperscalers to secure massive electrical grid access immediately.",
+                "This massive infrastructure deployment will solidify physical capacity as the primary differentiator for developing frontier foundation models."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: EMBODIED NAVIGATION",
+            "id": 4,
+            "heading": "NEW YORK: DATA CENTER MORATORIUM",
             "points": [
-                "Mistral AI launched a novel vision-language model engineered specifically to accelerate physical robot navigation and spatial reasoning.",
-                "The architecture processes visual inputs locally to compute safe trajectories without relying on continuous cloud connectivity.",
-                "Industrial manufacturing partners can deploy this lightweight framework to optimize autonomous warehouse logistics and physical operations.",
-                "This advancement bridges the gap between digital reasoning and real-world physical automation across complex enterprise environments."
+                "Governor Kathy Hochul signed a one-year moratorium suspending all new data center development throughout New York.",
+                "The restriction responds directly to growing community and grid concerns over the immense power demands of AI.",
+                "This legislative action forces developers to seek alternative geographic locations with more robust, modern energy transmission grids.",
+                "Regulators are increasingly prioritizing grid stability over rapid technological infrastructure expansion to protect municipal electrical supplies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ORACLE: AGENTIC WORKFLOW INTEGRATION",
+            "points": [
+                "Oracle expanded its Agent Studio for Fusion Applications to combine no-code, low-code, and professional programming environments.",
+                "The tools allow enterprise developers to mix deterministic business processes with probabilistic generative intelligence workflows securely.",
+                "This architectural framework ensures robust corporate data governance while deploying self-improving agents to automate administrative operations.",
+                "Global corporations can now build customized digital agents to operate across critical ERP, CRM, and supply-chain databases."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TAIWAN SEMICONDUCTOR: SILICON PHOTONICS",
+            "heading": "MISTRAL AI: EMBODIED NAVIGATION",
             "points": [
-                "Taiwan's second-largest chipmaker achieved a major production milestone in silicon photonics to boost data transfer speeds.",
-                "The breakthrough integrates optical communication lines directly onto silicon dies, drastically reducing system latency and thermal output.",
-                "Next-generation AI supercomputers will utilize these co-packaged optics to bypass physical copper limitations at massive scale.",
-                "The milestone consolidates Taiwan's global dominance in semiconductor packaging, shaping future server architectures and high-bandwidth fabrics."
+                "Mistral AI unveiled a specialized vision model engineered to guide autonomous robot navigation in dynamic spatial environments.",
+                "The release bridges the gap between digital generative intelligence and physical robotics applications for real-world industrial tasks.",
+                "By optimizing spatial reasoning, the lightweight model runs efficiently on edge hardware without requiring constant cloud connectivity.",
+                "This development accelerates the commercial viability of autonomous logistics, factory automation, and smart physical manufacturing systems globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "IBM: MAINFRAME INFERENCE POWER",
+            "heading": "NVIDIA: TRUSTED MODEL ARCHITECTURE",
             "points": [
-                "IBM introduced updated z17 mainframes and LinuxOne Rockhopper servers designed specifically for compact data center integration.",
-                "The new hardware delivers secure hybrid cloud performance and on-chip AI inference directly inside modern edge environments.",
-                "Enterprises can now execute localized fraud detection and transactional security without routing sensitive data to external clouds.",
-                "This integration merges legacy high-performance mainframe security with scalable modern infrastructure to lower operational latency significantly."
+                "NVIDIA launched Nemotron Labs to provide open foundation models that enterprises can safely customize and host on-premise.",
+                "This initiative allows organizations to maintain complete control over sensitive proprietary datasets during advanced training and alignment.",
+                "Enterprises can deploy these secure architectures using the newly released BioNeMo toolkit for specialized life sciences research.",
+                "Providing highly customizable open models challenges closed ecosystem dominance while establishing local computing sovereignty for global enterprises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
