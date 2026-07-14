@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 ENTERPRISE DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 ROLLOUT",
             "points": [
-                "OpenAI has initiated the global rollout of GPT-5.6 integrated directly within the new ChatGPT Work agent.",
-                "The enterprise-grade framework automates complex workplace pipelines to dramatically reduce human intervention across multi-step processes.",
-                "Systems operators can securely coordinate native Codex elements alongside frontier model reasoning in sensitive enterprise cloud environments.",
-                "Organizations transitioning to this paradigm will bypass legacy API integrations for agentic end-to-end task automation platforms."
+                "OpenAI has launched ChatGPT Work to orchestrate enterprise workloads utilizing the newly deployed GPT-5.6 foundation model.",
+                "Early integration benchmarks indicate that the system reduces manual document routing overhead by up to forty percent.",
+                "Deploying these native agentic capabilities enables companies to deprecate redundant middleware and consolidate complex operational stacks.",
+                "Enterprise technology leaders must prepare for rapid workflow shifts as autonomous reasoning agents assume transactional tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEXAI: GROK 4.5 INFERENCE DISRUPTION",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
             "points": [
-                "SpaceXAI launched Grok 4.5 to establish high-efficiency enterprise agent capabilities for multi-step software development lifecycles.",
-                "Benchmark studies demonstrate a significant operational cost reduction to two dollars and forty-nine cents per task.",
-                "The model undercuts key frontier rivals by executing automated coding workloads at half the price of competitors.",
-                "Enterprise architects must rigorously benchmark these competitive rates against real-world production performance before executing structural migrations."
+                "Anthropic introduced Claude Science as a dedicated platform integrating research-specific tools and fully auditable computational artifacts.",
+                "The new framework runs on Microsoft Foundry, providing secure, governed access to frontier models with centralized billing.",
+                "Hosting the platform on Azure infrastructure ensures compliance with rigid corporate data policies and regulatory frameworks.",
+                "Research institutions will rapidly transition to auditable AI workspaces to ensure reproducibility and secure proprietary insights."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://venturebeat.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: ROBOSTRAL ROBOTIC NAVIGATION",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE RELEASE",
             "points": [
-                "Mistral AI introduced Robostral Navigate to power autonomous edge operations utilizing input from a single color camera.",
-                "The architecture eliminates expensive hardware dependencies by fully bypassing LiDAR sensors and multi-view active depth sensors.",
-                "Embedded developers can deploy lightweight vision models to achieve sub-second spatial reasoning on constrained robotic hardware units.",
-                "Hardware manufacturers will increasingly prioritize monocular camera systems to slash bill-of-materials costs for localized general-purpose robots."
+                "Mistral debuted Robostral Navigate, an autonomous robotics AI model requiring input from only a single color camera.",
+                "Eliminating secondary Lidar and depth sensors decreases hardware manufacturing costs for industrial robots by thirty percent.",
+                "This vision-only approach challenges existing multi-sensor paradigms and accelerates the deployment of lightweight edge intelligence systems.",
+                "Hardware manufacturers will prioritize monocular vision systems to optimize supply chains and lower power consumption budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: Z17 MAINFRAME HYBRID INTEGRATION",
+            "heading": "SPACEXAI: GROK 4.5 RELEASE",
             "points": [
-                "IBM introduced updated rack and frame models for its z17 mainframe family to optimize native artificial intelligence workloads.",
-                "The hardware engineering reduces physical data center footprint constraints while simultaneously enhancing hybrid cloud transaction security protocols.",
-                "High-performance computing operators can seamlessly deploy local inference models directly alongside mission-critical legacy transactional core systems.",
-                "Financial institutions will leverage these compact hybrid deployments to execute real-time fraud detection without network latency overhead."
+                "SpaceXAI launched Grok 4.5, establishing its first enterprise-grade entry targeted at optimizing complex software development tasks.",
+                "Benchmark studies show the platform operates at under three dollars per coding task, representing significant cost reductions.",
+                "Lower transactional compute costs will force competitors to re-evaluate pricing structures for autonomous developer tools globally.",
+                "Software engineering departments will increasingly migrate from legacy assistants to highly optimized, lower-cost agentic coding architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: HORIZONDB ULTRA LOW LATENCY",
+            "heading": "GOOGLE: GEMINI 3.5 UPGRADE",
             "points": [
-                "Microsoft unveiled Azure HorizonDB to deliver ultra-low latency reads and integrated artificial intelligence directly inside PostgreSQL databases.",
-                "Enterprise developers can seamlessly scale mission-critical applications to handle fluctuating read-write intensive workloads without performance degradation.",
-                "The database architecture embeds native vector indexing and direct hardware acceleration for real-time relational data lookups.",
-                "System architects will leverage this database engine to ground autonomous agents with real-time enterprise operational data."
+                "Google introduced native computer use capabilities in Gemini 3.5 Flash alongside the efficient Nano Banana 2 Lite.",
+                "Combining computer interaction with compact architecture delivers ultra-fast, local execution times for latency-sensitive applications.",
+                "Enhancing agentic workflows with low-latency models shifts the computing paradigm from cloud API dependency to edge-based execution.",
+                "Application developers will pivot toward local model deployment, drastically reducing hosting bills while maintaining high operational throughput."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STANFORD HAI: AI EVALUATION SYSTEMIC FLAW",
+            "heading": "AMD: RACKSPACE COMPUTE EXPANSION",
             "points": [
-                "A Stanford HAI study exposed a critical structural flaw in current evaluation systems for mental health chatbots.",
-                "Human evaluation experts consistently failed to reach consensus regarding the safety and clinical appropriateness of AI generated responses.",
-                "The research highlights the severe limits of relying on subjective human labeling to validate high-risk clinical conversational agents.",
-                "AI developers must pioneer objective, reproducible mathematical metrics to replace fragile expert consensus frameworks before clinical deployment."
+                "AMD finalized a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute infrastructure.",
+                "This phased rollout secures high-capacity processing nodes to host regulated, security-sensitive enterprise workloads across multiple global regions.",
+                "Expanding localized, secure hosting alternatives dilutes the dominance of traditional hyper-scalers over critical enterprise training infrastructure.",
+                "Regulated industries will accelerate cloud migration plans now that sovereign, high-density AI infrastructure is readily available."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GITHUB: COPILOT .NET UPGRADE CANVAS",
+            "heading": "IBM: MAINFRAME AI INTEGRATION",
             "points": [
-                "GitHub Copilot introduced an interactive upgrade canvas designed to systematically modernize legacy .NET applications to modern frameworks.",
-                "Software development teams can automate code translations and dependency resolution to save thousands of engineering hours.",
-                "The development environment integrates token-based consumption tracking to align with modern utility-based enterprise billing strategies.",
-                "Technology leaders will deploy these automated modernization tools to dramatically accelerate legacy software migration pipelines."
+                "IBM expanded its z17 mainframe family and LinuxONE Rockhopper platforms to target demanding hybrid cloud AI workloads.",
+                "The compact, customizable rack configurations maximize power efficiency and throughput within highly constrained data center footprints.",
+                "Integrating specialized AI acceleration directly into legacy transaction environments avoids costly, high-latency external cloud data hops.",
+                "Financial institutions will leverage these specialized frames to process real-time fraud models without compromising transaction speeds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
