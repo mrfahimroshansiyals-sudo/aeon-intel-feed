@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleWhite": "AUTONOMOUS AGENTIC",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: LITHOGRAPHY DEMAND SURGE",
+            "heading": "ASML: HIGH-NA EUV MILESTONE",
             "points": [
-                "ASML posted blockbuster second quarter net sales of nine point three billion euros driven by generative artificial intelligence chip demands.",
-                "Global lithography bookings surged dramatically as leading semiconductor fabricators rushed to expand production capacity for high-volume logic manufacturing.",
-                "Extreme ultraviolet technology reaches a new high-volume logic milestone to support the next era of high-performance computing hardware.",
-                "Analysts predict sustained capital expenditure expansions across Taiwan and South Korea to secure critical microchip manufacturing apparatus."
+                "ASML achieved a major readiness milestone for High NA EUV lithography using its first high-volume logic product.",
+                "Net sales reached nine point three billion euros alongside a net income of two point nine billion.",
+                "This technological breakthrough secures ASML's monopoly in patterning the next generation of advanced energy-efficient semiconductor chips.",
+                "Chipmakers can now transition to sub-two-nanometer node production cycles with guaranteed high-volume manufacturing yields."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: RAYFIN BACKEND LAUNCH",
+            "heading": "OPENAI: GPT-5.6 COGNITIVE UPGRADE",
             "points": [
-                "Microsoft debuted Rayfin a fully managed agent-optimized backend as a service integrated natively into the Fabric data ecosystem.",
-                "Software developers can now instantiate persistent state engines and autonomous database connections utilizing standardized software development kits.",
-                "The architecture simplifies the overhead of building scalable agent networks by managing authentication and governance dynamically on Azure.",
-                "Enterprise clients will accelerate deployment timelines for collaborative multi-agent systems without configuring complex underlying database infrastructure."
+                "OpenAI launched GPT-5.6 representing frontier intelligence engineered to automate complex multi-step enterprise workflows at unprecedented scale.",
+                "Initial benchmarks demonstrate massive efficiency gains in handling highly sensitive organizational context and system actions.",
+                "The model integrates advanced reasoning capabilities designed to secure enterprise-grade systems against alignment and safety risks.",
+                "Global corporations will rapidly transition legacy operations toward decentralized, autonomous AI agent fleets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: JAPAN ROBOTICS INITIATIVE",
+            "points": [
+                "NVIDIA partnered with Japanese industries to deploy full-stack artificial intelligence and physical robotics across every industrial sector.",
+                "The initiative leverages the NVIDIA Vera Rubin supercomputing platform to achieve world-class execution of physical AI.",
+                "This deployment strengthens national sovereign AI infrastructure while optimizing performance-per-watt metrics across edge robotics nodes.",
+                "Industrial manufacturers will rapidly modernize factories using unified simulated software frameworks and physical hardware."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "points": [
+                "Microsoft launched Azure HorizonDB integrating native artificial intelligence and ultra-low latency into enterprise PostgreSQL database architectures.",
+                "Scalable read operations deliver immediate database response times without degrading critical application performance.",
+                "This database engine allows builders to run real-time agentic workflows directly on structured organizational data.",
+                "IT administrators will significantly reduce data pipeline complexity while maintaining strict enterprise governance controls."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "ORACLE: AGENT STUDIO EXPANSION",
+            "id": 5,
+            "heading": "MISTRAL AI: ROBOSTRAL AGENT LAUNCH",
             "points": [
-                "Oracle expanded its Agent Studio for Fusion Applications bringing unified pro-code tools directly to enterprise software developers.",
-                "The upgrade bridges deterministic transactional workflows with probabilistic generative models to maintain operational safety and compliance.",
-                "Organizations can now build customized execution agents within existing enterprise resource planning frameworks to automate administrative tasks.",
-                "Technical teams gain granular control over prompt behaviors to prevent unauthorized database modifications during autonomous sequence executions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE DEPLOYMENT",
-            "points": [
-                "Mistral AI introduced Robostral Navigate alongside a new specialized vision model tailored specifically for autonomous robotic navigation.",
-                "The model delivers real-time physical reasoning capability allowing edge systems to navigate complex industrial environments without cloud dependency.",
-                "Integrating multimodal processing directly into local robotics platforms reduces operational latency and protects sensitive facility spatial datasets.",
-                "Industrial operators expect accelerated deployment of intelligent mobile robots across warehouse floors and high-security manufacturing lines globally."
+                "Mistral AI introduced Robostral Navigate alongside Vibe AI agents optimized for executing highly complex long-horizon operational workflows.",
+                "Major industrial clients including ASML and HSBC have integrated these models to streamline complex operational tasks.",
+                "The architecture supports end-to-end model training, reinforcement learning, and complete deployment portability.",
+                "Organizations will dramatically accelerate software delivery by shifting toward autonomous code generation and automated reviews."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "CRIBL: CARDINALOPS SECOPS ACQUISITION",
-            "points": [
-                "Cribl acquired detection engineering startup CardinalOps to integrate SIEM-like threat identification capabilities into its core telemetry pipelines.",
-                "The transaction merges advanced security operations analytics directly into lightweight agent deployments across enterprise IT cloud networks.",
-                "Modern security teams face escalating telemetry costs and require highly focused data filtering before committing storage to dashboards.",
-                "Engineers anticipate significant reductions in mean time to detect infrastructure threats through localized rule execution and optimization."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "ALATION: AGENT OPERATING SYSTEM",
+            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
             "points": [
-                "Alation launched its Intelligence Operating System to provide a unified environment for building and governing autonomous agents.",
-                "The platform catalogs enterprise datasets and contextual knowledge to ensure generative agents operate with accurate organizational metadata.",
-                "Establishing a centralized registry prevents execution drift and secures corporate data against accidental leakage during processing tasks.",
-                "Corporate technology leaders can confidently scale agentic workloads while maintaining strict audit trails for regulatory compliance policies."
+                "AMD announced a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute infrastructure.",
+                "The phased deployment targets highly regulated enterprise workloads using advanced AMD Instinct GPUs and EPYC CPUs.",
+                "This strategic partnership expands sovereign cloud offerings while lowering total cost of ownership for high-density computing.",
+                "Regulated enterprises will safely run highly intensive inference workloads within physically secure, private data center environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "META: LOUISIANA SUPERCLUSTER INVESTMENTS",
+            "heading": "CRIBL: CARDINALOPS SECOPS INTEGRATION",
             "points": [
-                "Meta projected costs of fifty billion dollars for its upcoming five gigawatt artificial intelligence supercluster in Louisiana.",
-                "The facility represents a massive scale infrastructure expansion designed to support next-generation frontier model training and execution.",
-                "Securing reliable power and cooling facilities remains a major bottleneck forcing hyperscalers to commit unprecedented capital reserves.",
-                "The investment signals intense competition among leading technology giants to dominate global model performance and computational supremacy."
+                "Cribl acquired CardinalOps to integrate advanced detection engineering capabilities into its comprehensive open data management ecosystem.",
+                "This acquisition delivers a modernized SIEM-like experience by combining telemetry data with centralized security analytics.",
+                "The unified platform enables security teams to analyze massive data streams without deploying additional local agents.",
+                "Enterprise defenders will dramatically reduce response times when mitigating complex, AI-driven initial access malware attacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
