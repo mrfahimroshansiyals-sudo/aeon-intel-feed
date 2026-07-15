@@ -1,34 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
             "points": [
-                "OpenAI releases GPT-5.6, a frontier-scale model designed to handle complex workflows with advanced scaling capabilities.",
-                "The architecture optimizes token consumption, reducing compute costs by thirty percent during multi-step reasoning processes.",
-                "This release addresses emerging EU AI Act compliance standards, securing enterprise-grade deployment parameters globally.",
-                "Organizations gain sovereign control over sensitive transactional datasets, facilitating secure enterprise model fine-tuning and adaptation."
+                "Google Cloud expands the agentic era with new Gemini Enterprise Agent Platform and Gear developer training.",
+                "Integration focuses on governed multi-modal AI agents using managed remote MCP servers for enterprise-grade deployment.",
+                "New hardware updates include Google Axion processors for optimized performance alongside custom Cloud TPU infrastructure scaling.",
+                "Enterprises can now leverage $300 in credits and monthly agent-specific credits to accelerate cloud-native agent migration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "WALL STREET: TOKENIZED MARKET TRIALS",
             "points": [
-                "ASML achieves a high-volume manufacturing readiness milestone for its advanced High NA EUV lithography systems.",
-                "The milestone enables production of logic chips with micro-scale features, increasing transit density by forty percent.",
-                "High-volume chipmakers can now scale energy-efficient processor manufacturing to support next-generation artificial intelligence workloads.",
-                "Global supply chains secure critical hardware pipelines, accelerating the timeline for next-generation sovereign microchip infrastructure."
+                "DTCC and major financial institutions have initiated live tests of tokenized market infrastructure for post-trade processing.",
+                "The shift signals a critical move toward real-time settlement and automated lifecycle management for global assets.",
+                "Financial leaders confirm increased integration of AI models to monitor high-frequency liquidity and collateral requirement shifts.",
+                "This infrastructure decoupling aims to reduce legacy operational overhead through blockchain-based automated trade validation frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "IBM: ORCHESTRATION ARCHITECTURE UPGRADE",
+            "points": [
+                "IBM has expanded the Bob AI platform to orchestrate the entire software development lifecycle via agents.",
+                "New capabilities include parallel execution and built-in governance to handle high-complexity multi-agent software engineering workloads effectively.",
+                "Enterprise focus shifts toward automating delivery workflows to reduce manual oversight and operational toil for teams.",
+                "The platform provides auditability and compliance markers essential for production-grade AI-driven application development in regulated sectors."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ASML: LITHOGRAPHY READINESS MILESTONE",
+            "points": [
+                "ASML reports High NA EUV lithography reaches readiness for first high-volume Logic chip production products.",
+                "The milestone validates advanced patterning capabilities required for next-generation AI silicon at sub-2nm node processes.",
+                "Q2 2026 financial results highlight sustained demand driven by AI hyperscaler capital expenditure into chip manufacturing.",
+                "Strategic partnerships in India and Asia strengthen the semiconductor ecosystem resilience for critical logic hardware production."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "id": 5,
+            "heading": "NVIDIA: SCIENTIFIC DISCOVERY TOOLKIT",
             "points": [
-                "NVIDIA introduces the BioNeMo Agent Toolkit, offering specialized agentic tools specifically designed for molecular biology applications.",
-                "The toolkit shortens drug discovery timelines by enabling rapid automated analysis of complex biological sequence datasets.",
-                "Integrating physical AI into life sciences establishes a secure, specialized framework for pharmaceutical research institutions globally.",
-                "Research teams can safely deploy autonomous agents to model interactions and synthesize targeted therapeutic compounds efficiently."
+                "NVIDIA announces BioNeMo Agent Toolkit to provide domain-specific tools for agentic scientific research and discovery.",
+                "Europe confirms a record of 35 NVIDIA-powered AI supercomputers under development to boost regional sovereign computing.",
+                "The Vera Rubin platform integrates native supercomputing performance to address demanding scientific modeling and simulation requirements.",
+                "Emphasis on performance-per-watt remains the key industry metric for assessing AI infrastructure efficiency and deployment sustainability."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MICROSOFT: AZURE HORIZONDB LAUNCH",
+            "id": 6,
+            "heading": "MICROSOFT: IQ AGENT CONTEXT FRAMEWORK",
             "points": [
-                "Microsoft launches Azure HorizonDB, bringing ultra-low latency capabilities and native AI integration to PostgreSQL cloud databases.",
-                "The managed database service optimizes scaling, delivering up to fifty percent faster query execution for heavy workloads.",
-                "This architecture empowers enterprises to anchor complex agentic systems securely within a governed, highly performant cloud environment.",
-                "Developers can seamlessly orchestrate real-time transactions without experiencing bottlenecks or legacy database synchronization lags."
+                "Microsoft IQ introduces shared context frameworks for enterprise agents to securely access data and internal systems.",
+                "Integration with VS Code now includes advanced PostgreSQL extensions to optimize database performance for AI-backed applications.",
+                "Frontier Transformation Week initiatives offer specific technical guidance for scaling AI projects from potential to production.",
+                "Azure AI apps are evolving to bridge the gap between deterministic software logic and probabilistic agentic behavior."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "CIO: AGENT HARNESS COST DRIVERS",
+            "id": 7,
+            "heading": "CIO RESEARCH: AGENT GOVERNANCE ECONOMICS",
             "points": [
-                "New industry research reveals that software orchestrating AI agents heavily impacts enterprise token consumption and overall economics.",
-                "Poor harness designs increase operational costs by up to eighty percent due to redundant agent routing loops.",
-                "IT leadership must shift governance focus from raw model costs to strategic agent workflow pipeline orchestration.",
-                "Optimizing the execution layer allows enterprises to scale multi-agent applications without incurring unexpected operational expenses."
+                "CIOs report that harness design and orchestration layers are critical drivers of enterprise AI agent token costs.",
+                "Research suggests software layers, not just foundation models, determine the long-term ROI of agentic AI deployments.",
+                "BMW advances humanoid robot strategies for logistics, integrating AI-driven hardware directly into factory floor sorting lines.",
+                "Governance mandates are shifting from model selection to managing the complex interactions between multi-agent systems and data."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
-            "points": [
-                "Mistral AI unveils Robostral Navigate, a specialized vision language model tailored for autonomous industrial robot navigation.",
-                "The model processes spatial data dynamically, improving sorting line efficiency in automotive manufacturing by twenty percent.",
-                "Deploying open-weight vision models enhances physical AI pipelines, offering localized execution without external cloud network dependencies.",
-                "Industrial enterprises can deploy secure edge robots capable of real-time environmental adaptation and continuous workflow optimization."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 7,
-            "heading": "INFOWORLD: CODEX V2 TRANSPARENCY",
-            "points": [
-                "InfoWorld highlights growing developer concerns over lack of transparency within Codex Multi-Agent version two orchestration systems.",
-                "Complex multi-agent workflows mask execution errors, creating potential debugging challenges across enterprise software development lifecycles.",
-                "Engineers emphasize that autonomous code generators require auditable governance layers to prevent misaligned system actions in production.",
-                "Development teams must implement structured telemetry systems to track code modifications and maintain human-in-the-loop oversight."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
