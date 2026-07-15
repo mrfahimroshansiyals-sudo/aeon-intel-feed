@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleWhite": "AGENTIC ENTERPRISE",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER AGENT",
+            "heading": "NEW YORK: DATA CENTER SUSPENSION",
             "points": [
-                "OpenAI releases GPT-5.6 and GPT-Live designed to scale enterprise workflow automation dynamically across distributed networks.",
-                "The model enables persistent, long-horizon multi-agent tasks with localized execution frameworks reducing processing latency significantly.",
-                "Architectural decoupling separates core reasoning from active execution modules, facilitating isolated secure sandbox computations.",
-                "Enterprise architects must transition legacy workflows toward autonomous agent loops to remain competitive in 2026."
+                "New York becomes the first state to suspend data center development due to severe energy grid constraints.",
+                "Power grids face unprecedented load, forcing regulatory authorities to freeze new permits for high-performance computing centers.",
+                "Hyperscalers must pivot to regions with sustainable energy or deploy advanced software-driven dynamic grid balancing solutions.",
+                "This regulatory freeze will shift infrastructure capital toward energy-flexible regions and highly efficient chip architectures globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
+            "heading": "SECURITY: AGENTIC RANSOMWARE DEFENSE",
             "points": [
-                "NVIDIA introduces the BioNeMo Agent Toolkit to accelerate sovereign agentic workflows within advanced life sciences research.",
-                "The platform deploys specialized biological toolsets and pre-trained models to optimize complex molecular simulation processing.",
-                "System integration with Vera Rubin supercomputers ensures massive parallelization of deep learning scientific discovery pipelines.",
-                "Global pharmaceuticals will accelerate pipeline testing speeds, drastically cutting molecular design cycles via autonomous agents."
+                "The first fully autonomous agentic ransomware attack has executed complete operations without human intervention or guidance.",
+                "Security teams must transition from specific malware signatures to real-time anomalous behavioral detection and rapid response.",
+                "This evolution forces enterprises to redesign their security operation centers around AI-driven continuous monitoring tools.",
+                "Organizations lacking automated containment protocols face severe vulnerability as attack speeds outpace manual human defense systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NEW YORK: DATA CENTER BAN",
+            "heading": "MICROSOFT: AGENT OPTIMIZED BACKEND",
             "points": [
-                "New York institutes a temporary ban on new AI-specific data center development due to electrical grid capacity.",
-                "The state suspension directly impacts planned high-performance compute facilities requiring substantial megawatt capacity allocations.",
-                "Cloud providers face immediate pressure to locate next-generation physical clusters in alternative resource-abundant geopolitical regions.",
-                "Hyperscalers must prioritize energy-flexible software architectures to navigate mounting localized grid restrictions globally."
+                "Microsoft launched Rayfin, a fully managed agent-optimized backend as a service, integrated directly within Microsoft Fabric.",
+                "Alongside Rayfin, the new Azure HorizonDB delivers ultra-low latency relational database capabilities optimized for autonomous agents.",
+                "Developers can now orchestrate complex multi-agent workflows with built-in data governance, enterprise security, and unified billing.",
+                "This native integration dramatically accelerates the deployment of scalable enterprise agents utilizing organizational data assets securely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: ENTERPRISE AI SPENDING SHIFT",
+            "heading": "ANTHROPIC: FRONTIER MODEL REDEPLOYMENT",
             "points": [
-                "IBM shares drop 25 percent as corporate clients shift capital allocation toward GPU-intensive artificial intelligence infrastructure.",
-                "Legacy software revenues decline sharply while cloud compute and specialized hardware procurement experience unprecedented capital inflows.",
-                "Mainframe modernization architectures now integrate directly with AI inference processors to defend core enterprise workloads.",
-                "Legacy technology vendors must aggressively pivot portfolios toward generative models or risk severe market valuation penalties."
+                "Global export controls on Anthropic's Fable 5 and Mythos 5 models have been officially lifted.",
+                "Both models will deploy globally tomorrow, accompanied by the release of the highly agentic Sonnet 5.",
+                "The concurrent launch of Claude Science provides researchers customizable tools, auditable artifacts, and scalable computing access.",
+                "Enterprise developers gain immediate access to advanced reasoning engines, restructuring scientific workflows and global deployment strategies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: AZURE CLAUDE FOUNDRY",
+            "heading": "NVIDIA: BIOMEDICAL AGENT TOOLKIT",
             "points": [
-                "Microsoft announces general availability of Anthropic Claude models inside the secure enterprise-managed Azure Foundry platform.",
-                "The integration ensures zero-data retention policies and native integration with centralized enterprise identity access management.",
-                "Hybrid cloud configurations allow developers to orchestrate multi-model pathways with high-throughput and predictable billing structures.",
-                "System architects can confidently deploy highly compliant agentic applications leveraging diverse frontier model capabilities safely."
+                "NVIDIA announced the BioNeMo Agent Toolkit, offering domain-specific skills to accelerate automated drug discovery and research.",
+                "The platform equips autonomous agents with specialized tools to analyze complex biological data and manage laboratory simulation.",
+                "By deploying agentic workflows, biopharma developers can significantly reduce the timeline required for molecular validation processes.",
+                "This release reinforces NVIDIA's dominance in providing integrated hardware and specialized software solutions for scientific industries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ORACLE: AGENT STUDIO EXPANSION",
+            "heading": "GOOGLE: DEEPMIND AGENT PLATFORM",
             "points": [
-                "Oracle expands its AI Agent Studio, combining low-code and professional-code programming interfaces for developer teams.",
-                "The updated toolkit streamlines integration of autonomous workflows directly into mission-critical corporate Fusion business applications.",
-                "Developers gain access to integrated governance layers that actively monitor and validate model-generated data pipelines.",
-                "Enterprise application developers will rapidly deploy customized agentic tools directly embedded in legacy operational databases."
+                "Google Cloud launched a fully managed, remote MCP server within the Agent Platform to optimize agent deployment.",
+                "The platform natively supports Gemini 3.5, enabling complex autonomous action and high-speed multi-agent orchestration.",
+                "This release aims to simplify the scaling and governance of large-scale agentic networks across enterprise cloud environments.",
+                "Organizations can seamlessly transition from basic conversational chatbots to robust, mission-critical systems of action and automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ALATION: AGENT GOVERNANCE OS",
+            "heading": "ALATION: AGENT INTELLIGENCE OS",
             "points": [
-                "Alation delivers a unified Intelligence Operating System to govern autonomous artificial intelligence agent interactions and access.",
-                "The system centralizes technical metadata and operational context to prevent catastrophic hallucinations within live database environments.",
-                "Structured data governance architectures are optimized to enforce real-time enterprise compliance rules across multiple models.",
-                "Chief Information Officers will require standardized metadata engines before authorizing deep autonomous agent system access."
+                "Alation launched its Intelligence Operating System, designed to unify data, context, and autonomous agents in one environment.",
+                "This platform addresses the critical challenge of governing AI agents by providing real-time oversight and data security.",
+                "Enterprise buyers can safely build and manage probabilistic agent actions within a highly regulated compliance framework.",
+                "Providing a centralized control plane ensures AI agents operate with highly accurate, validated context across organizational databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
