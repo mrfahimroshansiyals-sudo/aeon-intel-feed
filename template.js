@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE COGNITIVE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JETSON THOR COMPUTERS",
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "NVIDIA introduces Jetson Thor computers designed to accelerate mainstream robotics and advanced edge artificial intelligence architectures.",
-                "System deployment reduces power requirements while boosting single-thread processing capabilities for next-generation physical neural networks.",
-                "Edge devices integrate directly with LeRobot frameworks to streamline localized physical AI model training workflows.",
-                "Hardware upgrades enable autonomous industrial machines to perform complex coordination tasks without remote cloud computing assistance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ASML: HIGH NA EUV PRODUCTION",
-            "points": [
-                "ASML reaches a critical readiness milestone with its first high-volume logic product using High NA EUV.",
-                "The system achieves record-high chip density, driving advanced lithography yields for next-generation high-performance computing hardware.",
-                "Chipmakers utilize the advanced patterning technologies to mass-produce energy-efficient processors for hyperscale artificial intelligence workloads.",
-                "Semiconductor manufacturing cycles accelerate, establishing a new physical foundation for scaling global artificial intelligence infrastructure."
+                "ASML successfully achieved a high-volume manufacturing milestone using its advanced High NA EUV lithography system.",
+                "Logic chipmakers can now scale up production capacity while securing a notable increase in chip power-efficiency metrics.",
+                "This development reinforces ASML's global market monopoly on advanced semiconductor manufacturing tooling required for AI acceleration.",
+                "Enterprise clients will likely see lower processor acquisition costs as manufacturing yields stabilize over coming quarters."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "PERPLEXITY AI: SPACE SANDBOX",
+            "id": 2,
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "Perplexity AI launches Space Sandbox, an experimental environment designed to test and refine autonomous agent behaviors.",
-                "Developers simulate complex transactional workflows to measure token consumption and latency metrics under heavy operational stress.",
-                "The sandbox isolates agent actions to ensure secure execution and prevent unauthorized data access across platforms.",
-                "Automated safety evaluations improve overall agent reliability before deployment into live, production-grade enterprise network environments."
+                "OpenAI deployed GPT-5.6 to establish a highly scaleable frontier intelligence model tailored for complex enterprise workflows.",
+                "Modern businesses can automate multi-step transactional reasoning tasks with reduced operational latency and increased system reliability.",
+                "The architecture integrates native regulatory compliance parameters to satisfy strict data handling guidelines across global jurisdictions.",
+                "Companies deploying these systems will see rapid productivity enhancements within their primary software development lifecycle channels."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: JETSON THOR COMPUTING PLATFORM",
+            "points": [
+                "NVIDIA introduced Jetson Thor computer systems designed to advance humanoid robotics capabilities at the physical edge.",
+                "Edge robots will operate with superior spatial intelligence while maintaining exceptionally low energy consumption rates per task.",
+                "This hardware release bridges virtual simulation software with real-world physical operations to accelerate general-purpose automation deployments.",
+                "Industrial operations will increasingly transition manual material handling routines toward automated, highly intelligent edge computing agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ORACLE: FUSION AGENT ENGINE",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE DEPLOYMENT",
             "points": [
-                "Oracle expands its Agent Studio for Fusion Applications with pro-code command-line tools for developer integration.",
-                "The platform optimizes deterministic workflows while maintaining strict governance standards within the enterprise cloud runtime environment.",
-                "Developers leverage familiar environments like VSCode and Claude Code to build native, highly secure transactional agents.",
-                "Standardized integration paths reduce deployment timelines, accelerating the transition of agentic pilots into full enterprise production."
+                "Mistral AI unveiled Robostral Navigate, a vision-language model explicitly engineered for autonomous physical robot navigation.",
+                "Smart industrial systems can navigate complex internal factory layouts dynamically without requiring pre-mapped tracking coordinates.",
+                "This launch signals a major shift as frontier software developers expand aggressively into physical engineering domains.",
+                "Warehouse facilities will rapidly integrate this open vision framework to lower operational friction across global logistics."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "INFOWORLD: CODEX V2 TRANSPARENCY CONCERNS",
+            "points": [
+                "Codex Multi-Agent V2 triggered developer friction due to a lack of visibility in execution workflows.",
+                "Software engineering teams struggle to track automated decisions, leading to potential security vulnerabilities and operational oversights.",
+                "This friction highlights a broader enterprise struggle to balance autonomous system velocity with auditable development practices.",
+                "Enterprise IT leaders will demand stricter multi-agent governance frameworks before deploying these automated systems into production."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "REGATTA DATA: UNIFIED REGATTADB",
-            "points": [
-                "Regatta Data launches RegattaDB, a unified database purpose-built to support autonomous agentic data workloads.",
-                "The architecture unifies disparate structured and unstructured data streams to eliminate indexing latency for active agents.",
-                "Enterprise IT teams deploy this unified database layer to mitigate contextual drift during real-time retrieval operations.",
-                "Streamlined data ingestion patterns lower training costs and improve downstream semantic search accuracy for client applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "ATLASSIAN: JIRA PLANNER AGENT",
+            "heading": "ATLASSIAN: SPEC-DRIVEN JIRA PLANNER",
             "points": [
-                "Atlassian introduces Jira Planner to leverage spec-driven development trends for optimizing downstream artificial intelligence coding costs.",
-                "The tool enforces upfront planning protocols, reducing unnecessary token spending during automated software engineering cycles.",
-                "Development teams implement structured planning canvases to govern code generation agents within complex enterprise software projects.",
-                "Standardizing requirements before code generation minimizes iterative debugging loops and enhances overall repository structural integrity."
+                "Atlassian integrated Jira Planner to support spec-driven planning for downstream artificial intelligence software engineering processes.",
+                "This release optimizes token consumption and system costs by organizing software development workflows before generating code.",
+                "Managing escalating operational costs is critical as organizations scale up autonomous development tools across departments.",
+                "Technical leaders will prioritize structured design paradigms to prevent budget overruns during autonomous software generation routines."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "CODEX: MULTI-AGENT TRANSPARENCY",
+            "heading": "PERPLEXITY: SPACE SANDBOX RELEASE",
             "points": [
-                "Codex releases its Multi-Agent V2 update, triggering developer concerns regarding agent telemetry and system transparency.",
-                "The update tracks complex parallel workflows but lacks direct observability metrics for multi-agent decision path tracking.",
-                "Engineering teams require granular monitoring tools to prevent resource exhaustion and trace nested loop execution failures.",
-                "Enhanced governance frameworks will be essential to manage the operational risks associated with unobservable agentic behavior."
+                "Perplexity AI launched the Space Sandbox platform to evaluate multi-agent workflows in controlled virtual environments.",
+                "System administrators can safely test cognitive agents before deploying them directly to enterprise-wide legacy software systems.",
+                "Safe testing environments are increasingly essential as digital organizations adopt decentralized, autonomous workforces at scale.",
+                "Companies will establish secure evaluation zones to optimize agentic integration processes while minimizing system-wide software errors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
