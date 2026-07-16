@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN COGNITIVE INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL GPT-5.6",
+            "heading": "NVIDIA: NATIONAL AI FACTORY",
             "points": [
-                "OpenAI officially released its GPT-5.6 frontier intelligence model designed to scale with highly complex enterprise ambitions.",
-                "The model achieves unprecedented benchmarks in multi-step analytical reasoning while reducing execution latency by thirty percent.",
-                "Standardizing on this frontier intelligence layer decouples legacy enterprise workflows from static, single-turn legacy automation software.",
-                "Developers can confidently deploy autonomous systems knowing the runtime environment balances state-of-the-art reasoning with rigorous safety."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TSMC: QUANTUM SILICON PARADIGM",
-            "points": [
-                "TSMC announced the A14 silicon architecture featuring NanoFlex Pro technology optimized for high-performance AI execution workloads.",
-                "The new nanosheet structure combined with backside power solutions delivers a twenty percent improvement in energy efficiency.",
-                "Integrating innovative backside power rails allows data centers to scale logic density without hitting thermal performance barriers.",
-                "Global hardware architects can expect next-generation accelerators to sustain intensive algorithmic operations at significantly lower operational costs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: SOVEREIGN FACTORY INITIATIVE",
-            "points": [
-                "NVIDIA launched a national AI factory in Japan featuring thirteen thousand seven hundred fifty Vera processors.",
-                "Deploying twenty-seven thousand five hundred Rubin GPUs provides unprecedented sovereign compute power to regional industrial leaders.",
-                "This massive hardware orchestration enables physical robotics and localized enterprise models to operate on unified foundation stacks.",
-                "Sovereign nations will increasingly construct localized hardware factories to secure computational autonomy and protect sensitive national data."
+                "NVIDIA partners with Noetra Corp to deploy a national AI factory featuring Vera Rubin architectures.",
+                "The deployment scales physical AI capabilities utilizing thirteen thousand Vera CPUs and twenty-seven thousand Rubin GPUs.",
+                "This infrastructure enables secure localized model training across Japanese government departments and heavy industrial sectors.",
+                "Accelerated high-performance computing clusters will drive sovereign physical robotics integration across national manufacturing pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,61 +22,93 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ENTERPRISE IT: AGENTOPS MONITORING MATRIX",
+            "id": 2,
+            "heading": "ASML: EUV READINESS MILESTONE",
             "points": [
-                "Enterprise IT leaders are rapidly deploying novel AgentOps tools to monitor autonomous system activity and compute costs.",
-                "These specialized observability platforms mitigate bill shock by tracking resource allocation and execution token limits in real-time.",
-                "Establishing centralized monitoring frameworks ensures strict compliance with emerging regulatory laws and internal corporate governance policies.",
-                "Technology officers will transition from basic pilot programs to highly optimized, cost-effective production deployments of autonomous agents."
+                "ASML achieves critical readiness with its High NA EUV systems for high-volume semiconductor logic production.",
+                "Next-generation lithography tools enable chipmakers to scale transistor densities for advanced artificial intelligence hardware.",
+                "Global fabrication foundries can now operationalize extreme ultraviolet manufacturing systems for two-nanometer and below architectures.",
+                "This technological shift secures the supply chain for high-performance computing processors driving global datacenter expansion."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "points": [
+                "OpenAI releases GPT-5.6 representing frontier intelligence engineered to scale efficiently with enterprise computational ambitions.",
+                "The model architecture significantly reduces latency while executing complex reasoning and multi-step autonomous agent operations.",
+                "Enhanced alignment protocols secure the framework against vulnerability exploits during deep administrative tool integration workflows.",
+                "Enterprises gain unprecedented capacity to orchestrate sovereign cognitive networks across highly regulated transaction pipelines globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: CLAUDE SCIENCE APPS",
+            "points": [
+                "Anthropic introduces Claude Science integrating specialized research packages to produce fully auditable clinical research artifacts.",
+                "The platform provides researchers with highly flexible access to distributed high-performance academic cloud computing resources.",
+                "Secure environment architectures ensure proprietary biomedical data remains isolated and compliant with international privacy standards.",
+                "Accelerated discovery pipelines will empower global scientific teams to solve complex molecular modeling challenges rapidly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MOONSHOT AI: CLAUDE REASONING CHALLENGE",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "Chinese startup Moonshot is preparing to launch the Kimi K3 model to directly challenge frontier American platforms.",
-                "Early benchmarks indicate the model will surpass Claude Opus performance, closing the capability gap between global regions.",
-                "Developing regional frontier models underscores the intense geopolitical competition to dominate high-performance reasoning architectures and algorithms.",
-                "Multi-national enterprises must adapt to a fragmented landscape of highly capable, regionally sovereign artificial intelligence model alternatives."
+                "Mistral AI unveils Robostral Navigate providing advanced vision models tailored for autonomous industrial robot navigation.",
+                "The model interprets complex physical environments to optimize spatial coordination across active smart manufacturing floors.",
+                "Seamless edge integration reduces latency in critical decision-making loops for automated supply chain systems worldwide.",
+                "Global industrial enterprises can deploy these localized vision networks to ensure high-security sovereign edge autonomy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFOWORLD: AGENTIC COMPUTE PATTERNS",
+            "heading": "THINKING MACHINES: INKLING MODEL",
             "points": [
-                "Software engineers are shifting from traditional development practices toward specialized agentic compute patterns for core automation tasks.",
-                "Transitioning to these patterns automates up to seventy percent of manual developer overhead within modern enterprise codebases.",
-                "Integrating agentic orchestration directly into Kubernetes environments ensures resilient, stateful, and context-aware execution of distributed workflows.",
-                "Organizations utilizing these modern paradigms will accelerate software delivery lifecycles while maintaining strict architectural security and stability."
+                "Thinking Machines launches Inkling a highly efficient general-purpose model optimizing token consumption for enterprises.",
+                "The startup designs this architecture to dramatically decrease inference expenses while maintaining high-tier reasoning output.",
+                "Developers can customize the open-weight system locally to protect proprietary corporate data from external third-party leaks.",
+                "Optimized tokenomics will accelerate mainstream enterprise adoption of local agentic workflows across legacy software environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEBIUS: ASSET-LIGHT COMPUTE EXPANSION",
+            "heading": "AGENTIC AI FOUNDATION: TRANSACTIONS",
             "points": [
-                "Nebius embarked on an asset-light operational model to expand cloud GPU compute capacity through strategic infrastructure partnerships.",
-                "Partnering with regional data centers allows the firm to scale high-performance training clusters without incurring massive capital expenditures.",
-                "This decoupling of physical facility ownership from compute services establishes a highly agile, scalable cloud infrastructure paradigm.",
-                "Emerging cloud providers will increasingly leverage asset-light strategies to rapidly challenge hyperscaler market dominance in AI hardware."
+                "The Agentic AI Foundation launches to establish universal transaction standards for autonomous agentic financial payments.",
+                "The initiative defines protocol guardrails to secure Machine-to-Machine ledger settlements without requiring manual human oversight.",
+                "Interoperable transaction schemas will allow disparate software agents to negotiate, purchase, and execute programmatic commercial contracts.",
+                "Standardized micro-payments will catalyze a global decentralized economy powered entirely by highly autonomous digital workers."
             ],
             "imageUrl": "",
             "tags": [
