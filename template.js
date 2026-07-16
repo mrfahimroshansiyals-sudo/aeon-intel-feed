@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JAPAN AI FACTORY",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "Nvidia and Japan partner to build a national AI factory leveraging next-generation Vera and Rubin processors.",
-                "The facility deploys thirteen thousand seven hundred fifty Vera CPUs alongside twenty-seven thousand five hundred Rubin GPUs.",
-                "This architecture accelerates physical artificial intelligence systems across Japanese robotics and domestic manufacturing sectors.",
-                "Sovereign nations will increasingly construct localized compute cluster networks to bypass foreign technology bottlenecks."
+                "NVIDIA announced a new national AI factory in Japan featuring next-generation hardware architecture configurations.",
+                "The sovereign deployment integrates 13,750 Vera central processing units alongside 27,500 Rubin graphics processing accelerators.",
+                "This hardware architecture guarantees localized processing power to drive heavy robotics, manufacturing, and industrial software systems.",
+                "Global operators will leverage these unified national clusters to achieve absolute data residency and sovereign control."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,96 +23,96 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "TSMC: MASSIVE FAB EXPANSION",
+            "heading": "NEBIUS: ASSET-LIGHT COMPUTE",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company plans to invest an additional one hundred billion dollars in American production.",
-                "The massive expansion brings TSMC total financial commitment to the United States semiconductor pipeline to three billion.",
-                "Advanced nanosheet logic technologies will scale localized cleanrooms to secure global corporate hardware supply chains.",
-                "Geopolitical forces are forcing semiconductor foundries to decentralize physical fabrication capacity away from single-point dependencies."
+                "Nebius Group transitioned to an asset-light data center framework utilizing external infrastructure partnerships for rapid deployment.",
+                "This strategic operational shift allows the company to scale sovereign cloud compute capacity without heavy capital expenditures.",
+                "The decentralized hardware model mitigates long-term real estate risks while keeping pace with massive hyperscaler growth.",
+                "Infrastructure providers will increasingly adopt lease-back structures to dynamically allocate high-density graphics processing units worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AGENTIC AI: STANDARDIZED PAYMENTS",
+            "heading": "ASML: HIGH NA PRODUCTION",
             "points": [
-                "A newly formed Agentic AI Foundation aims to standardize machine-to-machine financial payments for autonomous workloads.",
-                "Standardized protocols will allow millions of software agents to securely transact without requiring manual human validation.",
-                "The transaction layer relies on distributed ledgers to offer programmatic micro-payments for continuous agent-led processing.",
-                "Financial institutions must adapt legacy billing architectures to support high-frequency, automated agentic transaction models."
+                "ASML successfully advanced its high numerical aperture extreme ultraviolet systems into high-volume semiconductor logic production facilities.",
+                "The system patterns sub-two-nanometer chip designs to dramatically increase transistor density and overall energy operational efficiency.",
+                "Global chip manufacturers can now scale production lines to meet the relentless demands of next-generation AI platforms.",
+                "This critical hardware milestone secures a foundational supply chain pathway for upcoming multi-trillion parameter model hardware architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: AUTOMATED THREAT RED",
+            "heading": "ATLASSIAN: SPEC-DRIVEN DEVELOPMENT",
             "points": [
-                "OpenAI engineered an autonomous LLM super-hacker to proactively identify exploits in frontier neural network architectures.",
-                "The red-teaming agent discovers software vulnerabilities at scale before external malicious threat actors can locate them.",
-                "This recursive self-defense model automates code auditing to strengthen localized security posture of deep intelligence networks.",
-                "Corporate security paradigms will shift toward real-time automated patching powered by adversarial artificial intelligence models."
+                "Atlassian launched Jira Planner to pioneer spec-driven development methodologies for optimization of downstream software engineering costs.",
+                "This tool targets critical tokenomics constraints by enforcing structured planning before deploying autonomous developer agent architectures.",
+                "Integrating upfront specifications reduces redundant large language model calls during the software creation and testing cycles.",
+                "Software engineering teams will drastically lower cloud consumption costs through targeted, context-aware artificial intelligence interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NEBIUS: ASSET-LIGHT COMPUTE",
+            "heading": "ALATION: AGENT GOVERNANCE OS",
             "points": [
-                "Nebius adopted an asset-light operating model to scale high-performance computing clusters through specialized infrastructure partners.",
-                "The neocloud startup eliminates massive capital expenditures while rapidly expanding global access to enterprise training infrastructure.",
-                "Decoupling physical property from processing operations allows fast scaling of distributed graphic processing unit arrays.",
-                "Emerging cloud operators will utilize lease-sharing syndicates to compete with hyperscaler monopoly over computing resources."
+                "Alation unveiled its Intelligence Operating System to unify data cataloging with real-time autonomous agent governance systems.",
+                "The system provides a centralized control plane to monitor agentic operations and trace underlying organizational data assets.",
+                "Organizations can mitigate hallucination risks by anchoring active software agents to verified enterprise metadata and context.",
+                "Compliance officers will gain unprecedented visibility into complex agent workflows to satisfy strict regional regulatory frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FIREWORKS AI: STRATEGIC GROWTH",
+            "heading": "REGATTA DATA: UNIFIED AGENT DATABASE",
             "points": [
-                "Nvidia-backed inference startup Fireworks AI hit a seventeen point five billion dollar valuation amid skyrocketing demand.",
-                "Enterprises are rapidly adopting smaller, open-weight models to bypass expensive proprietary frontier model licensing models.",
-                "The platform accelerates token generation rates to provide highly cost-efficient API endpoints for production workloads.",
-                "Inference cost-performance metrics will dictate the commercial winners as enterprise developers prioritize low-latency execution pipelines."
+                "Regatta Data released RegattaDB to consolidate disparate analytical and operational workloads into one agentic data platform.",
+                "The unified architecture eliminates latent data pipelines by serving direct real-time context directly to running agents.",
+                "Removing analytical bottlenecks allows multiple concurrent agents to query structured and unstructured corporate assets simultaneously.",
+                "Database architects will increasingly migrate to consolidated agent-first storage systems to minimize critical system execution latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGATTA DATA: AGENT DATABASE",
+            "heading": "ORACLE: AGENT RUNTIME TOOLS",
             "points": [
-                "Regatta Data launched a unified database designed specifically to manage complex workflows for autonomous agents.",
-                "The unified platform consolidates disparate vector, relational, and document databases into a single processing environment.",
-                "Integrating context with transaction state allows agents to retrieve real-time data without incurring latency overhead.",
-                "Legacy databases must re-architect core memory pipelines to handle high-frequency reads and writes from autonomous processes."
+                "Oracle integrated professional command-line interface tools into its Agent Studio to streamline agent deployments across Fusion applications.",
+                "Developers can now utilize familiar environments like VSCode to build deterministic and probabilistic agentic workflows easily.",
+                "Providing native governance within Oracle runtimes ensures strict enterprise compliance during automated data processing tasks.",
+                "Engineering leads can confidently deploy customized workspace agents knowing they align completely with underlying security parameters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
