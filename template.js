@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC SILICON",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "NVIDIA: JAPAN AI FACTORY",
             "points": [
-                "Nvidia collaborates with Noetra Corporation to deploy a massive national artificial intelligence factory in Japan.",
-                "The facility integrates thirteen thousand Vera processors and twenty-seven thousand next-generation Rubin graphics processing units.",
-                "This sovereign physical computing deployment establishes a secure regional network for industrial automation.",
-                "Government and private enterprises will leverage this specialized supercomputing cluster for advanced robotics development."
+                "Nvidia and Japan partner to build a national AI factory leveraging next-generation Vera and Rubin processors.",
+                "The facility deploys thirteen thousand seven hundred fifty Vera CPUs alongside twenty-seven thousand five hundred Rubin GPUs.",
+                "This architecture accelerates physical artificial intelligence systems across Japanese robotics and domestic manufacturing sectors.",
+                "Sovereign nations will increasingly construct localized compute cluster networks to bypass foreign technology bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: SOVEREIGN FAB EXPANSION",
+            "heading": "TSMC: MASSIVE FAB EXPANSION",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company expands its direct investment in United States manufacturing to billions.",
-                "Total capital commitment increases to two hundred sixty-five billion dollars following record high quarterly revenues.",
-                "This domestic chip production effort ensures supply chain resilience for critical leading-edge hardware components.",
-                "Tech enterprises can soon source localized sub-two-nanometer silicon architectures directly within North American markets."
+                "Taiwan Semiconductor Manufacturing Company plans to invest an additional one hundred billion dollars in American production.",
+                "The massive expansion brings TSMC total financial commitment to the United States semiconductor pipeline to three billion.",
+                "Advanced nanosheet logic technologies will scale localized cleanrooms to secure global corporate hardware supply chains.",
+                "Geopolitical forces are forcing semiconductor foundries to decentralize physical fabrication capacity away from single-point dependencies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: tsms.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: AUTONOMOUS RED TEAMING",
+            "heading": "AGENTIC AI: STANDARDIZED PAYMENTS",
             "points": [
-                "OpenAI develops a specialized red-teaming model designed to autonomously execute complex penetration testing operations.",
-                "The system identifies critical architectural security flaws before malicious human operators can exploit model vulnerabilities.",
-                "Implementing automated model-on-model hacking represents a significant shift toward self-securing frontier artificial intelligence systems.",
-                "Cybersecurity teams must prepare for highly adaptive autonomous agents targeting enterprise API endpoints."
+                "A newly formed Agentic AI Foundation aims to standardize machine-to-machine financial payments for autonomous workloads.",
+                "Standardized protocols will allow millions of software agents to securely transact without requiring manual human validation.",
+                "The transaction layer relies on distributed ledgers to offer programmatic micro-payments for continuous agent-led processing.",
+                "Financial institutions must adapt legacy billing architectures to support high-frequency, automated agentic transaction models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: technologyreview.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ASML: LITHOGRAPHY SCALING MILESTONE",
+            "heading": "OPENAI: AUTOMATED THREAT RED",
             "points": [
-                "ASML reaches an advanced high numerical aperture lithography readiness milestone for high-volume commercial semiconductor production.",
-                "Net sales climb to over nine billion euros during the second quarter of twenty-six.",
-                "This precision technology allows major global chipmakers to manufacture extremely dense next-generation processor nodes.",
-                "Enterprise silicon vendors will rely on these advanced lithography machines to sustain aggressive hardware development."
+                "OpenAI engineered an autonomous LLM super-hacker to proactively identify exploits in frontier neural network architectures.",
+                "The red-teaming agent discovers software vulnerabilities at scale before external malicious threat actors can locate them.",
+                "This recursive self-defense model automates code auditing to strengthen localized security posture of deep intelligence networks.",
+                "Corporate security paradigms will shift toward real-time automated patching powered by adversarial artificial intelligence models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: IQ AGENT DEPLOYMENT",
+            "heading": "NEBIUS: ASSET-LIGHT COMPUTE",
             "points": [
-                "Microsoft launches Microsoft IQ to provide unified contextual memory for autonomous agents across enterprise networks.",
-                "The system securely bridges operational workflows, structured corporate databases, and localized large language models.",
-                "Integrating secure context management reduces hallucination rates while accelerating complex cross-departmental business processes.",
-                "IT architects can deploy persistent intelligent agents that maintain strict data governance protocols automatically."
+                "Nebius adopted an asset-light operating model to scale high-performance computing clusters through specialized infrastructure partners.",
+                "The neocloud startup eliminates massive capital expenditures while rapidly expanding global access to enterprise training infrastructure.",
+                "Decoupling physical property from processing operations allows fast scaling of distributed graphic processing unit arrays.",
+                "Emerging cloud operators will utilize lease-sharing syndicates to compete with hyperscaler monopoly over computing resources."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ATLASSIAN: SPECIFICATION DRIVEN CODE",
+            "heading": "FIREWORKS AI: STRATEGIC GROWTH",
             "points": [
-                "Atlassian introduces Jira Planner to emphasize upstream structural design within the software development life cycle.",
-                "The tool optimizes enterprise tokenomics and overall downstream code quality generated by programming assistant tools.",
-                "Standardizing blueprint planning directly minimizes the compute overhead and financial costs of model-generated application builds.",
-                "Organizations will restructure engineering workflows to prioritize rigorous initial prompt formatting and semantic alignment."
+                "Nvidia-backed inference startup Fireworks AI hit a seventeen point five billion dollar valuation amid skyrocketing demand.",
+                "Enterprises are rapidly adopting smaller, open-weight models to bypass expensive proprietary frontier model licensing models.",
+                "The platform accelerates token generation rates to provide highly cost-efficient API endpoints for production workloads.",
+                "Inference cost-performance metrics will dictate the commercial winners as enterprise developers prioritize low-latency execution pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE LAUNCH",
+            "heading": "REGATTA DATA: AGENT DATABASE",
             "points": [
-                "Mistral AI unveils Robostral Navigate, a specialized vision model engineered specifically for autonomous robotic navigation.",
-                "The system processes spatial environments to generate precise real-time pathing coordinates without heavy cloud reliance.",
-                "Deploying lightweight local vision models enables industrial machinery to safely operate in highly dynamic environments.",
-                "Logistics and manufacturing firms will adopt this edge-ready architecture to streamline automated material handling workflows."
+                "Regatta Data launched a unified database designed specifically to manage complex workflows for autonomous agents.",
+                "The unified platform consolidates disparate vector, relational, and document databases into a single processing environment.",
+                "Integrating context with transaction state allows agents to retrieve real-time data without incurring latency overhead.",
+                "Legacy databases must re-architect core memory pipelines to handle high-frequency reads and writes from autonomous processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
