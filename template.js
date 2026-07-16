@@ -2,21 +2,21 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "AUTONOMY"
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "TSMC: PROCESSOR FABRICATION SURGE",
             "points": [
-                "OpenAI deploys GPT-5.6 delivering frontier intelligence designed to scale complex enterprise workflows with high-level reasoning capabilities.",
-                "The upgraded architecture drastically reduces context token consumption while achieving a fifty percent increase in transactional throughput.",
-                "This iteration integrates deep reinforcement learning loops directly into API runtimes to enable autonomous system operations.",
-                "Enterprises will rapidly transition from simple chat interfaces to fully autonomous agents managing critical core operations."
+                "Taiwan Semiconductor Manufacturing Company reports profit growth driven by massive high performance computing silicon demand.",
+                "Net income surged past historical industry forecasts due to rapid acceleration of generative model scaling.",
+                "Next generation nanosheet processes with super power rails will soon optimize global data center architectures.",
+                "Hardware developers must secure advanced foundry capacity early to avoid imminent compute supply constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -25,10 +25,10 @@ const dailyData = {
             "id": 2,
             "heading": "ASML: HIGH NA PRODUCTION",
             "points": [
-                "ASML achieves a critical readiness milestone by delivering the first commercial high-volume logic product using High NA EUV systems.",
-                "Next-generation chip manufacturing facilities can now scale density limits beyond traditional physics boundaries to boost compute power.",
-                "The system leverages advanced lithography technologies that allow semiconductor foundries to pattern sub-two-nanometer chip designs efficiently.",
-                "Global chip manufacturers will immediately accelerate the production of ultra-dense processors specialized for next-generation AI models."
+                "High NA EUV lithography achieves commercial readiness milestone with the first high-volume logic manufacturing run.",
+                "Lithography advancements enable chipmakers to pattern smaller transistors reducing operational power draw by twenty percent.",
+                "The system patterns high density silicon layouts required to run frontier model architectures on-premise efficiently.",
+                "Strategic infrastructure leaders will lock down lithography access to sustain physical competitive computational advantages."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "heading": "NVIDIA: BIONEMO AGENT TOOLKIT",
             "points": [
-                "Mistral AI unveils Robostral Navigate establishing a dedicated system of record for managing complex prompts and agentic skills.",
-                "Development teams can programmatically version, test, and deploy automated agent behaviors across diverse localized enterprise environments.",
-                "The open-source architecture integrates directly into edge infrastructures ensuring low-latency processing without external cloud network dependencies.",
-                "Organizations will bypass proprietary orchestration tools to build secure, internally governed agent networks using local hardware resources."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: BIO-NEMO AGENT",
-            "points": [
-                "NVIDIA introduces the BioNeMo Agent Toolkit to provide researchers with domain-specific skills for biological discovery applications.",
-                "Molecular biology labs can automate complex protein design pipelines reducing design validation cycles from months to hours.",
-                "The toolkit integrates specialized deep learning agents that navigate vast biological datasets within unified accelerated computing environments.",
-                "Pharmaceutical companies will shift toward generative medicine architectures to automate target discovery and drug design pipelines."
+                "NVIDIA launches the BioNeMo Agent Toolkit to deliver domain-specific tools for complex scientific discovery tasks.",
+                "Automated agents reduce molecular analysis times from weeks to minutes across legacy physical laboratory environments.",
+                "The framework integrates physical AI models with scalable runtime engines to accelerate molecular design workflows.",
+                "Life science enterprises will deploy autonomous workflows to rapidly discover novel biological compounds and therapies."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "OPENAI: GPT-RED DEPLOYMENT",
+            "id": 4,
+            "heading": "ATLASSIAN: SPEC CODING TREND",
             "points": [
-                "OpenAI develops GPT-Red an autonomous large language model super-hacker built specifically to stress-test frontier system security.",
-                "Automated red-teaming identifies hidden software vulnerabilities and logic flaws prior to commercial deployment of major models.",
-                "The agentic framework simulates sophisticated multi-vector attacks against model infrastructure to identify prompt-injection and data leakage paths.",
-                "Cybersecurity teams must adopt autonomous defensive agents to counter self-improving synthetic threats targeting enterprise software systems."
+                "Atlassian Jira Planner integrates spec-driven development tools to address rising enterprise token consumption costs.",
+                "Upfront structural planning mitigates downstream code generation waste saving developer teams hours of manual debugging.",
+                "Standardizing code specifications before running automated agents prevents model hallucination within continuous integration pipelines.",
+                "Software engineering teams must adopt spec-driven guardrails to manage spiraling API usage costs effectively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "REGATTA: UNIFIED AGENT DATABASE",
+            "points": [
+                "Regatta launches RegattaDB to unify disparate enterprise data workloads into a single real-time database.",
+                "Unifying contextual data pools decreases processing latency during active autonomous agent execution by forty percent.",
+                "High performance databases designed specifically for AI agents eliminate complex data pipeline integration overhead.",
+                "Enterprise architects will migrate legacy storage clusters toward agent-native unified data platforms for speed."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ALATION: AGENT GOVERNANCE OS",
+            "heading": "ALATION: INTELLIGENCE OS PLATFORM",
             "points": [
-                "Alation launches its Intelligence Operating System to provide a unified environment for governing autonomous enterprise AI agents.",
-                "Data teams gain real-time visibility into agent actions metadata lineage and compliance posture across distributed databases.",
-                "The system unifies structured data assets and organizational context to prevent hallucination issues in model execution layers.",
-                "Governance frameworks will become a non-negotiable prerequisite before enterprises authorize autonomous agents to touch production databases."
+                "Alation introduces its Intelligence Operating System to centralize data context and agent governance in one platform.",
+                "Centralized policy enforcement reduces compliance auditing cycle times while maintaining strict data sovereignty controls.",
+                "Integrating metadata catalogs with autonomous execution loops provides clear visibility into organizational agent behaviors.",
+                "Data governance executives must mandate centralized runtime platforms to prevent rogue model actions inside networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ORACLE: AGENT STUDIO EXPANSION",
+            "heading": "CRIBL: SECOPS AGENT ACQUISITION",
             "points": [
-                "Oracle expands AI Agent Studio for Fusion Applications with pro-code tools to support professional software engineering pipelines.",
-                "Developers can use familiar command line interfaces and editors to build enterprise-grade agents within managed runtimes.",
-                "The platform bridges deterministic database queries with probabilistic language models to enforce strict business logic and governance.",
-                "Enterprise application ecosystems will evolve from passive software interfaces into active agent-driven networks running mission-critical workloads."
+                "Cribl acquires CardinalOps to integrate advanced detection engineering capabilities directly into its observability pipelines.",
+                "Consolidating security operations tooling shortens threat identification times across distributed hybrid multi-cloud environments.",
+                "Deploying specialized security agents at the edge allows real-time threat filtering without routing back to SIEMs.",
+                "Security operations centers will rapidly transition toward bring-your-own-agent architectures to combat automated adversarial attacks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
