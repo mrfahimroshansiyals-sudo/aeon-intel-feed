@@ -2,17 +2,49 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "OPENAI: FRONTIER MODEL GPT-5.6",
             "points": [
-                "NVIDIA announced a new national AI factory in Japan featuring next-generation hardware architecture configurations.",
-                "The sovereign deployment integrates 13,750 Vera central processing units alongside 27,500 Rubin graphics processing accelerators.",
-                "This hardware architecture guarantees localized processing power to drive heavy robotics, manufacturing, and industrial software systems.",
-                "Global operators will leverage these unified national clusters to achieve absolute data residency and sovereign control."
+                "OpenAI officially released its GPT-5.6 frontier intelligence model designed to scale with highly complex enterprise ambitions.",
+                "The model achieves unprecedented benchmarks in multi-step analytical reasoning while reducing execution latency by thirty percent.",
+                "Standardizing on this frontier intelligence layer decouples legacy enterprise workflows from static, single-turn legacy automation software.",
+                "Developers can confidently deploy autonomous systems knowing the runtime environment balances state-of-the-art reasoning with rigorous safety."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TSMC: QUANTUM SILICON PARADIGM",
+            "points": [
+                "TSMC announced the A14 silicon architecture featuring NanoFlex Pro technology optimized for high-performance AI execution workloads.",
+                "The new nanosheet structure combined with backside power solutions delivers a twenty percent improvement in energy efficiency.",
+                "Integrating innovative backside power rails allows data centers to scale logic density without hitting thermal performance barriers.",
+                "Global hardware architects can expect next-generation accelerators to sustain intensive algorithmic operations at significantly lower operational costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: SOVEREIGN FACTORY INITIATIVE",
+            "points": [
+                "NVIDIA launched a national AI factory in Japan featuring thirteen thousand seven hundred fifty Vera processors.",
+                "Deploying twenty-seven thousand five hundred Rubin GPUs provides unprecedented sovereign compute power to regional industrial leaders.",
+                "This massive hardware orchestration enables physical robotics and localized enterprise models to operate on unified foundation stacks.",
+                "Sovereign nations will increasingly construct localized hardware factories to secure computational autonomy and protect sensitive national data."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,97 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "NEBIUS: ASSET-LIGHT COMPUTE",
-            "points": [
-                "Nebius Group transitioned to an asset-light data center framework utilizing external infrastructure partnerships for rapid deployment.",
-                "This strategic operational shift allows the company to scale sovereign cloud compute capacity without heavy capital expenditures.",
-                "The decentralized hardware model mitigates long-term real estate risks while keeping pace with massive hyperscaler growth.",
-                "Infrastructure providers will increasingly adopt lease-back structures to dynamically allocate high-density graphics processing units worldwide."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ASML: HIGH NA PRODUCTION",
-            "points": [
-                "ASML successfully advanced its high numerical aperture extreme ultraviolet systems into high-volume semiconductor logic production facilities.",
-                "The system patterns sub-two-nanometer chip designs to dramatically increase transistor density and overall energy operational efficiency.",
-                "Global chip manufacturers can now scale production lines to meet the relentless demands of next-generation AI platforms.",
-                "This critical hardware milestone secures a foundational supply chain pathway for upcoming multi-trillion parameter model hardware architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "ATLASSIAN: SPEC-DRIVEN DEVELOPMENT",
+            "heading": "ENTERPRISE IT: AGENTOPS MONITORING MATRIX",
             "points": [
-                "Atlassian launched Jira Planner to pioneer spec-driven development methodologies for optimization of downstream software engineering costs.",
-                "This tool targets critical tokenomics constraints by enforcing structured planning before deploying autonomous developer agent architectures.",
-                "Integrating upfront specifications reduces redundant large language model calls during the software creation and testing cycles.",
-                "Software engineering teams will drastically lower cloud consumption costs through targeted, context-aware artificial intelligence interactions."
+                "Enterprise IT leaders are rapidly deploying novel AgentOps tools to monitor autonomous system activity and compute costs.",
+                "These specialized observability platforms mitigate bill shock by tracking resource allocation and execution token limits in real-time.",
+                "Establishing centralized monitoring frameworks ensures strict compliance with emerging regulatory laws and internal corporate governance policies.",
+                "Technology officers will transition from basic pilot programs to highly optimized, cost-effective production deployments of autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ALATION: AGENT GOVERNANCE OS",
+            "heading": "MOONSHOT AI: CLAUDE REASONING CHALLENGE",
             "points": [
-                "Alation unveiled its Intelligence Operating System to unify data cataloging with real-time autonomous agent governance systems.",
-                "The system provides a centralized control plane to monitor agentic operations and trace underlying organizational data assets.",
-                "Organizations can mitigate hallucination risks by anchoring active software agents to verified enterprise metadata and context.",
-                "Compliance officers will gain unprecedented visibility into complex agent workflows to satisfy strict regional regulatory frameworks."
+                "Chinese startup Moonshot is preparing to launch the Kimi K3 model to directly challenge frontier American platforms.",
+                "Early benchmarks indicate the model will surpass Claude Opus performance, closing the capability gap between global regions.",
+                "Developing regional frontier models underscores the intense geopolitical competition to dominate high-performance reasoning architectures and algorithms.",
+                "Multi-national enterprises must adapt to a fragmented landscape of highly capable, regionally sovereign artificial intelligence model alternatives."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGATTA DATA: UNIFIED AGENT DATABASE",
+            "heading": "INFOWORLD: AGENTIC COMPUTE PATTERNS",
             "points": [
-                "Regatta Data released RegattaDB to consolidate disparate analytical and operational workloads into one agentic data platform.",
-                "The unified architecture eliminates latent data pipelines by serving direct real-time context directly to running agents.",
-                "Removing analytical bottlenecks allows multiple concurrent agents to query structured and unstructured corporate assets simultaneously.",
-                "Database architects will increasingly migrate to consolidated agent-first storage systems to minimize critical system execution latency."
+                "Software engineers are shifting from traditional development practices toward specialized agentic compute patterns for core automation tasks.",
+                "Transitioning to these patterns automates up to seventy percent of manual developer overhead within modern enterprise codebases.",
+                "Integrating agentic orchestration directly into Kubernetes environments ensures resilient, stateful, and context-aware execution of distributed workflows.",
+                "Organizations utilizing these modern paradigms will accelerate software delivery lifecycles while maintaining strict architectural security and stability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ORACLE: AGENT RUNTIME TOOLS",
+            "heading": "NEBIUS: ASSET-LIGHT COMPUTE EXPANSION",
             "points": [
-                "Oracle integrated professional command-line interface tools into its Agent Studio to streamline agent deployments across Fusion applications.",
-                "Developers can now utilize familiar environments like VSCode to build deterministic and probabilistic agentic workflows easily.",
-                "Providing native governance within Oracle runtimes ensures strict enterprise compliance during automated data processing tasks.",
-                "Engineering leads can confidently deploy customized workspace agents knowing they align completely with underlying security parameters."
+                "Nebius embarked on an asset-light operational model to expand cloud GPU compute capacity through strategic infrastructure partnerships.",
+                "Partnering with regional data centers allows the firm to scale high-performance training clusters without incurring massive capital expenditures.",
+                "This decoupling of physical facility ownership from compute services establishes a highly agile, scalable cloud infrastructure paradigm.",
+                "Emerging cloud providers will increasingly leverage asset-light strategies to rapidly challenge hyperscaler market dominance in AI hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
