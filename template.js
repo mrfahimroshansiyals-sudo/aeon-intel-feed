@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COGNITIVE INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NATIONAL AI FACTORY",
+            "heading": "NVIDIA: NATIONAL VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy a national AI factory featuring Vera Rubin architectures.",
-                "The deployment scales physical AI capabilities utilizing thirteen thousand Vera CPUs and twenty-seven thousand Rubin GPUs.",
-                "This infrastructure enables secure localized model training across Japanese government departments and heavy industrial sectors.",
-                "Accelerated high-performance computing clusters will drive sovereign physical robotics integration across national manufacturing pipelines."
+                "NVIDIA collaborates with Japan to build the world's first national AI factory using Vera Rubin architectures.",
+                "The deployment integrates thirteen thousand CPUs and twenty-seven thousand GPUs to scale physical AI robotics nationwide.",
+                "This initiative solidifies state-level technological sovereignty by modernizing manufacturing through decentralized industrial edge platforms.",
+                "Global superpowers will rapidly construct nationalized high-performance compute clusters to safeguard critical industrial operating systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ASML: EUV READINESS MILESTONE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "points": [
-                "ASML achieves critical readiness with its High NA EUV systems for high-volume semiconductor logic production.",
-                "Next-generation lithography tools enable chipmakers to scale transistor densities for advanced artificial intelligence hardware.",
-                "Global fabrication foundries can now operationalize extreme ultraviolet manufacturing systems for two-nanometer and below architectures.",
-                "This technological shift secures the supply chain for high-performance computing processors driving global datacenter expansion."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
-            "points": [
-                "OpenAI releases GPT-5.6 representing frontier intelligence engineered to scale efficiently with enterprise computational ambitions.",
-                "The model architecture significantly reduces latency while executing complex reasoning and multi-step autonomous agent operations.",
-                "Enhanced alignment protocols secure the framework against vulnerability exploits during deep administrative tool integration workflows.",
-                "Enterprises gain unprecedented capacity to orchestrate sovereign cognitive networks across highly regulated transaction pipelines globally."
+                "OpenAI releases GPT-5.6 designed to deliver highly scalable frontier intelligence for complex enterprise operations.",
+                "Scaled inference optimization lowers organization-wide token spend while drastically improving agentic reasoning and autonomy.",
+                "This release positions frontier models as the central orchestration layer for multi-agent workflows and systems.",
+                "Enterprises will migrate legacy automation pipelines to native cognitive architectures to eliminate brittle deterministic logic."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE APPS",
+            "id": 3,
+            "heading": "ASML: HIGH NA EUV RECONSTRUCTION",
             "points": [
-                "Anthropic introduces Claude Science integrating specialized research packages to produce fully auditable clinical research artifacts.",
-                "The platform provides researchers with highly flexible access to distributed high-performance academic cloud computing resources.",
-                "Secure environment architectures ensure proprietary biomedical data remains isolated and compliant with international privacy standards.",
-                "Accelerated discovery pipelines will empower global scientific teams to solve complex molecular modeling challenges rapidly."
+                "ASML achieves a high-volume manufacturing milestone by deploying High NA EUV lithography for advanced logic products.",
+                "Second quarter results confirm nine billion euros in sales, driving sub-two nanometer silicon fabrication capabilities forward.",
+                "Advancing lithographic precision ensures the underlying hardware roadmap can sustain the massive compute demands of agentic AI.",
+                "Major foundry operators will accelerate capital deployment toward High NA equipment to secure next-generation semiconductor supremacy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "id": 4,
+            "heading": "MISTRAL AI: ROBOSTRAL AGENT WORKSPACE",
             "points": [
-                "Mistral AI unveils Robostral Navigate providing advanced vision models tailored for autonomous industrial robot navigation.",
-                "The model interprets complex physical environments to optimize spatial coordination across active smart manufacturing floors.",
-                "Seamless edge integration reduces latency in critical decision-making loops for automated supply chain systems worldwide.",
-                "Global industrial enterprises can deploy these localized vision networks to ensure high-security sovereign edge autonomy."
+                "Mistral AI launches Robostral Navigate and Vibe agents designed for autonomous long-horizon enterprise engineering tasks.",
+                "The system coordinates asynchronous code generation and legacy translation directly within terminal and integrated development environments.",
+                "Providing developers with sovereign, highly localized agent frameworks reduces dependency on proprietary closed-source API ecosystems.",
+                "Enterprise software development will transition to automated code review and testing pipelines managed completely by specialized agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,29 +70,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "THINKING MACHINES: INKLING MODEL",
+            "id": 5,
+            "heading": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
             "points": [
-                "Thinking Machines launches Inkling a highly efficient general-purpose model optimizing token consumption for enterprises.",
-                "The startup designs this architecture to dramatically decrease inference expenses while maintaining high-tier reasoning output.",
-                "Developers can customize the open-weight system locally to protect proprietary corporate data from external third-party leaks.",
-                "Optimized tokenomics will accelerate mainstream enterprise adoption of local agentic workflows across legacy software environments."
+                "Google Cloud integrates Model Context Protocol server support within Gemini 3.5 to streamline enterprise agent orchestration.",
+                "Fully managed remote environments allow agents to securely execute multi-step tasks across diverse corporate databases.",
+                "Unifying standard communication protocols between LLMs and external systems resolves data silo integration bottleneck issues.",
+                "Enterprise cloud migrations will prioritize environments featuring native, standardized protocols for secure model-to-data communication."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "points": [
+                "AMD secures a major partnership with Rackspace Technology to deploy thirty megawatts of specialized AI compute.",
+                "The deployment will host highly regulated enterprise workloads leveraging optimized EPYC CPUs and Instinct GPU solutions.",
+                "Expanding dedicated, private AI clouds helps enterprises circumvent public hyperscaler queues while ensuring strict regulatory compliance.",
+                "Regulated industries will increasingly choose hybrid on-premise compute options to prevent sensitive training data exposure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AGENTIC AI FOUNDATION: TRANSACTIONS",
+            "heading": "THINKING MACHINES: INKLING MODEL",
             "points": [
-                "The Agentic AI Foundation launches to establish universal transaction standards for autonomous agentic financial payments.",
-                "The initiative defines protocol guardrails to secure Machine-to-Machine ledger settlements without requiring manual human oversight.",
-                "Interoperable transaction schemas will allow disparate software agents to negotiate, purchase, and execute programmatic commercial contracts.",
-                "Standardized micro-payments will catalyze a global decentralized economy powered entirely by highly autonomous digital workers."
+                "Startup Thinking Machines introduces Inkling, an efficient open-weight model designed to optimize enterprise token consumption.",
+                "The architecture drastically limits the cost of deep reasoning steps during complex, multi-agent transactional operations.",
+                "Offering open-weight models with high parameter efficiency democratizes access to state-of-the-art reasoning without prohibitive operational expenses.",
+                "Developers will prioritize cost-efficient reasoning architectures over raw parameter scale to maintain viable application margins."
             ],
             "imageUrl": "",
             "tags": [
