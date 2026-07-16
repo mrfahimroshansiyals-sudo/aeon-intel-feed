@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE COGNITIVE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "NEXT GEN AGENTIC",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "ASML successfully achieved a high-volume manufacturing milestone using its advanced High NA EUV lithography system.",
-                "Logic chipmakers can now scale up production capacity while securing a notable increase in chip power-efficiency metrics.",
-                "This development reinforces ASML's global market monopoly on advanced semiconductor manufacturing tooling required for AI acceleration.",
-                "Enterprise clients will likely see lower processor acquisition costs as manufacturing yields stabilize over coming quarters."
+                "OpenAI deploys GPT-5.6 delivering frontier intelligence designed to scale complex enterprise workflows with high-level reasoning capabilities.",
+                "The upgraded architecture drastically reduces context token consumption while achieving a fifty percent increase in transactional throughput.",
+                "This iteration integrates deep reinforcement learning loops directly into API runtimes to enable autonomous system operations.",
+                "Enterprises will rapidly transition from simple chat interfaces to fully autonomous agents managing critical core operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "ASML: HIGH NA PRODUCTION",
             "points": [
-                "OpenAI deployed GPT-5.6 to establish a highly scaleable frontier intelligence model tailored for complex enterprise workflows.",
-                "Modern businesses can automate multi-step transactional reasoning tasks with reduced operational latency and increased system reliability.",
-                "The architecture integrates native regulatory compliance parameters to satisfy strict data handling guidelines across global jurisdictions.",
-                "Companies deploying these systems will see rapid productivity enhancements within their primary software development lifecycle channels."
+                "ASML achieves a critical readiness milestone by delivering the first commercial high-volume logic product using High NA EUV systems.",
+                "Next-generation chip manufacturing facilities can now scale density limits beyond traditional physics boundaries to boost compute power.",
+                "The system leverages advanced lithography technologies that allow semiconductor foundries to pattern sub-two-nanometer chip designs efficiently.",
+                "Global chip manufacturers will immediately accelerate the production of ultra-dense processors specialized for next-generation AI models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: JETSON THOR COMPUTING PLATFORM",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "NVIDIA introduced Jetson Thor computer systems designed to advance humanoid robotics capabilities at the physical edge.",
-                "Edge robots will operate with superior spatial intelligence while maintaining exceptionally low energy consumption rates per task.",
-                "This hardware release bridges virtual simulation software with real-world physical operations to accelerate general-purpose automation deployments.",
-                "Industrial operations will increasingly transition manual material handling routines toward automated, highly intelligent edge computing agents."
+                "Mistral AI unveils Robostral Navigate establishing a dedicated system of record for managing complex prompts and agentic skills.",
+                "Development teams can programmatically version, test, and deploy automated agent behaviors across diverse localized enterprise environments.",
+                "The open-source architecture integrates directly into edge infrastructures ensuring low-latency processing without external cloud network dependencies.",
+                "Organizations will bypass proprietary orchestration tools to build secure, internally governed agent networks using local hardware resources."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE DEPLOYMENT",
+            "heading": "NVIDIA: BIO-NEMO AGENT",
             "points": [
-                "Mistral AI unveiled Robostral Navigate, a vision-language model explicitly engineered for autonomous physical robot navigation.",
-                "Smart industrial systems can navigate complex internal factory layouts dynamically without requiring pre-mapped tracking coordinates.",
-                "This launch signals a major shift as frontier software developers expand aggressively into physical engineering domains.",
-                "Warehouse facilities will rapidly integrate this open vision framework to lower operational friction across global logistics."
+                "NVIDIA introduces the BioNeMo Agent Toolkit to provide researchers with domain-specific skills for biological discovery applications.",
+                "Molecular biology labs can automate complex protein design pipelines reducing design validation cycles from months to hours.",
+                "The toolkit integrates specialized deep learning agents that navigate vast biological datasets within unified accelerated computing environments.",
+                "Pharmaceutical companies will shift toward generative medicine architectures to automate target discovery and drug design pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFOWORLD: CODEX V2 TRANSPARENCY CONCERNS",
+            "heading": "OPENAI: GPT-RED DEPLOYMENT",
             "points": [
-                "Codex Multi-Agent V2 triggered developer friction due to a lack of visibility in execution workflows.",
-                "Software engineering teams struggle to track automated decisions, leading to potential security vulnerabilities and operational oversights.",
-                "This friction highlights a broader enterprise struggle to balance autonomous system velocity with auditable development practices.",
-                "Enterprise IT leaders will demand stricter multi-agent governance frameworks before deploying these automated systems into production."
+                "OpenAI develops GPT-Red an autonomous large language model super-hacker built specifically to stress-test frontier system security.",
+                "Automated red-teaming identifies hidden software vulnerabilities and logic flaws prior to commercial deployment of major models.",
+                "The agentic framework simulates sophisticated multi-vector attacks against model infrastructure to identify prompt-injection and data leakage paths.",
+                "Cybersecurity teams must adopt autonomous defensive agents to counter self-improving synthetic threats targeting enterprise software systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ATLASSIAN: SPEC-DRIVEN JIRA PLANNER",
+            "heading": "ALATION: AGENT GOVERNANCE OS",
             "points": [
-                "Atlassian integrated Jira Planner to support spec-driven planning for downstream artificial intelligence software engineering processes.",
-                "This release optimizes token consumption and system costs by organizing software development workflows before generating code.",
-                "Managing escalating operational costs is critical as organizations scale up autonomous development tools across departments.",
-                "Technical leaders will prioritize structured design paradigms to prevent budget overruns during autonomous software generation routines."
+                "Alation launches its Intelligence Operating System to provide a unified environment for governing autonomous enterprise AI agents.",
+                "Data teams gain real-time visibility into agent actions metadata lineage and compliance posture across distributed databases.",
+                "The system unifies structured data assets and organizational context to prevent hallucination issues in model execution layers.",
+                "Governance frameworks will become a non-negotiable prerequisite before enterprises authorize autonomous agents to touch production databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PERPLEXITY: SPACE SANDBOX RELEASE",
+            "heading": "ORACLE: AGENT STUDIO EXPANSION",
             "points": [
-                "Perplexity AI launched the Space Sandbox platform to evaluate multi-agent workflows in controlled virtual environments.",
-                "System administrators can safely test cognitive agents before deploying them directly to enterprise-wide legacy software systems.",
-                "Safe testing environments are increasingly essential as digital organizations adopt decentralized, autonomous workforces at scale.",
-                "Companies will establish secure evaluation zones to optimize agentic integration processes while minimizing system-wide software errors."
+                "Oracle expands AI Agent Studio for Fusion Applications with pro-code tools to support professional software engineering pipelines.",
+                "Developers can use familiar command line interfaces and editors to build enterprise-grade agents within managed runtimes.",
+                "The platform bridges deterministic database queries with probabilistic language models to enforce strict business logic and governance.",
+                "Enterprise application ecosystems will evolve from passive software interfaces into active agent-driven networks running mission-critical workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
