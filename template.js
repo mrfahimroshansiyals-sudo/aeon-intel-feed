@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS FRONTIER COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN AGENTIC SILICON",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALE ENGINE",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "OpenAI releases GPT-5.6 offering frontier intelligence designed for deep transactional autonomy and scaling complex agent workflows.",
-                "The system scales reasoning efficiency while dropping runtime latency parameters across multi-agent enterprise clusters.",
-                "The deployment targets heavy legacy infrastructure decoupling by introducing natively governed, highly flexible execution layers.",
-                "Enterprises will rapidly shift to zero-human operational pipelines for high-compute automated decision environments."
+                "Nvidia collaborates with Noetra Corporation to deploy a massive national artificial intelligence factory in Japan.",
+                "The facility integrates thirteen thousand Vera processors and twenty-seven thousand next-generation Rubin graphics processing units.",
+                "This sovereign physical computing deployment establishes a secure regional network for industrial automation.",
+                "Government and private enterprises will leverage this specialized supercomputing cluster for advanced robotics development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: ARIZONA FAB EXPANSION",
+            "heading": "TSMC: SOVEREIGN FAB EXPANSION",
             "points": [
-                "TSMC commits an additional one hundred billion dollars to expand advanced semiconductor manufacturing in Arizona.",
-                "This massive investment scales total US commitments to two hundred sixty-five billion dollars for next-generation silicon.",
-                "The domestic packaging facilities aim to stabilize the global high-performance computing hardware supply chain against geopolitical disruptions.",
-                "Hyperscalers will secure localized advanced node production pipelines for sovereign AI physical infrastructure deployment."
+                "Taiwan Semiconductor Manufacturing Company expands its direct investment in United States manufacturing to billions.",
+                "Total capital commitment increases to two hundred sixty-five billion dollars following record high quarterly revenues.",
+                "This domestic chip production effort ensures supply chain resilience for critical leading-edge hardware components.",
+                "Tech enterprises can soon source localized sub-two-nanometer silicon architectures directly within North American markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: tsms.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: JAPAN RUBIN FACTORY",
+            "heading": "OPENAI: AUTONOMOUS RED TEAMING",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy a national AI factory powered by Vera Rubin architectures.",
-                "The facility integrates over thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin GPUs for sovereign computing.",
-                "This infrastructure establishes Japan as a primary global hub for physical AI and embodied robotics development.",
-                "Manufacturing sectors will experience unprecedented automation breakthroughs by leveraging native full-stack robotics platforms."
+                "OpenAI develops a specialized red-teaming model designed to autonomously execute complex penetration testing operations.",
+                "The system identifies critical architectural security flaws before malicious human operators can exploit model vulnerabilities.",
+                "Implementing automated model-on-model hacking represents a significant shift toward self-securing frontier artificial intelligence systems.",
+                "Cybersecurity teams must prepare for highly adaptive autonomous agents targeting enterprise API endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: technologyreview.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "ASML: LITHOGRAPHY SCALING MILESTONE",
             "points": [
-                "ASML achieves first high-volume Logic product readiness using its cutting-edge High NA EUV lithography systems.",
-                "The milestone supports the commercial fabrication of sub-two-nanometer chips while scaling yields across initial customer foundries.",
-                "Advanced lithography advancements solidify monopolistic control over the manufacturing equipment necessary for next-generation AI processors.",
-                "Chipmakers will accelerate the deployment of high-density architectures to support increasingly complex neural network demands."
+                "ASML reaches an advanced high numerical aperture lithography readiness milestone for high-volume commercial semiconductor production.",
+                "Net sales climb to over nine billion euros during the second quarter of twenty-six.",
+                "This precision technology allows major global chipmakers to manufacture extremely dense next-generation processor nodes.",
+                "Enterprise silicon vendors will rely on these advanced lithography machines to sustain aggressive hardware development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "heading": "MICROSOFT: IQ AGENT DEPLOYMENT",
             "points": [
-                "Mistral AI launches Robostral Navigate, a specialized vision-based model tailored for real-time robotic system navigation.",
-                "The architecture dramatically optimizes spatial intelligence processing to run autonomously across edge-constrained hardware environments.",
-                "This release bridges the gap between digital generative models and physical mechanical agents in industrial applications.",
-                "Industrial operators will rapidly transition from pre-programmed robotic movements to dynamic, vision-guided autonomous floor operations."
+                "Microsoft launches Microsoft IQ to provide unified contextual memory for autonomous agents across enterprise networks.",
+                "The system securely bridges operational workflows, structured corporate databases, and localized large language models.",
+                "Integrating secure context management reduces hallucination rates while accelerating complex cross-departmental business processes.",
+                "IT architects can deploy persistent intelligent agents that maintain strict data governance protocols automatically."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ATLASSIAN: SPEC-DRIVEN AI CODING",
+            "heading": "ATLASSIAN: SPECIFICATION DRIVEN CODE",
             "points": [
-                "Atlassian integrates spec-driven development into Jira Planner to structurally optimize downstream AI-assisted software generation pipelines.",
-                "The optimization directly mitigates enterprise token consumption costs while enhancing the precision of generated code structures.",
-                "Shifts software engineering focus from speculative generation towards deterministic planning layers for better operational control.",
-                "CTOs will enforce structured specification blueprints to ensure cost-effective and accurate multi-agent code execution cycles."
+                "Atlassian introduces Jira Planner to emphasize upstream structural design within the software development life cycle.",
+                "The tool optimizes enterprise tokenomics and overall downstream code quality generated by programming assistant tools.",
+                "Standardizing blueprint planning directly minimizes the compute overhead and financial costs of model-generated application builds.",
+                "Organizations will restructure engineering workflows to prioritize rigorous initial prompt formatting and semantic alignment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ORACLE: FUSION AGENT STUDIO",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE LAUNCH",
             "points": [
-                "Oracle releases its expanded Agent Studio for Fusion Applications incorporating programmatic pro-code and low-code orchestrators.",
-                "Developers can now utilize CLI-based workflows to securely integrate autonomous agents within complex governed database runtimes.",
-                "Unifying deterministic database transactions with probabilistic AI models addresses key governance and reliability concerns for enterprises.",
-                "Enterprises will deploy robust, auditable agents directly over critical financial and operational enterprise resource planning databases."
+                "Mistral AI unveils Robostral Navigate, a specialized vision model engineered specifically for autonomous robotic navigation.",
+                "The system processes spatial environments to generate precise real-time pathing coordinates without heavy cloud reliance.",
+                "Deploying lightweight local vision models enables industrial machinery to safely operate in highly dynamic environments.",
+                "Logistics and manufacturing firms will adopt this edge-ready architecture to streamline automated material handling workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
