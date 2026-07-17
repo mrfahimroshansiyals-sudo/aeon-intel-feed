@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "GLOBAL INTELLIGENCE INFRASTRUCTURE",
+        "titleBlue": "ALIGNMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NATIONAL INFRASTRUCTURE",
+            "heading": "ANTHROPIC: META COMPUTE ALLIANCE",
             "points": [
-                "Japan partners with NVIDIA to launch the world's first national AI factory using Vera Rubin CPUs.",
-                "The infrastructure deployment integrates 13,750 Vera CPUs and 27,500 Rubin GPUs for sovereign computational leadership.",
-                "NVIDIA accelerates domestic robotics and manufacturing through new localized AI factories and specialized open models.",
-                "This initiative establishes a blueprint for nations seeking high-performance computing sovereignty via centralized hardware clusters."
+                "Anthropic initiates early talks with Meta to acquire massive GPU compute infrastructure for model training.",
+                "The strategic deal bypasses traditional cloud providers to secure direct access to Meta's vast hardware clusters.",
+                "This partnership highlights the critical shortages in global GPU availability and rising infrastructure development costs.",
+                "Enterprises should expect accelerated model iterations as Anthropic scales its frontier intelligence compute capacity rapidly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA: NATIONAL AI INFRASTRUCTURE",
+            "points": [
+                "Japan collaborates with NVIDIA to deploy the world's first national AI factory utilizing Vera Rubin chips.",
+                "The architecture incorporates thirteen thousand Vera CPUs and over twenty-seven thousand Rubin GPUs for scaling physical AI.",
+                "This sovereign cloud ecosystem establishes a highly localized framework for manufacturing and robotics optimization.",
+                "Global manufacturing hubs must pivot toward unified, sovereign edge computing resources to maintain operational superiority."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "ANTHROPIC: AGENTIC EVOLUTION",
-            "points": [
-                "Anthropic releases Fable 5 and Sonnet 5 to push frontier agentic intelligence for professional coding workflows.",
-                "Claude Science application launches as a customizable research environment producing auditable artifacts for complex scientific discovery.",
-                "The release of Sonnet 5 targets top-tier reasoning capabilities for autonomous professional and technical development tasks.",
-                "These updates reinforce Anthropic's strategy of embedding agentic reasoning into specialized research and enterprise tools."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "LINUX FOUNDATION: PAYMENT PROTOCOL",
+            "heading": "LINUX FOUNDATION: AGENTIC PAYMENT PROTOCOL",
             "points": [
-                "The Linux Foundation announces the x402 project to standardize native payment protocols for AI agents.",
-                "This open framework enables autonomous applications and agents to process digital service payments without human intervention.",
-                "By creating an interoperable payment layer, the industry seeks to accelerate the adoption of agentic-to-agent transactions.",
-                "This development shifts the landscape toward automated micro-transactions necessary for scaling long-horizon agentic computing workflows."
+                "The new x402 Foundation launches an open protocol enabling AI agents to pay natively for online services.",
+                "The transaction framework standardizes API-based financial transactions, facilitating completely autonomous machine-to-machine commerce workflows.",
+                "Prioritizing secure agentic payments resolves a major bottleneck in deploying independent, multi-agent enterprise operational systems.",
+                "Financial institutions must rapidly integrate standardized programmatic payment gateways designed specifically for autonomous software agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
+            "heading": "OPENAI: GPT-5.6 DELETION BUG",
             "points": [
-                "DeepMind unveils Gemini 3.5 series focusing on frontier intelligence coupled with direct real-world action capabilities.",
-                "New Nano Banana 2 Lite model offers extreme efficiency for lightweight image generation at the network edge.",
-                "The integration of Gemini Omni Flash creates a multimodal loop for rapid video-to-action reasoning sequences.",
-                "DeepMind is shifting its focus toward multi-agent safety research to prepare for millions of interacting systems."
+                "OpenAI acknowledges a technical vulnerability where GPT-5.6 may accidentally delete critical system files during operations.",
+                "Developer teams report major system instability when integrating the frontier model directly with internal local file directories.",
+                "The issue highlights deep integration risks as LLMs transition from isolated environments to active system-level execution.",
+                "Systems engineers must implement robust sandbox environments and permission boundaries before deploying agentic file-system operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: SAFETY ARCHITECTURE",
+            "heading": "KIMI: OPEN WEIGHT MODEL",
             "points": [
-                "OpenAI introduces GPT-Red to utilize recursive self-improvement methodologies for robust AI model safety testing.",
-                "This red-teaming infrastructure allows the company to discover adversarial vulnerabilities before deploying frontier model updates.",
-                "The initiative focuses on scaling internal robustness against complex prompt injection and multi-step agentic threats.",
-                "OpenAI continues to prioritize secure deployment frameworks as their models evolve toward autonomous task execution."
+                "Chinese startup Moonshot AI releases Kimi K3, a massive two point eight trillion parameter open-weight model.",
+                "The model delivers top-tier performance benchmarks while dramatically lowering licensing costs for international enterprise deployments.",
+                "This release intensifies global competition between proprietary Western foundation models and massive open-source alternative systems.",
+                "Enterprise architects must evaluate geopolitical compliance frameworks when incorporating high-parameter models into sovereign cloud operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: ENTERPRISE AGENTS",
+            "heading": "AMD: FASTFLOWLM INFERENCE ACQUISITION",
             "points": [
-                "Mistral AI introduces Vibe, a specialized AI agent platform designed for long-horizon work and task scheduling.",
-                "The platform features persistent memory and reusable skills to enhance autonomous coding and document synthesis.",
-                "Mistral provides dedicated GPU clusters through its Compute service for training custom enterprise-domain models.",
-                "This launch enables organizations to deploy modular agentic architectures that interface directly with legacy codebases."
+                "AMD acquires FastFlowLM to integrate advanced software optimizations directly into its ROCm development ecosystem.",
+                "The integration delivers massive latency reductions and improved throughput across local enterprise hardware platforms.",
+                "This acquisition signals AMD's strategic pivot toward a highly cohesive, software-defined approach to GPU acceleration.",
+                "Organizations will experience competitive alternatives to proprietary chip architectures, lowering total cost of ownership significantly."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: SILICON ACCELERATION",
+            "heading": "GLOBAL COALITION: SOVEREIGN AI BODY",
             "points": [
-                "TSMC advances A16 nanosheet technology with Super Power Rail to solve energy bottlenecks in AI clusters.",
-                "The company reports massive expansion in US production, committing $265 billion total to semiconductor manufacturing infrastructure.",
-                "New lithography innovations aim to improve performance per watt in high-performance computing and training chips.",
-                "TSMC\u2019s roadmap confirms a shift toward backside power solutions to meet increasing demands of agentic AI."
+                "China, Russia, and twenty-seven allied nations establish a unified global AI regulatory body excluding United States representation.",
+                "The coalition seeks to standardize governance frameworks, technology trade agreements, and sovereign infrastructure deployment rules independently.",
+                "This move creates a stark technological division, complicating international research cooperation and worldwide supply chain compliance.",
+                "Multinational enterprises must adapt to dual regulatory standards to maintain operational compliance across divergent economic blocs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
