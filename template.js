@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC CHIP",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA partners with Noetra to deploy a massive national AI factory utilizing Vera and Rubin chips.",
-                "The supercomputer architecture integrates thirteen thousand seven hundred fifty CPUs and twenty-seven thousand five hundred GPUs.",
-                "This deployment establishes Japan's sovereign physical AI foundation for heavy manufacturing and advanced robotics.",
-                "Global enterprises will migrate workloads to localized, highly efficient architectures to ensure data compliance."
+                "NVIDIA partners with Noetra Corp to deploy a massive national artificial intelligence factory in Japan.",
+                "The infrastructure integrates thirteen thousand Vera processors and twenty-seven thousand Rubin graphics processing units.",
+                "This deployment accelerates sovereign physical automation, advanced robotics, and heavy industrial manufacturing capabilities.",
+                "National industries secure computational autonomy while bypassing traditional public cloud latency and compliance bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 FRONTIER",
+            "heading": "OPENAI: GPT-RED EMERGENCE",
             "points": [
-                "OpenAI launches GPT-5.6, delivering next-generation frontier intelligence designed to scale complex reasoning workloads.",
-                "The architecture optimizes computational throughput, offering massive efficiency gains for enterprise-grade autonomous workflows.",
-                "This deployment shifts the development focus from raw parameter scale to execution-oriented task automation.",
-                "Systems integrators will utilize these robust models to decouple legacy enterprise architectures from human dependencies."
+                "OpenAI releases GPT-Red to automate LLM vulnerability testing and advance proactive security mechanisms.",
+                "The model autonomously identifies alignment issues and code vulnerabilities before models enter active production environments.",
+                "Automated red-teaming minimizes human intervention costs while accelerating safety verification pipelines for global enterprises.",
+                "Developers transition from manual pen-testing to continuous agent-driven validation architectures for enterprise deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "THINKING MACHINES: INKLING RELEASE",
+            "heading": "ASML: HIGH NA LITHOGRAPHY",
             "points": [
-                "Thinking Machines introduces Inkling, a broad but highly efficient open-weight model targeting industrial tokenomics.",
-                "The model significantly reduces token consumption while maintaining high performance across general-purpose reasoning benchmarks.",
-                "Open-weight alternatives allow enterprises to bypass costly proprietary APIs and maintain absolute data governance.",
-                "Developers will rapidly adopt these efficient architectures to deploy localized agent networks at minimal cost."
+                "ASML reaches critical readiness milestone with first commercial High NA EUV high-volume Logic semiconductor delivery.",
+                "The system enables precision patterning for next-generation microchips designed to power high-density artificial intelligence compute.",
+                "This technological leap guarantees transistor density scaling to extend semiconductor performance metrics for decades.",
+                "Leading hardware manufacturers obtain unprecedented physical scaling capabilities, restructuring global microchip supply chain dynamics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AGENTIC AI: PAYMENT STANDARDIZATION",
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
             "points": [
-                "The Agentic AI Foundation launches to standardize transactional protocols and payment frameworks for autonomous agents.",
-                "Standardized APIs will enable secure, frictionless financial operations across multi-agent networks without human intervention.",
-                "Establishing unified payment standards solves a critical bottleneck in the commercialization of autonomous agent ecosystems.",
-                "Financial institutions must rapidly integrate agent-native payment rails to capture decentralized machine-to-machine transaction volume."
+                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized hardware.",
+                "The architecture utilizes advanced EPYC processors and Instinct graphics units optimized for highly regulated enterprise workloads.",
+                "Hybrid cloud architectures benefit from localized, high-throughput hardware that maintains strict compliance standards under governance.",
+                "Managed service providers offer alternative high-performance options to challenge consolidated public cloud hosting monopolies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TOYOTA: PHYSICAL ROBOTICS SPINOUT",
+            "heading": "AGENTIC FOUNDATION: FINANCIAL STANDARDS",
             "points": [
-                "Toyota spin-out emerges from stealth with massive funding to develop advanced physical AI and robotics.",
-                "A three hundred million dollar capital injection will accelerate the deployment of humanoid manufacturing systems.",
-                "Integrating physical AI with robust world models allows robots to operate dynamically in unstructured environments.",
-                "Manufacturing supply chains will transition toward fully autonomous logistics networks, reducing long-term operational overhead."
+                "The Agentic AI Foundation launches to standardize transactional micro-payments and security layers for independent agents.",
+                "This framework enables autonomous software instances to securely exchange digital currency and complete complex online purchases.",
+                "Developers bypass traditional financial banking silos by utilizing standardized web3 payment rails built for machine-to-machine economies.",
+                "Enterprise commerce models pivot toward processing completely automated, high-velocity transactions initiated by non-human buyers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NEBIUS: ASSET-LIGHT DATA CENTERS",
+            "heading": "GRID OPERATORS: DIRECT HVDC SYSTEMS",
             "points": [
-                "Nebius adopts an asset-light operational model to rapidly scale high-density GPU infrastructure for AI workloads.",
-                "This strategic shift optimizes capital expenditures, allowing faster deployment of high-performance clusters across global regions.",
-                "Flexible computing arrangements allow cloud providers to dynamically reallocate physical resources based on localized demands.",
-                "Enterprises will benefit from reduced training latency and lower regional pricing as compute supply scales."
+                "Energy infrastructure operators analyze high-voltage direct current architectures to fuel power-dense generative intelligence hardware.",
+                "Direct current conversion reduces thermodynamic losses and power delivery friction across massive hyperscale computation nodes.",
+                "Upgrading distribution lines ensures regional grid stability while addressing the immense electrical loads of next-generation processors.",
+                "System architects integrate localized clean energy generation networks directly with high-performance computing centers globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: NANO SHEET BACKSIDE POWER",
+            "heading": "ORACLE: AGENT STUDIO PRO-CODE",
             "points": [
-                "TSMC highlights its A16 nanosheet architecture featuring innovative backside power delivery for high-performance computing.",
-                "The innovative Super Power Rail configuration significantly improves power efficiency and transit speeds for chips.",
-                "Implementing backside power rails resolves thermal and routing bottlenecks in sub-two nanometer semiconductor nodes.",
-                "AI hardware manufacturers will achieve unprecedented performance-per-watt metrics, enabling denser edge-device model execution."
+                "Oracle expands Agent Studio for Fusion Applications to deliver CLI-driven pro-code environments for software developers.",
+                "Developers leverage familiar IDEs including VSCode and Claude Code to build highly governed workflow automation.",
+                "Unifying deterministic systems with probabilistic language models ensures secure data governance inside runtime enterprise environments.",
+                "Global organizations accelerate legacy system migration by integrating intelligent code-generation agents within native workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
