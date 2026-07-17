@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "SOVEREIGN AGENTIC TECH",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JAPAN NATIONAL FACTORY",
+            "heading": "AMD: FASTFLOWLM INFERENCE",
             "points": [
-                "NVIDIA collaborates with Noetra Corporation to deploy a massive national AI factory utilizing Vera and Rubin architectures.",
-                "The supercomputing cluster integrates 13,750 Vera central processing units alongside 27,500 physical Rubin graphics processing units.",
-                "This sovereign hardware infrastructure establishes a highly optimized foundation for advanced manufacturing and physical robotics automation.",
-                "Japanese enterprises will leverage this localized cluster to train custom Nemotron models without risking proprietary data leaks."
+                "AMD acquired FastFlowLM to accelerate complex LLM inference pipelines across heterogeneous enterprise hardware.",
+                "The integration targets optimized runtime efficiency and massive latency reductions for real-time customer applications.",
+                "This asset acquisition strengthens AMD's software stack to compete directly with Nvidia's CUDA framework dominance.",
+                "Developers will gain enhanced tools to deploy highly compressed open models on EPYC processors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-RED ROBUSTNESS",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "OpenAI unveils GPT-Red to automate safety testing and identify critical vulnerabilities within frontier artificial intelligence systems.",
-                "The hybrid framework combines human intelligence with automated red-teaming models to stress-test system alignments before commercial release.",
-                "This method transitions model evaluation from passive auditing into active, self-improving security loops for high-assurance deployments.",
-                "Enterprises can implement these self-correcting mechanisms to safeguard transactional workflows against strategic malicious prompt injections."
+                "Linux Foundation launched the x402 project to standardize native machine-to-machine transactions for autonomous agents.",
+                "The open-source protocol allows agents to programmatically buy and lease critical digital microservices online.",
+                "This development decouples agentic operations from traditional, high-friction legacy banking rails and financial middleware.",
+                "Global enterprise architectures will rapidly shift toward fully sovereign transaction environments and automated settlement."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
+            "heading": "NEW YORK STATE: PERMIT PAUSE",
             "points": [
-                "The newly established x402 Foundation standardizes open protocols designed for native transactions between autonomous software agents.",
-                "This payment framework allows machines to securely purchase web services and digital APIs without human authorization loops.",
-                "Integrating decentralized monetary protocols directly into execution stacks decouples transactional agents from legacy banking system constraints.",
-                "Global software ecosystems will experience accelerated microtransaction velocities as independent algorithmic agents execute automated financial transfers."
+                "New York State temporarily paused permits for new hyperscale data centers over massive environmental concerns.",
+                "Authorities are drafting stringent regulations to govern energy consumption, water usage, and community noise levels.",
+                "This regulatory block forces major cloud operators to seek alternative, high-capacity regional grid connections elsewhere.",
+                "Infrastructure developers must redesign future facility cooling systems to meet strict zero-emission standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "OPENAI: GPT-RED DEPLOYMENT",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized artificial intelligence compute.",
-                "The phased infrastructure rollout targets highly regulated industries requiring strict data isolation and hardware sovereignty standards.",
-                "Deploying these massive workloads on optimized EPYC and Instinct processors significantly improves total cost of ownership metrics.",
-                "Regulated enterprises can scale computationally intensive transactional workloads while complying with stringent regional data privacy mandates."
+                "OpenAI deployed GPT-Red, an automated model engineered specifically to attack and test AI system safety.",
+                "The model continuously scans external vector interfaces to discover hidden vulnerabilities before malicious actors do.",
+                "This marks a transition from manual human red-teaming to scalable, continuous machine-driven vulnerability assessments.",
+                "Enterprises must integrate automated defensive agents to secure their corporate pipelines against sophisticated automated threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "heading": "TOYOTA: PHYSICAL ROBOTICS",
             "points": [
-                "Mistral AI launches Robostral Navigate as a unified system of record for managing model prompts and skills.",
-                "This repository allows enterprises to catalog, version, and orchestrate complex agentic capabilities across diverse deployment environments.",
-                "Standardizing execution logic within a centralized system of record mitigates performance drift during high-velocity model scaling phases.",
-                "System architects can confidently build scalable multi-agent networks using structured, auditable prompt libraries and validated skill paths."
+                "A Toyota-backed physical robotics spin-out emerged from stealth with three hundred million dollars in capital.",
+                "The new entity focuses on deploying foundational models to control physical manipulators in industrial factories.",
+                "This massive funding round signals surging investor interest in spatial intelligence and embodied AI hardware architectures.",
+                "Industrial manufacturing plants will utilize these adaptive machines to mitigate escalating global labor shortages."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "THINKING MACHINES: ENTERPRISE AI",
             "points": [
-                "ASML reports nine point three billion euros in net sales alongside a major milestone for high numerical aperture lithography.",
-                "The advanced lithography systems successfully patterned their first high-volume logic products for leading semiconductor manufacturing clients.",
-                "This manufacturing breakthrough secures the physical scaling path required to fabricate next-generation sub-nanometer chip architectures globally.",
-                "Hyperscale hardware providers will gain access to highly efficient silicon processors featuring unprecedented transistor densities and performance."
+                "Thinking Machines Lab released an efficient open-weight model targeting secure enterprise deployment on-premises.",
+                "The system optimizes processing efficiency, delivering high-accuracy performance without demanding excessive GPU computing resources.",
+                "This release offers US enterprises a localized, highly secure alternative to proprietary cloud-hosted API models.",
+                "Organizations can bypass restrictive cloud-vendor licensing agreements by running these highly capable models internally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ORACLE: PRO-CODE AGENT CLI",
+            "heading": "GRID OPERATORS: HIGH-VOLTAGE DC",
             "points": [
-                "Oracle integrates CLI-based pro-code tools into its Agent Studio to accelerate native application engineering for Fusion platforms.",
-                "This framework lets developers construct enterprise-ready agents using familiar text editors like VSCode and advanced coding models.",
-                "Unifying command-line automation tools with governed runtime environments ensures seamless compliance with enterprise-grade IT security frameworks.",
-                "Engineering teams can quickly customize transactional workflows, reducing integration overhead while maintaining strict security auditing standards."
+                "Power grid operators are evaluating high-voltage DC lines to supply electricity directly to AI data centers.",
+                "Direct current connections eliminate multiple energy-wasting conversion steps between power plants and computer servers.",
+                "This transmission redesign aims to preserve grid stability while meeting the massive power demands of chips.",
+                "Hyperscale operators will likely transition to direct-connect architectures to maximize overall facility power-use efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
