@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "PARADIGM"
+        "titleWhite": "DECENTRALIZED AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY LAUNCH",
+            "heading": "OPENAI: GPT-5.6 LAUNCH",
             "points": [
-                "Japan launches a national AI factory powered by thousands of next-generation NVIDIA Vera and Rubin architecture chips.",
-                "Deployment integrates exactly 13,750 Vera central processors alongside 27,500 advanced Rubin graphics processing units for massive processing power.",
-                "This sovereign cloud infrastructure shifts national compute workloads away from heavily centralized foreign hyper-scalers into domestic operations.",
-                "Domestic enterprises will gain highly optimized local processing resources to develop fine-tuned industry-specific artificial intelligence models rapidly."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MISTRAL AI: ROBOSTRAL AGENT SYSTEM",
-            "points": [
-                "Mistral AI launches Robostral Navigate, Mistral OCR four, and the long-horizon autonomous workflow Vibe agent engine.",
-                "The updated framework enables persistent memory, multi-step task scheduling, and unified skills across distributed enterprise platforms.",
-                "Organizations gain specialized local models to automate document intelligence, legacy code migration, and complex system orchestration securely.",
-                "Developers will significantly reduce time spent on manual code reviews and repetitive continuous integration pipeline tasks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LINUX FOUNDATION: AGENTIC PROTOCOL",
-            "points": [
-                "The x402 Foundation introduces an open standard protocol to facilitate native transactional payments between autonomous AI agents.",
-                "This development allows software agents to execute micro-transactions independently and pay for various online API digital services.",
-                "Decentralized transactional architectures will bypass legacy banking systems to support instantaneous machine-to-machine micro-payments across global networks.",
-                "Global enterprises must quickly adapt their billing frameworks to accommodate non-human purchasing entities within digital service marketplaces."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE AGREEMENT",
-            "points": [
-                "AMD signs a definitive agreement with Rackspace Technology to deploy massive enterprise-grade artificial intelligence processing resources.",
-                "The phased deployment delivers thirty megawatts of dedicated server power to support highly regulated corporate cloud workloads.",
-                "Integrating customized EPYC processors and Instinct accelerators allows Rackspace to deliver superior total cost of ownership.",
-                "Enterprise customers will transition processing workloads to secure, dedicated clusters to meet stringent security and residency compliance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "OPENAI: AUTOMATED GPT-RED AUDITING",
-            "points": [
-                "OpenAI engineers build GPT-Red, an advanced automated large language model designed to perform autonomous offensive hacking tasks.",
-                "The security system identifies critical model vulnerabilities and software flaws far faster than manual human engineering teams can.",
-                "Operating continuous red-teaming simulations allows developers to harden frontier model weights prior to public scale release cycles.",
-                "Enterprise adopters will experience significantly enhanced application layer security and reduced risk of prompt injection exploitation vectors."
+                "OpenAI deploys GPT-5.6 delivering highly scalable frontier intelligence designed specifically for complex enterprise operations.",
+                "Native integration of GPT-Live allows immediate real-time workflow synchronization across massive distributed cloud ecosystems.",
+                "The architecture transitions enterprises from passive digital tools toward highly autonomous agentic execution paradigms.",
+                "Autonomous systems running on this framework will control complex transactional decisions without human intervention."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "THINKING MACHINES: INKLING MODEL",
+            "id": 2,
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "Former OpenAI executive launches Thinking Machines and releases Inkling, a highly optimized open-weight general-purpose model.",
-                "The architecture minimizes prompt token consumption while maintaining competitive reasoning benchmarks against closed-source cloud frontier systems.",
-                "Open-source enterprise alternatives challenge the dominance of massive tech conglomerates by offering scalable, sovereign private cloud options.",
-                "Organizations will drastically lower their overall inference operational expenditure by deploying highly efficient localized weights on-premise."
+                "NVIDIA partners with Japan to construct a sovereign AI factory utilizing next-generation Vera and Rubin processors.",
+                "The installation deploys thirteen thousand Vera central processing units alongside twenty-seven thousand Rubin graphics processors.",
+                "This development cements national computing infrastructure as a critical baseline for physical robotics and manufacturing.",
+                "Global powers will increasingly build localized high-performance computing centers to safeguard industrial data sovereignty."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
+            "points": [
+                "AMD secures a definitive agreement to deploy thirty megawatts of specialized artificial intelligence computing power.",
+                "Rackspace Technology will orchestrate this deployment to serve highly regulated enterprise workloads across global regions.",
+                "Enterprise demand shifts towards secure, localized hardware footprints that comply with evolving international compliance mandates.",
+                "Private cloud environments will dominate regulated sectors as public cloud architectures face mounting data privacy scrutiny."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LINUX FOUNDATION: AGENTIC PROTOCOL",
+            "points": [
+                "Linux Foundation establishes the x402 project to standardize native transaction protocols for autonomous digital agents.",
+                "The open protocol enables secure, friction-free programmatic payments across decentralized internet services and APIs.",
+                "Providing agents with financial autonomy eliminates traditional payment bottlenecks and accelerates machine-to-machine microtransaction economies.",
+                "Autonomous agent workflows will soon manage significant corporate budgets directly through secure, automated ledger systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE: NANO BANANA RELEASE",
+            "points": [
+                "Google DeepMind releases Nano Banana Two Lite, their fastest and most efficient multimodal model to date.",
+                "The model optimizes local intelligence-per-parameter performance, enabling high-speed edge processing on consumer devices.",
+                "Modern architectures prioritize highly optimized, lightweight local models over resource-intensive, centralized cloud-based computation paradigms.",
+                "Edge computing devices will execute real-time image synthesis and decision tasks completely disconnected from central networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ALATION: INTELLIGENCE OS",
+            "points": [
+                "Alation launches its Intelligence Operating System to establish unified governance across disparate enterprise data environments.",
+                "The platform seamlessly integrates organizational context, distributed data assets, and active artificial intelligence agents together.",
+                "Enterprise leaders require structured data registries to prevent catastrophic misalignment and data leaks during agent execution.",
+                "Comprehensive data governance frameworks will dictate which agentic platforms achieve widespread commercial adoption in enterprise sectors."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEW YORK: HYPERSCALE PERMIT FREEZE",
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "New York State suspends new hyperscale data center permits while developing strict environmental and power consumption rules.",
-                "The regulatory pause temporarily halts infrastructure construction projects to protect local energy grids from excessive AI demand.",
-                "Regional grid limitations force infrastructure planners to evaluate alternative green energy configurations, including high-voltage direct current systems.",
-                "Technology firms must pivot capital expenditures toward geographically diverse regions with highly stable and supportive energy policies."
+                "ASML achieves a critical readiness milestone for its High NA extreme ultraviolet semiconductor lithography systems.",
+                "The advanced machinery successfully patterns the first high-volume Logic microchips for next-generation computing hardware platforms.",
+                "Overcoming physical silicon manufacturing bottlenecks remains the absolute prerequisite for scaling future artificial intelligence models.",
+                "Chipmakers utilizing these advanced lithography machines will completely dominate the high-performance hardware supply chain globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
