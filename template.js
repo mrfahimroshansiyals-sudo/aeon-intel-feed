@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC TECH",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: FASTFLOWLM INFERENCE",
+            "heading": "NVIDIA: NATIONAL INFRASTRUCTURE",
             "points": [
-                "AMD acquired FastFlowLM to accelerate complex LLM inference pipelines across heterogeneous enterprise hardware.",
-                "The integration targets optimized runtime efficiency and massive latency reductions for real-time customer applications.",
-                "This asset acquisition strengthens AMD's software stack to compete directly with Nvidia's CUDA framework dominance.",
-                "Developers will gain enhanced tools to deploy highly compressed open models on EPYC processors."
+                "Japan partners with NVIDIA to launch the world's first national AI factory using Vera Rubin CPUs.",
+                "The infrastructure deployment integrates 13,750 Vera CPUs and 27,500 Rubin GPUs for sovereign computational leadership.",
+                "NVIDIA accelerates domestic robotics and manufacturing through new localized AI factories and specialized open models.",
+                "This initiative establishes a blueprint for nations seeking high-performance computing sovereignty via centralized hardware clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
+            "heading": "ANTHROPIC: AGENTIC EVOLUTION",
             "points": [
-                "Linux Foundation launched the x402 project to standardize native machine-to-machine transactions for autonomous agents.",
-                "The open-source protocol allows agents to programmatically buy and lease critical digital microservices online.",
-                "This development decouples agentic operations from traditional, high-friction legacy banking rails and financial middleware.",
-                "Global enterprise architectures will rapidly shift toward fully sovereign transaction environments and automated settlement."
+                "Anthropic releases Fable 5 and Sonnet 5 to push frontier agentic intelligence for professional coding workflows.",
+                "Claude Science application launches as a customizable research environment producing auditable artifacts for complex scientific discovery.",
+                "The release of Sonnet 5 targets top-tier reasoning capabilities for autonomous professional and technical development tasks.",
+                "These updates reinforce Anthropic's strategy of embedding agentic reasoning into specialized research and enterprise tools."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NEW YORK STATE: PERMIT PAUSE",
+            "heading": "LINUX FOUNDATION: PAYMENT PROTOCOL",
             "points": [
-                "New York State temporarily paused permits for new hyperscale data centers over massive environmental concerns.",
-                "Authorities are drafting stringent regulations to govern energy consumption, water usage, and community noise levels.",
-                "This regulatory block forces major cloud operators to seek alternative, high-capacity regional grid connections elsewhere.",
-                "Infrastructure developers must redesign future facility cooling systems to meet strict zero-emission standards."
+                "The Linux Foundation announces the x402 project to standardize native payment protocols for AI agents.",
+                "This open framework enables autonomous applications and agents to process digital service payments without human intervention.",
+                "By creating an interoperable payment layer, the industry seeks to accelerate the adoption of agentic-to-agent transactions.",
+                "This development shifts the landscape toward automated micro-transactions necessary for scaling long-horizon agentic computing workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-RED DEPLOYMENT",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "OpenAI deployed GPT-Red, an automated model engineered specifically to attack and test AI system safety.",
-                "The model continuously scans external vector interfaces to discover hidden vulnerabilities before malicious actors do.",
-                "This marks a transition from manual human red-teaming to scalable, continuous machine-driven vulnerability assessments.",
-                "Enterprises must integrate automated defensive agents to secure their corporate pipelines against sophisticated automated threats."
+                "DeepMind unveils Gemini 3.5 series focusing on frontier intelligence coupled with direct real-world action capabilities.",
+                "New Nano Banana 2 Lite model offers extreme efficiency for lightweight image generation at the network edge.",
+                "The integration of Gemini Omni Flash creates a multimodal loop for rapid video-to-action reasoning sequences.",
+                "DeepMind is shifting its focus toward multi-agent safety research to prepare for millions of interacting systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: SAFETY ARCHITECTURE",
+            "points": [
+                "OpenAI introduces GPT-Red to utilize recursive self-improvement methodologies for robust AI model safety testing.",
+                "This red-teaming infrastructure allows the company to discover adversarial vulnerabilities before deploying frontier model updates.",
+                "The initiative focuses on scaling internal robustness against complex prompt injection and multi-step agentic threats.",
+                "OpenAI continues to prioritize secure deployment frameworks as their models evolve toward autonomous task execution."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TOYOTA: PHYSICAL ROBOTICS",
-            "points": [
-                "A Toyota-backed physical robotics spin-out emerged from stealth with three hundred million dollars in capital.",
-                "The new entity focuses on deploying foundational models to control physical manipulators in industrial factories.",
-                "This massive funding round signals surging investor interest in spatial intelligence and embodied AI hardware architectures.",
-                "Industrial manufacturing plants will utilize these adaptive machines to mitigate escalating global labor shortages."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "THINKING MACHINES: ENTERPRISE AI",
+            "heading": "MISTRAL AI: ENTERPRISE AGENTS",
             "points": [
-                "Thinking Machines Lab released an efficient open-weight model targeting secure enterprise deployment on-premises.",
-                "The system optimizes processing efficiency, delivering high-accuracy performance without demanding excessive GPU computing resources.",
-                "This release offers US enterprises a localized, highly secure alternative to proprietary cloud-hosted API models.",
-                "Organizations can bypass restrictive cloud-vendor licensing agreements by running these highly capable models internally."
+                "Mistral AI introduces Vibe, a specialized AI agent platform designed for long-horizon work and task scheduling.",
+                "The platform features persistent memory and reusable skills to enhance autonomous coding and document synthesis.",
+                "Mistral provides dedicated GPU clusters through its Compute service for training custom enterprise-domain models.",
+                "This launch enables organizations to deploy modular agentic architectures that interface directly with legacy codebases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GRID OPERATORS: HIGH-VOLTAGE DC",
+            "heading": "TSMC: SILICON ACCELERATION",
             "points": [
-                "Power grid operators are evaluating high-voltage DC lines to supply electricity directly to AI data centers.",
-                "Direct current connections eliminate multiple energy-wasting conversion steps between power plants and computer servers.",
-                "This transmission redesign aims to preserve grid stability while meeting the massive power demands of chips.",
-                "Hyperscale operators will likely transition to direct-connect architectures to maximize overall facility power-use efficiency."
+                "TSMC advances A16 nanosheet technology with Super Power Rail to solve energy bottlenecks in AI clusters.",
+                "The company reports massive expansion in US production, committing $265 billion total to semiconductor manufacturing infrastructure.",
+                "New lithography innovations aim to improve performance per watt in high-performance computing and training chips.",
+                "TSMC\u2019s roadmap confirms a shift toward backside power solutions to meet increasing demands of agentic AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
