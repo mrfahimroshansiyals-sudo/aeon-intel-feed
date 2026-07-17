@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INTELLIGENCE INFRASTRUCTURE",
-        "titleBlue": "ALIGNMENT"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: META COMPUTE ALLIANCE",
+            "heading": "COMPUTE: META-ANTHROPIC ALLIANCE",
             "points": [
-                "Anthropic initiates early talks with Meta to acquire massive GPU compute infrastructure for model training.",
-                "The strategic deal bypasses traditional cloud providers to secure direct access to Meta's vast hardware clusters.",
-                "This partnership highlights the critical shortages in global GPU availability and rising infrastructure development costs.",
-                "Enterprises should expect accelerated model iterations as Anthropic scales its frontier intelligence compute capacity rapidly."
+                "Meta is currently in advanced discussions to acquire significant compute power from Anthropic to bolster its AI infrastructure.",
+                "The potential $10 billion deal suggests a shift toward massive, multi-tenant AI training clusters to sustain rapid model development.",
+                "Market observers note this partnership strategy reflects Meta's aggressive expansion into cloud-based AI services and model scaling needs.",
+                "The collaboration signals a strategic pivot by Meta to secure the hardware resources required for its frontier model pipeline."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: NATIONAL AI INFRASTRUCTURE",
+            "heading": "SILICON: CHIP MARKET VOLATILITY",
             "points": [
-                "Japan collaborates with NVIDIA to deploy the world's first national AI factory utilizing Vera Rubin chips.",
-                "The architecture incorporates thirteen thousand Vera CPUs and over twenty-seven thousand Rubin GPUs for scaling physical AI.",
-                "This sovereign cloud ecosystem establishes a highly localized framework for manufacturing and robotics optimization.",
-                "Global manufacturing hubs must pivot toward unified, sovereign edge computing resources to maintain operational superiority."
+                "Semiconductor stocks are facing the worst weekly performance in over a year as momentum trades within the sector unravel.",
+                "The sudden pullback highlights investor anxiety over the valuation of chipmakers amid ongoing global data center build-out cycles.",
+                "Market analysts observe a cooling effect in the AI hardware trade, suggesting a recalibration of capital expenditure forecasts.",
+                "Pressure on chip giants remains elevated as institutional investors rotate out of high-growth technology positions during earnings volatility."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: AGENTIC PAYMENT PROTOCOL",
+            "heading": "DIPLOMACY: SPACE-X PENTAGON PUSH",
             "points": [
-                "The new x402 Foundation launches an open protocol enabling AI agents to pay natively for online services.",
-                "The transaction framework standardizes API-based financial transactions, facilitating completely autonomous machine-to-machine commerce workflows.",
-                "Prioritizing secure agentic payments resolves a major bottleneck in deploying independent, multi-agent enterprise operational systems.",
-                "Financial institutions must rapidly integrate standardized programmatic payment gateways designed specifically for autonomous software agents."
+                "SpaceX is currently negotiating with the Pentagon to provide dedicated computing power for national artificial intelligence defense initiatives.",
+                "The talks represent a critical intersection of private aerospace infrastructure and federal AI-driven warfare or simulation requirements.",
+                "The partnership indicates an expansion of government reliance on commercial space-derived data centers for secure, distributed processing.",
+                "Strategic analysts expect this move to significantly influence how defense departments procure decentralized compute for high-security applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 DELETION BUG",
+            "heading": "CYBER: VULNERABILITY MANAGEMENT PLAN",
             "points": [
-                "OpenAI acknowledges a technical vulnerability where GPT-5.6 may accidentally delete critical system files during operations.",
-                "Developer teams report major system instability when integrating the frontier model directly with internal local file directories.",
-                "The issue highlights deep integration risks as LLMs transition from isolated environments to active system-level execution.",
-                "Systems engineers must implement robust sandbox environments and permission boundaries before deploying agentic file-system operations."
+                "The industry is currently responding to the Gold Eagle vulnerability management framework aimed at curbing AI-discovered security threats.",
+                "Security professionals are pushing for centralized orchestration to manage the surge in software bugs identified by automated AI systems.",
+                "The plan seeks to bring order to the chaos created by LLM-powered exploit generation and rapid attack surface expansion.",
+                "Organizations are being urged to adopt proactive hardening measures as the volume of machine-generated security vulnerabilities continues to climb."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "KIMI: OPEN WEIGHT MODEL",
+            "heading": "OPERATIONS: INTEL GROWTH MOMENTUM",
             "points": [
-                "Chinese startup Moonshot AI releases Kimi K3, a massive two point eight trillion parameter open-weight model.",
-                "The model delivers top-tier performance benchmarks while dramatically lowering licensing costs for international enterprise deployments.",
-                "This release intensifies global competition between proprietary Western foundation models and massive open-source alternative systems.",
-                "Enterprise architects must evaluate geopolitical compliance frameworks when incorporating high-parameter models into sovereign cloud operations."
+                "Intel stock has returned to growth mode ahead of its Q2 report, despite continued pressure from institutional sellers.",
+                "Financial experts are closely monitoring the company's turnaround progress as it attempts to reclaim market share in AI infrastructure.",
+                "The stock's recovery sentiment reflects cautious optimism regarding Intel's pivot toward custom chip production and foundry services.",
+                "Investors remain skeptical but are actively evaluating the firm's strategic positioning within the competitive semiconductor ecosystem."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: FASTFLOWLM INFERENCE ACQUISITION",
+            "heading": "REGULATION: DATA CENTER PAUSE",
             "points": [
-                "AMD acquires FastFlowLM to integrate advanced software optimizations directly into its ROCm development ecosystem.",
-                "The integration delivers massive latency reductions and improved throughput across local enterprise hardware platforms.",
-                "This acquisition signals AMD's strategic pivot toward a highly cohesive, software-defined approach to GPU acceleration.",
-                "Organizations will experience competitive alternatives to proprietary chip architectures, lowering total cost of ownership significantly."
+                "New York State has officially paused the issuance of permits for new hyperscale data centers amid infrastructure concerns.",
+                "The regulatory shift targets energy consumption, community impact, and the environmental footprint of large-scale AI compute clusters.",
+                "State officials are developing new, more stringent frameworks to manage the rapid expansion of AI-critical physical real estate.",
+                "Industry stakeholders fear the moratorium could delay key projects and intensify existing competition for available grid-ready data centers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GLOBAL COALITION: SOVEREIGN AI BODY",
+            "heading": "ECONOMY: IRAQ PRODUCTION GROWTH",
             "points": [
-                "China, Russia, and twenty-seven allied nations establish a unified global AI regulatory body excluding United States representation.",
-                "The coalition seeks to standardize governance frameworks, technology trade agreements, and sovereign infrastructure deployment rules independently.",
-                "This move creates a stark technological division, complicating international research cooperation and worldwide supply chain compliance.",
-                "Multinational enterprises must adapt to dual regulatory standards to maintain operational compliance across divergent economic blocs."
+                "Chevron and ConocoPhillips are actively pursuing production growth in Iraq despite the inherent geopolitical risks involved.",
+                "The shift highlights a strategic desire among energy giants to tap into massive, underdeveloped oilfields as global demand persists.",
+                "ConocoPhillips has joined the redevelopment efforts at the supergiant Kirkuk oilfield, marking a return for several US operators.",
+                "The push signifies a renewed focus on securing energy assets to stabilize output against regional instability and supply constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
