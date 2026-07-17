@@ -9,7 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
+    - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hours)
 
 jobs:
   run-engine:
