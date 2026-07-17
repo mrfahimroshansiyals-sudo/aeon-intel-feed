@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: HIGH NA PRODUCTION",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "ASML achieved a critical milestone by delivering its first High NA EUV lithography systems for high-volume logic manufacturing.",
-                "The company achieved nine point three billion euros in net sales, generating two point nine billion in net income.",
-                "This lithography advancement accelerates physical scaling pathways, enabling global chipmakers to manufacture energy-efficient sub-two-nanometer semiconductor nodes.",
-                "Hardware delivery guarantees physical architecture readiness, solidifying supply chains for next-generation sovereign high-performance AI computing clusters."
+                "NVIDIA collaborates with Japan to build a sovereign AI factory utilizing next-generation Vera CPUs and Rubin GPUs.",
+                "The project deploys over thirteen thousand Vera processors and twenty-seven thousand Rubin accelerators for localized deep learning.",
+                "This national infrastructure establishes a secure, high-efficiency physical computing ecosystem optimized for domestic industrial scaling.",
+                "Global markets will likely shift toward sovereign compute models as regional governments demand localized hardware dominance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: AUTOMATED RISK RED-TEAMING",
+            "heading": "GOOGLE CLOUD: GEMINI 3.5 ENGINE",
             "points": [
-                "OpenAI introduced GPT-Red, an autonomous defensive LLM framework engineered to continuously stress-test frontier models for critical vulnerabilities.",
-                "Automated agents simulate complex multi-step cyberattacks, outperforming traditional human red-teaming paradigms in speed, coverage, and discovery.",
-                "The system continuously identifies alignment vulnerabilities and malicious manipulation vectors prior to public deployment of next-generation LLM platforms.",
-                "Enterprise developers can integrate automated validation mechanisms to secure proprietary integrations against advanced jailbreaking methodologies."
+                "Google Cloud releases Gemini 3.5, introducing advanced action-oriented capabilities for real-time agentic system orchestration.",
+                "Integration of fully managed remote Model Context Protocol servers enables seamless enterprise database and workflow connections.",
+                "Developers gain a unified governance runtime environment to securely deploy, monitor, and scale intelligent agent networks.",
+                "Legacy enterprise architectures must rapidly adapt to support continuous, multi-agent execution frameworks across distributed networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: JAPANESE FACTORY DEPLOYMENT",
+            "heading": "OPENAI: GPT-RED FRAMEWORK",
             "points": [
-                "NVIDIA partnered with Noetra Corporation to deploy the first national AI factory featuring advanced Vera Rubin hardware.",
-                "The infrastructure integrates thirteen thousand seven hundred fifty Vera CPUs and twenty-seven thousand five hundred Rubin accelerators.",
-                "This sovereign deployment establishes a physical computation foundation to power Japan's industrial robotics and edge-based physical AI systems.",
-                "High-performance hardware guarantees computational self-reliance, driving automated manufacturing innovations across localized robotics and embedded networks."
+                "OpenAI unveils the GPT-Red framework to automate security red-teaming and identify structural model vulnerabilities.",
+                "The system combines human expertise with adversarial AI agents to continuously stress-test model safety and alignment.",
+                "Automated vulnerability discovery allows enterprise IT departments to mitigate risks before deploying models in production environments.",
+                "Proactive adversarial testing will become an industry standard as compliance regulations demand auditable safety evaluations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AGENTIC FOUNDATION: PAYMENTS STANDARD",
+            "heading": "ASML: HIGH-NA EUV LOGIC",
             "points": [
-                "The Agentic AI Foundation launched to establish open standards for secure financial transactions conducted directly by autonomous software agents.",
-                "The standard governs decentralized ledger protocols, allowing machines to securely authorize micro-payments without direct human intervention or oversight.",
-                "Standardizing machine-to-machine financial handshakes resolves transaction latency, decoupling transactional agents from legacy banking API bottlenecks.",
-                "Enterprise architectures can safely deploy autonomous procurement loops, streamlining commercial workflows within fully decentralized digital marketplaces."
+                "ASML achieves a critical engineering milestone by delivering its first high-volume Logic product using High-NA lithography.",
+                "The high-aperture extreme ultraviolet technology enables chipmakers to pattern smaller, significantly more energy-efficient microchips.",
+                "This advancement secures ASML's monopoly in the semiconductor lithography market amid accelerating demand for AI processors.",
+                "Foundries deploying these advanced scanners will establish immense competitive advantages in thermal performance and processing density."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "THINKING MACHINES: ENTERPRISE SOVEREIGNTY",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "Thinking Machines Lab launched highly efficient open-weight models designed as secure alternatives for regulated enterprise compute environments.",
-                "The models optimize performance-per-parameter, drastically reducing high-compute inference costs across secure localized private cloud frameworks.",
-                "Open-weight configurations empower corporate IT departments to retain complete data sovereignty and construct fine-tuned, domain-specific intelligence pipelines.",
-                "High-efficiency architectures enable mid-market organizations to run sophisticated localized generative agent workflows without relying on external APIs."
+                "Mistral AI introduces Robostral Navigate, establishing a secure system of record for managing prompts and skills.",
+                "The tool provides complete structural visibility and version control over complex agentic behaviors in enterprise workflows.",
+                "Standardizing prompt registries allows developers to safely reuse orchestrations across diverse, multilingual open-weight LLM models.",
+                "Enterprise developers will increasingly require unified registries to manage the lifecycle of decentralized, autonomous agent applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NEW YORK STATE: HYPERSCALE PERMIT PAUSE",
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
             "points": [
-                "New York State suspended all new hyperscale data center permits to develop comprehensive grid impact and environmental regulations.",
-                "Regulators require facility operators to prove energy-efficiency benchmarks and establish grid-balancing protocols before granting operational approvals.",
-                "The pause highlights escalating resource conflicts between massive AI compute requirements and regional power grid capacity constraints.",
-                "Data center operators must design modular, software-driven energy-flexing architectures to negotiate localized power distribution rules."
+                "AMD partners with Rackspace Technology to initiate a phased deployment of thirty megawatts of AI compute.",
+                "The dedicated infrastructure is specifically configured to serve highly regulated enterprise and sovereign data center workloads.",
+                "Utilizing EPYC processors and Instinct GPUs lowers total cost of ownership while maximizing performance for clients.",
+                "Enterprise cloud providers will face intense pressure to offer localized, compliance-first hardware environments to enterprise customers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: REGULATORY COMPLIANCE",
+            "heading": "AGENTIC AI: STANDARDIZED PAYMENTS",
             "points": [
-                "The European Union established the Scientific Panel of Independent Experts to enforce compliance rules for general-purpose AI providers.",
-                "The newly created body monitors system-level risks and audits technical documentation provided by major model developers.",
-                "This regulatory structure demands unprecedented algorithmic transparency, forcing enterprises to validate model safety before operational deployment.",
-                "Non-compliant organizations face immediate penalties, shifting global development trends toward auditable, glass-box model architectures."
+                "The Agentic AI Foundation launches a unified open protocol to standardize transactional payments between autonomous software.",
+                "The framework enables agents to securely execute micropayments and manage native operational budgets without human intervention.",
+                "Integrating direct settlement layers reduces friction in decentralized machine-to-machine economies and automated supply chain workflows.",
+                "Financial institutions must rapidly build specialized APIs to support sovereign algorithmic agents managing corporate capital allocation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
