@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT",
+        "titleWhite": "SOVEREIGN COMPUTE",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN SYSTEM",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA launched the Vera Rubin architecture maximizing intelligence per dollar specifically engineered for post-training workloads.",
-                "The platform integrates twenty-seven thousand five hundred Rubin graphics processing units alongside thirteen thousand seven hundred CPUs.",
-                "This hardware orchestration provides optimized infrastructure designed to scale autonomous agentic loops and massive enterprise workflows.",
-                "System optimization targeting post-training execution delivers a major paradigm shift in performance per watt computational metrics."
+                "NVIDIA partners with Noetra Corp to deploy a massive Vera Rubin AI factory using Rubin architecture.",
+                "The deployment integrates 13,750 Vera CPUs and 27,500 Rubin GPUs to maximize post-training intelligence efficiency.",
+                "Japan accelerates its physical AI strategy by standardizing sovereign robotics platforms on Cosmos and Jetson.",
+                "Enterprises will transition toward high-density computing clusters to optimize token expenditure and secure national infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 RISK DISCLOSURE",
+            "heading": "OPENAI: GPT-5.6 ENGINE",
             "points": [
-                "OpenAI confirmed that the newly released frontier model GPT-5.6 contains architectural bugs causing accidental file deletions.",
-                "The developer class categorized this critical behavior as an honest mistake during training checkpoint reinforcement learning.",
-                "Safety teams are utilizing GPT-Red to systematically stress test model boundaries and secure core runtime environments.",
-                "Enterprise developers must enforce strict containerized isolation protocols before deploying this model version into production."
+                "OpenAI releases GPT-5.6 frontier intelligence model offering highly scaled reasoning capabilities for complex enterprise operations.",
+                "Developers report accidental file-deletion vulnerabilities under autonomous executions which the organization attributes to configuration limits.",
+                "Systemic model risks require rigorous post-training testing using GPT-Red platforms to achieve target alignment objectives.",
+                "Chief Information Officers must implement secure sandboxes to shield sensitive internal directories from autonomous agent failures."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "THINKING MACHINES: INKLING DEPLOYMENT",
+            "heading": "MOONSHOT AI: KIMI K3",
             "points": [
-                "Thinking Machines Lab released Inkling a massive open weight AI model boasting nine hundred seventy-five billion parameters.",
-                "The system supports an expansive one million token context window optimized using the specialized Tinker customization framework.",
-                "This high-parameter deployment seeks to challenge leading Chinese open models across global coding and reasoning benchmarks.",
-                "Enterprises can deploy this architecture locally to achieve complete sovereign data control without cloud-based latency issues."
+                "China-based Moonshot AI unveils Kimi K3 causing immediate volatility across global semiconductor markets and design firms.",
+                "The advanced open-weight model targets Western coding benchmarks while significantly lowering the cost of complex reasoning.",
+                "Geopolitical rivalries accelerate sovereign model development outside the domestic control parameters of United States regulators.",
+                "International enterprises will diversify model dependencies to mitigate trade restrictions and capture localized architectural efficiencies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
+            "heading": "AMD: INFERENCE ACCELERATION",
+            "points": [
+                "AMD acquires FastFlowLM to optimize high-throughput model inference pipelines across its specialized Instinct GPU ecosystem.",
+                "A definitive partnership with Rackspace deploys thirty megawatts of EPYC processors to run regulated workloads.",
+                "The strategic move positions AMD as a major alternative for enterprise-grade central processing units in datacenters.",
+                "Global hyperscalers will integrate heterogeneous computing clusters to reduce total cost of ownership for agentic workflows."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "points": [
+                "NetApp signs an agreement to acquire DataPelago to unify distributed engine performance for global data management.",
+                "The architectural integration enables seamless query execution across hybrid cloud environments and decoupled storage systems.",
+                "Enterprises struggle to operationalize distributed unstructured data stores required for training highly localized autonomous agents.",
+                "Technical leads must adopt unified database engines to eliminate replication overhead and accelerate context retrieval pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
             "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "The Linux Foundation launched the x402 project to standardize transactional payments native to autonomous AI workflows.",
-                "This open source protocol enables software agents to autonomously pay for digital services across global web networks.",
-                "The standard establishes a secure cryptographic framework for microtransactions executing without manual human intervention or approval.",
-                "Integrating payment capability directly into runtime environments unlocks entirely new sovereign agentic monetization models for enterprises."
+                "The Linux Foundation establishes the x402 project to implement native payment protocols for web-connected agents.",
+                "The standardized ledger framework allows autonomous agents to securely transact and purchase resources without human intervention.",
+                "Tokenomic payment architectures are critical to transitioning from simple conversational assistance to fully functional financial ecosystems.",
+                "Developers will engineer transaction-ready agent structures that manage micro-budgets while executing API calls and compute leases."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
-            "points": [
-                "Mistral AI introduced Robostral Navigate establishing a dedicated system of record for complex prompt and skill repositories.",
-                "The system integrates directly with Vibe for long-horizon autonomous task execution and architecture-aware code generation.",
-                "Enterprises leverage this model to transition complex multi-step workflows from volatile memory to persistent reusable skill databases.",
-                "This orchestration framework ensures highly reliable and auditable execution outputs across diverse decentralized hybrid cloud infrastructures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "META & ANTHROPIC: COMPUTE COLLABORATION",
-            "points": [
-                "Meta and Anthropic are negotiating a monumental ten billion dollar agreement to co-develop advanced data center facilities.",
-                "Anthropic seeks direct access to Meta massive computational infrastructure to power training loops for upcoming models.",
-                "This strategic partnership highlights the escalating demand for high-performance computing clusters optimized for frontier model training.",
-                "The joint initiative will accelerate the deployment of sovereign next generation artificial intelligence models globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "NETAPP: DATAPELAGO ARCHITECTURE",
+            "heading": "NEW YORK STATE: GRID CONSTRAINTS",
             "points": [
-                "NetApp acquired DataPelago to radically improve distributed data management capabilities across hybrid enterprise cloud environments.",
-                "This transaction specifically addresses deep structural data bottleneck challenges during large scale machine learning model training.",
-                "The unified storage architecture facilitates seamless integration of disparate datasets directly into real-time analytical pipeline configurations.",
-                "Enterprises gain a robust framework to orchestrate heterogeneous data streams for low-latency agentic reasoning engines."
+                "New York State issues a temporary pause on new hyperscale data center permits to audit energy consumption.",
+                "The regulatory intervention threatens planned cloud expansions and forces hyperscalers to seek alternative geographical compute zones.",
+                "Escalating power requirements from next-generation AI model training strain municipal grids and compromise green energy objectives.",
+                "Infrastructure architects will shift focus to subquadratic architectures and hardware optimizations to reduce physical power demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
