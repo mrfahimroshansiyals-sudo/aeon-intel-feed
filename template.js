@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTS RE-ENGINEER ENTERPRISE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SCALABLE AGENTIC INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: RUBIN AI FACTORY",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "Nvidia collaborated with Noetra to deploy Vera Rubin AI factories scaling to twenty-seven thousand Rubin graphics processors.",
-                "The architecture optimizes post-training workloads to maximize performance and execution intelligence per dollar for agentic enterprise software.",
-                "Physical AI deployment integrates custom Cosmos models and Jetson Thor processors into mainstream industrial robotic control systems.",
-                "Enterprise systems scale safely on-premise leveraging secure agent workspaces designed to process four trillion tokens every month."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
-            "points": [
-                "NetApp acquired DataPelago to accelerate distributed data management protocols for high-performance enterprise artificial intelligence integration.",
-                "The strategic transaction helps global enterprises unify disparate data pipelines while mitigating latency across hybrid cloud operations.",
-                "Operational engineers can now seamlessly configure massive unstructured datasets to support highly complex multi-agent reasoning frameworks.",
-                "This consolidation pressures legacy storage competitors to adapt architectures for secure real-time semantic data indexing pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LINUX FOUNDATION: PROTOCOL X402",
-            "points": [
-                "The Linux Foundation launched the x402 project to standardize native machine payments within agentic software workflows.",
-                "This open protocol enables autonomous software agents to exchange digital currency securely for various cloud services.",
-                "By establishing a unified transaction layer developers can build independent API monetization strategies without centralized intermediaries.",
-                "Global financial networks will experience increased transactional volume as autonomous code blocks initiate high-frequency digital payments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OPENAI: FRONTIER MODEL GPT-5.6",
-            "points": [
-                "OpenAI deployed its GPT-5.6 frontier model designed to scale complex computational intelligence and professional tasks globally.",
-                "The system incorporates GPT-Red, a custom autonomous hacking agent built specifically to enforce robust safety protocols.",
-                "Multi-agent execution environments require continuous monitoring of internal coding agents to prevent accidental directory file deletions.",
-                "Enterprise deployment models will prioritize automated testing suites to protect sensitive software environments against alignment failures."
+                "OpenAI rolls out GPT-5.6, bringing frontier intelligence that dynamically scales according to enterprise ambitions and computational budgets.",
+                "Advanced logic layers optimize inference parameters, enabling high-complexity agentic reasoning workloads with significantly reduced token overhead.",
+                "The architectural shift prioritizes execution reliability, although developers must implement safeguards against unintended local file operations.",
+                "Enterprises integrating GPT-5.6 will transition from static copilots to fully autonomous, high-frequency transaction-processing agent fleets."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: MODEL DEPLOYMENT",
+            "id": 2,
+            "heading": "IEEE: PROBABILISTIC COMPUTING RECORD",
             "points": [
-                "Mistral released Robostral Navigate alongside Mistral OCR 4 to establish robust systems of record for enterprise prompts.",
-                "The structured engine automates multi-step task scheduling and document intelligence across complex industrial manufacturing pipelines.",
-                "Advanced lithography simulation is accelerated using custom models integrated directly into ASML global chip production workflows.",
-                "Enterprise clients gain full deployment portability by executing secure local inferencing directly on sovereign private clouds."
+                "Engineering teams successfully scale the largest probabilistic computer to date, hitting a milestone of one million active p-bits.",
+                "The specialized architecture delivers exponential acceleration for combinatorial optimization problems compared to conventional silicon-based supercomputing systems.",
+                "This development bridges the gap between classical computing bottlenecks and the high energy demands of early-stage quantum hardware.",
+                "Future hardware designs will incorporate probabilistic accelerators directly onto enterprise motherboard sockets for real-time risk modeling workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "LINUX FOUNDATION: AGENTIC PROTOCOL",
+            "points": [
+                "The Linux Foundation establishes the x402 Foundation to standardize open protocols for native financial transactions between AI agents.",
+                "Standardized APIs enable autonomous agents to pay directly for digital services without requiring manual human credit card authorizations.",
+                "This architecture eliminates traditional friction in multi-agent workflows, driving a decentralized, high-velocity digital machine-to-machine micro-economy.",
+                "Enterprises must deploy secure token wallets directly integrated with their agent platforms to mitigate automated payment exploitation risks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "points": [
+                "NVIDIA partners with Noetra Corp to launch a national AI factory utilizing Vera CPUs and Rubin graphics processing units.",
+                "The massive deployment leverages thirteen thousand Vera central processors to dramatically maximize intelligence output per infrastructure dollar spent.",
+                "Post-training workloads receive unprecedented hardware optimization, solidifying national sovereignty goals through localized high-performance physical computing clusters.",
+                "Government-backed high-performance computing centers will rapidly shift toward on-premise generative infrastructure to protect sensitive domestic operational datasets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "points": [
+                "NetApp acquires DataPelago to unify distributed data management structures across highly complex, multi-cloud enterprise intelligence environments.",
+                "The combined architectural framework simplifies data ingestion pipelines, mitigating major integration bottlenecks for enterprises adopting advanced agentic systems.",
+                "Effective metadata orchestration becomes the primary differentiator as modern enterprise workloads transition toward localized context retrieval paradigms.",
+                "Storage vendors lacking deep, native semantic search integration will lose market share to unified, agent-optimized data platforms."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: AGENTIC SOFTWARE ENGINE",
+            "heading": "NEW YORK: HYPERSCALE PERMIT PAUSE",
             "points": [
-                "Anthropic launched Claude Science to provide customizable applications equipped with automated auditable research artifacts for scientists.",
-                "The export controls on Fable 5 and Mythos 5 models have been completely lifted globally.",
-                "These advanced frameworks empower professional programmers by handing off complex background coding tasks directly to Claude Code.",
-                "Researchers can instantly configure flexible compute resources to evaluate large experimental datasets using custom alignment metrics."
+                "New York State halts new hyperscale data center permits pending environmental reviews of grid capacity and energy footprints.",
+                "The temporary moratorium forces cloud infrastructure providers to seek alternative geographic locations with more favorable green power availability.",
+                "Grid-level power constraints are becoming the absolute limiting factor for scaling next-generation frontier intelligence modeling facilities.",
+                "Developers will increasingly invest in software-driven energy flexibility and localized microgrids to bypass municipal electrical infrastructure delays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEW YORK STATE: CENTER PAUSE",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH",
             "points": [
-                "New York State paused new hyperscale data center permits to draft strict environmental rules regarding grid energy.",
-                "This regulatory freeze pressures infrastructure developers to design flexible power management software to handle grid demand spikes.",
-                "Future computing hubs must integrate high-voltage direct current systems to maximize performance while minimizing overall environmental impact.",
-                "Operators face delays in pipeline execution unless they adopt adaptive cooling mechanisms and localized clean power generation."
+                "Google Cloud deploys Gemini Omni Flash alongside Nano Banana 2 Lite to optimize edge intelligence and video processing workloads.",
+                "Dual-model orchestration enables rapid, low-latency cross-modal calculations directly on localized consumer devices and decentralized cloud servers.",
+                "The architectural upgrade prioritizes extreme parameter efficiency, minimizing operational energy expenses while maintaining high-fidelity vision reasoning capabilities.",
+                "Distributed enterprise systems will increasingly rely on lightweight localized models to execute complex visual inspections without cloud latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
