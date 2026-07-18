@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "OPENAI: GPT-5.6 SCALING",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy a massive Vera Rubin AI factory using Rubin architecture.",
-                "The deployment integrates 13,750 Vera CPUs and 27,500 Rubin GPUs to maximize post-training intelligence efficiency.",
-                "Japan accelerates its physical AI strategy by standardizing sovereign robotics platforms on Cosmos and Jetson.",
-                "Enterprises will transition toward high-density computing clusters to optimize token expenditure and secure national infrastructure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 ENGINE",
-            "points": [
-                "OpenAI releases GPT-5.6 frontier intelligence model offering highly scaled reasoning capabilities for complex enterprise operations.",
-                "Developers report accidental file-deletion vulnerabilities under autonomous executions which the organization attributes to configuration limits.",
-                "Systemic model risks require rigorous post-training testing using GPT-Red platforms to achieve target alignment objectives.",
-                "Chief Information Officers must implement secure sandboxes to shield sensitive internal directories from autonomous agent failures."
+                "OpenAI releases GPT-5.6 introducing frontier intelligence designed to scale with highly complex enterprise workflows.",
+                "InfoWorld reports the new model contains extreme file interaction capabilities that require enhanced developer oversight.",
+                "This release marks a significant milestone in scaling massive intelligence systems for highly demanding enterprise operations.",
+                "Enterprises must adapt their deployment pipelines to safely manage direct system-level file access by autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,45 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MOONSHOT AI: KIMI K3",
+            "id": 2,
+            "heading": "ANTHROPIC: COMPUTE INFRASTRUCTURE",
             "points": [
-                "China-based Moonshot AI unveils Kimi K3 causing immediate volatility across global semiconductor markets and design firms.",
-                "The advanced open-weight model targets Western coding benchmarks while significantly lowering the cost of complex reasoning.",
-                "Geopolitical rivalries accelerate sovereign model development outside the domestic control parameters of United States regulators.",
-                "International enterprises will diversify model dependencies to mitigate trade restrictions and capture localized architectural efficiencies."
+                "Anthropic enters negotiations with Meta to secure a massive compute sharing deal for frontier AI development.",
+                "Financial Times reports the potential partnership could represent up to ten billion dollars in infrastructure allocation.",
+                "This collaboration underscores the critical need for massive GPU power to sustain the next generation of models.",
+                "Competitors will likely form similar infrastructure alliances to secure the required processing power for agentic workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: RUBIN DEPLOYMENT",
+            "points": [
+                "NVIDIA partners with Noetra to deploy a sovereign Vera Rubin AI factory within Japanese national infrastructure.",
+                "The facility integrates thousands of advanced CPUs and GPUs to maximize intelligence-per-dollar metrics across physical robotics.",
+                "Japan establishes this local infrastructure to secure domestic technology leadership and accelerate industrial automation frameworks.",
+                "Other nations will accelerate local hardware clusters to secure national AI dominance and prevent external dependency."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: INFERENCE ACCELERATION",
-            "points": [
-                "AMD acquires FastFlowLM to optimize high-throughput model inference pipelines across its specialized Instinct GPU ecosystem.",
-                "A definitive partnership with Rackspace deploys thirty megawatts of EPYC processors to run regulated workloads.",
-                "The strategic move positions AMD as a major alternative for enterprise-grade central processing units in datacenters.",
-                "Global hyperscalers will integrate heterogeneous computing clusters to reduce total cost of ownership for agentic workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp signs an agreement to acquire DataPelago to unify distributed engine performance for global data management.",
-                "The architectural integration enables seamless query execution across hybrid cloud environments and decoupled storage systems.",
-                "Enterprises struggle to operationalize distributed unstructured data stores required for training highly localized autonomous agents.",
-                "Technical leads must adopt unified database engines to eliminate replication overhead and accelerate context retrieval pipelines."
+                "NetApp acquires DataPelago to dramatically improve distributed data management engines tailored for enterprise agent execution.",
+                "The transaction resolves data preparation bottlenecks that typically slow down complex retrieval augmented generation workflows.",
+                "Unified data layers are becoming critical as companies transition pilots into high-volume production environment networks.",
+                "IT leaders will prioritize consolidated data fabric architectures to optimize token costs and retrieval latency."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,29 +70,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
+            "id": 5,
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
             "points": [
-                "The Linux Foundation establishes the x402 project to implement native payment protocols for web-connected agents.",
-                "The standardized ledger framework allows autonomous agents to securely transact and purchase resources without human intervention.",
-                "Tokenomic payment architectures are critical to transitioning from simple conversational assistance to fully functional financial ecosystems.",
-                "Developers will engineer transaction-ready agent structures that manage micro-budgets while executing API calls and compute leases."
+                "Mistral AI launches Robostral Navigate creating a decentralized system of record for sovereign agent skills.",
+                "The platform allows enterprises to store and orchestrate complex workflows across heterogeneous cloud environments seamlessly.",
+                "Standardizing agent interactions helps prevent vendor lock-in while maintaining complete compliance with local security frameworks.",
+                "Developers will adopt standardized repositories to build transportable skills that execute across diverse frontier models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "THINKING MACHINES: INKLING MODEL",
+            "points": [
+                "Thinking Machines Lab releases Inkling, an efficient open-weight model scaling to nearly one trillion parameters.",
+                "The model supports a massive one-million-token context window designed for deep reasoning over complex documents.",
+                "This launch provides enterprises with a high-performance open alternative to proprietary frontier closed-source systems.",
+                "Organizations will increasingly customize open-weight architectures to maintain strict control over sensitive proprietary datasets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEW YORK STATE: GRID CONSTRAINTS",
+            "heading": "LINUX FOUNDATION: X402 PAYMENTS",
             "points": [
-                "New York State issues a temporary pause on new hyperscale data center permits to audit energy consumption.",
-                "The regulatory intervention threatens planned cloud expansions and forces hyperscalers to seek alternative geographical compute zones.",
-                "Escalating power requirements from next-generation AI model training strain municipal grids and compromise green energy objectives.",
-                "Infrastructure architects will shift focus to subquadratic architectures and hardware optimizations to reduce physical power demands."
+                "Linux Foundation establishes the x402 open standard to enable native transactional micro-payments directly between autonomous agents.",
+                "The protocol simplifies API billing processes and eliminates traditional credit card rails for decentralized software interactions.",
+                "Native payment frameworks are essential for scaling multi-agent economies where systems consume paid digital services dynamically.",
+                "Financial institutions will develop specialized gateway integrations to handle high-frequency transactional flows generated by agents."
             ],
             "imageUrl": "",
             "tags": [
