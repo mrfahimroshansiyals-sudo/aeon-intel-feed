@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SCALABLE AGENTIC INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN ARCHITECTURE",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "OpenAI rolls out GPT-5.6, bringing frontier intelligence that dynamically scales according to enterprise ambitions and computational budgets.",
-                "Advanced logic layers optimize inference parameters, enabling high-complexity agentic reasoning workloads with significantly reduced token overhead.",
-                "The architectural shift prioritizes execution reliability, although developers must implement safeguards against unintended local file operations.",
-                "Enterprises integrating GPT-5.6 will transition from static copilots to fully autonomous, high-frequency transaction-processing agent fleets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "IEEE: PROBABILISTIC COMPUTING RECORD",
-            "points": [
-                "Engineering teams successfully scale the largest probabilistic computer to date, hitting a milestone of one million active p-bits.",
-                "The specialized architecture delivers exponential acceleration for combinatorial optimization problems compared to conventional silicon-based supercomputing systems.",
-                "This development bridges the gap between classical computing bottlenecks and the high energy demands of early-stage quantum hardware.",
-                "Future hardware designs will incorporate probabilistic accelerators directly onto enterprise motherboard sockets for real-time risk modeling workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LINUX FOUNDATION: AGENTIC PROTOCOL",
-            "points": [
-                "The Linux Foundation establishes the x402 Foundation to standardize open protocols for native financial transactions between AI agents.",
-                "Standardized APIs enable autonomous agents to pay directly for digital services without requiring manual human credit card authorizations.",
-                "This architecture eliminates traditional friction in multi-agent workflows, driving a decentralized, high-velocity digital machine-to-machine micro-economy.",
-                "Enterprises must deploy secure token wallets directly integrated with their agent platforms to mitigate automated payment exploitation risks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
-            "points": [
-                "NVIDIA partners with Noetra Corp to launch a national AI factory utilizing Vera CPUs and Rubin graphics processing units.",
-                "The massive deployment leverages thirteen thousand Vera central processors to dramatically maximize intelligence output per infrastructure dollar spent.",
-                "Post-training workloads receive unprecedented hardware optimization, solidifying national sovereignty goals through localized high-performance physical computing clusters.",
-                "Government-backed high-performance computing centers will rapidly shift toward on-premise generative infrastructure to protect sensitive domestic operational datasets."
+                "NVIDIA partners with Noetra Corp to deploy the world's first national AI factory featuring Vera Rubin chips.",
+                "The deployment scales architecture with twenty-seven thousand five hundred Rubin GPUs to maximize intelligence per dollar.",
+                "This sovereign compute cluster optimizes post-training workloads specifically designed for next-generation agentic AI execution.",
+                "Japan establishes a localized infrastructure model to guarantee secure processing of industrial automation datasets."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "id": 2,
+            "heading": "NETAPP: DATAPELAGO MERGER",
             "points": [
-                "NetApp acquires DataPelago to unify distributed data management structures across highly complex, multi-cloud enterprise intelligence environments.",
-                "The combined architectural framework simplifies data ingestion pipelines, mitigating major integration bottlenecks for enterprises adopting advanced agentic systems.",
-                "Effective metadata orchestration becomes the primary differentiator as modern enterprise workloads transition toward localized context retrieval paradigms.",
-                "Storage vendors lacking deep, native semantic search integration will lose market share to unified, agent-optimized data platforms."
+                "NetApp acquires DataPelago to accelerate distributed data management protocols across hybrid cloud enterprise environments.",
+                "The integration resolves critical processing bottlenecks by unifying unstructured datasets for real-time agent training.",
+                "Enterprises leverage the combined architecture to deploy secure data pipelines without legacy system replication risks.",
+                "This structural merger positions NetApp as a primary vendor for sovereign multi-cloud transactional operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +38,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NEW YORK: HYPERSCALE PERMIT PAUSE",
+            "id": 3,
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "New York State halts new hyperscale data center permits pending environmental reviews of grid capacity and energy footprints.",
-                "The temporary moratorium forces cloud infrastructure providers to seek alternative geographic locations with more favorable green power availability.",
-                "Grid-level power constraints are becoming the absolute limiting factor for scaling next-generation frontier intelligence modeling facilities.",
-                "Developers will increasingly invest in software-driven energy flexibility and localized microgrids to bypass municipal electrical infrastructure delays."
+                "Linux Foundation launches the x402 project to standardize native payment protocols for autonomous AI agents.",
+                "The open source protocol enables secure machine-to-machine financial transactions across global internet architectures.",
+                "Developers utilize this unified framework to manage API costs and optimize transaction verification times safely.",
+                "This system removes traditional credit card legacy barriers for microtransactions within decentralized agent networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "points": [
+                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of advanced AI compute.",
+                "The hybrid cloud infrastructure services highly regulated enterprise workloads using secure high-performance processor designs.",
+                "Enterprise buyers achieve optimized total cost of ownership through AMD\u2019s flexible, open-standard silicon portfolio.",
+                "The phased deployment addresses critical capacity constraints for multi-agent workflows in private cloud centers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: FRONTIER MODEL SCALING",
+            "points": [
+                "OpenAI officially launches GPT-5.6 representing a massive leap in frontier intelligence and operational scaling capabilities.",
+                "Early feedback warns of an autonomous file deletion bug requiring immediate pipeline sandboxing by developers.",
+                "The system handles highly complex reasoning tasks but demands robust guardrails to ensure data integrity.",
+                "This model forces enterprises to redesign security frameworks to prevent unauthorized system modification actions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "WORLD AI BODY: EASTERN COALITION",
+            "points": [
+                "China establishes a new global AI body with Russia and twenty-seven nations excluding the United States.",
+                "The coalition aims to define international safety regulations and hardware deployment standards outside Western frameworks.",
+                "Geopolitical fragmentation accelerates as Eastern blocks build unified sovereign compliance pathways for enterprise technology.",
+                "This structural split will force multinational organizations to manage separate software architectures for compliance."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH",
+            "heading": "NEW YORK STATE: PERMIT HALT",
             "points": [
-                "Google Cloud deploys Gemini Omni Flash alongside Nano Banana 2 Lite to optimize edge intelligence and video processing workloads.",
-                "Dual-model orchestration enables rapid, low-latency cross-modal calculations directly on localized consumer devices and decentralized cloud servers.",
-                "The architectural upgrade prioritizes extreme parameter efficiency, minimizing operational energy expenses while maintaining high-fidelity vision reasoning capabilities.",
-                "Distributed enterprise systems will increasingly rely on lightweight localized models to execute complex visual inspections without cloud latency."
+                "New York State halts new hyperscale data center permits to evaluate severe electrical grid energy strains.",
+                "Regulators demand comprehensive environmental impact reviews and community integration plans before resuming facility approvals.",
+                "Hyperscalers face immediate deployment delays forcing a strategic shift toward highly efficient alternative regional hubs.",
+                "This state-level intervention accelerates the industry transition toward performance-per-watt optimization and green hydrogen backups."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
