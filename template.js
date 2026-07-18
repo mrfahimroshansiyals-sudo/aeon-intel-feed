@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AUTOMATED AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "NVIDIA: RUBIN AI FACTORY",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy a national AI factory running 27,500 Rubin GPUs.",
-                "The architecture integrates 13,750 Vera CPUs to maximize processing throughput for complex post-training operations.",
-                "This deployment prioritizes intelligence-per-dollar efficiency benchmarks as a primary metric for agentic workloads.",
-                "Sovereign nations are shifting toward localized physical infrastructure clusters to ensure data custody."
+                "Nvidia collaborates with Noetra Corp to launch the first national AI infrastructure factory in Japan.",
+                "The deployment features thirteen thousand seven hundred fifty Vera CPUs alongside twenty-seven thousand five hundred Rubin GPUs.",
+                "This sovereign infrastructure aims to maximize intelligence per dollar for critical post-training agentic workloads.",
+                "Japanese robotics and enterprise leaders will leverage this stack to advance the physical AI frontier globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
@@ -25,94 +25,94 @@ const dailyData = {
             "id": 2,
             "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp acquires DataPelago to address the operational challenges of distributed enterprise data engine architectures.",
-                "The transaction strengthens unified storage pipelines for enterprises deploying sovereign large language models.",
-                "Integrating DataPelago allows seamless virtualization of hybrid cloud datasets across multiple execution environments.",
-                "IT leaders are prioritizing transactional data mobility over static cloud storage solutions in 2026."
+                "NetApp acquires DataPelago to dramatically accelerate distributed data management capabilities for complex enterprise AI deployments.",
+                "The strategic transaction addresses critical scaling bottlenecks that enterprises face when unifying massive unstructured data pipelines.",
+                "This integration enables real-time high-throughput querying of distributed datasets across hybrid cloud storage environments.",
+                "Organizations will bypass traditional database limits to feed live context directly into autonomous agent architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: NATIVE AI PAYMENTS",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "The Linux Foundation launches the x402 project to integrate financial transactions into agentic workflows.",
-                "The open protocol enables autonomous software agents to purchase digital resources directly over the internet.",
-                "Standardized micro-payments resolve friction in API billing cycles and secure cross-border machine-to-machine commerce.",
-                "Developer ecosystems are shifting rapidly toward decentralized economic models for autonomous web interactions."
+                "Linux Foundation launches the x402 project to standardize native financial payments inside autonomous AI agent workflows.",
+                "The open-source protocol allows agents to programmatically purchase digital services and APIs across the web.",
+                "This architecture establishes a secure framework for transaction execution without requiring direct human banking credentials.",
+                "Enterprise developers can now construct self-sustaining agentic systems that manage their own digital operating budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "AMD signs a definitive agreement with Rackspace to deploy thirty megawatts of specialized compute infrastructure.",
-                "The phased deployment specifically targets enterprise customers operating under strict regulatory compliance frameworks.",
-                "Rackspace intends to optimize performance-per-watt ratios using next-generation EPYC processors and Instinct GPUs.",
-                "Enterprise hosting providers are expanding dedicated private cloud architectures to protect highly proprietary datasets."
+                "OpenAI releases GPT-5.6 to provide frontier intelligence designed specifically for highly ambitious enterprise automation workloads.",
+                "The model delivers unprecedented scale and reasoning efficiency to power next-generation agentic workflows globally.",
+                "Developers must carefully monitor model safety as OpenAI introduces GPT-Red to proactively mitigate structural alignment risks.",
+                "This release accelerates the transition of cognitive automation from simple pilot programs to core industrial production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "THINKING MACHINES: INKLING LAUNCH",
+            "heading": "NEW YORK: DATACENTER PAUSE",
             "points": [
-                "Thinking Machines releases Inkling, a massive 975-billion-parameter open-weight model for enterprise deployments.",
-                "The framework supports an expansive one-million-token context window optimized through specialized tuning tools.",
-                "Inkling offers Western organizations a highly competitive alternative to leading open-weight Chinese developer models.",
-                "Software architects can customize model layers on local infrastructure without exposing sensitive telemetry data."
+                "New York State officially pauses permits for new hyperscale data centers amid growing grid reliability concerns.",
+                "Regulators demand comprehensive reviews regarding the environmental impact and localized energy consumption of massive AI facilities.",
+                "This moratorium forces hyperscalers to evaluate alternative geographic regions or invest heavily in grid-balancing software.",
+                "Future infrastructure deployment must align with strict state goals for clean energy and sustainable resource allocation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: NEW YORK PERMIT PAUSE",
+            "heading": "AMD: FASTFLOWLM INTEGRATION",
             "points": [
-                "New York State halts issuance of new permits for hyperscale data center construction projects.",
-                "The temporary freeze allows state regulators to evaluate environmental impacts and electrical grid stability metrics.",
-                "Rising infrastructure demands are forcing municipalities to establish strict grid-sharing protocols for clean energy.",
-                "Global cloud providers must adapt design practices to accommodate local power grids and regional constraints."
+                "AMD acquires FastFlowLM to significantly accelerate open-source local inference performance across its enterprise hardware ecosystem.",
+                "The acquisition enhances AMD's ROCm software stack for compiling and serving deep learning models more efficiently.",
+                "This technology provides microsecond-level latency improvements for latency-critical agentic computing loops at the network edge.",
+                "Developers gain optimized runtimes that reduce total hardware cost while maximizing throughput for specialized corporate tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: COMPUTE INFRASTRUCTURE TALKS",
+            "heading": "GOOGLE DEEPMIND: NANO BANANA",
             "points": [
-                "Anthropic enters early discussions with Meta to acquire large-scale compute blocks for training runs.",
-                "The negotiation reflects the extreme capital and hardware demands required to train frontier model architectures.",
-                "Securing diverse infrastructure partnerships reduces single-point-of-failure vulnerabilities for frontier AI development labs.",
-                "The race to acquire hyper-scale processing capacity is driving consolidations across modern cloud providers."
+                "Google DeepMind launches Nano Banana 2 Lite as its fastest and most efficient image generation model.",
+                "The compact model optimizes intelligence-per-parameter metrics to deliver high-quality visual assets at the network edge.",
+                "Developers can access the lightweight architecture through the Gemini API and Google AI Studio platforms immediately.",
+                "This deployment enables real-time visual rendering on consumer devices without requiring continuous cloud server connectivity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
