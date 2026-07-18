@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTOMATED AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AGENTS RE-ENGINEER ENTERPRISE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: RUBIN AI FACTORY",
             "points": [
-                "Nvidia collaborates with Noetra Corp to launch the first national AI infrastructure factory in Japan.",
-                "The deployment features thirteen thousand seven hundred fifty Vera CPUs alongside twenty-seven thousand five hundred Rubin GPUs.",
-                "This sovereign infrastructure aims to maximize intelligence per dollar for critical post-training agentic workloads.",
-                "Japanese robotics and enterprise leaders will leverage this stack to advance the physical AI frontier globally."
+                "Nvidia collaborated with Noetra to deploy Vera Rubin AI factories scaling to twenty-seven thousand Rubin graphics processors.",
+                "The architecture optimizes post-training workloads to maximize performance and execution intelligence per dollar for agentic enterprise software.",
+                "Physical AI deployment integrates custom Cosmos models and Jetson Thor processors into mainstream industrial robotic control systems.",
+                "Enterprise systems scale safely on-premise leveraging secure agent workspaces designed to process four trillion tokens every month."
             ],
             "imageUrl": "",
             "tags": [
@@ -25,10 +25,10 @@ const dailyData = {
             "id": 2,
             "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp acquires DataPelago to dramatically accelerate distributed data management capabilities for complex enterprise AI deployments.",
-                "The strategic transaction addresses critical scaling bottlenecks that enterprises face when unifying massive unstructured data pipelines.",
-                "This integration enables real-time high-throughput querying of distributed datasets across hybrid cloud storage environments.",
-                "Organizations will bypass traditional database limits to feed live context directly into autonomous agent architectures."
+                "NetApp acquired DataPelago to accelerate distributed data management protocols for high-performance enterprise artificial intelligence integration.",
+                "The strategic transaction helps global enterprises unify disparate data pipelines while mitigating latency across hybrid cloud operations.",
+                "Operational engineers can now seamlessly configure massive unstructured datasets to support highly complex multi-agent reasoning frameworks.",
+                "This consolidation pressures legacy storage competitors to adapt architectures for secure real-time semantic data indexing pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
+            "heading": "LINUX FOUNDATION: PROTOCOL X402",
             "points": [
-                "Linux Foundation launches the x402 project to standardize native financial payments inside autonomous AI agent workflows.",
-                "The open-source protocol allows agents to programmatically purchase digital services and APIs across the web.",
-                "This architecture establishes a secure framework for transaction execution without requiring direct human banking credentials.",
-                "Enterprise developers can now construct self-sustaining agentic systems that manage their own digital operating budgets."
+                "The Linux Foundation launched the x402 project to standardize native machine payments within agentic software workflows.",
+                "This open protocol enables autonomous software agents to exchange digital currency securely for various cloud services.",
+                "By establishing a unified transaction layer developers can build independent API monetization strategies without centralized intermediaries.",
+                "Global financial networks will experience increased transactional volume as autonomous code blocks initiate high-frequency digital payments."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "OPENAI: FRONTIER MODEL GPT-5.6",
             "points": [
-                "OpenAI releases GPT-5.6 to provide frontier intelligence designed specifically for highly ambitious enterprise automation workloads.",
-                "The model delivers unprecedented scale and reasoning efficiency to power next-generation agentic workflows globally.",
-                "Developers must carefully monitor model safety as OpenAI introduces GPT-Red to proactively mitigate structural alignment risks.",
-                "This release accelerates the transition of cognitive automation from simple pilot programs to core industrial production."
+                "OpenAI deployed its GPT-5.6 frontier model designed to scale complex computational intelligence and professional tasks globally.",
+                "The system incorporates GPT-Red, a custom autonomous hacking agent built specifically to enforce robust safety protocols.",
+                "Multi-agent execution environments require continuous monitoring of internal coding agents to prevent accidental directory file deletions.",
+                "Enterprise deployment models will prioritize automated testing suites to protect sensitive software environments against alignment failures."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "NEW YORK: DATACENTER PAUSE",
+            "heading": "MISTRAL AI: MODEL DEPLOYMENT",
             "points": [
-                "New York State officially pauses permits for new hyperscale data centers amid growing grid reliability concerns.",
-                "Regulators demand comprehensive reviews regarding the environmental impact and localized energy consumption of massive AI facilities.",
-                "This moratorium forces hyperscalers to evaluate alternative geographic regions or invest heavily in grid-balancing software.",
-                "Future infrastructure deployment must align with strict state goals for clean energy and sustainable resource allocation."
+                "Mistral released Robostral Navigate alongside Mistral OCR 4 to establish robust systems of record for enterprise prompts.",
+                "The structured engine automates multi-step task scheduling and document intelligence across complex industrial manufacturing pipelines.",
+                "Advanced lithography simulation is accelerated using custom models integrated directly into ASML global chip production workflows.",
+                "Enterprise clients gain full deployment portability by executing secure local inferencing directly on sovereign private clouds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: FASTFLOWLM INTEGRATION",
+            "heading": "ANTHROPIC: AGENTIC SOFTWARE ENGINE",
             "points": [
-                "AMD acquires FastFlowLM to significantly accelerate open-source local inference performance across its enterprise hardware ecosystem.",
-                "The acquisition enhances AMD's ROCm software stack for compiling and serving deep learning models more efficiently.",
-                "This technology provides microsecond-level latency improvements for latency-critical agentic computing loops at the network edge.",
-                "Developers gain optimized runtimes that reduce total hardware cost while maximizing throughput for specialized corporate tasks."
+                "Anthropic launched Claude Science to provide customizable applications equipped with automated auditable research artifacts for scientists.",
+                "The export controls on Fable 5 and Mythos 5 models have been completely lifted globally.",
+                "These advanced frameworks empower professional programmers by handing off complex background coding tasks directly to Claude Code.",
+                "Researchers can instantly configure flexible compute resources to evaluate large experimental datasets using custom alignment metrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: NANO BANANA",
+            "heading": "NEW YORK STATE: CENTER PAUSE",
             "points": [
-                "Google DeepMind launches Nano Banana 2 Lite as its fastest and most efficient image generation model.",
-                "The compact model optimizes intelligence-per-parameter metrics to deliver high-quality visual assets at the network edge.",
-                "Developers can access the lightweight architecture through the Gemini API and Google AI Studio platforms immediately.",
-                "This deployment enables real-time visual rendering on consumer devices without requiring continuous cloud server connectivity."
+                "New York State paused new hyperscale data center permits to draft strict environmental rules regarding grid energy.",
+                "This regulatory freeze pressures infrastructure developers to design flexible power management software to handle grid demand spikes.",
+                "Future computing hubs must integrate high-voltage direct current systems to maximize performance while minimizing overall environmental impact.",
+                "Operators face delays in pipeline execution unless they adopt adaptive cooling mechanisms and localized clean power generation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
