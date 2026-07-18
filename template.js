@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN ENTERPRISE COMPUTE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA is collaborating with Noetra Corp to deploy a national AI factory in Japan using advanced chips.",
-                "The state-of-the-art supercomputer architecture integrates over thirteen thousand Vera CPUs and twenty-seven thousand Rubin GPUs.",
-                "This deployment accelerates physical AI capabilities across major Japanese manufacturing, robotics, and industrial automation enterprises.",
-                "Sovereign nations are increasingly establishing independent computing factories to guarantee localized infrastructure control and security."
+                "NVIDIA partners with Noetra Corp to deploy a national AI factory running 27,500 Rubin GPUs.",
+                "The architecture integrates 13,750 Vera CPUs to maximize processing throughput for complex post-training operations.",
+                "This deployment prioritizes intelligence-per-dollar efficiency benchmarks as a primary metric for agentic workloads.",
+                "Sovereign nations are shifting toward localized physical infrastructure clusters to ensure data custody."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 RELEASED",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "OpenAI has launched GPT-5.6 to provide highly scalable frontier intelligence for complex enterprise workflows.",
-                "Technical teams reported a critical warning that the model may inadvertently delete local file directories.",
-                "The model scales raw reasoning capabilities, allowing deeper agentic execution across highly complex mathematical environments.",
-                "System administrators must deploy robust sandboxed execution environments before integrating this model into production filesystems."
+                "NetApp acquires DataPelago to address the operational challenges of distributed enterprise data engine architectures.",
+                "The transaction strengthens unified storage pipelines for enterprises deploying sovereign large language models.",
+                "Integrating DataPelago allows seamless virtualization of hybrid cloud datasets across multiple execution environments.",
+                "IT leaders are prioritizing transactional data mobility over static cloud storage solutions in 2026."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "LINUX FOUNDATION: NATIVE AI PAYMENTS",
             "points": [
-                "AMD has signed a definitive agreement with Rackspace Technology for a major phased infrastructure expansion.",
-                "The partners will deploy thirty megawatts of advanced AMD AI compute to serve highly regulated enterprise workloads.",
-                "This strategic partnership leverages high-efficiency EPYC CPUs and Instinct GPUs to deliver lower total operational costs.",
-                "Regulated sectors will gain access to sovereign cloud infrastructure optimized specifically for secure, low-latency machine learning tasks."
+                "The Linux Foundation launches the x402 project to integrate financial transactions into agentic workflows.",
+                "The open protocol enables autonomous software agents to purchase digital resources directly over the internet.",
+                "Standardized micro-payments resolve friction in API billing cycles and secure cross-border machine-to-machine commerce.",
+                "Developer ecosystems are shifting rapidly toward decentralized economic models for autonomous web interactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LINUX FOUNDATION: PROTOCOL X402",
+            "heading": "AMD: RACKSPACE COMPUTE DEPLOYMENT",
             "points": [
-                "The Linux Foundation announced the x402 project to standardize native digital payments for autonomous AI workflows.",
-                "This open-source protocol allows AI agents and APIs to pay for online services without human intervention.",
-                "Standardizing transaction frameworks solves the critical monetization bottleneck currently hindering autonomous agent-to-agent digital economies.",
-                "Developers can securely implement automated micro-transactions, expanding the utility of decentralized, sovereign agentic networks globally."
+                "AMD signs a definitive agreement with Rackspace to deploy thirty megawatts of specialized compute infrastructure.",
+                "The phased deployment specifically targets enterprise customers operating under strict regulatory compliance frameworks.",
+                "Rackspace intends to optimize performance-per-watt ratios using next-generation EPYC processors and Instinct GPUs.",
+                "Enterprise hosting providers are expanding dedicated private cloud architectures to protect highly proprietary datasets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "THINKING MACHINES: INKLING LAUNCH",
             "points": [
-                "Anthropic released Sonnet 5, marking their most advanced agentic model optimized for professional coding workflows.",
-                "The update provides top-tier intelligence capabilities designed to automate multi-step professional tasks and software engineering.",
-                "By deploying this model, organizations can substantially reduce the latency and costs associated with software development.",
-                "Enterprise developers are shifting rapidly toward agentic systems capable of editing files and running terminal actions autonomously."
+                "Thinking Machines releases Inkling, a massive 975-billion-parameter open-weight model for enterprise deployments.",
+                "The framework supports an expansive one-million-token context window optimized through specialized tuning tools.",
+                "Inkling offers Western organizations a highly competitive alternative to leading open-weight Chinese developer models.",
+                "Software architects can customize model layers on local infrastructure without exposing sensitive telemetry data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: HIGH NA EUV PROGRESS",
+            "heading": "REGULATION: NEW YORK PERMIT PAUSE",
             "points": [
-                "ASML reached a major lithography milestone as its High NA EUV system achieved high-volume Logic readiness.",
-                "The advanced manufacturing system patterns sub-nanometer features, keeping pace with demand for next-generation AI processors.",
-                "Achieving high-volume logic readiness secures the supply chain for advanced physical chip production over the coming decade.",
-                "Leading global chipmakers will integrate this technology to mass produce energy-efficient chips for complex AI workloads."
+                "New York State halts issuance of new permits for hyperscale data center construction projects.",
+                "The temporary freeze allows state regulators to evaluate environmental impacts and electrical grid stability metrics.",
+                "Rising infrastructure demands are forcing municipalities to establish strict grid-sharing protocols for clean energy.",
+                "Global cloud providers must adapt design practices to accommodate local power grids and regional constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "heading": "ANTHROPIC: COMPUTE INFRASTRUCTURE TALKS",
             "points": [
-                "NetApp acquired DataPelago to enhance its unified data management capabilities across hybrid cloud enterprise environments.",
-                "The integration resolves critical performance bottlenecks when managing massive distributed datasets required for training AI models.",
-                "This strategic transaction enables real-time data orchestration, optimizing operational latency for decentralized enterprise applications.",
-                "IT leaders gain a more cohesive architecture to securely feed distributed files into localized foundation models."
+                "Anthropic enters early discussions with Meta to acquire large-scale compute blocks for training runs.",
+                "The negotiation reflects the extreme capital and hardware demands required to train frontier model architectures.",
+                "Securing diverse infrastructure partnerships reduces single-point-of-failure vulnerabilities for frontier AI development labs.",
+                "The race to acquire hyper-scale processing capacity is driving consolidations across modern cloud providers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
