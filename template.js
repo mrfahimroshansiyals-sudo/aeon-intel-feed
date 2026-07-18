@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ARCHITECTURE",
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
         "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "heading": "NVIDIA: SOVEREIGN RUBIN FACTORY",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy the world's first national AI factory featuring Vera Rubin chips.",
-                "The deployment scales architecture with twenty-seven thousand five hundred Rubin GPUs to maximize intelligence per dollar.",
-                "This sovereign compute cluster optimizes post-training workloads specifically designed for next-generation agentic AI execution.",
-                "Japan establishes a localized infrastructure model to guarantee secure processing of industrial automation datasets."
+                "NVIDIA partnered with Noetra Corp to deploy 13,750 Vera CPUs and 27,500 Rubin GPUs in Japan.",
+                "The sovereign deployment establishes a national AI factory optimized for physical robotics and post-training workloads.",
+                "This architecture scales intelligence per dollar, bypassing traditional infrastructure bottlenecks through massive parallel physical AI modeling.",
+                "Global enterprises must transition toward decentralized sovereign cloud frameworks to comply with localized computational security mandates."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NETAPP: DATAPELAGO MERGER",
+            "heading": "LINUX FOUNDATION: AGENT PAYMENTS",
             "points": [
-                "NetApp acquires DataPelago to accelerate distributed data management protocols across hybrid cloud enterprise environments.",
-                "The integration resolves critical processing bottlenecks by unifying unstructured datasets for real-time agent training.",
-                "Enterprises leverage the combined architecture to deploy secure data pipelines without legacy system replication risks.",
-                "This structural merger positions NetApp as a primary vendor for sovereign multi-cloud transactional operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
-            "points": [
-                "Linux Foundation launches the x402 project to standardize native payment protocols for autonomous AI agents.",
-                "The open source protocol enables secure machine-to-machine financial transactions across global internet architectures.",
-                "Developers utilize this unified framework to manage API costs and optimize transaction verification times safely.",
-                "This system removes traditional credit card legacy barriers for microtransactions within decentralized agent networks."
+                "The Linux Foundation launched the x402 project to standardize native transaction protocols for autonomous AI agents.",
+                "Automated systems can now execute micro-payments across the web safely without relying on legacy banking integration.",
+                "Decoupling financial transactions from manual human oversight enables continuous, self-sustaining operations within distributed multi-agent networks.",
+                "Financial technology firms must develop specialized agentic gateways to support high-velocity, machine-to-machine micro-transactions in real time."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "id": 3,
+            "heading": "AMD: INFERENCE SOFTWARE INTEGRATION",
             "points": [
-                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of advanced AI compute.",
-                "The hybrid cloud infrastructure services highly regulated enterprise workloads using secure high-performance processor designs.",
-                "Enterprise buyers achieve optimized total cost of ownership through AMD\u2019s flexible, open-standard silicon portfolio.",
-                "The phased deployment addresses critical capacity constraints for multi-agent workflows in private cloud centers."
+                "AMD integrated FastFlowLM into its open ecosystem to accelerate enterprise-scale generative AI model inference.",
+                "The consolidation enhances ROCm software capability, offering significantly improved execution speeds and reduced operational latency.",
+                "Consolidating software optimization with EPYC and Instinct hardware enables cost-effective scaling of complex agentic workflows.",
+                "Competitors must prioritize software stack optimization to challenge NVIDIA's dominance in high-throughput enterprise hardware architectures."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "OPENAI: FRONTIER MODEL SCALING",
+            "id": 4,
+            "heading": "NEW YORK: HYPERSCALE PERMIT FREEZE",
             "points": [
-                "OpenAI officially launches GPT-5.6 representing a massive leap in frontier intelligence and operational scaling capabilities.",
-                "Early feedback warns of an autonomous file deletion bug requiring immediate pipeline sandboxing by developers.",
-                "The system handles highly complex reasoning tasks but demands robust guardrails to ensure data integrity.",
-                "This model forces enterprises to redesign security frameworks to prevent unauthorized system modification actions."
+                "New York State suspended the issuance of new permits for hyperscale AI data centers.",
+                "The temporary freeze allows regulatory boards to establish rigid standards for grid capacity and environmental protection.",
+                "Rapidly growing electrical demands from generative AI clusters force local governments to balance tech development with ecological limits.",
+                "Hyperscalers must invest in energy-flexible software architecture and high-voltage direct current systems to bypass regional permitting halts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NETAPP: DISTRIBUTED DATA EXPANSION",
+            "points": [
+                "NetApp acquired DataPelago to integrate advanced distributed data management engines directly into its storage fabrics.",
+                "The platform streamlines processing pipelines, allowing deep learning architectures to ingest unstructured datasets with zero friction.",
+                "Resolving data pipeline congestion is essential for organizations scaling highly distributed retrieval-augmented generation models across clouds.",
+                "Cloud storage providers must unify disparate databases to offer seamless data access layers optimized for automated agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WORLD AI BODY: EASTERN COALITION",
+            "heading": "OPENAI: MODEL SECURITY DEFECTS",
             "points": [
-                "China establishes a new global AI body with Russia and twenty-seven nations excluding the United States.",
-                "The coalition aims to define international safety regulations and hardware deployment standards outside Western frameworks.",
-                "Geopolitical fragmentation accelerates as Eastern blocks build unified sovereign compliance pathways for enterprise technology.",
-                "This structural split will force multinational organizations to manage separate software architectures for compliance."
+                "OpenAI acknowledged that its newly deployed GPT-5.6 model contains bugs causing accidental local file deletions.",
+                "System administrators report critical data loss when autonomous agent workflows execute commands with elevated administrative privileges.",
+                "The incident underscores the inherent risks of granting frontier models write-access to local files without isolation wrappers.",
+                "Developers must deploy strict, sandboxed container environments for all agentic execution paths to prevent catastrophic system changes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEW YORK STATE: PERMIT HALT",
+            "heading": "US ADMINISTRATION: FRONTIER MODEL LIMITS",
             "points": [
-                "New York State halts new hyperscale data center permits to evaluate severe electrical grid energy strains.",
-                "Regulators demand comprehensive environmental impact reviews and community integration plans before resuming facility approvals.",
-                "Hyperscalers face immediate deployment delays forcing a strategic shift toward highly efficient alternative regional hubs.",
-                "This state-level intervention accelerates the industry transition toward performance-per-watt optimization and green hydrogen backups."
+                "The US administration began directly dictating access guidelines for next-generation frontier artificial intelligence models.",
+                "National security policies are restricting foreign access to high-compute clusters and cutting-edge software training weights.",
+                "Geopolitical competition over chip supply chains is expanding to include strict oversight of algorithmic architectures and weights.",
+                "Global enterprises must design hybrid-cloud pipelines to maintain cross-border operations amid intensifying national technological protectionism."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
