@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NATIONAL AI FACTORY",
+            "heading": "JAPAN: NATIONAL AI FACTORY",
             "points": [
-                "Japan launched the world\u2019s first national AI infrastructure using 13,750 NVIDIA Vera CPUs and 27,500 Rubin GPUs.",
-                "This architecture focuses on maximizing intelligence per dollar for massive post-training workloads and complex agentic AI deployments.",
-                "Strategic partnership integrates physical AI across robotics and manufacturing to secure national sovereign digital capabilities.",
-                "NVIDIA targets enterprise-grade performance efficiency by prioritizing power consumption metrics within localized secure agent workspaces."
+                "NVIDIA collaborates with Noetra Corp to launch Japan's first sovereign Vera Rubin AI factory infrastructure.",
+                "The deployment integrates thirteen thousand CPU chips alongside twenty-seven thousand next-generation Rubin processing units.",
+                "This state-backed platform establishes localized AI capabilities to advance regional industrial robotics and physical automation.",
+                "Japanese manufacturing conglomerates will leverage the platform to deploy industry-specialized Nemotron open models securely."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "AMD: AGENTIC WORKFLOW SHIFT",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "AMD redefines AI as an end-to-end workflow rather than a single workload, prioritizing agent-based infrastructure integration.",
-                "The firm expanded its reach with FastFlowLM to optimize AI inference scalability and operational throughput for enterprises.",
-                "Gartner positions AMD as the current leader in enterprise AI server CPUs, threatening legacy data center incumbents.",
-                "CIOs are transitioning to AMD\u2019s broad portfolio to leverage CPU and GPU synergies in regulated, high-security environments."
+                "NetApp acquires DataPelago to accelerate distributed data management capabilities tailored for complex enterprise artificial intelligence.",
+                "The strategic transaction directly addresses critical bottlenecks in processing highly heterogeneous datasets across hybrid architectures.",
+                "Integrating DataPelago's core engine enables unified data pipelines across fragmented multicloud environment deployments.",
+                "Enterprise architects can now operationalize high-throughput unstructured data streams to improve agentic retrieval performance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: LITHOGRAPHY AI MILESTONE",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "ASML successfully achieved a high-volume readiness milestone using High NA EUV technology for logic chip production.",
-                "New AI-native engineering methodologies are being applied to accelerate precision manufacturing and semiconductor patterning at scale.",
-                "Strategic partnerships in India continue to bolster global supply chain resilience for next-generation advanced chip lithography.",
-                "Company reports strong quarterly financial performance, underscoring the vital role of specialized hardware in AI development."
+                "The Linux Foundation launches the x402 project to standardize native machine-to-machine microtransactions over the internet.",
+                "This open-source protocol allows autonomous AI agents to purchase digital services directly without human intermediary.",
+                "Financial standard organizations aim to decouple transaction settlement from traditional sluggish enterprise banking rails.",
+                "Software engineering teams can now deploy autonomous systems capable of executing secure self-funded API operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: GPT-RED DISCOVERY",
+            "points": [
+                "OpenAI releases GPT-Red to automate safety testing and systematically discover latent vulnerabilities in frontier models.",
+                "The red-teaming LLM operates as a simulated super-hacker to expose deep structural alignment and security flaws.",
+                "Automated adversarial simulation represents a major shift from slow manual vulnerability probing to continuous safety reinforcement.",
+                "Security teams will utilize these autonomous exploit frameworks to patch critical agentic software before production deployment."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "points": [
+                "ASML delivers its first high-volume Logic product utilizing advanced High NA EUV lithography systems.",
+                "The achievement marks a critical transition from experimental laboratory prototyping to commercial semiconductor volume manufacturing.",
+                "High-precision lithography patterning allows global chipmakers to fabricate sub-nanometer transistors for next-generation sovereign hardware.",
+                "This physical hardware milestone guarantees the computing density required to train post-training agentic foundation models."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: AGENTIC FRONTIER FOCUS",
-            "points": [
-                "Anthropic releases Sonnet 5, focusing on high-tier intelligence for coding and agent-based professional workflows globally.",
-                "Claude Science emerges as a flagship product integrating auditable artifacts and automated tool-use for research applications.",
-                "Regulatory export controls for Fable 5 have been lifted, signaling global expansion of high-end frontier model access.",
-                "The firm maintains its focus on building safe, responsible AI systems capable of deep reasoning in enterprise."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL: FRONTIER MODEL ADOPTION",
-            "points": [
-                "Mistral introduces Vibe, an autonomous AI agent designed specifically for long-horizon work and complex task scheduling.",
-                "Enterprise adoption accelerates across sectors like financial services and manufacturing, leveraging Mistral's frontier AI capabilities.",
-                "The company expands its ecosystem to include Vibe for Code, automating terminal-based development and architecture-aware reasoning.",
-                "New 'Forge' service allows organizations to perform domain-specific alignment and reinforcement learning on custom model architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "GOOGLE CLOUD: AGENTIC PLATFORM",
+            "heading": "GLOBAL GOVERNANCE: WORLD AI BODY",
             "points": [
-                "Google Cloud unveils Gemini 3.5, emphasizing frontier intelligence combined with real-world action and agent orchestration.",
-                "Introduction of AI Threat Defense focuses on outpacing adversaries through advanced, automated, and secure enterprise infrastructure.",
-                "Platform updates include Gemini Enterprise Agent Platform, facilitating deployment of intelligent agents at massive industrial scale.",
-                "Developer credits and new tooling simplify the path from pilot experimentation to production-grade agentic work environments."
+                "China partners with Russia and twenty-seven nations to establish a major sovereign AI governance body.",
+                "This new global coalition deliberately excludes United States participation to dictate alternative regulatory and compliance standards.",
+                "The geopolitical shift threatens to fracture international safety protocols and accelerate localized hardware sovereignty initiatives.",
+                "Western enterprises must navigate bifurcated compliance frameworks when deploying autonomous software agents across international borders."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHTARGET: DATA MANAGEMENT AI",
+            "heading": "ENERGY SECTOR: DATA CENTER PAUSE",
             "points": [
-                "NetApp and DataPelago deal strengthens support for distributed data management in complex enterprise AI environments.",
-                "Industry analysts observe a shift toward upfront planning in AI development to mitigate rising tokenomics challenges.",
-                "New database vendor entries signal a crowded market for purpose-built agents requiring unified, high-performance data workloads.",
-                "CIOs are increasingly focusing on securing infrastructure against vulnerabilities discovered by autonomous and malicious AI systems."
+                "New York State temporarily pauses issuance of environmental permits for new hyperscale AI data centers.",
+                "Regulators demand comprehensive audits regarding grid capacity strains and localized environmental impact before resuming development.",
+                "This regional moratorium highlights growing friction between exponential compute demands and fragile municipal power infrastructure.",
+                "Hyperscale operators must shift capital allocation toward flexible software-driven energy-dialing platforms to bypass grid limitations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
