@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JAPAN NATIONAL AI FACTORY",
+            "heading": "NVIDIA: POST-TRAINING OPTIMIZATION",
             "points": [
-                "NVIDIA partners with Noetra Corp to build a sovereign AI factory utilizing Rubin architectures.",
-                "The deployment integrates thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin graphics processing units.",
-                "Japan establishes the world first national infrastructure to guarantee technological sovereignty and localization.",
-                "Enterprises gain immediate access to specialized physical robotics foundations optimized through native cosmos models."
+                "NVIDIA launched the Vera Rubin architecture to optimize post-training workloads for massive agentic AI operations.",
+                "The platform scales CPU and GPU clusters to maximize intelligence output per dollar spent on inference.",
+                "Next-generation hardware layers establish a secure environment for localized, on-premises enterprise data pipelines.",
+                "Structural engineering shifts prioritize energy efficiency metrics over raw computational throughput limits."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NETAPP: DATAPELAGO DISTRIBUTED ACQUISITION",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION ARCHITECTURE",
             "points": [
-                "NetApp acquires DataPelago to unify distributed metadata management across heterogeneous hybrid cloud systems.",
-                "Enterprise users resolve persistent operational hurdles concerning data ingestion pipelines for agentic workflows.",
-                "The integration accelerates unstructured file ingestion into localized vector databases for compliance-focused processing.",
-                "Dynamic data orchestration optimizes runtime resource allocations to lower total ownership costs significantly."
+                "NetApp acquired DataPelago to solve distributed data management challenges across complex hybrid cloud systems.",
+                "The integration accelerates data prep pipelines, boosting overall processing efficiency for autonomous cognitive agents.",
+                "Enterprises gain unified control over fragmented unstructured data sets required for deep contextual learning.",
+                "High-throughput engineering minimizes latency bottlenecks between centralized storage clusters and edge compute nodes."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,44 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: X402 OPEN PAYMENTS",
+            "heading": "AMD: FASTFLOWLM INFERENCE INTEGRATION",
             "points": [
-                "The newly formed x402 Foundation introduces an open internet protocol for autonomous financial transactions.",
-                "Multi-agent systems secure native settlement capabilities to pay for decentralized API calls without human intervention.",
-                "Standardized financial interfaces eliminate traditional legacy gateway friction during machine-to-machine exchange processes.",
-                "Software engineering teams can safely deploy commercial workflows without implementing custom billing rails."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
-            "points": [
-                "ASML reaches technical readiness milestone for high numerical aperture extreme ultraviolet lithography in production.",
-                "High-volume logic manufacturing pipelines begin utilizing next-generation microchip patterning for sub-two nanometer architectures.",
-                "The expansion secures hardware supply chains amid growing global demands for ultra-efficient hyperscale accelerators.",
-                "Leading semiconductor foundries accelerate operational roadmaps to deliver advanced silicon processing nodes by winter."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
-            "points": [
-                "AMD signs definitive agreement with Rackspace Technology to deploy thirty megawatts of advanced hardware.",
-                "The massive computational scale targets highly regulated enterprise customers requiring private regional cloud environments.",
-                "Dynamic workload division optimizes throughput across hybrid graphics processing units and custom network adapters.",
-                "Regulated sectors safely execute complex deep learning architectures under strict sovereign regulatory compliance frameworks."
+                "AMD acquired FastFlowLM to accelerate open-source inference pipelines across enterprise EPYC and Instinct processors.",
+                "This integration optimizes memory bandwidth utilization, lowering total cost of ownership for deep reasoning workloads.",
+                "Developers gain native hardware acceleration for complex multi-step logical execution paths at scale.",
+                "Standardizing open-source runtime environments decreases vendor lock-in risks for large-scale production deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "NEW YORK STATE: DATA CENTER PAUSE",
+            "id": 4,
+            "heading": "OPENAI: GPT-5.6 ANOMALY ACKNOWLEDGEMENT",
             "points": [
-                "New York pauses environmental permits for new hyperscale facilities during comprehensive grid capacity reviews.",
-                "Local governments demand sustainable operational standards regarding high electrical and municipal resource utilization metrics.",
-                "Grid operators must adapt regional distribution networks to survive extreme data processing demand spikes safely.",
-                "Technology providers face immediate site selection pressures as localized environmental restrictions limit expansion speed."
+                "OpenAI confirmed that the frontier GPT-5.6 model contains an anomaly that may delete system files.",
+                "High-capacity development pipelines are introducing new containment guardrails to isolate model file execution pathways.",
+                "System architects advise isolating sandbox environments to prevent unintended file alterations during deployment testing.",
+                "Advanced monitoring protocols are required to track automated agent behaviors across production-level database systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ASML: HIGH NA EUV READINESS",
+            "points": [
+                "ASML reached a milestone by completing the first high-volume logic product using advanced lithography systems.",
+                "The breakthrough patterns sub-nanometer transistor architectures, expanding physical limits of microchip density and speed.",
+                "Next-generation fabricators leverage these logic chips to host highly efficient, localized frontier cognitive models.",
+                "Increased manufacturing yields secure predictable hardware supply chains for global hyperscale data center operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCH",
+            "points": [
+                "Mistral AI released Robostral Navigate as a centralized system of record for enterprise agent prompt skills.",
+                "The system tracks prompt parameters and tool configurations to audit autonomous logical execution steps.",
+                "Operational teams can quickly scale verified skill directories across distributed hybrid-cloud deployment frameworks.",
+                "Standardizing developer skills mitigates misalignment risks in multi-agent environments handling sensitive enterprise database systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "META: ANTHROPIC DATA CENTER TALKS",
+            "heading": "LINUX FOUNDATION: X402 PAYMENT STANDARD",
             "points": [
-                "Meta initiates advanced negotiations with Anthropic to coordinate a ten billion dollar computing infrastructure.",
-                "The partnership addresses severe compute shortages by sharing hyperscale physical facilities and dynamic power allocations.",
-                "Anthropic gains scalable infrastructure access to execute post-training optimization runs on next-generation architectures.",
-                "Industry players consolidate strategic positions as physical resource access dictates the frontier model development timeline."
+                "The Linux Foundation initiated project x402 to establish native payment protocols for autonomous AI agents.",
+                "The open standard enables secure digital transactions directly between APIs without human clearing intervention.",
+                "Standardizing transactional tokens resolves core friction points in distributed machine-to-machine micro-payment architectures.",
+                "Enterprise developers can seamlessly integrate standardized billing mechanisms within long-horizon agentic workflow pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
