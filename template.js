@@ -2,17 +2,17 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "SHIFT"
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
             "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA partnered with Noetra to deploy a massive factory featuring 13750 Vera CPUs and 27500 Rubin GPUs.",
-                "The infrastructure architecture maximizes intelligence-per-dollar efficiency specifically optimized for post-training workloads and agentic systems.",
-                "This deployment accelerates physical AI frontier capabilities by integrating deep learning models directly into manufacturing robotics.",
-                "Enterprises will shift toward high-performance compute clusters optimized specifically for real-time spatial reasoning and automation."
+                "NVIDIA partners with Noetra Corp to deploy a massive Vera Rubin AI factory using advanced hardware architecture.",
+                "The system integrates twenty-seven thousand Rubin graphics processors and over thirteen thousand high-performance Vera CPU chips.",
+                "This global deployment elevates physical computing benchmarks across industrialized edge networks and robotic development pipelines.",
+                "Sovereign nations will increasingly leverage customized regional infrastructure to bypass traditional public hyperscaler data limitations."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "LINUX FOUNDATION: AGENTIC PAYMENTS",
+            "heading": "MISTRAL: ROBOSTRAL AGENT SUITE",
             "points": [
-                "The Linux Foundation launched the x402 project to standardize native financial transactions within autonomous AI agent workflows.",
-                "This open protocol enables software agents, applications, and APIs to securely exchange value directly across the internet.",
-                "Standardizing agent-to-agent financial transactions resolves a critical missing link in decentralized machine-to-machine micro-billing and resource consumption.",
-                "Traditional billing models must adapt as transactional networks shift toward high-frequency, completely automated system-to-system micro-payments."
+                "Mistral launches Robostral Navigate alongside Mistral OCR 4 to establish structured records for enterprise agent execution.",
+                "The Vibe multi-step task scheduler optimizes operational latency across persistent memory databases and complex enterprise workflows.",
+                "Deep integration with industrial giants like ASML secures localized semiconductor lithography optimization within sovereign European boundaries.",
+                "Standardized open-weight models will rapidly disrupt proprietary software-as-a-service providers through highly customizable local deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
             "points": [
-                "NetApp acquired DataPelago to integrate advanced distributed data engine capabilities directly into its hybrid cloud offerings.",
-                "The transaction significantly strengthens enterprise capabilities for managing decentralized unstructured data required for active agentic architectures.",
-                "Solving data gravity remains the primary bottleneck for deploying secure, multi-region retrieval-augmented generation at enterprise scale.",
-                "Enterprise IT architectures will transition toward unified data lakes built specifically for real-time model orchestration."
+                "Anthropic releases Sonnet 5 to provide unmatched agentic reasoning capabilities for advanced coding and production pipelines.",
+                "The new platform leverages Claude Science to generate fully auditable artifacts for complex high-performance research laboratories.",
+                "Strategic liftoff of export controls on Fable 5 enables immediate global distribution of highly compliant models.",
+                "Enterprise developers will transition from simple prompt interfaces to fully autonomous systems with continuous human-in-the-loop oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RACKSPACE DEPLOYMENT",
+            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
             "points": [
-                "AMD secured a definitive agreement with Rackspace Technology to deploy a phased thirty-megawatt AI compute cluster infrastructure.",
-                "The hardware cluster will serve strictly regulated workloads needing rigorous security and operational architecture sovereignty.",
-                "This massive deployment positions AMD as a premier competitive alternative in the highly contested enterprise server processor space.",
-                "Organizations will increasingly mandate dedicated, physically isolated compute footprints to satisfy strict data sovereignty requirements."
+                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute infrastructure.",
+                "The collaboration incorporates newly acquired FastFlowLM capabilities to accelerate low-latency inference across highly regulated enterprise environments.",
+                "Integrating Instinct graphic units and EPYC processor engines provides a competitive alternative to market-dominant hardware ecosystems.",
+                "Institutional buyers will secure long-term physical capacity agreements to stabilize operational tokenomics amidst escalating GPU demand."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL SYSTEM",
+            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
             "points": [
-                "Mistral AI introduced Robostral Navigate to serve as a critical system of record for enterprise prompt architectures.",
-                "The system enables companies to orchestrate, evaluate, and trace complex agent skills across long-horizon business workflows.",
-                "Managing prompt histories and agent behaviors is essential for debugging enterprise deployments and ensuring compliance audits.",
-                "Development teams will adopt standardized execution registries to ensure deterministic outputs from highly autonomous software agents."
+                "Google DeepMind introduces Gemini 3.5 alongside Gemini Omni for real-time video-to-action reasoning inside native workspaces.",
+                "The ultra-efficient Nano Banana 2 Lite model delivers maximum intelligence-per-parameter directly on edge devices and smartphones.",
+                "Upgrading the underlying agent platform enables fully-managed Model Context Protocol servers to streamline multi-agent system orchestration.",
+                "Global enterprises will deploy lightweight localized architectures to run low-latency applications without sacrificing frontier model performance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: GPT-5.6 AND GPT-RED",
+            "heading": "ASML: HIGH NA LITHOGRAPHY",
             "points": [
-                "OpenAI released GPT-5.6 alongside GPT-Red, a custom model built specifically for automated safety red-teaming.",
-                "The update introduces self-improvement loops that proactively scan frontier architectures for potential misalignment and vulnerabilities.",
-                "Automated system self-defense becomes critical as models achieve deeper operating system integration and execute actions autonomously.",
-                "Security frameworks will transition from static human audits to continuous, model-driven defensive scanning of execution runtimes."
+                "ASML reaches a critical readiness milestone with its high numerical aperture extreme ultraviolet lithography manufacturing systems.",
+                "The technology delivers the first high-volume Logic product run to secure advanced node scaling for next-generation silicon.",
+                "Processing massive order pipelines guarantees ASML remains the sole global monopoly provider for foundational semiconductor manufacturing machinery.",
+                "Hardware fabricators must adopt High NA technology immediately to meet the exponential computing demands of future models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "OPENAI: GPT-5.6 INTELLIGENCE",
             "points": [
-                "ASML achieved a major readiness milestone with its High NA EUV system producing the first commercial product.",
-                "This lithography development ensures the mass production of next-generation logic chips with unprecedented energy and density characteristics.",
-                "Accelerating chip miniaturization remains fundamental to matching the exponential compute demands of modern frontier intelligence architectures.",
-                "Hardware designers can now architect post-training CPUs and GPUs using physical footprints previously restricted by lithographic limits."
+                "OpenAI deploys GPT-5.6 to establish frontier intelligence scaling across complex organizational security frameworks and developer platforms.",
+                "Security researchers deploy GPT-Red to automate system evaluations and proactively address critical operational bugs before production releases.",
+                "Recent user telemetry identified potential file deletion errors, prompting immediate infrastructure adjustments to safeguard local host environments.",
+                "Enterprise compliance teams will mandate deep observability platforms to mitigate edge-case vulnerabilities introduced by highly agentic models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
