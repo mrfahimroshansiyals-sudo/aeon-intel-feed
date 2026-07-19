@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JAPAN NATIONAL AI INFRASTRUCTURE",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA partners with Noetra to construct a sovereign AI factory utilizing next-generation Vera Rubin architectures.",
-                "The deployment features twenty-seven thousand five hundred Rubin GPUs to accelerate national physical AI workloads.",
-                "This integration establishes the world's first industrial-scale national artificial intelligence hardware infrastructure framework.",
-                "Japanese enterprise and robotics leaders will leverage the Cosmos platform to train advanced spatial intelligence."
+                "NVIDIA collaborates with Noetra Corporation to deploy the world's first national AI factory featuring next-generation architecture.",
+                "This deployment integrates 13,750 Vera CPUs alongside 27,500 Rubin GPUs to maximize post-training compute efficiency.",
+                "The infrastructure advances physical AI systems by utilizing Cosmos, Isaac, and Jetson Thor robotics platforms.",
+                "Enterprises gain localized, high-throughput sovereign computing nodes designed specifically to support complex agentic scaling models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER",
             "points": [
-                "ASML achieves a high numerical aperture lithography milestone by delivering its first high-volume logic manufacturing product.",
-                "The system optimizes sub-nanometer chip patterning to enable the mass production of next-generation physical processor architectures.",
-                "Global semiconductor foundries will utilize this precision hardware to scale energy-efficient high-performance computing chipsets.",
-                "This advancement cements ASML's monopoly on the specialized machines required to fuel global frontier AI infrastructure."
+                "OpenAI releases GPT-5.6 frontier intelligence model scaling operational capacity and introducing advanced reasoning across agent environments.",
+                "The release incorporates GPT-Red validation systems to systematically eliminate vulnerabilities and enhance model alignment protocols.",
+                "Engineers address critical file handling anomalies while optimizing Codex multi-agent pipelines for high-integrity corporate workflows.",
+                "This structural upgrade allows deep autonomous system integration but demands more rigorous validation frameworks for deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: AGENTIC PAYMENT PROTOCOL",
+            "heading": "AMD: FASTFLOWLM INFERENCE DEPLOYMENT",
             "points": [
-                "The Linux Foundation launches the x402 project to standardize native digital transaction protocols for autonomous agents.",
-                "This open network architecture enables AI applications and APIs to execute secure internet-based micropayments directly.",
-                "Standardizing transactional capabilities solves the critical challenge of direct machine-to-machine financial settlement without legacy friction.",
-                "Developers can integrate these payment structures to build decentralized, autonomous agentic economies across the enterprise web."
+                "AMD officially acquires FastFlowLM to accelerate complex model execution and optimize high-performance computing chip architecture.",
+                "The transaction consolidates open software platforms enabling rapid, low-latency deployment of heterogeneous enterprise AI inference tasks.",
+                "This hardware advancement targets the end-to-end agentic workflow market alongside a thirty-megawatt Rackspace sovereign compute partnership.",
+                "Enterprise clients can now scale distributed workloads more cost-effectively across consolidated EPYC and Instinct processor configurations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: RACKSPACE 30MW COMPUTE DEPLOYMENT",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "AMD executes a strategic agreement with Rackspace Technology to deploy thirty megawatts of specialized AI capacity.",
-                "The infrastructure utilizes enterprise-grade EPYC processors and Instinct graphics cards to host highly regulated workloads.",
-                "This deployment targets sovereign corporate clients requiring strict data localization and dedicated private cloud environments.",
-                "Enterprise operators obtain optimized total cost of ownership while executing complex multi-agent workflows at scale."
+                "The Linux Foundation launches the x402 project establishing open standards for transactional capabilities within digital networks.",
+                "This secure communication protocol allows automated software agents to execute frictionless micropayments without manual human intervention.",
+                "Industry developers seek to mitigate operational friction by establishing standardized systems of record for algorithmic transactions.",
+                "Organizations will deploy self-funding agent frameworks capable of independently purchasing required cloud resources and software services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: GPT-RED ROBUSTNESS FRAMEWORK",
+            "heading": "NETAPP: DATAPELAGO DISTRIBUTED DATA",
             "points": [
-                "OpenAI introduces the GPT-Red protocol designed to identify and mitigate complex vulnerabilities in frontier LLMs.",
-                "The specialized red-teaming system automates adversarial attacks to systematically harden models against sophisticated exploit techniques.",
-                "This software release addresses safety concerns regarding autonomous agents executing operations with file deletion capabilities.",
-                "Enterprise developers can leverage these robust testing methodologies to ensure secure alignment before production deployment."
+                "NetApp signs a definitive acquisition agreement with DataPelago to address architectural bottlenecks in distributed data architectures.",
+                "The integrated platform unifies scattered storage pools, enabling high-performance execution of complex agentic query operations.",
+                "Businesses struggle to maintain continuous context across fragmented cloud environments while scaling localized machine learning workflows.",
+                "Enterprise architects can build zero-trust transactional frameworks with robust, low-latency performance across hybrid data management fabrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NETAPP: DATAPELAGO DISTRIBUTED DATA ACQUISITION",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "NetApp acquires DataPelago to enhance unified data management capabilities across complex, highly distributed enterprise environments.",
-                "The integration resolves performance bottlenecks associated with preparing heterogeneous datasets for deep learning and inference.",
-                "Hybrid cloud architectures will gain standardized access to unstructured storage resources optimized for real-time agentic queries.",
-                "This transaction positions NetApp as a primary software provider for scaling structured data pipelines downstream."
+                "Mistral AI unveils Robostral Navigate, introducing a standardized system of record for operational prompt engineering management.",
+                "This software framework provides structural stability and lifecycle auditing for reusable skills across agentic development environments.",
+                "Global enterprises require deeper control systems to coordinate autonomous models within highly regulated transactional software environments.",
+                "Developers can reliably deploy long-horizon workflows while maintaining direct oversight of model behaviors and architectural compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE RESEARCH PLATFORM",
+            "heading": "THINKING MACHINES: INKLING ARCHITECTURE",
             "points": [
-                "Anthropic launches Claude Science, a specialized application containing integrated analytical tools for complex scientific research.",
-                "The platform generates completely auditable scientific artifacts while offering flexible options for accessing high-performance computing resources.",
-                "Researchers can leverage these specialized intelligence agents to accelerate discovery across biology and advanced materials science.",
-                "This strategic rollout establishes a dedicated framework for utilizing agentic systems to solve complex academic challenges."
+                "Thinking Machines Lab introduces Inkling, a massive 975-billion-parameter open-weight model optimized for sophisticated reasoning tasks.",
+                "The architecture boasts an expansive one-million-token context window designed to digest entire institutional databases without performance loss.",
+                "This model enters a highly competitive landscape, challenging existing performance benchmarks set by dominant international startups.",
+                "Global enterprises receive a robust domestic alternative for customizing open-weight solutions using private high-security server configurations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
