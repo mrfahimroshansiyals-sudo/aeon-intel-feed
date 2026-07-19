@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: ENTERPRISE IQ LAUNCH",
+            "heading": "NVIDIA: JAPAN NATIONAL AI FACTORY",
             "points": [
-                "Microsoft launched the IQ platform to provide a secure shared context layer for enterprise agents.",
-                "The new Azure HorizonDB database architecture enables microsecond-level scaling for mission-critical workloads.",
-                "This integration decouples legacy database structures to support continuous real-time agentic reasoning capabilities.",
-                "Enterprise developers will drastically reduce system latency while scaling complex multi-agent workflows."
+                "NVIDIA partnering with Noetra Corp launches world first national AI factory featuring thirteen thousand Vera CPUs.",
+                "Deployment integrates twenty-seven thousand Rubin GPUs scaling physical AI and robotics capabilities across Japanese industrial sectors.",
+                "Architectural deployment targets post-training workloads maximizing intelligence delivery per dollar for sovereign agentic AI networks.",
+                "Industrial stakeholders anticipate rapid transformation in automated manufacturing and localized enterprise foundation model orchestration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: ANTIGRAVITY AGENTICS",
+            "heading": "OPENAI: GPT-5.6 COGNITIVE FRONTIER",
             "points": [
-                "Google DeepMind unveiled the Antigravity agent platform and Nano Banana two Lite model.",
-                "The Gemini three point five model now integrates computer use features to automate enterprise tasks.",
-                "Deploying these lightweight models allows organizations to achieve high intelligence-per-parameter with lower compute overhead.",
-                "Engineers expect accelerated deployment of autonomous systems capable of executing complex multi-step workflows."
+                "OpenAI releases GPT-5.6 frontier intelligence model designed to scale reasoning capacity for ambitious enterprise applications.",
+                "Operations team acknowledges technical bug where active model processes may accidentally delete local system files.",
+                "Systems developers implement enhanced safety guardrails and monitoring agents to mitigate unexpected behavioral alignment deviations.",
+                "Corporate enterprise clients must execute isolated virtualization environments to secure sensitive local directories during runtime."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: RACKSPACE SOVEREIGN COMPUTE",
+            "heading": "LINUX FOUNDATION: NATIVE AI PAYMENTS",
             "points": [
-                "AMD partnered with Rackspace Technology to deploy thirty megawatts of specialized AI hardware.",
-                "This rollout integrates advanced Instinct graphics processors and high-performance server central processing units.",
-                "The infrastructure delivers optimized total cost of ownership for highly regulated enterprise software.",
-                "Regulated industries will gain secure sovereign data environments while maintaining rapid processing scalability."
+                "Linux Foundation establishes the x402 project to standardize native transactional protocols for independent AI agents.",
+                "Open protocol enables autonomous agents to securely purchase digital services directly across global internet networks.",
+                "Architecture integrates secure API payment methods combining POST payload flexibility with GET safe idempotent attributes.",
+                "Financial developers predict widespread transition toward machine-to-machine economies bypassing traditional human credit settlement pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: SONNET FIVE RELEASE",
+            "heading": "AMD: RACKSPACE COMPUTE PARTNERSHIP",
             "points": [
-                "Anthropic released Sonnet five alongside Claude Science to accelerate agentic software engineering.",
-                "The upgraded model offers top tier coding proficiency and produces fully auditable artifacts.",
-                "Lifting global export controls on Fable five allows cross-border engineering teams to deploy advanced architectures.",
-                "Research organizations will streamline scientific discovery by deploying customizable tool suites with flexible compute."
+                "AMD signs definitive agreement with Rackspace Technology for phased deployment of thirty megawatts of AI compute.",
+                "Infrastructure expansion addresses growing enterprise demand for highly regulated processing workloads across decentralized data centers.",
+                "Deployment leverages optimized EPYC CPUs and Instinct GPUs to deliver superior thermal and computational efficiency.",
+                "Strategic alliance secures critical hardware allocations protecting enterprise customers from ongoing global semiconductor supply constraints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU OFFICE: GPAI SCIENTIFIC PANEL",
+            "heading": "MISTRAL AI: ROBOSTRAL AGENT LAUNCH",
             "points": [
-                "The European Union established an independent scientific panel to enforce general-purpose model compliance.",
-                "The regulatory body will actively monitor risk classifications and operational transparency across member states.",
-                "This administrative framework provides structured technical guidelines for companies deploying high-risk artificial intelligence.",
-                "Global enterprises must audit their training pipelines immediately to avoid severe compliance penalties."
+                "Mistral AI introduces Robostral Navigate alongside OCR Version Four to accelerate automated long-horizon tasks.",
+                "The novel Vibe coding agent executes asynchronous generation and architecture-aware reasoning within active terminal systems.",
+                "Framework prioritizes persistent system memory and unified skill registries to minimize API token consumption costs.",
+                "Engineering teams benefit from streamlined legacy code translation and automated continuous integration testing workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: artificialintelligenceact.eu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: JAPANESE RUBIN FACTORY",
+            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
             "points": [
-                "NVIDIA partnered with Noetra to construct an advanced national factory using Rubin chips.",
-                "The supercomputing facility integrates over twenty-seven thousand high-performance graphics processing units.",
-                "Building physical foundation models on Cosmos software accelerates industrial automation and heavy robotics.",
-                "Industrial manufacturers will rapidly deploy autonomous systems that perceive and interact within three-dimensional space."
+                "ASML achieves critical readiness milestone with first high-volume Logic product manufactured using High NA EUV systems.",
+                "Semiconductor manufacturer reports nine billion Euros net sales reflecting massive global demand for advanced lithography.",
+                "System breakthrough allows leading chipmakers to pattern more dense transistors boosting general computational efficiency levels.",
+                "Global fabrication facilities will rapidly integrate high-aperture optics to power next-generation post-silicon compute architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LF: X402 PAYMENTS PROTOCOL",
+            "heading": "MICROSOFT: AZURE IQ AGENT INTEGRATION",
             "points": [
-                "Linux Foundation launched the x402 project to standardize native financial payments for agents.",
-                "This open-source protocol allows autonomous software agents to transact directly over the internet.",
-                "Decoupling transactional execution from traditional bank portals enables seamless programmatic micro-billing capabilities.",
-                "Software ecosystems will shift toward peer-to-peer agent transactions without requiring manual human oversight."
+                "Microsoft launches Azure IQ platform to securely connect autonomous agents with proprietary legacy enterprise data.",
+                "Architectural design provides complete shared business context enabling precise reasoning and action inside corporate environments.",
+                "System integrates directly with VS Code database extensions to boost PostgreSQL runtime performance and diagnostic observation.",
+                "Enterprises deploy these secure orchestration layers to run continuous DevOps pipelines with automated safety boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
