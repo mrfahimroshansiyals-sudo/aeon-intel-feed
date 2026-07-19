@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Sovereign AI Infrastructure",
-        "titleBlue": "Evolution"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "OpenAI released GPT-5.6 featuring advanced multi-agent capabilities designed to handle highly complex enterprise workflow automation natively.",
-                "The model introduces a specialized thirteen switch physical keyboard to accelerate developer interactions with Codex scripting.",
-                "High-capacity architecture enables direct file modification pipelines despite initial operational concerns regarding automated file deletion behaviors.",
-                "Enterprise developers must establish rigid file recovery systems to safeguard legacy codebase integrity during autonomous execution."
+                "NVIDIA partnered with Noetra Corp to deploy the world's first national AI factory using Rubin architectures.",
+                "Deploying 13,750 Vera CPUs alongside 27,500 Rubin GPUs scales localized computational capability exponentially.",
+                "The sovereign infrastructure aims to maximize intelligence per dollar efficiency for post training agentic workloads.",
+                "National security and automated manufacturing systems will leverage this centralized physical AI environment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "heading": "LINUX FOUNDATION: X402 PAYMENTS",
             "points": [
-                "Nvidia collaborated with Noetra Corporation to deploy Japan's national AI infrastructure featuring massive hybrid compute power.",
-                "The hardware architecture integrates thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin graphics processing units.",
-                "Localized hardware acceleration supports native deployment of Cosmos physical AI models across domestic manufacturing facilities.",
-                "International industrial leaders will rely on physical edge networks to drive autonomous robotic processes in heavy machinery."
+                "The Linux Foundation launched the x402 project to standardize native transactional payments for autonomous agents.",
+                "Standardizing an open payment protocol enables direct machine to machine financial settlements over the internet.",
+                "Developers can now integrate automated billing endpoints into independent API orchestration loops seamlessly.",
+                "The framework lays the operational groundwork for fully autonomous self funding software agents in commerce."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: HIGH NA EUV PROGRESSION",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "ASML achieved a massive production milestone by shipping its first high-volume Logic products utilizing advanced High NA lithography.",
-                "The system delivers unprecedented sub-nanometer patterning precision essential for next-generation microchip architectures and performance scaling.",
-                "High-volume manufacturing validation solidifies lithography dominance as global demand for advanced artificial intelligence hardware reaches historic levels.",
-                "System buyers will accelerate transition to advanced foundry structures to capture major energy-efficiency and logic density gains."
+                "NetApp acquired DataPelago to integrate specialized distributed data management capabilities for heterogeneous enterprise workloads.",
+                "Integrating DataPelago's technology allows seamless data orchestration across multi cloud and decentralized computing environments.",
+                "Enterprises face massive performance bottlenecks when feeding unstructured distributed datasets into generative training systems.",
+                "The consolidation positions NetApp as a primary infrastructure layer for complex sovereign retrieval architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LINUX FOUNDATION: X402 PAYMENT STANDARD",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "The Linux Foundation launched the x402 project to standardize native automated payment protocols for artificial intelligence agents.",
-                "This open-source standard enables software APIs and autonomous agents to purchase digital services seamlessly across global networks.",
-                "Traditional banking layers will integrate with these decentralized protocols to manage micro-transactions executed entirely by machine workflows.",
-                "Enterprise financial compliance officers must adapt audit frameworks to monitor rapid machine-to-machine transactions without human oversight."
+                "OpenAI officially announced the release of GPT-5.6, targeting enterprise scale applications requiring deep reasoning.",
+                "The frontier model offers a massive scale up in computational efficiency and advanced multi-step planning.",
+                "Simultaneous safety auditing via the GPT-Red platform ensures robust vulnerability testing before widespread deployment.",
+                "Organizations can now transition from basic chat assistants to highly complex autonomous workflows safely."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE INTEGRATION",
+            "heading": "NEW YORK: HYPERSCALE PAUSE",
             "points": [
-                "Anthropic released Claude Science designed to consolidate common research packages and generate fully auditable scientific artifacts.",
-                "The application integrates flexible high-performance computing resources directly within the natural language agent interface.",
-                "Scientists can now run complex simulation models and analyze large biological datasets within a secure unified platform.",
-                "Research institutions will utilize these tools to accelerate clinical drug discovery pipelines while maintaining strict computational compliance."
+                "New York State regulators officially paused issuing new permits for hyperscale AI data center developments.",
+                "The sudden suspension forces operators to re-evaluate regional grid impacts and environmental sustainability metrics.",
+                "Surging power demands from specialized compute clusters are rapidly outstripping existing municipal transmission infrastructure.",
+                "Developers must prioritize energy efficient chip architectures and alternative power sources to bypass regulatory bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "THINKING MACHINES: INKLING 975B MODEL",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
             "points": [
-                "Thinking Machines introduced Inkling a massive open-weight model scaling to nine hundred and seventy-five billion parameters natively.",
-                "The architecture supports a one-million-token context window optimized through specialized Tinker customization pipelines.",
-                "This open design provides global enterprises with a highly customizable alternative to closed proprietary frontier artificial intelligence models.",
-                "System administrators will deploy this model locally to achieve maximum data privacy while maintaining competitive reasoning capabilities."
+                "Mistral AI introduced Robostral Navigate to establish a unified system of record for agent skills.",
+                "The framework registers, tracks, and audits persistent memory structures across long horizon autonomous tasks.",
+                "Moving from ad-hoc prompt engineering to system registries secures consistent execution in complex developer environments.",
+                "This standard accelerates the deployment of autonomous coding agents with reliable and verifiable validation guardrails."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML & MISTRAL: LITHOGRAPHY AI",
+            "heading": "STANFORD HAI: SAFETY FLAW",
             "points": [
-                "ASML partnered with Mistral AI to integrate advanced frontier models into deep semiconductor lithography operations.",
-                "Computational lithography pipelines will leverage these open-weight models to automate complex defect detection and design pattern correction.",
-                "Joint engineering efforts demonstrate that native AI systems can drastically minimize hardware calibration times in advanced silicon manufacturing.",
-                "Global silicon foundries will leverage similar joint software integrations to maximize manufacturing yields at sub-two-nanometer nodes."
+                "Stanford HAI researchers exposed critical systemic flaws in human expert safety evaluations of conversational chatbots.",
+                "The study revealed that professional evaluators rarely reach consensus on safe mental health chatbot responses.",
+                "AI developers currently rely too heavily on inconsistent human evaluations to train algorithmic safety guardrails.",
+                "The findings underscore an urgent need for standardized objective metrics to measure conversational risk accurately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
