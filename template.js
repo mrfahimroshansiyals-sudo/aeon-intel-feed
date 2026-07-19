@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
             "points": [
-                "NVIDIA partners with Noetra Corp to deploy a massive Vera Rubin AI factory using advanced hardware architecture.",
-                "The system integrates twenty-seven thousand Rubin graphics processors and over thirteen thousand high-performance Vera CPU chips.",
-                "This global deployment elevates physical computing benchmarks across industrialized edge networks and robotic development pipelines.",
-                "Sovereign nations will increasingly leverage customized regional infrastructure to bypass traditional public hyperscaler data limitations."
+                "NVIDIA launched the Vera Rubin AI factory architecture, deploying 13,750 Vera CPUs and 27,500 Rubin GPUs to maximize intelligence per dollar.",
+                "This high-density infrastructure addresses critical post-training compute requirements for agentic workflows, emphasizing efficiency and sovereign data processing capabilities globally.",
+                "Strategic integration with Japanese industrial leaders leverages Cosmos and Isaac frameworks to accelerate physical AI deployment across robotics and manufacturing sectors.",
+                "The shift signals a transition from general compute toward specialized silicon optimized for perceive-reason-act loops in enterprise-grade production environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MISTRAL: ROBOSTRAL AGENT SUITE",
+            "heading": "GOOGLE CLOUD: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Mistral launches Robostral Navigate alongside Mistral OCR 4 to establish structured records for enterprise agent execution.",
-                "The Vibe multi-step task scheduler optimizes operational latency across persistent memory databases and complex enterprise workflows.",
-                "Deep integration with industrial giants like ASML secures localized semiconductor lithography optimization within sovereign European boundaries.",
-                "Standardized open-weight models will rapidly disrupt proprietary software-as-a-service providers through highly customizable local deployments."
+                "Google unveiled Gemini 3.5 and Omni Flash, focusing on frontier-level intelligence combined with autonomous agentic action across cloud service layers.",
+                "The expansion includes Agent Platform MCP server integration, facilitating fully managed, remote control for enterprise agent orchestration and governance models.",
+                "New Google AI Threat Defense protocols provide automated security layers to outpace adversarial exploitation of rapidly scaling cloud-native agentic ecosystems.",
+                "Stakeholders are migrating legacy workloads to agent-ready cloud environments to capture productivity gains through real-time generative feedback and automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: SONNET 5 DEPLOYMENT",
+            "heading": "ASML: LITHOGRAPHY AI UPGRADE",
             "points": [
-                "Anthropic releases Sonnet 5 to provide unmatched agentic reasoning capabilities for advanced coding and production pipelines.",
-                "The new platform leverages Claude Science to generate fully auditable artifacts for complex high-performance research laboratories.",
-                "Strategic liftoff of export controls on Fable 5 enables immediate global distribution of highly compliant models.",
-                "Enterprise developers will transition from simple prompt interfaces to fully autonomous systems with continuous human-in-the-loop oversight."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE ALLIANCE",
-            "points": [
-                "AMD signs a definitive agreement with Rackspace Technology to deploy thirty megawatts of specialized AI compute infrastructure.",
-                "The collaboration incorporates newly acquired FastFlowLM capabilities to accelerate low-latency inference across highly regulated enterprise environments.",
-                "Integrating Instinct graphic units and EPYC processor engines provides a competitive alternative to market-dominant hardware ecosystems.",
-                "Institutional buyers will secure long-term physical capacity agreements to stabilize operational tokenomics amidst escalating GPU demand."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: GEMINI OMNI",
-            "points": [
-                "Google DeepMind introduces Gemini 3.5 alongside Gemini Omni for real-time video-to-action reasoning inside native workspaces.",
-                "The ultra-efficient Nano Banana 2 Lite model delivers maximum intelligence-per-parameter directly on edge devices and smartphones.",
-                "Upgrading the underlying agent platform enables fully-managed Model Context Protocol servers to streamline multi-agent system orchestration.",
-                "Global enterprises will deploy lightweight localized architectures to run low-latency applications without sacrificing frontier model performance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ASML: HIGH NA LITHOGRAPHY",
-            "points": [
-                "ASML reaches a critical readiness milestone with its high numerical aperture extreme ultraviolet lithography manufacturing systems.",
-                "The technology delivers the first high-volume Logic product run to secure advanced node scaling for next-generation silicon.",
-                "Processing massive order pipelines guarantees ASML remains the sole global monopoly provider for foundational semiconductor manufacturing machinery.",
-                "Hardware fabricators must adopt High NA technology immediately to meet the exponential computing demands of future models."
+                "ASML reported a record-breaking second quarter in 2026, driven by high-volume logic chip demand and advanced AI-native engineering methodologies applied to lithography.",
+                "Strategic partnerships in India and Asia-Pacific underscore a push to secure the semiconductor supply chain through AI-optimized manufacturing and patterning processes.",
+                "Continued development in High NA EUV technology facilitates the production of more efficient, powerful chips essential for sustaining the global AI compute boom.",
+                "The company maintains a monopoly position by focusing on ultra-precise software-defined manufacturing cycles that enable the next generation of semiconductor architectures."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "OPENAI: GPT-5.6 INTELLIGENCE",
+            "id": 4,
+            "heading": "MISTRAL AI: FRONTIER AGENTIC WORK",
             "points": [
-                "OpenAI deploys GPT-5.6 to establish frontier intelligence scaling across complex organizational security frameworks and developer platforms.",
-                "Security researchers deploy GPT-Red to automate system evaluations and proactively address critical operational bugs before production releases.",
-                "Recent user telemetry identified potential file deletion errors, prompting immediate infrastructure adjustments to safeguard local host environments.",
-                "Enterprise compliance teams will mandate deep observability platforms to mitigate edge-case vulnerabilities introduced by highly agentic models."
+                "Mistral released Vibe, an autonomous agent platform designed for long-horizon task scheduling, enterprise knowledge search, and sophisticated document synthesis requirements.",
+                "The platform supports deep architectural reasoning and async code generation, catering to development teams requiring production-grade AI deployment portability.",
+                "Applied AI services facilitate domain adaptation through reinforcement learning, allowing enterprises to align proprietary models with high-stakes operational constraints.",
+                "Integration of Compute clusters provides frontier-scale infrastructure, effectively lowering the barrier for organizations building custom agentic workflows globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: AGENTIC WORKFLOW OPTIMIZATION",
+            "points": [
+                "AMD prioritized a comprehensive portfolio of CPUs, GPUs, and adaptive SOCs to support end-to-end agentic AI workflows across edge and data centers.",
+                "Strategic agreements with Rackspace Technology for phased 30 MW compute deployments highlight an aggressive push into regulated enterprise AI market segments.",
+                "Open ecosystem initiatives via ROCm software stack enable developers to optimize inference performance, challenging competitors in both cost and TCO efficiency.",
+                "New leadership appointments in AI research underscore a commitment to maintaining competitive parity as agents dominate the next phase of computing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
+            "points": [
+                "The EU AI Office established the Scientific Panel of Independent Experts to enforce compliance rules on general-purpose AI models and systemic risks.",
+                "Advisory Forum bodies provide the technical expertise required to manage the legal obligations defined for high-risk applications in European markets.",
+                "Transparency rules under Article 50 mandate rigorous documentation for both providers and deployers, creating a standardized framework for global AI accountability.",
+                "SMEs utilize new compliance checker tools to evaluate operational obligations, ensuring that business models align with evolving regional regulatory oversight requirements."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ANTHROPIC: SCIENCE AGENT LAUNCH",
+            "points": [
+                "Anthropic released Claude Science, a customizable platform integrating research tools and computing resources to produce auditable AI artifacts for laboratory environments.",
+                "The release of Sonnet 5 represents a milestone in agentic intelligence, delivering top-tier performance for coding, professional work, and long-horizon reasoning tasks.",
+                "Responsible scaling policies guide the deployment of these frontier models, emphasizing long-term safety, alignment science, and governance of powerful autonomous systems.",
+                "The research-first approach positions the firm to lead in complex scientific discovery and data-intensive fields requiring high-fidelity model performance and transparency."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
