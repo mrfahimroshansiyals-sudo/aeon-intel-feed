@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "FRONTIER AGENT",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SOVEREIGN JAPANESE INFRASTRUCTURE",
+            "heading": "OPENAI: GPT-5.6 ROLLOUT",
             "points": [
-                "NVIDIA partnered with Noetra Corporation to launch Japan's first sovereign national AI factory using Vera chips.",
-                "The system scales to twenty-seven thousand Rubin GPUs to power localized industrial robotics and manufacturing models.",
-                "This deployment establishes high-density physical AI capabilities while maintaining strict compliance with national security guidelines.",
-                "Global enterprises will transition to localized supercomputing hubs to secure intellectual property from external threats."
+                "OpenAI officially launched GPT-5.6 delivering frontier intelligence optimized to scale complex enterprise reasoning workloads dynamically.",
+                "The model exhibits advanced multi-step planning capabilities but requires strict file system governance during execution.",
+                "Developers must implement isolated sandbox environments to safeguard legacy files from accidental modification or deletion.",
+                "Enterprise architects are deploying robust monitoring harnesses to audit autonomous directory interactions in real time."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "NVIDIA: RUBIN AI FACTORY",
+            "points": [
+                "Nvidia collaborated with Noetra Corporation to deploy the first sovereign national AI factory in Japan.",
+                "The system integrates thirteen thousand seven hundred fifty Vera CPUs and twenty-seven thousand five hundred Rubin GPUs.",
+                "This architecture maximizes intelligence output per dollar specifically optimized for post-training and reasoning workloads.",
+                "Global infrastructure planners are utilizing this design to establish high-efficiency physical AI clusters internationally."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,77 +38,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "PURDUE: PROBABILISTIC COMPUTING BREAKTHROUGH",
-            "points": [
-                "Researchers successfully scaled the world's largest probabilistic computer to hit one million functional p-bits.",
-                "This milestone drastically accelerates optimization algorithms and quantum-adjacent computations at a fraction of energy costs.",
-                "Probabilistic architecture bypasses traditional silicon bottlenecks to perform parallel processing for complex industrial simulations.",
-                "Hardware developers will integrate p-bits alongside standard silicon to revolutionize real-time machine learning inference."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "LINUX FOUNDATION: NATIVE AI TRANSACTIONS",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "The Linux Foundation launched project x402 to standardize native payments for autonomous agentic web workflows.",
-                "This open protocol allows software agents to autonomously purchase digital services and API microtransactions instantly.",
-                "By embedding financial capabilities directly into AI code, the system eliminates traditional legacy billing intermediaries.",
-                "Developers can deploy fully self-sustaining agentic ecosystems capable of managing their own operational cloud budgets."
+                "The Linux Foundation established the x402 project to standardize native transactional payments for AI workflows.",
+                "This open protocol enables autonomous agents to securely purchase digital services directly over the web.",
+                "Financial systems are integrating the standard to authorize micro-transactions without requiring manual human validation.",
+                "Architects are configuring API endpoints to support standardized machine-to-machine financial clearing operations globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: REGULATED COMPUTE SCALING",
+            "heading": "THINKING MACHINES: INKLING MODEL",
             "points": [
-                "AMD partnered with Rackspace to deploy thirty megawatts of specialized AI compute for highly regulated workloads.",
-                "The infrastructure provides high-performance EPYC processors and Instinct GPUs tailored for sovereign compliance requirements.",
-                "Integrating FastFlowLM software directly into the hardware stack drastically optimizes real-time enterprise inference execution times.",
-                "Hyperscalers must rapidly adopt hybrid on-premise hardware configurations to satisfy strict local data governance rules."
+                "Thinking Machines Lab launched Inkling a nine hundred seventy-five billion parameter open-weight model for enterprise use.",
+                "The model features a robust one-million-token context window to process complex multi-document analytical reasoning.",
+                "It provides localized customization via the Tinker platform as an alternative to proprietary cloud models.",
+                "Enterprise software engineers are leveraging this architecture to reclaim complete control over proprietary training data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NEW YORK STATE: DATA CENTER SUSPENSION",
+            "heading": "ASML: HIGH NA EUV READINESS",
             "points": [
-                "New York State officially paused new permits for hyperscale data centers to evaluate massive environmental impacts.",
-                "The freeze directly targets energy-intensive AI workloads that threaten local power grid stability and municipal resources.",
-                "This regulatory pressure forces cloud operators to design highly adaptive software that dynamically balances grid demand.",
-                "Operators will pivot to regions offering clean high-voltage direct current power to maintain development velocity."
+                "ASML achieved a high volume logic milestone for its high numerical aperture extreme ultraviolet systems.",
+                "The semiconductor supplier reported nine point three billion euros in net sales for second quarter.",
+                "This technological milestone secures the physical manufacturing pipeline for next-generation sub-nanometer artificial intelligence microchips.",
+                "Leading chip fabrication foundries are preparing to integrate these massive lithography platforms into production lines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NETAPP: DISTRIBUTED DATA MANAGEMENT",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp acquired DataPelago to address severe bottlenecks in distributed data management for enterprise AI workflows.",
-                "The unified integration dramatically accelerates data preprocessing speeds for globally distributed large language model systems.",
-                "This architectural shift simplifies complex pipelines, allowing autonomous agents to query disparate data stores seamlessly.",
-                "Enterprises will consolidate storage architectures to support continuous training and secure retrieval-augmented generation workloads."
+                "NetApp acquired DataPelago to enhance decentralized data management capabilities for high-performance enterprise artificial intelligence.",
+                "The integration aims to resolve processing bottlenecks by dynamically mapping data workloads across hybrid cloud.",
+                "Data architects can now accelerate preparation pipelines for large-scale training of autonomous multi-agent systems.",
+                "This transaction signals a broader consolidation of storage players moving aggressively into specialized intelligence layers."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "OPENAI: ROBUST MODEL SAFETY AUDITING",
+            "heading": "GOOGLE DEEPMIND: GEMINI ACTION",
             "points": [
-                "OpenAI introduced GPT-Red to systematically audit and discover potential software vulnerabilities across global frontier models.",
-                "This dedicated cyber-hacking model achieves superior rates of vulnerability detection through automated red-teaming simulation routines.",
-                "Deploying defensive AI agents is critical to securing software code bases before malicious actors exploit weaknesses.",
-                "Security teams must adopt autonomous auditing tools to defend complex enterprise architectures against rapid cyber threats."
+                "Google DeepMind released Gemini three point five integrating advanced agentic actions with native computer use.",
+                "The platform deploys a fully-managed remote Model Context Protocol server to standardize external system integrations.",
+                "This framework simplifies the secure orchestration and governance of sovereign agents across enterprise cloud systems.",
+                "IT leaders are migrating workloads to this architecture to unlock real-time edge processing and automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
