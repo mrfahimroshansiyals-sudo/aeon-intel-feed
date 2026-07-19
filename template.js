@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC TECH",
-        "titleBlue": "EPOCH"
+        "titleWhite": "COGNITIVE INFRASTRUCTURE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL DEBUT",
+            "heading": "NVIDIA: RUBIN DEPLOYMENT",
             "points": [
-                "OpenAI officially launches its flagship GPT-5.6 frontier model designed for massive enterprise computational scalability.",
-                "Technical evaluations reveal minor storage bugs causing accidental file deletions during complex, multi-agent operations.",
-                "The model implements advanced context window expansions and real-time reasoning loops for mission-critical industrial workflows.",
-                "System architects must immediately integrate robust state-preservation wrappers to prevent unexpected data-handling loss in production."
+                "Nvidia partners with Noetra Corp to establish the first national AI factory featuring next-generation hardware architectures.",
+                "The system deploys thirteen thousand Vera CPUs paired with over twenty-seven thousand Rubin graphics processing units.",
+                "This hardware configuration is mathematically optimized to maximize performance per dollar metrics for agentic workloads globally.",
+                "Industrial partners in Japan are utilizing this infrastructure to scale physical robot simulations and autonomous edge systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SOVEREIGN COMPUTING POWER",
+            "heading": "ANTHROPIC: SCIENTIFIC ORCHESTRATION",
             "points": [
-                "NVIDIA collaborates with Japan and Noetra Corp to launch a sovereign national AI compute factory.",
-                "The deployment utilizes thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin graphics processing units.",
-                "This hardware cluster aims to accelerate localized industrial robotics and large-scale physical machine intelligence.",
-                "National engineering initiatives will leverage specialized Nemotron models to guarantee data security and architectural independence."
+                "Anthropic releases Claude Science to provide global researchers with customizable, highly auditable scientific compute environments.",
+                "The application natively integrates specialized mathematical libraries and programmatic toolkits required for complex molecular research workflows.",
+                "This development shifts laboratory paradigms by introducing automated, verifiable artifact generation alongside flexible cloud computing allocations.",
+                "Scientific organizations gain unprecedented control over data integrity pipelines while accelerating experimental iterations via natural language."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINUX FOUNDATION: AGENTIC PAYMENTS",
+            "heading": "ASML: HIGH-NA PRODUCTION",
             "points": [
-                "The Linux Foundation establishes the x402 protocol to standardize native financial transactions for AI agents.",
-                "This open-source protocol allows autonomous software entities to execute secure micro-payments over decentralized internet networks.",
-                "Financial technology companies expect the framework to dramatically reduce overhead costs associated with agentic web transactions.",
-                "Enterprise developers can now build self-sustaining software systems capable of independent resource provisioning and licensing."
+                "High NA EUV lithography achieves its critical volume milestone by printing the first commercial high-volume logic products.",
+                "This mechanical breakthrough ensures the fabrication of sub-nanometer transistor architectures crucial for next-generation generative processing chips.",
+                "Top-tier silicon foundries can now scale energy-efficient microchips with reduced patterning steps and minimized defect densities.",
+                "Industry transition to high numerical aperture tooling marks a decisive step in extending traditional semiconductor scaling laws."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NETAPP: ACCELERATED DATA STORAGE",
+            "heading": "LINUX FOUNDATION: AGENT TRANSACTION",
             "points": [
-                "NetApp acquires data-processing startup DataPelago to address performance bottlenecks in highly distributed enterprise storage architectures.",
-                "The integration of specialized acceleration engines streamlines pipeline optimization for heterogeneous data formats in AI.",
-                "IT teams will gain enhanced capacity to manage unstructured data across hybrid multi-cloud processing deployments.",
-                "This strategic merger directly targets cost inefficiencies in model training by improving overall storage access latency."
+                "The Linux Foundation establishes the x402 project to implement native payment protocols directly into agentic software workflows.",
+                "This open-standard specification allows autonomous software agents to execute financial transactions over standard internet protocols seamlessly.",
+                "Enterprises can now deploy decoupled agents capable of paying for API compute and services without human intervention.",
+                "Standardizing digital wallets for artificial intelligence mitigates security vulnerabilities associated with legacy enterprise billing systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GLOBAL GOVERNANCE: EURASIAN REGULATION",
+            "heading": "NEW YORK STATE: PERMIT RESTRICTION",
             "points": [
-                "China and Russia establish a twenty-nine-nation international AI regulatory body specifically excluding United States participation.",
-                "The coalition intends to draft independent global standards governing machine learning safety and computational sovereignty.",
-                "Geopolitical analysts warn this division will accelerate the divergence of technological standards and hardware ecosystems.",
-                "Multi-national corporations must prepare to navigate separate, conflicting compliance frameworks across eastern and western markets."
+                "New York state authorities pause licensing for hyperscale data centers to address mounting energy consumption concerns.",
+                "The administrative suspension demands that operators satisfy upcoming environment-focused guidelines before expanding regional server deployment footprints.",
+                "Infrastructure architects must optimize power management software and integrate alternative energy generation sources to bypass regulatory blocks.",
+                "This regulatory pivot accelerates the industry trend toward building decentralized, power-flexible computing networks in compliant jurisdictions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "THINKING MACHINES: ENTERPRISE MODEL",
+            "heading": "GOOGLE CLOUD: PROTOCOL FEDERATION",
             "points": [
-                "Thinking Machines Lab releases Inkling, a massive open-weight model scaling to nine hundred seventy-five billion parameters.",
-                "The model incorporates a one-million-token context window tailored for deep reasoning and code optimization tasks.",
-                "This release provides a competitive domestic alternative to proprietary frontier systems for heavily regulated western enterprises.",
-                "System administrators can fine-tune Inkling on proprietary hardware to maintain strict administrative control over corporate intelligence."
+                "Google Cloud deploys fully-managed Model Context Protocol servers to standardize communication between client applications and models.",
+                "Developers can securely link remote context data engines with automated reasoning pipelines across distributed, multi-tenant cloud systems.",
+                "This platform upgrade streamlines multi-agent orchestration frameworks while maintaining stringent logical access isolation boundaries at runtime.",
+                "Enterprise architects can rapidly scale system integrations by utilizing pre-configured connection models in complex application environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: AGENT INTERFACE ACTIONS",
+            "heading": "NETAPP: SCALED PIPELINING",
             "points": [
-                "Google DeepMind launches Gemini 3.5, combining state-of-the-art vision processing with integrated system computer-use capabilities.",
-                "The new architecture allows autonomous models to safely manipulate digital interfaces and execute complex multi-step workflows.",
-                "Developers can configure fully managed remote model servers to orchestrate enterprise agent activities with low latency.",
-                "Enhanced governance protocols ensure strict monitoring of execution paths to prevent unauthorized actions during production deployment."
+                "NetApp acquires DataPelago to integrate unified data management architectures optimized for distributed artificial intelligence systems.",
+                "The combined platform accelerates data ingestion performance across hybrid, public, and private cloud database storage networks.",
+                "Enterprise engineering teams can automate complex data preparation pipelines required for real-time model tuning and evaluation.",
+                "Mitigating unstructured data bottlenecks enables organizations to run performant, context-rich agent networks with reduced infrastructure overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
