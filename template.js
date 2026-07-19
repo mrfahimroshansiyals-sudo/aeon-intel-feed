@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERARUBIN ARCHITECTURE",
+            "heading": "NVIDIA: SOVEREIGN JAPANESE INFRASTRUCTURE",
             "points": [
-                "Nvidia announced the Vera Rubin factory platform utilizing 13,750 Vera CPUs and 27,500 Rubin GPUs.",
-                "The infrastructure targets maximum intelligence per dollar, a critical metric for scaling agentic AI workloads.",
-                "This architecture supports confidential computing and secure agent workspaces, optimizing TCO for enterprise-grade deployments.",
-                "Nvidia is leveraging this full-stack integration to lead the next generation of physical AI factories."
+                "NVIDIA partnered with Noetra Corporation to launch Japan's first sovereign national AI factory using Vera chips.",
+                "The system scales to twenty-seven thousand Rubin GPUs to power localized industrial robotics and manufacturing models.",
+                "This deployment establishes high-density physical AI capabilities while maintaining strict compliance with national security guidelines.",
+                "Global enterprises will transition to localized supercomputing hubs to secure intellectual property from external threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL: AGENTIC WORKFLOWS",
+            "heading": "PURDUE: PROBABILISTIC COMPUTING BREAKTHROUGH",
             "points": [
-                "Mistral released Vibe, an autonomous agent platform designed specifically for long-horizon enterprise tasks and coding.",
-                "The architecture provides architecture-aware reasoning and legacy code translation to streamline developer productivity workflows.",
-                "Mistral is integrating Studio for unified model registry and agent observability to ensure production-grade deployment control.",
-                "Enterprises can leverage dedicated compute clusters for domain-specialized AI pre-training and reinforcement learning tasks."
+                "Researchers successfully scaled the world's largest probabilistic computer to hit one million functional p-bits.",
+                "This milestone drastically accelerates optimization algorithms and quantum-adjacent computations at a fraction of energy costs.",
+                "Probabilistic architecture bypasses traditional silicon bottlenecks to perform parallel processing for complex industrial simulations.",
+                "Hardware developers will integrate p-bits alongside standard silicon to revolutionize real-time machine learning inference."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENTIC DATA CLOUD",
+            "heading": "LINUX FOUNDATION: NATIVE AI TRANSACTIONS",
             "points": [
-                "Google Cloud introduced Gemini 3.5 with expanded frontier intelligence and integrated action-oriented capabilities for agents.",
-                "The Agent Platform now includes a fully-managed, remote MCP server to simplify enterprise-grade agent orchestration.",
-                "New data cloud updates enable a system of action for real-time document and report synthesis workloads.",
-                "Strategic developer programs like GEAR provide 35 monthly credits to accelerate building and scaling AI agents."
+                "The Linux Foundation launched project x402 to standardize native payments for autonomous agentic web workflows.",
+                "This open protocol allows software agents to autonomously purchase digital services and API microtransactions instantly.",
+                "By embedding financial capabilities directly into AI code, the system eliminates traditional legacy billing intermediaries.",
+                "Developers can deploy fully self-sustaining agentic ecosystems capable of managing their own operational cloud budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: SAFETY AND SCALING",
+            "heading": "AMD: REGULATED COMPUTE SCALING",
             "points": [
-                "OpenAI introduced GPT-Red, a dedicated framework for testing model robustness and proactive self-improvement against vulnerabilities.",
-                "The organization continues to integrate Codex for advanced multi-agent development and secure enterprise-wide automation.",
-                "Research efforts focus on life sciences with the GPT-Rosalind model for accelerating complex biotech and analytical discovery.",
-                "Deployment strategies emphasize transparency and content provenance to ensure safety in mission-critical automated agent interactions."
+                "AMD partnered with Rackspace to deploy thirty megawatts of specialized AI compute for highly regulated workloads.",
+                "The infrastructure provides high-performance EPYC processors and Instinct GPUs tailored for sovereign compliance requirements.",
+                "Integrating FastFlowLM software directly into the hardware stack drastically optimizes real-time enterprise inference execution times.",
+                "Hyperscalers must rapidly adopt hybrid on-premise hardware configurations to satisfy strict local data governance rules."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TSMC: A16 NANOSHEET INNOVATION",
+            "heading": "NEW YORK STATE: DATA CENTER SUSPENSION",
             "points": [
-                "TSMC unveiled A16 nanosheet technology with super power rail for high-performance computing and AI infrastructure needs.",
-                "The A14 manufacturing process incorporates NanoFlex Pro to optimize logic scaling and energy efficiency for silicon.",
-                "TSMC is expanding its 3D IC ecosystem to support the rigorous demands of next-generation AI chip architectures.",
-                "The company remains focused on global supply chain flexibility and sustainability through its annual ESG report."
+                "New York State officially paused new permits for hyperscale data centers to evaluate massive environmental impacts.",
+                "The freeze directly targets energy-intensive AI workloads that threaten local power grid stability and municipal resources.",
+                "This regulatory pressure forces cloud operators to design highly adaptive software that dynamically balances grid demand.",
+                "Operators will pivot to regions offering clean high-voltage direct current power to maintain development velocity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: AGENTIC PORTFOLIO",
+            "heading": "NETAPP: DISTRIBUTED DATA MANAGEMENT",
             "points": [
-                "AMD positioned its portfolio of EPYC CPUs and Instinct GPUs as the backbone for full agentic workflows.",
-                "Strategic agreements involve deploying 30MW of compute power to support regulated enterprise workloads in cloud data centers.",
-                "The ecosystem prioritizes open standards through ROCm software to ensure flexible and optimized deployment for AI developers.",
-                "AMD is focused on delivering industry-leading TCO and efficiency to stay competitive in the enterprise server CPU race."
+                "NetApp acquired DataPelago to address severe bottlenecks in distributed data management for enterprise AI workflows.",
+                "The unified integration dramatically accelerates data preprocessing speeds for globally distributed large language model systems.",
+                "This architectural shift simplifies complex pipelines, allowing autonomous agents to query disparate data stores seamlessly.",
+                "Enterprises will consolidate storage architectures to support continuous training and secure retrieval-augmented generation workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE SHIFT",
+            "heading": "OPENAI: ROBUST MODEL SAFETY AUDITING",
             "points": [
-                "The Scientific Panel of Independent Experts is now enforcing GPAI models governance under the EU AI Act.",
-                "New transparency rules under Article 50 define specific compliance obligations for providers and deployers of AI systems.",
-                "Organizations are utilizing the AI Act Compliance Checker to address legal requirements for high-risk AI application deployments.",
-                "The framework serves as a global benchmark, influencing international regulation and standardizing AI safety and development protocols."
+                "OpenAI introduced GPT-Red to systematically audit and discover potential software vulnerabilities across global frontier models.",
+                "This dedicated cyber-hacking model achieves superior rates of vulnerability detection through automated red-teaming simulation routines.",
+                "Deploying defensive AI agents is critical to securing software code bases before malicious actors exploit weaknesses.",
+                "Security teams must adopt autonomous auditing tools to defend complex enterprise architectures against rapid cyber threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
