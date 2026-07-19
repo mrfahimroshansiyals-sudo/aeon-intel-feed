@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "Sovereign AI Infrastructure",
+        "titleBlue": "Evolution"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: JAPAN NATIONAL AI FACTORY",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "points": [
-                "NVIDIA partnering with Noetra Corp launches world first national AI factory featuring thirteen thousand Vera CPUs.",
-                "Deployment integrates twenty-seven thousand Rubin GPUs scaling physical AI and robotics capabilities across Japanese industrial sectors.",
-                "Architectural deployment targets post-training workloads maximizing intelligence delivery per dollar for sovereign agentic AI networks.",
-                "Industrial stakeholders anticipate rapid transformation in automated manufacturing and localized enterprise foundation model orchestration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 COGNITIVE FRONTIER",
-            "points": [
-                "OpenAI releases GPT-5.6 frontier intelligence model designed to scale reasoning capacity for ambitious enterprise applications.",
-                "Operations team acknowledges technical bug where active model processes may accidentally delete local system files.",
-                "Systems developers implement enhanced safety guardrails and monitoring agents to mitigate unexpected behavioral alignment deviations.",
-                "Corporate enterprise clients must execute isolated virtualization environments to secure sensitive local directories during runtime."
+                "OpenAI released GPT-5.6 featuring advanced multi-agent capabilities designed to handle highly complex enterprise workflow automation natively.",
+                "The model introduces a specialized thirteen switch physical keyboard to accelerate developer interactions with Codex scripting.",
+                "High-capacity architecture enables direct file modification pipelines despite initial operational concerns regarding automated file deletion behaviors.",
+                "Enterprise developers must establish rigid file recovery systems to safeguard legacy codebase integrity during autonomous execution."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +22,29 @@ const dailyData = {
             ]
         },
         {
+            "id": 2,
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "points": [
+                "Nvidia collaborated with Noetra Corporation to deploy Japan's national AI infrastructure featuring massive hybrid compute power.",
+                "The hardware architecture integrates thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin graphics processing units.",
+                "Localized hardware acceleration supports native deployment of Cosmos physical AI models across domestic manufacturing facilities.",
+                "International industrial leaders will rely on physical edge networks to drive autonomous robotic processes in heavy machinery."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 3,
-            "heading": "LINUX FOUNDATION: NATIVE AI PAYMENTS",
+            "heading": "ASML: HIGH NA EUV PROGRESSION",
             "points": [
-                "Linux Foundation establishes the x402 project to standardize native transactional protocols for independent AI agents.",
-                "Open protocol enables autonomous agents to securely purchase digital services directly across global internet networks.",
-                "Architecture integrates secure API payment methods combining POST payload flexibility with GET safe idempotent attributes.",
-                "Financial developers predict widespread transition toward machine-to-machine economies bypassing traditional human credit settlement pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: RACKSPACE COMPUTE PARTNERSHIP",
-            "points": [
-                "AMD signs definitive agreement with Rackspace Technology for phased deployment of thirty megawatts of AI compute.",
-                "Infrastructure expansion addresses growing enterprise demand for highly regulated processing workloads across decentralized data centers.",
-                "Deployment leverages optimized EPYC CPUs and Instinct GPUs to deliver superior thermal and computational efficiency.",
-                "Strategic alliance secures critical hardware allocations protecting enterprise customers from ongoing global semiconductor supply constraints."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL AGENT LAUNCH",
-            "points": [
-                "Mistral AI introduces Robostral Navigate alongside OCR Version Four to accelerate automated long-horizon tasks.",
-                "The novel Vibe coding agent executes asynchronous generation and architecture-aware reasoning within active terminal systems.",
-                "Framework prioritizes persistent system memory and unified skill registries to minimize API token consumption costs.",
-                "Engineering teams benefit from streamlined legacy code translation and automated continuous integration testing workflows."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
-            "points": [
-                "ASML achieves critical readiness milestone with first high-volume Logic product manufactured using High NA EUV systems.",
-                "Semiconductor manufacturer reports nine billion Euros net sales reflecting massive global demand for advanced lithography.",
-                "System breakthrough allows leading chipmakers to pattern more dense transistors boosting general computational efficiency levels.",
-                "Global fabrication facilities will rapidly integrate high-aperture optics to power next-generation post-silicon compute architectures."
+                "ASML achieved a massive production milestone by shipping its first high-volume Logic products utilizing advanced High NA lithography.",
+                "The system delivers unprecedented sub-nanometer patterning precision essential for next-generation microchip architectures and performance scaling.",
+                "High-volume manufacturing validation solidifies lithography dominance as global demand for advanced artificial intelligence hardware reaches historic levels.",
+                "System buyers will accelerate transition to advanced foundry structures to capture major energy-efficiency and logic density gains."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MICROSOFT: AZURE IQ AGENT INTEGRATION",
+            "id": 4,
+            "heading": "LINUX FOUNDATION: X402 PAYMENT STANDARD",
             "points": [
-                "Microsoft launches Azure IQ platform to securely connect autonomous agents with proprietary legacy enterprise data.",
-                "Architectural design provides complete shared business context enabling precise reasoning and action inside corporate environments.",
-                "System integrates directly with VS Code database extensions to boost PostgreSQL runtime performance and diagnostic observation.",
-                "Enterprises deploy these secure orchestration layers to run continuous DevOps pipelines with automated safety boundaries."
+                "The Linux Foundation launched the x402 project to standardize native automated payment protocols for artificial intelligence agents.",
+                "This open-source standard enables software APIs and autonomous agents to purchase digital services seamlessly across global networks.",
+                "Traditional banking layers will integrate with these decentralized protocols to manage micro-transactions executed entirely by machine workflows.",
+                "Enterprise financial compliance officers must adapt audit frameworks to monitor rapid machine-to-machine transactions without human oversight."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ANTHROPIC: CLAUDE SCIENCE INTEGRATION",
+            "points": [
+                "Anthropic released Claude Science designed to consolidate common research packages and generate fully auditable scientific artifacts.",
+                "The application integrates flexible high-performance computing resources directly within the natural language agent interface.",
+                "Scientists can now run complex simulation models and analyze large biological datasets within a secure unified platform.",
+                "Research institutions will utilize these tools to accelerate clinical drug discovery pipelines while maintaining strict computational compliance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "THINKING MACHINES: INKLING 975B MODEL",
+            "points": [
+                "Thinking Machines introduced Inkling a massive open-weight model scaling to nine hundred and seventy-five billion parameters natively.",
+                "The architecture supports a one-million-token context window optimized through specialized Tinker customization pipelines.",
+                "This open design provides global enterprises with a highly customizable alternative to closed proprietary frontier artificial intelligence models.",
+                "System administrators will deploy this model locally to achieve maximum data privacy while maintaining competitive reasoning capabilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ASML & MISTRAL: LITHOGRAPHY AI",
+            "points": [
+                "ASML partnered with Mistral AI to integrate advanced frontier models into deep semiconductor lithography operations.",
+                "Computational lithography pipelines will leverage these open-weight models to automate complex defect detection and design pattern correction.",
+                "Joint engineering efforts demonstrate that native AI systems can drastically minimize hardware calibration times in advanced silicon manufacturing.",
+                "Global silicon foundries will leverage similar joint software integrations to maximize manufacturing yields at sub-two-nanometer nodes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
