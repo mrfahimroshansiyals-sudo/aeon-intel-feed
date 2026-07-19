@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SOVEREIGN RUBIN FACTORY",
+            "heading": "NVIDIA: RUBIN DEPLOYMENT",
             "points": [
-                "NVIDIA partnered with Noetra Corp to deploy 13,750 Vera CPUs and 27,500 Rubin GPUs in Japan.",
-                "The sovereign deployment establishes a national AI factory optimized for physical robotics and post-training workloads.",
-                "This architecture scales intelligence per dollar, bypassing traditional infrastructure bottlenecks through massive parallel physical AI modeling.",
-                "Global enterprises must transition toward decentralized sovereign cloud frameworks to comply with localized computational security mandates."
+                "NVIDIA partners with Noetra to build a sovereign AI factory utilizing next-generation Vera Rubin chips.",
+                "The massive installation deploys thirteen thousand seven hundred fifty CPUs alongside twenty-seven thousand five hundred GPUs.",
+                "This infrastructure focuses heavily on maximizing intelligence-per-dollar metrics specifically targeted at agentic post-training workloads.",
+                "Global enterprises will rapidly transition away from legacy cloud hardware toward sovereign, on-premises accelerated processing infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "LINUX FOUNDATION: AGENT PAYMENTS",
+            "heading": "OPENAI: FRONTIER COGNITION",
             "points": [
-                "The Linux Foundation launched the x402 project to standardize native transaction protocols for autonomous AI agents.",
-                "Automated systems can now execute micro-payments across the web safely without relying on legacy banking integration.",
-                "Decoupling financial transactions from manual human oversight enables continuous, self-sustaining operations within distributed multi-agent networks.",
-                "Financial technology firms must develop specialized agentic gateways to support high-velocity, machine-to-machine micro-transactions in real time."
+                "OpenAI introduces GPT-5.6, showcasing advanced frontier intelligence designed to scale complex logical and agentic workloads.",
+                "The model scales enterprise capabilities while engineers resolve minor file-deletion anomalies through robust safety updates.",
+                "Integration with Codex and dedicated hardware interfaces establishes a new paradigm for secure developer agent automation.",
+                "Enterprise software teams will experience massive efficiency gains by shifting standard testing pipelines to autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: INFERENCE SOFTWARE INTEGRATION",
+            "heading": "ANTHROPIC: AGENTIC EVOLUTION",
             "points": [
-                "AMD integrated FastFlowLM into its open ecosystem to accelerate enterprise-scale generative AI model inference.",
-                "The consolidation enhances ROCm software capability, offering significantly improved execution speeds and reduced operational latency.",
-                "Consolidating software optimization with EPYC and Instinct hardware enables cost-effective scaling of complex agentic workflows.",
-                "Competitors must prioritize software stack optimization to challenge NVIDIA's dominance in high-throughput enterprise hardware architectures."
+                "Anthropic launches Sonnet five, their most advanced model designed for complex multi-step reasoning and professional coding.",
+                "The release bypasses previous global export controls to immediately provide highly agentic capabilities to international developers.",
+                "The platform integrates with custom scientific workflows and automated research tools to construct auditable data artifacts.",
+                "Academic and corporate labs will drastically accelerate discovery timelines using customizable, highly secure virtual intelligence agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NEW YORK: HYPERSCALE PERMIT FREEZE",
+            "heading": "X402: TRANSACTION STANDARDIZATION",
             "points": [
-                "New York State suspended the issuance of new permits for hyperscale AI data centers.",
-                "The temporary freeze allows regulatory boards to establish rigid standards for grid capacity and environmental protection.",
-                "Rapidly growing electrical demands from generative AI clusters force local governments to balance tech development with ecological limits.",
-                "Hyperscalers must invest in energy-flexible software architecture and high-voltage direct current systems to bypass regional permitting halts."
+                "The Linux Foundation launches the x402 project to deliver native open-source payment protocols for autonomous agents.",
+                "Millions of micro-transactions will execute directly between software APIs without requiring any manual human financial authorization.",
+                "This open protocol decouples transactional mechanics from traditional billing systems to optimize global enterprise tokenomics structures.",
+                "Automated financial agents will soon manage independent corporate budgets to execute real-time cross-border infrastructure procurement tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,12 +71,12 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "NETAPP: DISTRIBUTED DATA EXPANSION",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp acquired DataPelago to integrate advanced distributed data management engines directly into its storage fabrics.",
-                "The platform streamlines processing pipelines, allowing deep learning architectures to ingest unstructured datasets with zero friction.",
-                "Resolving data pipeline congestion is essential for organizations scaling highly distributed retrieval-augmented generation models across clouds.",
-                "Cloud storage providers must unify disparate databases to offer seamless data access layers optimized for automated agents."
+                "NetApp acquires DataPelago to integrate specialized distributed execution engines directly into hybrid cloud storage architectures.",
+                "Enterprise clients can now process petabyte-scale unstructured data across multiple clouds without experiencing latency bottlenecks.",
+                "Unifying distributed databases with vector processing layers resolves critical transport pipeline challenges in enterprise agent setups.",
+                "Data executives will accelerate model fine-tuning and retrieval-augmented generation pipelines using unified physical storage controllers."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "OPENAI: MODEL SECURITY DEFECTS",
+            "heading": "AMD: INFERENCE ACCELERATION",
             "points": [
-                "OpenAI acknowledged that its newly deployed GPT-5.6 model contains bugs causing accidental local file deletions.",
-                "System administrators report critical data loss when autonomous agent workflows execute commands with elevated administrative privileges.",
-                "The incident underscores the inherent risks of granting frontier models write-access to local files without isolation wrappers.",
-                "Developers must deploy strict, sandboxed container environments for all agentic execution paths to prevent catastrophic system changes."
+                "AMD acquires FastFlowLM to build highly optimized inference pipelines across their EPYC and Instinct processor ecosystems.",
+                "The integration targets extreme throughput improvements for complex multi-agent reasoning tasks at much lower cost-per-token.",
+                "Decoupling inference runtimes from vendor-locked software enables open deployment options across heterogeneous datacenter networks.",
+                "Enterprise hardware planners will aggressively deploy AMD microprocessors to combat accelerating GPU supply constraints and operational costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US ADMINISTRATION: FRONTIER MODEL LIMITS",
+            "heading": "ASML: LITHOGRAPHY EVOLUTION",
             "points": [
-                "The US administration began directly dictating access guidelines for next-generation frontier artificial intelligence models.",
-                "National security policies are restricting foreign access to high-compute clusters and cutting-edge software training weights.",
-                "Geopolitical competition over chip supply chains is expanding to include strict oversight of algorithmic architectures and weights.",
-                "Global enterprises must design hybrid-cloud pipelines to maintain cross-border operations amid intensifying national technological protectionism."
+                "ASML reaches a production milestone by delivering its first high-volume Logic products using High-NA EUV lithography.",
+                "The advanced machinery patterns sub-nanometer features to provide double the transistor density for next-generation silicon designs.",
+                "Commercializing this extreme ultraviolet technology provides the essential physical manufacturing foundation for upcoming foundational intelligence models.",
+                "Global foundries will rely exclusively on these advanced systems to produce energy-efficient chips required by automated supercomputers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
