@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AGENTIC AI",
-        "titleBlue": "ASCENDANCE"
+        "titleWhite": "SOVEREIGN AI",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: RACK-SCALE AI INFRASTRUCTURE",
+            "heading": "AMD: HELIOS PLATFORM",
             "points": [
-                "AMD launched Helios, a high-density rack system engineered to challenge Nvidia's dominance in enterprise AI.",
-                "This architecture features advanced CPU and GPU integration designed for massive, multi-tenant agentic workloads.",
-                "Microsoft has emerged as the primary launch buyer, signaling a pivot toward diversified hardware supply chains.",
-                "Industry analysts position Helios as a strategic benchmark for TCO optimization in large-scale model training."
+                "AMD launches Helios, its first high-density rack AI system engineered directly to challenge market dominant Nvidia architectures.",
+                "Microsoft signs on as lead buyer, integrating custom Helios racks into its global Azure cloud datacenters.",
+                "The partnership validates AMD's open ecosystem strategy as enterprises seek alternatives to proprietary GPU platform environments.",
+                "Industry analysts predict Helios deployments will rapidly commoditize deep learning hardware markets throughout the coming fiscal year."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA RUBIN AI FACTORY",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "NVIDIA announced the deployment of Vera Rubin AI factories, utilizing 13,750 Vera CPUs per cluster.",
-                "The architecture prioritizes intelligence per dollar and power efficiency for high-demand agentic reasoning tasks.",
-                "Bristol Myers Squibb is integrating this infrastructure to advance life science research and model scalability.",
-                "The EVD platform allows enterprises to achieve secure agent workspaces with internal tokenomics and control."
+                "OpenAI releases GPT-5.6, representing its latest milestone in high-capacity reasoning models built for automated workflows.",
+                "Developers express concern over recent Codex context reductions designed to optimize API token performance and control costs.",
+                "The model release emphasizes structural optimization over raw parameter expansion to deliver more sustainable computational efficiency levels.",
+                "Enterprises deploying agentic frameworks must adjust their systemic memory architectures to accommodate these new token processing parameters."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: COSMOS ARCHITECTURE",
+            "points": [
+                "Nvidia introduces Cosmos, an open-source world action model utilizing a mixture-of-transformers architecture for complex spatial reasoning.",
+                "The model integrates video, actions, language, and audio to generate physics-aware simulations of physical and digital environments.",
+                "Integrating Cosmos into the Nvidia Omniverse platform accelerates development cycles for next-generation autonomous robotics systems worldwide.",
+                "Developers gain an unprecedented tool for post-training world-simulation agents across diverse industrial manufacturing and logistics testbeds."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MISTRAL: AUTONOMOUS AGENT WORKFLOWS",
-            "points": [
-                "Mistral introduced Vibe, an agentic framework designed to handle long-horizon tasks and persistent memory.",
-                "The system architecture supports complex multi-step task scheduling across enterprise software and custom environments.",
-                "New integrations with terminal and IDE tools enable asynchronous code generation and automated deployment.",
-                "The platform provides frontier-scale orchestration capabilities for organizations managing diverse, domain-specialized AI models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "MICROSOFT: AZURE AGENTIC FABRIC",
+            "heading": "BLACKROCK: META DATA FINANCING",
             "points": [
-                "Microsoft Azure unveiled deep integrations for agentic workflows using the IQ connectivity service layer.",
-                "Agents can now access shared business context across diverse enterprise data sources for reasoning operations.",
-                "New PostgreSQL extensions for VS Code enable real-time database diagnosis and performance optimization for AI.",
-                "The Frontier Transformation Week focuses on moving agentic models from potential to high-impact production."
+                "BlackRock leads a massive twelve-billion-dollar financing structure to expand Meta's advanced physical data centers across Texas.",
+                "This unprecedented capital injection secures critical energy grid access and hardware inventory required for frontier agentic model training.",
+                "Wall Street firms are increasingly bypassing traditional capital routes to directly finance hyperscale AI physical infrastructure requirements.",
+                "This capital injection ensures Meta can aggressively scale its open-weight models against heavily capitalized proprietary platform rivals."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: GEMINI AGENT PLATFORM",
+            "heading": "DEEPMIND: AGENTIC UPGRADE",
             "points": [
-                "Google Cloud introduced Gemini Omni Flash and Nano Banana 2 Lite for scalable, multimodal agent operations.",
-                "The updated Agent Platform enables fully managed, remote MCP server deployment for enterprise developers.",
-                "New AI Threat Defense tools were released to secure infrastructure against emerging adversarial AI tactics.",
-                "Expanded GEAR credits facilitate rapid developer transition to production-grade agentic AI system development."
+                "Google DeepMind introduces Gemini 3.5, combining frontier reasoning intelligence with native system-level computer action execution capabilities.",
+                "DeepMind concurrently launches Nano Banana 2 Lite, optimizing image generation workloads specifically for edge-computing mobile devices.",
+                "The concurrent releases highlight Google's dual-track development strategy prioritizing both hyper-efficient edge models and agentic action engines.",
+                "Enterprise developers can now build seamless cross-platform workflows that automate complex multi-step screen-based tasks natively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: SAFETY & ROBUSTNESS TESTING",
+            "heading": "AMD: COMPUTE EXPANSION",
             "points": [
-                "OpenAI launched GPT-Red, an LLM-based testing framework designed to proactively secure enterprise model deployments.",
-                "The system utilizes automated red-teaming to uncover vulnerabilities in complex agentic behavior at scale.",
-                "Internal auditing protocols have been reinforced following recent file deletion errors in development environments.",
-                "Strategic focus has shifted toward building robust infrastructure that enables continuous, autonomous model improvement."
+                "AMD signs a landmark definitive agreement with Rackspace Technology to deploy thirty megawatts of advanced AI compute.",
+                "This dedicated infrastructure is strategically architected to serve regulated enterprise workloads demanding strict operational data sovereignty controls.",
+                "The phased deployment leverages high-performance AMD EPYC and Instinct hardware to provide cost-effective hybrid cloud performance.",
+                "This move signals accelerating demand for specialized sovereign cloud architectures among heavily regulated finance and healthcare enterprises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY AI",
+            "heading": "EU AI ACT: SCIENTIFIC ENFORCEMENT",
             "points": [
-                "ASML reported record growth in high-NA EUV lithography readiness for mass-producing AI-optimized logic chips.",
-                "Strategic partnerships in India are accelerating the semiconductor manufacturing ecosystem through holistic software designs.",
-                "AI-native engineering is being applied to internal systems to shorten development cycles for next-generation hardware.",
-                "The firm maintains its monopoly position by integrating specialized AI software with physical chip manufacturing."
+                "The European Union establishes its Scientific Panel of Independent Experts to enforce strict general-purpose AI model oversight.",
+                "Operating within the AI Office, the panel enforces compliance with Chapter V mandates on general-purpose AI providers.",
+                "This implementation signals a shift toward structured, audit-driven regulatory enforcement of large-scale frontier artificial intelligence systems.",
+                "Global developers must implement rigorous transparent documentation protocols to avoid severe non-compliance penalties under the active act."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
