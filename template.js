@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION SILICON",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "DEEP HARDWARE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NATIONAL AI FACTORY",
+            "heading": "OPENAI: GPT-5.6 PLATFORM",
             "points": [
-                "NVIDIA partners with Japan to deploy Vera Rubin AI factories utilizing thirteen thousand enterprise CPUs.",
-                "Global industries gain localized, massive physical AI processing capabilities optimizing real-world manufacturing automation loops.",
-                "Sovereign nations are aggressively decoupling from shared cloud infrastructure to safeguard domestic technical assets.",
-                "Enterprises must prepare to transition critical workloads to highly localized, secure national supercomputing facilities."
+                "OpenAI has launched GPT-5.6 featuring highly advanced frontier intelligence designed to scale with complex enterprise workflows.",
+                "The novel system introduces enhanced agentic logic while presenting operational challenges including accidental localized file deletion hazards.",
+                "Developers must monitor active file system integrations to mitigate automated file errors within mission critical runtime environments.",
+                "This update underscores a broader shift toward deploying highly autonomous model architectures across scalable digital enterprise systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "X402: AGENT PAYMENT STANDARDS",
+            "heading": "NVIDIA: JAPANESE RUBIN FACTORY",
             "points": [
-                "The Linux Foundation launched the x402 protocol to standardize autonomous monetary transactions across agentic networks.",
-                "Autonomous agents can now programmatically purchase digital services without human intermediary friction or manual approval.",
-                "Enterprise workflows are shifting rapidly from static software integrations toward fully decentralized machine-to-machine micro-economies.",
-                "Financial officers must quickly implement algorithmic auditing rails to monitor real-time automated API transactional expenses."
+                "Nvidia is collaborating with Noetra Corporation to deploy a massive physical artificial intelligence factory in Japan.",
+                "The infrastructure integrates thirteen thousand Vera CPUs alongside twenty-seven thousand next generation Rubin graphics processing units.",
+                "This deployment prioritizes national sovereignty over raw computing resources to secure localized critical industrial automation workflows.",
+                "High-density physical architecture will accelerate deep robotic reasoning models across various manufacturing and supply chain sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: HIGH NA EUV PROGRESS",
+            "heading": "LINUX FOUNDATION: X402 PAYMENTS",
             "points": [
-                "ASML achieves a critical readiness milestone by running its first high-volume Logic semiconductor lithography products.",
-                "Chipmakers can dramatically scale transistor densities to support next-generation compute architectures for generative intelligence.",
-                "Global semiconductor supply chains are consolidating around advanced physical lithography to maintain physical Moore's Law progression.",
-                "Foundries will rapidly transition production lines to advanced nodes to secure early-mover advantage in high-performance hardware."
+                "The Linux Foundation has announced the x402 project to standardize transactional protocols natively for autonomous systems.",
+                "The protocol allows artificial intelligence agents and APIs to pay for decentralized digital services across the internet.",
+                "Integrating direct monetary transactions into agent runtimes eliminates traditional human payment gateway friction from programmatic operational workflows.",
+                "This framework establishes critical standards needed for secure machine-to-machine financial settlements within global connected software ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: FASTFLOWLM INFERENCE ACQUISITION",
+            "heading": "ASML: HIGH NA DEPLOYMENT",
             "points": [
-                "AMD integrates FastFlowLM to accelerate real-time model inference and boost performance-per-watt efficiency in data centers.",
-                "Enterprise servers reduce operational latency while optimizing power consumption profiles for continuous high-throughput model execution.",
-                "Designing power-optimized silicon remains a critical competitive bottleneck as energy constraints cap major hyperscale expansion.",
-                "Hardware architectures must increasingly rely on algorithmic co-design to deliver sustainable computing scaling for models."
+                "ASML has successfully achieved a crucial high numerical aperture lithography milestone for volume manufacturing of semiconductor chips.",
+                "The system processed its first high-volume logic products enabling chipmakers to pattern smaller and highly efficient transistors.",
+                "This development helps sustain Moore's Law scaling limits while meeting the global hardware demands of advanced AI.",
+                "Accelerating hardware cycles will optimize processing efficiency for complex foundation models run across worldwide data center networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NETAPP: DATAPELAGO ARCHITECTURE COUPLING",
+            "heading": "THINKING MACHINES: INKLING MODEL",
             "points": [
-                "NetApp acquires DataPelago to unify distributed data management and optimize processing pipelines for enterprise deployments.",
-                "Organizations can now seamlessly process unstructured datasets across hybrid multi-cloud environments for agent training models.",
-                "Data fragmentation across legacy systems is severely slowing down the deployment of autonomous decision-making agents.",
-                "CIOs must prioritize modernizing their storage architectures to sustain high-throughput data pipelines for real-time models."
+                "Thinking Machines Lab has introduced Inkling, a massive open-weight model featuring nine hundred seventy-five billion parameters.",
+                "The architecture supports a context window of one million tokens to facilitate extensive reasoning across enterprise documents.",
+                "Enterprises can deploy and customize this model locally using specialized tools to maintain total data management control.",
+                "This open release strengthens domestic computational independence against proprietary cloud systems operated by larger technology conglomerates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: GPT-RED SECURITY TESTING",
+            "heading": "TSMC: ARIZONA FAB EXPANSION",
             "points": [
-                "OpenAI releases GPT-Red to automate offensive safety testing and vulnerability discovery across proprietary frontier architectures.",
-                "Machine learning teams can autonomously identify structural weaknesses and model manipulation vulnerabilities before public deployment.",
-                "The acceleration of malicious model hijacking highlights the urgent need for continuous automated defensive alignment tools.",
-                "Compliance directors must soon mandate algorithmic stress testing to verify resilience against sophisticated black-box hacking vectors."
+                "TSMC is actively accelerating its Arizona semiconductor fabrication plant buildout to capitalize on growing global intelligence trends.",
+                "The company aims to establish domestic silicon manufacturing capabilities for high performance computing and advanced logic nodes.",
+                "Onshore microchip manufacturing mitigates supply chain risks while providing local hyperscalers with direct access to physical silicon.",
+                "Capital investments confirm long term structural commitments toward stabilizing the global production of highly critical advanced hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: ARIZONA EXPANSION ACCELERATION",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "TSMC accelerates buildout of its Arizona manufacturing facilities to capitalize on surging high-performance computing demands.",
-                "North American chip design firms secure local access to advanced semiconductor packaging and fabrication capacity.",
-                "Geopolitical friction is driving major chip manufacturers to distribute their physical fabrication assets across Western continents.",
-                "Strategic buyers must align their long-term supply agreements with local foundries to mitigate global logistics disruptions."
+                "NetApp has finalized a definitive agreement to acquire DataPelago, strengthening its decentralized data management software portfolio.",
+                "The acquisition directly addresses the complex operational challenge of distributed storage required for massive enterprise scale AI.",
+                "Integrating dynamic data engines allows workloads to access unstructured datasets fluidly across multicloud and on-premises computing infrastructure.",
+                "Improved optimization engines will lower retrieval latencies and maximize overall system throughput during intensive model training tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
