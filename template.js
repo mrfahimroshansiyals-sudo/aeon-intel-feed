@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DEEP HARDWARE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN AGENT INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 PLATFORM",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "OpenAI has launched GPT-5.6 featuring highly advanced frontier intelligence designed to scale with complex enterprise workflows.",
-                "The novel system introduces enhanced agentic logic while presenting operational challenges including accidental localized file deletion hazards.",
-                "Developers must monitor active file system integrations to mitigate automated file errors within mission critical runtime environments.",
-                "This update underscores a broader shift toward deploying highly autonomous model architectures across scalable digital enterprise systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: JAPANESE RUBIN FACTORY",
-            "points": [
-                "Nvidia is collaborating with Noetra Corporation to deploy a massive physical artificial intelligence factory in Japan.",
-                "The infrastructure integrates thirteen thousand Vera CPUs alongside twenty-seven thousand next generation Rubin graphics processing units.",
-                "This deployment prioritizes national sovereignty over raw computing resources to secure localized critical industrial automation workflows.",
-                "High-density physical architecture will accelerate deep robotic reasoning models across various manufacturing and supply chain sectors."
+                "NVIDIA deployed its first national AI factory featuring thirteen thousand Vera CPUs and Rubin GPUs.",
+                "The new post-training infrastructure delivers maximum intelligence per dollar for complex enterprise agent workflows.",
+                "Japan physical AI leaders are leveraging this custom chip architecture to scale robotic manufacturing.",
+                "This represents a massive shift toward highly localized sovereign computation networks across the globe."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "LINUX FOUNDATION: X402 PAYMENTS",
+            "id": 2,
+            "heading": "LINUX FOUNDATION: AGENTIC PAYMENTS",
             "points": [
-                "The Linux Foundation has announced the x402 project to standardize transactional protocols natively for autonomous systems.",
-                "The protocol allows artificial intelligence agents and APIs to pay for decentralized digital services across the internet.",
-                "Integrating direct monetary transactions into agent runtimes eliminates traditional human payment gateway friction from programmatic operational workflows.",
-                "This framework establishes critical standards needed for secure machine-to-machine financial settlements within global connected software ecosystems."
+                "The newly formed x402 Foundation introduces an open protocol enabling native financial transactions for agents.",
+                "This architecture allows autonomous AI agents and APIs to pay for digital services directly.",
+                "By standardizing financial transaction rails developers can avoid legacy payment system integration bottlenecks.",
+                "Sovereign entities and open source ecosystems are actively moving to adopt this financial gateway."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ASML: HIGH NA DEPLOYMENT",
+            "id": 3,
+            "heading": "TSMC: ARIZONA FAB ACCELERATION",
             "points": [
-                "ASML has successfully achieved a crucial high numerical aperture lithography milestone for volume manufacturing of semiconductor chips.",
-                "The system processed its first high-volume logic products enabling chipmakers to pattern smaller and highly efficient transistors.",
-                "This development helps sustain Moore's Law scaling limits while meeting the global hardware demands of advanced AI.",
-                "Accelerating hardware cycles will optimize processing efficiency for complex foundation models run across worldwide data center networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "THINKING MACHINES: INKLING MODEL",
-            "points": [
-                "Thinking Machines Lab has introduced Inkling, a massive open-weight model featuring nine hundred seventy-five billion parameters.",
-                "The architecture supports a context window of one million tokens to facilitate extensive reasoning across enterprise documents.",
-                "Enterprises can deploy and customize this model locally using specialized tools to maintain total data management control.",
-                "This open release strengthens domestic computational independence against proprietary cloud systems operated by larger technology conglomerates."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TSMC: ARIZONA FAB EXPANSION",
-            "points": [
-                "TSMC is actively accelerating its Arizona semiconductor fabrication plant buildout to capitalize on growing global intelligence trends.",
-                "The company aims to establish domestic silicon manufacturing capabilities for high performance computing and advanced logic nodes.",
-                "Onshore microchip manufacturing mitigates supply chain risks while providing local hyperscalers with direct access to physical silicon.",
-                "Capital investments confirm long term structural commitments toward stabilizing the global production of highly critical advanced hardware."
+                "TSMC is accelerating its Arizona factory construction to support the massive global AI chip demand.",
+                "The facility will manufacture advanced nanosheet structures to boost power efficiency across data centers.",
+                "Innovative back-side power delivery rails optimize computing workloads specifically for high-performance scale systems.",
+                "This supply chain relocation secures critical microchip manufacturing capacity for Western cloud providers."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +54,61 @@ const dailyData = {
             ]
         },
         {
+            "id": 4,
+            "heading": "OPENAI: GPT-5.6 BUGS",
+            "points": [
+                "OpenAI launched GPT-5.6 detailing frontier capabilities alongside a serious file-deletion system error warning.",
+                "The bug causes accidental deletion of local files during autonomous coding execution tasks.",
+                "Developers are expressing deep concerns regarding reduced visibility and missing diagnostic audit logs.",
+                "This emphasizes the critical need for robust sandboxing environments prior to agent deployment."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: AUTONOMOUS ROBOSTRAL",
+            "points": [
+                "Mistral AI unveiled Robostral Navigate alongside Vibe to execute long-horizon enterprise workflow operations.",
+                "The system integrates persistent memory and multi-step task scheduling directly into code translation engines.",
+                "This platform empowers developers to deploy production-ready autonomous coding pipelines across edge environments.",
+                "Organizations can significantly reduce engineering overhead by automating continuous integration and code reviews."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "points": [
+                "Anthropic launched Claude Science to provide researchers with highly customizable digital lab environments.",
+                "The specialized platform produces fully auditable artifacts while integrating essential open-source scientific software.",
+                "Concurrently the company released Sonnet five enhancing agentic performance for professional software engineering.",
+                "Lifting global export controls on Fable five enables broader deployment of high-tier intelligence."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 7,
             "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "NetApp has finalized a definitive agreement to acquire DataPelago, strengthening its decentralized data management software portfolio.",
-                "The acquisition directly addresses the complex operational challenge of distributed storage required for massive enterprise scale AI.",
-                "Integrating dynamic data engines allows workloads to access unstructured datasets fluidly across multicloud and on-premises computing infrastructure.",
-                "Improved optimization engines will lower retrieval latencies and maximize overall system throughput during intensive model training tasks."
+                "NetApp acquired DataPelago to integrate distributed data engine acceleration into hybrid cloud architectures.",
+                "This strategic transaction addresses critical data management challenges holding back scaled enterprise deployments.",
+                "Unified storage frameworks allow real-time vector processing and semantic search across disconnected silos.",
+                "Enterprise CIOs can now optimize training pipelines while containing uncontrolled artificial intelligence data costs."
             ],
             "imageUrl": "",
             "tags": [
