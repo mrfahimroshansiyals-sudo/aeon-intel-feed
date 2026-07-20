@@ -1,7 +1,7 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE ARCHITECTURE",
+        "titleWhite": "NEXT GEN INFRASTRUCTURE",
         "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
@@ -9,10 +9,10 @@ const dailyData = {
             "id": 1,
             "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI launches GPT-5.6 delivering frontier intelligence designed to scale complex enterprise workflows.",
-                "Developers report frustration over Codex context reduction limits causing accidental file deletion incidents.",
-                "The update introduces advanced reasoning capabilities but restricts transparency during multi-agent orchestration sequences.",
-                "Enterprises must execute strict sandbox monitoring to prevent unapproved codebase modifications by autonomous agents."
+                "OpenAI has deployed GPT-5.6, delivering massive frontier scaling capabilities designed for advanced enterprise orchestration workflows.",
+                "Context reductions in the Codex framework have sparked concern among developers seeking high-token throughput optimizations.",
+                "The release redefines frontier model performance benchmarks by prioritizing raw compute efficiency over massive context windows.",
+                "Enterprise architects must adjust integration pipelines to accommodate revised token limits while maintaining systemic accuracy."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "GOOGLE: GEMINI 3.5 SERIES",
             "points": [
-                "NVIDIA collaborates with Noetra Corporation to deploy a massive national artificial intelligence factory infrastructure.",
-                "The system integrates thirteen thousand Vera CPUs alongside twenty-seven thousand Rubin graphics processing units.",
-                "This national architecture aims to maximize processing performance per dollar for next-generation physical robotics.",
-                "Global manufacturers will leverage the Cosmos platform to train highly scalable, physics-aware synthetic world models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE: GEMINI 3.5 LAUNCH",
-            "points": [
-                "Google unveils Gemini 3.5 frontier models combining advanced intelligence with autonomous action capabilities.",
-                "Developers gain access to remote Model Context Protocol servers for fully-managed agent development pipelines.",
-                "The ecosystem release introduces Gemini Omni and Nano Banana Lite for highly efficient edge deployment.",
-                "Enterprises will transition from simple passive retrieval models to highly active, multi-step transactional agent frameworks."
+                "Google has introduced the Gemini 3.5 model series, combining native frontier intelligence with real-world action capabilities.",
+                "The architecture deploys alongside remote Model Context Protocol servers to establish fully managed agent execution pipelines.",
+                "Google aims to dominate agentic workflows by integrating multi-modal reasoning directly with secure cloud computing infrastructure.",
+                "Developers can leverage the open ecosystem to construct autonomous systems that securely access disparate enterprise databases."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: MICROSOFT INSTINCT DEPLOYMENT",
+            "id": 3,
+            "heading": "NVIDIA: OMNIVERSE PHYSICAL AI",
             "points": [
-                "Microsoft expands its strategic partnership with AMD to deploy next-generation Instinct accelerators across Azure.",
-                "The deployment delivers massive processing capabilities optimized for enterprise-scale generative models and cognitive workflows.",
-                "AMD secures a dominant position as the primary challenger to legacy hardware in cloud infrastructure.",
-                "Cloud architects can leverage open-source ROCm software to bypass restrictive proprietary compute environments seamlessly."
+                "NVIDIA has updated its Agent Toolkit with Omniverse libraries to generate physically accurate, simulation-ready digital worlds.",
+                "This release accelerates the training of physical AI models by synthesizing millions of high-fidelity synthetic training frames.",
+                "The integration bridges the gap between digital reasoning and spatial intelligence for complex robotics deployment worldwide.",
+                "Manufacturing operators can deploy these models on device to ensure immediate autonomous reasoning in dynamic environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: AZURE HARDWARE ALIGNMENT",
+            "points": [
+                "AMD and Microsoft have expanded their partnership to deploy next-generation Instinct GPUs and EPYC processors on Azure.",
+                "The phased hardware rollout provides scalable compute nodes targeted at heavy enterprise workloads and sovereign model training.",
+                "This deployment challenges current silicon market dominance by offering highly competitive total cost of ownership for cloud architectures.",
+                "Regulated enterprises gain immediate access to diversified, high-performance silicon resources optimized for massive inference scaling."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "OPENAI: DAYBREAK SECURITY",
             "points": [
-                "ASML achieves high numerical aperture extreme ultraviolet lithography readiness for mass production logic chips.",
-                "The technological milestone enables global semiconductor foundries to pattern sub-two-nanometer silicon transistors efficiently.",
-                "Chipmakers can now print complex physical layouts with enhanced energy efficiency and higher transistor density.",
-                "Hardware developers will design more powerful physical processors to handle intense localized edge AI computation."
+                "OpenAI launched Daybreak, a dedicated security tool suite designed to defend complex enterprise architectures against adversarial attacks.",
+                "The tools optimize cyber defense operations by integrating automated threat detection directly into sovereign digital workflows.",
+                "Securing agentic behavior represents a critical pivot point as organizations give AI models direct file system access.",
+                "Chief Information Security Officers must immediately evaluate these frameworks to mitigate risks of automated system misalignment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE SYSTEMS",
+            "heading": "NVIDIA: BMS LIFE SCIENCE FACTORY",
             "points": [
-                "Mistral AI introduces Robostral Navigate to establish a secure system of record for enterprise prompts.",
-                "The release introduces structured data analysis tools and long-horizon task scheduling capabilities for active agents.",
-                "Global industrial leaders are deploying these open-weight models to automate complex maritime and semiconductor lithography.",
-                "Operations teams can now achieve robust, architecture-aware reasoning while maintaining complete localized database deployment control."
+                "Bristol Myers Squibb is building the life science industry's most advanced AI factory using NVIDIA Vera Rubin architecture.",
+                "The custom infrastructure accelerates molecular discovery pipelines, dramatically reducing the time required to validate complex drug compounds.",
+                "Transitioning to dedicated physical AI factories marks a massive paradigm shift in high-performance pharmaceutical research computing.",
+                "Research institutions must invest in specialized hardware stacks to maintain competitiveness in automated biological synthesis projects."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ZILLIZ: MILVUS DATABASE UPGRADE",
+            "heading": "ENTERPRISE: TOKEN COST CONTROLS",
             "points": [
-                "Zilliz upgrades its Milvus vector database to deliver native integration with enterprise-grade data lake architectures.",
-                "The updated retrieval engine dramatically accelerates high-dimensional vector search performance across massive unstructured datasets.",
-                "This update strengthens data management pipelines for organizations seeking to scale autonomous agentic search workflows.",
-                "System administrators will reduce data pipeline complexity by unifying disparate transactional and analytical vector workloads."
+                "Enterprise organizations are prioritizing tokenomics as climbing model deployment costs force a reevaluation of architecture strategies.",
+                "Opaque vendor pricing and backward-looking bills are driving the adoption of open-weight models with predictable operational metrics.",
+                "The shift reflects a growing demand for cost transparency and regional sovereignty in enterprise-scale intelligence applications.",
+                "Financial and technical leaders must align model choices with concrete utilization data to avoid excessive infrastructure overheads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
