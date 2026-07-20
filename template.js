@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN INFRASTRUCTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
             "points": [
-                "OpenAI has deployed GPT-5.6, delivering massive frontier scaling capabilities designed for advanced enterprise orchestration workflows.",
-                "Context reductions in the Codex framework have sparked concern among developers seeking high-token throughput optimizations.",
-                "The release redefines frontier model performance benchmarks by prioritizing raw compute efficiency over massive context windows.",
-                "Enterprise architects must adjust integration pipelines to accommodate revised token limits while maintaining systemic accuracy."
+                "OpenAI has officially released GPT-5.6 delivering frontier intelligence scaling across ambitious enterprise agent workflows.",
+                "New native model capabilities allow direct action execution while drastically optimizing core token consumption metrics.",
+                "Architectural integrations enable deeper reasoning and automated system-wide execution within decoupled enterprise security environments.",
+                "Organizations must immediately audit autonomous agent permissions to mitigate unauthorized system-level file deletion risks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI 3.5 SERIES",
+            "heading": "AMD: AZURE INSTINCT DEPLOYMENT",
             "points": [
-                "Google has introduced the Gemini 3.5 model series, combining native frontier intelligence with real-world action capabilities.",
-                "The architecture deploys alongside remote Model Context Protocol servers to establish fully managed agent execution pipelines.",
-                "Google aims to dominate agentic workflows by integrating multi-modal reasoning directly with secure cloud computing infrastructure.",
-                "Developers can leverage the open ecosystem to construct autonomous systems that securely access disparate enterprise databases."
+                "AMD expanded its partnership with Microsoft to deploy next-generation Instinct GPUs across global Azure cloud infrastructure.",
+                "This hardware integration targets massive scale compute efficiency for high-performance enterprise workloads and post-training processing.",
+                "Azure operators gain enhanced architectural flexibility and improved processing speeds for hosting multi-agent automated systems.",
+                "The transition reduces long-term chip procurement costs while establishing AMD as a major cloud accelerator alternative."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cloud.google.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: OMNIVERSE PHYSICAL AI",
+            "heading": "NVIDIA: OMNIVERSE AGENT EXPANSION",
             "points": [
-                "NVIDIA has updated its Agent Toolkit with Omniverse libraries to generate physically accurate, simulation-ready digital worlds.",
-                "This release accelerates the training of physical AI models by synthesizing millions of high-fidelity synthetic training frames.",
-                "The integration bridges the gap between digital reasoning and spatial intelligence for complex robotics deployment worldwide.",
-                "Manufacturing operators can deploy these models on device to ensure immediate autonomous reasoning in dynamic environments."
+                "NVIDIA updated its Agent Toolkit with Omniverse libraries to deploy automated agents in simulated physics-aware worlds.",
+                "Physical artificial intelligence systems leverage these components to generate photorealistic synthetic video and plan actions.",
+                "The expansion allows developers to pre-train advanced robotic models inside secure virtual instances before deployment.",
+                "Enterprise engineering teams can scale industrial automation workflows without incurring traditional real-world data collection expenses."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AMD: AZURE HARDWARE ALIGNMENT",
+            "heading": "SERVICENOW: SANDBOX RCE EXPLOIT",
             "points": [
-                "AMD and Microsoft have expanded their partnership to deploy next-generation Instinct GPUs and EPYC processors on Azure.",
-                "The phased hardware rollout provides scalable compute nodes targeted at heavy enterprise workloads and sovereign model training.",
-                "This deployment challenges current silicon market dominance by offering highly competitive total cost of ownership for cloud architectures.",
-                "Regulated enterprises gain immediate access to diversified, high-performance silicon resources optimized for massive inference scaling."
+                "Active exploits targeting ServiceNow sandbox escape vulnerabilities threaten remote execution capabilities across unpatched enterprise systems.",
+                "Security teams report high-volume scans seeking to compromise isolation boundaries within legacy cloud database environments.",
+                "The incident highlights critical architectural weaknesses in contemporary AI sandbox boundaries running mission-critical enterprise workloads.",
+                "Organizations must deploy immediate patches and continuously monitor API access logs to prevent malicious lateral movement."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: DAYBREAK SECURITY",
+            "heading": "ZILLIZ: MILVUS VECTOR UPGRADE",
             "points": [
-                "OpenAI launched Daybreak, a dedicated security tool suite designed to defend complex enterprise architectures against adversarial attacks.",
-                "The tools optimize cyber defense operations by integrating automated threat detection directly into sovereign digital workflows.",
-                "Securing agentic behavior represents a critical pivot point as organizations give AI models direct file system access.",
-                "Chief Information Security Officers must immediately evaluate these frameworks to mitigate risks of automated system misalignment."
+                "Zilliz released a significant Milvus database update enhancing vector search capabilities across distributed data lakes.",
+                "A new retrieval engine optimizes downstream data pipelines to drastically reduce token costs for enterprise systems.",
+                "By unifying disparate workloads the platform streamlines real-time query operations for complex agentic retrieval-augmented architectures.",
+                "Database administrators can deploy these components to achieve predictable performance scalability during high-frequency AI queries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: BMS LIFE SCIENCE FACTORY",
+            "heading": "OPENAI: CODEX CONTEXT REDUCTION",
             "points": [
-                "Bristol Myers Squibb is building the life science industry's most advanced AI factory using NVIDIA Vera Rubin architecture.",
-                "The custom infrastructure accelerates molecular discovery pipelines, dramatically reducing the time required to validate complex drug compounds.",
-                "Transitioning to dedicated physical AI factories marks a massive paradigm shift in high-performance pharmaceutical research computing.",
-                "Research institutions must invest in specialized hardware stacks to maintain competitiveness in automated biological synthesis projects."
+                "OpenAI implemented Codex context reduction for GPT-5.6 sparking significant dissatisfaction among enterprise software development teams.",
+                "Decreased visibility into agent interactions complicates debugging processes and hinders regulatory compliance verification for developers.",
+                "The strategic context compression aims to lower processing latency but introduces unexpected limitations to codebase scanning.",
+                "Teams must adapt engineering practices to manage decreased transparency and optimize code structure within the model."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENTERPRISE: TOKEN COST CONTROLS",
+            "heading": "BRISTOL MYERS: RUBIN AI FACTORY",
             "points": [
-                "Enterprise organizations are prioritizing tokenomics as climbing model deployment costs force a reevaluation of architecture strategies.",
-                "Opaque vendor pricing and backward-looking bills are driving the adoption of open-weight models with predictable operational metrics.",
-                "The shift reflects a growing demand for cost transparency and regional sovereignty in enterprise-scale intelligence applications.",
-                "Financial and technical leaders must align model choices with concrete utilization data to avoid excessive infrastructure overheads."
+                "Bristol Myers Squibb is building the life science industry's most advanced AI factory using NVIDIA hardware.",
+                "The dedicated facility integrates Vera Rubin processors to accelerate computational drug discovery and biological simulation workloads.",
+                "This framework establishes a scalable high-performance compute foundation for processing complex molecular structures and clinical datasets.",
+                "Pharma enterprises will leverage this architecture to shorten drug development timelines and optimize computational research pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
