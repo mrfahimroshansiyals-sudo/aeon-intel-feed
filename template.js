@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE INFRASTRUCTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT GENERATION SILICON",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: RUBIN DEPLOYMENT",
+            "heading": "NVIDIA: NATIONAL AI FACTORY",
             "points": [
-                "Nvidia partners with Noetra Corp to establish the first national AI factory featuring next-generation hardware architectures.",
-                "The system deploys thirteen thousand Vera CPUs paired with over twenty-seven thousand Rubin graphics processing units.",
-                "This hardware configuration is mathematically optimized to maximize performance per dollar metrics for agentic workloads globally.",
-                "Industrial partners in Japan are utilizing this infrastructure to scale physical robot simulations and autonomous edge systems."
+                "NVIDIA partners with Japan to deploy Vera Rubin AI factories utilizing thirteen thousand enterprise CPUs.",
+                "Global industries gain localized, massive physical AI processing capabilities optimizing real-world manufacturing automation loops.",
+                "Sovereign nations are aggressively decoupling from shared cloud infrastructure to safeguard domestic technical assets.",
+                "Enterprises must prepare to transition critical workloads to highly localized, secure national supercomputing facilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: SCIENTIFIC ORCHESTRATION",
+            "heading": "X402: AGENT PAYMENT STANDARDS",
             "points": [
-                "Anthropic releases Claude Science to provide global researchers with customizable, highly auditable scientific compute environments.",
-                "The application natively integrates specialized mathematical libraries and programmatic toolkits required for complex molecular research workflows.",
-                "This development shifts laboratory paradigms by introducing automated, verifiable artifact generation alongside flexible cloud computing allocations.",
-                "Scientific organizations gain unprecedented control over data integrity pipelines while accelerating experimental iterations via natural language."
+                "The Linux Foundation launched the x402 protocol to standardize autonomous monetary transactions across agentic networks.",
+                "Autonomous agents can now programmatically purchase digital services without human intermediary friction or manual approval.",
+                "Enterprise workflows are shifting rapidly from static software integrations toward fully decentralized machine-to-machine micro-economies.",
+                "Financial officers must quickly implement algorithmic auditing rails to monitor real-time automated API transactional expenses."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: HIGH-NA PRODUCTION",
+            "heading": "ASML: HIGH NA EUV PROGRESS",
             "points": [
-                "High NA EUV lithography achieves its critical volume milestone by printing the first commercial high-volume logic products.",
-                "This mechanical breakthrough ensures the fabrication of sub-nanometer transistor architectures crucial for next-generation generative processing chips.",
-                "Top-tier silicon foundries can now scale energy-efficient microchips with reduced patterning steps and minimized defect densities.",
-                "Industry transition to high numerical aperture tooling marks a decisive step in extending traditional semiconductor scaling laws."
+                "ASML achieves a critical readiness milestone by running its first high-volume Logic semiconductor lithography products.",
+                "Chipmakers can dramatically scale transistor densities to support next-generation compute architectures for generative intelligence.",
+                "Global semiconductor supply chains are consolidating around advanced physical lithography to maintain physical Moore's Law progression.",
+                "Foundries will rapidly transition production lines to advanced nodes to secure early-mover advantage in high-performance hardware."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "LINUX FOUNDATION: AGENT TRANSACTION",
+            "heading": "AMD: FASTFLOWLM INFERENCE ACQUISITION",
             "points": [
-                "The Linux Foundation establishes the x402 project to implement native payment protocols directly into agentic software workflows.",
-                "This open-standard specification allows autonomous software agents to execute financial transactions over standard internet protocols seamlessly.",
-                "Enterprises can now deploy decoupled agents capable of paying for API compute and services without human intervention.",
-                "Standardizing digital wallets for artificial intelligence mitigates security vulnerabilities associated with legacy enterprise billing systems."
+                "AMD integrates FastFlowLM to accelerate real-time model inference and boost performance-per-watt efficiency in data centers.",
+                "Enterprise servers reduce operational latency while optimizing power consumption profiles for continuous high-throughput model execution.",
+                "Designing power-optimized silicon remains a critical competitive bottleneck as energy constraints cap major hyperscale expansion.",
+                "Hardware architectures must increasingly rely on algorithmic co-design to deliver sustainable computing scaling for models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NEW YORK STATE: PERMIT RESTRICTION",
+            "heading": "NETAPP: DATAPELAGO ARCHITECTURE COUPLING",
             "points": [
-                "New York state authorities pause licensing for hyperscale data centers to address mounting energy consumption concerns.",
-                "The administrative suspension demands that operators satisfy upcoming environment-focused guidelines before expanding regional server deployment footprints.",
-                "Infrastructure architects must optimize power management software and integrate alternative energy generation sources to bypass regulatory blocks.",
-                "This regulatory pivot accelerates the industry trend toward building decentralized, power-flexible computing networks in compliant jurisdictions."
+                "NetApp acquires DataPelago to unify distributed data management and optimize processing pipelines for enterprise deployments.",
+                "Organizations can now seamlessly process unstructured datasets across hybrid multi-cloud environments for agent training models.",
+                "Data fragmentation across legacy systems is severely slowing down the deployment of autonomous decision-making agents.",
+                "CIOs must prioritize modernizing their storage architectures to sustain high-throughput data pipelines for real-time models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: PROTOCOL FEDERATION",
+            "heading": "OPENAI: GPT-RED SECURITY TESTING",
             "points": [
-                "Google Cloud deploys fully-managed Model Context Protocol servers to standardize communication between client applications and models.",
-                "Developers can securely link remote context data engines with automated reasoning pipelines across distributed, multi-tenant cloud systems.",
-                "This platform upgrade streamlines multi-agent orchestration frameworks while maintaining stringent logical access isolation boundaries at runtime.",
-                "Enterprise architects can rapidly scale system integrations by utilizing pre-configured connection models in complex application environments."
+                "OpenAI releases GPT-Red to automate offensive safety testing and vulnerability discovery across proprietary frontier architectures.",
+                "Machine learning teams can autonomously identify structural weaknesses and model manipulation vulnerabilities before public deployment.",
+                "The acceleration of malicious model hijacking highlights the urgent need for continuous automated defensive alignment tools.",
+                "Compliance directors must soon mandate algorithmic stress testing to verify resilience against sophisticated black-box hacking vectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETAPP: SCALED PIPELINING",
+            "heading": "TSMC: ARIZONA EXPANSION ACCELERATION",
             "points": [
-                "NetApp acquires DataPelago to integrate unified data management architectures optimized for distributed artificial intelligence systems.",
-                "The combined platform accelerates data ingestion performance across hybrid, public, and private cloud database storage networks.",
-                "Enterprise engineering teams can automate complex data preparation pipelines required for real-time model tuning and evaluation.",
-                "Mitigating unstructured data bottlenecks enables organizations to run performant, context-rich agent networks with reduced infrastructure overhead."
+                "TSMC accelerates buildout of its Arizona manufacturing facilities to capitalize on surging high-performance computing demands.",
+                "North American chip design firms secure local access to advanced semiconductor packaging and fabrication capacity.",
+                "Geopolitical friction is driving major chip manufacturers to distribute their physical fabrication assets across Western continents.",
+                "Strategic buyers must align their long-term supply agreements with local foundries to mitigate global logistics disruptions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
