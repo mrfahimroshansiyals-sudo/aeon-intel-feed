@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENT INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "heading": "NVIDIA: NATIONAL AI INFRASTRUCTURE",
             "points": [
-                "NVIDIA deployed its first national AI factory featuring thirteen thousand Vera CPUs and Rubin GPUs.",
-                "The new post-training infrastructure delivers maximum intelligence per dollar for complex enterprise agent workflows.",
-                "Japan physical AI leaders are leveraging this custom chip architecture to scale robotic manufacturing.",
-                "This represents a massive shift toward highly localized sovereign computation networks across the globe."
+                "NVIDIA and Noetra launch a national AI factory utilizing thirteen thousand Vera CPUs.",
+                "The architecture integrates twenty-seven thousand Rubin graphics processors to support advanced physical robotics workloads.",
+                "Japanese industrial leaders will leverage this sovereign hardware suite to accelerate domestic automation systems.",
+                "This sovereign deployment guarantees absolute computational independence while mitigating critical external supply chain threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LINUX FOUNDATION: AGENTIC PAYMENTS",
+            "heading": "NETAPP: DISTRIBUTED DATA ACQUISITION",
             "points": [
-                "The newly formed x402 Foundation introduces an open protocol enabling native financial transactions for agents.",
-                "This architecture allows autonomous AI agents and APIs to pay for digital services directly.",
-                "By standardizing financial transaction rails developers can avoid legacy payment system integration bottlenecks.",
-                "Sovereign entities and open source ecosystems are actively moving to adopt this financial gateway."
+                "NetApp acquires DataPelago to drastically optimize distributed data management engines for enterprise execution models.",
+                "The structural combination enhances data pipeline acceleration across hybrid cloud environments for complex agentic workflows.",
+                "Legacy infrastructure receives deep unified transactional capabilities to resolve modern decentralized database bottlenecks efficiently.",
+                "Enterprises will achieve accelerated data training ingestion rates while minimizing overall hardware footprint requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: ARIZONA FAB ACCELERATION",
+            "heading": "AMD: REGULATED COMPUTE ALLOCATION",
             "points": [
-                "TSMC is accelerating its Arizona factory construction to support the massive global AI chip demand.",
-                "The facility will manufacture advanced nanosheet structures to boost power efficiency across data centers.",
-                "Innovative back-side power delivery rails optimize computing workloads specifically for high-performance scale systems.",
-                "This supply chain relocation secures critical microchip manufacturing capacity for Western cloud providers."
+                "AMD signs a definitive agreement with Rackspace for a phased thirty megawatt AI compute deployment.",
+                "The specialized cluster will deliver dedicated power optimization for heavily regulated enterprise and governmental clients.",
+                "This strategic alignment leverages advanced EPYC processor families to maximize total efficiency per operational watt.",
+                "Corporate administrators can safely execute massive inference jobs without breaching regional compliance or data sovereignty."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 BUGS",
+            "heading": "LINUX FOUNDATION: NATIVE TRANSACTIONS",
             "points": [
-                "OpenAI launched GPT-5.6 detailing frontier capabilities alongside a serious file-deletion system error warning.",
-                "The bug causes accidental deletion of local files during autonomous coding execution tasks.",
-                "Developers are expressing deep concerns regarding reduced visibility and missing diagnostic audit logs.",
-                "This emphasizes the critical need for robust sandboxing environments prior to agent deployment."
+                "The newly formed x402 Foundation introduces an open protocol facilitating direct agent to agent payments.",
+                "This foundational architecture enables autonomous digital agents to seamlessly execute financial transactions without human intervention.",
+                "Standardizing transaction layers mitigates complex integration hurdles while establishing robust edge level cryptographic security protocols.",
+                "Global financial networks must prepare for massive volume increases driven entirely by automated agent transaction sets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: AUTONOMOUS ROBOSTRAL",
+            "heading": "OPENAI: FRONTIER COGNITIVE SCALING",
             "points": [
-                "Mistral AI unveiled Robostral Navigate alongside Vibe to execute long-horizon enterprise workflow operations.",
-                "The system integrates persistent memory and multi-step task scheduling directly into code translation engines.",
-                "This platform empowers developers to deploy production-ready autonomous coding pipelines across edge environments.",
-                "Organizations can significantly reduce engineering overhead by automating continuous integration and code reviews."
+                "OpenAI releases GPT-5.6 to provide unparalleled enterprise cognitive scale and deep multi-step planning execution.",
+                "Despite minor launch issues, the model delivers major raw processing improvements for massive workspace workflows.",
+                "Developers can leverage sophisticated tool usage capabilities to build hyper-resilient systems of agentic execution patterns.",
+                "This framework establishes a standard for autonomous operations across complex and highly distributed software environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "THINKING MACHINES: OPEN WEIGHTS",
             "points": [
-                "Anthropic launched Claude Science to provide researchers with highly customizable digital lab environments.",
-                "The specialized platform produces fully auditable artifacts while integrating essential open-source scientific software.",
-                "Concurrently the company released Sonnet five enhancing agentic performance for professional software engineering.",
-                "Lifting global export controls on Fable five enables broader deployment of high-tier intelligence."
+                "Thinking Machines releases Inkling, a massive nine hundred seventy-five billion parameter open-weight model framework.",
+                "The platform boasts a powerful one-million-token context window paired with specialized customization via Tinker tools.",
+                "This release offers localized enterprises a robust alternative to heavily consolidated proprietary cloud service offerings.",
+                "Developers gain complete control over proprietary model weight assets without sacrificing frontier-level processing performance metrics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY SCALE",
             "points": [
-                "NetApp acquired DataPelago to integrate distributed data engine acceleration into hybrid cloud architectures.",
-                "This strategic transaction addresses critical data management challenges holding back scaled enterprise deployments.",
-                "Unified storage frameworks allow real-time vector processing and semantic search across disconnected silos.",
-                "Enterprise CIOs can now optimize training pipelines while containing uncontrolled artificial intelligence data costs."
+                "ASML delivers its High NA EUV system to reach high-volume manufacturing readiness for advanced Logic production.",
+                "The advanced lithography machines enable global chipmakers to fabricate highly dense transistor configurations for AI accelerators.",
+                "This milestone represents a critical breakthrough in hardware manufacturing required to power next generation physical computation.",
+                "Chip designers can now confidently engineer sub-nanometer node physical architectures to support future enterprise demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
