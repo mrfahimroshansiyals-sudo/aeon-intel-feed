@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "NEXT-GEN AUTONOMOUS",
+        "titleBlue": "DEPLOYMENTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI has officially released GPT-5.6 delivering frontier intelligence scaling across ambitious enterprise agent workflows.",
-                "New native model capabilities allow direct action execution while drastically optimizing core token consumption metrics.",
-                "Architectural integrations enable deeper reasoning and automated system-wide execution within decoupled enterprise security environments.",
-                "Organizations must immediately audit autonomous agent permissions to mitigate unauthorized system-level file deletion risks."
+                "OpenAI deploys GPT-5.6, representing frontier intelligence built to scale enterprise workflows dynamically.",
+                "The model minimizes processing costs by integrating Codex-driven context reduction pathways across execution environments.",
+                "This release represents a massive push toward real-time transactional autonomy and legacy decoupling.",
+                "Enterprises must adapt engineering pipelines to manage altered context boundaries and minimize data loss."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: AZURE INSTINCT DEPLOYMENT",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "AMD expanded its partnership with Microsoft to deploy next-generation Instinct GPUs across global Azure cloud infrastructure.",
-                "This hardware integration targets massive scale compute efficiency for high-performance enterprise workloads and post-training processing.",
-                "Azure operators gain enhanced architectural flexibility and improved processing speeds for hosting multi-agent automated systems.",
-                "The transition reduces long-term chip procurement costs while establishing AMD as a major cloud accelerator alternative."
+                "NVIDIA partners with Japan to launch a national AI factory utilizing Vera CPUs and Rubin GPUs.",
+                "The architecture integrates exactly 13,750 Vera CPUs alongside 27,500 Rubin GPUs to maximize compute density.",
+                "This state-backed initiative establishes sovereign physical AI infrastructure to secure local industrial supply chains.",
+                "Global hardware providers must match these massive scale efficiencies to retain competitiveness in national infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: OMNIVERSE AGENT EXPANSION",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
             "points": [
-                "NVIDIA updated its Agent Toolkit with Omniverse libraries to deploy automated agents in simulated physics-aware worlds.",
-                "Physical artificial intelligence systems leverage these components to generate photorealistic synthetic video and plan actions.",
-                "The expansion allows developers to pre-train advanced robotic models inside secure virtual instances before deployment.",
-                "Enterprise engineering teams can scale industrial automation workflows without incurring traditional real-world data collection expenses."
+                "Mistral AI introduces Robostral Navigate, establishing a comprehensive system of record for prompt skills.",
+                "The update enables unified management of autonomous agent parameters to secure persistent memory architectures.",
+                "This development pushes enterprise systems toward deep long-horizon task orchestration without external developer dependencies.",
+                "Chief technology officers can safely transition legacy automation setups into highly collaborative multi-agent ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SERVICENOW: SANDBOX RCE EXPLOIT",
+            "heading": "AMD: INSTINCT AZURE DEPLOYMENT",
             "points": [
-                "Active exploits targeting ServiceNow sandbox escape vulnerabilities threaten remote execution capabilities across unpatched enterprise systems.",
-                "Security teams report high-volume scans seeking to compromise isolation boundaries within legacy cloud database environments.",
-                "The incident highlights critical architectural weaknesses in contemporary AI sandbox boundaries running mission-critical enterprise workloads.",
-                "Organizations must deploy immediate patches and continuously monitor API access logs to prevent malicious lateral movement."
+                "Microsoft expands its strategic partnership with AMD to deploy next-generation Instinct accelerators on Azure.",
+                "The integration drives down infrastructure costs while boosting memory capacity for complex enterprise model hosting.",
+                "This alliance positions AMD as a premier alternative to NVIDIA for massive-scale hyperscaler cloud footprints.",
+                "Cloud architects should evaluate hybrid hosting models to optimize training budgets and mitigate vendor lock-in."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ZILLIZ: MILVUS VECTOR UPGRADE",
+            "heading": "GOOGLE: NANO BANANA RELEASE",
             "points": [
-                "Zilliz released a significant Milvus database update enhancing vector search capabilities across distributed data lakes.",
-                "A new retrieval engine optimizes downstream data pipelines to drastically reduce token costs for enterprise systems.",
-                "By unifying disparate workloads the platform streamlines real-time query operations for complex agentic retrieval-augmented architectures.",
-                "Database administrators can deploy these components to achieve predictable performance scalability during high-frequency AI queries."
+                "Google DeepMind releases Nano Banana 2 Lite, their fastest and most efficient image generation model.",
+                "The model optimizes local processing speeds on edge devices without compromising high-resolution visual output quality.",
+                "This launch underscores a pivot toward lightweight, parameter-efficient architectures for immediate consumer application deployments.",
+                "Developers can now deploy advanced vision-based capabilities directly within resource-constrained mobile and web applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: CODEX CONTEXT REDUCTION",
+            "heading": "NETAPP: DATAPELAGO ACQUISITION",
             "points": [
-                "OpenAI implemented Codex context reduction for GPT-5.6 sparking significant dissatisfaction among enterprise software development teams.",
-                "Decreased visibility into agent interactions complicates debugging processes and hinders regulatory compliance verification for developers.",
-                "The strategic context compression aims to lower processing latency but introduces unexpected limitations to codebase scanning.",
-                "Teams must adapt engineering practices to manage decreased transparency and optimize code structure within the model."
+                "NetApp acquires DataPelago to advance distributed data management capabilities across hybrid enterprise environments.",
+                "The transaction streamlines multi-cloud storage pipelines to feed structured and unstructured data into AI models.",
+                "Integrating DataPelago's architecture allows NetApp to control data preparation stages before downstream model execution.",
+                "Data officers gain native tools to resolve compliance bottlenecks while scaling automated feature engineering pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BRISTOL MYERS: RUBIN AI FACTORY",
+            "heading": "ANTHROPIC: CLAUDE SCIENCE",
             "points": [
-                "Bristol Myers Squibb is building the life science industry's most advanced AI factory using NVIDIA hardware.",
-                "The dedicated facility integrates Vera Rubin processors to accelerate computational drug discovery and biological simulation workloads.",
-                "This framework establishes a scalable high-performance compute foundation for processing complex molecular structures and clinical datasets.",
-                "Pharma enterprises will leverage this architecture to shorten drug development timelines and optimize computational research pipelines."
+                "Anthropic introduces Claude Science, integrating critical tools and packages into an auditable research platform.",
+                "The application provides flexible compute resource access to accelerate scientific hypothesis testing and verification.",
+                "This system establishes verifiable, transparent workflows to counteract the black-box nature of legacy research models.",
+                "Scientific researchers can generate reproducible artifacts to satisfy strict peer-review and regulatory compliance requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
