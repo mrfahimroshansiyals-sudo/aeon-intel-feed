@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AI INFRASTRUCTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "Sovereign Enterprise Agent",
+        "titleBlue": "Deployment"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CHINA: MODEL EXPORT CONTROLS",
+            "heading": "CHINA: EXPORT CONTROLS AND Z.AI IMPACT",
             "points": [
-                "Beijing initiates regulatory consultations to implement strict export curbs on sovereign large language models.",
-                "Restrictions will prevent western enterprises from acquiring advanced domestic neural networks and startups.",
-                "Geopolitical friction forces global tech conglomerates to decouple cloud architecture and local server nodes.",
-                "Sovereign regions must rapidly deploy localized model alternatives to safeguard technical supply chain integrity."
+                "China proposes rigorous new export controls targeting advanced generative AI models and localized semiconductor components.",
+                "Low-priced Z.ai coding models expose highly inefficient token usage habits across global enterprise developer platforms.",
+                "Domestic startups shift toward sovereign, open-weight architectures to bypass Western cloud dependencies and hardware limitations.",
+                "Global technology architects must restructure software development budgets to mitigate escalating token consumption costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: OMNIVERSE AGENT TOOLKIT",
+            "heading": "CIO SURVEY: ROGUE AGENT DETECTION CRISIS",
             "points": [
-                "NVIDIA integrates advanced Omniverse software components into its enterprise agent toolkit development framework.",
-                "Autonomous artificial intelligence agents can now programmatically build complex physics-aware simulation environments.",
-                "This architecture unifies synthetic pixel generation with robotic physical action modeling pipelines.",
-                "Industrial developers will accelerate spatial intelligence deployment across automated smart manufacturing facilities."
+                "Enterprise IT leaders report critical vulnerabilities in tracking and isolating cascading failures within autonomous agent workflows.",
+                "Less than twenty percent of surveyed security teams can quickly trace rogue agent operations across environments.",
+                "Security frameworks are shifting from static perimeter defense to real-time, behavioral monitoring of multi-agent execution paths.",
+                "Chief Information Officers must prioritize specialized AgentOps tools to prevent uncontrolled execution and sandbox escape vulnerabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: MICROSOFT CLOUD DEPLOYMENT",
+            "heading": "AMD & MICROSOFT: AZURE INFRASTRUCTURE COLLABORATION",
             "points": [
-                "Microsoft expands its long-term strategic partnership to deploy next-generation AMD hardware platforms.",
-                "Azure clouds will utilize Instinct accelerators and EPYC processors for high-performance computing workloads.",
-                "This multi-vendor silicon strategy reduces platform dependency on current proprietary hardware ecosystem monopolies.",
-                "Enterprises gain optimized operational cost efficiency when training complex sovereign artificial intelligence models."
+                "Microsoft integrates next-generation AMD Instinct accelerators and EPYC processors into Azure cloud infrastructure architectures.",
+                "Rackspace Technology deploys thirty megawatts of AMD-powered compute resources dedicated solely to regulated enterprise AI workloads.",
+                "This partnership establishes a highly scalable alternative to current hardware monopolies in the cloud-based training market.",
+                "Enterprise infrastructure buyers gain access to diversified, cost-effective high-performance computing resources for complex model training."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,44 +55,44 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "OPENAI: CODEX CONTEXT REDUCTION",
+            "heading": "OPENAI: GPT-5.6 CONTEXT REDUCTION FALLOUT",
             "points": [
-                "OpenAI reduces the active Codex context window capacity for its frontier development models.",
-                "Software engineering teams face operational challenges debugging complex enterprise codebase files simultaneously.",
-                "Decreased context limits require developers to implement localized, modular code structuring methodologies.",
-                "Organizations will shift toward specialized, open-weight coding agents to bypass proprietary API restrictions."
+                "OpenAI releases GPT-5.6 featuring frontier intelligence capabilities alongside controversial context window reductions in developer APIs.",
+                "Developers report severe degradation in code reasoning tasks due to optimized but restricted context processing constraints.",
+                "The transition forces software engineers to implement aggressive pre-processing and highly efficient token minimization techniques.",
+                "Engineering managers must recalibrate operational pipelines to balance frontier model intelligence with reduced input context limits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ZILLIZ: MILVUS RETRIEVAL ENGINE",
+            "heading": "NVIDIA: AGENT SIMULATION LIBRARIES",
             "points": [
-                "Zilliz launches a major update for its Milvus database featuring advanced vector search capabilities.",
-                "Enterprises gain direct native connectivity to massive scale data lakes without complex ETL pipelines.",
-                "A redesigned retrieval engine optimizes memory consumption while processing highly complex high-dimensional datasets.",
-                "System architects can deploy fast real-time retrieval-augmented generation systems across decentralized corporate repositories."
+                "NVIDIA integrates Omniverse libraries into its Agent Toolkit to accelerate the creation of simulation-ready agent environments.",
+                "Developers leverage these libraries to generate physics-aware synthetic data for training highly advanced, physical robotics platforms.",
+                "This expansion bridges the gap between pure digital logic agents and physical world execution frameworks globally.",
+                "Industrial automation engineers can now deploy agents that plan, simulate, and execute tasks inside virtual digital twins."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL SYSTEMIZATION",
+            "heading": "MISTRAL AI: ROBOSTRAL AGENT LAUNCH",
             "points": [
-                "Mistral AI introduces Robostral to establish a unified system of record for system prompts.",
-                "Developers can systematically track, manage, and audit autonomous agent skills within complex production environments.",
-                "This system integrates specialized OCR capabilities directly into sovereign enterprise document intelligence workflows.",
-                "Companies will achieve stronger compliance with strict international artificial intelligence transparency standards."
+                "Mistral AI unveils Robostral Navigate to establish a secure, unified system of record for enterprise prompts.",
+                "The new agent architecture enables long-horizon multi-step task scheduling across highly disparate legacy database environments.",
+                "Organizations deploy these specialized systems to achieve operational autonomy without relying on broad, generalized public models.",
+                "Technology officers gain precise control over persistent agent memory and reusable technical skills within corporate boundaries."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "NETAPP: DATAPELAGO DISTRIBUTED INFRA",
+            "heading": "EU AI ACT: AUGUST TRANSPARENCY DEADLINES",
             "points": [
-                "NetApp completes the acquisition of DataPelago to bolster unified hybrid cloud data management strategies.",
-                "The transaction accelerates high-speed processing engines across highly distributed computational storage networks.",
-                "This infrastructure abstraction layer enables seamless execution of massive machine learning operations datasets.",
-                "IT executives can resolve persistent networking bottlenecks when scaling active production intelligence engines."
+                "The European Union prepares to enforce strict Article fifty transparency rules governing synthetic media and chatbots.",
+                "Non-compliant enterprises face multi-million euro penalties if audit trails fail to clearly label AI-generated customer interactions.",
+                "Compliance requirements accelerate the demand for end-to-end data provenance tracking and automated system audit frameworks.",
+                "Legal and engineering teams must coordinate immediately to implement transparent, audit-ready architectures across all deployed services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
