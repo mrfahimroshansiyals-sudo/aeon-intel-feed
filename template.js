@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "NEXT GEN COGNITIVE",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALING DEBUT",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI has launched GPT-5.6 to provide enterprise developers with frontier intelligence scaling capabilities.",
-                "The model optimizes workflow execution speeds while generating significant developer backlash regarding Codex context reduction limits.",
-                "Technical adjustments to the context window architecture aim to manage extreme token economics during agentic runtime cycles.",
-                "Developers must adjust code parsing patterns to avoid accidental file modifications during recursive self-improvement execution loops."
+                "OpenAI launched the GPT-5.6 frontier model designed to scale reasoning capabilities for highly ambitious enterprise workloads.",
+                "Developers raised significant concerns as the model introduced a controversial context reduction within its underlying Codex engine.",
+                "This unexpected architectural modification forces engineering teams to adapt their current prompt designs and data ingestion pipelines.",
+                "Organizations must proactively redesign localized memory storage solutions to mitigate potential token constraints in production systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: AGENT OMNIVERSE INTEGRATION",
+            "heading": "NVIDIA: OMNIVERSE AGENT INTEGRATION",
             "points": [
-                "Nvidia expanded its Agent Toolkit by integrating Omniverse software libraries to generate physical simulations on demand.",
-                "Autonomous AI agents can now seamlessly program physics-aware synthetic video environments for general-purpose robotic training datasets.",
-                "The upgrade empowers edge hardware systems to coordinate real-time environment generation using advanced mixture-of-transformers architecture models.",
-                "Engineering teams can scale synthetic dataset production without relying on sparse and expensive real-world physical data inputs."
+                "Nvidia expanded its Agent Toolkit by integrating core Omniverse libraries to accelerate the generation of virtual simulation worlds.",
+                "Developers can now program autonomous software agents to build physically accurate environment twins without manual design bottlenecks.",
+                "This specialized architecture unifies pixels, actions, and physics models to streamline the overall training cycle of robotic agents.",
+                "Industrial manufacturers will leverage these real-time tools to automate complex factory designs before executing physical hardware installations."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,60 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: MICROSOFT INSTINCT DEPLOYMENT",
+            "heading": "ZILLIZ: MILVUS DATABASE UPGRADE",
             "points": [
-                "AMD and Microsoft expanded their strategic partnership to deploy next-generation Instinct accelerators across Azure cloud clusters.",
-                "The hardware integration targets high-throughput enterprise inference workloads running dense post-training agentic automation workflows at scale.",
-                "Azure customers gain immediate access to optimized EPYC processors and ROCm software libraries for localized model execution.",
-                "This strategic computing alliance establishes a viable hardware alternative for organizations struggling with legacy chip supply shortages."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE: GEMINI 3.5 ACTION ENGINE",
-            "points": [
-                "Google announced Gemini 3.5 to integrate multi-modal frontier reasoning with autonomous execution across digital environments.",
-                "The model leverages a fully-managed remote Model Context Protocol server to interact dynamically with enterprise database systems.",
-                "Developers can deploy custom agents through Google AI Studio to perform complex, long-horizon data orchestration tasks natively.",
-                "Real-world tool use capabilities streamline file manipulation pipelines, accelerating autonomous software development workflows inside secure sandboxes."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "US EXEC: SOVEREIGN TECH WARNING",
-            "points": [
-                "Leading American technology executives have sounded alarms regarding the rapid acceleration of open-weight Chinese AI models.",
-                "Highly capable open-source alternatives are challenging Western market share by offering localized execution at drastically reduced costs.",
-                "The geopolitical software divide forces global enterprises to balance domestic compliance requirements with massive architectural cost efficiencies.",
-                "Industry analysts predict a rapid shift toward sovereign data infrastructures to protect critical intellectual property from exposure."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ZILLIZ: MILVUS VECTOR RETRIEVAL",
-            "points": [
-                "Zilliz updated its Milvus vector database to provide native access interfaces directly to enterprise data lake environments.",
-                "The specialized search engine improves unstructured data processing performance for high-concurrency retrieval-augmented generation applications.",
-                "Engineering teams can now bypass complex pipeline configurations, unifying real-time vector queries with structured analytical workflows seamlessly.",
-                "This storage abstraction Layer reduces operational latency for distributed AI systems managing petabyte-scale knowledge bases."
+                "Zilliz updated its Milvus vector database, introducing direct native connectivity to modern enterprise cloud data lakes.",
+                "The integration delivers a highly efficient retrieval engine designed to accelerate semantic search performance across distributed databases.",
+                "This design eliminates complex pre-processing requirements, allowing AI applications to query unstructured datasets directly in real time.",
+                "Data engineers will achieve massive cost reductions by minimizing redundant vector pipelines and streamlining their data indexing workflows."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ENTERPRISE: TOKEN COST OPTIMIZATION",
+            "id": 4,
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "Enterprises are shifting away from massive frontier models toward smaller open-weight structures to control escalating token costs.",
-                "Opaque subscription pricing models and backward-looking billing metrics force financial officers to demand predictable operational parameters.",
-                "Moving workloads to local hardware allows organizations to avoid network latency while maximizing long-term training capital investments.",
-                "Strategic workload routing algorithms dynamically select model architectures to optimize the economic balance between intelligence and cost."
+                "ASML achieved a critical milestone by delivering its first high-volume logic product using advanced High NA EUV lithography.",
+                "The breakthrough system patterns sub-nanometer transistors, unlocking massive processing speed and energy efficiency improvements for next-generation microchips.",
+                "The hardware architecture utilizes refined extreme ultraviolet optics to maintain precise structural integrity during high-volume commercial manufacturing.",
+                "Global chip manufacturers will leverage this advanced printing capability to construct highly optimized processors for future computing demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SAMSUNG: PHYSICAL ROBOTICS UNIT",
+            "points": [
+                "Samsung Electronics established a dedicated robotics business unit to accelerate its commercial development of advanced physical AI systems.",
+                "This strategic move directly drove global stock gains as investors anticipated rapid commercialization of household robot assistants.",
+                "The hardware design integrates localized edge processing chips with multi-sensory feedback loops to improve physical movement precision.",
+                "Enterprise developers will soon acquire standardized robotic platforms to automate complex manual labor tasks in industrial warehouse environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU AI ACT: TRANSPARENCY ENFORCEMENT",
+            "points": [
+                "The European Union prepares to enforce strict Article 50 transparency regulations targeting all deployed artificial intelligence models.",
+                "Enterprises face severe financial penalties unless they rapidly implement auditable methods to identify AI-generated synthetic media content.",
+                "Compliance teams must embed robust tracking metadata and cryptographic watermarks directly within their generative application delivery pipelines.",
+                "Corporate legal departments must establish comprehensive validation frameworks to verify automated systems before the regulatory deadline arrives."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMD: MICROSOFT AZURE EXPANSION",
+            "points": [
+                "Microsoft expanded its strategic hardware partnership with AMD, deploying next-generation Instinct GPUs and EPYC processors on Azure.",
+                "This deployment optimizes cloud processing infrastructure, delivering superior performance metrics and reduced operational costs for large-scale workloads.",
+                "The network architecture utilizes high-bandwidth interconnects and advanced memory structures to maximize parallel computing efficiency during training.",
+                "Enterprise clients will achieve faster execution speeds while scaling highly complex machine learning operations across global cloud networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
