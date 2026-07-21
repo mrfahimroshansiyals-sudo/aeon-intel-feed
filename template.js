@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Sovereign Enterprise Agent",
-        "titleBlue": "Deployment"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CHINA: EXPORT CONTROLS AND Z.AI IMPACT",
+            "heading": "AMD: AGENTIC HARDWARE SHIFT",
             "points": [
-                "China proposes rigorous new export controls targeting advanced generative AI models and localized semiconductor components.",
-                "Low-priced Z.ai coding models expose highly inefficient token usage habits across global enterprise developer platforms.",
-                "Domestic startups shift toward sovereign, open-weight architectures to bypass Western cloud dependencies and hardware limitations.",
-                "Global technology architects must restructure software development budgets to mitigate escalating token consumption costs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CIO SURVEY: ROGUE AGENT DETECTION CRISIS",
-            "points": [
-                "Enterprise IT leaders report critical vulnerabilities in tracking and isolating cascading failures within autonomous agent workflows.",
-                "Less than twenty percent of surveyed security teams can quickly trace rogue agent operations across environments.",
-                "Security frameworks are shifting from static perimeter defense to real-time, behavioral monitoring of multi-agent execution paths.",
-                "Chief Information Officers must prioritize specialized AgentOps tools to prevent uncontrolled execution and sandbox escape vulnerabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD & MICROSOFT: AZURE INFRASTRUCTURE COLLABORATION",
-            "points": [
-                "Microsoft integrates next-generation AMD Instinct accelerators and EPYC processors into Azure cloud infrastructure architectures.",
-                "Rackspace Technology deploys thirty megawatts of AMD-powered compute resources dedicated solely to regulated enterprise AI workloads.",
-                "This partnership establishes a highly scalable alternative to current hardware monopolies in the cloud-based training market.",
-                "Enterprise infrastructure buyers gain access to diversified, cost-effective high-performance computing resources for complex model training."
+                "AMD integrates next-generation Instinct GPUs with EPYC processors to optimize end-to-end agentic workflows for enterprise deployments.",
+                "The firm deepens Microsoft Azure partnership, deploying high-density compute clusters to manage complex, multi-step AI reasoning tasks.",
+                "Strategic recruitment of FastFlowLM talent accelerates AI inference efficiency, reducing latency for localized, agentic PC applications.",
+                "These hardware-first updates position AMD as a primary infrastructure provider for companies scaling autonomous enterprise agent operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "OPENAI: GPT-5.6 CONTEXT REDUCTION FALLOUT",
+            "id": 2,
+            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
             "points": [
-                "OpenAI releases GPT-5.6 featuring frontier intelligence capabilities alongside controversial context window reductions in developer APIs.",
-                "Developers report severe degradation in code reasoning tasks due to optimized but restricted context processing constraints.",
-                "The transition forces software engineers to implement aggressive pre-processing and highly efficient token minimization techniques.",
-                "Engineering managers must recalibrate operational pipelines to balance frontier model intelligence with reduced input context limits."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: AGENT SIMULATION LIBRARIES",
-            "points": [
-                "NVIDIA integrates Omniverse libraries into its Agent Toolkit to accelerate the creation of simulation-ready agent environments.",
-                "Developers leverage these libraries to generate physics-aware synthetic data for training highly advanced, physical robotics platforms.",
-                "This expansion bridges the gap between pure digital logic agents and physical world execution frameworks globally.",
-                "Industrial automation engineers can now deploy agents that plan, simulate, and execute tasks inside virtual digital twins."
+                "NVIDIA expands its Agent Toolkit with new Omniverse libraries, enabling AI agents to construct and simulate complex physical environments.",
+                "Partnership with Japan\u2019s industrial leaders launches the first national AI infrastructure, leveraging the Vera Rubin platform for scale.",
+                "Cosmos 3 Edge model introduces a novel mixture-of-transformers architecture capable of processing pixels, actions, and sound concurrently.",
+                "These advancements provide the necessary compute fabric for robotics and autonomous systems to navigate unpredictable real-world scenarios reliably."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL AGENT LAUNCH",
+            "id": 3,
+            "heading": "MISTRAL: AUTONOMOUS WORKFLOWS",
             "points": [
-                "Mistral AI unveils Robostral Navigate to establish a secure, unified system of record for enterprise prompts.",
-                "The new agent architecture enables long-horizon multi-step task scheduling across highly disparate legacy database environments.",
-                "Organizations deploy these specialized systems to achieve operational autonomy without relying on broad, generalized public models.",
-                "Technology officers gain precise control over persistent agent memory and reusable technical skills within corporate boundaries."
+                "Mistral debuts Vibe, an autonomous agent platform engineered for long-horizon tasks, knowledge search, and multi-step data analysis.",
+                "The Vibe for code feature integrates directly into developer terminals and IDEs, automating complex CI/CD and refactoring processes.",
+                "Frontier-scale infrastructure (Compute) is now exposed to enterprise clients, allowing private, domain-specialized model training and fine-tuning.",
+                "Mistral focuses on enterprise-grade tooling to ensure production-level observability and guardrails for autonomous agentic software deployments globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +54,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EU AI ACT: AUGUST TRANSPARENCY DEADLINES",
+            "id": 4,
+            "heading": "GOOGLE DEEPMIND: MULTI-MODAL ACTION",
             "points": [
-                "The European Union prepares to enforce strict Article fifty transparency rules governing synthetic media and chatbots.",
-                "Non-compliant enterprises face multi-million euro penalties if audit trails fail to clearly label AI-generated customer interactions.",
-                "Compliance requirements accelerate the demand for end-to-end data provenance tracking and automated system audit frameworks.",
-                "Legal and engineering teams must coordinate immediately to implement transparent, audit-ready architectures across all deployed services."
+                "DeepMind unveils Gemini 3.5, a frontier model series integrating advanced reasoning with real-time physical interaction and action capabilities.",
+                "The Nano Banana 2 Lite model offers a high-efficiency alternative for edge deployments, maximizing intelligence per parameter for tasks.",
+                "New research partnerships focus on scientific discovery, applying AI tools to material science, protein folding, and complex fusion energy.",
+                "Strategic alignment with robotics labs ensures Gemini 3.5 can control robotic embodiments that plan and perform sophisticated manual work."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: FRONTIER MODEL SAFETY",
+            "points": [
+                "OpenAI prepares the rollout of GPT-5.6, targeting heightened frontier intelligence capabilities with improved long-context reasoning for complex work.",
+                "GPT-Red safety framework is officially deployed to combat model misalignment and potential autonomous errors within high-stakes industrial use cases.",
+                "Internal research now emphasizes content provenance and secure deployment pathways to facilitate widespread integration of agents in business.",
+                "Company focus pivots toward maintaining leadership in raw capability while addressing technical debt in automated reasoning and security."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ASML: LITHOGRAPHY INFRASTRUCTURE",
+            "points": [
+                "ASML achieves a readiness milestone for High NA EUV technology, enabling next-generation chip density required for massive AI models.",
+                "Company financial results reflect a robust demand for patterning systems essential for high-volume logic and memory chip production.",
+                "Strategic partnerships in India and Asia strengthen the global supply chain, localizing advanced semiconductor R&D and maintenance operations.",
+                "ASML continues to serve as the critical foundational bottleneck provider for all high-end AI compute silicon development efforts."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI ACT: GOVERNANCE REALITY",
+            "points": [
+                "European regulators finalize enforcement provisions for Chapter V, imposing strict transparency requirements on general-purpose AI providers globally.",
+                "Scientific Panel of Independent Experts is established to audit and oversee high-risk GPAI systems, ensuring regulatory alignment and safety.",
+                "Small business guides and compliance checkers are rolled out to assist enterprises in mapping AI-driven obligations before enforcement deadlines.",
+                "This regulatory framework establishes the global standard for AI accountability, impacting international data governance and industrial model deployment strategies."
             ],
             "imageUrl": "",
             "tags": [
