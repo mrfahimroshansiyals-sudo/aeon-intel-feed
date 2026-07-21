@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS FRONTIER",
-        "titleBlue": "COGNITION"
+        "titleWhite": "FRONTIER AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI deploys GPT-5.6 frontier intelligence model optimized for highly ambitious enterprise agent workloads globally.",
-                "Engineers report severe dissatisfaction following unexpected context reduction within the integrated Codex development environment.",
-                "This architecture shifts developer paradigms toward local pre-processing rather than relying solely on cloud-hosted context windows.",
-                "Enterprises must adjust scaling parameters to maintain high-signal output while managing restricted tokens under new constraints."
+                "OpenAI releases GPT-5.6, a frontier intelligence model built specifically to scale automated enterprise-grade agent workloads.",
+                "The architecture delivers advanced reasoning capacities designed to lower token processing latency during massive scaling operations.",
+                "Infrastructure engineers can deploy this system across decentralized cloud environments to support highly complex decision matrices.",
+                "This release signals a critical shift toward autonomous multi-agent coordination systems operating inside protected legacy platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI 3.5 ACTION",
+            "heading": "OPENAI: GPT-LIVE PROTOCOL",
             "points": [
-                "Google DeepMind launches Gemini 3.5 combining frontier spatial intelligence with native autonomous action orchestration frameworks.",
-                "Deployment of the ultra-fast Nano Banana Two Lite model dramatically slashes latencies for edge image tasks.",
-                "The system integrates fully-managed remote model context protocol servers to unify distributed enterprise agent workflows securely.",
-                "Developers will migrate legacy pipelines to utilize multi-modal action models for continuous closed-loop operations."
+                "OpenAI unveils GPT-Live, a dynamic execution framework enabling continuous real-time model interaction without computational interruptions.",
+                "The model leverages stream-processing pipelines to handle simultaneous data feeds from edge devices and API endpoints.",
+                "Systems developers can now construct persistent operational loops that maintain contextual awareness across lengthy execution sessions.",
+                "Enterprise networks must prepare to accommodate these high-throughput streams by upgrading core data storage architectures immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "heading": "OPENAI: DAYBREAK SECURITY",
             "points": [
-                "NVIDIA unveils the Vera Rubin architecture designed to maximize processing performance per watt for post-training workloads.",
-                "Initial CoreWeave benchmarks reveal a ten times performance increase in token generation speeds for DeepSeek model lines.",
-                "Integrating the new Spectrum-6 network switch enables seamless scaling within massive gigascale artificial intelligence factories.",
-                "Sovereign nations will leverage this hardware infrastructure to establish localized public sector and manufacturing robotics clusters."
+                "OpenAI introduces Daybreak, a comprehensive enterprise security suite designed to protect organizations from alignment vulnerabilities.",
+                "The platform provides active monitoring tools that trace anomalous agent behaviors and mitigate potential system exploitation.",
+                "Security teams can integrate these defensive layers directly into operational environments without degrading model execution performance.",
+                "This proactive framework establishes standard safety guardrails required for deployment of highly autonomous AI software agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: SPECTRUM-6 SWITCH",
+            "points": [
+                "Nvidia ships Spectrum-6, a 102.4-terabit Ethernet switch built specifically for high-capacity generative AI server fabrics.",
+                "The networking technology eliminates routing bottlenecks to accelerate physical data transfers across massive GPU computing facilities.",
+                "Hyperscalers are deploying these hardware components to maximize cluster efficiency and eliminate inter-node communication latency issues.",
+                "This advancement secures localized processing infrastructure needed for training next-generation large-scale reasoning and world models."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE ARCHITECTURE",
-            "points": [
-                "Anthropic introduces Claude Science integrating customized research tools, auditable artifacts, and highly flexible computing resource structures.",
-                "Global export controls are officially lifted from the highly advanced Fable Five and Mythos Five models.",
-                "This development provides researchers with secure, decentralized sandbox environments capable of running complex scientific computations.",
-                "Scientific organizations will rapidly accelerate clinical drug discovery phases utilizing these novel verifiable agentic pipelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "AMD: FASTFLOWLM INFERENCE EXPANSION",
+            "heading": "NVIDIA: VERA RUBIN FACTORY",
             "points": [
-                "AMD acquires the elite FastFlowLM engineering team to significantly boost raw execution performance across the software stack.",
-                "Strategic partnership with Rackspace secures thirty megawatts of dedicated compute specifically for regulated enterprise artificial intelligence workloads.",
-                "The unified open ROCm ecosystem provides robust hardware abstraction layers targeting competitive enterprise graphics processing alternatives.",
-                "Hyperscalers will experience improved total cost of ownership by migrating traditional workloads to modern EPYC systems."
+                "Nvidia details its Vera Rubin architecture optimized to deliver maximum performance per watt during inference tasks.",
+                "Partners globally report significantly reduced token production costs when executing deep training pipelines on these processors.",
+                "This hardware configuration provides robust computational foundations for orchestrating thousands of autonomous physical robotics platforms.",
+                "Enterprise buyers can optimize capital expenditure budgets by replacing legacy server nodes with energy-efficient computing modules."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: A16 NANOSHEET POWERING HPC",
+            "heading": "GOOGLE: GEMINI AGENT PLATFORM",
             "points": [
-                "TSMC advances high performance computing through its A16 Nanosheet process featuring innovative backside power delivery mechanisms.",
-                "The A14 NanoFlex Pro architecture optimizes silicon layouts to maximize overall throughput for generative model architectures.",
-                "Decoupling routing and power networks addresses critical thermal bottlenecks prevalent in next generation microchip packages.",
-                "Chip designers will achieve unprecedented performance leaps by transitioning upcoming physical designs to nanosheet silicon architectures."
+                "Google Cloud introduces the Gemini Enterprise Agent Platform, integrating remote Model Context Protocol servers for developers.",
+                "The system allows agents to securely read and act with complete shared context across legacy databases.",
+                "Cloud engineers can establish managed remote gateways that streamline complex API integrations across multiple enterprise environments.",
+                "This deployment framework reduces deployment friction and accelerates the transition from simple pilots to production workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
+            "heading": "AWS: STANDARDIZED BILLING TELEMETRY",
             "points": [
-                "Mistral AI launches Robostral Navigate alongside Mistral OCR Four to establish persistent, structured agentic systems of record.",
-                "Enterprise deployments demonstrate substantial gains in document processing speed and complex multi-step transaction scheduling pipelines.",
-                "The lightweight, sovereign architecture allows organizations to run production grade model suites completely on premises.",
-                "Corporations will leverage localized deployment footprints to fulfill stringent regional data compliance and privacy requirements."
+                "Amazon Web Services normalizes generative AI billing data fields inside automated exports to simplify financial tracking.",
+                "This improvement eliminates engineering overhead formerly required to parse opaque token consumption charges across different models.",
+                "Financial officers can leverage these unified exports to implement precise governance frameworks over expanding AI workloads.",
+                "Standardizing billing metrics signals a maturing industry shift where operational cost optimization matches model performance focus."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
