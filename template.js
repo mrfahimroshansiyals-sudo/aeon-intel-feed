@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COMPUTE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS COMPUTE",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "heading": "NVIDIA: VERA RUBIN PRODUCTION",
             "points": [
-                "NVIDIA launches Vera Rubin NVL72 platform targeting massive gigascale AI factories worldwide.",
-                "Ramping up production with CoreWeave and Google lowers the operational token cost significantly.",
-                "The Spectrum six Ethernet switch delivers unprecedented throughput of over one hundred terabits.",
-                "Enterprises gain unmatched efficiency scaling up decentralized physical intelligence networks across modern global environments."
+                "NVIDIA began mass production of its Vera Rubin NVL72 platform, integrating next-generation Vera CPUs for gigascale factories.",
+                "Ramps are actively deploying across elite cloud infrastructure partners including CoreWeave, Google Cloud, and key enterprise customers.",
+                "The architecture delivers unmatched performance-per-watt metrics, radically driving down operational token costs for sovereign physical AI.",
+                "Early adopters like Bristol Myers Squibb are leveraging these systems to build highly advanced life science AI factories."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 ARCHITECTURE",
+            "heading": "SUPERMICRO: MARGIN DOUBLING SURGE",
             "points": [
-                "OpenAI announces the release of GPT five point six scaling frontier intelligence for enterprise workloads.",
-                "New board appointments of David Velez and Robin Vince strengthen corporate governance and execution.",
-                "Reduced Codex context limits spark developer dissatisfaction despite massive performance and safety improvements.",
-                "Strategic red teaming efforts guarantee robust deployment of autonomous models across global enterprise environments."
+                "Super Micro Computer shares surged over fifteen percent following unexpected disclosures of gross margins doubling on massive orders.",
+                "The revenue expansion correlates directly with highly specialized hardware deployments optimized for SpaceX global aerospace compute requirements.",
+                "Market capitalizations responded instantly as the strategic shift validated industrial scale-out margins for legacy high-density compute systems.",
+                "This development asserts Supermicro as a primary hardware infrastructure provider amid rapid sovereign military and commercial expansion."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: GEMINI 3.5 SYSTEM",
+            "heading": "WISTRON: ADVANCED US MANUFACTURING",
             "points": [
-                "Google DeepMind introduces Gemini three point five Flash Cyber alongside the efficient Nano Banana model.",
-                "The new Omni Flash architecture integrates real time multimodal processing and advanced computer use features.",
-                "Enterprises can access these specialized models via Google Cloud for low latency edge execution.",
-                "Enhanced reasoning capabilities accelerate automated software development and scientific discovery pipelines globally."
+                "Advanced systems manufacturer Wistron officially opened a cutting-edge production facility in Fort Worth, Texas for AI hardware.",
+                "The domestic factory focuses specifically on building and testing highly complex, sovereign-grade NVIDIA AI infrastructure platforms.",
+                "This strategic onshore expansion mitigates severe geopolitical supply chain vulnerabilities while securing immediate regional deployment capabilities.",
+                "Localized production lines represent a critical shift toward geographic decoupling of critical high-performance semiconductor system integration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALIBABA: QWEN 3.8 PARADIGM",
+            "heading": "ALIBABA: QWEN OPEN WEIGHT FRONTIER",
             "points": [
-                "Alibaba releases Qwen three point eight Max closing the performance gap with Western frontier models.",
-                "The low cost open weight model provides global enterprises with flexible deployment options.",
-                "High optimization rates allow complex reasoning tasks to execute with minimal computational overhead.",
-                "Sovereign organizations leverage local infrastructure to run advanced intelligence without external dependency risks."
+                "Alibaba debuted its Qwen three-point-eight Max model, demonstrating significant advancements in narrowing performance gaps with Western systems.",
+                "The low-cost open-weight architecture offers global enterprises high-signal execution alternatives with highly competitive token-to-value metrics.",
+                "This release intensifies geopolitical market dynamics, presenting viable sovereign alternatives despite ongoing regulatory scrutiny and export curbs.",
+                "Enterprise adopters are assessing Qwen for specialized localized automation applications where parameter efficiency remains highly critical."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMD: AZURE HARDWARE EXPANSION",
+            "heading": "MICROSOFT: VSCODE AGENT ARCHITECTURE",
             "points": [
-                "AMD expands its long term strategic partnership with Microsoft to deploy next generation processors.",
-                "The deployment brings high performance Instinct GPUs and EPYC CPUs to Microsoft Azure clouds.",
-                "A separate thirty megawatt agreement with Rackspace secures dedicated compute for regulated enterprise workloads.",
-                "These infrastructure integrations directly challenge legacy market dominance by optimizing performance per dollar."
+                "Microsoft released Visual Studio Code version one-point-one-two-nine, introducing a dedicated sovereign agentic host framework.",
+                "The update isolates runtime operations for autonomous code execution, enhancing overall stability and containerized software security.",
+                "Software engineers gain structured environments to monitor agent behaviors, reducing unexpected IDE resource consumption during generation.",
+                "Integrating secure, isolated developer loops accelerates transition from assistive code generation to fully autonomous engineering workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: AUTONOMOUS AGENTS",
+            "heading": "AWS: STANDARDIZED BILLING METRICS",
             "points": [
-                "Mistral AI launches Robostral Navigate and Mistral OCR four expanding its enterprise model portfolio.",
-                "The new Vibe framework optimizes autonomous execution of long horizon tasks and coding workflows.",
-                "Integrated tools enable persistent memory and reusable skills across distributed hybrid cloud installations.",
-                "Developers leverage custom pre training capabilities to tailor agentic intelligence for specific industrial applications."
+                "Amazon Web Services standardized advanced AI billing data formats in AWS Data Exports to simplify enterprise governance.",
+                "The normalized schema allows chief information officers to transparently monitor token utilization and micro-agent execution costs.",
+                "Reducing engineering overhead for cloud cost analysis enables faster financial auditing of distributed enterprise machine learning pipelines.",
+                "This financial transparency directly counters the rising industry concern regarding runaway operations costs from unmonitored shadow applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BELLSOFT: SECURE CONTAINER AGENTS",
+            "heading": "OPENAI: GOVERNANCE STRUCTURE EXPANSION",
             "points": [
-                "BellSoft introduces Hardened Builder to automate the construction of zero vulnerability container images.",
-                "The software enables developers to utilize Paketo Buildpacks without modifying existing application codebases.",
-                "Securing base layers reduces compliance toil and mitigates risks associated with software supply chains.",
-                "Enterprises achieve rapid deployment velocity while adhering strictly to emerging global cybersecurity standards."
+                "OpenAI expanded its board of directors, appointing fintech leader David V\u00e9lez and financial executive Robin Vince.",
+                "The additions bring deep institutional banking and global transaction processing expertise to the frontier intelligence governance framework.",
+                "Strategic positioning suggests preparation for intensive regulatory scaling and commercial monetization of forthcoming agentic compute platforms.",
+                "Establishing a highly scrutinized, corporate-aligned board structure secures institutional trust as the firm approaches public market readiness."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
