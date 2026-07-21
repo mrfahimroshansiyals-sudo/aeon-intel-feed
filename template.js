@@ -1,50 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AI",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "NVIDIA: VERA RUBIN NVL72",
             "points": [
-                "OpenAI releases GPT-5.6, a frontier intelligence model built specifically to scale automated enterprise-grade agent workloads.",
-                "The architecture delivers advanced reasoning capacities designed to lower token processing latency during massive scaling operations.",
-                "Infrastructure engineers can deploy this system across decentralized cloud environments to support highly complex decision matrices.",
-                "This release signals a critical shift toward autonomous multi-agent coordination systems operating inside protected legacy platforms."
+                "NVIDIA ramps production of Vera Rubin NVL72 architectures across global cloud partner data centers.",
+                "Integrating Spectrum-6 switches delivers 102.4 terabits per second Ethernet fabric for gigascale training workloads.",
+                "This hardware evolution optimizes real-world performance per watt to minimize token costs for enterprises.",
+                "CoreWeave, Google, and Microsoft deploy the architecture to scale next-generation agentic physical AI platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-LIVE PROTOCOL",
+            "heading": "ALIBABA: QWEN 3.8 MAX",
             "points": [
-                "OpenAI unveils GPT-Live, a dynamic execution framework enabling continuous real-time model interaction without computational interruptions.",
-                "The model leverages stream-processing pipelines to handle simultaneous data feeds from edge devices and API endpoints.",
-                "Systems developers can now construct persistent operational loops that maintain contextual awareness across lengthy execution sessions.",
-                "Enterprise networks must prepare to accommodate these high-throughput streams by upgrading core data storage architectures immediately."
+                "Alibaba launches Qwen 3.8 Max to close the performance gap with domestic United States frontier models.",
+                "The model exhibits superior reasoning, coding proficiency, and efficient instruction following across benchmark evaluations.",
+                "Enterprise buyers leverage Chinese open-weight models to bypass rising Western compute costs and restrictive access.",
+                "This release intensifies global geopolitical competition for dominant sovereign artificial intelligence systems and framework controls."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: DAYBREAK SECURITY",
+            "heading": "AWS: STANDARD BILLING DATA",
             "points": [
-                "OpenAI introduces Daybreak, a comprehensive enterprise security suite designed to protect organizations from alignment vulnerabilities.",
-                "The platform provides active monitoring tools that trace anomalous agent behaviors and mitigate potential system exploitation.",
-                "Security teams can integrate these defensive layers directly into operational environments without degrading model execution performance.",
-                "This proactive framework establishes standard safety guardrails required for deployment of highly autonomous AI software agents."
+                "Amazon Web Services normalizes granular billing data fields to simplify complex enterprise cloud cost tracking.",
+                "Unified billing data exports allow engineering teams to monitor micro-transaction token consumption across different platforms.",
+                "Reducing cost governance overhead directly accelerates organizational transitions from exploratory pilots into active production deployments.",
+                "Cloud administrators gain real-time visibility into rogue model operations to prevent unexpected monthly infrastructure overages."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "BELLSOFT: HARDENED BUILDER",
+            "points": [
+                "BellSoft introduces Hardened Builder to compile highly secure zero-CVE container images without manual code restructuring.",
+                "The tool supports Paketo Buildpacks to automate base image hardening and minimize software supply chain vulnerabilities.",
+                "Enterprise developers eliminate repetitive security patching cycles while ensuring strict compliance with evolving regulatory mandates.",
+                "The deployment of lightweight base runtimes enhances cloud runtime performance and reduces container cold start times."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: GOVERNANCE RESTRUCTURE",
+            "points": [
+                "OpenAI expands its board of directors by appointing financial leaders David V\u00e9lez and Robin Vince.",
+                "This governance restructuring strengthens corporate oversight and financial controls ahead of a projected public offering.",
+                "The appointments follow a confidential draft S-1 submission to the Securities and Exchange Commission.",
+                "Enhancing institutional governance helps stabilize enterprise relations amid continuous developer disputes over model safety modifications."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,61 +86,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: SPECTRUM-6 SWITCH",
-            "points": [
-                "Nvidia ships Spectrum-6, a 102.4-terabit Ethernet switch built specifically for high-capacity generative AI server fabrics.",
-                "The networking technology eliminates routing bottlenecks to accelerate physical data transfers across massive GPU computing facilities.",
-                "Hyperscalers are deploying these hardware components to maximize cluster efficiency and eliminate inter-node communication latency issues.",
-                "This advancement secures localized processing infrastructure needed for training next-generation large-scale reasoning and world models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
-            "points": [
-                "Nvidia details its Vera Rubin architecture optimized to deliver maximum performance per watt during inference tasks.",
-                "Partners globally report significantly reduced token production costs when executing deep training pipelines on these processors.",
-                "This hardware configuration provides robust computational foundations for orchestrating thousands of autonomous physical robotics platforms.",
-                "Enterprise buyers can optimize capital expenditure budgets by replacing legacy server nodes with energy-efficient computing modules."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "GOOGLE: GEMINI AGENT PLATFORM",
+            "heading": "ACQUIA: HERMES AGENTS",
             "points": [
-                "Google Cloud introduces the Gemini Enterprise Agent Platform, integrating remote Model Context Protocol servers for developers.",
-                "The system allows agents to securely read and act with complete shared context across legacy databases.",
-                "Cloud engineers can establish managed remote gateways that streamline complex API integrations across multiple enterprise environments.",
-                "This deployment framework reduces deployment friction and accelerates the transition from simple pilots to production workflows."
+                "Acquia integrates vibe coding paradigms and autonomous Hermes agents to transform digital content generation pipelines.",
+                "The specialized agents operate continuously to construct complex system architectures with minimal direct developer intervention.",
+                "Utilizing automated agentic workflows reduces technical debt and accelerates iterative software release cycles for businesses.",
+                "This shift highlights an emerging enterprise trend toward using self-correcting agents to manage legacy architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AWS: STANDARDIZED BILLING TELEMETRY",
+            "heading": "CERTINIA: MOONNOX ACQUISITION",
             "points": [
-                "Amazon Web Services normalizes generative AI billing data fields inside automated exports to simplify financial tracking.",
-                "This improvement eliminates engineering overhead formerly required to parse opaque token consumption charges across different models.",
-                "Financial officers can leverage these unified exports to implement precise governance frameworks over expanding AI workloads.",
-                "Standardizing billing metrics signals a maturing industry shift where operational cost optimization matches model performance focus."
+                "Certinia acquires professional services specialist Moonnox to embed advanced intelligence directly into enterprise delivery workflows.",
+                "The integration automates resource allocation, scheduling, and project execution tasks for high-value client operations.",
+                "Accelerating automated services delivery allows corporate teams to scale operational capacity without hiring massive physical staff.",
+                "This acquisition marks a strategic push to replace traditional manual processes with hyper-efficient intelligent workflows."
             ],
             "imageUrl": "",
             "tags": [
