@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AUTONOMOUS",
-        "titleBlue": "DEPLOYMENTS"
+        "titleWhite": "AUTONOMOUS ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "OPENAI: GPT-5.6 SCALING DEBUT",
             "points": [
-                "OpenAI deploys GPT-5.6, representing frontier intelligence built to scale enterprise workflows dynamically.",
-                "The model minimizes processing costs by integrating Codex-driven context reduction pathways across execution environments.",
-                "This release represents a massive push toward real-time transactional autonomy and legacy decoupling.",
-                "Enterprises must adapt engineering pipelines to manage altered context boundaries and minimize data loss."
+                "OpenAI has launched GPT-5.6 to provide enterprise developers with frontier intelligence scaling capabilities.",
+                "The model optimizes workflow execution speeds while generating significant developer backlash regarding Codex context reduction limits.",
+                "Technical adjustments to the context window architecture aim to manage extreme token economics during agentic runtime cycles.",
+                "Developers must adjust code parsing patterns to avoid accidental file modifications during recursive self-improvement execution loops."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA RUBIN FACTORY",
+            "heading": "NVIDIA: AGENT OMNIVERSE INTEGRATION",
             "points": [
-                "NVIDIA partners with Japan to launch a national AI factory utilizing Vera CPUs and Rubin GPUs.",
-                "The architecture integrates exactly 13,750 Vera CPUs alongside 27,500 Rubin GPUs to maximize compute density.",
-                "This state-backed initiative establishes sovereign physical AI infrastructure to secure local industrial supply chains.",
-                "Global hardware providers must match these massive scale efficiencies to retain competitiveness in national infrastructure."
+                "Nvidia expanded its Agent Toolkit by integrating Omniverse software libraries to generate physical simulations on demand.",
+                "Autonomous AI agents can now seamlessly program physics-aware synthetic video environments for general-purpose robotic training datasets.",
+                "The upgrade empowers edge hardware systems to coordinate real-time environment generation using advanced mixture-of-transformers architecture models.",
+                "Engineering teams can scale synthetic dataset production without relying on sparse and expensive real-world physical data inputs."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
+            "heading": "AMD: MICROSOFT INSTINCT DEPLOYMENT",
             "points": [
-                "Mistral AI introduces Robostral Navigate, establishing a comprehensive system of record for prompt skills.",
-                "The update enables unified management of autonomous agent parameters to secure persistent memory architectures.",
-                "This development pushes enterprise systems toward deep long-horizon task orchestration without external developer dependencies.",
-                "Chief technology officers can safely transition legacy automation setups into highly collaborative multi-agent ecosystems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: INSTINCT AZURE DEPLOYMENT",
-            "points": [
-                "Microsoft expands its strategic partnership with AMD to deploy next-generation Instinct accelerators on Azure.",
-                "The integration drives down infrastructure costs while boosting memory capacity for complex enterprise model hosting.",
-                "This alliance positions AMD as a premier alternative to NVIDIA for massive-scale hyperscaler cloud footprints.",
-                "Cloud architects should evaluate hybrid hosting models to optimize training budgets and mitigate vendor lock-in."
+                "AMD and Microsoft expanded their strategic partnership to deploy next-generation Instinct accelerators across Azure cloud clusters.",
+                "The hardware integration targets high-throughput enterprise inference workloads running dense post-training agentic automation workflows at scale.",
+                "Azure customers gain immediate access to optimized EPYC processors and ROCm software libraries for localized model execution.",
+                "This strategic computing alliance establishes a viable hardware alternative for organizations struggling with legacy chip supply shortages."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE: NANO BANANA RELEASE",
+            "id": 4,
+            "heading": "GOOGLE: GEMINI 3.5 ACTION ENGINE",
             "points": [
-                "Google DeepMind releases Nano Banana 2 Lite, their fastest and most efficient image generation model.",
-                "The model optimizes local processing speeds on edge devices without compromising high-resolution visual output quality.",
-                "This launch underscores a pivot toward lightweight, parameter-efficient architectures for immediate consumer application deployments.",
-                "Developers can now deploy advanced vision-based capabilities directly within resource-constrained mobile and web applications."
+                "Google announced Gemini 3.5 to integrate multi-modal frontier reasoning with autonomous execution across digital environments.",
+                "The model leverages a fully-managed remote Model Context Protocol server to interact dynamically with enterprise database systems.",
+                "Developers can deploy custom agents through Google AI Studio to perform complex, long-horizon data orchestration tasks natively.",
+                "Real-world tool use capabilities streamline file manipulation pipelines, accelerating autonomous software development workflows inside secure sandboxes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "US EXEC: SOVEREIGN TECH WARNING",
+            "points": [
+                "Leading American technology executives have sounded alarms regarding the rapid acceleration of open-weight Chinese AI models.",
+                "Highly capable open-source alternatives are challenging Western market share by offering localized execution at drastically reduced costs.",
+                "The geopolitical software divide forces global enterprises to balance domestic compliance requirements with massive architectural cost efficiencies.",
+                "Industry analysts predict a rapid shift toward sovereign data infrastructures to protect critical intellectual property from exposure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NETAPP: DATAPELAGO ACQUISITION",
+            "heading": "ZILLIZ: MILVUS VECTOR RETRIEVAL",
             "points": [
-                "NetApp acquires DataPelago to advance distributed data management capabilities across hybrid enterprise environments.",
-                "The transaction streamlines multi-cloud storage pipelines to feed structured and unstructured data into AI models.",
-                "Integrating DataPelago's architecture allows NetApp to control data preparation stages before downstream model execution.",
-                "Data officers gain native tools to resolve compliance bottlenecks while scaling automated feature engineering pipelines."
+                "Zilliz updated its Milvus vector database to provide native access interfaces directly to enterprise data lake environments.",
+                "The specialized search engine improves unstructured data processing performance for high-concurrency retrieval-augmented generation applications.",
+                "Engineering teams can now bypass complex pipeline configurations, unifying real-time vector queries with structured analytical workflows seamlessly.",
+                "This storage abstraction Layer reduces operational latency for distributed AI systems managing petabyte-scale knowledge bases."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE",
+            "heading": "ENTERPRISE: TOKEN COST OPTIMIZATION",
             "points": [
-                "Anthropic introduces Claude Science, integrating critical tools and packages into an auditable research platform.",
-                "The application provides flexible compute resource access to accelerate scientific hypothesis testing and verification.",
-                "This system establishes verifiable, transparent workflows to counteract the black-box nature of legacy research models.",
-                "Scientific researchers can generate reproducible artifacts to satisfy strict peer-review and regulatory compliance requirements."
+                "Enterprises are shifting away from massive frontier models toward smaller open-weight structures to control escalating token costs.",
+                "Opaque subscription pricing models and backward-looking billing metrics force financial officers to demand predictable operational parameters.",
+                "Moving workloads to local hardware allows organizations to avoid network latency while maximizing long-term training capital investments.",
+                "Strategic workload routing algorithms dynamically select model architectures to optimize the economic balance between intelligence and cost."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
