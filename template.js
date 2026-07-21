@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN COGNITIVE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "AI INFRASTRUCTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "CHINA: MODEL EXPORT CONTROLS",
             "points": [
-                "OpenAI launched the GPT-5.6 frontier model designed to scale reasoning capabilities for highly ambitious enterprise workloads.",
-                "Developers raised significant concerns as the model introduced a controversial context reduction within its underlying Codex engine.",
-                "This unexpected architectural modification forces engineering teams to adapt their current prompt designs and data ingestion pipelines.",
-                "Organizations must proactively redesign localized memory storage solutions to mitigate potential token constraints in production systems."
+                "Beijing initiates regulatory consultations to implement strict export curbs on sovereign large language models.",
+                "Restrictions will prevent western enterprises from acquiring advanced domestic neural networks and startups.",
+                "Geopolitical friction forces global tech conglomerates to decouple cloud architecture and local server nodes.",
+                "Sovereign regions must rapidly deploy localized model alternatives to safeguard technical supply chain integrity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: OMNIVERSE AGENT INTEGRATION",
+            "heading": "NVIDIA: OMNIVERSE AGENT TOOLKIT",
             "points": [
-                "Nvidia expanded its Agent Toolkit by integrating core Omniverse libraries to accelerate the generation of virtual simulation worlds.",
-                "Developers can now program autonomous software agents to build physically accurate environment twins without manual design bottlenecks.",
-                "This specialized architecture unifies pixels, actions, and physics models to streamline the overall training cycle of robotic agents.",
-                "Industrial manufacturers will leverage these real-time tools to automate complex factory designs before executing physical hardware installations."
+                "NVIDIA integrates advanced Omniverse software components into its enterprise agent toolkit development framework.",
+                "Autonomous artificial intelligence agents can now programmatically build complex physics-aware simulation environments.",
+                "This architecture unifies synthetic pixel generation with robotic physical action modeling pipelines.",
+                "Industrial developers will accelerate spatial intelligence deployment across automated smart manufacturing facilities."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,44 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "ZILLIZ: MILVUS DATABASE UPGRADE",
+            "heading": "AMD: MICROSOFT CLOUD DEPLOYMENT",
             "points": [
-                "Zilliz updated its Milvus vector database, introducing direct native connectivity to modern enterprise cloud data lakes.",
-                "The integration delivers a highly efficient retrieval engine designed to accelerate semantic search performance across distributed databases.",
-                "This design eliminates complex pre-processing requirements, allowing AI applications to query unstructured datasets directly in real time.",
-                "Data engineers will achieve massive cost reductions by minimizing redundant vector pipelines and streamlining their data indexing workflows."
+                "Microsoft expands its long-term strategic partnership to deploy next-generation AMD hardware platforms.",
+                "Azure clouds will utilize Instinct accelerators and EPYC processors for high-performance computing workloads.",
+                "This multi-vendor silicon strategy reduces platform dependency on current proprietary hardware ecosystem monopolies.",
+                "Enterprises gain optimized operational cost efficiency when training complex sovereign artificial intelligence models."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: CODEX CONTEXT REDUCTION",
+            "points": [
+                "OpenAI reduces the active Codex context window capacity for its frontier development models.",
+                "Software engineering teams face operational challenges debugging complex enterprise codebase files simultaneously.",
+                "Decreased context limits require developers to implement localized, modular code structuring methodologies.",
+                "Organizations will shift toward specialized, open-weight coding agents to bypass proprietary API restrictions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ZILLIZ: MILVUS RETRIEVAL ENGINE",
+            "points": [
+                "Zilliz launches a major update for its Milvus database featuring advanced vector search capabilities.",
+                "Enterprises gain direct native connectivity to massive scale data lakes without complex ETL pipelines.",
+                "A redesigned retrieval engine optimizes memory consumption while processing highly complex high-dimensional datasets.",
+                "System architects can deploy fast real-time retrieval-augmented generation systems across decentralized corporate repositories."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
-            "points": [
-                "ASML achieved a critical milestone by delivering its first high-volume logic product using advanced High NA EUV lithography.",
-                "The breakthrough system patterns sub-nanometer transistors, unlocking massive processing speed and energy efficiency improvements for next-generation microchips.",
-                "The hardware architecture utilizes refined extreme ultraviolet optics to maintain precise structural integrity during high-volume commercial manufacturing.",
-                "Global chip manufacturers will leverage this advanced printing capability to construct highly optimized processors for future computing demands."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SAMSUNG: PHYSICAL ROBOTICS UNIT",
-            "points": [
-                "Samsung Electronics established a dedicated robotics business unit to accelerate its commercial development of advanced physical AI systems.",
-                "This strategic move directly drove global stock gains as investors anticipated rapid commercialization of household robot assistants.",
-                "The hardware design integrates localized edge processing chips with multi-sensory feedback loops to improve physical movement precision.",
-                "Enterprise developers will soon acquire standardized robotic platforms to automate complex manual labor tasks in industrial warehouse environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "EU AI ACT: TRANSPARENCY ENFORCEMENT",
+            "heading": "MISTRAL AI: ROBOSTRAL SYSTEMIZATION",
             "points": [
-                "The European Union prepares to enforce strict Article 50 transparency regulations targeting all deployed artificial intelligence models.",
-                "Enterprises face severe financial penalties unless they rapidly implement auditable methods to identify AI-generated synthetic media content.",
-                "Compliance teams must embed robust tracking metadata and cryptographic watermarks directly within their generative application delivery pipelines.",
-                "Corporate legal departments must establish comprehensive validation frameworks to verify automated systems before the regulatory deadline arrives."
+                "Mistral AI introduces Robostral to establish a unified system of record for system prompts.",
+                "Developers can systematically track, manage, and audit autonomous agent skills within complex production environments.",
+                "This system integrates specialized OCR capabilities directly into sovereign enterprise document intelligence workflows.",
+                "Companies will achieve stronger compliance with strict international artificial intelligence transparency standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: MICROSOFT AZURE EXPANSION",
+            "heading": "NETAPP: DATAPELAGO DISTRIBUTED INFRA",
             "points": [
-                "Microsoft expanded its strategic hardware partnership with AMD, deploying next-generation Instinct GPUs and EPYC processors on Azure.",
-                "This deployment optimizes cloud processing infrastructure, delivering superior performance metrics and reduced operational costs for large-scale workloads.",
-                "The network architecture utilizes high-bandwidth interconnects and advanced memory structures to maximize parallel computing efficiency during training.",
-                "Enterprise clients will achieve faster execution speeds while scaling highly complex machine learning operations across global cloud networks."
+                "NetApp completes the acquisition of DataPelago to bolster unified hybrid cloud data management strategies.",
+                "The transaction accelerates high-speed processing engines across highly distributed computational storage networks.",
+                "This infrastructure abstraction layer enables seamless execution of massive machine learning operations datasets.",
+                "IT executives can resolve persistent networking bottlenecks when scaling active production intelligence engines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
