@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "AUTONOMOUS FRONTIER",
+        "titleBlue": "COGNITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: AGENTIC HARDWARE SHIFT",
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
             "points": [
-                "AMD integrates next-generation Instinct GPUs with EPYC processors to optimize end-to-end agentic workflows for enterprise deployments.",
-                "The firm deepens Microsoft Azure partnership, deploying high-density compute clusters to manage complex, multi-step AI reasoning tasks.",
-                "Strategic recruitment of FastFlowLM talent accelerates AI inference efficiency, reducing latency for localized, agentic PC applications.",
-                "These hardware-first updates position AMD as a primary infrastructure provider for companies scaling autonomous enterprise agent operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
-            "points": [
-                "NVIDIA expands its Agent Toolkit with new Omniverse libraries, enabling AI agents to construct and simulate complex physical environments.",
-                "Partnership with Japan\u2019s industrial leaders launches the first national AI infrastructure, leveraging the Vera Rubin platform for scale.",
-                "Cosmos 3 Edge model introduces a novel mixture-of-transformers architecture capable of processing pixels, actions, and sound concurrently.",
-                "These advancements provide the necessary compute fabric for robotics and autonomous systems to navigate unpredictable real-world scenarios reliably."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL: AUTONOMOUS WORKFLOWS",
-            "points": [
-                "Mistral debuts Vibe, an autonomous agent platform engineered for long-horizon tasks, knowledge search, and multi-step data analysis.",
-                "The Vibe for code feature integrates directly into developer terminals and IDEs, automating complex CI/CD and refactoring processes.",
-                "Frontier-scale infrastructure (Compute) is now exposed to enterprise clients, allowing private, domain-specialized model training and fine-tuning.",
-                "Mistral focuses on enterprise-grade tooling to ensure production-level observability and guardrails for autonomous agentic software deployments globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE DEEPMIND: MULTI-MODAL ACTION",
-            "points": [
-                "DeepMind unveils Gemini 3.5, a frontier model series integrating advanced reasoning with real-time physical interaction and action capabilities.",
-                "The Nano Banana 2 Lite model offers a high-efficiency alternative for edge deployments, maximizing intelligence per parameter for tasks.",
-                "New research partnerships focus on scientific discovery, applying AI tools to material science, protein folding, and complex fusion energy.",
-                "Strategic alignment with robotics labs ensures Gemini 3.5 can control robotic embodiments that plan and perform sophisticated manual work."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "OPENAI: FRONTIER MODEL SAFETY",
-            "points": [
-                "OpenAI prepares the rollout of GPT-5.6, targeting heightened frontier intelligence capabilities with improved long-context reasoning for complex work.",
-                "GPT-Red safety framework is officially deployed to combat model misalignment and potential autonomous errors within high-stakes industrial use cases.",
-                "Internal research now emphasizes content provenance and secure deployment pathways to facilitate widespread integration of agents in business.",
-                "Company focus pivots toward maintaining leadership in raw capability while addressing technical debt in automated reasoning and security."
+                "OpenAI deploys GPT-5.6 frontier intelligence model optimized for highly ambitious enterprise agent workloads globally.",
+                "Engineers report severe dissatisfaction following unexpected context reduction within the integrated Codex development environment.",
+                "This architecture shifts developer paradigms toward local pre-processing rather than relying solely on cloud-hosted context windows.",
+                "Enterprises must adjust scaling parameters to maintain high-signal output while managing restricted tokens under new constraints."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ASML: LITHOGRAPHY INFRASTRUCTURE",
+            "id": 2,
+            "heading": "GOOGLE: GEMINI 3.5 ACTION",
             "points": [
-                "ASML achieves a readiness milestone for High NA EUV technology, enabling next-generation chip density required for massive AI models.",
-                "Company financial results reflect a robust demand for patterning systems essential for high-volume logic and memory chip production.",
-                "Strategic partnerships in India and Asia strengthen the global supply chain, localizing advanced semiconductor R&D and maintenance operations.",
-                "ASML continues to serve as the critical foundational bottleneck provider for all high-end AI compute silicon development efforts."
+                "Google DeepMind launches Gemini 3.5 combining frontier spatial intelligence with native autonomous action orchestration frameworks.",
+                "Deployment of the ultra-fast Nano Banana Two Lite model dramatically slashes latencies for edge image tasks.",
+                "The system integrates fully-managed remote model context protocol servers to unify distributed enterprise agent workflows securely.",
+                "Developers will migrate legacy pipelines to utilize multi-modal action models for continuous closed-loop operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
+            "points": [
+                "NVIDIA unveils the Vera Rubin architecture designed to maximize processing performance per watt for post-training workloads.",
+                "Initial CoreWeave benchmarks reveal a ten times performance increase in token generation speeds for DeepSeek model lines.",
+                "Integrating the new Spectrum-6 network switch enables seamless scaling within massive gigascale artificial intelligence factories.",
+                "Sovereign nations will leverage this hardware infrastructure to establish localized public sector and manufacturing robotics clusters."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: CLAUDE SCIENCE ARCHITECTURE",
+            "points": [
+                "Anthropic introduces Claude Science integrating customized research tools, auditable artifacts, and highly flexible computing resource structures.",
+                "Global export controls are officially lifted from the highly advanced Fable Five and Mythos Five models.",
+                "This development provides researchers with secure, decentralized sandbox environments capable of running complex scientific computations.",
+                "Scientific organizations will rapidly accelerate clinical drug discovery phases utilizing these novel verifiable agentic pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: FASTFLOWLM INFERENCE EXPANSION",
+            "points": [
+                "AMD acquires the elite FastFlowLM engineering team to significantly boost raw execution performance across the software stack.",
+                "Strategic partnership with Rackspace secures thirty megawatts of dedicated compute specifically for regulated enterprise artificial intelligence workloads.",
+                "The unified open ROCm ecosystem provides robust hardware abstraction layers targeting competitive enterprise graphics processing alternatives.",
+                "Hyperscalers will experience improved total cost of ownership by migrating traditional workloads to modern EPYC systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TSMC: A16 NANOSHEET POWERING HPC",
+            "points": [
+                "TSMC advances high performance computing through its A16 Nanosheet process featuring innovative backside power delivery mechanisms.",
+                "The A14 NanoFlex Pro architecture optimizes silicon layouts to maximize overall throughput for generative model architectures.",
+                "Decoupling routing and power networks addresses critical thermal bottlenecks prevalent in next generation microchip packages.",
+                "Chip designers will achieve unprecedented performance leaps by transitioning upcoming physical designs to nanosheet silicon architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE REALITY",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
             "points": [
-                "European regulators finalize enforcement provisions for Chapter V, imposing strict transparency requirements on general-purpose AI providers globally.",
-                "Scientific Panel of Independent Experts is established to audit and oversee high-risk GPAI systems, ensuring regulatory alignment and safety.",
-                "Small business guides and compliance checkers are rolled out to assist enterprises in mapping AI-driven obligations before enforcement deadlines.",
-                "This regulatory framework establishes the global standard for AI accountability, impacting international data governance and industrial model deployment strategies."
+                "Mistral AI launches Robostral Navigate alongside Mistral OCR Four to establish persistent, structured agentic systems of record.",
+                "Enterprise deployments demonstrate substantial gains in document processing speed and complex multi-step transaction scheduling pipelines.",
+                "The lightweight, sovereign architecture allows organizations to run production grade model suites completely on premises.",
+                "Corporations will leverage localized deployment footprints to fulfill stringent regional data compliance and privacy requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
