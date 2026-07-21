@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "FRONTIER COMPUTE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: VERA RUBIN NVL72",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "NVIDIA ramps production of Vera Rubin NVL72 architectures across global cloud partner data centers.",
-                "Integrating Spectrum-6 switches delivers 102.4 terabits per second Ethernet fabric for gigascale training workloads.",
-                "This hardware evolution optimizes real-world performance per watt to minimize token costs for enterprises.",
-                "CoreWeave, Google, and Microsoft deploy the architecture to scale next-generation agentic physical AI platforms."
+                "NVIDIA launches Vera Rubin NVL72 platform targeting massive gigascale AI factories worldwide.",
+                "Ramping up production with CoreWeave and Google lowers the operational token cost significantly.",
+                "The Spectrum six Ethernet switch delivers unprecedented throughput of over one hundred terabits.",
+                "Enterprises gain unmatched efficiency scaling up decentralized physical intelligence networks across modern global environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ALIBABA: QWEN 3.8 MAX",
+            "heading": "OPENAI: GPT-5.6 ARCHITECTURE",
             "points": [
-                "Alibaba launches Qwen 3.8 Max to close the performance gap with domestic United States frontier models.",
-                "The model exhibits superior reasoning, coding proficiency, and efficient instruction following across benchmark evaluations.",
-                "Enterprise buyers leverage Chinese open-weight models to bypass rising Western compute costs and restrictive access.",
-                "This release intensifies global geopolitical competition for dominant sovereign artificial intelligence systems and framework controls."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AWS: STANDARD BILLING DATA",
-            "points": [
-                "Amazon Web Services normalizes granular billing data fields to simplify complex enterprise cloud cost tracking.",
-                "Unified billing data exports allow engineering teams to monitor micro-transaction token consumption across different platforms.",
-                "Reducing cost governance overhead directly accelerates organizational transitions from exploratory pilots into active production deployments.",
-                "Cloud administrators gain real-time visibility into rogue model operations to prevent unexpected monthly infrastructure overages."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "BELLSOFT: HARDENED BUILDER",
-            "points": [
-                "BellSoft introduces Hardened Builder to compile highly secure zero-CVE container images without manual code restructuring.",
-                "The tool supports Paketo Buildpacks to automate base image hardening and minimize software supply chain vulnerabilities.",
-                "Enterprise developers eliminate repetitive security patching cycles while ensuring strict compliance with evolving regulatory mandates.",
-                "The deployment of lightweight base runtimes enhances cloud runtime performance and reduces container cold start times."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "OPENAI: GOVERNANCE RESTRUCTURE",
-            "points": [
-                "OpenAI expands its board of directors by appointing financial leaders David V\u00e9lez and Robin Vince.",
-                "This governance restructuring strengthens corporate oversight and financial controls ahead of a projected public offering.",
-                "The appointments follow a confidential draft S-1 submission to the Securities and Exchange Commission.",
-                "Enhancing institutional governance helps stabilize enterprise relations amid continuous developer disputes over model safety modifications."
+                "OpenAI announces the release of GPT five point six scaling frontier intelligence for enterprise workloads.",
+                "New board appointments of David Velez and Robin Vince strengthen corporate governance and execution.",
+                "Reduced Codex context limits spark developer dissatisfaction despite massive performance and safety improvements.",
+                "Strategic red teaming efforts guarantee robust deployment of autonomous models across global enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ACQUIA: HERMES AGENTS",
+            "id": 3,
+            "heading": "GOOGLE: GEMINI 3.5 SYSTEM",
             "points": [
-                "Acquia integrates vibe coding paradigms and autonomous Hermes agents to transform digital content generation pipelines.",
-                "The specialized agents operate continuously to construct complex system architectures with minimal direct developer intervention.",
-                "Utilizing automated agentic workflows reduces technical debt and accelerates iterative software release cycles for businesses.",
-                "This shift highlights an emerging enterprise trend toward using self-correcting agents to manage legacy architectures."
+                "Google DeepMind introduces Gemini three point five Flash Cyber alongside the efficient Nano Banana model.",
+                "The new Omni Flash architecture integrates real time multimodal processing and advanced computer use features.",
+                "Enterprises can access these specialized models via Google Cloud for low latency edge execution.",
+                "Enhanced reasoning capabilities accelerate automated software development and scientific discovery pipelines globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ALIBABA: QWEN 3.8 PARADIGM",
+            "points": [
+                "Alibaba releases Qwen three point eight Max closing the performance gap with Western frontier models.",
+                "The low cost open weight model provides global enterprises with flexible deployment options.",
+                "High optimization rates allow complex reasoning tasks to execute with minimal computational overhead.",
+                "Sovereign organizations leverage local infrastructure to run advanced intelligence without external dependency risks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: AZURE HARDWARE EXPANSION",
+            "points": [
+                "AMD expands its long term strategic partnership with Microsoft to deploy next generation processors.",
+                "The deployment brings high performance Instinct GPUs and EPYC CPUs to Microsoft Azure clouds.",
+                "A separate thirty megawatt agreement with Rackspace secures dedicated compute for regulated enterprise workloads.",
+                "These infrastructure integrations directly challenge legacy market dominance by optimizing performance per dollar."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: AUTONOMOUS AGENTS",
+            "points": [
+                "Mistral AI launches Robostral Navigate and Mistral OCR four expanding its enterprise model portfolio.",
+                "The new Vibe framework optimizes autonomous execution of long horizon tasks and coding workflows.",
+                "Integrated tools enable persistent memory and reusable skills across distributed hybrid cloud installations.",
+                "Developers leverage custom pre training capabilities to tailor agentic intelligence for specific industrial applications."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CERTINIA: MOONNOX ACQUISITION",
+            "heading": "BELLSOFT: SECURE CONTAINER AGENTS",
             "points": [
-                "Certinia acquires professional services specialist Moonnox to embed advanced intelligence directly into enterprise delivery workflows.",
-                "The integration automates resource allocation, scheduling, and project execution tasks for high-value client operations.",
-                "Accelerating automated services delivery allows corporate teams to scale operational capacity without hiring massive physical staff.",
-                "This acquisition marks a strategic push to replace traditional manual processes with hyper-efficient intelligent workflows."
+                "BellSoft introduces Hardened Builder to automate the construction of zero vulnerability container images.",
+                "The software enables developers to utilize Paketo Buildpacks without modifying existing application codebases.",
+                "Securing base layers reduces compliance toil and mitigates risks associated with software supply chains.",
+                "Enterprises achieve rapid deployment velocity while adhering strictly to emerging global cybersecurity standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
