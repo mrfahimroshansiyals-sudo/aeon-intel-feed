@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER AI ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "NEXT-GEN COMPUTE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
+            "heading": "AMD & ANTHROPIC: GPU DEPLOYMENT",
             "points": [
-                "NVIDIA launched the Cosmos omnimodel platform utilizing a novel mixture-of-transformers architecture for reasoning.",
-                "This system processes pixels, actions, sound, and language to simulate complex physical world behaviors.",
-                "Developers can post-train Cosmos across various robotic embodiments to generate physics-aware synthetic data sequences.",
-                "Wistron opened a dedicated Texas manufacturing facility to localize high-volume production of Vera Rubin hardware."
+                "AMD launches strategic partnership with Anthropic to deploy two gigawatts of Instinct MI450 Series hardware accelerators.",
+                "Anthropic commits to purchasing tens of billions of dollars of AMD's next-generation processing silicon chips.",
+                "This multi-billion dollar investment establishes a secondary domestic hardware pipeline outside of the dominant NVIDIA supply chain.",
+                "Enterprise developers gain diversified compute options which will drive down long-term token pricing across LLM API platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI 3.5 DEPLOYMENT",
+            "heading": "WISTRON: TEXAS INFRASTRUCTURE",
             "points": [
-                "DeepMind released Gemini 3.5 series models integrating enhanced frontier intelligence with automated action execution layers.",
-                "The update includes specialized variants for cyber security defense and high-efficiency low-latency inference environments.",
-                "Enterprise users gain access to agent-ready infrastructure for managing complex multi-step digital task orchestration workflows.",
-                "Global availability provides immediate tools for large-scale scientific research and automated code generation capabilities."
+                "Wistron opens its first advanced U.S. manufacturing facility in Fort Worth to build complex NVIDIA AI systems.",
+                "The localized factory accelerates Western supply chain delivery times for enterprise-grade GPU server rack configurations.",
+                "Domestic assembly of advanced physical infrastructure mitigates critical geopolitical tensions and logistical bottleneck risks for cloud hyperscalers.",
+                "Global data centers will benefit from faster deployment of custom clusters tailored to real-time high-throughput workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: STRATEGIC ENTERPRISE GROWTH",
+            "heading": "MICROSOFT: AZURE COMPUTE EXPANSION",
             "points": [
-                "Microsoft announced a significant expansion in the deployment of next-generation AMD Instinct and EPYC silicon.",
-                "The partnership focuses on optimizing full-stack AI performance across massive Azure-based cloud computing infrastructure clusters.",
-                "AMD acquired FastFlowLM to accelerate capabilities in AI inference, enhancing speed and operational stack efficiency.",
-                "Strategic focus remains on open ecosystem development to provide scalable alternatives for regulated enterprise AI workloads."
+                "Microsoft expands its strategic AMD partnership, integrating next-generation Instinct GPUs and EPYC processors into Azure cloud systems.",
+                "The newly introduced ND MI455Xv7 virtual machines deliver unprecedented memory bandwidth for massive enterprise-level generative workloads.",
+                "Hyperscalers are decoupling their reliance on single-vendor graphics chips to maintain competitive operational and capital expenses.",
+                "System architects can execute heavy fine-tuning pipelines with lower overhead across highly secure cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: FRONTIER INTELLIGENCE UPDATE",
+            "heading": "OPENAI: GOVERNANCE RESTRUCTURE",
             "points": [
-                "OpenAI released GPT-5.6, a new model architecture designed to scale with extreme organizational and research ambition.",
-                "New security frameworks including GPT-Red were implemented to unlock self-improvement mechanisms for enhanced model robustness.",
-                "The platform introduced GPT-Live for real-time interaction, catering to mission-critical business and professional application needs.",
-                "Internal governance structures shifted with new board appointments focusing on long-term safety and strategic oversight alignment."
+                "David Velez and Robin Vince officially join the OpenAI board of directors to strengthen enterprise financial governance.",
+                "The addition of elite financial leaders aims to prepare the organization for its highly anticipated public transition.",
+                "Deepening regulatory pressures necessitate rigorous risk mitigation and institutional leadership within the rapidly scaling frontier laboratory.",
+                "Commercial partners should expect more structured corporate frameworks and reliable compliance controls across all enterprise products."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL: APPLIED AI SOVEREIGNTY",
+            "heading": "NVIDIA: SPECTRUM-6 NETWORKING",
             "points": [
-                "Mistral AI launched Vibe, an agent-focused platform for long-horizon work and complex enterprise automation tasks.",
-                "Infrastructure capabilities now include frontier-scale compute clusters for organizations needing highly tailored AI model alignment.",
-                "New product offerings emphasize domain-specific adaptation, moving beyond generic foundation models to specialized industrial intelligence.",
-                "Strategic expansion into the European public sector confirms the growing demand for sovereign, customizable AI frameworks."
+                "NVIDIA unveils the Spectrum-6 gigascale networking architecture designed specifically to support massive Vera Rubin NVL72 clusters.",
+                "The advanced fabric optimizes multi-node interconnect throughput, substantially reducing operational latency during complex model training.",
+                "High-performance physical networking is becoming the primary architectural bottleneck as compute clusters expand to gigascale limits.",
+                "Cloud providers adopting this hardware will achieve unmatched performance-per-watt metrics for next-generation agentic compute demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: ADVANCED SILICON PRODUCTION",
+            "heading": "ALIBABA: QWEN OPEN WEIGHTS",
             "points": [
-                "TSMC highlighted the A16 nanosheet technology with super power rails as the core for future HPC systems.",
-                "Innovation in lithography continues to focus on energy-efficient AI chipsets, maintaining global leadership in advanced manufacturing.",
-                "The 2026 Symposium showcased critical milestones in the OIP ecosystem, accelerating global AI hardware production capacity.",
-                "Supply chain resilience remains the top priority as the firm expands manufacturing capacity across international regions."
+                "Alibaba releases Qwen 3.8 Max, an ultra-low-cost open-weight model designed to challenge leading Western proprietary architectures.",
+                "The release offers enterprise developers significant savings on API token costs without sacrificing foundational reasoning benchmarks.",
+                "The rapid proliferation of highly competitive open-weight systems continues to disrupt traditional monetization strategies of top labs.",
+                "Technology leaders can successfully deploy highly customized local models while maintaining strict sovereign data privacy standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: LITHOGRAPHY AI INTEGRATION",
+            "heading": "AGIBOT: HUMANOID ROBOTICS LAUNCH",
             "points": [
-                "ASML reported a successful high-volume logic product milestone utilizing its newest High NA EUV lithography systems.",
-                "The company is embedding AI-native engineering into its machine design process to boost chip manufacturing precision.",
-                "Strategic partnerships in India focus on advancing the semiconductor ecosystem, diversifying global production nodes for clients.",
-                "Second quarter financial results reflect strong continued demand for the specialized optics essential for AI-era hardware."
+                "Agibot launches four advanced embodied AI products to accelerate automated manipulation tasks across heavy industrial environments.",
+                "Integrated multimodal control models allow these bipedal systems to execute complex physical workflows with minimal human supervision.",
+                "Physical AI is transitioning rapidly from speculative laboratory prototypes into highly scalable assembly floor deployment programs.",
+                "Industrial manufacturers will see substantial automation gains as robotic platforms master complicated spatial and sensory-motor reasoning."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
