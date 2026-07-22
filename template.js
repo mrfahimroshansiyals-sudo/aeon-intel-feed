@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "HYPERSCALE AI",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: INSTINCT ANTHROPIC PARTNERSHIP",
+            "heading": "AMD & ANTHROPIC: CHIP ALLIANCE",
             "points": [
-                "AMD partners with Anthropic to deploy up to two gigawatts of Instinct MI450 Series GPU hardware accelerators.",
-                "The strategic transaction includes a five billion dollar direct investment supporting tens of billions in server chip procurements.",
-                "This massive infrastructure deployment establishes a secondary high-volume semiconductor supply chain competing directly against dominant market monopolies.",
-                "Enterprise customers gain robust hardware alternatives driving down long-term training costs and diversifying deep learning hardware options."
+                "AMD partners with Anthropic to deploy two gigawatts of Instinct MI450 Series GPU clusters globally.",
+                "The five billion dollar investment guarantees Anthropic access to next-generation hardware pipelines.",
+                "This deployment minimizes enterprise token costs while scaling frontier model training workloads efficiently.",
+                "The alliance directly challenges legacy compute monopolies by establishing a massive alternative infrastructure."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: FRONTIER MODEL UPGRADE",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI introduces GPT-5.6 frontier intelligence designed to scale with extreme enterprise ambition and multi-agent workflows.",
-                "The model launch is accompanied by Presence, a collaborative interface facilitating real-time multi-agent coordination across networks.",
-                "This development shifts native compute patterns away from static chat prompts toward highly persistent automated operational environments.",
-                "Developers must rapidly pivot their integration architectures to support persistent, real-time agent synchronization and state management."
+                "OpenAI launches GPT-5.6 delivering frontier intelligence designed to scale with enterprise computational ambitions.",
+                "The model introduces advanced reasoning layers optimizing autonomous workflow execution across complex software environments.",
+                "Safety architectures integrate GPT-Red protocols to continuously monitor internal agents against misalignment vectors.",
+                "Enterprise developers gain immediate API access to deploy highly secure real-time presence systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,60 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "ALPHABET: MASSIVE AI CAPEX",
+            "heading": "GOOGLE: AI CAPEX ACCELERATION",
             "points": [
-                "Alphabet records a six billion dollar cash burn due to massive infrastructure expansion and accelerated technical investments.",
-                "Total capital allocation commitments are projected to reach up to two hundred five billion dollars during twenty-six.",
-                "Accelerated data center expansions put extreme pressure on public utilities and require highly efficient adaptive energy management.",
-                "Financial officers must balance aggressive chip procurement pipelines against near-term margins and verifiable business process productivity metrics."
+                "Alphabet reports six billion dollars in quarterly cash burn driven by aggressive infrastructure expansion.",
+                "Total projected investments will commit up to two hundred five billion dollars by late 2026.",
+                "Surging data center expenditures highlight the immense cost required to maintain competitive generative intelligence.",
+                "Markets react to climbing capital intensity as hyper-scalers race to secure advanced semiconductor hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: MEDICAL PHYSICS BREAKTHROUGH",
+            "heading": "HARNESS: AGENTIC DEVSECOPS SECURED",
             "points": [
-                "NVIDIA open sources the first GPU-accelerated medical physics simulation framework to supercharge healthcare computational pipelines.",
-                "The framework unlocks massive performance gains in radiation therapy modeling and real-time medical imaging reconstruction processing speeds.",
-                "This development shifts pharmaceutical and diagnostic research workloads away from legacy central processing unit clusters to accelerated hardware.",
-                "Life sciences organizations can accelerate clinical trial simulations while significantly reducing operational infrastructure expenses and testing timelines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL: AGENT SYSTEM OF RECORD",
-            "points": [
-                "Mistral AI releases Robostral Navigate and Mistral OCR Four to establish structural systems of record for prompts.",
-                "The software enables enterprises to construct, register, and evaluate custom agents utilizing complex document intelligence processing architectures.",
-                "Integrating OCR engines directly into agent frameworks accelerates structured data extraction from highly unstructured financial and technical documents.",
-                "Operations leaders can automate complex document validation pipelines while retaining strict local compliance and high model precision levels."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "HARNESS: DEVSECOPS AGENT CONTROL",
-            "points": [
-                "Harness unveils Agent DLC targeting critical development, behavioral, and security gaps in autonomous enterprise AI agent deployments.",
-                "The tool enforces strict compliance policies and provides detailed operational telemetry across continuous software delivery pipelines.",
-                "This deployment mitigates risks associated with rogue shadow agents generating unvetted source code and unauthorized external connections.",
-                "Security architects can safely adopt agentic coding paradigms without compromising core corporate governance frameworks and threat protection."
+                "Harness launches Agent DLC targeting critical development and security gaps in enterprise autonomous agents.",
+                "The platform introduces behavioral controls and security guardrails to monitor volatile rogue agent activities.",
+                "Integrating advanced observability minimizes shadow deployment risks across distributed cloud-native development environments.",
+                "DevSecOps teams gain structural tools to enforce continuous compliance during multi-agent orchestration tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ORACLE: SOVEREIGN DATABASE DEPLOYMENT",
+            "id": 5,
+            "heading": "MICROSOFT & MISTRAL: SOVEREIGN PARTNERSHIP",
             "points": [
-                "Oracle launches Base Database Cloud@Customer to modernize critical databases closer to sensitive on-premise sovereign cloud deployments.",
-                "The hybrid solution allows heavily regulated enterprises to execute advanced AI vector workloads while meeting stringent residency laws.",
-                "This development helps financial and public sector organizations avoid complex cloud migrations by keeping compute local to storage.",
-                "Infrastructure engineers can easily scale relational database clusters while leveraging uniform cloud management planes from their console."
+                "Microsoft expands its partnership with Mistral AI to strengthen European sovereign cloud infrastructure capabilities.",
+                "The alliance deploys high-performance open-weight models designed to meet strict continental data compliance laws.",
+                "Enterprises reduce single-vendor dependence by leveraging localized computing ecosystems powered by Azure platforms.",
+                "The collaboration establishes secure computing boundaries safeguarding sensitive public sector transactions across Europe."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "NVIDIA: PHYSICAL COSMOS FRONTIER",
+            "points": [
+                "Japanese manufacturing leaders adopt the NVIDIA Cosmos platform to advance physical AI robotics.",
+                "Advanced simulation frameworks merge real-world sensor data with digital twin environments for automation.",
+                "Embedded systems leveraging Jetson chips accelerate cognitive path planning inside complex assembly plants.",
+                "Industrial firms achieve higher performance per watt while significantly reducing edge intelligence deployment costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "DEEPMIND: CYBER MODEL DEPLOYMENT",
+            "points": [
+                "Google DeepMind launches Gemini 3.5 Flash Cyber designed for specialized digital threat mitigation.",
+                "The model combines advanced action capabilities with frontier intelligence to defend enterprise cloud nodes.",
+                "Security operations centers utilize the model to automate network vulnerability analysis and patch deployments.",
+                "Integrating proactive threat hunting models minimizes systemic operational downtime during zero-day cyber events."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
