@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENT",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFTS",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: FRONTIER ARCHITECTURE",
+            "heading": "AMD ANTHROPIC PARTNERSHIP",
             "points": [
-                "Google DeepMind introduces Gemini 3.5 Flash Cyber and 3.6 Flash models for enhanced agentic intelligence.",
-                "These models prioritize high-speed scientific discovery and real-time interactive capabilities across enterprise agent platforms globally.",
-                "The organization committed 40 million dollars toward the Genesis Mission to accelerate complex scientific breakthroughs.",
-                "New Nano Banana 2 Lite and Omni models demonstrate unprecedented efficiency for edge-based visual processing tasks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT AZURE: INFRASTRUCTURE EXPANSION",
-            "points": [
-                "Azure launched new AMD-powered virtual machines including HDv2 and HXv2 to support demanding AI workloads.",
-                "The infrastructure expansion integrates ND MI455Xv7 instances for enhanced high-performance technical computing and model inference.",
-                "Microsoft IQ now provides shared operational context to ensure agents act with accurate business data.",
-                "These hardware upgrades significantly reduce latency for enterprises running intensive large-scale deep learning model training."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: PHYSICAL AI INFRASTRUCTURE",
-            "points": [
-                "NVIDIA announced the deployment of Vera Rubin NVL72 production racks at major partner data centers.",
-                "Wistron opened an advanced U.S. manufacturing facility to produce GB300 and Vera Rubin AI chips.",
-                "New Cosmos and Isaac software updates advance physical AI capabilities for robotics and global manufacturing.",
-                "Strategic partnerships focus on maximizing intelligence per dollar through optimized hardware-software agentic processing stacks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: STRATEGIC PARTNERSHIP DEPLOYMENT",
-            "points": [
-                "AMD and Anthropic confirmed a massive strategic partnership deploying two gigawatts of Instinct MI450 GPUs.",
-                "The collaboration includes Microsoft to expand long-term infrastructure deployments across global Azure data center regions.",
-                "FastFlowLM team integration strengthens AMD's internal capabilities for accelerating AI performance and inference efficiency.",
-                "New Ryzen AI Halo products support next-generation local agentic applications on developer-focused enterprise PC platforms."
+                "AMD and Anthropic have formed a strategic alliance to deploy 2 gigawatts of Instinct MI450 Series GPU clusters.",
+                "This infrastructure partnership targets massive-scale inference and training requirements for Anthropic\u2019s frontier model development programs.",
+                "The deployment integrates high-performance networking and AMD hardware to optimize energy-efficient compute at national scale.",
+                "This partnership directly counters Nvidia's market dominance by establishing a vertically integrated high-bandwidth AI hardware ecosystem."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MISTRAL AI: FRONTIER AGENT ADOPTION",
+            "id": 2,
+            "heading": "GOOGLE DEEPMIND FRONTIER",
             "points": [
-                "Mistral reports expanding enterprise adoption for Vibe agents across sectors including logistics and semiconductor lithography.",
-                "New releases like Robostral Navigate and OCR 4 improve document synthesis and multi-step task orchestration.",
-                "Strategic partnerships with ASML and CMA CGM highlight demand for domain-specialized and sovereign AI models.",
-                "Frontier-scale infrastructure services now enable organizations to run production-grade agents from edge to cloud environments."
+                "Google DeepMind has introduced Gemini 3.5 Flash and 3.5 Flash-Lite models focusing on lower-latency enterprise application deployment.",
+                "The new models emphasize intelligence-per-parameter efficiency to reduce operational costs for high-volume automated agentic workflows.",
+                "Integration of computer-use capabilities allows these models to interact directly with software interfaces and complex desktop environments.",
+                "These updates represent a strategic shift toward cost-effective agentic autonomy rather than just pure parameter count scaling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ALIBABA QWEN MODEL ADVANCEMENT",
+            "points": [
+                "Alibaba Qwen 3.8 Max benchmarks indicate China is closing the performance gap against western foundation models.",
+                "The model demonstrates significant improvements in reasoning and coding tasks specifically for industrial enterprise-grade applications.",
+                "Industry analysts confirm the model\u2019s trillion-parameter architecture effectively lowers the barrier for proprietary sovereign AI development.",
+                "U.S. leadership in AI model capability faces intensified competition from these high-performance, locally optimized Chinese LLMs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ENTERPRISE AGENTIC SECURITY",
+            "points": [
+                "Security research highlights the critical need for kill-switch architectures when deploying autonomous AI agents in production.",
+                "Enterprises are shifting focus from experimental AI pilots to rigorous governance frameworks and automated vulnerability remediation.",
+                "GitLab and other dev-tools are now previewing integrated auto-remediation features to secure dependencies against malicious model behaviors.",
+                "The industry is moving toward a standardized trust-layer for all agent-based operations involving high-value business logic."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA PHYSICAL AI PUSH",
+            "points": [
+                "NVIDIA expanded its physical AI footprint by launching new libraries for robotics simulation and edge computing platforms.",
+                "The initiative focuses on enabling AI to interact with 3D space, bridging the gap between digital models and physical robots.",
+                "New manufacturing partnerships in Texas aim to secure sovereign domestic supply chains for next-generation Vera Rubin chips.",
+                "The push signifies a move toward end-to-end industrial autonomy where AI controls physical production lines and logistics."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: SAFETY & GOVERNANCE SCALING",
+            "heading": "EU AI GOVERNANCE ARCHITECTURE",
             "points": [
-                "OpenAI introduced Presence to improve visibility into complex agentic workflows within large-scale enterprise environments.",
-                "New board appointments for David Velez and Robin Vince strengthen corporate governance for model deployment.",
-                "Daybreak security tools address emerging risks associated with uncontrolled autonomous agents in global corporate networks.",
-                "Technical focus remains on robust self-improvement frameworks to mitigate misalignment in rapid-scale deployment phases globally."
+                "The EU Scientific Panel of Independent Experts has formalized governance protocols for general-purpose AI model oversight.",
+                "New enforcement provisions require providers to meet specific transparency and auditability standards before high-risk deployment.",
+                "Small businesses are being equipped with automated compliance checkers to streamline alignment with the EU AI Act.",
+                "These regulations are establishing a global standard for responsible scaling and systemic risk management in AI development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECH TARGET: AGENTIC SECURITY TRENDS",
+            "heading": "MICROSOFT MISTRAL ALLIANCE",
             "points": [
-                "Harness Agent DLC targets critical development gaps by enhancing behavioral controls for complex AI agents.",
-                "Enterprise cybersecurity surveys reveal that poorly monitored shadow AI use poses significant data governance challenges.",
-                "Zilliz updated the Milvus database to improve vector search results and native data lake access.",
-                "NetApp acquisition of DataPelago advances AI data management strategies for distributed enterprise system architectures worldwide."
+                "Microsoft and Mistral are deepening their sovereign AI partnership to accelerate deployment of high-efficiency European LLMs.",
+                "The collaboration integrates Mistral models into the Azure stack to provide localized data residency and security.",
+                "Enterprise clients gain access to Mistral\u2019s adaptive architectures for specialized industry applications requiring strict control.",
+                "This alliance challenges the current cloud consolidation trend by offering viable, high-performance alternatives for regulated regional sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
