@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Infra AI Market",
-        "titleBlue": "Shift"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MOONSHOT AI & NVIDIA: EXPORT COMPLIANCE SHIFT",
+            "heading": "NASA: ORBITAL MODEL DEPLOYMENT",
             "points": [
-                "US official revealed Moonshot AI bypassed Chinese export bans, accessing Nvidia's advanced chips.",
-                "This highlights persistent tech sanction enforcement challenges, enabling foreign entities to build sovereign AI.",
-                "Incident raises questions on existing export control frameworks, demanding stricter monitoring of critical AI hardware.",
-                "Stakeholders anticipate intensified US regulatory scrutiny on chip distribution and potential punitive measures on non-compliant actors."
+                "NASA successfully deploys Google Gemma large language model directly into orbit to automate critical spacecraft operations.",
+                "Edge deployment eliminates terrestrial latency bottlenecks by executing complex reasoning tasks directly on orbital hardware.",
+                "This architecture shifts space systems from passive remote telemetry nodes into self governing cosmic research networks.",
+                "Future deep space explorations will rely entirely on decentralized on board neural models for autonomous navigation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SK HYNIX & MICRON: MEMORY MARKET PREMIUMS",
+            "heading": "OPENAI: ENTERPRISE AUTOMATION PARADIGM",
             "points": [
-                "SK Hynix maintains its US market premium following a Korean regulatory ruling on memory solutions.",
-                "Micron stock also gained post-Google earnings, reinforcing robust demand for high-performance AI memory.",
-                "This trend signals increased investment in next-gen HBM and DDR5, vital for escalating AI data center infrastructure.",
-                "Analysts forecast sustained pricing power for memory manufacturers benefiting from enterprise AI adoption and expanding compute."
+                "OpenAI releases OpenAI Presence tool resolving seventy five percent of inbound operational issues autonomously during pilot.",
+                "Enterprise service desks achieve immediate cost reductions while legacy customer engagement software experiences severe transactional obsolescence.",
+                "High density workflow integration enables frictionless cross system execution without traditional application program interface modernization delays.",
+                "Organizations must quickly deprecate seat based licensing models in favor of consumption based autonomous agent execution frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "BIG TECH AI: VALUATION SPENDING CONCERNS",
+            "heading": "AMD: GIGAWATT SCALE CLOUD",
             "points": [
-                "Alphabet and Tesla stocks slid premarket, driven by investor concerns over escalating AI infrastructure spending.",
-                "High capital expenditures for AI development impact short-term profitability outlooks for leading technology companies.",
-                "Market reaction signals re-evaluation of valuation models as heavy AI investments compete with growth expectations.",
-                "Companies must articulate long-term AI return-on-investment strategies to regain investor confidence during this capital transition."
+                "AMD secures massive strategic partnership with Anthropic deploying two gigawatts of next generation Instinct MI450 supercomputing accelerators.",
+                "Massive compute allocation enables continuous training of frontier models while reducing absolute reliance on Nvidia hardware.",
+                "Hyperscalers are prioritizing multi gigawatt power availability over traditional localized data center real estate when designing clusters.",
+                "This historic power partnership will stimulate localized clean energy generation developments adjacent to massive AI factories."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AI STOCKS: 1990S MARKET PARALLELS",
+            "heading": "NVIDIA: TEXAS SUPERCHIP FOUNDRY",
             "points": [
-                "JPMorgan warns current AI stock trends echo the 1990s market split, indicating potential overvaluation.",
-                "This market segmentation suggests a bifurcation between AI pure-plays and broader tech impacting portfolio strategies.",
-                "The next few weeks are critical for investor positioning amidst rapidly shifting market dynamics.",
-                "Investors are advised caution, focusing on companies with validated AI monetization pathways and robust balance sheets."
+                "Wistron opens first advanced manufacturing plant in Texas to produce Nvidia Grace Blackwell Ultra systems.",
+                "Localized hardware production optimizes North American supply chain resilience while slashing delivery timelines for enterprise clusters.",
+                "Industrial manufacturing re shoring proves critical as sovereign computing requirements mandate secure domestic fabrication of physical infrastructure.",
+                "Expect substantial industrial infrastructure investments in the American Southwest to support growing high performance computing demand."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GEOPOLITICAL OIL: SUPPLY CHAIN IMPACTS",
+            "heading": "MONDAY.COM: AGENTIC CORPORATE RESTRUCTURING",
             "points": [
-                "Oil prices surged towards $100 after Houthi attacks on Saudi tankers escalated geopolitical tensions.",
-                "Increased costs directly impact global supply chains and energy, critical for powering vast AI data centers.",
-                "Volatile energy markets add significant operational overhead, influencing data center location and design decisions.",
-                "Businesses reliant on stable energy face increased risk, prompting re-evaluation of energy diversification and mitigation."
+                "Monday.com reduces corporate workforce by twenty percent to build a flatter organization integrated with autonomous agents.",
+                "Operational restructuring shifts focus from human headcount metrics toward optimizing multi agent workflow collaboration efficiency.",
+                "Software enterprises are actively remodeling internal architectures to prove that native AI agents can run core operations.",
+                "Global technology firms will continue shedding middle management layers to construct hyper efficient agentic organizational charts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STM: SOFT Q3 SALES OUTLOOK",
+            "heading": "HARNESS: DEVS ECOPS AGENT CONTROL",
             "points": [
-                "STMicroelectronics (STM) stock sank following a soft third-quarter sales outlook, reflecting broader semiconductor caution.",
-                "Updated guidance indicates potential headwinds or inventory adjustments affecting demand for specific chip types.",
-                "Development suggests a nuanced, non-uniform growth trajectory across the semiconductor landscape despite overall AI expansion.",
-                "Diversified chip manufacturers like STM face challenges balancing growth across varied end-markets including automotive and industrial."
+                "Harness launches Agent DLC platform offering robust behavioral and security controls designed specifically for autonomous code agents.",
+                "Developers mitigate risk by enforcing strict operational boundaries preventing rogue agent executions and unauthorized repository changes.",
+                "Security paradigms must adapt as automated code generation shifts from human review toward decentralized continuous integration pipelines.",
+                "Enterprise adoption of software agents will stall unless unified compliance protocols are established for automated machine actions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BLACKSTONE: AI INVESTMENT SURGE",
+            "heading": "EUROPEAN UNION: ANTITRUST REGULATORY PRESSURE",
             "points": [
-                "Blackstone's profits surged partly due to strategic AI investments, demonstrating significant financial returns in the sector.",
-                "Concurrently, the firm observed slowing withdrawals from its flagship private credit fund, signaling renewed investor confidence.",
-                "This trend indicates strong institutional appetite for AI-focused assets, reinforcing AI as a major private equity driver.",
-                "Capital deployment into AI infrastructure, software, and talent will likely continue attracting global investment fund allocations."
+                "European Commission penalizes Google with an eight hundred ninety million euro fine over continued anticompetitive practices.",
+                "Massive financial penalties force structural adjustments in global digital marketing strategies while rising AI capital expenditures accelerate.",
+                "Transatlantic regulatory friction intensifies as European authorities aggressively defend digital market parity against monopolistic American technology giants.",
+                "Strict enforcement of digital market rules will compel tech conglomerates to split regional infrastructure and service offerings."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
