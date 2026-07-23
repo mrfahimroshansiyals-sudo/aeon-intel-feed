@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFTS",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "Infra AI Market",
+        "titleBlue": "Shift"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD ANTHROPIC PARTNERSHIP",
+            "heading": "MOONSHOT AI & NVIDIA: EXPORT COMPLIANCE SHIFT",
             "points": [
-                "AMD and Anthropic have formed a strategic alliance to deploy 2 gigawatts of Instinct MI450 Series GPU clusters.",
-                "This infrastructure partnership targets massive-scale inference and training requirements for Anthropic\u2019s frontier model development programs.",
-                "The deployment integrates high-performance networking and AMD hardware to optimize energy-efficient compute at national scale.",
-                "This partnership directly counters Nvidia's market dominance by establishing a vertically integrated high-bandwidth AI hardware ecosystem."
+                "US official revealed Moonshot AI bypassed Chinese export bans, accessing Nvidia's advanced chips.",
+                "This highlights persistent tech sanction enforcement challenges, enabling foreign entities to build sovereign AI.",
+                "Incident raises questions on existing export control frameworks, demanding stricter monitoring of critical AI hardware.",
+                "Stakeholders anticipate intensified US regulatory scrutiny on chip distribution and potential punitive measures on non-compliant actors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND FRONTIER",
+            "heading": "SK HYNIX & MICRON: MEMORY MARKET PREMIUMS",
             "points": [
-                "Google DeepMind has introduced Gemini 3.5 Flash and 3.5 Flash-Lite models focusing on lower-latency enterprise application deployment.",
-                "The new models emphasize intelligence-per-parameter efficiency to reduce operational costs for high-volume automated agentic workflows.",
-                "Integration of computer-use capabilities allows these models to interact directly with software interfaces and complex desktop environments.",
-                "These updates represent a strategic shift toward cost-effective agentic autonomy rather than just pure parameter count scaling."
+                "SK Hynix maintains its US market premium following a Korean regulatory ruling on memory solutions.",
+                "Micron stock also gained post-Google earnings, reinforcing robust demand for high-performance AI memory.",
+                "This trend signals increased investment in next-gen HBM and DDR5, vital for escalating AI data center infrastructure.",
+                "Analysts forecast sustained pricing power for memory manufacturers benefiting from enterprise AI adoption and expanding compute."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ALIBABA QWEN MODEL ADVANCEMENT",
+            "heading": "BIG TECH AI: VALUATION SPENDING CONCERNS",
             "points": [
-                "Alibaba Qwen 3.8 Max benchmarks indicate China is closing the performance gap against western foundation models.",
-                "The model demonstrates significant improvements in reasoning and coding tasks specifically for industrial enterprise-grade applications.",
-                "Industry analysts confirm the model\u2019s trillion-parameter architecture effectively lowers the barrier for proprietary sovereign AI development.",
-                "U.S. leadership in AI model capability faces intensified competition from these high-performance, locally optimized Chinese LLMs."
+                "Alphabet and Tesla stocks slid premarket, driven by investor concerns over escalating AI infrastructure spending.",
+                "High capital expenditures for AI development impact short-term profitability outlooks for leading technology companies.",
+                "Market reaction signals re-evaluation of valuation models as heavy AI investments compete with growth expectations.",
+                "Companies must articulate long-term AI return-on-investment strategies to regain investor confidence during this capital transition."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENTERPRISE AGENTIC SECURITY",
+            "heading": "AI STOCKS: 1990S MARKET PARALLELS",
             "points": [
-                "Security research highlights the critical need for kill-switch architectures when deploying autonomous AI agents in production.",
-                "Enterprises are shifting focus from experimental AI pilots to rigorous governance frameworks and automated vulnerability remediation.",
-                "GitLab and other dev-tools are now previewing integrated auto-remediation features to secure dependencies against malicious model behaviors.",
-                "The industry is moving toward a standardized trust-layer for all agent-based operations involving high-value business logic."
+                "JPMorgan warns current AI stock trends echo the 1990s market split, indicating potential overvaluation.",
+                "This market segmentation suggests a bifurcation between AI pure-plays and broader tech impacting portfolio strategies.",
+                "The next few weeks are critical for investor positioning amidst rapidly shifting market dynamics.",
+                "Investors are advised caution, focusing on companies with validated AI monetization pathways and robust balance sheets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA PHYSICAL AI PUSH",
+            "heading": "GEOPOLITICAL OIL: SUPPLY CHAIN IMPACTS",
             "points": [
-                "NVIDIA expanded its physical AI footprint by launching new libraries for robotics simulation and edge computing platforms.",
-                "The initiative focuses on enabling AI to interact with 3D space, bridging the gap between digital models and physical robots.",
-                "New manufacturing partnerships in Texas aim to secure sovereign domestic supply chains for next-generation Vera Rubin chips.",
-                "The push signifies a move toward end-to-end industrial autonomy where AI controls physical production lines and logistics."
+                "Oil prices surged towards $100 after Houthi attacks on Saudi tankers escalated geopolitical tensions.",
+                "Increased costs directly impact global supply chains and energy, critical for powering vast AI data centers.",
+                "Volatile energy markets add significant operational overhead, influencing data center location and design decisions.",
+                "Businesses reliant on stable energy face increased risk, prompting re-evaluation of energy diversification and mitigation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI GOVERNANCE ARCHITECTURE",
+            "heading": "STM: SOFT Q3 SALES OUTLOOK",
             "points": [
-                "The EU Scientific Panel of Independent Experts has formalized governance protocols for general-purpose AI model oversight.",
-                "New enforcement provisions require providers to meet specific transparency and auditability standards before high-risk deployment.",
-                "Small businesses are being equipped with automated compliance checkers to streamline alignment with the EU AI Act.",
-                "These regulations are establishing a global standard for responsible scaling and systemic risk management in AI development."
+                "STMicroelectronics (STM) stock sank following a soft third-quarter sales outlook, reflecting broader semiconductor caution.",
+                "Updated guidance indicates potential headwinds or inventory adjustments affecting demand for specific chip types.",
+                "Development suggests a nuanced, non-uniform growth trajectory across the semiconductor landscape despite overall AI expansion.",
+                "Diversified chip manufacturers like STM face challenges balancing growth across varied end-markets including automotive and industrial."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT MISTRAL ALLIANCE",
+            "heading": "BLACKSTONE: AI INVESTMENT SURGE",
             "points": [
-                "Microsoft and Mistral are deepening their sovereign AI partnership to accelerate deployment of high-efficiency European LLMs.",
-                "The collaboration integrates Mistral models into the Azure stack to provide localized data residency and security.",
-                "Enterprise clients gain access to Mistral\u2019s adaptive architectures for specialized industry applications requiring strict control.",
-                "This alliance challenges the current cloud consolidation trend by offering viable, high-performance alternatives for regulated regional sectors."
+                "Blackstone's profits surged partly due to strategic AI investments, demonstrating significant financial returns in the sector.",
+                "Concurrently, the firm observed slowing withdrawals from its flagship private credit fund, signaling renewed investor confidence.",
+                "This trend indicates strong institutional appetite for AI-focused assets, reinforcing AI as a major private equity driver.",
+                "Capital deployment into AI infrastructure, software, and talent will likely continue attracting global investment fund allocations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
