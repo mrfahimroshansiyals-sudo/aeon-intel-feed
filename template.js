@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC COGNITIVE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AGENTIC CHIP",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD & ANTHROPIC: GPU DEPLOYMENT",
+            "heading": "AMD: MI450 ANTHROPIC DEPLOYMENT",
             "points": [
-                "AMD and Anthropic partnered to deploy up to two gigawatts of high-performance Instinct MI450 Series GPU architectures.",
-                "The physical compute expansion secures vast, highly parallelized processing capacity for next-generation frontier machine learning models.",
-                "This sovereign hardware infrastructure directly bypasses traditional hyperscaler market lock-ins while accelerating deep agentic model capabilities.",
-                "Organizations will rapidly transition enterprise workloads onto custom-provisioned Instinct silicon environments to bypass competitive public clouds."
+                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series GPU acceleration.",
+                "This massive scale physical AI deployment establishes high-performance compute architectures for the agentic era.",
+                "Heterogeneous computing integration enables robust open-source robotics, enterprise software development, and localized execution.",
+                "Global developers gain scalable computing frameworks that reduce dependence on closed proprietary cloud ecosystems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CONGRESS: AI KILL SWITCH",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "Security breaches involving the Hugging Face repository triggered bipartisan federal legislation mandates for central AI kill switches.",
-                "Critical enterprise development platforms must implement emergency shutdown protocols to prevent automated malicious code dissemination across environments.",
-                "The aggressive legislative push signals a structural shift from voluntary safety guidelines to direct federal execution controls.",
-                "Developers should prepare for invasive national compliance audits and runtime monitoring constraints across proprietary model architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: VIBE AGENT",
-            "points": [
-                "Mistral unveiled Vibe, an autonomous software agent designed specifically to execute highly complex, long-horizon operational tasks.",
-                "The architectural framework drastically reduces human oversight requirements by utilizing multi-step task scheduling and persistent system memory.",
-                "Deeply integrating agentic reasoning directly into local code editors shifts software engineering toward complete asynchronous development.",
-                "Software development life cycles will rely entirely on self-healing CI pipelines orchestrated by localized autonomous developer agents."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OPENAI: GPT-5.6 SCALE",
-            "points": [
-                "OpenAI released its frontier model GPT-5.6 designed to scale massive agentic reasoning workloads across highly complex enterprises.",
-                "Real-world deployments demonstrate seventy-five percent resolution rates for inbound support queries without requiring human intervention.",
-                "The rapid release cycles shift market value from seat-based subscription models toward performance-linked transaction consumption metrics.",
-                "Traditional software suites will quickly transform into orchestration layers powered entirely by core centralized reasoning models."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: VERA RUBIN PRODUCTION",
-            "points": [
-                "Nvidia initialized gigascale production of the Vera Rubin NVL72 architecture to support massive post-training agentic workloads.",
-                "System partners run real-time physical simulation models with maximum performance efficiency at historically low token operational costs.",
-                "Heavy hardware integration optimizes physical AI factories designed to run advanced robotics software frameworks in industrial plants.",
-                "Global manufacturing giants will increasingly transition toward entirely autonomous, simulation-ready factories powered by hardware-accelerated physical computing."
+                "NVIDIA initiated production ramp for the gigascale Vera Rubin NVL72 platform targeting top cloud hyperscalers.",
+                "Hardware optimization drives unmatched performance per watt and achieves the lowest token cost for developers.",
+                "Built-in Spectrum-6 networking fabric allows seamless integration inside massive, AI-native physical simulation factories worldwide.",
+                "Hyperscale operators will transition to ultra-dense liquid-cooled architectures to support massive agentic workloads efficiently."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INTEL: HISTORIC GROWTH ENGINE",
+            "id": 3,
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
             "points": [
-                "Intel achieved its fastest sales growth in fifteen years driven by unprecedented global demand for advanced packaging.",
-                "Record revenues validate the company's aggressive pivot toward state-of-the-art foundry services and high-density semiconductor fabrication technologies.",
-                "Diversifying manufacturing hubs stabilizes the brittle hardware supply chain while countering rising geopolitical tensions in Asian chipmaking regions.",
-                "Enterprise computing strategies will rapidly shift hardware allocations toward high-performance x86 architectures to leverage localized processing power."
+                "OpenAI launched GPT-5.6 delivering highly scalable frontier intelligence designed for ambitious enterprise workloads.",
+                "Internal deployments of the new automated platform successfully resolved seventy-five percent of incoming enterprise support issues.",
+                "Integration of GPT-Live and real-time healthcare capabilities expands direct applications of intelligent assistant architectures.",
+                "Organizations will restructure corporate workflows around persistent, autonomous agents rather than traditional human-in-the-loop structures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: IQ AGENT ARCHITECTURE",
+            "points": [
+                "Microsoft introduced the IQ platform to provide complete, shared operational context for enterprise AI agents.",
+                "Secure connections link autonomous agents directly to proprietary systems, workflows, and real-time cloud databases.",
+                "The architecture unifies developer environments with Azure Copilot to drive continuous delivery across organizations.",
+                "IT leaders will confidently deploy secure, contextual agentic systems while mitigating corporate data leakage risks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE: GEMINI FRONTIER ACTION",
+            "points": [
+                "Google unveiled Gemini 3.5 combining advanced frontier reasoning capabilities with direct, multi-step action execution.",
+                "The ultra-fast Nano Banana 2 Lite image model delivers highly efficient local on-device generation.",
+                "A fully managed remote Model Context Protocol server simplifies the orchestration of complex agent platforms.",
+                "Developers can rapidly deploy responsive multimodal agents capable of executing complex real-world workflows seamlessly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL: ROBOSTRAL AGENT PLATFORM",
+            "points": [
+                "Mistral AI introduced Robostral Navigate alongside the Leanstral 1.5 math and logic reasoning model.",
+                "The new Vibe agent optimizes long-horizon enterprise tasks with persistent memory and reusable skills.",
+                "The system enables autonomous coding, legacy translation, and automated verification directly inside developer environments.",
+                "Software development pipelines will shift toward asynchronous, architecture-aware reasoning agents operating entirely in the background."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: IQ AGENT CONTEXT",
+            "heading": "ASML: HIGH NA PRODUCTION",
             "points": [
-                "Microsoft launched its IQ platform to securely provide autonomous agents with complete, shared operational context across businesses.",
-                "Unified context mapping allows virtual agents to safely execute actions across siloed legacy data pipelines and applications.",
-                "Unifying siloed enterprise data silos creates a highly protected substrate for running complex multi-agent collaborative workflows seamlessly.",
-                "System architectures will soon transition from basic passive databases toward dynamic, self-correcting neural knowledge management layers."
+                "ASML achieved a critical readiness milestone with its first high-volume High NA EUV lithography system.",
+                "The advanced manufacturing equipment successfully fabricated its first high-volume leading-edge logic semiconductor products.",
+                "Integrating Mistral AI models allows ASML to accelerate complex calculations for precision semiconductor lithography optimization.",
+                "Silicon manufacturers will scale sub-nanometer chip fabrication to satisfy the computational demands of future AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
