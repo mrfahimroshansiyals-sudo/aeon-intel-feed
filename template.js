@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NASA: ORBITAL MODEL DEPLOYMENT",
+            "heading": "AMD: ANTHROPIC GPU PARTNERSHIP",
             "points": [
-                "NASA successfully deploys Google Gemma large language model directly into orbit to automate critical spacecraft operations.",
-                "Edge deployment eliminates terrestrial latency bottlenecks by executing complex reasoning tasks directly on orbital hardware.",
-                "This architecture shifts space systems from passive remote telemetry nodes into self governing cosmic research networks.",
-                "Future deep space explorations will rely entirely on decentralized on board neural models for autonomous navigation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: ENTERPRISE AUTOMATION PARADIGM",
-            "points": [
-                "OpenAI releases OpenAI Presence tool resolving seventy five percent of inbound operational issues autonomously during pilot.",
-                "Enterprise service desks achieve immediate cost reductions while legacy customer engagement software experiences severe transactional obsolescence.",
-                "High density workflow integration enables frictionless cross system execution without traditional application program interface modernization delays.",
-                "Organizations must quickly deprecate seat based licensing models in favor of consumption based autonomous agent execution frameworks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: GIGAWATT SCALE CLOUD",
-            "points": [
-                "AMD secures massive strategic partnership with Anthropic deploying two gigawatts of next generation Instinct MI450 supercomputing accelerators.",
-                "Massive compute allocation enables continuous training of frontier models while reducing absolute reliance on Nvidia hardware.",
-                "Hyperscalers are prioritizing multi gigawatt power availability over traditional localized data center real estate when designing clusters.",
-                "This historic power partnership will stimulate localized clean energy generation developments adjacent to massive AI factories."
+                "AMD partners with Anthropic to deploy two gigawatts of Instinct MI450 Series GPUs for frontier AI development.",
+                "The unprecedented scaling initiative establishes sovereign computing infrastructure powered by next-generation accelerators and open ecosystem software.",
+                "Enterprises will bypass legacy clouds, accessing dedicated raw compute nodes specifically optimized for high-performance agentic operations.",
+                "This strategic collaboration signals a permanent shift toward hyper-scale, dedicated hardware clusters for decentralized model training."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: TEXAS SUPERCHIP FOUNDRY",
+            "id": 2,
+            "heading": "NASA: ORBITAL LLM DEPLOYMENT",
             "points": [
-                "Wistron opens first advanced manufacturing plant in Texas to produce Nvidia Grace Blackwell Ultra systems.",
-                "Localized hardware production optimizes North American supply chain resilience while slashing delivery timelines for enterprise clusters.",
-                "Industrial manufacturing re shoring proves critical as sovereign computing requirements mandate secure domestic fabrication of physical infrastructure.",
-                "Expect substantial industrial infrastructure investments in the American Southwest to support growing high performance computing demand."
+                "NASA successfully deploys Google's Gemma large language model in orbit to enable autonomous space system operations.",
+                "Radiation-hardened hardware execution of open-source models reduces telemetry dependence, improving deep-space decision speeds by several orders.",
+                "Edge-computing payloads on orbital satellites validate localized intelligence frameworks capable of operating in extreme isolation environments.",
+                "This milestone establishes a precedent for autonomous space vehicles executing complex physical actions without earth-based communication delays."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: AUTOMATED SUPPORT TRIAGE",
+            "points": [
+                "OpenAI introduces Presence, a novel enterprise automation agent that successfully resolved seventy-five percent of inbound support requests.",
+                "Deploying agentic workflows directly translates to dramatic headcount restructuring and a dynamic realignment of internal IT support budgets.",
+                "Fragmented legacy system architectures will limit deployment speed as enterprises scramble to build unified semantic data layers.",
+                "Organizations must prioritize system integrations and context mapping to unlock the full cost-reduction potential of cognitive agents."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: VERA RUBIN PRODUCTION",
+            "points": [
+                "NVIDIA ramps up production of the gigascale Vera Rubin NVL72 platform, maximizing performance per watt for agents.",
+                "Racks are shipping immediately to key infrastructure partners including CoreWeave and Google to power post-training agentic workloads.",
+                "Liquid-cooled architectures deliver the lowest token cost globally, shifting the commercial focus from training raw models to execution.",
+                "The massive hardware rollout will accelerate the industrial viability of physical and agentic artificial intelligence applications globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MONDAY.COM: AGENTIC CORPORATE RESTRUCTURING",
+            "heading": "MICROSOFT: AGENT CONTEXT CONNECTOR",
             "points": [
-                "Monday.com reduces corporate workforce by twenty percent to build a flatter organization integrated with autonomous agents.",
-                "Operational restructuring shifts focus from human headcount metrics toward optimizing multi agent workflow collaboration efficiency.",
-                "Software enterprises are actively remodeling internal architectures to prove that native AI agents can run core operations.",
-                "Global technology firms will continue shedding middle management layers to construct hyper efficient agentic organizational charts."
+                "Microsoft launches IQ, an enterprise integration framework connecting autonomous agents securely to operational databases and business workflows.",
+                "The technology establishes a unified, shared semantic context, allowing models to perform precise transactions across siloed applications.",
+                "By addressing agent reasoning gaps, IQ provides a standardized pathway for secure, real-time corporate data access.",
+                "Enterprise developers can now build highly integrated agentic workflows that maintain rigorous security and strict data boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "HARNESS: DEVS ECOPS AGENT CONTROL",
+            "heading": "MISTRAL: ROBOSTRAL LITHOGRAPHY OPTIMIZATION",
             "points": [
-                "Harness launches Agent DLC platform offering robust behavioral and security controls designed specifically for autonomous code agents.",
-                "Developers mitigate risk by enforcing strict operational boundaries preventing rogue agent executions and unauthorized repository changes.",
-                "Security paradigms must adapt as automated code generation shifts from human review toward decentralized continuous integration pipelines.",
-                "Enterprise adoption of software agents will stall unless unified compliance protocols are established for automated machine actions."
+                "Mistral partners with ASML to deploy Robostral Navigate, accelerating advanced semiconductor lithography and complex hardware engineering.",
+                "The specialized agentic system manages autonomous coding and legacy code translation for ultra-precise microchip manufacturing systems.",
+                "Integrating localized sovereign AI models protects proprietary chip architectures while optimizing critical yield metrics on the factory floor.",
+                "This deployment signals a growing trend of embedding specialized intelligence directly into complex industrial physics manufacturing processes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EUROPEAN UNION: ANTITRUST REGULATORY PRESSURE",
+            "heading": "HARNESS: AGENT BEHAVIORAL CONTROLS",
             "points": [
-                "European Commission penalizes Google with an eight hundred ninety million euro fine over continued anticompetitive practices.",
-                "Massive financial penalties force structural adjustments in global digital marketing strategies while rising AI capital expenditures accelerate.",
-                "Transatlantic regulatory friction intensifies as European authorities aggressively defend digital market parity against monopolistic American technology giants.",
-                "Strict enforcement of digital market rules will compel tech conglomerates to split regional infrastructure and service offerings."
+                "Harness launches Agent DLC to bridge enterprise development gaps by providing advanced behavioral and security controls for agents.",
+                "The platform implements real-time execution guardrails and rigorous observability to prevent malicious actions and rogue coding behaviors.",
+                "Traditional code review tools fail to monitor autonomous agents, necessitating specialized behavioral telemetry and active system interceptors.",
+                "Securing autonomous developer workflows is critical as enterprises transition from passive code assistance to fully independent agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
