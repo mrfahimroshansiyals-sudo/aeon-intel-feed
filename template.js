@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "INTELLIGENCE"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "ASCENDANCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: ANTHROPIC GPU PARTNERSHIP",
+            "heading": "AMD: AGENTIC COMPUTING INFRASTRUCTURE",
             "points": [
-                "AMD partners with Anthropic to deploy two gigawatts of Instinct MI450 Series GPUs for frontier AI development.",
-                "The unprecedented scaling initiative establishes sovereign computing infrastructure powered by next-generation accelerators and open ecosystem software.",
-                "Enterprises will bypass legacy clouds, accessing dedicated raw compute nodes specifically optimized for high-performance agentic operations.",
-                "This strategic collaboration signals a permanent shift toward hyper-scale, dedicated hardware clusters for decentralized model training."
+                "AMD launched a rack-scale platform integrating Instinct MI450 GPUs to accelerate development for physical AI and agentic workloads.",
+                "Strategic partnerships with Microsoft and Rackspace target high-performance cloud infrastructure deployment for large-scale enterprise model training and inference.",
+                "New Ryzen AI Halo systems introduce enterprise-grade governance and security, optimizing token costs across telco-specific deployments and edge computing.",
+                "The integration of ROCm.ai software enables developers to utilize natural language for seamless infrastructure orchestration and automated system troubleshooting."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "NASA: ORBITAL LLM DEPLOYMENT",
+            "heading": "NVIDIA: VERA RUBIN DEPLOYMENT",
             "points": [
-                "NASA successfully deploys Google's Gemma large language model in orbit to enable autonomous space system operations.",
-                "Radiation-hardened hardware execution of open-source models reduces telemetry dependence, improving deep-space decision speeds by several orders.",
-                "Edge-computing payloads on orbital satellites validate localized intelligence frameworks capable of operating in extreme isolation environments.",
-                "This milestone establishes a precedent for autonomous space vehicles executing complex physical actions without earth-based communication delays."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "OPENAI: AUTOMATED SUPPORT TRIAGE",
-            "points": [
-                "OpenAI introduces Presence, a novel enterprise automation agent that successfully resolved seventy-five percent of inbound support requests.",
-                "Deploying agentic workflows directly translates to dramatic headcount restructuring and a dynamic realignment of internal IT support budgets.",
-                "Fragmented legacy system architectures will limit deployment speed as enterprises scramble to build unified semantic data layers.",
-                "Organizations must prioritize system integrations and context mapping to unlock the full cost-reduction potential of cognitive agents."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: VERA RUBIN PRODUCTION",
-            "points": [
-                "NVIDIA ramps up production of the gigascale Vera Rubin NVL72 platform, maximizing performance per watt for agents.",
-                "Racks are shipping immediately to key infrastructure partners including CoreWeave and Google to power post-training agentic workloads.",
-                "Liquid-cooled architectures deliver the lowest token cost globally, shifting the commercial focus from training raw models to execution.",
-                "The massive hardware rollout will accelerate the industrial viability of physical and agentic artificial intelligence applications globally."
+                "NVIDIA Vera Rubin NVL72 production is ramping up, delivering industry-leading performance per watt and the lowest global token costs.",
+                "Partners including Google Cloud and CoreWeave are deploying Vera Rubin at gigascale to maximize intelligence output for post-training workloads.",
+                "Spectrum-6 fabric integration enables high-speed connectivity within AI factories, facilitating rapid development cycles for life science and medical physics.",
+                "Nvidia expanded the Agent Toolkit with new Omniverse libraries, empowering enterprises to build high-fidelity simulations for robotics and agent training."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +38,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: AGENT CONTEXT CONNECTOR",
+            "id": 3,
+            "heading": "GOOGLE: GEMINI ENTERPRISE EVOLUTION",
             "points": [
-                "Microsoft launches IQ, an enterprise integration framework connecting autonomous agents securely to operational databases and business workflows.",
-                "The technology establishes a unified, shared semantic context, allowing models to perform precise transactions across siloed applications.",
-                "By addressing agent reasoning gaps, IQ provides a standardized pathway for secure, real-time corporate data access.",
-                "Enterprise developers can now build highly integrated agentic workflows that maintain rigorous security and strict data boundaries."
+                "Google Cloud introduced Gemini 3.5 Flash and associated models, enhancing frontier intelligence with actionable agentic capabilities for enterprise workflows.",
+                "The new Agent Platform provides a managed remote MCP server, simplifying the integration of enterprise data with custom-built agentic AI.",
+                "AI Threat Defense capabilities were deployed to help organizations outpace adversarial risks within complex, high-velocity cloud-native and agent-based environments.",
+                "New Google for Startups programs provide up to 350,000 USD in credits to accelerate adoption of agentic data cloud technologies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL: ROBOSTRAL LITHOGRAPHY OPTIMIZATION",
+            "id": 4,
+            "heading": "MISTRAL: SOVEREIGN AGENTIC FRAMEWORKS",
             "points": [
-                "Mistral partners with ASML to deploy Robostral Navigate, accelerating advanced semiconductor lithography and complex hardware engineering.",
-                "The specialized agentic system manages autonomous coding and legacy code translation for ultra-precise microchip manufacturing systems.",
-                "Integrating localized sovereign AI models protects proprietary chip architectures while optimizing critical yield metrics on the factory floor.",
-                "This deployment signals a growing trend of embedding specialized intelligence directly into complex industrial physics manufacturing processes."
+                "Mistral released Vibe, an autonomous agent for long-horizon work, capable of persistent memory and multi-step task scheduling across enterprise datasets.",
+                "Vibe for Code provides asynchronous generation and architecture-aware reasoning, significantly reducing software development toil in complex production environments.",
+                "Partnership with Microsoft bolsters sovereign AI initiatives, allowing European enterprises to maintain control over model training and regional compliance standards.",
+                "Mistral Forge offers comprehensive end-to-end model training, including synthetic data generation and fine-tuning for specialized industry domain adaptation and performance."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "HARNESS: AGENT BEHAVIORAL CONTROLS",
+            "id": 5,
+            "heading": "OPENAI: FRONTIER INTELLIGENCE SCALING",
             "points": [
-                "Harness launches Agent DLC to bridge enterprise development gaps by providing advanced behavioral and security controls for agents.",
-                "The platform implements real-time execution guardrails and rigorous observability to prevent malicious actions and rogue coding behaviors.",
-                "Traditional code review tools fail to monitor autonomous agents, necessitating specialized behavioral telemetry and active system interceptors.",
-                "Securing autonomous developer workflows is critical as enterprises transition from passive code assistance to fully independent agents."
+                "OpenAI launched GPT-5.6, a highly scalable frontier intelligence model designed to support complex reasoning and ambitious enterprise work applications.",
+                "The deployment of GPT-Live provides real-time, low-latency interaction capabilities to support responsive agentic behavior in production-grade software and services.",
+                "Presence functionality has successfully resolved 75% of inbound support volume, validating the efficacy of autonomous agents in customer experience automation.",
+                "OpenAI is prioritizing security infrastructure and robustness, releasing new tools for monitoring coding agents to ensure long-term alignment and systemic safety."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU: AI ACT COMPLIANCE GOVERNANCE",
+            "points": [
+                "Governance architecture under the EU AI Act continues to integrate the Scientific Panel and Advisory Forum to enforce GPAI model standards.",
+                "New compliance checker tools assist SMEs in identifying legal obligations regarding high-risk AI deployment in HR and automated workforce systems.",
+                "Transparency rules under Article 50 mandate rigorous documentation for model providers, setting a global precedent for accountability in algorithmic decision-making.",
+                "Governance initiatives aim to harmonize public-sector CIO control over vendor dependencies, audits, and data continuity in state-level digital service infrastructure."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TSMC: LEADERSHIP SILICON ARCHITECTURE",
+            "points": [
+                "TSMC is scaling A16 nanosheet technology with super power rail features, specifically engineered to maximize efficiency in HPC and AI workloads.",
+                "Advancements in NanoFlex and 3D IC design are facilitating improved thermal management and power density for next-generation generative AI clusters.",
+                "Operational expansion of manufacturing sites in Arizona and Europe supports the global mandate for geographic diversification in semiconductor supply chain resilience.",
+                "Collaborative ecosystems within TSMC\u2019s Open Innovation Platform are accelerating the time-to-market for AI-optimized silicon from R&D to high-volume production fabs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
