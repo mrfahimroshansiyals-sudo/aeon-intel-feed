@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFTS",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI PARTNERSHIP",
+            "heading": "NVIDIA: SOVEREIGN FACTORY EXPANSION",
             "points": [
-                "SK Group and NVIDIA have solidified a massive $500 billion strategic partnership to develop sovereign AI factory infrastructure.",
-                "This deal prioritizes the integration of next-generation memory and scalable AI processing power across global data centers.",
-                "NVIDIA aims to secure supply chains for HBM technologies to meet the exponential demand of enterprise-grade AI models.",
-                "The investment marks a significant shift toward localized, nation-state scale AI computational sovereignty for emerging regional hubs."
+                "NVIDIA and SK Group finalized a multi-billion dollar partnership to deploy sovereign AI factories and advanced memory systems.",
+                "This infrastructure initiative integrates large-scale computing power to address global demand for localized, enterprise-grade AI production.",
+                "The deployment includes advanced HBM memory architecture to support high-throughput inference and training requirements for sovereign models.",
+                "Stakeholders expect rapid integration of these AI factories to reduce reliance on cross-border compute data centers."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OPENAI: PRESENCE AGENT DEPLOYMENT",
+            "heading": "OPENAI: FRONTIER INTELLIGENCE SCALING",
             "points": [
-                "OpenAI's new Presence platform successfully resolved 75% of inbound support requests in internal testing environments for enterprise clients.",
-                "This tool enables autonomous agentic workflows to handle complex, multi-step customer service tasks without human intervention or oversight.",
-                "Presence facilitates deeper organizational integration by utilizing real-time data connectivity to execute business-specific operational actions.",
-                "The deployment signals a rapid maturation of agentic AI moving beyond simple chatbots into core transactional business processes."
+                "OpenAI released GPT-5.6, introducing advanced architectural adjustments for deep, agentic reasoning across complex enterprise workflows.",
+                "The model emphasizes frontier-level intelligence that scales dynamically with computational ambition for large-scale production environments.",
+                "Integration of new security frameworks aims to secure autonomous agents from environmental leakage during high-load deployment cycles.",
+                "Early adopters are reporting significant improvements in multi-step task completion and long-horizon planning for automated business processes."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: AGENTIC COMPUTE LEADERSHIP",
+            "heading": "GOOGLE CLOUD: AGENTIC DATA CLOUD",
             "points": [
-                "AMD launched a comprehensive suite of high-performance compute solutions designed specifically for the rapidly expanding agentic AI era.",
-                "The new portfolio includes rack-scale AI systems utilizing the MI450 Series to drive maximum efficiency for inference tasks.",
-                "Strategic collaboration with Cisco integrates governance and observability into local AI environments to bolster enterprise-grade data security.",
-                "These advancements provide a robust full-stack foundation for businesses transitioning toward autonomous, local AI execution frameworks."
+                "Google Cloud launched Gemini 3.5, featuring native support for action-oriented models and stateless Model Context Protocol servers.",
+                "The updated architecture prioritizes faster, cheaper inference cycles suitable for real-time edge processing and enterprise-level automation.",
+                "Gemini Enterprise now includes expanded governance tools for AI agent orchestration and secure data integration with legacy systems.",
+                "The update directly supports the shifting enterprise preference for modular agents that replace heavy, static middleware deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: OPEN AGENTIC COMPUTE STACK",
+            "points": [
+                "AMD announced the deployment of MI450-series GPUs to support open-ecosystem AI infrastructure across enterprise and cloud environments.",
+                "Strategic partnerships focus on delivering high-performance, heterogeneous compute architectures designed for agentic AI requirements.",
+                "New open robotics platforms integrate NPU and GPU acceleration to bridge the gap between physical AI and digital processing.",
+                "Enterprises are utilizing these flexible compute foundations to reduce TCO while maintaining high scalability for mission-critical apps."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: OPUS 5 AGENTIC UPGRADE",
-            "points": [
-                "Anthropic released Opus 5, a flagship model featuring significantly enhanced coding capabilities and superior agentic workflow performance.",
-                "Designed for complex professional work, the model offers sharper reasoning for multi-step tasks requiring high-precision output verification.",
-                "The release reflects a focus on building agents capable of functioning as reliable partners for long-horizon industrial research projects.",
-                "Opus 5 represents the latest leap in frontier intelligence aimed at mitigating technical debt in large-scale enterprise development environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "GOOGLE: GEMINI 3.5 FLASH DEPLOYMENT",
+            "heading": "MISTRAL: AUTONOMOUS AGENT SERVICES",
             "points": [
-                "Google DeepMind introduced Gemini 3.5 Flash, providing frontier intelligence combined with enhanced capabilities for real-time action.",
-                "This update focuses on scaling agentic work through efficient, low-latency models optimized for wide-scale enterprise application development.",
-                "The platform supports new collaborative features such as Co-Scientist, designed to accelerate research via integrated scientific toolkits.",
-                "Google Cloud is scaling its infrastructure to support agent-ready ecosystems, prioritizing developer access to advanced orchestration tooling."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE LAUNCH",
-            "points": [
-                "Mistral unveiled Robostral Navigate, a dedicated system designed to manage and record complex AI agent prompts and skill sets.",
-                "The tool provides a centralized system of record essential for maintaining consistency across autonomous agentic operational environments.",
-                "Mistral continues to push sovereign AI adoption, enabling organizations to deploy bespoke models for mission-critical industrial use cases.",
-                "This development emphasizes the necessity for better governance and observability in the burgeoning era of autonomous agentic work."
+                "Mistral released Vibe, a specialized AI agent designed for persistent, long-horizon operational tasks and complex document synthesis.",
+                "Vibe facilitates autonomous coding and multi-step orchestration within existing enterprise development stacks via improved memory architectures.",
+                "The new platform integrates advanced guardrails to ensure output reliability during autonomous agent execution and system deployments.",
+                "Industrial adoption is accelerating as firms leverage Mistral's open-weight approach to domain-specific model alignment and training."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "NETSCOUT: AI DDOS INFRASTRUCTURE",
+            "id": 6,
+            "heading": "ANTHROPIC: AGENTIC MODEL UPGRADE",
             "points": [
-                "NetScout significantly expanded its AI-driven DDoS defense capacity, boosting mitigation thresholds to an impressive 33 Tbps.",
-                "The upgrade strengthens the strategic integration between on-premises and cloud-based defense tools to neutralize increasingly sophisticated attacks.",
-                "Enhanced infrastructure security is becoming critical as enterprises deploy more autonomous AI agents across public and private networks.",
-                "Proactive threat mitigation serves as a necessary barrier against the rising frequency of malicious exploits targeting AI compute."
+                "Anthropic introduced Sonnet 5, optimized for professional-grade coding and highly accurate agentic task execution in production.",
+                "The release prioritizes safety and alignment while enhancing the model's ability to reason over proprietary enterprise documentation.",
+                "Customizable app layers allow researchers and engineers to integrate auditable artifacts directly into their existing model workflows.",
+                "The architecture shift aims to reduce the friction of implementing reliable, professional AI agents in regulated business sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
+            "points": [
+                "The EU AI Office finalized the governance framework for the Scientific Panel of Independent Experts to monitor general-purpose AI.",
+                "Regulations now mandate strict compliance protocols for providers of frontier-level AI systems to ensure transparency and accountability.",
+                "Compliance checker tools are now active to assist SMEs in navigating the legal requirements for high-risk AI deployments.",
+                "Strategic alignment with global AI safety benchmarks remains the primary focus of the European Commission's current regulatory update."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
