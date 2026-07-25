@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GENERATION",
+        "titleWhite": "SOVEREIGN COGNITIVE",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL",
+            "heading": "NVIDIA: MEMORY SUPPLY SECURED",
             "points": [
-                "OpenAI officially launched GPT-5.6, delivering frontier-scale intelligence designed to handle enterprise reasoning and autonomous agent tasks.",
-                "The new model architecture optimizes multi-step planning and deep analytical capabilities for complex programmatic environments.",
-                "Developers can integrate this scalable intelligence directly into custom workflows to automate highly complex software engineering pipelines.",
-                "This release signals a critical shift toward highly autonomous, multi-modal agents capable of executing long-horizon compute operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: SK HYNIX DEEP ALLIANCE",
-            "points": [
-                "NVIDIA and SK Group announced a massive partnership valued over five hundred billion dollars to build AI factories.",
-                "The strategic alliance secures critical high-bandwidth memory supplies to power the next generation of accelerated computer systems.",
-                "Joint engineering teams will design custom compute fabrics to maximize processing throughput for sovereign infrastructure projects worldwide.",
-                "This capital injection establishes a robust physical foundation for scaling enterprise intelligence across distributed global data networks."
+                "Nvidia secures next-generation memory supply from SK Hynix under a major five-hundred-billion-dollar infrastructure partnership.",
+                "The alliance guarantees high-bandwidth memory access to feed surging global demands for massive AI factory deployments.",
+                "This strategic pipeline stabilizes critical semiconductor components amidst intense competition for high-performance enterprise processing clusters.",
+                "Analysts expect the massive capital commitment will secure Nvidia's dominant market share throughout the next fiscal cycle."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "ANTHROPIC: OPUS 5 UPGRADE",
+            "id": 2,
+            "heading": "AMD: INSTINCT GPU PARTNERSHIP",
             "points": [
-                "Anthropic introduced its highly anticipated Opus five model, representing a massive upgrade in complex agent logic and coding.",
-                "The model achieves superior benchmark performance across professional reasoning tasks and highly complex system-level programming challenges.",
-                "Multi-agent frameworks leveraging this architecture exhibit refined decision-making processes when integrated into legacy enterprise software platforms.",
-                "Enterprise operators can now run highly specialized autonomous workflows with reduced failure rates and better contextual alignment."
+                "AMD collaborates with Anthropic to deploy up to two gigawatts of Instinct MI450 series graphics processing units.",
+                "The massive deployment powers sovereign cloud clusters to scale frontier foundation models with optimized energy-efficient footprints.",
+                "This hardware integration aims to disrupt market monopolies by establishing alternative high-performance options for enterprise customers.",
+                "Strategic positioning places AMD as a direct competitor for hyperscale agentic computing environments in the coming year."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: GPT-5.6 FRONTIER COGNITION",
+            "points": [
+                "OpenAI launches GPT-5.6 delivering advanced reasoning and execution capabilities designed for high-signal autonomous enterprise automation.",
+                "The updated frontier model establishes highly scalable pathways to automate complex multi-step logical operations for corporate systems.",
+                "Integrating improved self-evaluation algorithms minimizes misalignment risks during continuous training of highly autonomous agent networks.",
+                "Enterprises deploying this architecture project a significant reduction in long-horizon development times for custom agent tools."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: STATELESS MCP PROTOCOL",
+            "heading": "GOOGLE: GEMINI FLASH CYBER",
             "points": [
-                "The Model Context Protocol is shifting to a stateless architecture to simplify cloud scaling for AI applications.",
-                "Developers must adapt to these protocol modifications as old, stateful features are deprecated over the coming year.",
-                "This architectural pivot enables much cleaner integration between independent client systems and complex remote server hosting environments.",
-                "Eliminating state dependencies ensures that large-scale agent deployments can execute multi-step queries without incurring massive memory overheads."
+                "Google DeepMind launches Gemini three point five Flash Cyber to optimize real-time digital threat detection.",
+                "The specialized model significantly improves processing efficiency while reducing operational latency across cloud-native security orchestration workflows.",
+                "Deploying these lightweight models enables automated vulnerability mitigation directly at the edge of enterprise network architectures.",
+                "This release accelerates the transition toward autonomous self-healing cyber defense systems across distributed sovereign cloud networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WEKA: CUSTOM WEKAPOD DEPLOYMENT",
+            "heading": "ASML: LITHOGRAPHY READINESS MILESTONE",
             "points": [
-                "WEKA launched its first custom hardware solution WEKApod three to mitigate processing bottlenecks in high-density graphics clusters.",
-                "The hardware package is paired with NeuralMesh six software to significantly improve storage efficiency during active model training.",
-                "This integrated approach targets data pipeline latency to ensure that enterprise chips remain continuously fed during training cycles.",
-                "Solving core storage bottlenecks is now a critical priority for companies scaling their infrastructure to support generative pipelines."
+                "ASML achieves a critical high-volume logic manufacturing milestone utilizing its advanced High NA EUV lithography systems.",
+                "The technical breakthrough allows global semiconductor fabrication facilities to produce much denser, highly energy-efficient processing units.",
+                "This system refinement addresses physical bottlenecks to extend silicon performance scaling laws for next-generation hardware.",
+                "Global chipmakers adopting this equipment will begin scaling high-density physical AI accelerators to meet infrastructure demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NETSCOUT: AI DDOS UPGRADE",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE AGENTS",
             "points": [
-                "NetScout doubled its automated defense capacity to thirty-three terabits per second following a key infrastructure acquisition.",
-                "The company is strengthening operational integration between its secure on-premises appliances and scalable cloud-based protection tools.",
-                "Security teams can leverage the expanded network footprint to mitigate high-volume distributed denial-of-service threats in real time.",
-                "This upgrade addresses critical security concerns as distributed networks face highly sophisticated, automated attacks targeting critical resources."
+                "Mistral introduces Robostral Navigate alongside its advanced Vibe agent systems engineered for long-horizon technical tasks.",
+                "These tools establish a persistent system of record to manage complex workflows and autonomous software engineering pipelines.",
+                "Decoupling workflow orchestration from proprietary clouds allows enterprises to deploy highly customizable agent networks completely on-premise.",
+                "Industry experts predict this architecture will accelerate the integration of physical AI within legacy robotic control systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: ROBOSTRAL DEPLOYMENT",
+            "heading": "MODEL CONTEXT PROTOCOL: STATELESS TRANSITION",
             "points": [
-                "Mistral AI introduced Robostral Navigate, establishing a comprehensive system of record for managing prompts and agentic skills.",
-                "The platform allows enterprise developers to index, audit, and track custom workflows across highly distributed generative systems.",
-                "Structured operational histories enable teams to refine model output quality while maintaining strict security and governance standards.",
-                "Providing dedicated repositories for AI execution telemetry is critical to deploying robust and fully compliant enterprise applications."
+                "Anthropic transitions the Model Context Protocol to a stateless design to simplify enterprise application scaling.",
+                "Removing state persistence from the integration layer reduces cloud resource consumption during multi-agent system communications.",
+                "The protocol upgrade provides developers with unified standards to securely connect autonomous agents to legacy databases.",
+                "Standardizing these connection frameworks prevents vendor lock-in while accelerating multi-model interoperability across global hybrid environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
