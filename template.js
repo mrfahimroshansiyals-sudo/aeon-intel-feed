@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
+        "titleBlue": "SCALING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SOVEREIGN FACTORY EXPANSION",
+            "heading": "NVIDIA: SK GROUP PARTNERSHIP",
             "points": [
-                "NVIDIA expands Korean national AI factory infrastructure with NAVER and Brookfield investment.",
-                "Strategic partnership scales sovereign compute capacity to meet surging regional AI demand.",
-                "New manufacturing ecosystems integrate local talent into global high-performance silicon supply chains.",
-                "Deployment of advanced AI factories reinforces regional leadership in integrated circuit development."
+                "NVIDIA and SK Group established a historic five hundred billion dollar partnership for next-generation global AI infrastructure.",
+                "The alliance secures advanced high bandwidth memory supply chains to support massive deployments of next-generation physical AI chips.",
+                "Enterprises will benefit from highly optimized GPU-accelerated environments built directly on sovereign industrial cloud infrastructure hubs.",
+                "This coordination represents a significant consolidation of hardware manufacturing and silicon distribution networks for enterprise scaling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: AGENTIC COMPUTE EVOLUTION",
+            "heading": "ANTHROPIC: OPUS 5 DEPLOYMENT",
             "points": [
-                "AMD launches full-stack compute platform designed specifically for the emerging agentic AI era.",
-                "Integrated portfolios combine silicon and open software for optimized cloud-to-edge AI deployment.",
-                "Strategic partnerships with Cisco bring enterprise-grade governance to local AI processing environments.",
-                "Heterogeneous hardware architectures enable enhanced performance for industrial automation and physical robotics."
+                "Anthropic released its upgraded Claude Opus five model featuring advanced coding capabilities and superior multi-agent orchestration.",
+                "The model introduces stronger professional automation patterns and refined analytical capabilities across complex scientific research tasks.",
+                "Developers can deploy custom agents utilizing deep contextual memory and precise function calling across enterprise environments.",
+                "This upgrade marks a shift toward highly autonomous software engineering tools that execute multi-step operations reliably."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: FRONTIER SECURITY GOVERNANCE",
+            "heading": "OPENAI: GPT-5.6 ENGINE",
             "points": [
-                "OpenAI introduces advanced security protocols to mitigate risks from autonomous system containment failures.",
-                "New enterprise tools provide robust frameworks for monitoring high-capability model self-improvement processes.",
-                "Stakeholder trust is reinforced through standardized impact measurement and transparent risk mitigation reporting.",
-                "Deployment of security-focused internal agents safeguards organizational assets against evolving autonomous cyber-threats."
+                "OpenAI launched GPT five point six designed to scale frontier intelligence for complex enterprise workflows.",
+                "The model achieves unprecedented optimization across reasoning benchmarks and significantly reduces execution latency for agentic environments.",
+                "Built-in safety architectures prevent model misalignment while supporting deep transactional operations inside private corporate cloud networks.",
+                "Organizations can scale these cognitive models dynamically to manage highly secure automated back-office logic."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: AGENT PLATFORM SCALING",
+            "heading": "NAVER: SOVEREIGN AI FACTORY",
             "points": [
-                "Google Cloud advances its agentic platform with remote MCP server support for managed workloads.",
-                "Gemini 3.5 series integration delivers frontier intelligence with actionable real-time decision capabilities.",
-                "Enterprise adoption accelerates via simplified AI orchestration and comprehensive lifecycle governance frameworks.",
-                "Cloud infrastructure optimizations ensure high-scale performance for complex, agent-led business process automation."
+                "NAVER partnered with NVIDIA and Brookfield to expand sovereign artificial intelligence infrastructure across South Korea.",
+                "The initiative targets regional data sovereignty by building high-capacity localized processing centers for secure information management.",
+                "This project leverages renewable energy frameworks to mitigate the extreme power constraints of modern industrial installations.",
+                "Global organizations can deploy highly sensitive workloads locally without compromising compliance under international data transmission laws."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: MODEL PERFORMANCE UPGRADE",
+            "heading": "MCP: STATELESS ARCHITECTURE",
             "points": [
-                "Anthropic releases enhanced Opus 5 model tier, delivering significant improvements in autonomous agent capabilities.",
-                "Architecture refinements provide deeper reasoning for coding tasks and complex professional workflow execution.",
-                "Expanded integration tools enable researchers to build modular, audit-ready scientific applications within Claude.",
-                "Focus on long-term safety ensures agent performance remains aligned with rigorous enterprise-grade standards."
+                "The Model Context Protocol transition to stateless operations simplifies cloud deployment and application scalability for developers.",
+                "Moving away from stateful requirements allows systems to scale horizontally while reducing overall compute resource consumption.",
+                "Modern developer teams must adapt existing architectures to support this new streamlined messaging layout during migrations.",
+                "This technical shift accelerates the integration of diverse agent frameworks with external corporate enterprise database ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFOWORLD: STATELESS PROTOCOL SHIFT",
+            "heading": "NETSCOUT: 33 TBPS MITIGATION",
             "points": [
-                "Model Context Protocol transitions to stateless architecture to simplify cloud-scale deployment challenges.",
-                "Technical shift reduces complexity for developers managing large-scale, distributed AI agent ecosystems.",
-                "Enterprises must now plan for architectural migration to maintain compatibility with updated interfaces.",
-                "Stateless design enhances scalability, enabling more fluid interactions between disparate AI application layers."
+                "NetScout doubled its distributed denial of service defenses to a maximum capacity of thirty-three terabits.",
+                "The upgrade integrates on-premises hardware security tools with advanced cloud-based mitigation platforms for seamless hybrid security.",
+                "Enterprises gain automated real-time threat response capabilities to safeguard critical database pathways against massive volumetric attacks.",
+                "This architectural reinforcement prevents service disruption during complex multi-vector cyber campaigns targeting strategic cloud communication links."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
+            "heading": "WEKA: WEKAPOD 3 HARDWARE",
             "points": [
-                "Mistral introduces Vibe, a specialized agentic platform optimized for long-horizon enterprise work tasks.",
-                "Advanced tooling supports autonomous coding, document synthesis, and persistent memory across distributed systems.",
-                "Sovereign AI strategy enables organizations to tailor intelligence models for proprietary domain requirements.",
-                "Unified AI registry and evaluation frameworks streamline production deployment from edge to cloud."
+                "WEKA introduced its custom WEKApod three hardware platform designed to optimize artificial intelligence storage data flows.",
+                "Pairing this physical framework with NeuralMesh six software eliminates high-throughput bottleneck challenges during GPU data processing.",
+                "The system maximizes training efficiency by maintaining steady data delivery speeds directly to accelerated compute clusters.",
+                "Enterprise architects can deploy this unified infrastructure to achieve higher performance metrics across intensive training operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
