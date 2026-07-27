@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleWhite": "FRONTIER AI INFRASTRUCTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC TOOLKIT UPGRADE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
             "points": [
-                "NVIDIA launched the expanded Agent Toolkit for engineering featuring new PhysicsNeMo and CUDA-X libraries for optimization.",
-                "These updates significantly streamline the design cycle for autonomous systems and physical AI through accelerated computational workflows.",
-                "The toolkit enables developers to build smarter AI agents capable of high-fidelity simulations within complex industrial environments.",
-                "Enterprise users can expect drastic reductions in design iterations and accelerated time-to-market for complex silicon-to-system architectures."
+                "OpenAI has launched GPT-5.6 delivering highly scalable frontier intelligence designed for complex enterprise reasoning tasks.",
+                "The model optimizes token efficiency and scale performance across highly distributed multi-agent systems and networks.",
+                "This architecture decouples traditional compute boundaries to enable autonomous long-horizon execution inside enterprise environments.",
+                "Organizations will transition legacy cognitive workflows directly to highly autonomous and stateful agentic execution pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: AGENTIC COMPUTING EXPANSION",
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "AMD introduced a new full-stack compute platform tailored for the agentic AI era including rack-scale solutions.",
-                "This deployment aims to enhance performance for physical AI and robotics with dedicated open robotics partner networks.",
-                "Strategic partnerships focus on deploying high-performance Instinct series GPUs to meet surging infrastructure and memory demands.",
-                "The hardware-centric strategy positions AMD to challenge market leaders by lowering total cost of ownership for AI factories."
+                "NVIDIA and Safe Superintelligence Inc. formed a long-term partnership to accelerate secure superintelligence growth.",
+                "The collaboration leverages advanced physical compute architectures to scale containment and alignment protocols at runtime.",
+                "This integration establishes a hardware-level safety boundary for training highly autonomous and agentic frontier systems.",
+                "Enterprises will acquire verified hardware-software co-designs designed to mitigate critical catastrophic model alignment risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ANTHROPIC: OPUS 5 DEPLOYMENT",
+            "heading": "AMD: ANTHROPIC GPU DEPLOYMENT",
             "points": [
-                "Anthropic released Opus 5 offering significantly improved coding capabilities and more robust agentic performance for professionals.",
-                "This release emphasizes safety-first intelligence as the model incorporates advanced reasoning paths for complex real-world problem solving.",
-                "Opus 5 provides deep integration for enterprise researchers requiring auditable artifacts and stable, reproducible scientific computing results.",
-                "The model update signals a shift toward specialized professional tooling rather than generalist conversational interface features."
+                "AMD and Anthropic announced a strategic partnership deploying up to two gigawatts of Instinct MI450 GPUs.",
+                "This deployment drives massive architectural scalability for training next-generation Claude models across sovereign cloud infrastructures.",
+                "The hardware-software integration leverages ROCm open standards to optimize distributed tensor parallel training efficiency.",
+                "This massive infrastructure commitment establishes AMD as a formidable primary challenger to dominant enterprise hardware monopolies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: AGENTIC SCALING",
+            "heading": "ANTHROPIC: CLAUDE OPUS 5",
             "points": [
-                "Google Cloud unveiled new AI Threat Defense frameworks to secure agentic deployments against emerging adversarial attack vectors.",
-                "The platform now supports advanced orchestration for Gemini-powered enterprise agents within a secure, managed cloud ecosystem.",
-                "Enterprises can leverage these features to scale operational AI without compromising on governance or regulatory compliance standards.",
-                "Infrastructure investments continue to prioritize high-efficiency model delivery to handle increasing multi-agent system transactional volumes."
+                "Anthropic released Claude Opus 5 delivering a massive step change in autonomous coding and professional execution.",
+                "The model architecture optimizes agentic multi-step reasoning capabilities while substantially reducing downstream execution token latency.",
+                "Enhanced contextual capabilities permit continuous integration across deeply nested development environments and enterprise software layers.",
+                "Engineering teams can automate legacy translation tasks and complex continuous development pipelines with sovereign security controls."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: SECURITY SYSTEM INTEGRATION",
+            "heading": "DEEPMIND: GEMINI CYBER ARCHITECTURE",
             "points": [
-                "OpenAI introduced Daybreak tools aimed at securing enterprise-wide organization-level AI deployments against unauthorized autonomous activity.",
-                "This security architecture focuses on preventing model containment breaches and managing complex agent permissions at scale.",
-                "Recent updates include enhanced monitoring for internal coding agents to ensure alignment and robust system behavior.",
-                "Organizations are being encouraged to prioritize threat modeling as autonomous models increasingly handle sensitive corporate intelligence."
+                "Google DeepMind launched Gemini 3.5 Flash Cyber and Gemini 3.6 Flash targeting active security environments.",
+                "These specialized models integrate advanced threat analysis capabilities to proactively defend decentralized cloud and edge networks.",
+                "The real-time action framework operates over a remote Model Context Protocol to simplify stateful agent scaling.",
+                "Security operations centers can run autonomous defensive agents locally to mitigate zero-day vulnerabilities in microsecond environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: DATA OBSERVIABILITY",
+            "heading": "OPEN SECURE AI: SAFETY INITIATIVE",
             "points": [
-                "Data observability frameworks are now considered foundational for maintaining efficient, accurate, and trustworthy AI operational pipelines.",
-                "Five core pillars define the new oversight strategy to ensure data readiness before high-stakes enterprise integration occurs.",
-                "Storage bottlenecks are being addressed by specialized hardware like WEKApod to ensure GPU compute efficiency remains optimized.",
-                "Data leaders are moving toward decentralization through data mesh to better govern ownership in complex distributed AI systems."
+                "Industry leaders united in the Open Secure AI Alliance to standardize safety across global infrastructure.",
+                "The consortium focuses on developing secure open-source software architectures for financial, telecom, and cloud environments.",
+                "Standardizing structural defense layers mitigates supply-chain vulnerabilities inherent to highly collaborative development models.",
+                "Chief Information Officers must audit compliance against these emerging open frameworks to ensure long-term system integrity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO MAGAZINE: AGENTIC GOVERNANCE",
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "The rise of the internet of agents forces CIOs to adopt new strategic trade-offs in architecture and sovereignty.",
-                "New analysis confirms that traditional cost-cutting pitches for AI are failing in favor of token-economics-driven value models.",
-                "Enterprises must now manage shadow tokens and budget blowouts as developers integrate autonomous agents across diverse systems.",
-                "Strategic focus is shifting from pilot experimentation to rigorous long-horizon autonomous workflow integration for sustained value."
+                "ASML achieved a critical milestone by delivering its first High NA EUV system for high-volume Logic manufacturing.",
+                "This system scales lithography limits downward to allow mass fabrication of sub-nanometer next-generation artificial intelligence accelerators.",
+                "Sustaining Moore's Law through advanced physical engineering ensures the continuous expansion of high-density global compute fabric.",
+                "Leading global chipmakers will accelerate fabrication of high-power processors required to feed intensive frontier training runs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
