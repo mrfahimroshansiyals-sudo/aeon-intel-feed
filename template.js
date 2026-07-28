@@ -1,98 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL SEMICONDUCTOR AI",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS AGENT ARCHITECTURE",
+        "titleBlue": "ASCENSION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: ADVANCED SILICON ROADMAP",
+            "heading": "ANTHROPIC: OPUS 5 DEPLOYMENT",
             "points": [
-                "TSMC has finalized the A16 nanosheet architecture featuring integrated super power rail technology to maximize performance.",
-                "The firm is optimizing these high-performance compute nodes specifically for massive generative AI training and inference requirements.",
-                "Strategic output expansion ensures that global fab infrastructure maintains pace with exponential demand for next-generation silicon chips.",
-                "Market positioning confirms TSMC's role as the central hardware foundation for the ongoing global AI compute race."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MISTRAL: AGENTIC WORKFLOW SHIFT",
-            "points": [
-                "Mistral has launched its Vibe agent platform to enable long-horizon, autonomous multi-step task execution for enterprise.",
-                "The architecture allows for deep integration with proprietary company knowledge bases to facilitate complex document synthesis.",
-                "Vibe for code provides terminal-aware automated generation to accelerate CI/CD workflows and legacy code translation pipelines.",
-                "Deployment flexibility from edge to cloud ensures Mistral maintains high adoption across regulated financial and public sectors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: OPEN AI COMPUTE ECOSYSTEM",
-            "points": [
-                "AMD has deepened its strategic partnership with Anthropic to deploy two gigawatts of Instinct MI450 Series GPUs.",
-                "The collaboration expands AMD's reach across silicon, networking, and software stacks to challenge current infrastructure monopolies.",
-                "New heterogeneous compute platforms facilitate physical AI development for industrial automation and edge-based robotics applications.",
-                "Enterprise focus on open-source software integration helps reduce long-term TCO for large-scale data center AI deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
-            "points": [
-                "NVIDIA has integrated PhysicsNeMo and CUDA-X libraries into its agent toolkit to enhance physical AI simulation.",
-                "Strategic partnerships with Safe Superintelligence Inc aim to accelerate long-term growth in frontier-level AI safety research.",
-                "Expanded infrastructure investment in Korea through NEURAL and Brookfield signals massive regional scaling for sovereign AI factories.",
-                "New software libraries allow developers to engineer and build complex AI agents with greater precision and efficiency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: AGENTIC SCALE",
-            "points": [
-                "DeepMind has released Gemini 3.6 Flash and Cyber models to maximize intelligence-per-parameter for diverse AI agents.",
-                "The research firm is prioritizing bioresilience and multi-agent systems to secure the future of autonomous digital transactions.",
-                "New frameworks for Co-Scientist collaborative research demonstrate a pivot toward deep-domain expert AI in scientific discovery workflows.",
-                "Commitments to large-scale data center infrastructure enable the agentic era to function with high reliability and throughput."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ANTHROPIC: FRONTIER MODEL UPDATES",
-            "points": [
-                "Anthropic has debuted Opus 5, featuring significantly improved coding capabilities and agentic task orchestration for professional users.",
-                "The company continues to champion responsible scaling policies alongside aggressive investment in AI safety and governance research.",
-                "Claude Science platform integration provides researchers with auditable, tool-linked environments for complex scientific modeling and data analysis.",
-                "Strategic focus on long-term safety ensures models remain robust even as they encounter frontier-level operational requirements globally."
+                "Anthropic has released Opus 5, a significant upgrade to its flagship model tier delivering enhanced coding capabilities and more agentic reasoning.",
+                "The model features increased professional task proficiency, supporting complex multi-step workflows designed for autonomous enterprise research and technical execution.",
+                "This release emphasizes safety-first model development, aligning with the firm's broader commitment to Responsible Scaling Policies and AI governance standards.",
+                "Market stakeholders should anticipate immediate integration of Opus 5 into professional toolchains for high-stakes decision-making and scientific research applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MICROSOFT AZURE: ENTERPRISE CONTEXT",
+            "id": 2,
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.6 FLASH",
             "points": [
-                "Microsoft has introduced Azure IQ to provide shared business context for AI agents across enterprise workflows.",
-                "New AMD-powered virtual machines specifically support high-demand technical computing and AI inference workloads on Azure infrastructure.",
-                "Foundry development environments allow teams to build, evaluate, and deploy generative AI solutions with greater integration control.",
-                "Strategic focus on agentic DevOps ensures that organizations maintain secure and scalable production environments for mission-critical AI."
+                "Google DeepMind introduced the Gemini 3.6 Flash series, prioritizing extreme latency optimization for real-time agentic interactions and massive-scale data processing.",
+                "The architecture introduces Flash-Lite and Flash-Cyber variants, enabling highly efficient deployment across resource-constrained edge devices and cloud-native backend environments.",
+                "This infrastructure update facilitates deeper integration of computer-use capabilities, allowing models to navigate complex software interfaces with human-like precision and speed.",
+                "Enterprises can leverage these models to reduce operational costs by deploying high-throughput agents that perform complex tasks at a fraction of current latency."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
+            "points": [
+                "NVIDIA has expanded its Agent Toolkit by integrating PhysicsNeMo and CUDA-X libraries, fundamentally transforming physical AI development for industrial automation and robotics.",
+                "The toolkit provides a comprehensive software stack that allows engineers to simulate, train, and deploy agents capable of interacting with complex physical environments.",
+                "Strategic partnerships with entities like Safe Superintelligence Inc. are accelerating growth, ensuring secure AI infrastructure through collaborative research and dedicated computational resources.",
+                "This development sets a new industry standard for hardware-accelerated agent development, bridging the gap between digital cognition and physical world execution."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: OPEN ECOSYSTEM MOMENTUM",
+            "points": [
+                "AMD continues to advance its end-to-end AI innovation by deepening strategic partnerships across the silicon, software, and systems stack for sovereign AI.",
+                "The collaboration with Korea\u2019s Ministry of Science and ICT highlights AMD's focus on supporting national-level AI infrastructures through open compute technologies and expertise.",
+                "New developments in the Open Robotics Partner Network accelerate the deployment of physical AI systems by providing developers with robust, heterogeneous compute platforms.",
+                "This expansion enhances the competitiveness of AMD's Instinct and Ryzen AI portfolios, offering enterprises a flexible, vendor-neutral alternative for datacenter and edge deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: VIBE AGENT PLATFORM",
+            "points": [
+                "Mistral AI has unveiled Vibe, an agentic AI framework specifically designed for long-horizon work, persistent memory, and sophisticated multi-step task scheduling.",
+                "The Vibe for Code platform enhances developer productivity by providing architecture-aware reasoning and automated legacy code translation within terminal and IDE environments.",
+                "Mistral's Studio platform offers enterprises end-to-end observability and agent orchestration, facilitating seamless deployment across diverse cloud and edge infrastructures.",
+                "This platform provides organizations the control and portability required to build custom sovereign AI models that respect proprietary knowledge and specific domain constraints."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MICROSOFT AZURE: IQ AGENT CONTEXT",
+            "points": [
+                "Microsoft Azure has launched Microsoft IQ to provide agents with shared business context, ensuring reasoning and actions are strictly aligned with organizational data.",
+                "The infrastructure update introduces new AMD-powered AI and HPC virtual machines to support high-demand inference and large-scale technical computing requirements.",
+                "Enterprise DevOps workflows are being optimized through agentic tools that unify developer and IT workflows, reducing friction in deploying AI-powered applications at scale.",
+                "These enhancements allow organizations to build intelligent, enterprise-ready systems that can securely navigate complex internal ecosystems and workflows without manual intervention."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TSMC: LEADERSHIP SILICON ROADMAP",
+            "points": [
+                "TSMC is scaling its leadership silicon roadmap, focusing on A14 with NanoFlex and A16 nanosheet technology to power next-generation AI and HPC applications.",
+                "Innovative backside power solutions are being deployed to meet the extreme energy efficiency requirements of advanced AI models and dense computational datacenters.",
+                "The company remains the critical enabler of the AI boom, providing the high-volume manufacturing foundation for the world's leading semiconductor and AI chipmakers.",
+                "TSMC\u2019s continued investment in 3D IC design and advanced packaging is crucial for sustaining Moore\u2019s Law and delivering the performance density needed for AGI."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
