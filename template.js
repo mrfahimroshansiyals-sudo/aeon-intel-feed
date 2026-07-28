@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "SYSTEMS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SSI SUPERINTELLIGENCE PARTNERSHIP",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "Nvidia and Safe Superintelligence establish a multi-year alliance to design custom physical computing environments for frontier intelligence.",
-                "The deployment accelerates training times by forty percent through unified hardware systems and specialized liquid-cooled supercomputers.",
-                "This infrastructure integrates sovereign networking protocols directly within deep safety-aligned clusters to prevent multi-agent alignment failures.",
-                "Global enterprises gain immediate access to validated safe supercomputing systems for massive multi-modal business model scaling."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
-            "points": [
-                "OpenAI releases GPT-5.6 showcasing advanced reasoning capabilities that scale autonomously across highly complex multi-modal enterprise systems.",
-                "System integration tests indicate a fifty percent efficiency gain in complex autonomous agent workflows and automated coding tasks.",
-                "The model incorporates novel self-improving safety protocols that dynamically identify and isolate rogue agentic behaviors within network nodes.",
-                "Software developers can deploy highly reliable agent structures for long-horizon task execution with reduced token-cost footprints."
+                "OpenAI launched GPT-5.6 delivering enterprise-grade frontier intelligence scaled specifically for ambitious autonomous workflow environments.",
+                "The model utilizes advanced reasoning matrices to execute complex multi-step transactional goals across decentralized software platforms.",
+                "Developers can integrate GPT-5.6 directly to deploy highly persistent agent networks within sovereign hybrid cloud architectures.",
+                "Industry leaders predict this update will significantly accelerate the obsolescence of brittle non-agentic legacy software layers."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "AMD: KOREAN SOVEREIGN INFRASTRUCTURE",
+            "id": 2,
+            "heading": "ANTHROPIC: OPUS 5 EFFICIENCY",
             "points": [
-                "AMD partners with South Korea's Ministry of Science to build a highly optimized sovereign artificial intelligence hardware ecosystem.",
-                "Local data centers receive customized GPU compute units boosting regional processing speeds by over thirty-five percent overall.",
-                "The framework implements open-source ROCm software stacks to bypass proprietary dependencies and secure national infrastructure pipelines.",
-                "Public sector developers can confidently compile regional models within secure compliance boundaries mandated by upcoming global regulations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: CLAUDE OPUS 5 AGENTIC UPGRADE",
-            "points": [
-                "Anthropic launches Opus five delivering massive architectural improvements in code generation speed and long-horizon complex agent planning.",
-                "Enterprise testing demonstrates a thirty percent reduction in execution latency for autonomous multi-step software development pipelines.",
-                "The model utilizes advanced mathematical alignment layers to restrict erratic outputs and ensure reliable structural behavior across runtimes.",
-                "Enterprise tech leaders can rapidly scale localized agent operations without risking security degradation or operational system failure."
+                "Anthropic launched Claude Opus 5 introducing unmatched efficiency upgrades for enterprise-grade software coding and autonomous agent systems.",
+                "Operational metrics indicate a massive reduction in token cost while boosting accuracy across highly complex mathematical pipelines.",
+                "The underlying architecture enables seamless deployment of customized domain tools optimized for safety-critical research and engineering.",
+                "CTOs expect this release to lower development overhead while boosting productivity within distributed cloud software engineering groups."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NEURA ROBOTICS: PHYSICAL AI ACQUISITION",
+            "id": 3,
+            "heading": "NVIDIA: SSI PARTNERSHIP",
             "points": [
-                "Neura Robotics launches its new Physical AI Training Center to collect real-world physical interaction data for robotic systems.",
-                "The physical testing facility doubles the speed of data synthesis needed to train next-generation industrial humanoid robots.",
-                "System designs leverage university partnerships to integrate edge-based reinforcement learning directly into distributed neural controller units.",
-                "Manufacturing companies can expect reliable robot deployments across assembly plants up to six months ahead of schedule."
+                "NVIDIA and Ilya Sutskever's Safe Superintelligence Inc announced a long-term strategic partnership to accelerate safe superintelligence research.",
+                "The alliance combines custom advanced AI supercomputing with breakthrough mathematical alignment frameworks to secure deep frontier training.",
+                "Engineering teams will leverage specialized hardware clusters to develop foundational models with robust safety boundaries against exploitation.",
+                "Strategic analysts believe this partnership establishes the premier infrastructure foundation for scaling next-generation safe cognitive computing platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: INSTINCT MI450 DEPLOYMENT",
+            "points": [
+                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series GPU hardware clusters.",
+                "This massive deployment significantly scales cloud processing capacities designed for highly complex, multi-agent enterprise workloads.",
+                "The hardware integrates seamlessly with open-source software libraries, providing flexible, non-proprietary acceleration across diverse cloud environments.",
+                "Analysts predict this partnership will challenge current market monopolies, lowering total cost of ownership for deep learning projects."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "DEEPMIND: MULTI-MODEL ECOSYSTEM",
+            "points": [
+                "Google DeepMind unveiled Gemini 3.5 and Gemini 3.6 Flash models alongside the high-efficiency Nano Banana 2 Lite.",
+                "The models optimize compute-to-intelligence ratios, slashing latency margins for high-volume transactions across decentralized enterprise edge platforms.",
+                "Integrating these lightweight models allows developers to orchestrate localized micro-agent systems without consuming excessive datacenter power grids.",
+                "Product managers anticipate a surge in real-time consumer applications driven by these highly cost-efficient, responsive edge technologies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: AGENT TOOLKIT PHYSICS OPTIMIZATION",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
             "points": [
-                "Nvidia adds PhysicsNeMo and CUDA-X libraries to its developer toolkit to transform real-world simulation and autonomous physical engineering.",
-                "Computational design iterations drop by seventy percent using physics-aware agents capable of modeling complex thermodynamic behaviors.",
-                "The system couples high-performance rendering engines with neural operators to bypass slow traditional finite element analysis routines.",
-                "Engineering teams can accelerate industrial design pipelines and slash mechanical validation costs across aerospace and automotive fields."
+                "Mistral AI launched Robostral Navigate alongside Mistral OCR 4, introducing highly capable long-horizon agent systems.",
+                "The software processes dense, multi-structured documents to automate complex multi-step tasks across sovereign cloud infrastructures.",
+                "Organizations can easily customize these models to deploy private autonomous agents while maintaining complete transactional data residency.",
+                "Enterprises expect these tools to dramatically streamline document operations within tightly regulated financial and legal sectors globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURE ALLIANCE: DECENTRALIZED SAFETY STANDARDS",
+            "heading": "ANTHROPIC: STATELESS MCP",
             "points": [
-                "Tech leaders initiate the Open Secure AI Alliance to standardize safety frameworks for open-source model development worldwide.",
-                "The alliance aims to establish uniform vulnerability tracking systems protecting critical cloud infrastructure from autonomous model exploits.",
-                "Security standards dictate using isolated sandboxes and zero-trust verification parameters before executing external network agent transactions.",
-                "Chief Information Officers gain audited guidelines to confidently deploy highly secure open-source models inside legacy cloud structures."
+                "The Model Context Protocol is transitioning to a stateless architecture to simplify enterprise scaling across cloud-native environments.",
+                "This shift eliminates complex session-tracking bottlenecks, allowing millions of autonomous agents to securely query dynamic databases concurrently.",
+                "Developers can now leverage remote MCP servers to manage context orchestration cleanly without maintaining heavy infrastructure states.",
+                "Software architects predict this architectural change will rapidly accelerate the standardized integration of diverse multi-vendor agent systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
