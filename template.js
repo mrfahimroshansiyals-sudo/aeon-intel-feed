@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AGENTIC AI",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: PARTNERING FOR SUPERINTELLIGENCE",
+            "heading": "ANTHROPIC: POLICY EXPANSION",
             "points": [
-                "NVIDIA and Safe Superintelligence Inc. have officially announced a long-term strategic partnership aimed at accelerating the rapid growth of frontier AI development.",
-                "The alliance focuses on scaling infrastructure and research capabilities to push the boundaries of current superintelligence models through highly specialized compute resources.",
-                "This collaboration represents a significant leap in hardware-software integration for next-generation systems, targeting the secure development of safe, highly autonomous AI entities.",
-                "Industry analysts anticipate this union will establish a new benchmark for competitive compute capacity in the race toward achieving reliable general-purpose artificial intelligence."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: OPUS 5 ARCHITECTURAL LEAP",
-            "points": [
-                "Anthropic has officially released Opus 5, featuring advanced coding capabilities and enhanced agentic reasoning designed for demanding, complex professional enterprise workflows.",
-                "The model integrates deeper context management to facilitate superior task performance across multi-step objectives, significantly reducing latency in sophisticated information synthesis tasks.",
-                "Engineers report that the architectural improvements focus on reliability and auditability, catering specifically to sectors requiring high-precision outputs and secure environment execution.",
-                "Market deployment of Opus 5 positions Anthropic as a primary contender in the high-stakes battle for dominance in autonomous corporate intelligence platforms."
+                "Anthropic officially rejects mandates for open-weight model restrictions in favor of targeted hardware export controls.",
+                "Strategic focus pivots toward verifiable safety benchmarks and rigorous testing protocols for all future frontier models.",
+                "Company leadership maintains that open ecosystems drive innovation while maintaining necessary sovereign chip security safeguards.",
+                "Industry analysts interpret this as a definitive stance against broad model bans in favor of precision policy."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER EXPANSION",
+            "id": 2,
+            "heading": "NVIDIA: AGENT ECOSYSTEM",
             "points": [
-                "Google DeepMind has introduced the Gemini 3.5 Flash Cyber model, representing a new pillar in its strategy for high-efficiency, action-oriented frontier intelligence.",
-                "The latest system integration prioritizes multi-agent coordination, enabling models to transact and negotiate within complex digital environments with unprecedented internal autonomy.",
-                "Researchers emphasize the importance of monitoring multi-agent systems to mitigate emergent risks, advocating for robust safety frameworks as millions of agents begin interacting.",
-                "The firm's commitment to AGI involves developing world models that simulate real-world physics and scientific discovery to solve foundational root-node energy problems."
+                "NVIDIA expands its Agent Toolkit to include PhysicsNeMo and CUDA-X libraries for advanced industrial engineering simulations.",
+                "New architecture supports seamless integration of physics-based reasoning into agentic workflows for global hardware designers.",
+                "Deployment aims to transform manual CAD processes into automated, intelligent engineering pipelines at the silicon level.",
+                "Market response indicates strong adoption of agent-ready libraries for next-generation GPU and CPU architecture development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: SOVEREIGN AI INFRASTRUCTURE GROWTH",
+            "id": 3,
+            "heading": "AMD: STRATEGIC PARTNERSHIPS",
             "points": [
-                "AMD and the Korean Ministry of Science have launched a strategic initiative to build a sovereign AI ecosystem powered by open-standard silicon technology.",
-                "The collaboration integrates technical expertise and open software stacks to localize AI training, reducing reliance on monolithic foreign cloud and compute architectures.",
-                "This regional infrastructure push leverages AMD's heterogeneous compute portfolio, including Instinct GPUs and EPYC CPUs, to optimize performance for national-level AI research.",
-                "By promoting an open ecosystem, AMD enables nations to retain control over their AI hardware pipelines and protect critical digital intellectual property investments."
+                "AMD deepens strategic alignment with Anthropic to deploy two gigawatts of Instinct MI450 GPUs globally.",
+                "Partnership creates a unified compute foundation spanning silicon, software, and end-to-end AI factory infrastructure models.",
+                "Emphasis remains on open ecosystem compatibility to foster flexible deployment across diverse cloud and edge environments.",
+                "Expansion efforts solidify AMD as a primary challenger in large-scale enterprise AI infrastructure procurement cycles."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TSMC: A16 NANOSHEET POWER EFFICIENCY",
+            "id": 4,
+            "heading": "MISTRAL: AUTONOMOUS AGENTS",
             "points": [
-                "TSMC has fast-tracked the A16 nanosheet production timeline, featuring integrated backside power solutions to meet the surging demand for high-performance AI inference silicon.",
-                "The innovative design optimizes power delivery, allowing for lower heat dissipation and higher transistor density required by next-generation massive-scale AI training clusters.",
-                "Leading cloud providers are prioritizing A16-based chipsets to improve total cost of ownership as AI factory deployments scale across global enterprise data centers.",
-                "This silicon-level advancement represents a key technical milestone for the industry as it moves toward sustained multi-modal agentic workloads and massive edge computing."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MISTRAL AI: FRONTIER AGENT ORCHESTRATION",
-            "points": [
-                "Mistral AI has launched Vibe, an agentic framework specialized for long-horizon work that integrates enterprise knowledge search and autonomous coding tools natively.",
-                "The platform provides unified orchestration, allowing enterprises to maintain control while deploying agents that perform multi-step scheduling and persistent memory operations securely.",
-                "Mistral's focus on Studio and Forge allows teams to build and align custom models, ensuring transparency and accountability for mission-critical industrial applications.",
-                "The architecture supports full deployment portability from the edge to the cloud, giving organizations the flexibility to run frontier AI on localized infrastructure."
+                "Mistral introduces Vibe, an AI agent framework specifically engineered for complex, long-horizon enterprise operational tasks.",
+                "System incorporates multi-step scheduling, persistent memory, and native tool usage for seamless organizational workflow automation.",
+                "Architecture prioritizes enterprise-grade observability and deployment portability from edge devices to centralized cloud clusters.",
+                "Technical roadmap includes deep integration with code translation and automated CI/CD pipeline management for developers."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "IEEE: COGNITIVE RADAR SYSTEM EVOLUTION",
+            "id": 5,
+            "heading": "GOOGLE CLOUD: AGENTIC SCALE",
             "points": [
-                "New research published by IEEE highlights the critical integration of cognitive AI systems into radar and electronic warfare platforms to improve detection accuracy.",
-                "These systems use machine learning to adapt to real-time signal environments, enabling dynamic threat mitigation in complex electromagnetic combat spaces and aerospace theaters.",
-                "Engineers are shifting toward decentralized intelligence in sensors, allowing localized processing that reduces latency and enhances situational awareness for modern national defense.",
-                "The convergence of hardware agility and cognitive software defines the next stage in military technology, prioritizing autonomous resilience against highly sophisticated electronic jamming attacks."
+                "Google expands AI infrastructure capabilities with the rollout of Gemini 3.6 Flash and 3.5 Flash-Lite models.",
+                "New agentic Data Cloud enables real-time system orchestration and governance for enterprise-grade autonomous application development.",
+                "Infrastructure investment focuses on scaling compute resources to support the rising demand for agentic reasoning tasks.",
+                "Strategic launch accelerates the transition from simple token consumption to high-value return on investment frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SEAGATE: AI INFRASTRUCTURE",
+            "points": [
+                "Seagate reports strong earnings, signaling a recovery in the enterprise storage sector driven by AI demand.",
+                "Data-intensive AI models continue to necessitate massive investments in high-capacity storage and optimized memory architectures.",
+                "Market analysts view the results as validation for the hardware-layer expansion across global data center environments.",
+                "Financial performance underscores the critical interdependency between high-performance storage and successful generative AI factory deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TECHTARGET: DATA STANDARDS",
+            "points": [
+                "Development of stateless Model Context Protocol (MCP) marks a shift toward standardized enterprise-level AI data access.",
+                "New standards address the critical bottleneck of contextual awareness for agents deployed in production environments.",
+                "Industry experts emphasize that future AI utility hinges on bridging the gap between proprietary data and models.",
+                "Adoption of universal protocols is expected to streamline AI orchestration and reduce vendor-specific lock-in risks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
