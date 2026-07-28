@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE NEURAL",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "SOVEREIGN ENTERPRISE",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: ANTHROPIC GPU EXPANSION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "points": [
-                "AMD and Anthropic partnered to deploy up to two gigawatts of Instinct MI450 series GPU clusters.",
-                "The multi-gigawatt infrastructure initiative aims to dramatically scale up frontier model training and execution capacity.",
-                "Integrating AMD open ROCm software ecosystem provides flexible options to avoid proprietary hardware lock-in.",
-                "Analysts predict this partnership will establish a viable secondary pipeline for massive hyperscale AI compute."
+                "OpenAI launches GPT-5.6, a frontier intelligence model engineered to scale autonomously with enterprise ambitions.",
+                "The model expands multi-modal task efficiency by forty percent, dramatically lowering total operational training costs.",
+                "Dynamic context windows enable deep reasoning across massive legacy codebases without encountering typical performance degradation.",
+                "Enterprise developers can now build highly persistent agentic workflows with minimized orchestration overhead and latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
             "points": [
-                "NVIDIA announced a long-term strategic partnership to accelerate Safe Superintelligence's compute infrastructure and growth.",
-                "The collaboration focuses on building secure computing environments specifically designed for advanced superintelligence development.",
-                "SSI will leverage custom NVIDIA GPU clusters to scale safety-aligned frontier model training runs efficiently.",
-                "This alliance cements NVIDIA's dominance in hosting the next generation of highly specialized safety-focused AI labs."
+                "NVIDIA announces a landmark strategic partnership with Ilya Sutskever's Safe Superintelligence to accelerate safe scaling.",
+                "The five billion dollar capital collaboration secures dedicated high-performance compute clusters for advanced safety research.",
+                "Integration targets direct alignment protocols within neural architectures to prevent catastrophic failures in superintelligent agents.",
+                "Broad industrial partners will gain access to validated safety frameworks designed for hyperscale deployment scenarios."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: KOREA SOVEREIGN ECOSYSTEM",
+            "heading": "MICROSOFT: AZURE IQ CONNECTIVITY",
             "points": [
-                "AMD partnered with Korea's Ministry of Science and ICT to co-develop a national sovereign AI platform.",
-                "The initiative provides advanced compute hardware and open ROCm software to support local technical ecosystems.",
-                "Developing localized infrastructure protects domestic data integrity while reducing reliance on centralized overseas hyperscalers.",
-                "This framework establishes a replicable model for public-private partnerships in regional architectural sovereignty."
+                "Microsoft introduces Microsoft IQ to provide unified business context and secure data routing for autonomous agents.",
+                "The platform optimizes token consumption by thirty percent through native integration with corporate databases and workflows.",
+                "Decentralized identity verification prevents unauthorized database transactions during automated cross-system scheduling and coordination tasks.",
+                "Enterprise architects can deploy secure, context-aware digital workers across heterogeneous cloud infrastructures with confidence."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "points": [
+                "Anthropic releases Claude Opus Five, delivering a significant step change in agentic capability and code generation.",
+                "The updated model architecture achieves a forty-five percent reduction in inference costs for enterprise-scale professional workloads.",
+                "Enhanced multi-step reasoning capabilities allow the model to autonomously design, test, and debug complex software projects.",
+                "Organizations can immediately deploy highly efficient background coding agents to modernize legacy core infrastructure systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE: FLASH CYBER DEPLOYMENT",
+            "points": [
+                "Google DeepMind launches Gemini Three Point Five Flash Cyber, a model fine-tuned specifically for automated defense.",
+                "Real-time threat analysis capabilities reduce critical incident response times from hours to milliseconds across global networks.",
+                "The compact architecture integrates directly into edge security systems to intercept automated attacks before containment breaches.",
+                "Chief Information Security Officers can deploy self-healing firewalls capable of patch generation under active zero-day exploits."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: ANTHROPIC COMPUTE PACT",
+            "points": [
+                "AMD and Anthropic forge a strategic partnership to deploy up to two gigawatts of Instinct accelerators.",
+                "The massive hardware deployment utilizes next-generation Instinct MI450 Series GPUs to power future frontier foundation models.",
+                "This open ecosystem collaboration establishes a highly competitive alternative to proprietary hardware stacks in hyperscale environments.",
+                "Enterprise developers gain immediate performance parity and flexible deployment options through standardized open-source software libraries."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: SECURE ALLIANCE FORMATION",
-            "points": [
-                "Global technology leaders established the Open Secure AI Alliance to standardize open-source safety and security.",
-                "The alliance addresses critical vulnerabilities in distributed enterprise infrastructure and open model weights deployment.",
-                "Members will collaborate on unified security benchmarks to defend against automated, model-driven infrastructure cyberattacks.",
-                "Standardizing these defensive frameworks will safeguard global supply chains against highly sophisticated agentic exploits."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NEURA ROBOTICS: PHYSICAL AI",
-            "points": [
-                "Neura Robotics collaborated with RWTH Aachen University to launch a dedicated physical AI training center.",
-                "The facility generates high-fidelity robotic training data required to train complex physical foundation models.",
-                "Bridging simulation and reality accelerates the deployment of intelligent humanoid robots into industrial workflows.",
-                "This research hub will serve as a primary physical data generator for next-generation manufacturing platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ANTHROPIC: OPUS UPGRADE",
-            "points": [
-                "Anthropic officially released Claude Opus Five delivering significant efficiency gains and stronger coding capabilities.",
-                "The upgraded model showcases advanced multi-step planning and improved performance for autonomous agentic workflows.",
-                "Businesses can deploy the model to orchestrate complex professional tasks with lower computational overhead.",
-                "This release intensifies competition among frontier model developers aiming for hyper-efficient enterprise application layers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "ANTHROPIC: MCP SCALING ARCHITECTURE",
+            "heading": "ASML: HIGH NA PRODUCTION",
             "points": [
-                "The Model Context Protocol is transitioning to a stateless design to simplify enterprise-scale integrations.",
-                "Shifting to stateless operations removes state-management bottlenecks and enables seamless cloud-native agent orchestration.",
-                "Developers must modify existing stateful implementations to align with the streamlined scaling architecture guidelines.",
-                "This architectural shift will accelerate the adoption of interoperable, multi-agent frameworks across diverse ecosystems."
+                "ASML reaches a critical readiness milestone as High NA EUV systems begin high-volume logic chip manufacturing.",
+                "The advanced lithography machines enable semiconductor fabs to produce next-generation two-nanometer logic devices with high yield.",
+                "Backside power delivery integration is optimized through precise nanoscale patterning to maximize overall energy efficiency metrics.",
+                "Chipmakers can now scale production of dense accelerators required to sustain exponential demand for AI factories."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
