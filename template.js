@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS FRONTIER",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "GLOBAL SEMICONDUCTOR AI",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 ENTERPRISE LAUNCH",
+            "heading": "TSMC: ADVANCED SILICON ROADMAP",
             "points": [
-                "OpenAI launched GPT-5.6 delivering highly scalable frontier intelligence engineered for complex enterprise orchestration tasks.",
-                "Early benchmarks indicate significant efficiency gains across multi-step execution workflows compared to previous legacy systems.",
-                "The model establishes a robust foundation for building high-signal autonomous agents operating across federated networks.",
-                "Organizations can immediately deploy these scalable models to streamline complex decision-making pipelines and operations."
+                "TSMC has finalized the A16 nanosheet architecture featuring integrated super power rail technology to maximize performance.",
+                "The firm is optimizing these high-performance compute nodes specifically for massive generative AI training and inference requirements.",
+                "Strategic output expansion ensures that global fab infrastructure maintains pace with exponential demand for next-generation silicon chips.",
+                "Market positioning confirms TSMC's role as the central hardware foundation for the ongoing global AI compute race."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: SEMICONDUCTOR EXPORT ADVOCACY",
+            "heading": "MISTRAL: AGENTIC WORKFLOW SHIFT",
             "points": [
-                "Anthropic rejected broad bans on open-weight AI models while advocating for strict physical hardware export controls.",
-                "This policy proposal targets state-level threat actors through targeted semiconductor restrictions rather than restricting developers.",
-                "Strategic positioning emphasizes public safety testing to prevent catastrophic model misuse across highly sensitive industries.",
-                "Global regulators must balance open-source innovation security against architectural vulnerabilities within deep neural network deployment."
+                "Mistral has launched its Vibe agent platform to enable long-horizon, autonomous multi-step task execution for enterprise.",
+                "The architecture allows for deep integration with proprietary company knowledge bases to facilitate complex document synthesis.",
+                "Vibe for code provides terminal-aware automated generation to accelerate CI/CD workflows and legacy code translation pipelines.",
+                "Deployment flexibility from edge to cloud ensures Mistral maintains high adoption across regulated financial and public sectors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "VISA: AGENTIC WORKFORCE TRANSITION",
+            "heading": "AMD: OPEN AI COMPUTE ECOSYSTEM",
             "points": [
-                "Visa announced plans to slash twenty-six hundred jobs to optimize global payment processing operations.",
-                "This seven percent workforce reduction highlights the rapid integration of agentic automation across financial networks.",
-                "Migrating legacy operations to autonomous AI agents significantly decreases overhead costs while increasing transactional efficiency.",
-                "Financial institutions must rapidly retrain existing staff to manage advanced AI-driven customer support and transaction pipelines."
+                "AMD has deepened its strategic partnership with Anthropic to deploy two gigawatts of Instinct MI450 Series GPUs.",
+                "The collaboration expands AMD's reach across silicon, networking, and software stacks to challenge current infrastructure monopolies.",
+                "New heterogeneous compute platforms facilitate physical AI development for industrial automation and edge-based robotics applications.",
+                "Enterprise focus on open-source software integration helps reduce long-term TCO for large-scale data center AI deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: SOVEREIGN KOREAN COMPUTE",
+            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
             "points": [
-                "AMD partnered with South Korea's Ministry of Science to build and scale a sovereign computing infrastructure.",
-                "The initiative provides high-performance hardware and open-source software libraries to foster domestic technology development.",
-                "By localizing computational resources, Korea secures critical data residency while mitigating geopolitical dependency on external platforms.",
-                "Enterprise developers gain direct access to advanced GPU clusters optimized specifically for regional market requirements."
+                "NVIDIA has integrated PhysicsNeMo and CUDA-X libraries into its agent toolkit to enhance physical AI simulation.",
+                "Strategic partnerships with Safe Superintelligence Inc aim to accelerate long-term growth in frontier-level AI safety research.",
+                "Expanded infrastructure investment in Korea through NEURAL and Brookfield signals massive regional scaling for sovereign AI factories.",
+                "New software libraries allow developers to engineer and build complex AI agents with greater precision and efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE ALLIANCE",
+            "heading": "GOOGLE DEEPMIND: AGENTIC SCALE",
             "points": [
-                "Nvidia announced a long-term strategic partnership with Safe Superintelligence to accelerate advanced AI alignment research.",
-                "The alliance couples massive GPU-accelerated computing infrastructure with safety-first neural network architecture training methodologies.",
-                "This collaboration ensures that future superintelligent models remain controllable during rapid scaling phases.",
-                "Researchers expect the partnership to establish standard validation frameworks for secure high-capacity autonomous software agents."
+                "DeepMind has released Gemini 3.6 Flash and Cyber models to maximize intelligence-per-parameter for diverse AI agents.",
+                "The research firm is prioritizing bioresilience and multi-agent systems to secure the future of autonomous digital transactions.",
+                "New frameworks for Co-Scientist collaborative research demonstrate a pivot toward deep-domain expert AI in scientific discovery workflows.",
+                "Commitments to large-scale data center infrastructure enable the agentic era to function with high reliability and throughput."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CIO: ORBITAL EDGE INFRASTRUCTURE",
+            "heading": "ANTHROPIC: FRONTIER MODEL UPDATES",
             "points": [
-                "Satellites are transitioning into autonomous AI agents, establishing orbital edge data centers as the next infrastructure frontier.",
-                "In-orbit processing reduces latency by analyzing captured spatial data directly on the device before transmission.",
-                "Deploying containerized microservices in space bypasses terrestrial bandwidth bottlenecks and strengthens real-time defense communication systems.",
-                "Aerospace telecommunications architectures must evolve to support secure distributed stateful processing across low-Earth orbit constellations."
+                "Anthropic has debuted Opus 5, featuring significantly improved coding capabilities and agentic task orchestration for professional users.",
+                "The company continues to champion responsible scaling policies alongside aggressive investment in AI safety and governance research.",
+                "Claude Science platform integration provides researchers with auditable, tool-linked environments for complex scientific modeling and data analysis.",
+                "Strategic focus on long-term safety ensures models remain robust even as they encounter frontier-level operational requirements globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO: REDUNDANT ENTERPRISE API RECTIFICATION",
+            "heading": "MICROSOFT AZURE: ENTERPRISE CONTEXT",
             "points": [
-                "Enterprises are wasting massive budgets on redundant API requests that query identical AI models repeatedly.",
-                "Audits reveal that failure to cache semantic queries results in thousands of unnecessary duplicate model transactions.",
-                "Implementing smart routing and decentralized semantic caching layers mitigates runaway consumption costs for enterprise software architectures.",
-                "Chief Information Officers must deploy centralized API gateways to monitor, optimize, and secure all LLM request pipelines."
+                "Microsoft has introduced Azure IQ to provide shared business context for AI agents across enterprise workflows.",
+                "New AMD-powered virtual machines specifically support high-demand technical computing and AI inference workloads on Azure infrastructure.",
+                "Foundry development environments allow teams to build, evaluate, and deploy generative AI solutions with greater integration control.",
+                "Strategic focus on agentic DevOps ensures that organizations maintain secure and scalable production environments for mission-critical AI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
