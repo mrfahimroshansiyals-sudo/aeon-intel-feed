@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AI",
+        "titleWhite": "SOVEREIGN AI INFRASTRUCTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 LAUNCH",
+            "heading": "MICROSOFT: CYBERSEC MODEL LAUNCH",
             "points": [
-                "OpenAI deploys GPT-5.6 delivering frontier intelligence designed to scale exponentially with enterprise cognitive workloads.",
-                "The model achieves unparalleled efficiency benchmarks in code generation, agentic workflow optimization, and multi-step reasoning.",
-                "Architectural updates focus on deep context retention, sub-quadratic scalability, and real-time environment interaction capabilities.",
-                "Enterprise implementation patterns leverage integrated safety safeguards preventing model misalignment during high-frequency autonomous execution."
+                "Microsoft launched a cheaper cybersecurity model targeting enterprise defensive infrastructure to directly compete with GPT-5.6.",
+                "The deployment decreases operational token expenses significantly, offering automated real-time incident mitigation across legacy cloud frameworks.",
+                "This strategic shift highlights intense rivalry between hyperscalers seeking dominance in sovereign, fine-tuned agentic defense platforms.",
+                "Chief Information Officers must recalibrate cybersecurity budgets as high-performance, cost-effective models displace legacy endpoint security architectures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "points": [
+                "OpenAI released its frontier intelligence model GPT-5.6, engineered for complex multi-step reasoning and autonomous agentic task execution.",
+                "Integrations streamline complex business logic workflows, reducing manual transaction latency by automating high-density system operations seamlessly.",
+                "Scaling intelligence-per-parameter represents a massive architectural shift toward fully autonomous, highly cooperative digital enterprise environments.",
+                "Enterprise architects should immediately design robust orchestration frameworks to govern thousands of transacting autonomous agents safely."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "META: ACCELERATED AI ADVOCACY",
-            "points": [
-                "Mark Zuckerberg advocates for rapid domestic artificial intelligence development rather than implementing strict regulatory restrictions.",
-                "The open-source model strategy aims to position domestic infrastructure as the foundational global operating standard.",
-                "Unrestricted deployment of frontier models is framed as critical for preserving national technological sovereignty.",
-                "Global architectural alignment hinges on distributing lightweight accessible code bases across sovereign enterprise development networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "SK HYNIX: MEMORY OVERPRODUCTION RISK",
+            "heading": "GOOGLE DEEPMIND: SCIENTIFIC RESTRUCTURING",
             "points": [
-                "SK Hynix registers a sixfold profit surge driven by high-bandwidth memory demand despite missing Q2 revenue expectations.",
-                "Market volatility increases as capital-intensive fabrication expansions raise investor anxiety over potential semiconductor supply surpluses.",
-                "Executive leadership maintains that persistent demand for AI infrastructure limits immediate high-volume memory oversupply threats.",
-                "Next-generation hardware deployments depend heavily on co-packaged optics and silicon interposer integration milestones."
+                "Google DeepMind dismantled its Nobel-winning AlphaFold team to prioritize a broader race in multi-disciplinary scientific AI systems.",
+                "Reallocating elite research talent accelerates the development of specialized models targeting biology, materials science, and fusion energy.",
+                "This pivot reflects a transition from solving isolated biological puzzles to constructing unified, physics-informed world simulation platforms.",
+                "Scientific research organizations must quickly adapt to platform-based AI partnerships rather than relying on static, specialized tools."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "THOMA BRAVO: DEBT MARKET SHOCK",
+            "heading": "AMD: ANTHROPIC COMPUTE ALLIANCE",
             "points": [
-                "Debt markets delay a five billion dollar refinancing package due to heightened risk premium concerns around AI investments.",
-                "Investor skepticism intensifies regarding the direct returns on massive capital expenditures for software enterprise integration.",
-                "Leveraged finance structures face stringent evaluation as hardware scaling costs outpace immediate software validation metrics.",
-                "Financial institutions demand clear validation of software monetization strategies before underwriting massive systemic infrastructure transitions."
+                "AMD announced a landmark strategic partnership with Anthropic, deploying up to two gigawatts of Instinct MI450 GPUs.",
+                "This massive deployment significantly scales frontier model training capacity, mitigating the industry-wide bottleneck of advanced silicon shortages.",
+                "Building extensive, dedicated physical data centers establishes a sovereign hardware foundation for Claude's future multi-modal agentic operations.",
+                "Enterprise buyers can anticipate highly competitive alternative compute options, reducing long-term dependence on NVIDIA's dominant hardware stack."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL: ROBOSTRAL NAVIGATE SYSTEM",
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
             "points": [
-                "Mistral launches Robostral Navigate establishing an integrated system of record for operational prompts and cognitive skills.",
-                "The platform optimizes long-horizon autonomous tasks through persistent memory storage and direct API tool execution.",
-                "Enterprise developers acquire unified control over agent orchestration, automated code generation, and localized verification tests.",
-                "Localized execution frameworks minimize latency while preserving strict compliance with emerging sovereign data governance mandates."
+                "NVIDIA secured a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence Inc. to accelerate secure model development.",
+                "Direct hardware-level optimization ensures unmatched compute performance while concurrently embedding alignment and safety protocols inside silicon layers.",
+                "Aligning elite scientific talent with dominant hardware providers establishes a highly secure infrastructure foundation for future superintelligence.",
+                "Regulatory bodies and industry leaders will likely treat this alliance as the primary benchmark for secure infrastructure deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: NANOFLEX A14 ARCHITECTURE",
+            "heading": "TECHTARGET: STATELESS MCP UPGRADE",
             "points": [
-                "TSMC details its upcoming A14 NanoFlex Pro process node targeting ultra-high efficiency for next-generation edge silicon.",
-                "The architecture integrates innovative backside power distribution systems designed to maximize energy-per-transistor performance.",
-                "Advanced nanosheet designs optimize power delivery rails specifically for high-density tensor processing and model training.",
-                "Fab scheduling aligns with aggressive timelines for packaging high-performance computing chiplets for hyperscale cloud customers."
+                "The Model Context Protocol introduced a stateless update, significantly enhancing enterprise readiness for production-grade agentic data orchestration.",
+                "While resolving major scaling issues, this release introduces breaking changes requiring engineering teams to refactor existing integrations.",
+                "Standardizing metadata transmission formats is crucial for enabling seamless communication between disparate enterprise databases and reasoning models.",
+                "Database administrators must rapidly upgrade connection layers to maintain continuous, secure agentic access to critical operational context."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETSCOUT: DDOS MITIGATION EXPANSION",
+            "heading": "SK HYNIX: SEMICONDUCTOR MARKET VOLATILITY",
             "points": [
-                "NetScout expands enterprise attack mitigation capacity to thirty-three terabits per second following its recent infrastructure acquisition.",
-                "The defensive upgrades integrate advanced machine learning models directly into edge routers to identify packet anomalies.",
-                "Hybrid architectural frameworks harmonize on-premises appliances with cloud-based scrubbing centers for seamless real-time traffic filtering.",
-                "Automated threat response sequences intercept polymorphic attack vectors before malicious requests degrade distributed core databases."
+                "SK Hynix missed second-quarter sales expectations but delivered surprising profits amid rising global AI chip demand.",
+                "Despite temporary financial fluctuations, high-bandwidth memory supplies remain highly constrained, indicating a prolonged period of tight hardware inventory.",
+                "Massive infrastructure expenditures by hyperscalers continue driving semiconductor production adjustments, keeping global supply chains highly volatile.",
+                "Procurement officers should secure long-term semiconductor supply agreements immediately to avoid sudden pricing shocks and deployment delays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
