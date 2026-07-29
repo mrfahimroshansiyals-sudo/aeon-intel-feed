@@ -2,33 +2,33 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "SECURE AUTONOMOUS",
-        "titleBlue": "SYSTEMS"
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "OPENAI: SECURITY BREACH",
             "points": [
-                "OpenAI launched GPT-5.6, delivering next-generation frontier intelligence designed to scale with complex enterprise agent ambitions.",
-                "The new architecture dramatically reduces latency while increasing reasoning capability for multi-step autonomous tasks.",
-                "This model establishes a new standard for high-throughput cognitive pipelines operating across massive distributed cloud frameworks.",
-                "Enterprises can now deploy highly autonomous workflows with robust safety guarantees across production environments."
+                "A massive unprecedented cyberattack targets OpenAI infrastructure prompting immediate defensive coordination with top security vendors.",
+                "Enterprise security teams now mobilize CrowdStrike and Palo Alto Networks frameworks to defend critical agentic developer nodes.",
+                "The vulnerability highlights critical defensive weaknesses in modern centralized large language model application programming interfaces.",
+                "Operational leaders must implement zero trust protocols across all third party artificial intelligence automation integrations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SNOWFLAKE: CORTEX AI GATEWAY",
+            "heading": "SNOWFLAKE: CORTEX GATEWAY",
             "points": [
-                "Snowflake launched the Cortex AI Gateway to provide runtime oversight, activity tracking, and cost control for autonomous agents.",
-                "The governance layer delivers real-time visibility into agentic actions, resource allocation, and token consumption metrics.",
-                "This control plane allows IT leaders to enforce compliance and prevent runaway API expenses across multi-model deployments.",
-                "Organizations can safely scale decentralized AI workflows while maintaining absolute operational authority and financial oversight."
+                "Snowflake launches Cortex AI Gateway to provide runtime governance and tracking of autonomous enterprise agents.",
+                "The runtime security layer monitors overall token consumption patterns to prevent runaway query loops and costs.",
+                "Organizations gain comprehensive visibility into multi agent workflows by centralizing model access and analytical tool usage.",
+                "Administrators can safely deploy agentic architectures while maintaining strict budget thresholds and compliance parameters."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,12 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "NIMBLE: WEB SEARCH AGENTS",
+            "heading": "NIMBLE: SEARCH AGENTS",
             "points": [
-                "Nimble introduced autonomous Web Search Agents designed to harvest contextually relevant online data for enterprise analytics pipelines.",
-                "These agents dynamically learn domain-specific use cases to bypass traditional scraping bottlenecks and optimize data ingestion.",
-                "Integrating this technology enhances retrieval-augmented generation systems by ensuring a continuous stream of real-time market telemetry.",
-                "Data teams can significantly reduce manual curation overhead while feeding high-signal information directly into predictive models."
+                "Nimble introduces autonomous Web Search Agents designed to harvest contextually relevant online data for enterprise systems.",
+                "These agents dynamically learn domain specific use cases to feed real time analytical engines and retrieval pipelines.",
+                "Lack of operational context in data collection remains a primary driver of agent failure and hallucination.",
+                "Engineers can bypass traditional scraping limitations by deploying self learning search components across complex web architectures."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,12 +55,12 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AWS: SELF-IMPROVING AI DEAL",
+            "heading": "AWS: SCALING PARTNERSHIP",
             "points": [
-                "A prominent self-improving AI vendor secured a massive four hundred ten million dollar cloud infrastructure deal with AWS.",
-                "The partnership provides the vendor with high-scale compute capacity to train recursive, self-optimizing neural network architectures.",
-                "Leveraging AWS infrastructure accelerates the development of autonomous agent systems capable of independent skill acquisition and refinement.",
-                "This strategic investment signals growing enterprise demand for highly resilient, self-correcting software running on hyper-scale infrastructure."
+                "An enterprise AI vendor signs a massive four hundred ten million dollar cloud hosting deal with Amazon.",
+                "The strategic capital deployment aims to accelerate specialized compute clusters optimized for self improving algorithmic architectures.",
+                "Scaling iterative self training paradigms requires immense bandwidth and reliable high density hardware clusters at global scale.",
+                "Hyperscale infrastructure partnerships continue to dictate market dominance in the competitive frontier model training landscape."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,44 +71,44 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: AFFORDABLE CYBER AI",
+            "heading": "PWC: LLM HALLUCINATIONS",
             "points": [
-                "Microsoft released a cost-effective cybersecurity AI model specifically designed to rival premium competitors like Mythos and GPT-5.6.",
-                "The specialized architecture delivers rapid threat detection capabilities at a fraction of standard enterprise API consumption costs.",
-                "This release intensifies competition in the security market by lowering the financial barrier for advanced defensive AI.",
-                "Security operations centers can now execute high-volume telemetry analysis without exceeding strict operational IT budget constraints."
+                "PricewaterhouseCoopers published professional reports marred by clear AI hallucinations prompting massive structural quality audits.",
+                "The incident highlights systemic risks when automated content generation bypasses rigorous human editorial validation frameworks.",
+                "Professional service firms face extreme reputational damage if automated reasoning tools compromise analytical output integrity.",
+                "Global enterprises must mandate multi layered human validation systems for all AI generated corporate research products."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: POLICY DEFENSE STRATEGY",
+            "heading": "DATADOG: METRIC TELEMETRY",
             "points": [
-                "Anthropic formally rejected bans on open-weight models while advocating for tighter export controls on Chinese semiconductor hardware.",
-                "The policy proposal emphasizes rigorous safety testing protocols over blanket restrictions on developer ecosystem access.",
-                "This stance aims to preserve collaborative open-source innovation while safeguarding critical hardware advantages from foreign adversaries.",
-                "Global regulators must balance local software ecosystem freedom with global supply chain security and hardware-level containment policies."
+                "Datadog registers explosive stock momentum ahead of earnings fueled entirely by enterprise agentic observability demand.",
+                "Managing distributed agent clusters forces companies to scale real time network tracking and telemetry monitoring software.",
+                "The expansion of non deterministic software agents introduces complex performance bottlenecks across legacy application architectures.",
+                "Monitoring consumption metrics will become the primary driver of software as a service spending over the coming decade."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SK HYNIX: MARKET TELEMETRY",
+            "heading": "BROOKFIELD: NUCLEAR CAMPUS",
             "points": [
-                "SK Hynix reported quarterly earnings that missed analyst expectations, triggering a broader technology market stock sell-off.",
-                "Despite the lower profit metrics, the South Korean chipmaker maintains that the risk of high-bandwidth memory oversupply remains limited.",
-                "The financial results highlight the immense capital pressure on hardware manufacturers as AI infrastructure demands continue scaling.",
-                "Investors must brace for near-term volatility while the semiconductor supply chain adjusts to next-generation high-bandwidth memory standards."
+                "Brookfield partners with NextEra to transform a former nuclear weapons site into a massive data center.",
+                "The proposed campus seeks to secure independent clean energy reserves to power high density artificial intelligence grids.",
+                "Grid constraints and regulatory delays are forcing major infrastructure funds to seek creative off grid power solutions.",
+                "Securing stable carbon free power remains the absolute limiting factor for next generation intelligence cluster development."
             ],
             "imageUrl": "",
             "tags": [
