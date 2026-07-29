@@ -1,98 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "SOVEREIGN AI",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE EXPANSION",
+            "heading": "OPENAI: GPT-5.6 LAUNCH",
             "points": [
-                "NVIDIA partners with Safe Superintelligence Inc. to accelerate long-term growth and research development pathways.",
-                "New PhysicsNeMo and CUDA-X libraries expand the Agent Toolkit, enabling advanced engineering and design automation.",
-                "Strategic partnerships across South Korea, including SK Group and KAIST, accelerate national AI factory buildouts.",
-                "Expanded infrastructure focus targets high-performance physical AI applications for real-world robotics and manufacturing deployment."
+                "OpenAI deploys GPT-5.6 delivering frontier intelligence designed to scale exponentially with enterprise cognitive workloads.",
+                "The model achieves unparalleled efficiency benchmarks in code generation, agentic workflow optimization, and multi-step reasoning.",
+                "Architectural updates focus on deep context retention, sub-quadratic scalability, and real-time environment interaction capabilities.",
+                "Enterprise implementation patterns leverage integrated safety safeguards preventing model misalignment during high-frequency autonomous execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: LEADERSHIP SILICON ADVANCEMENTS",
+            "heading": "META: ACCELERATED AI ADVOCACY",
             "points": [
-                "TSMC showcases A16 Nanosheet technology with Super Power Rail to redefine high-performance computing and AI efficiency.",
-                "NanoFlex Pro integration within A14 node platforms provides enhanced flexibility for next-generation semiconductor logic designs.",
-                "Continued commitment to OIP ecosystem collaboration fuels 3D IC design advancements for demanding artificial intelligence workloads.",
-                "Global fab expansion continues in Arizona, Germany, and Japan to secure localized, resilient semiconductor supply chains."
+                "Mark Zuckerberg advocates for rapid domestic artificial intelligence development rather than implementing strict regulatory restrictions.",
+                "The open-source model strategy aims to position domestic infrastructure as the foundational global operating standard.",
+                "Unrestricted deployment of frontier models is framed as critical for preserving national technological sovereignty.",
+                "Global architectural alignment hinges on distributing lightweight accessible code bases across sovereign enterprise development networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AWS: ENTERPRISE AI CLOUD SOVEREIGNTY",
+            "heading": "SK HYNIX: MEMORY OVERPRODUCTION RISK",
             "points": [
-                "AWS continues scaling global infrastructure across 123 availability zones to support intensive generative AI application workloads.",
-                "Siemens Mobility and United Airlines utilize custom AWS AI frameworks to transform industrial operational data into insights.",
-                "New regional expansions in Saudi Arabia and Chile strengthen global cloud presence for distributed enterprise AI operations.",
-                "Comprehensive service portfolio exceeds 240 distinct cloud offerings, enabling modular architecture for modernizing legacy IT estates."
+                "SK Hynix registers a sixfold profit surge driven by high-bandwidth memory demand despite missing Q2 revenue expectations.",
+                "Market volatility increases as capital-intensive fabrication expansions raise investor anxiety over potential semiconductor supply surpluses.",
+                "Executive leadership maintains that persistent demand for AI infrastructure limits immediate high-volume memory oversupply threats.",
+                "Next-generation hardware deployments depend heavily on co-packaged optics and silicon interposer integration milestones."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "STANFORD HAI: AI GOVERNANCE PARADIGM",
+            "heading": "THOMA BRAVO: DEBT MARKET SHOCK",
             "points": [
-                "HAI research highlights critical gaps in safety testing for AI mental health tools and chatbot interactions.",
-                "Institutional restructuring merges HAI with Data Science initiatives to mobilize multi-disciplinary team science at global scale.",
-                "The 2026 AI Index Report confirms a widening gap between rapid technical advancement and governance framework maturity.",
-                "Expanded policy training programs equip global policymakers with essential insights for emerging human-centered AI regulation compliance."
+                "Debt markets delay a five billion dollar refinancing package due to heightened risk premium concerns around AI investments.",
+                "Investor skepticism intensifies regarding the direct returns on massive capital expenditures for software enterprise integration.",
+                "Leveraged finance structures face stringent evaluation as hardware scaling costs outpace immediate software validation metrics.",
+                "Financial institutions demand clear validation of software monetization strategies before underwriting massive systemic infrastructure transitions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: FRONTIER MODEL DEPLOYMENT",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE SYSTEM",
             "points": [
-                "Anthropic releases Opus 5, featuring advanced agentic capabilities and improved reasoning for high-stakes professional work environments.",
-                "Claude Science platform integrates specialized research tools and auditable artifact generation to accelerate life sciences breakthroughs.",
-                "Strategic commitment to Responsible Scaling Policies guides the deployment of safer, highly capable frontier intelligence models.",
-                "Model performance updates emphasize reduced hallucination rates and enhanced coding proficiency for enterprise-grade autonomous software development."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MISTRAL: AUTONOMOUS AGENTIC WORKFLOWS",
-            "points": [
-                "Mistral introduces Vibe, a specialized AI agent platform designed for managing long-horizon complex tasks and processes.",
-                "Vibe for code enables asynchronous automated development, architecture-aware reasoning, and legacy system code translation support.",
-                "Studio platform provides end-to-end orchestration and guardrails for deploying production-grade AI agents in distributed environments.",
-                "Forge capabilities empower enterprises to perform domain-specific alignment and synthetic data generation for proprietary model customization."
+                "Mistral launches Robostral Navigate establishing an integrated system of record for operational prompts and cognitive skills.",
+                "The platform optimizes long-horizon autonomous tasks through persistent memory storage and direct API tool execution.",
+                "Enterprise developers acquire unified control over agent orchestration, automated code generation, and localized verification tests.",
+                "Localized execution frameworks minimize latency while preserving strict compliance with emerging sovereign data governance mandates."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "CIO INSIGHTS: AGENTIC COMPUTING SHIFTS",
+            "id": 6,
+            "heading": "TSMC: NANOFLEX A14 ARCHITECTURE",
             "points": [
-                "Enterprise focus shifts toward connecting AI with business context and data to improve agentic operational accuracy.",
-                "Stateless Model Context Protocol updates facilitate easier integration for production enterprise AI systems despite breaking changes.",
-                "CIOs report rising AI infrastructure spending is fundamentally changing how platforms manage budgets and technical debt.",
-                "Market shift away from token-heavy usage prompts a strategic transition toward highly specialized, smaller, reliable model architectures."
+                "TSMC details its upcoming A14 NanoFlex Pro process node targeting ultra-high efficiency for next-generation edge silicon.",
+                "The architecture integrates innovative backside power distribution systems designed to maximize energy-per-transistor performance.",
+                "Advanced nanosheet designs optimize power delivery rails specifically for high-density tensor processing and model training.",
+                "Fab scheduling aligns with aggressive timelines for packaging high-performance computing chiplets for hyperscale cloud customers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "NETSCOUT: DDOS MITIGATION EXPANSION",
+            "points": [
+                "NetScout expands enterprise attack mitigation capacity to thirty-three terabits per second following its recent infrastructure acquisition.",
+                "The defensive upgrades integrate advanced machine learning models directly into edge routers to identify packet anomalies.",
+                "Hybrid architectural frameworks harmonize on-premises appliances with cloud-based scrubbing centers for seamless real-time traffic filtering.",
+                "Automated threat response sequences intercept polymorphic attack vectors before malicious requests degrade distributed core databases."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
