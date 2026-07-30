@@ -2,49 +2,33 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
-        "titleBlue": "ACCELERATES"
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AI CYBER MODEL",
+            "heading": "MICROSOFT: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "Microsoft launched a specialized cybersecurity model engineered to compete with industry-leading frameworks like Mythos and GPT-5.6.",
-                "The model prioritizes cost-efficiency to facilitate widespread deployment across enterprise environments currently grappling with rising AI security infrastructure expenses.",
-                "This development marks a strategic pivot for Microsoft, leveraging deep-learning integration to aggressively capture market share in AI-driven threat detection.",
-                "Market analysts project immediate adoption by large-scale enterprises seeking to stabilize their AI operational budgets against emerging digital attack vectors."
+                "Microsoft has finalized a massive 130 billion dollar lease agreement for new data center capacity.",
+                "This capital deployment focuses on scaling agentic workloads and managing surging global AI compute demand.",
+                "The investment aligns with the launch of new IQ tools that integrate business context into agents.",
+                "Enterprises are now prioritizing agentic frameworks that bridge the gap between model reasoning and execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
+            "heading": "SNOWFLAKE: GOVERNED AI AGENT LAYERS",
             "points": [
-                "NVIDIA expanded the Agent Toolkit for engineering by integrating specialized PhysicsNeMo and CUDA-X libraries into the core development ecosystem.",
-                "These updates transform the workflow for physical AI design, enabling higher precision in real-world simulations and manufacturing automation tasks.",
-                "The toolkit provides developers with robust primitives for high-fidelity physics-based reasoning in complex, autonomous robotics and industrial agent applications.",
-                "Strategic integration of these libraries reduces development cycles for enterprises transitioning from software-centric AI to physical, agentic automation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SNOWFLAKE: AI GOVERNANCE LAYER",
-            "points": [
-                "Snowflake introduced the Cortex AI Gateway to provide enterprises with centralized runtime oversight of agentic AI activity and resource utilization.",
-                "The layer enables granular control over token consumption, preventing cost overruns during multi-agent orchestration within complex cloud environments.",
-                "Enterprises can now maintain full audit trails of agent reasoning, ensuring compliance and operational visibility across distributed organizational workflows.",
-                "This tool addresses the critical demand for production-grade guardrails that manage the unpredictable nature of autonomous, cross-platform AI agents."
+                "Snowflake has officially launched the Cortex AI Gateway to provide critical runtime oversight for agents.",
+                "The platform enables real-time tracking of token consumption, resource allocation, and specific agentic activity.",
+                "This governance layer allows IT leaders to maintain enterprise visibility during complex multi-model workflows.",
+                "Cost control and security are now central to deploying agentic AI in production-grade environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MISTRAL: ROBOSTRAL INTEGRATION",
+            "id": 3,
+            "heading": "NVIDIA: AGENT TOOLKIT PHYSICS UPGRADE",
             "points": [
-                "Mistral unveiled Robostral, a system of record designed to document and track prompts and agentic workflows at the enterprise level.",
-                "The platform provides persistent memory and reusable skills, allowing agents to maintain operational continuity across varied, long-horizon multi-step tasks.",
-                "Robostral integrates directly with existing CI/CD pipelines to automate documentation and validation for complex, AI-generated code generation projects.",
-                "The innovation ensures that agent intelligence remains auditable and consistent, reducing the technical debt associated with rapid autonomous prototyping cycles."
+                "NVIDIA expanded its Agent Toolkit with the introduction of PhysicsNeMo and advanced CUDA-X libraries.",
+                "The integration enables developers to build AI agents capable of high-fidelity engineering and system design.",
+                "This move signals a strategic shift toward physical AI applications across robotics and manufacturing sectors.",
+                "Global engineering firms can now leverage these libraries to transform manual workflows into intelligent simulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AWS: VENDOR-SPECIFIC AI INNOVATION",
+            "points": [
+                "AWS confirmed a 410 million dollar partnership with a developer focused on self-improving AI models.",
+                "This investment reinforces the cloud provider's commitment to supporting frontier-grade model training and inference.",
+                "Market observers indicate this deal accelerates the development of autonomous systems within the cloud ecosystem.",
+                "Enterprise clients gain early access to breakthrough capabilities as AWS integrates these models into services."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: OPEN AI PARTNERSHIP",
+            "heading": "ORACLE: LEGACY DATABASE MODERNIZATION",
             "points": [
-                "AMD and Korea\u2019s Ministry of Science and ICT initiated a strategic partnership to develop a sovereign national AI compute ecosystem.",
-                "The agreement involves contributing technical expertise, open software platforms, and localized compute resources to accelerate independent domestic AI infrastructure capabilities.",
-                "This collaboration aims to provide a decentralized, open-standard foundation that allows nations to reduce reliance on centralized global AI compute providers.",
-                "The move signifies a broader trend toward regional AI sovereignty where compute architecture is tightly aligned with localized, independent security requirements."
+                "Oracle has officially introduced EBCDIC support to simplify the migration of legacy IBM mainframe databases.",
+                "This technical update allows organizations to pivot critical infrastructure toward modern AI-ready cloud environments.",
+                "The feature reduces vendor lock-in risks while providing a streamlined path for enterprise data modernization.",
+                "IT leadership can now migrate complex relational data without the previous constraints of incompatible formats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: AGENTIC INFRASTRUCTURE",
+            "heading": "META: AGENT-DRIVEN REVENUE DILEMMA",
             "points": [
-                "Google Cloud introduced new management tools for remote MCP server orchestration within the Gemini Enterprise agent platform ecosystem.",
-                "The update facilitates the seamless migration of legacy workflows into autonomous AI environments by supporting robust, modular server-side connections.",
-                "Engineering teams can leverage these infrastructure primitives to deploy agents that interact reliably with existing database and API backends.",
-                "This deployment model emphasizes production-readiness, allowing businesses to transition from experimental AI pilots to fully-scaled, automated organizational action systems."
+                "Meta is facing intensified pressure from investors regarding its massive capital expenditure on AI infrastructure.",
+                "Mark Zuckerberg has defended the pivot toward personalized AI agents as the core future revenue driver.",
+                "The firm is currently managing the challenge of balancing high infrastructure costs with measurable platform returns.",
+                "Analysts are monitoring Meta's capacity to convert research-heavy AI projects into sustainable, scalable business models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.ft.com/technology",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NIMBLE: WEB SEARCH AGENTS",
+            "heading": "AMD: OPEN ECOSYSTEM SOVEREIGNTY",
             "points": [
-                "Nimble launched autonomous web search agents designed to aggregate domain-specific data context for advanced enterprise AI and analytical engines.",
-                "These agents employ self-learning algorithms to identify and cull relevant information, significantly reducing noise in large-scale data retrieval tasks.",
-                "By providing precise, contextually relevant datasets, the solution prevents the inaccuracy that often stems from agents lacking situational awareness.",
-                "The tool addresses a primary bottleneck for enterprise AI systems that rely on external internet intelligence to drive decision-making processes."
+                "AMD and the Korean Ministry of Science have launched a new initiative to advance sovereign AI.",
+                "The partnership focuses on contributing compute technology, software stacks, and ecosystem collaboration for national projects.",
+                "This move reflects the growing trend of nations developing indigenous AI capabilities to ensure strategic autonomy.",
+                "AMD continues to emphasize an open-ecosystem approach as the primary vehicle for global AI infrastructure expansion."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
