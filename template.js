@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COGNITIVE",
-        "titleBlue": "DEPLOYMENT"
+        "titleWhite": "GOVERNED AUTONOMOUS",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: ANTHROPIC GPU DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 FRONTIER ARCHITECTURE",
             "points": [
-                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series hardware accelerators.",
-                "The deployment scales frontier AI model training capability while expanding operational footprint across global green data centers.",
-                "This partnership directly challenges competitor market shares by providing a massive, high-efficiency alternative compute ecosystem.",
-                "Global enterprises can expect enhanced access to highly optimized physical hardware, accelerating next-generation agent deployments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
-            "points": [
-                "OpenAI has launched GPT-5.6, delivering frontier intelligence scaling capabilities optimized for intensive enterprise workflows.",
-                "Organizations can leverage advanced reasoning mechanisms to perform highly complex multi-step automated operations with minimal latency.",
-                "The architectural expansion prioritizes self-improvement frameworks to dramatically improve model robustness and safety compliance.",
-                "Enterprise developers gain a powerful toolset for building mission-critical applications that demand ultra-reliable cognitive processing."
+                "OpenAI launched GPT-5.6 designed to deliver highly scalable frontier intelligence for complex enterprise agentic workflows.",
+                "The model optimizes token consumption efficiency while significantly reducing processing latency across multi-step execution tasks.",
+                "System architecture leverages advanced self-improvement algorithms to harden model robustness against emerging threat vectors.",
+                "Enterprises must rapidly restructure legacy API layers to accommodate the high-throughput capabilities of this frontier model."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +22,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "id": 2,
+            "heading": "AMD: INSTINCT GPU CLUSTER DEPLOYMENT",
             "points": [
-                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence to accelerate safe computing.",
-                "The collaboration combines dedicated advanced hardware configurations with sophisticated alignment methodologies to prevent system failures.",
-                "This initiative reinforces industry commitments toward building secure foundation models amid growing regulatory compliance requirements.",
-                "Developers will benefit from certified secure execution environments that mitigate emerging cyber threats within autonomous systems."
+                "AMD and Anthropic partnered to deploy up to two gigawatts of Instinct MI450 series GPUs.",
+                "This massive compute expansion delivers unmatched processing performance for next-generation agent training pipelines.",
+                "The alliance integrates open ROCm software platforms directly with Claude models to optimize heterogeneous processing tasks.",
+                "Competitors will face extreme pressure as hardware-software co-design limits cloud monopolization and scales open-standards architecture."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "DATABRICKS: COGNITIVE SQL REWRITE ENGINE",
+            "points": [
+                "Databricks introduced an AI agent tool that autonomously translates and rewrites legacy SQL scripts at scale.",
+                "Organizations can migrate archaic mainframe queries to modern cloud data platforms with zero manual developer intervention.",
+                "The architecture leverages deep context integration to prevent logic degradation during complex database schema migrations.",
+                "Enterprise data warehouses will experience massive cost reductions as automated translation eliminates costly manual legacy codebases."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AZURE INFRASTRUCTURE EXPANSION",
+            "heading": "SNOWFLAKE: CORTEX AGENT GOVERNANCE",
             "points": [
-                "Microsoft Azure expanded its infrastructure by launching advanced virtual machines powered by AMD Instinct MI455Xv7 processors.",
-                "These high-performance computing instances dramatically optimize large-scale training, fine-tuning, and real-time inference workloads globally.",
-                "The expansion integrates deeply with existing developer tools, offering a highly unified hybrid-cloud architecture.",
-                "Enterprise clients can significantly reduce operational overhead while scaling computational capabilities across distributed business networks."
+                "Snowflake launched Cortex AI Gateway to provide runtime oversight, activity tracking, and cost control for agents.",
+                "The platform mitigates financial risk by tracking real-time token consumption across various backend models and tools.",
+                "This runtime monitoring layer decouples agent execution from security policy enforcement to ensure enterprise-grade regulatory compliance.",
+                "IT leaders must implement dynamic throttling policies to prevent rogue agents from draining cloud computing budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCH",
+            "heading": "DYNATRACE: AUTONOMOUS BLUEBOX AI",
             "points": [
-                "Mistral AI introduced Robostral Navigate, a dedicated system of record designed to index prompt and skill workflows.",
-                "This developer platform enables persistent memory storage and reusable agent actions across multiple production environments.",
-                "The launch addresses growing organizational demands for structured management of diverse enterprise agent configurations.",
-                "IT teams can easily standardize cognitive pipelines, securing consistent quality across autonomous transactional operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "DYNATRACE: BLUEBOX AUTONOMOUS DEPLOYMENT",
-            "points": [
-                "Dynatrace unveiled its Bluebox autonomous intelligence sub-venture, completely automating the software delivery lifecycle process.",
-                "The platform operates autonomously to eliminate manual human intervention across complex integration and deployment operations.",
-                "By restructuring the pipeline, this solution directly mitigates human errors and speeds up code delivery times.",
-                "Software engineers can redirect resources to high-level system design while automated subagents manage continuous maintenance tasks."
+                "Dynatrace unveiled Bluebox autonomous AI to completely eliminate human intervention throughout software delivery lifecycles.",
+                "The system automatically deploys, monitors, and optimizes application code to achieve highly resilient production environments.",
+                "Transitioning to autonomous code delivery shifts engineering focus from manual operational support to strategic system design.",
+                "Modern DevOps teams will evolve into architectural review boards as autonomous loops replace routine delivery tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SNOWFLAKE: CORTEX GATEWAY GOVERNANCE",
+            "id": 6,
+            "heading": "DEEPMIND: MULTI-VARIANT GEMINI RELEASES",
             "points": [
-                "Snowflake launched the Cortex AI Gateway to provide runtime oversight and cost tracking for enterprise autonomous agents.",
-                "The platform monitors system execution, tracking real-time resource allocation and token consumption across diverse models.",
-                "This integration resolves critical executive concerns regarding unpredictable expenses associated with widespread agentic deployments.",
-                "Corporations can confidently deploy autonomous agents knowing they possess comprehensive control over operational boundaries and budgets."
+                "Google DeepMind launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models.",
+                "These tailored variants minimize inference overhead while offering robust capabilities for high-speed edge computing operations.",
+                "The cybersecurity-focused model architecture introduces automated vulnerability identification and mitigates prompt injection risks natively.",
+                "Enterprise security operations will adopt specialized edge models to drastically reduce cloud latency and transfer overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMAZON: RUNAWAY ENTERPRISE AI COSTS",
+            "points": [
+                "Amazon internal reports revealed widespread cases of generative AI causing unmanaged, runaway spending on enterprise cloud.",
+                "Budget overruns routinely took companies several months to detect and mitigate due to poor monitoring tools.",
+                "Enterprise infrastructure lacks the highly granular cost attribution systems required to track modern dynamic token consumption.",
+                "CIOs must deploy immediate cost monitoring gateways before scaling complex agentic integrations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
