@@ -1,66 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC COMPUTE",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "ENTERPRISE AGENTIC INFRASTRUCTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "AMAZON: CLOUD SPENDING SURGE",
             "points": [
-                "OpenAI has launched GPT-5.6 to establish a new price-performance frontier for enterprise intelligence scaling.",
-                "The model introduces autonomous workflow execution optimizations and scales efficiently across massive training infrastructures globally.",
-                "Enterprises can deploy GPT-5.6 to execute complex reasoning operations without experiencing classical system performance degradation.",
-                "This upgrade forces competitors to aggressively lower API pricing tiers to sustain enterprise platform retention."
+                "Amazon escalated its 2026 AI infrastructure capital expenditure to 220 billion dollars due to surging memory requirements.",
+                "AWS performance indicators demonstrate the fastest growth since 2021 driven by sustained generative AI and chip demand.",
+                "Strategic allocation prioritizes high-bandwidth capacity to sustain the current acceleration of enterprise-grade cloud compute operations.",
+                "Financial markets interpret these high investment levels as critical to maintaining competitive dominance in AI services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: INSTINCT GPU DEPLOYMENT",
+            "heading": "MICROSOFT: MARKET CAP MILESTONE",
             "points": [
-                "AMD announced a landmark strategic partnership deploying up to two gigawatts of Instinct GPU clusters.",
-                "This infrastructure expansion directly supports Anthropic in scaling its next-generation generative foundation models safely.",
-                "The massive hardware commitment establishes AMD as a formidable competitor in the sovereign hyperscale chip market.",
-                "Hyperscalers will rapidly integrate these alternative chips to mitigate current market supply chain single-source vulnerabilities."
+                "Microsoft achieved a historic single-day market capitalization gain driven by surge in intelligent cloud segment revenue.",
+                "Corporate intelligence reporting indicates 32 percent growth reaching 39.3 billion dollars in specific cloud sector quarterly earnings.",
+                "Integration of agentic frameworks continues to drive enterprise adoption rates across the core Azure-native product ecosystem.",
+                "Analysts focus on long-term margin optimization plans as the company scales its integrated agent and AI stack."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: SQL TRANSLATION AGENT",
-            "points": [
-                "Databricks released an automated migration tool using intelligent agents to rewrite legacy SQL at scale.",
-                "The platform accelerates enterprise database modernization by shifting complex logic to modern serverless cloud architectures.",
-                "This development streamlines enterprise data engineering pipelines and reduces manual optimization efforts by engineering teams.",
-                "Organizations can decouple from monolithic legacy vendors without risking operational disruption or semantic translation errors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
             "heading": "ORACLE: GEMINI MODEL INTEGRATION",
             "points": [
-                "Oracle has officially integrated Google Gemini models into its distributed cloud database infrastructure for enterprises.",
-                "The system enables enterprise customers to execute localized semantic searches over private operational data repositories.",
-                "This multi-cloud partnership bridges Google's advanced modeling capabilities with Oracle's highly secure database systems.",
-                "Legacy database operators can safely consume frontier models without migrating sensitive records across cloud boundaries."
+                "Oracle expanded its enterprise AI portfolio by integrating Google Gemini models directly for high-scale business customers.",
+                "Strategic implementation provides enterprise clients with deeper reasoning capabilities across Oracle\u2019s legacy cloud database management software.",
+                "The integration focuses on reducing the technical complexity of deploying frontier-level generative models in production environments.",
+                "This alliance marks a significant shift in cross-cloud model accessibility for large-scale regulated enterprise organizational structures."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SNOWFLAKE: AI AGENT GOVERNANCE",
+            "id": 4,
+            "heading": "APPLE: SUPPLY CHAIN CONSTRAINTS",
             "points": [
-                "Snowflake launched Cortex AI Gateway to provide runtime oversight and cost control for autonomous agents.",
-                "The framework monitors token consumption metrics and restricts unauthorized actions across diverse enterprise database environments.",
-                "This layer mitigates systemic security risks associated with unmonitored multi-agent autonomous transactions on critical systems.",
-                "Chief Information Officers will gain granular visibility into agent behavior to prevent runaway cloud infrastructure spending."
+                "Apple shares experienced volatility following lower-than-anticipated revenue guidance due to ongoing tech hardware supply chain constraints.",
+                "Supply chain bottlenecks continue to hinder the build-out of necessary infrastructure for next-generation intelligence-enabled personal computing.",
+                "Market observers remain focused on how supply scaling impacts the transition toward more autonomous AI device ecosystems.",
+                "The company faces immense pressure to resolve component shortages to meet aggressive demand for intelligence-ready hardware units."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SECURITY: HUGGING FACE LESSONS",
+            "points": [
+                "Security analysts warn that the recent OpenAI and Hugging Face incident necessitates a shift in sandboxing protocols.",
+                "Technical focus has pivoted from mere model checklists to strengthening robust security controls around the surrounding AI systems.",
+                "Enterprises must now prioritize rigorous regression testing for all agentic workflows to mitigate zero-day exploitation risks.",
+                "The incident highlights the critical need for advanced automated monitoring within heterogeneous model deployment and training environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMAZON: CLOUD INFERENCE ACCELERATION",
+            "heading": "NVIDIA: PARTNERSHIP EXPANSION",
             "points": [
-                "Amazon AWS cloud segment recorded a massive surge driven by intense demand for generative AI.",
-                "The growth reflects rapid customer adoption of custom trainium chips and hyperscale model hosting solutions.",
-                "Enterprise migration to cloud-native agentic environments is driving significant investments in global data center capacity.",
-                "Hyperscale infrastructure expansions will likely accelerate despite growing local regulatory pushback over power grid demands."
+                "Safe Superintelligence Inc. solidified a long-term strategic partnership with NVIDIA to accelerate frontier artificial intelligence growth.",
+                "Collaboration focuses on rapid compute infrastructure scaling to push the boundaries of current superintelligence research and deployment.",
+                "The expansion leverages specialized hardware libraries designed to transform how engineers design and build autonomous complex systems.",
+                "This partnership strengthens the deep tech alliance necessary to maintain momentum in global AI infrastructure development velocity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CITADEL: SITUATIONAL AWARENESS",
+            "heading": "EU AI ACT: COMPLIANCE STATUS",
             "points": [
-                "Citadel has acquired Situational Awareness equity holdings following significant investment losses in the public markets.",
-                "The transaction occurred after Leopold Aschenbrenner's firm held emergency consultations with key financial institutional partners.",
-                "This high-profile buyout signals immediate structural changes and consolidation within elite artificial intelligence investment vehicles.",
-                "Wall Street analysts speculate this forced liquidation represents a definitive bottom for the AI trade cycle."
+                "August 2 remains the critical enforcement date for specific governance and transparency provisions under the EU AI Act.",
+                "Organizations are currently evaluating the implications of high-risk category requirements on their operational business process workflows.",
+                "Compliance experts advise firms to verify transparency protocols for general-purpose models within their specific operational AI architectures.",
+                "The act establishes a new baseline for trustworthy innovation, forcing a redesign of traditional legacy enterprise workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
