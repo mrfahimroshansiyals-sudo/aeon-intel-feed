@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GOVERNED AUTONOMOUS",
-        "titleBlue": "INTELLIGENCE"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER ARCHITECTURE",
+            "heading": "NVIDIA: STRATEGIC PARTNERSHIP EXPANSION",
             "points": [
-                "OpenAI launched GPT-5.6 designed to deliver highly scalable frontier intelligence for complex enterprise agentic workflows.",
-                "The model optimizes token consumption efficiency while significantly reducing processing latency across multi-step execution tasks.",
-                "System architecture leverages advanced self-improvement algorithms to harden model robustness against emerging threat vectors.",
-                "Enterprises must rapidly restructure legacy API layers to accommodate the high-throughput capabilities of this frontier model."
+                "Safe Superintelligence Inc and NVIDIA have finalized a long-term strategic partnership to accelerate industrial-scale AI growth trajectories.",
+                "The collaboration integrates specialized compute resources to advance foundational model safety and large-scale architectural development for enterprise production environments.",
+                "This alliance aims to synchronize high-performance hardware deployment with dedicated safety-focused research for next-generation intelligence stack implementations worldwide.",
+                "Market stakeholders should anticipate accelerated availability of optimized AI factory infrastructure and proprietary model development acceleration through joint operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: INSTINCT GPU CLUSTER DEPLOYMENT",
+            "heading": "AMD: OPEN AI ECOSYSTEM ACCELERATION",
             "points": [
-                "AMD and Anthropic partnered to deploy up to two gigawatts of Instinct MI450 series GPUs.",
-                "This massive compute expansion delivers unmatched processing performance for next-generation agent training pipelines.",
-                "The alliance integrates open ROCm software platforms directly with Claude models to optimize heterogeneous processing tasks.",
-                "Competitors will face extreme pressure as hardware-software co-design limits cloud monopolization and scales open-standards architecture."
+                "AMD showcased massive expansion across their open hardware and software portfolio to enhance end-to-end AI innovation in global enterprises.",
+                "New strategic collaborations with Anthropic involve deploying up to two gigawatts of Instinct MI450 Series GPU power for heavy-duty inference.",
+                "The hardware-centric approach targets high-efficiency data center workloads and localized edge AI deployments to reduce overall operational technology costs.",
+                "Deployment of Versal AI Edge SoCs is intended to provide heterogenous computing capabilities for physical AI and complex industrial automation."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,44 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: COGNITIVE SQL REWRITE ENGINE",
+            "heading": "MICROSOFT: AGENTIC CLOUD TRANSFORMATION",
             "points": [
-                "Databricks introduced an AI agent tool that autonomously translates and rewrites legacy SQL scripts at scale.",
-                "Organizations can migrate archaic mainframe queries to modern cloud data platforms with zero manual developer intervention.",
-                "The architecture leverages deep context integration to prevent logic degradation during complex database schema migrations.",
-                "Enterprise data warehouses will experience massive cost reductions as automated translation eliminates costly manual legacy codebases."
+                "Microsoft Azure has expanded its infrastructure to include new AMD-powered virtual machines optimizing AI and high-performance computing workload scalability.",
+                "Integration of Microsoft IQ allows enterprises to connect agents securely to internal data silos and complex legacy operational workflows natively.",
+                "The company is aggressively pushing agentic DevOps frameworks to streamline the transition of AI applications from development into production environments.",
+                "Technical roadmaps now prioritize unified management of intelligent apps across multi-cloud and hybrid deployments for consistent security policy governance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SNOWFLAKE: CORTEX AGENT GOVERNANCE",
+            "heading": "GOOGLE: AGENTIC DATA INFRASTRUCTURE",
             "points": [
-                "Snowflake launched Cortex AI Gateway to provide runtime oversight, activity tracking, and cost control for agents.",
-                "The platform mitigates financial risk by tracking real-time token consumption across various backend models and tools.",
-                "This runtime monitoring layer decouples agent execution from security policy enforcement to ensure enterprise-grade regulatory compliance.",
-                "IT leaders must implement dynamic throttling policies to prevent rogue agents from draining cloud computing budgets."
+                "Google Cloud is scaling its AI-native data platform to support the growing demand for autonomous multi-agent task execution and coordination.",
+                "New Gemini 3.6 Flash model iterations are now available to minimize latency in enterprise-grade agentic data orchestration and governance layers.",
+                "The introduction of AI Threat Defense tools aims to harden agentic systems against malicious actors during runtime task-based interactions and operations.",
+                "Strategic focus has shifted toward building robust, managed MCP servers to facilitate seamless communication between agents and enterprise database systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CIO.COM: DATA CENTER GOVERNANCE BACKLASH",
+            "points": [
+                "CIOs face significant project delays as public backlash against rising data center energy demands complicates new infrastructure site construction plans.",
+                "Industry leaders are emphasizing that AI sustainability must now move beyond model efficiency toward smarter, context-aware data layer architectural design.",
+                "Regulatory pressures and environmental concerns are forcing enterprise architects to rethink traditional scaling strategies for large-scale AI cluster deployments.",
+                "Expect a pivot toward software-driven energy management and aggressive optimization of existing data infrastructure to mitigate potential resource-related constraints."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "DYNATRACE: AUTONOMOUS BLUEBOX AI",
-            "points": [
-                "Dynatrace unveiled Bluebox autonomous AI to completely eliminate human intervention throughout software delivery lifecycles.",
-                "The system automatically deploys, monitors, and optimizes application code to achieve highly resilient production environments.",
-                "Transitioning to autonomous code delivery shifts engineering focus from manual operational support to strategic system design.",
-                "Modern DevOps teams will evolve into architectural review boards as autonomous loops replace routine delivery tasks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "DEEPMIND: MULTI-VARIANT GEMINI RELEASES",
+            "heading": "MISTRAL: AUTONOMOUS AGENT DEPLOYMENT",
             "points": [
-                "Google DeepMind launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models.",
-                "These tailored variants minimize inference overhead while offering robust capabilities for high-speed edge computing operations.",
-                "The cybersecurity-focused model architecture introduces automated vulnerability identification and mitigates prompt injection risks natively.",
-                "Enterprise security operations will adopt specialized edge models to drastically reduce cloud latency and transfer overhead."
+                "Mistral AI is scaling their Vibe agent framework to handle long-horizon tasks requiring deep reasoning and persistent cross-tool memory management capabilities.",
+                "The newly introduced Studio platform enables comprehensive deployment portability for custom agents moving between local edge and enterprise cloud environments.",
+                "Engineering teams are adopting Forge to distill domain-specific intelligence into compact models suited for highly targeted enterprise process automation workflows.",
+                "Infrastructure-as-a-service expansions provide developers with dedicated GPU clusters to maintain sovereignty over model training and fine-tuning life cycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMAZON: RUNAWAY ENTERPRISE AI COSTS",
+            "heading": "TECHTARGET: AGENT SECURITY REGRESSIONS",
             "points": [
-                "Amazon internal reports revealed widespread cases of generative AI causing unmanaged, runaway spending on enterprise cloud.",
-                "Budget overruns routinely took companies several months to detect and mitigate due to poor monitoring tools.",
-                "Enterprise infrastructure lacks the highly granular cost attribution systems required to track modern dynamic token consumption.",
-                "CIOs must deploy immediate cost monitoring gateways before scaling complex agentic integrations."
+                "Enterprises are shifting toward rigorous security regression testing for autonomous AI agents to prevent cascading failures in production business workflows.",
+                "Recent industry reports indicate that lack of contextual awareness remains a primary vector for agentic-based security vulnerabilities and policy non-compliance.",
+                "DevOps organizations are integrating new testing frameworks to audit agent decisions against strict enterprise safety guardrails and predefined business logic.",
+                "This trend marks a transition from simple prompt-based evaluation to automated, systemic runtime verification of agent behavior across complex systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
