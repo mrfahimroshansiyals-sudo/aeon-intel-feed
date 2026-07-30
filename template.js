@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE TRANSFORMATION",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "SOVEREIGN COGNITIVE",
+        "titleBlue": "DEPLOYMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
+            "heading": "AMD: ANTHROPIC GPU DEPLOYMENT",
             "points": [
-                "Google DeepMind has unveiled Gemini 3.6 Flash and 3.5 Flash-Lite models designed for high-efficiency autonomous enterprise operations.",
-                "These models feature enhanced action-planning capabilities, allowing systems to navigate complex multi-step workflows with real-time reasoning and task execution.",
-                "Infrastructure investment now pivots toward agentic ecosystems, prioritizing low-latency inference and high-throughput model responsiveness across cloud environments.",
-                "DeepMind is shifting focus from passive language generation to active model-to-model negotiation and delegation within simulated environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT AZURE: ENTERPRISE CONTEXT",
-            "points": [
-                "Microsoft Azure introduces IQ for secure agent-to-system integration, ensuring models maintain consistent business context during complex task processing.",
-                "New AMD-powered virtual machines now support demanding AI and technical computing workloads, expanding the reach of Azure infrastructure.",
-                "The firm is emphasizing agentic DevOps and standardized integration patterns to reduce friction in scaling intelligent applications within production.",
-                "Focus remains on unifying developer workflows with Copilot, moving beyond simple code generation into full-scale system architecture oversight."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ANTHROPIC: RESEARCH SCALE",
-            "points": [
-                "Anthropic has successfully deployed Opus 5, featuring a significant advancement in agentic coding and professional-grade logical processing capabilities.",
-                "The company is expanding its Claude Science ecosystem, providing researchers with customizable, auditable artifacts to accelerate complex scientific discovery.",
-                "Investment is heavily directed towards model transparency and alignment science to ensure robust performance in mission-critical professional environments.",
-                "Strategic focus remains on maintaining high-fidelity reasoning in long-context windows for data-intensive enterprise and research-driven applications."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: OPEN ECOSYSTEM STRATEGY",
-            "points": [
-                "AMD and Anthropic have confirmed a long-term strategic partnership to scale AI deployment using up to 2 gigawatts of Instinct MI450 GPUs.",
-                "New collaboration with Cisco integrates enterprise control technologies directly into edge AI platforms, enhancing security and governance at the edge.",
-                "The company is cementing its leadership in heterogeneous compute, offering a comprehensive hardware stack for robotics and industrial intelligence.",
-                "Focus is on open standards to facilitate seamless model porting and deployment across diverse cloud, edge, and on-premises AI infrastructures."
+                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series hardware accelerators.",
+                "The deployment scales frontier AI model training capability while expanding operational footprint across global green data centers.",
+                "This partnership directly challenges competitor market shares by providing a massive, high-efficiency alternative compute ecosystem.",
+                "Global enterprises can expect enhanced access to highly optimized physical hardware, accelerating next-generation agent deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +22,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
+            "id": 2,
+            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
             "points": [
-                "NVIDIA expanded its Agent Toolkit by integrating PhysicsNeMo and CUDA-X libraries to streamline the engineering of physical AI systems.",
-                "The company is spearheading the Open Secure AI Alliance, aiming to standardize safety protocols for open-source AI infrastructure and development.",
-                "Recent partnerships across South Korea emphasize the expansion of national AI factories, leveraging high-performance compute for sovereign technology projects.",
-                "Advanced simulation capabilities in PhysicsNeMo now allow for rapid, high-fidelity modeling of real-world interactions in industrial AI robotics."
+                "OpenAI has launched GPT-5.6, delivering frontier intelligence scaling capabilities optimized for intensive enterprise workflows.",
+                "Organizations can leverage advanced reasoning mechanisms to perform highly complex multi-step automated operations with minimal latency.",
+                "The architectural expansion prioritizes self-improvement frameworks to dramatically improve model robustness and safety compliance.",
+                "Enterprise developers gain a powerful toolset for building mission-critical applications that demand ultra-reliable cognitive processing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "points": [
+                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence to accelerate safe computing.",
+                "The collaboration combines dedicated advanced hardware configurations with sophisticated alignment methodologies to prevent system failures.",
+                "This initiative reinforces industry commitments toward building secure foundation models amid growing regulatory compliance requirements.",
+                "Developers will benefit from certified secure execution environments that mitigate emerging cyber threats within autonomous systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: FRONTIER AGENTS",
+            "id": 4,
+            "heading": "MICROSOFT: AZURE INFRASTRUCTURE EXPANSION",
             "points": [
-                "Mistral AI introduced Vibe, an autonomous agent platform tailored for long-horizon work, emphasizing deep knowledge and persistent memory capabilities.",
-                "The platform provides native support for structured data analysis, allowing models to synthesize information across entire document sets autonomously.",
-                "New integration of Vibe for code enables advanced async code generation, architecture-aware reasoning, and automated CI/CD pipeline management.",
-                "Development focus is shifting toward enterprise-grade agent orchestration, providing full deployment portability from edge to the cloud."
+                "Microsoft Azure expanded its infrastructure by launching advanced virtual machines powered by AMD Instinct MI455Xv7 processors.",
+                "These high-performance computing instances dramatically optimize large-scale training, fine-tuning, and real-time inference workloads globally.",
+                "The expansion integrates deeply with existing developer tools, offering a highly unified hybrid-cloud architecture.",
+                "Enterprise clients can significantly reduce operational overhead while scaling computational capabilities across distributed business networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCH",
+            "points": [
+                "Mistral AI introduced Robostral Navigate, a dedicated system of record designed to index prompt and skill workflows.",
+                "This developer platform enables persistent memory storage and reusable agent actions across multiple production environments.",
+                "The launch addresses growing organizational demands for structured management of diverse enterprise agent configurations.",
+                "IT teams can easily standardize cognitive pipelines, securing consistent quality across autonomous transactional operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TECHTARGET: GOVERNANCE LAYER",
+            "id": 6,
+            "heading": "DYNATRACE: BLUEBOX AUTONOMOUS DEPLOYMENT",
             "points": [
-                "New developments in AI governance layer technology, including Snowflake\u2019s Cortex gateway, allow enterprises to track agent activity and resource usage.",
-                "Market analysis indicates a transition from pilot projects to full-stack production, with high focus on cost control and token-level visibility.",
-                "Standardization of AI payments and agent frameworks is becoming a critical priority for maintaining operational consistency across legacy enterprise systems.",
-                "Research warns of the severe consequences of deploying context-less agents, highlighting the necessity for robust situational awareness in automation."
+                "Dynatrace unveiled its Bluebox autonomous intelligence sub-venture, completely automating the software delivery lifecycle process.",
+                "The platform operates autonomously to eliminate manual human intervention across complex integration and deployment operations.",
+                "By restructuring the pipeline, this solution directly mitigates human errors and speeds up code delivery times.",
+                "Software engineers can redirect resources to high-level system design while automated subagents manage continuous maintenance tasks."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.techtarget.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "SNOWFLAKE: CORTEX GATEWAY GOVERNANCE",
+            "points": [
+                "Snowflake launched the Cortex AI Gateway to provide runtime oversight and cost tracking for enterprise autonomous agents.",
+                "The platform monitors system execution, tracking real-time resource allocation and token consumption across diverse models.",
+                "This integration resolves critical executive concerns regarding unpredictable expenses associated with widespread agentic deployments.",
+                "Corporations can confidently deploy autonomous agents knowing they possess comprehensive control over operational boundaries and budgets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
