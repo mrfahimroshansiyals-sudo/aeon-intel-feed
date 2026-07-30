@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC",
-        "titleBlue": "ARBITRAGE"
+        "titleWhite": "AGENTIC COMPUTE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SNOWFLAKE: CORTEX GATEWAY DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "Snowflake launches Cortex AI Gateway to track execution runtime of complex enterprise agents securely.",
-                "System delivers comprehensive cost optimization metrics by monitoring token consumption and resource allocation limits.",
-                "This governance layer ensures granular data privacy controls across multiple external model interactions.",
-                "Organizations can confidently scale production-grade agentic workflows without experiencing runaway infrastructure expenditures."
+                "OpenAI has launched GPT-5.6 to establish a new price-performance frontier for enterprise intelligence scaling.",
+                "The model introduces autonomous workflow execution optimizations and scales efficiently across massive training infrastructures globally.",
+                "Enterprises can deploy GPT-5.6 to execute complex reasoning operations without experiencing classical system performance degradation.",
+                "This upgrade forces competitors to aggressively lower API pricing tiers to sustain enterprise platform retention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ORACLE: GEMINI ENTERPRISE INTEGRATION",
+            "heading": "AMD: INSTINCT GPU DEPLOYMENT",
             "points": [
-                "Oracle integrates Google Gemini foundation models directly into its sovereign enterprise cloud database infrastructure.",
-                "Enterprise developers can seamlessly trigger real-time semantic search queries across massive multi-cloud data environments.",
-                "Native database integration bypasses complex data pipeline translation layers to optimize processing latency metrics.",
-                "Legacy IT systems gain modern agentic orchestration capabilities without risking direct data exposure events."
+                "AMD announced a landmark strategic partnership deploying up to two gigawatts of Instinct GPU clusters.",
+                "This infrastructure expansion directly supports Anthropic in scaling its next-generation generative foundation models safely.",
+                "The massive hardware commitment establishes AMD as a formidable competitor in the sovereign hyperscale chip market.",
+                "Hyperscalers will rapidly integrate these alternative chips to mitigate current market supply chain single-source vulnerabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: AGENTIC SQL REFACTORING",
+            "heading": "DATABRICKS: SQL TRANSLATION AGENT",
             "points": [
-                "Databricks introduces automated AI agents designed to autonomously migrate legacy SQL codebases at scale.",
-                "Enterprises reduce manual developer migration workloads by up to ninety percent using agentic translation.",
-                "The system systematically identifies deprecated query syntax and converts structures to modern optimized paradigms.",
-                "Migration teams accelerate data warehouse modernization timelines while preserving absolute transactional query consistency."
+                "Databricks released an automated migration tool using intelligent agents to rewrite legacy SQL at scale.",
+                "The platform accelerates enterprise database modernization by shifting complex logic to modern serverless cloud architectures.",
+                "This development streamlines enterprise data engineering pipelines and reduces manual optimization efforts by engineering teams.",
+                "Organizations can decouple from monolithic legacy vendors without risking operational disruption or semantic translation errors."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "OPENAI: COST METRIC REDUCTIONS",
+            "heading": "ORACLE: GEMINI MODEL INTEGRATION",
             "points": [
-                "OpenAI slashes deployment pricing tiers for its frontier GPT-5.6 intelligence models across API platforms.",
-                "Reduced pricing metrics directly address enterprise budget constraints associated with high-frequency agent orchestration pipelines.",
-                "Optimization advances allow massive parallel computation runs while maintaining strict performance throughput standards globally.",
-                "Developers can build complex multi-agent reasoning systems without triggering exponential operational cost spikes."
+                "Oracle has officially integrated Google Gemini models into its distributed cloud database infrastructure for enterprises.",
+                "The system enables enterprise customers to execute localized semantic searches over private operational data repositories.",
+                "This multi-cloud partnership bridges Google's advanced modeling capabilities with Oracle's highly secure database systems.",
+                "Legacy database operators can safely consume frontier models without migrating sensitive records across cloud boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: DEBT FINANCING SCALE",
+            "heading": "SNOWFLAKE: AI AGENT GOVERNANCE",
             "points": [
-                "Banking institutions negotiate a historic fifteen billion dollar loan for Anthropic data center construction.",
-                "The massive capital injection accelerates the rapid deployment of next-generation physical supercomputing clusters.",
-                "Google-backed infrastructure plans feature advanced cooling architectures designed specifically for dense neural net training.",
-                "Sovereign intelligence development secures long-term hardware capacity independent of standard venture equity financing."
+                "Snowflake launched Cortex AI Gateway to provide runtime oversight and cost control for autonomous agents.",
+                "The framework monitors token consumption metrics and restricts unauthorized actions across diverse enterprise database environments.",
+                "This layer mitigates systemic security risks associated with unmonitored multi-agent autonomous transactions on critical systems.",
+                "Chief Information Officers will gain granular visibility into agent behavior to prevent runaway cloud infrastructure spending."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DYNATRACE: AUTONOMOUS COMPILATION ENGINE",
+            "heading": "AMAZON: CLOUD INFERENCE ACCELERATION",
             "points": [
-                "Dynatrace rolls out its Bluebox autonomous AI to fully automate the software delivery lifecycle.",
-                "Removing human intervention in testing phases significantly decreases code deployment error rates across hybrid environments.",
-                "Continuous monitoring agents track runtime bugs and execute self-healing hotfixes within the staging environment.",
-                "Engineering departments achieve continuous deployment velocity without compromising critical application security and performance benchmarks."
+                "Amazon AWS cloud segment recorded a massive surge driven by intense demand for generative AI.",
+                "The growth reflects rapid customer adoption of custom trainium chips and hyperscale model hosting solutions.",
+                "Enterprise migration to cloud-native agentic environments is driving significant investments in global data center capacity.",
+                "Hyperscale infrastructure expansions will likely accelerate despite growing local regulatory pushback over power grid demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: ROBOSTRAL SYSTEM LAUNCH",
+            "heading": "CITADEL: SITUATIONAL AWARENESS",
             "points": [
-                "Mistral AI launches Robostral Navigate to serve as a secure enterprise system of record.",
-                "The framework establishes reliable version tracking parameters for proprietary prompts, model skills, and agents.",
-                "Persistent memory architectures enable seamless skill reuse across federated agentic networks without duplicate training.",
-                "IT leaders receive full auditability over behavioral modifications in decentralized AI operations and deployment."
+                "Citadel has acquired Situational Awareness equity holdings following significant investment losses in the public markets.",
+                "The transaction occurred after Leopold Aschenbrenner's firm held emergency consultations with key financial institutional partners.",
+                "This high-profile buyout signals immediate structural changes and consolidation within elite artificial intelligence investment vehicles.",
+                "Wall Street analysts speculate this forced liquidation represents a definitive bottom for the AI trade cycle."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
