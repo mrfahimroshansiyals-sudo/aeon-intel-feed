@@ -1,82 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "GLOBAL AI ARCHITECTURE",
+        "titleBlue": "TRANSFORMATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMAZON: OPENAI EQUITY EXPANSION",
+            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "Amazon finalizes a significant 50 billion dollar investment into OpenAI marking a major consolidation of cloud-integrated artificial intelligence research and distribution.",
-                "This strategic equity acquisition provides Amazon with roughly 5 percent ownership stake in the AI lab following complex negotiations concluded this hour.",
-                "The integration positions Amazon as a primary infrastructure provider for future frontier model training while securing long-term model access for its ecosystem.",
-                "Industry analysts anticipate this massive capital infusion will force competitors to accelerate their own foundational model partnership and cloud procurement strategies."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: API PRICING DISRUPTION",
-            "points": [
-                "OpenAI aggressively reduces API costs for GPT-5.6 Luna and Terra models by up to 80 percent to stimulate enterprise model adoption.",
-                "The price collapse aims to undercut competitors by significantly lowering the cost-per-inference barrier for large-scale production applications across global corporate client bases.",
-                "Engineering teams can now deploy significantly higher throughput pipelines while maintaining existing operational budgets for generative AI service delivery and latency.",
-                "This shift signals a broader market transition from expensive R&D experiments to commoditized, high-volume AI utility pricing for developers worldwide."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE: AGENTIC DATA CLOUD",
-            "points": [
-                "Google Cloud unveils the agentic Data Cloud architecture designed to power real-time systems of action for autonomous enterprise workflows.",
-                "The platform integrates model orchestration with native data governance to enable complex multi-step tasks across fragmented internal enterprise information silos.",
-                "New technical capabilities include remote MCP server support and optimized middleware to minimize latency in complex agent-to-agent transactional communications.",
-                "CIOs gain direct access to automated observability features specifically tuned for monitoring agent performance and data integrity in mission-critical environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EU: AI ACT COMPLIANCE CLOCK",
-            "points": [
-                "August 2nd marks a critical enforcement milestone for the EU AI Act necessitating immediate transparency and governance reporting for GPAI providers.",
-                "Regulators focus specifically on high-risk application classifications that now require mandatory rigorous testing and documentation for every enterprise system deployment.",
-                "Organizations must ensure their AI transparency rules and Article 50 guidelines are fully implemented to avoid significant legal and financial repercussions.",
-                "Compliance infrastructure now functions as a prerequisite for operating advanced AI systems within the European market's strictly regulated sovereign framework."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: AGENT TOOLKIT UPGRADE",
-            "points": [
-                "NVIDIA expands its Agent Toolkit adding PhysicsNeMo and CUDA-X libraries to streamline physical AI engineering and digital twin simulation deployments.",
-                "These enhancements allow developers to build more robust agentic systems that operate within physics-constrained environments for advanced industrial automation use cases.",
-                "The inclusion of these libraries enables tighter integration between real-world robotics data and cloud-based AI training platforms for rapid model improvement.",
-                "Engineers can expect significantly reduced development cycles when testing complex agent behavior in virtualized physical gyms prior to real-world edge deployment."
+                "NVIDIA expands agent toolkit with PhysicsNeMo and CUDA-X libraries for advanced industrial digital twin modeling.",
+                "Strategic partnership with Safe Superintelligence Inc. accelerates long-term development of robust, secure AI architectures.",
+                "Collaborations with South Korean leaders underscore a shift toward nationalized AI factory infrastructure and hardware.",
+                "Expanded stack integration enables physical AI development across virtual simulation gyms and robotic hardware platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ANTHROPIC: OPUS 5 ANNOUNCEMENT",
+            "id": 2,
+            "heading": "FINANCIAL MARKETS: AI ROUT STABILIZATION",
             "points": [
-                "Anthropic releases Opus 5 featuring substantial improvements in autonomous agentic capabilities and professional coding assistance for enterprise engineering workflows.",
-                "The new model tier offers sharper logic and enhanced reasoning performance specifically designed for long-horizon planning and complex technical problem resolution.",
-                "Integration with the Claude Science app allows researchers to leverage these capabilities for producing auditable artifacts in secure lab environments.",
-                "This release emphasizes safety at the frontier while expanding the utility of Anthropic's flagship models for high-stakes professional intelligence tasks globally."
+                "Citadel hedge fund intervention successfully curbed the recent three trillion dollar AI market volatility impact.",
+                "Amazon completes fifty billion dollar equity stake in OpenAI signaling sustained industrial-scale capital infusion trends.",
+                "Fed bond yield surges highlight investor credibility concerns regarding future monetary policy and inflation control.",
+                "Major technology firms report record AI spending as sector consolidation accelerates across semiconductor manufacturing markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MISTRAL: AUTONOMOUS ENTERPRISE INTEGRATION",
+            "points": [
+                "Mistral launches Vibe for automated long-horizon tasks and document synthesis for complex corporate knowledge repositories.",
+                "New enterprise deployment tools include end-to-end observability, model customization via Forge, and strict guardrail orchestration.",
+                "Industrial adoption expands with HSBC and ASML leveraging custom AI models for advanced semiconductor lithography workflows.",
+                "Company shifts toward specialized applied AI services targeting high-value sectors like financial services and manufacturing."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "IBM: QUANTUM COMPUTING MILESTONE",
+            "points": [
+                "IBM introduces proprietary validation techniques claiming fundamental quantum advantage over existing classical computational hardware systems.",
+                "New research emphasizes the necessity of security regression testing for cognitive AI agent frameworks in production.",
+                "IEEE report highlights the widening divide in global digital equity driven by AI infrastructure ownership models.",
+                "Industry analysts warn that AI-driven cognitive systems are fundamentally redefining electronic warfare and radar capabilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://spectrum.ieee.org",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE CLOUD: AGENTIC DATA PLATFORMS",
+            "points": [
+                "Google releases Gemini 3.6 Flash and 3.5 Flash Cyber models optimized for high-performance agentic workloads.",
+                "New AI Threat Defense product suite leverages real-time signal analysis to proactively outpace adversarial cyber threats.",
+                "Enterprise Agent Ready program provides thirty-five monthly credits to scale development of robust corporate AI agents.",
+                "Data Cloud upgrades enable complex structured analysis, system-of-action orchestration, and enhanced multi-model governance frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: OPEN AI ECOSYSTEM ACCELERATION",
+            "points": [
+                "AMD announces strategic partnership with Anthropic to deploy two gigawatts of Instinct MI450 Series GPU power.",
+                "Partnership with Korea's Ministry of Science advances sovereign AI infrastructure through open software and hardware collaboration.",
+                "New open robotics partner network accelerates the development of general-purpose models for industrial physical AI applications.",
+                "Expanded 6th Gen EPYC server CPU portfolio provides purpose-built compute capacity for next-generation agentic data centers."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ROBOSTRAL SYSTEM LAUNCH",
+            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADES",
             "points": [
-                "Mistral introduces Robostral to provide a dedicated system of record for managing AI prompts, skills, and agentic execution history.",
-                "The tool aims to bridge the gap between creative prompt experimentation and production-grade software engineering within highly regulated enterprise operational environments.",
-                "By standardizing the registry of agentic skills, Mistral enables greater repeatability and observability for autonomous systems operating across global hybrid clouds.",
-                "Developers gain granular control over versioning and evaluation of their custom agents as they transition from isolated prototypes to production."
+                "Anthropic releases Opus 5 featuring significantly improved coding intelligence and professional-grade agentic task reasoning capabilities.",
+                "Introduction of Claude Science enables customizable artifact production with secure, auditable access to enterprise computing resources.",
+                "Firm prioritizes responsible scaling policies while addressing hard questions regarding economic and societal AI impact trajectories.",
+                "Model architecture updates focus on long-term well-being through alignment science and rigorous economic performance indexing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
