@@ -7,12 +7,12 @@ const dailyData = {
     "slides": [
         {
             "id": 1,
-            "heading": "INFRASTRUCTURE: MEMORY MARKET CRUNCH",
+            "heading": "SEMICONDUCTOR: SUPPLY CHAIN CONSTRAINTS",
             "points": [
-                "Apple shares declined significantly today as the escalating cost of high-bandwidth memory chips continues to strain hardware production margins.",
-                "Chief executive Tim Cook acknowledged that current supply chain constraints and elevated memory pricing will persist throughout the remainder of the fiscal year.",
-                "Tech giants are increasingly prioritizing direct silicon control to mitigate reliance on external component vendors amid ongoing market volatility.",
-                "Analyst consensus suggests that hardware-centric organizations face heightened pressure to re-evaluate their capital expenditure strategies regarding AI hardware integration."
+                "Apple shares declined significantly as management confirmed that soaring memory costs and AI buildout bottlenecks are severely impacting near-term manufacturing output and delivery timelines.",
+                "Industry-wide data center expansion is being challenged by cooling energy constraints and the high cost of specialized high-bandwidth memory required for large-scale AI inference.",
+                "ASML reported robust quarterly earnings but emphasized that the extreme complexity of high-volume Logic production remains a critical constraint for global semiconductor chip manufacturing capacity.",
+                "Market analysts warn that the current capital-intensive AI infrastructure phase is pressuring hardware vendors to demonstrate immediate return on investment for enterprise stakeholders."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,96 +23,96 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SYSTEMS: DATABRICKS PRE-IPO ACCESS",
+            "heading": "MODELING: AGENTIC WORKFLOW SHIFT",
             "points": [
-                "Fintech brokerage firm Clear Street has officially launched a new program offering institutional investors pre-IPO access to AI giant Databricks.",
-                "This move signals shifting liquidity trends as private market secondary trading for high-growth AI entities gains significant institutional momentum.",
-                "Market participants are closely watching valuation spreads as primary and secondary markets continue to reconcile long-term enterprise AI potential.",
-                "The initiative provides diversified paths for early capital exit while maintaining long-term equity exposure to infrastructure-critical data analytics firms."
+                "Google DeepMind introduced the Gemini Robotics 2 system, focusing on whole-body intelligence and cross-platform task orchestration for complex multi-robot collaborative factory environments.",
+                "Microsoft is integrating chat-based agent workflows into a unified workspace, prioritizing secure context management and business data separation from underlying foundation model dependencies.",
+                "Mistral released Vibe, an AI agent designed for long-horizon autonomous work, featuring persistent memory skills and architecture-aware reasoning for complex code and document synthesis.",
+                "Enterprise leaders are shifting away from simple LLM deployments toward agent-driven ecosystems that emphasize task reliability, auditability, and secure human-in-the-loop oversight mechanisms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARKETS: FED POLICY HEDGING",
+            "heading": "INFRASTRUCTURE: SOVEREIGN COMPUTE",
             "points": [
-                "Recent market analysis suggests traders are pricing in potential rate hike signals following remarks from central bank officials regarding inflation.",
-                "Current market volatility remains elevated as speculative capital retreats from high-multiple growth equities in favor of defensive industrial positioning.",
-                "Alternative economic indicators currently show inflation at multi-year lows, yet the Fed maintains a cautious posture on interest rate trajectories.",
-                "Institutional investors are rapidly shifting portfolio allocations to prepare for a potentially hawkish turn in upcoming monetary policy announcements."
+                "AMD solidified its sovereign AI strategy through a new partnership with Korea\u2019s Ministry of Science, providing open-source software and compute technology for national infrastructure.",
+                "The shift toward proprietary AI factories is accelerating, with companies like Meta and NVIDIA collaborating to optimize rack-scale AI systems for specific internal performance requirements.",
+                "Data center energy demand is forcing a redesign of power infrastructure, with utilities and hyperscalers now competing for exclusive control over regional high-voltage power generation assets.",
+                "Cloud providers are aggressively expanding their regional capacity through customized AMD-powered virtual machines to handle the massive inference requirements of modern generative AI agentic systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPUTING: QUANTUM VALIDATION LEAP",
+            "heading": "GOVERNANCE: COMPLIANCE ARCHITECTURE",
             "points": [
-                "IBM has announced a major breakthrough in quantum computing, claiming significant advancements in error correction and hardware validation techniques.",
-                "These developments aim to extend Moore\u2019s Law by introducing new paradigms for high-density transistor architecture and vertical chip construction.",
-                "The research emphasizes scalable modular systems, enabling enterprise deployment of quantum-resistant cryptographic frameworks and specialized research processing power.",
-                "Industry experts anticipate accelerated adoption as these validation techniques move from experimental labs to commercial cloud service environments."
+                "The European Union is finalizing its enforcement framework for general-purpose AI models, placing strict transparency and risk management obligations on all commercial providers by August.",
+                "Legal experts emphasize that compliance must be integrated directly into the development lifecycle rather than addressed post-deployment, especially for high-risk automated decision-making systems.",
+                "Regulatory readiness has emerged as a key competitive advantage for enterprises that proactively implement standardized data provenance and rigorous AI model testing in their pipelines.",
+                "Corporate governance boards are increasingly treating AI safety and compliance as central pillars of digital risk management, necessitating new reporting structures for model transparency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPERATIONS: AGENTIC ROI METRICS",
+            "heading": "CYBERSECURITY: DEFENSIVE VULNERABILITY",
             "points": [
-                "Enterprises are shifting focus from simple AI deployment to rigorous quantitative measurement of productivity gains and tangible operational return on investment.",
-                "Current industry trends indicate a move away from 'token-maxxing' strategies, prioritizing cost-efficient inference and specific long-horizon business task completion.",
-                "IT leadership is establishing centralized AI governance frameworks to ensure that autonomous agents operate within established security and resource thresholds.",
-                "New industry reports outline critical implementation pathways for converting pilot AI initiatives into scalable, enterprise-grade automated production workflows."
+                "Security analysts warn that the proliferation of autonomous agents increases the surface for sophisticated zero-day attacks that leverage AI for rapid code exploitation and lateral movement.",
+                "New research indicates that LLMs possess structural vulnerabilities that can be triggered through refined prompt injection, necessitating strong sandboxing and real-time security regression testing protocols.",
+                "Enterprise IT departments are moving toward AI-native threat defense platforms designed to outpace automated adversaries through real-time behavioral analysis and proactive system integrity monitoring.",
+                "The industry is responding to recent high-profile hacking incidents by tightening security controls around the systems that integrate AI models with sensitive enterprise business data."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOVERNANCE: DATA CENTER DISCOURSE",
+            "heading": "FINANCE: MARKET CORRECTION",
             "points": [
-                "Rising concerns regarding the environmental footprint of large-scale AI compute facilities are prompting CIOs to revisit infrastructure energy strategy.",
-                "Industry analysts report that the growing backlash against data center power consumption could delay aggressive enterprise AI rollout timelines.",
-                "Enterprises are investigating sustainable cooling and energy-efficient architecture to maintain public trust and regulatory compliance in energy-constrained global regions.",
-                "Strategic pressure is mounting for firms to integrate renewable energy sources directly into their compute expansion plans for operational longevity."
+                "Investors are aggressively re-evaluating AI hedge funds following the collapse of high-profile firms, marking a shift toward institutional scrutiny of AI-driven market prediction models.",
+                "The broader market is experiencing extreme volatility as traders weigh the massive capital expenditures of tech giants against the slower-than-expected revenue realization from enterprise AI.",
+                "Portfolio strategies are increasingly diversifying away from pure-play AI software toward companies that control critical infrastructure, physical compute assets, and sustainable power sources.",
+                "Professional financial advisors are urging a move toward risk-adjusted AI investments, emphasizing the need for fundamental metrics over the speculative momentum seen in early stages."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STRATEGY: ENTERPRISE CLOUD SCALING",
+            "heading": "RESEARCH: SCIENTIFIC DISCOVERY",
             "points": [
-                "Leading cloud providers are expanding their infrastructure portfolios to accommodate the increasing demand for specialized AI and high-performance computing.",
-                "Strategic partnerships between silicon designers and cloud operators are driving the integration of heterogeneous compute resources for local agentic workflows.",
-                "Enterprises are leveraging multi-model AI architectures, separating memory and orchestration logic to maximize flexibility across diverse global cloud infrastructures.",
-                "Future-proofing enterprise IT now requires deeply integrated, agent-ready data platforms capable of providing full business context to autonomous AI agents."
+                "Anthropic launched Claude Science, a specialized environment integrating researcher-ready tools and packages to facilitate auditable, compute-intensive scientific experimentation and hypothesis validation.",
+                "Google is directing significant resources toward the Genesis Mission, aiming to leverage frontier models for breakthroughs in material science and fusion energy stabilization strategies.",
+                "Academic centers are restructuring to enable team science at scale, betting that open-source model development and interdisciplinary collaboration will dominate future AI scientific breakthroughs.",
+                "The focus is shifting from general-purpose assistants to domain-specific AI systems that can independently conduct complex, multi-step research tasks while maintaining scientific accuracy and rigor."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
