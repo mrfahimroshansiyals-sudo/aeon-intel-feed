@@ -2,117 +2,117 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL AI: FRONTIER AGENT SCALE",
+            "heading": "INFRASTRUCTURE: MEMORY MARKET CRUNCH",
             "points": [
-                "Mistral released Vibe AI, an autonomous agent platform designed for multi-step, long-horizon enterprise task execution.",
-                "This architecture supports persistent memory, reusable skills, and architecture-aware reasoning for complex developer environments and documentation.",
-                "Global firms like HSBC and ASML are leveraging Mistral to streamline operations, signaling a shift toward industry-specific models.",
-                "The integration of Studio and Forge platforms enables organizations to build and deploy custom AI agents anywhere."
+                "Apple shares declined significantly today as the escalating cost of high-bandwidth memory chips continues to strain hardware production margins.",
+                "Chief executive Tim Cook acknowledged that current supply chain constraints and elevated memory pricing will persist throughout the remainder of the fiscal year.",
+                "Tech giants are increasingly prioritizing direct silicon control to mitigate reliance on external component vendors amid ongoing market volatility.",
+                "Analyst consensus suggests that hardware-centric organizations face heightened pressure to re-evaluate their capital expenditure strategies regarding AI hardware integration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: PRICING-PERFORMANCE FRONTIER",
+            "heading": "SYSTEMS: DATABRICKS PRE-IPO ACCESS",
             "points": [
-                "OpenAI launched GPT-5.6, targeting enterprise-grade intelligence with significant price reductions across API endpoints for developers.",
-                "The release includes specialized tools for health and life sciences, focusing on high-accuracy research and simulation tasks.",
-                "Strategic board updates involving David V\u00e9lez and Robin Vince signal a new phase of commercial and governance focus.",
-                "New security features like GPT-Red and Daybreak aim to lock down agentic workflows against increasingly sophisticated cyber threats."
+                "Fintech brokerage firm Clear Street has officially launched a new program offering institutional investors pre-IPO access to AI giant Databricks.",
+                "This move signals shifting liquidity trends as private market secondary trading for high-growth AI entities gains significant institutional momentum.",
+                "Market participants are closely watching valuation spreads as primary and secondary markets continue to reconcile long-term enterprise AI potential.",
+                "The initiative provides diversified paths for early capital exit while maintaining long-term equity exposure to infrastructure-critical data analytics firms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: AGENTIC ECOSYSTEM",
+            "heading": "MARKETS: FED POLICY HEDGING",
             "points": [
-                "Microsoft Azure is centralizing agentic workflows through the new Microsoft IQ framework for secure enterprise-wide system connection.",
-                "The infrastructure expansion includes AMD-powered HDv2 and HXv2 virtual machines to support high-intensity technical and AI workloads.",
-                "Developers can now perform real-time database diagnostics via VS Code, streamlining performance management for critical application backends.",
-                "Integration services focus on cross-platform data unification, emphasizing sovereign context management for complex, multi-model enterprise AI deployments."
+                "Recent market analysis suggests traders are pricing in potential rate hike signals following remarks from central bank officials regarding inflation.",
+                "Current market volatility remains elevated as speculative capital retreats from high-multiple growth equities in favor of defensive industrial positioning.",
+                "Alternative economic indicators currently show inflation at multi-year lows, yet the Fed maintains a cautious posture on interest rate trajectories.",
+                "Institutional investors are rapidly shifting portfolio allocations to prepare for a potentially hawkish turn in upcoming monetary policy announcements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: PHYSICAL AI INFRASTRUCTURE",
+            "heading": "COMPUTING: QUANTUM VALIDATION LEAP",
             "points": [
-                "NVIDIA expanded its Agent Toolkit with PhysicsNeMo and CUDA-X libraries, enabling advanced engineering and simulation for robotics.",
-                "A major long-term partnership with Safe Superintelligence Inc. reinforces the strategy of accelerating secure AI growth.",
-                "Infrastructure buildouts continue via collaborations with SK Group and Brookfield, specifically targeting national-scale AI factory deployments.",
-                "NVIDIA is prioritizing Physical AI, using Omniverse and Isaac to train models in simulated environments for industrial automation."
+                "IBM has announced a major breakthrough in quantum computing, claiming significant advancements in error correction and hardware validation techniques.",
+                "These developments aim to extend Moore\u2019s Law by introducing new paradigms for high-density transistor architecture and vertical chip construction.",
+                "The research emphasizes scalable modular systems, enabling enterprise deployment of quantum-resistant cryptographic frameworks and specialized research processing power.",
+                "Industry experts anticipate accelerated adoption as these validation techniques move from experimental labs to commercial cloud service environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA CLOUD",
+            "heading": "OPERATIONS: AGENTIC ROI METRICS",
             "points": [
-                "Google Cloud introduced Gemini 3.6 Flash and 3.5 Flash Cyber to accelerate agentic workflow speed and model performance.",
-                "The new Agent Platform provides fully managed, remote MCP server support for orchestration of complex enterprise agentic tasks.",
-                "Security is bolstered by the new AI Threat Defense, designed to protect enterprise infrastructure from emergent adversary techniques.",
-                "Investment programs like GEAR provide monthly credits to assist developers in learning and deploying enterprise-grade, secure AI agents."
+                "Enterprises are shifting focus from simple AI deployment to rigorous quantitative measurement of productivity gains and tangible operational return on investment.",
+                "Current industry trends indicate a move away from 'token-maxxing' strategies, prioritizing cost-efficient inference and specific long-horizon business task completion.",
+                "IT leadership is establishing centralized AI governance frameworks to ensure that autonomous agents operate within established security and resource thresholds.",
+                "New industry reports outline critical implementation pathways for converting pilot AI initiatives into scalable, enterprise-grade automated production workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: OPEN AI INNOVATION",
+            "heading": "GOVERNANCE: DATA CENTER DISCOURSE",
             "points": [
-                "AMD launched 6th Gen EPYC server CPUs specifically purpose-built for agentic AI and high-performance computing data center workloads.",
-                "The new Open Robotics Partner Network aims to accelerate physical AI development through collaborative hardware and software ecosystems.",
-                "Strategic partnerships with the Korean government signal a global push for sovereign AI infrastructure and domestic technological ecosystems.",
-                "The commitment to ROCm software ensures that developers have an open path to scale AI solutions beyond proprietary siloes."
+                "Rising concerns regarding the environmental footprint of large-scale AI compute facilities are prompting CIOs to revisit infrastructure energy strategy.",
+                "Industry analysts report that the growing backlash against data center power consumption could delay aggressive enterprise AI rollout timelines.",
+                "Enterprises are investigating sustainable cooling and energy-efficient architecture to maintain public trust and regulatory compliance in energy-constrained global regions.",
+                "Strategic pressure is mounting for firms to integrate renewable energy sources directly into their compute expansion plans for operational longevity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
+            "heading": "STRATEGY: ENTERPRISE CLOUD SCALING",
             "points": [
-                "The EU Scientific Panel of Independent Experts is now formalizing enforcement protocols for General-Purpose AI (GPAI) systems and models.",
-                "New compliance tools and transparency guides for Article 50 are forcing enterprises to audit data handling and risk classifications.",
-                "The Advisory Forum is finalizing technical guidance to help SMEs and large organizations navigate the transition to regulated AI.",
-                "Enforcement mechanisms for Chapter V obligations on GPAI providers are now in active operational phases across EU member states."
+                "Leading cloud providers are expanding their infrastructure portfolios to accommodate the increasing demand for specialized AI and high-performance computing.",
+                "Strategic partnerships between silicon designers and cloud operators are driving the integration of heterogeneous compute resources for local agentic workflows.",
+                "Enterprises are leveraging multi-model AI architectures, separating memory and orchestration logic to maximize flexibility across diverse global cloud infrastructures.",
+                "Future-proofing enterprise IT now requires deeply integrated, agent-ready data platforms capable of providing full business context to autonomous AI agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
