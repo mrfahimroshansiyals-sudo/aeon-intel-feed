@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC CHIP",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "SOVEREIGN COGNITIVE COMPUTE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 API DISRUPTIONS",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI officially deployed GPT-5.6 frontier intelligence models optimized for extreme reasoning workloads.",
-                "Developers benefit from an immediate eighty percent price reduction for Luna and Terra API endpoints.",
-                "High token throughput at lower cost structures accelerates global enterprise adoption of agentic pipelines.",
-                "Competitors must rapidly restructure model training economics to survive aggressive pricing actions by market leaders."
+                "OpenAI released GPT-5.6 frontier intelligence model optimized for complex reasoning and enterprise agent orchestration.",
+                "The developer API prices for GPT-5.6 Luna and Terra models were drastically reduced by eighty percent.",
+                "This pricing reduction empowers enterprises to deploy high-volume agentic workflows without experiencing prohibitive compute costs.",
+                "Organizations can scale autonomous intelligence across core legacy systems while maintaining sustainable infrastructure budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: ROBOSTRAL AGENTS",
+            "heading": "GOOGLE: GEMINI ROBOTICS 2",
             "points": [
-                "Mistral AI introduced Robostral Navigate alongside the Vibe autonomous agent framework for long-horizon operational workflows.",
-                "Global engineering teams automate multi-step tasks across legacy software repositories using native context-aware execution tools.",
-                "This system positions decentralized open-weight models as primary drivers for complex enterprise software delivery cycles.",
-                "Traditional software vendors face massive pressure as automated programming agents eliminate manual coding labor."
+                "Google DeepMind unveiled Gemini Robotics 2 to deliver comprehensive whole-body intelligence to physical hardware systems.",
+                "The architecture integrates advanced video understanding with task orchestration to coordinate complex multi-robot collaborative environments.",
+                "Developers can leverage remote Model Context Protocol servers to build highly responsive, physical agent applications.",
+                "This upgrade accelerates autonomous industrial automation by bridging the gap between digital models and physical environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: SOVEREIGN KOREA PARTNERSHIP",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
             "points": [
-                "AMD partnered with South Korea to design customized open-source models using advanced domestic compute fabrics.",
-                "The strategic deployment integrates up to two gigawatts of high-performance Instinct hardware across national data centers.",
-                "This national initiative establishes complete computing sovereignty while reducing dependence on monopolistic proprietary cloud environments.",
-                "Sovereign states will increasingly build localized hardware clusters to secure critical public infrastructure from foreign threats."
+                "Mistral AI introduced Robostral Navigate alongside Mistral OCR 4 to support complex long-horizon operational workflows.",
+                "The newly launched Vibe agent coordinates autonomous coding, persistent memory execution, and multi-step task scheduling.",
+                "Major enterprises like ASML and HSBC are already integrating these models to automate high-density document intelligence.",
+                "This deployment shifts enterprise engineering paradigms toward sovereign, localized, and highly specialized autonomous execution agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EUROPEAN UNION: AI ACT ENFORCEMENT",
+            "heading": "AMD: MI450 DEPLOYMENT",
             "points": [
-                "The European Union activated strict compliance deadlines of the comprehensive Artificial Intelligence Act starting this August.",
-                "High-risk systems must undergo rigorous pre-deployment audits to avoid multi-million dollar regulatory penalties across member states.",
-                "The legislation establishes a landmark global standard forcing multinational technology firms to redesign validation architectures.",
-                "Organizations will prioritize localized compliance ledgers to guarantee continuous operational authorization within European markets."
+                "AMD announced a landmark strategic partnership with Anthropic to deploy up to two gigawatts of power.",
+                "The massive infrastructure expansion utilizes next-generation AMD Instinct MI450 Series GPUs to run advanced model workloads.",
+                "This collaboration challenges existing hardware monopolies while establishing robust open standards across global AI data centers.",
+                "Enterprise customers benefit from enhanced hardware choice, optimized operational efficiency, and lower total cost of ownership."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: artificialintelligenceact.eu",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ORACLE: ENTERPRISE GEMINI INTEGRATION",
+            "heading": "IBM: QUANTUM ADVANTAGE",
             "points": [
-                "Oracle incorporated Google Gemini models directly into its distributed cloud infrastructure to power enterprise workflows.",
-                "Corporate clients deploy advanced agentic capabilities without exporting proprietary databases outside secure cloud boundaries.",
-                "Multi-model enterprise strategies reduce vendor lock-in while providing diverse algorithmic selections for specialized industry tasks.",
-                "Enterprise database providers must continuously expand model ecosystems to retain lucrative legacy IT contracts."
+                "IBM claimed a definitive quantum advantage after demonstrating newly developed validation techniques for complex computing processors.",
+                "These hardware breakthroughs allow quantum systems to outperform traditional classical supercomputers on specific mathematical calculations.",
+                "The novel validation methodology addresses critical noise and error correction challenges holding back industrial quantum scaling.",
+                "Industries can expect rapid acceleration in molecular modeling, cryptography research, and advanced material science simulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: HIGH NA LITHOGRAPHY MILESTONE",
+            "heading": "DATABRICKS: SQL REWRITER",
             "points": [
-                "ASML achieved a critical readiness milestone by shipping its first high-volume High NA EUV logic system.",
-                "Major chipmakers now pattern advanced sub-nanometer transistors with significantly improved energy efficiency and manufacturing yield.",
-                "Integrating AI-native engineering within lithography machines optimizes physical processing speeds during continuous mass production cycles.",
-                "Semiconductor fabricators using legacy equipment will struggle to remain cost-competitive as modern foundries adopt High NA."
+                "Databricks launched an innovative agent-driven tool designed to automatically rewrite legacy SQL code at massive scale.",
+                "The platform utilizes specialized AI agents to modernize complex data warehouses without requiring extensive manual engineering.",
+                "This release targets major bottlenecks in cloud migration, allowing legacy systems to transition to lakehouse architectures.",
+                "Chief Information Officers can preserve critical institutional data structures while dramatically reducing technical debt across databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: asml.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: PHYSICSNEMO AGENT EXPANSION",
+            "heading": "ASML: HIGH NA MILESTONE",
             "points": [
-                "NVIDIA expanded its agent toolkit by integrating PhysicsNeMo and CUDA-X libraries for advanced physical simulation.",
-                "Engineering teams simulate complex physical mechanics in real-time to accelerate hardware design and industrial automation.",
-                "Connecting virtual simulation models with physical environments establishes the foundational stack for next-generation humanoid robotics.",
-                "Manufacturing enterprises will increasingly rely on simulation-trained agent networks to optimize automated factory operations."
+                "ASML reached a critical readiness milestone with its first high-volume Logic product using High NA EUV.",
+                "The lithography breakthrough enables leading global chipmakers to manufacture highly efficient next-generation semiconductor architectures.",
+                "This development ensures the steady supply of advanced microchips required to power massive deep learning clusters.",
+                "Hardware manufacturing pipelines can now print smaller transistors, directly extending the viability of Moore's Law."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
