@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI ARCHITECTURE",
-        "titleBlue": "TRANSFORMATION"
+        "titleWhite": "GLOBAL AI SOVEREIGNTY",
+        "titleBlue": "SCALE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE EXPANSION",
+            "heading": "AMAZON: OPENAI CAPITALIZATION",
             "points": [
-                "NVIDIA expands agent toolkit with PhysicsNeMo and CUDA-X libraries for advanced industrial digital twin modeling.",
-                "Strategic partnership with Safe Superintelligence Inc. accelerates long-term development of robust, secure AI architectures.",
-                "Collaborations with South Korean leaders underscore a shift toward nationalized AI factory infrastructure and hardware.",
-                "Expanded stack integration enables physical AI development across virtual simulation gyms and robotic hardware platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "FINANCIAL MARKETS: AI ROUT STABILIZATION",
-            "points": [
-                "Citadel hedge fund intervention successfully curbed the recent three trillion dollar AI market volatility impact.",
-                "Amazon completes fifty billion dollar equity stake in OpenAI signaling sustained industrial-scale capital infusion trends.",
-                "Fed bond yield surges highlight investor credibility concerns regarding future monetary policy and inflation control.",
-                "Major technology firms report record AI spending as sector consolidation accelerates across semiconductor manufacturing markets."
+                "Amazon finalizes a historic fifty-billion-dollar equity investment securing a five-percent stake in OpenAI labs.",
+                "This multi-billion capital injection accelerates frontier model research and expands compute capacities by forty percent.",
+                "The alliance secures deep structural integration of next-generation intelligence across Amazon Web Services cloud infrastructure.",
+                "Enterprise clients will gain unprecedented access to scalable, high-performance cognitive agents for complex industrial automation."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MISTRAL: AUTONOMOUS ENTERPRISE INTEGRATION",
+            "id": 2,
+            "heading": "OPENAI: API COST REDUCTION",
             "points": [
-                "Mistral launches Vibe for automated long-horizon tasks and document synthesis for complex corporate knowledge repositories.",
-                "New enterprise deployment tools include end-to-end observability, model customization via Forge, and strict guardrail orchestration.",
-                "Industrial adoption expands with HSBC and ASML leveraging custom AI models for advanced semiconductor lithography workflows.",
-                "Company shifts toward specialized applied AI services targeting high-value sectors like financial services and manufacturing."
+                "OpenAI slashes API pricing for GPT-5.6 Luna and Terra models by eighty percent globally.",
+                "This aggressive pricing structure reduces operational overhead for enterprises scaling agentic workflows across production systems.",
+                "The strategic price cuts directly target competitive pressures from open-source alternatives and alternative cloud offerings.",
+                "Organizations can now execute high-throughput semantic processing pipelines without encountering prohibitive API transaction costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "DATABRICKS: LEGACY SQL TRANSFORMATION",
+            "points": [
+                "Databricks deploys advanced autonomous AI agents engineered to rewrite complex legacy SQL databases at scale.",
+                "Automated schema translation reduces legacy modernization timelines by seventy percent across large enterprise data lakes.",
+                "The tool integrates native metadata reasoning engines to guarantee syntactic accuracy and optimal query execution.",
+                "Enterprise data architects can seamlessly migrate mainframe databases to modern cloud-native architectures with minimal downtime."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: QUANTUM COMPUTING MILESTONE",
+            "heading": "EUROPEAN UNION: AI GIGAFACTORY FUNDING",
             "points": [
-                "IBM introduces proprietary validation techniques claiming fundamental quantum advantage over existing classical computational hardware systems.",
-                "New research emphasizes the necessity of security regression testing for cognitive AI agent frameworks in production.",
-                "IEEE report highlights the widening divide in global digital equity driven by AI infrastructure ownership models.",
-                "Industry analysts warn that AI-driven cognitive systems are fundamentally redefining electronic warfare and radar capabilities."
+                "The European Union commits eleven point five billion dollars to establish seven sovereign AI gigafactories.",
+                "The capital allocation delivers dedicated high-performance computing infrastructure to accelerate localized European model development.",
+                "This systemic initiative establishes physical data sovereignty and reduces deep dependencies on external technology providers.",
+                "Regional enterprises will leverage high-speed secure infrastructure compliant with stringent EU AI Act regulatory guidelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA PLATFORMS",
+            "heading": "ORACLE: GEMINI ENTERPRISE INTEGRATION",
             "points": [
-                "Google releases Gemini 3.6 Flash and 3.5 Flash Cyber models optimized for high-performance agentic workloads.",
-                "New AI Threat Defense product suite leverages real-time signal analysis to proactively outpace adversarial cyber threats.",
-                "Enterprise Agent Ready program provides thirty-five monthly credits to scale development of robust corporate AI agents.",
-                "Data Cloud upgrades enable complex structured analysis, system-of-action orchestration, and enhanced multi-model governance frameworks."
+                "Oracle partners with Google to integrate advanced Gemini models directly into enterprise cloud database environments.",
+                "The native integration eliminates latency overhead by processing large language tasks directly beside transactional data.",
+                "This multi-cloud architecture delivers high-security processing paths for sensitive banking and public sector operations.",
+                "Enterprise developers can now orchestrate secure multi-model workflows without complex external API networking configurations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: OPEN AI ECOSYSTEM ACCELERATION",
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE ALLIANCE",
             "points": [
-                "AMD announces strategic partnership with Anthropic to deploy two gigawatts of Instinct MI450 Series GPU power.",
-                "Partnership with Korea's Ministry of Science advances sovereign AI infrastructure through open software and hardware collaboration.",
-                "New open robotics partner network accelerates the development of general-purpose models for industrial physical AI applications.",
-                "Expanded 6th Gen EPYC server CPU portfolio provides purpose-built compute capacity for next-generation agentic data centers."
+                "NVIDIA establishes a long-term strategic partnership with Ilya Sutskever\u2019s Safe Superintelligence to build AI architectures.",
+                "The partnership leverages customized compute clusters to accelerate secure, high-integrity training of frontier alignment systems.",
+                "Integrating safe design frameworks at the silicon level addresses growing systemic risks associated with multi-agent systems.",
+                "Future computing nodes will feature hardware-enforced guardrails to guarantee safe execution of highly autonomous agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADES",
+            "heading": "MISTRAL AI: ROBOSTRAL SYSTEM LAUNCH",
             "points": [
-                "Anthropic releases Opus 5 featuring significantly improved coding intelligence and professional-grade agentic task reasoning capabilities.",
-                "Introduction of Claude Science enables customizable artifact production with secure, auditable access to enterprise computing resources.",
-                "Firm prioritizes responsible scaling policies while addressing hard questions regarding economic and societal AI impact trajectories.",
-                "Model architecture updates focus on long-term well-being through alignment science and rigorous economic performance indexing."
+                "Mistral AI releases Robostral Navigate as a centralized system of record for managing enterprise prompts.",
+                "The platform optimizes prompt distribution, reducing token usage across federated agent deployments by thirty percent.",
+                "This system introduces robust versioning and skill storage capabilities for complex, long-horizon organizational cognitive workflows.",
+                "Operational teams can now scale collaborative digital assistants with complete auditability and localized database control."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
