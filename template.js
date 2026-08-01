@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT AGENTIC ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: API DEFLATION",
+            "heading": "MICROSOFT: CYBER MODEL EXPANSION",
             "points": [
-                "OpenAI slashes GPT-5.6 Luna and Terra API pricing by eighty percent to capture high-volume enterprise workloads.",
-                "The drastic price reduction lowers execution costs significantly for multi-agent workflows across global developer ecosystems.",
-                "This shift forces competing foundation model providers to aggressively optimize their inference pipelines and infrastructure.",
-                "Enterprises can now deploy dense agentic networks without facing the traditional prohibitive capital expenditure barriers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "DATABRICKS: AGENTIC SQL",
-            "points": [
-                "Databricks unveils an automated framework using specialized AI agents to autonomously rewrite legacy database code.",
-                "Enterprise data teams can migrate legacy SQL pipelines to modern cloud architectures at unprecedented scale.",
-                "The system leverages multi-agent orchestrators to handle complex code refactoring while maintaining transactional data consistency.",
-                "Database administrators gain massive efficiency increases by offloading tedious migration processes to deterministic agent platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "EUROPEAN UNION: GIGAFACTORY FUNDING",
-            "points": [
-                "The European Union pledges eleven point five billion dollars to establish seven sovereign AI gigafactories.",
-                "This massive financial injection accelerates regional computing sovereignty and reduces dependence on foreign data centers.",
-                "The infrastructure will utilize localized energy grids and next-generation domestic chip designs for optimal efficiency.",
-                "European enterprises secure guaranteed access to high-performance computing resources compliant with regional regulatory requirements."
+                "Microsoft launched a specialized, cost-effective cyber model designed to rival GPT-5.6 and Mythos frameworks.",
+                "The new architecture provides specialized security insights and rapid threat detection capabilities for enterprise-grade environments.",
+                "This model integration aims to decentralize defensive AI infrastructure by lowering barriers to entry for security teams.",
+                "Stakeholders anticipate widespread adoption as organizations shift from generalist models to high-precision domain-specific security tools."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: GPU DEPLOYMENT",
+            "id": 2,
+            "heading": "EU: AI GIGAFACTORY FUNDING",
             "points": [
-                "AMD secures a major partnership with Anthropic to deploy two gigawatts of Instinct GPU infrastructure.",
-                "The massive deployment enhances Anthropic's capacity to train and run next-generation frontier artificial intelligence models.",
-                "Utilizing AMD chipsets breaks market monopolies, promoting competitive hardware diversity across hyperscale cloud computing environments.",
-                "Cloud developers benefit from enhanced compute availability and improved price-to-performance ratios for training large-scale models."
+                "European regulators have committed 11.5 billion dollars toward the development of seven dedicated AI gigafactories.",
+                "This capital injection targets the acceleration of local compute sovereignty and industrial-scale hardware production within the region.",
+                "The initiative aims to decouple European technical reliance from external providers by securing local high-performance manufacturing pipelines.",
+                "Investment analysts expect a rapid surge in domestic semiconductor throughput supporting independent sovereign AI development cycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: MODEL PRICING RESTRUCTURING",
+            "points": [
+                "OpenAI has enacted significant price reductions for GPT-5.6 models to address mounting enterprise spending constraints.",
+                "Aggressive cost-cutting strategies signal a shift in market competition focusing on operational efficiency rather than just raw capacity.",
+                "This adjustment provides a critical entry point for smaller developers needing high-performance intelligence at sustainable monthly volumes.",
+                "Broader market implications include a sustained pressure on rival model providers to demonstrate tangible fiscal value metrics."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "DATABRICKS: LEGACY SQL TRANSFORMATION",
+            "points": [
+                "Databricks introduced a novel agentic tool capable of rewriting complex legacy SQL databases at massive enterprise scales.",
+                "This automation reduces migration latency by shifting structural database maintenance to AI-driven, intent-based software agents.",
+                "The platform specifically targets technical debt trapped within legacy architectures that previously required extensive manual human oversight.",
+                "CIOs can expect faster time-to-market for cloud-native applications previously hindered by slow, traditional data migration timelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS INTELLIGENCE",
+            "heading": "JETBRAINS: KOTLIN RUNTIME AUTOMATION",
             "points": [
-                "Google DeepMind introduces Gemini Robotics Two to provide advanced physical and whole body coordination for machines.",
-                "Robotic platforms can now execute complex spatial tasks with highly dynamic real-time environmental adaptation capability.",
-                "The model integrates video understanding with task orchestration and multi-agent collaboration across diverse physical environments.",
-                "Industrial manufacturers can automate sophisticated assembly processes by deploying robots equipped with unified physical intelligence."
+                "JetBrains open-sourced the KotlinLLM runtime code generator to accelerate software delivery cycles for modern development teams.",
+                "The tool provides native integration for developers to author, debug, and optimize complex software systems autonomously within IDEs.",
+                "By decentralizing the generation framework, JetBrains is fostering a more modular, interoperable developer ecosystem for AI-first applications.",
+                "Industry experts predict this will standardize how code-generating agents interact with production-grade enterprise software development pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: SSI PARTNERSHIP",
+            "heading": "ORACLE: GEMINI ENTERPRISE INTEGRATION",
             "points": [
-                "NVIDIA establishes a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence to build secure AI.",
-                "The collaboration combines cutting-edge hardware acceleration with advanced safety-aligned superintelligence research frameworks.",
-                "Secure-by-design systems will utilize custom computing architectures optimized specifically for robust multi-agent alignment models.",
-                "Global institutions gain access to verified superintelligence platforms engineered to resist sophisticated alignment degradation failures."
+                "Oracle finalized an agreement to host Google Gemini enterprise models within its secure global cloud computing network.",
+                "This collaborative architecture allows enterprise customers to run advanced agentic workflows without exiting the Oracle ecosystem.",
+                "The partnership optimizes cross-cloud data connectivity, enabling secure, performant access to state-of-the-art multimodal reasoning capabilities for industry.",
+                "Strategic benefits include minimized latency for global companies utilizing high-frequency financial and operational data processing systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CITADEL: MARKET INTERVENTION",
+            "heading": "RESEARCH: DISCRETE GEOMETRY DISCOVERY",
             "points": [
-                "Citadel executes a strategic acquisition of Situational Awareness assets to successfully stabilize volatile technology markets.",
-                "The market intervention successfully averted a potential three trillion dollar rout in global artificial intelligence equities.",
-                "Sophisticated quantitative trading engines utilized real-time intelligence feeds to establish strong support levels across assets.",
-                "Institutional investors regain confidence in technology infrastructure valuations amid heightened macro economic uncertainty and volatility."
+                "OpenAI researchers successfully utilized a custom model to disprove a central, long-standing conjecture in discrete geometry.",
+                "This achievement demonstrates the growing capability of frontier models in solving advanced mathematical problems previously inaccessible to human researchers.",
+                "The development underscores the transition toward AI as a primary collaborative partner in core academic and scientific fields.",
+                "Future scientific breakthroughs are likely to scale as automated, AI-assisted proving systems become standard across global research labs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
