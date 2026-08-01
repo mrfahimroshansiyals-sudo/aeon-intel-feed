@@ -2,117 +2,117 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "SHIFT"
+        "titleBlue": "FRONTIER"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS EMERGENCE",
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
             "points": [
-                "Google DeepMind launches Gemini Robotics 2 to deliver whole-body intelligence layers for physical agent coordination.",
-                "The architecture integrates Gemini ER 2 for advanced video understanding, multi-step task orchestration, and collaborative robotics.",
-                "Developers can leverage remote Model Context Protocol servers to establish fully-managed agentic execution pipelines instantly.",
-                "This deployment shifts physical automation from simple deterministic routines to highly adaptive and real-time environment responses."
+                "OpenAI officially deployed its next-generation frontier intelligence model GPT-5.6, targeting enterprise-scale autonomous task execution.",
+                "Accompanying the launch, API pricing for the new model was aggressively reduced by up to eighty percent.",
+                "This release shifts enterprise computational focus from simple token generation to highly complex agentic orchestration systems.",
+                "Enterprises will rapidly transition workloads to these cheaper, highly advanced reasoning engines to maximize operational automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: QUANTUM VALIDATION",
+            "heading": "GOOGLE: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "IBM claims landmark quantum advantage through newly implemented mathematical validation techniques that verify state accuracy.",
-                "The novel verification framework successfully mitigates systemic noise scaling barriers across complex multi-qubit processor architectures.",
-                "This development allows researchers to bypass traditional classical simulation bottlenecks when auditing quantum computing outputs.",
-                "Enterprises can anticipate accelerated timelines for deploying real-world quantum algorithms within secure financial and chemical models."
+                "Google Cloud launched Gemini 3.6 Flash and Gemini Robotics 2 for multi-agent coordination and video understanding.",
+                "The architectural upgrade delivers significant latency reductions and optimizes real-world physical task performance for connected robots.",
+                "Integrating physical robotics with advanced multi-agent systems marks a major transition toward fully autonomous industrial automation.",
+                "Industrial manufacturers will increasingly deploy these vision-language models to drive efficient warehouse and factory operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: spectrum.ieee.org",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: ANTHROPIC CO-DEPLOYMENT",
+            "heading": "MICROSOFT: IQ AGENTIC FRAMEWORK",
             "points": [
-                "AMD announces a strategic partnership with Anthropic deploying up to two gigawatts of high-performance Instinct GPUs.",
-                "The collaboration focuses on optimizing the ROCm open software stack for next-generation frontier model training workloads.",
-                "Combining specialized hardware with flexible software reduces total cost of ownership for hyper-scale enterprise cognitive deployments.",
-                "Industry partners will benefit from localized sovereign AI infrastructure that safeguards proprietary training data configurations securely."
+                "Microsoft unveiled Azure IQ, a secure context fabric designed to integrate enterprise data directly with agent workflows.",
+                "This system unifies distributed database states, allowing autonomous agents to execute tasks with continuous real-time business context.",
+                "The framework decouples raw orchestrational logic from underlying base models, establishing a standardized environment for developer teams.",
+                "System architects will utilize Azure IQ to build resilient, multi-turn transaction pipelines across diverse legacy software databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: PRICE CRASH",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RUNTIME",
             "points": [
-                "OpenAI slashes API prices for GPT-5.6 Luna and Terra models by up to eighty percent.",
-                "The aggressive pricing adjustment directly mitigates growing enterprise concerns regarding the high cost of scaling AI.",
-                "Developers can now deploy highly complex agentic workflows without experiencing prohibitive token execution expenses at scale.",
-                "This strategic shift forces competitors to restructure their monetization frameworks to remain viable in enterprise markets."
+                "Mistral AI launched Robostral Navigate alongside Vibe, an autonomous agent tailored specifically for long-horizon operational workflows.",
+                "The software stack enables continuous background code generation, legacy translation, and automated continuous integration pipeline execution.",
+                "Providing dedicated, on-premises GPU infrastructure allows enterprises to retain complete sovereign control over their sensitive operational datasets.",
+                "DevSecOps teams will leverage Vibe to automate complex maintenance procedures, significantly reducing manual code review overhead."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE",
+            "heading": "AMD: SOVEREIGN AI INITIATIVES",
             "points": [
-                "Mistral AI introduces Robostral Navigate alongside the Vibe agent framework optimized for autonomous, long-horizon developer tasks.",
-                "The platform offers async code generation, persistent memory integration, and structured metadata analysis across legacy databases.",
-                "Organizations can deploy these lightweight agent pipelines on dedicated GPU clusters from edge to private cloud.",
-                "This decoupling allows enterprises to bypass massive proprietary systems, securing localized control over operational AI logic."
+                "AMD partnered with Korea's Ministry of Science and ICT to construct high-performance, sovereign artificial intelligence infrastructure.",
+                "The strategic deal involves deploying up to two gigawatts of next-generation Instinct MI450 Series graphic processing units.",
+                "This collaboration signals a global move toward localized, state-governed infrastructure to protect regional technology ecosystems and data.",
+                "International governments will increasingly mandate sovereign cloud environments to isolate critical national datasets from foreign corporate actors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: COPILOT SUPER APP",
+            "heading": "EUROPEAN UNION: AI ACT COMPLIANCE",
             "points": [
-                "Microsoft integrates chat, autonomous agents, and business workflows into a unified, multi-model Copilot workspace.",
-                "The architecture completely decouples memory, context, and orchestration from any single underlying foundation model provider.",
-                "Utilizing Microsoft IQ enables secure, real-time data connections between autonomous agents and enterprise transactional systems.",
-                "This ecosystem consolidation empowers IT leaders to manage complex agentic permissions from a single governance dashboard."
+                "The European Union AI Act enforces critical governance guidelines, creating a strict legal compliance framework for enterprises.",
+                "Businesses operating high-risk systems must establish comprehensive audit trails and clear chatbot disclosure labels by August second.",
+                "These regulatory measures seek to eliminate unauthorized automated profiling while establishing global standards for trustworthy AI deployment.",
+                "Global organizations will reform their deployment pipelines to prevent severe financial penalties under the newly active framework."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: COMPLIANCE ENFORCEMENT",
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "The European Union initiates active legal enforcement of crucial transparency rules and general-purpose AI compliance parameters.",
-                "Providers of high-risk systems must establish comprehensive auditable frameworks and rigorous risk-mitigation strategies immediately.",
-                "Non-compliant organizations face severe regulatory penalties, driving a global shift toward standardized corporate AI governance.",
-                "Implementing these compliance protocols ensures long-term operational viability across highly regulated digital markets within Europe."
+                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever\u2019s Safe Superintelligence to accelerate safe model training.",
+                "The alliance secures massive dedicated compute allocations to build robust and mathematically provable alignment architectures at scale.",
+                "Coupling hardware dominance with specialized safety research establishes a secure foundation for developing future artificial general intelligence.",
+                "The research community will increasingly favor platforms that prioritize rigorous, built-in safety controls over raw capability scaling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: artificialintelligenceact.eu",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
