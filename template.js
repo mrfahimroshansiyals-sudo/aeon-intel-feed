@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
+        "titleBlue": "EVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: MULTI-MODEL INTEGRATION",
+            "heading": "OPENAI: FRONTIER COGNITIVE SCALING",
             "points": [
-                "Microsoft is unifying chat, autonomous agents, and business workflows into a singular cohesive AI workspace architecture.",
-                "This shift separates memory, context, and orchestration layers to reduce dependency on any single foundation model.",
-                "Enterprises gain modularity, allowing IT teams to swap underlying models without disrupting existing agentic operational pipelines.",
-                "This architectural decoupling signals a strategic move toward vendor-agnostic intelligent systems for complex corporate environments."
+                "OpenAI deployed GPT-5.6 alongside Luna and Terra APIs to deliver frontier intelligence at scale.",
+                "The system reduced developer API transaction costs by up to eighty percent to optimize enterprise throughput.",
+                "This structural adjustment shifts production architectures toward high-frequency, multi-agent automated orchestration systems.",
+                "Stakeholders anticipate immediate deployment of highly complex agentic workflows across core global business operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: PRICING FRONTIER AGGRESSION",
+            "heading": "ANTHROPIC: OPUS AGENTIC UPGRADE",
             "points": [
-                "OpenAI has slashed API prices for GPT-5.6 Luna and Terra variants by up to 80 percent globally.",
-                "This aggressive move directly counters enterprise hesitation regarding the high-cost operational scale of complex agentic deployments.",
-                "Lowered barrier costs facilitate mass adoption of autonomous reasoning agents across diverse mid-market and enterprise segments.",
-                "Market analysts view this as a decisive maneuver to capture long-term compute spend amid cooling AI hype."
+                "Anthropic launched Opus Five to deliver a massive step-change in agentic execution and advanced coding capabilities.",
+                "The model integrates customizable tools and auditable artifacts to process complex analytical data streams efficiently.",
+                "This release targets legacy software development frameworks to automate end-to-end code synthesis and validation.",
+                "Enterprise architects expect deep integration of self-correcting agent pipelines into mission-critical software repositories."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENTIC DATA CLOUD",
+            "heading": "MISTRAL AI: SYSTEM OF RECORD",
             "points": [
-                "Google Cloud has launched an integrated agentic data framework designed to transform storage into active systems.",
-                "This architecture leverages Gemini 3.6 to provide automated data orchestration, governance, and real-time enterprise reasoning.",
-                "The platform shifts data utilization from passive archival to active multi-step autonomous plan execution and synthesis.",
-                "Early adopters are expected to realize immediate efficiencies in cross-functional data retrieval and complex reporting workflows."
+                "Mistral AI introduced Robostral Navigate to serve as an enterprise-grade system of record for agent skills.",
+                "The architecture enables seamless task execution and structured data analysis across disparate high-horizon workloads.",
+                "Deploying Vibe for Code allows organizations to translate legacy infrastructure architectures into modern cloud environments.",
+                "Operations teams will leverage persistent memory stores to scale autonomous decision systems without latency degradation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL: AUTONOMOUS WORKHORSE VIBE",
+            "heading": "GOOGLE DEEPMIND: MULTI-AGENT ACTION",
             "points": [
-                "Mistral released Vibe, an autonomous agentic framework specifically optimized for long-horizon enterprise tasks and persistent memory.",
-                "Vibe enables multi-step task scheduling and document synthesis, moving beyond basic chatbot interactions into complex production.",
-                "The framework supports full deployment portability, allowing models to run effectively from distributed edge to cloud.",
-                "Mistral continues to prioritize domain-specialized alignment and model customization for heavy industrial and financial sector applications."
+                "Google DeepMind released Gemini Robotics Two to provide advanced physical task orchestration and video understanding.",
+                "The framework coordinates multiple physical platforms concurrently while maintaining low latency edge-to-cloud synchronization.",
+                "Integrating Gemini Omni Flash accelerates complex multimodal data ingestion to automate physical industrial pipelines.",
+                "System integrators expect rapid adoption of autonomous mobile robotics in highly dynamic logistics environments globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: SOVEREIGN INFRASTRUCTURE PARTNERSHIP",
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
             "points": [
-                "AMD has formalized a strategic partnership with the South Korean Ministry of Science to advance sovereign AI.",
-                "The collaboration involves localized deployment of Instinct MI450 series GPUs for national AI factory infrastructure buildouts.",
-                "This initiative secures critical hardware supply chains and provides open software ecosystems for domestic research entities.",
-                "Strategic alignment empowers nations to maintain control over their domestic compute stacks and intellectual property growth."
+                "NVIDIA formed a strategic partnership with Safe Superintelligence Incorporated to accelerate frontier cognitive security development.",
+                "The collaboration integrates customized CUDA-X and PhysicsNeMo libraries into standard agentic development toolkits.",
+                "This architectural expansion secures real-world physical simulations while maintaining peak high-performance computing performance.",
+                "Developers expect accelerated verification cycles for complex physical models operating within secure safety boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: PHYSICS-DRIVEN AGENT TOOLKIT",
+            "heading": "AMD: SOVEREIGN INFRASTRUCTURE ALLIANCE",
             "points": [
-                "NVIDIA expanded its Agent Toolkit with PhysicsNeMo and CUDA-X libraries to enhance physical world simulation capabilities.",
-                "These tools allow engineers to train AI agents in physics-simulated environments before executing tasks in reality.",
-                "Advancements in physical AI directly accelerate industrial automation, robotics, and complex manufacturing process design efficiency metrics.",
-                "Industry leaders are rapidly adopting these libraries to transform how complex physical assets are engineered and scaled."
+                "AMD partnered with Korea's Ministry of Science and ICT to build sovereign hardware computing ecosystems.",
+                "The initiative deploys up to two gigawatts of advanced AMD Instinct MI450 Series GPU infrastructure.",
+                "This sovereign alignment protects national digital assets while fostering open-source model optimization on local clusters.",
+                "National security architects anticipate complete technological self-sufficiency across key public sector computing nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: GOVERNANCE ENFORCEMENT",
+            "heading": "MICROSOFT AZURE: INTENT-DRIVEN COGNITION",
             "points": [
-                "The EU AI Act compliance timeline moves toward critical enforcement phases regarding high-risk system governance and auditing.",
-                "Organizations must now finalize model documentation, transparency rules, and human-in-the-loop oversight mechanisms for regulated software.",
-                "This regulatory framework is rapidly setting the global standard for safety, ethical deployment, and systemic risk assessment.",
-                "Companies failing to integrate these compliance layers face significant operational disruption and escalating legal risk profiles."
+                "Microsoft Azure deployed ND MI455Xv7 virtual machines powered by AMD Instinct processors to accelerate workloads.",
+                "The platform launched Microsoft IQ to connect autonomous agents securely to distributed corporate enterprise data.",
+                "This framework isolates agent context and memory from foundational models to enforce zero-trust security postures.",
+                "Enterprise CIOs expect substantial performance gains for massive transactional processing and real-time inference execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
