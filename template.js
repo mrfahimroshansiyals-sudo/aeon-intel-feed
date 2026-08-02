@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT SYSTEM",
+        "titleWhite": "AUTONOMOUS INFRASTRUCTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 API PRICE DROP",
+            "heading": "OPENAI: MODEL COST CUTS",
             "points": [
-                "OpenAI has dropped API prices for its new frontier intelligence models GPT-5.6 Luna and Terra by eighty percent.",
-                "This strategic price cut significantly lowers the entry barrier for enterprises deploying high-throughput, agentic workflows globally.",
-                "The architecture of GPT-5.6 allows for increased scale, offering developers superior performance at a fraction of previous costs.",
-                "Industry stakeholders predict this aggressive pricing will trigger a margin-compression war among competitive foundational model providers."
+                "OpenAI slashed API pricing for GPT-5.6 Luna and Terra models by eighty percent.",
+                "This aggressive rate reduction optimizes operational profit margins for scaling enterprise agentic workflows globally.",
+                "Lower costs enable developers to build dense programmatic agent pipelines without hitting severe budget limits.",
+                "This financial restructuring forces competitive model providers to adjust their baseline token transaction fees."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,60 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "GOOGLE: AGENTIC PLATFORM DEPLOYMENT",
             "points": [
-                "Anthropic has launched Claude Science as a customizable flagship app that integrates specialized scientific tools and computing resources.",
-                "Researchers can now run complex workflows that output fully auditable artifacts, accelerating scientific discovery timelines significantly.",
-                "The system architecture isolates scientific packages while offering flexible access to highly scalable backend compute environments.",
-                "Analysts expect this domain-specific application will cement Anthropic's market capture in academic and pharmaceutical research sectors."
+                "Google released Gemini 3.6 Flash alongside a fully managed remote Model Context Protocol server.",
+                "The updated infrastructure provides scalable task orchestration and deep cognitive tools for sovereign digital agents.",
+                "Developers can now deploy low-latency, containerized agent architectures across multiple secure cloud zones natively.",
+                "This launch secures Google's position in the high-stakes race for real-world automated system action."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EU COMMISSION: AI ACT ENFORCEMENT",
+            "heading": "EUROPEAN UNION: INFRASTRUCTURE SOVEREIGNTY",
             "points": [
-                "The European Union has established the Scientific Panel of Independent Experts to enforce strict rules on general-purpose AI.",
-                "High-risk compliance deadlines mandate that enterprises establish rigorous governance frameworks and transparency measures starting August second.",
-                "The regulatory structure targets systemic risks, requiring model providers to expose operational metrics to independent audit boards.",
-                "Governance experts forecast that early compliance audits will force rapid redesigns of proprietary corporate AI pipelines."
+                "The European Union pledged eleven point five billion dollars to construct seven massive AI gigafactories.",
+                "This sovereign funding strategy aims to secure local hardware supply chains and sovereign cloud networks.",
+                "The initiative provides high-performance computing clusters capable of training next-generation frontier foundation models securely.",
+                "European enterprise deployments will benefit from localized, low-latency infrastructure optimized for strict compliance standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: artificialintelligenceact.eu",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: GEMINI ROBOTICS 2",
+            "heading": "AMD: HYPERSCALE CHIP PARTNERSHIP",
             "points": [
-                "Google DeepMind has launched Gemini Robotics 2, introducing whole-body intelligence and multi-robot task orchestration capability.",
-                "This update elevates robot utility from simple isolated movements to complex, coordinated real-world physical manipulations.",
-                "The physical AI layer leverages advanced video understanding and real-time task planning directly within simulated environments.",
-                "Robotics engineers expect this release to accelerate industrial automation timelines across global warehousing and manufacturing facilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMD: ANTHROPIC GPU PARTNERSHIP",
-            "points": [
-                "AMD and Anthropic have formed a strategic partnership deploying up to two gigawatts of AMD Instinct MI450 Series GPUs.",
-                "This massive infrastructure deployment establishes a major alternative cluster for frontier model training and real-time inference scaling.",
-                "The deployment combines advanced hardware capabilities with the open-source ROCm software stack to maximize token generation efficiency.",
-                "Market observers anticipate this partnership will seriously challenge Nvidia's long-standing dominance in the enterprise AI chip sector."
+                "AMD partnered with Anthropic to deploy two gigawatts of next-generation Instinct MI450 hardware.",
+                "This compute deployment represents a massive infrastructure expansion for training advanced Claude five models.",
+                "The high-performance silicon cluster provides robust competition to Nvidia's dominant market share in chip production.",
+                "Hyperscalers can leverage these optimized Instinct chips to run massive distributed inference workloads efficiently."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DYNATRACE: BLUEBOX AUTONOMOUS AI",
+            "id": 5,
+            "heading": "DATABRICKS: COGNITIVE DATA MIGRATION",
             "points": [
-                "Dynatrace has unveiled Bluebox, an autonomous AI sub-venture designed to completely automate the software delivery lifecycle.",
-                "The platform removes human engineers from repetitive loops, managing software deployment, testing, and system monitoring dynamically.",
-                "Built upon agentic micro-architectures, Bluebox relies on real-time telemetry data to execute continuous integration and continuous delivery tasks.",
-                "Software executives project this shift toward human-out-of-the-loop systems will drastically reduce operational downtime and manual errors."
+                "Databricks introduced an automated agentic tool designed to rewrite legacy enterprise SQL code instantly.",
+                "This database modernization framework slashes the manual engineering overhead required during cloud migration processes.",
+                "AI agents independently analyze schema relationships to translate historical queries into optimized modern syntax structures.",
+                "Enterprises can now scale data modernization pipelines rapidly without risking human coding configuration errors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: techtarget.com",
+                "Source: infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ORACLE: MULTI-MODEL CLOUD INTEGRATION",
+            "points": [
+                "Oracle integrated Google Gemini foundation models into its sovereign distributed cloud computing infrastructure services.",
+                "This partnership enables enterprise clients to deploy multimodal capabilities directly within protected database environments.",
+                "Businesses can process transactional data locally, mitigating security risks associated with public API endpoint usage.",
+                "The architectural merge solidifies a growing industry shift toward multi-model hybrid cloud orchestration strategies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DATABRICKS: LEGACY SQL REWRITER",
+            "heading": "EUROPEAN UNION: COMPLIANCE ENFORCEMENT",
             "points": [
-                "Databricks has released an AI-driven tool that automatically translates and rewrites legacy SQL code at massive scale.",
-                "Enterprises can migrate complex data structures to modern platforms without manually auditing millions of lines of query code.",
-                "The architecture uses specialized translation agents trained on diverse database syntaxes to preserve query semantic intent perfectly.",
-                "Database administrators expect this tool to slash enterprise data warehouse migration timelines from years to mere weeks."
+                "The European Union AI Act approaches critical August second compliance milestones for active high-risk systems.",
+                "Global technology providers must register their foundation models under the oversight of the Scientific Panel.",
+                "Failure to align operational models with the transparent framework could trigger substantial financial regulatory penalties.",
+                "Enterprise deployment teams are aggressively shifting resources toward auditing legacy algorithms for regulatory alignment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
