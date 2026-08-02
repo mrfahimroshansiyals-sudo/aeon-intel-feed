@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "EVOLUTION"
+        "titleWhite": "AUTONOMOUS AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER COGNITIVE SCALING",
+            "heading": "AMD: SOVEREIGN AI PARTNERSHIP",
             "points": [
-                "OpenAI deployed GPT-5.6 alongside Luna and Terra APIs to deliver frontier intelligence at scale.",
-                "The system reduced developer API transaction costs by up to eighty percent to optimize enterprise throughput.",
-                "This structural adjustment shifts production architectures toward high-frequency, multi-agent automated orchestration systems.",
-                "Stakeholders anticipate immediate deployment of highly complex agentic workflows across core global business operations."
+                "AMD partnered with Korea's Ministry of Science and ICT to build sovereign national artificial intelligence infrastructure ecosystems.",
+                "The collaboration deploys advanced computing technology, open-source model optimization, and targeted specialized AI talent training initiatives.",
+                "This initiative bypasses monopolistic cloud dependencies by establishing localized high-performance physical server clusters running custom frameworks.",
+                "Global governments will increasingly demand local data control, driving significant demand for AMD hardware options."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: OPUS AGENTIC UPGRADE",
+            "heading": "OPENAI: API COST REDUCTIONS",
             "points": [
-                "Anthropic launched Opus Five to deliver a massive step-change in agentic execution and advanced coding capabilities.",
-                "The model integrates customizable tools and auditable artifacts to process complex analytical data streams efficiently.",
-                "This release targets legacy software development frameworks to automate end-to-end code synthesis and validation.",
-                "Enterprise architects expect deep integration of self-correcting agent pipelines into mission-critical software repositories."
+                "OpenAI executed an eighty percent price reduction for its frontier GPT-5.6 Luna and Terra model APIs.",
+                "Developers can scale complex agentic workflows while maintaining lower operational overhead across high-throughput production pipelines.",
+                "Lower token costs accelerate multi-agent orchestration architectures by reducing execution penalties for dense recursive system calls.",
+                "This pricing pressure forces competing model providers to aggressively subsidize infrastructure or risk rapid developer churn."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: SYSTEM OF RECORD",
+            "heading": "GOOGLE DEEPMIND: ROBOTICS UPGRADE",
             "points": [
-                "Mistral AI introduced Robostral Navigate to serve as an enterprise-grade system of record for agent skills.",
-                "The architecture enables seamless task execution and structured data analysis across disparate high-horizon workloads.",
-                "Deploying Vibe for Code allows organizations to translate legacy infrastructure architectures into modern cloud environments.",
-                "Operations teams will leverage persistent memory stores to scale autonomous decision systems without latency degradation."
+                "Google DeepMind launched Gemini Robotics 2, introducing unified whole-body intelligence architectures for next-generation physical robots.",
+                "The model integrates direct video understanding, task orchestration, and decentralized multi-robot collaboration protocols in real-time environments.",
+                "Standardizing robot execution layers on multimodal vision-language-action models removes brittle custom motion planning middleware layers.",
+                "Industrial manufacturing facilities will rapidly adopt adaptable general-purpose robots, reducing reliance on single-task automation hardware."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: MULTI-AGENT ACTION",
+            "heading": "ORACLE: GEMINI ENTERPRISE INTEGRATION",
             "points": [
-                "Google DeepMind released Gemini Robotics Two to provide advanced physical task orchestration and video understanding.",
-                "The framework coordinates multiple physical platforms concurrently while maintaining low latency edge-to-cloud synchronization.",
-                "Integrating Gemini Omni Flash accelerates complex multimodal data ingestion to automate physical industrial pipelines.",
-                "System integrators expect rapid adoption of autonomous mobile robotics in highly dynamic logistics environments globally."
+                "Oracle integrated Google Gemini models directly into its sovereign enterprise cloud database and application infrastructure suite.",
+                "Corporate customers can now safely deploy complex agentic workflows directly against protected relational database tables.",
+                "This configuration eliminates external data serialization requirements by processing natural language queries directly inside secure zones.",
+                "Enterprise software architectures will rapidly migrate toward embedded model architectures to minimize data exposure vulnerabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
+            "heading": "EUROPEAN UNION: AI ACT DEADLINE",
             "points": [
-                "NVIDIA formed a strategic partnership with Safe Superintelligence Incorporated to accelerate frontier cognitive security development.",
-                "The collaboration integrates customized CUDA-X and PhysicsNeMo libraries into standard agentic development toolkits.",
-                "This architectural expansion secures real-world physical simulations while maintaining peak high-performance computing performance.",
-                "Developers expect accelerated verification cycles for complex physical models operating within secure safety boundaries."
+                "The European Union enforced critical high-risk classification and transparency compliance deadlines under the official AI Act.",
+                "Companies utilizing automated recruitment, biometric profiling, or high-risk decision systems must implement verifiable auditing frameworks immediately.",
+                "Governance models must now record detailed telemetry across training data lineage, model drift, and human-in-the-loop overrides.",
+                "Non-compliant tech organizations face massive regulatory fines, accelerating the demand for automated compliance monitoring software."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: SOVEREIGN INFRASTRUCTURE ALLIANCE",
+            "heading": "NVIDIA: PHYSICS NEMO EXPANSION",
             "points": [
-                "AMD partnered with Korea's Ministry of Science and ICT to build sovereign hardware computing ecosystems.",
-                "The initiative deploys up to two gigawatts of advanced AMD Instinct MI450 Series GPU infrastructure.",
-                "This sovereign alignment protects national digital assets while fostering open-source model optimization on local clusters.",
-                "National security architects anticipate complete technological self-sufficiency across key public sector computing nodes."
+                "NVIDIA expanded its Agent Toolkit with PhysicsNeMo and CUDA-X libraries to streamline physical artificial intelligence design.",
+                "Engineering groups can deploy physics-informed agentic systems to accelerate complex material modeling and structural simulation workloads.",
+                "The framework bridges digital twin simulations and real-world execution by embedding physical law constraints inside neural networks.",
+                "Heavy industrial manufacturers will dramatically compress product development lifecycles using autonomous agent-driven structural design pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT AZURE: INTENT-DRIVEN COGNITION",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
             "points": [
-                "Microsoft Azure deployed ND MI455Xv7 virtual machines powered by AMD Instinct processors to accelerate workloads.",
-                "The platform launched Microsoft IQ to connect autonomous agents securely to distributed corporate enterprise data.",
-                "This framework isolates agent context and memory from foundational models to enforce zero-trust security postures.",
-                "Enterprise CIOs expect substantial performance gains for massive transactional processing and real-time inference execution."
+                "Mistral AI introduced Robostral Navigate alongside its flagship long-horizon autonomous task orchestration platform called Vibe.",
+                "Developers can deploy persistent coding, structural search, and multi-step agent actions with robust system-of-record mechanics.",
+                "The model optimizes long-context retention and persistent memory slots, enabling reliable multi-step execution over several hours.",
+                "Enterprise IT teams will shift from simple chatbots to autonomous agent fleets managing end-to-end software lifecycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
