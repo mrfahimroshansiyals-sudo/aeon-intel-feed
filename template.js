@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "EPOCH"
+        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: API COST REDUCTION",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "OpenAI dramatically reduced API pricing for the newly released GPT-5.6 Luna and Terra frontier models.",
-                "Enterprise developer deployment costs decrease by eighty percent, directly optimizing large-scale production runtimes and model interactions.",
-                "This aggressive reduction counters enterprise scaling concerns while building structural market dominance against open-weight rival models.",
-                "Software architects will rapidly transition core workflows to these high-volume APIs, accelerating immediate agentic deployment cycles."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "EU: GIGAFACTORY FUNDING",
-            "points": [
-                "The European Union committed eleven billion dollars to establish seven state-of-the-art AI infrastructure gigafactories.",
-                "This strategic capital allocation aims to radically boost localized computing power and sovereign data center density.",
-                "The initiative seeks to decrease long-term reliance on foreign cloud providers and strengthen continental technology sovereignty.",
-                "European enterprise leaders will gain unprecedented access to compliant high-performance computing facilities for secure localized workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE DEEPMIND: PHYSICAL ROBOTICS",
-            "points": [
-                "Google DeepMind released Gemini Robotics 2, providing native whole-body intelligence and video-based multi-robot task orchestration.",
-                "Physical automation frameworks receive a major upgrade, facilitating seamless coordination across complex real-world manufacturing environments.",
-                "Integrating multimodal understanding directly into physical actuators bridges the critical gap between cognitive planning and execution.",
-                "Heavy industries will quickly adopt these vision-language-action architectures to accelerate autonomous factory floors and warehousing systems."
+                "DeepMind unveils Gemini Robotics 2, a breakthrough intelligence layer providing robots with sophisticated video understanding and complex multi-robot task orchestration capabilities.",
+                "The platform integrates real-time task scheduling and world-model simulations, enabling robots to navigate unstructured environments while executing multi-step autonomous planning sequences.",
+                "This architecture marks a pivot from static LLMs toward high-fidelity physical AI, reducing dependency on pre-programmed scripts in favor of emergent skill acquisition.",
+                "Enterprises now gain foundational infrastructure to scale industrial automation by replacing legacy control systems with reactive, simulation-validated agentic robotics intelligence."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: SILICON COLLABORATION",
+            "id": 2,
+            "heading": "OPENAI: PRICING AND ROBUSTNESS",
             "points": [
-                "AMD partnered with Anthropic to deploy two gigawatts of high-performance Instinct MI450 Series graphics processing units.",
-                "The massive deployment significantly expands cloud-scale training throughput and addresses global compute capacity constraints for enterprise clients.",
-                "This hardware alliance breaks the dominant silicon monopoly, offering high-performance alternatives for training next-generation foundational models.",
-                "Enterprises will experience diversified cloud infrastructure hosting paths, lowering risk profiles and stabilizing foundational model pricing models."
+                "OpenAI aggressively slashed API costs by up to 80 percent for GPT-5.6 models, signaling a strategic focus on expanding enterprise accessibility and ROI.",
+                "This move directly addresses market concerns regarding the high operational expenditures associated with scaling agentic AI workflows across large-scale organizational data silos.",
+                "The release of GPT-Red serves as a dedicated self-improvement framework, designed to detect and mitigate potential security vulnerabilities through continuous, automated robustness testing.",
+                "Lowered costs combined with improved safety tooling are accelerating the transition from experimental AI pilots to permanent, high-volume production deployments in global enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: ALIGNMENT CO-DEVELOPMENT",
+            "id": 3,
+            "heading": "MICROSOFT AZURE: AGENTIC SCALING",
             "points": [
-                "Ilya Sutskever's Safe Superintelligence partner with NVIDIA to accelerate strategic growth and robust alignment engineering frameworks.",
-                "The multi-year alliance leverages massive optimized supercomputing clusters specifically tailored for complex safe-by-design model training.",
-                "Combining advanced hardware clusters with pioneering alignment research establishes a critical benchmark for developing secure autonomous superintelligence.",
-                "Regulators and developers will utilize these co-developed testing systems to validate model safety before public releases."
+                "Microsoft announced the expansion of its Azure AI infrastructure with new AMD-powered virtual machines, specifically targeting heavy inference and technical computing demands.",
+                "The integration of Microsoft IQ provides a centralized context layer, allowing autonomous agents to securely access disparate enterprise systems, workflows, and private datasets.",
+                "By decoupling memory and orchestration from specific models, Microsoft is standardizing a modular workspace approach to managing complex multi-agent collaborative task environments.",
+                "The strategic pivot toward agentic DevOps on Azure empowers developers to maintain persistent state and business context while deploying at significant enterprise scale."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: PHYSICAL AI EXPANSION",
+            "points": [
+                "NVIDIA announced an expansion of its Agent Toolkit, introducing PhysicsNeMo and CUDA-X libraries designed to transform industrial engineering through virtual simulation.",
+                "These tools enable developers to train agents in high-fidelity physics gyms, bridging the gap between virtual world training and real-world industrial deployment outcomes.",
+                "Partnerships with major robotics leaders are leveraging these libraries to accelerate the development of physical AI models capable of precise multi-modal motor control.",
+                "This ecosystem approach establishes a standardized, high-performance architecture for industrial firms seeking to automate complex physical operations through reliable, simulated robotic intelligence."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DATABRICKS: AGENTIC DATABASE REFACTOR",
+            "id": 5,
+            "heading": "MISTRAL AI: FRONTIER AGENTIC WORK",
             "points": [
-                "Databricks launched a novel tool employing autonomous AI agents to rewrite legacy SQL databases at scale.",
-                "Migration cycles for enterprise data warehouses drop significantly, eliminating manual translation efforts and optimizing database runtime performance.",
-                "This deployment represents a massive shift toward using agentic workflows to refactor ancient codebases for modern engines.",
-                "Systems integrators will utilize these self-improving agents to compress multi-year cloud database modernization strategies into weeks."
+                "Mistral AI launched Vibe, an agentic framework purpose-built for executing long-horizon, complex professional tasks involving multi-step reasoning and deep enterprise knowledge synthesis.",
+                "The platform features Vibe for Code, offering developers an architecture-aware coding agent that operates within existing terminal and IDE development environments.",
+                "Mistral provides end-to-end deployment portability via Studio, allowing companies to run production AI workloads from edge nodes directly to centralized cloud clusters.",
+                "These modular components allow enterprises to replace fragmented toolchains with a cohesive, Frontier-grade stack capable of sophisticated document analysis and automated system orchestration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMD: SOVEREIGN AI ECOSYSTEMS",
+            "points": [
+                "AMD formed a new partnership with Korea's Ministry of Science and ICT to cultivate a sovereign AI ecosystem, providing compute technology and open-source models.",
+                "The company is scaling its full-stack AI strategy by delivering rack-scale solutions optimized for the intense, persistent operational demands of agentic data centers.",
+                "Expanded collaborations with Meta and Anthropic confirm AMD's pivotal role in supporting open-standard, end-to-end AI innovation across cloud and enterprise data center segments.",
+                "By offering flexible CPU and GPU architectures, AMD is enabling businesses to achieve superior cost-performance ratios while maintaining autonomy over their critical infrastructure assets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IBM: QUANTUM ADVANTAGE VERIFICATION",
+            "heading": "TSMC: HPC AND AI FABRICATION",
             "points": [
-                "IBM declared definitive quantum advantage using innovative physical validation techniques to check complex computational scaling behaviors.",
-                "The new validation protocols accurately confirm computational reliability beyond the capability reach of traditional binary supercomputing simulations.",
-                "This scientific milestone shifts the industry from theoretical quantum explorations to verified structural superiority in complex materials.",
-                "Research institutions and industrial chemists will rapidly utilize these verified quantum circuits to design novel synthetic substances."
+                "TSMC is scaling its A16 nanosheet production using integrated backside power delivery solutions, specifically designed to power the next generation of high-performance AI chips.",
+                "The company's OIP Ecosystem is now actively prioritizing collaborative breakthroughs in 3D IC design to sustain the intense computational requirements of modern AI models.",
+                "By advancing manufacturing nodes like A14 and A16, TSMC continues to push the physical limits of transistor density and energy efficiency for AI-driven hardware.",
+                "Global chipmakers are increasingly relying on these architectural advancements to provide the raw underlying performance necessary for the burgeoning era of agentic, autonomous computing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
