@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENT",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "SOVEREIGN AGENTIC ENTERPRISE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL",
+            "heading": "OPENAI: FRONTIER MODEL PRICE DECOUPLING",
             "points": [
-                "OpenAI launches GPT-5.6 frontier model featuring advanced multi-step reasoning capabilities for automated enterprise workflows.",
-                "The newly upgraded architecture yields an eighty percent reduction in execution latency for complex coding environments.",
-                "System developers can now deploy highly autonomous agents without relying on external system orchestration frameworks.",
-                "Global enterprises will accelerate the transition toward human-out-of-the-loop transaction management and automated system operations."
+                "OpenAI officially launches GPT-5.6 alongside massive eighty percent API price reductions for Luna and Terra.",
+                "Enterprise developers can now scale multi-agent orchestration pipelines at a fraction of former deployment costs.",
+                "The sudden pricing adjustment shifts competitive pressure directly toward open-weight alternatives in the enterprise market.",
+                "System architects predict this price-to-performance leap will rapidly accelerate production-level agentic workspace integration globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: ROGUE THREATS",
+            "heading": "DEEPMIND: AGENTIC PHYSICAL ROBOTICS SYSTEM",
             "points": [
-                "Sophisticated cyber threats exploit sandboxed machine learning environments to execute rogue actions across connected enterprise systems.",
-                "Recent security breaches on collaborative repositories highlight vulnerability risks affecting thousands of deployed production models globally.",
-                "Infrastructure engineers must implement strict zero-trust security controls around adjacent machine learning execution systems immediately.",
-                "Organizations will prioritize real-time threat detection and advanced regression testing for all autonomous agent networks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "OPENAI: API COST DECOUPLING",
-            "points": [
-                "OpenAI reduces API pricing for GPT-5.6 Luna and Terra models to lower deployment barriers.",
-                "Enterprise developers benefit from price drops of up to eighty percent on high-volume model inference costs.",
-                "Dramatic cost reductions enable scalable implementation of agentic pipelines without exceeding strict corporate IT budgets.",
-                "Shifting price dynamics will democratize custom fine-tuning and accelerate the obsolescence of older legacy platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EUROPEAN UNION: GIGAFACTORIES",
-            "points": [
-                "European authorities pledge eleven billion dollars to establish seven specialized AI gigafactories across the continent.",
-                "The multi-billion dollar capital allocation aims to build regional high-performance computing clusters and sovereign infrastructure.",
-                "Member states seek to counter reliance on non-European semiconductor manufacturing and external cloud service providers.",
-                "Regulatory bodies will likely introduce strict data processing rules aligned with the upcoming AI Act mandates."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: AGENT PLATFORM",
-            "points": [
-                "Mistral introduces Robostral Navigate alongside the Vibe agent platform for executing long-horizon automated engineering tasks.",
-                "The persistent-memory model optimizes multi-step scheduling to manage complex legacy code translations across distributed networks.",
-                "Integrating custom agents within existing terminal and developer environments eliminates human intervention from software development lifecycles.",
-                "Autonomous software development pipelines will rapidly replace manual coding procedures within major technology engineering hubs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS",
-            "points": [
-                "Google DeepMind releases Gemini Robotics Two to provide advanced physical agents with complete whole-body intelligence layers.",
-                "Integrating multi-robot collaboration systems improves real-time task execution efficiency by forty percent in simulated environments.",
-                "Combining high-fidelity video understanding with automated task orchestration bridges physical execution gaps for industrial robots.",
-                "Industrial manufacturers will accelerate floor automation by deploying adaptive robotic agents capable of independent spatial reasoning."
+                "Google DeepMind releases Gemini Robotics 2 delivering whole-body intelligence and video-based environmental understanding to machines.",
+                "The platform enables multi-robot collaboration, task orchestration, and precise spatial reasoning in complex manufacturing facilities.",
+                "Integrating video understanding directly into the robotic control loop eliminates legacy middleware and sensor calibration lag.",
+                "Autonomous industrial facilities will leverage this framework to unify digital scheduling and physical machine manipulation."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AMD: SOVEREIGN CHIP PARTNERSHIP",
+            "id": 3,
+            "heading": "AMD: HYPERSCALE GPU INFRASTRUCTURE DEPLOYMENT",
             "points": [
-                "AMD partners with Korea\u2019s Ministry of Science to build customized sovereign artificial intelligence processing infrastructure.",
-                "The technological alliance leverages custom open-source models and next-generation Instinct accelerators across national research centers.",
-                "Developing regional computing facilities reduces hardware reliance on dominant market monopolists while securing critical national data.",
-                "Global governments will increasingly seek strategic chip partnerships to construct independent, localized high-performance computing networks."
+                "AMD and Anthropic forge strategic partnership deploying two gigawatts of Instinct MI450 Series hardware accelerators.",
+                "This infrastructure expansion delivers unprecedented compute capacity optimized specifically for highly agentic AI workspace operations.",
+                "The deal strengthens AMD as a premier alternative to current single-source market dominance in AI silicon.",
+                "Enterprise customers can expect enhanced training pipelines and more cost-effective model deployment across hybrid clouds."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EU AI ACT: GENERAL PURPOSE ENFORCEMENT",
+            "points": [
+                "The EU AI Act institutes its scientific panel of independent experts to enforce general-purpose model compliance.",
+                "This regulatory body monitors frontier model risks and ensures system transparency before the upcoming compliance deadlines.",
+                "Global developers must adapt auditing frameworks to meet these rigorous, legally binding transparency and testing benchmarks.",
+                "Organization leadership expects these standards to form the baseline for international high-risk AI deployment rules."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: SECURE ENTERPRISE INTEGRATION CONTEXT",
+            "points": [
+                "Microsoft launches Microsoft IQ to securely connect autonomous agents to legacy databases, corporate files, and workflows.",
+                "The platform establishes a shared context engine that coordinates multi-agent orchestration without exposing sensitive company data.",
+                "Modernizing the integration layer allows organizations to deploy real-time digital assistants across disparate enterprise software.",
+                "System architects gain granular control over orchestration policies, lowering risks of unintended automated data exfiltration."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ORACLE: DATA CLOUD MODEL EXPANSION",
+            "points": [
+                "Oracle brings Google Gemini foundation models to enterprise database environments through direct cloud infrastructure integrations.",
+                "Customers can now execute complex machine learning algorithms directly where their transactional database records are stored.",
+                "Bypassing traditional data extraction steps significantly reduces compute latency and overall transport security risks for companies.",
+                "Database administrators can build robust data workflows using advanced generative intelligence tools without leaving Oracle cloud."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "SSI: NATIONWIDE SAFE SUPERINTELLIGENCE INITIATIVE",
+            "points": [
+                "Safe Superintelligence Inc partners with NVIDIA to accelerate advanced safety frameworks for frontier model research development.",
+                "The multi-year alliance leverages specialized computing architectures designed to train highly resilient, safe artificial intelligence.",
+                "Establishing secure research environments guarantees that safety protocols keep pace with rapid raw scaling capabilities.",
+                "This partnership will likely dictate how future sovereign infrastructure deployments balance performance limits with safety guardrails."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
