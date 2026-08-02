@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS FRONTIER",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "SOVEREIGN SYSTEM",
+        "titleBlue": "COHESION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
+            "heading": "AMD: SOVEREIGN AI INFRASTRUCTURE",
             "points": [
-                "OpenAI launched the GPT-5.6 frontier intelligence model featuring native scaling capabilities and architectural efficiency.",
-                "Developer API prices for Luna and Terra variations have dropped by up to eighty percent.",
-                "This update optimizes multi-step planning and contextual processing layers across high-throughput enterprise infrastructure nodes.",
-                "Enterprises will deploy highly scalable, cost-efficient agentic systems across diverse legacy data ecosystems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MICROSOFT: COPILOT SUPER APP INTEGRATION",
-            "points": [
-                "Microsoft launched a unified Copilot super app integrating chat, autonomous agents, and enterprise orchestration pipelines.",
-                "The structural shift decouples core memory and context systems from single underlying foundational model dependencies.",
-                "Microsoft IQ establishes secure agentic connections to internal enterprise workflows, data lakes, and transactional databases.",
-                "Corporate IT leaders will build highly resilient, multi-model orchestrations without worrying about single vendor lock-in."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: ANTHROPIC INSTINCT GPU DEPLOYMENT",
-            "points": [
-                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series accelerators.",
-                "The deal substantially increases competitive pressure on alternative hardware suppliers within hyper-scale cloud facilities globally.",
-                "This infrastructure deployment prioritizes open-source standards, optimized ROCm software, and deep system-level hardware co-innovation.",
-                "AI labs will gain unprecedented high-performance compute access, significantly driving down massive foundation training durations."
+                "AMD partners with South Korea Ministry of Science to build sovereign national artificial intelligence infrastructure.",
+                "The collaborative ecosystem delivers advanced open-source models and specialized compute capabilities for domestic technology development.",
+                "Strategic investments focus on developing regional talent and securing computational sovereignty against centralized global providers.",
+                "Sovereign frameworks ensure localized data protection and resilient infrastructure aligned with national regulatory compliance guidelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "id": 2,
+            "heading": "ANTHROPIC: COMPUTE CHIP DEPLOYMENT",
             "points": [
-                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence to accelerate strategic growth.",
-                "The collaboration scales proprietary safety-critical engineering processes, drastically reducing alignment failures during training phases.",
-                "Secure hardware clusters will execute specialized superintelligence development workflows, utilizing custom-designed liquid-cooled physical nodes.",
-                "Sovereign developers will benefit from highly secure, physically isolated model environments preventing premature weight exfiltration."
+                "Anthropic partners with AMD to deploy up to two gigawatts of Instinct MI450 series graphics processors.",
+                "Massive computing footprint accelerates frontier model training while reducing architectural dependency on a single hardware provider.",
+                "The multi-gigawatt infrastructure guarantees highly scalable execution environments for next-generation agentic and scientific workflows.",
+                "Enterprise developers secure access to diversified high-performance processing pipelines optimized for long-horizon operational execution."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OPENAI: MASSIVE API PRICE-CUTS",
+            "points": [
+                "OpenAI slashes GPT-5.6 API pricing by eighty percent to reduce cost barriers for scaling enterprise models.",
+                "Substantial operational cost reductions allow companies to deploy advanced reasoning agents without exceeding computational budgets.",
+                "Lower transaction fees intensify competition among frontier model providers driving widespread adoption of agentic automation pipelines.",
+                "High-volume enterprise integration becomes economically viable, shifting market focus from basic prototyping to production-scale systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SAFE SUPERINTELLIGENCE: NVIDIA PARTNERSHIP",
+            "points": [
+                "Safe Superintelligence Inc partners with NVIDIA to accelerate safe frontier-grade software systems and structural scaling projects.",
+                "The technical alliance provides dedicated processing hardware required to train highly robust and secure neural networks.",
+                "Custom engineering optimizations combine advanced algorithmic models directly with state-of-the-art supercomputing infrastructure.",
+                "Strategic infrastructure access safeguards development pipelines of autonomous intelligence frameworks against catastrophic failure vectors."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS INTENSITY",
+            "heading": "EUROPEAN UNION: AI ACT DEADLINE",
             "points": [
-                "Google DeepMind unveiled Gemini Robotics 2, delivering whole-body intelligence and native multi-robot orchestration layers.",
-                "Autonomous physical agents now demonstrate significantly enhanced spatial reasoning, reducing physical execution errors by half.",
-                "The system unifies real-time video understanding, task prioritization, and dynamic motor control within edge-computed neural networks.",
-                "Industrial manufacturers will rapidly deploy collaborative robotics fleets without requiring extensive manual environment redesign actions."
+                "European Union AI Act marks major enforcement milestones establishing governance protocols for high-risk system deployments.",
+                "Organizations face immediate audits requiring rigorous testing of algorithm data, bias mitigation, and systemic risk assessments.",
+                "Compliance mandates redefine operating models forcing software vendors to integrate transparent documentation inside automated processing loops.",
+                "Non-compliant enterprises risk heavy administrative penalties, accelerating the adoption of standardized validation and verification tools."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL SYSTEM OF RECORD",
+            "heading": "MICROSOFT: UNIFIED AGENTIC ARCHITECTURE",
             "points": [
-                "Mistral AI launched Robostral Navigate, establishing a comprehensive system of record for prompts and skills.",
-                "The platform mitigates version control drift, cutting deployment debug cycles for autonomous enterprise pipelines drastically.",
-                "A centralized registry decouples dynamic prompt engineering layers from the underlying core inference model execution.",
-                "Software engineering teams will easily standardize agentic workflows across highly complex, distributed multi-cloud operational environments."
+                "Microsoft IQ unifies multi-model interfaces separating context, enterprise memory, and orchestration from underlying foundation models.",
+                "Distributed architectural design allows autonomous agents to safely access business workflows and operational data repositories concurrently.",
+                "Decoupling memory from computation increases operational reliability while enabling flexible swaps of localized language model backends.",
+                "Enterprise developers gain modular control over security layers to mitigate token exploitation and unauthorized corporate data leaks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "EUROPEAN UNION: COMPUTE GIGAFACTORY CAPITAL",
             "points": [
-                "ASML announced that High NA EUV lithography systems have reached a major high-volume Logic manufacturing milestone.",
-                "Leading chipmakers can now scale two-nanometer and sub-two-nanometer production lines with significantly lower patterning defect rates.",
-                "Advanced light patterning mechanisms enable unparalleled transistor density improvements, critical for next-generation sovereign AI accelerators.",
-                "Fab operators will dramatically increase high-volume chip yields, stabilizing global hardware supply chains for future scaling."
+                "European Union allocates eleven billion dollars to construct seven advanced computing gigafactories for frontier system training.",
+                "Capital injection aims to challenge international dominance by establishing massive localized processing nodes across member nations.",
+                "Publicly funded infrastructure democratizes hardware access enabling domestic startups and research institutions to train heavy models.",
+                "Strategic sovereignty initiatives reduce supply chain reliance on foreign fabrication hubs ensuring regional control over critical technology."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
