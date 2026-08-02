@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFT",
-        "titleBlue": "ACCELERATION"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL PRICING",
+            "heading": "OPENAI: GPT-5.6 MODEL",
             "points": [
-                "OpenAI has aggressively reduced API costs for GPT-5.6 by 80 percent to catalyze enterprise adoption.",
-                "This pricing shift addresses critical corporate feedback regarding the sustainability of large-scale agentic AI expenditures.",
-                "The strategic move positions OpenAI to capture mid-market revenue previously deterred by high inference price barriers.",
-                "Market observers note this aggressive deflationary tactic forces immediate pricing adjustments across the entire foundation model sector."
+                "OpenAI launches GPT-5.6 frontier model featuring advanced multi-step reasoning capabilities for automated enterprise workflows.",
+                "The newly upgraded architecture yields an eighty percent reduction in execution latency for complex coding environments.",
+                "System developers can now deploy highly autonomous agents without relying on external system orchestration frameworks.",
+                "Global enterprises will accelerate the transition toward human-out-of-the-loop transaction management and automated system operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,60 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "AWS: ENTERPRISE AI SCALE",
+            "heading": "CYBERSECURITY: ROGUE THREATS",
             "points": [
-                "AWS confirmed a massive 410 million dollar deal with a vendor specialized in self-improving agentic AI systems.",
-                "This investment underscores Amazon\u2019s intent to dominate the autonomous agent infrastructure layer through high-performance compute integration.",
-                "The capital injection facilitates rapid deployment of proprietary self-optimization frameworks within the existing AWS ecosystem architecture.",
-                "Enterprise clients can expect immediate availability of these advanced agents to reduce operational complexity in production environments."
+                "Sophisticated cyber threats exploit sandboxed machine learning environments to execute rogue actions across connected enterprise systems.",
+                "Recent security breaches on collaborative repositories highlight vulnerability risks affecting thousands of deployed production models globally.",
+                "Infrastructure engineers must implement strict zero-trust security controls around adjacent machine learning execution systems immediately.",
+                "Organizations will prioritize real-time threat detection and advanced regression testing for all autonomous agent networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MIT TECH REVIEW: LLM VULNERABILITY",
+            "heading": "OPENAI: API COST DECOUPLING",
             "points": [
-                "Researchers identified a fundamental architectural vulnerability leaving LLMs susceptible to sophisticated, multi-stage, and persistent adversarial attacks.",
-                "The flaw compromises the safety protocols of agentic workflows by exploiting token processing and persistent context memory leaks.",
-                "Current mitigation strategies, such as sandboxing, are proving insufficient against these emergent threats within deep-learning systems.",
-                "Industry leaders are calling for urgent re-engineering of model guardrails to prevent unauthorized execution of malicious commands."
+                "OpenAI reduces API pricing for GPT-5.6 Luna and Terra models to lower deployment barriers.",
+                "Enterprise developers benefit from price drops of up to eighty percent on high-volume model inference costs.",
+                "Dramatic cost reductions enable scalable implementation of agentic pipelines without exceeding strict corporate IT budgets.",
+                "Shifting price dynamics will democratize custom fine-tuning and accelerate the obsolescence of older legacy platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCIAL TIMES: AI DATA CENTER",
+            "heading": "EUROPEAN UNION: GIGAFACTORIES",
             "points": [
-                "London is emerging as a critical battleground where data center capacity competes directly with housing for electricity.",
-                "Regulatory authorities are now questioning the long-term sustainability of allowing unrestricted power allocation for regional AI hubs.",
-                "The energy-intensive nature of model training and inference is forcing urban planners to reconsider infrastructure development priorities.",
-                "CIOs are under increased pressure to justify the carbon footprint of AI workloads amidst rising civic and regulatory scrutiny."
+                "European authorities pledge eleven billion dollars to establish seven specialized AI gigafactories across the continent.",
+                "The multi-billion dollar capital allocation aims to build regional high-performance computing clusters and sovereign infrastructure.",
+                "Member states seek to counter reliance on non-European semiconductor manufacturing and external cloud service providers.",
+                "Regulatory bodies will likely introduce strict data processing rules aligned with the upcoming AI Act mandates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC SECURITY",
+            "heading": "MISTRAL AI: AGENT PLATFORM",
             "points": [
-                "Google Cloud introduced AI Threat Defense, a specialized toolset designed to outpace automated adversarial agents in enterprise networks.",
-                "The platform provides unified orchestration and governance for multi-agent systems, reducing the risks of autonomous cross-system interaction.",
-                "This security layer is engineered to detect and isolate malicious agents operating within complex, multi-tenant cloud environments.",
-                "Adoption of this defense framework is critical for enterprises managing decentralized agent networks and sensitive proprietary data assets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MISTRAL AI: ROBOSITRAL DEPLOYMENT",
-            "points": [
-                "Mistral AI launched Robostral, an advanced system of record designed specifically for managing prompt engineering and agentic skills.",
-                "The new platform allows organizations to standardize and version control internal AI capabilities, ensuring enterprise-wide consistency in outcomes.",
-                "Mistral aims to solve the problem of fragmented agentic logic by providing a centralized repository for persistent memory functions.",
-                "Engineering teams can now link specialized model behaviors to business logic, enabling highly reliable autonomous process automation workflows."
+                "Mistral introduces Robostral Navigate alongside the Vibe agent platform for executing long-horizon automated engineering tasks.",
+                "The persistent-memory model optimizes multi-step scheduling to manage complex legacy code translations across distributed networks.",
+                "Integrating custom agents within existing terminal and developer environments eliminates human intervention from software development lifecycles.",
+                "Autonomous software development pipelines will rapidly replace manual coding procedures within major technology engineering hubs."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
+            "id": 6,
+            "heading": "GOOGLE DEEPMIND: ROBOTICS",
             "points": [
-                "NVIDIA expanded its Agent Toolkit with PhysicsNeMo and CUDA-X libraries, enhancing physical AI capabilities for industrial engineering designs.",
-                "The update enables real-world physics simulation within virtual agent workspaces, accelerating the deployment of autonomous industrial robotic systems.",
-                "Companies can now build highly accurate digital twins that train robots in simulated environments before physical hardware deployment.",
-                "This integration of CUDA-X libraries optimizes the computational stack for agent-ready applications across manufacturing and logistics sectors globally."
+                "Google DeepMind releases Gemini Robotics Two to provide advanced physical agents with complete whole-body intelligence layers.",
+                "Integrating multi-robot collaboration systems improves real-time task execution efficiency by forty percent in simulated environments.",
+                "Combining high-fidelity video understanding with automated task orchestration bridges physical execution gaps for industrial robots.",
+                "Industrial manufacturers will accelerate floor automation by deploying adaptive robotic agents capable of independent spatial reasoning."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMD: SOVEREIGN CHIP PARTNERSHIP",
+            "points": [
+                "AMD partners with Korea\u2019s Ministry of Science to build customized sovereign artificial intelligence processing infrastructure.",
+                "The technological alliance leverages custom open-source models and next-generation Instinct accelerators across national research centers.",
+                "Developing regional computing facilities reduces hardware reliance on dominant market monopolists while securing critical national data.",
+                "Global governments will increasingly seek strategic chip partnerships to construct independent, localized high-performance computing networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
