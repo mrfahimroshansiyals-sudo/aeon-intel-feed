@@ -2,17 +2,17 @@ const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
         "titleWhite": "AUTONOMOUS FRONTIER",
-        "titleBlue": "INTELLIGENCE"
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "points": [
-                "OpenAI launched GPT-5.6 frontier model showcasing significant mathematical advances and discrete geometry breakthrough capabilities.",
-                "API price structures for Luna and Terra variations were concurrently reduced by up to eighty percent.",
-                "The architecture addresses enterprise cost-at-scale concerns by aggressively optimizing model token processing efficiency parameters.",
-                "Organizations can confidently deploy high-dimensional agents capable of executing highly complex reasoning workflows without budget overruns."
+                "OpenAI launched the GPT-5.6 frontier intelligence model featuring native scaling capabilities and architectural efficiency.",
+                "Developer API prices for Luna and Terra variations have dropped by up to eighty percent.",
+                "This update optimizes multi-step planning and contextual processing layers across high-throughput enterprise infrastructure nodes.",
+                "Enterprises will deploy highly scalable, cost-efficient agentic systems across diverse legacy data ecosystems."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI ROBOTICS ORCHESTRATION",
+            "heading": "MICROSOFT: COPILOT SUPER APP INTEGRATION",
             "points": [
-                "Google DeepMind unveiled Gemini Robotics 2 introducing native whole-body coordination and deep task orchestration features.",
-                "The model integrates advanced video understanding algorithms to coordinate autonomous multi-robot fleets across complex industrial sites.",
-                "This development shifts the physical robotics paradigm from localized motor controls to unified cloud-edge cognitive systems.",
-                "Manufacturers will achieve unprecedented floor automation gains as intelligent agents safely navigate physical workplace environments."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MISTRAL AI: ROBONAVIGATE RELEASE",
-            "points": [
-                "Mistral AI introduced Robostral Navigate alongside Mistral OCR 4 to establish structured records of agent skills.",
-                "The system features Leanstral 1.5 providing verified proof abundance frameworks optimized for complex mathematical computation.",
-                "This software stack enhances autonomous engineering projects by mapping model capabilities inside persistent, reusable memory files.",
-                "Enterprise developers can now track multi-step agent actions without relying on volatile prompt history databases."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: SECURE COGNITIVE FABRIC",
-            "points": [
-                "Microsoft launched IQ to provide secure contextual routing and system integration for enterprise digital agents.",
-                "The platform decouples orchestration memory from underlying foundation models to build a unified Copilot super workspace.",
-                "Enterprise IT teams gain absolute control over data boundaries while executing complex, multi-model business automation workflows.",
-                "System architects can confidently deploy highly autonomous agents with minimized risks of confidential data leakage."
+                "Microsoft launched a unified Copilot super app integrating chat, autonomous agents, and enterprise orchestration pipelines.",
+                "The structural shift decouples core memory and context systems from single underlying foundational model dependencies.",
+                "Microsoft IQ establishes secure agentic connections to internal enterprise workflows, data lakes, and transactional databases.",
+                "Corporate IT leaders will build highly resilient, multi-model orchestrations without worrying about single vendor lock-in."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: HYPERSCALE CHIP PARTNERSHIP",
+            "id": 3,
+            "heading": "AMD: ANTHROPIC INSTINCT GPU DEPLOYMENT",
             "points": [
-                "AMD partnered with Anthropic to deploy two gigawatts of Instinct MI450 Series graphical processing units.",
-                "This infrastructure expansion directly powers advanced training pipelines for next-generation Opus 5 multi-agent LLM systems.",
-                "The strategic alliance establishes a credible alternative to dominant hardware solutions across global cloud data centers.",
-                "Hyperscalers will secure highly optimized compute pathways capable of executing frontier-level cognitive workloads sustainably."
+                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 Series accelerators.",
+                "The deal substantially increases competitive pressure on alternative hardware suppliers within hyper-scale cloud facilities globally.",
+                "This infrastructure deployment prioritizes open-source standards, optimized ROCm software, and deep system-level hardware co-innovation.",
+                "AI labs will gain unprecedented high-performance compute access, significantly driving down massive foundation training durations."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "IBM: QUANTUM VALIDATION ADVANTAGE",
+            "id": 4,
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "IBM claimed quantum advantage utilizing newly developed mitigation protocols to validate deep computational reliability.",
-                "The hardware successfully demonstrated advanced calculation accuracy levels previously unreachable by conventional classical supercomputing systems.",
-                "These verification advancements solve critical errors and stabilize processing arrays across highly complex molecular simulation models.",
-                "Researchers can now accelerate discovery timelines in material sciences by running error-free calculations on quantum processors."
+                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence to accelerate strategic growth.",
+                "The collaboration scales proprietary safety-critical engineering processes, drastically reducing alignment failures during training phases.",
+                "Secure hardware clusters will execute specialized superintelligence development workflows, utilizing custom-designed liquid-cooled physical nodes.",
+                "Sovereign developers will benefit from highly secure, physically isolated model environments preventing premature weight exfiltration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE DEEPMIND: ROBOTICS INTENSITY",
+            "points": [
+                "Google DeepMind unveiled Gemini Robotics 2, delivering whole-body intelligence and native multi-robot orchestration layers.",
+                "Autonomous physical agents now demonstrate significantly enhanced spatial reasoning, reducing physical execution errors by half.",
+                "The system unifies real-time video understanding, task prioritization, and dynamic motor control within edge-computed neural networks.",
+                "Industrial manufacturers will rapidly deploy collaborative robotics fleets without requiring extensive manual environment redesign actions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: ROBOSTRAL SYSTEM OF RECORD",
+            "points": [
+                "Mistral AI launched Robostral Navigate, establishing a comprehensive system of record for prompts and skills.",
+                "The platform mitigates version control drift, cutting deployment debug cycles for autonomous enterprise pipelines drastically.",
+                "A centralized registry decouples dynamic prompt engineering layers from the underlying core inference model execution.",
+                "Software engineering teams will easily standardize agentic workflows across highly complex, distributed multi-cloud operational environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "APPLE: SECURITY THREAT MANAGEMENT",
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "Apple limited daily vulnerability submissions to mitigate an overwhelming wave of automated AI-driven security bug reports.",
-                "Defensive engineering teams struggled to triage thousands of artificial intelligence generated threats targeting core iOS systems.",
-                "The defensive policy change highlights growing operational strains as automated exploits test traditional vendor patching limits.",
-                "Security operations must adopt autonomous screening systems to filter noise and preserve human verification capacity."
+                "ASML announced that High NA EUV lithography systems have reached a major high-volume Logic manufacturing milestone.",
+                "Leading chipmakers can now scale two-nanometer and sub-two-nanometer production lines with significantly lower patterning defect rates.",
+                "Advanced light patterning mechanisms enable unparalleled transistor density improvements, critical for next-generation sovereign AI accelerators.",
+                "Fab operators will dramatically increase high-volume chip yields, stabilizing global hardware supply chains for future scaling."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
