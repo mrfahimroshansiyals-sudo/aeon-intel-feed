@@ -1,66 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AGENTIC ARCHITECTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "FRONTIER COGNITION ARCHITECTURES",
+        "titleBlue": "UNLEASHED"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: IQ AGENT INTEGRATION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
             "points": [
-                "Microsoft launched Microsoft IQ to provide shared business context for autonomous AI agents across enterprise systems.",
-                "The platform enables secure connection of agents to fragmented data lakes, workflows, and proprietary business applications.",
-                "Architectural focus shifts from isolated model inference toward unified reasoning across the entire corporate operational stack.",
-                "This deployment signals an enterprise-wide push to ground autonomous agents in real-time, validated organizational metadata."
+                "OpenAI releases GPT-5.6, delivering frontier intelligence designed to scale complex enterprise agentic workflows efficiently.",
+                "This update drastically lowers token costs while accelerating processing speeds for highly demanding production workloads.",
+                "The model integrates advanced reasoning capabilities, reducing reliance on massive external orchestration databases and frameworks.",
+                "Organizations will achieve rapid returns on investment by deploying more autonomous and reliable multi-step agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI FLASH CYBER",
+            "heading": "ANTHROPIC: OPUS 5 AGENTIC UPGRADE",
             "points": [
-                "Google unveiled the Gemini 3.6 Flash and 3.5 Flash Cyber models targeting high-velocity security threat detection.",
-                "These models prioritize sub-second inference for real-time monitoring and active autonomous response within cloud environments.",
-                "Deployment is designed to outpace adversarial AI by automating complex, multi-step defensive operations against sophisticated attacks.",
-                "The integration positions Google Cloud as a primary node for automated infrastructure security in agent-driven ecosystems."
+                "Anthropic introduces Opus 5 and Sonnet 5, establishing a new paradigm for autonomous professional agent execution.",
+                "The models double the speed of code generation and significantly lower latency for complex background reasoning.",
+                "Combined with Claude Science, this upgrade provides researchers with highly auditable research artifacts and computing access.",
+                "Enterprise developers can now build resilient agentic pipelines that run continuously without requiring constant human intervention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE ALLIANCE",
             "points": [
-                "ASML successfully achieved a high-volume readiness milestone with their latest High NA EUV lithography product line.",
-                "This hardware breakthrough enables sub-nanometer chip fabrication essential for next-generation frontier intelligence compute requirements.",
-                "ASML leverages internal AI-native engineering to optimize complex optical patterning processes for mass production environments.",
-                "The advancement secures the hardware-layer foundation needed for sustained scaling of advanced semiconductor manufacturing globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: PHYSICS-NEMO AGENT KIT",
-            "points": [
-                "NVIDIA expanded the Agent Toolkit with PhysicsNeMo and CUDA-X libraries for advanced physical AI simulation.",
-                "New tools empower developers to create physically-aware agents that function accurately in virtual and real-world environments.",
-                "Integration with Omniverse allows robotics and industrial applications to reach higher levels of operational autonomy.",
-                "This software stack enables faster deployment of complex physical AI systems across manufacturing and enterprise sectors."
+                "NVIDIA partners with Ilya Sutskever's Safe Superintelligence to accelerate strategic growth in frontier safety frameworks.",
+                "The alliance secures dedicated compute pipelines, scaling safe superintelligence research by multiple orders of magnitude.",
+                "By deploying secure agent workspaces, the collaboration mitigates systemic risks associated with autonomous multi-agent online interactions.",
+                "Enterprise stakeholders gain a validated path toward deploying highly compliant, risk-managed autonomous agent networks globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMD: INSTINCT AI PARTNERSHIP",
+            "id": 4,
+            "heading": "AMD: ANTHROPIC GPU INFRASTRUCTURE",
             "points": [
-                "AMD announced a strategic partnership with Anthropic to deploy 2 gigawatts of Instinct MI450 Series GPUs.",
-                "The collaboration focuses on building large-scale compute infrastructure optimized for the next generation of agentic AI.",
-                "AMD EPYC 9006 server CPUs now power these agentic data centers to support demanding, high-throughput AI workloads.",
-                "This investment confirms a strategic pivot toward dedicated, sovereign-class hardware for proprietary, high-performance agentic intelligence models."
+                "AMD announces a strategic partnership with Anthropic to deploy up to two gigawatts of Instinct GPUs.",
+                "This deployment utilizes the MI450 series accelerators, offering massive computational scaling for frontier AI model training.",
+                "The alliance expands open-source software ecosystems and national AI infrastructure initiatives to counter proprietary hardware locks.",
+                "Hyperscalers can build highly optimized, alternative high-performance data centers using AMD's flexible, open ROCm software platform."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +70,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL: ROBOSTRAL AGENT RECORD",
+            "id": 5,
+            "heading": "GOOGLE DEEPMIND: GEMINI ROBOTICS 2",
             "points": [
-                "Mistral released Robostral, a system of record designed to document and track prompts, skills, and agent history.",
-                "This infrastructure addresses the lack of observability in multi-step agent operations within enterprise-grade development pipelines.",
-                "The platform provides auditability for autonomous decision cycles, ensuring alignment with organizational safety and governance protocols.",
-                "Mistral is scaling their applied AI services by providing modular components for managing complex agent state transitions."
+                "Google DeepMind launches Gemini Robotics 2, providing an advanced whole-body intelligence layer for physical AI systems.",
+                "The architecture integrates real-time video understanding and multi-robot collaboration to orchestrate complex physical tasks seamlessly.",
+                "This intelligence layer decouples robotic control from rigid programming, enabling dynamic adaptation to unpredictable industrial environments.",
+                "Manufacturers can accelerate factory automation by deploying highly adaptive, agent-driven physical robots across diverse production lines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: ROBOSTRAL AGENT SUITE",
+            "points": [
+                "Mistral AI releases Robostral Navigate and Mistral OCR 4 to manage long-horizon agent workflows and document parsing.",
+                "These tools optimize complex multi-step task scheduling and persistent memory across highly localized, sovereign cloud environments.",
+                "The release delivers modular agent orchestration, allowing enterprises to maintain complete control over their proprietary knowledge.",
+                "CTOs can quickly build secure, autonomous coding pipelines that integrate seamlessly with legacy enterprise repository systems."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "OPENAI: GPT-5.6 PERFORMANCE",
+            "heading": "TSMC: A16 BACKSIDE POWER SILICON",
             "points": [
-                "OpenAI advanced the price-performance frontier with the official launch of the GPT-5.6 model architecture.",
-                "The model integrates frontier intelligence with enhanced action capabilities for highly complex, multi-modal autonomous work.",
-                "OpenAI continues to scale internal self-improvement mechanisms to increase robustness against adversarial prompting and model hacking.",
-                "The release optimizes resource efficiency for businesses aiming to scale multi-agent deployments across global cloud networks."
+                "TSMC announces the A16 nanosheet process featuring innovative Super Power Rail technology for high-performance AI chips.",
+                "The backside power solution significantly improves energy efficiency and power delivery for next-generation data center processors.",
+                "This architecture resolves thermal constraints, allowing designers to pack more transistors onto highly complex silicon designs.",
+                "Semiconductor partners can build faster, cooler microchips to power the massive demands of frontier generative model clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
