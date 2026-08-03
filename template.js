@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COGNITION ARCHITECTURES",
-        "titleBlue": "UNLEASHED"
+        "titleWhite": "AUTONOMOUS INTELLIGENCE",
+        "titleBlue": "SCALING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
+            "heading": "OPENAI: GPT-5.6 LAUNCH",
             "points": [
-                "OpenAI releases GPT-5.6, delivering frontier intelligence designed to scale complex enterprise agentic workflows efficiently.",
-                "This update drastically lowers token costs while accelerating processing speeds for highly demanding production workloads.",
-                "The model integrates advanced reasoning capabilities, reducing reliance on massive external orchestration databases and frameworks.",
-                "Organizations will achieve rapid returns on investment by deploying more autonomous and reliable multi-step agents."
+                "OpenAI releases GPT-5.6 frontier model designed for enterprise-grade intelligence scaling across complex orchestrations.",
+                "The model dramatically reduces latency while optimizing price-performance metrics for high-throughput architectural workloads.",
+                "Systems developers can now deploy deep reasoning capabilities across massive multi-modal business applications seamlessly.",
+                "Organizations will transition toward agentic automation patterns using highly scalable and cost-effective frontier models."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: OPUS 5 AGENTIC UPGRADE",
+            "heading": "AMD: SOVEREIGN COOPERATION",
             "points": [
-                "Anthropic introduces Opus 5 and Sonnet 5, establishing a new paradigm for autonomous professional agent execution.",
-                "The models double the speed of code generation and significantly lower latency for complex background reasoning.",
-                "Combined with Claude Science, this upgrade provides researchers with highly auditable research artifacts and computing access.",
-                "Enterprise developers can now build resilient agentic pipelines that run continuously without requiring constant human intervention."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE ALLIANCE",
-            "points": [
-                "NVIDIA partners with Ilya Sutskever's Safe Superintelligence to accelerate strategic growth in frontier safety frameworks.",
-                "The alliance secures dedicated compute pipelines, scaling safe superintelligence research by multiple orders of magnitude.",
-                "By deploying secure agent workspaces, the collaboration mitigates systemic risks associated with autonomous multi-agent online interactions.",
-                "Enterprise stakeholders gain a validated path toward deploying highly compliant, risk-managed autonomous agent networks globally."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: ANTHROPIC GPU INFRASTRUCTURE",
-            "points": [
-                "AMD announces a strategic partnership with Anthropic to deploy up to two gigawatts of Instinct GPUs.",
-                "This deployment utilizes the MI450 series accelerators, offering massive computational scaling for frontier AI model training.",
-                "The alliance expands open-source software ecosystems and national AI infrastructure initiatives to counter proprietary hardware locks.",
-                "Hyperscalers can build highly optimized, alternative high-performance data centers using AMD's flexible, open ROCm software platform."
+                "AMD partners with South Korea to design sovereign artificial intelligence infrastructure utilizing open-source models.",
+                "The initiative targets national software development and advanced chip packaging methods to reduce hyperscaler dependence.",
+                "Public sectors gain deep computing autonomy by deploying customized silicon architectures within localized regional boundaries.",
+                "Regional governments will increasingly secure critical operational workloads through self-sustaining localized compute supply chains."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: GEMINI ROBOTICS 2",
+            "id": 3,
+            "heading": "GOOGLE DEEPMIND: ROBOTICS EVOLUTION",
             "points": [
-                "Google DeepMind launches Gemini Robotics 2, providing an advanced whole-body intelligence layer for physical AI systems.",
-                "The architecture integrates real-time video understanding and multi-robot collaboration to orchestrate complex physical tasks seamlessly.",
-                "This intelligence layer decouples robotic control from rigid programming, enabling dynamic adaptation to unpredictable industrial environments.",
-                "Manufacturers can accelerate factory automation by deploying highly adaptive, agent-driven physical robots across diverse production lines."
+                "Gemini Robotics 2 introduces whole-body intelligence architectures designed for sophisticated physical-agent orchestration.",
+                "Video understanding and task orchestration models enable multi-robot systems to safely coordinate real-time physical actions.",
+                "Edge environments benefit from integrated multi-modal sensory pipelines that translate raw data into motion.",
+                "Autonomous industrial automation systems will achieve unprecedented operational efficiency across complex physical logistics frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL AGENT SUITE",
+            "id": 4,
+            "heading": "MISTRAL AI: AGENTIC INFRASTRUCTURE",
             "points": [
-                "Mistral AI releases Robostral Navigate and Mistral OCR 4 to manage long-horizon agent workflows and document parsing.",
-                "These tools optimize complex multi-step task scheduling and persistent memory across highly localized, sovereign cloud environments.",
-                "The release delivers modular agent orchestration, allowing enterprises to maintain complete control over their proprietary knowledge.",
-                "CTOs can quickly build secure, autonomous coding pipelines that integrate seamlessly with legacy enterprise repository systems."
+                "Mistral AI releases Robostral Navigate alongside the Vibe agent platform to automate long-horizon complex work.",
+                "Development pipelines gain persistent memory, structured data analysis, and unified skill registries for multi-step scheduling.",
+                "Enterprise operations transition from standard chat commands toward highly autonomous, long-horizon background execution workflows.",
+                "Businesses will scale software delivery and document synthesis with minimal human intervention using agent-centric architectures."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TSMC: A16 BACKSIDE POWER SILICON",
+            "id": 5,
+            "heading": "ASML: LITHOGRAPHY ACCELERATION",
             "points": [
-                "TSMC announces the A16 nanosheet process featuring innovative Super Power Rail technology for high-performance AI chips.",
-                "The backside power solution significantly improves energy efficiency and power delivery for next-generation data center processors.",
-                "This architecture resolves thermal constraints, allowing designers to pack more transistors onto highly complex silicon designs.",
-                "Semiconductor partners can build faster, cooler microchips to power the massive demands of frontier generative model clusters."
+                "ASML delivers High NA EUV systems to volume logic production, setting a new semiconductor manufacturing milestone.",
+                "Advanced chipmaking lithography platforms enable unprecedented transistor density scaling for next-generation artificial intelligence hardware.",
+                "Chip manufacturers accelerate deep logical processing pipelines by transitioning design blueprints to sub-nanometer scale structures.",
+                "Hardware developers will witness massive throughput gains in custom silicon production targeting massive neural networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ANTHROPIC: SCHOLARLY AGENTS",
+            "points": [
+                "Anthropic launches Claude Science to optimize research pipelines using auditable artifacts and custom computing resources.",
+                "Academic teams can seamlessly integrate domain-specific tools with flexible API access to accelerate mathematical modeling.",
+                "Secure scientific ecosystems require isolated execution environments that support trace audits and verifiable model calculations.",
+                "Biotechnology and hardware laboratories will significantly compress experimental discovery lifecycles through automated tool orchestration."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MICROSOFT AZURE: HPC EXPANSION",
+            "points": [
+                "Azure deploys virtual machines featuring AMD Instinct MI455Xv7 accelerators to support massive scale high-performance workloads.",
+                "Virtualized environments deliver enhanced computational throughput for complex mathematical, physical, and large-scale AI modeling.",
+                "Enterprise cloud customers integrate these heterogeneous platforms to decouple operational scaling bottlenecks in training workloads.",
+                "Hyperscale data centers will rapidly absorb more demanding data pipelines by standardizing on optimized GPU clusters."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
