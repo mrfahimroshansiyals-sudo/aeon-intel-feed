@@ -1,50 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: SOVEREIGN COMPUTING",
+            "heading": "NVIDIA: AGENTIC INFRASTRUCTURE EXPANSION",
             "points": [
-                "AMD partners with South Korea's Ministry of Science to build open-source national AI infrastructure models.",
-                "The strategic initiative deploys advanced hardware clusters alongside custom software stacks for localized regional operations.",
-                "Integrating national compute assets allows complete database decoupling from Western cloud giants to protect sovereign data.",
-                "Policymakers anticipate this domestic ecosystem will secure critical state secrets while training localized, compliant models."
+                "NVIDIA launches expanded Agent Toolkit integrating PhysicsNeMo and CUDA-X libraries for advanced industrial engineering simulation.",
+                "Strategic partnership with Safe Superintelligence Inc. accelerates long-term growth and safe, scalable frontier model deployment.",
+                "New physical AI architecture stack enables virtual-to-real robotic learning through Cosmos and Isaac simulation gym environments.",
+                "Regional AI factory initiatives in Korea leverage deep memory partnerships to bolster sovereign industrial compute capacity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: API DEFLATION",
+            "heading": "GOOGLE CLOUD: AGENTIC DATA SOVEREIGNTY",
             "points": [
-                "OpenAI slashes pricing for its frontier GPT-5.6 Luna and Terra APIs by eighty percent.",
-                "This aggressive reduction minimizes operational expenditure bottlenecks for enterprise customers scaling real-time agentic pipelines.",
-                "Developers can migrate high-volume transactional workloads to cheaper endpoints without compromising on model safety guardrails.",
-                "Competitors face extreme pressure to adjust pricing structures as developers capitalize on cheap high-performance intelligence."
+                "Google releases Gemini 3.6 Flash and 3.5 Cyber models, emphasizing rapid deployment and high-efficiency cybersecurity capabilities.",
+                "Fully-managed remote MCP server platform simplifies agent orchestration and governance for enterprise-grade autonomous data workflows.",
+                "New Google AI Threat Defense suite provides proactive infrastructure hardening against emerging adversary exploitation patterns.",
+                "Strategic focus on the agentic data cloud enables near-real-time actionable insights for complex, multi-model business logic."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AGENT CONTEXT",
+            "heading": "ANTHROPIC: FRONTIER MODEL INSTRUMENTATION",
             "points": [
-                "Microsoft launches the IQ platform to seamlessly connect autonomous agents to legacy business systems.",
-                "The platform handles end-to-end memory orchestration, preventing contextual drift across complex multi-step digital workflows.",
-                "Separating core orchestration from underlying foundation models ensures highly resilient, model-agnostic enterprise software integrations.",
-                "Enterprise IT leaders gain unprecedented security control, enabling auditability for every automated transactional event executed."
+                "Claude Science platform delivers a dedicated research-integrated environment providing auditable artifacts and flexible compute resources.",
+                "Opus 5 and Sonnet 5 model tiers integrate advanced agentic logic for complex professional coding and research synthesis.",
+                "Internal model safety research explores hidden conceptual spaces, providing deep insight into LLM reasoning puzzles.",
+                "Strategic collaboration with AMD deploys two gigawatts of Instinct MI450 series GPUs to scale frontier training."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MISTRAL AI: AUTONOMOUS WORKFRAME UPGRADE",
+            "points": [
+                "Vibe AI agent platform optimizes for long-horizon task scheduling, persistent memory, and complex autonomous tool interaction.",
+                "Mistral OCR 4 enhances document intelligence, enabling structured data extraction for high-stakes enterprise regulatory compliance.",
+                "Studio deployment architecture facilitates unified AI registry and full portability from edge to cloud environments.",
+                "Forge platform provides enterprise domain adaptation through reinforcement learning and proprietary synthetic data generation pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT AZURE: CONTEXTUAL AGENT INTEGRATION",
+            "points": [
+                "Microsoft IQ unifies agents by providing shared business context across complex, disconnected enterprise workflows and systems.",
+                "Expansion of HDv2 and HXv2 virtual machines optimizes performance for compute-intensive deep learning and inference tasks.",
+                "Frontier Transformation Week provides hands-on technical guidance for migrating legacy IT estates to adaptive cloud infrastructures.",
+                "Integration of Copilot into developer workflows streamlines application modernization using advanced orchestration and data platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "EUROPEAN UNION: SUPERCOMPUTING PLEDGE",
-            "points": [
-                "The European Union commits eleven point five billion dollars to construct seven state-of-the-art AI Gigafactories.",
-                "These facilities will deliver massive localized supercomputing power to sustain European technological and operational autonomy.",
-                "Grid-interactive designs will mitigate data center energy spikes through next-generation cooling and flexible load-balancing software.",
-                "Regional startups will access unmatched computational capacity, reducing their structural dependencies on non-European cloud systems."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: ROBOT COLLABORATION",
-            "points": [
-                "Google DeepMind releases Gemini Robotics ER 2, integrating advanced video understanding and real-time orchestration.",
-                "The architecture enables diverse multi-robot networks to coordinate complex material handling tasks with spatial awareness.",
-                "Whole-body intelligence models deploy locally on edge hardware, bypassing low-latency dependencies on cloud computing fabrics.",
-                "Industrial manufacturing leaders can rapidly automate warehouse operations while mitigating collision risks on factory floors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "DATABRICKS: LEGACY MIGRATION",
+            "heading": "AMD: HETEROGENEOUS COMPUTE LEADERSHIP",
             "points": [
-                "Databricks unveils an intelligent agentic tool that autonomously rewrites outdated legacy SQL queries at scale.",
-                "The software optimizes database performance, reducing migration timelines from months to mere hours for enterprises.",
-                "Translated code integrates seamlessly with modern lakehouse systems, avoiding manual validation bottlenecks across target environments.",
-                "Database administrators can retire technical debt swiftly while redirecting critical engineering resources toward high-value architectures."
+                "AMD introduces open, turnkey platforms combining Kria AI modules with heterogeneous compute for physical AI robotics.",
+                "Collaboration with Korea Ministry of Science accelerates national AI infrastructure and open-source software ecosystem development.",
+                "Ryzen AI processors enable high-performance local inference, ensuring data privacy and reducing cloud-dependent latency constraints.",
+                "Strategic partnership with Cisco optimizes enterprise control and observability for localized AI governance frameworks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: AGENTIC BREAKTHROUGH",
+            "heading": "TSMC: SEMICONDUCTOR FAB ARCHITECTURE",
             "points": [
-                "Anthropic delivers Claude Opus 5, achieving massive gains in agentic coding performance and complex reasoning.",
-                "Increased operational window stability allows autonomous software agents to execute persistent multi-step professional tasks reliably.",
-                "Deep integration with custom research tools yields highly auditable data artifacts for strict governance workflows.",
-                "Software engineers can safely delegate long-horizon system engineering tasks to reliable, background-running digital workers."
+                "TSMC advances AI chip production with A16 nanosheet technology and backside power rails for HPC performance.",
+                "OIP ecosystem expansion fosters global collaboration to accelerate advanced 3D IC design and logic product output.",
+                "NanoFlex Pro integration enhances manufacturing flexibility to meet escalating demands from frontier-scale AI compute providers.",
+                "Strategic focus on energy-efficient AI silicon supports long-term sustainable growth for global semiconductor manufacturing infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
