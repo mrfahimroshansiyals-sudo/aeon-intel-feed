@@ -1,34 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN COGNITIVE",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "SOVEREIGN AGENTIC SYSTEM",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ALIBABA: QWEN3.8-MAX DEPLOYMENT",
+            "heading": "STANFORD HAI: COMPANION LONELINESS",
             "points": [
-                "Alibaba officially launched Qwen3.8-Max, directly targeting the frontier capabilities of industry leaders like OpenAI and Anthropic.",
-                "The model achieves massive throughput efficiency gains, significantly reducing API inference latency across global cloud infrastructures.",
-                "This release asserts China's technological autonomy and escalates the global open-weights foundation model competition.",
-                "Enterprise buyers will leverage these cheaper frontier-grade weights to decouple from restrictive proprietary API ecosystems."
+                "Stanford researchers discover that vulnerable users seeking emotional support from AI companions experience reduced psychological well-being.",
+                "The study highlights severe governance gaps in regulating therapist-emulating systems designed for therapeutic interventions.",
+                "Policymakers are urged to establish rigorous evaluation frameworks before widespread deployment in mental health domains.",
+                "This research emphasizes how unstructured emotional dependency on automation creates critical sociotechnical vulnerabilities globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://hai.stanford.edu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SUPERLOGICAL: AGENTIC DEV ENGINE",
+            "heading": "DOW JONES: WORKPLACE DISPLACEMENT",
             "points": [
-                "Mitchell Hashimoto's Superlogical launched a terminal-agnostic platform engineered to manage complex multi-step agentic developer workflows.",
-                "Engineering teams can scale automated codebase edits without experiencing the typical context drift of single-terminal agents.",
-                "This marks a structural shift from simple text-generation coding assistants to fully autonomous software engineering systems.",
-                "CIOs must prepare to retrain developers as supervisors managing automated pipelines rather than writing raw code."
+                "Dow Jones reports accelerating artificial intelligence workplace displacement trends heavily affecting early-career professional demographics.",
+                "Entry-level roles face systemic automation pressure as corporate enterprises deploy agentic cognitive pipelines across operations.",
+                "Operational metrics indicate rapid realignment of enterprise human capital strategies toward specialized engineering roles.",
+                "Senior stakeholders must formulate comprehensive workforce retraining frameworks to mitigate deep technological transition challenges."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.dowjones.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SUPERLOGICAL: AGENTIC TERMINAL",
+            "points": [
+                "Hashimoto's Superlogical introduces a dedicated agentic development terminal designed to streamline software engineering pipelines.",
+                "The novel tool optimizes multi-step execution frameworks by integrating context-aware commands and persistent execution memory.",
+                "Developers gain enhanced control over autonomous coding actions to minimize production bugs and runtime failures.",
+                "This platform shifts traditional terminal interaction models toward collaborative, high-efficiency cognitive workspace infrastructures."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "SAP: GERMAN ANTITRUST DISMISSAL",
-            "points": [
-                "The German Federal Cartel Office closed its antitrust investigation into SAP regarding third-party data extraction practices.",
-                "Enterprise customers maintain standard data access rights without facing new vendor-imposed lock-ins or unexpected data egress fees.",
-                "The ruling provides regulatory clarity for European legacy enterprises seeking to extract operational data for AI pipelines.",
-                "Competitors must now find alternative regulatory levers to challenge SAP's dominance in core ERP database structures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cio.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "MICROSOFT: COPILOT SUPER APP",
+            "heading": "ALIBABA: FRONTIER MODEL",
             "points": [
-                "Microsoft launched a consolidated Copilot super app, separating context orchestration layers from baseline foundational models.",
-                "Developers can now hot-swap backend models while maintaining continuous enterprise memory and session state.",
-                "This architecture aims to commoditize underlying model providers by positioning Azure's orchestration as the primary workspace.",
-                "Tech buyers will prioritize orchestration platforms over raw model performance when selecting long-term enterprise AI vendor contracts."
+                "Alibaba officially releases Qwen3.8-Max, directly challenging leading proprietary models from frontier labs OpenAI and Anthropic.",
+                "The model delivers significant performance improvements across complex multi-step reasoning tasks and enterprise coding benchmarks.",
+                "Distributed cloud optimization lowers API latency and operational deployment overheads for global enterprise clients.",
+                "This deployment intensifies global competition within the high-performance open-weights foundation model landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: SOUTH KOREA SOVEREIGN AI",
+            "heading": "WALDEN ROBOTICS: TOYOTA PARTNERSHIP",
             "points": [
-                "AMD partnered with South Korea\u2019s Ministry of Science and ICT to build an independent sovereign AI ecosystem.",
-                "The initiative deploys open-source models optimized directly for national High-Performance Computing and cloud infrastructure.",
-                "This collaboration provides South Korea an alternative to Nvidia's proprietary hardware stack through open-source software enablement.",
-                "Global governments will increasingly demand customized, national-level hardware and software partnerships to ensure complete digital sovereignty."
+                "Walden Robotics announces strategic partnership with Toyota to develop and deploy practical humanoid hardware systems.",
+                "The collaboration focuses on real-world operational environments, bypassing traditional experimental phase bottlenecks entirely.",
+                "Integrating physical AI with robust hardware enables reliable automated execution of complex industrial warehouse workflows.",
+                "This agreement marks a major milestone toward scaling cognitive robotics across the global manufacturing sector."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: REMOTE MCP PROTOCOL",
+            "heading": "CIO STRATEGY: EXECUTIVE SIDELINING",
             "points": [
-                "Google Cloud integrated fully-managed Model Context Protocol servers to securely connect AI agents to enterprise data.",
-                "The implementation allows real-time data ingestion and tool execution without exposing sensitive internal databases to external models.",
-                "Standardizing on the open-source Model Context Protocol accelerates the deployment of cross-platform, multi-vendor enterprise agent ecosystems.",
-                "Security architects can now mandate strict access controls for agents through standard remote API server boundaries."
+                "IT leadership data indicates chief information officers risk losing strategic control of corporate intelligence budgets.",
+                "Chief executive officers increasingly assign generative automation projects directly to emerging specialized chief AI officers.",
+                "Fragmented governance models jeopardize long-term enterprise systems integration and create deep technical debt silos.",
+                "Experienced technology leaders must assert control over foundational data architecture to secure corporate alignment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV LOGIC",
+            "heading": "INFOWORLD: TYPST MARKUP",
             "points": [
-                "ASML achieved a milestone as its High NA EUV lithography system patterned its first commercial logic chips.",
-                "The advanced machines enable chipmakers to shrink transistor dimensions further, boosting performance while reducing overall power requirements.",
-                "This validation secures ASML's technological monopoly and paves the path for sub-one-nanometer foundry nodes.",
-                "Hardware architects must redesign chip layouts to leverage these highly dense, backside power-routed silicon architectures."
+                "Typst emerges as a lightweight markup-based alternative designed to replace complex LaTeX compiling systems.",
+                "The programming language optimizes technical document rendering speed, dramatically improving academic and corporate production pipelines.",
+                "Built-in layout management systems significantly reduce the compilation errors common in traditional markup execution environments.",
+                "Technical writers gain modern formatting tools that facilitate direct integration with automated documentation generation scripts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
