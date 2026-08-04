@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC SYSTEM",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFT",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "STANFORD HAI: COMPANION LONELINESS",
+            "heading": "NVIDIA: AGENT TOOLKIT EXPANSION",
             "points": [
-                "Stanford researchers discover that vulnerable users seeking emotional support from AI companions experience reduced psychological well-being.",
-                "The study highlights severe governance gaps in regulating therapist-emulating systems designed for therapeutic interventions.",
-                "Policymakers are urged to establish rigorous evaluation frameworks before widespread deployment in mental health domains.",
-                "This research emphasizes how unstructured emotional dependency on automation creates critical sociotechnical vulnerabilities globally."
+                "NVIDIA expanded the Agent Toolkit adding PhysicsNeMo and CUDA-X libraries for advanced industrial engineering and physics simulation.",
+                "These libraries facilitate agent-ready digital twin development enabling robots to model complex real-world behaviors with increased precision.",
+                "The integration of PhysicsNeMo targets the transformation of industrial design workflows through high-fidelity, physics-informed AI modeling.",
+                "This toolkit enables engineers to compress design cycles from weeks to minutes by leveraging accelerated compute capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://hai.stanford.edu",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOW JONES: WORKPLACE DISPLACEMENT",
+            "heading": "GOOGLE DEEPMIND: AGENTIC FRONTIER",
             "points": [
-                "Dow Jones reports accelerating artificial intelligence workplace displacement trends heavily affecting early-career professional demographics.",
-                "Entry-level roles face systemic automation pressure as corporate enterprises deploy agentic cognitive pipelines across operations.",
-                "Operational metrics indicate rapid realignment of enterprise human capital strategies toward specialized engineering roles.",
-                "Senior stakeholders must formulate comprehensive workforce retraining frameworks to mitigate deep technological transition challenges."
+                "DeepMind launched Gemini Robotics 2, enabling multi-robot collaboration and advanced task orchestration through unified video understanding.",
+                "This model series provides an intelligence layer specifically architected for physical robotics, enhancing whole-body coordination capabilities.",
+                "DeepMind highlights the risks of multi-agent interactions, urging scientific study into emergent behaviors within online systems.",
+                "The release signals a move toward autonomous agents capable of complex, multi-step planning and real-time execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.dowjones.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SUPERLOGICAL: AGENTIC TERMINAL",
+            "heading": "AMD: SOVEREIGN AI ECOSYSTEMS",
             "points": [
-                "Hashimoto's Superlogical introduces a dedicated agentic development terminal designed to streamline software engineering pipelines.",
-                "The novel tool optimizes multi-step execution frameworks by integrating context-aware commands and persistent execution memory.",
-                "Developers gain enhanced control over autonomous coding actions to minimize production bugs and runtime failures.",
-                "This platform shifts traditional terminal interaction models toward collaborative, high-efficiency cognitive workspace infrastructures."
+                "AMD announced a strategic partnership with Korea\u2019s Ministry of Science and ICT to advance sovereign national AI infrastructure.",
+                "The collaboration integrates compute technology, open software, and technical expertise to foster domestic AI research and training.",
+                "This deal bolsters national capabilities in open-source AI models, supporting local talent development and specialized hardware deployment.",
+                "The partnership reflects a broader industry trend of localized AI sovereignty against global hyperscaler dependence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALIBABA: FRONTIER MODEL",
+            "heading": "ANTHROPIC: AGENTIC CAPABILITY LEAP",
             "points": [
-                "Alibaba officially releases Qwen3.8-Max, directly challenging leading proprietary models from frontier labs OpenAI and Anthropic.",
-                "The model delivers significant performance improvements across complex multi-step reasoning tasks and enterprise coding benchmarks.",
-                "Distributed cloud optimization lowers API latency and operational deployment overheads for global enterprise clients.",
-                "This deployment intensifies global competition within the high-performance open-weights foundation model landscape."
+                "Anthropic released Opus 5 and Sonnet 5, prioritizing agentic workflows for coding and high-level professional work.",
+                "These models provide top-tier reasoning capabilities for autonomous agents handling long-horizon software development tasks.",
+                "The company integrated new safety and alignment research directly into its product architecture to mitigate model cheating.",
+                "Claude Science serves as a flagship customizable tool for researchers to manage auditable artifacts and computing resources."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WALDEN ROBOTICS: TOYOTA PARTNERSHIP",
+            "heading": "MISTRAL AI: VIBE AGENT RELEASE",
             "points": [
-                "Walden Robotics announces strategic partnership with Toyota to develop and deploy practical humanoid hardware systems.",
-                "The collaboration focuses on real-world operational environments, bypassing traditional experimental phase bottlenecks entirely.",
-                "Integrating physical AI with robust hardware enables reliable automated execution of complex industrial warehouse workflows.",
-                "This agreement marks a major milestone toward scaling cognitive robotics across the global manufacturing sector."
+                "Mistral introduced Vibe, an AI agent designed specifically for long-horizon work and complex enterprise knowledge tasks.",
+                "The platform supports persistent memory, reusable skill sets, and document synthesis for autonomous multi-step orchestration.",
+                "Vibe for Code enables async code generation and architecture-aware reasoning directly within the terminal and IDE.",
+                "Mistral continues to push its Studio platform for production-grade agent deployment across both cloud and edge."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CIO STRATEGY: EXECUTIVE SIDELINING",
+            "heading": "OPENAI: FRONTIER MODEL SCALING",
             "points": [
-                "IT leadership data indicates chief information officers risk losing strategic control of corporate intelligence budgets.",
-                "Chief executive officers increasingly assign generative automation projects directly to emerging specialized chief AI officers.",
-                "Fragmented governance models jeopardize long-term enterprise systems integration and create deep technical debt silos.",
-                "Experienced technology leaders must assert control over foundational data architecture to secure corporate alignment."
+                "OpenAI launched GPT-5.6, targeting a new price-performance frontier for enterprise-scale frontier intelligence and autonomy.",
+                "The deployment includes improved safety mechanisms through the GPT-Red initiative for robust, self-improving model behavior.",
+                "OpenAI Presence features are being rolled out to increase the operational context-awareness of enterprise AI systems.",
+                "The organization is actively diversifying its board with experts like David Velez to guide long-term strategy."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFOWORLD: TYPST MARKUP",
+            "heading": "GOOGLE CLOUD: AGENTIC GOVERNANCE",
             "points": [
-                "Typst emerges as a lightweight markup-based alternative designed to replace complex LaTeX compiling systems.",
-                "The programming language optimizes technical document rendering speed, dramatically improving academic and corporate production pipelines.",
-                "Built-in layout management systems significantly reduce the compilation errors common in traditional markup execution environments.",
-                "Technical writers gain modern formatting tools that facilitate direct integration with automated documentation generation scripts."
+                "Google Cloud introduced AI Threat Defense, a security layer designed to help enterprises outpace adversarial AI attacks.",
+                "Gemini Enterprise has been upgraded with remote MCP server support to streamline secure agent development and orchestration.",
+                "The platform now focuses on moving from token-focused metrics to return-on-investment frameworks for agentic systems.",
+                "New cloud infrastructure updates include expanded support for high-performance AI workloads with Gemini Omni Flash."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
