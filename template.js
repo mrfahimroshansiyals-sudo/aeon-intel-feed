@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "EPOCH"
+        "titleWhite": "SOVEREIGN ALGORITHMIC",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
+            "heading": "WHITE HOUSE: OPEN MODEL EXEMPTION",
             "points": [
-                "Safe Superintelligence and Nvidia partner to accelerate secure, high-scale artificial intelligence systems globally.",
-                "The collaboration scales proprietary supercomputing clusters optimized for training highly advanced alignment models.",
-                "This alliance leverages physical GPU infrastructure to establish robust baselines for safe autonomous operations.",
-                "Enterprises will gain access to heavily audited models designed strictly to avoid critical systemic failures."
+                "New White House AI guidelines officially exempt domestic open-source models from mandatory federal government review protocols.",
+                "Decentralized developers gain significant operational speed advantages, bypassing bureaucratic compliance gating for non-custodial systems.",
+                "This policy pivot solidifies American software hegemony by fostering rapid, unrestricted deployment of foundational open-weight architectures.",
+                "Global regulators will face intense pressure to match these relaxed compliance standards or risk losing developer talent."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: ANTHROPIC GPU DEPLOYMENT",
+            "heading": "NVIDIA: ALPAMAYO 2 SUPER",
             "points": [
-                "AMD and Anthropic secure a strategic partnership to deploy massive high-performance computing clusters worldwide.",
-                "Up to two gigawatts of Instinct MI450 series graphics processing units will power next-generation workloads.",
-                "The infrastructure expansion directly challenges dominant proprietary platforms by offering alternative open scale execution layers.",
-                "Strategic developers will benefit from reduced training latency and enhanced cost efficiencies at extreme scale."
+                "Nvidia releases Alpamayo Two Super, a highly specialized frontier open model designed specifically for autonomous robotaxis.",
+                "Commercial operators can now deploy optimized physical intelligence systems without paying recurring proprietary licensing fees.",
+                "Integrating this model directly with edge silicon accelerates real-time path planning and multimodal spatial computing capabilities.",
+                "Autonomous vehicle manufacturers will rapidly transition toward open-weights architectures to retain complete control over system safety."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: IQ AGENT CONNECTIVITY",
+            "heading": "FCC: DC TRANSCEIVER BAN",
             "points": [
-                "Microsoft launches IQ to securely connect autonomous agents with complex enterprise systems and real-time workflows.",
-                "Integrated orchestration models reason across diverse datasets to deliver highly contextualized operational execution.",
-                "The framework optimizes agentic pipelines by establishing secure, low-latency bridges to sovereign corporate databases.",
-                "Organizations can confidently automate high-value processes without exposing sensitive core information to external systems."
+                "The Federal Communications Commission initiates regulatory steps toward banning Chinese-manufactured optical transceivers in domestic data centers.",
+                "Infrastructure procurement teams must rapidly diversify hardware supply chains, risking immediate hardware shortages and deployment delays.",
+                "This geopolitical maneuver emphasizes the critical need to secure physical layer communications from potential foreign espionage threats.",
+                "Allied manufacturing hubs will receive massive capital injections to ramp up domestic optoelectronic transceiver production capacity."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALLIANCE: SAFE CYBERSECURITY RULES",
+            "heading": "NVIDIA: NSF HUB INITIATIVE",
             "points": [
-                "Over one hundred twenty organizations propose SAFE guidelines to drive cybersecurity transparency in agentic deployments.",
-                "The standard enforces rigid boundaries to protect autonomous systems from advanced prompt injection vectors.",
-                "Collective industry action establishes standardized governance for verifying agent actions across decentralized networks.",
-                "Security teams will deploy robust validation checks to monitor automated tool usage and verify inputs."
+                "Nvidia integrates with the National Science Foundation State and Regional AI Hubs program to democratize computing resources.",
+                "Academic institutions across the United States secure direct access to enterprise-grade accelerated computing nodes and datasets.",
+                "The strategic alliance aims to decentralize technological expertise beyond traditional metropolitan silicon valleys to regional research ecosystems.",
+                "Localized sovereign research initiatives will accelerate, yielding novel, domain-specific AI models tailored for state-level industrial problems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: ROBOTICS WHOLE BODY LAYER",
+            "heading": "UPSTART: ALGORITHMIC LOAN GROW",
             "points": [
-                "Google DeepMind introduces Gemini Robotics Two to provide advanced physical agents with whole body cognitive capabilities.",
-                "The system integrates real-time video understanding with complex multi-robot task orchestration in dynamic environments.",
-                "Merging vision-language action models enables robotics to execute sophisticated manual processes with higher spatial precision.",
-                "Industrial manufacturers will accelerate warehouse automation by deploying highly adaptive, collaborative robotic fleets."
+                "Upstart deploys major AI architecture upgrades to its automated credit underwriting and risk assessment engine.",
+                "Instantly improved accuracy in borrower risk pricing triggers a notable expansion in bank-partnered loan origination volumes.",
+                "Transitioning from legacy statistical scoring models to real-time neural network evaluation unlocks hidden creditworthy market segments.",
+                "Traditional financial institutions lacking deep deep-learning integration will rapidly lose market share to automated lending platforms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: SOVEREIGN KOREAN INFRASTRUCTURE",
+            "heading": "SPECTRUM: IN-FLIGHT LASER RECHARGE",
             "points": [
-                "AMD partners with Korea's Ministry of Science and ICT to develop sovereign artificial intelligence hardware.",
-                "The initiative builds localized high-performance computing clusters and open-source models optimized for domestic networks.",
-                "National sovereign framework development ensures critical technology ecosystems remain independent of singular foreign providers.",
-                "Domestic tech developers will gain high-performance processing capabilities tailored specifically to regional regulatory standards."
+                "Engineers demonstrate successful laser-powered wireless power transmission to recharge operational airborne unmanned aerial vehicle systems.",
+                "Drones can theoretically remain airborne indefinitely, bypassing current battery energy density bottlenecks for persistent monitoring operations.",
+                "This tactical development marks a paradigm shift in off-grid logistics, relying on directed energy beams for continuous power.",
+                "Defense and surveillance architectures will integrate long-range directed energy transmitters to establish permanent atmospheric observation capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
+            "heading": "CIO: COOPERATIVE SRE AUTOMATION",
             "points": [
-                "Anthropic releases Claude Five Opus to dramatically improve agent capability, complex coding, and specialized reasoning.",
-                "The upgraded model executes highly complex multi-step workflows with reduced error rates and faster processing.",
-                "Advanced architectural refinement expands context handling capacities to parse massive enterprise datasets more efficiently.",
-                "Software engineering teams will achieve significantly higher automation rates across heavy, long-horizon development pipelines."
+                "Large-scale study of automated operations reveals AI agents perform best when combined with continuous human feedback loops.",
+                "Enterprises deploying cooperative human-in-the-loop architectures achieve significant reduction in system downtime and incident resolution times.",
+                "Purely autonomous agents frequently struggle with novel edge-case failures, necessitating persistent professional supervision to ensure stability.",
+                "Modern IT operations will restructure around hybrid oversight teams rather than attempting fully unattended algorithmic system administration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
