@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI AUTONOMY",
-        "titleBlue": "ACCELERATING"
+        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
+        "titleBlue": "EPOCH"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: SOVEREIGN AI ECOSYSTEMS",
+            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
             "points": [
-                "AMD partners with Korea Ministry of Science to deploy sovereign AI infrastructure and open-source models.",
-                "Collaboration integrates compute technology and advanced software to boost national AI R&D and talent development.",
-                "Strategic pact strengthens domestic AI capabilities through shared technical expertise and ecosystem-wide resource alignment.",
-                "Regional initiatives signal a global shift toward localized AI control to mitigate over-reliance on centralized hyperscalers."
+                "Safe Superintelligence and Nvidia partner to accelerate secure, high-scale artificial intelligence systems globally.",
+                "The collaboration scales proprietary supercomputing clusters optimized for training highly advanced alignment models.",
+                "This alliance leverages physical GPU infrastructure to establish robust baselines for safe autonomous operations.",
+                "Enterprises will gain access to heavily audited models designed strictly to avoid critical systemic failures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AZURE: AGENTIC CLOUD INFRASTRUCTURE",
+            "heading": "AMD: ANTHROPIC GPU DEPLOYMENT",
             "points": [
-                "Azure expands AI-optimized virtual machines to support demanding agentic workloads and technical computing requirements.",
-                "New HDv2 and ND MI455Xv7 instances provide high-performance compute foundations for large-scale enterprise AI model training.",
-                "Cloud platform architecture now directly unifies data, business context, and agents for real-time intelligent system execution.",
-                "Deployment infrastructure updates aim to slash latency for complex inference tasks across mission-critical enterprise environments."
+                "AMD and Anthropic secure a strategic partnership to deploy massive high-performance computing clusters worldwide.",
+                "Up to two gigawatts of Instinct MI450 series graphics processing units will power next-generation workloads.",
+                "The infrastructure expansion directly challenges dominant proprietary platforms by offering alternative open scale execution layers.",
+                "Strategic developers will benefit from reduced training latency and enhanced cost efficiencies at extreme scale."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: NANOSHEET ARCHITECTURE",
+            "heading": "MICROSOFT: IQ AGENT CONNECTIVITY",
             "points": [
-                "TSMC ramps up A16 nanosheet production featuring Super Power Rail for enhanced HPC and AI efficiency.",
-                "Innovative backside power delivery systems significantly improve chip thermal performance and power distribution for advanced models.",
-                "Advanced packaging and lithography roadmaps focus on sustaining density scaling for future generation agentic hardware accelerators.",
-                "Global fab expansion continues to underpin critical supply chain requirements for top-tier silicon and processor design."
+                "Microsoft launches IQ to securely connect autonomous agents with complex enterprise systems and real-time workflows.",
+                "Integrated orchestration models reason across diverse datasets to deliver highly contextualized operational execution.",
+                "The framework optimizes agentic pipelines by establishing secure, low-latency bridges to sovereign corporate databases.",
+                "Organizations can confidently automate high-value processes without exposing sensitive core information to external systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: SAFE AGENTIC GUIDELINES",
+            "heading": "ALLIANCE: SAFE CYBERSECURITY RULES",
             "points": [
-                "Open Secure AI Alliance formalizes SAFE guidelines for cybersecurity transparency in autonomous agentic AI deployments.",
-                "Over 120 member organizations collaborate to strengthen security protocols for AI systems managing sensitive enterprise data.",
-                "NVIDIA accelerates SSI long-term partnership to drive frontier safety research and robust superintelligence development benchmarks.",
-                "Standardization efforts prioritize minimizing vulnerabilities in multi-agent environments to prevent unauthorized data exfiltration or manipulation."
+                "Over one hundred twenty organizations propose SAFE guidelines to drive cybersecurity transparency in agentic deployments.",
+                "The standard enforces rigid boundaries to protect autonomous systems from advanced prompt injection vectors.",
+                "Collective industry action establishes standardized governance for verifying agent actions across decentralized networks.",
+                "Security teams will deploy robust validation checks to monitor automated tool usage and verify inputs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DEFENSE",
+            "heading": "DEEPMIND: ROBOTICS WHOLE BODY LAYER",
             "points": [
-                "Google Cloud introduces AI Threat Defense to proactively outpace adversaries in increasingly complex agentic digital ecosystems.",
-                "Platform updates emphasize security-first development for agents requiring seamless integration across enterprise data and workflows.",
-                "Scaling AI infrastructure for the agentic era remains a primary focus, supported by updated Gemini enterprise toolsets.",
-                "New managed MCP server platforms enable developers to build and orchestrate secure, resilient agentic autonomous task loops."
+                "Google DeepMind introduces Gemini Robotics Two to provide advanced physical agents with whole body cognitive capabilities.",
+                "The system integrates real-time video understanding with complex multi-robot task orchestration in dynamic environments.",
+                "Merging vision-language action models enables robotics to execute sophisticated manual processes with higher spatial precision.",
+                "Industrial manufacturers will accelerate warehouse automation by deploying highly adaptive, collaborative robotic fleets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: FRONTIER INTELLIGENCE SCALING",
+            "heading": "AMD: SOVEREIGN KOREAN INFRASTRUCTURE",
             "points": [
-                "OpenAI launches GPT-5.6 to optimize the price-performance frontier for advanced enterprise-grade AI model inference operations.",
-                "New release enhances frontier intelligence capabilities while improving robustness against adversarial attacks and complex logical reasoning.",
-                "Integration of automated self-improvement frameworks marks a shift toward more reliable and autonomous system performance metrics.",
-                "Deployment focuses on life sciences and mathematical research applications, expanding the utility of large-scale agentic models."
+                "AMD partners with Korea's Ministry of Science and ICT to develop sovereign artificial intelligence hardware.",
+                "The initiative builds localized high-performance computing clusters and open-source models optimized for domestic networks.",
+                "National sovereign framework development ensures critical technology ecosystems remain independent of singular foreign providers.",
+                "Domestic tech developers will gain high-performance processing capabilities tailored specifically to regional regulatory standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: FRONTIER AI SERVICES",
+            "heading": "ANTHROPIC: CLAUDE OPUS UPGRADE",
             "points": [
-                "Mistral enhances Vibe agentic platform to streamline complex long-horizon work via persistent memory and reusable skills.",
-                "Forge platform launches to enable organizations to train, align, and evaluate domain-specific AI models internally.",
-                "Enterprise adoption accelerates across sectors including manufacturing and government to drive process automation and operational intelligence.",
-                "Deployment flexibility allows runtimes from edge to cloud, ensuring complete data sovereignty for critical institutional workloads."
+                "Anthropic releases Claude Five Opus to dramatically improve agent capability, complex coding, and specialized reasoning.",
+                "The upgraded model executes highly complex multi-step workflows with reduced error rates and faster processing.",
+                "Advanced architectural refinement expands context handling capacities to parse massive enterprise datasets more efficiently.",
+                "Software engineering teams will achieve significantly higher automation rates across heavy, long-horizon development pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
