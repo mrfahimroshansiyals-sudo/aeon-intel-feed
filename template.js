@@ -1,50 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "NEXT GEN COGNITIVE",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SSI & NVIDIA: FRONTIER COOPERATION",
+            "heading": "ALIBABA: QWEN3.8-MAX DEPLOYMENT",
             "points": [
-                "Safe Superintelligence partners with Nvidia to build dedicated physical infrastructure for safe frontier AI development.",
-                "The strategic alliance accelerates superintelligence timelines by optimizing distributed training workloads across massive GPU clusters.",
-                "This collaboration secures sovereign compute reservation, establishing a robust validation ecosystem for next-generation safety standards.",
-                "Enterprises will acquire verified model security guarantees, shifting safety evaluation from reactive to proactive physical containment."
+                "Alibaba officially launched Qwen3.8-Max, directly targeting the frontier capabilities of industry leaders like OpenAI and Anthropic.",
+                "The model achieves massive throughput efficiency gains, significantly reducing API inference latency across global cloud infrastructures.",
+                "This release asserts China's technological autonomy and escalates the global open-weights foundation model competition.",
+                "Enterprise buyers will leverage these cheaper frontier-grade weights to decouple from restrictive proprietary API ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 ARCHITECTURE LAUNCH",
+            "heading": "SUPERLOGICAL: AGENTIC DEV ENGINE",
             "points": [
-                "OpenAI releases GPT-5.6 featuring advanced agentic reasoning capabilities that dynamically scale compute during inference phases.",
-                "The new frontier architecture drastically reduces latency while improving operational efficiency over previous models by forty percent.",
-                "By decoupling orchestration from underlying token processing, this release redefines enterprise agent deployment in regulated environments.",
-                "Organizations will transition rapidly from static assistance models to autonomous workflows capable of managing continuous execution."
+                "Mitchell Hashimoto's Superlogical launched a terminal-agnostic platform engineered to manage complex multi-step agentic developer workflows.",
+                "Engineering teams can scale automated codebase edits without experiencing the typical context drift of single-terminal agents.",
+                "This marks a structural shift from simple text-generation coding assistants to fully autonomous software engineering systems.",
+                "CIOs must prepare to retrain developers as supervisors managing automated pipelines rather than writing raw code."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD & ANTHROPIC: GIGAWATT COMPUTE DEAL",
+            "heading": "SAP: GERMAN ANTITRUST DISMISSAL",
             "points": [
-                "Anthropic partners with AMD to deploy up to two gigawatts of Instinct MI450 Series GPUs.",
-                "This multi-billion dollar infrastructure deployment scales Anthropic's sovereign cluster capability to tens of thousands of nodes.",
-                "The massive hardware commitment challenges Nvidia's market dominance, diversifying supply chain resources for global AI workloads.",
-                "Large enterprises gain access to competitive pricing and robust hardware alternatives for training complex foundational models."
+                "The German Federal Cartel Office closed its antitrust investigation into SAP regarding third-party data extraction practices.",
+                "Enterprise customers maintain standard data access rights without facing new vendor-imposed lock-ins or unexpected data egress fees.",
+                "The ruling provides regulatory clarity for European legacy enterprises seeking to extract operational data for AI pipelines.",
+                "Competitors must now find alternative regulatory levers to challenge SAP's dominance in core ERP database structures."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: COPILOT SUPER APP",
+            "points": [
+                "Microsoft launched a consolidated Copilot super app, separating context orchestration layers from baseline foundational models.",
+                "Developers can now hot-swap backend models while maintaining continuous enterprise memory and session state.",
+                "This architecture aims to commoditize underlying model providers by positioning Azure's orchestration as the primary workspace.",
+                "Tech buyers will prioritize orchestration platforms over raw model performance when selecting long-term enterprise AI vendor contracts."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMD: SOUTH KOREA SOVEREIGN AI",
+            "points": [
+                "AMD partnered with South Korea\u2019s Ministry of Science and ICT to build an independent sovereign AI ecosystem.",
+                "The initiative deploys open-source models optimized directly for national High-Performance Computing and cloud infrastructure.",
+                "This collaboration provides South Korea an alternative to Nvidia's proprietary hardware stack through open-source software enablement.",
+                "Global governments will increasingly demand customized, national-level hardware and software partnerships to ensure complete digital sovereignty."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "DEEPMIND: GEMINI ROBOTICS REVOLUTION",
-            "points": [
-                "Google DeepMind launches Gemini Robotics Two, integrating video understanding with low-latency physical robot task orchestration.",
-                "Robotic systems powered by this architecture process multimodal spatial inputs up to three times faster than before.",
-                "The framework bridges the digital-to-physical divide, enabling autonomous agents to safely manipulate real-world industrial machinery.",
-                "Manufacturers will experience rapid automation scaling as physical robots adapt autonomously to changing factory floor layouts."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: IQ AGENTIC WORKSPACE",
-            "points": [
-                "Microsoft Azure introduces IQ, a unified system securing shared enterprise context for distributed AI agent networks.",
-                "The platform scales agentic reasoning by dynamically matching AMD-powered ND MI455Xv7 virtual machines to user workloads.",
-                "Azure unifies context, memory, and database orchestration, preventing data fragmentation across disparate enterprise software applications.",
-                "IT leaders will successfully enforce zero-trust security boundaries across complex, multi-model agent systems without losing productivity."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "PALANTIR: AIP US COMMERCIAL BOOM",
+            "heading": "GOOGLE CLOUD: REMOTE MCP PROTOCOL",
             "points": [
-                "Palantir records explosive growth in AI software demand, driven by domestic adoption of its AIP platform.",
-                "United States commercial sales surged by twenty-three percent overall, with some segments achieving triple-digit revenue gains.",
-                "This growth confirms that enterprise buyers are prioritizing practical, deployable software platforms over pure model training.",
-                "Competitors must pivot from raw model capability metrics toward delivering integrated decision-making workflows to survive."
+                "Google Cloud integrated fully-managed Model Context Protocol servers to securely connect AI agents to enterprise data.",
+                "The implementation allows real-time data ingestion and tool execution without exposing sensitive internal databases to external models.",
+                "Standardizing on the open-source Model Context Protocol accelerates the deployment of cross-platform, multi-vendor enterprise agent ecosystems.",
+                "Security architects can now mandate strict access controls for agents through standard remote API server boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: VIBE AUTONOMOUS ENGINE",
+            "heading": "ASML: HIGH NA EUV LOGIC",
             "points": [
-                "Mistral AI introduces Vibe, an autonomous agent engineered to execute highly complex, long-horizon coding tasks.",
-                "The Vibe ecosystem accelerates software delivery pipelines by automating regression testing, decreasing deployment cycles by half.",
-                "Mistral's open-weights model deployment strategy lowers developer onboarding barriers while ensuring complete data sovereignty inside private clouds.",
-                "Software engineering teams will transition from manual coding to managing autonomous agentic cohorts on complex projects."
+                "ASML achieved a milestone as its High NA EUV lithography system patterned its first commercial logic chips.",
+                "The advanced machines enable chipmakers to shrink transistor dimensions further, boosting performance while reducing overall power requirements.",
+                "This validation secures ASML's technological monopoly and paves the path for sub-one-nanometer foundry nodes.",
+                "Hardware architects must redesign chip layouts to leverage these highly dense, backside power-routed silicon architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
