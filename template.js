@@ -1,98 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC INFRASTRUCTURE SHIFTS",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "ENTERPRISE AI AUTONOMY",
+        "titleBlue": "ACCELERATING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: AGENTIC SAFETY PROTOCOLS",
+            "heading": "AMD: SOVEREIGN AI ECOSYSTEMS",
             "points": [
-                "NVIDIA joins 120 organizations in the Open Secure AI Alliance to define safety standards for agentic systems. These guidelines prioritize cybersecurity transparency across global cloud and financial infrastructures.",
-                "New industry-wide frameworks focus on mitigating risks associated with autonomous AI operations. These measures provide necessary oversight for complex agent deployments within sensitive enterprise environments.",
-                "Strategic focus targets the integration of safety-by-design for large-scale agentic networks. This initiative secures the technical foundation of autonomous agents as they transition to production.",
-                "Enterprise users can expect standardized security benchmarks for agentic software deployments. This reduces systemic risk while accelerating the adoption of complex, self-directed AI tools."
+                "AMD partners with Korea Ministry of Science to deploy sovereign AI infrastructure and open-source models.",
+                "Collaboration integrates compute technology and advanced software to boost national AI R&D and talent development.",
+                "Strategic pact strengthens domestic AI capabilities through shared technical expertise and ecosystem-wide resource alignment.",
+                "Regional initiatives signal a global shift toward localized AI control to mitigate over-reliance on centralized hyperscalers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE",
+            "heading": "AZURE: AGENTIC CLOUD INFRASTRUCTURE",
             "points": [
-                "Google launches AI Threat Defense to outpace sophisticated adversaries using advanced behavioral modeling. The system protects cloud architectures from adversarial attacks targeting AI-driven logic and model weights.",
-                "Security operations leverage real-time data ingestion to neutralize threats before agent execution. This integration provides proactive defense for enterprise-grade autonomous environments and distributed workloads.",
-                "Architectural updates enable automated response patterns against model-specific vulnerabilities found in generative deployments. This hardens the security posture of cloud-native AI infrastructures against evolving exploits.",
-                "Organizations deploying Google AI services gain superior visibility into malicious agent activity patterns. Enhanced defense layers minimize downtime and secure high-value intellectual property within enterprise clouds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AWS: AGENTIC CODING AGENTS",
-            "points": [
-                "AWS Kiro Crew initiative pivots toward fully autonomous engineering teams managed by AI agents. This shift replaces manual coding workflows with agent-driven development and automated architectural management.",
-                "New tooling integrates directly into production pipelines for faster software delivery cycles. Agents autonomously handle complex maintenance tasks, documentation, and regression testing for enterprise platforms.",
-                "Technological shift aims to optimize developer productivity through intelligent, low-latency AI assistance. This deployment model fundamentally changes how large-scale enterprise systems are architected and maintained.",
-                "Stakeholders should prepare for a transition to AI-augmented development life cycles. Increased automation promises higher efficiency but requires new governance frameworks for autonomous agent actions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MISTRAL: AUTONOMOUS WORKFLOWS",
-            "points": [
-                "Mistral introduces Vibe, an AI agent system specifically designed for high-stakes, long-horizon enterprise tasks. The architecture supports multi-step planning, memory persistence, and collaborative agentic reasoning.",
-                "Product suite includes specialized tools for coding agents, document intelligence, and complex reporting synthesis. These systems operate independently within enterprise environments, requiring minimal human intervention for tasks.",
-                "Strategic deployment of Vibe enables organizations to scale operations without proportional headcount growth. The agent framework integrates with existing enterprise databases and structured data analysis tools.",
-                "Enterprises can now automate complex scheduling and resource management using persistent agent memory. This capability shifts operational models toward autonomous, self-optimizing business process execution."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ANTHROPIC: OPUS 5 AGENTIC UPGRADE",
-            "points": [
-                "Anthropic releases Opus 5, a significant upgrade to its flagship model optimized for agentic operations. The system features enhanced reasoning capabilities and advanced coding precision for professional usage.",
-                "Architecture refinements improve the model's ability to handle ambiguous professional directives with high reliability. This supports more complex and creative problem-solving across technical and creative sectors.",
-                "Focus on agentic performance ensures consistent results for long-duration task execution in demanding roles. Opus 5 sets new performance benchmarks for reasoning-intensive enterprise-grade AI applications.",
-                "Professional workflows benefit from significantly increased capability in multi-step task completion and analysis. Enterprises can deploy these models for more sophisticated and autonomous functional roles."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AZURE: AGENTIC INFRASTRUCTURE",
-            "points": [
-                "Microsoft Azure expands AI infrastructure with AMD-powered virtual machines designed for deep learning workloads. Support for HDv2 and ND MI455Xv7 supports demanding inference and data-intensive computing.",
-                "Integrated agent frameworks, Microsoft IQ, allow secure connectivity between agents and enterprise data. This provides systems with the necessary business context for accurate reasoning and action.",
-                "Hybrid and multicloud solutions now incorporate AI-powered developer tools via Azure and GitHub. These upgrades reduce cognitive load and accelerate the development of complex, intelligent enterprise applications.",
-                "Enterprises gain access to high-performance infrastructure tailored for AI-centric modernization initiatives. Robust agentic tools empower teams to build scalable, intelligent apps with enterprise-grade security controls."
+                "Azure expands AI-optimized virtual machines to support demanding agentic workloads and technical computing requirements.",
+                "New HDv2 and ND MI455Xv7 instances provide high-performance compute foundations for large-scale enterprise AI model training.",
+                "Cloud platform architecture now directly unifies data, business context, and agents for real-time intelligent system execution.",
+                "Deployment infrastructure updates aim to slash latency for complex inference tasks across mission-critical enterprise environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "OPENAI: FRONTIER MODEL SCALING",
+            "id": 3,
+            "heading": "TSMC: NANOSHEET ARCHITECTURE",
             "points": [
-                "OpenAI launches GPT-5.6, focusing on frontier intelligence that scales with evolving business ambitions. This model iteration delivers high performance for data-intensive reasoning and real-time inference tasks.",
-                "Expansion of GPT-Live capabilities provides seamless interactions for complex professional environments and collaborative research. These tools enhance productivity by facilitating rapid iteration on complex, technical projects.",
-                "Advancements in price-performance metrics empower enterprises to scale AI operations efficiently and reliably. The model architecture prioritizes robustness and self-improvement mechanisms for long-term project viability.",
-                "Business users receive expanded toolsets for secure, automated, and intelligent work management. GPT-5.6 serves as the foundation for the next generation of scalable enterprise-grade applications."
+                "TSMC ramps up A16 nanosheet production featuring Super Power Rail for enhanced HPC and AI efficiency.",
+                "Innovative backside power delivery systems significantly improve chip thermal performance and power distribution for advanced models.",
+                "Advanced packaging and lithography roadmaps focus on sustaining density scaling for future generation agentic hardware accelerators.",
+                "Global fab expansion continues to underpin critical supply chain requirements for top-tier silicon and processor design."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: SAFE AGENTIC GUIDELINES",
+            "points": [
+                "Open Secure AI Alliance formalizes SAFE guidelines for cybersecurity transparency in autonomous agentic AI deployments.",
+                "Over 120 member organizations collaborate to strengthen security protocols for AI systems managing sensitive enterprise data.",
+                "NVIDIA accelerates SSI long-term partnership to drive frontier safety research and robust superintelligence development benchmarks.",
+                "Standardization efforts prioritize minimizing vulnerabilities in multi-agent environments to prevent unauthorized data exfiltration or manipulation."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE CLOUD: AGENTIC DEFENSE",
+            "points": [
+                "Google Cloud introduces AI Threat Defense to proactively outpace adversaries in increasingly complex agentic digital ecosystems.",
+                "Platform updates emphasize security-first development for agents requiring seamless integration across enterprise data and workflows.",
+                "Scaling AI infrastructure for the agentic era remains a primary focus, supported by updated Gemini enterprise toolsets.",
+                "New managed MCP server platforms enable developers to build and orchestrate secure, resilient agentic autonomous task loops."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://cloud.google.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "OPENAI: FRONTIER INTELLIGENCE SCALING",
+            "points": [
+                "OpenAI launches GPT-5.6 to optimize the price-performance frontier for advanced enterprise-grade AI model inference operations.",
+                "New release enhances frontier intelligence capabilities while improving robustness against adversarial attacks and complex logical reasoning.",
+                "Integration of automated self-improvement frameworks marks a shift toward more reliable and autonomous system performance metrics.",
+                "Deployment focuses on life sciences and mathematical research applications, expanding the utility of large-scale agentic models."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL: FRONTIER AI SERVICES",
+            "points": [
+                "Mistral enhances Vibe agentic platform to streamline complex long-horizon work via persistent memory and reusable skills.",
+                "Forge platform launches to enable organizations to train, align, and evaluate domain-specific AI models internally.",
+                "Enterprise adoption accelerates across sectors including manufacturing and government to drive process automation and operational intelligence.",
+                "Deployment flexibility allows runtimes from edge to cloud, ensuring complete data sovereignty for critical institutional workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
