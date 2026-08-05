@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE SHIFTS",
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: AI SPENDING SURGE",
+            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADES",
             "points": [
-                "SpaceX is aggressively scaling AI infrastructure despite market concerns regarding high capital expenditures and hardware amortization costs.",
-                "Analysts note the company is betting on full-stack automation to optimize launch cadence and complex orbital maneuverability protocols.",
-                "Revenue expansion remains robust, though institutional investors remain wary of the accelerating burn rate for proprietary model development.",
-                "This shift signals a departure from traditional engineering into autonomous system orchestration for long-term space mission dominance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.bloomberg.com/technology",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GOOGLE: AGENTIC DATA CLOUD",
-            "points": [
-                "Google Cloud has launched new agentic Data Cloud integrations designed to automate complex, multi-step business process orchestration across enterprise environments.",
-                "The platform leverages Gemini 3.6 Flash for high-speed reasoning, enabling real-time autonomous data governance and secure system-wide transactional execution.",
-                "Enterprises are adopting this architecture to unify siloed business context, moving beyond passive analytics into active decision-making loops.",
-                "This move positions Google as the primary backend provider for large-scale agentic systems across heavily regulated industrial sectors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://cloud.google.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ASML: NANO-SCALE AI READINESS",
-            "points": [
-                "ASML achieves a critical High NA EUV manufacturing milestone for high-volume logic products, essential for sub-2nm chip architecture production.",
-                "The semiconductor equipment giant is embedding AI-native engineering to optimize the lithography patterning process across global R&D networks.",
-                "This production readiness underscores the industry shift toward energy-efficient, high-performance silicon required for next-generation agentic AI clusters.",
-                "The company reports record net sales, bolstered by intense global demand for advanced lithography machinery in AI hardware fabs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.asml.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADE",
-            "points": [
-                "Anthropic releases Opus 5, featuring advanced reasoning capabilities and specialized architecture for complex, multi-modal professional agentic workflows.",
-                "The new model integrates auditable artifacts and sophisticated tool-use packages designed for rigorous scientific discovery and enterprise-grade software development.",
-                "Performance metrics indicate a step-change in coding proficiency and long-horizon planning, critical for autonomous research in regulated verticals.",
-                "Strategic rollout focuses on balancing frontier intelligence with stringent safety guardrails to mitigate risks during large-scale agent deployments."
+                "Anthropic releases Opus 5 and Sonnet 5, driving significant advancements in agentic reasoning capabilities and coding performance.",
+                "These models integrate deeply with professional workflows, allowing for more autonomous multi-step task execution in complex enterprise environments.",
+                "The Claude Science suite now provides auditable artifacts for researchers, ensuring high-fidelity data tracking in scientific discovery processes.",
+                "Stakeholders should expect reduced friction in automated workflows as agentic precision scales with these latest architecture updates."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +22,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
+            "id": 2,
+            "heading": "GOOGLE DEEPMIND: AGENTIC ROBOTICS",
+            "points": [
+                "Gemini Robotics 2 introduces whole-body intelligence for robots, enabling superior task orchestration and real-time multi-robot collaboration efficiency.",
+                "New Gemini 3.6 Flash models prioritize speed and efficiency, optimizing inference costs for high-scale enterprise-grade AI agent deployments.",
+                "DeepMind is shifting focus toward multi-agent systems, emphasizing the need for robust scientific research on emergent agent interaction risks.",
+                "Enterprises can leverage these models to power physical world interactions with increased video understanding and complex goal-setting capabilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "NVIDIA: SECURE AI ALLIANCE",
+            "points": [
+                "NVIDIA advances the Open Secure AI Alliance, developing critical SAFE guidelines to ensure transparency and security in agentic AI deployments.",
+                "The Alpamayo 2 super model is now available for commercial autonomous vehicle fleets, setting new benchmarks for real-world reliability.",
+                "Strategic partnerships with entities like Safe Superintelligence Inc accelerate the growth of verifiable, long-term secure artificial intelligence frameworks.",
+                "Industry leaders are aligning on these protocols to mitigate cybersecurity risks inherent in widespread agent-based system integrations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
             "heading": "AMD: SOVEREIGN AI ECOSYSTEMS",
             "points": [
-                "AMD partners with South Korea to advance national sovereign AI infrastructure through specialized compute technology and open software frameworks.",
-                "The collaboration emphasizes development of national AI models and local talent cultivation to reduce reliance on external hardware vendors.",
-                "AMD leverages its Instinct MI450 GPUs and EPYC CPUs to power the next generation of high-performance agentic enterprise data centers.",
-                "Global governments are increasingly prioritizing internal AI compute stacks, viewing domestic silicon independence as a core national security pillar."
+                "AMD partners with Korea\u2019s Ministry of Science to build sovereign AI infrastructure, emphasizing hardware autonomy and local data control.",
+                "New strategic initiatives with Anthropic involve deploying up to 2 gigawatts of Instinct MI450 series GPUs for intensive workloads.",
+                "The EPYC 9006 series server CPUs provide the underlying foundation for modern agentic data centers requiring massive high-performance scalability.",
+                "Organizations can now leverage open-source models on unified silicon stacks to achieve superior TCO and efficiency gains."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "OPENAI: FRONTIER SCALING UPDATE",
+            "id": 5,
+            "heading": "ASML: SEMICONDUCTOR LITHOGRAPHY",
             "points": [
-                "OpenAI introduces GPT-5.6, targeting a new price-performance frontier specifically tailored for high-intensity, agentic enterprise intelligence requirements.",
-                "The update includes advanced self-improvement protocols aimed at increasing system robustness against adversarial attacks and operational edge-case errors.",
-                "Business adoption is accelerating as organizations replace legacy software pipelines with autonomous agents capable of complex transactional orchestration.",
-                "The roadmap prioritizes integrating frontier reasoning with lightweight deployment models to achieve parity in real-time, low-latency business environments."
+                "ASML achieves a major milestone with high-volume Logic production using its latest high NA EUV lithography machine platforms.",
+                "The company reports strong financial performance with 9.3 billion in net sales, highlighting high demand for advanced chip manufacturing.",
+                "AI-native engineering is being applied across the lithography pipeline, significantly optimizing chip patterning speed and energy efficiency globally.",
+                "Future semiconductor supply chains are increasingly dependent on ASMLs ability to scale these complex manufacturing systems effectively."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.asml.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL: AUTONOMOUS AGENT TOOLS",
+            "points": [
+                "Mistral introduces Vibe, a new AI agent designed for long-horizon work, capable of tool usage and persistent memory management.",
+                "Studio platform updates allow developers to build, test, and deploy customized AI agents with end-to-end orchestration and guardrails.",
+                "The company is expanding its footprint in critical sectors like manufacturing and finance, focusing on domain-specific model alignment.",
+                "Enterprise users benefit from full deployment portability, allowing for rapid movement of AI intelligence from edge to cloud."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SAFE CYBERSECURITY CORE",
+            "heading": "AZURE: INTELLIGENT CLOUD SYSTEMS",
             "points": [
-                "NVIDIA advances agentic AI security by integrating SAFE guidelines into its hardware ecosystems for improved transparency and system-wide visibility.",
-                "The initiative aims to address the vulnerability of autonomous agents by embedding hardware-level security controls into AI-specific compute architectures.",
-                "Research efforts focus on managing the increased attack surface created by millions of agents interacting across distributed enterprise networks.",
-                "Enhanced security measures are becoming a prerequisite for large-scale industrial AI adoption, particularly in telecommunications and global financial services."
+                "Azure launches new AMD-powered virtual machines designed to support high-intensity technical computing and demanding inference AI workflows.",
+                "Microsoft IQ improves agentic reliability by providing shared business context, ensuring agents act within predefined enterprise logic boundaries.",
+                "Integrated tools allow for continuous performance monitoring of database backends, crucial for maintaining resiliency in modern intelligent applications.",
+                "Enterprises can now unify siloed data systems into a coherent, responsive AI infrastructure capable of real-time transactional processing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
