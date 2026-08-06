@@ -1,82 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS COGNITIVE",
-        "titleBlue": "TRANSITION"
+        "titleWhite": "AUTONOMOUS SYSTEM",
+        "titleBlue": "ORCHESTRATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
+            "heading": "GOOGLE DEEPMIND: LEADERSHIP SHAKEUP",
             "points": [
-                "OpenAI launches GPT-5.6 to scale frontier intelligence and establish new benchmarks for complex reasoning models.",
-                "Operational pricing drops significantly while performance metrics achieve unparalleled efficiency gains across enterprise cognitive workloads.",
-                "The system optimizes scaling laws to deliver highly adaptable agentic frameworks across distributed commercial infrastructures.",
-                "Global enterprises must immediately integrate these optimized endpoints to maintain parity with accelerating automated competitors."
+                "Google DeepMind reorganizes leadership as CEO Demis Hassabis steps aside and chief scientist Jeff Dean departs.",
+                "This structural restructuring shifts the lab toward specialized commercial agent deployment and decentralized startup ecosystems.",
+                "The division of core research assets aims to accelerate the deployment of action-oriented frontier systems.",
+                "Enterprise clients should expect accelerated commercial pipelines for multi-agent negotiation frameworks and decision systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: LEADERSHIP SHAKEUP EXECUTION",
+            "heading": "META: MUSE CODE DEPLOYMENT",
             "points": [
-                "Google DeepMind reorganizes research leadership as Demis Hassabis steps aside to pivot laboratory operational strategies.",
-                "Chief Scientist Jeff Dean departs to launch an independent startup, redistributing premium engineering talent across ecosystems.",
-                "This structural realignment signals a transition from foundational scientific exploration toward aggressive commercial agent monetization.",
-                "Industry partners must realign their long-term development roadmaps with Google's newly structured research and development pipelines."
+                "Meta launches Muse Code utilizing persistent AI agents designed for complex, long-horizon software engineering tasks.",
+                "Developers can offload background system translation and legacy code refactoring to autonomous orchestrators safely.",
+                "The framework integrates architecture-aware reasoning directly within local terminal environments and integrated development platforms.",
+                "This deployment significantly reduces cognitive load on engineering teams by automating continuous integration pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: ALPAMAYO 2 AUTONOMY DEPLOYMENT",
+            "heading": "MICROSOFT: IQ AGENT GROUNDING",
             "points": [
-                "NVIDIA releases the Alpamayo 2 Super frontier open model to power next-generation robotaxis and autonomous vehicles.",
-                "The commercial model delivers ultra-low latency spatial computing and immediate edge processing improvements for vehicular fleets.",
-                "This architecture integrates deep physical world simulation models directly into distributed transport and logistics systems.",
-                "Fleet operators should immediately adopt this open platform to accelerate their level-four autonomous commercial operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: INSTINCT MI450 GPU CO-ALLOCATION",
-            "points": [
-                "AMD partners with Anthropic to deploy two gigawatts of high-performance Instinct MI450 series graphics processing units.",
-                "The massive infrastructure expansion significantly decreases the training times required for frontier-level Claude model iterations.",
-                "This capital allocation secures independent, sovereign hardware reserves to counter monopolistic enterprise compute distribution limitations.",
-                "Cloud architects should design cluster integrations around these newly available AMD-powered hyperscale deep learning configurations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: IQ AGENTIC INTEGRATION PLATFORM",
-            "points": [
-                "Microsoft introduces the IQ platform to seamlessly connect autonomous agents with complex internal corporate database workflows.",
-                "Enterprises reduce custom integration code by eighty percent while maintaining comprehensive business context and data security.",
-                "The platform standardizes model-to-data communication layers across multi-tenant environments without risking critical information leakages.",
-                "Systems engineers must implement this unified framework to control unauthorized agent data access across distributed networks."
+                "Microsoft unveils Web IQ and Microsoft IQ to securely ground autonomous agents in real-time enterprise data.",
+                "This integration allows digital assistants to reason over live web search metrics and corporate database schemas.",
+                "Secure connection protocols prevent data exfiltration while maintaining low-latency execution across hybrid cloud environments.",
+                "Enterprise architects can safely deploy external-facing agents with verified access controls and minimized hallucination vectors."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
+            "id": 4,
+            "heading": "NVIDIA: OMNIVERSE WORLD MODELS",
             "points": [
-                "Mistral AI unveils Robostral Navigate alongside its flagship long-horizon agent suite designed for complex automation.",
-                "The specialized physical navigation model reduces task orchestration failures by forty percent across modern smart factories.",
-                "This release bridges digital language understanding with actual industrial action systems for sovereign European automation initiatives.",
-                "Manufacturing operators can immediately leverage these open-weight weights to upgrade local edge control system software."
+                "NVIDIA advances Cosmos within its Omniverse platform to generate open world models for physical robotics training.",
+                "Autonomous systems can simulate real-world physical interactions and predict outcomes before executing mechanical actions physically.",
+                "The framework scales spatial intelligence across edge clusters to accelerate deep learning in heavy industrial environments.",
+                "Industrial manufacturers will achieve higher precision in robotic manipulation through self-supervised spatial reasoning pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: GPT-5.6 SCALE",
+            "points": [
+                "OpenAI releases GPT-5.6 offering frontier-scale intelligence designed to execute highly complex, multi-step agentic workflows.",
+                "Operational cost optimization reduces API pricing while scaling system capability for large enterprise deployments globally.",
+                "The architecture leverages dynamic mixture-of-experts routing to process massive contextual inputs with superior computational efficiency.",
+                "Organizations can transition from basic retrieval systems to autonomous procedural workflows with higher reliability metrics."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: SHIELDSTRAL ARCHITECTURE",
+            "points": [
+                "Mistral AI introduces Shieldstral and Robostral systems to establish an auditable record of agentic operations.",
+                "These security layers govern model skills, validating prompt safety before executing tasks across enterprise software environments.",
+                "The decentralized security model runs locally on edge devices to prevent centralized attack vectors on agents.",
+                "Chief Information Officers can enforce strict compliance standards over sovereign AI deployments without sacrificing model throughput."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
+            "heading": "AMD: SOVEREIGN CO-DEVELOPMENT",
             "points": [
-                "ASML reaches a critical readiness milestone with the first high-volume logic product using High NA EUV lithography.",
-                "Chipmakers can now mass-produce sub-two-nanometer silicon architectures with significantly enhanced transistor density and energy efficiency.",
-                "This manufacturing breakthrough secures the physical hardware foundation required to train upcoming frontier-level artificial intelligence systems.",
-                "Hardware engineers must prepare logic designs for this advanced process node to unlock next-generation model performance."
+                "AMD partners with South Korea's Ministry of Science and ICT to build advanced sovereign AI infrastructure.",
+                "The partnership establishes national compute networks utilizing open-source models optimized for regional compliance frameworks.",
+                "Deploying localized hardware layers ensures absolute data residency and mitigates geopolitical reliance on external cloud hyperscalers.",
+                "Sovereign entities will increasingly build independent compute clusters to guarantee digital autonomy over strategic information pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
