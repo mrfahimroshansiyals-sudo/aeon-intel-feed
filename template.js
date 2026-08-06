@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
-        "titleBlue": "SCALING"
+        "titleWhite": "AUTONOMOUS COGNITIVE",
+        "titleBlue": "TRANSITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPEN SECURE AI ALLIANCE: SAFE GUIDELINES",
+            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
             "points": [
-                "Alliance members are deploying robust SAFE security standards to enforce real-time transparency across complex agentic AI systems.",
-                "The joint initiative protects over one hundred twenty enterprise organizations against emerging model vulnerabilities and automated threats.",
-                "This framework establishes clear transparency benchmarks for secure open-source software integration within highly regulated production environments.",
-                "Engineering teams will confidently utilize these guidelines to build verifiable, trust-focused autonomous agent networks globally."
+                "OpenAI launches GPT-5.6 to scale frontier intelligence and establish new benchmarks for complex reasoning models.",
+                "Operational pricing drops significantly while performance metrics achieve unparalleled efficiency gains across enterprise cognitive workloads.",
+                "The system optimizes scaling laws to deliver highly adaptable agentic frameworks across distributed commercial infrastructures.",
+                "Global enterprises must immediately integrate these optimized endpoints to maintain parity with accelerating automated competitors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SSI & NVIDIA: SUPERINTELLIGENCE PARTNERSHIP",
+            "heading": "DEEPMIND: LEADERSHIP SHAKEUP EXECUTION",
             "points": [
-                "Safe Superintelligence and NVIDIA have formed a deep long-term alliance to dramatically accelerate secure frontier model development.",
-                "This collaborative ecosystem speeds up the physical scaling of ultra-secure superintelligence systems by optimizing specialized hardware.",
-                "Integrating custom computational platforms creates a reliable foundation for training advanced neural systems with safety-first designs.",
-                "Enterprise operators will leverage this highly optimized infrastructure to deploy mission-critical safety applications across distributed clouds."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD & ANTHROPIC: INSTINCT DEPLOYMENT",
-            "points": [
-                "Anthropic forms a strategic compute partnership deploying up to two gigawatts of AMD Instinct MI450 GPUs.",
-                "This mega-scale hardware arrangement delivers unprecedented floating-point compute capacity while drastically cutting target model training cycles.",
-                "Standardizing on MI450 silicon provides a resilient alternative framework for scaling next-generation generative language architectures globally.",
-                "Infrastructure executives will experience significantly lower total cost of ownership while supporting highly demanding modern workloads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE DEEPMIND: LEADERSHIP SHAKEUP",
-            "points": [
-                "Demis Hassabis steps aside in deep leadership restructure while chief scientist Jeff Dean departs for startup.",
-                "This profound organizational realignment shifts Google's operational focus toward hyper-scaled commercialization of automated agent frameworks.",
-                "Consolidating core research divisions enables unified deployment pipelines for next-generation multi-modal reasoning and action models.",
-                "Global competitors must rapidly adapt to Google's aggressive drive for market dominance in enterprise-grade agent technology."
+                "Google DeepMind reorganizes research leadership as Demis Hassabis steps aside to pivot laboratory operational strategies.",
+                "Chief Scientist Jeff Dean departs to launch an independent startup, redistributing premium engineering talent across ecosystems.",
+                "This structural realignment signals a transition from foundational scientific exploration toward aggressive commercial agent monetization.",
+                "Industry partners must realign their long-term development roadmaps with Google's newly structured research and development pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AWS: DYNAMODB VECTOR SEARCH",
+            "id": 3,
+            "heading": "NVIDIA: ALPAMAYO 2 AUTONOMY DEPLOYMENT",
             "points": [
-                "Amazon Web Services introduces native vector search functionality within DynamoDB to streamline retrieval-augmented generation workloads.",
-                "Database developers can now execute sub-millisecond similarity matches directly against millions of stored vectors with zero pipeline lag.",
-                "This integrated engine decouples external search databases, minimizing architecture complexity and reducing total system deployment overhead.",
-                "Solutions architects can rapidly build and scale highly resilient AI applications using familiar cloud database services."
+                "NVIDIA releases the Alpamayo 2 Super frontier open model to power next-generation robotaxis and autonomous vehicles.",
+                "The commercial model delivers ultra-low latency spatial computing and immediate edge processing improvements for vehicular fleets.",
+                "This architecture integrates deep physical world simulation models directly into distributed transport and logistics systems.",
+                "Fleet operators should immediately adopt this open platform to accelerate their level-four autonomous commercial operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: INSTINCT MI450 GPU CO-ALLOCATION",
+            "points": [
+                "AMD partners with Anthropic to deploy two gigawatts of high-performance Instinct MI450 series graphics processing units.",
+                "The massive infrastructure expansion significantly decreases the training times required for frontier-level Claude model iterations.",
+                "This capital allocation secures independent, sovereign hardware reserves to counter monopolistic enterprise compute distribution limitations.",
+                "Cloud architects should design cluster integrations around these newly available AMD-powered hyperscale deep learning configurations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: IQ AGENTIC INTEGRATION PLATFORM",
+            "points": [
+                "Microsoft introduces the IQ platform to seamlessly connect autonomous agents with complex internal corporate database workflows.",
+                "Enterprises reduce custom integration code by eighty percent while maintaining comprehensive business context and data security.",
+                "The platform standardizes model-to-data communication layers across multi-tenant environments without risking critical information leakages.",
+                "Systems engineers must implement this unified framework to control unauthorized agent data access across distributed networks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE LAUNCH",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE RELEASE",
             "points": [
-                "Anthropic unveils Claude Science to supply researchers with specialized scientific libraries and easily auditable computation environments.",
-                "Specialized design choices enable laboratory teams to generate reproducible workflows and automate highly complex statistical analysis steps.",
-                "The dedicated application architecture bridges high-performance research sandboxes with frontier large language model processing capabilities.",
-                "Academic institutions will drastically shorten discovery timelines while maintaining strict, audit-ready data tracking and compliance standards."
+                "Mistral AI unveils Robostral Navigate alongside its flagship long-horizon agent suite designed for complex automation.",
+                "The specialized physical navigation model reduces task orchestration failures by forty percent across modern smart factories.",
+                "This release bridges digital language understanding with actual industrial action systems for sovereign European automation initiatives.",
+                "Manufacturing operators can immediately leverage these open-weight weights to upgrade local edge control system software."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT AZURE: ADVANCED HPC INSTANCES",
+            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
             "points": [
-                "Microsoft expands Azure cloud infrastructure by launching advanced AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines.",
-                "Deploying these raw instances provides massive performance boosts for training large models and executing complex simulations.",
-                "The high-performance virtual layers optimize interconnect pathways, creating highly scalable environments for massive parallel computing tasks.",
-                "Chief technology officers will benefit from seamless scaling capabilities when running distributed AI training and inference."
+                "ASML reaches a critical readiness milestone with the first high-volume logic product using High NA EUV lithography.",
+                "Chipmakers can now mass-produce sub-two-nanometer silicon architectures with significantly enhanced transistor density and energy efficiency.",
+                "This manufacturing breakthrough secures the physical hardware foundation required to train upcoming frontier-level artificial intelligence systems.",
+                "Hardware engineers must prepare logic designs for this advanced process node to unlock next-generation model performance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
