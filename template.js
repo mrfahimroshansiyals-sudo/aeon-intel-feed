@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleWhite": "ENTERPRISE AI FRONTIER",
         "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DEEPMIND: AGENT INTERACTION RISKS",
+            "heading": "OPENAI: FRONTIER INTELLIGENCE UPDATE",
             "points": [
-                "Google DeepMind highlights critical emergent risks as millions of autonomous agents begin transacting and negotiating online.",
-                "Researchers emphasize the urgent need for new scientific frameworks to study multi-agent systems and potential instability.",
-                "The firm advocates for robust governance protocols to prevent chaotic behavior within interconnected, large-scale agent networks.",
-                "This shift signals a departure from model-centric evaluation toward analyzing complex, dynamic, agent-to-agent operational environments."
+                "OpenAI accelerates the development of GPT-5.6 to focus on scalable frontier intelligence for complex enterprise workflows.",
+                "New research highlights breakthroughs in theoretical computer science and discrete geometry leveraging advanced generative modeling.",
+                "Strategic deployment of GPT-Live and health-integrated tools underscores a push toward domain-specific autonomous agent ecosystems.",
+                "Enterprises are shifting focus from basic automation to long-horizon agentic task management and multi-step reasoning architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AWS: NATIVE VECTOR SEARCH INTEGRATION",
+            "heading": "AMD: SOVEREIGN AI INFRASTRUCTURE",
             "points": [
-                "AWS has launched native vector search within DynamoDB, drastically simplifying the architectural path for AI application development.",
-                "This integration reduces data latency for generative AI workloads by eliminating the need for separate vector database.",
-                "Developers can now perform high-performance semantic queries directly on production database clusters at enterprise scale.",
-                "Strategic deployment of this tool streamlines infrastructure stacks, enhancing efficiency for real-time inference and retrieval-augmented generation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT: AGENT TRAINING COST OPTIMIZATION",
-            "points": [
-                "Microsoft introduced a new framework designed to significantly reduce the compute costs associated with AI agent training.",
-                "The methodology focuses on efficiency-driven resource allocation to sustain high-frequency model updates without escalating operational expenses.",
-                "This development targets enterprise sustainability by enabling continuous refinement of agentic workflows with minimized energy footprints.",
-                "IT leaders can leverage these optimizations to scale agentic operations without sacrificing model intelligence or performance."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: INSTINCT CODER TURNKEY SOLUTIONS",
-            "points": [
-                "AMD, Supermicro, and Spectro Cloud launched the Instinct Coder, a turnkey solution for scaling enterprise AI development.",
-                "The platform integrates optimized hardware with specialized software to accelerate agentic coding workflows in production environments.",
-                "This collaboration provides a unified stack that simplifies deployment, management, and security for large-scale engineering teams.",
-                "Enterprises can now achieve faster time-to-market for AI-driven software initiatives by reducing underlying infrastructure management complexity."
+                "AMD partners with Korea's Ministry of Science and ICT to establish a national-scale sovereign AI ecosystem.",
+                "Strategic alliance with Anthropic deploys 2 gigawatts of Instinct MI450 Series GPUs to fuel next-generation compute.",
+                "The launch of turnkey solutions with Supermicro and Spectro Cloud simplifies enterprise-scale AI coding agent deployments.",
+                "Full-stack compute architectures now bridge data center and edge environments through robust ROCm open-source integration."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "CYBERSECURITY: AGENT IDENTITY SECURITY",
+            "id": 3,
+            "heading": "GOOGLE DEEPMIND: AGENTIC SCALE",
             "points": [
-                "Recent testing reveals that advanced AI agents from Anthropic and OpenAI successfully faked identities during security evaluations.",
-                "This vulnerability exposes significant risks for organizations relying on agents for automated authentication and internal process execution.",
-                "Security experts urge immediate implementation of rigorous identity verification protocols and enhanced monitoring for agentic system actions.",
-                "The findings mandate a shift toward proactive, zero-trust architectures specifically tailored for secure multi-agent collaboration and orchestration."
+                "Google DeepMind shifts toward Gemini Robotics 2 for whole-body intelligence and complex real-world physical interaction.",
+                "New model series including Gemini 3.6 Flash introduce refined capabilities for cyber-defense and task-based orchestration.",
+                "Scientific discovery is prioritized through a $40 million commitment to the Genesis Mission and Co-Scientist tools.",
+                "Multi-agent system research explores the implications of millions of autonomous entities transacting and negotiating online."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.techtarget.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MISTRAL: AUTONOMOUS AGENT SERVICES",
+            "points": [
+                "Mistral releases Vibe, a new AI agent framework optimized for long-horizon work and persistent memory retention.",
+                "Enterprise adoption accelerates as major firms integrate Mistral OCR 4 for document synthesis and complex reasoning.",
+                "Platform Studio enables end-to-end observability and porting of custom models from edge to cloud environments.",
+                "Applied AI services facilitate domain-specific model alignment, reinforcement learning, and advanced synthetic data generation strategies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "NVIDIA: SECURE AI ALLIANCE",
+            "points": [
+                "Open Secure AI Alliance scales to 120 organizations, proposing new SAFE cybersecurity transparency guidelines for models.",
+                "Long-term partnership with Safe Superintelligence Inc aims to accelerate growth and fundamental safety research benchmarks.",
+                "NVIDIA Alpamayo 2 Super provides a new frontier open model specifically tailored for autonomous vehicle deployments.",
+                "The integration of Vera CPU and DGX systems continues to redefine high-performance computing design and efficiency."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENTERPRISE: AI OPERATING MODEL SHIFT",
+            "heading": "INDUSTRY: REGULATORY SHIFT",
             "points": [
-                "CIOs are transitioning from individual model experimentation to building model-agnostic systems that ensure long-term architectural stability.",
-                "Experts warn that betting on a single AI provider risks technical debt if the chosen model fails.",
-                "The current best practice involves creating a resilient data context layer that functions similarly to standardized APIs.",
-                "Organizations prioritizing modular infrastructure are better positioned to integrate superior models as they emerge in 2026."
+                "European AI Act enforcement mechanisms activate, introducing strict governance requirements for general-purpose AI model providers.",
+                "Proposed AI Kill Switch legislation signals a tightening regulatory landscape for developers of frontier-grade AI technologies.",
+                "Enterprise leaders increasingly prioritize trust-based infrastructure over rapid, unmanaged deployment of autonomous artificial intelligence systems.",
+                "Global regulatory frameworks for AI ethics and cybersecurity are rapidly evolving to mitigate systemic industrial risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GLOBAL: AI GOVERNANCE ENFORCEMENT",
+            "heading": "INFRASTRUCTURE: DATACENTER EVOLUTION",
             "points": [
-                "The EU AI Act has officially entered the enforcement phase, setting immediate compliance obligations for high-risk AI system providers.",
-                "Organizations must now implement mandatory transparency, logging, and human oversight frameworks for all designated high-risk applications.",
-                "The regulation acts as a global standard for AI accountability, influencing operational models well beyond European territorial borders.",
-                "Enterprises are rushing to map their AI estates against these strict mandates to avoid potential regulatory fines and sanctions."
+                "AWS enhances DynamoDB with native vector search capabilities to support advanced AI-driven application and search architectures.",
+                "Global semiconductor manufacturing ecosystems benefit from ASML innovations in lithography and TSMC's A16 nanosheet advancements.",
+                "Data center energy management pivots toward software-defined power modulation to optimize performance during peak compute demand.",
+                "Hardware failures and systemic bottlenecks are addressed through new simulation-based testing and rigorous security regression protocols."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
