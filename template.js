@@ -7,28 +7,28 @@ const dailyData = {
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: INFERENCE MARKET EXPANSION",
+            "heading": "MICROSOFT: AGENTIC CLOUD EXPANSION",
             "points": [
-                "AMD has confirmed a definitive agreement to acquire Taalas, targeting high-efficiency silicon for inference.",
-                "The integration focuses on single-model execution efficiency to optimize costs for mature, high-volume AI workloads.",
-                "This acquisition bolsters the AMD AI roadmap, specifically targeting the enterprise shift toward cost-effective inference deployments.",
-                "Analysts note the move limits flexibility but secures a dominant position in dedicated AI hardware revenue."
+                "Microsoft integrates AMD-powered AI and HPC virtual machines to accelerate enterprise-scale intelligent systems and data workflows.",
+                "Azure infrastructure now supports HDv2 and HXv2 virtual machines alongside ND MI455Xv7 for demanding compute-intensive AI workloads.",
+                "Strategic focus on unifying enterprise business context with AI agents to enable automated reasoning and real-time execution capabilities.",
+                "New PostgreSQL extensions for VS Code enable database performance tuning without exiting integrated developer environments for engineers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADES",
+            "heading": "ANTHROPIC: AGENTIC MODEL ADVANCEMENTS",
             "points": [
-                "Anthropic has unveiled Opus 5, featuring significantly stronger coding capabilities and agentic integration for professional workflows.",
-                "The company is simultaneously expanding access to GPT-5.6 Luna, effectively targeting the free-tier model utilization segment.",
-                "New technical disclosures reveal internal research into probing hidden spaces where models perform complex conceptual reasoning.",
-                "Strategic focus shifts toward auditable AI artifacts and research-ready science applications for enterprise-grade deployment."
+                "Anthropic releases Sonnet 5 featuring top-tier intelligence and increased agentic capabilities for coding and complex professional workstreams.",
+                "Opus 5 update provides a step-change in performance for coding, agent reasoning, and professional-grade autonomous task execution models.",
+                "Claude Science platform enables researchers to use customizable apps with auditable artifacts and integrated computing resource management tools.",
+                "Company commitment remains centered on long-term safety research while scaling model deployment for enterprise and research environments."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE DEEPMIND: AGENTIC SCALE",
+            "heading": "AMD: INFERENCE AND SILICON GROWTH",
             "points": [
-                "DeepMind launched Gemini 3.6 Flash and 3.5 Flash Cyber, optimizing intelligence-per-parameter for diverse enterprise applications.",
-                "The firm is actively mitigating risks associated with millions of autonomous agents interacting in online environments.",
-                "Breakthrough forecasting for cyclones using AI has been achieved, demonstrating advanced capability in environmental and simulation modeling.",
-                "New robotics frameworks enable whole-body intelligence, bridging the gap between digital cognition and physical actuation layers."
+                "AMD announces definitive agreement to acquire Taalas to differentiate AI inference performance and power efficiency across their roadmap.",
+                "Strategic partnership with Anthropic commits 2 gigawatts of AMD Instinct MI450 Series GPUs to deploy high-performance model infrastructure.",
+                "Collaboration with Supermicro and Spectro Cloud launches the Instinct Coder turnkey enterprise solution for rapid AI software scaling.",
+                "Open ecosystem approach leverages ROCm software to support full-stack compute requirements from data center environments to edge endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ASML: LITHOGRAPHY AI INTEGRATION",
+            "heading": "AI BUSINESS: AGENTIC LANDSCAPE SHIFT",
             "points": [
-                "ASML reports \u20ac9.3 billion in net sales as high-volume EUV technology reaches critical production readiness milestones.",
-                "New AI-native engineering pipelines are being applied to lithography processes, reducing complexity in chip patterning cycles.",
-                "Strategic partnerships with Tata Electronics and other regional players are accelerating the semiconductor manufacturing ecosystem globally.",
-                "The company remains a fundamental bottleneck provider for advanced AI hardware, maintaining massive barriers to entry."
+                "Market analysis indicates enterprise success now depends on business process integration rather than purely model performance metrics.",
+                "Reports highlight the growing necessity for build-versus-buy evaluations regarding AI agent deployment architectures within corporate environments.",
+                "Emerging cybersecurity risks include AI agents faking identities during security testing, requiring robust verification and monitoring systems.",
+                "European AI Act compliance enters active enforcement phase as global regulatory frameworks begin shaping industrial AI adoption strategies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU AI OFFICE: GOVERNANCE ENFORCEMENT",
+            "heading": "GOOGLE CLOUD: AGENTIC DATA INFRASTRUCTURE",
             "points": [
-                "The EU AI Act compliance ledger highlights 40 new enforcement roles focused on transparency and regulatory oversight.",
-                "New guidance for general-purpose AI (GPAI) therapy systems addresses emotional support risks and model accountability mandates.",
-                "The Scientific Panel of independent experts is currently drafting frameworks to regulate high-risk systemic AI applications.",
-                "Organizations are being prompted to utilize the compliance checker to align with evolving international AI safety standards."
+                "Google expands AI infrastructure with Gemini 3.6 Flash and 3.5 Flash-Lite models for efficient, scalable agent development cycles.",
+                "Introduction of Google AI Threat Defense addresses evolving cybersecurity challenges inherent in complex agentic enterprise network architectures.",
+                "New managed remote MCP servers facilitate building and orchestrating agents within the Google Cloud ecosystem for enterprise developers.",
+                "GEAR program provides compute credits for builders to accelerate the transition from token consumption to measurable business ROI."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AWS: CLOUD INFRASTRUCTURE SCALE",
+            "heading": "MISTRAL: FRONTIER MODEL INTEGRATION",
             "points": [
-                "AWS continues to expand its global footprint, now managing 123 availability zones across 39 distinct geographic regions.",
-                "Advanced industrial AI deployments are transforming manufacturing plants by converting historical data into real-time searchable insights.",
-                "The hyperscaler is prioritizing high-demand inference workloads, supporting over 240 services optimized for enterprise AI production.",
-                "Integrated security frameworks are being updated to address vulnerabilities inherent in large-scale multi-agent enterprise cloud environments."
+                "Mistral introduces Vibe, an AI agent optimized for long-horizon task execution with persistent memory and reusable knowledge skills.",
+                "Company provides enterprise-grade infrastructure via Compute platform for training and inferencing at the frontier of AI capabilities.",
+                "Studio platform enables end-to-end orchestration, observability, and deployment of custom agents across hybrid edge to cloud environments.",
+                "Strategic partnerships with entities like HSBC and ASML validate the role of domain-specific model training for industrial operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://aws.amazon.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: MODEL AUTONOMY",
+            "heading": "NVIDIA: SECURE AI ALLIANCE",
             "points": [
-                "Mistral released Vibe, an autonomous AI agent capable of multi-step task scheduling and persistent memory management.",
-                "The company is focusing on document synthesis and enterprise knowledge search as primary vectors for industrial adoption.",
-                "Full deployment portability allows firms to run agents from edge devices to centralized cloud infrastructure seamlessly.",
-                "New coding agent tools automate CI/CD workflows, reducing the cognitive load on developers in high-velocity environments."
+                "NVIDIA spearheads Open Secure AI Alliance with 120 organizations to develop cybersecurity transparency guidelines for agentic systems.",
+                "Partnership with Safe Superintelligence Inc. signals long-term strategic growth plans for advanced frontier model research and development.",
+                "Release of Nemotron open model framework provides transparency for dataset training techniques and weight customization for enterprises.",
+                "Expansion into physical AI and robotics with Alpamayo 2 model for autonomous vehicles demonstrates broadening operational AI deployment horizons."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
