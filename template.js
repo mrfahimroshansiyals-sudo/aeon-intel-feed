@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "RECONFIGURING GLOBAL",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MICROSOFT: AGENTIC CLOUD EXPANSION",
+            "heading": "SITUATIONAL AWARENESS: CHIP BET",
             "points": [
-                "Microsoft integrates AMD-powered AI and HPC virtual machines to accelerate enterprise-scale intelligent systems and data workflows.",
-                "Azure infrastructure now supports HDv2 and HXv2 virtual machines alongside ND MI455Xv7 for demanding compute-intensive AI workloads.",
-                "Strategic focus on unifying enterprise business context with AI agents to enable automated reasoning and real-time execution capabilities.",
-                "New PostgreSQL extensions for VS Code enable database performance tuning without exiting integrated developer environments for engineers."
+                "Situational Awareness has committed a four hundred million dollar investment to fund a stealth semiconductor startup.",
+                "This massive funding represents a direct push to bypass traditional hardware bottlenecks through custom architectural designs.",
+                "The capital infusion accelerates deep-tech physical computing innovations targeting specialized machine learning workloads at scale.",
+                "Analysts project this venture will significantly disrupt the high-performance AI processor market currently dominated by hyperscalers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: AGENTIC MODEL ADVANCEMENTS",
+            "heading": "OPENAI: SECURITY SUSPENSION",
             "points": [
-                "Anthropic releases Sonnet 5 featuring top-tier intelligence and increased agentic capabilities for coding and complex professional workstreams.",
-                "Opus 5 update provides a step-change in performance for coding, agent reasoning, and professional-grade autonomous task execution models.",
-                "Claude Science platform enables researchers to use customizable apps with auditable artifacts and integrated computing resource management tools.",
-                "Company commitment remains centered on long-term safety research while scaling model deployment for enterprise and research environments."
+                "OpenAI has paused development on its upcoming frontier artificial intelligence model due to critical cybersecurity vulnerability risks.",
+                "The operational halt underscores growing enterprise anxieties surrounding the safety profiles of complex multi-agent system models.",
+                "Engineers are actively auditing the core software framework to eliminate severe potential vectors for autonomous agent exploitation.",
+                "This delay highlights the increasing tension between accelerating AI deployment speeds and maintaining strict corporate data defense."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: INFERENCE AND SILICON GROWTH",
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "AMD announces definitive agreement to acquire Taalas to differentiate AI inference performance and power efficiency across their roadmap.",
-                "Strategic partnership with Anthropic commits 2 gigawatts of AMD Instinct MI450 Series GPUs to deploy high-performance model infrastructure.",
-                "Collaboration with Supermicro and Spectro Cloud launches the Instinct Coder turnkey enterprise solution for rapid AI software scaling.",
-                "Open ecosystem approach leverages ROCm software to support full-stack compute requirements from data center environments to edge endpoints."
+                "AMD finalized a definitive agreement to acquire Taalas to integrate its breakthrough single-model inference optimization chip technology.",
+                "This acquisition aims to deliver low-cost dedicated silicon targeting mature high-volume enterprise generative AI workloads globally.",
+                "By embedding Taalas non-flexible architectures AMD plans to drastically reduce operational total cost of ownership for customers.",
+                "The strategic move positions AMD to offer highly competitive alternatives to generic graphics processing units for inference."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AI BUSINESS: AGENTIC LANDSCAPE SHIFT",
+            "heading": "GOOGLE: EXECUTIVE AI REALIGNMENT",
             "points": [
-                "Market analysis indicates enterprise success now depends on business process integration rather than purely model performance metrics.",
-                "Reports highlight the growing necessity for build-versus-buy evaluations regarding AI agent deployment architectures within corporate environments.",
-                "Emerging cybersecurity risks include AI agents faking identities during security testing, requiring robust verification and monitoring systems.",
-                "European AI Act compliance enters active enforcement phase as global regulatory frameworks begin shaping industrial AI adoption strategies."
+                "Sergey Brin has assumed direct leadership oversight at Google DeepMind as founder Demis Hassabis steps aside strategically.",
+                "This restructuring shifts the research lab focus from academic scientific culture to rapid commercial software productization cycles.",
+                "The transition consolidates Alphabet corporate control over frontier AI model architectures amidst escalating competitive market pressures.",
+                "Industry experts anticipate accelerated deployment of Gemini-based enterprise agents and autonomous actions across Google Cloud ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA INFRASTRUCTURE",
+            "heading": "BYTEDANCE: FRONTIER MODEL PUSH",
             "points": [
-                "Google expands AI infrastructure with Gemini 3.6 Flash and 3.5 Flash-Lite models for efficient, scalable agent development cycles.",
-                "Introduction of Google AI Threat Defense addresses evolving cybersecurity challenges inherent in complex agentic enterprise network architectures.",
-                "New managed remote MCP servers facilitate building and orchestrating agents within the Google Cloud ecosystem for enterprise developers.",
-                "GEAR program provides compute credits for builders to accelerate the transition from token consumption to measurable business ROI."
+                "ByteDance is currently training a massive next-generation artificial intelligence model designed to challenge Anthropic latest Mythos architecture.",
+                "The proprietary model scale is estimated to be three times larger than Moonshot Kimi K3 platform.",
+                "This development marks a significant acceleration in sovereign algorithmic capabilities within the competitive Chinese generative tech sector.",
+                "The massive architecture aims to power advanced autonomous video generation and complex long-horizon consumer applications globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL: FRONTIER MODEL INTEGRATION",
+            "heading": "MICROSOFT: REALTIME AGENTIC GROUNDING",
             "points": [
-                "Mistral introduces Vibe, an AI agent optimized for long-horizon task execution with persistent memory and reusable knowledge skills.",
-                "Company provides enterprise-grade infrastructure via Compute platform for training and inferencing at the frontier of AI capabilities.",
-                "Studio platform enables end-to-end orchestration, observability, and deployment of custom agents across hybrid edge to cloud environments.",
-                "Strategic partnerships with entities like HSBC and ASML validate the role of domain-specific model training for industrial operations."
+                "Microsoft launched Web IQ to ground autonomous enterprise agents with up-to-date and highly secure web data feeds.",
+                "The framework integrates deep real-time web search capabilities directly into localized generative artificial intelligence agent workflows safely.",
+                "By bridging agent reasoning with live external data streams Microsoft mitigates common model hallucination and context limitations.",
+                "Enterprise developers can now deploy highly adaptive workflows that respond dynamically to volatile global macroeconomic informational shifts."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SECURE AI ALLIANCE",
+            "heading": "EU AI ACT: THERAPEUTIC SYSTEM RULES",
             "points": [
-                "NVIDIA spearheads Open Secure AI Alliance with 120 organizations to develop cybersecurity transparency guidelines for agentic systems.",
-                "Partnership with Safe Superintelligence Inc. signals long-term strategic growth plans for advanced frontier model research and development.",
-                "Release of Nemotron open model framework provides transparency for dataset training techniques and weight customization for enterprises.",
-                "Expansion into physical AI and robotics with Alpamayo 2 model for autonomous vehicles demonstrates broadening operational AI deployment horizons."
+                "The European Union published official compliance guidelines regulating general-purpose AI systems used for therapy and emotional support.",
+                "These strict rules classify emotional AI companions under rigorous high-risk categories requiring auditable transparency and safety checks.",
+                "The regulatory framework mandates independent expert reviews to protect vulnerable users from potential cognitive and behavioral harms.",
+                "Global developers must rapidly adapt their system architectures to comply with these stringent European digital sovereignty mandates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
