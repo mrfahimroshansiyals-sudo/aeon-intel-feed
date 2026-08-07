@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ENTERPRISE AGENTIC AI",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "NEXT-GEN AGENTIC",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: INFERENCE ARCHITECTURE",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "AMD acquires Taalas to integrate specialized inference chips directly into the high-performance AI data center roadmap.",
-                "The acquisition targets mature high-volume workloads by optimizing compute efficiency for dedicated single-model enterprise AI deployment requirements.",
-                "Industry analysts suggest this move creates a specialized hardware layer to reduce dependency on traditional general-purpose GPU clusters.",
-                "This integration signals a broader strategic pivot towards sovereign AI silicon tailored specifically for corporate infrastructure efficiency goals."
+                "AMD announced a definitive agreement to acquire Taalas to accelerate high-volume, low-cost AI inference chip development.",
+                "The integration embeds dedicated single-model silicon architectures to dramatically improve enterprise edge computing and processing efficiency.",
+                "This transaction delivers highly optimized hardware designed specifically to bypass general-purpose GPU processing bottlenecks for mature workloads.",
+                "Hardware architects predict the deployment will lower total cost of ownership for deep learning execution at scale."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
+            "heading": "GOOGLE: DEEPMIND RESTRUCTURE",
             "points": [
-                "Mistral launches Vibe AI agents to manage long-horizon work including multi-step task scheduling and enterprise document synthesis operations.",
-                "The platform provides native support for persistent memory and reusable skill sets tailored for complex corporate operational requirements.",
-                "Autonomous coding capabilities are embedded within the Vibe for Code stack to streamline CI/CD and legacy software translation.",
-                "Enterprises can now deploy these agentic architectures across hybrid environments ranging from cloud to local edge infrastructure nodes."
+                "Google consolidated its AI operations as Demis Hassabis stepped aside to elevate Sergey Brin's direct product involvement.",
+                "The organizational pivot shifts DeepMind from academic research culture toward aggressive commercial product release cycles and execution.",
+                "This consolidation aims to streamline model deployment pipelines across the entire Google enterprise software ecosystem.",
+                "Analysts project the executive restructuring will accelerate the integration of Gemini into core consumer search utilities."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MISTRAL AI: ASML LITHOGRAPHY INTEGRATION",
+            "points": [
+                "ASML partnered with Mistral AI to integrate custom large language models directly into advanced semiconductor lithography workflows.",
+                "The collaboration leverages local edge inference models to optimize high-precision manufacturing control systems and optical processes.",
+                "Implementing specialized enterprise models ensures strict data privacy while accelerating machine calibration and hardware diagnostics protocols.",
+                "Engineers expect this deployment to set new efficiency standards in high-volume microchip production lines globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT: AGENTIC DATA GOVERNANCE",
-            "points": [
-                "Microsoft introduces IQ to provide unified contextual grounding for AI agents operating across complex corporate data environments.",
-                "The framework allows agents to securely interface with internal workflows while maintaining strict enterprise-grade data access control policies.",
-                "This infrastructure layer ensures agents reason and act using real-time organizational context instead of relying on stale information.",
-                "The launch addresses critical deployment bottlenecks regarding data fragmentation in agent-led AI transformation strategies for large organizations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "GOOGLE: THREAT DEFENSE INTEGRATION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "Google Cloud unveils AI Threat Defense to mitigate adversarial risks within burgeoning agentic model deployment and automation pipelines.",
-                "The suite provides automated security monitoring for multi-agent systems to ensure governance over AI-to-AI transactional and communicative behaviors.",
-                "Strategic focus includes protecting data integrity against identity-faking incidents observed in recent industry-wide autonomous agent security stress tests.",
-                "This security layer represents an essential evolution for protecting enterprise-scale autonomous AI workloads against sophisticated external cyber threats."
+                "OpenAI introduced its latest frontier model series GPT-5.6 designed to scale high-complexity reasoning across enterprise platforms.",
+                "The architecture expands token processing efficiency and multi-modal comprehension while reducing API execution costs for global developers.",
+                "Integrations feature advanced self-improvement systems that automatically identify and correct operational security vulnerabilities during live execution.",
+                "Developers anticipate the model will drive highly autonomous agentic workflows across complex multi-step transaction ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: OPUS 5 DEPLOYMENT",
+            "heading": "META: MUSE CODE DEPLOYMENT",
             "points": [
-                "Anthropic releases Opus 5 featuring advanced reasoning capabilities specifically optimized for high-stakes enterprise professional coding and software work.",
-                "The model architecture demonstrates significant improvements in agentic task completion for autonomous workflows requiring deep conceptual context navigation.",
-                "Performance metrics indicate stronger capability in generating auditable artifacts for technical research and data-heavy professional scientific documentation tasks.",
-                "Anthropic continues to prioritize the integration of safety frameworks within the model to mitigate autonomous agent reliability risks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INFOWORLD: ORCHESTRATION PARADIGMS",
-            "points": [
-                "Enterprise focus shifts toward implementing reliable orchestration layers to manage the increasing complexity of multi-agent collaborative task workflows.",
-                "Industry experts emphasize the critical need for security regression testing protocols tailored to identify vulnerabilities in autonomous agent interactions.",
-                "Platform engineering is evolving into an essential product infrastructure to reduce developer cognitive load during agentic AI system implementation.",
-                "Context layers now face architectural scrutiny as teams attempt to integrate legacy documentation with modern AI-driven agent decision engines."
+                "Meta launched Muse Code featuring persistent AI agents designed to execute highly complex software engineering tasks autonomously.",
+                "The platform leverages state-retaining software architectures to manage continuous integration pipelines and automated code review workflows.",
+                "This deployment bridges the gap between static code suggestions and fully independent engineering agents operating in backgrounds.",
+                "Senior developers predict the persistent environment will significantly reduce human oversight during legacy system migration cycles."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EU AI OFFICE: COMPLIANCE SURGE",
+            "id": 6,
+            "heading": "MICROSOFT: IQ AGENT GROUNDING",
             "points": [
-                "The EU AI Office announces a massive recruitment drive to enforce regulatory standards for general-purpose and agentic AI systems.",
-                "New governance bodies including the Scientific Panel are formalizing operational constraints for providers of advanced high-risk autonomous AI technology.",
-                "Mandatory transparency rules for AI agents are now being integrated into core business compliance audits across all member states.",
-                "Organizations are advised to prepare for rigorous oversight regarding how their agents interact with sensitive consumer data environments."
+                "Microsoft unveiled Azure IQ to securely connect autonomous agents with enterprise datasets, business context, and operational workflows.",
+                "The system grounds agent reasoning utilizing real-time web data and transactional contexts directly in secure cloud environments.",
+                "This architecture mitigates hallucination risks by enforcing granular zero-trust data governance controls across multi-agent processing systems.",
+                "Cloud architects expect the integration to accelerate production deployments of enterprise-grade digital workforces and automated systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
+            "points": [
+                "Cloudflare announced Cloudflare OS to serve as a comprehensive browser-based operating system for enterprise-wide artificial intelligence deployments.",
+                "The platform unifies workspaces, model routing, governed connectors, and zero-trust security into a single administrative control layer.",
+                "This architectural framework enables IT administrators to securely monitor, throttle, and audit distributed employee-agent interactions in real-time.",
+                "Industry specialists expect the launch to establish highly critical compliance baselines for global financial services deployments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
