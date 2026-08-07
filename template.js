@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ENTERPRISE AGENTIC AI",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
+            "heading": "AMD: INFERENCE ARCHITECTURE",
             "points": [
-                "AMD acquires Taalas to integrate advanced chip designs capable of running single AI models with extreme efficiency.",
-                "The acquisition targets mature high-volume enterprise workloads by drastically lowering the total cost of localized inference deployments.",
-                "Integrating Taalas silicon positions AMD to challenge market dominance in dedicated hardware-level model acceleration and efficiency.",
-                "Enterprises will transition from generalized compute architectures toward dedicated single-model silicon to optimize massive infrastructure budgets."
+                "AMD acquires Taalas to integrate specialized inference chips directly into the high-performance AI data center roadmap.",
+                "The acquisition targets mature high-volume workloads by optimizing compute efficiency for dedicated single-model enterprise AI deployment requirements.",
+                "Industry analysts suggest this move creates a specialized hardware layer to reduce dependency on traditional general-purpose GPU clusters.",
+                "This integration signals a broader strategic pivot towards sovereign AI silicon tailored specifically for corporate infrastructure efficiency goals."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: DEEPMIND PRODUCT CONSOLIDATION",
+            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
             "points": [
-                "Google realigns its artificial intelligence division by shifting the organizational structure of DeepMind toward rapid commercialization.",
-                "This structural transition aims to accelerate the deployment cycle of frontier systems into immediate enterprise cloud services.",
-                "Google prioritizes functional engineering over theoretical academic research to counter intense market pressure from rival frontier labs.",
-                "Clients can expect more frequent enterprise-grade API updates as Google consolidates its scattered internal engineering groups."
+                "Mistral launches Vibe AI agents to manage long-horizon work including multi-step task scheduling and enterprise document synthesis operations.",
+                "The platform provides native support for persistent memory and reusable skill sets tailored for complex corporate operational requirements.",
+                "Autonomous coding capabilities are embedded within the Vibe for Code stack to streamline CI/CD and legacy software translation.",
+                "Enterprises can now deploy these agentic architectures across hybrid environments ranging from cloud to local edge infrastructure nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CLOUDFLARE: ENTERPRISE OPERATING SYSTEM",
+            "heading": "MICROSOFT: AGENTIC DATA GOVERNANCE",
             "points": [
-                "Cloudflare introduces a browser operating system combining zero-trust access with deep, secure enterprise data connectors.",
-                "The unified workspace reduces security vulnerability windows by managing distributed AI application permissions within a single interface.",
-                "Moving security to the browser edge allows enterprises to safely route data without decoupling legacy infrastructure frameworks.",
-                "Organizations will utilize secure browser runtimes to maintain regulatory compliance while granting employees access to third-party models."
+                "Microsoft introduces IQ to provide unified contextual grounding for AI agents operating across complex corporate data environments.",
+                "The framework allows agents to securely interface with internal workflows while maintaining strict enterprise-grade data access control policies.",
+                "This infrastructure layer ensures agents reason and act using real-time organizational context instead of relying on stale information.",
+                "The launch addresses critical deployment bottlenecks regarding data fragmentation in agent-led AI transformation strategies for large organizations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: ANTHROPIC CO-DEVELOPMENT INITIATIVE",
+            "heading": "GOOGLE: THREAT DEFENSE INTEGRATION",
             "points": [
-                "AMD forms a strategic partnership with Anthropic to deploy up to two gigawatts of Instinct GPU hardware.",
-                "This massive compute infrastructure expansion significantly reduces training times for next-generation, highly complex agentic model frameworks.",
-                "The alliance secures a critical hardware customer for AMD while mitigating Anthropic's dependency on restricted chip supply.",
-                "This partnership will accelerate the release of highly competitive proprietary models, offering enterprises viable non-monopolistic hardware alternatives."
+                "Google Cloud unveils AI Threat Defense to mitigate adversarial risks within burgeoning agentic model deployment and automation pipelines.",
+                "The suite provides automated security monitoring for multi-agent systems to ensure governance over AI-to-AI transactional and communicative behaviors.",
+                "Strategic focus includes protecting data integrity against identity-faking incidents observed in recent industry-wide autonomous agent security stress tests.",
+                "This security layer represents an essential evolution for protecting enterprise-scale autonomous AI workloads against sophisticated external cyber threats."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: MUSE CODE AGENTS",
+            "heading": "ANTHROPIC: OPUS 5 DEPLOYMENT",
             "points": [
-                "Meta launches Muse Code to handle complex software engineering tasks utilizing highly persistent and autonomous agentic systems.",
-                "Software development teams can automate multi-step code translation and architectural reasoning, reducing legacy technical debt significantly.",
-                "The framework advances open software design by introducing background agents that seamlessly execute continuous integration pipelines.",
-                "Engineering organizations will restructure developer roles to focus primarily on high-level system design and persistent agent monitoring."
+                "Anthropic releases Opus 5 featuring advanced reasoning capabilities specifically optimized for high-stakes enterprise professional coding and software work.",
+                "The model architecture demonstrates significant improvements in agentic task completion for autonomous workflows requiring deep conceptual context navigation.",
+                "Performance metrics indicate stronger capability in generating auditable artifacts for technical research and data-heavy professional scientific documentation tasks.",
+                "Anthropic continues to prioritize the integration of safety frameworks within the model to mitigate autonomous agent reliability risks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: IQ ENTERPRISE WORKSPACE",
+            "heading": "INFOWORLD: ORCHESTRATION PARADIGMS",
             "points": [
-                "Microsoft launches IQ to securely connect autonomous agents with enterprise data sources, custom workflows, and business contexts.",
-                "The platform streamlines multi-agent coordination, decreasing the latency of real-time transactional operations across legacy corporate environments.",
-                "Providing agents with shared context layers eliminates the risk of disconnected data silos within complex cloud architectures.",
-                "Developers will increasingly build specialized workflows using managed context protocols to ensure safe and predictable agent execution."
+                "Enterprise focus shifts toward implementing reliable orchestration layers to manage the increasing complexity of multi-agent collaborative task workflows.",
+                "Industry experts emphasize the critical need for security regression testing protocols tailored to identify vulnerabilities in autonomous agent interactions.",
+                "Platform engineering is evolving into an essential product infrastructure to reduce developer cognitive load during agentic AI system implementation.",
+                "Context layers now face architectural scrutiny as teams attempt to integrate legacy documentation with modern AI-driven agent decision engines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE EXPANSION",
+            "heading": "EU AI OFFICE: COMPLIANCE SURGE",
             "points": [
-                "Salesforce customer data reveals that the adoption of autonomous agentic workforces is more than doubling year over year.",
-                "Deployment timelines from prototype to production have decreased significantly, enabling organizations to achieve faster return on investment.",
-                "The rapid shift toward autonomous software agents indicates that businesses are moving past basic chatbot pilots to production.",
-                "Companies failing to implement scalable agent orchestration frameworks risk severe operational inefficiency compared to automated market competitors."
+                "The EU AI Office announces a massive recruitment drive to enforce regulatory standards for general-purpose and agentic AI systems.",
+                "New governance bodies including the Scientific Panel are formalizing operational constraints for providers of advanced high-risk autonomous AI technology.",
+                "Mandatory transparency rules for AI agents are now being integrated into core business compliance audits across all member states.",
+                "Organizations are advised to prepare for rigorous oversight regarding how their agents interact with sensitive consumer data environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
