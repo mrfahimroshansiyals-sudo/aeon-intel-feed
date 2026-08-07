@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER AI",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AUTONOMOUS AGENT",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "OpenAI released GPT-5.6 establishing a new frontier intelligence standard for agentic enterprise scaling.",
-                "The model features GPT-5.6 Sol and Luna versions expanding free tier reasoning access globally.",
-                "This deployment integrates real-time safety guardrails designed for securing mission-critical automated digital workflows.",
-                "Enterprises will leverage these systems to automate complex transactional operations with heightened semantic precision."
+                "AMD enters a definitive agreement to acquire Taalas, aiming to deliver cheap, single-model enterprise inference chips.",
+                "Enterprise inference costs could drop significantly as non-flexible, high-volume silicon matches mature, high-volume operational workloads.",
+                "The hardware acquisition secures a critical position for AMD in the rapidly expanding non-GPU specialized accelerator market.",
+                "Analysts predict this specialized architecture will challenge Nvidia by targeting highly optimized enterprise production models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: DEEPMIND DEPLOYMENT SHIFT",
+            "heading": "VIDEOAMP: AGENT WORKFORCE",
             "points": [
-                "Google restructured DeepMind to accelerate commercial product deployment under parent firm executive direct control.",
-                "Simultaneously Google launched Gemini 3.6 Flash alongside optimized 3.5 Flash-Lite and Cyber variants.",
-                "This strategic shift transitions the laboratory from academic research culture toward rapid market-driven innovation.",
-                "Developers will gain access to highly specialized, low-latency models for real-time edge processing tasks."
+                "VideoAmp implements immediate workforce reductions as autonomous AI agents assume primary operational tasks across enterprise systems.",
+                "Automated agents optimize internal processing speed, significantly lowering overhead costs while maintaining continuous computational service delivery.",
+                "This corporate restructuring highlights the accelerating real-world shift toward fully autonomous digital workflows and human-agent collaboration.",
+                "Stakeholders anticipate deeper organizational flattening as automated orchestration layers replace traditional middle management software tiers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.dowjones.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "CLOUDFLARE: ENTERPRISE OS",
             "points": [
-                "AMD announced a definitive agreement to acquire Taalas to advance specialized AI inference capabilities.",
-                "Taalas technology allows silicon to run single AI models at highly reduced hardware costs.",
-                "This acquisition challenges Nvidia dominant position by offering highly efficient custom-tailored enterprise inference solutions.",
-                "Enterprises will achieve drastically lower total cost of ownership for mature, high-volume model workloads."
+                "Cloudflare introduces Cloudflare OS to centralize enterprise AI workspaces, model routing, and token spend governance.",
+                "Systems administrators gain precise tracking of internal agent identities, mitigating security risks associated with autonomous tools.",
+                "This deployment shifts security paradigms by wrapping zero-trust access protocols directly around cognitive enterprise API connections.",
+                "Industry leaders expect this unified browser framework to streamline global compliance management for diverse hybrid cloud networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "BYTEDANCE: MEGA MODEL SCALING",
+            "heading": "META: MUSE CODE",
             "points": [
-                "ByteDance is actively training a massive artificial intelligence model nearing Anthropic Mythos capabilities.",
-                "The upcoming model is reportedly three times larger than Moonshot AI leading Kimi K3 architecture.",
-                "This aggressive training initiative represents a major sovereign push to bypass western chip restrictions.",
-                "Global markets will face intensified competition as Chinese tech giants rapidly close the frontier gap."
+                "Meta launches Muse Code, featuring persistent AI agents engineered to execute highly complex, multi-step software tasks.",
+                "Software engineering teams can automate background debugging and architectural reasoning, doubling deployment velocity for legacy migration.",
+                "The tool integrates native code-level memory, marking a shift from temporary chat prompts to long-horizon developer agents.",
+                "Developers foresee rapid reductions in manual code maintenance, freeing human engineers for high-level technical architecture design."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SK HYNIX: MEMORY SPLURGE INVESTMENT",
+            "heading": "MISTRAL: ROBOSTRAL NAVIGATE",
             "points": [
-                "SK Hynix planned a thirty-eight billion dollar investment to construct two memory chip factories.",
-                "The massive expansion aims to fulfill the soaring global demand for high-bandwidth memory architectures.",
-                "This capital deployment boosts competitor stock performance and secures essential hardware supply chains worldwide.",
-                "Server manufacturers will benefit from stabilized memory module pricing amid ongoing generative AI expansion."
+                "Mistral AI releases Robostral Navigate, a specialized physical robotics model optimized for complex edge spatial operations.",
+                "Robotic hardware platforms achieve faster processing speeds, lowering latency during dynamic real-world environmental interaction and pathfinding.",
+                "This open release expands the company's enterprise footprint from cloud software into highly sovereign physical automation.",
+                "Partners expect immediate enhancements in industrial automation, logistics processing efficiency, and autonomous manufacturing assembly line control."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OPERATING SYSTEM",
+            "heading": "MICROSOFT: WEB IQ",
             "points": [
-                "Cloudflare introduced Cloudflare OS to unify enterprise workspace access, zero-trust security, and model routing.",
-                "The browser-based platform tracks AI user identities, token consumption, and insider security threats.",
-                "This architecture addresses the critical corporate need for strict oversight of decentralized AI deployments.",
-                "Chief Information Officers will gain granular visibility and control over enterprise-wide automated agent networks."
+                "Microsoft unveils Web IQ, a framework designed to ground enterprise AI agents using verified real-time web information.",
+                "Organizations reduce database retrieval errors, ensuring that customer-facing agents deliver highly accurate, contextual, and timely responses.",
+                "Web IQ integrates secure enterprise API connectors, protecting proprietary corporate data during external search grounding operations.",
+                "Enterprises will likely accelerate the deployment of autonomous research workflows, bypassing traditional siloed information retrieval methods."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "JANE STREET: AI DEBT SHIFT",
+            "heading": "DEEPMIND: CYCLONE FORECASTING",
             "points": [
-                "Jane Street negotiated shifting eleven billion dollars in debt to major institutional private credit investors.",
-                "This financial restructuring frees up massive liquid capital specifically targeted for strategic AI infrastructure.",
-                "The deal highlights the growing trend of high-frequency trading firms funding specialized computing power.",
-                "Financial markets will see heightened competition as algorithmic traders deploy hyper-advanced hardware capabilities."
+                "Google DeepMind delivers WeatherNext, an AI model achieving unprecedented speed in predicting complex global cyclone tracks.",
+                "Meteorological agencies reduce computational overhead by generating precise localized storm forecasts in seconds instead of hours.",
+                "The breakthrough illustrates how physics-informed deep learning models outperform traditional numerical weather prediction supercomputer frameworks.",
+                "Maritime logistics operators predict significant route optimization benefits and minimized infrastructure damage through rapid early warning warnings."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
