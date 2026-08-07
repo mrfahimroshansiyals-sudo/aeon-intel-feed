@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN ENTERPRISE",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "FRONTIER AI",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SK HYNIX: MEMORY PLANT SURGE",
+            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
             "points": [
-                "SK Hynix launches a massive thirty-eight billion dollar capital investment to construct two advanced memory chip plants.",
-                "This infrastructure expansion directly addresses surging global demand for high-bandwidth memory architectures optimized for enterprise AI acceleration.",
-                "The double-facility deployment aims to secure hardware supply chains against anticipated bottlenecking of next-generation physical silicon fabrication.",
-                "System architects must prepare for increased high-density memory allocation as native hardware capabilities scale across global datacenters."
+                "OpenAI released GPT-5.6 establishing a new frontier intelligence standard for agentic enterprise scaling.",
+                "The model features GPT-5.6 Sol and Luna versions expanding free tier reasoning access globally.",
+                "This deployment integrates real-time safety guardrails designed for securing mission-critical automated digital workflows.",
+                "Enterprises will leverage these systems to automate complex transactional operations with heightened semantic precision."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "GOOGLE: DEEPMIND DEPLOYMENT SHIFT",
             "points": [
-                "AMD signs a definitive acquisition agreement with Taalas to integrate specialized AI model hardwiring technology into its portfolio.",
-                "This strategic transaction aims to dramatically reduce enterprise model training and inference costs through highly dedicated silicon designs.",
-                "Integrating Taalas' specialized hardware allows corporate customers to run high-volume, mature artificial intelligence workloads at optimal efficiency.",
-                "Hardware-level model embedding will reshape the silicon landscape by providing cost-effective alternatives to general-purpose graphics processing units."
+                "Google restructured DeepMind to accelerate commercial product deployment under parent firm executive direct control.",
+                "Simultaneously Google launched Gemini 3.6 Flash alongside optimized 3.5 Flash-Lite and Cyber variants.",
+                "This strategic shift transitions the laboratory from academic research culture toward rapid market-driven innovation.",
+                "Developers will gain access to highly specialized, low-latency models for real-time edge processing tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "OpenAI releases its highly anticipated frontier intelligence model GPT five point six featuring advanced native multi-step reasoning capabilities.",
-                "The architecture achieves unprecedented price-to-performance efficiency gains across complex coding tasks and deep analytical operations.",
-                "This model release systematically targets enterprise-scale digital workflow automation while lowering the execution costs for free-tier global users.",
-                "Developers can leverage these enhanced logical frameworks to deploy highly autonomous agents without traditional latency overheads."
+                "AMD announced a definitive agreement to acquire Taalas to advance specialized AI inference capabilities.",
+                "Taalas technology allows silicon to run single AI models at highly reduced hardware costs.",
+                "This acquisition challenges Nvidia dominant position by offering highly efficient custom-tailored enterprise inference solutions.",
+                "Enterprises will achieve drastically lower total cost of ownership for mature, high-volume model workloads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CLOUDFLARE: AGENTIC WORKSPACE OS",
+            "heading": "BYTEDANCE: MEGA MODEL SCALING",
             "points": [
-                "Cloudflare announces a specialized browser-integrated operating system designed to manage and orchestrate enterprise agentic workspaces and identities.",
-                "The platform integrates zero-trust access protocols and automated model routing to secure data endpoints against unauthorized leakages.",
-                "This framework aims to mitigate insider threat vectors while giving corporate IT administrators granular visibility over token consumption.",
-                "Organizations can immediately deploy secured digital environments that seamlessly track autonomous agent behavior and mitigate systemic execution risks."
+                "ByteDance is actively training a massive artificial intelligence model nearing Anthropic Mythos capabilities.",
+                "The upcoming model is reportedly three times larger than Moonshot AI leading Kimi K3 architecture.",
+                "This aggressive training initiative represents a major sovereign push to bypass western chip restrictions.",
+                "Global markets will face intensified competition as Chinese tech giants rapidly close the frontier gap."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: PERSISTENT MUSE CODE PLATFORM",
+            "heading": "SK HYNIX: MEMORY SPLURGE INVESTMENT",
             "points": [
-                "Meta launches its Muse Code ecosystem to facilitate complex software engineering projects using highly coordinated, persistent digital agents.",
-                "The specialized development environment maintains continuous operational context across long-horizon programming tasks and large legacy codebase translation.",
-                "This release accelerates autonomous software development lifecycles by shifting manual code reviews toward automated, architecture-aware logical verification systems.",
-                "Engineering teams can expect reduced cycle times as multi-agent systems seamlessly integrate into existing continuous integration pipelines."
+                "SK Hynix planned a thirty-eight billion dollar investment to construct two memory chip factories.",
+                "The massive expansion aims to fulfill the soaring global demand for high-bandwidth memory architectures.",
+                "This capital deployment boosts competitor stock performance and secures essential hardware supply chains worldwide.",
+                "Server manufacturers will benefit from stabilized memory module pricing amid ongoing generative AI expansion."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: HIGH NA LITHOGRAPHY MILESTONE",
+            "heading": "CLOUDFLARE: ENTERPRISE AI OPERATING SYSTEM",
             "points": [
-                "ASML reaches a historic readiness milestone by fabricating its first high-volume logic product using next-generation High NA lithography.",
-                "This mechanical breakthrough enables chip manufacturers to print denser physical transistor geometries with extreme nanometer-scale precision and throughput.",
-                "The technology provides the manufacturing foundation required to mass produce next-generation silicon for advanced high-performance artificial intelligence accelerators.",
-                "Global chipmakers will rapidly adopt these lithographic systems to secure hardware sovereignty and meet escalating computing demands."
+                "Cloudflare introduced Cloudflare OS to unify enterprise workspace access, zero-trust security, and model routing.",
+                "The browser-based platform tracks AI user identities, token consumption, and insider security threats.",
+                "This architecture addresses the critical corporate need for strict oversight of decentralized AI deployments.",
+                "Chief Information Officers will gain granular visibility and control over enterprise-wide automated agent networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "heading": "JANE STREET: AI DEBT SHIFT",
             "points": [
-                "Safe Superintelligence and NVIDIA establish a long-term strategic partnership to rapidly scale advanced safety-first artificial intelligence computing systems.",
-                "The collaboration leverages secure supercomputing infrastructure to build highly robust models capable of defending against complex cyber threats.",
-                "This alliance addresses growing regulatory pressures by focusing developmental efforts on provable alignment and robust system defense guidelines.",
-                "Enterprise leaders must align hardware deployment strategies with emerging safety frameworks to ensure long-term operational and regulatory compliance."
+                "Jane Street negotiated shifting eleven billion dollars in debt to major institutional private credit investors.",
+                "This financial restructuring frees up massive liquid capital specifically targeted for strategic AI infrastructure.",
+                "The deal highlights the growing trend of high-frequency trading firms funding specialized computing power.",
+                "Financial markets will see heightened competition as algorithmic traders deploy hyper-advanced hardware capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
