@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE SYSTEMS",
-        "titleBlue": "RISE"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER DEPLOYMENT",
+            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
             "points": [
-                "OpenAI officially launched the GPT-5.6 frontier intelligence model to scale enterprise agentic reasoning capabilities.",
-                "The updated architecture introduces GPT-5.6 Sol and expands free user tier access to GPT-5.6 Luna.",
-                "Developers can leverage these models to run highly complex autonomous workflows with enhanced multi-step execution.",
-                "The release aims to redefine the frontier of cost-efficient reasoning across global digital workspaces."
+                "AMD acquires Taalas to integrate advanced chip designs capable of running single AI models with extreme efficiency.",
+                "The acquisition targets mature high-volume enterprise workloads by drastically lowering the total cost of localized inference deployments.",
+                "Integrating Taalas silicon positions AMD to challenge market dominance in dedicated hardware-level model acceleration and efficiency.",
+                "Enterprises will transition from generalized compute architectures toward dedicated single-model silicon to optimize massive infrastructure budgets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "GOOGLE: DEEPMIND PRODUCT CONSOLIDATION",
             "points": [
-                "AMD signed a definitive agreement to acquire Taalas to deliver specialized single-model artificial intelligence inference chips.",
-                "The strategic acquisition targets drastic reductions in enterprise hardware operational costs for mature deep learning models.",
-                "Analysts expect the ultra-efficient hardware design to significantly pressure competitors in the high-volume inference market.",
-                "Integrating Taalas silicon will immediately expand the performance footprint of AMD Instinct data center solutions."
+                "Google realigns its artificial intelligence division by shifting the organizational structure of DeepMind toward rapid commercialization.",
+                "This structural transition aims to accelerate the deployment cycle of frontier systems into immediate enterprise cloud services.",
+                "Google prioritizes functional engineering over theoretical academic research to counter intense market pressure from rival frontier labs.",
+                "Clients can expect more frequent enterprise-grade API updates as Google consolidates its scattered internal engineering groups."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: EXECUTIVE AI CONSOLIDATION",
+            "heading": "CLOUDFLARE: ENTERPRISE OPERATING SYSTEM",
             "points": [
-                "Google consolidated its artificial intelligence operations under a single product-focused leadership structure for faster deployment.",
-                "Sergey Brin assumes direct operational oversight while Demis Hassabis shifts to a singular scientific role.",
-                "The restructuring prioritizes commercial scaling of Gemini models over the traditional research-first culture of DeepMind.",
-                "This strategic shift seeks to accelerate consumer feature releases to combat aggressive global generative rivals."
+                "Cloudflare introduces a browser operating system combining zero-trust access with deep, secure enterprise data connectors.",
+                "The unified workspace reduces security vulnerability windows by managing distributed AI application permissions within a single interface.",
+                "Moving security to the browser edge allows enterprises to safely route data without decoupling legacy infrastructure frameworks.",
+                "Organizations will utilize secure browser runtimes to maintain regulatory compliance while granting employees access to third-party models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: SHIELDSTRAL SYSTEM LAUNCH",
+            "heading": "AMD: ANTHROPIC CO-DEVELOPMENT INITIATIVE",
             "points": [
-                "Mistral AI launched Shieldstral to act as an authoritative system of record for enterprise prompt architectures.",
-                "The software tracks and secures proprietary skills and operational parameters across complex agentic deployment pipelines.",
-                "Alongside this release, Robostral Navigate introduces advanced pathfinding logic for autonomous physical and digital tasks.",
-                "These capabilities enable highly regulated industries to safely audit and govern large language model workflows."
+                "AMD forms a strategic partnership with Anthropic to deploy up to two gigawatts of Instinct GPU hardware.",
+                "This massive compute infrastructure expansion significantly reduces training times for next-generation, highly complex agentic model frameworks.",
+                "The alliance secures a critical hardware customer for AMD while mitigating Anthropic's dependency on restricted chip supply.",
+                "This partnership will accelerate the release of highly competitive proprietary models, offering enterprises viable non-monopolistic hardware alternatives."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: WEB IQ DEPLOYMENT",
+            "heading": "META: MUSE CODE AGENTS",
             "points": [
-                "Microsoft announced Microsoft IQ and Web IQ to ground autonomous agents with real-time internet data sources.",
-                "The service provides secure, verified connections between external workflows, internal systems, and active browser sessions.",
-                "Developers can now deploy robust cognitive agents that verify operational contexts before executing transactional tasks.",
-                "This capability minimizes data obsolescence and drastically improves decision reliability for critical enterprise cloud workflows."
+                "Meta launches Muse Code to handle complex software engineering tasks utilizing highly persistent and autonomous agentic systems.",
+                "Software development teams can automate multi-step code translation and architectural reasoning, reducing legacy technical debt significantly.",
+                "The framework advances open software design by introducing background agents that seamlessly execute continuous integration pipelines.",
+                "Engineering organizations will restructure developer roles to focus primarily on high-level system design and persistent agent monitoring."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CLOUDFLARE: ENTERPRISE OPERATING SYSTEM",
+            "heading": "MICROSOFT: IQ ENTERPRISE WORKSPACE",
             "points": [
-                "Cloudflare unveiled Cloudflare OS to centralize secure enterprise workspace management directly within modern web browsers.",
-                "The platform integrates zero-trust secure access controls, smart model routing protocols, and managed data connectors.",
-                "IT departments can easily audit agent communication paths while maintaining strict privacy boundaries for proprietary data.",
-                "This zero-trust operational framework simplifies the distributed deployment of agentic models across global enterprise environments."
+                "Microsoft launches IQ to securely connect autonomous agents with enterprise data sources, custom workflows, and business contexts.",
+                "The platform streamlines multi-agent coordination, decreasing the latency of real-time transactional operations across legacy corporate environments.",
+                "Providing agents with shared context layers eliminates the risk of disconnected data silos within complex cloud architectures.",
+                "Developers will increasingly build specialized workflows using managed context protocols to ensure safe and predictable agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE ACCELERATION",
+            "heading": "SALESFORCE: AGENTIC WORKFORCE EXPANSION",
             "points": [
-                "Salesforce data indicates the global active enterprise AI agentic workforce is currently doubling year-over-year.",
-                "Organizations are deploying autonomous agents to production environments faster than previous software generations allowed.",
-                "Operational metrics show dramatic decreases in onboarding friction and significant productivity gains in customer-facing roles.",
-                "Enterprise adoption is shifting rapidly from experimental internal pilots to fully automated, customer-facing business processes."
+                "Salesforce customer data reveals that the adoption of autonomous agentic workforces is more than doubling year over year.",
+                "Deployment timelines from prototype to production have decreased significantly, enabling organizations to achieve faster return on investment.",
+                "The rapid shift toward autonomous software agents indicates that businesses are moving past basic chatbot pilots to production.",
+                "Companies failing to implement scalable agent orchestration frameworks risk severe operational inefficiency compared to automated market competitors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
