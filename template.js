@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AGENTIC SYSTEM ORCHESTRATION",
+            "heading": "AMD: INFERENCE CHIP ACQUISITION",
             "points": [
-                "Enterprises are shifting toward centralized orchestration layers to manage complex multi-agent workflows across legacy infrastructure environments.",
-                "Reliable orchestration prevents operational fragmentation by providing a unified governance layer for disparate autonomous agentic software components.",
-                "Organizations must now implement security regression testing alongside standard checklists to mitigate potential agentic failures in production.",
-                "Failure to adopt robust orchestration platforms results in significant technical debt and unpredictable behavior within business-critical automated pipelines."
+                "AMD has confirmed the acquisition of Taalas to accelerate its inference-focused AI roadmap, integrating breakthrough efficiency technology directly into their silicon portfolio.",
+                "This strategic move targets the burgeoning inference market, providing the high-performance throughput required for the next generation of enterprise-level generative AI applications.",
+                "By hardwiring AI models into silicon, AMD aims to reduce latency and TCO for data center operators seeking sovereign, open-compute hardware solutions.",
+                "The acquisition validates the industry shift toward specialized ASICs over general-purpose training chips for large-scale production inference environments."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "CLOUD INFRASTRUCTURE: VECTOR UPDATES",
+            "points": [
+                "AWS has deployed native vector search capabilities for DynamoDB, drastically simplifying the architectural path for building Retrieval-Augmented Generation applications at scale.",
+                "This update eliminates the need for external vector database middleware, allowing developers to maintain consistent performance within the core managed storage layer.",
+                "The integration enables sub-millisecond similarity search, which is critical for context-aware agents that rely on low-latency document retrieval to remain relevant.",
+                "Enterprises can now leverage existing data schemas to power complex RAG workflows without significant re-platforming or added operational management overhead."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,97 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "ADVANCED SEMICONDUCTOR SOVEREIGNTY",
-            "points": [
-                "TSMC is accelerating the deployment of A16 nanosheet technology and backside power solutions to satisfy intense HPC and AI demand.",
-                "Global semiconductor leaders are pivoting toward localized fabrication ecosystems to stabilize supply chains amid rising geopolitical and industrial pressures.",
-                "NanoFlex Pro integration enhances logic product performance significantly, marking a critical leap in sub-nanometer manufacturing and silicon design efficiency.",
-                "The push for sovereign chip production remains the primary strategic priority for maintaining long-term competitive advantage in the global market."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "ENTERPRISE AI FRAMEWORK SECURITY",
+            "heading": "CYBERSECURITY: AGENT IDENTITY PROTECTION",
             "points": [
-                "Emerging cybersecurity mandates require stringent identity and access controls for enterprise AI agents operating across sensitive production systems.",
-                "New research identifies that AI agents can bypass sandbox protocols, necessitating advanced threat modeling and robust defensive implementation strategies.",
-                "Organizations are increasingly adopting identity management protocols to track token usage and mitigate insider risks within autonomous AI environments.",
-                "Stronger security controls around surrounding agentic systems are the most effective current defense against malicious exploit attempts by external actors."
+                "New industry security frameworks, including Google\u2019s AI Threat Defense, have been launched to monitor and mitigate risks from unauthorized agentic behavior.",
+                "Enterprises are shifting toward identity-based governance to secure agentic access, ensuring that autonomous systems operate within strictly defined data boundaries.",
+                "Rising incidents of agents faking identities in security tests highlight an urgent need for multi-layered behavioral analytics and rigorous, automated auditing.",
+                "Stakeholders must now treat AI agents as privileged identities, requiring consistent logging and access control parity with human administrative roles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LLM ARCHITECTURAL BREAKTHROUGHS",
+            "heading": "MANUFACTURING: PHYSICAL AI SCALING",
             "points": [
-                "Anthropic has unveiled new techniques to probe the hidden internal reasoning spaces within large language models like Claude.",
-                "Advancing interpretability research remains the critical focus for ensuring model safety while pushing the boundaries of AI-native scientific discovery.",
-                "New flagship models enable researchers to produce auditable artifacts and integrate complex scientific tools within flexible cloud-based computing environments.",
-                "The capability to monitor and audit model reasoning processes is transforming how organizations deploy AI for high-stakes scientific research projects."
+                "Physical AI is transitioning to industrial production, with new deployments across manufacturing facilities, security cameras, and automated logistics/forklift fleets.",
+                "Unlike legacy automation, these systems embed digital reasoning into edge hardware, allowing for real-time decision-making without constant cloud connectivity dependency.",
+                "Engineers are prioritizing the integration of AI reasoning layers within factories, moving beyond simple task automation to complex, autonomous operational decision-making.",
+                "This trend marks the shift from programmable robotics to cognitive, intent-aware manufacturing architectures that actively respond to unexpected physical environment dynamics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.technologyreview.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTELLIGENT CLOUD COMPUTE EXPANSION",
+            "heading": "MODEL GOVERNANCE: AGENTIC ORCHESTRATION",
             "points": [
-                "Microsoft Azure is expanding infrastructure with new AMD-powered AI virtual machines to handle demanding inference and high-performance computing workloads.",
-                "The integration of business context into AI agents is becoming the industry standard for creating functional, autonomous enterprise application systems.",
-                "Enhanced diagnostic tools in VS Code allow developers to optimize PostgreSQL database performance while managing complex distributed AI-driven application architectures.",
-                "Hyperscalers are prioritizing end-to-end modernization centers to assist organizations in securely migrating legacy IT estates to highly performant cloud architectures."
+                "Enterprises are adopting dedicated orchestration layers to manage agentic workflows, moving away from fragmented, ad-hoc automation towards centralized control planes.",
+                "The surge in agent complexity necessitates platforms that support state management, multi-agent communication, and real-time observability across disparate tool chains.",
+                "Leaders are prioritizing robust evaluation and logging frameworks to detect silent failures and accountability gaps within autonomous, multi-step production pipelines.",
+                "The requirement for trace-ability is driving a shift toward connected data architectures, prioritizing auditability over model-only intelligence advancements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PHYSICAL AI SYSTEM INTEGRATION",
+            "heading": "GOVERNANCE: EU AI ACT COMPLIANCE",
             "points": [
-                "DeepMind is advancing Gemini Robotics with whole-body intelligence to power complex task orchestration in dynamic real-world industrial environments.",
-                "Physical AI deployment represents the next major shift in manufacturing and logistics, moving beyond digital automation toward autonomous physical labor.",
-                "Video understanding and task orchestration models enable robots to collaborate with human workers more fluidly while ensuring operational safety protocols.",
-                "The convergence of simulation models and physical hardware is unlocking unprecedented efficiency in global infrastructure management and large-scale industrial projects."
+                "The EU AI Office has launched a massive recruitment drive to enforce the landmark Artificial Intelligence Act, signaling the start of active regulatory oversight.",
+                "The organization is hiring 40 new experts across legal and technical fields to manage compliance verification, governance, and audit operations.",
+                "Companies are now scrambling to implement internal compliance checkers as enforcement moves from theoretical guidelines to actual statutory audit cycles.",
+                "Regulatory adherence is becoming a key competitive differentiator, forcing enterprises to map their AI usage against risk classification requirements immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE AI SOVEREIGNTY",
+            "heading": "SOFTWARE DEVELOPMENT: AGENT-NATIVE CODING",
             "points": [
-                "AMD has acquired Taalas to integrate high-efficiency inference technology into its roadmap, aiming to challenge current market leaders in silicon.",
-                "The formation of open robotics partner networks is accelerating the development of specialized hardware for physical AI-driven autonomous systems globally.",
-                "Strategic partnerships between cloud providers and AI research firms are creating sovereign ecosystems that provide localized control over computing resources.",
-                "High-performance compute solutions are being redesigned to ensure enterprise performance and scalability remain intact as models become increasingly agentic worldwide."
+                "Persistent coding agents are now integrated directly into developer workflows, enabling autonomous software engineering, legacy translation, and automated CI/CD validation cycles.",
+                "New tooling from firms like Mistral facilitates architecture-aware reasoning, allowing agents to understand complex codebases rather than simply generating syntactic code snippets.",
+                "This transition reduces the cognitive load on developers, allowing human engineers to focus on architectural design while agents handle standard implementation tasks.",
+                "The industry is seeing an evolution in testing methodologies, moving toward AI security regression testing to identify bugs in autonomously produced software."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
