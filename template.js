@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DECODING AUTONOMOUS",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN ENTERPRISE",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
+            "heading": "SK HYNIX: MEMORY PLANT SURGE",
             "points": [
-                "OpenAI officially deployed GPT-5.6 to deliver frontier intelligence scaling across complex enterprise reasoning pipelines.",
-                "The new model architecture optimizes cost-performance trade-offs for high-volume automated transactional agent workflows.",
-                "This release shifts the landscape from basic prompt engineering toward deeply integrated autonomous system coordination.",
-                "Enterprises must quickly recalibrate internal evaluation benchmarks to leverage these enhanced frontier scaling capabilities."
+                "SK Hynix launches a massive thirty-eight billion dollar capital investment to construct two advanced memory chip plants.",
+                "This infrastructure expansion directly addresses surging global demand for high-bandwidth memory architectures optimized for enterprise AI acceleration.",
+                "The double-facility deployment aims to secure hardware supply chains against anticipated bottlenecking of next-generation physical silicon fabrication.",
+                "System architects must prepare for increased high-density memory allocation as native hardware capabilities scale across global datacenters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: SILICON INFERENCE ACQUISITION",
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "Advanced Micro Devices reached an agreement to acquire Taalas to integrate next-generation hardware-level inference solutions.",
-                "This strategic integration aims to drastically reduce power consumption while improving hardware throughput for massive scale.",
-                "The transaction positions AMD to offer highly specialized custom silicon architectures targeting persistent edge deployments.",
-                "Competitors face immediate pressure to deliver alternative low-power silicon architectures for real-time localized workloads."
+                "AMD signs a definitive acquisition agreement with Taalas to integrate specialized AI model hardwiring technology into its portfolio.",
+                "This strategic transaction aims to dramatically reduce enterprise model training and inference costs through highly dedicated silicon designs.",
+                "Integrating Taalas' specialized hardware allows corporate customers to run high-volume, mature artificial intelligence workloads at optimal efficiency.",
+                "Hardware-level model embedding will reshape the silicon landscape by providing cost-effective alternatives to general-purpose graphics processing units."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,28 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE: PHYSICAL ROBOTICS COGNITION",
+            "heading": "OPENAI: FRONTIER MODEL DEPLOYMENT",
             "points": [
-                "Google DeepMind announced Gemini Robotics 2 to provide unified whole-body physical intelligence for industrial systems.",
-                "This upgrade enables multi-robot collaboration and advanced video spatial understanding across distributed factory environments.",
-                "Combining physical robotics with frontier language understanding closes the gap between digital reasoning and mechanical execution.",
-                "Manufacturing leaders should expect rapid operational improvements in automated assembly and real-time sensory processing."
+                "OpenAI releases its highly anticipated frontier intelligence model GPT five point six featuring advanced native multi-step reasoning capabilities.",
+                "The architecture achieves unprecedented price-to-performance efficiency gains across complex coding tasks and deep analytical operations.",
+                "This model release systematically targets enterprise-scale digital workflow automation while lowering the execution costs for free-tier global users.",
+                "Developers can leverage these enhanced logical frameworks to deploy highly autonomous agents without traditional latency overheads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CLOUDFLARE: ENTERPRISE OPERATING SYSTEM",
+            "heading": "CLOUDFLARE: AGENTIC WORKSPACE OS",
             "points": [
-                "Cloudflare introduced Cloudflare OS to serve as a comprehensive operating system managing enterprise AI identities.",
-                "The browser-integrated system controls token spending, prevents insider threats, and provides secure zero-trust model routing.",
-                "This launch establishes a foundational governance layer that secures autonomous developer agents operating in production environment.",
-                "Chief Information Officers can now enforce unified compliance metrics across scattered third-party generative model applications."
+                "Cloudflare announces a specialized browser-integrated operating system designed to manage and orchestrate enterprise agentic workspaces and identities.",
+                "The platform integrates zero-trust access protocols and automated model routing to secure data endpoints against unauthorized leakages.",
+                "This framework aims to mitigate insider threat vectors while giving corporate IT administrators granular visibility over token consumption.",
+                "Organizations can immediately deploy secured digital environments that seamlessly track autonomous agent behavior and mitigate systemic execution risks."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "NORWAY: SOVEREIGN COMPUTER FACTORY",
+            "heading": "META: PERSISTENT MUSE CODE PLATFORM",
             "points": [
-                "An infrastructure startup announced plans to construct a massive ten billion dollar AI factory in Norway.",
-                "The clean energy facility will provide substantial compute capacities dedicated to European sovereign artificial intelligence training.",
-                "This development shifts the physical distribution of high-performance computing centers toward regions with natural cooling.",
-                "Cloud providers will likely accelerate localized datacenter migrations to satisfy strict European regulatory compliance rules."
+                "Meta launches its Muse Code ecosystem to facilitate complex software engineering projects using highly coordinated, persistent digital agents.",
+                "The specialized development environment maintains continuous operational context across long-horizon programming tasks and large legacy codebase translation.",
+                "This release accelerates autonomous software development lifecycles by shifting manual code reviews toward automated, architecture-aware logical verification systems.",
+                "Engineering teams can expect reduced cycle times as multi-agent systems seamlessly integrate into existing continuous integration pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: SECURE CONTEXT AGENTS",
+            "heading": "ASML: HIGH NA LITHOGRAPHY MILESTONE",
             "points": [
-                "Microsoft launched Microsoft IQ to connect autonomous agents securely to distributed enterprise database schemas.",
-                "The framework supplies comprehensive shared context allowing agents to reason and execute complex transactional workflows safely.",
-                "This development mitigates critical context degradation issues typically encountered during multi-step automated enterprise workflows.",
-                "System architects can now design deeper agentic loops without relying on complex, unstable external API layers."
+                "ASML reaches a historic readiness milestone by fabricating its first high-volume logic product using next-generation High NA lithography.",
+                "This mechanical breakthrough enables chip manufacturers to print denser physical transistor geometries with extreme nanometer-scale precision and throughput.",
+                "The technology provides the manufacturing foundation required to mass produce next-generation silicon for advanced high-performance artificial intelligence accelerators.",
+                "Global chipmakers will rapidly adopt these lithographic systems to secure hardware sovereignty and meet escalating computing demands."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL: ENTERPRISE PROMPT SECURITY",
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "Mistral AI introduced Shieldstral alongside Robostral to establish a system of record for prompt safety.",
-                "The framework monitors developer interactions while preserving low-latency performance during enterprise-wide automated production workloads.",
-                "Securing the inputs and outputs of agentic networks addresses critical compliance concerns in highly regulated industries.",
-                "Compliance officers gain instant visibility into automated workflows without degrading overall execution speed or software agility."
+                "Safe Superintelligence and NVIDIA establish a long-term strategic partnership to rapidly scale advanced safety-first artificial intelligence computing systems.",
+                "The collaboration leverages secure supercomputing infrastructure to build highly robust models capable of defending against complex cyber threats.",
+                "This alliance addresses growing regulatory pressures by focusing developmental efforts on provable alignment and robust system defense guidelines.",
+                "Enterprise leaders must align hardware deployment strategies with emerging safety frameworks to ensure long-term operational and regulatory compliance."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
