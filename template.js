@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AGENTIC",
-        "titleBlue": "ARCHITECTURES"
+        "titleWhite": "DEEP COMPUTE",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 LAUNCH",
+            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
             "points": [
-                "OpenAI launched GPT-5.6 to deliver frontier intelligence that scales seamlessly with complex enterprise workloads.",
-                "The model achieves unprecedented optimization to drive high-performance reasoning while reducing operational token expenditures significantly.",
-                "Deep architectural updates enable enhanced long-horizon planning and sovereign execution capabilities across federated digital environments.",
-                "Global organizations can deploy this architecture to automate complex analytical pipelines with maximum computational efficiency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AMD: TAALAS INFRASTRUCTURE ACQUISITION",
-            "points": [
-                "AMD acquired Taalas to produce ultra-low-cost application-specific integrated circuits designed exclusively for single-model inference workloads.",
-                "The hardware architecture strips away general-purpose programmability to optimize silicon efficiency and dramatically reduce operational costs.",
-                "This non-flexible physical silicon design targets mature high-volume enterprise workloads requiring continuous dedicated model execution.",
-                "IT leadership must evaluate processing pipelines to identify high-density workflows suited for dedicated silicon acceleration."
+                "AMD reaches definitive agreement to acquire Taalas to implement high-performance model-specific application-specific integrated circuits.",
+                "The transaction targets highly optimized single-model inference chips to systematically lower processing costs for enterprises.",
+                "This acquisition bypasses traditional multi-model flexibility in favor of high-volume hardware efficiency and structural performance.",
+                "Enterprise developers gain access to dedicated silicon paths designed to execute mature, high-scale deep learning workloads."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +22,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "GOOGLE: DEEPMIND CONSOLIDATION",
+            "id": 2,
+            "heading": "BYTEDANCE: MEGA MODEL SCALING",
             "points": [
-                "Google consolidated deep control over its primary research arm as founder Demis Hassabis steps aside.",
-                "This organizational shift prioritizes commercial deployment urgency over long-term academic research culture inside the consolidated unit.",
-                "Sergey Brin assumes a highly active operational role to accelerate productized generative models to market.",
-                "Enterprise partners should expect accelerated API rollouts and tighter integration across the Google Cloud ecosystem."
+                "ByteDance initiates development on a monumental artificial intelligence model nearing Anthropic's flagship Mythos architecture performance.",
+                "The training run processes datasets scaled three times larger than Moonshot's advanced Kimi K3 conversational model.",
+                "This development shifts regional computing power toward massive foundation training, challenging Western dominance in frontier systems.",
+                "Sovereign hardware allocations must scale aggressively to sustain these massive parallel training iterations in deep learning."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OPERATING SYSTEM",
+            "id": 3,
+            "heading": "AMD & ANTHROPIC: INFRASTRUCTURE",
             "points": [
-                "Cloudflare announced its upcoming enterprise operating system integrating zero-trust browser workspaces and governed data connectors.",
-                "The platform routes models dynamically while maintaining strict secure perimeters around highly sensitive corporate data assets.",
-                "This architecture decouples traditional operating systems from physical hardware by shifting core compute into edge environments.",
-                "Security operations teams can leverage these centralized guardrails to mitigate emerging threat vectors in multi-agent deployments."
+                "AMD and Anthropic forge strategic partnership deploying up to two gigawatts of Instinct MI450 graphics processors.",
+                "The massive deployment optimizes cloud cluster efficiency to support the upcoming generation of agentic foundation models.",
+                "Integrating direct power grid capacity ensures uninterrupted computing throughput during peak model alignment and inference runs.",
+                "Competitors face severe hardware bottlenecks as this massive chip reservation establishes a dominant compute infrastructure footprint."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MISTRAL: SHIELDSTRAL & ROBOSTRAL",
+            "points": [
+                "Mistral AI releases Shieldstral and Robostral to establish structured systems of record for enterprise prompt engineering.",
+                "The frameworks streamline prompt tracking and custom skill management across diverse global cloud and edge deployments.",
+                "This open release enhances model transparency while providing audited guardrails for autonomous multi-step software agent orchestrations.",
+                "Enterprise developers secure strict runtime compliance by anchoring dynamic model behavior within immutable systems of record."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: MUSE CODE AGENTIC PLATFORM",
+            "heading": "OPENAI: GPT-5.6 ARCHITECTURE",
             "points": [
-                "Meta released Muse Code to automate complex software development using highly cooperative and persistent agentic networks.",
-                "The system processes complex coding pipelines by delegating tasks across specialized, autonomous and long-lived digital identities.",
-                "This deployment indicates a broader transition toward long-horizon agentic orchestration within modern enterprise development environments.",
-                "Engineering leaders must establish robust verification frameworks to monitor code output and prevent cascading repository failures."
+                "OpenAI launches GPT-5.6 Sol alongside GPT-5.6 Luna to scale highly advanced frontier intelligence for global users.",
+                "The new models achieve unmatched efficiency gains, reducing operational latency while advancing native complex reasoning capabilities.",
+                "Integrating these models into active workflows elevates agentic autonomy across coding, mathematics, and complex scientific tasks.",
+                "Developers transition from simple prompt interfaces to deeply integrated agentic processes running on optimized frontier architecture."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: INTEGRATED COGNITIVE IQ",
+            "heading": "DEEPMIND: LEADERSHIP CONSOLIDATION",
             "points": [
-                "Microsoft launched Web IQ and Microsoft IQ to feed real-time contextual information directly into enterprise agents.",
-                "This framework grounds active digital workers with highly synchronized data streams pulled from current internet sources.",
-                "Grounding agentic workflows with live external indices prevents hallucinations and maintains accuracy across dynamic customer-facing environments.",
-                "Software architects can securely expose localized databases to external APIs using governed, context-aware integration connectors."
+                "Google reorganizes its artificial intelligence division boosting Sergey Brin as Demis Hassabis shifts focus from research.",
+                "This internal consolidation shifts DeepMind's academic culture toward rapid development of highly commercialized consumer AI products.",
+                "Streamlining product-oriented management structures mitigates developer friction to accelerate deployment of advanced agentic system capabilities.",
+                "The structural pivot aims to secure immediate market dominance against aggressive rivals in the foundational model landscape."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.ft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU COMMISSION: AI THERAPY CLASSIFICATION",
+            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
             "points": [
-                "The European Union released new compliance guidelines analyzing emotional support software under the strict AI Act.",
-                "High-risk classifications impose severe regulatory transparency audits and operational data quality requirements on healthcare application developers.",
-                "Navigating the complex regulatory landscape requires developers to implement strict safety guardrails and auditable diagnostic logs.",
-                "Compliance officers must rapidly audit existing therapy tools to avoid massive fines under incoming enforcement rules."
+                "Cloudflare introduces Cloudflare OS to provide a secure unified browser-based operating system for modern AI-first enterprises.",
+                "The platform integrates zero-trust access protocols and governed connectors to safely manage enterprise database routing pathways.",
+                "Consolidating workspaces inside the browser prevents critical data leaks while simplifying orchestration of complex multi-agent workflows.",
+                "Information officers minimize security vulnerabilities by establishing centralized observation over decentralized autonomous agent execution environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
