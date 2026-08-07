@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "DEEP COMPUTE",
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
         "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
+            "heading": "AMD: INFERENCE MARKET EXPANSION",
             "points": [
-                "AMD reaches definitive agreement to acquire Taalas to implement high-performance model-specific application-specific integrated circuits.",
-                "The transaction targets highly optimized single-model inference chips to systematically lower processing costs for enterprises.",
-                "This acquisition bypasses traditional multi-model flexibility in favor of high-volume hardware efficiency and structural performance.",
-                "Enterprise developers gain access to dedicated silicon paths designed to execute mature, high-scale deep learning workloads."
+                "AMD has confirmed a definitive agreement to acquire Taalas, targeting high-efficiency silicon for inference.",
+                "The integration focuses on single-model execution efficiency to optimize costs for mature, high-volume AI workloads.",
+                "This acquisition bolsters the AMD AI roadmap, specifically targeting the enterprise shift toward cost-effective inference deployments.",
+                "Analysts note the move limits flexibility but secures a dominant position in dedicated AI hardware revenue."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,96 +23,96 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "BYTEDANCE: MEGA MODEL SCALING",
+            "heading": "ANTHROPIC: FRONTIER MODEL UPGRADES",
             "points": [
-                "ByteDance initiates development on a monumental artificial intelligence model nearing Anthropic's flagship Mythos architecture performance.",
-                "The training run processes datasets scaled three times larger than Moonshot's advanced Kimi K3 conversational model.",
-                "This development shifts regional computing power toward massive foundation training, challenging Western dominance in frontier systems.",
-                "Sovereign hardware allocations must scale aggressively to sustain these massive parallel training iterations in deep learning."
+                "Anthropic has unveiled Opus 5, featuring significantly stronger coding capabilities and agentic integration for professional workflows.",
+                "The company is simultaneously expanding access to GPT-5.6 Luna, effectively targeting the free-tier model utilization segment.",
+                "New technical disclosures reveal internal research into probing hidden spaces where models perform complex conceptual reasoning.",
+                "Strategic focus shifts toward auditable AI artifacts and research-ready science applications for enterprise-grade deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD & ANTHROPIC: INFRASTRUCTURE",
+            "heading": "GOOGLE DEEPMIND: AGENTIC SCALE",
             "points": [
-                "AMD and Anthropic forge strategic partnership deploying up to two gigawatts of Instinct MI450 graphics processors.",
-                "The massive deployment optimizes cloud cluster efficiency to support the upcoming generation of agentic foundation models.",
-                "Integrating direct power grid capacity ensures uninterrupted computing throughput during peak model alignment and inference runs.",
-                "Competitors face severe hardware bottlenecks as this massive chip reservation establishes a dominant compute infrastructure footprint."
+                "DeepMind launched Gemini 3.6 Flash and 3.5 Flash Cyber, optimizing intelligence-per-parameter for diverse enterprise applications.",
+                "The firm is actively mitigating risks associated with millions of autonomous agents interacting in online environments.",
+                "Breakthrough forecasting for cyclones using AI has been achieved, demonstrating advanced capability in environmental and simulation modeling.",
+                "New robotics frameworks enable whole-body intelligence, bridging the gap between digital cognition and physical actuation layers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL: SHIELDSTRAL & ROBOSTRAL",
+            "heading": "ASML: LITHOGRAPHY AI INTEGRATION",
             "points": [
-                "Mistral AI releases Shieldstral and Robostral to establish structured systems of record for enterprise prompt engineering.",
-                "The frameworks streamline prompt tracking and custom skill management across diverse global cloud and edge deployments.",
-                "This open release enhances model transparency while providing audited guardrails for autonomous multi-step software agent orchestrations.",
-                "Enterprise developers secure strict runtime compliance by anchoring dynamic model behavior within immutable systems of record."
+                "ASML reports \u20ac9.3 billion in net sales as high-volume EUV technology reaches critical production readiness milestones.",
+                "New AI-native engineering pipelines are being applied to lithography processes, reducing complexity in chip patterning cycles.",
+                "Strategic partnerships with Tata Electronics and other regional players are accelerating the semiconductor manufacturing ecosystem globally.",
+                "The company remains a fundamental bottleneck provider for advanced AI hardware, maintaining massive barriers to entry."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: GPT-5.6 ARCHITECTURE",
+            "heading": "EU AI OFFICE: GOVERNANCE ENFORCEMENT",
             "points": [
-                "OpenAI launches GPT-5.6 Sol alongside GPT-5.6 Luna to scale highly advanced frontier intelligence for global users.",
-                "The new models achieve unmatched efficiency gains, reducing operational latency while advancing native complex reasoning capabilities.",
-                "Integrating these models into active workflows elevates agentic autonomy across coding, mathematics, and complex scientific tasks.",
-                "Developers transition from simple prompt interfaces to deeply integrated agentic processes running on optimized frontier architecture."
+                "The EU AI Act compliance ledger highlights 40 new enforcement roles focused on transparency and regulatory oversight.",
+                "New guidance for general-purpose AI (GPAI) therapy systems addresses emotional support risks and model accountability mandates.",
+                "The Scientific Panel of independent experts is currently drafting frameworks to regulate high-risk systemic AI applications.",
+                "Organizations are being prompted to utilize the compliance checker to align with evolving international AI safety standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPMIND: LEADERSHIP CONSOLIDATION",
+            "heading": "AWS: CLOUD INFRASTRUCTURE SCALE",
             "points": [
-                "Google reorganizes its artificial intelligence division boosting Sergey Brin as Demis Hassabis shifts focus from research.",
-                "This internal consolidation shifts DeepMind's academic culture toward rapid development of highly commercialized consumer AI products.",
-                "Streamlining product-oriented management structures mitigates developer friction to accelerate deployment of advanced agentic system capabilities.",
-                "The structural pivot aims to secure immediate market dominance against aggressive rivals in the foundational model landscape."
+                "AWS continues to expand its global footprint, now managing 123 availability zones across 39 distinct geographic regions.",
+                "Advanced industrial AI deployments are transforming manufacturing plants by converting historical data into real-time searchable insights.",
+                "The hyperscaler is prioritizing high-demand inference workloads, supporting over 240 services optimized for enterprise AI production.",
+                "Integrated security frameworks are being updated to address vulnerabilities inherent in large-scale multi-agent enterprise cloud environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ft.com",
+                "Source: https://aws.amazon.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
+            "heading": "MISTRAL AI: MODEL AUTONOMY",
             "points": [
-                "Cloudflare introduces Cloudflare OS to provide a secure unified browser-based operating system for modern AI-first enterprises.",
-                "The platform integrates zero-trust access protocols and governed connectors to safely manage enterprise database routing pathways.",
-                "Consolidating workspaces inside the browser prevents critical data leaks while simplifying orchestration of complex multi-agent workflows.",
-                "Information officers minimize security vulnerabilities by establishing centralized observation over decentralized autonomous agent execution environments."
+                "Mistral released Vibe, an autonomous AI agent capable of multi-step task scheduling and persistent memory management.",
+                "The company is focusing on document synthesis and enterprise knowledge search as primary vectors for industrial adoption.",
+                "Full deployment portability allows firms to run agents from edge devices to centralized cloud infrastructure seamlessly.",
+                "New coding agent tools automate CI/CD workflows, reducing the cognitive load on developers in high-velocity environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
