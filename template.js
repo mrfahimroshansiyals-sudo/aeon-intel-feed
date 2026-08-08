@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COGNITIVE",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "REDEFINING CHIP",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "FIREBIRD: ARMENIA AI FACTORY",
             "points": [
-                "OpenAI officially launches the GPT-5.6 frontier model series designed to scale complex computational reasoning.",
-                "The architecture delivers enhanced efficiency alongside the newly introduced Sol and Luna optimization runtimes.",
-                "Systems deploy massive algorithmic updates designed for enterprise workflows requiring autonomous strategic task orchestration.",
-                "Developers access highly optimized pricing tiers to accelerate the adoption of cognitive agents globally."
+                "Firebird launches the CIS region's largest AI factory in Armenia leveraging advanced NVIDIA accelerated computing infrastructure.",
+                "This facility combines Dell high-performance hardware to establish a strategic technical hub for regional developers.",
+                "The deployment intends to drive local economic growth and satisfy mounting sovereign demands for sovereign computing.",
+                "Analysts predict this hub will establish Armenia as a critical node in eastern European artificial intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
             "points": [
-                "AMD signs a definitive agreement to acquire Taalas to revolutionize enterprise inference chip efficiency.",
-                "The integration embeds dedicated single-model silicon designed to slash deployment costs for mature neural workloads.",
-                "This acquisition challenges market monopolies by delivering specialized hardware optimized specifically for deep model execution.",
-                "Corporate roadmaps now transition toward highly tailored physical architectures that maximize compute density limits."
+                "OpenAI releases GPT-5.6 to establish a highly scalable, frontier-level intelligence framework for global developers.",
+                "The model improves general reasoning capabilities and expands free user tier access to GPT-5.6 Luna edition.",
+                "Integrating GPT-5.6 Sol into ChatGPT elevates automated contextual understanding across complex multi-step enterprise workflows.",
+                "This strategic rollout signals an aggressive move to dominate highly competitive enterprise productivity and agent markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: FIREBIRD AI FACTORY",
+            "heading": "SPACEX: TERAFAB TEXAS FACTORY",
             "points": [
-                "Firebird launches the CIS region's largest AI factory in Armenia powered by NVIDIA hardware.",
-                "The infrastructure pairs Dell Technologies computing with Blackwell and Rubin processors to establish regional dominance.",
-                "This deployment accelerates regional sovereign intelligence initiatives by localizing high-performance technical computing capabilities.",
-                "Global enterprise demand shifts toward distributed sovereign compute centers bypassing traditional hyper-scaler infrastructure chokeholds."
+                "SpaceX and Tesla announce a massive sixteen billion dollar investment in a Texas Terafab chip factory.",
+                "The specialized chip facility aims to produce dedicated hardware optimized for aerospace and autonomous transport systems.",
+                "Developing custom silicon internally allows both firms to bypass global supply chain bottlenecks and optimize margins.",
+                "This vertical integration represents a major strategic threat to legacy automotive and defense semiconductor manufacturers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: UNITREE ROBOTICS BRAIN",
+            "heading": "DEEPSEEK: HUMANOID BOT ALLIANCE",
             "points": [
-                "DeepSeek invests heavily in Unitree to engineer a unified artificial intelligence brain for humanoid robots.",
-                "The development leverages deep reinforcement learning models optimized specifically for complex dynamic physical interaction tasks.",
-                "This partnership accelerates the timeline for deploying autonomous physical agents into heavy industrial factory environments.",
-                "Physical intelligence models are emerging as the dominant architectural standard for future labor automation paradigms."
+                "DeepSeek invests heavily in Unitree to co-develop an advanced AI brain customized for humanoid robotics.",
+                "This partnership integrates proprietary DeepSeek models directly with physical hardware to enhance robotic execution capabilities.",
+                "The architectural focus centers on real-world spatial reasoning and low-latency physical interaction loops for automation.",
+                "This strategic alliance accelerates China's drive to establish global dominance over the emerging physical AI sector."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: WEATHERNEXT FORECASTING",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "Google DeepMind launches WeatherNext delivering a massive breakthrough in predictive global tropical cyclone tracking.",
-                "The AI model bypasses traditional atmospheric physics computations to produce hyper-accurate localized weather simulations rapidly.",
-                "This architecture demonstrates superior computational efficiency over classical supercomputing approaches to meteorological data analysis.",
-                "Meteorological institutions gain real-time predictive tools that drastically reduce warning timelines for extreme weather occurrences."
+                "AMD reaches a definitive agreement to acquire Taalas to expand its specialized application-specific integrated circuit portfolio.",
+                "The technology delivers high-performance single-model inference at a significantly lower cost compared to general-purpose GPUs.",
+                "This integration targets mature high-volume enterprise workloads that require dedicated, low-cost model performance at scale.",
+                "The acquisition signals AMD's strategic move to challenge NVIDIA's absolute dominance of the AI silicon market."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: CLAUDE OPUS 5",
+            "heading": "DEEPMIND: WEATHERNEXT MODEL",
             "points": [
-                "Anthropic releases Claude Opus 5 representing a dramatic step change in agentic software development capabilities.",
-                "The upgraded model demonstrates unmatched execution speeds for highly complex coding tasks and enterprise workflows.",
-                "Architectural improvements secure superior reasoning benchmarks while mitigating risks associated with autonomous model behavior.",
-                "Corporate entities can deploy this flagship intelligence tier to automate multi-step technical workflows with verification."
+                "Google DeepMind launches WeatherNext to deliver a scientific breakthrough in predicting global tropical cyclone developments.",
+                "The model improves meteorological prediction resolution and offers significantly faster calculation times than traditional physical systems.",
+                "Using specialized deep learning architectures, WeatherNext enhances early warning capabilities to mitigate extreme climate impacts.",
+                "This framework showcases the transition of deep neural networks from text generation to complex physical simulation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: anthropic.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEX: TERAFAB TEXAS CHIP FACTORY",
+            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
             "points": [
-                "SpaceX and Tesla announce a massive joint investment of sixteen billion dollars for a Texas factory.",
-                "The Terafab facility is built specifically to manufacture next-generation hardware optimized for highly demanding operations.",
-                "This hardware verticalization minimizes supply chain risks for critical transportation systems and advanced planetary exploration.",
-                "Decentralized chip fabrication strategies redefine sovereign technology control for deep space and terrestrial vehicle automation."
+                "Cloudflare introduces Cloudflare OS to aggregate workspace management, model routing, and zero-trust security tools.",
+                "The browser-based platform aims to unify enterprise intelligence and protect proprietary data via governed connector channels.",
+                "It enables organizations to monitor and regulate how employees interact with various public foundation models safely.",
+                "This launch marks Cloudflare's pivot from basic network security toward dominating the decentralized runtime environment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
