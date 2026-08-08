@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleWhite": "SOVEREIGN AGENTIC",
         "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
             "points": [
-                "AMD acquires silicon startup Taalas to implement highly specialized, single-model non-programmable inference chips.",
-                "This strategic acquisition targets massive total cost of ownership reductions for high-volume enterprise inference workloads.",
-                "The dedicated hardware design departs from generalized GPU architectures to maximize dedicated throughput per watt.",
-                "Enterprises will increasingly transition mature, static neural pipelines onto hyper-efficient application-specific integrated circuits."
+                "AMD enters definitive agreement to acquire Taalas to advance high-efficiency application-specific AI inference silicon solutions.",
+                "Taalas technology enables cost-efficient enterprise deployment by running single AI models directly on dedicated non-programmable chips.",
+                "The strategic transaction enhances AMD\u2019s heterogeneous compute portfolio spanning Ryzen AI, Instinct GPUs, and adaptive silicon.",
+                "Industry analysts predict this acquisition accelerates affordable, high-volume localized inference workloads across hybrid edge environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AGENT CONTEXT",
+            "heading": "MICROSOFT: IQ AGENT GROUNDING",
             "points": [
-                "Microsoft launches Web IQ to ground autonomous agents with real-time web context and transactional intelligence.",
-                "Real-time context grounding reduces factual hallucination rates across customer-facing agent systems by over forty percent.",
-                "This framework acts as a unified semantic routing layer bridging cloud databases and live web search.",
-                "Future enterprise system designs will prioritize dynamic external grounding over static massive vector databases."
+                "Microsoft launches Microsoft IQ to securely connect enterprise AI agents with native business data and workflows.",
+                "Web IQ integration allows developer teams to ground their autonomous systems with highly performant real-time search data.",
+                "These architecture upgrades allow agents to dynamically reason, adapt, and execute multi-step transactions inside enterprise boundaries.",
+                "Enterprise operators can now deploy scalable agentic systems without compromising security governance or data control planes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: PERSISTENT CODING",
+            "heading": "SALESFORCE: AGENTIC WORKFORCE EXPANSION",
             "points": [
-                "Meta deploys Muse Code to automate complex software engineering processes using persistent, multi-agent frameworks.",
-                "Automated testing and legacy codebase translation pipelines achieve double-digit productivity gains for enterprise engineering teams.",
-                "The platform leverages a stateful orchestrator that coordinates long-horizon code synthesis tasks in developer environments.",
-                "Engineering organizations must adapt to human-in-the-loop oversight as agents assume primary responsibility for codebase maintenance."
+                "Global customer data reveals the active agentic AI workforce is more than doubling year on year.",
+                "Autonomous software agents are demonstrating significantly faster times to move from initial sandbox deployment to production.",
+                "Salesforce ecosystem metrics show a rapid transition from basic query chatbots to complex multi-step transactional automations.",
+                "CIOs are restructuring enterprise operations to prioritize embedded agent orchestration over legacy manual digital workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SALESFORCE: METRIC SURGE",
+            "heading": "GOOGLE: DEEPMIND LEADERSHIP CONSOLIDATION",
             "points": [
-                "Salesforce customer metrics confirm the active enterprise agentic workforce is more than doubling year over year.",
-                "Production deployment timelines for custom enterprise agent networks have dropped to less than three weeks.",
-                "Low-code orchestrators allow business units to bypass traditional software engineering bottlenecks during agentic deployments.",
-                "Rapid agent proliferation will demand rigorous real-time governance, auditability, and automated monitoring systems."
+                "Demis Hassabis ascends to a singular AI leadership role at Google to unify frontier model development.",
+                "The executive consolidation aims to accelerate Gemini 3.5 and Omni model integrations across all enterprise portfolios.",
+                "Google\u2019s newly unified division prioritizes scaling agentic platforms, scientific co-research partners, and next-generation robotics intelligence layers.",
+                "This organizational change aligns research priorities to secure dominant positioning against competitive open and closed models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU AI ACT: THERAPY COMPLIANCE",
+            "heading": "EU AI OFFICE: ENFORCEMENT SCALEUP",
             "points": [
-                "The European Union issues critical compliance directives targeting general-purpose AI systems deployed for emotional support.",
-                "AI providers must implement rigorous, verifiable risk management strategies before operating within the European market.",
-                "Regulatory standards mandate sovereign data isolation and transparent audit trails for all therapeutic conversational pipelines.",
-                "Compliance enforcement will accelerate the development of secure, localized model hosting solutions for sensitive applications."
+                "The European Union AI Office opens massive recruitment drive for forty technical and legal compliance posts.",
+                "New specialized personnel will oversee systemic risk evaluations, general-purpose AI models, and regional enforcement mandates.",
+                "This hiring wave marks a critical phase in operationalizing the EU AI Act compliance verification mechanisms.",
+                "Tech providers must prepare for highly structured audit environments as regulatory oversight over frontier intelligence accelerates."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURE INFRA: SNOWFLAKE BREACH",
+            "heading": "MISTRAL AI: SHIELDSTRAL SECURITY",
             "points": [
-                "The primary threat actor behind the breach of over one hundred sixty enterprise databases pleads guilty.",
-                "The compromise exposes critical vulnerabilities in decentralized data warehouse architectures and single-factor credential setups.",
-                "Security teams must enforce strict zero-trust network access, continuous credential rotation, and mandated multi-factor authentication.",
-                "Global organizations will rapidly migrate toward sovereign, cloud-isolated data management frameworks to prevent structural compromises."
+                "Mistral AI introduces Shieldstral to establish a secure system of record for enterprise prompts and skills.",
+                "The tool acts as a critical guardrail, managing authorization and preventing untrusted execution within agent frameworks.",
+                "Combining Shieldstral with Mistral OCR 4 improves document intelligence security while processing unstructured enterprise files.",
+                "This development empowers corporate IT to confidently run autonomous workflows across distributed cloud and edge infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: UNIFIED LEADERSHIP",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "points": [
-                "Google DeepMind consolidates its research and deployment units under a singular leadership structure for Demis Hassabis.",
-                "This strategic reorganization accelerates the transition of foundational research into commercial agent platforms and world models.",
-                "The unified architecture focuses on integrating multimodality with long-horizon search and multi-agent interaction protocols.",
-                "The consolidated research pipeline will aggressively challenge OpenAI in delivering enterprise-grade autonomous agent ecosystems."
+                "OpenAI rolls out GPT-5.6 Sol and GPT-5.6 Luna to scale frontier intelligence and accessibility.",
+                "The update delivers a massive leap in advanced multi-step reasoning capabilities for autonomous digital employee agents.",
+                "OpenAI expands free tier access to Luna, significantly shifting the price-to-performance frontier across the industry.",
+                "Developers can leverage these enhanced models to orchestrate robust reasoning systems with lower API compute latency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
