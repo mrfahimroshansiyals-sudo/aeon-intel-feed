@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN FRONTIER AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "AUTONOMOUS EDGE",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI launches GPT-5.6, delivering frontier cognitive capabilities that scale dynamically with enterprise computational resources.",
-                "The new model architecture optimizes token consumption, cutting operational inference overheads by forty percent.",
-                "System engineers integrate GPT-5.6 to establish sovereign, high-throughput pipelines across distributed cloud ecosystems.",
-                "This advancement signals an immediate industry migration toward fully autonomous, self-improving digital infrastructure."
+                "OpenAI has launched GPT-5.6 delivering frontier intelligence that scales across highly complex enterprise workflows.",
+                "The model deploys GPT-5.6 Sol and free-tier Luna to expand global accessibility to conversational reasoning.",
+                "This update introduces advanced pricing structures optimized to lower downstream token costs for deep developers.",
+                "Organizations can immediately leverage these scaled frontier features to accelerate high-volume automation tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "AMD acquires silicon startup Taalas to manufacture specialized, ultra-low-power chips for dedicated neural network inference.",
-                "This integration delivers a ten-fold improvement in cost efficiency for mature enterprise inference workloads.",
-                "The acquisition enables deep hardware-software co-design, bypassing general-purpose GPU scarcity in sovereign data centers.",
-                "Enterprises will transition from costly flexible architectures to highly specialized, model-specific silicon hardware platforms."
+                "AMD has acquired semiconductor startup Taalas to accelerate the deployment of high-efficiency enterprise inference chips.",
+                "The integration delivers cost-effective hardware dedicated to running specific, mature AI models at high volumes.",
+                "This transaction positions AMD as a major alternative to Nvidia for scalable enterprise inference architectures.",
+                "Enterprise developers can now build highly localized hardware pipelines designed specifically for model-specific execution tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,28 +39,12 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: VIBE AGENTIC SUITE",
+            "heading": "FIREBIRD: ARMENIA AI FACTORY",
             "points": [
-                "Mistral AI introduces Vibe, an autonomous agentic framework optimized for persistent, long-horizon enterprise computational tasks.",
-                "Early benchmarks demonstrate a fifty percent reduction in latency for multi-step software compilation pipelines.",
-                "Vibe operates natively across hybridized local and cloud environments, retaining secure state memory without external APIs.",
-                "Developers can now deploy decentralized agent armies capable of automated continuous integration and sovereign code generation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
-            "points": [
-                "Safe Superintelligence and NVIDIA establish a long-term strategic alliance to build secure, frontier-scale neural training clusters.",
-                "The joint initiative deploys custom accelerated architectures, accelerating safe superintelligence development by several months.",
-                "This partnership solidifies NVIDIA's role as the foundation hardware provider for the world's most critical systems.",
-                "Sovereign entities will increasingly depend on highly protected, physical compute factories to guarantee mathematical safety."
+                "Firebird has launched the CIS region's largest AI factory located in Armenia using Nvidia architectures.",
+                "The facility integrates high-performance Dell Technologies hardware to deliver massive localized accelerated compute power.",
+                "This strategic deployment establishes a new Eurasian hub to meet expanding global demands for infrastructure.",
+                "Local tech ecosystems will gain direct access to sovereign GPU resources for scaling complex applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MICROSOFT: AZURE IQ INTEGRATION",
+            "id": 4,
+            "heading": "DEEPMIND: GEMINI ROBOTICS 2",
             "points": [
-                "Microsoft releases Microsoft IQ to securely ground enterprise AI agents with real-time web and private business context.",
-                "System integration teams report a sixty percent improvement in transactional accuracy for automated customer-facing agents.",
-                "The tool bridges the gap between static foundational weights and dynamic, rapidly evolving corporate data stores.",
-                "IT leaders will enforce strict zero-trust parameters directly at the context ingestion layer of autonomous systems."
+                "Google DeepMind has launched Gemini Robotics 2 to provide whole body intelligence for humanoid physical systems.",
+                "The framework combines advanced video understanding with complex task orchestration across multi-robot industrial operations.",
+                "Developers can deploy this model to synchronize physical agents with real-world environments and dynamic changes.",
+                "This release signals a transition toward fully autonomous spatial computing and industrial machine intelligence systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SPACEX: TERAFAB TEXAS FACTORY",
+            "points": [
+                "SpaceX and Tesla are investing over sixteen billion dollars to build a massive Terafab factory.",
+                "This Texas facility will manufacture custom semiconductor components to power advanced autonomous computing pipelines.",
+                "The initiative establishes direct sovereign supply chains for next-generation transportation and deep space hardware.",
+                "This massive infrastructure push reduces long-term reliance on external chip suppliers for proprietary systems."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: OPUS 5 ORCHESTRATION",
+            "heading": "DEEPSEEK: UNITREE BOT INVESTMENT",
             "points": [
-                "Anthropic launches Claude Opus 5, featuring advanced logical reasoning and autonomous tool-use capabilities for developers.",
-                "The upgraded model improves complex software engineering and agentic execution efficiency by forty-five percent.",
-                "Enterprise operations can now safely delegate complex, multi-step tasks to self-correcting agentic instances at scale.",
-                "Organizations will phase out legacy manual oversight loops in favor of highly automated, auditable agentic lifecycles."
+                "DeepSeek has invested in Unitree to build an advanced artificial intelligence brain for humanoid robots.",
+                "The partnership merges physical robotics hardware with frontier neural networks to enable complex physical maneuvers.",
+                "This capital allocation positions both firms to lead the emerging market for embodied machine intelligence.",
+                "Future enterprise workers will interact directly with robots operating on these integrated neural control systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS UPGRADE",
+            "heading": "MICROSOFT: AZURE IQ PLATFORM",
             "points": [
-                "Google DeepMind unveils Gemini Robotics 2, providing native physical reasoning and whole-body coordination for industrial hardware.",
-                "Robotic control loops experience a three-fold increase in operational reliability across unstructured manufacturing environments.",
-                "The architecture merges video understanding with real-time trajectory planning, minimizing reliance on pre-programmed physical routines.",
-                "Heavy industries will shift rapidly toward flexible, general-purpose humanoid robots to automate complex warehouse operations."
+                "Microsoft has launched IQ to provide complete shared business context for autonomous enterprise agent frameworks.",
+                "The technology securely connects active agents with internal databases, legacy workflows, and live company systems.",
+                "This integration reduces hallucinations by grounding model reasoning inside highly restricted corporate data layers.",
+                "Corporate developers can now easily orchestrate fleet deployments of agents with high security clearance standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
