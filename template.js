@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AGENTIC ARCHITECTURE",
-        "titleBlue": "ASCENDANCY"
+        "titleWhite": "ENTERPRISE AGENTIC SYSTEM",
+        "titleBlue": "AUTONOMY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: NANOSHEET INFRASTRUCTURE UPGRADE",
+            "heading": "ANTHROPIC: AGENTIC OPUS 5",
             "points": [
-                "TSMC officially launched A16 nanosheet technology with integrated super power rail systems for HPC.",
-                "The architecture targets high performance AI workloads by reducing power overheads at nanoscale designs.",
-                "Global fab operations shift toward this 3D-IC standard to facilitate energy efficient AI computing.",
-                "Capacity expansion in Arizona and Taiwan facilities supports localized AI manufacturing and supply resilience."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.tsmc.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ANTHROPIC: FRONTIER MODEL DEPLOYMENT",
-            "points": [
-                "Anthropic released Opus 5 and Sonnet 5 models focusing on improved agentic coding capabilities.",
-                "Claude Science platform enables auditable AI artifacts for researchers to maintain data integrity flows.",
-                "Architectural refinements emphasize long term well-being and safety within high-stakes automated scientific research environments.",
-                "System updates prioritize flexible compute access for specialized academic and professional technical workflow integration."
+                "Anthropic launched Opus 5 delivering a step change with stronger coding capabilities and highly capable autonomous agents.",
+                "The new tier provides multi-step reasoning capabilities designed to automate complex, long-horizon developer operations and professional workflows.",
+                "Integration with Claude Science offers custom applications optimized for intensive mathematical and theoretical research compute tasks.",
+                "Enterprise teams can now deploy highly aligned model structures to secure rapid execution of complex data pipelines."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,29 +22,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "DEEPMIND: AGENTIC ROBOTICS INTEGRATION",
+            "id": 2,
+            "heading": "GOOGLE CLOUD: MANAGED MCP ENGINE",
             "points": [
-                "Google DeepMind introduced Gemini Robotics 2 providing a universal intelligence layer for diverse robotics.",
-                "Multi-robot collaboration and video understanding enable real-time orchestration of physical AI navigation tasks.",
-                "New model series Gemini 3.6 Flash accelerates deployment for enterprise agentic systems at scale.",
-                "The $40M Genesis Mission commitment accelerates material science and fusion energy research simulation capabilities."
+                "Google Cloud introduced its Agent Platform featuring a fully-managed remote Model Context Protocol server configuration.",
+                "The infrastructure deployment optimizes real-time API integrations and cuts latency for multi-agent coordination environments significantly.",
+                "New foundational options include Gemini 3.6 Flash and 3.5 Flash Cyber tailored for high-speed security defense.",
+                "Sovereign cloud operators can leverage these specialized models to construct highly resilient systems of autonomous action."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: INFERENCE COMPUTING SOVEREIGNTY",
+            "id": 3,
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "AMD acquired Taalas to bolster inference performance efficiency in growing AI hardware ecosystem markets.",
-                "Strategic partnership with Anthropic commits two gigawatts of Instinct MI450 series GPUs for deployment.",
-                "Heterogeneous compute architecture optimizes power management across data center, cloud, and edge network infrastructures.",
-                "Collaborations with Korea\u2019s Ministry of Science drive sovereign AI ecosystem development via open software."
+                "AMD executed a definitive agreement to acquire Taalas to advance high-performance silicon solutions for rapid inference.",
+                "The transaction aims to drastically lower enterprise hardware overhead while scaling throughput for mature AI workloads.",
+                "Taalas specializes in designing ultra-efficient chips optimized to execute single specialized machine learning models at scale.",
+                "Hyperscalers can integrate these custom architectures to achieve optimal total cost of ownership across distributed data centers."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +54,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "NVIDIA: SECURE AI ALLIANCE PROTOCOLS",
+            "id": 4,
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
             "points": [
-                "NVIDIA expanded the Open Secure AI Alliance to over 120 organizations implementing SAFE guidelines.",
-                "Collaborative safety measures strengthen cybersecurity transparency protocols for emerging autonomous agentic AI system models.",
-                "Partnership with Safe Superintelligence Inc. accelerates strategic growth in frontier open model safety engineering.",
-                "Armenia launch of regional AI factory signifies global expansion of high performance accelerated computing hubs."
+                "NVIDIA announced a long-term strategic partnership with Ilya Sutskever's startup Safe Superintelligence to accelerate growth.",
+                "The collaboration leverages custom Blackwell and Vera Rubin architectures to accelerate highly secure physical AI training.",
+                "This hardware-software synergy utilizes advanced accelerated computing clusters to construct deep security guardrails for sovereign systems.",
+                "Global enterprise consortia gain robust blueprints to deploy highly transparent agent systems under strict safety standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,13 +70,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
+            "id": 5,
+            "heading": "OPENAI: GPT-5.6 MODEL LAUNCH",
             "points": [
-                "Mistral released Vibe AI agent platform for managing long-horizon complex tasks and autonomous workflows.",
-                "Forge platform enables enterprise domain adaptation through specialized model training and synthetic data generation.",
-                "Studio environment provides end-to-end observability and deployment portability for mission-critical enterprise AI agents.",
-                "Compute infrastructure offers frontier-grade orchestration for training and inference across diversified industrial applications today."
+                "OpenAI deployed its next-generation GPT-5.6 frontier model designed to scale reasoning intelligence with enterprise ambitions.",
+                "The model optimizes the price-performance curve, expanding access to advanced tools for highly complex analytical workloads.",
+                "Integration of GPT-5.6 Sol in ChatGPT introduces robust self-improvement protocols to enhance operational cybersecurity defense.",
+                "Strategic leaders can leverage these deep architectural advances to drive high-density cognitive automation across legacy databases."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: VIBE LONG-HORIZON AGENT",
+            "points": [
+                "Mistral AI launched Vibe an advanced autonomous agent designed to orchestrate long-horizon tasks across enterprise systems.",
+                "The platform integrates persistent memory modules and reusable skills to construct highly reliable and predictable workflows.",
+                "Developers can deploy Vibe for code directly in terminals and integrated environments to automate asynchronous programming.",
+                "Organizations gain deep execution capabilities to shift away from standard chatbots toward unified, secure agentic workspaces."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EU AI OFFICE: ENFORCEMENT MANDATE",
+            "heading": "DEEPMIND: GEMINI ROBOTICS 2 LAYER",
             "points": [
-                "EU AI Office initiated a significant recruitment drive for 40 technical and regulatory enforcement experts.",
-                "Legislative frameworks enforce transparency and risk management for general-purpose AI models under Chapter V.",
-                "The Scientific Panel provides critical technical expertise to support enforcement of sovereign AI governance.",
-                "Compliance checker tools simplify organizational alignment with evolving requirements for high-risk AI system deployments."
+                "Google DeepMind released Gemini Robotics 2 providing a comprehensive intelligence layer designed to power humanoid machinery.",
+                "The system coordinates physical robotics through multi-modal video understanding, task orchestration, and active multi-robot collaboration protocols.",
+                "By decoupling software intelligence from physical hardware architectures, it allows rapid deployment of autonomous edge devices.",
+                "Industrial logistics and manufacturing facilities can execute automated physical tasks with unmatched precision and operational efficiency."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
