@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "ACCELERATING AGENTIC FRONTIER",
+        "titleWhite": "SOVEREIGN AGENTIC",
         "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "OpenAI launches GPT-5.6 Sol and Luna frontier models designed to scale complex enterprise cognitive reasoning processes.",
-                "Advanced neural scaling techniques reduce latency by thirty percent while maintaining high-fidelity deep contextual processing performance.",
-                "The integration of localized Luna architecture allows seamless transition between decentralized edge and cloud model instances.",
-                "Enterprise developers gain access to unprecedented logic frameworks, shifting workloads toward autonomous workflow automation systems."
+                "OpenAI officially released GPT-5.6 delivering highly scalable frontier intelligence for complex corporate workflow orchestration.",
+                "This upgrade offers substantial price-performance optimization dropping API latency metrics by nearly forty percent.",
+                "Enterprise teams can deploy custom cognitive models to automate multi-step logical operations and research.",
+                "Organizations will quickly decouple from legacy systems to run autonomous agents directly on cloud frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS EMERGENCE",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "Google DeepMind introduces Gemini Robotics Two delivering comprehensive whole-body intelligence for complex multi-task physical robotic systems.",
-                "Enhanced vision-language models improve physical manipulation success rates by forty percent in unstructured industrial environment testing.",
-                "The architecture leverages advanced video understanding and multi-robot collaboration protocols to coordinate distributed edge hardware agents.",
-                "Industrial manufacturers can deploy highly adaptive automation units that coordinate dynamically without manual programmed safety barriers."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
-            "points": [
-                "AMD acquires Taalas to integrate ultra-efficient single-model application-specific integrated circuit technology directly into its AI roadmap.",
-                "Specialized hardware structures promise to decrease dedicated enterprise model inference costs by up to ninety percent.",
-                "This transaction signals a shift from expensive general-purpose GPUs toward hyper-targeted silicon for mature high-volume workloads.",
-                "Enterprise data centers can optimize capital expenditure by deploying hardcoded silicon configurations for core operational architectures."
+                "AMD finalized a definitive agreement to acquire Taalas to advance high-efficiency silicon architecture design.",
+                "The transaction integrates breakthrough model-specific inference performance directly into the broader AMD AI processor roadmap.",
+                "This acquisition targets cheap high-volume workloads through hardwired non-programmable silicon dedicated to single model deployment.",
+                "Enterprise clients will realize significantly lower operational costs for mature scaled artificial intelligence production applications."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +38,81 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: OPUS AGENTIC EVOLUTION",
+            "id": 3,
+            "heading": "MICROSOFT: AZURE EXPANSION",
             "points": [
-                "Anthropic releases Opus Five delivering a step-change in programmatic coding capability and autonomous agent tool integration.",
-                "Operational evaluations demonstrate a fifty percent improvement in long-horizon task execution compared to previous model releases.",
-                "The upgrade prioritizes robust tool-use frameworks and verifiable professional work artifacts to minimize agent breakdown risks.",
-                "Developers can reliably delegate continuous multi-step system maintenance tasks directly to highly autonomous software agents."
+                "Microsoft expanded Azure infrastructure by deploying new virtual machines powered by AMD Instinct MI455Xv7 accelerators.",
+                "These advanced systems yield massive throughput enhancements for high-performance computing and heavy enterprise training workloads.",
+                "The integrated architecture leverages Microsoft IQ to safely connect autonomous agents to local corporate databases.",
+                "Systems engineers will seamlessly transition large-scale operations into highly secure cloud environment configurations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MISTRAL AI: VIBE WORKSPACE",
+            "points": [
+                "Mistral AI launched Vibe an autonomous agent designed specifically to handle long-horizon engineering tasks.",
+                "The system coordinates asynchronous code generation and automated code reviews accelerating deployment velocities by double.",
+                "Developers can access persistent memory and reusable skill registries directly through localized terminal interface environments.",
+                "Tech enterprises will eliminate software development bottlenecks by shifting maintenance tasks to self-healing agent arrays."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TSMC: SUPER POWER RAIL",
+            "heading": "NVIDIA: SSI PARTNERSHIP",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company reveals A16 nanosheet technology featuring innovative backside power distribution via Super Power Rail.",
-                "The novel power delivery architecture yields a ten percent performance increase at equivalent operating voltage thresholds.",
-                "Moving power lines to the backside optimizes thermal dissipation and silicon area utilization in next-generation accelerators.",
-                "High-performance computing clusters gain massive energy efficiency improvements crucial for powering intensive generative modeling clusters."
+                "NVIDIA established a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence startup to accelerate research.",
+                "The alliance provides SSI with massive computing resources to build highly robust sovereign cognitive safety guardrails.",
+                "This collaboration solidifies NVIDIA's role as the central infrastructure provider for future artificial general intelligence systems.",
+                "Global policymakers will track these safety milestones to formulate standardized compliance metrics for frontier models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.tsmc.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: MUSE CODE AGENTS",
+            "heading": "DEEPMIND: GEMINI ROBOTICS 2",
             "points": [
-                "Meta launches Muse Code a specialized development environment utilizing persistent AI agents for complex engineering tasks.",
-                "Devops teams report a thirty-five percent reduction in debugging cycle times when utilizing persistent background agents.",
-                "The system establishes continuous software-monitoring architectures that independently plan edit and review active repository codebases.",
-                "Modern software engineering pipelines will transition toward supervisory roles managing swarms of specialized background coder agents."
+                "Google DeepMind announced Gemini Robotics 2 providing a whole body intelligence layer for mechanical agents.",
+                "This release significantly improves physical task orchestration and video understanding across multi-robot corporate environments.",
+                "The system utilizes advanced multi-agent simulations to evaluate complex real-world interaction risks before deployment.",
+                "Logistics providers will deploy highly collaborative physical systems to automate entire supply chain warehouse tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://ai.meta.com/blog",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "CLOUDFLARE: OS INITIATIVE",
             "points": [
-                "ASML achieves critical readiness validation for its High NA EUV lithography systems on high-volume manufacturing logic lines.",
-                "Advanced precision patterning enables chipmakers to construct sub-two-nanometer node structures with optimal production yield reliability.",
-                "The milestone cements ASML monopoly over the extreme physical infrastructure required to build future supercomputing microprocessors.",
-                "Leading foundry partners can now scale the commercial output of highly dense chips designed for sovereign supercomputers."
+                "Cloudflare introduced a browser-integrated operating system to orchestrate secure enterprise artificial intelligence workspaces.",
+                "The platform integrates zero-trust access controls and governed data connectors to prevent proprietary database leaks.",
+                "By managing dynamic model routing in the browser IT teams maintain absolute visibility over network environments.",
+                "Security officers will confidently deploy third-party agent systems without risking compliance violations under global regulations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
