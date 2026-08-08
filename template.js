@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SECURE AGENTIC",
-        "titleBlue": "PARADIGM"
+        "titleWhite": "SOVEREIGN COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "AMD acquires chipmaker Taalas to deliver hyper-efficient silicon dedicated solely to running singular enterprise AI models.",
-                "Enterprise inference costs drop significantly by shifting high-volume mature workloads away from flexible, high-cost graphics processors.",
-                "This acquisition positions AMD to challenge market dominance by providing hardware specifically optimized for dedicated offline networks.",
-                "Hardware-level model specialization signals a major industry pivot from general-purpose accelerators to highly localized enterprise deployments."
+                "OpenAI officially launches the GPT-5.6 frontier model series designed to scale complex computational reasoning.",
+                "The architecture delivers enhanced efficiency alongside the newly introduced Sol and Luna optimization runtimes.",
+                "Systems deploy massive algorithmic updates designed for enterprise workflows requiring autonomous strategic task orchestration.",
+                "Developers access highly optimized pricing tiers to accelerate the adoption of cognitive agents globally."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
+            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
             "points": [
-                "Cloudflare introduces a browser-based operating system unifying secure workspaces, zero-trust protocols, and intelligent multi-model routing systems.",
-                "Enterprise IT teams gain absolute observability and real-time governance over distributed data connectors and decentralized workloads.",
-                "Moving the control plane directly into browsers mitigates latency and hardens compliance structures across multi-cloud deployments.",
-                "Organizations can seamlessly deploy autonomous agents without exposing legacy databases or compromising perimeter security infrastructure."
+                "AMD signs a definitive agreement to acquire Taalas to revolutionize enterprise inference chip efficiency.",
+                "The integration embeds dedicated single-model silicon designed to slash deployment costs for mature neural workloads.",
+                "This acquisition challenges market monopolies by delivering specialized hardware optimized specifically for deep model execution.",
+                "Corporate roadmaps now transition toward highly tailored physical architectures that maximize compute density limits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE BOOM",
+            "heading": "NVIDIA: FIREBIRD AI FACTORY",
             "points": [
-                "Salesforce customer data reveals the active deployment of autonomous agentic workforces is more than doubling year-over-year.",
-                "Development cycles accelerate dramatically as organizations transition from prolonged pilot testing directly to automated production environments.",
-                "High-density orchestration layers are successfully replacing traditional workflow templates with self-correcting cognitive execution routines.",
-                "Operational efficiency metrics will shift from human-centered hourly labor to scalable, transaction-based multi-agent execution frameworks."
+                "Firebird launches the CIS region's largest AI factory in Armenia powered by NVIDIA hardware.",
+                "The infrastructure pairs Dell Technologies computing with Blackwell and Rubin processors to establish regional dominance.",
+                "This deployment accelerates regional sovereign intelligence initiatives by localizing high-performance technical computing capabilities.",
+                "Global enterprise demand shifts toward distributed sovereign compute centers bypassing traditional hyper-scaler infrastructure chokeholds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALLIANCE: SAFE AGENT GUIDELINES",
+            "heading": "DEEPSEEK: UNITREE ROBOTICS BRAIN",
             "points": [
-                "Over one hundred and twenty organizations unite under the Open Secure AI Alliance to release SAFE guidelines.",
-                "The new standards establish unified protocols for cybersecurity transparency, model alignment, and proactive agentic behavior logging.",
-                "Standardization protects critical digital infrastructure from potential vulnerabilities introduced by highly interactive, decentralized agent networks.",
-                "Global compliance mandates will increasingly demand verifiable verification mechanisms and immutable execution audits for autonomous pipelines."
+                "DeepSeek invests heavily in Unitree to engineer a unified artificial intelligence brain for humanoid robots.",
+                "The development leverages deep reinforcement learning models optimized specifically for complex dynamic physical interaction tasks.",
+                "This partnership accelerates the timeline for deploying autonomous physical agents into heavy industrial factory environments.",
+                "Physical intelligence models are emerging as the dominant architectural standard for future labor automation paradigms."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEX: TEXAS TERAFAB FACTORY",
+            "heading": "DEEPMIND: WEATHERNEXT FORECASTING",
             "points": [
-                "SpaceX and Tesla announce a massive sixteen billion dollar investment to construct the new Texas Terafab facility.",
-                "Massive localized semiconductor production capacities will directly secure proprietary chip pipelines for advanced physical autonomous networks.",
-                "Integrating hardware manufacturing with advanced robotics testing structures reduces long-term dependence on external international foundry suppliers.",
-                "Gigascale capital commitments validate that future physical automation relies on direct vertical integration of silicon fabrication processes."
+                "Google DeepMind launches WeatherNext delivering a massive breakthrough in predictive global tropical cyclone tracking.",
+                "The AI model bypasses traditional atmospheric physics computations to produce hyper-accurate localized weather simulations rapidly.",
+                "This architecture demonstrates superior computational efficiency over classical supercomputing approaches to meteorological data analysis.",
+                "Meteorological institutions gain real-time predictive tools that drastically reduce warning timelines for extreme weather occurrences."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: UNITREE HUMANOID BRAIN",
+            "heading": "ANTHROPIC: CLAUDE OPUS 5",
             "points": [
-                "DeepSeek partners with Unitree, investing capital to develop highly specialized cognitive software brains for humanoid robots.",
-                "Embodied physical intelligence systems achieve unprecedented spatial awareness, rapid real-time locomotion, and complex fine motor control.",
-                "Combining state-of-the-art open models with advanced physical platforms accelerates the realization of versatile general-purpose utility machinery.",
-                "Humanoid robots will transition rapidly from controlled industrial pilot testing environments into active commercial manufacturing roles."
+                "Anthropic releases Claude Opus 5 representing a dramatic step change in agentic software development capabilities.",
+                "The upgraded model demonstrates unmatched execution speeds for highly complex coding tasks and enterprise workflows.",
+                "Architectural improvements secure superior reasoning benchmarks while mitigating risks associated with autonomous model behavior.",
+                "Corporate entities can deploy this flagship intelligence tier to automate multi-step technical workflows with verification."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: WORKFLOW IQ INTEGRATION",
+            "heading": "SPACEX: TERAFAB TEXAS CHIP FACTORY",
             "points": [
-                "Microsoft launches IQ to provide autonomous agents with secure, real-time access to corporate databases and system workflows.",
-                "Enterprise agents gain unified business context, enabling precise decision-making and seamless execution across complex legacy structures.",
-                "This architecture bridges the gap between static language models and active transactional execution layers within corporate networks.",
-                "System administrators can safely delegate operational processes while maintaining strict zero-trust parameters over sensitive internal databases."
+                "SpaceX and Tesla announce a massive joint investment of sixteen billion dollars for a Texas factory.",
+                "The Terafab facility is built specifically to manufacture next-generation hardware optimized for highly demanding operations.",
+                "This hardware verticalization minimizes supply chain risks for critical transportation systems and advanced planetary exploration.",
+                "Decentralized chip fabrication strategies redefine sovereign technology control for deep space and terrestrial vehicle automation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
