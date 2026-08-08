@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS EDGE",
-        "titleBlue": "COMPUTE"
+        "titleWhite": "AUTONOMOUS COMPUTE INFRASTRUCTURE",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "OPENAI: FRONTIER MODEL UPGRADE",
             "points": [
-                "OpenAI has launched GPT-5.6 delivering frontier intelligence that scales across highly complex enterprise workflows.",
-                "The model deploys GPT-5.6 Sol and free-tier Luna to expand global accessibility to conversational reasoning.",
-                "This update introduces advanced pricing structures optimized to lower downstream token costs for deep developers.",
-                "Organizations can immediately leverage these scaled frontier features to accelerate high-volume automation tasks."
+                "OpenAI officially released GPT-5.6 to establish a new frontier intelligence standard for complex agentic workloads.",
+                "The model drastically scales system context processing efficiency to optimize enterprise-wide token consumption and deployment costs.",
+                "Organizations can now deploy these highly responsive intelligence tiers directly across intensive developer and analytical pipelines.",
+                "This upgrade represents a significant architectural shift toward massive operational scale and robust self-improving safety frameworks."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "AMD has acquired semiconductor startup Taalas to accelerate the deployment of high-efficiency enterprise inference chips.",
-                "The integration delivers cost-effective hardware dedicated to running specific, mature AI models at high volumes.",
-                "This transaction positions AMD as a major alternative to Nvidia for scalable enterprise inference architectures.",
-                "Enterprise developers can now build highly localized hardware pipelines designed specifically for model-specific execution tasks."
+                "AMD finalized an agreement to acquire Taalas to democratize cost-efficient enterprise AI inference via specialized chips.",
+                "These hardware assets run specific, mature models to eliminate traditional general-purpose graphics processing unit overhead constraints.",
+                "The strategic transaction enables rapid integration of dedicated silicon into existing high-volume cloud and edge architectures.",
+                "Enterprise developers can bypass expensive infrastructure layers by utilizing optimized single-model silicon targets for production."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,60 +39,60 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "FIREBIRD: ARMENIA AI FACTORY",
+            "heading": "MICROSOFT: AZURE INFRASTRUCTURE EXPANSION",
             "points": [
-                "Firebird has launched the CIS region's largest AI factory located in Armenia using Nvidia architectures.",
-                "The facility integrates high-performance Dell Technologies hardware to deliver massive localized accelerated compute power.",
-                "This strategic deployment establishes a new Eurasian hub to meet expanding global demands for infrastructure.",
-                "Local tech ecosystems will gain direct access to sovereign GPU resources for scaling complex applications."
+                "Microsoft expanded Azure capabilities by deploying new high-performance AMD-powered ND MI455Xv7 virtual machine configurations.",
+                "These scalable compute instances directly accelerate intensive AI training, data inference, and specialized technical computing workloads.",
+                "Integration with Microsoft IQ allows autonomous agents to safely reason over deep, shared business context securely.",
+                "The infrastructure layer facilitates massive scale while maintaining rigorous compliance and zero-trust data access across endpoints."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: GEMINI ROBOTICS 2",
+            "heading": "GOOGLE: GEMINI FRONTIER SYSTEMS",
             "points": [
-                "Google DeepMind has launched Gemini Robotics 2 to provide whole body intelligence for humanoid physical systems.",
-                "The framework combines advanced video understanding with complex task orchestration across multi-robot industrial operations.",
-                "Developers can deploy this model to synchronize physical agents with real-world environments and dynamic changes.",
-                "This release signals a transition toward fully autonomous spatial computing and industrial machine intelligence systems."
+                "Google Cloud rolled out Gemini 3.6 Flash alongside Gemini Omni models to power the agentic era.",
+                "The model deployment includes Nano Banana Lite designed for fast, ultra-efficient edge and browser image execution.",
+                "Developers can easily program complex autonomous agents utilizing the fully-managed remote Model Context Protocol server platform.",
+                "This architecture transitions enterprise databases from passive storage repositories into dynamic, real-time transactional systems of action."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEX: TERAFAB TEXAS FACTORY",
+            "heading": "MISTRAL: AUTONOMOUS AGENT ORCHESTRATION",
             "points": [
-                "SpaceX and Tesla are investing over sixteen billion dollars to build a massive Terafab factory.",
-                "This Texas facility will manufacture custom semiconductor components to power advanced autonomous computing pipelines.",
-                "The initiative establishes direct sovereign supply chains for next-generation transportation and deep space hardware.",
-                "This massive infrastructure push reduces long-term reliance on external chip suppliers for proprietary systems."
+                "Mistral introduced Vibe and Robostral Navigate to orchestrate autonomous workflows across long-horizon enterprise engineering tasks.",
+                "The system features robust multi-step task scheduling and reusable skill structures to automate legacy code translations.",
+                "This software allows developers to deploy highly coordinated agent networks across secure hybrid cloud compute boundaries.",
+                "Enterprises can establish a permanent system of record for custom prompts, workflows, and guardrail policies."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: UNITREE BOT INVESTMENT",
+            "heading": "SPACEX: TERAFAB INFRASTRUCTURE INVESTMENT",
             "points": [
-                "DeepSeek has invested in Unitree to build an advanced artificial intelligence brain for humanoid robots.",
-                "The partnership merges physical robotics hardware with frontier neural networks to enable complex physical maneuvers.",
-                "This capital allocation positions both firms to lead the emerging market for embodied machine intelligence.",
-                "Future enterprise workers will interact directly with robots operating on these integrated neural control systems."
+                "SpaceX and Tesla committed sixteen billion dollars to construct a massive Terafab chip factory in Texas.",
+                "The specialized facility secures independent supply lines for advanced silicon hardware critical to physical AI scaling.",
+                "This joint capital allocation accelerates sovereign manufacturing capabilities to support localized high-performance compute clusters globally.",
+                "The plant establishes a crucial precedent for deep vertical integration of hardware manufacturing and system design."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AZURE IQ PLATFORM",
+            "heading": "DEEPSEEK: PHYSICAL ROBOTICS COGNITION",
             "points": [
-                "Microsoft has launched IQ to provide complete shared business context for autonomous enterprise agent frameworks.",
-                "The technology securely connects active agents with internal databases, legacy workflows, and live company systems.",
-                "This integration reduces hallucinations by grounding model reasoning inside highly restricted corporate data layers.",
-                "Corporate developers can now easily orchestrate fleet deployments of agents with high security clearance standards."
+                "DeepSeek invested strategic capital into Unitree to accelerate the development of cognitive brains for humanoid robots.",
+                "The collaboration focuses on synthesizing physical task orchestration models with frontier real-world sensory understanding capabilities.",
+                "This integration optimizes the latency of real-time robotic locomotion and manipulation in complex industrial workspaces.",
+                "Successful deployments will enable complete physical automation across manufacturing pipelines utilizing highly autonomous robotic workforces."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
