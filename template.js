@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN COMPUTE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AUTONOMOUS INFRASTRUCTURE",
+        "titleBlue": "ACCELERATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
             "points": [
-                "NVIDIA established a long term strategic partnership with Ilya Sutskever to accelerate safe superintelligence development.",
-                "The alliance scales secure supercomputing clusters tailored specifically for multi agent alignment research and validation.",
-                "This deep integration guarantees sovereign physical infrastructure for training next generation frontier artificial intelligence models.",
-                "Enterprises will gain vetted pathways to execute highly secure cognitive orchestration across critical mission systems."
+                "OpenAI officially released GPT-5.6, setting a new paradigm for frontier intelligence scaling across complex enterprise workloads.",
+                "Users gain immediate access to GPT-5.6 Sol and Luna versions to drastically lower operational latency.",
+                "The architectural upgrade represents a significant leap in native reasoning capabilities for complex agentic systems.",
+                "Enterprises can now deploy highly specialized autonomous workflows capable of executing multi-step cognitive tasks independently."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "AMD: ANTHROPIC GPU PARTNERSHIP",
             "points": [
-                "AMD reached a definitive agreement to acquire Taalas to advance high efficiency silicon for model inference.",
-                "Taalas designs highly specialized non programmable application specific chips optimized to execute single targeted neural networks.",
-                "This acquisition seeks to significantly reduce power consumption and deployment costs for high volume enterprise workloads.",
-                "Architects must evaluate the trade off between extreme hardware efficiency and the loss of model flexibility."
+                "AMD and Anthropic partnered to deploy up to two gigawatts of next-generation Instinct MI450 Series graphics processors.",
+                "This deployment provides unprecedented computational throughput for training and hosting frontier AI models.",
+                "The collaboration establishes an open-standard alternative to dominant proprietary cloud hardware infrastructure configurations globally.",
+                "Deep tech enterprises will benefit from diversified supply chains and competitive cost-to-performance metrics for sovereign clouds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.amd.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: ANTHROPIC INFRASTRUCTURE EXPANSION",
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 series GPUs.",
-                "This massive power allocation secures long term sovereign computing capacity for next generation frontier Claude models.",
-                "The collaboration directly challenges legacy hyperscaler dominance by establishing a highly resilient alternative hardware footprint.",
-                "This scale ensures reliable enterprise grade cognitive automation across global industrial and secure public sector networks."
+                "Ilya Sutskever's Safe Superintelligence Inc secured a long-term strategic partnership with hardware titan NVIDIA to accelerate growth.",
+                "The alliance grants SSI privileged access to advanced computing architectures to speed up superalignment model training.",
+                "This pairing underscores the critical industry focus on building certifiably safe and highly robust artificial superintelligence systems.",
+                "Global researchers expect the partnership to establish new benchmarks for secure, high-integrity frontier AI development workflows."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.amd.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FIREBIRD: SOVEREIGN CIS AI FACTORY",
+            "heading": "SPACEX: TERAFAB TEXAS FACTORY",
             "points": [
-                "Firebird launched the largest accelerated AI factory in Armenia powered by high performance Dell infrastructure.",
-                "The new computing facility leverages advanced NVIDIA Blackwell and Rubin architectures to drive regional technological growth.",
-                "This deployment establishes a critical sovereign data center hub servicing the entire Commonwealth of Independent States.",
-                "Local enterprises can now execute complex deep learning workloads without relying on external remote cloud zones."
+                "SpaceX and Tesla announced a joint sixteen-point-eight billion dollar investment to construct the Terafab chip factory in Texas.",
+                "The massive facility will secure domestic supply chains for high-volume custom silicon optimized for autonomous systems.",
+                "This move represents an aggressive vertical integration strategy to bypass traditional semiconductor foundry bottlenecks and constraints.",
+                "Autonomous vehicles and aerospace platforms will achieve unprecedented localized processing capabilities through specialized on-board AI accelerators."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OPERATING SYSTEM",
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "Cloudflare introduced Cloudflare OS to serve as the unified security control plane for AI first enterprises.",
-                "The browser based platform integrates custom workspaces zero trust access rules and governed enterprise connector frameworks.",
-                "This architecture ensures complete data visibility while routing models dynamically across diverse multi cloud execution layers.",
-                "IT executives can confidently mitigate shadow artificial intelligence risks through centralized agent activity audit logs."
+                "AMD entered a definitive agreement to acquire Taalas to integrate its high-efficiency single-model inference chip technology.",
+                "The acquisition aims to drastically lower enterprise inference costs by deploying dedicated non-flexible application-specific integrated circuits.",
+                "This integration directly addresses the soaring power demands of modern data centers running high-volume mature workloads.",
+                "Enterprises will transition from costly general-purpose graphics cards to highly optimized, cost-effective silicon for specific model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META: PERSISTENT AGENT SOFTWARE WORK",
+            "heading": "DEEPSEEK: UNITREE BOT INVESTMENT",
             "points": [
-                "Meta launched Muse Code to enable complex engineering workflows powered by highly persistent software agents.",
-                "The framework operates continuously within developer environments to automate legacy translations and deep architectural reasoning.",
-                "These autonomous agents maintain long term state across sessions to execute complex multi step programming tasks.",
-                "Software organizations can significantly accelerate delivery times while maintaining strict security regression testing protocols globally."
+                "DeepSeek executed a strategic investment in Unitree to co-develop an advanced AI brain for humanoid robots.",
+                "The funding will accelerate the deployment of physical AI models capable of complex real-world motor control.",
+                "Combining deep reinforcement learning with agile robotic hardware marks a significant step toward general-purpose physical labor automation.",
+                "Industrial manufacturers anticipate rapid advancements in warehouse automation and automated assembly lines within the coming quarters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.infoworld.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: REAL TIME AGENT GROUNDING",
+            "heading": "FIREBIRD: ARMENIA AI FACTORY",
             "points": [
-                "Microsoft released Web IQ to ground autonomous agents securely with real time global web information.",
-                "The system provides a governed data connection layer to ensure agents act with precise business context.",
-                "By reducing search latencies the architecture optimizes overall model performance during complex transactional execution phases.",
-                "Enterprise systems can safely deploy autonomous workflows that adapt instantly to changing market conditions and data."
+                "Firebird launched the largest regional AI factory in Armenia utilizing specialized NVIDIA accelerated computing architectures.",
+                "The hub delivers high-performance Dell Technologies infrastructure to meet growing localized demands for sovereign digital intelligence.",
+                "This expansion establishes a critical technology gateway, bringing advanced computational resources to previously underserved Eastern European regions.",
+                "Local startups and governments will rapidly develop custom localized models tailored to regional compliance and linguistic requirements."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
