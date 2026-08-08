@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "INFRASTRUCTURE"
+        "titleWhite": "ACCELERATING AGENTIC FRONTIER",
+        "titleBlue": "COMPUTE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER RELEASE",
             "points": [
-                "AMD enters definitive agreement to acquire Taalas to advance high-efficiency application-specific AI inference silicon solutions.",
-                "Taalas technology enables cost-efficient enterprise deployment by running single AI models directly on dedicated non-programmable chips.",
-                "The strategic transaction enhances AMD\u2019s heterogeneous compute portfolio spanning Ryzen AI, Instinct GPUs, and adaptive silicon.",
-                "Industry analysts predict this acquisition accelerates affordable, high-volume localized inference workloads across hybrid edge environments."
+                "OpenAI launches GPT-5.6 Sol and Luna frontier models designed to scale complex enterprise cognitive reasoning processes.",
+                "Advanced neural scaling techniques reduce latency by thirty percent while maintaining high-fidelity deep contextual processing performance.",
+                "The integration of localized Luna architecture allows seamless transition between decentralized edge and cloud model instances.",
+                "Enterprise developers gain access to unprecedented logic frameworks, shifting workloads toward autonomous workflow automation systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: IQ AGENT GROUNDING",
+            "heading": "GOOGLE DEEPMIND: ROBOTICS EMERGENCE",
             "points": [
-                "Microsoft launches Microsoft IQ to securely connect enterprise AI agents with native business data and workflows.",
-                "Web IQ integration allows developer teams to ground their autonomous systems with highly performant real-time search data.",
-                "These architecture upgrades allow agents to dynamically reason, adapt, and execute multi-step transactions inside enterprise boundaries.",
-                "Enterprise operators can now deploy scalable agentic systems without compromising security governance or data control planes."
+                "Google DeepMind introduces Gemini Robotics Two delivering comprehensive whole-body intelligence for complex multi-task physical robotic systems.",
+                "Enhanced vision-language models improve physical manipulation success rates by forty percent in unstructured industrial environment testing.",
+                "The architecture leverages advanced video understanding and multi-robot collaboration protocols to coordinate distributed edge hardware agents.",
+                "Industrial manufacturers can deploy highly adaptive automation units that coordinate dynamically without manual programmed safety barriers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE EXPANSION",
+            "heading": "AMD: TAALAS CHIP ACQUISITION",
             "points": [
-                "Global customer data reveals the active agentic AI workforce is more than doubling year on year.",
-                "Autonomous software agents are demonstrating significantly faster times to move from initial sandbox deployment to production.",
-                "Salesforce ecosystem metrics show a rapid transition from basic query chatbots to complex multi-step transactional automations.",
-                "CIOs are restructuring enterprise operations to prioritize embedded agent orchestration over legacy manual digital workflows."
+                "AMD acquires Taalas to integrate ultra-efficient single-model application-specific integrated circuit technology directly into its AI roadmap.",
+                "Specialized hardware structures promise to decrease dedicated enterprise model inference costs by up to ninety percent.",
+                "This transaction signals a shift from expensive general-purpose GPUs toward hyper-targeted silicon for mature high-volume workloads.",
+                "Enterprise data centers can optimize capital expenditure by deploying hardcoded silicon configurations for core operational architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: DEEPMIND LEADERSHIP CONSOLIDATION",
+            "heading": "ANTHROPIC: OPUS AGENTIC EVOLUTION",
             "points": [
-                "Demis Hassabis ascends to a singular AI leadership role at Google to unify frontier model development.",
-                "The executive consolidation aims to accelerate Gemini 3.5 and Omni model integrations across all enterprise portfolios.",
-                "Google\u2019s newly unified division prioritizes scaling agentic platforms, scientific co-research partners, and next-generation robotics intelligence layers.",
-                "This organizational change aligns research priorities to secure dominant positioning against competitive open and closed models."
+                "Anthropic releases Opus Five delivering a step-change in programmatic coding capability and autonomous agent tool integration.",
+                "Operational evaluations demonstrate a fifty percent improvement in long-horizon task execution compared to previous model releases.",
+                "The upgrade prioritizes robust tool-use frameworks and verifiable professional work artifacts to minimize agent breakdown risks.",
+                "Developers can reliably delegate continuous multi-step system maintenance tasks directly to highly autonomous software agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: infoworld.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU AI OFFICE: ENFORCEMENT SCALEUP",
+            "heading": "TSMC: SUPER POWER RAIL",
             "points": [
-                "The European Union AI Office opens massive recruitment drive for forty technical and legal compliance posts.",
-                "New specialized personnel will oversee systemic risk evaluations, general-purpose AI models, and regional enforcement mandates.",
-                "This hiring wave marks a critical phase in operationalizing the EU AI Act compliance verification mechanisms.",
-                "Tech providers must prepare for highly structured audit environments as regulatory oversight over frontier intelligence accelerates."
+                "Taiwan Semiconductor Manufacturing Company reveals A16 nanosheet technology featuring innovative backside power distribution via Super Power Rail.",
+                "The novel power delivery architecture yields a ten percent performance increase at equivalent operating voltage thresholds.",
+                "Moving power lines to the backside optimizes thermal dissipation and silicon area utilization in next-generation accelerators.",
+                "High-performance computing clusters gain massive energy efficiency improvements crucial for powering intensive generative modeling clusters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: artificialintelligenceact.eu",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: SHIELDSTRAL SECURITY",
+            "heading": "META: MUSE CODE AGENTS",
             "points": [
-                "Mistral AI introduces Shieldstral to establish a secure system of record for enterprise prompts and skills.",
-                "The tool acts as a critical guardrail, managing authorization and preventing untrusted execution within agent frameworks.",
-                "Combining Shieldstral with Mistral OCR 4 improves document intelligence security while processing unstructured enterprise files.",
-                "This development empowers corporate IT to confidently run autonomous workflows across distributed cloud and edge infrastructure."
+                "Meta launches Muse Code a specialized development environment utilizing persistent AI agents for complex engineering tasks.",
+                "Devops teams report a thirty-five percent reduction in debugging cycle times when utilizing persistent background agents.",
+                "The system establishes continuous software-monitoring architectures that independently plan edit and review active repository codebases.",
+                "Modern software engineering pipelines will transition toward supervisory roles managing swarms of specialized background coder agents."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://ai.meta.com/blog",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
+            "heading": "ASML: HIGH NA EUV MILESTONE",
             "points": [
-                "OpenAI rolls out GPT-5.6 Sol and GPT-5.6 Luna to scale frontier intelligence and accessibility.",
-                "The update delivers a massive leap in advanced multi-step reasoning capabilities for autonomous digital employee agents.",
-                "OpenAI expands free tier access to Luna, significantly shifting the price-to-performance frontier across the industry.",
-                "Developers can leverage these enhanced models to orchestrate robust reasoning systems with lower API compute latency."
+                "ASML achieves critical readiness validation for its High NA EUV lithography systems on high-volume manufacturing logic lines.",
+                "Advanced precision patterning enables chipmakers to construct sub-two-nanometer node structures with optimal production yield reliability.",
+                "The milestone cements ASML monopoly over the extreme physical infrastructure required to build future supercomputing microprocessors.",
+                "Leading foundry partners can now scale the commercial output of highly dense chips designed for sovereign supercomputers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
