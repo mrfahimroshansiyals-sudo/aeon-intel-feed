@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COMPUTE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "AGENTIC ARCHITECTURE",
+        "titleBlue": "ASCENDANCY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "heading": "TSMC: NANOSHEET INFRASTRUCTURE UPGRADE",
             "points": [
-                "OpenAI releases GPT-5.6, delivering frontier-grade multi-agent reasoning capabilities designed to scale with complex enterprise compute requirements.",
-                "The model optimizes inference efficiency, reducing processing latency for extreme-scale workloads by forty percent across test systems.",
-                "This architectural upgrade allows autonomous agents to perform multi-step planning tasks with native context retention and verification.",
-                "Enterprise systems can now transition from simple chat interfaces to fully autonomous transactional digital workforces immediately."
+                "TSMC officially launched A16 nanosheet technology with integrated super power rail systems for HPC.",
+                "The architecture targets high performance AI workloads by reducing power overheads at nanoscale designs.",
+                "Global fab operations shift toward this 3D-IC standard to facilitate energy efficient AI computing.",
+                "Capacity expansion in Arizona and Taiwan facilities supports localized AI manufacturing and supply resilience."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEX: NVIDIA CHIP ALLOCATION",
+            "heading": "ANTHROPIC: FRONTIER MODEL DEPLOYMENT",
             "points": [
-                "SpaceX secures a direct hardware allocation deal with NVIDIA, shifting the competitive dynamics of specialized neocloud infrastructure.",
-                "Analysts project this capital deployment will directly challenge the market footprint of emerging providers like CoreWeave.",
-                "The strategic alignment ensures dedicated high-throughput tensor processing units are reserved exclusively for aerospace design simulation workloads.",
-                "This consolidation pressures independent cloud operators to find alternative hardware sources or suffer capacity deficits."
+                "Anthropic released Opus 5 and Sonnet 5 models focusing on improved agentic coding capabilities.",
+                "Claude Science platform enables auditable AI artifacts for researchers to maintain data integrity flows.",
+                "Architectural refinements emphasize long term well-being and safety within high-stakes automated scientific research environments.",
+                "System updates prioritize flexible compute access for specialized academic and professional technical workflow integration."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: dowjones.com",
+                "Source: https://www.anthropic.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: ARMENIAN FACTORY LAUNCH",
+            "heading": "DEEPMIND: AGENTIC ROBOTICS INTEGRATION",
             "points": [
-                "NVIDIA joins Firebird to establish the largest high-performance AI factory within the CIS region in Armenia.",
-                "The facility integrates Dell infrastructure with Blackwell and Rubin architectures to accelerate regional machine learning research initiatives.",
-                "This deployment anchors a new localized computing hub, generating major economic opportunities and global cloud infrastructure demand.",
-                "Regional enterprises gain direct access to sovereign AI infrastructure, reducing dependence on remote western data center clusters."
+                "Google DeepMind introduced Gemini Robotics 2 providing a universal intelligence layer for diverse robotics.",
+                "Multi-robot collaboration and video understanding enable real-time orchestration of physical AI navigation tasks.",
+                "New model series Gemini 3.6 Flash accelerates deployment for enterprise agentic systems at scale.",
+                "The $40M Genesis Mission commitment accelerates material science and fusion energy research simulation capabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "AMD: INFERENCE COMPUTING SOVEREIGNTY",
             "points": [
-                "AMD reaches a definitive agreement to acquire Taalas, aiming to pioneer highly specialized single-model inference processors.",
-                "The acquisition targets ultra-low-cost execution of specific mature neural networks instead of relying on generic programmable chips.",
-                "This hardware philosophy represents a shift toward application-specific integrated circuits optimized strictly for localized high-volume workloads.",
-                "Industry analysts predict this move will lower the total cost of ownership for dedicated enterprise language models."
+                "AMD acquired Taalas to bolster inference performance efficiency in growing AI hardware ecosystem markets.",
+                "Strategic partnership with Anthropic commits two gigawatts of Instinct MI450 series GPUs for deployment.",
+                "Heterogeneous compute architecture optimizes power management across data center, cloud, and edge network infrastructures.",
+                "Collaborations with Korea\u2019s Ministry of Science drive sovereign AI ecosystem development via open software."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: WEATHERNEXT FORECASTING",
+            "heading": "NVIDIA: SECURE AI ALLIANCE PROTOCOLS",
             "points": [
-                "Google DeepMind launches WeatherNext, a specialized meteorological model achieving breakthroughs in localized cyclone path forecasting.",
-                "The deep learning system parses atmospheric datasets to predict extreme weather incidents hours faster than traditional physics models.",
-                "Integrating high-resolution imagery and wind vector maps enables precise prediction grids down to single-kilometer operational scales.",
-                "Global logistics and insurance industries can leverage these hyper-accurate forecasts to mitigate supply chain disruptions proactively."
+                "NVIDIA expanded the Open Secure AI Alliance to over 120 organizations implementing SAFE guidelines.",
+                "Collaborative safety measures strengthen cybersecurity transparency protocols for emerging autonomous agentic AI system models.",
+                "Partnership with Safe Superintelligence Inc. accelerates strategic growth in frontier open model safety engineering.",
+                "Armenia launch of regional AI factory signifies global expansion of high performance accelerated computing hubs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: ROBOSTRAL SECURITY",
+            "heading": "MISTRAL: FRONTIER AGENTIC ECOSYSTEM",
             "points": [
-                "Mistral AI introduces Robostral and Shieldstral to build a secure system of record for complex agentic actions.",
-                "These frontier models focus on real-world industrial task orchestration while enforcing strict guardrails on input prompt integrity.",
-                "This architecture addresses critical vulnerabilities where autonomous agents might inadvertently execute unauthorized commands or leak structural data.",
-                "Developers can now program persistent long-horizon workflows without sacrificing strict security compliance required by modern regulations."
+                "Mistral released Vibe AI agent platform for managing long-horizon complex tasks and autonomous workflows.",
+                "Forge platform enables enterprise domain adaptation through specialized model training and synthetic data generation.",
+                "Studio environment provides end-to-end observability and deployment portability for mission-critical enterprise AI agents.",
+                "Compute infrastructure offers frontier-grade orchestration for training and inference across diversified industrial applications today."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: mistral.ai",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: IQ AGENT SECURE SYSTEM",
+            "heading": "EU AI OFFICE: ENFORCEMENT MANDATE",
             "points": [
-                "Microsoft introduces Azure IQ to provide unified shared context and secure data connectors for corporate autonomous agents.",
-                "The platform grounds agentic workflows in real-time enterprise data while maintaining strict zero-trust network boundaries.",
-                "This system acts as a secure reasoning layer, preventing unverified transactions across disparate enterprise application software directories.",
-                "Chief Information Officers can confidently authorize independent agent operations knowing all activities remain audited and compliant."
+                "EU AI Office initiated a significant recruitment drive for 40 technical and regulatory enforcement experts.",
+                "Legislative frameworks enforce transparency and risk management for general-purpose AI models under Chapter V.",
+                "The Scientific Panel provides critical technical expertise to support enforcement of sovereign AI governance.",
+                "Compliance checker tools simplify organizational alignment with evolving requirements for high-risk AI system deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: azure.microsoft.com",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
