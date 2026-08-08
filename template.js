@@ -1,34 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN AGENTIC",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AGENTIC ENTERPRISE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
-            "points": [
-                "OpenAI launches GPT-5.6 to scale frontier intelligence models dynamically across enterprise workflow applications.",
-                "The model optimizes price-performance margins while expanding free tier access to localized LLM inference engines.",
-                "Strategic architectures integrate real-time context routing protocols to minimize latency during heavy transactional operations.",
-                "Enterprise operators expect significant productivity gains from deploying autonomous agents built on this model."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
             "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "AMD enters a definitive agreement to acquire Taalas to advance high-efficiency silicon inference architectures.",
-                "The acquisition integrates dedicated single-model chips to reduce enterprise compute operational expenditures dramatically.",
-                "Hardware topologies shift toward application-specific integrated circuits designed to run mature enterprise AI models.",
-                "Industry analysts predict a rapid decline in traditional general-purpose GPU dependencies for localized workloads."
+                "AMD acquires silicon startup Taalas to implement highly specialized, single-model non-programmable inference chips.",
+                "This strategic acquisition targets massive total cost of ownership reductions for high-volume enterprise inference workloads.",
+                "The dedicated hardware design departs from generalized GPU architectures to maximize dedicated throughput per watt.",
+                "Enterprises will increasingly transition mature, static neural pipelines onto hyper-efficient application-specific integrated circuits."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,81 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "GOOGLE: GEMINI ROBOTICS 2",
+            "id": 2,
+            "heading": "MICROSOFT: AGENT CONTEXT",
             "points": [
-                "Google DeepMind releases Gemini Robotics 2 to deliver comprehensive whole-body intelligence to physical hardware systems.",
-                "The platform leverages advanced video understanding and multi-robot collaboration protocols to orchestrate complex industrial operations.",
-                "Physical AI architectures transition toward end-to-end multimodal frameworks that unify spatial reasoning and control.",
-                "Manufacturers will rapidly automate production environments using collaborative agents capable of autonomous long-horizon execution."
+                "Microsoft launches Web IQ to ground autonomous agents with real-time web context and transactional intelligence.",
+                "Real-time context grounding reduces factual hallucination rates across customer-facing agent systems by over forty percent.",
+                "This framework acts as a unified semantic routing layer bridging cloud databases and live web search.",
+                "Future enterprise system designs will prioritize dynamic external grounding over static massive vector databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://azure.microsoft.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "META: PERSISTENT CODING",
+            "points": [
+                "Meta deploys Muse Code to automate complex software engineering processes using persistent, multi-agent frameworks.",
+                "Automated testing and legacy codebase translation pipelines achieve double-digit productivity gains for enterprise engineering teams.",
+                "The platform leverages a stateful orchestrator that coordinates long-horizon code synthesis tasks in developer environments.",
+                "Engineering organizations must adapt to human-in-the-loop oversight as agents assume primary responsibility for codebase maintenance."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: CLAUDE SCIENCE",
+            "heading": "SALESFORCE: METRIC SURGE",
             "points": [
-                "Anthropic launches Claude Science to provide researchers with a customizable application for scientific computational tasks.",
-                "The system produces fully auditable artifacts while managing flexible access to distributed high-performance computing resources.",
-                "Academic and industrial laboratories gain a unified platform for automated hypothesis testing and verification pipelines.",
-                "Scientific discovery cycles will accelerate significantly as researchers deploy dedicated agentic frameworks across domains."
+                "Salesforce customer metrics confirm the active enterprise agentic workforce is more than doubling year over year.",
+                "Production deployment timelines for custom enterprise agent networks have dropped to less than three weeks.",
+                "Low-code orchestrators allow business units to bypass traditional software engineering bottlenecks during agentic deployments.",
+                "Rapid agent proliferation will demand rigorous real-time governance, auditability, and automated monitoring systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: VIBE DEPLOYMENT",
+            "heading": "EU AI ACT: THERAPY COMPLIANCE",
             "points": [
-                "Mistral AI introduces Vibe to execute long-horizon enterprise tasks through autonomous agentic orchestration layers.",
-                "The agent features persistent memory, structured data analysis capabilities, and reusable skills for complex workflows.",
-                "Decentralized development teams can run these lightweight models locally or scale them across hybrid clouds.",
-                "Organizations will dramatically reduce operational bottlenecks by shifting routine analysis to persistent background digital workers."
+                "The European Union issues critical compliance directives targeting general-purpose AI systems deployed for emotional support.",
+                "AI providers must implement rigorous, verifiable risk management strategies before operating within the European market.",
+                "Regulatory standards mandate sovereign data isolation and transparent audit trails for all therapeutic conversational pipelines.",
+                "Compliance enforcement will accelerate the development of secure, localized model hosting solutions for sensitive applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ASML: HIGH NA EUV MILESTONE",
+            "heading": "SECURE INFRA: SNOWFLAKE BREACH",
             "points": [
-                "ASML advances semiconductor manufacturing capability by reaching a high-volume logic production milestone using High NA EUV.",
-                "The massive lithography platforms enable global chipmakers to pattern smaller, faster, and more energy-efficient microchips.",
-                "Next-generation transistor scaling overcomes physical design limitations, sustaining performance gains for upcoming hyperscale AI hardware.",
-                "Global chip fabrication plants will secure domestic supply chains by integrating these ultra-dense manufacturing systems."
+                "The primary threat actor behind the breach of over one hundred sixty enterprise databases pleads guilty.",
+                "The compromise exposes critical vulnerabilities in decentralized data warehouse architectures and single-factor credential setups.",
+                "Security teams must enforce strict zero-trust network access, continuous credential rotation, and mandated multi-factor authentication.",
+                "Global organizations will rapidly migrate toward sovereign, cloud-isolated data management frameworks to prevent structural compromises."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE",
+            "heading": "GOOGLE DEEPMIND: UNIFIED LEADERSHIP",
             "points": [
-                "Salesforce customer telemetry indicates that the deployment of agentic AI workforces is doubling year over year.",
-                "Modern enterprise orchestration platforms significantly reduce the time required to build and deploy active agents.",
-                "Corporate workflows transition from static automation tools to dynamic networks of interacting digital executive assistants.",
-                "IT executives must rapidly establish robust governance frameworks to monitor and secure proliferating agent behaviors."
+                "Google DeepMind consolidates its research and deployment units under a singular leadership structure for Demis Hassabis.",
+                "This strategic reorganization accelerates the transition of foundational research into commercial agent platforms and world models.",
+                "The unified architecture focuses on integrating multimodality with long-horizon search and multi-agent interaction protocols.",
+                "The consolidated research pipeline will aggressively challenge OpenAI in delivering enterprise-grade autonomous agent ecosystems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
