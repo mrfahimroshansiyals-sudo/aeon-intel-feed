@@ -1,66 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "AUTONOMOUS AGENTIC",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "SECURE AGENTIC",
+        "titleBlue": "PARADIGM"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL: VIBE AGENTIC INTEGRATION",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "Mistral AI launched Vibe, an autonomous agent platform designed for long-horizon task scheduling and enterprise-grade reasoning capabilities.",
-                "The architecture enables persistent memory and reusable skill sets, moving beyond basic chatbot interactions into complex, multi-step execution workflows.",
-                "Industrial adoption is accelerating, with HSBC, ASML, and Stellantis deploying Mistral-based agents to optimize specialized domain operations.",
-                "The platform provides full deployment portability from edge to cloud, ensuring enterprises retain control over their model intelligence and orchestration."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://mistral.ai",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
-            "points": [
-                "OpenAI released GPT-5.6, introducing advanced reasoning capabilities to scale enterprise intelligence and automate ambitious professional work streams.",
-                "The update includes GPT-5.6 Luna for broader accessibility, alongside new health-focused modules designed for secure, sensitive data environments.",
-                "Technical research continues to focus on discrete geometry and life science applications, specifically through the GPT-Rosalind model integration.",
-                "Security initiatives like Daybreak are being embedded to secure global organizational infrastructure against emerging threat vectors and agentic manipulation."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: SAFE AGENTIC FRAMEWORKS",
-            "points": [
-                "NVIDIA, alongside the Open Secure AI Alliance, has proposed new SAFE guidelines to standardize cybersecurity transparency for agentic AI.",
-                "The alliance now spans 120 organizations, aiming to establish security protocols for open-source AI underpinning global financial and manufacturing systems.",
-                "NVIDIA confirmed a long-term strategic partnership with Safe Superintelligence Inc. to accelerate the development of robust, scalable AI architectures.",
-                "New hardware availability, including the Alpamayo 2 model for robotics, marks a transition toward commercially viable physical AI and autonomous vehicles."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
-            "points": [
-                "AMD has reached a definitive agreement to acquire Taalas, securing breakthrough inference performance technology to differentiate its AI roadmap.",
-                "The deal bolsters AMD's edge AI capabilities, specifically targeting high-volume, cost-efficient workloads that require dedicated, non-flexible compute resources.",
-                "Strategic partnerships with Anthropic for GPU deployment and Cisco for network-integrated governance underscore AMD's end-to-end enterprise hardware ecosystem strategy.",
-                "The integration of Silo AI and new turnkey enterprise coding solutions positions AMD to compete directly with legacy hyperscaler architectures."
+                "AMD acquires chipmaker Taalas to deliver hyper-efficient silicon dedicated solely to running singular enterprise AI models.",
+                "Enterprise inference costs drop significantly by shifting high-volume mature workloads away from flexible, high-cost graphics processors.",
+                "This acquisition positions AMD to challenge market dominance by providing hardware specifically optimized for dedicated offline networks.",
+                "Hardware-level model specialization signals a major industry pivot from general-purpose accelerators to highly localized enterprise deployments."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE CLOUD: AGENTIC DATA SYSTEMS",
+            "id": 2,
+            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
             "points": [
-                "Google Cloud introduced Gemini 3.6 Flash and advanced agent platforms with remote MCP server support for managed deployments.",
-                "The release focuses on moving enterprises from token-based cost models to verifiable ROI via the agentic Data Cloud infrastructure.",
-                "New threat defense layers are being deployed to mitigate adversarial risks during multi-agent orchestration and cross-enterprise data workflows.",
-                "Startup programs are providing significant cloud credit incentives to accelerate the adoption of enterprise-grade agents within emerging high-tech sectors."
+                "Cloudflare introduces a browser-based operating system unifying secure workspaces, zero-trust protocols, and intelligent multi-model routing systems.",
+                "Enterprise IT teams gain absolute observability and real-time governance over distributed data connectors and decentralized workloads.",
+                "Moving the control plane directly into browsers mitigates latency and hardens compliance structures across multi-cloud deployments.",
+                "Organizations can seamlessly deploy autonomous agents without exposing legacy databases or compromising perimeter security infrastructure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SALESFORCE: AGENTIC WORKFORCE BOOM",
+            "points": [
+                "Salesforce customer data reveals the active deployment of autonomous agentic workforces is more than doubling year-over-year.",
+                "Development cycles accelerate dramatically as organizations transition from prolonged pilot testing directly to automated production environments.",
+                "High-density orchestration layers are successfully replacing traditional workflow templates with self-correcting cognitive execution routines.",
+                "Operational efficiency metrics will shift from human-centered hourly labor to scalable, transaction-based multi-agent execution frameworks."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cio.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ALLIANCE: SAFE AGENT GUIDELINES",
+            "points": [
+                "Over one hundred and twenty organizations unite under the Open Secure AI Alliance to release SAFE guidelines.",
+                "The new standards establish unified protocols for cybersecurity transparency, model alignment, and proactive agentic behavior logging.",
+                "Standardization protects critical digital infrastructure from potential vulnerabilities introduced by highly interactive, decentralized agent networks.",
+                "Global compliance mandates will increasingly demand verifiable verification mechanisms and immutable execution audits for autonomous pipelines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SPACEX: TEXAS TERAFAB FACTORY",
+            "points": [
+                "SpaceX and Tesla announce a massive sixteen billion dollar investment to construct the new Texas Terafab facility.",
+                "Massive localized semiconductor production capacities will directly secure proprietary chip pipelines for advanced physical autonomous networks.",
+                "Integrating hardware manufacturing with advanced robotics testing structures reduces long-term dependence on external international foundry suppliers.",
+                "Gigascale capital commitments validate that future physical automation relies on direct vertical integration of silicon fabrication processes."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: GOVERNANCE ARCHITECTURE",
+            "heading": "DEEPSEEK: UNITREE HUMANOID BRAIN",
             "points": [
-                "The EU AI Office has initiated a massive hiring round to enforce compliance with the AI Act, prioritizing tech, legal, and operational oversight.",
-                "New regulatory guidance addresses general-purpose AI systems used in therapy, setting boundaries for emotional support technologies under the new governance model.",
-                "The Scientific Panel of Independent Experts is now fully operational, supporting the enforcement of rules regarding model evaluation and risk classification.",
-                "Compliance checker tools are being expanded to support SMEs, ensuring transparency requirements under Article 50 are met by August 2026."
+                "DeepSeek partners with Unitree, investing capital to develop highly specialized cognitive software brains for humanoid robots.",
+                "Embodied physical intelligence systems achieve unprecedented spatial awareness, rapid real-time locomotion, and complex fine motor control.",
+                "Combining state-of-the-art open models with advanced physical platforms accelerates the realization of versatile general-purpose utility machinery.",
+                "Humanoid robots will transition rapidly from controlled industrial pilot testing environments into active commercial manufacturing roles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: NANO-SCALE AI FABRICATION",
+            "heading": "MICROSOFT: WORKFLOW IQ INTEGRATION",
             "points": [
-                "ASML reported major milestones in High NA EUV lithography, enabling the production of logic products required for next-generation AI processors.",
-                "The company is shifting toward AI-native engineering for semiconductor patterning, optimizing every stage from research to high-volume manufacturing.",
-                "Strategic partnerships with TSMC and major Indian electronics manufacturers are expanding the global semiconductor manufacturing ecosystem to mitigate supply chain bottlenecks.",
-                "The firm maintains its monopoly on critical lithography hardware while scaling its operational presence in key technical hubs across the US and Asia."
+                "Microsoft launches IQ to provide autonomous agents with secure, real-time access to corporate databases and system workflows.",
+                "Enterprise agents gain unified business context, enabling precise decision-making and seamless execution across complex legacy structures.",
+                "This architecture bridges the gap between static language models and active transactional execution layers within corporate networks.",
+                "System administrators can safely delegate operational processes while maintaining strict zero-trust parameters over sensitive internal databases."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.asml.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
