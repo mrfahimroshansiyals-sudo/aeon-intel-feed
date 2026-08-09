@@ -1,82 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT ERA SILICON",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "COGNITIVE INFRASTRUCTURE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS SILICON ACQUISITION",
+            "heading": "MISTRAL AI: AUTONOMOUS WORKFLOWS",
             "points": [
-                "AMD acquired Taalas to integrate specialized silicon designed for ultra-low cost single-model inference workloads.",
-                "The transaction targets massive efficiency gains over traditional general-purpose graphic processing units in enterprise datacenters.",
-                "Architectural consolidation enables hardwired neural pathways to bypass heavy memory bus overhead during model execution.",
-                "Enterprise customers will gain custom-tailored silicon options for high-volume mature workloads requiring maximum cost efficiency."
+                "Mistral AI launches Vibe for long-horizon agentic workflows and Forge for bespoke model customization.",
+                "These tools enable multi-step task scheduling and legacy code translation to reduce enterprise development costs.",
+                "The framework supports end-to-end model training, reinforcement learning, and complete deployment portability across hybrid clouds.",
+                "Enterprises will bypass rigid off-the-shelf agents to implement completely custom, on-premise sovereign intelligent nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD & ANTHROPIC: TWO GIGAWATT GPU DEAL",
+            "heading": "MICROSOFT: COGNITIVE AGENT GROUNDING",
             "points": [
-                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 graphic processors.",
-                "This infrastructure scaling effort secures vast computational reserves for training future Claude frontier model architectures.",
-                "The multi-gigawatt deployment establishes a direct hardware sovereign counterweight to dominant proprietary accelerator cloud networks.",
-                "Operational timelines suggest immediate integration into next-generation hyper-scale datacenters to accelerate advanced agentic research."
+                "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines.",
+                "The ND MI455Xv7 instances scale up-to-date agent grounding to accelerate heavy enterprise data and inference workloads.",
+                "Integrating Azure Web IQ allows autonomous agents to securely query live web data with transactional context.",
+                "Systems architects can now build multi-agent workflows that run securely within isolated sovereign cloud boundaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA & SSI: SAFE SUPERINTELLIGENCE",
+            "heading": "AMD: MODEL-SPECIFIC SILICON INFERENCE",
             "points": [
-                "NVIDIA and Safe Superintelligence signed a long-term partnership to accelerate secure frontier system growth.",
-                "The collaboration guarantees SSI priority access to massive compute clusters for scaling next-generation safe superintelligence models.",
-                "This alliance bridges physical GPU scaling directly with advanced alignment research and mathematical verification frameworks.",
-                "Global enterprise architectures will benefit from hardened safety guardrails integrated directly into accelerated computing nodes."
+                "AMD acquires Taalas to pioneer application-specific integrated circuit designs dedicated to single-model AI inference operations.",
+                "This compute acquisition aims to drastically lower enterprise hardware overhead compared to general-purpose GPU clusters.",
+                "Taalas' non-flexible chip architectures represent a shift toward deploying highly mature, hyper-optimized models in production.",
+                "Chief Information Officers will increasingly adopt static, low-power ASICs to handle highly specific high-volume enterprise tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SPACEX & TESLA: TERAFAB FOUNDRY",
+            "heading": "DEEPMIND: MULTI-AGENT SYSTEMS",
             "points": [
-                "SpaceX and Tesla launched a sixteen point eight billion dollar Terafab silicon manufacturing facility in Texas.",
-                "The joint venture aims to secure end-to-end supply chain sovereignty for advanced automotive and aerospace chips.",
-                "Localized physical wafer fabrication mitigates escalating geopolitical risks while ensuring continuous hardware optimization for autonomous platforms.",
-                "This capital injection marks a historic shift toward vertically integrated industrial conglomerates building proprietary silicon foundries."
+                "Google DeepMind introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and the localized Gemini Robotics 2 system.",
+                "Gemini Robotics 2 utilizes advanced video understanding and task orchestration to coordinate multiple robots in real-time.",
+                "This model rollout addresses emerging risks associated with millions of autonomous agents negotiating and transacting online.",
+                "Engineering teams must implement rigorous multi-agent governance protocols to prevent systemic cascading errors across live networks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: GPT-5.6 COGNITIVE FRONTIER",
+            "heading": "OPENAI: MASSIVE SCALED INFERENCE",
             "points": [
-                "OpenAI released GPT-5.6 Sol and Luna models representing the next frontier of scalable cognitive intelligence.",
-                "The architecture dramatically improves price-to-performance ratios for complex reasoning and enterprise-grade multi-step agentic workflows.",
-                "Free users gain immediate access to high-capacity Luna models while Sol powers advanced enterprise API integration.",
-                "Developers can deploy these highly efficient models to coordinate multi-agent systems with lowered operational latency parameters."
+                "OpenAI deploys GPT-5.6 and its specialized Sol and Luna variants to maximize agentic task execution capabilities.",
+                "The model's frontier intelligence improves price-to-performance metrics for complex multi-step reasoning workflows in ChatGPT.",
+                "The release is coupled with OpenAI Presence, prioritizing persistent digital identity framework tools for automated systems.",
+                "Developers will transition from token optimization strategies to building resilient, highly autonomous transactional agent operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "META: MUSE CODE PERSISTENT AGENTS",
+            "heading": "NVIDIA: SECURE AI ALLIANCE",
             "points": [
-                "Meta launched Muse Code featuring persistent AI agents to automate complex multi-step enterprise software engineering.",
-                "The engine enables deep architecture-aware reasoning and automated translation of large legacy codebases across systems.",
-                "Integrating persistent agents directly into developer workflows reduces cognitive load and mitigates traditional software delivery friction.",
-                "Enterprises can leverage these autonomous tools to run continuous integration pipelines and write complex unit tests."
+                "NVIDIA partners with Safe Superintelligence Inc and the Open Secure AI Alliance to construct SAFE guidelines.",
+                "Over one hundred twenty global organizations are implementing these safety benchmarks to enhance agentic cybersecurity transparency.",
+                "The alliance aims to secure open world models and physical AI systems against automated identity-spoofing attacks.",
+                "Security operations leaders will integrate these strict cryptographic verification standards to safeguard distributed enterprise systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MICROSOFT: AZURE ND MI455XV7 INSTINCT",
+            "heading": "TERAFAB: GIGA-SCALE SEMICONDUCTORS",
             "points": [
-                "Microsoft expanded Azure infrastructure with high-performance ND MI455Xv7 virtual machines powered by AMD Instinct hardware.",
-                "These specialized clusters support heavy high-performance computing workloads and massive enterprise artificial intelligence inference pipelines.",
-                "Integrated Azure IQ tools securely connect autonomous agents to legacy enterprise systems and live data workflows.",
-                "Hyperscale customers will achieve enhanced performance scaling while lowering total cost of ownership for deep learning."
+                "SpaceX and Tesla commit sixteen point eight billion dollars to build the Terafab chip factory.",
+                "This massive Texas infrastructure project targets localized production of bespoke silicon to bypass current global bottlenecks.",
+                "The investment aligns with a broader trend of sovereign digital entities building independent vertically integrated hardware stacks.",
+                "Industrial conglomerates must secure localized semiconductor supply lines to maintain operational superiority in automated robotics development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
