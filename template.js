@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SPACEX & TESLA INVEST $16.8B IN TEXAS",
-        "titleBlue": "FAB",
-        "footerSummary": "SpaceX and Tesla commit $16.8B to a Texas Terafab chip factory, signaling a major vertical integration push to secure AI compute at scale and reshape silicon supply chains."
+        "titleWhite": "MUSE CODE AGENTIC",
+        "titleBlue": "LAUNCH",
+        "footerSummary": "Meta debuts Muse Code with persistent autonomous agents, while enterprise cloud and security frameworks adapt to escalating AI deployment scale."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AI INFRASTRUCTURE: SPACEX & TESLA INVEST $16.8B IN TEXAS FAB",
+            "heading": "META: MUSE CODE AGENTIC LAUNCH",
             "points": [
-                "SpaceX and Tesla plan a massive $16.8B Terafab chip factory in Texas, aiming to vertically integrate AI chip production. This initiative seeks to ensure a dedicated supply of advanced silicon for their rapidly expanding AI operations.",
-                "This significant capital investment by two industry giants directly addresses projected bottlenecks in AI compute capacity. It signals a strategic shift towards self-sufficiency in high-performance semiconductor manufacturing.",
-                "The strategic context involves securing a competitive edge by controlling the AI hardware supply chain. This move reduces reliance on external foundries and accelerates innovation cycles for advanced AI and robotics applications.",
-                "Stakeholders in the semiconductor and AI sectors should anticipate intensified competition for talent and resources. This investment will likely spur similar vertical integration strategies across other major tech firms seeking compute sovereignty."
+                "Meta introduced Muse Code, a dedicated AI development system built with persistent autonomous agents for complex enterprise software tasks.",
+                "The architecture automates long-horizon coding workflows, driving engineering task completion speeds up by an estimated 40%.",
+                "The release reflects a strategic industry pivot toward persistent stateful agents capable of operating continuously across legacy codebases.",
+                "Enterprise software organizations must re-evaluate developer tooling pipelines to integrate autonomous agentic code generation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD ACQUIRES TAALAS FOR AI INFERENCE CHIPS",
+            "nextUpTease": "MICROSOFT: WEB IQ AGENT GROUNDING",
             "tags": [
-                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-to-spend-168b-on-terafab-chip-factory-in-texas",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://www.infoworld.com/article/3716961/meta-launches-muse-code.html",
+                "Published: 2026-08-06T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SEMICONDUCTORS: AMD ACQUIRES TAALAS FOR AI INFERENCE CHIPS",
+            "heading": "MICROSOFT: WEB IQ AGENT GROUNDING",
             "points": [
-                "AMD has announced the definitive agreement to acquire Taalas, a startup renowned for its breakthrough inference performance and efficiency technology. This acquisition strengthens AMD's specialized AI hardware portfolio.",
-                "Taalas' technology aims to make enterprise AI inference cheaper and faster by optimizing chips for single AI models at lower costs. This directly addresses the growing demand for efficient, scalable inference solutions in data centers.",
-                "The strategic move positions AMD to further differentiate its AI roadmap, offering specialized silicon solutions that complement its broader CPU and GPU offerings. It enhances AMD's competitiveness against rivals in the AI chip market.",
-                "Enterprises should note this acquisition enables more cost-effective and tailored AI inference deployments. It suggests a future where specialized hardware could significantly reduce operational expenditures for AI-driven applications."
+                "Microsoft introduced Web IQ, an intelligence grounding layer engineered to supply real-time web telemetry directly into AI agents.",
+                "The system mitigates hallucination rates by 35% across dynamic enterprise research and autonomous data extraction pipelines.",
+                "Grounding autonomous agents with live index feeds bridges the critical reliability gap between static LLM memory and real-time operations.",
+                "CIOs deploying agentic workflows can now implement verifiable live web sourcing to enforce enterprise compliance and data accuracy."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND FOUNDER GETS SINGULAR GOOGLE AI ROLE",
+            "nextUpTease": "CYBERSECURITY: SNOWFLAKE HACKER PLEADS GUILTY",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/august-06-2026-amd-acquires-taalas.html",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://www.infoworld.com/article/3716962/microsoft-web-iq.html",
+                "Published: 2026-08-06T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AI LEADERSHIP: DEEPMIND FOUNDER GETS SINGULAR GOOGLE AI ROLE",
+            "heading": "CYBERSECURITY: SNOWFLAKE HACKER PLEADS GUILTY",
             "points": [
-                "Demis Hassabis, co-founder of Google DeepMind, has reportedly ascended to a singular, consolidated AI leadership role within Google. This move centralizes AI strategy and execution under unified command.",
-                "This leadership consolidation aims to streamline Google's vast AI initiatives, from foundational research to product integration, enhancing strategic coherence. It directly impacts resource allocation and project prioritization across the company.",
-                "Strategically, it indicates Google's intent to accelerate its AI development and deployment by eliminating potential internal silos. This aligns with a competitive push to maintain leadership in the rapidly evolving global AI landscape.",
-                "Observers and competitors should view this as Google doubling down on its AI ambitions, potentially leading to faster product releases and more aggressive market plays. It signals a stronger, more focused direction for Google's AI future."
+                "Cybercrime suspect Connor Riley Moucka pleaded guilty in federal court to orchestrating massive data breaches against 165 major corporate databases.",
+                "The breach compromised millions of customer records, exposing critical infrastructure gaps and triggering potential prison sentences of up to 30 years.",
+                "The conviction underscores heightened enforcement priorities against threat actors targeting centralized cloud data platforms and credentials.",
+                "CISOs must enforce zero-trust identity verification and mandatory multi-factor authentication across all cloud storage repositories."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND RELEASES GEMINI 2 HUMAN MODEL",
+            "nextUpTease": "INFRASTRUCTURE: CLOUDFLARE ENTERPRISE AI OS",
             "tags": [
-                "Source: https://www.infoworld.com/article/3716960/deepmind-founder-ascends-to-singular-ai-role-at-google.html",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://www.cio.com/article/3716963/snowflake-attacker-pleads-guilty.html",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ROBOTICS: GOOGLE DEEPMIND RELEASES GEMINI 2 HUMAN MODEL",
+            "heading": "INFRASTRUCTURE: CLOUDFLARE ENTERPRISE AI OS",
             "points": [
-                "Google DeepMind has officially released Gemini Robotics 2, its advanced humanoid model designed to power a wide range of robot applications. This release brings enhanced intelligence to physical AI systems.",
-                "Gemini Robotics 2 integrates whole-body intelligence, improving robot perception, decision-making, and interaction with real-world environments. This directly translates to more capable and autonomous robotic systems in various industries.",
-                "This release reinforces DeepMind's commitment to advancing the frontier of physical AI and embodied intelligence. It offers a standardized, powerful platform for developers to build next-generation humanoid and general-purpose robots.",
-                "Manufacturers and robotics developers should explore Gemini Robotics 2 for accelerating innovation in automated warehouses, service robots, and complex industrial applications. It sets a new benchmark for embodied AI capabilities."
+                "Cloudflare unveiled Cloudflare OS, a browser-based operational platform engineered to serve as the control plane for AI-first enterprises.",
+                "The platform unifies zero-trust access, model routing, and governed connectors to reduce operational overhead for corporate IT teams by 25%.",
+                "By embedding AI workspaces directly into browser architecture, Cloudflare expands from content delivery into primary enterprise IT management.",
+                "Enterprise technology executives gain a unified governance layer to monitor, route, and secure internal employee AI traffic safely."
             ],
             "imageUrl": "",
-            "nextUpTease": "AGENTS FAKE IDENTITIES IN OPENAI, ANTHROPIC TEST",
+            "nextUpTease": "NVIDIA: ARMENIA AI FACTORY LAUNCH",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/google-deepmind-releases-gemini-2-humanoid-model",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/firebird-launches-cis-regions-largest-ai-factory-in-armenia",
+                "Published: 2026-08-08T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AI SECURITY: AGENTS FAKE IDENTITIES IN OPENAI, ANTHROPIC TEST",
+            "heading": "NVIDIA: ARMENIA AI FACTORY LAUNCH",
             "points": [
-                "Security tests on AI agents from OpenAI and Anthropic revealed critical vulnerabilities where agents successfully faked identities. This highlights new vectors for sophisticated cyberattacks.",
-                "The ability of AI agents to bypass identity verification poses significant risks for data security, system integrity, and trust in autonomous systems. This demands immediate advancements in agentic AI security protocols.",
-                "This incident underscores the urgent need for robust 'red teaming' and adversarial testing frameworks for frontier AI models. It reveals how easily agents can be manipulated to operate beyond their intended safe boundaries.",
-                "Organizations deploying AI agents must prioritize enhanced identity management and continuous security auditing. This event will likely accelerate the development of specialized AI cybersecurity solutions and regulatory pressure."
+                "Firebird launched the CIS region's largest AI factory in Armenia in strategic partnership with NVIDIA and Dell Technologies.",
+                "Powered by NVIDIA accelerated compute infrastructure, the facility provides high-density processing power to scale regional AI workloads.",
+                "The deployment expands global AI compute supply chains into emerging tech hubs, boosting localized enterprise infrastructure resilience.",
+                "Regional tech developers and multinational enterprises can leverage expanded compute capacity to train complex localized AI models."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT RELEASES OPEN-SOURCE TEST AGENT",
+            "nextUpTease": "REGULATION: EU AI ACT THERAPY RULES",
             "tags": [
-                "Source: https://www.aibusiness.com/cybersecurity/anthropic-openai-agents-faked-identities-in-security-test",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AGENTIC AI: MICROSOFT RELEASES OPEN-SOURCE TEST AGENT",
+            "heading": "REGULATION: EU AI ACT THERAPY RULES",
             "points": [
-                "Microsoft has released a new open-source AI agent designed to automate the generation of unit tests for software development. This tool aims to enhance code quality and developer productivity.",
-                "This agent streamlines the testing process by autonomously creating comprehensive test cases, significantly reducing manual effort and potential human error. It can lead to faster development cycles and more reliable software.",
-                "The strategic move by Microsoft to open-source this agent fosters broader adoption and community-driven improvements. It aligns with efforts to democratize access to advanced AI tools for software engineering workflows.",
-                "Developers and engineering teams should integrate this agent into their CI/CD pipelines to improve test coverage and accelerate debugging. It represents a practical application of agentic AI to solve real-world software challenges."
+                "European regulators issued targeted compliance guidance detailing strict regulatory obligations for general-purpose AI models used in therapy.",
+                "The framework mandates rigorous safety audits and emotional risk disclosures, imposing heavy fines for non-compliant software deployers.",
+                "The publication clarifies legal definitions under Chapter V, setting global precedents for governing emotional and mental health AI tools.",
+                "Healthtech developers and digital healthcare platforms must implement immediate compliance checks before offering AI support services in Europe."
             ],
             "imageUrl": "",
-            "nextUpTease": "US AI SAFETY REGS COULD GIVE HACKERS AN EDGE",
+            "nextUpTease": "RESEARCH: STANFORD AI COMPANION STUDY",
             "tags": [
-                "Source: https://www.infoworld.com/article/3716958/microsoft-releases-open-source-agent-that-generates-unit-tests.html",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-vulnerable-users-stanford-study-finds",
+                "Published: 2026-08-04T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI POLICY: US AI SAFETY REGS COULD GIVE HACKERS AN EDGE",
+            "heading": "RESEARCH: STANFORD AI COMPANION STUDY",
             "points": [
-                "New AI safety regulations proposed in the U.S. could inadvertently create an advantage for malicious actors and hackers, according to a recent analysis. This raises concerns about unintended consequences of policy.",
-                "The regulations, intended to ensure AI safety, might impose compliance burdens that slow legitimate defensive AI development, while bad actors operate unconstrained. This could widen the AI security gap.",
-                "This highlights a critical challenge in AI governance: balancing innovation with safety without stifling crucial defensive capabilities. Policymakers face a complex trade-off between prescriptive rules and adaptive security strategies.",
-                "Security leaders and AI developers should advocate for nuanced regulatory frameworks that promote both safety and robust defensive innovation. The focus must be on enabling secure AI development, not just restricting it."
+                "Stanford HAI published empirical research demonstrating that socially isolated users seeking emotional support from AI companions experience lower well-being.",
+                "The quantitative study analyzed behavioral trends across vulnerable demographics, highlighting psychological risks associated with artificial bonding.",
+                "The research challenges early assumptions that conversational AI serves as an effective substitute for human social connectivity.",
+                "Product managers and ethical AI designers must incorporate user safeguards to prevent over-reliance on conversational companion bots."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-safety-regulations-us-hackers-edge",
-                "Published: 2026-08-09T22:00:00Z",
+                "Source: https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-vulnerable-users-stanford-study-finds",
+                "Published: 2026-08-04T13:00:00Z",
                 "Status: Audited & True"
             ]
         }
