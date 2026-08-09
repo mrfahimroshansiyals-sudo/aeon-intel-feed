@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "Sovereign Compute",
-        "titleBlue": "Scale"
+        "titleWhite": "NEXT ERA SILICON",
+        "titleBlue": "SOVEREIGNTY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "AMD: TAALAS SILICON ACQUISITION",
             "points": [
-                "AMD acquires Taalas to integrate ultra-efficient model-specific application-specific integrated circuit designs into its core enterprise AI inference portfolio.",
-                "Taalas hardware optimization delivers up to ten times cheaper inference capabilities compared to general-purpose GPU processing architectures.",
-                "This acquisition positions AMD to capture mature high-volume workloads by bypassing the cost constraints of programmable silicon.",
-                "Enterprises will see rapid reduction in operational expenses as dedicated inference chips replace general-purpose cloud accelerators."
+                "AMD acquired Taalas to integrate specialized silicon designed for ultra-low cost single-model inference workloads.",
+                "The transaction targets massive efficiency gains over traditional general-purpose graphic processing units in enterprise datacenters.",
+                "Architectural consolidation enables hardwired neural pathways to bypass heavy memory bus overhead during model execution.",
+                "Enterprise customers will gain custom-tailored silicon options for high-volume mature workloads requiring maximum cost efficiency."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,44 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CLOUDFLARE: SYSTEM OS",
+            "heading": "AMD & ANTHROPIC: TWO GIGAWATT GPU DEAL",
             "points": [
-                "Cloudflare OS integrates secure workspaces zero-trust network access and governed database connectors directly inside the enterprise browser.",
-                "The browser-native architecture reduces latency by thirty percent while preventing unauthorized data exfiltration from private corporate systems.",
-                "This deployment transforms the browser into a secure distributed operating system capable of orchestrating autonomous agentic workflows.",
-                "Security teams can deploy zero-trust guardrails across distributed worker teams without sacrificing application performance or usability."
+                "AMD partnered with Anthropic to deploy up to two gigawatts of Instinct MI450 graphic processors.",
+                "This infrastructure scaling effort secures vast computational reserves for training future Claude frontier model architectures.",
+                "The multi-gigawatt deployment establishes a direct hardware sovereign counterweight to dominant proprietary accelerator cloud networks.",
+                "Operational timelines suggest immediate integration into next-generation hyper-scale datacenters to accelerate advanced agentic research."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "NVIDIA & SSI: SAFE SUPERINTELLIGENCE",
             "points": [
-                "OpenAI officially launches GPT-5.6 featuring advanced reasoning architectures designed to handle highly complex scientific and mathematical workloads.",
-                "The new architecture achieves forty percent faster execution times on massive multi-step autonomous planning operations.",
-                "The model introduces autonomous self-improvement capabilities to enhance system robustness against sophisticated security threat vectors.",
-                "Organizations can now automate critical scientific research pipelines with unprecedented levels of safety accuracy and predictability."
+                "NVIDIA and Safe Superintelligence signed a long-term partnership to accelerate secure frontier system growth.",
+                "The collaboration guarantees SSI priority access to massive compute clusters for scaling next-generation safe superintelligence models.",
+                "This alliance bridges physical GPU scaling directly with advanced alignment research and mathematical verification frameworks.",
+                "Global enterprise architectures will benefit from hardened safety guardrails integrated directly into accelerated computing nodes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: PHYSICAL BRAIN",
+            "heading": "SPACEX & TESLA: TERAFAB FOUNDRY",
             "points": [
-                "DeepSeek establishes a strategic robotics partnership with Unitree to co-develop intelligent physical brains for advanced humanoid platforms.",
-                "Integrating DeepSeek models improves humanoid kinetic reaction speeds by fifty percent during complex real-world environmental manipulation.",
-                "This convergence of deep learning and mechanical hardware accelerates the transition of humanoid robots into active industrial workspaces.",
-                "Manufacturers will soon deploy autonomous robotic workforces capable of executing intricate assembly tasks without requiring continuous human oversight."
+                "SpaceX and Tesla launched a sixteen point eight billion dollar Terafab silicon manufacturing facility in Texas.",
+                "The joint venture aims to secure end-to-end supply chain sovereignty for advanced automotive and aerospace chips.",
+                "Localized physical wafer fabrication mitigates escalating geopolitical risks while ensuring continuous hardware optimization for autonomous platforms.",
+                "This capital injection marks a historic shift toward vertically integrated industrial conglomerates building proprietary silicon foundries."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "SPACEX: TERAFAB FACTORY",
+            "heading": "OPENAI: GPT-5.6 COGNITIVE FRONTIER",
             "points": [
-                "SpaceX and Tesla partner to construct a massive sixteen-billion-dollar semiconductor manufacturing facility named Terafab inside Austin Texas.",
-                "The mega-factory aims to produce over one million custom inference chips monthly to power global aerospace and automotive fleets.",
-                "This vertical integration strategy ensures sovereign supply chain control over critical silicon components needed for physical intelligence systems.",
-                "Competitors face severe technological pressure as Tesla achieves complete independence from traditional third-party chip design and supply limitations."
+                "OpenAI released GPT-5.6 Sol and Luna models representing the next frontier of scalable cognitive intelligence.",
+                "The architecture dramatically improves price-to-performance ratios for complex reasoning and enterprise-grade multi-step agentic workflows.",
+                "Free users gain immediate access to high-capacity Luna models while Sol powers advanced enterprise API integration.",
+                "Developers can deploy these highly efficient models to coordinate multi-agent systems with lowered operational latency parameters."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPMIND: WEATHERNEXT MODEL",
+            "heading": "META: MUSE CODE PERSISTENT AGENTS",
             "points": [
-                "Google DeepMind introduces WeatherNext a machine learning weather forecasting model optimized for tracking severe global atmospheric phenomena.",
-                "The model outperforms traditional numerical weather prediction methods by thirty-five percent in localized tropical cyclone landfall forecasting accuracy.",
-                "This breakthrough shifts meteorological modeling from computationally expensive thermodynamic simulations to highly efficient neural network inference pipelines.",
-                "Logistics operators and global insurers can dramatically reduce emergency response times through faster and more reliable weather warnings."
+                "Meta launched Muse Code featuring persistent AI agents to automate complex multi-step enterprise software engineering.",
+                "The engine enables deep architecture-aware reasoning and automated translation of large legacy codebases across systems.",
+                "Integrating persistent agents directly into developer workflows reduces cognitive load and mitigates traditional software delivery friction.",
+                "Enterprises can leverage these autonomous tools to run continuous integration pipelines and write complex unit tests."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: SSI COOPERATION",
+            "heading": "MICROSOFT: AZURE ND MI455XV7 INSTINCT",
             "points": [
-                "NVIDIA establishes a long-term strategic partnership with Safe Superintelligence to accelerate the research of provably safe AI architectures.",
-                "The collaboration guarantees dedicated computing allocation of over fifty thousand state-of-the-art accelerators to advance alignment science.",
-                "This alliance secures NVIDIA as the foundational hardware provider for pioneering researchers focused strictly on robust superintelligence safety.",
-                "Regulatory bodies receive a strong signal that leading industry giants are prioritizing safety protocols ahead of general capability scaling."
+                "Microsoft expanded Azure infrastructure with high-performance ND MI455Xv7 virtual machines powered by AMD Instinct hardware.",
+                "These specialized clusters support heavy high-performance computing workloads and massive enterprise artificial intelligence inference pipelines.",
+                "Integrated Azure IQ tools securely connect autonomous agents to legacy enterprise systems and live data workflows.",
+                "Hyperscale customers will achieve enhanced performance scaling while lowering total cost of ownership for deep learning."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
