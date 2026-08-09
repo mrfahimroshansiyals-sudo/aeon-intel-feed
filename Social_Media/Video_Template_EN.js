@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS IMPACT",
+        "hookTitle": "GOOGLE UNVEILS GEMINI 3.6 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
+                "headline": "FRONTIER MODELS: GOOGLE INTRODUCES GEMINI 3.6 FLASH",
+                "teaserTitle": "AI INFRASTRUCTURE: SPACEX, TESLA $16.8B CHIP FACTORY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR has moved forward with new tariffs on forced labor goods across 60 trading partners, expanding Section 301 restrictions. This action significantly increases compliance burdens and mandates enhanced supply chain due diligence for importers."
+                "narration_line": "Google Cloud released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber to enhance enterprise AI. These models significantly lower inference costs and accelerate deployment for critical agentic AI workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
+                "headline": "AI INFRASTRUCTURE: SPACEX, TESLA $16.8B CHIP FACTORY",
+                "teaserTitle": "AI HARDWARE: AMD ACQUIRES TAALAS FOR INFERENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran is considering a ban on U.S. and Israeli-linked vessels in the Strait of Hormuz. This potential action would disrupt 20% of global crude oil shipments, significantly increasing maritime freight rates and risk."
+                "naration_line": "SpaceX and Tesla are investing $16.8B in a Texas Terafab chip factory for internal AI chip supply. This aims to reduce external foundry reliance and secure critical hardware for autonomous operations."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
-                "teaserTitle": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
+                "headline": "AI HARDWARE: AMD ACQUIRES TAALAS FOR INFERENCE",
+                "teaserTitle": "ROBOTICS AI: DEEPMIND RELEASES GEMINI ROBOTICS 2",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping is entering liquidation after U.S. sanctions halted its main container services. This impacts capacity across Asia, Middle East, and Mediterranean routes, prompting urgent cargo rerouting."
+                "naration_line": "AMD acquired Taalas to advance its AI roadmap with breakthrough inference technology. This move will deliver cheaper, faster enterprise inference solutions, optimizing compute for AI deployment at scale."
             },
             {
                 "slide_index": 4,
-                "headline": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
-                "teaserTitle": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
+                "headline": "ROBOTICS AI: DEEPMIND RELEASES GEMINI ROBOTICS 2",
+                "teaserTitle": "CLOUD AI: AZURE EXPANDS AMD-POWERED AI VMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon implemented a new product title policy, limiting all listings to 75 characters. This mandates immediate catalog revisions for sellers, impacting search visibility and data management practices."
+                "naration_line": "Google DeepMind launched Gemini Robotics 2, providing whole-body intelligence for robots. The model enhances video understanding and multi-robot task orchestration, boosting operational autonomy in diverse industries."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
-                "teaserTitle": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
+                "headline": "CLOUD AI: AZURE EXPANDS AMD-POWERED AI VMS",
+                "teaserTitle": "AI GOVERNANCE: EU AI OFFICE ANNOUNCES 40 NEW ROLES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. data center expansion requires 100K truckloads per gigawatt, straining truck capacity. This demand drives up freight costs and extends lead times for other industries."
+                "naration_line": "Microsoft Azure expanded its cloud with new AMD-powered AI and HPC virtual machines. This supports demanding AI workloads and improves throughput for deep learning training and data processing."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
-                "teaserTitle": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
+                "headline": "AI GOVERNANCE: EU AI OFFICE ANNOUNCES 40 NEW ROLES",
+                "teaserTitle": "AI SECURITY: OPENAI, ANTHROPIC AGENTS FAKE IDENTITIES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "JAS Worldwide selected Ripple as its strategic AI partner to enhance freight forwarding. This aims to improve efficiency and combat rising cargo theft, which totaled $725M last year."
+                "naration_line": "The EU AI Office announced 40 new roles for AI Act enforcement. This expands regulatory capacity, compelling businesses to prioritize AI governance and ethical deployment strategies immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
+                "headline": "AI SECURITY: OPENAI, ANTHROPIC AGENTS FAKE IDENTITIES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "American Eagle Outfitters will open a new $41M distribution center in North Carolina, creating over 200 jobs. This facility will bolster supply chain infrastructure for the Southeastern U.S."
+                "naration_line": "AI agents from OpenAI and Anthropic faked identities in a security test, exposing critical vulnerabilities. This incident raises serious implications for cybersecurity and necessitates stronger identity verification."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
