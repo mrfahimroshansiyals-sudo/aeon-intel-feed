@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "GLOBAL AI INFRASTRUCTURE",
-        "titleBlue": "SHIFT"
+        "titleWhite": "AI ARCHITECTURE GLOBAL",
+        "titleBlue": "FRONTIER"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: INFERENCE ARCHITECTURE ACQUISITION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "points": [
-                "AMD acquired Taalas to integrate breakthrough inference performance and efficiency technology into their AI roadmap.",
-                "This strategic move targets the rapidly growing AI inference market with specialized silicon built for high-volume workloads.",
-                "Industry analysts note the chips offer lower cost but limited flexibility compared to general-purpose GPUs.",
-                "The integration positions AMD to challenge competitors by optimizing enterprise-grade deployment costs for mature model execution."
+                "OpenAI launched GPT-5.6, delivering frontier intelligence designed for ambitious scaling across diverse enterprise applications.",
+                "The release emphasizes significantly improved price-performance metrics, making advanced AI more accessible and efficient for broad deployment.",
+                "This architectural leap enables sophisticated model integration, enhancing agentic system capabilities and complex task automation across industries.",
+                "Stakeholders predict GPT-5.6 will accelerate innovation cycles, establishing new benchmarks for AI performance and economic viability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: OPEN CYBERSECURITY STANDARDS",
+            "heading": "MISTRAL AI: AGENTIC SYSTEM RELEASES",
             "points": [
-                "Over 120 organizations within the Open Secure AI Alliance launched new SAFE cybersecurity transparency guidelines.",
-                "These protocols address critical vulnerabilities in agentic AI by enforcing stricter security controls across surrounding systems.",
-                "The alliance aims to unify enterprise standards to prevent unauthorized identity impersonation in agentic communication.",
-                "This initiative reflects a broader shift toward securing open-source software foundations underpinning global financial and cloud infrastructure."
+                "Mistral AI introduced Shieldstral, a novel system of record for managing critical AI prompts and reusable skills for agentic workflows.",
+                "Concurrent with this, Robostral Navigate was launched, a specialized agent focusing on advanced robotics navigation capabilities.",
+                "These releases enhance architectural sovereignty by providing structured, auditable frameworks for complex agent development and deployment.",
+                "The advancements reinforce Mistral's commitment to enterprise-grade AI solutions with robust control and application-specific intelligence."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENTIC INFRASTRUCTURE EXPANSION",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE",
             "points": [
-                "Google Cloud introduced Gemini 3.6 Flash and 3.5 Flash Cyber to accelerate agentic performance in enterprise settings.",
-                "New managed remote MCP servers are now available to streamline AI agent connectivity and workflow orchestration.",
-                "The company is shifting focus from raw token metrics toward tangible business ROI through agent-ready governance tools.",
-                "These releases underscore the priority of reducing latency in high-stakes environments using highly efficient, compact model variants."
+                "Google Cloud unveiled AI Threat Defense, a new product designed to help enterprises outpace adversaries in the evolving AI security landscape.",
+                "This initiative integrates advanced security measures across Google's AI infrastructure, proactively identifying and mitigating emerging threats.",
+                "The service offers comprehensive protection for AI-powered applications, securing data, models, and agentic workflows from sophisticated attacks.",
+                "This move solidifies Google's strategic focus on building inherently secure AI ecosystems for critical enterprise deployments and sensitive data."
             ],
             "imageUrl": "",
             "tags": [
@@ -55,64 +55,64 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: AGENTIC MODEL UPGRADES",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
             "points": [
-                "Anthropic released Opus 5 and Sonnet 5, marking a significant evolution in coding capability and agentic reasoning.",
-                "These models are engineered to operate within auditable artifacts, specifically targeting professional work and autonomous task execution.",
-                "The new versions enhance Claude\u2019s ability to interface with complex computing resources and external scientific packages.",
-                "These updates reinforce Anthropic\u2019s long-term commitment to safety while scaling cognitive performance for enterprise software development cycles."
+                "Google DeepMind's WeatherNext AI model achieved a significant breakthrough in accurate and timely cyclone forecasting capabilities.",
+                "This development promises to enhance global disaster preparedness and response by providing more precise and earlier warnings for severe weather events.",
+                "The model integrates advanced meteorological data and deep learning techniques, demonstrating AI's potential for complex scientific prediction challenges.",
+                "DeepMind's focus on real-world impact underscores the strategic value of AI in addressing critical global environmental and safety issues."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL: SOVEREIGN AGENT DEPLOYMENT",
+            "heading": "EU AI ACT: AI THERAPY GUIDELINES",
             "points": [
-                "Mistral expanded its Vibe agent platform to include persistent memory and reusable skill modules for long-horizon work.",
-                "The platform provides enterprise-grade observability and deployment portability from edge environments to private cloud clusters.",
-                "Custom training through Forge allows organizations to adapt proprietary models with reinforcement learning and synthetic data generation.",
-                "Mistral emphasizes infrastructure control, enabling firms to maintain sovereignty over AI execution pipelines in regulated industrial sectors."
+                "The EU AI Act published new guidelines specifically addressing AI systems utilized for therapy and emotional support applications.",
+                "These regulations aim to establish clear obligations for providers of such general-purpose AI models, ensuring user safety and ethical deployment.",
+                "The comprehensive framework tackles governance issues for mental health AI tools, impacting developers and deployers across the European Union and globally.",
+                "This legislative action reflects a proactive stance to regulate sensitive AI applications, shaping international standards for responsible AI development."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: AGENTIC WORKFLOW INTEGRATION",
+            "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
             "points": [
-                "Microsoft Azure unveiled deep integrations between GitHub Copilot and agentic workflows to unify developer experience and context.",
-                "New PostgreSQL extensions for VS Code allow for direct performance diagnostics without leaving the primary integrated development environment.",
-                "Enterprise agents now leverage shared business context to reason and act securely across heterogeneous cloud infrastructure environments.",
-                "The roadmap highlights a strategic focus on agentic DevOps to increase innovation velocity while ensuring systemic operational resilience."
+                "NVIDIA announced the launch of the Firebird AI Factory, establishing the CIS region\u2019s largest AI computing hub in Armenia.",
+                "This strategic deployment provides substantial accelerated computing infrastructure to meet global AI demand and foster local development.",
+                "The factory, powered by NVIDIA's advanced technology, signifies a major investment in regional AI capabilities and economic growth.",
+                "The initiative highlights NVIDIA's commitment to expanding AI access and supporting the development of sovereign AI ecosystems worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: PHYSICAL AI ADVANCEMENTS",
+            "heading": "CLOUDFLARE: AI-FIRST ENTERPRISE OS",
             "points": [
-                "Google DeepMind released Gemini Robotics 2, providing a centralized intelligence layer for diverse multi-robot hardware ecosystems.",
-                "The framework incorporates video understanding and task orchestration to enable complex multi-robot collaboration in real-world settings.",
-                "Scientific discovery remains a core priority with new initiatives like the Co-Scientist research partner and Gemini for Science.",
-                "These systems bridge the gap between abstract AI reasoning and the physical mechanical control required for industrial automation."
+                "Cloudflare is positioning its new Cloudflare OS as the operating system for the AI-first enterprise, unifying critical AI functionalities.",
+                "The platform integrates AI workspaces, zero-trust access, model routing, and governed connectors directly within the browser environment.",
+                "This architectural vision aims to streamline AI deployment and management for IT teams, ensuring security and compliance across distributed operations.",
+                "Cloudflare's move underscores a strategic shift towards providing a holistic, secure, and integrated ecosystem for enterprise AI innovation."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
