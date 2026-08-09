@@ -1,50 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "INTELLIGENT AGENTIC SYSTEMS",
-        "titleBlue": "AUTONOMY"
+        "titleWhite": "AUTONOMOUS AGENTIC COMPUTE",
+        "titleBlue": "REVOLUTION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 MODEL DEPLOYMENT",
+            "heading": "DEEPMIND: GEMINI ROBOTICS 2",
             "points": [
-                "OpenAI releases GPT-5.6 frontier intelligence model designed to scale reasoning capabilities for highly ambitious enterprise agent workloads.",
-                "The model achieves unparalleled efficiency benchmarks, drastically lowering token execution overhead across complex, multi-step transaction pipelines.",
-                "Systems developers can now leverage deeper contextual understanding to orchestrate highly autonomous agents across legacy enterprise infrastructures.",
-                "Organizations will transition away from static automation frameworks toward fully self-improving, dynamic agent ecosystems within the year."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
-            "points": [
-                "AMD acquires semiconductor startup Taalas to deliver ultra-low-cost, application-specific silicon designed specifically for localized model inference workloads.",
-                "The hardware integration targets a massive reduction in enterprise data center operational costs for dedicated, single-model deployments.",
-                "This strategic shift bypasses general-purpose GPU bottlenecks by providing hardwired neural network processors directly to edge architectures.",
-                "Enterprise infrastructure planners will transition high-volume, mature model pipelines onto hyper-efficient custom silicon arrays to optimize budgets."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.amd.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOOGLE DEEPMIND: GEMINI ROBOTICS TWO",
-            "points": [
-                "Google DeepMind launches Gemini Robotics 2, introducing an advanced whole-body intelligence layer designed for complex physical automation.",
-                "The framework integrates real-time video understanding, spatial task orchestration, and collaborative multi-robot coordination protocols in dynamic environments.",
-                "By embedding frontier multi-modal vision systems, the platform bridges the historical gap between digital reasoning and physical execution.",
-                "Heavy manufacturing and logistics industries will rapidly adopt this model to deploy highly adaptive, self-navigating humanoid robotics fleets."
+                "Google DeepMind launched Gemini Robotics 2 delivering comprehensive whole body intelligence for complex robot control.",
+                "The framework executes advanced video understanding alongside multi-agent coordination across physical enterprise hardware.",
+                "New architecture fuses spatial reasoning with real-time feedback loops to optimize dynamic industrial warehouse operations.",
+                "Engineers expect this technology to dramatically reduce deployment times for highly dexterous humanoid automation tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE ACCELERATION",
+            "id": 2,
+            "heading": "ANTHROPIC: CLAUDE OPUS 5",
             "points": [
-                "Salesforce customer telemetry confirms that deployed agentic artificial intelligence workforces are more than doubling year over year.",
-                "Technical refinement in orchestration layers has reduced the deployment timeline for production-ready autonomous systems to mere days.",
-                "Enterprise systems are shifting away from rigid human-in-the-loop validation toward autonomous transactional delegation across cloud systems.",
-                "IT leadership must establish real-time behavioral monitoring guardrails to safely manage thousands of concurrently transacting software agents."
+                "Anthropic released Claude Opus 5 delivering a monumental step change for advanced agentic coding workflows.",
+                "The model processes intricate multi-step professional tasks with highly specialized reasoning and contextual task scheduling.",
+                "Strategic system integration enables enterprise developers to build robust autonomous developer environments with ease.",
+                "Organizations deploying this system anticipate rapid acceleration of legacy codebase modernization and software deployment pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AMD: TAALAS SILICON ACQUISITION",
+            "points": [
+                "AMD entered a definitive agreement to acquire Taalas to revolutionize high-efficiency single-model AI inference silicon.",
+                "The physical hardware architecture runs targeted neural models at drastically reduced operating and deployment costs.",
+                "Fusing custom neuromorphic designs directly into AMD's roadmap bypasses traditional GPU memory bandwidth bottlenecks.",
+                "Enterprise data centers will secure highly cost-effective dedicated silicon configurations for permanent production workloads."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OPENAI: FRONTIER GPT-5.6",
+            "points": [
+                "OpenAI introduced GPT-5.6 bringing unprecedented frontier intelligence that scales seamlessly with massive enterprise-wide ambitions.",
+                "The upgrade significantly improves raw processing efficiency and mathematical reasoning capabilities across deep neural systems.",
+                "Businesses can deploy specialized agent networks to manage highly delicate transactional tasks with minimal error rates.",
+                "This architectural paradigm shift forces traditional software platforms to restructure around core autonomous generative logic."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: IQ AGENT GROUNDING",
+            "heading": "GOOGLE CLOUD: GEMINI CYBER",
             "points": [
-                "Microsoft introduces Microsoft IQ and Web IQ to seamlessly connect autonomous agents with real-time enterprise data streams.",
-                "The system delivers comprehensive shared context, enabling agents to reason accurately within complex legacy relational database schemas.",
-                "Integrating direct web grounding and zero-trust access controls prevents data drift while protecting highly sensitive corporate knowledge.",
-                "Developers can confidently deploy federated agent networks capable of performing deep, context-aware actions without risking information exposure."
+                "Google launched Gemini 3.5 Flash Cyber specifically optimized for real-time digital threat defense mechanisms.",
+                "The security model processes streaming network telemetry instantly to discover novel exploit vectors before execution.",
+                "Integrating automated threat intelligence directly into the cloud hypervisor protects vulnerable edge compute clusters globally.",
+                "Chief Information Security Officers can deploy self-healing defense agents that mitigate security incidents without manual human intervention."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://cloud.google.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: ALPAMAYO TWO FRONTIER",
+            "heading": "MISTRAL: VIBE LONG-HORIZON AGENT",
             "points": [
-                "NVIDIA releases the Alpamayo 2 Super model, establishing a powerful open-source foundation for commercial robotaxi and vehicle autonomy.",
-                "The model processes massive multi-modal sensor inputs to execute high-fidelity spatial reasoning under extremely complex edge computing constraints.",
-                "By licensing this physical intelligence engine, automotive developers can bypass proprietary full-stack software development pipelines entirely.",
-                "This democratization of high-tier autonomous driving networks will dramatically accelerate the deployment of localized, driverless commercial fleets."
+                "Mistral unveiled Vibe, an autonomous software agent engineered to manage long-horizon enterprise computational workflows securely.",
+                "The framework coordinates complex scheduling, persistent memory access, and structured data analysis across private networks.",
+                "Deploying specialized localized agents ensures complete architectural sovereignty and compliance with strict regional safety regulations.",
+                "Enterprise users can delegate complex recurring financial processes to sovereign networks operating completely on-premise."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://mistral.ai",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: SHIELDSTRAL SECURITY",
+            "heading": "MICROSOFT: AZURE WEB IQ",
             "points": [
-                "Mistral AI launches Shieldstral and Robostral, establishing a robust system of record for managing custom prompt and skill repositories.",
-                "The platform secures agentic skills through advanced policy guardrails, ensuring strict compliance across highly regulated financial and public sectors.",
-                "By decoupling agent intelligence from raw compute, enterprises can easily port custom-trained models across diverse multi-cloud environments.",
-                "Chief Information Security Officers will leverage these localized guardrails to prevent data leakage in autonomous multi-agent transaction networks."
+                "Microsoft introduced Web IQ to securely ground autonomous Azure agents with real-time global web data.",
+                "The tool provides direct access to fresh web telemetry while maintaining strict enterprise zero-trust compliance standards.",
+                "Connecting dynamic web contexts directly to model routers prevents informational drift across production business workflows.",
+                "IT leaders can confidently scale agent systems that adapt instantly to shifting regulatory and macroeconomic environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
