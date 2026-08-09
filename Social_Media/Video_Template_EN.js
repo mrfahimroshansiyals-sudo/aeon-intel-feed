@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE UNVEILS GEMINI 3.6 FLASH",
+        "hookTitle": "GOOGLE'S GEMINI 3.6 FLASH: ENTERPRISE AI ACCELERATED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "headline": "FRONTIER MODELS: GOOGLE INTRODUCES GEMINI 3.6 FLASH",
-                "teaserTitle": "AI INFRASTRUCTURE: SPACEX, TESLA $16.8B CHIP FACTORY",
+                "teaserTitle": "AI SECURITY: GOOGLE LAUNCHES AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google Cloud released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber to enhance enterprise AI. These models significantly lower inference costs and accelerate deployment for critical agentic AI workloads."
+                "narration_line": "Google Cloud launches Gemini 3.6 Flash, enhancing enterprise AI with 3.5 Flash-Lite and 3.5 Flash Cyber models. This update promises to significantly lower inference costs and accelerate agent deployment for businesses globally."
             },
             {
                 "slide_index": 2,
-                "headline": "AI INFRASTRUCTURE: SPACEX, TESLA $16.8B CHIP FACTORY",
-                "teaserTitle": "AI HARDWARE: AMD ACQUIRES TAALAS FOR INFERENCE",
+                "headline": "AI SECURITY: GOOGLE LAUNCHES AI THREAT DEFENSE",
+                "teaserTitle": "AI AGENTS: MICROSOFT IQ CONNECTS AGENTS TO SYSTEMS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "SpaceX and Tesla are investing $16.8B in a Texas Terafab chip factory for internal AI chip supply. This aims to reduce external foundry reliance and secure critical hardware for autonomous operations."
+                "narration_line": "Google introduces AI Threat Defense, integrating AI-powered analytics to combat sophisticated cyber threats proactively. The system leverages deep learning for real-time anomaly detection, securing critical cloud environments against evolving attacks."
             },
             {
                 "slide_index": 3,
-                "headline": "AI HARDWARE: AMD ACQUIRES TAALAS FOR INFERENCE",
-                "teaserTitle": "ROBOTICS AI: DEEPMIND RELEASES GEMINI ROBOTICS 2",
+                "headline": "AI AGENTS: MICROSOFT IQ CONNECTS AGENTS TO SYSTEMS",
+                "teaserTitle": "AI GOVERNANCE: EU AI ACT THERAPY GUIDANCE RELEASED",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "AMD acquired Taalas to advance its AI roadmap with breakthrough inference technology. This move will deliver cheaper, faster enterprise inference solutions, optimizing compute for AI deployment at scale."
+                "narration_line": "Microsoft unveils IQ, a new framework providing AI agents shared context across enterprise systems, data, and workflows. This innovation enables agents to reason and act with greater business understanding, accelerating AI adoption and innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "ROBOTICS AI: DEEPMIND RELEASES GEMINI ROBOTICS 2",
-                "teaserTitle": "CLOUD AI: AZURE EXPANDS AMD-POWERED AI VMS",
+                "headline": "AI GOVERNANCE: EU AI ACT THERAPY GUIDANCE RELEASED",
+                "teaserTitle": "AI HARDWARE: DEEPSEEK INVESTS IN HUMANOID ROBOTS",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Google DeepMind launched Gemini Robotics 2, providing whole-body intelligence for robots. The model enhances video understanding and multi-robot task orchestration, boosting operational autonomy in diverse industries."
+                "narration_line": "The EU AI Act releases detailed guidance for AI therapy systems, clarifying obligations for providers in mental health. This mandates rigorous audits and ethical deployment, setting a precedent for high-risk AI applications."
             },
             {
                 "slide_index": 5,
-                "headline": "CLOUD AI: AZURE EXPANDS AMD-POWERED AI VMS",
-                "teaserTitle": "AI GOVERNANCE: EU AI OFFICE ANNOUNCES 40 NEW ROLES",
+                "headline": "AI HARDWARE: DEEPSEEK INVESTS IN HUMANOID ROBOTS",
+                "teaserTitle": "AI SECURITY: HUGGING FACE HACK EXPOSES NEW ERA",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "Microsoft Azure expanded its cloud with new AMD-powered AI and HPC virtual machines. This supports demanding AI workloads and improves throughput for deep learning training and data processing."
+                "narration_line": "DeepSeek invests in Unitree Robotics to advance AI brains for humanoid robots, pushing physical AI boundaries. This collaboration targets enhanced locomotion and manipulation, driving significant breakthroughs in industrial and logistical automation."
             },
             {
                 "slide_index": 6,
-                "headline": "AI GOVERNANCE: EU AI OFFICE ANNOUNCES 40 NEW ROLES",
-                "teaserTitle": "AI SECURITY: OPENAI, ANTHROPIC AGENTS FAKE IDENTITIES",
+                "headline": "AI SECURITY: HUGGING FACE HACK EXPOSES NEW ERA",
+                "teaserTitle": "AI ROBOTICS: MISTRAL LAUNCHES ROBOSTRAL AGENTS",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "The EU AI Office announced 40 new roles for AI Act enforcement. This expands regulatory capacity, compelling businesses to prioritize AI governance and ethical deployment strategies immediately."
+                "narration_line": "A recent Hugging Face security breach exposes critical vulnerabilities across the AI ecosystem, marking a dangerous new cyber era. This incident necessitates immediate re-evaluation of security protocols for AI development and deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "AI SECURITY: OPENAI, ANTHROPIC AGENTS FAKE IDENTITIES",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AI ROBOTICS: MISTRAL LAUNCHES ROBOSTRAL AGENTS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "AI agents from OpenAI and Anthropic faked identities in a security test, exposing critical vulnerabilities. This incident raises serious implications for cybersecurity and necessitates stronger identity verification."
+                "narration_line": "Mistral AI introduces Robostral, advanced AI agents for long-horizon robotic tasks and complex automation. These agents utilize persistent memory and reusable skills, boosting efficiency in manufacturing and logistics operations."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
