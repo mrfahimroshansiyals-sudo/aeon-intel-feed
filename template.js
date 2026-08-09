@@ -1,66 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT-GEN AUTONOMOUS",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "ENTERPRISE AI ARCHITECTURE",
+        "titleBlue": "INTELLIGENCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX & TESLA: TERAFAB TEXAS FACTORY",
+            "heading": "AMD: INFERENCE INFRASTRUCTURE",
             "points": [
-                "SpaceX and Tesla initiate a sixteen point eight billion dollar joint venture building a Texas Terafab chip factory.",
-                "The facilities will manufacture custom high-performance compute silicon optimized specifically for autonomous vehicle fleets and aerospace applications.",
-                "This massive investment aims to secure supply chain sovereignty and bypass traditional semiconductor foundry bottlenecks globally.",
-                "Industry analysts expect the Terafab facility to significantly accelerate full self-driving computing timelines upon completion."
+                "AMD acquired Taalas to enhance dedicated inference chips for high-volume enterprise AI model deployments.",
+                "This acquisition signals a strategic pivot toward specialized silicon that optimizes efficiency for mature models.",
+                "Analysts note the move pressures competitors by lowering total cost of ownership for inference workloads.",
+                "Enterprises can expect specialized hardware pathways for high-density production environments beginning in late 2026."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
+            "heading": "MICROSOFT: AGENTIC WORKFLOWS",
             "points": [
-                "AMD signs a definitive agreement to acquire Taalas to integrate ultra-efficient single-model AI inference chip technology.",
-                "The acquisition targets sub-watt hardware architectures designed to execute dedicated neural network models at minimal operational cost.",
-                "This hardware shift addresses enterprise demand for affordable, localized model execution without expensive general-purpose GPU overhead.",
-                "Strategic roadmap integration will deliver highly optimized silicon designed for cost-sensitive edge and enterprise deployments."
+                "Microsoft launched IQ to provide agents with unified enterprise context across disparate data and systems.",
+                "The solution integrates reasoning capabilities with operational workflows to minimize siloed agentic performance gaps.",
+                "New technical integrations allow agents to access real-time business context during critical decision-making processes.",
+                "Stakeholders gain enhanced visibility into how autonomous agents navigate internal data structures during production."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEEPSEEK: UNITREE AI BRAIN",
+            "heading": "NVIDIA: SECURE AI ALLIANCE",
             "points": [
-                "DeepSeek strategically invests in Unitree to co-develop advanced AI brain architectures tailored for modern humanoid robotics.",
-                "The partnership focuses on training deep reinforcement learning models capable of managing complex physical locomotion and manipulation.",
-                "By embedding open-weight model architectures directly into Unitree hardware, the collaboration bypasses legacy robotic control constraints.",
-                "This milestone accelerates commercial humanoid deployments within industrial logistics and hazardous manufacturing environments worldwide."
+                "NVIDIA expanded the Open Secure AI Alliance to over 120 organizations implementing global cybersecurity transparency.",
+                "The new SAFE guidelines establish standardized protocols for maintaining integrity across complex agentic AI systems.",
+                "This collaborative framework addresses the urgent need for verifiable security in interconnected multi-agent architectures.",
+                "Industry partners are adopting these guidelines to mitigate risks associated with decentralized model deployments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: GEMINI ROBOTICS TWO",
+            "heading": "ANTHROPIC: FRONTIER MODELING",
             "points": [
-                "Google DeepMind deploys Gemini Robotics Two featuring integrated whole-body intelligence and unified video task orchestration models.",
-                "The multimodal system processes real-time visual streams to coordinate complex motor actions across heterogeneous robot configurations.",
-                "Enterprise testing demonstrates significant performance gains in autonomous physical manipulation tasks across diverse operational environments.",
-                "Engineers predict this upgrade will transform industrial automation through zero-shot learning capabilities in physical tasks."
+                "Anthropic released Opus 5 featuring enhanced agentic capabilities and improved precision for professional coding workflows.",
+                "The model update focuses on lowering latent barriers for high-complexity tasks within enterprise research environments.",
+                "Engineering teams gain advanced tool integration for auditable artifacts and flexible high-compute resource utilization.",
+                "This release emphasizes safety-by-design principles to manage risks during sophisticated long-horizon agentic operations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.anthropic.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE: AGENTIC ECOSYSTEMS",
+            "points": [
+                "Google DeepMind introduced Gemini Robotics 2 to provide a whole-body intelligence layer for physical systems.",
+                "New model series optimize task orchestration and multi-robot collaboration for complex real-world industrial environments.",
+                "Developers can leverage improved video understanding to enhance responsiveness in autonomous field-deployed robotic units.",
+                "The expansion reflects a shift toward integrating frontier model intelligence directly into physical infrastructure components."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,13 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "CLOUDFLARE: WORKSPACE OPERATING SYSTEM",
+            "id": 6,
+            "heading": "CLOUDFLARE: AI OPERATING SYSTEM",
             "points": [
-                "Cloudflare launches Cloudflare OS to serve as the unified operating system for AI-first global enterprise architectures.",
-                "The software integrates secure zero-trust network access, model routing pipelines, and local data connectors inside browsers.",
-                "This decentralized framework mitigates data egress vulnerabilities while enabling real-time workspace collaboration for autonomous agents.",
-                "IT administrators gain centralized governance tools to monitor and control agentic actions across distributed enterprise networks."
+                "Cloudflare OS launched as a centralized management layer for AI-first enterprises requiring strict governance.",
+                "The platform provides zero-trust access, model routing, and governed connectors within a unified browser interface.",
+                "Organizations can consolidate their security and workflow orchestration needs without bypassing established enterprise compliance.",
+                "IT teams gain granular control over AI workspaces through integrated model routing and data management tools."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "META AI: MUSE CODE PERSISTENCE",
-            "points": [
-                "Meta unveils Muse Code featuring persistent AI developer agents designed to handle complex codebase architecture tasks.",
-                "The platform leverages long-horizon reasoning capabilities to maintain deep contextual awareness across massive enterprise software repositories.",
-                "Automated continuous integration pipelines run alongside background coding agents to identify and resolve critical security vulnerabilities.",
-                "This development shifts software engineering from interactive chat interfaces toward autonomous, background-running developer agent workforces."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "SAFE SUPERINTELLIGENCE: NVIDIA ALLIANCE",
+            "heading": "TSMC: NANO-FLEX ADVANCEMENT",
             "points": [
-                "Safe Superintelligence Inc partners with NVIDIA to build advanced high-performance computing platforms for safe frontier model training.",
-                "The long-term collaboration secures dedicated Blackwell and Rubin GPU allocations optimized for alignment and scaling research.",
-                "This infrastructure foundation guarantees the computational scale necessary to pioneer verifiable physical AI safety guardrails.",
-                "The alliance establishes a highly secure environment where next-generation autonomous models can safely undergo training processes."
+                "TSMC introduced A14 manufacturing technology utilizing NanoFlex Pro for high-performance computing and AI applications.",
+                "This breakthrough enables superior energy efficiency and power delivery critical for next-generation silicon production.",
+                "The architecture supports the increasing demand for specialized chips in energy-intensive machine learning environments.",
+                "Global supply chains will integrate these capabilities to scale high-performance computing hardware through 2027."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.tsmc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
