@@ -1,50 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "FRONTIER COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN AGENTIC",
+        "titleBlue": "SHIFT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "OpenAI launches GPT-5.6 frontier intelligence alongside GPT-5.6 Sol and free-tier Luna models for scaled enterprise tasks.",
-                "The new architecture introduces advanced pricing performance breakthroughs designed to reduce global token consumption costs drastically.",
-                "Scale optimization allows multi-step planning agents to execute complex, secure transactions across distributed enterprise cloud systems.",
-                "Autonomous capabilities will accelerate workflow transition toward self-improving agentic environments without requiring constant human oversight intervention."
+                "AMD acquired silicon startup Taalas to optimize dedicated, single-model enterprise AI inference at lower hardware costs.",
+                "Dynamic chip configurations reduce execution overhead significantly compared to general-purpose GPU processing matrices across standard workloads.",
+                "Systems architects target mature, high-volume model workloads to implement rigid but highly cost-efficient silicon computing designs.",
+                "This acquisition positions AMD to challenge legacy hyperscaler chip monopolies via application-specific integrated circuit model optimization."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "MICROSOFT: IQ CONTEXT ENGINE",
             "points": [
-                "AMD acquires semiconductor startup Taalas to deliver highly specialized, low-cost inference chips designed for single AI models.",
-                "This design prioritizes dedicated model silicon over general compute to maximize processing throughput for mature enterprise workloads.",
-                "Integrating Taalas hardware allows enterprises to bypass expensive general-purpose GPU architectures for high-volume localized inference tasks.",
-                "Industry analysts predict this acquisition will significantly democratize specialized custom silicon deployment across modern data center networks."
+                "Microsoft launched Web IQ and IQ engines to securely anchor agentic systems to real-time enterprise workspaces.",
+                "Integrating live data feeds directly into browser workflows minimizes vector search latencies and contextual integration bottlenecks.",
+                "Enterprise security teams can govern agent actions through zero-trust connectivity models linked to active workspace directories.",
+                "Organizations can bypass brittle custom API connectors by utilizing centralized semantic grounding fabrics for multi-agent execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://azure.microsoft.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: INSTINCT DEPLOYMENT",
+            "heading": "NVIDIA: SAFE SUPERINTELLIGENCE ALLIANCE",
             "points": [
-                "AMD and Anthropic forge a strategic alliance to deploy up to two gigawatts of Instinct MI450 GPUs.",
-                "The infrastructure expansion targets massive scale compute capabilities to host next-generation agentic models within sovereign cloud environments.",
-                "This collaboration challenges historical hardware monopolies while accelerating high-performance computing pathways for safe, aligned frontier models.",
-                "Scaled deployment guarantees enterprise customers access to robust redundant processing nodes optimized for complex, multi-agent computational pipelines."
+                "NVIDIA formed a strategic long-term partnership with Ilya Sutskever's Safe Superintelligence to accelerate secure scaling paths.",
+                "High-performance compute clusters will deploy customized system guardrails to prevent unmonitored architectural agent drift at scale.",
+                "The cooperation integrates hardware-level acceleration with defensive software agents to monitor model parameters during continuous training cycles.",
+                "Researchers expect this alliance to define baseline algorithmic safety metrics for future frontier model deployments globally."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AMD: ANTHROPIC COMPUTE AGREEMENT",
+            "points": [
+                "AMD partnered with Anthropic to deploy two gigawatts of Instinct MI450 Series GPUs across global data centers.",
+                "This infrastructure commitment powers next-generation Claude models by expanding distributed physical computing capacity for complex reasoning.",
+                "System engineers will leverage AMD open-source ROCm software stack to maximize parallelization and execution pipeline efficiencies.",
+                "The massive hardware deployment secures alternative high-performance scaling options for developers transitioning from legacy compute providers."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,65 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "GOOGLE: WEATHERNEXT MODEL",
-            "points": [
-                "Google DeepMind announces WeatherNext, a highly advanced artificial intelligence forecasting system dedicated to tracking dangerous tropical cyclones.",
-                "The breakthrough scientific model significantly outperforms traditional meteorological frameworks in predicting extreme global weather pattern shifts.",
-                "By leveraging deep spatial analytics, the model delivers actionable atmospheric predictions to protect critical industrial maritime infrastructure.",
-                "Rapid forecasting deployment illustrates how scientific machine learning accelerates planetary protection protocols across vulnerable international logistics hubs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "SPACEX: TERAFAB INITIATIVE",
+            "heading": "CLOUDFLARE: AI OPERATING SYSTEM",
             "points": [
-                "SpaceX and Tesla announce a joint investment of sixteen point eight billion dollars for a Texas chip factory.",
-                "Named the Terafab, this high-capacity manufacturing facility will produce specialized semiconductors optimized for advanced robotics and aerospace systems.",
-                "The localized hardware ecosystem guarantees sovereign supply chain resilience against geopolitical disruptions affecting traditional East Asian foundries.",
-                "Analysts project this capital deployment will accelerate autonomous vehicle manufacturing pipelines and deep-space communication hardware scaling."
+                "Cloudflare introduced its AI Operating System merging workspaces, zero-trust security, and smart model routing within browsers.",
+                "Integrated data connectors protect corporate secrets while enabling localized processing at distributed cloud-edge locations across global networks.",
+                "Automated model routing redirects queries to optimal open models based on cost constraints and required execution speed.",
+                "This approach democratizes enterprise runtime environments by replacing heavy client-side frameworks with highly secure web infrastructure layers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: ROBOTIC BRAIN",
+            "heading": "META: MUSE CODE DEPLOYMENT",
             "points": [
-                "DeepSeek invests strategically in Unitree to develop a unified artificial intelligence brain optimized for humanoid robotic platforms.",
-                "The technical partnership merges advanced open-source foundational models with physical hardware to achieve real-time environmental reasoning capabilities.",
-                "Designing embedded cognitive layers directly into physical machinery accelerates the transition toward fully autonomous industrial manufacturing workforces.",
-                "This structural fusion represents a critical milestone in establishing highly capable, self-correcting agent networks across complex factories."
+                "Meta launched Muse Code featuring persistent AI agents to automate complex software development workflows and codebases.",
+                "Asynchronous model executions allow developer frameworks to self-correct during compiler builds without requiring immediate human intervention.",
+                "Engineering teams utilize architecture-aware reasoning systems to translate legacy enterprise software structures into optimized modern runtimes.",
+                "This open-access platform shifts coding methodologies from manual scripting toward strategic, high-level structural oversight of AI systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FIREBIRD: ARMENIAN FACTORY",
+            "heading": "SALESFORCE: AGENTIC WORKFORCE GROWTH",
             "points": [
-                "Firebird establishes the largest artificial intelligence factory in the CIS region powered by Nvidia and Dell architectures.",
-                "The Armenian high-performance compute hub utilizes cutting-edge Blackwell server infrastructure to support regional localized machine learning developments.",
-                "This digital sovereign hub provides localized startups and researchers with unprecedented processing power to scale complex model architectures.",
-                "Establishing regional computing nodes decentralized from traditional hubs fosters strong economic growth and technological independence across Eastern Europe."
+                "Salesforce customer telemetry shows the active agentic workforce more than doubling year over year in production environments.",
+                "Rapid deployment templates accelerate production cycle timelines, allowing developers to configure and launch active agents within days.",
+                "Businesses are transitioning from simple conversational chatbots toward deep integration of multi-step autonomous transactional workflows in operations.",
+                "This momentum demonstrates a profound structural shift where enterprises prioritize digital agent autonomy over traditional labor-centric expansions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
