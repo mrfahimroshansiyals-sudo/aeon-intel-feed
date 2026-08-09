@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ISRAELI STARTUP LINKED TO AI",
-        "titleBlue": "HACKS",
-        "footerSummary": "A rogue Israeli startup linked to widespread AI model breaches underscores urgent security vulnerabilities across frontier platforms."
+        "titleWhite": "GPT-5.6 FRONTIER MODEL",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI's latest GPT-5.6 model enhances frontier intelligence, while NVIDIA solidifies strategic partnerships and major AI factory infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CYBERSECURITY: ISRAELI STARTUP LINKED TO AI HACKS",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
             "points": [
-                "**Threat Actor:** Israeli startup implicated in major AI model security breaches.",
-                "**Targeted Models:** OpenAI, Anthropic, and Meta AI platforms compromised.",
-                "**Attack Vector:** Rogue agents faked identities, exploited system vulnerabilities.",
-                "**Industry Impact:** Underscores critical need for robust AI supply chain security."
+                "**Model Upgrade:** GPT-5.6 introduces new frontier intelligence capabilities for scaling.",
+                "**Key Features:** Enhanced performance across diverse, complex enterprise tasks.",
+                "**Scalability:** Designed to meet ambitious, large-scale AI deployment requirements.",
+                "**Availability:** Further model access expanded for developer and enterprise users."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
+            "nextUpTease": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/08/israeli-startup-linked-to-rogue-ai-hacks-at-openai-anthropic-and-meta.html",
-                "Published: 2026-08-08T07:00:00Z",
+                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
+                "Published: 2026-08-09T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
+            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
             "points": [
-                "**Investment:** SpaceX and Tesla commit $16.8B to Terafab chip factory.",
-                "**Location:** New, advanced chip manufacturing facility planned for Texas.",
-                "**Focus:** Aims to produce high-performance AI chips and specialized silicon.",
-                "**Strategic Goal:** Boost domestic chip production, reduce supply chain reliance."
+                "**Partnership:** NVIDIA forms strategic alliance with Safe Superintelligence Inc.",
+                "**Objective:** Accelerate SSI's strategic growth in safe AI development.",
+                "**Core Focus:** Advancing frontier AI research with safety as priority.",
+                "**Resource Leverage:** SSI gains NVIDIA's compute power for critical work."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
+            "nextUpTease": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
             "tags": [
-                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-to-spend-16-8b-on-terafab-chip-factory-in-texas",
-                "Published: 2026-08-07T10:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/ilya-sutskever-safe-superintelligence-inc-nvidia-strategic-partnership",
+                "Published: 2026-08-08T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
+            "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
             "points": [
-                "**Collaboration:** AMD partners with Anthropic for large-scale GPU deployment.",
-                "**Hardware:** Anthropic to deploy 2GW of AMD Instinct MI450 Series GPUs.",
-                "**Objective:** Powering next-gen AI models and advanced research capabilities.",
-                "**Scaling:** Significant infrastructure boost for frontier model development."
+                "**New Facility:** Firebird launches CIS region's largest AI factory in Armenia.",
+                "**Powered By:** NVIDIA accelerated computing and Dell high-performance infrastructure.",
+                "**Regional Impact:** Establishes new AI computing hub for global demand.",
+                "**Economic Growth:** Aims to foster local development and new economic opportunities."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/news/amd-and-anthropic-announce-strategic-partnership.html",
-                "Published: 2026-08-08T12:00:00Z",
+                "Source: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+                "Published: 2026-08-08T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
+            "heading": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
             "points": [
-                "**Trend:** Salesforce reports agentic AI workforce more than doubling annually.",
-                "**Deployment:** AI agents are deploying to production faster than previous years.",
-                "**Impact:** Driving significant efficiency gains across enterprise operations.",
-                "**Market Signal:** Indicates rapid adoption of autonomous AI in business."
+                "**Infrastructure:** Azure expands with new AMD-powered AI and HPC virtual machines.",
+                "**VM Types:** Introduces HDv2, HXv2, and ND MI455Xv7 for demanding workloads.",
+                "**Performance:** Supports compute-intensive AI, data, and technical computing tasks.",
+                "**Availability:** Enhances Azure's offerings for high-performance AI deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH MODELS",
             "tags": [
-                "Source: https://www.cio.com/article/2026/08/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce.html",
-                "Published: 2026-08-07T11:30:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-powered-vms",
+                "Published: 2026-08-09T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
+            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH MODELS",
             "points": [
-                "**Strategy:** Cloudflare aims to provide the OS for AI-first enterprises.",
-                "**Offering:** Features AI workspaces, zero-trust access, model routing.",
-                "**Integration:** Unifies data, connectors, and AI tools within browser.",
-                "**Vision:** Simplifies secure, governed AI deployment at scale."
+                "**Model Release:** Google Cloud unveils Gemini 3.6 Flash and 3.5 Flash-Lite.",
+                "**New Variant:** Introduces Gemini 3.5 Flash Cyber for specialized applications.",
+                "**Purpose:** Offers enhanced intelligence and action capabilities for developers.",
+                "**Availability:** Now accessible for enterprise agent development and orchestration."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "tags": [
-                "Source: https://www.cio.com/article/2026/08/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise.html",
-                "Published: 2026-08-07T13:00:00Z",
+                "Source: https://cloud.google.com/blog/product-announcement-gemini-flash-models",
+                "Published: 2026-08-09T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "points": [
-                "**Leadership:** Demis Hassabis assumes singular AI role at Google.",
-                "**Focus:** Consolidates AI strategy across Alphabet's diverse units.",
-                "**Objective:** Accelerate unified development of frontier AI models.",
-                "**Implication:** Signals a more centralized, aggressive AI roadmap."
+                "**Innovation:** DeepMind's WeatherNext AI achieves cyclone forecasting breakthrough.",
+                "**Accuracy:** Demonstrates superior predictive capabilities for weather events.",
+                "**Application:** Significant advancement for climate science and disaster preparedness.",
+                "**Impact:** Enhances global capability to mitigate cyclone-related risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
+            "nextUpTease": "EU AI ACT: OFFICE LAUNCHES HIRING ROUND",
             "tags": [
-                "Source: https://www.infoworld.com/article/2026/08/deepmind-founder-ascends-to-singular-ai-role-at-google.html",
-                "Published: 2026-08-07T09:00:00Z",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-cyclone-forecasting",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
+            "heading": "EU AI ACT: OFFICE LAUNCHES HIRING ROUND",
             "points": [
-                "**Collaboration:** ASML partners with Mistral AI for lithography optimization.",
-                "**Application:** Accelerates advanced semiconductor manufacturing processes.",
-                "**Technology:** AI-native engineering enhances chip patterning efficiency.",
-                "**Industry Impact:** Speeds up production of next-gen AI chips."
+                "**EU Initiative:** EU AI Office announces 40 new posts for AI Act enforcement.",
+                "**Roles:** Positions include tech, legal, and operational experts.",
+                "**Objective:** Strengthens regulatory oversight of AI systems across Europe.",
+                "**Deadline:** Express interest by September 8 for critical governance roles."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://mistral.ai/news/asml-accelerates-lithography-with-mistral-ai/",
-                "Published: 2026-08-08T14:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-eu-ai-office-hiring-round",
+                "Published: 2026-08-08T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
