@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS: USTR TARIFFS IMPACT TRADE",
+        "hookTitle": "FORCED LABOR TARIFFS IMPACT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS EXPAND",
-                "teaserTitle": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
+                "headline": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR has imposed new forced labor tariffs on 60 trading partners as Section 122 tariffs expire. This regulatory enforcement impacts global sourcing, demanding immediate re-evaluation of compliance and supply chain frameworks."
+                "narration_line": "USTR has moved forward with new tariffs on forced labor goods across 60 trading partners, expanding Section 301 restrictions. This action significantly increases compliance burdens and mandates enhanced supply chain due diligence for importers."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
-                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+                "headline": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The U.S. has deployed Section 301 tariffs following prior IEEPA decisions, triggering importer refunds and new duties. Businesses face dual financial complexities, needing swift adjustments to trade costs and classifications."
+                "narration_line": "Iran is considering a ban on U.S. and Israeli-linked vessels in the Strait of Hormuz. This potential action would disrupt 20% of global crude oil shipments, significantly increasing maritime freight rates and risk."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: DATA CENTER CAPACITY STRAIN",
-                "teaserTitle": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
+                "headline": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
+                "teaserTitle": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Data center expansion strains U.S. truck capacity, with each gigawatt needing 100K truckloads. This surge diverts vital transport resources, increasing freight costs and challenging logistics models."
+                "narration_line": "SeaLead Shipping is entering liquidation after U.S. sanctions halted its main container services. This impacts capacity across Asia, Middle East, and Mediterranean routes, prompting urgent cargo rerouting."
             },
             {
                 "slide_index": 4,
-                "headline": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
-                "teaserTitle": "MARITIME: CHINA PORT SUSPENSIONS",
+                "headline": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
+                "teaserTitle": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USMCA positions Mexico for a trade advantage amid rising global barriers, fostering nearshoring investments. This strengthens North American supply chains, promoting regional manufacturing and export capabilities."
+                "narration_line": "Amazon implemented a new product title policy, limiting all listings to 75 characters. This mandates immediate catalog revisions for sellers, impacting search visibility and data management practices."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: CHINA PORT SUSPENSIONS",
-                "teaserTitle": "CONTAINER RATES: ASIA-EUROPE SINKING",
+                "headline": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
+                "teaserTitle": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "China\u2019s ports are suspending operations due to an approaching Super Typhoon, impacting global shipping. This causes substantial cargo backlogs and necessitates immediate rerouting strategies for carriers."
+                "narration_line": "U.S. data center expansion requires 100K truckloads per gigawatt, straining truck capacity. This demand drives up freight costs and extends lead times for other industries."
             },
             {
                 "slide_index": 6,
-                "headline": "CONTAINER RATES: ASIA-EUROPE SINKING",
-                "teaserTitle": "IMPORTS: SUMMER VOLUMES SURGE",
+                "headline": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
+                "teaserTitle": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Asia-Europe container spot rates dropped for the 4th consecutive week, while Transpacific rates stabilize. This divergence highlights varied supply-demand dynamics and carrier capacity management efforts."
+                "narration_line": "JAS Worldwide selected Ripple as its strategic AI partner to enhance freight forwarding. This aims to improve efficiency and combat rising cargo theft, which totaled $725M last year."
             },
             {
                 "slide_index": 7,
-                "headline": "IMPORTS: SUMMER VOLUMES SURGE",
+                "headline": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "U.S. summer monthly imports are projected to reach their highest level since 2022, driven by consumer demand. This robust throughput puts pressure on port infrastructure, requiring optimized logistics."
+                "narration_line": "American Eagle Outfitters will open a new $41M distribution center in North Carolina, creating over 200 jobs. This facility will bolster supply chain infrastructure for the Southeastern U.S."
             },
             {
                 "slide_index": 8,

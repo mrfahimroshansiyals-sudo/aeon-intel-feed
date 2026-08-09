@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFFS",
-        "titleBlue": "EXPAND",
-        "footerSummary": "Global tariffs on forced labor imports signify a pivotal shift in supply chain compliance, demanding immediate re-evaluation of sourcing strategies and trade partnerships."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "New tariffs on forced labor goods expand compliance burdens, raising immediate sourcing risks across 60 trade partners, mandating rigorous supply chain transparency."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS EXPAND",
+            "heading": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
             "points": [
-                "The USTR has advanced tariffs targeting 60 trading partners, specifically for goods linked to forced labor practices, as Section 122 tariffs conclude. This action aligns with a broader push for ethical sourcing and human rights in global trade, impacting diverse industries. Companies must now reassess their supply chains for potential compliance risks, given these stringent new import regulations. The move signals an aggressive stance on international labor standards.",
-                "This new implementation under Section 301 of the Trade Act of 1974 is a significant regulatory enforcement, superseding prior measures. It sets a precedent for how the U.S. will leverage trade policy to address social issues globally, compelling rapid adaptation. The shift marks a critical operational hurdle for importers currently sourcing from implicated regions, requiring swift adjustments. This framework demands verifiable transparency.",
-                "Stakeholders anticipate heightened scrutiny on origin declarations and production methodologies across affected supply chains. Supply chain automation engineers must integrate new compliance protocols to identify and mitigate exposure to these tariffs. The long-term implications include a restructuring of manufacturing and sourcing geographies to avoid prohibitive costs. This drives a need for enhanced digital traceability.",
-                "Businesses are advised to conduct thorough internal audits and seek legal counsel to navigate the complex new tariff landscape effectively. The transition period demands proactive engagement with suppliers to ensure full adherence to the updated U.S. import requirements. Failure to comply could result in substantial financial penalties and significant operational disruptions. This necessitates robust risk management frameworks."
+                "The USTR has officially advanced new tariffs targeting goods implicated in forced labor across 60 trading partners, following the expiration of prior Section 122 duties. This decisive action broadens the scope of import restrictions under Section 301 of the Trade Act of 1974. The move signals a robust enforcement stance against non-compliant supply chains.",
+                "This implementation escalates compliance requirements for importers, mandating stringent due diligence on supply chain origins to avoid significant penalties and shipment delays. Businesses must now re-evaluate their sourcing strategies and supplier networks. The tariffs aim to create a level playing field for domestic industries.",
+                "The expanded tariff regime directly impacts global trade flows, pushing companies to rapidly adapt their manufacturing and sourcing geographies away from high-risk regions. Industry experts anticipate a shift towards regionalized production and enhanced traceability technologies. This regulatory pressure accelerates the decoupling of certain international production networks.",
+                "Stakeholders face increased operational friction and legal exposure for non-compliance, necessitating immediate investment in advanced supply chain transparency tools and audit mechanisms. Legal teams are advising proactive supplier assessments and contractual amendments. This policy underscores a persistent geopolitical element in global trade."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
+            "nextUpTease": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners_as_section_122_tariffs_expire",
-                "Published: 2026-08-09T01:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-09T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
+            "heading": "MARITIME: IRAN CONSIDERS HORMUZ TRANSIT BAN",
             "points": [
-                "Following the Supreme Court's decision on the IEEPA tariff regime, the Trump administration has quickly initiated new Section 301 duties. Importers are now processing refunds for the old tariffs while simultaneously preparing for these new levies. This dual action creates immediate financial and operational complexities for businesses engaged in international trade. The rapid policy transition adds significant market uncertainty.",
-                "The introduction of Section 301 tariffs signals a strategic pivot in U.S. trade enforcement, focusing on specific industry sectors and countries. This policy framework aims to protect domestic industries and enforce fair trade practices through targeted duties. Businesses should anticipate a sustained period of tariff-related adjustments and heightened import costs. Supply chain resilience is paramount.",
-                "Advice to importers emphasizes the need for comprehensive review of import classifications and origin documentation to comply with the new rules. Supply chain professionals are urged to work closely with customs brokers to accurately assess and mitigate tariff impacts. Proactive planning is essential to avoid unforeseen delays and financial burdens. This necessitates a proactive compliance stance.",
-                "The shift requires companies to develop robust strategies for managing trade costs and potential supply chain reconfigurations. Industry experts suggest a proactive approach to supplier negotiations and alternative sourcing exploration. These measures aim to cushion the financial impact and maintain competitive pricing in the market. Operational agility becomes a key differentiator."
+                "Iran is actively considering a legislative proposal to prohibit U.S. and Israeli-linked vessels from transiting the Strait of Hormuz. This development emerges amidst ongoing discussions with Oman to establish a new joint management system for the critical waterway. Geopolitical tensions are escalating maritime risk.",
+                "Such a ban would severely disrupt global oil and gas shipments, impacting approximately 20% of the world's crude oil supply that passes through the strait daily. Freight rates for tankers and container ships would likely surge dramatically. Market volatility is an immediate consequence for energy and logistics sectors.",
+                "The potential restriction raises significant concerns for international shipping lines and insurers, who are already grappling with heightened security risks in the region. Navigational freedom in international waters is now a central point of contention. This move signals a dangerous escalation in regional maritime strategy.",
+                "Global shipping alliances and naval forces are monitoring the situation closely, preparing contingency plans for rerouting vessels and ensuring the security of alternative trade corridors. The ripple effects would extend to manufacturing and consumer goods supply chains worldwide. Stakeholders are bracing for substantial operational adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
             "tags": [
-                "Source: https://theloadstar.com/us-tariffs-refunds-section-301-duties-and-importer-advice/",
-                "Published: 2026-08-09T00:45:00Z",
+                "Source: https://www.cnbc.com/supply-chain/iran-denies-direct-talks-us-strait-hormuz",
+                "Published: 2026-08-09T03:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+            "heading": "MARITIME: SEALEAD SHIPPING ENTERS LIQUIDATION",
             "points": [
-                "The rapid expansion of data centers across the U.S. is exerting unprecedented pressure on the nation's already constrained truck capacity. Each gigawatt of data center expansion necessitates approximately 100,000 truckloads for construction and equipment transport. This surge in demand creates a significant bottleneck for logistics operations nationwide. The specialized transport requirements further exacerbate this.",
-                "Industry experts question the existing truck capacity's ability to meet the escalating construction demands of the technology sector, particularly for large, heavy equipment. This trend diverts vital trucking resources from other economic sectors, potentially impacting delivery times and increasing freight costs. The shift highlights a growing competition for limited transport assets. This challenges established logistics models.",
-                "The strain on trucking capacity necessitates strategic adjustments for shippers, including earlier booking and potentially higher rates for specialized hauls. Logistics providers are exploring solutions such as dedicated fleets or partnerships to service the booming data center market. Effective freight planning and optimization become critical for maintaining service levels. Innovative routing solutions are in demand.",
-                "This development underscores a broader infrastructure challenge where specialized logistics needs are outpacing conventional freight capabilities. Companies reliant on general trucking services may experience longer lead times and reduced flexibility. Investment in new trucking capacity and more efficient routing technologies is essential to alleviate this growing pressure. Digital freight platforms offer some relief."
+                "Singapore-headquartered SeaLead Shipping has entered voluntary liquidation following recent sweeping U.S. sanctions, effectively halting its main container line services. This development marks a rapid downfall for one of the container shipping sector's rising operators. The company's vessels and container assets are rapidly being acquired by rivals.",
+                "The cessation of SeaLead\u2019s operations, particularly across Asia, the Middle East, Mediterranean, and Baltic routes, will lead to immediate capacity reallocation challenges. Shippers reliant on their services face urgent cargo rerouting and potential rate increases on affected lanes. The sanctions' impact underscores financial and operational vulnerabilities.",
+                "The market is responding with other carriers quickly absorbing SeaLead's fleet and booking slots, though temporary disruptions are inevitable for impacted customers. This event highlights the volatility induced by geopolitical actions in global maritime logistics. Liner capacity is now undergoing rapid adjustments.",
+                "This liquidation serves as a stark reminder of escalating compliance risks for shipping companies operating in complex geopolitical environments, forcing carriers to re-evaluate their operational footprints. Insurers and financial institutions are also reviewing their exposure to sanctioned entities. The incident emphasizes the need for dynamic risk management frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
+            "nextUpTease": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
             "tags": [
-                "Source: https://www.joc.com/trucking-transport/data-centers-pulling-already-shrinking-pool-us-truck-capacity_20260809.html",
-                "Published: 2026-08-09T00:30:00Z",
+                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation",
+                "Published: 2026-08-07T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
+            "heading": "E-COMMERCE: AMAZON NEW PRODUCT TITLE POLICY",
             "points": [
-                "The USMCA trade agreement is increasingly positioning Mexico with a distinct advantage amidst rising global trade barriers and protectionist policies. Mexico's strategic geographic location and preferential trade status enhance its appeal for nearshoring and manufacturing diversification. This strengthens North American supply chains against external volatility. The treaty's provisions provide a critical framework.",
-                "As international trade barriers escalate, particularly from U.S. tariff actions, the stable framework provided by USMCA offers predictability for businesses. This encourages foreign direct investment into Mexico, fostering robust manufacturing and export capabilities. The agreement safeguards cross-border operations, making Mexico a more attractive hub. It mitigates broader trade risks effectively.",
-                "Companies are leveraging Mexico's competitive labor costs and integrated supply chains to serve the North American market more efficiently. This shift supports the development of regional logistics infrastructure and specialized industrial zones along the border. The trend indicates a strategic re-evaluation of global sourcing models by multinational corporations. It fosters regional economic integration.",
-                "The enhanced role of Mexico in global trade, facilitated by USMCA, demands that logistics providers adapt their networks and service offerings. This includes increased capacity for cross-border trucking and optimized customs compliance solutions. Businesses seeking stability and reduced lead times are increasingly turning to Mexican manufacturing bases. This reinforces the \"Mexico First\" strategy."
+                "Amazon has implemented a new product title policy, limiting titles to 75 characters or less, a rule now also applying to its first-party listings. This update aims to standardize product display and enhance customer search experience. The policy went into effect on August 3rd, after an initial July 26th announcement.",
+                "This change directly impacts third-party sellers and brands on the platform, requiring immediate revisions to their product catalog data and listing strategies. Non-compliant titles may face suppression or reduced visibility in search results. Sellers must optimize for conciseness and key information.",
+                "The enforcement pushes e-commerce operations to streamline their data management practices, prioritizing clarity and keyword efficiency within tighter constraints. This can lead to increased operational overhead for large product portfolios. Retailers are adapting to stricter platform governance.",
+                "Analysts suggest this move reflects Amazon's ongoing effort to improve the platform's user experience and combat information overload, potentially favoring sellers who adapt quickly. Maintaining sales performance now depends on mastering new content guidelines. Brands must carefully re-evaluate their product title taxonomy."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CHINA PORT SUSPENSIONS",
+            "nextUpTease": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/borderlands-mexico-usmca-gives-mexico-edge-as-trade-barriers-rise",
-                "Published: 2026-08-09T00:15:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/09/amazons-new-product-title-policy/",
+                "Published: 2026-08-09T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: CHINA PORT SUSPENSIONS",
+            "heading": "LOGISTICS: DATA CENTERS STRAIN US TRUCK CAPACITY",
             "points": [
-                "Chinese port operations are being suspended across major coastal regions as a powerful Super Typhoon approaches, prompting widespread warnings. This proactive measure aims to mitigate risks to vessels and port infrastructure, prioritizing safety during severe weather events. Such suspensions will inevitably lead to significant disruptions in global shipping schedules. The scale of this storm is a major concern.",
-                "Fueling operations for ships at China\u2019s largest maritime hubs have also been halted, further compounding the operational impact for vessels. Shipping companies are advising ships to divert or seek safe harbor, causing delays and increasing voyage times. The temporary closures are expected to generate substantial backlogs of cargo and vessels awaiting processing. This impacts global freight flow.",
-                "The typhoon's approach and subsequent port closures will disrupt critical supply chains, affecting delivery times for goods destined for global markets. Logistics managers must prepare for extended lead times, potential rerouting costs, and increased demurrage charges. This highlights the inherent vulnerability of maritime trade to unpredictable environmental factors. Contingency planning is now essential.",
-                "Shippers and carriers should closely monitor weather advisories and port reopening updates to minimize the cascading effects on their operations. Proactive communication with clients and supply chain partners is crucial for managing expectations and mitigating financial losses. The incident underscores the importance of flexible scheduling and diversified shipping routes. This emphasizes resilience strategies."
+                "The burgeoning expansion of U.S. data centers is significantly straining an already shrinking pool of domestic truck capacity, with each gigawatt of new expansion requiring approximately 100,000 truckloads. This massive demand surge creates a bottleneck for specialized freight movements. Experts question the sufficiency of existing truck infrastructure.",
+                "This trend is driving up freight costs and extending lead times for other industries reliant on over-the-road transportation, as competition for available trucks intensifies. The specialized equipment and skilled drivers needed for data center components add complexity. Carriers are prioritizing high-value tech shipments.",
+                "The construction and operational demands of AI infrastructure are reshaping freight market dynamics, diverting resources and capacity towards high-tech logistics. This shift impacts traditional manufacturing, retail, and agricultural supply chains. New logistics models may be needed to address this imbalance.",
+                "Logistics providers are exploring new strategies, including dedicated fleets and enhanced intermodal options, to alleviate pressure, but long-term solutions require significant investment in trucking infrastructure and workforce development. Shippers face higher transportation costs and longer planning cycles. The challenge requires strategic industry adaptation."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER RATES: ASIA-EUROPE SINKING",
+            "nextUpTease": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-s-ports-suspending-operations-as-super-typhoon-approaches",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.joc.com/trucking-logistics/data-centers-pulling-already-shrinking-pool-us-truck-capacity_20260809.html",
+                "Published: 2026-08-09T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONTAINER RATES: ASIA-EUROPE SINKING",
+            "heading": "LOGISTICS TECH: JAS SELECTS RIPPLE AS AI PARTNER",
             "points": [
-                "Spot rates on Asia-Europe container routes continue their downward trend, declining for the fourth consecutive week amidst sustained overcapacity and subdued demand. This rate erosion is partially offset by carriers implementing blank sailings and capacity adjustments to stabilize pricing. Shippers are benefiting from lower freight costs on these key trade lanes, improving their profit margins. This marks a notable market shift.",
-                "In contrast to the struggling Asia-Europe market, transpacific spot rates are presenting a different, more resilient picture, showing signs of stabilization or slight increases. This divergence indicates varying supply-demand dynamics and strategic carrier deployments across major global routes. The transpacific market remains influenced by peak season preparations and U.S. import volumes. Market heterogeneity is evident.",
-                "The continued decline in Asia-Europe rates suggests ongoing market rebalancing and intense competition among shipping lines. Shippers should consider leveraging these favorable conditions to secure advantageous long-term contracts or optimize their freight procurement strategies. This environment presents opportunities for cost reduction but also challenges carrier profitability. Rate volatility persists across segments.",
-                "Analysts predict that carriers will continue aggressive capacity management strategies, including further blank sailings and slow steaming, to prevent further rate deterioration. The market will closely watch for any shifts in global economic indicators that could impact demand recovery on the Asia-Europe routes. This dynamic landscape requires vigilant monitoring for all maritime stakeholders. Adaptability is key for carriers."
+                "JAS Worldwide has selected Ripple as its strategic AI partner, integrating advanced AI capabilities to enhance freight forwarding operations. This partnership aims to leverage artificial intelligence for improved efficiency, predictive analytics, and optimized logistics workflows across its global network. The focus is on automating complex processes.",
+                "The deployment of AI is designed to combat rising operational challenges, including escalating cargo theft, which hit $725 million last year, and improve overall supply chain security and visibility. Enhanced data analysis will identify and mitigate risks more effectively. This strategic integration is critical for modernizing freight management.",
+                "This move reflects a growing trend among leading logistics providers to adopt AI for process automation, decision support, and real-time problem-solving in fragmented supply chains. AI-powered agents are streamlining tasks from rate negotiation to customs documentation. The industry is pivoting towards intelligent automation.",
+                "The partnership positions JAS to offer more resilient and transparent services to its clients, ensuring better management of exceptions and predictive insights into shipment movements. Stakeholders benefit from increased operational reliability and reduced manual intervention. This innovation drives a competitive edge in logistics technology."
             ],
             "imageUrl": "",
-            "nextUpTease": "IMPORTS: SUMMER VOLUMES SURGE",
+            "nextUpTease": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
             "tags": [
-                "Source: https://theloadstar.com/asia-europe-rates-still-sinking-different-picture-transpacific/",
-                "Published: 2026-08-07T09:00:00Z",
+                "Source: https://theloadstar.com/jas-selects-ripple-as-strategic-ai-partner",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IMPORTS: SUMMER VOLUMES SURGE",
+            "heading": "WAREHOUSING: AEO OPENS $41M NORTH CAROLINA DC",
             "points": [
-                "U.S. summer monthly imports are projected to reach their highest levels since 2022, indicating robust consumer demand and restocking efforts by retailers. This surge in import volumes, particularly through major container ports, signifies a healthy but challenging period for logistics operations. The increased throughput puts pressure on port infrastructure and inland transportation networks. Retailers are preparing for holiday demand.",
-                "While an early peak shipping season showed some intensity, analysts forecast that these elevated volumes will likely subside slightly in September, normalizing toward year-end. This suggests a more manageable flow for supply chains after the initial summer rush, alleviating some congestion concerns. The current trend signals a return to more predictable seasonal patterns, albeit at higher baseline levels. Inventory levels are being carefully watched.",
-                "The sustained high import levels require efficient coordination between ocean carriers, terminal operators, and drayage services to prevent port bottlenecks. Logistics professionals must optimize warehousing and distribution strategies to handle the increased influx of goods. Effective communication across the supply chain is paramount to ensure smooth cargo flow. This demands advanced planning.",
-                "This forecast provides crucial insights for retailers and manufacturers in planning their inventory management and distribution strategies for the coming months. Companies should review their transportation contracts and warehousing agreements to ensure adequate capacity. The sustained demand underscores the resilience of the U.S. economy and its impact on global trade flows. This indicates a robust market outlook."
+                "American Eagle Outfitters (AEO) is set to open a new $41 million distribution center in North Carolina, bolstering its supply chain infrastructure for the Southeastern U.S. This significant investment expands AEO's logistical footprint. The facility is expected to become operational in early 2027.",
+                "The new facility is projected to create over 200 jobs, indicating a positive economic impact and an expansion of specialized warehousing employment in the region. It will enhance fulfillment capabilities for both retail stores and e-commerce orders. This strengthens regional supply chain resilience.",
+                "This strategic expansion reflects ongoing efforts by retailers to optimize distribution networks for faster delivery and improved inventory management, particularly in key consumer markets. It supports a blended fulfillment model balancing efficiency and cost. Retailers are building robust localized hubs.",
+                "The investment underscores a commitment to adapting supply chain architecture to meet evolving consumer demands and mitigate disruptions, providing more agile responsiveness to market fluctuations. Improved logistics infrastructure directly supports growth objectives. This positions AEO for scalable future operations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/20260807-summer-monthly-imports-to-hit-highest-level-since-2022",
-                "Published: 2026-08-07T07:00:00Z",
+                "Source: https://www.retaildive.com/news/american-eagle-outfitters-opens-distribution-center-north-carolina/",
+                "Published: 2026-08-08T00:30:00Z",
                 "Status: Audited & True"
             ]
         }
