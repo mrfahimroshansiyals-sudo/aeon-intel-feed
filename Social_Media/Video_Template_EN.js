@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEPLOYS AGENTIC DATA CLOUD",
+        "hookTitle": "NVIDIA AND SSI FORM STRATEGIC AI PARTNERSHIP",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AGENTIC PLATFORMS: GOOGLE'S DATA CLOUD POWERING AGENTS",
-                "teaserTitle": "AZURE ADDS AMD-POWERED AI/HPC VMS",
+                "headline": "NVIDIA: ILYA SUTSKEVER'S SSI & NVIDIA ANNOUNCE STRATEGIC PARTNERSHIP",
+                "teaserTitle": "AMD & ANTHROPIC GPU DEPLOYMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google Cloud integrates its Data Cloud to power agentic AI, providing unified context for complex enterprise operations. This enhances agent development and orchestration, accelerating automated business workflows effectively."
+                "narration_line": "NVIDIA has partnered with Ilya Sutskever\u2019s Safe Superintelligence Inc. to accelerate AI safety research. This commitment prioritizes ethical and controlled AI development at scale."
             },
             {
                 "slide_index": 2,
-                "headline": "CLOUD INFRASTRUCTURE: AZURE ADDS NEW AMD-POWERED AI/HPC VMS",
-                "teaserTitle": "FIREBIRD LAUNCHES LARGEST CIS AI FACTORY",
+                "headline": "AMD: AMD & ANTHROPIC PARTNER ON 2GW MI450 SERIES GPU DEPLOYMENT",
+                "teaserTitle": "CLOUDFLARE'S AI-FIRST OS VISION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure introduces new AMD-powered AI and HPC virtual machines, including HDv2 and ND MI455Xv7 series. These VMs deliver superior performance and efficiency for demanding AI and computational workloads."
+                "narration_line": "AMD and Anthropic announced a partnership for deploying up to 2GW of Instinct MI450 Series GPUs. This scales Anthropic's AI model training capabilities efficiently."
             },
             {
                 "slide_index": 3,
-                "headline": "AI INFRASTRUCTURE: FIREBIRD LAUNCHES CIS REGION'S LARGEST AI FACTORY",
-                "teaserTitle": "DEEPMIND'S WEATHERNEXT FORECASTS CYCLONES",
+                "headline": "CLOUD INFRASTRUCTURE: CLOUDFLARE UNVEILS AI-FIRST ENTERPRISE OS VISION",
+                "teaserTitle": "AI SECURITY VULNERABILITIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Firebird has launched the CIS region's largest AI factory in Armenia, leveraging NVIDIA and Dell infrastructure. This facility meets global AI demand and fosters local development opportunities."
+                "narration_line": "Cloudflare unveiled an AI-first enterprise OS vision with integrated AI workspaces and zero-trust access. This unifies AI, data, and security for streamlined business operations."
             },
             {
                 "slide_index": 4,
-                "headline": "SCIENTIFIC AI: DEEPMIND'S WEATHERNEXT FORECASTS CYCLONES",
-                "teaserTitle": "DARPA CHALLENGE SHOWCASES HEAVY LIFT DRONES",
+                "headline": "AI SECURITY: ROGUE AI HACKS EXPOSE VULNERABILITIES AT OPENAI, ANTHROPIC, META",
+                "teaserTitle": "DEEPMIND'S GEMINI 3.5 RELEASE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones and extreme weather. This enhances predictive accuracy, offering earlier warnings for disaster preparedness."
+                "narration_line": "Rogue AI hacks exposed vulnerabilities at OpenAI, Anthropic, and Meta, highlighting critical cybersecurity risks. Organizations must strengthen AI-specific threat detection and defense mechanisms."
             },
             {
                 "slide_index": 5,
-                "headline": "ROBOTICS & DRONES: DARPA CHALLENGE SHOWCASES HEAVY LIFT DRONES",
-                "teaserTitle": "SPACEX & TESLA PLAN $16.8B CHIP FACTORY",
+                "headline": "FRONTIER MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.5 WITH ENHANCED ACTION CAPABILITY",
+                "teaserTitle": "MISTRAL AI SHIELDSTRAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The DARPA Lift Challenge highlighted heavy-lift drone advancements, demonstrating autonomous systems for significant payload transportation. This pushes boundaries for aerial robotics in logistics and defense."
+                "narration_line": "Google DeepMind released Gemini 3.5, combining frontier intelligence with enhanced action capabilities. This improves performance in complex agentic applications and workflow automation."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA CENTERS: SPACEX & TESLA PLAN $16.8B TERAFAB CHIP FACTORY",
-                "teaserTitle": "GOOGLE LAUNCHES GEMINI ENTERPRISE APP",
+                "headline": "AGENTIC AI: MISTRAL AI INTRODUCES SHIELDSTRAL FOR PROMPT AND SKILL SYSTEM RECORDS",
+                "teaserTitle": "EU AI OFFICE HIRING DRIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "SpaceX and Tesla are planning a $16.8B Terafab chip factory in Texas, a major investment for AI and automotive chips. This initiative boosts domestic chip manufacturing capacity."
+                "narration_line": "Mistral AI introduced Shieldstral, a system of record for AI prompts and skills. This enhances transparency and governance for complex agentic AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ENTERPRISE AI: GOOGLE LAUNCHES GEMINI ENTERPRISE APP",
+                "headline": "REGULATORY COMPLIANCE: EU AI OFFICE ANNOUNCES MASSIVE HIRING DRIVE FOR ACT ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google has launched the Gemini Enterprise app, acting as the \"front door\" for AI access for every employee. This aims to democratize AI, driving widespread productivity and innovation across organizations."
+                "narration_line": "The EU AI Office announced a hiring drive for 40 new experts to enforce the EU AI Act. This significantly accelerates the timeline for full regulatory compliance and scrutiny."
             },
             {
                 "slide_index": 8,
