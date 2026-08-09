@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 DEBUTS FOR SCALABLE AI",
-        "titleBlue": "AMBITION",
-        "footerSummary": "OpenAI's GPT-5.6 leads a wave of new AI models and enterprise tools, redefining operational scalability and defense capabilities."
+        "titleWhite": "FIREBIRD LAUNCHES CIS REGION\u2019S LARGEST AI FACTORY IN",
+        "titleBlue": "ARMENIA",
+        "footerSummary": "NVIDIA spearheads regional AI infrastructure deployment. AMD's strategic acquisition fortifies AI inference capabilities amid emerging security threats."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 DEBUTS FOR SCALABLE AI AMBITION",
+            "heading": "NVIDIA: FIREBIRD LAUNCHES CIS AI FACTORY IN ARMENIA",
             "points": [
-                "**Frontier Model:** GPT-5.6 launches, offering significant advancements in AI intelligence.",
-                "**Scalability:** Designed for enterprise use, supporting ambitious, large-scale AI projects.",
-                "**New Capabilities:** Enhances complex problem-solving, reasoning, and creative applications.",
-                "**Performance Gains:** Delivers improved efficiency and lower latency for critical workloads."
+                "**NVIDIA:** Inaugurates Firebird AI factory, largest in CIS region.",
+                "**Location:** Armenia now hosts a new, significant AI computing hub.",
+                "**Infrastructure:** Powered by NVIDIA accelerated computing and Dell Technologies.",
+                "**Economic Impact:** Aims to drive global AI demand and local development."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-09T15:12:00Z",
+                "Source: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+                "Published: 2026-08-08T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
             "points": [
-                "**Model Release:** Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber launched.",
-                "**Optimized Performance:** Enhanced speed and efficiency for diverse AI applications.",
-                "**Cyber Focus:** Flash Cyber boosts security analytics and threat detection capabilities.",
-                "**Developer Access:** Provides new, more accessible options for AI model integration."
+                "**Acquisition:** AMD acquires Taalas, enhancing AI compute capabilities.",
+                "**Technology:** Focuses on breakthrough inference performance and efficiency technology.",
+                "**Roadmap:** Integrates Taalas' innovation into AMD's AI roadmap for differentiation.",
+                "**Market Impact:** Aims to deliver cheaper, faster enterprise inference solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR AI GOVERNANCE",
+            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai/gemini-flash-models",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/news/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market.html",
+                "Published: 2026-08-06T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: SHIELDSTRAL FOR AI GOVERNANCE",
+            "heading": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
             "points": [
-                "**New System:** Shieldstral provides system of record for AI prompts and skills.",
-                "**Governance Focus:** Enhances traceability and auditing for AI agent operations.",
-                "**Operational Clarity:** Offers structured data for prompt engineering and skill management.",
-                "**Enterprise Adoption:** Facilitates robust deployment of agentic AI within organizations."
+                "**Model Release:** Gemini Omni Flash and Nano Banana 2 Lite now available.",
+                "**Performance:** Omni Flash offers rapid multi-modal creation capabilities.",
+                "**Efficiency:** Nano Banana 2 Lite is Google's fastest, most efficient image model.",
+                "**Developer Access:** Expands model portfolio for diverse AI application development."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-shieldstral",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai/gemini-omni-flash-nano-banana-2-lite",
+                "Published: 2026-08-09T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "heading": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
             "points": [
-                "**New Service:** Google AI Threat Defense protects against evolving AI-powered attacks.",
-                "**Proactive Security:** Outpaces adversaries using advanced threat detection strategies.",
-                "**Enterprise Protection:** Safeguards data and infrastructure within cloud AI environments.",
-                "**Integrated Defense:** Leverages Google's intelligence for comprehensive security solutions."
+                "**Infrastructure:** Azure expands with new AMD-powered AI and HPC virtual machines.",
+                "**VM Series:** Includes HDv2, HXv2, and ND MI455Xv7 for demanding workloads.",
+                "**Workloads:** Supports deep learning, AI inference, and technical computing.",
+                "**Performance:** Designed for high performance and compute-intensive applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: ROBOSTRAL NAVIGATE FOR ROBOTICS",
+            "nextUpTease": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/security/ai-threat-defense",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-09T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE FOR ROBOTICS",
+            "heading": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
             "points": [
-                "**Robotics AI:** Robostral Navigate introduced for enhanced autonomous system control.",
-                "**Precision Movement:** Improves navigation accuracy and obstacle avoidance in complex environments.",
-                "**Efficiency Boost:** Optimizes pathfinding and operational efficiency for robotic agents.",
-                "**Industrial Applications:** Targets logistics, manufacturing, and exploration robotics deployments."
+                "**Security Breach:** Hugging Face platform affected by a significant security hack.",
+                "**AI Risk:** Signals a dangerous new era for AI supply chain security.",
+                "**Enterprise Exposure:** Many firms remain unaware of their potential vulnerability.",
+                "**Mitigation:** Calls for strengthened security controls around AI systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+            "nextUpTease": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-robostral-navigate",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/08/hugging-face-hack-marks-dangerous-new-ai-era.html",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+            "heading": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
             "points": [
-                "**ChatGPT Integration:** GPT-5.6 Sol improvements rolling out to ChatGPT users.",
-                "**Free User Access:** GPT-5.6 Luna now accessible for all free ChatGPT users.",
-                "**Democratized AI:** Expands frontier model capabilities to broader user base.",
-                "**Product Enhancement:** Continuously refining model performance and user experience."
+                "**Investment:** DeepSeek invests in Unitree for humanoid robot AI development.",
+                "**Focus:** Developing advanced AI brains for next-generation humanoid bots.",
+                "**Autonomy:** Aims to enhance intelligent decision-making and interaction capabilities.",
+                "**Future Robotics:** Accelerates the frontier of autonomous humanoid applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: INTRODUCING MISTRAL OCR 4",
+            "nextUpTease": "REGULATION: AI THERAPY UNDER EU AI ACT",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-sol-luna-access",
-                "Published: 2026-08-09T15:25:00Z",
+                "Source: https://www.aibusiness.com/robotics/deepseek-invests-in-unitree-to-develop-ai-brain-for-humanoid-bots",
+                "Published: 2026-08-07T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: INTRODUCING MISTRAL OCR 4",
+            "heading": "REGULATION: AI THERAPY UNDER EU AI ACT",
             "points": [
-                "**Model Release:** Mistral OCR 4 launches, advancing document intelligence capabilities.",
-                "**Accuracy Boost:** Significant improvements in text recognition from complex images.",
-                "**Data Extraction:** Enhanced ability to process and extract structured data from documents.",
-                "**Enterprise Solutions:** Optimizes automation for administrative and data-intensive workflows."
+                "**Compliance:** EU AI Act outlines rules for AI systems in therapy/emotional support.",
+                "**Obligations:** Providers of GPAI systems face specific legal requirements.",
+                "**Governance:** Aims to ensure safe and responsible deployment of health AI.",
+                "**Impact:** Affects mental health AI tools and patient data privacy."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-mistral-ocr-4",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act/",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
