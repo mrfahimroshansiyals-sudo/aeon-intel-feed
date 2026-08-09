@@ -66,9 +66,13 @@ Process data through this 3-stage filtration engine:
 --------------------------------------------------------------------------------
 SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
 --------------------------------------------------------------------------------
-- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "OPENAI: GPT-5 API RELEASE") so that the UI rendering client accurately parses and applies color accents.
-- Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). Each paragraph must contain exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). 
-- Length Control: Each paragraph summary point must be maximum of 3 lines per individual string point constraint.
+- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "OPENAI: GPT-5 API RELEASE") where the category prefix before the colon is styled in #3296ff blue.
+- Slide Content Format: Every slide must contain exactly four distinct, structured narrative points separated by array index mapping:
+  1. [Technical breakthrough summary sentence block, max 3 lines]
+  2. [Quantitative operational impact sentence block, max 3 lines]
+  3. [Strategic architectural context sentence block, max 3 lines]
+  4. [Direct stakeholder prediction implication block, max 3 lines]
+- Length Control: Each point must be strictly restricted to a maximum of 3 lines per individual string point constraint.
 - Editorial Rule: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION inside the 7 data slides. AEON Intel acts strictly as the objective publishing intelligence agency.
 - Zero Duplication Rule: Each section, block, schema parameter, or template definition must appear strictly once in its designated directory or payload schema. Never repeat literal output blocks or duplicate text templates across separate structural JSON keys.
 
@@ -80,7 +84,7 @@ Extract 7 distinct technical developments from the scraped data sources. Parse y
 - titleWhite: Pure core title words except the last word (derived strictly from Slide 1 heading after stripping any category prefix and colon)
 - titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon)
 - footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words).
-- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, dynamic, deep-linked source article URL** fetched during runtime (e.g., `["Source: [DYNAMIC_EXACT_SOURCE_URL]", "Published: [DYNAMIC_PUBLISHED_ISO_TIMESTAMP]", "Status: Audited & True"]`).
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule (with `#3296ff` blue category prefix), exactly the 4 required technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the exact, dynamic, deep-linked source article URL fetched during runtime (`["Source: [DYNAMIC_EXACT_SOURCE_URL]", "Published: [DYNAMIC_PUBLISHED_ISO_TIMESTAMP]", "Status: Audited & True"]`).
 
 --------------------------------------------------------------------------------
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
