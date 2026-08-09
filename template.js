@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC",
-        "titleBlue": "SYSTEM"
+        "titleWhite": "NEXT-GEN AUTONOMOUS",
+        "titleBlue": "ARCHITECTURES"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS ACQUISITION",
+            "heading": "AMD: TAALAS ASIC ACQUISITION",
             "points": [
-                "AMD acquired Taalas to integrate high-efficiency, single-model silicon into its global AI inference roadmap.",
-                "The integration reduces processing overhead and operating costs for high-volume enterprise model deployments.",
-                "This strategic shift targets ultra-low-cost, dedicated hardware over general-purpose graphic processing units.",
-                "Enterprise developers gain immediate access to application-specific integrated circuits designed for mature architectures."
+                "AMD acquired Taalas to integrate breakthrough single-model silicon designed for low-cost, high-volume AI inference tasks.",
+                "Taalas technology will reduce operational training and inference hardware costs across legacy enterprise data centers.",
+                "This purchase integrates specialized ASICs directly into AMD open-standard Instinct ecosystem alongside traditional GPU architectures.",
+                "Enterprise clients can deploy cheaper dedicated hardware specifically tuned to host mature, singular deep learning models."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: ROBOTICS UPGRADE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "points": [
-                "Google DeepMind launched Gemini Robotics 2, providing whole-body intelligence and video understanding to physical machinery.",
-                "The model enables multi-robot collaboration and complex real-time task orchestration across distributed hardware endpoints.",
-                "Integrating direct physical action capabilities minimizes latency in complex industrial automated manufacturing environments.",
-                "Industrial operators can now deploy highly adaptive autonomous fleets capable of interactive structural engineering tasks."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://deepmind.google",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
-            "points": [
-                "OpenAI introduced GPT-5.6 to establish a highly scalable frontier intelligence platform for complex workloads.",
-                "The upgrade significantly improves raw compute efficiency while lowering token latency across multi-agent processes.",
-                "Software developers can integrate this model to coordinate persistent digital agents handling massive databases.",
-                "Corporate enterprise clients will scale automated operations using more robust, context-aware artificial intelligence systems."
+                "OpenAI deployed GPT-5.6 frontier intelligence delivering advanced multi-step reasoning capabilities for automated agentic workloads.",
+                "The upgraded neural network achieves exceptional price-performance metrics, lowering execution latency across API endpoints significantly.",
+                "This release unifies complex real-time reasoning loops directly within the centralized ChatGPT enterprise cloud platform.",
+                "Developers gain access to highly scalable autonomous systems capable of executing prolonged mathematical and analytical tasks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,45 +38,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ANTHROPIC: OPUS 5 AGENTS",
+            "id": 3,
+            "heading": "MISTRAL AI: ROBOSTRAL DEPLOYMENT",
             "points": [
-                "Anthropic announced Claude Opus 5, delivering superior coding syntax generation and more capable autonomous agents.",
-                "This model reduces execution errors during long-horizon engineering tasks and complex software architectural design.",
-                "Decentralized development groups can leverage safe agentic frameworks to automate repetitive software integration pipelines.",
-                "Corporate technical leads expect significant increases in engineering productivity across sovereign cloud deployment architectures."
+                "Mistral AI introduced Robostral Navigate alongside Shieldstral to establish a secure system of record for skills.",
+                "The framework scales runtime efficiency by managing persistent memory structures across diverse autonomous terminal coding agents.",
+                "This release bridges high-horizon logic controllers with localized execution, standardizing telemetry protocols across industrial environments.",
+                "Global enterprises can integrate robust spatial reasoning engines directly into specialized legacy manufacturing hardware configurations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.anthropic.com",
+                "Source: https://mistral.ai",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "DEEPMIND: GEMINI ROBOTICS 2 UNIFICATION",
+            "points": [
+                "Google DeepMind launched Gemini Robotics 2 to deliver whole-body intelligence and video-based spatial reasoning to automation platforms.",
+                "Multi-robot collaboration and task orchestration capabilities reduce training latency for physical automation deployments by half.",
+                "The physical engine combines video understanding with agent orchestration frameworks, bypassing traditional isolated sensor control systems.",
+                "Logistics operators can deploy unified fleet controllers capable of executing multi-step physical coordination tasks seamlessly."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://deepmind.google",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: MUSE CODE ENGINE",
+            "heading": "NVIDIA: SSI STRATEGIC ALLIANCE",
             "points": [
-                "Meta released Muse Code to facilitate complex software engineering tasks using persistent digital agent networks.",
-                "The platform accelerates continuous integration and delivery by automating detailed codebase analysis and bug verification.",
-                "Implementing persistent agent memories allows software developers to maintain system context over long development cycles.",
-                "Enterprise technical organizations will transition to automated code generation platforms to lower long-term maintenance costs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FIREBIRD: ARMENIAN AI FACTORY",
-            "points": [
-                "Firebird opened the largest regional AI factory in Armenia utilizing Dell high-performance computing infrastructure.",
-                "The facility scales computational capacity to meet growing localized demand for complex model training processes.",
-                "Deploying specialized NVIDIA accelerated hardware establishes a sovereign digital intelligence hub in the CIS region.",
-                "Regional technology startups will gain high-performance cloud access to accelerate localized artificial intelligence developments."
+                "NVIDIA partnered with Safe Superintelligence Inc. to accelerate development of highly secure next-generation superintelligence training infrastructure.",
+                "This collaboration secures dedicated hardware resource pools to accelerate the validation of advanced safety-aligned foundational models.",
+                "Safe Superintelligence will utilize specialized accelerated computing clusters optimized specifically for robust agentic defense validation.",
+                "Safe deployment protocols will establish standardized, high-assurance development environments for hyperscale neural network architectures globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MICROSOFT: WEB IQ GROUNDING",
+            "id": 6,
+            "heading": "TSMC: A16 BACKSIDE POWER ARCHITECTURE",
             "points": [
-                "Microsoft debuted Web IQ to securely ground autonomous digital agents with real-time validated online information.",
-                "This framework eliminates context fragmentation and prevents data hallucination across multi-step corporate automated workflows.",
-                "Connecting systems directly to real-time information streams enhances the precision of autonomous transactional execution.",
-                "Enterprise systems administrators can confidently deploy safer automated customer interfaces with minimal programmatic security risks."
+                "TSMC unveiled its A16 nanosheet process technology incorporating innovative backside power rails named Super Power Rail.",
+                "The advanced node architecture enhances power distribution efficiency, boosting high-performance computing speeds by double-digit percentages.",
+                "Decoupling power routing from signal pathways resolves microchip thermal bottlenecks, facilitating denser transistor placements for AI accelerators.",
+                "Fabless chip developers can design ultra-efficient processors that scale performance limits without escalating server farm power consumption."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.tsmc.com",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI OFFICE: COMPLIANCE EXPANSION",
+            "points": [
+                "The EU AI Office launched a massive hiring campaign for forty specialists to enforce the Artificial Intelligence Act.",
+                "Stricter auditing mechanisms will accelerate verification times for general-purpose AI models, minimizing market non-compliance risks.",
+                "The regulatory body establishes structural oversight targeting Article 50 transparency requirements and high-risk system deployment audits.",
+                "International software developers must implement comprehensive audit trails to meet European operational and legal transparency standards."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
