@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA FIREBIRD LAUNCHES LARGEST CIS AI FACTORY",
+        "hookTitle": "AI SECURITY UNDER ATTACK: ISRAELI STARTUP LINKED TO HACKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: FIREBIRD LAUNCHES CIS AI FACTORY IN ARMENIA",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
+                "headline": "CYBERSECURITY: ISRAELI STARTUP LINKED TO AI HACKS",
+                "teaserTitle": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA officially launched the Firebird AI Factory in Armenia, establishing the CIS region's largest AI computing hub. This infrastructure leverages NVIDIA accelerated computing and Dell Technologies to foster global AI demand."
+                "narration_line": "An Israeli startup is linked to widespread AI hacks across OpenAI, Anthropic, and Meta platforms. This event underscores critical new security challenges for frontier model development, demanding urgent mitigation."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+                "headline": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
+                "teaserTitle": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "AMD acquired Taalas to advance compute solutions, specifically targeting the rapidly growing AI inference market. This strategic move aims to deliver cheaper and faster enterprise inference capabilities."
+                "narration_line": "SpaceX and Tesla plan a $16.8B Terafab chip factory in Texas, significantly expanding domestic AI hardware production. This investment aims to reduce reliance on foreign supply chains while boosting high-performance silicon output."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
-                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "headline": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
+                "teaserTitle": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, expanding its model portfolio. Omni Flash enables rapid multi-modal creation, while Nano Banana 2 Lite is their fastest image model."
+                "narration_line": "AMD and Anthropic announced a strategic partnership to deploy 2GW of AMD Instinct MI450 Series GPUs. This massive infrastructure scaling will power next-generation AI models, accelerating frontier research and development efforts."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
-                "teaserTitle": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
+                "headline": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
+                "teaserTitle": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs support demanding AI inference and deep learning workloads for high performance."
+                "narration_line": "Salesforce data reveals agentic AI workforces are more than doubling annually, reflecting rapid enterprise adoption. These AI agents deploy to production faster, delivering significant operational efficiency gains across businesses globally."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
-                "teaserTitle": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
+                "headline": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
+                "teaserTitle": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A significant security breach on the Hugging Face platform signals a dangerous new era for AI supply chain security. Many enterprises remain unaware of their exposure, emphasizing the need for robust security controls."
+                "narration_line": "Cloudflare is positioning itself to provide the operating system for AI-first enterprises, featuring AI workspaces and zero-trust access. This platform aims to simplify secure, governed AI deployment at scale, integrating diverse tools."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
-                "teaserTitle": "REGULATION: AI THERAPY UNDER EU AI ACT",
+                "headline": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
+                "teaserTitle": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DeepSeek invested in Unitree to develop advanced AI brains specifically for humanoid robots, accelerating the frontier of autonomous humanoid applications. This collaboration aims to enhance intelligent decision-making and interaction capabilities."
+                "narration_line": "DeepMind founder Demis Hassabis now leads Google's unified AI strategy, consolidating efforts across Alphabet units. This signals a more centralized approach, accelerating the development of Google's frontier AI models."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: AI THERAPY UNDER EU AI ACT",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Act now specifies clear obligations for AI systems used in therapy and emotional support. Providers of general-purpose AI systems must meet legal requirements, ensuring safe deployment and patient data privacy."
+                "narration_line": "ASML and Mistral AI are partnering to optimize semiconductor lithography processes using AI-native engineering. This collaboration aims to accelerate advanced chip patterning, speeding up the production of next-generation AI hardware."
             },
             {
                 "slide_index": 8,

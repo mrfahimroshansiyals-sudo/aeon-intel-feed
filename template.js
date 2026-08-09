@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FIREBIRD LAUNCHES CIS REGION\u2019S LARGEST AI FACTORY IN",
-        "titleBlue": "ARMENIA",
-        "footerSummary": "NVIDIA spearheads regional AI infrastructure deployment. AMD's strategic acquisition fortifies AI inference capabilities amid emerging security threats."
+        "titleWhite": "ISRAELI STARTUP LINKED TO AI",
+        "titleBlue": "HACKS",
+        "footerSummary": "A rogue Israeli startup linked to widespread AI model breaches underscores urgent security vulnerabilities across frontier platforms."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: FIREBIRD LAUNCHES CIS AI FACTORY IN ARMENIA",
+            "heading": "CYBERSECURITY: ISRAELI STARTUP LINKED TO AI HACKS",
             "points": [
-                "**NVIDIA:** Inaugurates Firebird AI factory, largest in CIS region.",
-                "**Location:** Armenia now hosts a new, significant AI computing hub.",
-                "**Infrastructure:** Powered by NVIDIA accelerated computing and Dell Technologies.",
-                "**Economic Impact:** Aims to drive global AI demand and local development."
+                "**Threat Actor:** Israeli startup implicated in major AI model security breaches.",
+                "**Targeted Models:** OpenAI, Anthropic, and Meta AI platforms compromised.",
+                "**Attack Vector:** Rogue agents faked identities, exploited system vulnerabilities.",
+                "**Industry Impact:** Underscores critical need for robust AI supply chain security."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
+            "nextUpTease": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
             "tags": [
-                "Source: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/08/israeli-startup-linked-to-rogue-ai-hacks-at-openai-anthropic-and-meta.html",
+                "Published: 2026-08-08T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
+            "heading": "HARDWARE: SPACEX, TESLA $16.8B TERAFAB FACTORY",
             "points": [
-                "**Acquisition:** AMD acquires Taalas, enhancing AI compute capabilities.",
-                "**Technology:** Focuses on breakthrough inference performance and efficiency technology.",
-                "**Roadmap:** Integrates Taalas' innovation into AMD's AI roadmap for differentiation.",
-                "**Market Impact:** Aims to deliver cheaper, faster enterprise inference solutions."
+                "**Investment:** SpaceX and Tesla commit $16.8B to Terafab chip factory.",
+                "**Location:** New, advanced chip manufacturing facility planned for Texas.",
+                "**Focus:** Aims to produce high-performance AI chips and specialized silicon.",
+                "**Strategic Goal:** Boost domestic chip production, reduce supply chain reliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+            "nextUpTease": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/news/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market.html",
-                "Published: 2026-08-06T12:00:00Z",
+                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-to-spend-16-8b-on-terafab-chip-factory-in-texas",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+            "heading": "PARTNERSHIP: AMD & ANTHROPIC DEPLOY MI450 GPUS",
             "points": [
-                "**Model Release:** Gemini Omni Flash and Nano Banana 2 Lite now available.",
-                "**Performance:** Omni Flash offers rapid multi-modal creation capabilities.",
-                "**Efficiency:** Nano Banana 2 Lite is Google's fastest, most efficient image model.",
-                "**Developer Access:** Expands model portfolio for diverse AI application development."
+                "**Collaboration:** AMD partners with Anthropic for large-scale GPU deployment.",
+                "**Hardware:** Anthropic to deploy 2GW of AMD Instinct MI450 Series GPUs.",
+                "**Objective:** Powering next-gen AI models and advanced research capabilities.",
+                "**Scaling:** Significant infrastructure boost for frontier model development."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+            "nextUpTease": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai/gemini-omni-flash-nano-banana-2-lite",
-                "Published: 2026-08-09T10:30:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/news/amd-and-anthropic-announce-strategic-partnership.html",
+                "Published: 2026-08-08T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+            "heading": "ENTERPRISE AI: SALESFORCE AGENTIC WORKFORCE GROWTH",
             "points": [
-                "**Infrastructure:** Azure expands with new AMD-powered AI and HPC virtual machines.",
-                "**VM Series:** Includes HDv2, HXv2, and ND MI455Xv7 for demanding workloads.",
-                "**Workloads:** Supports deep learning, AI inference, and technical computing.",
-                "**Performance:** Designed for high performance and compute-intensive applications."
+                "**Trend:** Salesforce reports agentic AI workforce more than doubling annually.",
+                "**Deployment:** AI agents are deploying to production faster than previous years.",
+                "**Impact:** Driving significant efficiency gains across enterprise operations.",
+                "**Market Signal:** Indicates rapid adoption of autonomous AI in business."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
+            "nextUpTease": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-09T11:00:00Z",
+                "Source: https://www.cio.com/article/2026/08/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce.html",
+                "Published: 2026-08-07T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: HUGGING FACE HACK DANGERS",
+            "heading": "CLOUD PLATFORM: CLOUDFLARE EYES AI-FIRST OS",
             "points": [
-                "**Security Breach:** Hugging Face platform affected by a significant security hack.",
-                "**AI Risk:** Signals a dangerous new era for AI supply chain security.",
-                "**Enterprise Exposure:** Many firms remain unaware of their potential vulnerability.",
-                "**Mitigation:** Calls for strengthened security controls around AI systems."
+                "**Strategy:** Cloudflare aims to provide the OS for AI-first enterprises.",
+                "**Offering:** Features AI workspaces, zero-trust access, model routing.",
+                "**Integration:** Unifies data, connectors, and AI tools within browser.",
+                "**Vision:** Simplifies secure, governed AI deployment at scale."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
+            "nextUpTease": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/08/hugging-face-hack-marks-dangerous-new-ai-era.html",
-                "Published: 2026-08-08T16:00:00Z",
+                "Source: https://www.cio.com/article/2026/08/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise.html",
+                "Published: 2026-08-07T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ROBOTICS: DEEPSEEK INVESTS IN HUMANOID AI",
+            "heading": "GOOGLE: DEEPMIND FOUNDER LEADS AI STRATEGY",
             "points": [
-                "**Investment:** DeepSeek invests in Unitree for humanoid robot AI development.",
-                "**Focus:** Developing advanced AI brains for next-generation humanoid bots.",
-                "**Autonomy:** Aims to enhance intelligent decision-making and interaction capabilities.",
-                "**Future Robotics:** Accelerates the frontier of autonomous humanoid applications."
+                "**Leadership:** Demis Hassabis assumes singular AI role at Google.",
+                "**Focus:** Consolidates AI strategy across Alphabet's diverse units.",
+                "**Objective:** Accelerate unified development of frontier AI models.",
+                "**Implication:** Signals a more centralized, aggressive AI roadmap."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: AI THERAPY UNDER EU AI ACT",
+            "nextUpTease": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/deepseek-invests-in-unitree-to-develop-ai-brain-for-humanoid-bots",
+                "Source: https://www.infoworld.com/article/2026/08/deepmind-founder-ascends-to-singular-ai-role-at-google.html",
                 "Published: 2026-08-07T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: AI THERAPY UNDER EU AI ACT",
+            "heading": "SEMICONDUCTOR: ASML & MISTRAL AI LITHOGRAPHY",
             "points": [
-                "**Compliance:** EU AI Act outlines rules for AI systems in therapy/emotional support.",
-                "**Obligations:** Providers of GPAI systems face specific legal requirements.",
-                "**Governance:** Aims to ensure safe and responsible deployment of health AI.",
-                "**Impact:** Affects mental health AI tools and patient data privacy."
+                "**Collaboration:** ASML partners with Mistral AI for lithography optimization.",
+                "**Application:** Accelerates advanced semiconductor manufacturing processes.",
+                "**Technology:** AI-native engineering enhances chip patterning efficiency.",
+                "**Industry Impact:** Speeds up production of next-gen AI chips."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act/",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://mistral.ai/news/asml-accelerates-lithography-with-mistral-ai/",
+                "Published: 2026-08-08T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
