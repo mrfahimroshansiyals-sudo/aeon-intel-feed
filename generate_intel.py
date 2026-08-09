@@ -1,3 +1,8 @@
+# ==============================================================================
+# [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
+# Purpose: Initializes environment variables, API keys, and dynamic model discovery.
+# Data Flow: Reads from OS ENV -> Queries live model list -> Sets fallback chain.
+# ==============================================================================
 import os
 import time
 import random
@@ -6,23 +11,46 @@ import requests
 import json
 from google import genai
 from google.genai import types
-import datetime
+from bs4 import BeautifulSoup
 
-# 1. AUTH & CONFIG
-# Fetches API key from GitHub Secrets
 api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    print("[ERROR] GEMINI_API_KEY environment variable not found.")
+    exit(1)
+
 client = genai.Client(api_key=api_key)
 
-# Models in priority order
-MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+def get_dynamic_model_priority():
+    """Dynamically fetches available flash/pro models from the API, 
+    ensuring a universal fallback chain that never gets stuck on old versions."""
+    dynamic_models = []
+    try:
+        for m in client.models.list():
+            name = m.name.replace("models/", "")
+            if "flash" in name and name not in dynamic_models:
+                dynamic_models.append(name)
+    except Exception as e:
+        print(f"[WARNING] Could not fetch dynamic model list: {str(e)}")
 
-# 2. STEALTH ENGINE
+    fallback_chain = ["gemini-2.0-flash", "gemini-1.5-flash"]
+    combined = list(dict.fromkeys(dynamic_models + fallback_chain))
+    return combined
+
+def log(level, message):
+    """Enforces standardized logging taxonomy for GitHub Actions runners."""
+    print(f"[{level}] {message}")
+
+# ==============================================================================
+# [ MODULE 2: STEALTH DATA EXTRACTION ENGINE ]
+# Purpose: Parses prompt, extracts URLs, and scrapes content using human-like delays.
+# Data Flow: prompt.txt -> regex URL extraction -> HTTP GET -> BeautifulSoup parsing -> Text buffer.
+# ==============================================================================
 def get_stealth_headers():
-    """Rotates User-Agent to mimic different browsers/devices."""
+    """Rotates User-Agent to mimic different browsers/devices and avoid blocking."""
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
     ]
     return {
         "User-Agent": random.choice(user_agents),
@@ -32,38 +60,102 @@ def get_stealth_headers():
     }
 
 def fetch_and_clean():
-    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
-    with open("prompt.txt", "r", encoding="utf-8") as f:
-        prompt_content = f.read()
-    
+    """Extracts URLs from prompt.txt and scrapes with human-like timing, appending existing template.js content as a historical blacklist context."""
+    log("INFO", "Reading prompt.txt and extracting target URLs.")
+    try:
+        with open("prompt.txt", "r", encoding="utf-8") as f:
+            prompt_content = f.read()
+    except FileNotFoundError:
+        log("ERROR", "prompt.txt not found in root directory.")
+        return "", ""
+
+    # Ingest existing template.js as historical context / blacklist feed
+    historical_context = ""
+    try:
+        with open("template.js", "r", encoding="utf-8") as tf:
+            historical_context = "\n\n[PREVIOUSLY PUBLISHED HISTORICAL DATASET BLACKLIST (DO NOT REPEAT THESE TOPICS)]: \n" + tf.read()
+        log("SUCCESS", "Successfully loaded template.js history for anti-duplication blacklist filtering.")
+    except FileNotFoundError:
+        log("WARNING", "template.js not found; proceeding without historical blacklist context.")
+
     urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
     scraped_text = ""
     
+    log("INFO", f"Found {len(urls)} unique URLs to process.")
     for url in urls:
         try:
-            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
-            time.sleep(random.uniform(5.0, 15.0))
+            sleep_time = random.uniform(5.0, 15.0)
+            log("INFO", f"Sleeping for {sleep_time:.2f}s before fetching: {url}")
+            time.sleep(sleep_time)
+            
             response = requests.get(url, headers=get_stealth_headers(), timeout=20)
             
             if response.status_code == 200:
-                from bs4 import BeautifulSoup
                 soup = BeautifulSoup(response.content, 'html.parser')
-                # Remove non-content junk
+                
                 for element in soup(["script", "style", "nav", "footer", "iframe"]):
                     element.extract()
-                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
+                
                 text = soup.get_text(separator=' ', strip=True)[:5000]
                 scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-        except Exception:
-            continue # Fail silently to keep the pipeline moving
-    return prompt_content, scraped_text
+                log("SUCCESS", f"Successfully extracted data from: {url}")
+            else:
+                log("WARNING", f"Failed to fetch {url} - Status Code: {response.status_code}")
+        except Exception as e:
+            log("WARNING", f"Exception occurred while fetching {url}: {str(e)}")
+            continue
+            
+    return prompt_content + historical_context, scraped_text
 
-# 3. PIPELINE EXECUTION
+# ==============================================================================
+# [ MODULE 3: TRACKER LOG & STATE SYNCHRONIZATION ENGINES ]
+# Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
+# ==============================================================================
+def update_tracker_files():
+    """
+    MODIFIED: Removed string-timestamp overwriting logic to preserve integer counters 
+    expected by frontend engine.js (preventing NaN parsing failures).
+    """
+    log("INFO", "Tracker file updates bypassed in Python; controlled via workflow increment logic.")
+    pass
+
+# ==============================================================================
+# [ MODULE 4: LLM PIPELINE & SEQUENTIAL ATOMIC SYNCHRONIZATION ]
+# Purpose: Combines prompt with live data, enforces structure, and executes atomic file writes in logical sequence.
+# ==============================================================================
+def enforce_slide_structure(slides_object):
+    """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
+    if isinstance(slides_object, dict) and "slides" in slides_object:
+        for slide in slides_object["slides"]:
+            if "points" in slide and isinstance(slide["points"], list):
+                cleaned_points = []
+                for pt in slide["points"]:
+                    clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                    if clean_pt:
+                        cleaned_points.append(clean_pt)
+                
+                if len(cleaned_points) > 4:
+                    slide["points"] = cleaned_points[:4]
+                elif len(cleaned_points) < 4:
+                    while len(cleaned_points) < 4:
+                        cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                    slide["points"] = cleaned_points
+    return slides_object
+
 def main():
+    log("INFO", "Starting execution pipeline.")
     prompt_base, data = fetch_and_clean()
-    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     
-    for model in MODEL_PRIORITY:
+    if not prompt_base:
+        log("ERROR", "No prompt base found. Pipeline aborted.")
+        return
+
+    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
+    model_priority = get_dynamic_model_priority()
+    log("INFO", f"Active model priority chain: {model_priority}")
+
+    for model in model_priority:
+        log("INFO", f"Attempting generation with model: {model}")
         try:
             response = client.models.generate_content(
                 model=model,
@@ -71,42 +163,85 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            # --- UPDATED: Sanitization and strict }; closure ---
-            # Remove any markdown artifacts
+            # --- SANITIZATION ---
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
-            
-            # Ensure the output is clean for valid JSON parsing
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # --- VALIDATION: Ensure generated text is valid JSON ---
+            # --- VALIDATION ---
             parsed_payload = json.loads(raw_text)
+            log("SUCCESS", f"LLM payload successfully parsed as valid JSON using model: {model}")
             
-            # Extract content paths from the structured JSON schema safely
-            slides_object = parsed_payload.get("slides_data", parsed_payload)
+            # --- ROBUST NODE EXTRACTION & FALLBACKS ---
+            slides_data_node = parsed_payload.get("slides_data")
+            if not slides_data_node:
+                if "slides" in parsed_payload:
+                    slides_data_node = {"main": parsed_payload.get("main", {}), "slides": parsed_payload["slides"]}
+                else:
+                    slides_data_node = parsed_payload
+
+            video_module_node = parsed_payload.get("video_shorts_module")
+            if not video_module_node:
+                video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
+
             post_content = parsed_payload.get("social_post", "")
+            if not post_content and isinstance(parsed_payload, dict):
+                post_content = "🌐 GLOBAL AI INTELLIGENCE\nStay ahead of the global AI pulse."
+
+            # --- ENFORCEMENT ---
+            slides_data_node = enforce_slide_structure(slides_data_node)
+            slides_json_str = json.dumps(slides_data_node, indent=4)
             
-            # Convert extracted slides data back to a clean string format
-            slides_json_str = json.dumps(slides_object, indent=4)
+            # ==============================================================================
+            # SEQUENTIAL ATOMIC WRITE SEQUENCE (ORDERED TO PREVENT STALE/SKIPPED FILES)
+            # ==============================================================================
             
-            # Save exactly as required for template.js
+            # 1. Update Tracker Logs First (State Synchronization)
+            update_tracker_files()
+            
+            # 2. Base Slide Template (template.js in Root)
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
+            log("SUCCESS", "Generated and exported: template.js")
                 
-            # Save the clean free-form social media post to your root location
+            # 3. Social Media Post Content (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
-                # Safely convert raw literal \n string characters into actual structural line breaks
-                clean_post = post_content.replace('\\n', '\n')
+                clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
+            log("SUCCESS", "Generated and exported: post.txt")
                 
-            return # Success
-        except Exception:
-            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
+            # 4. Cinematic Video Template (Social_Media/Video_Template_EN.js)
+            social_media_dir = "Social_Media"
+            os.makedirs(social_media_dir, exist_ok=True)
+            video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
+            
+            if "video_shorts_data" not in video_module_node:
+                video_payload_to_write = {
+                    "language": "EN",
+                    "video_shorts_data": video_module_node
+                }
+            else:
+                video_payload_to_write = video_module_node
+
+            video_js_content = f"module.exports = {json.dumps(video_payload_to_write, indent=4)};"
+
+            with open(video_template_path, "w", encoding="utf-8") as f:
+                f.write(video_js_content)
+            log("SUCCESS", f"Generated and exported video template: {video_template_path}")
+                
+            log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
+            return
+            
+        except Exception as e:
+            log("WARNING", f"Model {model} generation failed or JSON invalid: {str(e)}")
+            log("INFO", "Backing off for 10 seconds before next fallback attempt...")
+            time.sleep(10)
             continue
+            
+    log("ERROR", "All models failed. Pipeline execution aborted.")
+    exit(1)
 
 if __name__ == "__main__":
     main()
-
-# SYSTEM RESET LOGIC: Kickstart cron automation cache sync
