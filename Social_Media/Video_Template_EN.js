@@ -1,127 +1,65 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "slides_data": {
-            "main": {
-                "kicker": "AEON INTEL",
-                "titleWhite": "AI ARCHITECTURE GLOBAL",
-                "titleBlue": "FRONTIER"
+        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS: USTR TARIFFS IMPACT TRADE",
+        "totalDurationSeconds": 30,
+        "script_slides": [
+            {
+                "slide_index": 1,
+                "headline": "USTR: FORCED LABOR TARIFFS EXPAND",
+                "teaserTitle": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
+                "visual_asset": "backgroundyt1.png",
+                "narration_line": "USTR has imposed new forced labor tariffs on 60 trading partners as Section 122 tariffs expire. This regulatory enforcement impacts global sourcing, demanding immediate re-evaluation of compliance and supply chain frameworks."
             },
-            "slides": [
-                {
-                    "id": 1,
-                    "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                    "points": [
-                        "OpenAI launched GPT-5.6, delivering frontier intelligence designed for ambitious scaling across diverse enterprise applications.",
-                        "The release emphasizes significantly improved price-performance metrics, making advanced AI more accessible and efficient for broad deployment.",
-                        "This architectural leap enables sophisticated model integration, enhancing agentic system capabilities and complex task automation across industries.",
-                        "Stakeholders predict GPT-5.6 will accelerate innovation cycles, establishing new benchmarks for AI performance and economic viability."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://openai.com",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 2,
-                    "heading": "MISTRAL AI: AGENTIC SYSTEM RELEASES",
-                    "points": [
-                        "Mistral AI introduced Shieldstral, a novel system of record for managing critical AI prompts and reusable skills for agentic workflows.",
-                        "Concurrent with this, Robostral Navigate was launched, a specialized agent focusing on advanced robotics navigation capabilities.",
-                        "These releases enhance architectural sovereignty by providing structured, auditable frameworks for complex agent development and deployment.",
-                        "The advancements reinforce Mistral's commitment to enterprise-grade AI solutions with robust control and application-specific intelligence."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://mistral.ai",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 3,
-                    "heading": "GOOGLE CLOUD: AI THREAT DEFENSE",
-                    "points": [
-                        "Google Cloud unveiled AI Threat Defense, a new product designed to help enterprises outpace adversaries in the evolving AI security landscape.",
-                        "This initiative integrates advanced security measures across Google's AI infrastructure, proactively identifying and mitigating emerging threats.",
-                        "The service offers comprehensive protection for AI-powered applications, securing data, models, and agentic workflows from sophisticated attacks.",
-                        "This move solidifies Google's strategic focus on building inherently secure AI ecosystems for critical enterprise deployments and sensitive data."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://cloud.google.com",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 4,
-                    "heading": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
-                    "points": [
-                        "Google DeepMind's WeatherNext AI model achieved a significant breakthrough in accurate and timely cyclone forecasting capabilities.",
-                        "This development promises to enhance global disaster preparedness and response by providing more precise and earlier warnings for severe weather events.",
-                        "The model integrates advanced meteorological data and deep learning techniques, demonstrating AI's potential for complex scientific prediction challenges.",
-                        "DeepMind's focus on real-world impact underscores the strategic value of AI in addressing critical global environmental and safety issues."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://deepmind.google",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 5,
-                    "heading": "EU AI ACT: AI THERAPY GUIDELINES",
-                    "points": [
-                        "The EU AI Act published new guidelines specifically addressing AI systems utilized for therapy and emotional support applications.",
-                        "These regulations aim to establish clear obligations for providers of such general-purpose AI models, ensuring user safety and ethical deployment.",
-                        "The comprehensive framework tackles governance issues for mental health AI tools, impacting developers and deployers across the European Union and globally.",
-                        "This legislative action reflects a proactive stance to regulate sensitive AI applications, shaping international standards for responsible AI development."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://artificialintelligenceact.eu",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
-                    "points": [
-                        "NVIDIA announced the launch of the Firebird AI Factory, establishing the CIS region\u2019s largest AI computing hub in Armenia.",
-                        "This strategic deployment provides substantial accelerated computing infrastructure to meet global AI demand and foster local development.",
-                        "The factory, powered by NVIDIA's advanced technology, signifies a major investment in regional AI capabilities and economic growth.",
-                        "The initiative highlights NVIDIA's commitment to expanding AI access and supporting the development of sovereign AI ecosystems worldwide."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://nvidianews.nvidia.com",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 7,
-                    "heading": "CLOUDFLARE: AI-FIRST ENTERPRISE OS",
-                    "points": [
-                        "Cloudflare is positioning its new Cloudflare OS as the operating system for the AI-first enterprise, unifying critical AI functionalities.",
-                        "The platform integrates AI workspaces, zero-trust access, model routing, and governed connectors directly within the browser environment.",
-                        "This architectural vision aims to streamline AI deployment and management for IT teams, ensuring security and compliance across distributed operations.",
-                        "Cloudflare's move underscores a strategic shift towards providing a holistic, secure, and integrated ecosystem for enterprise AI innovation."
-                    ],
-                    "imageUrl": "",
-                    "tags": [
-                        "Source: https://www.cio.com",
-                        "Published: Last 60 Mins",
-                        "Status: Audited & True"
-                    ]
-                }
-            ]
-        },
-        "social_post": "\ud83c\udf10 AI ARCHITECTURE GLOBAL FRONTIER\nGlobal enterprise architecture is shifting toward deep transactional autonomy, legacy infrastructure decoupling, and real-time edge security frameworks. Decode today\u2019s primary signals:\n\n01 / OPENAI: GPT-5.6 FRONTIER INTELLIGENCE\nOpenAI's GPT-5.6 brings frontier intelligence with enhanced price-performance, accelerating enterprise AI adoption and innovation cycles.\n\n02 / MISTRAL AI: AGENTIC SYSTEM RELEASES\nMistral AI launched Shieldstral for managing AI prompts and Robostral Navigate for advanced robotics, enhancing agentic system control.\n\n03 / GOOGLE CLOUD: AI THREAT DEFENSE\nGoogle Cloud introduced AI Threat Defense, a new product bolstering enterprise security for AI applications and infrastructure.\n\n04 / GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH\nDeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting, promising improved global disaster preparedness.\n\n05 / EU AI ACT: AI THERAPY GUIDELINES\nNew EU AI Act guidelines address therapy and emotional support AI tools, establishing ethical deployment and governance standards.\n\n06 / NVIDIA: FIREBIRD AI FACTORY LAUNCH\nNVIDIA's Firebird AI Factory launched in Armenia, creating the CIS region's largest AI hub to expand computing infrastructure.\n\n07 / CLOUDFLARE: AI-FIRST ENTERPRISE OS\nCloudflare's new OS aims to be the AI-first enterprise operating system, integrating AI workspaces, security, and model routing.\n\n\u2726 \u2501\u2501\u2501\u2501\u2501\u2501 ARCHIVE ACCESS \u2501\u2501\u2501\u2501\u2501\u2501 \u2726\nStay ahead of the global AI pulse. We decode high-signal developments as they happen, every hour.\n\nVisit our profile to explore the complete intelligence archives.\n\n[ LIKE \u2022 SHARE \u2022 FOLLOW ]\nFor hourly decoded AI signals across the globe.\n\n#AITechnology #FrontierAI #AgenticAI #AISecurity #DeepMind #EUAICt #NVIDIAAI #CloudflareOS #TechNews #AIInnovation"
+            {
+                "slide_index": 2,
+                "headline": "TRADE POLICY: SECTION 301 TARIFFS DEPLOYED",
+                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+                "visual_asset": "backgroundyt2.png",
+                "narration_line": "The U.S. has deployed Section 301 tariffs following prior IEEPA decisions, triggering importer refunds and new duties. Businesses face dual financial complexities, needing swift adjustments to trade costs and classifications."
+            },
+            {
+                "slide_index": 3,
+                "headline": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+                "teaserTitle": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
+                "visual_asset": "backgroundyt3.png",
+                "narration_line": "Data center expansion strains U.S. truck capacity, with each gigawatt needing 100K truckloads. This surge diverts vital transport resources, increasing freight costs and challenging logistics models."
+            },
+            {
+                "slide_index": 4,
+                "headline": "GLOBAL TRADE: USMCA BOOSTS MEXICO'S EDGE",
+                "teaserTitle": "MARITIME: CHINA PORT SUSPENSIONS",
+                "visual_asset": "backgroundyt4.png",
+                "narration_line": "USMCA positions Mexico for a trade advantage amid rising global barriers, fostering nearshoring investments. This strengthens North American supply chains, promoting regional manufacturing and export capabilities."
+            },
+            {
+                "slide_index": 5,
+                "headline": "MARITIME: CHINA PORT SUSPENSIONS",
+                "teaserTitle": "CONTAINER RATES: ASIA-EUROPE SINKING",
+                "visual_asset": "backgroundyt5.png",
+                "narration_line": "China\u2019s ports are suspending operations due to an approaching Super Typhoon, impacting global shipping. This causes substantial cargo backlogs and necessitates immediate rerouting strategies for carriers."
+            },
+            {
+                "slide_index": 6,
+                "headline": "CONTAINER RATES: ASIA-EUROPE SINKING",
+                "teaserTitle": "IMPORTS: SUMMER VOLUMES SURGE",
+                "visual_asset": "backgroundyt6.png",
+                "narration_line": "Asia-Europe container spot rates dropped for the 4th consecutive week, while Transpacific rates stabilize. This divergence highlights varied supply-demand dynamics and carrier capacity management efforts."
+            },
+            {
+                "slide_index": 7,
+                "headline": "IMPORTS: SUMMER VOLUMES SURGE",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_asset": "backgroundyt7.png",
+                "narration_line": "U.S. summer monthly imports are projected to reach their highest level since 2022, driven by consumer demand. This robust throughput puts pressure on port infrastructure, requiring optimized logistics."
+            },
+            {
+                "slide_index": 8,
+                "headline": "LIVE INTELLIGENCE",
+                "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+            }
+        ]
     }
 };
