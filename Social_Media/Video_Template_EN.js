@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA SAFE SUPERINTELLIGENCE PARTNERSHIP",
+        "hookTitle": "GPT-5.6 DEBUTS FOR SCALABLE AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
-                "teaserTitle": "SPACEX/TESLA: TERAFAB CHIP FACTORY",
+                "headline": "OPENAI: GPT-5.6 DEBUTS FOR SCALABLE AI AMBITION",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA announced a long-term strategic partnership with Safe Superintelligence Inc. This collaboration aims to rapidly accelerate SSI\u2019s growth in frontier AI development."
+                "narration_line": "OpenAI launches GPT-5.6, its new frontier model, enhancing complex reasoning and large-scale applications. This advances enterprise AI projects, boosting operational scalability for businesses globally."
             },
             {
                 "slide_index": 2,
-                "headline": "SPACEX/TESLA: TERAFAB CHIP FACTORY",
-                "teaserTitle": "AMD: ACQUIRES TAALAS AI INFERENCE",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR AI GOVERNANCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SpaceX and Tesla plan a $16.8B investment for a Terafab chip factory in Texas. This facility will significantly boost advanced semiconductor manufacturing for AI systems."
+                "narration_line": "Google Cloud introduces Gemini 3.6 Flash and other new models, optimized for speed and efficiency. These models provide more accessible and powerful options for enterprise AI integration."
             },
             {
                 "slide_index": 3,
-                "headline": "AMD: ACQUIRES TAALAS AI INFERENCE",
-                "teaserTitle": "GOOGLE: DEEPMIND FOUNDER NEW ROLE",
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR AI GOVERNANCE",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AMD definitively agreed to acquire Taalas, an AI inference technology company. This acquisition targets breakthrough inference performance and efficiency for AMD's AI roadmap."
+                "naration_line": "Mistral AI unveils Shieldstral, a new system for recording AI prompts and skills. This enhances governance and auditability for agentic AI operations within organizations."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE: DEEPMIND FOUNDER NEW ROLE",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VMS",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "MISTRAL AI: ROBOSTRAL NAVIGATE FOR ROBOTICS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DeepMind's founder ascended to a singular AI leadership role at Google. This centralizes AI development, aiming to accelerate product integration across Google\u2019s portfolio."
+                "narration_line": "Google AI Threat Defense launches, offering protection against advanced AI-powered cyberattacks. This safeguards enterprise data and infrastructure within evolving cloud AI environments."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: NEW AMD-POWERED AI/HPC VMS",
-                "teaserTitle": "CYBERSECURITY: HUGGING FACE HACK",
+                "headline": "MISTRAL AI: ROBOSTRAL NAVIGATE FOR ROBOTICS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. The HDv2, HXv2, and ND MI455Xv7 series support demanding deep learning workloads."
+                "narration_line": "Mistral AI introduces Robostral Navigate, an advanced AI for enhanced autonomous system control. It significantly improves precision and efficiency in robotics navigation applications."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: HUGGING FACE HACK",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+                "teaserTitle": "MISTRAL AI: INTRODUCING MISTRAL OCR 4",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A recent Hugging Face platform hack raises significant concerns for AI ecosystem security. This incident highlights vulnerabilities in widely used AI model repositories."
+                "narration_line": "OpenAI expands GPT-5.6 Sol in ChatGPT and provides Luna access to all free users. This democratizes frontier model capabilities, refining product performance for a broader user base."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI",
+                "headline": "MISTRAL AI: INTRODUCING MISTRAL OCR 4",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting accuracy. The system enhances early warning capabilities for severe global weather events."
+                "narration_line": "Mistral AI releases OCR 4, significantly boosting document intelligence and accuracy. This optimizes enterprise automation for data extraction from complex documents and administrative workflows."
             },
             {
                 "slide_index": 8,
