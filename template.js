@@ -1,98 +1,82 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "COGNITIVE INFRASTRUCTURE",
-        "titleBlue": "REVOLUTION"
+        "titleWhite": "NEXT GEN COGNITIVE",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MISTRAL AI: AUTONOMOUS WORKFLOWS",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "Mistral AI launches Vibe for long-horizon agentic workflows and Forge for bespoke model customization.",
-                "These tools enable multi-step task scheduling and legacy code translation to reduce enterprise development costs.",
-                "The framework supports end-to-end model training, reinforcement learning, and complete deployment portability across hybrid clouds.",
-                "Enterprises will bypass rigid off-the-shelf agents to implement completely custom, on-premise sovereign intelligent nodes."
+                "AMD acquires Taalas to develop specialized chips designed to run single, mature AI models at low cost.",
+                "This acquisition targets a significant drop in operational expenditures for high-volume enterprise inference workloads globally.",
+                "The strategic move provides an alternative to generalized GPU computing by hardwiring specific neural network weights.",
+                "Enterprise architects can now deploy highly efficient, non-flexible silicon pipelines for dedicated domain model execution."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://mistral.ai",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: COGNITIVE AGENT GROUNDING",
+            "heading": "SPACEX: TEXAS TERAFAB",
             "points": [
-                "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines.",
-                "The ND MI455Xv7 instances scale up-to-date agent grounding to accelerate heavy enterprise data and inference workloads.",
-                "Integrating Azure Web IQ allows autonomous agents to securely query live web data with transactional context.",
-                "Systems architects can now build multi-agent workflows that run securely within isolated sovereign cloud boundaries."
+                "SpaceX and Tesla plan a massive sixteen point eight billion dollar Terafab chip factory in Texas.",
+                "The hardware facility aims to secure sovereign supply chains for next-generation aerospace and autonomous vehicular computing.",
+                "This manufacturing hub consolidates vertical integration of specialized custom silicon to support advanced physical intelligence models.",
+                "The massive infrastructural capital investment shifts geopolitical dependencies toward internally controlled domestic semiconductor production systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: MODEL-SPECIFIC SILICON INFERENCE",
+            "heading": "DEEPSEEK: UNITREE COLLABORATION",
             "points": [
-                "AMD acquires Taalas to pioneer application-specific integrated circuit designs dedicated to single-model AI inference operations.",
-                "This compute acquisition aims to drastically lower enterprise hardware overhead compared to general-purpose GPU clusters.",
-                "Taalas' non-flexible chip architectures represent a shift toward deploying highly mature, hyper-optimized models in production.",
-                "Chief Information Officers will increasingly adopt static, low-power ASICs to handle highly specific high-volume enterprise tasks."
+                "DeepSeek invests heavily in Unitree to build an advanced artificial intelligence brain optimized for humanoid robots.",
+                "The collaboration focuses on real-time sensory translation and immediate motor control execution under complex physical environments.",
+                "Integrating localized agentic reasoning with advanced mechanical actuation represents a critical leap for physical AI architectures.",
+                "Industrial automation programs will rapidly shift toward fully autonomous, generalized robotic labor deployment across heavy manufacturing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://amd.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: MULTI-AGENT SYSTEMS",
+            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
             "points": [
-                "Google DeepMind introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and the localized Gemini Robotics 2 system.",
-                "Gemini Robotics 2 utilizes advanced video understanding and task orchestration to coordinate multiple robots in real-time.",
-                "This model rollout addresses emerging risks associated with millions of autonomous agents negotiating and transacting online.",
-                "Engineering teams must implement rigorous multi-agent governance protocols to prevent systemic cascading errors across live networks."
+                "Cloudflare introduces its native browser-based operating system designed specifically to orchestrate enterprise-wide artificial intelligence agents.",
+                "The new platform unifies zero-trust workspace security with model routing protocols and governed enterprise data connectors.",
+                "Administrators gain comprehensive visibility and real-time behavioral audit tracks for autonomous software agents running on edge.",
+                "Security teams can safely deploy federated agentic workflows without risking critical legacy system data exposure."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://deepmind.google",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: MASSIVE SCALED INFERENCE",
+            "heading": "NVIDIA: ARMENIA AI FACTORY",
             "points": [
-                "OpenAI deploys GPT-5.6 and its specialized Sol and Luna variants to maximize agentic task execution capabilities.",
-                "The model's frontier intelligence improves price-to-performance metrics for complex multi-step reasoning workflows in ChatGPT.",
-                "The release is coupled with OpenAI Presence, prioritizing persistent digital identity framework tools for automated systems.",
-                "Developers will transition from token optimization strategies to building resilient, highly autonomous transactional agent operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://openai.com",
-                "Published: Last 60 Mins",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NVIDIA: SECURE AI ALLIANCE",
-            "points": [
-                "NVIDIA partners with Safe Superintelligence Inc and the Open Secure AI Alliance to construct SAFE guidelines.",
-                "Over one hundred twenty global organizations are implementing these safety benchmarks to enhance agentic cybersecurity transparency.",
-                "The alliance aims to secure open world models and physical AI systems against automated identity-spoofing attacks.",
-                "Security operations leaders will integrate these strict cryptographic verification standards to safeguard distributed enterprise systems."
+                "Firebird launches the largest regional AI factory in Armenia, utilizing Dell systems and NVIDIA accelerated computing.",
+                "The hardware infrastructure incorporates advanced Blackwell and Rubin processing architectures to scale specialized localized machine learning.",
+                "Establishing this high-performance computing center provides sovereign data processing capabilities to eastern European enterprise sectors.",
+                "Regional technology hubs will accelerate independent software development while bypassing traditional western cloud infrastructure bottlenecks."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +86,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TERAFAB: GIGA-SCALE SEMICONDUCTORS",
+            "id": 6,
+            "heading": "DEEPMIND: WEATHERNEXT BREAKTHROUGH",
             "points": [
-                "SpaceX and Tesla commit sixteen point eight billion dollars to build the Terafab chip factory.",
-                "This massive Texas infrastructure project targets localized production of bespoke silicon to bypass current global bottlenecks.",
-                "The investment aligns with a broader trend of sovereign digital entities building independent vertically integrated hardware stacks.",
-                "Industrial conglomerates must secure localized semiconductor supply lines to maintain operational superiority in automated robotics development."
+                "Google DeepMind releases WeatherNext, a highly specialized artificial intelligence model designed for precise cyclone forecasting.",
+                "The system analyzes global meteorological datasets to predict severe storm paths with unprecedented spatial and temporal accuracy.",
+                "Integrating this machine learning layer into municipal safety infrastructures minimizes critical response lag during extreme weather events.",
+                "Climate researchers now possess actionable predictive intelligence to protect coastal assets and optimize evacuation protocol timing."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://deepmind.google",
+                "Published: Last 60 Mins",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI OFFICE: THERAPY COMPLIANCE",
+            "points": [
+                "The European Union issues strict regulatory guidelines detailing compliance criteria for emotional support and therapeutic AI.",
+                "Developers of affective computing systems must implement transparent auditable guardrails preventing user manipulation and psychological harm.",
+                "This regulatory structure marks the first comprehensive framework enforcing high-risk safety requirements on digital wellness applications.",
+                "Healthcare technology providers must overhaul operational telemetry systems to guarantee strict alignment with European safety standards."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
