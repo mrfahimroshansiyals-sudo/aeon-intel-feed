@@ -1,0 +1,755 @@
+// ==========================================
+// SECTION 1: CORE MODULE DEPENDENCIES & IMPORTS
+// Handles file system operations, path resolving, process execution, and FFmpeg binaries.
+// ==========================================
+const fs = require('fs');
+const path = require('path');
+const { execSync, spawn } = require('child_process');
+const ffmpegInstaller = require('ffmpeg-static');
+const ffprobeStatic = require('ffprobe-static');
+
+// ==========================================
+// SECTION 2: ABSOLUTE SLIDE MAP & BANNER RULES CLARIFICATION
+// ==========================================
+/*
+  ABSOLUTE SLIDE NUMBERING MAPPING (Index 0 to 9 in total 10 slides):
+  - Slide 1: Main Intro Slide (Intro hook screen) -> NO BOTTOM BANNER.
+  - Slide 2 to Slide 8 (Array indices 1 to 7, corresponding to Sub-Slide 1 through Sub-Slide 7) -> MUST SHOW BOTTOM BANNER.
+    * Special Rule for Slide 8 (Sub-Slide 7 / 2nd last content sub-slide): Must show bottom banner and title, but MUST HAVE NO NEXT SLIDE TEASER TEXT.
+  - Slide 9: Follow-up / 2nd last slide -> NO BOTTOM BANNER.
+  - Slide 10: Last / Closing slide -> NO BOTTOM BANNER.
+*/
+
+// ==========================================
+// SECTION 3: VOICE PROFILE & TTS CONFIGURATION
+// Configures pitch, speaking rate, and active voice profile (Energetic Male for AEON Intel).
+// ==========================================
+const SELECTED_VOICE_PROFILE = 'MALE_AEON_ENERGETIC'; 
+
+const VOICE_PROFILES = {
+    MALE_AEON_ENERGETIC: {
+        voiceName: "en-US-AndrewNeural",
+        introRate: "+22%",    // Amplified ultra-high-urgency hook speed for breaking tech news
+        introPitch: "+6Hz",   // Higher commanding pitch for instant attention
+        bodyRate: "+18%",     // Fast-paced, urgent, adrenaline-driven news delivery
+        bodyPitch: "+3Hz",    // Elevated pitch for sharp, alert energy
+        outroRate: "+12%",    // Accelerated dynamic punch for the closing call to action
+        outroPitch: "+1Hz"
+    },
+    FEMALE_BREAKING: {
+        voiceName: "en-US-AvaNeural",
+        introRate: "+22%",
+        introPitch: "+7Hz", 
+        bodyRate: "+20%",
+        bodyPitch: "+4Hz",
+        outroRate: "+12%",
+        outroPitch: "+2Hz"
+    }
+};
+
+// ==========================================
+// SECTION 4: UTILITY & TEXT FORMATTING HELPER FUNCTIONS
+// Date formatting, multiline text wrapping, intro title single-word stacker, dynamic scaling.
+// ==========================================
+
+/**
+ * Helper to generate current date string dynamically in DD-MMM-YYYY format (e.g., 31-JUL-2026)
+ */
+function getCurrentFormattedDate() {
+    const d = new Date();
+    const day = String(d.getDate()).padStart(2, '0');
+    const months = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+    const month = months[d.getMonth()];
+    const year = String(d.getFullYear());
+    return `${day}-${month}-${year}`;
+}
+
+/**
+ * Format multiline text for symmetric body text display
+ */
+function formatMultilineText(text, maxCharsPerLine = 22) {
+    if (!text) return "";
+    const words = text.trim().split(/\s+/);
+    let lines = [];
+    let currentLine = '';
+
+    words.forEach(word => {
+        if ((currentLine + ' ' + word).trim().length > maxCharsPerLine) {
+            if (currentLine.trim()) lines.push(currentLine.trim());
+            currentLine = word;
+        } else {
+            currentLine += (currentLine ? ' ' : '') + word;
+        }
+    });
+    if (currentLine.trim()) {
+        lines.push(currentLine.trim());
+    }
+    return lines.join('\n');
+}
+
+/**
+ * Format Main Intro Hook Title into single-word vertical stack matching reference layout
+ */
+function formatIntroTitleSingleWord(text) {
+    if (!text) return { mainText: "", lastWord: "", totalLines: 0, mainLineCount: 0 };
+    const words = text.trim().split(/\s+/);
+    if (words.length === 1) {
+        return { mainText: "", lastWord: words[0].toUpperCase(), totalLines: 1, mainLineCount: 0 };
+    }
+    const mainWords = words.slice(0, -1).map(w => w.toUpperCase());
+    const lastWord = words[words.length - 1].toUpperCase();
+    return {
+        mainText: mainWords.join('\n'),
+        lastWord: lastWord,
+        totalLines: words.length,
+        mainLineCount: mainWords.length
+    };
+}
+
+/**
+ * DYNAMIC INTRO FONT SCALER & ALIGNMENT CALCULATOR
+ */
+function calculateDynamicIntroFontSize(introTitleObj) {
+    const totalLines = introTitleObj.totalLines || 1;
+    let maxLineLength = 0;
+    
+    if (introTitleObj.mainText) {
+        const lines = introTitleObj.mainText.split('\n');
+        lines.forEach(l => { if (l.length > maxLineLength) maxLineLength = l.length; });
+    }
+    if (introTitleObj.lastWord && introTitleObj.lastWord.length > maxLineLength) {
+        maxLineLength = introTitleObj.lastWord.length;
+    }
+
+    let fontSize = 185; 
+
+    if (totalLines >= 6) fontSize = 115;
+    else if (totalLines === 5) fontSize = 135;
+    else if (totalLines === 4) fontSize = 155;
+
+    if (maxLineLength > 12) fontSize = Math.min(fontSize, 110);
+    else if (maxLineLength > 9) fontSize = Math.min(fontSize, 130);
+
+    const lineSpacing = Math.round(fontSize * 0.05);
+    const totalHeight = (totalLines * fontSize) + ((totalLines - 1) * lineSpacing);
+    const startY = Math.round(900 - (totalHeight / 2)); 
+
+    return { fontSize, lineSpacing, startY };
+}
+
+// ==========================================
+// SECTION 5: PHONETIC ENGINE & AUDIO SYNTHESIS
+// Normalizes text strings, handles abbreviations/numbers smartly, and triggers Python Edge-TTS.
+// ==========================================
+
+function numberToWords(n) {
+    const ones = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
+    const tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+    
+    if (n === 0) return "zero";
+    if (n < 20) return ones[n];
+    if (n < 100) return tens[Math.floor(n / 10)] + (n % 10 !== 0 ? " " + ones[n % 10] : "");
+    if (n < 1000) return ones[Math.floor(n / 100)] + " hundred" + (n % 100 !== 0 ? " and " + numberToWords(n % 100) : "");
+    if (n < 1000000) return numberToWords(Math.floor(n / 1000)) + " thousand" + (n % 1000 !== 0 ? " " + numberToWords(n % 1000) : "");
+    return n.toString();
+}
+
+/**
+ * Advanced phonetic translation for decimals (e.g., 45.5 -> forty five point five)
+ */
+function parseDecimalsPhonetically(text) {
+    return text.replace(/\b(\d+)\.(\d+)\b/g, (match, integerPart, decimalPart) => {
+        const intWord = numberToWords(parseInt(integerPart, 10));
+        const decWords = decimalPart.split('').map(digit => numberToWords(parseInt(digit, 10))).join(' ');
+        return `${intWord} point ${decWords}`;
+    });
+}
+
+/**
+ * Advanced phonetic currency parser ($45.5M / €2.1B -> forty five point five million U.S. Dollars)
+ */
+function parseCurrenciesPhonetically(text) {
+    return text
+        .replace(/\$([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} U.S. Dollars`;
+        })
+        .replace(/€([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} Euros`;
+        })
+        .replace(/£([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} British Pounds`;
+        });
+}
+
+/**
+ * Legal clause & section reader (Section 512 -> Section five twelve / five hundred twelve)
+ */
+function parseLegalSectionsPhonetically(text) {
+    return text.replace(/\b(Section|Article|Clause|Rule)\s+(\d{1,4})\b/gi, (match, label, numStr) => {
+        const num = parseInt(numStr, 10);
+        let spokenNum = '';
+        if (num >= 100 && num <= 999 && num % 100 !== 0) {
+            const hundreds = Math.floor(num / 100);
+            const remainder = num % 100;
+            spokenNum = `${numberToWords(hundreds)} hundred ${numberToWords(remainder)}`;
+        } else {
+            spokenNum = numberToWords(num);
+        }
+        return `${label} ${spokenNum}`;
+    });
+}
+
+/**
+ * DYNAMIC ABBREVIATION CLEANER: 
+ * Automatically catches and strips periods from ANY dotted acronym (e.g., U.S., U.N., E.U., U.K., F.B.I., U.A.E.) 
+ * so Edge-TTS does not stutter or break words apart due to hardcoded limitations.
+ */
+function cleanAbbreviationsForSpeech(text) {
+    return text.replace(/\b(?:[A-Z]\.){2,}[A-Z]?\b/g, (match) => {
+        return match.replace(/\./g, '');
+    });
+}
+
+function smartNumberParser(text) {
+    return text.replace(/\b\d{1,6}\b/g, (match) => {
+        const num = parseInt(match, 10);
+        if (!isNaN(num) && num < 1000000) {
+            return numberToWords(num);
+        }
+        return match;
+    });
+}
+
+/**
+ * DYNAMIC FRACTION ENGINE:
+ * Dynamically converts ANY standard ratio/fraction pattern (e.g., 3/8, 7/10, 4/5) into spoken words 
+ * instead of being restricted to a manual hardcoded list.
+ */
+function parseFractionsPhonetically(text) {
+    return text.replace(/\b(\d+)\/(\d+)\b/g, (match, numerator, denominator) => {
+        const numVal = parseInt(numerator, 10);
+        const denVal = parseInt(denominator, 10);
+        const numWord = numberToWords(numVal);
+        let denWord = '';
+        
+        if (denVal === 2) denWord = numVal === 1 ? 'half' : 'halves';
+        else if (denVal === 3) denWord = numVal === 1 ? 'third' : 'thirds';
+        else if (denVal === 4) denWord = numVal === 1 ? 'quarter' : 'quarters';
+        else if (denVal === 5) denWord = numVal === 1 ? 'fifth' : 'fifths';
+        else if (denVal === 8) denWord = numVal === 1 ? 'eighth' : 'eighths';
+        else if (denVal === 10) denWord = numVal === 1 ? 'tenth' : 'tenths';
+        else if (denVal === 100) denWord = numVal === 1 ? 'hundredth' : 'hundredths';
+        else denWord = numberToWords(denVal) + (numVal === 1 ? 'th' : 'ths');
+
+        return `${numWord} ${denWord}`;
+    });
+}
+
+/**
+ * DYNAMIC TTS ACRONYM SPELLER:
+ * Dynamically intercepts standard capitalized corporate acronyms (2 to 5 letters) 
+ * and injects spacing (e.g. "H M M") for the audio voice engine only.
+ */
+function spellAcronymsForTTS(text) {
+    return text.replace(/\b([A-Z]{2,5})\b/g, (match) => {
+        return match.split('').join(' ');
+    });
+}
+
+function prepareHumanizedText(rawText) {
+    if (!rawText) return "";
+    
+    let clean = rawText.replace(/<[^>]*>/g, '').trim();
+
+    clean = clean
+        .replace(/\be-commerce\b/gi, 'e-commerce')
+        .replace(/\be-commerce's\b/gi, "e-commerce's")
+        .replace(/\bco-op\b/gi, 'co-op')
+        .replace(/\bon-line\b/gi, 'online');
+
+    clean = clean.replace(/([a-zA-Z0-9]+)-([a-zA-Z0-9]+)/g, '$1 $2');
+
+    clean = cleanAbbreviationsForSpeech(clean);
+    clean = parseFractionsPhonetically(clean);
+    clean = parseCurrenciesPhonetically(clean);
+    clean = parseLegalSectionsPhonetically(clean);
+    clean = parseDecimalsPhonetically(clean);
+
+    clean = clean
+        .replace(/%/g, ' per cent')
+        .replace(/&/g, ' and ')
+        .replace(/\+/g, ' plus ')
+        .replace(/\bvs\.?\b/gi, 'versus');
+
+    clean = smartNumberParser(clean);
+    
+    // Dynamic acronym letter spacing for voice engine rendering
+    clean = spellAcronymsForTTS(clean);
+
+    clean = clean
+        .replace(/\s*(–|—|-)\s+/g, ',... ')
+        .replace(/:\s*/g, ',... ')
+        .replace(/;\s*/g, '. ');
+
+    clean = clean
+        .replace(/,\s*,+/g, ',')
+        .replace(/\.\s*,+/g, '.')
+        .replace(/,\s*\./g, '.')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    if (!clean.endsWith('.') && !clean.endsWith('!') && !clean.endsWith('?')) {
+        clean += '.';
+    }
+
+    return clean;
+}
+
+function synthesizeVoiceover(rawText, outputPath, tempTag, segmentType = 'body') {
+    const cleanText = prepareHumanizedText(rawText);
+    const tempTxtPath = path.join(__dirname, `temp_speech_${tempTag}.txt`);
+    fs.writeFileSync(tempTxtPath, cleanText, 'utf8');
+
+    const profile = VOICE_PROFILES[SELECTED_VOICE_PROFILE] || VOICE_PROFILES.MALE_AEON_ENERGETIC;
+    
+    let rate = profile.bodyRate;
+    let pitch = profile.bodyPitch;
+
+    if (segmentType === 'intro') {
+        rate = profile.introRate;
+        pitch = profile.introPitch;
+    } else if (segmentType === 'closing') {
+        rate = profile.outroRate;
+        pitch = profile.outroPitch;
+    }
+
+    const cmd = `python -m edge_tts --voice "${profile.voiceName}" --rate="${rate}" --pitch="${pitch}" -f "${tempTxtPath}" --write-media "${outputPath}"`;
+    execSync(cmd, { stdio: 'inherit' });
+
+    if (fs.existsSync(tempTxtPath)) {
+        fs.unlinkSync(tempTxtPath);
+    }
+}
+
+// ==========================================
+// SECTION 6: MAIN SHORT BUILD ENGINE
+// Reads video template data, orchestrates audio generation, and structures slide models.
+// ==========================================
+
+async function buildShortFromTemplate(templatePath) {
+    const templateFileName = path.basename(templatePath, '.js');
+    console.log(`\n🚀 Initializing AEON Intel news pipeline for template: ${templateFileName}.js ...`);
+
+    const data = require(templatePath);
+    const rootDataKey = Object.keys(data).find(k => k.includes('shorts_data') || k.includes('script_slides')) || Object.keys(data)[0];
+    const rawContainer = data[rootDataKey] || data;
+    const newsSlides = rawContainer.script_slides || [];
+    const templateLang = (data.language || 'EN').toLowerCase();
+
+    const dynamicHookTitle = rawContainer.hookTitle 
+        || (newsSlides[0] && (newsSlides[0].headline || newsSlides[0].title)) 
+        || "AEON INTEL AI INTELLIGENCE";
+
+    const styleConfig = fs.existsSync(path.join(__dirname, 'short_style.json')) 
+        ? require('./short_style.json') 
+        : {
+            fontName: "MYRIADPRO-REGULAR.otf",
+            fontSize: 76,
+            fontColor: "white",
+            lineSpacing: 26,
+            transitionDuration: 0.35
+        };
+
+    const activeProfile = VOICE_PROFILES[SELECTED_VOICE_PROFILE];
+    console.log(`🎙️ Active Voice (AEON Intel): ${activeProfile.voiceName} | Language: ${templateLang.toUpperCase()}`);
+
+    const introTitleObj = formatIntroTitleSingleWord(dynamicHookTitle);
+    const introFontMetrics = calculateDynamicIntroFontSize(introTitleObj);
+
+    const introSlideData = {
+        imagePath: path.join(__dirname, 'yt_backgrounds', 'introbackgroundyt.png'),
+        introTitleObj: introTitleObj,
+        introFontSize: introFontMetrics.fontSize,
+        introLineSpacing: introFontMetrics.lineSpacing,
+        introStartY: introFontMetrics.startY,
+        teaserTitle: newsSlides[0] ? (newsSlides[0].teaserTitle || newsSlides[0].headline || "") : ""
+    };
+
+    const closingSlideData = {
+        imagePath: path.join(__dirname, 'yt_backgrounds', 'closingbackgroundyt.png'),
+        narration: "Stuck with a low-converting website? Partner with VitaSoftware for a custom-built digital platform with all-inclusive 24-month hosting, maintenance, and full ownership transfer. Tap the link in bio to build yours today.",
+        formattedText: ""
+    };
+
+    const hasIntroBg = fs.existsSync(introSlideData.imagePath);
+    const hasClosingBg = fs.existsSync(closingSlideData.imagePath);
+
+    const slideAudioFiles = [];
+    const slideDurations = [];
+    const allSlides = [];
+
+    const transDur = styleConfig.transitionDuration || 0.35;
+
+    const customBannerPath = path.join(__dirname, 'assets', 'bottom_banner.png');
+    const hasCustomBanner = fs.existsSync(customBannerPath);
+    if (hasCustomBanner) {
+        console.log("🎨 Custom lower-third asset detected: assets/bottom_banner.png");
+    }
+
+    if (hasIntroBg) {
+        console.log("🎙️ Preparing silent 1.0s intro hook screen (Slide 1)...");
+        const introAudioPath = path.join(__dirname, `temp_slide_audio_intro_${templateFileName}.mp3`);
+        
+        const createSilenceCmd = `"${ffmpegInstaller}" -f lavfi -i anullsrc=r=44100:cl=stereo -t 1.0 -c:a mp3 -y "${introAudioPath}"`;
+        execSync(createSilenceCmd, { stdio: 'ignore' });
+
+        const introDuration = 1.0; 
+        slideAudioFiles.push(introAudioPath);
+        slideDurations.push(introDuration);
+
+        allSlides.push({
+            imagePath: introSlideData.imagePath,
+            duration: introDuration,
+            audioPath: introAudioPath,
+            introTitleObj: introSlideData.introTitleObj,
+            introFontSize: introSlideData.introFontSize,
+            introLineSpacing: introSlideData.introLineSpacing,
+            introStartY: introSlideData.introStartY,
+            headline: "AEON TRENDING",
+            teaserTitle: introSlideData.teaserTitle,
+            absoluteSlideNumber: 1,
+            showBanner: false,
+            hasTeaserText: false,
+            isIntro: true,
+            isClosing: false
+        });
+    }
+
+    console.log("🎙️ Synthesizing news body narration (Slides 2 through 9)...");
+    for (let i = 0; i < newsSlides.length; i++) {
+        const slide = newsSlides[i];
+        const slideText = slide.alpha_narration || slide.narration_line || slide.title || "";
+        const rawHeadline = (slide.headline || slide.title || "").toUpperCase();
+        
+        const absoluteSlideNum = i + 2; 
+
+        const showBanner = (absoluteSlideNum >= 2 && absoluteSlideNum <= 8);
+
+        const isSlide8 = (absoluteSlideNum === 8);
+        let slideTeaser = isSlide8 ? "" : (slide.teaserTitle || "");
+        const hasTeaserText = showBanner && !isSlide8 && Boolean(slideTeaser);
+
+        const slideHeadline = `${i + 1}. ${rawHeadline}`;
+        const slideAudioPath = path.join(__dirname, `temp_slide_audio_${templateFileName}_${i}.mp3`);
+
+        synthesizeVoiceover(slideText, slideAudioPath, `${templateFileName}_${i}`, 'body');
+
+        const probeCmd = `"${ffprobeStatic.path}" -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${slideAudioPath}"`;
+        const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
+
+        slideAudioFiles.push(slideAudioPath);
+
+        const duration = Math.max(exactDuration + 0.5, 2.5);
+        slideDurations.push(duration);
+
+        const bgNum = i + 1;
+        const imgPath = path.join(__dirname, 'yt_backgrounds', `backgroundyt${bgNum}.png`);
+        
+        if (fs.existsSync(imgPath)) {
+            let maxChars = 22;
+            const rawFormattedText = formatMultilineText(slide.narration_line || slide.title || "", maxChars);
+            allSlides.push({
+                imagePath: imgPath,
+                duration: duration,
+                audioPath: slideAudioPath,
+                text: rawFormattedText,
+                rawText: slide.narration_line || slide.title || "",
+                headline: slideHeadline,
+                rawTitle: rawHeadline,
+                teaserTitle: slideTeaser,
+                absoluteSlideNumber: absoluteSlideNum,
+                showBanner: showBanner,
+                hasTeaserText: hasTeaserText,
+                isIntro: false,
+                isClosing: false
+            });
+        }
+    }
+
+    if (hasClosingBg) {
+        console.log("🎙️ Synthesizing AEON Intel closing marketing ad slide (Slide 10)...");
+        const closingAudioPath = path.join(__dirname, `temp_slide_audio_closing_${templateFileName}.mp3`);
+
+        synthesizeVoiceover(closingSlideData.narration, closingAudioPath, `closing_${templateFileName}`, 'closing');
+
+        const probeCmd = `"${ffprobeStatic.path}" -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${closingAudioPath}"`;
+        const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
+
+        slideAudioFiles.push(closingAudioPath);
+        // FIX: Increased padding and minimum floor to ensure trailing closing words are never clipped or compressed out.
+        const closingDuration = Math.max(exactDuration + 2.5, 12.5);
+        slideDurations.push(closingDuration);
+
+        allSlides.push({
+            imagePath: closingSlideData.imagePath,
+            duration: closingDuration,
+            audioPath: closingAudioPath,
+            text: closingSlideData.formattedText,
+            headline: "",
+            rawTitle: "",
+            teaserTitle: "",
+            absoluteSlideNumber: 10,
+            showBanner: false,
+            hasTeaserText: false,
+            isIntro: false,
+            isClosing: true
+        });
+    }
+
+    // ==========================================
+    // SECTION 7: FFMPEG GRAPH COMPILATION & FILTER CHAINS
+    // Configures canvas overlays, text drawfilters, lower-third banners, pagination, and transitions.
+    // ==========================================
+    console.log(`🎬 Assembling ${allSlides.length} video segments with strict absolute slide rules...`);
+
+    const outputVideoName = `aeon_output_${templateFileName.replace(/_template|_EN|_DE|_FR/gi, '')}_${templateLang}.mp4`.toLowerCase();
+    const outputVideoPath = path.join(__dirname, outputVideoName);
+    const rawFontPath = path.join(__dirname, 'fonts', styleConfig.fontName);
+    const customFontPath = rawFontPath.replace(/\\/g, '/').replace(/:/g, '\\:');
+
+    const bgMusicPath = path.join(__dirname, 'BG_Sound', 'Orchestronika_Another_Try.mp3');
+    const hasBgMusic = fs.existsSync(bgMusicPath);
+
+    const ffmpegArgs = [];
+    let filterComplex = '';
+
+    allSlides.forEach((slide) => {
+        ffmpegArgs.push('-loop', '1', '-t', String(slide.duration + transDur), '-i', slide.imagePath);
+        ffmpegArgs.push('-i', slide.audioPath);
+    });
+
+    if (hasCustomBanner) {
+        ffmpegArgs.push('-i', customBannerPath);
+    }
+
+    if (hasBgMusic) {
+        ffmpegArgs.push('-stream_loop', '-1', '-i', bgMusicPath);
+    }
+
+    const totalSlidesCount = allSlides.length;
+    const dotSpacing = 36;
+    const totalPaginationWidth = (totalSlidesCount - 1) * dotSpacing;
+    const paginationStartX = Math.round((1080 - totalPaginationWidth) / 2);
+    const paginationY = 1750;
+
+    const bannerInputIndex = hasCustomBanner ? (allSlides.length * 2) : -1;
+    const currentDateStr = getCurrentFormattedDate();
+
+    allSlides.forEach((slide, i) => {
+        let baseVideoFilter = `[${i * 2}:v]scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,setsar=1`;
+        let drawFilters = baseVideoFilter;
+
+        if (!slide.isClosing && !slide.isIntro && slide.text) {
+            const alphaExpr = `if(lt(t,0.25),t/0.25,1)`;
+            const textFilePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
+            fs.writeFileSync(textFilePath, slide.text, 'utf8');
+            const safeTextPath = textFilePath.replace(/\\/g, '/').replace(/:/g, '\\:');
+
+            drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeTextPath}':expansion=none:fontcolor=${styleConfig.fontColor}:fontsize=${styleConfig.fontSize}:line_spacing=40:alpha='${alphaExpr}':x=(1080-text_w)/2:y=360`;
+        }
+
+        for (let d = 0; d < totalSlidesCount; d++) {
+            const dotX = paginationStartX + (d * dotSpacing);
+            const isCurrent = (d === i);
+            const dotColor = isCurrent ? '#ff0000@1.0' : '#888888@0.4'; 
+            const dotRadius = isCurrent ? 8 : 6;
+
+            drawFilters += `,drawbox=x=${dotX - dotRadius}:y=${paginationY - dotRadius}:w=${dotRadius * 2}:h=${dotRadius * 2}:color=${dotColor}:t=fill`;
+        }
+
+        if (slide.showBanner) {
+            if (hasCustomBanner) {
+                drawFilters += `[v_stage_${i}];[v_stage_${i}][${bannerInputIndex}:v]overlay=0:1815`;
+            } else {
+                drawFilters += `,drawbox=x=0:y=1812:w=1080:h=3:color=#ff0000@1.0:t=fill`;    
+                drawFilters += `,drawbox=x=0:y=1815:w=220:h=105:color=#ff0000@1.0:t=fill`;   
+                drawFilters += `,drawbox=x=220:y=1815:w=860:h=105:color=#000000@0.90:t=fill`;   
+            }
+
+            if (!hasCustomBanner) {
+                const breakingAlphaExpr = `if(lt(mod(t,12),5),1,if(lt(mod(t,12),6),1-(mod(t,12)-5),0))`;
+                const dateAlphaExpr = `if(lt(mod(t,12),6),0,if(lt(mod(t,12),11),1,if(lt(mod(t,12),12),1-(mod(t,12)-11),0)))`;
+
+                drawFilters += `,drawtext=fontfile='${customFontPath}':text='AEON':expansion=none:fontcolor=white:fontsize=20:alpha='${breakingAlphaExpr}':x=110-text_w/2:y=1836`;
+                drawFilters += `,drawtext=fontfile='${customFontPath}':text='INTEL':expansion=none:fontcolor=white:fontsize=36:alpha='${breakingAlphaExpr}':x=110-text_w/2:y=1862`; 
+
+                drawFilters += `,drawtext=fontfile='${customFontPath}':text='DATE':expansion=none:fontcolor=white:fontsize=18:alpha='${dateAlphaExpr}':x=110-text_w/2:y=1838`;
+                drawFilters += `,drawtext=fontfile='${customFontPath}':text='${currentDateStr}':expansion=none:fontcolor=white:fontsize=26:alpha='${dateAlphaExpr}':x=110-text_w/2:y=1864`; 
+            }
+
+            const bannerTitlePath = path.join(__dirname, `temp_bannertitle_${templateFileName}_${i}.txt`);
+            const titleString = (slide.rawTitle || slide.headline || "").replace(/^\d+\.\s*/, '');
+            fs.writeFileSync(bannerTitlePath, titleString, 'utf8');
+            const safeBannerTitlePath = bannerTitlePath.replace(/\\/g, '/').replace(/:/g, '\\:');
+
+            const rawTitleLen = titleString.length;
+            let titleFontSize = 48; 
+            if (rawTitleLen > 38) titleFontSize = 34;
+            else if (rawTitleLen > 30) titleFontSize = 38;
+            else if (rawTitleLen > 24) titleFontSize = 42;
+
+            const bannerTitleXExpr = `if(lt(t,0.1),250,if(lt(t,0.3),250-(1-(t-0.1)/0.2)*150,if(lt(t,3.0),250,if(lt(t,3.2),250-((t-3.0)/0.2)*150,-500))))`;
+            const bannerTitleAlpha = `if(lt(t,0.1),0,if(lt(t,0.3),(t-0.1)/0.2,if(lt(t,3.0),1,if(lt(t,3.2),1-(t-3.0)/0.2,0))))`;
+            drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeBannerTitlePath}':expansion=none:fontcolor=white:fontsize=${titleFontSize}:alpha='${bannerTitleAlpha}':x='${bannerTitleXExpr}':y=1867.5-text_h/2`; 
+
+            if (slide.hasTeaserText && slide.teaserTitle) {
+                const bannerTeaserPath = path.join(__dirname, `temp_bteaser_${templateFileName}_${i}.txt`);
+                const bannerTeaserStr = `NEXT: ${slide.teaserTitle.toUpperCase()}`;
+                fs.writeFileSync(bannerTeaserPath, bannerTeaserStr, 'utf8');
+                const safeBannerTeaserPath = bannerTeaserPath.replace(/\\/g, '/').replace(/:/g, '\\:');
+
+                const rawTeaserLen = bannerTeaserStr.length;
+                let teaserFontSize = 42;
+                if (rawTeaserLen > 45) teaserFontSize = 28;
+                else if (rawTeaserLen > 35) teaserFontSize = 32;
+                else if (rawTeaserLen > 28) teaserFontSize = 36;
+                
+                const slideTargetDuration = slide.duration;
+                const teaserSlideOutStart = Math.max(3.5, slideTargetDuration - 0.4);
+                const bannerTeaserXExpr = `if(lt(t,3.2),1200,if(lt(t,3.5),1050+(1-(t-3.2)/0.3)*300,if(lt(t,${teaserSlideOutStart}),1050,if(lt(t,${slideTargetDuration}),1050+((t-${teaserSlideOutStart})/0.4)*300,1200))))`;
+                const teaserFadeAlpha = `if(lt(t,3.2),0,if(lt(t,3.5),(t-3.2)/0.3,if(lt(t,${teaserSlideOutStart}),1,if(lt(t,${slideTargetDuration}),1-(t-${teaserSlideOutStart})/0.4,0))))`;
+
+                drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeBannerTeaserPath}':expansion=none:fontcolor=white:fontsize=${teaserFontSize}:alpha='${teaserFadeAlpha}':x='${bannerTeaserXExpr}-text_w':y=1867.5-text_h/2`; 
+            }
+        }
+
+        filterComplex += `${drawFilters}[vbase${i}];\n`;
+    });
+
+    let currentVideoLabel = "vbase0";
+    let accumulatedTime = 0;
+
+    for (let i = 0; i < allSlides.length - 1; i++) {
+        accumulatedTime += allSlides[i].duration;
+        const nextLabel = i === allSlides.length - 2 ? "outv" : `vtrans${i}`;
+        
+        filterComplex += `[${currentVideoLabel}][vbase${i + 1}]xfade=transition=fade:duration=${transDur}:offset=${accumulatedTime.toFixed(3)}[${nextLabel}];\n`;
+        currentVideoLabel = nextLabel;
+    }
+
+    if (allSlides.length === 1) {
+        filterComplex += `[vbase0]copy[outv];\n`;
+    }
+
+    let concatAudioString = '';
+    allSlides.forEach((slide, i) => {
+        const audioInputIndex = (i * 2) + 1;
+        // FIX: Applied a dedicated longer padding (3.0s) for the closing slide to protect the trailing decay against compressor/limiter gating.
+        const padDur = slide.isClosing ? 3.0 : 1.5;
+        filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
+        concatAudioString += `[a_${i}]`;
+    });
+    
+    filterComplex += `${concatAudioString}concat=n=${allSlides.length}:v=0:a=1[voice_raw];\n`;
+
+    filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.0,equalizer=f=3400:width_type=h:width=1200:g=4.0,equalizer=f=7500:width_type=h:width=1500:g=-3.0,deesser=i=0.5:m=0.5,compand=attacks=0.005:decays=0.1:points=-80/-80|-35/-12|-12/-3|0/0,loudnorm=I=-14:TP=-1.0:LRA=7[voice_master];\n`;
+
+    if (hasBgMusic) {
+        const bgMusicIndex = hasCustomBanner ? (allSlides.length * 2) + 1 : (allSlides.length * 2);
+        const totalDuration = allSlides.reduce((acc, s) => acc + s.duration, 0);
+        
+        filterComplex += `[${bgMusicIndex}:a]volume=0.0,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
+        filterComplex += `[voice_master]asplit=2[v_for_mix][v_for_sc];\n`;
+        filterComplex += `[bg_trimmed][v_for_sc]sidechaincompress=threshold=0.04:ratio=4:1:attack=10:release=200[bg_ducked];\n`;
+        filterComplex += `[v_for_mix][bg_ducked]amix=inputs=2:duration=first:dropout_transition=1.0[outa]`;
+    } else {
+        filterComplex += `[voice_master]copy[outa]`;
+    }
+
+    const filterScriptPath = path.join(__dirname, `temp_filter_${templateFileName}.txt`);
+    fs.writeFileSync(filterScriptPath, filterComplex, 'utf8');
+
+    ffmpegArgs.push('-filter_complex_script', filterScriptPath);
+    ffmpegArgs.push('-map', '[outv]');
+    ffmpegArgs.push('-map', '[outa]');
+    ffmpegArgs.push('-c:v', 'libx264', '-preset', 'ultrafast', '-pix_fmt', 'yuv420p');
+    ffmpegArgs.push('-c:a', 'aac', '-b:a', '192k');
+    ffmpegArgs.push('-y', outputVideoPath);
+
+    // ==========================================
+    // SECTION 8: CHILD PROCESS EXECUTION & CLEANUP
+    // Spawns FFmpeg, streams output, and purges temporary files.
+    // ==========================================
+    return new Promise((resolve, reject) => {
+        const ffmpegProcess = spawn(ffmpegInstaller, ffmpegArgs);
+
+        ffmpegProcess.stderr.on('data', (data) => {
+            process.stderr.write(data);
+        });
+
+        ffmpegProcess.on('close', (code) => {
+            if (fs.existsSync(filterScriptPath)) fs.unlinkSync(filterScriptPath);
+            allSlides.forEach((_, i) => {
+                const textPath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
+                if (fs.existsSync(textPath)) fs.unlinkSync(textPath);
+                const headlinePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
+                if (fs.existsSync(headlinePath)) fs.unlinkSync(headlinePath);
+                const teaserPath = path.join(__dirname, `temp_teaser_${templateFileName}_${i}.txt`);
+                if (fs.existsSync(teaserPath)) fs.unlinkSync(teaserPath);
+                const bannerTitlePath = path.join(__dirname, `temp_bannertitle_${templateFileName}_${i}.txt`);
+                if (fs.existsSync(bannerTitlePath)) fs.unlinkSync(bannerTitlePath);
+                const bannerTeaserPath = path.join(__dirname, `temp_bteaser_${templateFileName}_${i}.txt`);
+                if (fs.existsSync(bannerTeaserPath)) fs.unlinkSync(bannerTeaserPath);
+            });
+            slideAudioFiles.execSync = slideAudioFiles.forEach(audioPath => {
+                if (fs.existsSync(audioPath)) fs.unlinkSync(audioPath);
+            });
+
+            if (code === 0) {
+                console.log(`\n🎉 Success! AEON Intel news short rendered at: ${outputVideoName}`);
+                resolve();
+            } else {
+                reject(new Error(`FFmpeg process exited with code ${code}`));
+            }
+        });
+    });
+}
+
+// ==========================================
+// SECTION 9: AUTOMATED PIPELINE BATCH EXECUTION
+// Discovers template JS files in root and triggers batch compilation.
+// ==========================================
+async function runMainTemplateQueue() {
+    console.log("🔍 Scanning workspace for matching AEON Intel template files...");
+    const files = fs.readdirSync(__dirname);
+    const templateFiles = files.filter(file => file.endsWith('.js') && (file.includes('template') || file.includes('shorts') || file.includes('Video_Template')));
+
+    for (const file of templateFiles) {
+        try {
+            await buildShortFromTemplate(path.join(__dirname, file));
+        } catch (error) {
+            console.error(`❌ Pipeline failure encountered while processing ${file}:`, error);
+        }
+    }
+
+    console.log("\n🏁 All AEON Intel video generations completed!");
+}
+runMainTemplateQueue().catch(console.error);
