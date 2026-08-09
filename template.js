@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "NEXT GEN HARDWARE",
-        "titleBlue": "SOVEREIGNTY"
+        "titleWhite": "NEXT GEN AGENTIC",
+        "titleBlue": "INFRASTRUCTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: TAALAS CHIP ACQUISITION",
+            "heading": "OPENAI: GPT-5.6 DEPLOYMENT",
             "points": [
-                "AMD has finalized an agreement to acquire Taalas to implement direct-to-silicon single-model AI inference accelerators.",
-                "The transaction targets massive cost reductions and power savings for high-volume enterprise generative model deployments.",
-                "This structural shift bypasses traditional GPU flexibility in favor of hardwired, highly specialized model performance.",
-                "Enterprise customers will increasingly migrate mature production workloads to highly optimized, application-specific silicon architectures."
+                "OpenAI officially deployed its next-generation GPT-5.6 frontier model to scale complex enterprise autonomous capabilities globally.",
+                "The release optimizes processing efficiency while delivering substantial latency reductions and cost-performance improvements across commercial workflows.",
+                "Free tier users obtain expanded access to the lightweight Luna variant to democratize advanced multi-step orchestration.",
+                "Enterprise developers can integrate this architecture immediately to drive deeper cognitive automation across high-volume production systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: amd.com",
+                "Source: https://openai.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SPACEX & TESLA: TERAFAB FACTORY",
+            "heading": "AMD: TAALAS ACQUISITION",
             "points": [
-                "SpaceX and Tesla are investing sixteen point eight billion dollars in a massive Texas-based semiconductor manufacturing facility.",
-                "This capital deployment establishes localized production lines to supply proprietary autopilot and spaceflight vehicle computing chips.",
-                "Vertical integration of fabrication processes mitigates supply chain risks while accelerating customized hardware iteration cycles.",
-                "Autonomous vehicles and aerospace platforms will increasingly run on highly customized, domestically fabricated silicon units."
+                "AMD announced a definitive agreement to acquire Taalas to integrate breakthrough single-model AI inference technology.",
+                "The hardware acquisition targets cost-effective enterprise chip designs optimized for mature and high-volume deep learning workloads.",
+                "This integration directly strengthens the performance roadmap of AMD Instinct accelerators against dominant legacy computing competitors.",
+                "IT infrastructure architects gain access to highly efficient silicon pathways that drastically reduce model execution costs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.amd.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL",
+            "heading": "NVIDIA: SSI PARTNERSHIP",
             "points": [
-                "OpenAI has launched its new GPT-5.6 model delivering frontier-scale intelligence and robust real-world multi-step reasoning capabilities.",
-                "Developers can scale cognitive processes efficiently while maintaining stable performance margins across complex automated workflows.",
-                "The model incorporates dynamic scaling properties to deliver unmatched efficiency relative to computation cost constraints.",
-                "Global organizations will deploy these agentic models to orchestrate deeply integrated transactional systems of action."
+                "Nvidia finalized a comprehensive strategic partnership with Safe Superintelligence to accelerate specialized secure AI system architectures.",
+                "The alliance delivers critical compute infrastructure and technical support designed to advance robust and alignment-focused research initiatives.",
+                "This collaboration reinforces sovereign infrastructure security during a period of massive deployment for autonomous agent models.",
+                "System administrators can expect advanced secure deployment standards utilizing optimized accelerated hardware configurations across public clouds."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: openai.com",
+                "Source: https://nvidianews.nvidia.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: UNITREE HUMANOID BRAIN",
+            "heading": "SPACEX: TERAFAB GIGAFACTORY",
             "points": [
-                "DeepSeek has strategically invested in Unitree to build advanced artificial intelligence brains for next-generation humanoid robots.",
-                "This financial and technical integration accelerates physical embodiment technologies for deployment across complex industrial workflows.",
-                "Merging deep learning models with physical actuators enables real-time environmental adaptation and multi-modal sensory reasoning.",
-                "Smart factories will witness rapid scaling of humanoid labor performing highly intricate, physical assembly line tasks."
+                "SpaceX and Tesla committed sixteen point eight billion dollars to establish a massive Texas chip factory.",
+                "The manufacturing facility will produce customized proprietary silicon designed to power advanced autonomous computing platforms.",
+                "This monumental industrial investment secures localized hardware supply chains for next-generation robotics and transportation systems.",
+                "Global supply chains must adapt as aerospace and automotive giants bypass traditional external semiconductor fabrication hubs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: aibusiness.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CLOUDFLARE: ENTERPRISE AI OS",
+            "heading": "DEEPSEEK: HUMANOID ROBOTICS ALLIANCE",
             "points": [
-                "Cloudflare has unveiled its enterprise AI operating system to unify workspace access, model routing, and security.",
-                "Organizations can govern data connections and access secure AI runtimes directly inside standard web browser environments.",
-                "This browser-integrated control plane enforces zero-trust architecture while streamlining multi-model orchestration at the global edge.",
-                "IT leaders will rapidly implement edge-based security frameworks to prevent unauthorized corporate data exfiltration."
+                "DeepSeek invested directly in Unitree to engineer highly sophisticated artificial brains optimized for next-generation humanoid robots.",
+                "The venture combines advanced foundation models with athletic physical hardware to expand autonomous labor capacity worldwide.",
+                "Developing native physical intelligence layers accelerates the deployment of capable robots into unstructured warehouse environments.",
+                "Industrial automation leaders will benefit from unified control systems capable of handling highly variable physical tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cio.com",
+                "Source: https://www.aibusiness.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
+            "heading": "META: PERSISTENT AGENT ENGINE",
             "points": [
-                "NVIDIA and Ilya Sutskever\u2019s Safe Superintelligence have established a long-term strategic partnership to accelerate safe AI.",
-                "The collaboration guarantees massive compute allocations to drive breakthrough research in robust and fully aligned superintelligence.",
-                "Combining cutting-edge accelerated hardware with advanced safety alignment algorithms mitigates frontier model catastrophic breakout risks.",
-                "The global AI ecosystem will witness standardized alignment protocols verified on highly advanced, secure physical infrastructure."
+                "Meta launched its Muse Code platform to power persistent AI agents performing complex software development tasks.",
+                "The system enables continuous autonomous code generation and architecture-aware reasoning within active enterprise software engineering pipelines.",
+                "Persistent agents minimize human developer overhead by executing long-horizon debugging and comprehensive system validation autonomously.",
+                "Engineering organizations can utilize these persistent layers to accelerate legacy software migration and optimize overall deployment."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: nvidianews.nvidia.com",
+                "Source: https://www.infoworld.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
+            "heading": "CLOUDFLARE: ENTERPRISE OS LAUNCH",
             "points": [
-                "Google DeepMind has launched WeatherNext to deliver highly accurate predictions of global cyclone trajectories and intensities.",
-                "Public safety networks can issue storm warnings with unprecedented lead times to protect vulnerable coastal communities.",
-                "The model utilizes deep global forecasting networks to compute meteorological fluid dynamics faster than classical supercomputers.",
-                "Governments and emergency responders will integrate deep-learning atmospheric models to optimize disaster response strategies globally."
+                "Cloudflare introduced Cloudflare OS to serve as a secure operating system for modern AI-first enterprises.",
+                "The browser-based ecosystem combines zero-trust security controls with governed model routing to simplify complex workspace operations.",
+                "Integrating direct model access within a unified security boundary prevents unauthorized enterprise data exposure during workflows.",
+                "Chief information security officers can leverage this architecture to enforce granular data access policies across models."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: deepmind.google",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
