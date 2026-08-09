@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "META LAUNCHES MUSE CODE AGENTIC PLATFORM",
+        "hookTitle": "NVIDIA SAFE SUPERINTELLIGENCE PARTNERSHIP",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "META: MUSE CODE AGENTIC LAUNCH",
-                "teaserTitle": "MICROSOFT: WEB IQ AGENT GROUNDING",
+                "headline": "NVIDIA: SAFE SUPERINTELLIGENCE PARTNERSHIP",
+                "teaserTitle": "SPACEX/TESLA: TERAFAB CHIP FACTORY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Meta launched Muse Code with persistent AI agents for enterprise software engineering. The platform automates long-horizon tasks to accelerate developer completion speeds by up to 40%."
+                "narration_line": "NVIDIA announced a long-term strategic partnership with Safe Superintelligence Inc. This collaboration aims to rapidly accelerate SSI\u2019s growth in frontier AI development."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT: WEB IQ AGENT GROUNDING",
-                "teaserTitle": "CYBERSECURITY: SNOWFLAKE HACKER PLEADS GUILTY",
+                "headline": "SPACEX/TESLA: TERAFAB CHIP FACTORY",
+                "teaserTitle": "AMD: ACQUIRES TAALAS AI INFERENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft released Web IQ to ground autonomous AI agents with live internet data streams. The intelligence layer reduces model hallucination rates by 35% in enterprise research pipelines."
+                "narration_line": "SpaceX and Tesla plan a $16.8B investment for a Terafab chip factory in Texas. This facility will significantly boost advanced semiconductor manufacturing for AI systems."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: SNOWFLAKE HACKER PLEADS GUILTY",
-                "teaserTitle": "INFRASTRUCTURE: CLOUDFLARE ENTERPRISE AI OS",
+                "headline": "AMD: ACQUIRES TAALAS AI INFERENCE",
+                "teaserTitle": "GOOGLE: DEEPMIND FOUNDER NEW ROLE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Hacker Connor Moucka pleaded guilty to compromising 165 corporate cloud databases in court. The massive breach exposed millions of records and carries a maximum sentence of 30 years."
+                "narration_line": "AMD definitively agreed to acquire Taalas, an AI inference technology company. This acquisition targets breakthrough inference performance and efficiency for AMD's AI roadmap."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: CLOUDFLARE ENTERPRISE AI OS",
-                "teaserTitle": "NVIDIA: ARMENIA AI FACTORY LAUNCH",
+                "headline": "GOOGLE: DEEPMIND FOUNDER NEW ROLE",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cloudflare introduced Cloudflare OS to serve as a browser-based governance platform for enterprise AI. The unified system reduces operational management overhead for corporate IT teams by 25%."
+                "narration_line": "DeepMind's founder ascended to a singular AI leadership role at Google. This centralizes AI development, aiming to accelerate product integration across Google\u2019s portfolio."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: ARMENIA AI FACTORY LAUNCH",
-                "teaserTitle": "REGULATION: EU AI ACT THERAPY RULES",
+                "headline": "AZURE: NEW AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "CYBERSECURITY: HUGGING FACE HACK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Firebird launched the CIS region's largest AI factory in Armenia powered by NVIDIA hardware. The high-density datacenter facility expands global compute capacity for enterprise AI training workloads."
+                "narration_line": "Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. The HDv2, HXv2, and ND MI455Xv7 series support demanding deep learning workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: EU AI ACT THERAPY RULES",
-                "teaserTitle": "RESEARCH: STANFORD AI COMPANION STUDY",
+                "headline": "CYBERSECURITY: HUGGING FACE HACK",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "European Union regulators published strict compliance guidance for AI models utilized in mental health therapy. The framework mandates mandatory safety audits and imposes severe financial penalties for non-compliance."
+                "narration_line": "A recent Hugging Face platform hack raises significant concerns for AI ecosystem security. This incident highlights vulnerabilities in widely used AI model repositories."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: STANFORD AI COMPANION STUDY",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Stanford HAI published empirical research analyzing user psychological outcomes from conversational AI companions. The study proved that isolated individuals seeking emotional support experience measurably lower long-term well-being."
+                "narration_line": "DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting accuracy. The system enhances early warning capabilities for severe global weather events."
             },
             {
                 "slide_index": 8,
