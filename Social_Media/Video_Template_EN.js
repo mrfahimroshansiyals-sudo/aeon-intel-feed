@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI INTELLIGENCE DECODED",
+        "hookTitle": "NVIDIA SECURES $500B AI FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "OPENAI: $7B SHARE SALE COMPLETE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI unveiled GPT-5.6, its latest frontier model, enhancing enterprise AI scalability. This advanced iteration boosts performance and reduces latency for complex applications, driving automation."
+                "narration_line": "NVIDIA secured $500B in financing from Wall Street firms for AI compute infrastructure. This initiative accelerates global AI data center deployment, transforming AI chips into an investable asset."
             },
             {
                 "slide_index": 2,
-                "headline": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
-                "teaserTitle": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
+                "headline": "OPENAI: $7B SHARE SALE COMPLETE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Meta AI released Muse Glimmer as an open-weight model, responding to enterprise data control demands. This strategy provides flexibility for on-premise deployments and custom fine-tuning."
+                "narration_line": "OpenAI successfully closed a $7B share sale, boosting its valuation for future growth. The capital fuels advanced AI research and positions the company toward a potential IPO."
             },
             {
                 "slide_index": 3,
-                "headline": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
-                "teaserTitle": "IEEE SPECTRUM: LUNAR NUCLEAR BATTERIES",
+                "headline": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AI-powered software development environments are transforming traditional IDEs into agent-coordinated toolkits. These platforms streamline workflows and enhance code quality, boosting developer productivity."
+                "narration_line": "OpenAI expanded its Daybreak cybersecurity initiative, tackling evolving AI agent threats. This enhancement provides new defenses against sophisticated, autonomous attacks targeting AI systems."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: LUNAR NUCLEAR BATTERIES",
-                "teaserTitle": "MICROSOFT AZURE: AMD AI/HPC VM EXPANSION",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI FLASH & OMNI LAUNCHES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Engineers successfully tested radioisotope nuclear batteries aboard a CubeSat, a first for lunar power technology. This breakthrough ensures continuous energy supply for future moon bases and deep space missions."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. It delivers enhanced accuracy and speed, improving global disaster preparedness and resource allocation."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: AMD AI/HPC VM EXPANSION",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "headline": "GOOGLE CLOUD: GEMINI FLASH & OMNI LAUNCHES",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL PROMPT MANAGER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered virtual machines for AI and HPC workloads. These VMs offer higher performance and efficiency, optimizing large-scale AI training and inference."
+                "narration_line": "Google Cloud launched Gemini 3.6 Flash, Omni Flash, and Nano Banana 2 Lite models. These updates enhance performance and multimodal capabilities for enterprise AI applications."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "teaserTitle": "TSMC: 45% AI CHIP SALES SURGE",
+                "headline": "MISTRAL AI: SHIELDSTRAL PROMPT MANAGER",
+                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google Cloud introduced AI Threat Defense, a new service to combat evolving cyber threats. The solution leverages AI-driven detection to enhance proactive cybersecurity posture for enterprises."
+                "narration_line": "Mistral AI introduced Shieldstral, a new system of record for managing AI prompts and skills. This innovation centralizes prompt engineering, enhancing consistency and governance for agent workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "TSMC: 45% AI CHIP SALES SURGE",
+                "headline": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "TSMC reported a 45% surge in sales, driven by robust demand for advanced AI chips. This growth highlights increasing investment in specialized silicon and TSMC's critical role in the AI sector."
+                "narration_line": "The EU AI Office launched a major hiring drive for 40 new posts to enforce the AI Act. This expands regulatory capacity, ensuring stricter compliance and ethical AI governance."
             },
             {
                 "slide_index": 8,
