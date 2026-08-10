@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALING",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI rolls out GPT-5.6, setting a new bar for scalable frontier intelligence, impacting enterprise AI deployment and operational efficiency."
+        "titleWhite": "$500B CAPITAL FINANCING",
+        "titleBlue": "PLATFORM",
+        "footerSummary": "Wall Street joins NVIDIA in $500B infrastructure financing as silicon acquisitions and agentic AI deployments accelerate enterprise transformation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALING INTELLIGENCE",
+            "heading": "NVIDIA: $500B CAPITAL FINANCING PLATFORM",
             "points": [
-                "OpenAI has released GPT-5.6, its latest frontier model, designed to offer significantly enhanced intelligence and scalability for advanced applications.",
-                "This iteration focuses on robust performance across complex tasks, enabling more efficient handling of large-scale enterprise AI deployments with improved accuracy.",
-                "The architectural advancements within GPT-5.6 aim to reduce inference costs and latency, making high-signal AI operations more economically viable for businesses.",
-                "Developers and enterprise architects should prepare for integrations leveraging its expanded API capabilities and enhanced reasoning frameworks."
+                "NVIDIA has partnered with major Wall Street private equity firms including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR.",
+                "The coalition is establishing dedicated compute infrastructure financing platforms designed to mobilize over $500B of third-party private capital.",
+                "This capital injection specifically targets the debt and equity funding required to scale next-generation data centers and accelerated hardware clusters.",
+                "Enterprise infrastructure developers gain unprecedented access to structured liquidity, removing capital bottlenecks for hyper-scale AI buildouts globally."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT'S NEW AI CHIP STRATEGY",
+            "nextUpTease": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-10T11:42:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: ACCELERATING AI CHIP PRODUCTION",
+            "heading": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
             "points": [
-                "Microsoft is significantly ramping up its internal development and production of proprietary AI chips to power its Azure cloud infrastructure.",
-                "This strategic move aims to optimize performance and reduce reliance on external suppliers, ensuring consistent supply for its burgeoning AI services.",
-                "By verticalizing its AI hardware stack, Microsoft seeks to gain a competitive edge in cloud AI offerings and improve cost efficiency for customers.",
-                "Cloud customers can anticipate more tailored and performant AI compute options, potentially driving down operational costs for large-scale models."
+                "AMD has entered into a definitive agreement to acquire Taalas, a startup specializing in custom, model-specific direct-to-circuit silicon design.",
+                "The acquisition aims to integrate Taalas' breakthrough inference efficiency technology directly into AMD's enterprise AI compute roadmap.",
+                "By hardwiring specific model weights into hardware, Taalas technology promises to drastically reduce token costs and inference latency.",
+                "Enterprise IT buyers should evaluate these upcoming custom inference products for high-volume, static LLM production workloads."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA'S FIREBIRD AI FACTORY",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH DEPLOYMENT",
             "tags": [
-                "Source: https://www.dowjones.com/newswires",
-                "Published: 2026-08-10T11:50:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Published: 2026-08-06T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
+            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH DEPLOYMENT",
             "points": [
-                "NVIDIA has announced the launch of the Firebird AI Factory in Armenia, establishing the CIS region's largest AI computing hub.",
-                "This factory is powered by NVIDIA's accelerated computing and Dell Technologies' high-performance AI infrastructure, addressing global demand for AI compute.",
-                "The project aims to foster local development opportunities and drive new economic growth in the region, attracting significant AI investment.",
-                "Enterprises in the CIS region and beyond will gain access to cutting-edge AI infrastructure, accelerating their AI development and deployment initiatives."
+                "Google Cloud announced the official release of Gemini 3.6 Flash alongside Gemini 3.5 Flash-Lite and specialized Flash Cyber variants.",
+                "The new model family combines high-speed inference performance with low operational token costs across enterprise cloud environments.",
+                "The releases emphasize real-time video understanding, task orchestration, and reduced latency for autonomous agent systems.",
+                "Developers can immediately deploy these models via Google AI Studio and Vertex AI to optimize high-throughput API pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AI & HPC VMS",
+            "nextUpTease": "OPENAI: DAYBREAK CYBER INITIATIVE EXPANSION",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-08T20:00:00Z",
+                "Source: https://cloud.google.com/blog",
+                "Published: 2026-08-08T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: NEW AI & HPC VMS",
+            "heading": "OPENAI: DAYBREAK CYBER INITIATIVE EXPANSION",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7 series).",
-                "These new VMs are designed to support demanding AI, data, inference, and technical computing workloads with enhanced performance.",
-                "The expansion provides Azure customers with greater flexibility and power for complex AI models and high-performance computing tasks.",
-                "Organizations relying on Azure can leverage these optimized instances to accelerate training and deployment of compute-intensive AI applications."
+                "OpenAI has expanded its Daybreak cybersecurity program to strengthen defense infrastructure as AI agent threat vectors evolve rapidly.",
+                "The initiative provides specialized defensive tools and red-teaming frameworks to help public and private organizations protect critical networks.",
+                "The focus centers on mitigating risks related to autonomous agent exploitation, credential theft, and jailbreak vulnerabilities.",
+                "Chief Information Security Officers should utilize OpenAI's updated security guidelines to benchmark autonomous agent safety protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI-POWERED DEV ENVIRONMENTS",
+            "nextUpTease": "MISTRAL AI: ROBOSTRAL AUTONOMOUS AGENT LAUNCH",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-10T10:30:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
+            "heading": "MISTRAL AI: ROBOSTRAL AUTONOMOUS AGENT LAUNCH",
             "points": [
-                "New AI-powered software development environments are emerging, transforming coding into toolkits for directing models and coordinating agents.",
-                "Platforms like GitHub Copilot, Google Antigravity, and JetBrains Air offer advanced automation and intelligent assistance, boosting developer productivity.",
-                "These environments streamline workflows, from code generation and testing to debugging, fundamentally altering the software engineering lifecycle.",
-                "Development teams must adapt to integrating AI agents into their processes, leveraging these tools to accelerate release cycles and improve code quality."
+                "Mistral AI introduced Robostral Navigate alongside Shieldstral, expanding its product ecosystem into long-horizon autonomous agency.",
+                "The suite equips developers with tools to construct, align, and execute multi-step agents across enterprise knowledge bases and terminals.",
+                "The platform supports both edge and private cloud deployments, ensuring strict data sovereignty and operational security compliance.",
+                "Engineering teams can leverage these capabilities to automate complex software development, document parsing, and workflow orchestration."
             ],
             "imageUrl": "",
-            "nextUpTease": "BOSTON DYNAMICS ROBOT DEPLOYMENT",
+            "nextUpTease": "IEEE SPECTRUM: LUNAR CUBESAT NUCLEAR BATTERIES",
             "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: 2026-08-10T09:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-09T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AI BUSINESS: BOSTON DYNAMICS SPOT ROBOT",
+            "heading": "IEEE SPECTRUM: LUNAR CUBESAT NUCLEAR BATTERIES",
             "points": [
-                "Boston Dynamics' Spot robot has been deployed at a Utah copper mine to automate inspections and optimize operational efficiency.",
-                "The robotic deployment aims to enhance workforce safety by handling dangerous tasks in hazardous environments, reducing human exposure to risk.",
-                "Spot utilizes advanced AI for navigation, data collection, and anomaly detection, providing real-time insights into mining operations.",
-                "Industrial sectors should evaluate robotics for hazardous inspections and operational optimization, leveraging AI to improve safety and asset management."
+                "Engineers have deployed radioisotope nuclear battery technology aboard an orbiting CubeSat to test power supply capabilities for space missions.",
+                "The compact nuclear energy sources are designed to provide continuous, long-term power independent of solar exposure on lunar surfaces.",
+                "This successful orbital demonstration marks a critical step toward establishing durable energy grids for future moon bases and deep space craft.",
+                "Aerospace hardware manufacturers can expect accelerated commercialization of miniaturized nuclear power units for extreme operational environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "LLM STARTUP TRENDS",
+            "nextUpTease": "EU AI ACT: GENERAL PURPOSE THERAPY RULES",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://spectrum.ieee.org",
                 "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MIT TECH REVIEW: LLM STARTUP TRENDS",
+            "heading": "EU AI ACT: GENERAL PURPOSE THERAPY RULES",
             "points": [
-                "MIT Technology Review highlights a new wave of startups intensely focused on developing the next generation of Large Language Models (LLMs).",
-                "These companies are exploring novel architectural approaches and data optimization techniques to push beyond current LLM capabilities and efficiency.",
-                "The trend indicates a rapidly diversifying LLM market, with specialized models and unique feature sets emerging to meet distinct enterprise demands.",
-                "Investors and enterprise decision-makers should monitor these emerging players for disruptive innovations and new opportunities in AI integration."
+                "The EU AI Office published formal regulatory compliance guidance addressing general-purpose AI models deployed for therapy and mental health support.",
+                "The framework outlines strict risk classification, transparency requirements, and human oversight mandates under the EU AI Act.",
+                "Providers of conversational therapeutic AI must implement rigorous data privacy protections, audit trails, and safety guardrails by August 2026.",
+                "Healthcare technology companies operating in Europe must immediately audit their AI systems to align with mandatory enforcement schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.technologyreview.com",
-                "Published: 2026-08-10T01:00:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-07T13:45:00Z",
                 "Status: Audited & True"
             ]
         }
