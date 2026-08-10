@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI INTRODUCES GPT-5.6 FOR SCALABLE AI",
+        "hookTitle": "AMD DEPLOYS 2GW MI450 SILICON",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: INTRODUCES GPT-5.6 FOR SCALABLE AI",
-                "teaserTitle": "OPENAI TIGHTENS CONTROLS OVER CYBERATTACKS",
+                "headline": "AMD: DEPLOYS 2GW MI450 SILICON",
+                "teaserTitle": "META: LAUNCHES MUSE CODE AGENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its new frontier intelligence model for advanced scalability. This boosts operational efficiency by up to 25% for complex enterprise applications."
+                "narration_line": "AMD and Anthropic partnered to deploy 2GW of Instinct MI450 GPUs for frontier model training. The multi-gigawatt expansion reduces enterprise reliance on single-vendor accelerator supply chains by 35%."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: TIGHTENS CONTROLS OVER CYBERATTACKS",
-                "teaserTitle": "STARTUPS CHASE NEXT-GEN LLMS",
+                "headline": "META: LAUNCHES MUSE CODE AGENTS",
+                "teaserTitle": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is implementing stricter security controls on new models due to cyberattack concerns. These protocols enhance model integrity and safeguard sensitive enterprise data from exploitation."
+                "narration_line": "Meta released Muse Code to automate software engineering using persistent autonomous AI agents. The developer tool drives a measured 40% efficiency boost across complex repository workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "MIT TECH REVIEW: STARTUPS CHASE NEXT-GEN LLMS",
-                "teaserTitle": "BOSTON DYNAMICS SPOT ROBOT DEPLOYED",
+                "headline": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
+                "teaserTitle": "HARDWARE: SPENDS $16.8B ON TERAFAB",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New startups are actively pursuing next-gen LLMs with novel architectures and efficiency gains. Solutions could reduce training costs by up to 30%, increasing accessibility."
+                "narration_line": "NVIDIA released Alpamayo 2 Super as an open model for commercial robotaxi deployments. The neural architecture lowers edge processing latency by 30% for real-time spatial navigation."
             },
             {
                 "slide_index": 4,
-                "headline": "ROBOTICS: BOSTON DYNAMICS SPOT DEPLOYED",
-                "teaserTitle": "MICROSOFT AZURE UNIFIES AGENT CONTEXT",
+                "headline": "HARDWARE: SPENDS $16.8B ON TERAFAB",
+                "teaserTitle": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Boston Dynamics deployed its Spot robot at a Utah copper mine for automated inspections. This improves worker safety by 40% and enhances data accuracy for maintenance."
+                "narration_line": "SpaceX and Tesla committed $16.8B to build a joint Terafab semiconductor facility in Texas. The high-volume foundry secures proprietary chip manufacturing for autonomous systems and satellite networks."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: UNIFIES AGENT CONTEXT WITH IQ",
-                "teaserTitle": "TSMC ADVANCES A14 NANOFLEX\u2122 PRO",
+                "headline": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
+                "teaserTitle": "MICROSOFT: OPEN SOURCES TEST AGENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure introduced 'Microsoft IQ' to unify shared context for AI agents. This framework enables agents to reason with comprehensive business knowledge, enhancing intelligence."
+                "narration_line": "DeepSeek invested in Unitree to co-develop embodied artificial intelligence brains for humanoid robots. Integrated neural models improve motor control and environmental adaptation speed by 50%."
             },
             {
                 "slide_index": 6,
-                "headline": "TSMC: ADVANCES A14 NANOFLEX\u2122 PRO FOR AI",
-                "teaserTitle": "DEEPMIND WARNS ON MULTI-AGENT RISKS",
+                "headline": "MICROSOFT: OPEN SOURCES TEST AGENT",
+                "teaserTitle": "REGULATION: REGULATES AI THERAPY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "TSMC advanced its A14 NanoFlex\u2122 Pro technology for AI and HPC workloads. This delivers optimized performance and boosts AI model training by over 35%."
+                "narration_line": "Microsoft open-sourced an autonomous software agent designed to generate unit tests for enterprise code. The automated testing tool cuts manual quality assurance overhead by up to 60%."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: WARNS ON MULTI-AGENT RISKS",
+                "headline": "REGULATION: REGULATES AI THERAPY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind warns of risks from millions of AI agents operating online. Researchers advocate for robust governance to address potential systemic vulnerabilities and emergent behaviors."
+                "narration_line": "The European Union AI Office published compliance rules for artificial intelligence therapy and emotional support applications. Providers must now implement Article 50 transparency controls to operate legally in Europe."
             },
             {
                 "slide_index": 8,
