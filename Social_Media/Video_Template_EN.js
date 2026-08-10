@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
+        "hookTitle": "AI KILL SWITCH ACT PROPOSED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
+                "headline": "REGULATION: AI KILL SWITCH ACT PROPOSED",
+                "teaserTitle": "CYBERSECURITY: HUGGING FACE HACK EXPOSES AI RISK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI unveils GPT-5.6 Sol, offering improved reasoning for advanced tasks. Free users now gain expanded access to GPT-5.6 Luna's capabilities, broadening frontier model reach."
+                "narration_line": "A proposed AI Kill Switch Act aims to impose stricter regulations on frontier AI models. This legislation will significantly impact enterprise leaders and AI developers, demanding enhanced compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
-                "teaserTitle": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
+                "headline": "CYBERSECURITY: HUGGING FACE HACK EXPOSES AI RISK",
+                "teaserTitle": "WORKFORCE: AI IMPACTS JOB MARKETS GLOBALLY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "AMD completed the acquisition of Taalas, a leader in AI inference technology. This strategic move aims to deliver breakthrough performance and efficiency for enterprise AI workloads."
+                "narration_line": "The recent Hugging Face hack exposes dangerous vulnerabilities within the AI cyber era. Many firms remain unaware of their exposure, necessitating strengthened security controls immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "headline": "WORKFORCE: AI IMPACTS JOB MARKETS GLOBALLY",
+                "teaserTitle": "HARDWARE: SPACEX & TESLA PLAN TERAFAB FACTORY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Firebird launched the CIS region's largest AI factory, powered by NVIDIA accelerated computing. This new hub fosters local AI development and drives significant economic growth in Armenia."
+                "narration_line": "The next AI automation wave is globally impacting job markets and workforce structures. Agentic AI workforce adoption is currently doubling annually, according to Salesforce data."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
+                "headline": "HARDWARE: SPACEX & TESLA PLAN TERAFAB FACTORY",
+                "teaserTitle": "ROBOTICS: DEEPSEEK INVESTS IN UNITREE AI BOTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This innovation significantly enhances prediction accuracy, improving global disaster preparedness efforts by up to 20%."
+                "narration_line": "SpaceX and Tesla plan a $16.8B Terafab chip factory in Texas. This massive investment aims to bolster domestic semiconductor manufacturing capacity significantly."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
-                "teaserTitle": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
+                "headline": "ROBOTICS: DEEPSEEK INVESTS IN UNITREE AI BOTS",
+                "teaserTitle": "AI AGENTS: GOOGLE DEEPMIND WARNS ON INTERACTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure, introducing new AMD-powered AI and HPC virtual machines. These VMs, including HDv2 and HXv2, support demanding data and inference workloads."
+                "narration_line": "DeepSeek is investing in Unitree for advanced AI brain development in humanoid bots. This initiative accelerates the creation of next-generation robotic capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
-                "teaserTitle": "EU AI ACT: AI THERAPY UNDER REVIEW",
+                "headline": "AI AGENTS: GOOGLE DEEPMIND WARNS ON INTERACTIONS",
+                "teaserTitle": "ENTERPRISE AI: AMD & SUPERMICRO LAUNCH CODING SOLUTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Meta AI launched Muse Code, enabling complex software development with persistent AI agents. This innovation streamlines multi-step coding workflows, advancing agentic AI in enterprise solutions."
+                "narration_line": "Google DeepMind expresses serious concerns regarding multi-agent system interactions online. They call for urgent research to study these systemic risks in future AI development."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: AI THERAPY UNDER REVIEW",
+                "headline": "ENTERPRISE AI: AMD & SUPERMICRO LAUNCH CODING SOLUTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Act is now reviewing AI systems used for therapy and emotional support. This legislation outlines provider obligations, ensuring ethical and safe deployment in sensitive health applications."
+                "narration_line": "AMD, Supermicro, and Spectro Cloud launched a new turnkey enterprise AI coding solution. This partnership aims to effectively scale AI coding workflows for enterprise developers."
             },
             {
                 "slide_index": 8,

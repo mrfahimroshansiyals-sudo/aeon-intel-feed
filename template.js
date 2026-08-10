@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "IMPROVING GPT-5.6 SOL & EXPANDING",
-        "titleBlue": "LUNA",
-        "footerSummary": "OpenAI enhances GPT-5.6 with Sol improvements and broader Luna access, pushing frontier model capabilities. AI infrastructure scales with new AMD acquisitions and NVIDIA factory deployments."
+        "titleWhite": "AI KILL SWITCH ACT",
+        "titleBlue": "PROPOSED",
+        "footerSummary": "New regulations target AI risks as tech investments reshape global hardware and agentic AI. Cybersecurity threats escalate with new model exploits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
+            "heading": "REGULATION: AI KILL SWITCH ACT PROPOSED",
             "points": [
-                "**GPT-5.6 Sol:** Improved performance for advanced reasoning tasks.",
-                "**Luna Access:** Expanded availability for free users now.",
-                "**Frontier Models:** Continues scaling ambition in AI development.",
-                "**User Impact:** Broader access to cutting-edge AI features."
+                "**Legislation:** Proposed bill impacts frontier model developers.",
+                "**Enterprise Leaders:** Introduces stricter regulatory restrictions.",
+                "**Compliance:** Broad applicability beyond direct AI makers.",
+                "**Future Impact:** Signals stricter AI governance ahead."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
+            "nextUpTease": "CYBERSECURITY: HUGGING FACE HACK EXPOSES AI RISK",
             "tags": [
-                "Source: https://openai.com",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://www.techtarget.com",
+                "Published: 2026-08-05T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
+            "heading": "CYBERSECURITY: HUGGING FACE HACK EXPOSES AI RISK",
             "points": [
-                "**Acquisition:** AMD acquires Taalas for inference tech.",
-                "**Performance:** Breakthrough efficiency for AI workloads.",
-                "**AI Roadmap:** Differentiates AMD's long-term AI strategy.",
-                "**Market Impact:** Targets cost-effective enterprise AI solutions."
+                "**Hugging Face:** Hack reveals significant AI platform vulnerabilities.",
+                "**Cyber Era:** Signals dangerous new era for AI security.",
+                "**Enterprise Risk:** Many firms unaware of exposure.",
+                "**Mitigation:** Strengthen security controls around systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
+            "nextUpTease": "WORKFORCE: AI IMPACTS JOB MARKETS GLOBALLY",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-06T09:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-08T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
+            "heading": "WORKFORCE: AI IMPACTS JOB MARKETS GLOBALLY",
             "points": [
-                "**Deployment:** Firebird launches largest CIS AI factory.",
-                "**Infrastructure:** Powers local AI development and computing.",
-                "**Economic Growth:** Establishes new regional AI hub.",
-                "**Compute:** NVIDIA accelerated computing powers operations."
+                "**Job Market:** AI automation wave impacts global workforce.",
+                "**Job Roles:** Next phase of AI affects employment structure.",
+                "**Agentic AI:** Workforce adoption doubling annually.",
+                "**Salesforce Data:** Indicates rapid enterprise integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "nextUpTease": "HARDWARE: SPACEX & TESLA PLAN TERAFAB FACTORY",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-08T08:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-08T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "heading": "HARDWARE: SPACEX & TESLA PLAN TERAFAB FACTORY",
             "points": [
-                "**Model:** WeatherNext achieves cyclone forecasting breakthrough.",
-                "**Accuracy:** Enhances prediction of severe weather events.",
-                "**Impact:** Improves disaster preparedness and response.",
-                "**Advancement:** Significant step in AI for climate science."
+                "**Investment:** SpaceX, Tesla plan $16.8B Terafab factory.",
+                "**Location:** New chip manufacturing facility in Texas.",
+                "**Scale:** Massive investment in semiconductor production.",
+                "**Future Impact:** Bolsters domestic chip manufacturing capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
+            "nextUpTease": "ROBOTICS: DEEPSEEK INVESTS IN UNITREE AI BOTS",
             "tags": [
-                "Source: https://deepmind.google",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
+            "heading": "ROBOTICS: DEEPSEEK INVESTS IN UNITREE AI BOTS",
             "points": [
-                "**Expansion:** Azure adds AMD-powered AI, HPC VMs.",
-                "**Performance:** HDv2, HXv2, MI455Xv7 support demanding workloads.",
-                "**Workloads:** Targets AI, data, inference, technical computing.",
-                "**Infrastructure:** Enhances cloud compute capabilities."
+                "**DeepSeek:** Invests in Unitree for humanoid bot development.",
+                "**AI Brain:** Focus on advanced AI for robotics.",
+                "**Unitree:** Leading developer of humanoid robotics.",
+                "**Innovation:** Accelerates next-gen robotic capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
+            "nextUpTease": "AI AGENTS: GOOGLE DEEPMIND WARNS ON INTERACTIONS",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.aibusiness.com",
                 "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
+            "heading": "AI AGENTS: GOOGLE DEEPMIND WARNS ON INTERACTIONS",
             "points": [
-                "**Launch:** Meta releases Muse Code for complex software work.",
-                "**Capability:** Enables persistent AI agent operations.",
-                "**Development:** Streamlines multi-step software creation.",
-                "**Innovation:** Advances agentic AI in coding workflows."
+                "**DeepMind:** Expresses concerns over multi-agent system interactions.",
+                "**Online Agents:** Risks with millions of AI agents interacting.",
+                "**Research Focus:** Calls for more study on systemic risks.",
+                "**Future Development:** Emphasizes safe agent deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: AI THERAPY UNDER REVIEW",
+            "nextUpTease": "ENTERPRISE AI: AMD & SUPERMICRO LAUNCH CODING SOLUTION",
             "tags": [
-                "Source: https://www.infoworld.com",
-                "Published: 2026-08-06T15:00:00Z",
+                "Source: https://deepmind.google",
+                "Published: 2026-08-08T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: AI THERAPY UNDER REVIEW",
+            "heading": "ENTERPRISE AI: AMD & SUPERMICRO LAUNCH CODING SOLUTION",
             "points": [
-                "**Regulation:** EU AI Act reviews AI systems for therapy.",
-                "**Compliance:** Defines obligations for GPAI providers.",
-                "**Ethics:** Ensures safe, responsible use in mental health.",
-                "**Impact:** Shapes future of AI in sensitive applications."
+                "**Collaboration:** AMD, Supermicro, Spectro Cloud partner.",
+                "**Solution:** Turnkey enterprise AI coding solution launched.",
+                "**Aim:** Scales AI coding workflows effectively.",
+                "**Market:** Targets enterprise developers for efficiency."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://www.amd.com",
+                "Published: 2026-08-05T13:00:00Z",
                 "Status: Audited & True"
             ]
         }
