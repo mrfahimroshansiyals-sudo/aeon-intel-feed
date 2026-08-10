@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "IBM EXTENDS MOORE\u2019S LAW",
+        "hookTitle": "GLOBAL AI ARCHITECTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CHIP DEVELOPMENT: IBM EXTENDS MOORE\u2019S LAW",
-                "teaserTitle": "AZURE INFRASTRUCTURE: NEW AMD-POWERED AI VM LAUNCH",
+                "headline": "GEOPOLITICS & TECH: CHINA PRESSES US TECH POLICY WEAKNESS",
+                "teaserTitle": "BOEHLY GROUP ROLLS OUT AI TO CHELSEA & A24",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "IBM announced new chip technology designed to extend Moore's Law for another decade. This breakthrough impacts semiconductor capabilities and redefines industry roadmaps for future AI hardware."
+                "narration_line": "China is actively exploiting vulnerabilities within America's tech policy framework. This strategic move significantly impacts global supply chains, increasing geopolitical tensions for major tech firms."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE INFRASTRUCTURE: NEW AMD-POWERED AI VM LAUNCH",
-                "teaserTitle": "CLOUDFLARE: AI-FIRST ENTERPRISE OS DEBUTS",
+                "headline": "ENTERPRISE AI ADOPTION: BOEHLY GROUP ROLLS OUT AI TO CHELSEA & A24",
+                "teaserTitle": "ISRAELI STARTUP LINKED TO ROGUE AI HACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Azure launched new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7. These VMs support demanding AI workloads, boosting cloud scalability for complex technical computing."
+                "narration_line": "Todd Boehly's Eldridge group acquired a 50% stake in Sudolabs for AI integration. This expands advanced AI solutions across diverse entertainment sectors, including Chelsea FC and A24 film studio."
             },
             {
                 "slide_index": 3,
-                "headline": "CLOUDFLARE: AI-FIRST ENTERPRISE OS DEBUTS",
-                "teaserTitle": "NVIDIA INFRASTRUCTURE: FIREBIRD AI FACTORY LAUNCH",
+                "headline": "AI SECURITY & ETHICS: ISRAELI STARTUP LINKED TO ROGUE AI HACKS",
+                "teaserTitle": "INTRODUCING MISTRAL OCR 4",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Cloudflare introduced an AI-first enterprise operating system, integrating AI workspaces, zero-trust access, and model routing. This platform unifies enterprise data, enhancing security and streamlining AI operations."
+                "naration_line": "An Israeli startup has been linked to recent rogue AI hacks targeting OpenAI, Anthropic, and Meta. This incident highlights critical security vulnerabilities in frontier AI systems, demanding updated protection protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA INFRASTRUCTURE: FIREBIRD AI FACTORY LAUNCH",
-                "teaserTitle": "DATA CENTERS: TEXAS OIL PATCH LAND RUSH",
+                "headline": "MISTRAL AI MODELS: INTRODUCING MISTRAL OCR 4",
+                "teaserTitle": "INTRODUCING AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Firebird launched the CIS region\u2019s largest AI factory in Armenia, powered by NVIDIA accelerated computing. This initiative establishes a new AI computing hub, bringing economic growth and local development opportunities."
+                "naration_line": "Mistral AI has officially unveiled Mistral OCR 4, their newest optical character recognition model. This advanced release significantly boosts document intelligence capabilities, enhancing enterprise data extraction accuracy."
             },
             {
                 "slide_index": 5,
-                "headline": "DATA CENTERS: TEXAS OIL PATCH LAND RUSH",
-                "teaserTitle": "DEEPMIND AI ETHICS: MULTI-AGENT INTERACTION RISKS",
+                "headline": "GOOGLE CLOUD SECURITY: INTRODUCING AI THREAT DEFENSE",
+                "teaserTitle": "SCALING FOR THE AGENTIC ERA",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A data center backlash is driving a new land rush in Texas's oil patch for new facilities. This trend responds to increasing AI/ML compute infrastructure demands, reshaping regional land use policies."
+                "naration_line": "Google Cloud is launching AI Threat Defense, a new product designed to outpace cyber adversaries. This platform provides advanced security capabilities for enterprise AI, safeguarding cloud infrastructure from evolving threats."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND AI ETHICS: MULTI-AGENT INTERACTION RISKS",
-                "teaserTitle": "MISTRAL AI: ROBOSTRAL NAVIGATE DEBUTS",
+                "headline": "GOOGLE AI INFRASTRUCTURE: SCALING FOR THE AGENTIC ERA",
+                "teaserTitle": "INTRODUCING GEMINI 3.6 FLASH & LITE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind voiced concerns about potential risks from millions of AI agents interacting online. They urged scientists to study these multi-agent system dynamics, prioritizing understanding complex AI ecosystem behaviors."
+                "naration_line": "Google outlines plans for scaling its AI infrastructure, preparing for the agentic era. This strategic investment supports complex multi-agent system deployments, addressing future AI workload demands."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: ROBOSTRAL NAVIGATE DEBUTS",
+                "headline": "GOOGLE GEMINI MODELS: INTRODUCING GEMINI 3.6 FLASH & LITE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mistral AI unveiled its Robostral Navigate agent, designed for executing long-horizon autonomous tasks. This agent operates fluently across enterprise knowledge and toolsets, significantly enhancing workflow efficiency."
+                "naration_line": "Google introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These new releases offer enhanced speed and efficiency, optimizing performance across various enterprise AI applications."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
