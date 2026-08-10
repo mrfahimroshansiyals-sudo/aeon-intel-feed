@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROGUE AI HACKS",
-        "titleBlue": "INVESTIGATION",
-        "footerSummary": "New forensic intelligence exposes covert AI-driven cyber attacks, prompting an urgent re-evaluation of frontier model security frameworks."
+        "titleWhite": "IBM EXTENDS MOORE\u2019S",
+        "titleBlue": "LAW",
+        "footerSummary": "IBM's latest chip breakthrough promises sustained performance gains, extending semiconductor capabilities and redefining industry roadmaps for another decade."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AI SECURITY: ROGUE AI HACKS INVESTIGATION",
+            "heading": "CHIP DEVELOPMENT: IBM EXTENDS MOORE\u2019S LAW",
             "points": [
-                "**Attack Origin:** Israeli startup implicated in AI-driven security breaches.",
-                "**Targets Affected:** OpenAI, Anthropic, and Meta models compromised.",
-                "**Attack Methods:** Sophisticated AI-native techniques bypassed defenses.",
-                "**Industry Impact:** Urgent call for strengthened enterprise AI security protocols."
+                "**Core Advance:** IBM unveils new chip technology breakthrough.",
+                "**Performance Impact:** Aims to extend Moore's Law another decade.",
+                "**Architecture:** Focuses on novel transistor density paradigms.",
+                "**Industry Effect:** Redefines future roadmap for silicon development."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI SECURITY: HUGGING FACE PLATFORM HACK",
+            "nextUpTease": "AZURE INFRASTRUCTURE: NEW AMD-POWERED AI VM LAUNCH",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-09T21:00:00Z",
+                "Source: https://www.technologyreview.com",
+                "Published: 2026-08-09T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AI SECURITY: HUGGING FACE PLATFORM HACK",
+            "heading": "AZURE INFRASTRUCTURE: NEW AMD-POWERED AI VM LAUNCH",
             "points": [
-                "**Platform Breach:** Hugging Face experiences significant security compromise incident.",
-                "**Cyber Threat:** Incident marks a dangerous new era for AI-centric cyber warfare.",
-                "**Enterprise Risk:** Many organizations remain unaware of their potential exposure.",
-                "**Mitigation Call:** Demands robust security measures for open-source AI platforms."
+                "**VM Expansion:** Azure introduces new AMD-powered AI, HPC virtual machines.",
+                "**Models:** HDv2, HXv2, ND MI455Xv7 support demanding workloads.",
+                "**Performance:** Designed for high-performance AI, data, and inference.",
+                "**Enterprise:** Boosts scalability for complex technical computing."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "nextUpTease": "CLOUDFLARE: AI-FIRST ENTERPRISE OS DEBUTS",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-08T18:00:00Z",
+                "Source: https://azure.microsoft.com",
+                "Published: 2026-08-09T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "heading": "CLOUDFLARE: AI-FIRST ENTERPRISE OS DEBUTS",
             "points": [
-                "**Product Launch:** Google Cloud unveils new AI Threat Defense solution.",
-                "**Core Function:** Designed to proactively outpace evolving cyber adversaries.",
-                "**Key Capabilities:** Provides advanced threat detection and response actions.",
-                "**Enterprise Benefit:** Strengthens overall security posture for cloud AI deployments."
+                "**OS Launch:** Cloudflare unveils AI-first enterprise operating system.",
+                "**Core Features:** Integrates AI workspaces, zero-trust access, model routing.",
+                "**Data Unification:** Connects enterprise data within a unified browser OS.",
+                "**IT Benefit:** Streamlines AI operations for enhanced security."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: MICROSOFT IQ AGENT CONTEXT",
+            "nextUpTease": "NVIDIA INFRASTRUCTURE: FIREBIRD AI FACTORY LAUNCH",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-09T14:00:00Z",
+                "Source: https://www.cio.com",
+                "Published: 2026-08-09T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AZURE: MICROSOFT IQ AGENT CONTEXT",
+            "heading": "NVIDIA INFRASTRUCTURE: FIREBIRD AI FACTORY LAUNCH",
             "points": [
-                "**New Feature:** Microsoft IQ offers shared context for enterprise agents.",
-                "**Agent Unification:** Connects AI agents to diverse enterprise systems seamlessly.",
-                "**Enhanced Intelligence:** Enables contextual reasoning across workflows and data.",
-                "**Operational Boost:** Drives efficiency for complex, multi-agent AI solutions."
+                "**Launch:** Firebird opens largest AI factory in CIS region.",
+                "**Location:** New computing hub established in Armenia.",
+                "**Technology:** Powered by NVIDIA accelerated computing solutions.",
+                "**Economic Impact:** Boosts local development, regional growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: DARPA LIFT CHALLENGE UPDATE",
+            "nextUpTease": "DATA CENTERS: TEXAS OIL PATCH LAND RUSH",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-09T16:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-08T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ROBOTICS: DARPA LIFT CHALLENGE UPDATE",
+            "heading": "DATA CENTERS: TEXAS OIL PATCH LAND RUSH",
             "points": [
-                "**DARPA Initiative:** Humanoid robots and drones tested in Lift Challenge.",
-                "**Core Objective:** Demonstrates heavy payload lifting capabilities for autonomy.",
-                "**Technological Leap:** Advances physical AI systems in complex real-world tasks.",
-                "**Future Impact:** Paves way for next-gen robotic logistics and deployment."
+                "**Trend:** Data center backlash triggers new land rush in Texas.",
+                "**Location:** Oil patch areas targeted for new facilities.",
+                "**Drivers:** Increased demand for AI/ML compute infrastructure.",
+                "**Impact:** Reshapes regional economic and land use policies."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEO-TECH POLICY: CHINA TECH POLICY PRESSURE",
+            "nextUpTease": "DEEPMIND AI ETHICS: MULTI-AGENT INTERACTION RISKS",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-09T15:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "GEO-TECH POLICY: CHINA TECH POLICY PRESSURE",
-            "points": [
-                "**Strategic Focus:** China leverages weaknesses in America's tech policy.",
-                "**Geopolitical Impact:** Intensifies global tech rivalry and national security concerns.",
-                "**Economic Repercussions:** Influences international supply chains and innovation ecosystems.",
-                "**Policy Response:** Calls for urgent review of US tech strategy."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI ETHICS: PERMANENT UNDERCLASS DEBATE",
-            "tags": [
-                "Source: https://www.dowjones.com/newswires",
+                "Source: https://www.dowjones.com",
                 "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "AI ETHICS: PERMANENT UNDERCLASS DEBATE",
+            "id": 6,
+            "heading": "DEEPMIND AI ETHICS: MULTI-AGENT INTERACTION RISKS",
             "points": [
-                "**Societal Concern:** AI's role in creating a 'permanent underclass' debated.",
-                "**Ethical Implications:** Raises questions about job displacement and inequality.",
-                "**Policy Dialogue:** Explores strategies for equitable AI adoption globally.",
-                "**Future Workforce:** Necessitates new frameworks for human-AI collaboration."
+                "**Concern:** Google DeepMind worries about multi-agent online interactions.",
+                "**Behavior:** Agents could exhibit complex, unpredictable behaviors.",
+                "**Research Call:** Urges scientists to study risks of multi-agent systems.",
+                "**Safety:** Prioritizes understanding complex AI ecosystem dynamics."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MISTRAL AI: ROBOSTRAL NAVIGATE DEBUTS",
+            "tags": [
+                "Source: https://www.technologyreview.com",
+                "Published: 2026-08-09T11:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE DEBUTS",
+            "points": [
+                "**Product:** Mistral AI introduces Robostral Navigate agent.",
+                "**Capability:** Designed for long-horizon autonomous tasks.",
+                "**Integration:** Fluent across enterprise knowledge and toolsets.",
+                "**Efficiency:** Aims to enhance productivity in complex workflows."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ft.com/technology",
-                "Published: 2026-08-10T05:00:00Z",
+                "Source: https://mistral.ai",
+                "Published: 2026-08-09T13:00:00Z",
                 "Status: Audited & True"
             ]
         }
