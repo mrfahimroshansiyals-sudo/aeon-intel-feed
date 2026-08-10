@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CHINA PRESSES US TECH POLICY",
-        "titleBlue": "WEAKNESS",
-        "footerSummary": "China exploits US tech policy flaws, impacting global supply chains. Geopolitical tensions rise, demanding urgent corporate strategy shifts for tech resilience."
+        "titleWhite": "IMPROVING GPT-5.6 SOL & EXPANDING",
+        "titleBlue": "LUNA",
+        "footerSummary": "OpenAI enhances GPT-5.6 with Sol improvements and broader Luna access, pushing frontier model capabilities. AI infrastructure scales with new AMD acquisitions and NVIDIA factory deployments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GEOPOLITICS & TECH: CHINA PRESSES US TECH POLICY WEAKNESS",
+            "heading": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
             "points": [
-                "**Geopolitical Strategy:** China exploits US tech policy vulnerabilities.",
-                "**Economic Impact:** Impacts global supply chains significantly.",
-                "**Market Risk:** Increases geopolitical tensions for tech firms.",
-                "**Corporate Response:** Requires strategic adjustments from US companies."
+                "**GPT-5.6 Sol:** Improved performance for advanced reasoning tasks.",
+                "**Luna Access:** Expanded availability for free users now.",
+                "**Frontier Models:** Continues scaling ambition in AI development.",
+                "**User Impact:** Broader access to cutting-edge AI features."
             ],
             "imageUrl": "",
-            "nextUpTease": "BOEHLY GROUP ROLLS OUT AI TO CHELSEA & A24",
+            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
             "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: 2026-08-10T04:00:00Z",
+                "Source: https://openai.com",
+                "Published: 2026-08-08T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENTERPRISE AI ADOPTION: BOEHLY GROUP ROLLS OUT AI TO CHELSEA & A24",
+            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE",
             "points": [
-                "**Acquisition:** Eldridge acquires 50% of Sudolabs for AI tech.",
-                "**Deployment:** AI to be embedded across group companies.",
-                "**Target Firms:** Chelsea FC, A24 Film Studio integrating AI.",
-                "**Market Expansion:** Broadens AI adoption in sports/entertainment."
+                "**Acquisition:** AMD acquires Taalas for inference tech.",
+                "**Performance:** Breakthrough efficiency for AI workloads.",
+                "**AI Roadmap:** Differentiates AMD's long-term AI strategy.",
+                "**Market Impact:** Targets cost-effective enterprise AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "ISRAELI STARTUP LINKED TO ROGUE AI HACKS",
+            "nextUpTease": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
             "tags": [
-                "Source: https://www.ft.com",
-                "Published: 2026-08-10T10:00:00Z",
+                "Source: https://www.amd.com",
+                "Published: 2026-08-06T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AI SECURITY & ETHICS: ISRAELI STARTUP LINKED TO ROGUE AI HACKS",
+            "heading": "NVIDIA: CIS REGION AI FACTORY LAUNCH",
             "points": [
-                "**Incident:** Israeli startup linked to rogue AI hacks.",
-                "**Victims:** Impacts OpenAI, Anthropic, and Meta platforms.",
-                "**Vulnerability:** Exposes critical security flaws in frontier AI.",
-                "**Mitigation:** Demands enhanced adversarial AI security protocols."
+                "**Deployment:** Firebird launches largest CIS AI factory.",
+                "**Infrastructure:** Powers local AI development and computing.",
+                "**Economic Growth:** Establishes new regional AI hub.",
+                "**Compute:** NVIDIA accelerated computing powers operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTRODUCING MISTRAL OCR 4",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "tags": [
-                "Source: https://www.cnbc.com/tech",
-                "Published: 2026-08-09T17:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI MODELS: INTRODUCING MISTRAL OCR 4",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "points": [
-                "**Release:** Mistral AI introduces new OCR 4 model.",
-                "**Capability:** Enhances optical character recognition performance.",
-                "**Application:** Improves document intelligence for enterprise.",
-                "**Benefit:** Boosts data extraction accuracy and efficiency."
+                "**Model:** WeatherNext achieves cyclone forecasting breakthrough.",
+                "**Accuracy:** Enhances prediction of severe weather events.",
+                "**Impact:** Improves disaster preparedness and response.",
+                "**Advancement:** Significant step in AI for climate science."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTRODUCING AI THREAT DEFENSE",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
             "tags": [
-                "Source: https://mistral.ai/news",
-                "Published: 2026-08-10T09:00:00Z",
+                "Source: https://deepmind.google",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD SECURITY: INTRODUCING AI THREAT DEFENSE",
+            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMs",
             "points": [
-                "**Launch:** Google Cloud unveils AI Threat Defense product.",
-                "**Purpose:** Actively outpaces sophisticated cyber adversaries.",
-                "**Application:** Provides advanced security for enterprise AI.",
-                "**Protection:** Safeguards cloud infrastructure from emerging threats."
+                "**Expansion:** Azure adds AMD-powered AI, HPC VMs.",
+                "**Performance:** HDv2, HXv2, MI455Xv7 support demanding workloads.",
+                "**Workloads:** Targets AI, data, inference, technical computing.",
+                "**Infrastructure:** Enhances cloud compute capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SCALING FOR THE AGENTIC ERA",
+            "nextUpTease": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-10T08:30:00Z",
+                "Source: https://azure.microsoft.com",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE AI INFRASTRUCTURE: SCALING FOR THE AGENTIC ERA",
+            "heading": "META AI: MUSE CODE FOR PERSISTENT AGENTS",
             "points": [
-                "**Development:** Google scales AI infrastructure plans.",
-                "**Focus:** Supports multi-agent system deployments.",
-                "**Future-Proofing:** Prepares for complex AI workload demands.",
-                "**Impact:** Enables advanced agentic AI capabilities."
+                "**Launch:** Meta releases Muse Code for complex software work.",
+                "**Capability:** Enables persistent AI agent operations.",
+                "**Development:** Streamlines multi-step software creation.",
+                "**Innovation:** Advances agentic AI in coding workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTRODUCING GEMINI 3.6 FLASH & LITE",
+            "nextUpTease": "EU AI ACT: AI THERAPY UNDER REVIEW",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.infoworld.com",
+                "Published: 2026-08-06T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE GEMINI MODELS: INTRODUCING GEMINI 3.6 FLASH & LITE",
+            "heading": "EU AI ACT: AI THERAPY UNDER REVIEW",
             "points": [
-                "**Release:** Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Cyber models.",
-                "**Features:** Offers enhanced speed and efficiency.",
-                "**Optimization:** Tailored for various AI tasks.",
-                "**Enterprise:** Improves performance across business applications."
+                "**Regulation:** EU AI Act reviews AI systems for therapy.",
+                "**Compliance:** Defines obligations for GPAI providers.",
+                "**Ethics:** Ensures safe, responsible use in mental health.",
+                "**Impact:** Shapes future of AI in sensitive applications."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-10T07:45:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
