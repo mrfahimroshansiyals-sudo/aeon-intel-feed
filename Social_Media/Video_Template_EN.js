@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UPCOMING AI SHIFTS YOU NEED TO KNOW",
+        "hookTitle": "META LAUNCHES NEW AI AGENTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "META RETURNS TO OPEN AI MODELS",
+                "headline": "META: LAUNCHES MUSE CODE FOR LAPTOP AI AGENTS",
+                "teaserTitle": "INTEL PLANS $15B STOCK OFFERING FOR AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launched its GPT-5.6 model, pushing frontier intelligence and scalability. This enhances enterprise AI performance, driving a new era of sophisticated applications."
+                "narration_line": "Meta unveiled Muse Code, an open-source AI model for laptop-based software development using persistent AI agents. This model significantly boosts on-device dev efficiency and democratizes advanced AI tools."
             },
             {
                 "slide_index": 2,
-                "headline": "META: RETURNS TO OPEN AI MODELS",
-                "teaserTitle": "GOOGLE CLOUD EXPANDS GEMINI FLASH MODELS",
+                "headline": "INTEL: PLANS $15B STOCK OFFERING FOR AI ACCELERATION",
+                "teaserTitle": "TSMC REPORTS 45% AI-DRIVEN SALES SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mark Zuckerberg announced Meta\u2019s pivot back to open AI models, challenging proprietary rivals. This aims to accelerate AI development and foster broader community innovation."
+                "narration_line": "Intel plans a $15B stock offering to accelerate its AI initiatives, following a 400% stock rise in 1 year. This capital will fund advanced R&D and manufacturing to capture AI market share."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: EXPANDS GEMINI FLASH MODELS",
-                "teaserTitle": "MICROSOFT AZURE INTRODUCES MICROSOFT IQ",
+                "headline": "TSMC: REPORTS 45% AI-DRIVEN SALES SURGE",
+                "teaserTitle": "AMD ACQUIRES TAALAS FOR AI INFERENCE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduced new Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These offer enhanced speed and efficiency for diverse, rapid inference applications."
+                "narration_line": "TSMC reported a 45% sales surge, driven by robust global demand for AI-related semiconductors. This performance indicates sustained growth in the critical AI hardware market and supply chain."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ FOR AGENTS",
-                "teaserTitle": "GLOBAL AI CYBERATTACK CONCERNS RISE",
+                "headline": "AMD: ACQUIRES TAALAS FOR ADVANCED AI INFERENCE SOLUTIONS",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI OMNI FLASH & AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure unveiled Microsoft IQ, providing shared context for AI agents across enterprise systems. This ensures agents operate with consistent business understanding, reducing errors."
+                "narration_line": "AMD acquired Taalas to enhance AI inference solutions, aiming for cheaper and faster enterprise deployments. This bolsters AMD's AI chip portfolio for data centers and edge computing."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL AI: CYBERATTACK CONCERNS ON FRONTIER MODELS",
-                "teaserTitle": "SPACEX & TESLA ANNOUNCE TERAFAB FACTORY",
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI OMNI FLASH & AI THREAT DEFENSE",
+                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD-POWERED AI & HPC VMS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Reports link an Israeli startup to rogue AI hacks, prompting OpenAI to tighten model controls. House Democrats demand testimony on these rising cyber risks to frontier AI."
+                "narration_line": "Google Cloud released Gemini Omni Flash, Nano Banana 2 Lite, and AI Threat Defense. These new models expand generative AI and bolster security for enterprise applications."
             },
             {
                 "slide_index": 6,
-                "headline": "SPACEX & TESLA: ANNOUNCE $16.8B TERAFAB FACTORY",
-                "teaserTitle": "NVIDIA LAUNCHES CIS REGION AI FACTORY",
+                "headline": "MICROSOFT AZURE: EXPANDS AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "EU AI ACT & US REGULATORS: SCRUTINY ON AI SAFETY & THERAPY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "SpaceX and Tesla plan a $16.8B Terafab chip factory in Texas for advanced semiconductors. This major investment aims to secure domestic AI chip supply and reduce external reliance."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These VMs offer enhanced performance for demanding AI and technical computing workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: LAUNCHES CIS REGION AI FACTORY",
+                "headline": "EU AI ACT & US REGULATORS: SCRUTINY ON AI SAFETY & THERAPY",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NVIDIA launched Firebird, the CIS region\u2019s largest AI factory, in Armenia. This hub meets global AI infrastructure demand and boosts regional development capabilities."
+                "narration_line": "The EU AI Act scrutinizes AI therapy systems; US regulations raise hacker advantage concerns. This reflects growing global regulatory oversight on AI safety and sensitive applications."
             },
             {
                 "slide_index": 8,
