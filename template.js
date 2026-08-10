@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$16.8B TERAFAB CHIP",
-        "titleBlue": "FACTORY",
-        "footerSummary": "SpaceX and Tesla commit $16.8B to build a Texas silicon factory, while Boeing partners with Archer to accelerate AI autonomous flight architectures."
+        "titleWhite": "$500B WALL STREET AI",
+        "titleBlue": "FINANCING",
+        "footerSummary": "Wall Street titans team with Nvidia on a $500B capital push to fund massive global AI data center infrastructure expansion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX: $16.8B TERAFAB CHIP FACTORY",
+            "heading": "NVIDIA: $500B WALL STREET AI FINANCING",
             "points": [
-                "SpaceX and Tesla have finalized plans to commit $16.8B toward constructing a dedicated semiconductor manufacturing hub named Terafab in Texas.",
-                "The enterprise facility aims to produce proprietary AI accelerator chips, reducing external cloud compute dependencies and lowering operational cost bottlenecks.",
-                "This initiative shifts vertically integrated hardware strategy from relying on third-party foundries toward localized, purpose-built silicon production.",
-                "Enterprise compute architects should monitor Terafab progress as major tech giants increasingly bypass traditional chipmaker supply chains."
+                "Nvidia has partnered with Wall Street giants including Apollo, Blackstone, and Goldman Sachs to establish a $500B financing framework for global AI data centers.",
+                "The venture mobilizes private equity capital to fund high-density compute infrastructure and next-generation GPU cluster deployments worldwide.",
+                "By securing private capital pools, cloud providers and enterprise operators can accelerate physical data center construction without straining traditional corporate debt markets.",
+                "Compute architects and infrastructure investors should anticipate rapid capacity scaling across hyperscale facility operators through 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "BOEING: ARCHER AI AVIATION DEAL",
+            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-07T12:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "BOEING: ARCHER AI AVIATION DEAL",
-            "points": [
-                "Boeing has executed a multi-year partnership with Archer Aviation to integrate autonomous AI guidance software into next-generation air mobility fleets.",
-                "The joint integration targets commercial deployment of 500 electric vertical takeoff aircraft, optimizing flight path planning and battery management efficiency.",
-                "This strategic backing validates autonomous flight algorithms within commercial aviation, shifting urban mobility from piloted tests to AI-driven operations.",
-                "Aviation regulators and logistics operators will gain critical benchmark data on real-time autonomous routing across congested urban airspace."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
-            "tags": [
-                "Source: https://www.dowjones.com",
-                "Published: 2026-08-10T11:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
-            "points": [
-                "DeepSeek has completed a strategic equity investment in Unitree to codevelop embodied AI neural architectures tailored for humanoid robotics.",
-                "The partnership focuses on training multimodal vision-language-action models directly on Unitree hardware, target processing speed under 15ms latency.",
-                "Combining efficient open model architectures with low-cost robotic hardware represents a significant step toward scalable physical AI systems.",
-                "Industrial automation stakeholders should prepare for accelerated deployment of adaptable humanoid workers across manufacturing environments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
-            "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-07T14:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
-            "points": [
-                "Firebird has launched the CIS region's largest AI factory in Armenia, fully equipped with Nvidia accelerated hardware and high-density compute infrastructure.",
-                "The facility expands high-performance computing access across Eastern Europe, offering over 100 PFLOPS of processing power for local research and enterprises.",
-                "The rollout reflects Nvidia's global expansion strategy to establish sovereign AI hubs in emerging regional tech ecosystems.",
-                "Regional startups and academic institutions can leverage localized cluster compute to train complex domain-specific models without sovereign data export hurdles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-08T09:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-            "points": [
-                "Microsoft has unveiled HorizonDB, an enterprise-focused PostgreSQL database cloud architecture engineered for agentic AI vector retrieval workloads.",
-                "Performance benchmarks demonstrate up to 3x faster query throughput and reduced operational latency for high-concurrency enterprise applications.",
-                "The underlying engine optimizes index caching and parallel transaction handling to meet demanding data retrieval speeds required by autonomous agents.",
-                "Database administrators should assess HorizonDB as a scalable backend for grounding enterprise AI agents without migrating away from PostgreSQL standards."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
-            "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.ft.com/technology",
                 "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
+            "id": 2,
+            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "points": [
-                "Boston Dynamics has deployed its autonomous Spot quadruped robot inside Utah copper mines to execute automated structural safety inspections.",
-                "Equipped with thermal sensors and LiDAR, the quadruped unit reduces human hazard exposure by 85% across unmapped underground shafts.",
-                "This integration establishes a practical industrial blueprint for utilizing autonomous legged robotics in severe subterranean environments.",
-                "Mining and heavy infrastructure operators will likely accelerate robotic inspection adoption to meet tighter worker safety standards."
+                "OpenAI has expanded its Daybreak cyber defense initiative to counteract evolving AI agent vulnerabilities and automated identity spoofing threats.",
+                "The updated security framework provides enterprise organizations with automated threat monitoring tools to detect rogue model interactions.",
+                "As autonomous agents gain direct system access, hardened guardrails prevent unauthorized execution and identity faking across critical workflows.",
+                "Enterprise security teams must integrate agentic threat telemetry into existing SOC pipelines to maintain perimeter control."
             ],
             "imageUrl": "",
-            "nextUpTease": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
+            "nextUpTease": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
             "tags": [
-                "Source: https://www.aibusiness.com",
+                "Source: https://openai.com/research",
                 "Published: 2026-08-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
+            "id": 3,
+            "heading": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
             "points": [
-                "Salesforce telemetry data confirms that enterprise adoption of autonomous AI agent workforces is more than doubling year over year across global clients.",
-                "Deployment timelines for autonomous customer service and workflow agents have dropped from 90 days down to under 14 days on average.",
-                "Rapid enterprise rollout underscores a structural migration from simple passive chatbots to fully actionable, multi-step autonomous workflows.",
-                "Enterprise IT leaders must prioritize agent governance and execution guardrails as autonomous software workers handle core business transactions."
+                "AMD has signed a definitive agreement to acquire Taalas, integrating breakthrough single-model custom ASIC technology into its enterprise compute portfolio.",
+                "The hardware acquisition aims to drastically reduce enterprise inference costs for mature, high-volume AI workload deployments.",
+                "Custom silicon architectures trade multi-model flexibility for significant throughput gains and lower energy expenditure per query.",
+                "Data center operators running static frontier models at scale should evaluate ASIC acceleration to lower operational TCO."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+            "tags": [
+                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Published: 2026-08-06T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+            "points": [
+                "Intel has outlined plans for a $15B stock offering to fund accelerated silicon fabrication and expanding AI hardware manufacturing lines.",
+                "Capital proceeds will directly support advanced node packaging and foundry capacity expansion to satisfy surging global chip demand.",
+                "The offering reinforces Intel's strategic pivot toward becoming a major commercial foundry for third-party AI accelerators.",
+                "Supply chain analysts expect accelerated domestic fabrication timelines for next-generation logic and memory packaging architectures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+            "tags": [
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-10T07:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+            "points": [
+                "Meta has launched a light open-source AI architecture designed specifically to execute local personal assistant workloads on consumer laptops.",
+                "The model optimizes edge memory footprint, enabling low-latency inference without requiring constant cloud network connectivity.",
+                "Open model availability challenges proprietary cloud APIs by providing privacy-focused desktop productivity automation directly on device.",
+                "Enterprise IT administrators should prepare endpoint security policies to manage local AI agent deployment across corporate laptops."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+            "tags": [
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-10T06:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+            "points": [
+                "Google DeepMind has deployed WeatherNext, an advanced neural forecasting architecture achieving major accuracy gains in predicting tropical cyclones.",
+                "Operational evaluations indicate significant improvements in storm track precision and landfall timing estimates over physics-based models.",
+                "Machine learning weather simulation accelerates prediction throughput by orders of magnitude compared to traditional supercomputer numerical solvers.",
+                "Emergency management agencies and global logistics operators can leverage low-latency AI forecasting to optimize risk response workflows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+            "tags": [
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-08T12:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+            "points": [
+                "The EU AI Office has opened a massive hiring round for 40 dedicated technical, legal, and operational posts to enforce the EU AI Act.",
+                "The expanded regulatory team will directly oversee high-risk AI system compliance audits and general-purpose AI model obligations.",
+                "Aggressive staffing signals a transition from legislative drafting to active market surveillance across European jurisdictions.",
+                "Multinational AI deployers must verify system documentation and governance frameworks ahead of imminent European enforcement checks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com",
-                "Published: 2026-08-07T11:00:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-08T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

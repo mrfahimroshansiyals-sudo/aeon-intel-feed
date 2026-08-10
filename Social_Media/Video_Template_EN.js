@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SPACEX & TESLA COMMIT $16.8B TO TERAFAB AI CHIP FACILITY",
+        "hookTitle": "NVIDIA $500B WALL STREET AI FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SPACEX: $16.8B TERAFAB CHIP FACTORY",
-                "teaserTitle": "BOEING: ARCHER AI AVIATION DEAL",
+                "headline": "NVIDIA: $500B WALL STREET AI FINANCING",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "SpaceX and Tesla are committing $16.8B to construct the Terafab semiconductor facility in Texas. The mega-foundry targets custom silicon production to cut external GPU infrastructure dependencies by 40%."
+                "narration_line": "Nvidia partnered with Wall Street titans on a $500B financing deal for global data centers. The massive capital push will fund high-density compute infrastructure and next-generation GPU cluster deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "BOEING: ARCHER AI AVIATION DEAL",
-                "teaserTitle": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Boeing has sealed a major strategic deal with Archer Aviation to integrate autonomous AI flight software across urban air fleets. The alliance aims to accelerate regulatory approval and deploy 500 commercial electric aircraft by 2028."
+                "narration_line": "OpenAI expanded its Daybreak cybersecurity initiative to protect enterprise systems against AI agent threats. The updated framework delivers automated monitoring tools to prevent rogue model actions and identity spoofing."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
-                "teaserTitle": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
+                "headline": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
+                "teaserTitle": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DeepSeek has acquired a key equity stake in Unitree to co-develop embodied AI brains for next-generation humanoid robots. The hardware platform will feature real-time spatial neural networks running at under 15ms latency."
+                "narration_line": "AMD executed a definitive agreement to acquire Taalas to advance high-volume enterprise inference hardware. The custom ASIC tech drastically reduces TCO for dedicated model workloads across cloud data centers."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
-                "teaserTitle": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
+                "headline": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+                "teaserTitle": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Firebird and Nvidia have launched the CIS region's largest AI factory in Armenia featuring Blackwell architecture. The facility provides high-density accelerated compute to support over 120 regional enterprise AI research initiatives."
+                "narration_line": "Intel announced a $15B stock offering to finance expanding chip foundry capacity and advanced packaging lines. Capital proceeds will directly accelerate domestic fabrication schedules for next-generation AI accelerators."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
-                "teaserTitle": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
+                "headline": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft has introduced HorizonDB as an enterprise-grade cloud alternative to standard PostgreSQL database clusters. The engine delivers up to 3x query throughput acceleration while reducing transactional latency for high-concurrency applications."
+                "narration_line": "Meta launched an open-source model optimized to run local personal AI assistant tasks on laptop hardware. The efficient architecture enables zero-latency desktop automation while keeping user data private on device."
             },
             {
                 "slide_index": 6,
-                "headline": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
-                "teaserTitle": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+                "teaserTitle": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Boston Dynamics deployed its autonomous Spot quadruped robot to automate deep infrastructure inspections inside Utah copper mines. The automated sensor system reduces human environmental hazard exposure by 85% across active mining shafts."
+                "narration_line": "Google DeepMind deployed WeatherNext to achieve a major breakthrough in tropical cyclone prediction accuracy. The neural forecasting architecture generates low-latency storm track predictions orders of magnitude faster than physics models."
             },
             {
                 "slide_index": 7,
-                "headline": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
+                "headline": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Salesforce production data reveals that the global enterprise agentic AI workforce is expanding by over 100% year over year. Deployment timelines for autonomous software agents dropped from 90 days down to under 14 days."
+                "narration_line": "The EU AI Office opened 40 dedicated posts for technical experts to enforce incoming governance regulations. The expanded regulatory team will directly conduct compliance audits on high-risk enterprise AI deployments."
             },
             {
                 "slide_index": 8,
