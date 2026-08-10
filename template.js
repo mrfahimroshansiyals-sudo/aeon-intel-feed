@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER MODEL",
-        "titleBlue": "RELEASE",
-        "footerSummary": "OpenAI's latest GPT-5.6 model enhances frontier intelligence, while NVIDIA solidifies strategic partnerships and major AI factory infrastructure."
+        "titleWhite": "ROGUE AI HACKS",
+        "titleBlue": "INVESTIGATION",
+        "footerSummary": "New forensic intelligence exposes covert AI-driven cyber attacks, prompting an urgent re-evaluation of frontier model security frameworks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+            "heading": "AI SECURITY: ROGUE AI HACKS INVESTIGATION",
             "points": [
-                "**Model Upgrade:** GPT-5.6 introduces new frontier intelligence capabilities for scaling.",
-                "**Key Features:** Enhanced performance across diverse, complex enterprise tasks.",
-                "**Scalability:** Designed to meet ambitious, large-scale AI deployment requirements.",
-                "**Availability:** Further model access expanded for developer and enterprise users."
+                "**Attack Origin:** Israeli startup implicated in AI-driven security breaches.",
+                "**Targets Affected:** OpenAI, Anthropic, and Meta models compromised.",
+                "**Attack Methods:** Sophisticated AI-native techniques bypassed defenses.",
+                "**Industry Impact:** Urgent call for strengthened enterprise AI security protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
+            "nextUpTease": "AI SECURITY: HUGGING FACE PLATFORM HACK",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-09T09:30:00Z",
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-09T21:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SSI STRATEGIC PARTNERSHIP",
+            "heading": "AI SECURITY: HUGGING FACE PLATFORM HACK",
             "points": [
-                "**Partnership:** NVIDIA forms strategic alliance with Safe Superintelligence Inc.",
-                "**Objective:** Accelerate SSI's strategic growth in safe AI development.",
-                "**Core Focus:** Advancing frontier AI research with safety as priority.",
-                "**Resource Leverage:** SSI gains NVIDIA's compute power for critical work."
+                "**Platform Breach:** Hugging Face experiences significant security compromise incident.",
+                "**Cyber Threat:** Incident marks a dangerous new era for AI-centric cyber warfare.",
+                "**Enterprise Risk:** Many organizations remain unaware of their potential exposure.",
+                "**Mitigation Call:** Demands robust security measures for open-source AI platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/ilya-sutskever-safe-superintelligence-inc-nvidia-strategic-partnership",
+                "Source: https://www.cnbc.com/technology",
                 "Published: 2026-08-08T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "points": [
-                "**New Facility:** Firebird launches CIS region's largest AI factory in Armenia.",
-                "**Powered By:** NVIDIA accelerated computing and Dell high-performance infrastructure.",
-                "**Regional Impact:** Establishes new AI computing hub for global demand.",
-                "**Economic Growth:** Aims to foster local development and new economic opportunities."
+                "**Product Launch:** Google Cloud unveils new AI Threat Defense solution.",
+                "**Core Function:** Designed to proactively outpace evolving cyber adversaries.",
+                "**Key Capabilities:** Provides advanced threat detection and response actions.",
+                "**Enterprise Benefit:** Strengthens overall security posture for cloud AI deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+            "nextUpTease": "AZURE: MICROSOFT IQ AGENT CONTEXT",
             "tags": [
-                "Source: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://cloud.google.com/blog",
+                "Published: 2026-08-09T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+            "heading": "AZURE: MICROSOFT IQ AGENT CONTEXT",
             "points": [
-                "**Infrastructure:** Azure expands with new AMD-powered AI and HPC virtual machines.",
-                "**VM Types:** Introduces HDv2, HXv2, and ND MI455Xv7 for demanding workloads.",
-                "**Performance:** Supports compute-intensive AI, data, and technical computing tasks.",
-                "**Availability:** Enhances Azure's offerings for high-performance AI deployments."
+                "**New Feature:** Microsoft IQ offers shared context for enterprise agents.",
+                "**Agent Unification:** Connects AI agents to diverse enterprise systems seamlessly.",
+                "**Enhanced Intelligence:** Enables contextual reasoning across workflows and data.",
+                "**Operational Boost:** Drives efficiency for complex, multi-agent AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH MODELS",
+            "nextUpTease": "ROBOTICS: DARPA LIFT CHALLENGE UPDATE",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-powered-vms",
-                "Published: 2026-08-09T07:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-09T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH MODELS",
+            "heading": "ROBOTICS: DARPA LIFT CHALLENGE UPDATE",
             "points": [
-                "**Model Release:** Google Cloud unveils Gemini 3.6 Flash and 3.5 Flash-Lite.",
-                "**New Variant:** Introduces Gemini 3.5 Flash Cyber for specialized applications.",
-                "**Purpose:** Offers enhanced intelligence and action capabilities for developers.",
-                "**Availability:** Now accessible for enterprise agent development and orchestration."
+                "**DARPA Initiative:** Humanoid robots and drones tested in Lift Challenge.",
+                "**Core Objective:** Demonstrates heavy payload lifting capabilities for autonomy.",
+                "**Technological Leap:** Advances physical AI systems in complex real-world tasks.",
+                "**Future Impact:** Paves way for next-gen robotic logistics and deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "nextUpTease": "GEO-TECH POLICY: CHINA TECH POLICY PRESSURE",
             "tags": [
-                "Source: https://cloud.google.com/blog/product-announcement-gemini-flash-models",
-                "Published: 2026-08-09T08:15:00Z",
+                "Source: https://spectrum.ieee.org",
+                "Published: 2026-08-09T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "heading": "GEO-TECH POLICY: CHINA TECH POLICY PRESSURE",
             "points": [
-                "**Innovation:** DeepMind's WeatherNext AI achieves cyclone forecasting breakthrough.",
-                "**Accuracy:** Demonstrates superior predictive capabilities for weather events.",
-                "**Application:** Significant advancement for climate science and disaster preparedness.",
-                "**Impact:** Enhances global capability to mitigate cyclone-related risks."
+                "**Strategic Focus:** China leverages weaknesses in America's tech policy.",
+                "**Geopolitical Impact:** Intensifies global tech rivalry and national security concerns.",
+                "**Economic Repercussions:** Influences international supply chains and innovation ecosystems.",
+                "**Policy Response:** Calls for urgent review of US tech strategy."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE LAUNCHES HIRING ROUND",
+            "nextUpTease": "AI ETHICS: PERMANENT UNDERCLASS DEBATE",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-cyclone-forecasting",
-                "Published: 2026-08-08T16:00:00Z",
+                "Source: https://www.dowjones.com/newswires",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE LAUNCHES HIRING ROUND",
+            "heading": "AI ETHICS: PERMANENT UNDERCLASS DEBATE",
             "points": [
-                "**EU Initiative:** EU AI Office announces 40 new posts for AI Act enforcement.",
-                "**Roles:** Positions include tech, legal, and operational experts.",
-                "**Objective:** Strengthens regulatory oversight of AI systems across Europe.",
-                "**Deadline:** Express interest by September 8 for critical governance roles."
+                "**Societal Concern:** AI's role in creating a 'permanent underclass' debated.",
+                "**Ethical Implications:** Raises questions about job displacement and inequality.",
+                "**Policy Dialogue:** Explores strategies for equitable AI adoption globally.",
+                "**Future Workforce:** Necessitates new frameworks for human-AI collaboration."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-eu-ai-office-hiring-round",
-                "Published: 2026-08-08T11:00:00Z",
+                "Source: https://www.ft.com/technology",
+                "Published: 2026-08-10T05:00:00Z",
                 "Status: Audited & True"
             ]
         }
