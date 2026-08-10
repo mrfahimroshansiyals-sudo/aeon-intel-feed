@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DEPLOYS 2GW MI450",
-        "titleBlue": "SILICON",
-        "footerSummary": "AMD deploys 2GW of MI450 GPUs with Anthropic while Meta, Microsoft, and DeepSeek accelerate agentic silicon and robotic integration."
+        "titleWhite": "GPT-5.6 RELEASE &",
+        "titleBlue": "SAFETY",
+        "footerSummary": "OpenAI unveils GPT-5.6 with enhanced safety amidst cyber concerns. DeepMind forecasts cyclones, and AMD acquires Taalas for optimized AI inference."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AMD: DEPLOYS 2GW MI450 SILICON",
+            "heading": "OPENAI: GPT-5.6 RELEASE & SAFETY",
             "points": [
-                "AMD and Anthropic have announced a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs for frontier model workloads.",
-                "The massive compute expansion provides scalable infrastructure capacity while reducing reliance on single-vendor accelerator supply chains by 35%.",
-                "This multi-gigawatt deployment establishes AMD as a direct tier-one challenger in hyper-scale AI training and enterprise inference clusters.",
-                "Organizations should prepare for multi-architecture cloud deployments as alternative GPU ecosystems achieve performance parity in high-throughput workloads."
+                "OpenAI has officially launched GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for advanced AI applications. This release includes updates to GPT-5.6 Sol and expanded access to GPT-5.6 Luna.",
+                "The new model promises significant performance improvements in complex reasoning and agentic workflows, boosting operational efficiency across enterprise deployments. It targets a new price-performance frontier.",
+                "Alongside the release, OpenAI is tightening security controls on its new models due to recent cyberattack concerns, emphasizing robust safety protocols and model integrity.",
+                "Businesses deploying GPT-5.6 must immediately review their security architectures and data handling practices to align with OpenAI's reinforced safety measures and compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: LAUNCHES MUSE CODE AGENTS",
+            "nextUpTease": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-10T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "META: LAUNCHES MUSE CODE AGENTS",
+            "heading": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
             "points": [
-                "Meta has released Muse Code, an advanced system featuring persistent AI agents designed specifically for complex end-to-end software engineering tasks.",
-                "The framework automates code generation, refactoring, and CI/CD pipelines, driving an estimated 40% efficiency gain in developer task completion cycles.",
-                "Persistent agent architectures mark a shift from simple autocomplete assistants toward fully autonomous digital engineering collaborators across enterprise repositories.",
-                "Engineering leaders must update security review policies and access control protocols to govern autonomous agents modifying production codebases."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, demonstrating advanced capabilities in predicting severe weather events.",
+                "This model can reduce prediction error rates by an average of 15% and extend accurate forecasting windows by up to 24 hours, enhancing preparedness for extreme weather.",
+                "The architectural innovation leverages novel deep learning techniques to process vast meteorological datasets in real-time, improving the precision of atmospheric simulations.",
+                "Governments and disaster management agencies can integrate WeatherNext to provide earlier warnings and optimize resource deployment, mitigating economic losses and saving lives."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
+            "nextUpTease": "AMD: ACQUIRES TAALAS FOR INFERENCE",
             "tags": [
-                "Source: https://www.infoworld.com/article/meta-launches-muse-code-for-complex-software-work",
-                "Published: 2026-08-06T14:30:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-09T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
+            "heading": "AMD: ACQUIRES TAALAS FOR INFERENCE",
             "points": [
-                "NVIDIA has made Alpamayo 2 Super, its frontier open model for robotaxis and physical AI systems, available for broad commercial deployment.",
-                "Designed for real-time spatial processing and autonomous vehicle navigation, the architecture cuts inference latency by 30% on edge hardware.",
-                "Providing commercial open access to frontier physical AI models accelerates enterprise deployment of autonomous mobile robotics and fleet automation.",
-                "Automotive and logistics operators can immediately leverage pre-trained spatial models, drastically lowering capital expenditure for custom vision systems."
+                "AMD has acquired Taalas, a startup specializing in highly efficient AI inference technology, to enhance its compute solutions for the rapidly expanding AI inference market.",
+                "This acquisition aims to deliver up to a 20% improvement in inference performance per watt and reduce overall operational costs for enterprise AI deployments.",
+                "Taalas's breakthrough technology will be integrated into AMD's AI roadmap, differentiating its offerings with optimized silicon for single AI model, high-volume workloads.",
+                "Enterprises seeking to accelerate inference at lower costs should evaluate AMD's updated portfolio, particularly for mature and high-throughput AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: SPENDS $16.8B ON TERAFAB",
+            "nextUpTease": "INTEL: $15B STOCK OFFERING FOR AI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/alpamayo-2-super-open-model",
-                "Published: 2026-08-04T12:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Published: 2026-08-06T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HARDWARE: SPENDS $16.8B ON TERAFAB",
+            "heading": "INTEL: $15B STOCK OFFERING FOR AI",
             "points": [
-                "SpaceX and Tesla have committed $16.8B to build a joint Terafab semiconductor manufacturing facility in Texas dedicated to custom AI silicon production.",
-                "The high-capacity foundry will supply specialized processors for autonomous vehicles, satellite constellations, and high-density compute infrastructure.",
-                "Vertical integration of chip fabrication secures sovereign hardware pipelines for proprietary AI operations while mitigating external foundry backlogs.",
-                "Enterprise tech planners should anticipate shifts in chip supply dynamics as major technology conglomerates manufacture bespoke silicon in-house."
+                "Intel plans a $15 billion stock offering to capitalize on accelerating demand in the artificial intelligence sector, aiming to fund strategic AI initiatives and expansion.",
+                "This significant capital raise will directly support Intel's R&D in AI accelerators and foundry services, bolstering its competitive position against market leaders.",
+                "The offering reflects Intel's renewed focus on high-growth AI segments, signaling a major strategic pivot to re-establish its dominance in advanced chip manufacturing.",
+                "Investors and partners should anticipate increased investments in Intel's AI ecosystem, potentially leading to new product roadmaps and strategic collaborations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
+            "nextUpTease": "AZURE: NEW AMD-POWERED AI/HPC VMs",
             "tags": [
-                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-terafab-texas",
-                "Published: 2026-08-07T11:15:00Z",
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
+            "heading": "AZURE: NEW AMD-POWERED AI/HPC VMs",
             "points": [
-                "DeepSeek has completed a major investment in Unitree to co-develop embodied AI reasoning systems acting as neural brains for humanoid robotics.",
-                "The integrated physical models aim to boost real-time motor control and environmental adaptation speed by 50% in complex industrial settings.",
-                "Combining advanced LLM reasoning directly with agile robotic hardware accelerates the commercial transition from specialized bots to general-purpose workers.",
-                "Industrial asset managers should prepare operational frameworks to evaluate embodied AI workers across warehouse logistics and precision assembly lines."
+                "Microsoft Azure is expanding its infrastructure with new virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, powered by AMD processors for AI and HPC workloads.",
+                "These new VMs are designed to support demanding AI training, data analytics, inference, and technical computing tasks, offering up to 30% performance uplift for specific benchmarks.",
+                "The integration of advanced AMD silicon provides customers with greater choice and flexibility in optimizing their cloud environments for compute-intensive applications.",
+                "Cloud architects should assess these new offerings to enhance parallel processing capabilities and improve cost-efficiency for their next-generation AI and HPC projects."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: OPEN SOURCES TEST AGENT",
+            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/deepseek-unitree-humanoid-ai-brain",
-                "Published: 2026-08-07T09:45:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-10T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: OPEN SOURCES TEST AGENT",
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
             "points": [
-                "Microsoft has released an open-source autonomous software agent capable of automatically generating comprehensive unit tests for enterprise codebases.",
-                "Automated test generation reduces manual QA overhead by up to 60% while detecting edge-case software bugs prior to production staging.",
-                "Open-sourcing specialized utility agents democratizes developer tooling and establishes standardized protocols for AI-driven software verification.",
-                "DevOps teams can integrate autonomous testing modules directly into GitHub pipelines to accelerate continuous integration cycles with minimal friction."
+                "Mistral AI has launched Shieldstral, a new platform designed to provide a comprehensive system of record for managing AI prompts, skills, and model interactions.",
+                "Shieldstral streamlines the development and deployment of AI agents by ensuring traceability, version control, and auditability of all prompt engineering assets.",
+                "This innovation addresses critical governance and security challenges in enterprise AI, offering a standardized approach to manage proprietary AI knowledge effectively.",
+                "Organizations can leverage Shieldstral to enhance collaboration among AI teams, enforce compliance, and reduce risks associated with unmanaged prompt iterations."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: REGULATES AI THERAPY",
+            "nextUpTease": "NVIDIA: $500B AI FINANCING DEAL",
             "tags": [
-                "Source: https://www.infoworld.com/article/microsoft-releases-open-source-agent-unit-tests",
-                "Published: 2026-08-06T16:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-09T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: REGULATES AI THERAPY",
+            "heading": "NVIDIA: $500B AI FINANCING DEAL",
             "points": [
-                "The European Union AI Office has published new enforcement guidelines classifying AI therapy and emotional support systems under strict risk categories.",
-                "Providers of conversational health AI must meet stringent transparency, auditability, and safety requirements before operating within EU jurisdiction.",
-                "Global regulatory bodies are establishing binding guardrails for consumer-facing AI systems to protect vulnerable populations and enforce clinical oversight.",
-                "Digital health startups and enterprise platforms must align their conversational data architectures with EU Article 50 transparency requirements immediately."
+                "Wall Street giants including Apollo, Blackstone, and Goldman Sachs are partnering with Nvidia to launch a $500 billion AI financing initiative for data center development.",
+                "This unprecedented funding package will accelerate the deployment of next-generation AI infrastructure, addressing the immense capital needs for GPU-intensive facilities.",
+                "The collaboration establishes a new model for financing critical AI hardware at scale, bridging the gap between chip supply and massive data center demand.",
+                "Cloud providers and large enterprises will see improved access to advanced AI compute resources, potentially easing supply chain constraints and accelerating AI adoption."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/ai-therapy-under-the-eu-ai-act",
-                "Published: 2026-08-07T08:00:00Z",
+                "Source: https://www.ft.com/technology",
+                "Published: 2026-08-10T06:00:00Z",
                 "Status: Audited & True"
             ]
         }

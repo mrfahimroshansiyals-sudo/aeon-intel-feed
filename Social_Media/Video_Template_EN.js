@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AMD DEPLOYS 2GW MI450 SILICON",
+        "hookTitle": "OPENAI: GPT-5.6 RELEASE & SAFETY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AMD: DEPLOYS 2GW MI450 SILICON",
-                "teaserTitle": "META: LAUNCHES MUSE CODE AGENTS",
+                "headline": "OPENAI: GPT-5.6 RELEASE & SAFETY",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "AMD and Anthropic partnered to deploy 2GW of Instinct MI450 GPUs for frontier model training. The multi-gigawatt expansion reduces enterprise reliance on single-vendor accelerator supply chains by 35%."
+                "narration_line": "OpenAI has launched GPT-5.6, its latest frontier model, featuring expanded access and improved intelligence. New security controls address recent cyberattack concerns, boosting enterprise deployment confidence."
             },
             {
                 "slide_index": 2,
-                "headline": "META: LAUNCHES MUSE CODE AGENTS",
-                "teaserTitle": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
+                "headline": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
+                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Meta released Muse Code to automate software engineering using persistent autonomous AI agents. The developer tool drives a measured 40% efficiency boost across complex repository workflows."
+                "narration_line": "Google DeepMind's WeatherNext AI model significantly advances cyclone forecasting capabilities, reducing error rates by 15%. This extends accurate warning windows, enhancing global disaster preparedness."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: RELEASES ALPAMAYO 2 SUPER",
-                "teaserTitle": "HARDWARE: SPENDS $16.8B ON TERAFAB",
+                "headline": "AMD: ACQUIRES TAALAS FOR INFERENCE",
+                "teaserTitle": "INTEL: $15B STOCK OFFERING FOR AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA released Alpamayo 2 Super as an open model for commercial robotaxi deployments. The neural architecture lowers edge processing latency by 30% for real-time spatial navigation."
+                "narration_line": "AMD acquired Taalas to optimize AI inference, integrating its highly efficient technology into their roadmap. This move targets a 20% performance per watt improvement for enterprise workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: SPENDS $16.8B ON TERAFAB",
-                "teaserTitle": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
+                "headline": "INTEL: $15B STOCK OFFERING FOR AI",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VMs",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SpaceX and Tesla committed $16.8B to build a joint Terafab semiconductor facility in Texas. The high-volume foundry secures proprietary chip manufacturing for autonomous systems and satellite networks."
+                "narration_line": "Intel plans a $15B stock offering, signaling a major strategic investment to accelerate its AI initiatives. This capital injection will bolster R&D in AI accelerators and foundry services."
             },
             {
                 "slide_index": 5,
-                "headline": "ROBOTICS: FUNDS UNITREE HUMANOID BOTS",
-                "teaserTitle": "MICROSOFT: OPEN SOURCES TEST AGENT",
+                "headline": "AZURE: NEW AMD-POWERED AI/HPC VMs",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DeepSeek invested in Unitree to co-develop embodied artificial intelligence brains for humanoid robots. Integrated neural models improve motor control and environmental adaptation speed by 50%."
+                "narration_line": "Microsoft Azure now offers new AMD-powered AI and HPC virtual machines, including HDv2 and HXv2 series. These deliver up to a 30% performance uplift for demanding compute-intensive applications."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT: OPEN SOURCES TEST AGENT",
-                "teaserTitle": "REGULATION: REGULATES AI THERAPY",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
+                "teaserTitle": "NVIDIA: $500B AI FINANCING DEAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft open-sourced an autonomous software agent designed to generate unit tests for enterprise code. The automated testing tool cuts manual quality assurance overhead by up to 60%."
+                "narration_line": "Mistral AI introduced Shieldstral, a new platform for managing AI prompts and skill sets as a system of record. This innovation ensures traceability and auditability for enterprise AI governance."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: REGULATES AI THERAPY",
+                "headline": "NVIDIA: $500B AI FINANCING DEAL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The European Union AI Office published compliance rules for artificial intelligence therapy and emotional support applications. Providers must now implement Article 50 transparency controls to operate legally in Europe."
+                "narration_line": "Nvidia secured a $500B AI financing deal with Wall Street giants, including Goldman Sachs and Apollo. This funding accelerates the deployment of critical data center infrastructure for AI."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
