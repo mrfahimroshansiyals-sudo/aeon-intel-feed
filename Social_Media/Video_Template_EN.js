@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA SECURES $500B AI FINANCING",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
-                "teaserTitle": "OPENAI: $7B SHARE SALE COMPLETE",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA secured $500B in financing from Wall Street firms for AI compute infrastructure. This initiative accelerates global AI data center deployment, transforming AI chips into an investable asset."
+                "narration_line": "OpenAI launches GPT-5.6, its latest frontier AI model, delivering enhanced intelligence for complex enterprise applications. The new model promises significant improvements in problem-solving and long-context understanding."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: $7B SHARE SALE COMPLETE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION",
+                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI successfully closed a $7B share sale, boosting its valuation for future growth. The capital fuels advanced AI research and positions the company toward a potential IPO."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2 and ND MI455Xv7 series. These VMs boost data processing and inference capabilities for cloud-based AI applications."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI expanded its Daybreak cybersecurity initiative, tackling evolving AI agent threats. This enhancement provides new defenses against sophisticated, autonomous attacks targeting AI systems."
+                "narration_line": "Google Cloud introduced 'AI Threat Defense,' a new security initiative using advanced AI for enhanced threat detection. The platform aims to proactively counter evolving cyber adversaries, fortifying cloud environments."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI FLASH & OMNI LAUNCHES",
+                "headline": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
+                "teaserTitle": "OPENAI: ASTRA MODEL WORK HALTED DUE TO SECURITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. It delivers enhanced accuracy and speed, improving global disaster preparedness and resource allocation."
+                "narration_line": "Meta AI released Muse Glimmer as an open-weight generative AI model, reversing its previous strategy. This responds to enterprise demand for greater data control and local infrastructure deployment options."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: GEMINI FLASH & OMNI LAUNCHES",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL PROMPT MANAGER",
+                "headline": "OPENAI: ASTRA MODEL WORK HALTED DUE TO SECURITY",
+                "teaserTitle": "MICROSOFT IQ: AGENT CONTEXT CONNECTIVITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google Cloud launched Gemini 3.6 Flash, Omni Flash, and Nano Banana 2 Lite models. These updates enhance performance and multimodal capabilities for enterprise AI applications."
+                "narration_line": "OpenAI suspended development on its Astra model due to escalating security concerns, prioritizing robust safety measures. This halt highlights critical challenges in securing advanced AI agent deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL PROMPT MANAGER",
-                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
+                "headline": "MICROSOFT IQ: AGENT CONTEXT CONNECTIVITY",
+                "teaserTitle": "CIO.COM: AI RECKONING & CIO READINESS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduced Shieldstral, a new system of record for managing AI prompts and skills. This innovation centralizes prompt engineering, enhancing consistency and governance for agent workflows."
+                "narration_line": "Microsoft launched 'Microsoft IQ,' a new platform connecting AI agents to enterprise systems, data, and workflows securely. This provides agents with comprehensive business context for more accurate automated tasks."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
+                "headline": "CIO.COM: AI RECKONING & CIO READINESS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office launched a major hiring drive for 40 new posts to enforce the AI Act. This expands regulatory capacity, ensuring stricter compliance and ethical AI governance."
+                "narration_line": "A CIO.com analysis reveals an 'AI reckoning' among IT leaders, showing many remain underprepared for strategic shifts. Organizations must treat AI as a core business tool requiring robust planning and resources."
             },
             {
                 "slide_index": 8,
