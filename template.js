@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B WALL STREET AI",
-        "titleBlue": "FINANCING",
-        "footerSummary": "Wall Street titans team with Nvidia on a $500B capital push to fund massive global AI data center infrastructure expansion."
+        "titleWhite": "GPT-5.6 SCALING",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "OpenAI rolls out GPT-5.6, setting a new bar for scalable frontier intelligence, impacting enterprise AI deployment and operational efficiency."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B WALL STREET AI FINANCING",
+            "heading": "OPENAI: GPT-5.6 SCALING INTELLIGENCE",
             "points": [
-                "Nvidia has partnered with Wall Street giants including Apollo, Blackstone, and Goldman Sachs to establish a $500B financing framework for global AI data centers.",
-                "The venture mobilizes private equity capital to fund high-density compute infrastructure and next-generation GPU cluster deployments worldwide.",
-                "By securing private capital pools, cloud providers and enterprise operators can accelerate physical data center construction without straining traditional corporate debt markets.",
-                "Compute architects and infrastructure investors should anticipate rapid capacity scaling across hyperscale facility operators through 2027."
+                "OpenAI has released GPT-5.6, its latest frontier model, designed to offer significantly enhanced intelligence and scalability for advanced applications.",
+                "This iteration focuses on robust performance across complex tasks, enabling more efficient handling of large-scale enterprise AI deployments with improved accuracy.",
+                "The architectural advancements within GPT-5.6 aim to reduce inference costs and latency, making high-signal AI operations more economically viable for businesses.",
+                "Developers and enterprise architects should prepare for integrations leveraging its expanded API capabilities and enhanced reasoning frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "nextUpTease": "MICROSOFT'S NEW AI CHIP STRATEGY",
             "tags": [
-                "Source: https://www.ft.com/technology",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-10T11:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "MICROSOFT: ACCELERATING AI CHIP PRODUCTION",
             "points": [
-                "OpenAI has expanded its Daybreak cyber defense initiative to counteract evolving AI agent vulnerabilities and automated identity spoofing threats.",
-                "The updated security framework provides enterprise organizations with automated threat monitoring tools to detect rogue model interactions.",
-                "As autonomous agents gain direct system access, hardened guardrails prevent unauthorized execution and identity faking across critical workflows.",
-                "Enterprise security teams must integrate agentic threat telemetry into existing SOC pipelines to maintain perimeter control."
+                "Microsoft is significantly ramping up its internal development and production of proprietary AI chips to power its Azure cloud infrastructure.",
+                "This strategic move aims to optimize performance and reduce reliance on external suppliers, ensuring consistent supply for its burgeoning AI services.",
+                "By verticalizing its AI hardware stack, Microsoft seeks to gain a competitive edge in cloud AI offerings and improve cost efficiency for customers.",
+                "Cloud customers can anticipate more tailored and performant AI compute options, potentially driving down operational costs for large-scale models."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
+            "nextUpTease": "NVIDIA'S FIREBIRD AI FACTORY",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-10T10:00:00Z",
+                "Source: https://www.dowjones.com/newswires",
+                "Published: 2026-08-10T11:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
+            "heading": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
             "points": [
-                "AMD has signed a definitive agreement to acquire Taalas, integrating breakthrough single-model custom ASIC technology into its enterprise compute portfolio.",
-                "The hardware acquisition aims to drastically reduce enterprise inference costs for mature, high-volume AI workload deployments.",
-                "Custom silicon architectures trade multi-model flexibility for significant throughput gains and lower energy expenditure per query.",
-                "Data center operators running static frontier models at scale should evaluate ASIC acceleration to lower operational TCO."
+                "NVIDIA has announced the launch of the Firebird AI Factory in Armenia, establishing the CIS region's largest AI computing hub.",
+                "This factory is powered by NVIDIA's accelerated computing and Dell Technologies' high-performance AI infrastructure, addressing global demand for AI compute.",
+                "The project aims to foster local development opportunities and drive new economic growth in the region, attracting significant AI investment.",
+                "Enterprises in the CIS region and beyond will gain access to cutting-edge AI infrastructure, accelerating their AI development and deployment initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+            "nextUpTease": "MICROSOFT AZURE: NEW AI & HPC VMS",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
-                "Published: 2026-08-06T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-08T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+            "heading": "MICROSOFT AZURE: NEW AI & HPC VMS",
             "points": [
-                "Intel has outlined plans for a $15B stock offering to fund accelerated silicon fabrication and expanding AI hardware manufacturing lines.",
-                "Capital proceeds will directly support advanced node packaging and foundry capacity expansion to satisfy surging global chip demand.",
-                "The offering reinforces Intel's strategic pivot toward becoming a major commercial foundry for third-party AI accelerators.",
-                "Supply chain analysts expect accelerated domestic fabrication timelines for next-generation logic and memory packaging architectures."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7 series).",
+                "These new VMs are designed to support demanding AI, data, inference, and technical computing workloads with enhanced performance.",
+                "The expansion provides Azure customers with greater flexibility and power for complex AI models and high-performance computing tasks.",
+                "Organizations relying on Azure can leverage these optimized instances to accelerate training and deployment of compute-intensive AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+            "nextUpTease": "AI-POWERED DEV ENVIRONMENTS",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-10T07:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-10T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+            "heading": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
             "points": [
-                "Meta has launched a light open-source AI architecture designed specifically to execute local personal assistant workloads on consumer laptops.",
-                "The model optimizes edge memory footprint, enabling low-latency inference without requiring constant cloud network connectivity.",
-                "Open model availability challenges proprietary cloud APIs by providing privacy-focused desktop productivity automation directly on device.",
-                "Enterprise IT administrators should prepare endpoint security policies to manage local AI agent deployment across corporate laptops."
+                "New AI-powered software development environments are emerging, transforming coding into toolkits for directing models and coordinating agents.",
+                "Platforms like GitHub Copilot, Google Antigravity, and JetBrains Air offer advanced automation and intelligent assistance, boosting developer productivity.",
+                "These environments streamline workflows, from code generation and testing to debugging, fundamentally altering the software engineering lifecycle.",
+                "Development teams must adapt to integrating AI agents into their processes, leveraging these tools to accelerate release cycles and improve code quality."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+            "nextUpTease": "BOSTON DYNAMICS ROBOT DEPLOYMENT",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-10T06:00:00Z",
+                "Source: https://www.infoworld.com",
+                "Published: 2026-08-10T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+            "heading": "AI BUSINESS: BOSTON DYNAMICS SPOT ROBOT",
             "points": [
-                "Google DeepMind has deployed WeatherNext, an advanced neural forecasting architecture achieving major accuracy gains in predicting tropical cyclones.",
-                "Operational evaluations indicate significant improvements in storm track precision and landfall timing estimates over physics-based models.",
-                "Machine learning weather simulation accelerates prediction throughput by orders of magnitude compared to traditional supercomputer numerical solvers.",
-                "Emergency management agencies and global logistics operators can leverage low-latency AI forecasting to optimize risk response workflows."
+                "Boston Dynamics' Spot robot has been deployed at a Utah copper mine to automate inspections and optimize operational efficiency.",
+                "The robotic deployment aims to enhance workforce safety by handling dangerous tasks in hazardous environments, reducing human exposure to risk.",
+                "Spot utilizes advanced AI for navigation, data collection, and anomaly detection, providing real-time insights into mining operations.",
+                "Industrial sectors should evaluate robotics for hazardous inspections and operational optimization, leveraging AI to improve safety and asset management."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+            "nextUpTease": "LLM STARTUP TRENDS",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-08T12:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+            "heading": "MIT TECH REVIEW: LLM STARTUP TRENDS",
             "points": [
-                "The EU AI Office has opened a massive hiring round for 40 dedicated technical, legal, and operational posts to enforce the EU AI Act.",
-                "The expanded regulatory team will directly oversee high-risk AI system compliance audits and general-purpose AI model obligations.",
-                "Aggressive staffing signals a transition from legislative drafting to active market surveillance across European jurisdictions.",
-                "Multinational AI deployers must verify system documentation and governance frameworks ahead of imminent European enforcement checks."
+                "MIT Technology Review highlights a new wave of startups intensely focused on developing the next generation of Large Language Models (LLMs).",
+                "These companies are exploring novel architectural approaches and data optimization techniques to push beyond current LLM capabilities and efficiency.",
+                "The trend indicates a rapidly diversifying LLM market, with specialized models and unique feature sets emerging to meet distinct enterprise demands.",
+                "Investors and enterprise decision-makers should monitor these emerging players for disruptive innovations and new opportunities in AI integration."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://www.technologyreview.com",
+                "Published: 2026-08-10T01:00:00Z",
                 "Status: Audited & True"
             ]
         }

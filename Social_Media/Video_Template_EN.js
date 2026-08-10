@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA $500B WALL STREET AI FINANCING",
+        "hookTitle": "GPT-5.6 SCALING INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B WALL STREET AI FINANCING",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "OPENAI: GPT-5.6 SCALING INTELLIGENCE",
+                "teaserTitle": "MICROSOFT'S NEW AI CHIP STRATEGY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Nvidia partnered with Wall Street titans on a $500B financing deal for global data centers. The massive capital push will fund high-density compute infrastructure and next-generation GPU cluster deployments."
+                "narration_line": "OpenAI has launched GPT-5.6, its new frontier model, enhancing intelligence for scalable applications. This release offers improved performance and reduced latency, making advanced AI operations more economically viable for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
+                "headline": "MICROSOFT: ACCELERATING AI CHIP PRODUCTION",
+                "teaserTitle": "NVIDIA'S FIREBIRD AI FACTORY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI expanded its Daybreak cybersecurity initiative to protect enterprise systems against AI agent threats. The updated framework delivers automated monitoring tools to prevent rogue model actions and identity spoofing."
+                "narration_line": "Microsoft is accelerating proprietary AI chip production for Azure cloud infrastructure. This strategy aims to optimize performance and reduce reliance on external suppliers, ensuring supply for growing AI services."
             },
             {
                 "slide_index": 3,
-                "headline": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
-                "teaserTitle": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
+                "headline": "NVIDIA: FIREBIRD AI FACTORY LAUNCH",
+                "teaserTitle": "MICROSOFT AZURE: NEW AI & HPC VMS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AMD executed a definitive agreement to acquire Taalas to advance high-volume enterprise inference hardware. The custom ASIC tech drastically reduces TCO for dedicated model workloads across cloud data centers."
+                "narration_line": "NVIDIA has launched the Firebird AI Factory in Armenia, creating the CIS region's largest AI computing hub. This factory will provide critical accelerated computing resources, fostering regional AI development and economic growth."
             },
             {
                 "slide_index": 4,
-                "headline": "INTEL: $15B CAPITAL RAISE FOR AI DEMAND",
-                "teaserTitle": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
+                "headline": "MICROSOFT AZURE: NEW AI & HPC VMS",
+                "teaserTitle": "AI-POWERED DEV ENVIRONMENTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Intel announced a $15B stock offering to finance expanding chip foundry capacity and advanced packaging lines. Capital proceeds will directly accelerate domestic fabrication schedules for next-generation AI accelerators."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These VMs offer enhanced performance for demanding AI and technical computing, accelerating training and deployment of compute-intensive applications."
             },
             {
                 "slide_index": 5,
-                "headline": "META: LAPTOP OPEN-SOURCE AI ASSISTANT",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
+                "headline": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
+                "teaserTitle": "BOSTON DYNAMICS ROBOT DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Meta launched an open-source model optimized to run local personal AI assistant tasks on laptop hardware. The efficient architecture enables zero-latency desktop automation while keeping user data private on device."
+                "narration_line": "New AI-powered software development environments are transforming coding by directing models and coordinating agents. These platforms streamline workflows and boost developer productivity, accelerating release cycles and enhancing code quality."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE MODEL",
-                "teaserTitle": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+                "headline": "AI BUSINESS: BOSTON DYNAMICS SPOT ROBOT",
+                "teaserTitle": "LLM STARTUP TRENDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind deployed WeatherNext to achieve a major breakthrough in tropical cyclone prediction accuracy. The neural forecasting architecture generates low-latency storm track predictions orders of magnitude faster than physics models."
+                "narration_line": "Boston Dynamics' Spot robot is now deployed at a Utah copper mine, automating inspections and optimizing operations. This robotic integration improves workforce safety by handling hazardous tasks and providing real-time operational insights."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI OFFICE: ENFORCEMENT STAFF EXPANSION",
+                "headline": "MIT TECH REVIEW: LLM STARTUP TRENDS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office opened 40 dedicated posts for technical experts to enforce incoming governance regulations. The expanded regulatory team will directly conduct compliance audits on high-risk enterprise AI deployments."
+                "narration_line": "MIT Technology Review reports a new wave of startups is developing next-generation LLMs, exploring novel architectures and data optimization. This trend signifies a diversifying LLM market, creating new integration opportunities for enterprises."
             },
             {
                 "slide_index": 8,
