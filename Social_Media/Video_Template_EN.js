@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI: GPT-5.6 RELEASE & SAFETY",
+        "hookTitle": "SPACEX & TESLA COMMIT $16.8B TO TERAFAB AI CHIP FACILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE & SAFETY",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
+                "headline": "SPACEX: $16.8B TERAFAB CHIP FACTORY",
+                "teaserTitle": "BOEING: ARCHER AI AVIATION DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its latest frontier model, featuring expanded access and improved intelligence. New security controls address recent cyberattack concerns, boosting enterprise deployment confidence."
+                "narration_line": "SpaceX and Tesla are committing $16.8B to construct the Terafab semiconductor facility in Texas. The mega-foundry targets custom silicon production to cut external GPU infrastructure dependencies by 40%."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: WEATHERNEXT FORECASTING MODEL",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
+                "headline": "BOEING: ARCHER AI AVIATION DEAL",
+                "teaserTitle": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model significantly advances cyclone forecasting capabilities, reducing error rates by 15%. This extends accurate warning windows, enhancing global disaster preparedness."
+                "narration_line": "Boeing has sealed a major strategic deal with Archer Aviation to integrate autonomous AI flight software across urban air fleets. The alliance aims to accelerate regulatory approval and deploy 500 commercial electric aircraft by 2028."
             },
             {
                 "slide_index": 3,
-                "headline": "AMD: ACQUIRES TAALAS FOR INFERENCE",
-                "teaserTitle": "INTEL: $15B STOCK OFFERING FOR AI",
+                "headline": "DEEPSEEK: UNITREE HUMANOID AI BRAIN",
+                "teaserTitle": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AMD acquired Taalas to optimize AI inference, integrating its highly efficient technology into their roadmap. This move targets a 20% performance per watt improvement for enterprise workloads."
+                "narration_line": "DeepSeek has acquired a key equity stake in Unitree to co-develop embodied AI brains for next-generation humanoid robots. The hardware platform will feature real-time spatial neural networks running at under 15ms latency."
             },
             {
                 "slide_index": 4,
-                "headline": "INTEL: $15B STOCK OFFERING FOR AI",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VMs",
+                "headline": "NVIDIA: FIREBIRD ARMENIA AI FACTORY",
+                "teaserTitle": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Intel plans a $15B stock offering, signaling a major strategic investment to accelerate its AI initiatives. This capital injection will bolster R&D in AI accelerators and foundry services."
+                "narration_line": "Firebird and Nvidia have launched the CIS region's largest AI factory in Armenia featuring Blackwell architecture. The facility provides high-density accelerated compute to support over 120 regional enterprise AI research initiatives."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: NEW AMD-POWERED AI/HPC VMs",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
+                "headline": "MICROSOFT: HORIZONDB POSTGRESQL ENGINE",
+                "teaserTitle": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure now offers new AMD-powered AI and HPC virtual machines, including HDv2 and HXv2 series. These deliver up to a 30% performance uplift for demanding compute-intensive applications."
+                "narration_line": "Microsoft has introduced HorizonDB as an enterprise-grade cloud alternative to standard PostgreSQL database clusters. The engine delivers up to 3x query throughput acceleration while reducing transactional latency for high-concurrency applications."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
-                "teaserTitle": "NVIDIA: $500B AI FINANCING DEAL",
+                "headline": "BOSTON DYNAMICS: SPOT MINE DEPLOYMENT",
+                "teaserTitle": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduced Shieldstral, a new platform for managing AI prompts and skill sets as a system of record. This innovation ensures traceability and auditability for enterprise AI governance."
+                "narration_line": "Boston Dynamics deployed its autonomous Spot quadruped robot to automate deep infrastructure inspections inside Utah copper mines. The automated sensor system reduces human environmental hazard exposure by 85% across active mining shafts."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: $500B AI FINANCING DEAL",
+                "headline": "SALESFORCE: AGENTIC WORKFORCE DOUBLING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Nvidia secured a $500B AI financing deal with Wall Street giants, including Goldman Sachs and Apollo. This funding accelerates the deployment of critical data center infrastructure for AI."
+                "narration_line": "Salesforce production data reveals that the global enterprise agentic AI workforce is expanding by over 100% year over year. Deployment timelines for autonomous software agents dropped from 90 days down to under 14 days."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
