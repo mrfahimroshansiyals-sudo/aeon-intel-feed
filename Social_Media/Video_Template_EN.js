@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA MOBILIZES $500B CAPITAL PLATFORM",
+        "hookTitle": "FRONTIER AI INTELLIGENCE DECODED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B CAPITAL FINANCING PLATFORM",
-                "teaserTitle": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA partnered with major Wall Street firms to establish financing platforms mobilizing over $500B for AI compute infrastructure. This massive liquidity deployment will accelerate data center construction and GPU cluster scaling worldwide."
+                "narration_line": "OpenAI unveiled GPT-5.6, its latest frontier model, enhancing enterprise AI scalability. This advanced iteration boosts performance and reduces latency for complex applications, driving automation."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: TAALAS INFERENCE CHIP ACQUISITION",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH DEPLOYMENT",
+                "headline": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
+                "teaserTitle": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "AMD reached a definitive agreement to acquire Taalas to integrate custom silicon direct-to-circuit architecture. The transaction aims to reduce enterprise AI inference latency while dramatically lowering compute cost structures."
+                "narration_line": "Meta AI released Muse Glimmer as an open-weight model, responding to enterprise data control demands. This strategy provides flexibility for on-premise deployments and custom fine-tuning."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH DEPLOYMENT",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER INITIATIVE EXPANSION",
+                "headline": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
+                "teaserTitle": "IEEE SPECTRUM: LUNAR NUCLEAR BATTERIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud launched Gemini 3.6 Flash and 3.5 Flash-Lite models designed for high-speed agentic execution. The architectural updates optimize throughput efficiency and reduce operational token overhead for enterprise workloads."
+                "narration_line": "AI-powered software development environments are transforming traditional IDEs into agent-coordinated toolkits. These platforms streamline workflows and enhance code quality, boosting developer productivity."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK CYBER INITIATIVE EXPANSION",
-                "teaserTitle": "MISTRAL AI: ROBOSTRAL AUTONOMOUS AGENT LAUNCH",
+                "headline": "IEEE SPECTRUM: LUNAR NUCLEAR BATTERIES",
+                "teaserTitle": "MICROSOFT AZURE: AMD AI/HPC VM EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI expanded its Daybreak cyber defense initiative to counteract emerging AI agent vulnerability vectors. The security framework provides enterprise infrastructure with automated threat monitoring and proactive risk mitigation tools."
+                "narration_line": "Engineers successfully tested radioisotope nuclear batteries aboard a CubeSat, a first for lunar power technology. This breakthrough ensures continuous energy supply for future moon bases and deep space missions."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: ROBOSTRAL AUTONOMOUS AGENT LAUNCH",
-                "teaserTitle": "IEEE SPECTRUM: LUNAR CUBESAT NUCLEAR BATTERIES",
+                "headline": "MICROSOFT AZURE: AMD AI/HPC VM EXPANSION",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI unveiled Robostral Navigate to power autonomous long-horizon enterprise agent workflows and complex task execution. The system improves multi-step tool orchestration across private cloud and localized infrastructure setups."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered virtual machines for AI and HPC workloads. These VMs offer higher performance and efficiency, optimizing large-scale AI training and inference."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: LUNAR CUBESAT NUCLEAR BATTERIES",
-                "teaserTitle": "EU AI ACT: GENERAL PURPOSE THERAPY RULES",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "TSMC: 45% AI CHIP SALES SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Engineers initiated CubeSat orbital testing of compact nuclear batteries designed to provide continuous lunar power. Successful validation will establish scalable off-grid energy infrastructure for long-duration robotic and human moon missions."
+                "narration_line": "Google Cloud introduced AI Threat Defense, a new service to combat evolving cyber threats. The solution leverages AI-driven detection to enhance proactive cybersecurity posture for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: GENERAL PURPOSE THERAPY RULES",
+                "headline": "TSMC: 45% AI CHIP SALES SURGE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The European Union issued compliance guidelines governing general-purpose AI systems deployed in mental healthcare and therapy. Organizations must now implement strict risk classification, auditing, and patient oversight controls by August 2026."
+                "narration_line": "TSMC reported a 45% surge in sales, driven by robust demand for advanced AI chips. This growth highlights increasing investment in specialized silicon and TSMC's critical role in the AI sector."
             },
             {
                 "slide_index": 8,
