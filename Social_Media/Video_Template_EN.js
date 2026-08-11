@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA SECURES $500B FOR AI INFRA",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNLEASHED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRA FINANCING",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA secured over $500B in financing from Wall Street giants to establish new AI compute infrastructure platforms. This major capital injection will accelerate the global build-out of data centers, crucial for scaling advanced AI operations."
+                "narration_line": "OpenAI unveiled GPT-5.6, setting new benchmarks for scalable AI intelligence across diverse applications. This release advances complex reasoning capabilities, crucial for enterprise AI deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "META AI: PERSONAL AI ASSISTANT VISION",
+                "headline": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI is expanding its Daybreak cybersecurity initiative to address evolving threats from AI agents. This aims to fortify organizational defenses, mitigating risks associated with sophisticated AI-driven cyberattacks."
+                "narration_line": "Microsoft Azure launched new AMD-powered virtual machines for AI and HPC workloads. These HDv2, HXv2, and ND MI455Xv7 VMs boost throughput for demanding inference and training."
             },
             {
                 "slide_index": 3,
-                "headline": "META AI: PERSONAL AI ASSISTANT VISION",
-                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "META AI: MUSE GLIMMER OPEN-WEIGHT MODEL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Meta is advancing its latest AI models, driving Mark Zuckerberg's vision for personal AI assistants. These models promise highly personalized assistance, reshaping user interactions across Meta's digital ecosystem."
+                "narration_line": "Google Cloud introduced its AI Threat Defense platform to combat sophisticated AI-driven cyber threats. It leverages AI to predict attack vectors, securing generative AI deployments effectively."
             },
             {
                 "slide_index": 4,
-                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "INTEL: $15B STOCK SALE AFTER GROWTH",
+                "headline": "META AI: MUSE GLIMMER OPEN-WEIGHT MODEL",
+                "teaserTitle": "ANTHROPIC: BLOCKBUSTER IPO CONFIDENCE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "TSMC unveiled its A16 Nanosheet technology with a Super Power Rail, optimized for HPC and AI applications. This innovation enhances power delivery and signal integrity, boosting performance for next-gen chips."
+                "narration_line": "Meta AI released Muse Glimmer as an open-weight model, shifting strategy for enterprise data control. This targets community collaboration, fostering robust and adaptable AI development."
             },
             {
                 "slide_index": 5,
-                "headline": "INTEL: $15B STOCK SALE AFTER GROWTH",
-                "teaserTitle": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
+                "headline": "ANTHROPIC: BLOCKBUSTER IPO CONFIDENCE",
+                "teaserTitle": "OPENAI: ETHICS LEAD DEPARTS STARTUP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Intel plans to sell $15B worth of stock after its shares rose over 400% in the last year. This capital infusion supports strategic investments in AI R&D and advanced manufacturing."
+                "narration_line": "Anthropic shores up investor confidence ahead of its anticipated blockbuster IPO. The company emphasizes responsible AI and robust model performance for market attraction."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
-                "teaserTitle": "EU AI ACT: OFFICE STAFFING RAMP-UP",
+                "headline": "OPENAI: ETHICS LEAD DEPARTS STARTUP",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Archer Aviation and Boeing partnered to integrate advanced AI into aviation systems. This collaboration targets enhanced flight autonomy and predictive maintenance, improving safety and efficiency in aerospace."
+                "narration_line": "OpenAI's head of ethics recently departed the startup amidst ongoing AI safety and governance discussions. This high-profile exit highlights complexities in integrating advanced AI with ethical frameworks."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE STAFFING RAMP-UP",
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office is launching a huge hiring round for 40 new tech, legal, and operational experts. This staffing ramp-up ensures rigorous enforcement of the EU AI Act across member states."
+                "narration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting accuracy and speed. The system provides precise predictions for storm trajectories, aiding disaster preparedness."
             },
             {
                 "slide_index": 8,

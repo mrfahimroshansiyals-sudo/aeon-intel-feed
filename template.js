@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI INFRA",
-        "titleBlue": "FINANCING",
-        "footerSummary": "NVIDIA mobilizes $500B from Wall Street giants to fund AI compute infrastructure. Key investment propels data center build-out."
+        "titleWhite": "GPT-5.6 FRONTIER",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "OpenAI unveils GPT-5.6, setting new benchmarks for adaptable AI across diverse applications. This release advances scalable, intelligent systems, crucial for enterprise adoption."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI INFRA FINANCING",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "points": [
-                "NVIDIA has partnered with major Wall Street firms like Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms. This initiative aims to mobilize over $500B in third-party capital.",
-                "The massive capital injection targets the rapid expansion of AI data centers globally, addressing the increasing demand for advanced computing power. This directly impacts the scalability of AI deployments.",
-                "This strategic move solidifies NVIDIA's central role in the AI ecosystem by facilitating the necessary infrastructure investment. It positions NVIDIA's chips as critical, investable assets for large-scale AI.",
-                "Stakeholders can anticipate accelerated growth in AI compute capacity, driving innovation across various industries and potentially influencing long-term investment strategies in AI hardware and services."
+                "OpenAI has unveiled GPT-5.6, its latest frontier model, designed to offer enhanced capabilities and adaptability across a wide array of demanding applications. This model pushes the boundaries of scalable AI.",
+                "GPT-5.6 aims to deliver significant performance improvements, enabling more complex reasoning and multi-modal interactions essential for advanced enterprise AI solutions. It sets new operational benchmarks.",
+                "This release marks a strategic step in OpenAI's roadmap towards more robust and general-purpose AI systems, focusing on reliability and efficiency for large-scale deployments.",
+                "Stakeholders can anticipate accelerated development of intelligent agents and custom applications, driving transformative shifts in productivity and human-AI collaboration for diverse industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "nextUpTease": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms",
-                "Published: 2026-08-10T00:00:00Z",
+                "Source: https://openai.com/research/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-11T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
             "points": [
-                "OpenAI is significantly expanding its Daybreak cybersecurity initiative, enhancing its capabilities to counter evolving threats posed by AI agents. This aims to fortify digital defenses for organizations worldwide.",
-                "The expansion focuses on developing advanced tools and strategies to mitigate risks associated with increasingly sophisticated AI-driven cyberattacks. It directly addresses the narrowing cyber defense window.",
-                "This initiative highlights the growing recognition of agent-based AI threats and OpenAI's commitment to responsible AI deployment. It sets new benchmarks for AI safety in dynamic cyber environments.",
-                "Enterprises should prioritize robust cybersecurity measures and integrate advanced AI defense systems. This signals a critical need for continuous vigilance against emerging AI-powered cyber threats."
+                "Microsoft Azure has expanded its infrastructure, introducing new AMD-powered virtual machines tailored for intensive AI and High-Performance Computing workloads. This enhances cloud compute offerings.",
+                "The new HDv2, HXv2, and ND MI455Xv7 VMs deliver superior processing power and efficiency, directly addressing the growing demand for high-throughput AI inference and training.",
+                "This strategic expansion reinforces Azure's commitment to providing diverse, high-performance computing options, leveraging AMD's silicon innovations to meet demanding enterprise needs.",
+                "Enterprises leveraging Azure can now access more powerful and cost-effective AI/HPC resources, optimizing their deep learning models and complex simulations for faster results."
             ],
             "imageUrl": "",
-            "nextUpTease": "META AI: PERSONAL AI ASSISTANT VISION",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
             "tags": [
-                "Source: https://openai.com/security/expanding-daybreak-cyber-defense-window-narrows",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-11T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META AI: PERSONAL AI ASSISTANT VISION",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
             "points": [
-                "Meta is advancing its latest AI models, which CEO Mark Zuckerberg frames as crucial for realizing his vision of powerful, personal AI assistants integrated into daily life. This emphasizes a user-centric AI future.",
-                "These models aim to provide highly personalized assistance, understanding user context and preferences across Meta's ecosystem. This could redefine how individuals interact with digital services and information.",
-                "The strategic focus on personal AI assistants marks a significant shift in Meta's AI product roadmap, moving beyond general-purpose models. It positions Meta to compete in the highly personalized AI market.",
-                "Consumers can expect more intuitive and proactive AI interactions, while developers will find new platforms for creating tailored AI experiences. This accelerates the proliferation of AI in personal tech."
+                "Google Cloud has launched its new AI Threat Defense platform, a comprehensive security solution designed to help enterprises proactively identify and neutralize sophisticated AI-driven cyber threats.",
+                "This platform utilizes advanced AI and machine learning to analyze threat patterns, predict attack vectors, and automate responses, significantly reducing the window of vulnerability for critical systems.",
+                "The introduction of a dedicated AI threat defense system underscores Google Cloud's focus on securing generative AI deployments and complex agentic systems against emerging risks.",
+                "Organizations deploying AI applications will benefit from enhanced protection and compliance, mitigating potential financial and reputational damages from advanced cyberattacks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+            "nextUpTease": "META AI: MUSE GLIMMER OPEN-WEIGHT MODEL",
             "tags": [
-                "Source: https://ai.meta.com/blog/zuckerberg-vision-personal-ai-assistants-new-models",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://cloud.google.com/blog/google-ai-threat-defense-outpace-adversary",
+                "Published: 2026-08-11T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+            "heading": "META AI: MUSE GLIMMER OPEN-WEIGHT MODEL",
             "points": [
-                "TSMC has announced its A16 Nanosheet technology, featuring an innovative Super Power Rail design, specifically optimized for high-performance computing (HPC) and AI applications. This represents a significant silicon breakthrough.",
-                "The Super Power Rail solution enhances power delivery efficiency and signal integrity, crucial for dense AI accelerators and HPC processors. It promises improved performance and reduced power consumption for next-gen chips.",
-                "This architectural advancement reinforces TSMC's leadership in advanced semiconductor manufacturing, providing foundational technology for future AI and HPC hardware. It ensures continued scaling of computing power.",
-                "Chip designers and AI hardware developers can leverage A16 to create more powerful and energy-efficient AI systems. This will drive the next generation of data center and edge AI capabilities."
+                "Meta AI has reversed its course by releasing Muse Glimmer as an open-weight model, signaling a strategic shift towards broader community collaboration and enterprise-centric AI development.",
+                "This move aims to meet enterprise demand for greater data control and local infrastructure systems, contrasting with Meta's earlier focus on more controlled, closed-source models.",
+                "By making Muse Glimmer open-weight, Meta seeks to accelerate innovation and adoption across its ecosystem, fostering a more robust and adaptable AI development landscape.",
+                "Developers and businesses can now leverage Muse Glimmer for custom applications with enhanced transparency and flexibility, potentially boosting personalized AI experiences."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTEL: $15B STOCK SALE AFTER GROWTH",
+            "nextUpTease": "ANTHROPIC: BLOCKBUSTER IPO CONFIDENCE",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events/a16-nanosheet-super-power-rail-hpc-ai",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTEL: $15B STOCK SALE AFTER GROWTH",
+            "heading": "ANTHROPIC: BLOCKBUSTER IPO CONFIDENCE",
             "points": [
-                "Intel plans to sell $15 billion worth of stock, following a period where its shares have surged over 400% in the past year, indicating strong market confidence in its long-term strategy. This is a major financial event.",
-                "The stock sale aims to raise substantial capital, likely earmarked for strategic investments in advanced manufacturing, AI R&D, and expanding foundry services. This supports Intel's re-emergence in the chip industry.",
-                "This move reflects Intel's renewed competitive posture and commitment to reclaim market leadership in key technological segments. It signals aggressive plans for future growth and innovation, particularly in AI.",
-                "Investors and industry observers will closely monitor Intel's capital allocation and execution of its growth initiatives. It could impact market dynamics for semiconductor stocks and the broader tech sector."
+                "Anthropic is actively working to shore up investor confidence ahead of its anticipated blockbuster IPO, emphasizing its strong market position and long-term vision in the AI sector.",
+                "The company is highlighting its commitment to responsible AI development and robust model performance, crucial factors for attracting substantial capital in a competitive market.",
+                "This pre-IPO strategy reflects Anthropic's efforts to differentiate itself by balancing rapid innovation with stringent safety protocols, appealing to a broad range of institutional investors.",
+                "Market observers are closely watching Anthropic's valuation and strategic messaging, as its IPO performance could set a precedent for other frontier AI startups entering public markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
+            "nextUpTease": "OPENAI: ETHICS LEAD DEPARTS STARTUP",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year",
-                "Published: 2026-08-11T03:00:00Z",
+                "Source: https://www.dowjones.com/newswires/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
+            "heading": "OPENAI: ETHICS LEAD DEPARTS STARTUP",
             "points": [
-                "Archer Aviation and Boeing have formed a strategic partnership to integrate advanced AI into aviation systems, aiming to transform operations and development in the aerospace sector. This collaboration targets new AI applications.",
-                "This deal will leverage AI for enhanced flight autonomy, predictive maintenance, and optimized air traffic management, promising significant improvements in safety and efficiency. It impacts future aerial mobility.",
-                "The partnership signals a concentrated effort by major aerospace players to accelerate AI adoption in critical aviation infrastructure. It sets a precedent for AI-driven transformation in highly regulated industries.",
-                "Stakeholders in aerospace, logistics, and defense can expect rapid advancements in autonomous flight capabilities and AI-enabled operational efficiencies, potentially reshaping the future of air travel and cargo."
+                "OpenAI's head of ethics has departed the startup less than a year after joining, marking another high-profile exit amidst ongoing internal discussions regarding AI safety and governance.",
+                "This departure raises questions about the company's internal alignment on ethical AI development and the challenges of integrating advanced AI with robust safety frameworks.",
+                "The exit highlights the inherent complexities and tensions within frontier AI organizations as they navigate rapid technological advancement alongside critical societal impact considerations.",
+                "Industry analysts and regulatory bodies will closely monitor OpenAI's response to this personnel change, assessing its commitment to ethical guidelines and responsible AI deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE STAFFING RAMP-UP",
+            "nextUpTease": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.ft.com/content/openai-head-of-ethics-departs",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE STAFFING RAMP-UP",
+            "heading": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
             "points": [
-                "The EU AI Office is initiating a massive hiring round, seeking 40 new experts in tech, legal, and operational roles, dedicated to enforcing the landmark EU AI Act. This marks a significant operational ramp-up.",
-                "This substantial recruitment drive ensures the EU possesses the necessary talent to rigorously oversee AI compliance, risk management, and market surveillance across member states. It strengthens regulatory capacity.",
-                "The expansion signals the EU's firm commitment to practical enforcement of its AI regulations, aiming to set a global standard for responsible AI development and deployment. It underscores regulatory maturity.",
-                "Organizations operating within or engaging with the EU must prepare for heightened scrutiny and compliance demands. This emphasizes the critical importance of adhering to the comprehensive AI Act framework."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, enhancing the accuracy and speed of predicting severe weather events.",
+                "The advanced AI system processes vast meteorological data in real-time, providing more precise predictions for storm trajectories and intensities, crucial for disaster preparedness.",
+                "This innovation demonstrates the transformative potential of AI in critical scientific and humanitarian applications, extending beyond traditional enterprise and consumer use cases.",
+                "Governments, emergency services, and at-risk communities can benefit from earlier and more reliable warnings, enabling better resource allocation and saving lives during extreme weather."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-eu-ai-office-40-new-posts",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://deepmind.google/discover/weather-next-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
