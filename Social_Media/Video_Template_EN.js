@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NEW FRONTIER AI MODELS & ENTERPRISE ADOPTION",
+        "hookTitle": "AI INFRASTRUCTURE FUNDING SECURED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING SECURED",
+                "teaserTitle": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launched GPT-5.6, a new frontier AI model offering advanced reasoning and multimodal understanding. It promises up to 25% greater efficiency for complex enterprise applications."
+                "narration_line": "NVIDIA, in partnership with Wall Street firms, secured $500B in financing for AI compute infrastructure. This mobilizes capital for data centers, accelerating GPU deployment and boosting AI scaling efforts."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
+                "headline": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA released Nemotron 3.5 Lightning, an open-source agentic AI model with NeMo Switchyard. This delivers 30% reduced overhead for developing intelligent autonomous systems."
+                "narration_line": "Microsoft Azure introduces Foundry and IQ Connect to optimize production AI agent deployment. These tools offer unified context and secure system integration, significantly enhancing enterprise automation."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
-                "teaserTitle": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
+                "teaserTitle": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud launched Gemini Omni Flash and Nano Banana 2 Lite for enhanced efficiency. These models reduce image generation inference costs by 40% for enterprises."
+                "narration_line": "Google Cloud has released the Gemini 3.6 Flash series, including 3.5 Flash-Lite and Cyber versions. These models offer enhanced efficiency and speed for various enterprise AI applications."
             },
             {
                 "slide_index": 4,
-                "headline": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
-                "teaserTitle": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
+                "headline": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Meta shifted strategy, releasing Muse Glimmer as an open-weight model. This change offers enterprises greater autonomy and data control for AI deployments."
+                "narration_line": "OpenAI has halted development of its Astra model due to significant security concerns. This move underscores growing industry focus on responsible AI deployment and risk mitigation strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
-                "teaserTitle": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
+                "headline": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
+                "teaserTitle": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is refining GPT-5.6 Sol and expanding free Luna access to new users. This democratizes advanced AI, reaching millions while gathering critical feedback."
+                "narration_line": "Mistral AI launched Shieldstral, a new initiative providing in-region inference and European infrastructure for sovereign AI. This enhances data governance and localized compliance for businesses."
             },
             {
                 "slide_index": 6,
-                "headline": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
-                "teaserTitle": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
+                "headline": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
+                "teaserTitle": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI now offers premium ChatGPT Business seats for heavy enterprise users. These provide dedicated resources and advanced features for high-intensity AI workloads."
+                "narration_line": "Anthropic secured a $9B deal with a data center operator for 2 gigawatts of power capacity. This investment fuels its long-term AI development and large-scale model training."
             },
             {
                 "slide_index": 7,
-                "headline": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
+                "headline": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mercedes-Benz is scaling AI-powered automation across its operations. This streamlines workflows, aiming for a 15% efficiency boost in manufacturing and logistics."
+                "narration_line": "Target has appointed its inaugural Chief AI Officer to lead enterprise-wide AI strategy. This move signifies mainstream retail's formal commitment to integrating AI across operations."
             },
             {
                 "slide_index": 8,
