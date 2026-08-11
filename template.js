@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UPSIZES $20B STOCK OFFERING FOR",
-        "titleBlue": "AI",
-        "footerSummary": "Intel's massive capital raise and Nvidia's financing deals underscore aggressive AI infrastructure scaling. Major investment inflows fuel new model deployments and economic growth."
+        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH",
+        "titleBlue": "AMBITION",
+        "footerSummary": "New frontier AI models from OpenAI, NVIDIA, and Google are boosting agentic capabilities and enterprise adoption, signaling a rapid evolution in AI architecture and business integration."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
             "points": [
-                "Intel announced a significant upsizing of its stock offering to $20 billion, priced at $95 per share. This strategic move directly targets the accelerating demand within the artificial intelligence sector.",
-                "The capital infusion is expected to bolster Intel's foundry expansion and R&D into AI-specific chips, enhancing its competitive stance against rivals. This financial maneuver aims to ensure sustained growth.",
-                "This offering positions Intel to aggressively fund next-generation AI accelerators and enterprise solutions. It reflects a proactive strategy to capture market share in a rapidly expanding AI hardware landscape.",
-                "Stakeholders should anticipate intensified competition in the AI silicon market, alongside potential advancements in integrated AI solutions from Intel. This could influence data center build-outs."
+                "OpenAI unveiled GPT-5.6, a new frontier intelligence model designed to scale with ambitious enterprise applications. This release pushes the boundaries of AI capabilities.",
+                "The model promises advanced reasoning, multimodal understanding, and increased reliability for complex tasks, enhancing operational efficiency across various industries by up to 25%.",
+                "Strategically, GPT-5.6 aims to solidify OpenAI's leadership in high-performance AI, catering to use cases demanding unparalleled accuracy and broad-spectrum problem-solving capacity.",
+                "Stakeholders should prepare for heightened competition in the large language model space and explore integrating GPT-5.6 for critical, large-scale AI deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/13/intel-upsizes-stock-offering-to-20-billion-at-95-per-share-as-ai-demand-accelerates.html",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
             "points": [
-                "Riot Platforms has secured a monumental $9.1 billion AI compute supply deal with Anthropic. This agreement transforms its operational focus towards high-performance AI infrastructure.",
-                "The deal involves providing significant computing capacity, leveraging Riot's energy infrastructure initially built for crypto mining. It represents a pivot to higher-value AI services.",
-                "This partnership establishes a substantial revenue stream for Riot, diversifying its business model beyond cryptocurrency. It also grants Anthropic extensive, dedicated compute resources.",
-                "Investors will watch for accelerated shifts in energy-intensive data center utilization, with potential for similar crypto-to-AI transitions. Anthropic gains a strategic resource for model training."
+                "NVIDIA introduced Nemotron 3.5 Lightning, an open-source agentic AI model, alongside the NeMo Switchyard framework. These enhance the deployment of intelligent agents.",
+                "The suite promises faster, smarter, and more efficient agentic AI operations, enabling developers to build sophisticated autonomous systems with reduced computational overhead by 30%.",
+                "This move strengthens NVIDIA's commitment to an open AI ecosystem, providing robust tools for creating and orchestrating agentic workflows from cloud to edge.",
+                "Enterprises can leverage these new tools to accelerate the development of next-gen AI applications, potentially transforming operational processes and decision-making frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/riot-platforms-stock-surges-on-9-1-billion-ai-compute-supply-deal-with-anthropic",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
             "points": [
-                "Microsoft Azure is expanding its cloud infrastructure with new AMD-powered virtual machines specifically designed for AI and High-Performance Computing (HPC). This enhances compute capabilities.",
-                "The HDv2, HXv2, and ND MI455Xv7 series VMs support demanding AI workloads, data inference, and technical computing, offering significant performance boosts for complex models.",
-                "This expansion reinforces Azure's commitment to providing diverse, high-performance compute options. It allows enterprises to optimize costs and efficiency for specialized AI/HPC tasks.",
-                "Developers and data scientists can expect improved scaling and accelerated training for large AI models. This offers increased flexibility for deploying cutting-edge AI applications."
+                "Google Cloud announced the immediate availability of Gemini Omni Flash and Nano Banana 2 Lite models. These aim for enhanced efficiency and speed.",
+                "Omni Flash provides comprehensive multi-modal capabilities for complex tasks, while Nano Banana 2 Lite offers ultra-efficient image generation, reducing inference costs by 40%.",
+                "This release expands Google Cloud's AI portfolio, offering tailored models for diverse enterprise applications requiring either broad intelligence or highly optimized specific functions.",
+                "Developers can now deploy these specialized Gemini models to optimize application performance and cost-efficiency, driving innovation in AI-powered services and user experiences."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
+            "nextUpTease": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/now-available-gemini-omni-flash-and-nano-banana-2-lite",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
+            "heading": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
             "points": [
-                "Google Cloud has announced the introduction of its Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. This expands the accessible range of its flagship AI models.",
-                "These new models aim to offer enhanced speed and efficiency for diverse applications, including cybersecurity-specific tasks. They are designed for rapid deployment and lower latency.",
-                "The launch caters to enterprise needs for more agile and cost-effective AI solutions across various use cases. It strengthens Google Cloud's competitive offering in generative AI.",
-                "Businesses can now leverage tailored Gemini variants to optimize performance for specific enterprise workflows, driving efficiency in both general and sensitive operational contexts."
+                "Meta has reversed its strategy to release Muse Glimmer as an open-weight model, responding to increasing enterprise demand for data control.",
+                "This shift allows businesses greater flexibility and autonomy over their AI deployments on local infrastructure, enhancing security and reducing dependency on proprietary systems.",
+                "The decision signifies a strategic pivot to cater to enterprises prioritizing on-premise solutions and transparent model architectures, fostering broader adoption within regulated sectors.",
+                "Organizations seeking tighter data governance and customizability will find Meta's open-weight approach more favorable, potentially influencing future large model release strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
+            "nextUpTease": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
+            "heading": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
             "points": [
-                "Singapore has sharply revised its annual economic growth forecast upwards, citing a substantial boost from AI-related investments and activities. This reflects increasing global AI impact.",
-                "The revised forecast indicates a strong performance driven by manufacturing, digital services, and R&D linked to AI technologies. It showcases AI's direct contribution to GDP.",
-                "This development highlights Singapore's successful strategy in positioning itself as a global AI hub, attracting significant foreign investment and fostering a robust tech ecosystem.",
-                "Economists and policymakers globally will monitor Singapore's trajectory as a case study for AI-driven economic acceleration. Businesses will see enhanced opportunities in the region."
+                "OpenAI is enhancing GPT-5.6 Sol's performance in ChatGPT and extending free access to GPT-5.6 Luna for a wider user base. This boosts model accessibility.",
+                "Improvements to Sol focus on reliability and factual accuracy, while Luna's free access aims to democratize advanced AI capabilities, reaching millions of new users.",
+                "This strategy broadens OpenAI's user engagement and gathers critical feedback for iterative model refinement, reinforcing its competitive position across consumer and prosumer segments.",
+                "Users can expect more robust and accessible AI tools, while businesses may see increased AI literacy among potential employees and a wider testing ground for applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
+            "nextUpTease": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/13/singapore-revises-its-annual-growth-forecast-sharply-higher-on-ai-related-boost.html",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://openai.com/blog/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+                "Published: 2026-08-11T09:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
+            "heading": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
             "points": [
-                "Nvidia has secured over $500 billion in third-party capital for AI compute infrastructure financing. This massive initiative involves partnerships with Wall Street giants like Apollo and Goldman Sachs.",
-                "This financing aims to accelerate the deployment of advanced data centers crucial for AI development and scaling. It will significantly expand accessible GPU resources.",
-                "The collaboration with major financial institutions de-risks capital expenditure for massive AI infrastructure projects. It signals mainstream financial sector confidence in AI's future growth.",
-                "Enterprises can anticipate greater availability and potentially lower costs for high-end AI compute services. This will fuel further innovation across various AI-driven industries."
+                "OpenAI is rolling out premium ChatGPT Business seats, specifically tailored for heavy enterprise users with demanding agentic workloads. This introduces new pricing models.",
+                "These seats offer enhanced performance, dedicated resources, and advanced governance features, designed to monetize high-intensity AI usage and ensure service quality for businesses.",
+                "The move reflects a strategic shift towards segmenting the market, providing enterprise-grade solutions while optimizing revenue from power users and large-scale deployments.",
+                "Organizations can anticipate more specialized AI service tiers from vendors, requiring careful evaluation of cost-benefit ratios for advanced AI tools and agentic workflow integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: WRAPS $7 BILLION SHARE SALE",
+            "nextUpTease": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
             "tags": [
-                "Source: https://www.ft.com/content/1234abcd-efgh-ijkl-mnop-1234567890",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://www.cio.com/article/2117578/openai-targets-heavy-users-with-premium-chatgpt-business-seats.html",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: WRAPS $7 BILLION SHARE SALE",
+            "heading": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
             "points": [
-                "OpenAI has successfully completed a $7 billion share sale, a significant capital raise ahead of its potential initial public offering (IPO). This underscores investor confidence.",
-                "The funding will be crucial for scaling research, development, and infrastructure for its next-generation AI models. It positions OpenAI for accelerated growth and market expansion.",
-                "This substantial investment round further cements OpenAI's valuation and strategic market position within the frontier AI space. It strengthens its long-term financial stability.",
-                "Industry watchers will closely monitor OpenAI's trajectory towards a public offering, with implications for the broader AI market's valuation and investment landscape."
+                "Mercedes-Benz is significantly scaling its AI-powered business automation across various operational departments. This integrates AI into core enterprise processes.",
+                "By leveraging AI, the automotive giant aims to streamline workflows, enhance decision-making, and improve efficiency by an estimated 15% across manufacturing and logistics.",
+                "This initiative showcases a robust strategy for digital transformation, positioning AI as a central pillar in optimizing complex business functions beyond traditional IT applications.",
+                "Other large enterprises can benchmark this implementation as a successful blueprint for integrating AI to drive tangible operational improvements and achieve strategic business objectives."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/13/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo.html",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://www.cio.com/article/2117551/how-mercedes-benz-is-scaling-ai-powered-business-automation.html",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

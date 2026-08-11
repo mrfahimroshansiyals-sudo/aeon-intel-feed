@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INTEL UPSIZES $20B STOCK OFFERING FOR AI",
+        "hookTitle": "NEW FRONTIER AI MODELS & ENTERPRISE ADOPTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
-                "teaserTitle": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Intel increased its stock offering to $20B at $95 per share, specifically targeting accelerating AI demand. This significant capital raise is set to fund critical R&D and foundry expansion."
+                "narration_line": "OpenAI launched GPT-5.6, a new frontier AI model offering advanced reasoning and multimodal understanding. It promises up to 25% greater efficiency for complex enterprise applications."
             },
             {
                 "slide_index": 2,
-                "headline": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
-                "teaserTitle": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER AGENTIC AI",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Riot Platforms finalized a $9.1B AI compute supply deal with Anthropic, pivoting its infrastructure towards high-value AI services. This secures substantial dedicated resources for Anthropic's advanced model training."
+                "narration_line": "NVIDIA released Nemotron 3.5 Lightning, an open-source agentic AI model with NeMo Switchyard. This delivers 30% reduced overhead for developing intelligent autonomous systems."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
-                "teaserTitle": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
+                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE NOW AVAILABLE",
+                "teaserTitle": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure expanded its AI/HPC VM infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines. These enhance performance for demanding AI workloads and data inference."
+                "narration_line": "Google Cloud launched Gemini Omni Flash and Nano Banana 2 Lite for enhanced efficiency. These models reduce image generation inference costs by 40% for enterprises."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
-                "teaserTitle": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
+                "headline": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+                "teaserTitle": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These new releases provide enhanced speed and efficiency for diverse enterprise AI applications."
+                "narration_line": "Meta shifted strategy, releasing Muse Glimmer as an open-weight model. This change offers enterprises greater autonomy and data control for AI deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
-                "teaserTitle": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
+                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & EXPANDING LUNA FREE ACCESS",
+                "teaserTitle": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Singapore revised its annual economic growth forecast sharply upwards, attributing the boost to substantial AI-related investments. This underscores AI's direct contribution to national GDP."
+                "narration_line": "OpenAI is refining GPT-5.6 Sol and expanding free Luna access to new users. This democratizes advanced AI, reaching millions while gathering critical feedback."
             },
             {
                 "slide_index": 6,
-                "headline": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
-                "teaserTitle": "OPENAI: WRAPS $7 BILLION SHARE SALE",
+                "headline": "CIO: OPENAI TARGETS HEAVY USERS WITH PREMIUM CHATGPT BUSINESS SEATS",
+                "teaserTitle": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Nvidia secured over $500B in third-party capital for AI compute infrastructure financing from Wall Street giants. This accelerates data center deployment, expanding accessible GPU resources."
+                "narration_line": "OpenAI now offers premium ChatGPT Business seats for heavy enterprise users. These provide dedicated resources and advanced features for high-intensity AI workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: WRAPS $7 BILLION SHARE SALE",
+                "headline": "MERCEDES-BENZ: SCALING AI-POWERED BUSINESS AUTOMATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI successfully completed a $7B share sale, boosting capital for next-generation AI model R&D and infrastructure. This significant raise precedes a potential IPO, underscoring investor confidence."
+                "narration_line": "Mercedes-Benz is scaling AI-powered automation across its operations. This streamlines workflows, aiming for a 15% efficiency boost in manufacturing and logistics."
             },
             {
                 "slide_index": 8,
