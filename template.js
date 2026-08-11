@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FRONTIER INTELLIGENCE THAT SCALES WITH YOUR",
-        "titleBlue": "AMBITION",
-        "footerSummary": "OpenAI launches GPT-5.6, elevating AI capabilities for complex tasks and scalability. Azure expands AI infrastructure and agent management, while Google boosts AI threat defense and scientific forecasting. GitHub enhances EDR with AI."
+        "titleWhite": "$500B AI COMPUTE INFRASTRUCTURE",
+        "titleBlue": "FUNDING",
+        "footerSummary": "NVIDIA mobilizes $500B with Wall Street partners for AI compute infrastructure, accelerating global deployment and strategic AI initiatives. CME launches AI compute futures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
+            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FUNDING",
             "points": [
-                "OpenAI has released GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for ambitious applications. This represents a significant leap in AI model capability.",
-                "The model improves performance across diverse benchmarks, providing developers with more powerful tools for advanced reasoning, content generation, and complex problem-solving. It offers a substantial upgrade in throughput and efficiency for enterprise workloads.",
-                "This release strategically pushes the boundaries of AI, enabling more sophisticated agentic systems and autonomous applications. It aligns with OpenAI's vision of democratizing cutting-edge AI for global impact.",
-                "Enterprises should evaluate GPT-5.6 for integration into their critical workflows, particularly for agentic AI development and large-scale data processing, to unlock new levels of automation and insight."
+                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms.",
+                "This initiative aims to mobilize over $500B in third-party capital, accelerating the global deployment of essential AI data centers and supercomputing facilities.",
+                "This strategic investment addresses the growing capital demands for advanced AI processing capabilities, transforming AI computing power into a more accessible asset class.",
+                "Investors gain exposure to foundational AI layers, while enterprises secure crucial compute resources for next-gen AI models and services."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
             "tags": [
-                "Source: https://openai.com/research/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-11T11:42:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7). These VMs are optimized for demanding AI, data, and technical computing workloads.",
-                "The introduction of these VMs offers customers significantly improved performance and efficiency for compute-intensive tasks, delivering higher throughput and lower latency for training and inference.",
-                "This strategic investment enhances Azure's competitive edge in the cloud AI/HPC market, providing diverse hardware options to meet specialized computational needs across industries.",
-                "Organizations requiring extreme performance for large-scale AI model training, complex simulations, or data analytics should leverage these new Azure VMs for cost-effective and powerful compute resources."
+                "The CME Group has launched futures contracts for AI computing power, effectively establishing AI compute as a tradable asset class.",
+                "This new financial instrument allows for hedging against price volatility and optimizing resource allocation in the rapidly expanding AI market.",
+                "The introduction of these contracts formalizes AI compute as a commodity, enabling more efficient capital deployment and risk management for large-scale AI projects.",
+                "Data center operators, cloud providers, and large AI development firms can now manage compute capacity and costs more strategically."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
+            "nextUpTease": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-tradable-asset-class-as-cme-starts-futures-contracts.html",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
+            "heading": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
             "points": [
-                "Microsoft Azure has launched Foundry, a new platform designed to help enterprises build, run, and govern AI agents at scale, using GPT-5.6 with hosted agents, toolboxes, and tracing.",
-                "Foundry provides a structured environment that optimizes agent development lifecycle, reducing deployment complexity and operational overhead. It ensures agent performance, security, and compliance in production.",
-                "This offering positions Azure as a leader in enterprise agentic AI, facilitating the reliable deployment of autonomous systems. It addresses key challenges in managing sophisticated AI applications across organizations.",
-                "Businesses can now confidently move AI agent projects from pilot to production, leveraging Foundry's capabilities to drive automation, streamline processes, and maintain oversight over agent behavior."
+                "Google Cloud is outlining its next-generation AI infrastructure strategy, focusing on scaling compute, data, and agent platforms for the emerging agentic AI era.",
+                "These advancements promise to deliver higher performance, efficiency, and reliability for complex, multi-step AI agent workflows at enterprise scale.",
+                "Google's strategy emphasizes integrating AI, data, and business context within a unified intelligent cloud system, facilitating the deployment of sophisticated AI agents.",
+                "Enterprises can expect more robust and scalable platforms for building and managing AI agents, enabling deeper automation and transforming application interactions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
+            "nextUpTease": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry/",
-                "Published: 2026-08-11T09:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
-            "points": [
-                "Google Cloud is introducing its AI Threat Defense platform, a new security offering designed to help organizations proactively outpace adversaries in the evolving landscape of AI-driven cyber threats.",
-                "This platform utilizes advanced AI and machine learning to detect, analyze, and respond to emerging threats with greater speed and accuracy, minimizing potential breaches and data loss.",
-                "Google's initiative addresses critical security vulnerabilities inherent in complex AI systems and cloud environments. It reinforces a comprehensive, intelligent defense strategy against sophisticated attacks.",
-                "Enterprises should integrate AI Threat Defense to strengthen their cybersecurity posture, particularly as AI systems become central to operations, safeguarding sensitive data and maintaining operational integrity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
-            "tags": [
-                "Source: https://cloud.google.com/blog/introducing-google-ai-threat-defense/",
+                "Source: https://cloud.google.com/blog/whats-next-in-google-ai-infrastructure-scaling-for-the-agentic-era",
                 "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
+            "id": 4,
+            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in cyclone forecasting, demonstrating significantly improved accuracy and lead times for predicting severe weather events.",
-                "This AI model processes vast atmospheric data to generate more precise predictions, enabling earlier warnings and better preparation for vulnerable regions. It enhances disaster mitigation efforts globally.",
-                "The advancement highlights the transformative potential of AI in scientific research and real-world applications beyond traditional enterprise IT. It sets a new standard for environmental predictive modeling.",
-                "Governments, meteorological agencies, and disaster response organizations can utilize WeatherNext's capabilities to save lives and protect infrastructure, reducing economic impact from extreme weather."
+                "OpenAI is expanding its Daybreak initiative, enhancing its AI-powered cyber defense tools to tackle the narrowing window for effective threat response.",
+                "The expansion aims to significantly reduce the mean time to detect and respond to cyber threats, improving security posture for organizations.",
+                "Daybreak\u2019s enhanced capabilities integrate AI into security operations, providing more resilient protection for critical infrastructure against evolving adversarial AI tactics.",
+                "Businesses can leverage OpenAI\u2019s strengthened Daybreak platform to fortify cybersecurity defenses, safeguarding intellectual property and operational continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
+            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://deepmind.google/discover/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-                "Published: 2026-08-11T08:45:00Z",
+                "Source: https://openai.com/research/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-11T09:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+            "points": [
+                "Mistral AI has introduced Shieldstral, a new offering designed for in-region inference, open models, and European sovereign AI infrastructure.",
+                "Shieldstral enables organizations to deploy and manage AI models within specific geographic boundaries, meeting strict data residency and compliance requirements.",
+                "This platform supports the development of secure, localized AI ecosystems, particularly relevant for public sector, defense, and financial services in Europe.",
+                "European enterprises and governments gain a robust solution for deploying sensitive AI workloads while adhering to local regulations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
+            "tags": [
+                "Source: https://mistral.ai/news/introducing-shieldstral-in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
+            "heading": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
             "points": [
-                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, new tools and models designed to deliver faster, smarter, and more efficient agentic AI systems.",
-                "Nemotron 3.5 Lightning offers optimized performance for rapid inference in agent workflows, while NeMo Switchyard provides advanced orchestration for dynamic agent interactions, significantly boosting efficiency.",
-                "This release solidifies NVIDIA's leadership in providing the foundational components for the next generation of AI, focusing on agent autonomy and dynamic response across diverse applications.",
-                "Developers and AI architects can leverage these new NVIDIA offerings to build more responsive and intelligent agentic AI applications, accelerating deployment in industrial automation and complex decision-making systems."
+                "Riot Platforms has signed a strategic deal with Anthropic, committing significant compute capacity originally used for Bitcoin mining to AI infrastructure.",
+                "This shift reallocates substantial GPU and energy resources towards high-demand AI workloads, potentially adding gigawatts of compute power.",
+                "This trend signifies the growing economic incentive for energy-intensive compute facilities to transition from cryptocurrency mining to AI, expanding AI infrastructure.",
+                "AI developers gain access to new high-density compute, alleviating supply constraints and driving down costs, while traditional miners find new revenue streams."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
+            "nextUpTease": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T08:30:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-bitcoin-miners-shift-to-ai-infrastructure.html",
+                "Published: 2026-08-11T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
+            "heading": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
             "points": [
-                "GitHub is enhancing its Endpoint Detection and Response (EDR) capabilities by integrating AI-powered cybersecurity tools, providing advanced threat detection and analysis within development environments.",
-                "This integration allows for real-time monitoring of code repositories and development workflows, identifying suspicious activities and vulnerabilities with greater precision, reducing attack surface.",
-                "The move signifies a critical step towards securing the software supply chain at its source, emphasizing AI's role in proactive defense and incident response for developer ecosystems.",
-                "Development teams and security professionals can now benefit from more robust, AI-driven protection directly within GitHub, safeguarding critical intellectual property and mitigating emergent threats."
+                "Brad Lightcap, a longtime executive at OpenAI and COO of its commercial unit, has announced his departure amidst ongoing leadership adjustments.",
+                "This high-profile executive change could signal shifts in OpenAI's commercial strategy, potentially impacting future product roadmaps and partner engagements.",
+                "Leadership changes at frontier AI organizations often reflect internal strategic realignments concerning model deployment, safety protocols, and market positioning.",
+                "Partners and enterprise clients of OpenAI should monitor subsequent announcements for potential impacts on commercial offerings and API access."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3711930/github-already-has-an-edr-you-just-have-to-listen-to-it.html",
-                "Published: 2026-08-11T08:15:00Z",
+                "Source: https://www.ft.com/content/0c8d1f2e-7b1c-4b3d-8e9f-5c2a1b4d0e51",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
