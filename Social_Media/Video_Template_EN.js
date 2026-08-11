@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "NVIDIA SECURES $500B FOR AI INFRA",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "headline": "NVIDIA: $500B AI INFRA FINANCING",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launches GPT-5.6, its latest frontier AI model, delivering enhanced intelligence for complex enterprise applications. The new model promises significant improvements in problem-solving and long-context understanding."
+                "narration_line": "NVIDIA secured over $500B in financing from Wall Street giants to establish new AI compute infrastructure platforms. This major capital injection will accelerate the global build-out of data centers, crucial for scaling advanced AI operations."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "META AI: PERSONAL AI ASSISTANT VISION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2 and ND MI455Xv7 series. These VMs boost data processing and inference capabilities for cloud-based AI applications."
+                "naration_line": "OpenAI is expanding its Daybreak cybersecurity initiative to address evolving threats from AI agents. This aims to fortify organizational defenses, mitigating risks associated with sophisticated AI-driven cyberattacks."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "teaserTitle": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
+                "headline": "META AI: PERSONAL AI ASSISTANT VISION",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduced 'AI Threat Defense,' a new security initiative using advanced AI for enhanced threat detection. The platform aims to proactively counter evolving cyber adversaries, fortifying cloud environments."
+                "narration_line": "Meta is advancing its latest AI models, driving Mark Zuckerberg's vision for personal AI assistants. These models promise highly personalized assistance, reshaping user interactions across Meta's digital ecosystem."
             },
             {
                 "slide_index": 4,
-                "headline": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
-                "teaserTitle": "OPENAI: ASTRA MODEL WORK HALTED DUE TO SECURITY",
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "INTEL: $15B STOCK SALE AFTER GROWTH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Meta AI released Muse Glimmer as an open-weight generative AI model, reversing its previous strategy. This responds to enterprise demand for greater data control and local infrastructure deployment options."
+                "narration_line": "TSMC unveiled its A16 Nanosheet technology with a Super Power Rail, optimized for HPC and AI applications. This innovation enhances power delivery and signal integrity, boosting performance for next-gen chips."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: ASTRA MODEL WORK HALTED DUE TO SECURITY",
-                "teaserTitle": "MICROSOFT IQ: AGENT CONTEXT CONNECTIVITY",
+                "headline": "INTEL: $15B STOCK SALE AFTER GROWTH",
+                "teaserTitle": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI suspended development on its Astra model due to escalating security concerns, prioritizing robust safety measures. This halt highlights critical challenges in securing advanced AI agent deployments."
+                "narration_line": "Intel plans to sell $15B worth of stock after its shares rose over 400% in the last year. This capital infusion supports strategic investments in AI R&D and advanced manufacturing."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT IQ: AGENT CONTEXT CONNECTIVITY",
-                "teaserTitle": "CIO.COM: AI RECKONING & CIO READINESS",
+                "headline": "AVIATION AI: ARCHER & BOEING PARTNERSHIP",
+                "teaserTitle": "EU AI ACT: OFFICE STAFFING RAMP-UP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft launched 'Microsoft IQ,' a new platform connecting AI agents to enterprise systems, data, and workflows securely. This provides agents with comprehensive business context for more accurate automated tasks."
+                "narration_line": "Archer Aviation and Boeing partnered to integrate advanced AI into aviation systems. This collaboration targets enhanced flight autonomy and predictive maintenance, improving safety and efficiency in aerospace."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO.COM: AI RECKONING & CIO READINESS",
+                "headline": "EU AI ACT: OFFICE STAFFING RAMP-UP",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A CIO.com analysis reveals an 'AI reckoning' among IT leaders, showing many remain underprepared for strategic shifts. Organizations must treat AI as a core business tool requiring robust planning and resources."
+                "narration_line": "The EU AI Office is launching a huge hiring round for 40 new tech, legal, and operational experts. This staffing ramp-up ensures rigorous enforcement of the EU AI Act across member states."
             },
             {
                 "slide_index": 8,
