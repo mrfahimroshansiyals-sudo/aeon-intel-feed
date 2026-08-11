@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$16.8B TERAFAB CHIP",
-        "titleBlue": "FACTORY",
-        "footerSummary": "SpaceX and Tesla plan a $16.8B Terafab chip factory in Texas, signaling massive investment in domestic AI silicon production and supply chain independence."
+        "titleWhite": "$500B AI INFRASTRUCTURE",
+        "titleBlue": "FINANCING",
+        "footerSummary": "NVIDIA's $500B financing deal signals a massive shift in AI infrastructure funding. It accelerates enterprise compute deployment and intensifies the global AI arms race."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SPACEX / TESLA: $16.8B TERAFAB CHIP FACTORY",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
             "points": [
-                "SpaceX and Tesla announced plans to construct a $16.8B Terafab chip manufacturing facility in Texas. This initiative aims to produce advanced semiconductors for AI and automotive applications.",
-                "The massive investment targets securing a dedicated supply chain for internal AI silicon needs, reducing reliance on overseas fabs and enhancing national chip independence.",
-                "This strategic move signals a vertical integration approach, enabling tighter control over chip design, production, and optimization for next-generation AI and autonomous systems.",
-                "Enterprises can anticipate increased domestic chip supply in the long term, potentially stabilizing pricing and availability for high-performance AI components."
+                "NVIDIA has partnered with major Wall Street firms including Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms.",
+                "This initiative targets mobilizing over $500 billion in third-party capital to fund the massive global build-out of AI data centers and supercomputing facilities.",
+                "The strategic move signals a new era where AI infrastructure is treated as a critical 'investable asset', attracting institutional financing on an unprecedented scale.",
+                "This partnership will accelerate enterprise access to high-performance AI computing, driving faster deployment of advanced models and agentic AI systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
+            "nextUpTease": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
             "tags": [
-                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-to-spend-16-8b-on-terafab-chip-factory-in-texas",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.cnbc.com/",
+                "Published: 2026-08-11T23:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET",
+            "heading": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
             "points": [
-                "AMD has reached a definitive agreement to acquire Taalas, a company recognized for its breakthrough inference performance and efficiency technology.",
-                "This acquisition aims to further differentiate AMD\u2019s AI roadmap, integrating Taalas's specialized IP to enhance AMD's compute solutions for rapidly growing AI inference workloads.",
-                "The strategic move strengthens AMD's competitive position in the AI market, especially in edge and data center inference applications, a crucial segment for enterprise AI deployment.",
-                "Customers using AMD hardware can expect improved inference efficiency, lower latency, and potentially reduced total cost of ownership for their AI-powered applications."
+                "Intel has significantly upsized its stock offering to $20 billion, with shares priced at $95 each, capitalizing on surging investor confidence.",
+                "This increased offering is directly driven by accelerating demand for Intel's AI-focused chips and advanced semiconductor solutions, indicating robust market sentiment.",
+                "The substantial capital injection will fund Intel's aggressive roadmap in AI silicon development, manufacturing expansion, and next-generation computing R&D.",
+                "This funding reinforces Intel's competitive stance in the AI hardware market, promising enhanced capabilities and accelerated delivery of AI-optimized processors to enterprises."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "OPENAI: WRAPS $7B SHARE SALE FOR IPO PATH",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://www.cnbc.com/",
+                "Published: 2026-08-12T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "OPENAI: WRAPS $7B SHARE SALE FOR IPO PATH",
             "points": [
-                "Microsoft Azure announced the expansion of its infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These new VMs are designed to support demanding AI, data analytics, inference, and high-performance computing (HPC) workloads, offering enhanced computational capacity.",
-                "The expansion provides Azure customers with more diverse and powerful options for accelerating their AI development and deployment, leveraging AMD's latest silicon.",
-                "Enterprises can achieve higher performance-per-cost for compute-intensive tasks, reducing training times and accelerating research and development cycles on the Azure platform."
+                "OpenAI has successfully completed a $7 billion share sale round, attracting significant investment from institutional and private investors.",
+                "This substantial capital raise signals strong market confidence in OpenAI's valuation and its foundational AI models, ahead of a potential future initial public offering.",
+                "The funding will bolster OpenAI's research and development efforts, enabling further advancements in frontier AI models and their commercialization.",
+                "The successful share sale positions OpenAI for aggressive expansion, intensifying competition in the generative AI market and influencing industry investment trends."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+            "nextUpTease": "META: ADVANCES PERSONAL AI ASSISTANT MODELS",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://www.cnbc.com/",
+                "Published: 2026-08-12T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+            "heading": "META: ADVANCES PERSONAL AI ASSISTANT MODELS",
             "points": [
-                "Meta has reversed its prior strategy, now offering an open-weight version of its Muse Glimmer model, shifting from its recent focus on closed models like Muse Spark 1.",
-                "This change responds to increasing enterprise demand for greater data control, customization, and local infrastructure systems for AI deployments.",
-                "By open-sourcing Muse Glimmer, Meta aims to foster wider adoption and innovation within the developer community, enabling more transparent and adaptable AI solutions.",
-                "Developers and businesses can now leverage Muse Glimmer for more flexible, on-premise AI applications, ensuring tighter security and compliance with regulatory standards."
+                "Meta has advanced its latest AI models, explicitly designed to support Mark Zuckerberg's long-term vision for pervasive personal AI assistants.",
+                "These models integrate enhanced capabilities for conversational AI, contextual understanding, and multi-modal interactions to deliver more intuitive user experiences.",
+                "The strategic focus aims to embed sophisticated AI agents directly into Meta's ecosystem, from social platforms to augmented reality hardware.",
+                "Users can anticipate more intelligent and personalized digital interactions, potentially shifting consumer expectations for everyday AI utility and integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
-                "Published: 2026-08-10T00:00:00Z",
+                "Source: https://www.cnbc.com/",
+                "Published: 2026-08-11T23:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
+            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "points": [
-                "OpenAI is significantly expanding its Daybreak cybersecurity initiative, focusing on developing new tools and guidelines to strengthen agentic AI security.",
-                "This expansion comes as AI agent threats evolve, necessitating robust defenses and transparent security measures across the AI ecosystem.",
-                "The initiative aims to safeguard organizations globally by improving AI's ability to identify and neutralize cyber threats, turning AI into a critical defense mechanism.",
-                "Enterprises deploying AI agents can anticipate enhanced security frameworks and resources, mitigating risks associated with autonomous AI systems and their vulnerabilities."
+                "Google Cloud has introduced 'AI Threat Defense,' a new suite of security solutions designed to help enterprises proactively combat evolving AI-driven cyber threats.",
+                "This platform leverages Google's advanced AI capabilities to identify, analyze, and neutralize sophisticated attack vectors, enhancing defensive posture against emerging risks.",
+                "The initiative provides critical tools for safeguarding sensitive data and infrastructure in the era of pervasive AI, addressing new vulnerabilities introduced by complex models.",
+                "Organizations can expect improved resilience against AI-powered attacks, reinforcing security frameworks crucial for maintaining compliance and operational integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "UNITREE ROBOTICS: IPO OVERSUBSCRIBED 5,500X",
+            "nextUpTease": "MICROSOFT AZURE: LAUNCHES IQ FOR AI AGENTS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/12/openai-expands-daybreak-cybersecurity-initiative-as-ai-agent-threats-evolve.html",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://cloud.google.com/blog",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "UNITREE ROBOTICS: IPO OVERSUBSCRIBED 5,500X",
+            "heading": "MICROSOFT AZURE: LAUNCHES IQ FOR AI AGENTS",
             "points": [
-                "Chinese robot maker Unitree Robotics experienced its IPO being oversubscribed 5,500 times by retail investors, raising $900M ahead of its Shanghai listing.",
-                "This massive oversubscription highlights exceptionally high investor confidence and demand for companies at the forefront of humanoid robotics and physical AI development.",
-                "DeepSeek's recent investment in Unitree to develop AI brains for humanoid bots further underscores the strategic importance and growth potential of the sector.",
-                "The strong market interest indicates robust funding avenues for robotics startups, accelerating the commercialization and deployment of advanced AI-powered machines."
+                "Microsoft Azure has launched 'Microsoft IQ,' a new service designed to provide AI agents with complete, shared business context.",
+                "This platform connects agents securely to enterprise systems, data, and workflows, enabling them to reason and act with a comprehensive understanding of business operations.",
+                "The innovation aims to overcome limitations of siloed AI, allowing agents to perform more complex, multi-step tasks that require deep organizational knowledge.",
+                "Enterprises can achieve higher accuracy and utility from their AI agent deployments, leading to enhanced automation and improved decision-making across integrated systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: RELEASES GEMINI 2 HUMAN MODEL",
+            "nextUpTease": "ROBOTICS: NEW ROBOT RECYCLER SALVAGES PARTS",
             "tags": [
-                "Source: https://www.ft.com/content/unitree-robotics-ipo-oversubscribed",
+                "Source: https://azure.microsoft.com/en-us/blog",
                 "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: RELEASES GEMINI 2 HUMAN MODEL",
+            "heading": "ROBOTICS: NEW ROBOT RECYCLER SALVAGES PARTS",
             "points": [
-                "Google DeepMind has released the Gemini 2 Humanoid Model, an advanced AI system specifically designed to power humanoid robots.",
-                "This new model integrates enhanced capabilities for multi-robot collaboration, task orchestration, and video understanding, pushing the boundaries of physical AI.",
-                "The release signifies a major step in bridging the gap between advanced AI algorithms and their real-world embodiment in complex robotic systems.",
-                "Researchers and robotics developers can leverage Gemini 2 to create more intelligent, adaptable, and autonomous humanoid robots for various industrial and service applications."
+                "A new robot recycler system has been developed, capable of autonomously salvaging valuable components from broken or end-of-life machines.",
+                "This advancement integrates AI-driven vision and manipulation to precisely disassemble electronics, identifying reusable parts and hazardous materials.",
+                "The technology addresses growing e-waste challenges by automating the recovery process, enhancing efficiency and promoting a circular economy in manufacturing.",
+                "The development signals progress in sustainable robotics, offering enterprises a cost-effective solution for material recovery and reducing environmental impact."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/google-deepmind-releases-gemini-2-humanoid-model",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://spectrum.ieee.org/robot-recycling",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
