@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$20B EQUITY AI",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "Intel scales a massive $20B equity offering to finance next-generation AI chip manufacturing, mitigating supply chain bottlenecks for enterprise compute workloads."
+        "titleWhite": "$500B AI COMPUTE INFRASTRUCTURE",
+        "titleBlue": "FINANCING",
+        "footerSummary": "Wall Street giants commit over $500B for Nvidia AI compute infrastructure, accelerating global AI deployment and de-risking long-term hardware investments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INTEL: $20B EQUITY AI EXPANSION",
+            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
             "points": [
-                "Intel upsized its public stock offering to $20B at $95 per share to accelerate foundry construction and silicon capacity.",
-                "The massive capital injection targets advanced packaging and wafer output to meet exploding global AI chip demand.",
-                "Executing this capital raise positions Intel to directly challenge dominant Asian foundries in sub-2nm node manufacturing.",
-                "Enterprise technology buyers gain broader multi-source silicon redundancy, stabilizing long-term hardware procurement costs."
+                "Nvidia partnered with major Wall Street firms including Apollo and Goldman Sachs to mobilize over $500B.",
+                "This capital targets dedicated AI compute infrastructure development and expansion globally, securing future capacity.",
+                "The initiative de-risks large-scale AI hardware deployments, turning advanced GPUs into 'investable assets' for financial institutions.",
+                "Enterprise CIOs gain clarity on long-term AI compute availability and reduced supply chain volatility, ensuring strategic project continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "SPACEX: $16.8B TERAFAB CHIP PLANT",
+            "nextUpTease": "OPENAI: $7B SHARE SALE",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-11T12:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "SPACEX: $16.8B TERAFAB CHIP PLANT",
-            "points": [
-                "SpaceX and Tesla committed $16.8B to build the Terafab chip manufacturing facility in Texas.",
-                "The facility focuses on custom silicon architectures for autonomous transport, orbital constellations, and AI inference.",
-                "Constructing internal fab capacity reduces operational dependency on external foundry lead times and geopolitical risks.",
-                "Industrial supply chains must adapt as major OEM conglomerates increasingly vertically integrate their chip design and fabrication."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "META: OPEN-WEIGHT MUSE GLIMMER RELEASE",
-            "tags": [
-                "Source: https://www.aibusiness.com/data-centers/spacex-tesla-to-spend-16-8b-on-terafab-chip-factory-in-texas",
-                "Published: 2026-08-07T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "META: OPEN-WEIGHT MUSE GLIMMER RELEASE",
-            "points": [
-                "Meta reversed strategic course by releasing open-weight Muse Glimmer to serve enterprise infrastructure demands.",
-                "The model enables on-premises deployment, giving organizations complete data governance and operational sovereignty.",
-                "Distributing open weights directly counters proprietary API ecosystems and forces price compression on closed enterprise LLMs.",
-                "Enterprise architects can now deploy localized frontier models without exposing proprietary telemetry to external cloud endpoints."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMD: TAALAS ACQUISITION FOR INFERENCE",
-            "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
                 "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "AMD: TAALAS ACQUISITION FOR INFERENCE",
+            "id": 2,
+            "heading": "OPENAI: $7B SHARE SALE",
             "points": [
-                "AMD finalized an agreement to acquire chip startup Taalas to advance dedicated single-model AI inference hardware.",
-                "Taalas technology hardwires specific model parameters into silicon, drastically lowering operational latency and compute costs.",
-                "The acquisition shifts enterprise inference paradigms from expensive general-purpose GPUs toward hyper-efficient application ASICs.",
-                "High-volume enterprise applications will achieve lower total cost of ownership by migrating static workloads to dedicated chips."
+                "OpenAI has successfully completed a $7B share sale, raising significant pre-IPO capital from both institutional and private investors.",
+                "This substantial funding round signals strong market confidence in OpenAI's valuation and its commercialization trajectory.",
+                "The capital injection enhances OpenAI's financial flexibility for model development, research, and expanding enterprise solutions.",
+                "The tech industry watches closely for a potential future IPO, which could redefine AI sector valuations and investment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: WEB IQ AGENT GROUNDING",
+            "nextUpTease": "ANTHROPIC: IPO CONFIDENCE",
             "tags": [
-                "Source: https://www.amd.com/en/newsroom/press-releases/amd-acquires-taalas.html",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo.html",
+                "Published: 2026-08-11T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ANTHROPIC: IPO CONFIDENCE",
+            "points": [
+                "Anthropic is actively working to solidify investor confidence ahead of its anticipated blockbuster initial public offering.",
+                "Efforts focus on showcasing robust safety protocols and strategic market positioning for its Claude frontier models.",
+                "A successful IPO would provide Anthropic with critical capital to further accelerate competitive AI research and product development.",
+                "This move reflects the intense race among leading AI labs to secure long-term funding and market dominance in the generative AI space."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EU AI ACT: OFFICE EXPANSION",
+            "tags": [
+                "Source: https://www.dowjones.com/latest/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo",
+                "Published: 2026-08-11T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EU AI ACT: OFFICE EXPANSION",
+            "points": [
+                "The EU AI Office announced a significant hiring initiative, adding 40 new posts across tech, legal, and operational roles.",
+                "This expansion is dedicated to strengthening the enforcement and oversight capabilities of the landmark EU AI Act across member states.",
+                "The increased regulatory capacity aims to ensure robust compliance frameworks for high-risk AI systems and general-purpose models.",
+                "Enterprises operating in the EU must anticipate intensified scrutiny and prepare for stricter adherence to AI governance mandates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OPENAI: ASTRA MODEL HALTED",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: WEB IQ AGENT GROUNDING",
+            "heading": "OPENAI: ASTRA MODEL HALTED",
             "points": [
-                "Microsoft launched Web IQ, a specialized data grounding service designed to provide real-time web telemetry to AI agents.",
-                "The platform eliminates agent hallucinations by continuously feeding verified, fresh structured contextual data into execution loops.",
-                "Standardized grounding interfaces remove the necessity for complex custom web-scraping pipelines across enterprise agent deployments.",
-                "Developers can deploy autonomous workflow agents with significantly higher operational precision and reduced compliance failure rates."
+                "OpenAI temporarily halted development on its Astra model due to critical security concerns identified during internal testing.",
+                "The pause reflects a proactive stance on AI safety and robustness, prioritizing risk mitigation over rapid deployment schedules.",
+                "This incident highlights the inherent challenges and vulnerabilities in developing highly advanced, autonomous AI systems.",
+                "Stakeholders demand greater transparency and more rigorous safety evaluations across the AI development lifecycle to prevent unintended consequences."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: UNITREE HUMANOID BRAIN INVESTMENT",
+            "nextUpTease": "AMD / ANTHROPIC: 2GW GPU PARTNERSHIP",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710503/microsoft-web-iq-ground-your-ai-agents.html",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: UNITREE HUMANOID BRAIN INVESTMENT",
+            "heading": "AMD / ANTHROPIC: 2GW GPU PARTNERSHIP",
             "points": [
-                "DeepSeek completed a strategic investment in Unitree to co-develop embodied AI reasoning models for humanoid robotics.",
-                "The partnership combines DeepSeek's open reasoning architectures with Unitree's dynamic physical robotic hardware.",
-                "Fusing LLM-driven spatial reasoning with physical actuators accelerates the commercial deployment of general-purpose robots.",
-                "Industrial manufacturing and logistics sectors will see rapid automation of complex, non-repetitive physical tasks."
+                "AMD and Anthropic formed a strategic partnership to deploy up to 2 gigawatts (GW) of AMD Instinct MI450 Series GPUs.",
+                "This massive GPU deployment will power Anthropic's next-generation AI models, significantly expanding compute capacity.",
+                "The collaboration ensures a robust supply chain for high-performance AI hardware, critical for advanced frontier model training.",
+                "This alliance positions AMD as a key enabler for leading AI research, impacting the competitive landscape for AI hardware providers."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCHER: BOEING AI AVIATION DEAL",
+            "nextUpTease": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/deepseek-invests-in-unitree-to-develop-ai-brain-for-humanoid-bots",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-and-anthropic-announce-strategic-partnership",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ARCHER: BOEING AI AVIATION DEAL",
+            "heading": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
             "points": [
-                "Archer Aviation structured a strategic partnership with Boeing to integrate AI flight autonomy systems into next-gen aircraft.",
-                "The agreement leverages autonomous software to optimize flight paths, energy usage, and safety compliance protocols.",
-                "Deploying certified AI systems in commercial aerospace sets critical regulatory precedents for autonomous transport networks.",
-                "Airlines and urban mobility providers will benefit from reduced operational costs and increased safety in congested airspaces."
+                "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurate cyclone forecasting, enhancing prediction capabilities.",
+                "The model significantly improves lead times and precision for severe weather events, mitigating economic and human impact.",
+                "This advancement showcases the practical, life-saving applications of large-scale AI for complex scientific and environmental challenges.",
+                "Government agencies and disaster preparedness organizations can leverage this AI to develop more effective early warning systems."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dowjones.com/latest/archer-boeing-ai-deal",
-                "Published: 2026-08-11T00:00:00Z",
+                "Source: https://deepmind.google/discover/news/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
