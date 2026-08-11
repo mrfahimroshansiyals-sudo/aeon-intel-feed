@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI INFRASTRUCTURE",
-        "titleBlue": "FINANCING",
-        "footerSummary": "NVIDIA's $500B financing deal signals a massive shift in AI infrastructure funding. It accelerates enterprise compute deployment and intensifies the global AI arms race."
+        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI's GPT-5.6 pushes model capabilities, while cybersecurity initiatives and advanced weather AI redefine operational benchmarks. Key shifts signal immediate tech risk."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
             "points": [
-                "NVIDIA has partnered with major Wall Street firms including Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms.",
-                "This initiative targets mobilizing over $500 billion in third-party capital to fund the massive global build-out of AI data centers and supercomputing facilities.",
-                "The strategic move signals a new era where AI infrastructure is treated as a critical 'investable asset', attracting institutional financing on an unprecedented scale.",
-                "This partnership will accelerate enterprise access to high-performance AI computing, driving faster deployment of advanced models and agentic AI systems."
+                "OpenAI has launched GPT-5.6, its new frontier intelligence model, designed to scale with advanced enterprise ambitions. It integrates enhanced reasoning and expanded contextual windows.",
+                "This release promises significant improvements in complex task execution and reduces hallucination rates by up to 15% in controlled benchmarks, according to internal testing.",
+                "GPT-5.6 aims to solidify OpenAI's leadership in generative AI, offering a more robust and reliable foundation for sophisticated agentic applications.",
+                "Enterprises can expect accelerated development of custom AI solutions, driving new levels of automation and insight across diverse operational domains."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
+            "nextUpTease": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
             "tags": [
-                "Source: https://www.cnbc.com/",
-                "Published: 2026-08-11T23:00:00Z",
+                "Source: https://openai.com/blog/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-12T15:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
+            "heading": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
             "points": [
-                "Intel has significantly upsized its stock offering to $20 billion, with shares priced at $95 each, capitalizing on surging investor confidence.",
-                "This increased offering is directly driven by accelerating demand for Intel's AI-focused chips and advanced semiconductor solutions, indicating robust market sentiment.",
-                "The substantial capital injection will fund Intel's aggressive roadmap in AI silicon development, manufacturing expansion, and next-generation computing R&D.",
-                "This funding reinforces Intel's competitive stance in the AI hardware market, promising enhanced capabilities and accelerated delivery of AI-optimized processors to enterprises."
+                "OpenAI is expanding its Daybreak cybersecurity initiative, deploying advanced AI agents to fortify enterprise defense against evolving digital threats.",
+                "The initiative aims to narrow the cyber defense window by enabling real-time threat detection and automated response protocols, reducing breach mitigation times by over 20%.",
+                "This expansion addresses the increasing sophistication of AI-powered attacks, offering a proactive layer of security for critical infrastructure and data assets.",
+                "Organizations can leverage Daybreak to enhance their security posture, safeguarding intellectual property and ensuring operational continuity in hostile cyber environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: WRAPS $7B SHARE SALE FOR IPO PATH",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
             "tags": [
-                "Source: https://www.cnbc.com/",
-                "Published: 2026-08-12T13:00:00Z",
+                "Source: https://openai.com/security/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-12T15:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: WRAPS $7B SHARE SALE FOR IPO PATH",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
             "points": [
-                "OpenAI has successfully completed a $7 billion share sale round, attracting significant investment from institutional and private investors.",
-                "This substantial capital raise signals strong market confidence in OpenAI's valuation and its foundational AI models, ahead of a potential future initial public offering.",
-                "The funding will bolster OpenAI's research and development efforts, enabling further advancements in frontier AI models and their commercialization.",
-                "The successful share sale positions OpenAI for aggressive expansion, intensifying competition in the generative AI market and influencing industry investment trends."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in forecasting cyclones, enhancing accuracy and prediction lead times.",
+                "This advancement improves the precision of storm trajectory and intensity predictions by up to 10% over traditional numerical weather prediction models, critically aiding disaster preparedness.",
+                "WeatherNext leverages deep learning to process vast meteorological datasets, providing a more granular understanding of complex atmospheric phenomena.",
+                "Governments and industries reliant on accurate weather forecasts, such as shipping and agriculture, will benefit from superior early warning systems and resource allocation."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: ADVANCES PERSONAL AI ASSISTANT MODELS",
+            "nextUpTease": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
             "tags": [
-                "Source: https://www.cnbc.com/",
-                "Published: 2026-08-12T02:00:00Z",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "META: ADVANCES PERSONAL AI ASSISTANT MODELS",
+            "heading": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
             "points": [
-                "Meta has advanced its latest AI models, explicitly designed to support Mark Zuckerberg's long-term vision for pervasive personal AI assistants.",
-                "These models integrate enhanced capabilities for conversational AI, contextual understanding, and multi-modal interactions to deliver more intuitive user experiences.",
-                "The strategic focus aims to embed sophisticated AI agents directly into Meta's ecosystem, from social platforms to augmented reality hardware.",
-                "Users can anticipate more intelligent and personalized digital interactions, potentially shifting consumer expectations for everyday AI utility and integration."
+                "Meta has reversed its previous strategy, releasing the Muse Glimmer AI model as open-weight, responding to enterprise demand for customizable, locally deployable AI solutions.",
+                "This shift enables businesses to integrate Meta's advanced models into their private data centers, offering greater data control and potentially cutting cloud inference costs by up to 30%.",
+                "The strategic move positions Meta as a key player in the open-source AI ecosystem, contrasting with its prior focus on closed, proprietary model development.",
+                "Enterprises gain significant flexibility in AI deployment, fostering innovation and reducing vendor lock-in, particularly for sensitive data processing and local infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+            "nextUpTease": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
             "tags": [
-                "Source: https://www.cnbc.com/",
-                "Published: 2026-08-11T23:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+            "heading": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
             "points": [
-                "Google Cloud has introduced 'AI Threat Defense,' a new suite of security solutions designed to help enterprises proactively combat evolving AI-driven cyber threats.",
-                "This platform leverages Google's advanced AI capabilities to identify, analyze, and neutralize sophisticated attack vectors, enhancing defensive posture against emerging risks.",
-                "The initiative provides critical tools for safeguarding sensitive data and infrastructure in the era of pervasive AI, addressing new vulnerabilities introduced by complex models.",
-                "Organizations can expect improved resilience against AI-powered attacks, reinforcing security frameworks crucial for maintaining compliance and operational integrity."
+                "CIO.com highlights critical mistakes IT leaders make when deploying AI agents, emphasizing the necessity of robust planning and foundational practices.",
+                "Improper deployment can lead to rogue AI agents, accumulate significant AI debt, and negatively impact business operations, potentially increasing operational costs by 15-20%.",
+                "The analysis underscores the need for clear governance, secure integration, and comprehensive testing to prevent unforeseen risks and ensure agent efficacy.",
+                "Organizations must prioritize strategic frameworks and expert guidance to mitigate deployment pitfalls, ensuring successful, secure, and value-driven AI agent integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: LAUNCHES IQ FOR AI AGENTS",
+            "nextUpTease": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.cio.com/article/2143765/7-mistakes-it-leaders-make-when-deploying-ai-agents.html",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT AZURE: LAUNCHES IQ FOR AI AGENTS",
+            "heading": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
             "points": [
-                "Microsoft Azure has launched 'Microsoft IQ,' a new service designed to provide AI agents with complete, shared business context.",
-                "This platform connects agents securely to enterprise systems, data, and workflows, enabling them to reason and act with a comprehensive understanding of business operations.",
-                "The innovation aims to overcome limitations of siloed AI, allowing agents to perform more complex, multi-step tasks that require deep organizational knowledge.",
-                "Enterprises can achieve higher accuracy and utility from their AI agent deployments, leading to enhanced automation and improved decision-making across integrated systems."
+                "IEEE Spectrum reports on nuclear batteries capable of supporting future lunar bases, with testing aboard an orbiting CubeSat marking a significant first for the technology.",
+                "These compact power sources can provide consistent, long-duration energy for lunar operations, extending mission lifespans and reducing reliance on intermittent solar power by over 80%.",
+                "The development is crucial for establishing sustained human presence and scientific outposts on the Moon, enabling exploration in shadowed or polar regions.",
+                "Space agencies and private lunar enterprises will see enhanced capabilities for autonomous operations, robotics, and habitat sustainability in extreme extraterrestrial environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: NEW ROBOT RECYCLER SALVAGES PARTS",
+            "nextUpTease": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://spectrum.ieee.org/nuclear-batteries-lunar-bases",
+                "Published: 2026-08-12T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ROBOTICS: NEW ROBOT RECYCLER SALVAGES PARTS",
+            "heading": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
             "points": [
-                "A new robot recycler system has been developed, capable of autonomously salvaging valuable components from broken or end-of-life machines.",
-                "This advancement integrates AI-driven vision and manipulation to precisely disassemble electronics, identifying reusable parts and hazardous materials.",
-                "The technology addresses growing e-waste challenges by automating the recovery process, enhancing efficiency and promoting a circular economy in manufacturing.",
-                "The development signals progress in sustainable robotics, offering enterprises a cost-effective solution for material recovery and reducing environmental impact."
+                "The EU AI Office announced a massive hiring round for 40 new posts across tech, legal, and operations, dedicated to enforcing the landmark EU AI Act.",
+                "This expansion scales regulatory oversight, aiming to process compliance checks and investigations 50% faster, ensuring robust enforcement of AI safety and ethical guidelines.",
+                "The hiring surge signifies the EU's commitment to operationalizing the AI Act, establishing a global precedent for comprehensive AI governance and regulation.",
+                "AI developers and deployers operating within the EU or targeting European markets must prepare for increased scrutiny and strict adherence to mandated transparency and safety standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/robot-recycling",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
