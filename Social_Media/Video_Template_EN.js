@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI SHIFTS & CYBER DEFENSE EVOLUTION",
+        "hookTitle": "INTEL UPSIZES $20B STOCK OFFERING FOR AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
+                "headline": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
+                "teaserTitle": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released GPT-5.6, a frontier intelligence model scaling enterprise ambitions. This enhances complex task execution and reduces hallucination rates by up to 15%."
+                "narration_line": "Intel increased its stock offering to $20B at $95 per share, specifically targeting accelerating AI demand. This significant capital raise is set to fund critical R&D and foundry expansion."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
+                "headline": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
+                "teaserTitle": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI expands its Daybreak cybersecurity initiative with advanced AI agents. This aims to narrow the cyber defense window and cut breach mitigation times by over 20%."
+                "narration_line": "Riot Platforms finalized a $9.1B AI compute supply deal with Anthropic, pivoting its infrastructure towards high-value AI services. This secures substantial dedicated resources for Anthropic's advanced model training."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
-                "teaserTitle": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+                "headline": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "teaserTitle": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This improves storm trajectory precision by up to 10% over traditional models."
+                "narration_line": "Microsoft Azure expanded its AI/HPC VM infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines. These enhance performance for demanding AI workloads and data inference."
             },
             {
                 "slide_index": 4,
-                "headline": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
-                "teaserTitle": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
+                "headline": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
+                "teaserTitle": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Meta reversed strategy, releasing the Muse Glimmer AI model as open-weight. This enables businesses greater data control, potentially cutting cloud inference costs by 30%."
+                "narration_line": "Google Cloud launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These new releases provide enhanced speed and efficiency for diverse enterprise AI applications."
             },
             {
                 "slide_index": 5,
-                "headline": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
-                "teaserTitle": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
+                "headline": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
+                "teaserTitle": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CIO.com warns of mistakes in deploying AI agents, stressing robust planning. Improper deployment can increase operational costs by 15-20% and incur significant AI debt."
+                "narration_line": "Singapore revised its annual economic growth forecast sharply upwards, attributing the boost to substantial AI-related investments. This underscores AI's direct contribution to national GDP."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
-                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
+                "headline": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
+                "teaserTitle": "OPENAI: WRAPS $7 BILLION SHARE SALE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "IEEE Spectrum reports nuclear batteries are being tested for lunar bases on a CubeSat. These can reduce reliance on solar power by over 80% for long-duration missions."
+                "narration_line": "Nvidia secured over $500B in third-party capital for AI compute infrastructure financing from Wall Street giants. This accelerates data center deployment, expanding accessible GPU resources."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
+                "headline": "OPENAI: WRAPS $7 BILLION SHARE SALE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office announced hiring 40 new posts for AI Act enforcement. This scales regulatory oversight to process compliance checks 50% faster."
+                "narration_line": "OpenAI successfully completed a $7B share sale, boosting capital for next-generation AI model R&D and infrastructure. This significant raise precedes a potential IPO, underscoring investor confidence."
             },
             {
                 "slide_index": 8,

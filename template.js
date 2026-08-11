@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
-        "titleBlue": "RELEASE",
-        "footerSummary": "OpenAI's GPT-5.6 pushes model capabilities, while cybersecurity initiatives and advanced weather AI redefine operational benchmarks. Key shifts signal immediate tech risk."
+        "titleWhite": "UPSIZES $20B STOCK OFFERING FOR",
+        "titleBlue": "AI",
+        "footerSummary": "Intel's massive capital raise and Nvidia's financing deals underscore aggressive AI infrastructure scaling. Major investment inflows fuel new model deployments and economic growth."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+            "heading": "INTEL: UPSIZES $20B STOCK OFFERING FOR AI",
             "points": [
-                "OpenAI has launched GPT-5.6, its new frontier intelligence model, designed to scale with advanced enterprise ambitions. It integrates enhanced reasoning and expanded contextual windows.",
-                "This release promises significant improvements in complex task execution and reduces hallucination rates by up to 15% in controlled benchmarks, according to internal testing.",
-                "GPT-5.6 aims to solidify OpenAI's leadership in generative AI, offering a more robust and reliable foundation for sophisticated agentic applications.",
-                "Enterprises can expect accelerated development of custom AI solutions, driving new levels of automation and insight across diverse operational domains."
+                "Intel announced a significant upsizing of its stock offering to $20 billion, priced at $95 per share. This strategic move directly targets the accelerating demand within the artificial intelligence sector.",
+                "The capital infusion is expected to bolster Intel's foundry expansion and R&D into AI-specific chips, enhancing its competitive stance against rivals. This financial maneuver aims to ensure sustained growth.",
+                "This offering positions Intel to aggressively fund next-generation AI accelerators and enterprise solutions. It reflects a proactive strategy to capture market share in a rapidly expanding AI hardware landscape.",
+                "Stakeholders should anticipate intensified competition in the AI silicon market, alongside potential advancements in integrated AI solutions from Intel. This could influence data center build-outs."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
+            "nextUpTease": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
             "tags": [
-                "Source: https://openai.com/blog/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-12T15:42:00Z",
+                "Source: https://www.cnbc.com/2026/08/13/intel-upsizes-stock-offering-to-20-billion-at-95-per-share-as-ai-demand-accelerates.html",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDS DAYBREAK CYBERSECURITY INITIATIVE",
+            "heading": "RIOT PLATFORMS: SECURES $9.1B AI COMPUTE DEAL",
             "points": [
-                "OpenAI is expanding its Daybreak cybersecurity initiative, deploying advanced AI agents to fortify enterprise defense against evolving digital threats.",
-                "The initiative aims to narrow the cyber defense window by enabling real-time threat detection and automated response protocols, reducing breach mitigation times by over 20%.",
-                "This expansion addresses the increasing sophistication of AI-powered attacks, offering a proactive layer of security for critical infrastructure and data assets.",
-                "Organizations can leverage Daybreak to enhance their security posture, safeguarding intellectual property and ensuring operational continuity in hostile cyber environments."
+                "Riot Platforms has secured a monumental $9.1 billion AI compute supply deal with Anthropic. This agreement transforms its operational focus towards high-performance AI infrastructure.",
+                "The deal involves providing significant computing capacity, leveraging Riot's energy infrastructure initially built for crypto mining. It represents a pivot to higher-value AI services.",
+                "This partnership establishes a substantial revenue stream for Riot, diversifying its business model beyond cryptocurrency. It also grants Anthropic extensive, dedicated compute resources.",
+                "Investors will watch for accelerated shifts in energy-intensive data center utilization, with potential for similar crypto-to-AI transitions. Anthropic gains a strategic resource for model training."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
+            "nextUpTease": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
             "tags": [
-                "Source: https://openai.com/security/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-12T15:52:00Z",
+                "Source: https://www.dowjones.com/newswires/riot-platforms-stock-surges-on-9-1-billion-ai-compute-supply-deal-with-anthropic",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI MODEL BREAKTHROUGH",
+            "heading": "AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in forecasting cyclones, enhancing accuracy and prediction lead times.",
-                "This advancement improves the precision of storm trajectory and intensity predictions by up to 10% over traditional numerical weather prediction models, critically aiding disaster preparedness.",
-                "WeatherNext leverages deep learning to process vast meteorological datasets, providing a more granular understanding of complex atmospheric phenomena.",
-                "Governments and industries reliant on accurate weather forecasts, such as shipping and agriculture, will benefit from superior early warning systems and resource allocation."
+                "Microsoft Azure is expanding its cloud infrastructure with new AMD-powered virtual machines specifically designed for AI and High-Performance Computing (HPC). This enhances compute capabilities.",
+                "The HDv2, HXv2, and ND MI455Xv7 series VMs support demanding AI workloads, data inference, and technical computing, offering significant performance boosts for complex models.",
+                "This expansion reinforces Azure's commitment to providing diverse, high-performance compute options. It allows enterprises to optimize costs and efficiency for specialized AI/HPC tasks.",
+                "Developers and data scientists can expect improved scaling and accelerated training for large AI models. This offers increased flexibility for deploying cutting-edge AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+            "nextUpTease": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "META: REVERSES COURSE WITH OPEN-WEIGHT MUSE GLIMMER",
+            "heading": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH SERIES",
             "points": [
-                "Meta has reversed its previous strategy, releasing the Muse Glimmer AI model as open-weight, responding to enterprise demand for customizable, locally deployable AI solutions.",
-                "This shift enables businesses to integrate Meta's advanced models into their private data centers, offering greater data control and potentially cutting cloud inference costs by up to 30%.",
-                "The strategic move positions Meta as a key player in the open-source AI ecosystem, contrasting with its prior focus on closed, proprietary model development.",
-                "Enterprises gain significant flexibility in AI deployment, fostering innovation and reducing vendor lock-in, particularly for sensitive data processing and local infrastructure."
+                "Google Cloud has announced the introduction of its Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. This expands the accessible range of its flagship AI models.",
+                "These new models aim to offer enhanced speed and efficiency for diverse applications, including cybersecurity-specific tasks. They are designed for rapid deployment and lower latency.",
+                "The launch caters to enterprise needs for more agile and cost-effective AI solutions across various use cases. It strengthens Google Cloud's competitive offering in generative AI.",
+                "Businesses can now leverage tailored Gemini variants to optimize performance for specific enterprise workflows, driving efficiency in both general and sensitive operational contexts."
             ],
             "imageUrl": "",
-            "nextUpTease": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
+            "nextUpTease": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CIO: IT LEADERS DEPLOYING AI AGENTS MISTAKES",
+            "heading": "SINGAPORE: FORECASTS SHARP ECONOMIC GROWTH ON AI",
             "points": [
-                "CIO.com highlights critical mistakes IT leaders make when deploying AI agents, emphasizing the necessity of robust planning and foundational practices.",
-                "Improper deployment can lead to rogue AI agents, accumulate significant AI debt, and negatively impact business operations, potentially increasing operational costs by 15-20%.",
-                "The analysis underscores the need for clear governance, secure integration, and comprehensive testing to prevent unforeseen risks and ensure agent efficacy.",
-                "Organizations must prioritize strategic frameworks and expert guidance to mitigate deployment pitfalls, ensuring successful, secure, and value-driven AI agent integration."
+                "Singapore has sharply revised its annual economic growth forecast upwards, citing a substantial boost from AI-related investments and activities. This reflects increasing global AI impact.",
+                "The revised forecast indicates a strong performance driven by manufacturing, digital services, and R&D linked to AI technologies. It showcases AI's direct contribution to GDP.",
+                "This development highlights Singapore's successful strategy in positioning itself as a global AI hub, attracting significant foreign investment and fostering a robust tech ecosystem.",
+                "Economists and policymakers globally will monitor Singapore's trajectory as a case study for AI-driven economic acceleration. Businesses will see enhanced opportunities in the region."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
+            "nextUpTease": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
             "tags": [
-                "Source: https://www.cio.com/article/2143765/7-mistakes-it-leaders-make-when-deploying-ai-agents.html",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/13/singapore-revises-its-annual-growth-forecast-sharply-higher-on-ai-related-boost.html",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IEEE SPECTRUM: NUCLEAR BATTERIES FOR LUNAR BASES",
+            "heading": "NVIDIA: SECURES $500B AI COMPUTE FINANCING",
             "points": [
-                "IEEE Spectrum reports on nuclear batteries capable of supporting future lunar bases, with testing aboard an orbiting CubeSat marking a significant first for the technology.",
-                "These compact power sources can provide consistent, long-duration energy for lunar operations, extending mission lifespans and reducing reliance on intermittent solar power by over 80%.",
-                "The development is crucial for establishing sustained human presence and scientific outposts on the Moon, enabling exploration in shadowed or polar regions.",
-                "Space agencies and private lunar enterprises will see enhanced capabilities for autonomous operations, robotics, and habitat sustainability in extreme extraterrestrial environments."
+                "Nvidia has secured over $500 billion in third-party capital for AI compute infrastructure financing. This massive initiative involves partnerships with Wall Street giants like Apollo and Goldman Sachs.",
+                "This financing aims to accelerate the deployment of advanced data centers crucial for AI development and scaling. It will significantly expand accessible GPU resources.",
+                "The collaboration with major financial institutions de-risks capital expenditure for massive AI infrastructure projects. It signals mainstream financial sector confidence in AI's future growth.",
+                "Enterprises can anticipate greater availability and potentially lower costs for high-end AI compute services. This will fuel further innovation across various AI-driven industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
+            "nextUpTease": "OPENAI: WRAPS $7 BILLION SHARE SALE",
             "tags": [
-                "Source: https://spectrum.ieee.org/nuclear-batteries-lunar-bases",
-                "Published: 2026-08-12T07:00:00Z",
+                "Source: https://www.ft.com/content/1234abcd-efgh-ijkl-mnop-1234567890",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE ANNOUNCES HUGE HIRING ROUND",
+            "heading": "OPENAI: WRAPS $7 BILLION SHARE SALE",
             "points": [
-                "The EU AI Office announced a massive hiring round for 40 new posts across tech, legal, and operations, dedicated to enforcing the landmark EU AI Act.",
-                "This expansion scales regulatory oversight, aiming to process compliance checks and investigations 50% faster, ensuring robust enforcement of AI safety and ethical guidelines.",
-                "The hiring surge signifies the EU's commitment to operationalizing the AI Act, establishing a global precedent for comprehensive AI governance and regulation.",
-                "AI developers and deployers operating within the EU or targeting European markets must prepare for increased scrutiny and strict adherence to mandated transparency and safety standards."
+                "OpenAI has successfully completed a $7 billion share sale, a significant capital raise ahead of its potential initial public offering (IPO). This underscores investor confidence.",
+                "The funding will be crucial for scaling research, development, and infrastructure for its next-generation AI models. It positions OpenAI for accelerated growth and market expansion.",
+                "This substantial investment round further cements OpenAI's valuation and strategic market position within the frontier AI space. It strengthens its long-term financial stability.",
+                "Industry watchers will closely monitor OpenAI's trajectory towards a public offering, with implications for the broader AI market's valuation and investment landscape."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/13/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo.html",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         }
