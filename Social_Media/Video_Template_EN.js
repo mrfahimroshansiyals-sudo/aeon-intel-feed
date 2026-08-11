@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI INFRASTRUCTURE FUNDING SECURED",
+        "hookTitle": "NVIDIA NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD DELIVER FASTER AGENTIC AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING SECURED",
-                "teaserTitle": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
+                "headline": "NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "teaserTitle": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA, in partnership with Wall Street firms, secured $500B in financing for AI compute infrastructure. This mobilizes capital for data centers, accelerating GPU deployment and boosting AI scaling efforts."
+                "narration_line": "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard to boost agentic AI efficiency. These tools offer faster orchestration, reducing operational overhead for complex AI workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
+                "headline": "NEW PREMIUM CHATGPT BUSINESS TIER",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure introduces Foundry and IQ Connect to optimize production AI agent deployment. These tools offer unified context and secure system integration, significantly enhancing enterprise automation."
+                "narration_line": "OpenAI unveiled a new premium tier for ChatGPT Business, targeting high-intensity enterprise workloads. This tier provides advanced tools and capacity for deeper AI integration."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
-                "teaserTitle": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
+                "headline": "AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "AMD: STRATEGIC MI450 GPU PARTNERSHIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud has released the Gemini 3.6 Flash series, including 3.5 Flash-Lite and Cyber versions. These models offer enhanced efficiency and speed for various enterprise AI applications."
+                "narration_line": "Google Cloud launched its AI Threat Defense platform to counter cyber adversaries. The system uses AI for detection and response, strengthening enterprise cybersecurity postures significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
+                "headline": "STRATEGIC MI450 GPU PARTNERSHIP",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI has halted development of its Astra model due to significant security concerns. This move underscores growing industry focus on responsible AI deployment and risk mitigation strategies."
+                "narration_line": "AMD partnered with Anthropic to deploy 2GW of Instinct MI450 GPUs for AI development. This secures vast computational resources for large-scale model training and inference."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
-                "teaserTitle": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
+                "headline": "AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCHED",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI launched Shieldstral, a new initiative providing in-region inference and European infrastructure for sovereign AI. This enhances data governance and localized compliance for businesses."
+                "narration_line": "Azure expanded infrastructure with new AMD-powered AI and HPC VMs. These instances support demanding AI, data analytics, and inference workloads, boosting cloud performance."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
-                "teaserTitle": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
+                "headline": "ROBOSTRAL NAVIGATE ROBOTICS PRODUCT",
+                "teaserTitle": "META AI: OPEN-WEIGHT MUSE GLIMMER SHIFT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic secured a $9B deal with a data center operator for 2 gigawatts of power capacity. This investment fuels its long-term AI development and large-scale model training."
+                "narration_line": "Mistral AI introduced Robostral Navigate, advancing robotics and physical AI with enhanced navigation. This facilitates complex autonomous behaviors and multi-robot collaboration."
             },
             {
                 "slide_index": 7,
-                "headline": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
+                "headline": "OPEN-WEIGHT MUSE GLIMMER MODEL SHIFT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Target has appointed its inaugural Chief AI Officer to lead enterprise-wide AI strategy. This move signifies mainstream retail's formal commitment to integrating AI across operations."
+                "narration_line": "Meta AI shifted to open-weight models with Muse Glimmer, addressing enterprise demand for data control. Businesses can now deploy models on local infrastructure for compliance."
             },
             {
                 "slide_index": 8,

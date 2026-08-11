@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI INFRASTRUCTURE FUNDING",
-        "titleBlue": "SECURED",
-        "footerSummary": "Major AI compute infrastructure financing and new platform advancements are accelerating agentic AI deployment, while security and regulatory shifts reshape operational frameworks."
+        "titleWhite": "NEMOTRON 3.5 LIGHTNING AND NEMO SWITCHYARD DELIVER FASTER, SMARTER, MORE EFFICIENT AGENTIC",
+        "titleBlue": "AI",
+        "footerSummary": "AI agentic platforms from NVIDIA and cloud providers accelerate deployment, while Meta shifts to open-weight models for data control, reshaping enterprise AI architecture."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING SECURED",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
             "points": [
-                "NVIDIA has partnered with Wall Street giants to establish AI compute infrastructure financing platforms. This initiative aims to mobilize over $500B in third-party capital.",
-                "The massive funding injection will accelerate the buildout of advanced AI data centers, significantly reducing deployment bottlenecks. This ensures a robust supply of high-performance GPUs.",
-                "Strategically, this secures NVIDIA's ecosystem dominance and de-risks large-scale AI projects for enterprises. It fosters broader adoption of complex AI architectures.",
-                "Stakeholders should anticipate intensified competition in AI infrastructure, with new investment models enabling faster scaling and increased demand for specialized hardware."
+                "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard, a suite designed to enhance the speed and efficiency of agentic AI deployments.",
+                "These tools optimize complex AI workflows, offering faster execution and smarter orchestration capabilities. This reduces operational overhead for AI agents.",
+                "The release solidifies NVIDIA's platform leadership in scaling advanced agentic AI, providing critical infrastructure for autonomous AI systems.",
+                "Enterprises should expect accelerated agent development and deployment cycles, driving innovation in AI-powered automation and decision support."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
+            "nextUpTease": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
                 "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AZURE: FOUNDRY & IQ CONNECT OPTIMIZE AI AGENTS",
+            "heading": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
             "points": [
-                "Microsoft Azure launched Foundry and IQ Connect, a new platform suite to build, run, and govern production AI agents. These tools provide unified context and secure connections.",
-                "Foundry optimizes agent deployment with hosted agents, toolboxes, and tracing capabilities, enhancing governance at scale. IQ Connect securely integrates agents with business systems.",
-                "This strategic move solidifies Azure's position in enterprise AI, offering a comprehensive ecosystem for agent development and orchestration. It aims to accelerate intelligent automation.",
-                "Enterprises should leverage these tools to rapidly develop and deploy secure, context-aware AI agents. This can transform workflows and improve decision-making across the organization."
+                "OpenAI launched a new premium tier for ChatGPT Business, targeting heavy users and enterprise-grade AI workloads with enhanced features.",
+                "This tier is designed to meet the demands of high-intensity agentic applications, offering greater capacity, advanced tools, and dedicated support.",
+                "The move reflects OpenAI's strategy to further monetize its models for corporate clients, focusing on secure and scalable enterprise AI solutions.",
+                "Businesses can now access more robust ChatGPT capabilities, enabling deeper integration of AI into critical operations and strategic initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry/",
-                "Published: 2026-08-11T09:30:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH SERIES RELEASED",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
             "points": [
-                "Google Cloud unveiled new Gemini models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These models are designed for enhanced efficiency and speed.",
-                "The Flash series offers improved performance for multi-modal tasks and specialized functions, such as ultra-efficient image generation. This reduces inference costs and latency.",
-                "This release expands Google Cloud's AI portfolio, providing tailored models for diverse enterprise applications requiring either broad intelligence or highly optimized functions.",
-                "Developers can now deploy these specialized Gemini models to optimize application performance and cost-efficiency. This drives innovation in AI-powered services and user experiences."
+                "Google Cloud introduced its new AI Threat Defense platform, designed to help organizations proactively counter and outpace cyber adversaries.",
+                "The platform leverages advanced AI capabilities for threat detection, analysis, and response, significantly enhancing enterprise cybersecurity postures.",
+                "This strategic offering positions Google Cloud as a leader in AI-driven security, integrating sophisticated models to protect digital assets at scale.",
+                "CIOs and security teams should explore this platform to bolster defenses against evolving AI-powered cyber threats and ensure data integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
+            "nextUpTease": "AMD: STRATEGIC MI450 GPU PARTNERSHIP",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-                "Published: 2026-08-11T08:45:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-google-ai-threat-defense",
+                "Published: 2026-08-11T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: SECURITY CONCERNS HALT ASTRA MODEL",
+            "heading": "AMD: STRATEGIC MI450 GPU PARTNERSHIP",
             "points": [
-                "OpenAI has temporarily halted development on its Astra model due to escalating security concerns. This pause is driven by identified vulnerabilities in early testing.",
-                "The decision reflects OpenAI's commitment to safety and responsible AI deployment, prioritizing risk mitigation over rapid feature release. This could impact model rollout timelines.",
-                "This move highlights the increasing focus on AI cybersecurity and the inherent risks in deploying advanced frontier models without rigorous validation. Regulatory scrutiny will intensify.",
-                "Stakeholders should re-evaluate their AI integration strategies, emphasizing robust security audits and ethical AI frameworks. The industry faces growing pressure for transparent risk management."
+                "AMD announced a strategic partnership with Anthropic, focusing on deploying up to 2 gigawatts of AMD Instinct MI450 Series GPUs for AI development.",
+                "This collaboration ensures Anthropic secures vast computational resources, crucial for training and inference of advanced, large-scale AI models.",
+                "The deal highlights AMD's growing influence in the AI hardware market, solidifying its position as a key supplier for frontier AI research.",
+                "This partnership signals intense demand for high-performance GPUs and robust data center capacity, shaping future AI infrastructure investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
+            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VMS",
             "tags": [
-                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-and-anthropic-announce-strategic-partnership",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
+            "heading": "AZURE: AMD-POWERED AI & HPC VMS",
             "points": [
-                "Mistral AI introduced Shieldstral, a new initiative for in-region inference, open models, and European infrastructure. This targets sovereign AI capabilities.",
-                "Shieldstral provides localized data processing and deployment, enhancing data governance and compliance for European enterprises. It reduces reliance on external cloud providers.",
-                "This strategic move reinforces Mistral AI's commitment to an open AI ecosystem tailored for European regulatory and data sovereignty demands. It supports regional innovation.",
-                "European businesses gain enhanced control over their AI deployments, mitigating geopolitical risks and ensuring compliance with local regulations. This fosters trust in AI adoption."
+                "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These VMs are engineered to support highly demanding AI, data analytics, inference, and technical computing workloads, boosting performance.",
+                "The expansion enhances Azure's competitive offering for compute-intensive applications, providing customers with more flexible, powerful options.",
+                "Enterprises seeking to accelerate complex AI and HPC tasks can now leverage these specialized instances for optimized cloud-based solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
+            "nextUpTease": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCHED",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
-                "Published: 2026-08-11T10:15:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-11T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ANTHROPIC: $9B DATA CENTER DEAL FUELS AI",
+            "heading": "MISTRAL AI: ROBOSTRAL NAVIGATE LAUNCHED",
             "points": [
-                "Anthropic finalized a $9B deal with a data center operator, securing vast computational resources for its AI development. This investment targets long-term scaling.",
-                "The agreement provides up to 2 gigawatts of power capacity, ensuring sustained growth for large-scale model training and inference. This significantly boosts future AI capabilities.",
-                "This strategic partnership highlights the critical importance of compute infrastructure in the AI race, with major developers securing resources years in advance.",
-                "The deal signals a future where AI development is increasingly tied to energy and data center availability. It will likely drive further consolidation in compute resources."
+                "Mistral AI introduced Robostral Navigate, a new product aimed at advancing robotics and physical AI development with enhanced navigation capabilities.",
+                "This offering facilitates more complex autonomous behaviors and multi-robot collaboration, improving efficiency and safety in real-world applications.",
+                "The launch underscores Mistral AI's commitment to expanding its influence beyond LLMs into embodied AI, targeting industrial and logistical sectors.",
+                "Developers can leverage Robostral Navigate to build more sophisticated and reliable robotic systems, accelerating the deployment of AI in physical spaces."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
+            "nextUpTease": "META AI: OPEN-WEIGHT MUSE GLIMMER SHIFT",
             "tags": [
-                "Source: https://www.dowjones.com/newswires",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://mistral.ai/news/introducing-robostral-navigate",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TARGET: APPOINTS FIRST CHIEF AI OFFICER",
+            "heading": "META AI: OPEN-WEIGHT MUSE GLIMMER SHIFT",
             "points": [
-                "Target, a major retail corporation, has appointed its first Chief AI Officer to spearhead enterprise-wide AI strategy. This signals a formal commitment to AI integration.",
-                "This new executive role aims to accelerate AI adoption across operations, supply chain, and customer experience, enhancing efficiency and competitive advantage.",
-                "The appointment reflects a growing trend among traditional enterprises to embed AI leadership at the highest levels. This formalizes AI as a core business driver.",
-                "Other retailers and traditional industries should consider similar strategic roles to navigate AI transformation effectively. This will optimize investments and mitigate operational risks."
+                "Meta AI reversed its course by announcing a shift towards open-weight models with Muse Glimmer, responding to enterprise demand for data control.",
+                "This change allows businesses to deploy models on local infrastructure, ensuring tighter data governance and compliance, contrary to previous closed models.",
+                "The strategic pivot reflects a recognition of enterprise needs for privacy and customization in AI solutions, potentially broadening Meta's market reach.",
+                "Organizations prioritizing data sovereignty can now integrate Meta's advanced models more securely within their own controlled environments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com/technology/",
-                "Published: 2026-08-11T11:31:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
