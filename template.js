@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI INFRASTRUCTURE",
-        "titleBlue": "FINANCING",
-        "footerSummary": "NVIDIA mobilizes $500B for AI infrastructure. OpenAI boosts cyber defenses, expands model access, and introduces new business tiers. Financial markets and IBM also see significant AI shifts."
+        "titleWhite": "FRONTIER INTELLIGENCE THAT SCALES WITH YOUR",
+        "titleBlue": "AMBITION",
+        "footerSummary": "OpenAI launches GPT-5.6, elevating AI capabilities for complex tasks and scalability. Azure expands AI infrastructure and agent management, while Google boosts AI threat defense and scientific forecasting. GitHub enhances EDR with AI."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+            "heading": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
             "points": [
-                "NVIDIA, with major Wall Street firms including Apollo, BlackRock, and Goldman Sachs, is establishing AI compute infrastructure financing platforms.",
-                "This initiative aims to mobilize over $500 billion of third-party capital, addressing the surging demand for AI data center capacity.",
-                "The strategic move ensures long-term funding for the expansive, energy-intensive infrastructure required to scale next-generation AI.",
-                "This signals a new era of capital deployment for AI, accelerating enterprise adoption and influencing future compute investment strategies."
+                "OpenAI has released GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for ambitious applications. This represents a significant leap in AI model capability.",
+                "The model improves performance across diverse benchmarks, providing developers with more powerful tools for advanced reasoning, content generation, and complex problem-solving. It offers a substantial upgrade in throughput and efficiency for enterprise workloads.",
+                "This release strategically pushes the boundaries of AI, enabling more sophisticated agentic systems and autonomous applications. It aligns with OpenAI's vision of democratizing cutting-edge AI for global impact.",
+                "Enterprises should evaluate GPT-5.6 for integration into their critical workflows, particularly for agentic AI development and large-scale data processing, to unlock new levels of automation and insight."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-                "Published: 2026-08-10T22:00:00Z",
+                "Source: https://openai.com/research/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-11T11:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "points": [
-                "OpenAI is significantly expanding its Daybreak initiative to tackle growing AI security threats and fortify cyber defenses for organizations.",
-                "This expansion provides new tools and capabilities designed to secure enterprise AI deployments against advanced and evolving attack vectors.",
-                "The program aims to offer a comprehensive security framework, reducing vulnerabilities across the AI development and deployment lifecycle.",
-                "Enterprises should leverage Daybreak's enhanced features to harden their AI systems and proactively mitigate emerging cyber risks."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7). These VMs are optimized for demanding AI, data, and technical computing workloads.",
+                "The introduction of these VMs offers customers significantly improved performance and efficiency for compute-intensive tasks, delivering higher throughput and lower latency for training and inference.",
+                "This strategic investment enhances Azure's competitive edge in the cloud AI/HPC market, providing diverse hardware options to meet specialized computational needs across industries.",
+                "Organizations requiring extreme performance for large-scale AI model training, complex simulations, or data analytics should leverage these new Azure VMs for cost-effective and powerful compute resources."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
+            "nextUpTease": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
             "tags": [
-                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
+            "heading": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
             "points": [
-                "OpenAI has enhanced GPT-5.6 Sol in ChatGPT and expanded access to GPT-5.6 Luna for free users, improving model performance.",
-                "These updates boost capabilities for general tasks and advanced reasoning, making frontier AI more accessible to a broader audience.",
-                "The move reflects OpenAI's strategy to democratize cutting-edge AI while continuously refining its core language models.",
-                "Developers and businesses can now integrate more powerful and accessible models for diverse applications, fostering innovation."
+                "Microsoft Azure has launched Foundry, a new platform designed to help enterprises build, run, and govern AI agents at scale, using GPT-5.6 with hosted agents, toolboxes, and tracing.",
+                "Foundry provides a structured environment that optimizes agent development lifecycle, reducing deployment complexity and operational overhead. It ensures agent performance, security, and compliance in production.",
+                "This offering positions Azure as a leader in enterprise agentic AI, facilitating the reliable deployment of autonomous systems. It addresses key challenges in managing sophisticated AI applications across organizations.",
+                "Businesses can now confidently move AI agent projects from pilot to production, leveraging Foundry's capabilities to drive automation, streamline processes, and maintain oversight over agent behavior."
             ],
             "imageUrl": "",
-            "nextUpTease": "CME: AI COMPUTE POWER BECOMES TRADABLE",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
             "tags": [
-                "Source: https://openai.com/blog/improving-gpt-5.6-sol-in-chatgpt-and-expanding-access-to-gpt-5.6-luna-for-free-users",
-                "Published: 2026-08-11T10:30:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry/",
+                "Published: 2026-08-11T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CME: AI COMPUTE POWER BECOMES TRADABLE",
+            "heading": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
             "points": [
-                "The CME Group has launched futures contracts for AI computing power, establishing it as a new tradable asset class in financial markets.",
-                "This innovation allows companies to hedge against price volatility in compute resources and provides new investment opportunities.",
-                "It marks a significant financial maturation for the AI industry, enabling better resource planning and risk management for large-scale deployments.",
-                "Investors and enterprises can now directly manage exposure to AI compute costs, potentially stabilizing long-term operational budgets."
+                "Google Cloud is introducing its AI Threat Defense platform, a new security offering designed to help organizations proactively outpace adversaries in the evolving landscape of AI-driven cyber threats.",
+                "This platform utilizes advanced AI and machine learning to detect, analyze, and respond to emerging threats with greater speed and accuracy, minimizing potential breaches and data loss.",
+                "Google's initiative addresses critical security vulnerabilities inherent in complex AI systems and cloud environments. It reinforces a comprehensive, intelligent defense strategy against sophisticated attacks.",
+                "Enterprises should integrate AI Threat Defense to strengthen their cybersecurity posture, particularly as AI systems become central to operations, safeguarding sensitive data and maintaining operational integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: $240M AI CLOUD CAPABILITIES BET",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-tradable-asset-class-as-cme-starts-futures-contracts.html",
+                "Source: https://cloud.google.com/blog/introducing-google-ai-threat-defense/",
                 "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM: $240M AI CLOUD CAPABILITIES BET",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "points": [
-                "IBM is investing $240 million to expand its cloud capabilities, specifically targeting enhanced AI integration and service offerings.",
-                "This significant capital injection aims to bolster IBM's competitive standing in the rapidly evolving enterprise AI and cloud computing markets.",
-                "The investment will drive the development of new AI-powered tools and infrastructure within IBM's hybrid cloud ecosystem.",
-                "Enterprises utilizing IBM Cloud can expect advanced AI functionalities, improved performance, and broader solution portfolios."
+                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in cyclone forecasting, demonstrating significantly improved accuracy and lead times for predicting severe weather events.",
+                "This AI model processes vast atmospheric data to generate more precise predictions, enabling earlier warnings and better preparation for vulnerable regions. It enhances disaster mitigation efforts globally.",
+                "The advancement highlights the transformative potential of AI in scientific research and real-world applications beyond traditional enterprise IT. It sets a new standard for environmental predictive modeling.",
+                "Governments, meteorological agencies, and disaster response organizations can utilize WeatherNext's capabilities to save lives and protect infrastructure, reducing economic impact from extreme weather."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/inside-ibms-240-million-ai-bet-to-build-out-its-cloud-capabilities",
-                "Published: 2026-08-11T08:50:00Z",
+                "Source: https://deepmind.google/discover/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-11T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
             "points": [
-                "OpenAI has introduced a new premium tier for ChatGPT Business, targeting high-volume enterprise users with advanced requirements.",
-                "This tier offers enhanced features, higher usage limits, and dedicated support, optimizing the value proposition for large organizations.",
-                "The strategic pricing model reflects a shift towards monetizing intensive AI workloads and agentic deployments within enterprises.",
-                "Businesses can now access a more robust and tailored ChatGPT experience, ensuring scalability and deeper integration into workflows."
+                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, new tools and models designed to deliver faster, smarter, and more efficient agentic AI systems.",
+                "Nemotron 3.5 Lightning offers optimized performance for rapid inference in agent workflows, while NeMo Switchyard provides advanced orchestration for dynamic agent interactions, significantly boosting efficiency.",
+                "This release solidifies NVIDIA's leadership in providing the foundational components for the next generation of AI, focusing on agent autonomy and dynamic response across diverse applications.",
+                "Developers and AI architects can leverage these new NVIDIA offerings to build more responsive and intelligent agentic AI applications, accelerating deployment in industrial automation and complex decision-making systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+            "nextUpTease": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
                 "Published: 2026-08-11T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+            "heading": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
             "points": [
-                "Anthropic has made Claude Code's auto mode the default setting for paid users, streamlining the coding assistance experience.",
-                "This update enhances developer productivity by offering automated code generation and refinement capabilities out-of-the-box.",
-                "The change signifies a focus on improving the usability and efficiency of AI agents for software development tasks.",
-                "Developers will benefit from quicker access to AI-powered coding tools, accelerating project timelines and reducing manual effort."
+                "GitHub is enhancing its Endpoint Detection and Response (EDR) capabilities by integrating AI-powered cybersecurity tools, providing advanced threat detection and analysis within development environments.",
+                "This integration allows for real-time monitoring of code repositories and development workflows, identifying suspicious activities and vulnerabilities with greater precision, reducing attack surface.",
+                "The move signifies a critical step towards securing the software supply chain at its source, emphasizing AI's role in proactive defense and incident response for developer ecosystems.",
+                "Development teams and security professionals can now benefit from more robust, AI-driven protection directly within GitHub, safeguarding critical intellectual property and mitigating emergent threats."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3711929/anthropic-makes-claude-code-s-auto-mode-default-for-paid-users.html",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.infoworld.com/article/3711930/github-already-has-an-edr-you-just-have-to-listen-to-it.html",
+                "Published: 2026-08-11T08:15:00Z",
                 "Status: Audited & True"
             ]
         }

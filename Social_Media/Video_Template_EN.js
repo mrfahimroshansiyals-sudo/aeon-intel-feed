@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+        "hookTitle": "GPT-5.6: FRONTIER INTELLIGENCE SCALES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "headline": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA partnered with Wall Street firms to launch AI compute financing platforms. This mobilizes over $500B to scale critical AI infrastructure, accelerating enterprise AI adoption globally."
+                "narration_line": "OpenAI launched GPT-5.6, its latest frontier model, offering enhanced intelligence and scalability for advanced applications. This release significantly boosts capabilities for complex reasoning and enterprise AI workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI expanded its Daybreak initiative to enhance AI cyber defenses. This offers new tools to secure enterprise AI deployments against evolving threats, improving system resilience."
+                "narration_line": "Azure introduced new AMD-powered AI and HPC virtual machines: HDv2, HXv2, and ND MI455Xv7. These optimize performance for demanding AI and technical computing workloads, improving throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
-                "teaserTitle": "CME: AI COMPUTE POWER BECOMES TRADABLE",
+                "headline": "MICROSOFT AZURE: PRODUCTION AI AGENT OPTIMIZATION WITH FOUNDRY",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI improved GPT-5.6 Sol and expanded free access to GPT-5.6 Luna. These updates deliver advanced reasoning capabilities to a wider user base, fostering AI innovation."
+                "narration_line": "Microsoft Azure released Foundry for optimizing production AI agents, supporting GPT-5.6 with hosted agents. This platform enables scalable, governed deployment of autonomous AI systems for businesses."
             },
             {
                 "slide_index": 4,
-                "headline": "CME: AI COMPUTE POWER BECOMES TRADABLE",
-                "teaserTitle": "IBM: $240M AI CLOUD CAPABILITIES BET",
+                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CME Group launched futures contracts for AI computing power, making it a tradable asset. This allows hedging against price volatility and provides new investment opportunities in AI."
+                "narration_line": "Google Cloud unveiled its AI Threat Defense platform, designed to help organizations outpace evolving AI-driven cyber threats. It uses AI to detect and respond to threats rapidly, bolstering security."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM: $240M AI CLOUD CAPABILITIES BET",
-                "teaserTitle": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IBM is investing $240M to boost its cloud AI capabilities. This strengthens its market position, bringing advanced AI functionalities to enterprise cloud users."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting with improved accuracy and lead times. This enhances disaster preparedness and mitigates impact from severe weather events."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
-                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
+                "teaserTitle": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI introduced a new premium ChatGPT Business tier for high-volume users. This optimizes value for large organizations, supporting scalable AI workloads with enhanced features."
+                "narration_line": "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard for more efficient agentic AI. These tools deliver optimized performance for rapid inference and advanced orchestration in agent workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "headline": "INFOWORLD: GITHUB ENHANCES EDR WITH AI-POWERED CYBERSECURITY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic made Claude Code's auto mode the default for paid users. This streamlines coding assistance, enhancing developer productivity for software development tasks."
+                "narration_line": "GitHub enhanced its EDR with AI-powered cybersecurity tools, providing advanced threat detection in development environments. This integration improves real-time monitoring and reduces software supply chain vulnerabilities."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
