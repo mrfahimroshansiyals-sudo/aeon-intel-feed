@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI COMPUTE INFRASTRUCTURE",
-        "titleBlue": "FUNDING",
-        "footerSummary": "NVIDIA mobilizes $500B with Wall Street partners for AI compute infrastructure, accelerating global deployment and strategic AI initiatives. CME launches AI compute futures."
+        "titleWhite": "CLAUDE CODE AUTO MODE",
+        "titleBlue": "DEFAULT",
+        "footerSummary": "Anthropic sets Claude Code auto mode to default for paid tiers, shifting enterprise developer workflows toward fully autonomous execution and background agent operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FUNDING",
+            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
             "points": [
-                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms.",
-                "This initiative aims to mobilize over $500B in third-party capital, accelerating the global deployment of essential AI data centers and supercomputing facilities.",
-                "This strategic investment addresses the growing capital demands for advanced AI processing capabilities, transforming AI computing power into a more accessible asset class.",
-                "Investors gain exposure to foundational AI layers, while enterprises secure crucial compute resources for next-gen AI models and services."
+                "Anthropic has made auto mode the standard default setting for all paid Claude Code users across enterprise environments.",
+                "The system grants AI agents authority to execute multi-file edits, code refactoring, and terminal commands autonomously.",
+                "By eliminating repetitive manual approvals, the update streamlines developer workflows and accelerates background agent execution.",
+                "Engineering teams must establish granular access controls to prevent unintended system actions across production codebases."
             ],
             "imageUrl": "",
-            "nextUpTease": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
+            "nextUpTease": "OVHCLOUD: SERVER PRICES INCREASE BY 87%",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.infoworld.com/article/3829101/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
+            "heading": "OVHCLOUD: SERVER PRICES INCREASE BY 87%",
             "points": [
-                "The CME Group has launched futures contracts for AI computing power, effectively establishing AI compute as a tradable asset class.",
-                "This new financial instrument allows for hedging against price volatility and optimizing resource allocation in the rapidly expanding AI market.",
-                "The introduction of these contracts formalizes AI compute as a commodity, enabling more efficient capital deployment and risk management for large-scale AI projects.",
-                "Data center operators, cloud providers, and large AI development firms can now manage compute capacity and costs more strategically."
+                "European cloud operator OVHcloud announced bare metal and public cloud price increases of up to 87% for enterprise customers.",
+                "Rising hardware component expenses, memory silicon inflation, and energy costs driven by AI data center demands triggered the hike.",
+                "The price adjustment highlights broader infrastructure margin pressures affecting secondary cloud providers globally.",
+                "Enterprise IT leaders must re-evaluate cloud infrastructure budgets and multi-cloud hosting strategies to mitigate rising costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
+            "nextUpTease": "COREWEAVE: AI INFRASTRUCTURE REVENUE DOUBLES",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-tradable-asset-class-as-cme-starts-futures-contracts.html",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.cio.com/article/3829410/server-prices-to-rise-by-up-to-87-percent-at-ovhcloud.html",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
+            "heading": "COREWEAVE: AI INFRASTRUCTURE REVENUE DOUBLES",
             "points": [
-                "Google Cloud is outlining its next-generation AI infrastructure strategy, focusing on scaling compute, data, and agent platforms for the emerging agentic AI era.",
-                "These advancements promise to deliver higher performance, efficiency, and reliability for complex, multi-step AI agent workflows at enterprise scale.",
-                "Google's strategy emphasizes integrating AI, data, and business context within a unified intelligent cloud system, facilitating the deployment of sophisticated AI agents.",
-                "Enterprises can expect more robust and scalable platforms for building and managing AI agents, enabling deeper automation and transforming application interactions."
+                "Specialized GPU cloud provider CoreWeave reported a 100% year-over-year revenue surge in its latest quarterly results.",
+                "Company shares jumped 14% as enterprise demand for high-density AI compute and clusters continues to outpace available supply.",
+                "CoreWeave continues expanding ultra-scale compute facilities backed by direct strategic hardware allocations.",
+                "Hyperscale GPU access remains a primary growth driver for specialized cloud infrastructure providers catering to frontier AI labs."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+            "nextUpTease": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
             "tags": [
-                "Source: https://cloud.google.com/blog/whats-next-in-google-ai-infrastructure-scaling-for-the-agentic-era",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/coreweave-q2-earnings-ai-infrastructure-demand.html",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+            "heading": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
             "points": [
-                "OpenAI is expanding its Daybreak initiative, enhancing its AI-powered cyber defense tools to tackle the narrowing window for effective threat response.",
-                "The expansion aims to significantly reduce the mean time to detect and respond to cyber threats, improving security posture for organizations.",
-                "Daybreak\u2019s enhanced capabilities integrate AI into security operations, providing more resilient protection for critical infrastructure against evolving adversarial AI tactics.",
-                "Businesses can leverage OpenAI\u2019s strengthened Daybreak platform to fortify cybersecurity defenses, safeguarding intellectual property and operational continuity."
+                "OpenAI is rolling out specialized premium seat pricing for heavy enterprise users on ChatGPT Business plans.",
+                "The tier targets high-intensity agentic workloads requiring significant token throughput and continuous API execution.",
+                "AI vendors are transitioning away from flat-rate pricing to capture margins from heavy enterprise compute consumers.",
+                "Organizations face shifting enterprise AI licensing models as vendors align costs with high-frequency agent utilization."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "QUANTINUUM: ORACLE QUANTUM DEAL ANNOUNCED",
             "tags": [
-                "Source: https://openai.com/research/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-11T09:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-            "points": [
-                "Mistral AI has introduced Shieldstral, a new offering designed for in-region inference, open models, and European sovereign AI infrastructure.",
-                "Shieldstral enables organizations to deploy and manage AI models within specific geographic boundaries, meeting strict data residency and compliance requirements.",
-                "This platform supports the development of secure, localized AI ecosystems, particularly relevant for public sector, defense, and financial services in Europe.",
-                "European enterprises and governments gain a robust solution for deploying sensitive AI workloads while adhering to local regulations."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
-            "tags": [
-                "Source: https://mistral.ai/news/introducing-shieldstral-in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai",
+                "Source: https://www.cio.com/article/3829450/openai-targets-heavy-users-with-premium-chatgpt-business-seats.html",
                 "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
+            "id": 5,
+            "heading": "QUANTINUUM: ORACLE QUANTUM DEAL ANNOUNCED",
             "points": [
-                "Riot Platforms has signed a strategic deal with Anthropic, committing significant compute capacity originally used for Bitcoin mining to AI infrastructure.",
-                "This shift reallocates substantial GPU and energy resources towards high-demand AI workloads, potentially adding gigawatts of compute power.",
-                "This trend signifies the growing economic incentive for energy-intensive compute facilities to transition from cryptocurrency mining to AI, expanding AI infrastructure.",
-                "AI developers gain access to new high-density compute, alleviating supply constraints and driving down costs, while traditional miners find new revenue streams."
+                "Quantum hardware leader Quantinuum posted strong financial metrics in its initial earnings report post-public offering.",
+                "Quantinuum finalized a strategic partnership with Oracle to integrate fault-tolerant quantum hardware into Oracle Cloud Infrastructure.",
+                "The collaboration allows enterprise customers to run hybrid quantum-classical algorithms directly within cloud database systems.",
+                "Commercial quantum computing integrations are maturing rapidly as cloud providers seek differentiated high-performance compute capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
+            "nextUpTease": "META: OPEN WEIGHT MUSE GLIMMER RELEASE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-bitcoin-miners-shift-to-ai-infrastructure.html",
-                "Published: 2026-08-11T10:30:00Z",
+                "Source: https://www.barrons.com/articles/quantinuum-earnings-oracle-deal-2026-08-11",
+                "Published: 2026-08-11T15:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "META: OPEN WEIGHT MUSE GLIMMER RELEASE",
+            "points": [
+                "Meta reversed previous distribution constraints by releasing open model weights for its Muse Glimmer architecture.",
+                "The open-weight release provides researchers and developers with unconstrained local deployment rights and fine-tuning control.",
+                "Meta's open-weights strategy reinforces ecosystem adoption and pressures proprietary model builders across open-source benchmarks.",
+                "Enterprise developers gain increased flexibility to build on-premise generative applications without vendor lock-in risks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SUPERMICRO: Q2 SERVER REVENUE BEATS ESTIMATES",
+            "tags": [
+                "Source: https://www.aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
+            "heading": "SUPERMICRO: Q2 SERVER REVENUE BEATS ESTIMATES",
             "points": [
-                "Brad Lightcap, a longtime executive at OpenAI and COO of its commercial unit, has announced his departure amidst ongoing leadership adjustments.",
-                "This high-profile executive change could signal shifts in OpenAI's commercial strategy, potentially impacting future product roadmaps and partner engagements.",
-                "Leadership changes at frontier AI organizations often reflect internal strategic realignments concerning model deployment, safety protocols, and market positioning.",
-                "Partners and enterprise clients of OpenAI should monitor subsequent announcements for potential impacts on commercial offerings and API access."
+                "Super Micro Computer delivered quarterly earnings results that comfortably beat Wall Street consensus revenue forecasts.",
+                "Surging demand for liquid-cooled AI server racks and modular data center architectures drove strong operating performance.",
+                "The results affirm continued aggressive enterprise capital expenditure directed toward foundational AI compute hardware.",
+                "Hardware infrastructure providers with high-density cooling solutions retain strong backlogs despite broader supply chain constraints."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ft.com/content/0c8d1f2e-7b1c-4b3d-8e9f-5c2a1b4d0e51",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.marketwatch.com/story/super-micro-earnings-beat-ai-server-demand-2026-08-11",
+                "Published: 2026-08-11T17:00:00Z",
                 "Status: Audited & True"
             ]
         }

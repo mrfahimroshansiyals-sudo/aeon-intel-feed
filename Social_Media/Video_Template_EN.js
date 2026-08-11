@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL AI INTELLIGENCE UPDATE",
+        "hookTitle": "CLAUDE CODE AUTO MODE DEFAULT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FUNDING",
-                "teaserTitle": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
+                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "teaserTitle": "OVHCLOUD: SERVER PRICES INCREASE BY 87%",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA partnered with Wall Street giants to mobilize over $500B for AI compute infrastructure. This massive funding accelerates data center deployment and strategic AI initiatives globally."
+                "narration_line": "Anthropic made auto mode the default setting for Claude Code paid tiers. The update accelerates developer velocity by enabling autonomous multi-file edits and terminal operations without manual approval prompts."
             },
             {
                 "slide_index": 2,
-                "headline": "CME: AI COMPUTING POWER FUTURES CONTRACTS",
-                "teaserTitle": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
+                "headline": "OVHCLOUD: SERVER PRICES INCREASE BY 87%",
+                "teaserTitle": "COREWEAVE: AI INFRASTRUCTURE REVENUE DOUBLES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CME Group launched futures contracts for AI computing power, making it a tradable asset. This institutional move allows for hedging against price volatility and optimizing resource allocation."
+                "narration_line": "OVHcloud announced server pricing increases of up to 87% across enterprise bare metal and cloud instances. Rising hardware component costs and memory supply constraints forced the European host to adjust client contracts."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: SCALING AI FOR AGENTIC ERA",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "headline": "COREWEAVE: AI INFRASTRUCTURE REVENUE DOUBLES",
+                "teaserTitle": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud unveiled its next-gen AI infrastructure strategy, focusing on scaling for agentic AI. It promises enhanced orchestration and governance for complex, multi-step agent workflows."
+                "narration_line": "CoreWeave stock surged 14% after quarterly revenue doubled on accelerating enterprise compute demand. The cloud provider expanded its high-density GPU footprint to support massive frontier model training clusters."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
+                "teaserTitle": "QUANTINUUM: ORACLE QUANTUM DEAL ANNOUNCED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI expanded its Daybreak initiative, enhancing AI-powered cyber defense tools. This targets proactive detection and mitigation of sophisticated AI-driven attacks to improve security posture."
+                "narration_line": "OpenAI introduced a high-tier premium subscription for ChatGPT Business enterprise customers. The tier targets heavy agentic workloads while enabling vendors to monetize high-intensity compute resources more effectively."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
+                "headline": "QUANTINUUM: ORACLE QUANTUM DEAL ANNOUNCED",
+                "teaserTitle": "META: OPEN WEIGHT MUSE GLIMMER RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced Shieldstral for in-region inference and sovereign AI infrastructure in Europe. This provides enhanced data control and localized AI capabilities for compliance."
+                "narration_line": "Quantinuum reported post-IPO earnings and finalized a major quantum hardware integration deal with Oracle. The partnership connects fault-tolerant quantum processors directly into Oracle Cloud Infrastructure for high-performance enterprise workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "RIOT PLATFORMS: PIVOTS BITCOIN MINING TO AI INFRASTRUCTURE",
-                "teaserTitle": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
+                "headline": "META: OPEN WEIGHT MUSE GLIMMER RELEASE",
+                "teaserTitle": "SUPERMICRO: Q2 SERVER REVENUE BEATS ESTIMATES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Riot Platforms signed an Anthropic deal, pivoting Bitcoin mining compute to AI infrastructure. This reallocates substantial GPU resources towards high-demand AI workloads, enhancing supply."
+                "narration_line": "Meta reversed its closed distribution strategy by releasing open weights for its Muse Glimmer model. Developers can now access fully open model weights for local deployment across enterprise generative workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: EXECUTIVE BRAD LIGHTCAP DEPARTS AMID SHAKE-UP",
+                "headline": "SUPERMICRO: Q2 SERVER REVENUE BEATS ESTIMATES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI executive Brad Lightcap departed amid strategic adjustments at the AI lab. This high-profile change could signal shifts in OpenAI's commercial strategy and product roadmaps."
+                "narration_line": "Super Micro Computer reported quarterly financial results exceeding Wall Street revenue and earnings expectations. High demand for liquid-cooled AI server racks drove immediate stock gains in after-hours trading."
             },
             {
                 "slide_index": 8,
