@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UNLOCKING $500B AI INFRASTRUCTURE",
+        "hookTitle": "INTEL UNVEILS $20B AI SILICON CAPITAL BUILD OUT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: UNLOCKING $500B AI INFRASTRUCTURE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "INTEL: $20B EQUITY AI EXPANSION",
+                "teaserTitle": "SPACEX: $16.8B TERAFAB CHIP PLANT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA has partnered with Wall Street firms to mobilize over $500B in financing for AI compute infrastructure. This initiative positions AI as an \"investable asset,\" crucial for accelerating global enterprise AI adoption and scalability."
+                "narration_line": "Intel upsized its public stock offering to $20B at $95 per share to accelerate AI silicon production. The capital injection expands domestic advanced foundry capacity to secure critical supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "META AI: ADVANCES PERSONAL AI ASSISTANTS",
+                "headline": "SPACEX: $16.8B TERAFAB CHIP PLANT",
+                "teaserTitle": "META: OPEN-WEIGHT MUSE GLIMMER RELEASE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding its Daybreak cybersecurity initiative to enhance defenses against evolving AI agent threats. This move bolsters enterprise security, providing robust protection for critical AI-powered environments."
+                "narration_line": "SpaceX and Tesla committed $16.8B to construct the Terafab chip factory in Texas. The facility will produce custom hardware for autonomous vehicles and orbital AI inference."
             },
             {
                 "slide_index": 3,
-                "headline": "META AI: ADVANCES PERSONAL AI ASSISTANTS",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL PLATFORM",
+                "headline": "META: OPEN-WEIGHT MUSE GLIMMER RELEASE",
+                "teaserTitle": "AMD: TAALAS ACQUISITION FOR INFERENCE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Meta has advanced its latest AI model, furthering Mark Zuckerberg's vision for highly capable personal AI assistants. This aims to make AI a fundamental utility, enhancing user productivity across Meta's ecosystem."
+                "narration_line": "Meta launched open-weight Muse Glimmer to meet growing enterprise demand for local model control. The model enables private on-premises execution without exposing proprietary telemetry to external cloud networks."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL PLATFORM",
-                "teaserTitle": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT",
+                "headline": "AMD: TAALAS ACQUISITION FOR INFERENCE",
+                "teaserTitle": "MICROSOFT: WEB IQ AGENT GROUNDING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mistral AI introduced Shieldstral, a new platform for managing enterprise AI prompts and skills. This streamlines AI governance and workflow reproducibility, improving reliability for agentic systems."
+                "narration_line": "AMD agreed to acquire startup Taalas to engineer custom single-model AI inference silicon. The direct hardware architecture cuts operational inference costs and reduces latency for mature workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT",
-                "teaserTitle": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
+                "headline": "MICROSOFT: WEB IQ AGENT GROUNDING",
+                "teaserTitle": "DEEPSEEK: UNITREE HUMANOID BRAIN INVESTMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI has halted Astra model development due to significant security concerns identified internally. This pause underscores a commitment to rigorous safety protocols, impacting responsible AI innovation standards."
+                "narration_line": "Microsoft introduced Web IQ to provide AI agents with real-time web telemetry data. The grounding service prevents agent hallucinations and eliminates the need for custom scraping infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "INFOWORLD: AI-POWERED DEV ENVIRONMENTS",
-                "teaserTitle": "ROBOTICS: BOSTON DYNAMICS SPOT DEPLOYMENT",
+                "headline": "DEEPSEEK: UNITREE HUMANOID BRAIN INVESTMENT",
+                "teaserTitle": "ARCHER: BOEING AI AVIATION DEAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AI-powered software development environments are evolving into comprehensive toolkits for directing coding models and agents. This transforms developer workflows, enhancing efficiency through intelligent automation."
+                "narration_line": "DeepSeek invested in Unitree to co-develop embodied AI reasoning systems for humanoid robotics. Integrating advanced LLM brains with agile physical hardware accelerates industrial deployment timelines."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: BOSTON DYNAMICS SPOT DEPLOYMENT",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "ARCHER: BOEING AI AVIATION DEAL",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Boston Dynamics' Spot robot has been deployed in a Utah copper mine for critical inspection tasks. This automates dangerous work, improving safety and operational efficiency in heavy industries."
+                "narration_line": "Archer partnered with Boeing to integrate AI flight autonomy into next-gen electric air taxis. The collaboration optimizes flight safety and energy management across urban aerial transit networks."
             },
             {
                 "slide_index": 8,
