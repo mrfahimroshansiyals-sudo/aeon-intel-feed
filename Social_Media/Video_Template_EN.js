@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+        "hookTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launched GPT-5.6, a new frontier model for scalable AI. This enhances agent capabilities and accelerates enterprise solution development across industries."
+                "narration_line": "NVIDIA partnered with Wall Street firms to launch AI compute financing platforms. This mobilizes over $500B to scale critical AI infrastructure, accelerating enterprise AI adoption globally."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
-                "teaserTitle": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google Cloud introduced Gemini 3.6 Flash and other new models. These improve speed and cost-efficiency for diverse AI applications, boosting rapid prototyping."
+                "narration_line": "OpenAI expanded its Daybreak initiative to enhance AI cyber defenses. This offers new tools to secure enterprise AI deployments against evolving threats, improving system resilience."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
-                "teaserTitle": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
+                "teaserTitle": "CME: AI COMPUTE POWER BECOMES TRADABLE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Azure debuted IQ and Foundry for scaling AI agents. These platforms provide shared context and GPT-5.6 integration, streamlining enterprise AI operations."
+                "narration_line": "OpenAI improved GPT-5.6 Sol and expanded free access to GPT-5.6 Luna. These updates deliver advanced reasoning capabilities to a wider user base, fostering AI innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL - SOVEREIGN AI",
+                "headline": "CME: AI COMPUTE POWER BECOMES TRADABLE",
+                "teaserTitle": "IBM: $240M AI CLOUD CAPABILITIES BET",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA unveiled a new power architecture for AI compute. This will optimize energy efficiency and throughput for next-gen data center GPUs."
+                "narration_line": "CME Group launched futures contracts for AI computing power, making it a tradable asset. This allows hedging against price volatility and provides new investment opportunities in AI."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: SHIELDSTRAL - SOVEREIGN AI",
-                "teaserTitle": "OPENAI: SECURITY CONCERNS HALT ASTRA WORK",
+                "headline": "IBM: $240M AI CLOUD CAPABILITIES BET",
+                "teaserTitle": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced Shieldstral for sovereign AI infrastructure. It enables in-region inference and secure data control, meeting European compliance demands."
+                "narration_line": "IBM is investing $240M to boost its cloud AI capabilities. This strengthens its market position, bringing advanced AI functionalities to enterprise cloud users."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: SECURITY CONCERNS HALT ASTRA WORK",
-                "teaserTitle": "ANTHROPIC/RIOT: $9B AI INFRASTRUCTURE DEAL",
+                "headline": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
+                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI halted Astra model development due to security concerns. This prioritizes AI safety, impacting frontier model deployment timelines for partners."
+                "narration_line": "OpenAI introduced a new premium ChatGPT Business tier for high-volume users. This optimizes value for large organizations, supporting scalable AI workloads with enhanced features."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC/RIOT: $9B AI INFRASTRUCTURE DEAL",
+                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic and Riot Platforms secured a $9B deal for AI compute. Bitcoin mining infrastructure will pivot to high-demand AI workloads."
+                "narration_line": "Anthropic made Claude Code's auto mode the default for paid users. This streamlines coding assistance, enhancing developer productivity for software development tasks."
             },
             {
                 "slide_index": 8,

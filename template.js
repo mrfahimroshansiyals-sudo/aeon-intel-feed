@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
-        "titleBlue": "SCALES",
-        "footerSummary": "Frontier AI models like GPT-5.6 advance with new agent platforms. Meanwhile, security halts and compute infrastructure financing deals reshape immediate operational roadmaps."
+        "titleWhite": "$500B AI INFRASTRUCTURE",
+        "titleBlue": "FINANCING",
+        "footerSummary": "NVIDIA mobilizes $500B for AI infrastructure. OpenAI boosts cyber defenses, expands model access, and introduces new business tiers. Financial markets and IBM also see significant AI shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
             "points": [
-                "OpenAI has announced GPT-5.6, a new frontier model designed for enhanced intelligence and scalable ambition across various applications.",
-                "This release promises significant improvements in performance, allowing for more complex and robust AI deployments at scale.",
-                "The model is strategically positioned to redefine next-generation AI agent capabilities and advanced enterprise solutions.",
-                "Stakeholders can expect accelerated development of intelligent systems and more sophisticated automation workflows."
+                "NVIDIA, with major Wall Street firms including Apollo, BlackRock, and Goldman Sachs, is establishing AI compute infrastructure financing platforms.",
+                "This initiative aims to mobilize over $500 billion of third-party capital, addressing the surging demand for AI data center capacity.",
+                "The strategic move ensures long-term funding for the expansive, energy-intensive infrastructure required to scale next-generation AI.",
+                "This signals a new era of capital deployment for AI, accelerating enterprise adoption and influencing future compute investment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+            "nextUpTease": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "tags": [
-                "Source: https://openai.com/research/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-11T11:42:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-10T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "points": [
-                "Google Cloud introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its suite of high-performance AI models.",
-                "These models offer enhanced speed and efficiency for diverse AI applications, optimizing cost-performance ratios for enterprise users.",
-                "The release bolsters Google's competitive edge in generative AI, providing flexible options for both developers and large-scale deployments.",
-                "Businesses gain access to more agile and specialized AI capabilities for rapid prototyping and production workloads."
+                "OpenAI is significantly expanding its Daybreak initiative to tackle growing AI security threats and fortify cyber defenses for organizations.",
+                "This expansion provides new tools and capabilities designed to secure enterprise AI deployments against advanced and evolving attack vectors.",
+                "The program aims to offer a comprehensive security framework, reducing vulnerabilities across the AI development and deployment lifecycle.",
+                "Enterprises should leverage Daybreak's enhanced features to harden their AI systems and proactively mitigate emerging cyber risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
+            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-and-more",
-                "Published: 2026-08-11T11:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
-            "points": [
-                "Microsoft Azure launched IQ and Foundry, platforms designed to provide shared context and optimize production AI agents at scale.",
-                "IQ connects agents to systems, data, and workflows for precise reasoning, while Foundry offers GPT-5.6 hosted agents and tracing.",
-                "These innovations streamline enterprise agent development, ensuring secure and context-aware AI operations within the Azure ecosystem.",
-                "Enterprises can now build, run, and govern AI agents with enhanced control and performance for critical business functions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-launches-iq-and-foundry-for-ai-agents/",
+                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
                 "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+            "id": 3,
+            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS IMPROVED",
             "points": [
-                "NVIDIA detailed its new power architecture, critical for scaling AI compute performance and addressing rising energy demands.",
-                "This innovation optimizes energy efficiency and throughput, directly impacting the operational costs of large-scale AI data centers.",
-                "The development highlights NVIDIA's commitment to sustainable, high-density compute solutions for future AI infrastructure.",
-                "Data center operators and enterprises should anticipate advancements in power delivery and thermal management for next-gen GPUs."
+                "OpenAI has enhanced GPT-5.6 Sol in ChatGPT and expanded access to GPT-5.6 Luna for free users, improving model performance.",
+                "These updates boost capabilities for general tasks and advanced reasoning, making frontier AI more accessible to a broader audience.",
+                "The move reflects OpenAI's strategy to democratize cutting-edge AI while continuously refining its core language models.",
+                "Developers and businesses can now integrate more powerful and accessible models for diverse applications, fostering innovation."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL - SOVEREIGN AI",
+            "nextUpTease": "CME: AI COMPUTE POWER BECOMES TRADABLE",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/why-scaling-ai-compute-performance-requires-a-new-power-architecture",
+                "Source: https://openai.com/blog/improving-gpt-5.6-sol-in-chatgpt-and-expanding-access-to-gpt-5.6-luna-for-free-users",
+                "Published: 2026-08-11T10:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CME: AI COMPUTE POWER BECOMES TRADABLE",
+            "points": [
+                "The CME Group has launched futures contracts for AI computing power, establishing it as a new tradable asset class in financial markets.",
+                "This innovation allows companies to hedge against price volatility in compute resources and provides new investment opportunities.",
+                "It marks a significant financial maturation for the AI industry, enabling better resource planning and risk management for large-scale deployments.",
+                "Investors and enterprises can now directly manage exposure to AI compute costs, potentially stabilizing long-term operational budgets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "IBM: $240M AI CLOUD CAPABILITIES BET",
+            "tags": [
+                "Source: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-tradable-asset-class-as-cme-starts-futures-contracts.html",
                 "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: SHIELDSTRAL - SOVEREIGN AI",
+            "heading": "IBM: $240M AI CLOUD CAPABILITIES BET",
             "points": [
-                "Mistral AI introduced Shieldstral, an initiative for in-region inference, open models, and new European sovereign AI infrastructure.",
-                "This strategy aims to provide robust data control and compliance, allowing businesses to deploy models on local infrastructure securely.",
-                "Shieldstral reinforces regional data governance and privacy, meeting growing enterprise demands for secure, localized AI solutions.",
-                "European enterprises will gain more control over their AI deployments, enhancing trust and regulatory adherence."
+                "IBM is investing $240 million to expand its cloud capabilities, specifically targeting enhanced AI integration and service offerings.",
+                "This significant capital injection aims to bolster IBM's competitive standing in the rapidly evolving enterprise AI and cloud computing markets.",
+                "The investment will drive the development of new AI-powered tools and infrastructure within IBM's hybrid cloud ecosystem.",
+                "Enterprises utilizing IBM Cloud can expect advanced AI functionalities, improved performance, and broader solution portfolios."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: SECURITY CONCERNS HALT ASTRA WORK",
+            "nextUpTease": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-shieldstral-sovereign-ai/",
-                "Published: 2026-08-11T08:30:00Z",
+                "Source: https://www.dowjones.com/newswires/inside-ibms-240-million-ai-bet-to-build-out-its-cloud-capabilities",
+                "Published: 2026-08-11T08:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: SECURITY CONCERNS HALT ASTRA WORK",
+            "heading": "OPENAI: NEW PREMIUM CHATGPT BUSINESS TIER",
             "points": [
-                "OpenAI has temporarily halted development on its Astra model due to escalating security concerns surrounding its deployment.",
-                "This pause reflects critical industry challenges in ensuring AI safety and mitigating potential vulnerabilities in frontier models.",
-                "The decision underscores a commitment to responsible AI development, prioritizing robust safety protocols over rapid deployment.",
-                "Organizations should factor in evolving AI safety standards and potential development delays when planning future integrations."
+                "OpenAI has introduced a new premium tier for ChatGPT Business, targeting high-volume enterprise users with advanced requirements.",
+                "This tier offers enhanced features, higher usage limits, and dedicated support, optimizing the value proposition for large organizations.",
+                "The strategic pricing model reflects a shift towards monetizing intensive AI workloads and agentic deployments within enterprises.",
+                "Businesses can now access a more robust and tailored ChatGPT experience, ensuring scalability and deeper integration into workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC/RIOT: $9B AI INFRASTRUCTURE DEAL",
+            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
             "tags": [
-                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
+                "Published: 2026-08-11T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC/RIOT: $9B AI INFRASTRUCTURE DEAL",
+            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
             "points": [
-                "Anthropic and Riot Platforms announced a $9 billion deal for AI compute infrastructure, shifting bitcoin miners towards AI.",
-                "Riot Platforms will provide Anthropic with dedicated datacenter capacity and power, supporting large-scale model training and inference.",
-                "This partnership signifies a major pivot for energy-intensive industries, repurposing infrastructure for high-demand AI workloads.",
-                "The deal highlights the intense capital and energy requirements for frontier AI, influencing future investment in compute capacity."
+                "Anthropic has made Claude Code's auto mode the default setting for paid users, streamlining the coding assistance experience.",
+                "This update enhances developer productivity by offering automated code generation and refinement capabilities out-of-the-box.",
+                "The change signifies a focus on improving the usability and efficiency of AI agents for software development tasks.",
+                "Developers will benefit from quicker access to AI-powered coding tools, accelerating project timelines and reducing manual effort."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/anthropic-9-billion-deal-riot-bitcoin-miners-ai",
+                "Source: https://www.infoworld.com/article/3711929/anthropic-makes-claude-code-s-auto-mode-default-for-paid-users.html",
                 "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
