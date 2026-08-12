@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INFRA",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "visual_caption": "Mistral AI launches Shieldstral, a new initiative for sovereign AI infra in Europe. This provides tailored AI systems with enhanced data privacy and control for regional enterprises."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+                "teaserTitle": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "visual_caption": "OpenAI has officially launched its new GPT-5.6 frontier intelligence model. It promises to reduce inference costs and latency for large-scale enterprise deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "visual_caption": "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard, new agentic AI tools for efficient model development. These platforms boost performance, reduce latencies, and lower compute costs for intelligent agents."
+                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "visual_caption": "NVIDIA partnered with financial institutions to fund AI compute infrastructure. This initiative mobilizes over $500B in third-party capital."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "ORACLE: OCI QUANTUM COMPUTING INTEGRATION",
-                "visual_caption": "Google Cloud released Gemini Omni Flash and Nano Banana 2 Lite, expanding multimodal AI models. These offer improved image/video generation and analysis, enhancing creative and visual AI tasks."
+                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "visual_caption": "Microsoft Azure introduced Foundry, a new platform for production-grade AI agents. It leverages advanced models like GPT-5.6 to optimize enterprise workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "ORACLE: OCI QUANTUM COMPUTING INTEGRATION",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMS",
-                "visual_caption": "Oracle plans to integrate quantum computing into OCI via Quantinuum, enabling hybrid AI solutions. This grants developers cloud access to advanced quantum systems like Helios, accelerating complex computations."
+                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "visual_caption": "The EU AI Office began a major hiring drive for 40 new tech and legal experts. This enhances the enforcement of the landmark AI Act across Europe."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI/HPC VMS",
-                "teaserTitle": "AI BUSINESS: US BAN ON CHINESE HUMANOID ROBOTS",
-                "visual_caption": "Microsoft Azure expands infra with new AMD-powered VMs (HDv2, HXv2, ND MI455Xv7) optimized for demanding AI/HPC workloads. These deliver significant performance boosts for deep learning training and inferencing."
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "META & NVIDIA: SOLIDIFY OPEN-WEIGHT AI PUSH",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "OpenAI is expanding its Daybreak initiative for enhanced cyber defense. This program aims to mitigate sophisticated AI-driven cyber threats globally."
             },
             {
                 "slide_index": 6,
-                "headline": "AI BUSINESS: US BAN ON CHINESE HUMANOID ROBOTS",
-                "teaserTitle": "GOOGLE: PIXEL 11 WITH INTEGRATED GEMINI AI",
-                "visual_caption": "The US government implemented a ban on Chinese humanoid robots due to national security. This policy is expected to significantly impact the global robotics industry by reshaping supply chains and fostering domestic innovation."
+                "headline": "META & NVIDIA: SOLIDIFY OPEN-WEIGHT AI PUSH",
+                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "visual_caption": "Meta and NVIDIA are solidifying their commitment to open-weight AI models. This strategic move positions them against closed-source development and promotes transparency."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE: PIXEL 11 WITH INTEGRATED GEMINI AI",
+                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Google's new Pixel 11 smartphone deeply integrates Gemini AI at its core, positioning it directly against Apple in the advanced AI phone market. This deep integration offers enhanced on-device AI capabilities for various tasks."
+                "visual_caption": "Anthropic made Claude Code's auto mode the default for paid users. This streamlines code generation & debugging, boosting developer productivity by 15-20%."
             },
             {
                 "slide_index": 8,
