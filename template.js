@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI COMPUTE INFRASTRUCTURE",
-        "titleBlue": "FUND",
-        "footerSummary": "NVIDIA launches $500B AI fund, OpenAI updates GPT-5.6, and Google/Microsoft enhance agent platforms. EU strengthens AI Act. Global tech shifts are accelerating rapidly."
+        "titleWhite": "NEMOTRON 3.5 LIGHTNING & NEMO",
+        "titleBlue": "SWITCHYARD",
+        "footerSummary": "NVIDIA's agentic AI models boost efficiency. OpenAI addresses security threats, pausing new model development. Azure expands AI/HPC capacity. Quantum computing gains enterprise traction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FUND",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
             "points": [
-                "NVIDIA has partnered with major financial firms including Apollo and BlackRock to establish AI compute infrastructure financing platforms, mobilizing over $500B in third-party capital. This initiative aims to accelerate global AI development and deployment.",
-                "The massive investment pool addresses the escalating demand for high-performance AI infrastructure, ensuring liquidity for scaling data centers and advanced chip procurement. This will directly impact enterprise AI compute availability and pricing.",
-                "This strategic financial architecture positions AI compute as an investable asset class, fostering dedicated capital inflow for specialized hardware and data center expansions. It de-risks large-scale AI projects for technology providers.",
-                "Stakeholders, particularly those in large enterprises and AI startups, can anticipate improved access to high-end GPUs and accelerated AI project timelines due to enhanced financing mechanisms."
+                "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard, advanced agentic AI technologies designed for enhanced efficiency and intelligence across various applications.",
+                "These new platforms deliver faster, smarter, and more efficient AI capabilities, directly improving the operational performance and scalability of agentic AI deployments.",
+                "Architecturally, Nemotron 3.5 Lightning and NeMo Switchyard optimize AI model execution and resource management, facilitating complex agent workflows in production environments.",
+                "Developers and enterprises can leverage these updates for building more sophisticated and responsive AI agents, accelerating development cycles and reducing operational costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 MODEL & ACCESS EXPANSION",
+            "nextUpTease": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-$500-billion-of-third-party-capital",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 MODEL & ACCESS EXPANSION",
+            "heading": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
             "points": [
-                "OpenAI has released GPT-5.6, a new frontier intelligence model designed for advanced scaling and complex applications, alongside expanding access to its GPT-5.6 Luna model for free users. This aims to democratize access to powerful AI.",
-                "The release signifies improvements in the price-performance frontier, offering enhanced capabilities for demanding enterprise workloads while making sophisticated AI more broadly available. This impacts operational efficiency and development costs.",
-                "Architecturally, GPT-5.6 builds on previous iterations with potentially optimized token handling and context windows, supporting more robust and ambitious agentic AI developments. It sets new benchmarks for model efficiency and intelligence.",
-                "Developers and businesses can leverage GPT-5.6 for more powerful AI agents and applications, while free users gain access to advanced models, fostering a wider ecosystem of innovation and experimentation."
+                "OpenAI is expanding its Daybreak initiative, a critical platform designed to tackle growing AI security threats and fortify the cyber defense landscape.",
+                "This expansion aims to provide more robust tools and frameworks for securing AI systems, mitigating risks from advanced cyber threats and protecting sensitive data.",
+                "Daybreak's architecture integrates advanced threat detection and response mechanisms, establishing a proactive and comprehensive approach to AI security across organizations.",
+                "Enterprises must prioritize adopting these enhanced security measures to protect their AI investments and ensure compliance, reducing potential vulnerabilities and breaches."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AZURE AI AGENTS WITH IQ AND FOUNDRY",
+            "nextUpTease": "OPENAI: ASTRA MODEL HALTED DUE TO SECURITY",
             "tags": [
-                "Source: https://openai.com/blog/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-12T17:00:00Z",
+                "Source: https://www.aibusiness.com/cybersecurity/openai-expands-daybreak-to-tackle-growing-ai-security-threat",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE AI AGENTS WITH IQ AND FOUNDRY",
+            "heading": "OPENAI: ASTRA MODEL HALTED DUE TO SECURITY",
             "points": [
-                "Microsoft Azure introduces new capabilities for AI agents, including Microsoft IQ to provide agents with shared business context and Microsoft Foundry to build, run, and optimize production AI agents at scale.",
-                "These tools aim to connect agents securely to enterprise systems, data, and workflows, enabling them to reason and act with greater accuracy and relevance. This directly improves agent reliability and reduces operational errors.",
-                "The architectural integration allows for hosted agents, toolboxes, and tracing features, providing a robust platform for developing and governing complex generative AI solutions. It simplifies enterprise-grade AI deployment.",
-                "Enterprises can expect faster development and deployment of intelligent agents, leading to improved automation across various business functions and more contextualized AI interactions with internal systems."
+                "OpenAI has temporarily halted development on its Astra model due to newly identified security concerns, signaling a cautious approach to frontier AI deployment.",
+                "This pause reflects a commitment to prioritizing safety and robustness, potentially delaying advanced model releases but ensuring the integrity and security of AI systems.",
+                "The incident highlights the complex challenges in securing cutting-edge AI, necessitating rigorous evaluation and new architectural safeguards before broad deployment.",
+                "Stakeholders should view this as a crucial reminder of AI's inherent risks, emphasizing the need for continuous security audits and responsible development practices in the industry."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH & AI DEFENSE",
+            "nextUpTease": "AZURE: AMD POWERED AI/HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq/",
-                "Published: 2026-08-12T16:30:00Z",
+                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH & AI DEFENSE",
+            "heading": "AZURE: AMD POWERED AI/HPC VIRTUAL MACHINES",
             "points": [
-                "Google Cloud announced the release of Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models, alongside new AI Threat Defense capabilities, enhancing both frontier intelligence and security.",
-                "These model updates provide faster, more efficient processing for diverse applications and strengthen cybersecurity postures with AI-powered defense mechanisms. This directly impacts data security and operational speed for cloud users.",
-                "The architecture supports scaling for the agentic era, offering a unified platform for agent development, orchestration, and governance within the Gemini Enterprise ecosystem. This promotes secure and efficient AI deployment.",
-                "Organizations utilizing Google Cloud can benefit from enhanced AI performance and robust threat detection, securing their data and accelerating the deployment of next-generation AI agents."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered virtual machines, HDv2, HXv2, and ND MI455Xv7, optimized for demanding AI and HPC workloads.",
+                "These new VMs significantly boost compute performance and efficiency for cloud-based AI training, inference, and high-performance computing tasks, reducing processing times.",
+                "The architectural expansion offers enhanced capabilities for scaling complex models and data-intensive applications, directly supporting enterprise-level AI innovation.",
+                "Organizations requiring massive compute resources for AI and HPC will benefit from improved performance-to-cost ratios, accelerating their research and development initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
+            "nextUpTease": "QUANTINUUM: ORACLE INTEGRATES QUANTUM SYSTEMS",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3.6-flash-3.5-flash-lite-and-3.5-flash-cyber",
-                "Published: 2026-08-12T16:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META AI: OPEN-WEIGHT MUSE GLIMMER RELEASE",
+            "heading": "QUANTINUUM: ORACLE INTEGRATES QUANTUM SYSTEMS",
             "points": [
-                "Meta AI has reversed its course to release Muse Glimmer, a new open-weight AI model, signifying a strategic pivot towards broader accessibility and collaboration in foundational AI research.",
-                "This move aims to accelerate open-source AI development by providing researchers and developers with access to a powerful model, potentially fostering innovation and reducing entry barriers. This increases competition and model diversity.",
-                "The open-weight strategy counters trends of closed-source AI development, contributing to a more transparent and community-driven ecosystem, promoting broader scrutiny and collaborative improvements in model architecture.",
-                "AI researchers, startups, and enterprises can leverage Muse Glimmer for custom applications and contribute to its development, fostering a more dynamic and inclusive AI landscape for the future."
+                "Quantinuum announced its first post-IPO earnings report and a strategic deal with Oracle, integrating its quantum computing systems into Oracle's enterprise cloud.",
+                "This partnership extends quantum capabilities to enterprise clients, offering specialized computing resources for complex problem-solving that traditional systems cannot handle.",
+                "The integration represents a significant step towards practical quantum-as-a-service, building a bridge between cutting-edge quantum hardware and conventional cloud infrastructure.",
+                "Businesses can now explore quantum-enhanced solutions for optimization, cryptography, and materials science through a familiar enterprise cloud environment, accelerating adoption."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE STAFFING FOR ENFORCEMENT",
+            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
             "tags": [
-                "Source: https://ai.meta.com/blog/meta-reverses-course-with-open-weight-muse-glimmer/",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://www.dowjones.com/newswires/quantinuum-rises-amid-first-post-ipo-earnings-report-oracle-system-sale",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: OFFICE STAFFING FOR ENFORCEMENT",
+            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
             "points": [
-                "The EU AI Office has announced a major hiring round for 40 new posts (tech, legal, ops) dedicated to enforcing the EU AI Act, with interest expressed by September 8. This indicates a ramp-up in regulatory oversight.",
-                "This significant staffing increase signals the EU's commitment to strict AI Act compliance, potentially impacting businesses operating in or serving the European market by demanding adherence to new AI governance standards.",
-                "The establishment of a dedicated enforcement team strengthens the regulatory framework, setting a global precedent for comprehensive AI oversight and accountability across various high-risk applications and general-purpose AI systems.",
-                "Enterprises must prepare for heightened scrutiny regarding their AI systems' transparency, safety, and ethical compliance to avoid penalties and ensure market access within the EU."
+                "Anthropic has made Claude Code\u2019s auto mode the default setting for paid users, enhancing the user experience for AI-powered code generation and refinement.",
+                "This update significantly improves developer productivity by automating routine coding tasks and optimizing code suggestions, leading to faster development cycles.",
+                "The change indicates a mature agentic AI capability, where the model intelligently anticipates and completes coding requirements, integrating deeper into development workflows.",
+                "Software development teams and engineers will find Claude Code more intuitive and efficient, accelerating project delivery and enabling focus on more complex architectural challenges."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFO WORLD: CODERABBIT AGENTIC AI CODE MGMT",
+            "nextUpTease": "GOOGLE: PIXEL 11 CENTERS GEMINI AI",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office-40-new-posts-tech-legal-ops-and-more-dedicated-to-enforcing-the-ai-act/",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://www.infoworld.com/article/3710776/anthropic-makes-claude-code-s-auto-mode-default-for-paid-users.html",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFO WORLD: CODERABBIT AGENTIC AI CODE MGMT",
+            "heading": "GOOGLE: PIXEL 11 CENTERS GEMINI AI",
             "points": [
-                "CodeRabbit has launched Agentic Change Management, a new solution targeting the overload generated by AI-powered code, aiming to streamline and manage the influx of AI-generated code effectively.",
-                "This tool addresses a critical operational challenge for development teams, reducing the burden of reviewing and integrating vast amounts of AI-produced code. It enhances developer productivity and code quality control.",
-                "The solution leverages agentic AI principles to manage, verify, and integrate AI-generated code changes, thereby improving software development environments and CI/CD pipelines. This optimizes the entire development lifecycle.",
-                "Software development teams and IT leaders can expect improved efficiency in handling AI-assisted coding, mitigating risks associated with AI code proliferation and accelerating time-to-market for new features."
+                "Google's new Pixel 11 smartphone deeply integrates Gemini AI, positioning it as the central intelligence for on-device applications and user interactions.",
+                "This move intensifies the AI phone battle with Apple, emphasizing advanced on-device AI capabilities for personalized experiences and enhanced privacy, directly impacting user engagement.",
+                "Architecturally, centering Gemini enables seamless AI functions locally, reducing latency and reliance on cloud processing for common tasks, improving responsiveness and data security.",
+                "Consumers can expect more intelligent, context-aware mobile experiences, while the industry shifts towards powerful, integrated on-device AI for future smartphone innovations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710777/coderabbit-targets-ai-generated-code-overload-with-agentic-change-management.html",
-                "Published: 2026-08-12T14:30:00Z",
+                "Source: https://www.cnbc.com/2026/08/12/googles-new-pixel-11-puts-gemini-at-center-of-ai-phone-battle-with-apple.html",
+                "Published: 2026-08-12T15:17:00Z",
                 "Status: Audited & True"
             ]
         }
