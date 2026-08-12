@@ -124,22 +124,43 @@ def update_tracker_files():
 # Purpose: Combines prompt with live data, enforces structure, and executes atomic file writes in logical sequence.
 # ==============================================================================
 def enforce_slide_structure(slides_object):
-    """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
-    if isinstance(slides_object, dict) and "slides" in slides_object:
-        for slide in slides_object["slides"]:
-            if "points" in slide and isinstance(slide["points"], list):
-                cleaned_points = []
-                for pt in slide["points"]:
-                    clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
-                    if clean_pt:
-                        cleaned_points.append(clean_pt)
-                
-                if len(cleaned_points) > 4:
-                    slide["points"] = cleaned_points[:4]
-                elif len(cleaned_points) < 4:
-                    while len(cleaned_points) < 4:
-                        cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                    slide["points"] = cleaned_points
+    """Enforces strict bullet limits and a tight 75-character max length across all possible JSON key variations to guarantee fit within 3 visual lines."""
+    if isinstance(slides_object, dict):
+        slides_list = slides_object.get("slides") or slides_object.get("slides_data", {}).get("slides")
+        if not slides_list and isinstance(slides_object.get("slides_data"), list):
+            slides_list = slides_object["slides_data"]
+            
+        if isinstance(slides_list, list):
+            for slide in slides_list:
+                if isinstance(slide, dict):
+                    point_key = None
+                    for key in ["points", "bullet_points", "bullets", "items", "text_blocks"]:
+                        if key in slide and isinstance(slide[key], list):
+                            point_key = key
+                            break
+                    
+                    if point_key:
+                        cleaned_points = []
+                        for pt in slide[point_key]:
+                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                            if clean_pt:
+                                # STRICT 75-CHAR LIMIT: Mathematically guarantees zero overflow past 3 lines on Momentum Point templates
+                                if len(clean_pt) > 75:
+                                    truncated = clean_pt[:72]
+                                    last_space = truncated.rfind(' ')
+                                    if last_space > 40:
+                                        clean_pt = truncated[:last_space] + "..."
+                                    else:
+                                        clean_pt = truncated + "..."
+                                cleaned_points.append(clean_pt)
+                        
+                        if len(cleaned_points) > 4:
+                            slide[point_key] = cleaned_points[:4]
+                        elif len(cleaned_points) < 4:
+                            while len(cleaned_points) < 4:
+                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                            slide[point_key] = cleaned_points
+                            
     return slides_object
 
 def main():
@@ -186,6 +207,11 @@ def main():
             if not video_module_node:
                 video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
 
+            # --- FILMORA NODE EXTRACTION & FALLBACKS (UPDATED TO TARGET filmora_captions) ---
+            filmora_node = parsed_payload.get("filmora_captions") or parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
+            if not filmora_node:
+                filmora_node = parsed_payload.get("video_shorts_module", {"language": "EN", "captions": parsed_payload})
+
             post_content = parsed_payload.get("social_post", "")
             if not post_content and isinstance(parsed_payload, dict):
                 post_content = "🌐 GLOBAL AI INTELLIGENCE\nStay ahead of the global AI pulse."
@@ -231,6 +257,23 @@ def main():
                 f.write(video_js_content)
             log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
+            # 5. Filmora Broadcast Captions & Notation (Social_Media/filmora.js)
+            filmora_path = os.path.join(social_media_dir, "filmora.js")
+            
+            if isinstance(filmora_node, dict) and "language" not in filmora_node:
+                filmora_payload_to_write = {
+                    "language": "EN",
+                    "filmora_data": filmora_node
+                }
+            else:
+                filmora_payload_to_write = filmora_node
+
+            filmora_js_content = f"module.exports = {json.dumps(filmora_payload_to_write, indent=4)};"
+
+            with open(filmora_path, "w", encoding="utf-8") as f:
+                f.write(filmora_js_content)
+            log("SUCCESS", f"Generated and exported Filmora template: {filmora_path}")
+
             log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
             return
             
