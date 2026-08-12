@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI COMPUTE FINANCE MOBILIZES $500B",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: MOBILIZING $500B AI COMPUTE FINANCE",
-                "teaserTitle": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+                "teaserTitle": "AMD ACQUIRES TAALAS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA partnered with major financial firms to mobilize over $500B for AI compute infrastructure. This secures critical capital for scaling global AI data centers and innovation."
+                "narration_line": "OpenAI unveils GPT-5.6, a new frontier intelligence model for ambitious enterprise applications. This release offers enhanced reasoning and multimodal understanding, crucial for scaling AI solutions."
             },
             {
                 "slide_index": 2,
-                "headline": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
-                "teaserTitle": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
+                "headline": "AMD: ACQUIRES TAALAS FOR AI INFERENCE TECH",
+                "teaserTitle": "GOOGLE CLOUD AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Bank of America committed $250B to bolster AI and energy infrastructure in the US. This investment accelerates integrating AI into critical operations and green technology."
+                "narration_line": "AMD has acquired Taalas, boosting its AI inference technology with breakthrough efficiency. This strengthens AMD's hardware roadmap, promising optimized compute solutions for data centers."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "AZURE AMD-POWERED VMS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure launched 'Foundry' for building and governing production AI agents at scale. This simplifies deploying generative AI solutions with GPT-5.6, ensuring robust control and compliance."
+                "narration_line": "Google Cloud launched AI Threat Defense to outpace cyber adversaries with advanced AI. This system proactively identifies and mitigates sophisticated threats, enhancing enterprise security and resilience."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
-                "teaserTitle": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
+                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "MISTRAL AI SHIELDSTRAL LAUNCH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud unveiled Gemini Omni Flash and Nano Banana 2 Lite for multi-modal AI. These models offer optimized performance for low-latency, high-volume inference tasks in real-time applications."
+                "narration_line": "Azure expands its compute with new AMD-powered AI and HPC virtual machines for demanding workloads. These VMs accelerate large-scale AI training and complex simulations, benefiting businesses and researchers."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
-                "teaserTitle": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "ORACLE QUANTUM ON OCI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI expanded 'Daybreak' for global AI cybersecurity defense, countering a narrowing cyber defense window. This provides enhanced tools to neutralize sophisticated AI-powered threats."
+                "narration_line": "Mistral AI introduced Shieldstral, focusing on in-region inference and sovereign AI infrastructure in Europe. This ensures AI solutions meet strict regional regulatory compliance and data governance needs."
             },
             {
                 "slide_index": 6,
-                "headline": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
-                "teaserTitle": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
+                "headline": "ORACLE/QUANTINUUM: QUANTUM COMPUTING ON OCI",
+                "teaserTitle": "EU AI ACT HIRING DRIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "China-linked hackers deployed autonomous AI in an unprecedented cyber attack against Taiwan. This signals a new phase of cyber warfare, demanding urgent reassessment of defenses."
+                "narration_line": "Oracle partners with Quantinuum to bring quantum computing to OCI, offering hybrid AI. This integration enables breakthroughs in scientific research and advanced AI model development for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "EU AI ACT: MAJOR HIRING FOR ENFORCEMENT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A fundamental flaw in LLMs leaves them vulnerable to attack, allowing malicious content generation. Developers must implement advanced guardrails to mitigate these inherent security risks."
+                "narration_line": "The EU AI Office is hiring 40 experts in tech, legal, and operations to enforce the AI Act. This signals heightened scrutiny and requires businesses to prepare for upcoming compliance engagements."
             },
             {
                 "slide_index": 8,

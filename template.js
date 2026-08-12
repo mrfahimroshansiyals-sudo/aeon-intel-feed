@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MOBILIZING $500B AI COMPUTE",
-        "titleBlue": "FINANCE",
-        "footerSummary": "NVIDIA's $500B initiative redefines AI infrastructure financing, securing unprecedented capital for global AI compute scale and deployment."
+        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI unveils GPT-5.6, setting new benchmarks for enterprise AI. AMD acquires Taalas, boosting inference hardware. Google Cloud enhances AI defense."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: MOBILIZING $500B AI COMPUTE FINANCE",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
             "points": [
-                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, and Blackstone to fund AI compute infrastructure.",
-                "This alliance aims to establish platforms mobilizing over $500B in third-party capital for next-generation AI data centers.",
-                "The initiative addresses the massive capital-intensive demands of building and scaling global AI factories and infrastructure.",
-                "This strategic funding mechanism will accelerate global AI adoption and enterprise-level infrastructure scaling for governments and corporations."
+                "OpenAI has launched GPT-5.6, a new frontier intelligence model designed for scalability and ambitious enterprise applications.",
+                "This release pushes performance boundaries, enabling advanced AI capabilities crucial for complex business solutions and agentic workflows.",
+                "GPT-5.6 represents a significant architectural leap in large language models, offering enhanced reasoning and multimodal understanding.",
+                "Enterprises can leverage this model to drive new levels of automation, personalize customer experiences, and accelerate innovation across sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
+            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE TECH",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-                "Published: 2026-08-10T20:30:00Z",
+                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-12T14:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
+            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE TECH",
             "points": [
-                "Bank of America pledges to deploy $250B to bolster AI and energy infrastructure across various US projects and initiatives.",
-                "This massive investment signifies a strong commitment to integrating AI into critical operational frameworks and sustainable energy solutions.",
-                "The capital will fund innovations in data centers, smart grids, and AI-driven automation systems to enhance efficiency and resilience.",
-                "The move sets a precedent for financial institutions in direct investment toward accelerating national AI and green tech adoption."
+                "AMD announced a definitive agreement to acquire Taalas, a firm recognized for its breakthrough inference performance and efficiency technology.",
+                "This acquisition directly enhances AMD's AI roadmap, promising significant advancements in compute solutions for the rapidly growing AI inference market.",
+                "Integrating Taalas' expertise will bolster AMD's ability to deliver optimized AI hardware, crucial for data centers and edge deployments.",
+                "The move is set to benefit enterprises seeking higher efficiency and performance in their AI inference workloads, reducing operational costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "tags": [
-                "Source: https://www.dowjones.com/news/bank-of-america-to-deploy-250-billion-to-bolster-ai-and-energy-infrastructure",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market.html",
+                "Published: 2026-08-06T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
+            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "points": [
-                "Microsoft Azure unveils 'Microsoft Foundry,' a platform designed for building, running, and governing production AI agents at scale.",
-                "Foundry provides hosted agents, toolboxes, and tracing capabilities, allowing enterprises to deploy generative AI solutions with GPT-5.6.",
-                "This service simplifies the operational complexities of integrating advanced AI agents into critical business workflows and systems.",
-                "Enterprises gain robust control over agent performance, security, and compliance, accelerating AI-driven automation and intelligent orchestration."
+                "Google Cloud has unveiled AI Threat Defense, a new security initiative designed to help organizations outpace evolving cyber adversaries.",
+                "This platform leverages advanced AI to proactively identify and mitigate sophisticated threats, safeguarding cloud environments and data.",
+                "AI Threat Defense integrates with existing Google Cloud security frameworks, providing a unified and intelligent defense against AI-driven attacks.",
+                "For enterprises, this means enhanced resilience, reduced risk of breaches, and continuous protection against state-of-the-art cyber espionage."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+            "nextUpTease": "AZURE: NEW AMD-POWERED AI & HPC VMS",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry",
-                "Published: 2026-08-12T09:45:00Z",
+                "Source: https://cloud.google.com/blog/product-announcements/introducing-google-ai-threat-defense-to-help-you-outpace-the-adversary",
+                "Published: 2026-08-12T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+            "heading": "AZURE: NEW AMD-POWERED AI & HPC VMS",
             "points": [
-                "Google Cloud announces the availability of Gemini Omni Flash and Nano Banana 2 Lite, enhancing its multi-modal AI offerings.",
-                "Omni Flash enables creation from any input, including video, while Nano Banana 2 Lite focuses on faster, efficient image processing.",
-                "These models offer optimized performance for low-latency and high-volume inference tasks, crucial for real-time applications and agentic workloads.",
-                "Developers can leverage a broader, more agile suite of Gemini models, accelerating specialized AI solution development and deployment."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These new VMs are engineered to support demanding AI, data, inference, and technical computing workloads, offering superior performance.",
+                "The expansion enhances Azure's compute capabilities, providing customers with more powerful and efficient options for large-scale AI model training.",
+                "This strategic upgrade empowers businesses and researchers to accelerate complex simulations and generative AI applications in the cloud."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
+            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://cloud.google.com/blog/product-announcements/now-available-gemini-omni-flash-and-nano-banana-2-lite",
-                "Published: 2026-08-12T09:30:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-12T12:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
+            "heading": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "OpenAI is expanding 'Daybreak,' its initiative focused on developing tools and strategies for global AI cybersecurity defense.",
-                "This expansion aims to counter the rapidly narrowing cyber defense window posed by advanced AI-driven threats and sophisticated attacks.",
-                "Daybreak will provide enterprises with enhanced capabilities to detect, analyze, and neutralize sophisticated AI-powered cyberattacks.",
-                "The move underscores the industry's critical need for robust, proactive AI security measures as AI threats evolve and intensify."
+                "Mistral AI has introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure for sovereign AI.",
+                "This launch aims to provide robust data governance and compliance, ensuring AI solutions meet strict regional regulatory requirements.",
+                "Shieldstral offers dedicated AI cloud infrastructure within Europe, enabling organizations to deploy and run models with enhanced security and control.",
+                "European enterprises can now build tailored AI systems with confidence, leveraging local compute and open-source flexibility while adhering to data residency laws."
             ],
             "imageUrl": "",
-            "nextUpTease": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
+            "nextUpTease": "ORACLE/QUANTINUUM: QUANTUM COMPUTING ON OCI",
             "tags": [
-                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-11T18:00:00Z",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
+            "heading": "ORACLE/QUANTINUUM: QUANTUM COMPUTING ON OCI",
             "points": [
-                "China-linked hackers executed an unprecedented 'autonomous' AI cyber attack against Taiwan, as reported by Financial Times.",
-                "AI agents orchestrated simultaneous reconnaissance and system breaches, demonstrating a new phase of advanced cyber warfare.",
-                "This event highlights the escalating threat of sophisticated AI systems being deployed for state-sponsored cyber espionage and disruption.",
-                "Governments and critical infrastructure sectors must urgently reassess defenses against agentic and self-evolving AI threats to prevent future attacks."
+                "Oracle is partnering with Quantinuum to integrate quantum computing capabilities into Oracle Cloud Infrastructure (OCI), offering a hybrid AI solution.",
+                "This planned OCI service will provide cloud-based access to Quantinuum\u2019s Helios system, bridging quantum and classical high-performance computing.",
+                "The integration aims to accelerate complex AI workloads, enabling breakthroughs in scientific research, materials science, and financial modeling.",
+                "Enterprises will gain unprecedented access to quantum resources, solving previously intractable problems and enhancing AI model development."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
+            "nextUpTease": "EU AI ACT: MAJOR HIRING FOR ENFORCEMENT",
             "tags": [
-                "Source: https://www.ft.com/technology/autonomous-ai-cyber-attack-taiwan-unprecedented-scale",
-                "Published: 2026-08-12T11:30:00Z",
+                "Source: https://www.cio.com/article/2135064/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
+            "heading": "EU AI ACT: MAJOR HIRING FOR ENFORCEMENT",
             "points": [
-                "MIT Technology Review highlights a fundamental flaw in large language models (LLMs), leaving them vulnerable to specific attacks.",
-                "This vulnerability allows attackers to easily trick LLMs into generating malicious content or performing unintended actions, like sabotaging systems.",
-                "The flaw, termed \"reward hacking\" or prompt injection, represents a core architectural weakness in current LLM designs and deployments.",
-                "Developers must implement advanced guardrails and robust adversarial training to mitigate these inherent security risks in deployed AI systems."
+                "The EU AI Office has announced a significant hiring initiative, seeking 40 new experts in tech, legal, and operations to enforce the AI Act.",
+                "This recruitment drive underscores the EU's commitment to robust oversight and practical implementation of AI regulatory frameworks.",
+                "The new positions are crucial for establishing a functional body capable of guiding compliance, assessing high-risk AI, and addressing emerging challenges.",
+                "Businesses operating within or with the EU must prepare for heightened scrutiny and direct engagement with these enforcement teams as mandates roll out."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/10/llm-vulnerability-fundamental-flaw",
-                "Published: 2026-08-10T17:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office-40-new-posts/",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
