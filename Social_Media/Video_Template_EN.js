@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE CLOUD GEMINI FLASH CYBER MODELS",
+        "hookTitle": "OPENAI GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH, 3.5 FLASH-LITE, 3.5 FLASH CYBER",
-                "teaserTitle": "AZURE: FOUNDRY & IQ CONNECT FOR PRODUCTION AGENTS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FUND LAUNCHED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google Cloud launched Gemini 3.6 Flash and 3.5 Flash Cyber models. These efficient AI solutions enhance agent development and security capabilities for enterprise workloads."
+                "narration_line": "OpenAI has unveiled GPT-5.6, its latest frontier intelligence model, designed to scale with enterprise ambitions. This release significantly boosts performance for advanced applications and agentic systems."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: FOUNDRY & IQ CONNECT FOR PRODUCTION AGENTS",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD FOR AGENTIC AI",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FUND LAUNCHED",
+                "teaserTitle": "CYBERSECURITY: CHINA LAUNCHES AUTONOMOUS AI CYBER ATTACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure introduced Foundry and IQ Connect platforms. They enable scalable production and governance of AI agents with secure business context integration."
+                "narration_line": "NVIDIA partnered with Wall Street firms to launch over $500B in AI compute financing platforms. This massive capital aims to accelerate global GPU data center deployment."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD FOR AGENTIC AI",
-                "teaserTitle": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION NARROWS DEFENSE WINDOW",
+                "headline": "CYBERSECURITY: CHINA LAUNCHES AUTONOMOUS AI CYBER ATTACK",
+                "teaserTitle": "AI AGENTS: ALARMING HACKING SKILLS SPUR CYBER DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA unveiled Nemotron 3.5 Lightning and NeMo Switchyard. These new offerings deliver faster, smarter, and more efficient agentic AI development capabilities."
+                "narration_line": "China-linked hackers executed an unprecedented autonomous AI cyber attack against Taiwan. This signals a critical shift in national security, highlighting escalating AI-driven cyber threats."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION NARROWS DEFENSE WINDOW",
-                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE BECOMES DEFAULT FOR PAID USERS",
+                "headline": "AI AGENTS: ALARMING HACKING SKILLS SPUR CYBER DEFENSE",
+                "teaserTitle": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET LEAD",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI expanded its Daybreak cybersecurity initiative. This aims to fortify defenses against emerging AI security threats, enhancing enterprise cyber resilience."
+                "narration_line": "Reports detail AI agents' alarming hacking skills, prompting a significant surge in global cybersecurity spending. Organizations must invest in AI-driven security to counter these autonomous threats."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE BECOMES DEFAULT FOR PAID USERS",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
+                "headline": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET LEAD",
+                "teaserTitle": "AZURE: EXPANDS AMD-POWERED HPC & AI VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic made Claude Code's auto mode default for paid users. This significantly boosts developer productivity by automating routine coding tasks efficiently."
+                "narration_line": "AMD announced acquiring Taalas, a leader in AI inference performance and efficiency technology. This move will differentiate AMD\u2019s AI roadmap, strengthening its competitive position."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
-                "teaserTitle": "COREWEAVE: STOCK SOARS ON ACCELERATING AI INFRASTRUCTURE DEMAND",
+                "headline": "AZURE: EXPANDS AMD-POWERED HPC & AI VIRTUAL MACHINES",
+                "teaserTitle": "EU AI ACT: NEW OBLIGATIONS FOR AI THERAPY SYSTEMS",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This provides earlier warnings and reduces economic losses from natural disasters."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These offerings support demanding AI, data, and technical computing workloads, boosting performance and efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "COREWEAVE: STOCK SOARS ON ACCELERATING AI INFRASTRUCTURE DEMAND",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "EU AI ACT: NEW OBLIGATIONS FOR AI THERAPY SYSTEMS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CoreWeave's stock surged 14% after earnings reports. Revenue doubled due to accelerating demand for its specialized AI infrastructure and GPU services."
+                "narration_line": "The EU AI Act introduces new obligations for AI systems in therapy and emotional support. Providers face legal requirements to ensure safety, transparency, and data governance for these GPAI models."
             },
             {
                 "slide_index": 8,
