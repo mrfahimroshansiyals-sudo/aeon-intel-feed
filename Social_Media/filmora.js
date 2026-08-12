@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CYBERSECURITY: OPENAI EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
-                "visual_caption": "OpenAI expanded its Daybreak initiative, a cyber defense platform, to address quickly narrowing windows for AI-driven security threats. This expansion aims to bolster global cyber resilience and accelerate automated response mechanisms."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "NVIDIA NEMOTRON 3.5 & NEMO SWITCHYARD LAUNCH",
+                "visual_caption": "NVIDIA partnered with top financial firms to mobilize over $500B for AI compute infrastructure. This massive financing accelerates global AI infrastructure deployment, addressing surging demand."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
-                "visual_caption": "OpenAI is enhancing its GPT-5.6 Sol model and expanding access to GPT-5.6 Luna for its free-tier users. This democratizes advanced AI, aiming to broaden adoption and gather wider user feedback for their latest models."
+                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD LAUNCH",
+                "teaserTitle": "TSMC A16 NANOSHEET WITH SUPER POWER RAIL",
+                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning & NeMo Switchyard to boost agentic AI efficiency. These tools make AI agents faster & smarter, enhancing automation significantly."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "QUANTUM COMPUTING: QUANTINUUM STOCK HITS RECORD",
-                "visual_caption": "Google Cloud introduced its new AI Threat Defense platform, leveraging advanced AI to proactively identify and neutralize cyber adversaries. It aims to reduce threat detection to mitigation time by over 35%, strengthening cloud security."
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE AIQ AGENT CONTEXT",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "TSMC introduced its A16 Nanosheet process with Super Power Rail for HPC & AI. This breakthrough enhances performance & energy efficiency for next-gen AI accelerators."
             },
             {
                 "slide_index": 4,
-                "headline": "QUANTUM COMPUTING: QUANTINUUM STOCK HITS RECORD",
-                "teaserTitle": "NVIDIA: DATA CENTER LOAN VALUATIONS QUESTIONED",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Quantum computing firm Quantinuum's stock hit a record high after its first post-IPO earnings report. The company reported strong 15% revenue growth, outperforming expectations and validating quantum computing's market potential."
+                "headline": "MICROSOFT AZURE: AIQ AGENT CONTEXT",
+                "teaserTitle": "GOOGLE DEEPMIND WEATHERNEXT AI BREAKTHROUGH",
+                "visual_caption": "Microsoft Azure launched Microsoft IQ, providing AI agents with secure, shared business context. This service enhances agent reasoning & action, improving operational efficiency & AI outputs."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: DATA CENTER LOAN VALUATIONS QUESTIONED",
-                "teaserTitle": "INTEL: CEO CONFIDENT IN FUTURE STRATEGIES",
-                "visual_caption": "Investors are questioning data center loan valuations linked to NVIDIA's $500B AI compute infrastructure financing. This reflects market scrutiny and could impact future capital availability and financing costs for data center projects."
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "teaserTitle": "AMD & OXFORD BOLD LAB FRONTIER AI",
+                "visual_caption": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This provides earlier, more precise warnings for extreme weather, significantly mitigating natural disaster impacts."
             },
             {
                 "slide_index": 6,
-                "headline": "INTEL: CEO CONFIDENT IN FUTURE STRATEGIES",
-                "teaserTitle": "LLM RESEARCH: STARTUPS CHASE NEXT-GEN MODELS",
-                "visual_caption": "Intel's CEO expressed strong confidence in the company's strategic direction and upcoming product roadmap. Advancements in next-gen process technologies are highlighted, signaling robust performance and competitive growth for Intel."
+                "headline": "AMD: OXFORD BOLD LAB FRONTIER AI",
+                "teaserTitle": "EU AI ACT OFFICE HIRING DRIVE",
+                "visual_caption": "AMD partnered with Oxford's BOLD Lab to advance UK Frontier AI research. This collaboration leverages AMD's compute tech & Oxford's expertise, accelerating fundamental AI breakthroughs."
             },
             {
                 "slide_index": 7,
-                "headline": "LLM RESEARCH: STARTUPS CHASE NEXT-GEN MODELS",
+                "headline": "EU AI ACT: OFFICE HIRING DRIVE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "A new wave of startups is pursuing breakthroughs in Large Language Models, focusing on novel architectures beyond current state-of-the-art designs. These ventures target error rate reductions of 10-15% for more reliable and accessible AI."
+                "visual_caption": "The EU AI Office announced a hiring drive for 40 new experts to enforce the AI Act. These positions strengthen regulatory capacity, ensuring robust oversight of AI systems across Europe."
             },
             {
                 "slide_index": 8,
