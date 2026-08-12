@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
-                "teaserTitle": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "visual_caption": "OpenAI has officially launched its new GPT-5.6 frontier intelligence model. It promises to reduce inference costs and latency for large-scale enterprise deployments."
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & AI THREAT DEFENSE",
+                "teaserTitle": "MICROSOFT AZURE: UNIFIES AGENTS WITH MICROSOFT IQ & AMD-POWERED VMS",
+                "visual_caption": "Google Cloud launches Gemini 3.6 Flash models and an AI Threat Defense suite. These enhance generative AI and cybersecurity, optimizing compute and securing data at scale."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
-                "visual_caption": "NVIDIA partnered with financial institutions to fund AI compute infrastructure. This initiative mobilizes over $500B in third-party capital."
+                "headline": "MICROSOFT AZURE: UNIFIES AGENTS WITH MICROSOFT IQ & AMD-POWERED VMS",
+                "teaserTitle": "NVIDIA: RELEASES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "visual_caption": "Microsoft Azure introduces Microsoft IQ for agent context and new AMD-powered AI/HPC VMs. This enables more intelligent agents and provides high-performance compute for demanding workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
-                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "visual_caption": "Microsoft Azure introduced Foundry, a new platform for production-grade AI agents. It leverages advanced models like GPT-5.6 to optimize enterprise workflows."
+                "headline": "NVIDIA: RELEASES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "teaserTitle": "AMD: PARTNERS OXFORD FOR UK FRONTIER AI RESEARCH",
+                "visual_caption": "NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard for faster, more efficient agentic AI. These tools boost inference speed and intelligence for complex workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "visual_caption": "The EU AI Office began a major hiring drive for 40 new tech and legal experts. This enhances the enforcement of the landmark AI Act across Europe."
+                "headline": "AMD: PARTNERS OXFORD FOR UK FRONTIER AI RESEARCH",
+                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL & ROBOSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "AMD partners with the University of Oxford's British Open-ended Learning and Discovery Lab to advance UK Frontier AI Research. This collaboration accelerates scientific discovery and fosters breakthroughs in AI systems."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "META & NVIDIA: SOLIDIFY OPEN-WEIGHT AI PUSH",
+                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL & ROBOSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "AI BUSINESS: NVIDIA UNVEILS NEW OPEN AI MODEL FOR SPECIFIC USE CASES",
                 "visual_asset": "backgroundyt5.png",
-                "visual_caption": "OpenAI is expanding its Daybreak initiative for enhanced cyber defense. This program aims to mitigate sophisticated AI-driven cyber threats globally."
+                "visual_caption": "Mistral AI introduces Shieldstral for in-region inference and Robostral Navigate for advanced robotics. These provide sovereign AI solutions and improve agent navigation capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "META & NVIDIA: SOLIDIFY OPEN-WEIGHT AI PUSH",
-                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
-                "visual_caption": "Meta and NVIDIA are solidifying their commitment to open-weight AI models. This strategic move positions them against closed-source development and promotes transparency."
+                "headline": "AI BUSINESS: NVIDIA UNVEILS NEW OPEN AI MODEL FOR SPECIFIC USE CASES",
+                "teaserTitle": "CNBC: GOOGLE PIXEL 11 CENTERS GEMINI FOR AI PHONE BATTLE",
+                "visual_caption": "NVIDIA unveils a new open AI model optimized for specific use cases on local devices. This compact model reduces latency and cloud reliance, enhancing edge AI deployments and data privacy."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "headline": "CNBC: GOOGLE PIXEL 11 CENTERS GEMINI FOR AI PHONE BATTLE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Anthropic made Claude Code's auto mode the default for paid users. This streamlines code generation & debugging, boosting developer productivity by 15-20%."
+                "visual_caption": "Google's new Pixel 11 integrates Gemini AI at its core, intensifying the AI phone battle with Apple. This move boosts on-device intelligence for advanced features, transforming personal computing."
             },
             {
                 "slide_index": 8,
