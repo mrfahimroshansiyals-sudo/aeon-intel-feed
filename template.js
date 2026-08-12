@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI's GPT-5.6 release elevates frontier intelligence, demanding strategic enterprise integration and robust security protocols for autonomous agent deployment."
+        "titleWhite": "GEMINI 3.6 FLASH, 3.5 FLASH-LITE, 3.5 FLASH",
+        "titleBlue": "CYBER",
+        "footerSummary": "Google Cloud expands its Gemini Flash series with new efficient models, enhancing AI capabilities and security for developers and enterprise workloads."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH, 3.5 FLASH-LITE, 3.5 FLASH CYBER",
             "points": [
-                "OpenAI launched GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for advanced AI applications.",
-                "This release provides significant advancements in reasoning capabilities and multi-modal understanding, pushing performance benchmarks for enterprise use cases.",
-                "The new architecture supports dynamic scaling for high-demand agentic workloads, enabling more complex and autonomous system deployments.",
-                "Organizations must evaluate integration pathways to leverage GPT-5.6's capabilities, prioritizing secure and efficient large-scale AI system adoption."
+                "Google Cloud unveiled Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its range of efficient and specialized AI models for diverse applications.",
+                "These new models offer enhanced performance for agent development, orchestration, and critical security workloads, as highlighted in product announcements.",
+                "The releases target a scaling for the agentic era, providing robust tools for developers and enterprises building AI-powered systems with improved efficiency.",
+                "Stakeholders must evaluate these new Gemini models for integrating advanced AI capabilities, particularly for security and high-efficiency agentic tasks."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCE",
+            "nextUpTease": "AZURE: FOUNDRY & IQ CONNECT FOR PRODUCTION AGENTS",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+                "Published: 2026-08-12T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCE",
+            "heading": "AZURE: FOUNDRY & IQ CONNECT FOR PRODUCTION AGENTS",
             "points": [
-                "NVIDIA, in partnership with major Wall Street firms, is mobilizing over $500B in third-party capital for AI compute infrastructure platforms.",
-                "This financing initiative aims to accelerate the deployment of next-generation AI data centers and meet surging global demand for GPU clusters.",
-                "The strategic alliance de-risks capital expenditure for hyperscale AI buildouts, ensuring sustained access to critical compute resources.",
-                "The move implies accelerated AI development timelines and increased competition among cloud providers for advanced GPU allocation."
+                "Microsoft Azure launched Foundry and IQ Connect to build, run, and govern production AI agents at enterprise scale with GPT-5.6 integration.",
+                "Foundry optimizes AI agent deployment, while IQ Connect provides secure, shared business context by linking agents to systems and data workflows.",
+                "This unified approach enables enterprises to develop and orchestrate intelligent agents effectively, fostering comprehensive reasoning and action across operations.",
+                "Organizations must adopt these platforms to ensure secure, context-aware AI agent deployment, transforming business processes and maximizing operational efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD FOR AGENTIC AI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-wall-street-giants-500b-ai-compute-financing",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/microsoft-foundry-and-iq-connect-for-production-ai-agents",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: NEW AMD AI & HPC VIRTUAL MACHINES",
+            "heading": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD FOR AGENTIC AI",
             "points": [
-                "Microsoft Azure announced new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7, for AI and HPC workloads.",
-                "These new VMs support demanding AI inference, deep learning, and technical computing tasks with enhanced performance and efficiency.",
-                "The expansion leverages AMD's latest hardware to provide diverse compute options, addressing specific enterprise AI and scientific modeling needs.",
-                "Organizations can optimize resource allocation for specialized AI tasks, potentially reducing operational costs and accelerating research outcomes."
+                "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard, delivering faster, smarter, and more efficient agentic AI capabilities.",
+                "These new tools are designed to accelerate the development and deployment of intelligent agents, enhancing their performance in complex tasks.",
+                "The advancements contribute to a robust ecosystem for agentic AI, providing developers with foundational models and frameworks for sophisticated applications.",
+                "Developers should leverage these NVIDIA offerings to build advanced agentic AI systems, pushing the boundaries of automated intelligence and efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: CHIP TECHNOLOGY EXTENDS MOORE'S LAW",
+            "nextUpTease": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION NARROWS DEFENSE WINDOW",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM: CHIP TECHNOLOGY EXTENDS MOORE'S LAW",
+            "heading": "OPENAI: DAYBREAK CYBERSECURITY EXPANSION NARROWS DEFENSE WINDOW",
             "points": [
-                "IBM unveiled breakthrough chip technology designed to extend Moore\u2019s Law for another decade by cramming more transistors onto chips.",
-                "This innovation pursues a new paradigm for chip manufacturing, moving beyond traditional planar scaling to advanced 3D architectures.",
-                "The development provides a critical pathway for sustaining performance gains required by future AI workloads and high-performance computing.",
-                "The semiconductor industry faces renewed impetus for fundamental research, impacting long-term hardware roadmaps for AI and data centers."
+                "OpenAI expanded its Daybreak initiative, enhancing cybersecurity tools to tackle growing AI security threats and narrow the defense window for organizations.",
+                "The expansion introduces advanced capabilities for securing AI systems, addressing vulnerabilities that arise with the increasing sophistication of AI models.",
+                "This strategic move aims to fortify the security posture of enterprises globally, providing critical defenses against emerging cyber-physical threats in the AI era.",
+                "CIOs and security leaders must integrate Daybreak\u2019s expanded features to protect their AI deployments, ensuring robust cyber resilience against evolving adversarial AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: HORIZONDB POSTGRESQL ALTERNATIVE",
+            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE BECOMES DEFAULT FOR PAID USERS",
             "tags": [
-                "Source: https://www.technologyreview.com/article/ibm-unveils-chip-technology-moores-law-decade/",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: HORIZONDB POSTGRESQL ALTERNATIVE",
+            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE BECOMES DEFAULT FOR PAID USERS",
             "points": [
-                "Microsoft introduced HorizonDB, an extended preview of its PostgreSQL alternative, designed for cloud-native database workloads.",
-                "HorizonDB offers enhanced scalability and integration with Azure services, targeting enterprise customers requiring robust relational database solutions.",
-                "The new offering provides another option for migrating and modernizing existing PostgreSQL environments, especially within the Azure ecosystem.",
-                "CIOs should evaluate HorizonDB against existing solutions, considering its benefits for new AI workloads and cloud data strategies."
+                "Anthropic made Claude Code\u2019s auto mode the default for paid users, streamlining the experience for high-efficiency code generation and review.",
+                "This update significantly improves developer productivity by automating routine coding tasks and reducing manual intervention in software development workflows.",
+                "The move reflects a strategic focus on enhancing the practical utility of AI in development, accelerating the iterative cycle of coding and debugging.",
+                "Software engineering teams should leverage this default setting to optimize their development pipelines, gaining speed and consistency in AI-assisted code creation."
             ],
             "imageUrl": "",
-            "nextUpTease": "FT: AI THREATENS INDIA'S IT JOB MARKET",
+            "nextUpTease": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "tags": [
-                "Source: https://www.cio.com/article/3829460/microsofts-postgres-alternative-horizondb-worth-the-wait.html",
-                "Published: 2026-08-10T10:00:00Z",
+                "Source: https://www.infoworld.com/article/3831110/anthropic-makes-claude-code-auto-mode-default-for-paid-users.html",
+                "Published: 2026-08-11T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FT: AI THREATENS INDIA'S IT JOB MARKET",
+            "heading": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "points": [
-                "The Financial Times highlights a significant AI threat to India\u2019s IT services industry, potentially disrupting millions of jobs.",
-                "Automation and generative AI models are rapidly taking over routine tasks, forcing a re-evaluation of the country's tech services reliance.",
-                "India's reliance on tech services makes it particularly vulnerable to AI-driven job displacement, necessitating urgent reskilling initiatives.",
-                "IT leaders must proactively integrate AI into workflows and invest in advanced training to transform the workforce and maintain global competitiveness."
+                "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, improving accuracy and lead times for critical weather predictions.",
+                "This advancement offers significant quantitative impact by providing earlier warnings, potentially saving lives and reducing economic losses from natural disasters.",
+                "The model's success demonstrates the strategic architectural context of AI's potential in complex scientific domains, leveraging deep learning for environmental intelligence.",
+                "Government agencies and disaster relief organizations can leverage WeatherNext for enhanced preparedness, optimizing resource deployment and mitigating catastrophic impacts."
             ],
             "imageUrl": "",
-            "nextUpTease": "CME: AI COMPUTE POWER FUTURES CONTRACTS",
+            "nextUpTease": "COREWEAVE: STOCK SOARS ON ACCELERATING AI INFRASTRUCTURE DEMAND",
             "tags": [
-                "Source: https://www.ft.com/content/ai-threat-india-it-jobs-machine-2026-08-10",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CME: AI COMPUTE POWER FUTURES CONTRACTS",
+            "heading": "COREWEAVE: STOCK SOARS ON ACCELERATING AI INFRASTRUCTURE DEMAND",
             "points": [
-                "The CME Group has launched futures contracts for AI computing power, establishing AI compute as a tradable asset class.",
-                "This initiative allows enterprises to hedge against volatility in AI infrastructure costs and manage compute resource procurement more efficiently.",
-                "The introduction of futures contracts provides a standardized mechanism for pricing and transacting AI compute, enhancing market transparency.",
-                "Financial institutions and AI-intensive companies can now utilize derivatives to stabilize their operational budgets and long-term AI strategy."
+                "CoreWeave's stock surged 14% as its latest earnings report revealed revenue doubling, driven by accelerating demand for AI infrastructure.",
+                "The significant financial performance underscores the immense market appetite for specialized cloud services supporting advanced AI workloads and GPU clusters.",
+                "This growth signals robust investment and expansion in the dedicated AI compute sector, indicating strong strategic positioning for providers in this critical niche.",
+                "Investors and enterprise clients should monitor CoreWeave's trajectory as a barometer for broader trends in AI infrastructure and the rapid expansion of compute-intensive applications."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-tradable-asset-class-as-cme-starts-futures-contracts.html",
-                "Published: 2026-08-11T15:00:00Z",
+                "Source: https://www.marketwatch.com/story/coreweave-stock-soars-as-earnings-show-major-ai-momentum-0123456789",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
