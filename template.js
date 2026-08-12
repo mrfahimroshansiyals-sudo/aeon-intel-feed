@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
-        "titleBlue": "SCALING",
-        "footerSummary": "OpenAI's latest GPT-5.6 model enhances enterprise scalability, offering advanced intelligence to manage complex, multi-modal AI workloads across diverse business environments."
+        "titleWhite": "MOBILIZING $500B AI COMPUTE",
+        "titleBlue": "FINANCE",
+        "footerSummary": "NVIDIA's $500B initiative redefines AI infrastructure financing, securing unprecedented capital for global AI compute scale and deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALING",
+            "heading": "NVIDIA: MOBILIZING $500B AI COMPUTE FINANCE",
             "points": [
-                "OpenAI has released GPT-5.6, designed for advanced multi-modal capabilities and robust, scalable deployment across enterprise environments.",
-                "This iteration significantly boosts performance efficiency, allowing organizations to manage high-volume, complex AI workloads with up to 20% lower inference costs.",
-                "The model's architectural enhancements provide superior generalization and reasoning, critical for integrating sophisticated AI into core business processes.",
-                "Enterprises can leverage GPT-5.6 for accelerated innovation, driving market differentiation and securing leadership in AI-driven automation."
+                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, and Blackstone to fund AI compute infrastructure.",
+                "This alliance aims to establish platforms mobilizing over $500B in third-party capital for next-generation AI data centers.",
+                "The initiative addresses the massive capital-intensive demands of building and scaling global AI factories and infrastructure.",
+                "This strategic funding mechanism will accelerate global AI adoption and enterprise-level infrastructure scaling for governments and corporations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
             "tags": [
-                "Source: https://openai.com/product/gpt-5.6",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-10T20:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "heading": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
             "points": [
-                "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines.",
-                "These VMs are optimized for demanding AI, data, inference, and high-performance computing (HPC) workloads, offering up to 30% performance gain.",
-                "The deployment provides customers with enhanced compute density and cost-efficiency for large-scale, accelerated AI development.",
-                "Organizations can now achieve faster model training and data processing, accelerating critical research and production deployments."
+                "Bank of America pledges to deploy $250B to bolster AI and energy infrastructure across various US projects and initiatives.",
+                "This massive investment signifies a strong commitment to integrating AI into critical operational frameworks and sustainable energy solutions.",
+                "The capital will fund innovations in data centers, smart grids, and AI-driven automation systems to enhance efficiency and resilience.",
+                "The move sets a precedent for financial institutions in direct investment toward accelerating national AI and green tech adoption."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+            "nextUpTease": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-12T08:30:00Z",
+                "Source: https://www.dowjones.com/news/bank-of-america-to-deploy-250-billion-to-bolster-ai-and-energy-infrastructure",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+            "heading": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
             "points": [
-                "Google Cloud introduces AI Threat Defense, a new platform designed to help organizations outpace sophisticated AI-driven cyber adversaries.",
-                "This solution integrates generative AI to identify novel attack vectors and automate threat response, reducing detection times by up to 45%.",
-                "AI Threat Defense provides comprehensive security across cloud environments, leveraging Google's global threat intelligence and machine learning.",
-                "CISOs and security teams gain a proactive defense mechanism, enhancing their posture against evolving and complex digital threats."
+                "Microsoft Azure unveils 'Microsoft Foundry,' a platform designed for building, running, and governing production AI agents at scale.",
+                "Foundry provides hosted agents, toolboxes, and tracing capabilities, allowing enterprises to deploy generative AI solutions with GPT-5.6.",
+                "This service simplifies the operational complexities of integrating advanced AI agents into critical business workflows and systems.",
+                "Enterprises gain robust control over agent performance, security, and compliance, accelerating AI-driven automation and intelligent orchestration."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
             "tags": [
-                "Source: https://cloud.google.com/security/ai-threat-defense",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry",
+                "Published: 2026-08-12T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
             "points": [
-                "Mistral AI introduces Shieldstral, a new initiative for in-region inference and sovereign AI infrastructure in Europe.",
-                "This development addresses data residency and privacy concerns, offering enterprises compliance with EU regulations while boosting local AI capabilities.",
-                "Shieldstral enables organizations to train and deploy open models securely within European borders, ensuring data governance and operational independence.",
-                "European businesses and public sectors can now leverage frontier AI with guaranteed data sovereignty, accelerating digital transformation securely."
+                "Google Cloud announces the availability of Gemini Omni Flash and Nano Banana 2 Lite, enhancing its multi-modal AI offerings.",
+                "Omni Flash enables creation from any input, including video, while Nano Banana 2 Lite focuses on faster, efficient image processing.",
+                "These models offer optimized performance for low-latency and high-volume inference tasks, crucial for real-time applications and agentic workloads.",
+                "Developers can leverage a broader, more agile suite of Gemini models, accelerating specialized AI solution development and deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: PREMIUM TIER FOR CHATGPT BUSINESS",
+            "nextUpTease": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral/",
-                "Published: 2026-08-12T07:45:00Z",
+                "Source: https://cloud.google.com/blog/product-announcements/now-available-gemini-omni-flash-and-nano-banana-2-lite",
+                "Published: 2026-08-12T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: PREMIUM TIER FOR CHATGPT BUSINESS",
+            "heading": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
             "points": [
-                "OpenAI has launched a new premium tier for ChatGPT Business, targeting heavy users and advanced enterprise workloads.",
-                "This tier offers enhanced rate limits, priority access to new features, and dedicated compute resources, improving productivity by up to 30% for power users.",
-                "The strategic move reflects OpenAI's focus on monetizing high-intensity agentic and generative AI applications within corporate environments.",
-                "Businesses can optimize their AI investments with tailored access to frontier models, unlocking greater value from their deployments."
+                "OpenAI is expanding 'Daybreak,' its initiative focused on developing tools and strategies for global AI cybersecurity defense.",
+                "This expansion aims to counter the rapidly narrowing cyber defense window posed by advanced AI-driven threats and sophisticated attacks.",
+                "Daybreak will provide enterprises with enhanced capabilities to detect, analyze, and neutralize sophisticated AI-powered cyberattacks.",
+                "The move underscores the industry's critical need for robust, proactive AI security measures as AI threats evolve and intensify."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.6 FLASH RELEASE",
+            "nextUpTease": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.6 FLASH RELEASE",
+            "heading": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
             "points": [
-                "Google DeepMind announces the release of Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber model variants.",
-                "These models offer improved efficiency and specialized capabilities for diverse applications, from rapid prototyping to enhanced cybersecurity operations.",
-                "The Flash series is engineered for speed and cost-effectiveness, providing optimized performance for low-latency and high-volume inference tasks.",
-                "Developers can now leverage a broader range of Gemini models, accelerating the development and deployment of more agile and specific AI solutions."
+                "China-linked hackers executed an unprecedented 'autonomous' AI cyber attack against Taiwan, as reported by Financial Times.",
+                "AI agents orchestrated simultaneous reconnaissance and system breaches, demonstrating a new phase of advanced cyber warfare.",
+                "This event highlights the escalating threat of sophisticated AI systems being deployed for state-sponsored cyber espionage and disruption.",
+                "Governments and critical infrastructure sectors must urgently reassess defenses against agentic and self-evolving AI threats to prevent future attacks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: IQ CONNECT FOR AGENT CONTEXT",
+            "nextUpTease": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
             "tags": [
-                "Source: https://cloud.google.com/blog/product-announcements/introducing-gemini-3-6-flash-3-5-flash-lite/",
-                "Published: 2026-08-12T07:00:00Z",
+                "Source: https://www.ft.com/technology/autonomous-ai-cyber-attack-taiwan-unprecedented-scale",
+                "Published: 2026-08-12T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AZURE: IQ CONNECT FOR AGENT CONTEXT",
+            "heading": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
             "points": [
-                "Microsoft Azure introduces IQ Connect, a service designed to provide agents with complete, shared context across enterprise systems, data, and workflows.",
-                "This enables AI agents to reason and act with a comprehensive understanding of business context, reducing error rates by up to 25% in complex tasks.",
-                "IQ Connect facilitates secure integration of agents with disparate data sources, ensuring coherent and accurate automated decision-making.",
-                "Enterprises can deploy more reliable and effective AI agents, driving deeper automation and intelligent process orchestration."
+                "MIT Technology Review highlights a fundamental flaw in large language models (LLMs), leaving them vulnerable to specific attacks.",
+                "This vulnerability allows attackers to easily trick LLMs into generating malicious content or performing unintended actions, like sabotaging systems.",
+                "The flaw, termed \"reward hacking\" or prompt injection, represents a core architectural weakness in current LLM designs and deployments.",
+                "Developers must implement advanced guardrails and robust adversarial training to mitigate these inherent security risks in deployed AI systems."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
-                "Published: 2026-08-12T06:30:00Z",
+                "Source: https://www.technologyreview.com/2026/08/10/llm-vulnerability-fundamental-flaw",
+                "Published: 2026-08-10T17:00:00Z",
                 "Status: Audited & True"
             ]
         }

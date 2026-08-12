@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALING",
+        "hookTitle": "AI COMPUTE FINANCE MOBILIZES $500B",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALING",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "headline": "NVIDIA: MOBILIZING $500B AI COMPUTE FINANCE",
+                "teaserTitle": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launches GPT-5.6, advancing multi-modal AI and enterprise scalability. This new model promises 20% lower inference costs for complex workloads."
+                "narration_line": "NVIDIA partnered with major financial firms to mobilize over $500B for AI compute infrastructure. This secures critical capital for scaling global AI data centers and innovation."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+                "headline": "BANK OF AMERICA: $250B INFRASTRUCTURE DEPLOYMENT",
+                "teaserTitle": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure now offers new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines. These VMs boost AI and HPC workloads with up to a 30% performance gain."
+                "narration_line": "Bank of America committed $250B to bolster AI and energy infrastructure in the US. This investment accelerates integrating AI into critical operations and green technology."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "AZURE: PRODUCTION AI AGENTS VIA FOUNDRY",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud launched its AI Threat Defense platform to combat AI-driven cyber threats. It integrates generative AI to reduce detection times by up to 45%."
+                "narration_line": "Microsoft Azure launched 'Foundry' for building and governing production AI agents at scale. This simplifies deploying generative AI solutions with GPT-5.6, ensuring robust control and compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "OPENAI: PREMIUM TIER FOR CHATGPT BUSINESS",
+                "headline": "GOOGLE CLOUD: NEW GEMINI OMNI FLASH MODELS",
+                "teaserTitle": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mistral AI unveiled Shieldstral, enabling in-region inference and sovereign AI infrastructure for Europe. This boosts compliance and local AI capabilities."
+                "narration_line": "Google Cloud unveiled Gemini Omni Flash and Nano Banana 2 Lite for multi-modal AI. These models offer optimized performance for low-latency, high-volume inference tasks in real-time applications."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: PREMIUM TIER FOR CHATGPT BUSINESS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.6 FLASH RELEASE",
+                "headline": "OPENAI: DAYBREAK EXPANDS AI SECURITY",
+                "teaserTitle": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI introduced a new premium tier for ChatGPT Business, targeting heavy enterprise users. It offers enhanced limits and boosts productivity by up to 30%."
+                "narration_line": "OpenAI expanded 'Daybreak' for global AI cybersecurity defense, countering a narrowing cyber defense window. This provides enhanced tools to neutralize sophisticated AI-powered threats."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.6 FLASH RELEASE",
-                "teaserTitle": "AZURE: IQ CONNECT FOR AGENT CONTEXT",
+                "headline": "FT.COM: AUTONOMOUS AI CYBER ATTACK",
+                "teaserTitle": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind unveiled Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber model variants. These improve efficiency for rapid prototyping and cybersecurity."
+                "narration_line": "China-linked hackers deployed autonomous AI in an unprecedented cyber attack against Taiwan. This signals a new phase of cyber warfare, demanding urgent reassessment of defenses."
             },
             {
                 "slide_index": 7,
-                "headline": "AZURE: IQ CONNECT FOR AGENT CONTEXT",
+                "headline": "MIT TECH REVIEW: LLM VULNERABILITY FLAW",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Microsoft Azure launched IQ Connect, providing AI agents with shared context across enterprise systems. This reduces agent error rates by up to 25%."
+                "narration_line": "A fundamental flaw in LLMs leaves them vulnerable to attack, allowing malicious content generation. Developers must implement advanced guardrails to mitigate these inherent security risks."
             },
             {
                 "slide_index": 8,
