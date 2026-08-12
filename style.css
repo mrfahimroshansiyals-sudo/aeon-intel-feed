@@ -1,4 +1,4 @@
-/* --- UNIVERSAL FONT SETUP: SIYIAL AIR --- */
+/* --- UNIVERSAL FONT SETUP: AEON INTEL --- */
 
 @font-face {
     font-family: 'MyriadPro';
@@ -9,7 +9,7 @@
 
 :root {
     --bg-black: #050505;
-    /* SIYIAL AIR BRAND COLOR */
+    /* AEON INTEL BRAND COLOR */
     --aeon-blue: #3296ff !important;
     --aeon-red: #ff0000;
     --text-white: #ffffff;
@@ -71,7 +71,7 @@ body {
 
 .main-hook-style:not(.cta-slide) .content-body {
     padding-top: 300px;
-    padding-left: 100px; /* UPDATED: Adjusted to match right padding as per screenshot */
+    padding-left: 100px; 
     padding-right: 100px;
     padding-bottom: 100px;
     max-height: 1120px;
@@ -120,13 +120,13 @@ body {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
+    max-width: 880px;
 }
 
 /* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
 .footer-paragraph-placeholder {
     width: 100%;
-    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
+    max-width: 880px;
     margin-top: 30px; 
     margin-bottom: 100px; 
     font-family: var(--font-body);
