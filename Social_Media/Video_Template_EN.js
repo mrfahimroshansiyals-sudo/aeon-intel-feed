@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER INTELLIGENCE SCALES WITH AMBITION",
+        "hookTitle": "OPENAI EXPANDS DAYBREAK FOR CYBER DEFENSE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE SCALES WITH AMBITION",
-                "teaserTitle": "NVIDIA: MOBILIZES $500B FOR AI COMPUTE INFRASTRUCTURE",
+                "headline": "CYBERSECURITY: OPENAI EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched its GPT-5.6 model, showcasing frontier intelligence designed to scale ambitious enterprise applications. This new release promises a significant fifteen to twenty percent boost in problem-solving efficacy across complex tasks."
+                "narration_line": "OpenAI expanded its Daybreak initiative, a cyber defense platform, to address quickly narrowing windows for AI-driven security threats. This expansion aims to bolster global cyber resilience and accelerate automated response mechanisms."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: MOBILIZES $500B FOR AI COMPUTE INFRASTRUCTURE",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI NANO BANANA",
+                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA, with financial giants, is creating platforms to mobilize over five hundred billion dollars for AI compute infrastructure. This funding aims to increase global AI compute capacity by more than thirty percent within the next two years."
+                "narration_line": "OpenAI is enhancing its GPT-5.6 Sol model and expanding access to GPT-5.6 Luna for its free-tier users. This democratizes advanced AI, aiming to broaden adoption and gather wider user feedback for their latest models."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI NANO BANANA",
-                "teaserTitle": "MICROSOFT AZURE: UNIFIES AGENT CONTEXT WITH MICROSOFT IQ",
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "QUANTUM COMPUTING: QUANTINUUM STOCK HITS RECORD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud expands its AI models with Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber, and multimodal Omni Nano Banana 2 Lite. These optimized variants offer up to a twenty-five percent reduction in latency for specific tasks."
+                "narration_line": "Google Cloud introduced its new AI Threat Defense platform, leveraging advanced AI to proactively identify and neutralize cyber adversaries. It aims to reduce threat detection to mitigation time by over thirty-five percent, strengthening cloud security."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: UNIFIES AGENT CONTEXT WITH MICROSOFT IQ",
-                "teaserTitle": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI FOR HYBRID AI",
+                "headline": "QUANTUM COMPUTING: QUANTINUUM STOCK HITS RECORD",
+                "teaserTitle": "NVIDIA: DATA CENTER LOAN VALUATIONS QUESTIONED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure unveils Microsoft IQ, a service providing shared context for AI agents across enterprise systems and workflows. This innovation is expected to reduce agent errors by up to forty percent, accelerating reliable automation processes."
+                "narration_line": "Quantum computing firm Quantinuum's stock hit a record high after its first post-IPO earnings report. The company reported strong fifteen percent revenue growth, outperforming expectations and validating quantum computing's market potential."
             },
             {
                 "slide_index": 5,
-                "headline": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI FOR HYBRID AI",
-                "teaserTitle": "GOOGLE PIXEL 11: CENTERS GEMINI FOR AI PHONE BATTLE",
+                "headline": "NVIDIA: DATA CENTER LOAN VALUATIONS QUESTIONED",
+                "teaserTitle": "INTEL: CEO CONFIDENT IN FUTURE STRATEGIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Oracle is integrating quantum computing into OCI, offering access to Quantinuum\u2019s Helios system for hybrid AI and high-performance computing. This service promises up to a thousand times speedups for specific quantum algorithms over classical systems."
+                "narration_line": "Investors are questioning data center loan valuations linked to NVIDIA's five hundred billion dollar AI compute infrastructure financing. This reflects market scrutiny and could impact future capital availability and financing costs for data center projects."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE PIXEL 11: CENTERS GEMINI FOR AI PHONE BATTLE",
-                "teaserTitle": "INFOWORLD: CODERABBIT TARGETS AI-GENERATED CODE OVERLOAD",
+                "headline": "INTEL: CEO CONFIDENT IN FUTURE STRATEGIES",
+                "teaserTitle": "LLM RESEARCH: STARTUPS CHASE NEXT-GEN MODELS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google\u2019s new Pixel 11 series deeply embeds Gemini for advanced on-device AI capabilities, targeting the competitive AI phone market. The device aims for up to fifty percent faster response times for on-device AI functions."
+                "narration_line": "Intel's CEO expressed strong confidence in the company's strategic direction and upcoming product roadmap. Advancements in next-generation process technologies are highlighted, signaling robust performance and competitive growth for Intel."
             },
             {
                 "slide_index": 7,
-                "headline": "INFOWORLD: CODERABBIT TARGETS AI-GENERATED CODE OVERLOAD",
+                "headline": "LLM RESEARCH: STARTUPS CHASE NEXT-GEN MODELS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CodeRabbit has launched an Agentic Change Management platform to handle AI-generated code overload in development environments. This platform aims to reduce code review times by up to thirty percent and improve overall code quality."
+                "narration_line": "A new wave of startups is pursuing breakthroughs in Large Language Models, focusing on novel architectures beyond current state-of-the-art designs. These ventures target error rate reductions of ten to fifteen percent for more reliable and accessible AI."
             },
             {
                 "slide_index": 8,
