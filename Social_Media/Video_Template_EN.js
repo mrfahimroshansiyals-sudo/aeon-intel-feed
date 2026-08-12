@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE CLOUD UNLEASHES GEMINI FLASH AND AI DEFENSE",
+        "hookTitle": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & AI THREAT DEFENSE",
-                "teaserTitle": "MICROSOFT AZURE: UNIFIES AGENTS WITH MICROSOFT IQ & AMD-POWERED VMS",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "IBM: UNVEILS CHIP TECHNOLOGY TO EXTEND MOORE'S LAW",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google Cloud has launched Gemini 3.6 Flash models and an AI Threat Defense suite. These enhance generative AI and cybersecurity for enterprises, optimizing compute and securing data at scale."
+                "narration_line": "OpenAI has just launched GPT-5.6, its latest frontier intelligence model, designed for scalable enterprise deployment. This release significantly boosts AI efficiency and reduces operational costs for complex agentic workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: UNIFIES AGENTS WITH MICROSOFT IQ & AMD-POWERED VMS",
-                "teaserTitle": "NVIDIA: RELEASES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "headline": "IBM: UNVEILS CHIP TECHNOLOGY TO EXTEND MOORE'S LAW",
+                "teaserTitle": "ORACLE: INTEGRATES QUANTUM COMPUTING INTO OCI FOR HYBRID AI",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Microsoft Azure introduces Microsoft IQ for agent context and new AMD-powered AI/HPC virtual machines. This enables more intelligent agents and provides high-performance compute for demanding workloads."
+                "narration_line": "IBM has revealed new chip technology aiming to extend Moore's Law, allowing for increased transistor density. This innovation provides a crucial hardware foundation for next-generation AI accelerators and high-performance computing."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: RELEASES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
-                "teaserTitle": "AMD: PARTNERS OXFORD FOR UK FRONTIER AI RESEARCH",
+                "headline": "ORACLE: INTEGRATES QUANTUM COMPUTING INTO OCI FOR HYBRID AI",
+                "teaserTitle": "META/NVIDIA: DRIVE OPEN-WEIGHT AI RACE AGAINST CHINESE LABS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA has released Nemotron 3.5 Lightning and NeMo Switchyard to deliver faster, more efficient agentic AI. These tools boost inference speed and intelligence for complex agentic workflows, improving operational efficiency."
+                "narration_line": "Oracle is integrating quantum computing into its OCI platform, partnering with Quantinuum\u2019s Helios system. This enables enterprises to combine classical and quantum computing for advanced AI algorithm optimization."
             },
             {
                 "slide_index": 4,
-                "headline": "AMD: PARTNERS OXFORD FOR UK FRONTIER AI RESEARCH",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL & ROBOSTRAL FOR SOVEREIGN AI",
+                "headline": "META/NVIDIA: DRIVE OPEN-WEIGHT AI RACE AGAINST CHINESE LABS",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "AMD has partnered with the University of Oxford\u2019s British Open-ended Learning and Discovery Lab to advance UK Frontier AI Research. This collaboration aims to accelerate scientific discovery and foster breakthroughs in complex AI systems."
+                "narration_line": "Meta and NVIDIA are accelerating their open-weight AI model development efforts, competing strategically with Chinese labs. This push democratizes AI access, offering powerful customizable models to developers."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL & ROBOSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "AI BUSINESS: NVIDIA UNVEILS NEW OPEN AI MODEL FOR SPECIFIC USE CASES",
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced Shieldstral for in-region inference and Robostral Navigate for advanced robotics. These provide sovereign AI solutions and improve navigation capabilities for AI agents in complex environments."
+                "narration_line": "OpenAI is expanding its Daybreak platform, an advanced AI security tool, to enhance cyber defense capabilities. This helps enterprises identify vulnerabilities and preemptively counter AI-driven threats at scale."
             },
             {
                 "slide_index": 6,
-                "headline": "AI BUSINESS: NVIDIA UNVEILS NEW OPEN AI MODEL FOR SPECIFIC USE CASES",
-                "teaserTitle": "CNBC: GOOGLE PIXEL 11 CENTERS GEMINI FOR AI PHONE BATTLE",
+                "headline": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "teaserTitle": "EU AI OFFICE: ANNOUNCES 40 ROLES FOR AI ACT ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "NVIDIA has unveiled a new open AI model optimized for specific use cases on local devices. This compact model reduces latency and cloud reliance, enhancing edge AI deployments and data privacy."
+                "narration_line": "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, new highly efficient AI models. These models offer optimized performance and broader accessibility for edge and mobile deployments, reducing operational costs."
             },
             {
                 "slide_index": 7,
-                "headline": "CNBC: GOOGLE PIXEL 11 CENTERS GEMINI FOR AI PHONE BATTLE",
+                "headline": "EU AI OFFICE: ANNOUNCES 40 ROLES FOR AI ACT ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google\u2019s new Pixel 11 smartphone integrates Gemini AI at its core, intensifying the AI phone battle with Apple. This move boosts on-device intelligence for advanced features, transforming personal computing paradigms."
+                "narration_line": "The EU AI Office has announced forty new roles dedicated to robust enforcement of the EU AI Act. This hiring signifies the full operationalization of the Act, ensuring compliance and regulatory oversight for AI in Europe."
             },
             {
                 "slide_index": 8,
