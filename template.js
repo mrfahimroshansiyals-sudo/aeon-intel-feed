@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NEMOTRON 3.5 LIGHTNING FOR AGENTIC",
-        "titleBlue": "AI",
-        "footerSummary": "NVIDIA accelerates agentic AI, Oracle links quantum with cloud, while Google integrates Gemini into Pixel 11. Regulatory shifts impact humanoid robots and legal AI. A critical week for AI infrastructure and market strategy."
+        "titleWhite": "GPT-5.6 FRONTIER MODEL",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI launches GPT-5.6. Google's Gemini advances with new Flash models. NVIDIA financializes AI compute. Oracle, Mistral, and Google Pixel 11 push critical AI capabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
             "points": [
-                "NVIDIA introduced Nemotron 3.5 Lightning, a new suite of models and tools within NeMo Switchyard, designed to power faster and smarter agentic AI applications. These advancements aim to improve the efficiency and capabilities of AI agents in complex tasks.",
-                "This release focuses on optimizing performance, enabling AI agents to process information and execute actions with greater speed and efficiency, delivering tangible operational impacts for enterprises. The NeMo Switchyard architecture supports flexible, modular agent development.",
-                "Architecturally, Nemotron 3.5 Lightning integrates advanced reasoning capabilities, enhanced memory management, and robust task orchestration, providing a comprehensive framework for scalable agent deployment. It emphasizes modularity and interoperability.",
-                "Enterprises can expect accelerated development cycles for custom AI agents and improved automation across business processes, leading to significant productivity gains and new opportunities for intelligent system integration."
+                "OpenAI has unveiled GPT-5.6, a new frontier intelligence model designed for enhanced ambition and scale across diverse applications. This release includes significant advancements in core capabilities, setting new benchmarks for AI performance.",
+                "The model's improved architecture offers substantial gains in processing efficiency and output quality, translating to measurable operational impacts for enterprises. A new premium tier for ChatGPT Business targets heavy users with specialized features.",
+                "Strategically, GPT-5.6 aims to solidify OpenAI's leadership in generative AI, pushing the boundaries of what AI systems can achieve. It emphasizes robust scalability and enterprise-grade deployment.",
+                "Stakeholders can expect accelerated development of more sophisticated AI applications and services. The expanded access to GPT-5.6 Luna for free users broadens the ecosystem's potential."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI FLASH & AI THREAT DEFENSE",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T18:00:00Z",
+                "Source: https://openai.com/research/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
+            "heading": "GOOGLE CLOUD: GEMINI FLASH & AI THREAT DEFENSE",
             "points": [
-                "Oracle plans to integrate quantum computing capabilities into its Oracle Cloud Infrastructure (OCI) by offering cloud-based access to Quantinuum's Helios system for hybrid AI applications. This marks a strategic move into advanced compute.",
-                "This service will combine quantum computing's parallel processing power with AI and high-performance computing (HPC) environments, enabling accelerated problem-solving for complex data sets and simulations.",
-                "The architectural goal is to provide a seamless hybrid environment where classical and quantum algorithms can interact, allowing enterprises to run next-generation AI workloads that demand unprecedented computational power.",
-                "Enterprises in finance, materials science, and pharmaceuticals can leverage OCI for groundbreaking research and development, potentially unlocking solutions to problems currently intractable for classical computers alone."
+                "Google Cloud announced several new Gemini Flash models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, alongside Gemini Omni Flash and Nano Banana 2 Lite. These models are engineered for speed and efficiency.",
+                "These updates enhance AI inference and generation capabilities, offering enterprises faster processing and improved threat detection through the new Google AI Threat Defense. They aim to secure and accelerate AI deployment.",
+                "The architectural thrust is to scale AI infrastructure for the agentic era, providing robust tools for developing and orchestrating AI agents. This positions Google as a key enabler for advanced AI systems.",
+                "Businesses can leverage these models for more secure and responsive AI applications, benefiting from improved performance and integrated cyber protection. Developers gain access to a broader suite of specialized Gemini variants."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NE.MO SWITCHYARD",
             "tags": [
-                "Source: https://www.cio.com/article/2056263/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+                "Published: 2026-08-12T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NE.MO SWITCHYARD",
             "points": [
-                "OpenAI is introducing a new premium tier for ChatGPT Business, specifically designed to cater to the high-intensity and agentic workloads of demanding enterprise users. This expands their monetization strategy.",
-                "This tier aims to enhance resource allocation and priority access, providing businesses with guaranteed uptime and increased processing capacity crucial for large-scale AI operations and complex agent deployments.",
-                "The offering signifies a redesign of OpenAI's pricing models, targeting organizations that require dedicated, robust infrastructure to integrate generative AI deeply into their core operational workflows.",
-                "Corporate clients can expect improved reliability, faster response times, and tailored features, enabling more stable and scalable deployment of AI assistants and automated agents across their organizations."
+                "NVIDIA has launched Nemotron 3.5 Lightning and NeMo Switchyard, new models and frameworks designed to deliver faster, smarter, and more efficient agentic AI capabilities. These tools streamline complex AI workflows.",
+                "These advancements promise significant boosts in AI agent performance, reducing inference latency and improving decision-making accuracy across diverse applications. They aim to optimize resource utilization.",
+                "The underlying architecture supports the development of sophisticated autonomous AI agents, enabling multi-step reasoning and complex task execution. This strengthens NVIDIA's ecosystem for advanced AI development.",
+                "Enterprises deploying agentic AI systems will see enhanced productivity and automation. Developers will benefit from a more robust and optimized platform for building next-generation AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
+            "nextUpTease": "ORACLE: QUANTUM COMPUTING ON OCI FOR HYBRID AI",
             "tags": [
-                "Source: https://www.cio.com/article/2056260/openai-targets-heavy-users-with-premium-chatgpt-business-seats.html",
-                "Published: 2026-08-11T16:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
+            "heading": "ORACLE: QUANTUM COMPUTING ON OCI FOR HYBRID AI",
             "points": [
-                "Google's new Pixel 11 smartphone deeply integrates its Gemini AI models, positioning the device as a central battleground in the ongoing AI phone competition against rivals like Apple.",
-                "This integration promises enhanced on-device AI capabilities for tasks such as advanced photo editing, real-time language translation, and personalized assistant features, improving user experience.",
-                "The device's architecture emphasizes local AI processing, utilizing specialized hardware to run complex Gemini models efficiently, ensuring privacy and reducing latency for key functionalities.",
-                "Consumers will benefit from a more intelligent and responsive smartphone experience, while developers gain a powerful platform for creating next-generation AI-powered mobile applications."
+                "Oracle is integrating quantum computing into its Oracle Cloud Infrastructure (OCI) services, partnering with Quantinuum to offer access to its Helios quantum system for hybrid AI and HPC environments.",
+                "This integration provides enterprises with a significant performance advantage for highly complex computational problems, leveraging quantum speed-ups for specific AI workloads. It accelerates data processing.",
+                "Architecturally, it creates a hybrid computing paradigm where classical AI models can offload specific tasks to quantum processors, optimizing for both scalability and extreme computational depth.",
+                "Organizations involved in drug discovery, materials science, and financial modeling will gain access to cutting-edge quantum capabilities. This could unlock solutions previously intractable with classical computing alone."
             ],
             "imageUrl": "",
-            "nextUpTease": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
+            "nextUpTease": "MISTRAL AI: SHIELDSTRAL & REGIONAL INFRASTRUCTURE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/12/googles-new-pixel-11-puts-gemini-at-center-of-ai-phone-battle-with-apple.html",
-                "Published: 2026-08-12T17:39:00Z",
+                "Source: https://www.cio.com/article/2126231/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
+            "heading": "MISTRAL AI: SHIELDSTRAL & REGIONAL INFRASTRUCTURE",
             "points": [
-                "Meta and NVIDIA are making a strong joint push into the open-weight AI model landscape, aiming to compete directly with state-backed and closed-source initiatives, particularly from Chinese labs.",
-                "This collaboration will likely involve shared research, optimized hardware-software stacks, and the release of new models, accelerating the development and adoption of transparent, accessible AI technologies.",
-                "The strategic alliance aims to foster a more robust open ecosystem, countering concerns about AI centralization and promoting innovation through broader access to powerful foundational models and computing resources.",
-                "Developers and researchers will gain access to cutting-edge AI models and optimized NVIDIA infrastructure, facilitating faster experimentation and the creation of diverse applications built on open standards."
+                "Mistral AI has launched Shieldstral, an initiative focusing on in-region inference, open models, and new European infrastructure for sovereign AI. This aims to bolster regional data privacy and control.",
+                "This move addresses growing concerns over data sovereignty and digital autonomy, offering European enterprises secure and compliant AI solutions. It reduces reliance on non-EU cloud providers for sensitive AI processing.",
+                "The architectural shift provides dedicated infrastructure for deploying and training AI models within specific geographical boundaries, enhancing regulatory adherence. It includes new models like Robostral Navigate and Mistral OCR 4.",
+                "European public sector entities and financial institutions will benefit from increased trust and compliance. This initiative fosters a robust, secure, and independent AI ecosystem in Europe."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
+            "nextUpTease": "NVIDIA: AI COMPUTE AS INVESTABLE ASSET CLASS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/12/meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race-led-by-chinese-labs.html",
-                "Published: 2026-08-12T16:00:00Z",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
+            "heading": "NVIDIA: AI COMPUTE AS INVESTABLE ASSET CLASS",
             "points": [
-                "The U.S. has implemented a ban on Chinese humanoid robots, a strategic move intended to mitigate potential national security risks and encourage domestic development in the robotics industry.",
-                "This restriction could accelerate supply-chain diversification for humanoid robot components and manufacturing, but analysts anticipate a limited near-term impact on the still-emerging market due to its nascent stage.",
-                "The policy aims to reshape the global robotics supply chain by pushing for non-Chinese alternatives and fostering localized innovation, potentially leading to new regional manufacturing hubs.",
-                "Companies in the robotics sector should prepare for adjusted market dynamics, potential shifts in sourcing, and increased pressure to innovate within Western supply chains to meet demand."
+                "NVIDIA has highlighted that AI factory compute is rapidly becoming recognized as a distinct and investable asset class. This signals a new phase in AI infrastructure financing and ownership.",
+                "This shift attracts institutional capital for large-scale data center construction and GPU procurement, ensuring a sustained supply chain for expanding AI demand. It creates new avenues for investment.",
+                "Architecturally, it enables the commoditization and financialization of AI compute resources, making it easier for large enterprises and cloud providers to fund and scale their AI infrastructure projects.",
+                "This development could lead to more stable and predictable pricing for high-performance AI compute. It also provides investors with new opportunities in the rapidly expanding AI hardware sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
+            "nextUpTease": "GOOGLE: PIXEL 11 INTEGRATES GEMINI AI",
             "tags": [
-                "Source: https://www.aibusiness.com/robotics/how-the-us-ban-on-chinese-humanoid-robots-could-affect-the-industry",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-ai-factory-compute-is-becoming-an-investable-asset-class",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
+            "heading": "GOOGLE: PIXEL 11 INTEGRATES GEMINI AI",
             "points": [
-                "Pakistani judges have delivered their verdict on 'JudgeGPT,' an AI system designed to assist legal professionals, highlighting growing global scrutiny over AI's role in judicial processes.",
-                "The decision emphasizes concerns regarding algorithmic transparency, bias, and the ultimate accountability for legal outcomes, setting a precedent for AI integration in sensitive public sectors.",
-                "The judicial review focused on how AI systems uphold principles of fairness and due process, influencing regulatory frameworks for AI tools in legal and governmental applications worldwide.",
-                "Legal tech developers and policymakers must now consider stricter ethical guidelines and comprehensive validation processes to ensure AI tools complement, rather than compromise, human judgment and equity."
+                "Google's new Pixel 11 smartphone deeply integrates Gemini AI, positioning it at the forefront of the competitive on-device AI market against rivals like Apple.",
+                "This integration delivers advanced AI capabilities directly on the device, enhancing user experience through smarter assistant features, improved photo processing, and personalized interactions.",
+                "Architecturally, it demonstrates Google's commitment to shifting complex AI processing to the edge, enabling faster, more private, and offline AI functionalities. This reduces reliance on cloud computation for many tasks.",
+                "Consumers will experience a new level of intelligence and responsiveness from their mobile devices. The move intensifies the race among tech giants to dominate the on-device AI ecosystem."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-news-pakistan-judgegpt-verdict",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/12/googles-new-pixel-11-puts-gemini-at-center-of-ai-phone-battle-with-apple.html",
+                "Published: 2026-08-12T14:31:00Z",
                 "Status: Audited & True"
             ]
         }

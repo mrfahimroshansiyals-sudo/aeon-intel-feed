@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA ADVANCES AGENTIC AI WITH NEMOTRON 3.5 LIGHTNING",
+        "hookTitle": "GPT-5.6 FRONTIER MODEL RELEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI FLASH & AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA launched Nemotron 3.5 Lightning, enhancing agentic AI efficiency and intelligence. This suite delivers faster, smarter AI agent performance for complex enterprise automation and tasks."
+                "narration_line": "OpenAI unveils GPT-5.6, a new frontier model with enhanced ambition and scale for diverse applications. Its advanced architecture delivers measurable operational impacts and a new ChatGPT Business premium tier."
             },
             {
                 "slide_index": 2,
-                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
-                "teaserTitle": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
+                "headline": "GOOGLE CLOUD: GEMINI FLASH & AI THREAT DEFENSE",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NE.MO SWITCHYARD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Oracle integrates Quantinuum's Helios quantum computing system into OCI for hybrid AI applications. This expands computational power for complex data and advanced simulations in critical enterprise sectors."
+                "narration_line": "Google Cloud introduces Gemini 3.6 Flash models and AI Threat Defense. These updates significantly boost AI inference and generation, securing enterprise deployments for agentic AI."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
-                "teaserTitle": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NE.MO SWITCHYARD",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING ON OCI FOR HYBRID AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI introduced a new premium tier for ChatGPT Business, targeting high-intensity agentic workloads. This tier ensures enhanced resource allocation and reliable processing capacity for enterprise-scale AI deployments."
+                "narration_line": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI. These tools enhance agent performance, reducing latency and optimizing resource utilization across AI workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
-                "teaserTitle": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
+                "headline": "ORACLE: QUANTUM COMPUTING ON OCI FOR HYBRID AI",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL & REGIONAL INFRASTRUCTURE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google's new Pixel 11 integrates Gemini AI models for advanced on-device capabilities. This deep integration enhances local processing for features like photo editing and real-time translation."
+                "narration_line": "Oracle integrates Quantinuum's quantum computing into OCI for hybrid AI and HPC. This offers enterprises significant performance advantages for complex computational problems and faster data processing."
             },
             {
                 "slide_index": 5,
-                "headline": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
-                "teaserTitle": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
+                "headline": "MISTRAL AI: SHIELDSTRAL & REGIONAL INFRASTRUCTURE",
+                "teaserTitle": "NVIDIA: AI COMPUTE AS INVESTABLE ASSET CLASS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Meta and NVIDIA are jointly pushing open-weight AI models to rival closed-source initiatives. This collaboration aims to accelerate development and broaden access to foundational AI technologies."
+                "narration_line": "Mistral AI launched Shieldstral, supporting in-region inference and sovereign AI infrastructure in Europe. This initiative enhances regional data privacy and compliance for public and financial sectors."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
-                "teaserTitle": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
+                "headline": "NVIDIA: AI COMPUTE AS INVESTABLE ASSET CLASS",
+                "teaserTitle": "GOOGLE: PIXEL 11 INTEGRATES GEMINI AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The U.S. has banned Chinese humanoid robots to address national security and promote domestic innovation. This move could reshape robotics supply chains despite limited immediate market impact."
+                "narration_line": "NVIDIA declares AI factory compute a new investable asset class. This attracts capital for data centers, ensuring sustained GPU supply and offering new investment opportunities."
             },
             {
                 "slide_index": 7,
-                "headline": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "GOOGLE: PIXEL 11 INTEGRATES GEMINI AI",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Pakistani judges delivered a verdict on 'JudgeGPT', scrutinizing AI's role in legal processes. The decision highlights global concerns over algorithmic bias and accountability in public sector AI deployment."
+                "narration_line": "Google\u2019s new Pixel 11 integrates Gemini AI deeply for on-device intelligence. This enhances user experience with smarter features and intensifies competition in the mobile AI market."
             },
             {
                 "slide_index": 8,
