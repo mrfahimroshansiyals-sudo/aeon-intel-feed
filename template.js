@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI launches GPT-5.6, setting new benchmarks for adaptable AI deployment, while IBM unveils next-gen chip tech and Oracle integrates quantum computing into OCI."
+        "titleWhite": "REVEALS A16 NANOSHEET WITH SUPER POWER",
+        "titleBlue": "RAIL",
+        "footerSummary": "TSMC unveils A16 nanosheet technology with Super Power Rail, while NVIDIA enhances agentic AI, and Microsoft Azure expands HPC VMs, signaling new compute infrastructure shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+            "heading": "TSMC: REVEALS A16 NANOSHEET WITH SUPER POWER RAIL",
             "points": [
-                "OpenAI has released GPT-5.6, a new frontier intelligence model designed for scalable, adaptable deployment across diverse enterprise applications. This version pushes new boundaries in generative AI capabilities.",
-                "GPT-5.6 significantly improves performance across complex agentic workflows and advanced reasoning tasks. It offers enhanced efficiency and reduced inference costs for large-scale operations.",
-                "Architecturally, GPT-5.6 introduces advancements in model architecture and training methodologies. This enables more robust and context-aware AI systems, supporting flexible integration pathways.",
-                "Enterprises can leverage GPT-5.6 for more sophisticated AI-driven automation, accelerated product development, and deeper insights from proprietary data, solidifying their competitive advantage."
+                "TSMC has officially revealed its A16 nanosheet technology, integrating an innovative Super Power Rail solution specifically designed for next-generation HPC and AI applications. This represents a significant leap in silicon architecture.",
+                "The A16 technology promises substantial performance gains and enhanced power efficiency for demanding AI workloads, critical for scaling advanced models and data centers. It aims to deliver superior compute density.",
+                "Architecturally, the Super Power Rail enables more efficient power delivery to transistors, overcoming traditional scaling challenges and extending the capabilities of Moore's Law. This enhances chip reliability.",
+                "This development ensures a foundational technology for future AI hardware acceleration, directly benefiting hyperscalers, AI developers, and enterprises requiring maximum computational throughput and power integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: UNVEILS CHIP TECHNOLOGY TO EXTEND MOORE'S LAW",
+            "nextUpTease": "NVIDIA: LAUNCHES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-scales-frontier-intelligence",
-                "Published: 2026-08-13T09:42:00Z",
+                "Source: https://www.tsmc.com/english/news_events/press_releases/2026/A16_SuperPowerRail_Launch.html",
+                "Published: 2026-08-14T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: UNVEILS CHIP TECHNOLOGY TO EXTEND MOORE'S LAW",
+            "heading": "NVIDIA: LAUNCHES NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
             "points": [
-                "IBM has unveiled breakthrough chip technology designed to extend Moore's Law, enabling significantly more transistors per chip. This innovation promises to sustain the exponential growth of computing power.",
-                "This new approach enhances computational density and energy efficiency for future processors. It paves the way for denser, more powerful AI accelerators and high-performance computing units.",
-                "The architectural advancements focus on novel stacking techniques and material science. This offers a critical foundation for next-generation AI hardware, overcoming current silicon limitations.",
-                "This technology provides a roadmap for sustained hardware innovation, crucial for scaling complex AI models. It ensures the necessary compute infrastructure for future AI breakthroughs and data centers."
+                "NVIDIA has launched Nemotron 3.5 Lightning and NeMo Switchyard, a new suite of models and tools designed to deliver faster, smarter, and more efficient agentic AI capabilities. This advances AI system automation.",
+                "These models enhance the development and deployment of intelligent agents by offering improved reasoning and rapid response times, significantly reducing inference latency for complex tasks.",
+                "The architectural design focuses on optimizing AI agent workflows, providing developers with robust frameworks for building highly autonomous and dynamic AI applications in diverse environments.",
+                "Enterprises can leverage these advancements to create sophisticated AI agents for automation, customer service, and data analysis, driving operational efficiencies and fostering new business models."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: INTEGRATES QUANTUM COMPUTING INTO OCI FOR HYBRID AI",
+            "nextUpTease": "MICROSOFT AZURE: BOOSTS HPC VMS WITH AMD MI455XV7 CHIPS",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/13/ibm-moores-law-chip-tech/",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-nemo-switchyard-deliver-faster-smarter-efficient-agentic-ai",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ORACLE: INTEGRATES QUANTUM COMPUTING INTO OCI FOR HYBRID AI",
+            "heading": "MICROSOFT AZURE: BOOSTS HPC VMS WITH AMD MI455XV7 CHIPS",
             "points": [
-                "Oracle is integrating quantum computing capabilities into Oracle Cloud Infrastructure (OCI) in partnership with Quantinuum\u2019s Helios system. This provides cloud-based access to hybrid AI environments.",
-                "This move enables enterprises to combine classical and quantum computing for complex problem-solving. It offers a powerful new paradigm for optimizing AI algorithms and data processing workloads.",
-                "The architectural integration allows seamless orchestration of quantum resources with traditional HPC and AI services. This provides a flexible and scalable foundation for hybrid quantum-AI applications.",
-                "Organizations can now explore quantum advantages for drug discovery, financial modeling, and materials science. This accelerates innovation while maintaining secure, enterprise-grade cloud environments."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs target demanding computational workloads.",
+                "These new VMs offer significant performance upgrades for AI training, high-performance computing, and inference tasks, providing greater scalability and efficiency for cloud-based operations.",
+                "Architecturally, the integration of AMD MI455Xv7 chips delivers superior GPU and CPU performance within Azure's cloud environment, enabling more complex simulations and accelerated AI development.",
+                "Cloud customers, particularly those in research, engineering, and data science, gain access to cutting-edge hardware resources. This allows for faster innovation and reduced time-to-market for AI-driven solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "META/NVIDIA: DRIVE OPEN-WEIGHT AI RACE AGAINST CHINESE LABS",
+            "nextUpTease": "GOOGLE CLOUD: UNVEILS AI THREAT DEFENSE PLATFORM",
             "tags": [
-                "Source: https://www.cio.com/news/oracle-quantum-computing-oci-hybrid-ai/",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines-h2v2-hx2v2-and-nd-mi455xv7/",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "META/NVIDIA: DRIVE OPEN-WEIGHT AI RACE AGAINST CHINESE LABS",
+            "heading": "GOOGLE CLOUD: UNVEILS AI THREAT DEFENSE PLATFORM",
             "points": [
-                "Meta and NVIDIA are intensifying efforts in the open-weight AI model development race, positioning against advancements from Chinese research labs. This signals a strategic competition for AI dominance.",
-                "This push aims to democratize AI access and accelerate innovation through community contributions. It provides developers with powerful, customizable models to build diverse applications and agentic systems.",
-                "Architecturally, this involves releasing advanced models and tools for public use. It fosters an ecosystem where collaborative development can challenge closed-source proprietary systems.",
-                "The move offers developers greater control and transparency over AI models, reducing vendor lock-in. It promotes a more decentralized and globally distributed approach to AI innovation, benefiting smaller firms."
+                "Google Cloud has unveiled its new AI Threat Defense platform, designed to leverage advanced artificial intelligence to help organizations proactively outpace sophisticated cyber adversaries.",
+                "The platform provides enhanced capabilities for detecting, analyzing, and responding to AI-driven threats, significantly bolstering an organization's overall cybersecurity posture and reducing breach risks.",
+                "Strategically, AI Threat Defense integrates across Google Cloud's security ecosystem, offering real-time intelligence and automated remediation to protect critical data and infrastructure from evolving attacks.",
+                "Enterprises can achieve stronger, more adaptive defense mechanisms against emerging AI-powered cyber threats, ensuring business continuity and maintaining trust in their cloud operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "nextUpTease": "IBM: SECURES $240M NVIDIA AI CLUSTER DEAL",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/13/meta-nvidia-open-weight-ai-race-chinese-labs.html",
-                "Published: 2026-08-13T06:00:00Z",
+                "Source: https://cloud.google.com/blog/products/security/introducing-google-ai-threat-defense/",
+                "Published: 2026-08-14T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "heading": "IBM: SECURES $240M NVIDIA AI CLUSTER DEAL",
             "points": [
-                "OpenAI is expanding its Daybreak platform, a suite of advanced AI security tools, to enhance cyber defense capabilities. This initiative aims to address the narrowing window for mitigating AI-driven threats.",
-                "Daybreak's expansion provides enterprises with more robust protections against sophisticated AI-powered cyberattacks. It helps identify vulnerabilities and preemptively counter emerging security risks at scale.",
-                "Strategically, Daybreak leverages advanced AI for threat detection, anomaly identification, and automated response. This creates a proactive defense posture essential for protecting critical infrastructure.",
-                "Organizations can bolster their cybersecurity frameworks and safeguard sensitive data against evolving AI-enabled threats. This ensures business continuity and maintains trust in their digital operations."
+                "IBM has secured a significant $240 million deal to deploy a new NVIDIA-powered AI cluster, marking a major investment in high-performance computing infrastructure for advanced AI development.",
+                "This substantial investment will provide IBM with immense computational power, enabling faster training of large-scale AI models and accelerating complex data analytics tasks for various industries.",
+                "Architecturally, the NVIDIA-powered cluster will enhance IBM's capacity for scientific research, enterprise AI solutions, and hybrid cloud integration, supporting demanding AI workloads.",
+                "This deal positions IBM to expand its AI capabilities, offering clients state-of-the-art resources for AI innovation and demonstrating a strategic commitment to advanced GPU-accelerated computing."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+            "nextUpTease": "LLM RESEARCH: STARTUP CLAIMS BOTTLENECK BREAKTHROUGH",
             "tags": [
-                "Source: https://openai.com/security/expanding-daybreak-cyber-defense/",
-                "Published: 2026-08-13T09:52:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-signs-240m-deal-for-nvidia-powered-ai-cluster",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+            "heading": "LLM RESEARCH: STARTUP CLAIMS BOTTLENECK BREAKTHROUGH",
             "points": [
-                "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, two new highly efficient AI models. These models are designed for optimized performance and broader accessibility.",
-                "Gemini Omni Flash offers advanced multimodal capabilities with enhanced speed, while Nano Banana 2 Lite provides extreme efficiency for edge and mobile deployments. This significantly reduces operational costs.",
-                "Architecturally, these models extend Google's diverse AI portfolio, catering to a wider range of applications from real-time analytics to on-device AI. They offer tailored solutions for various compute requirements.",
-                "Developers and enterprises can leverage these models for creating faster, more agile AI applications. This enables deployment across resource-constrained environments and improves real-time processing capabilities."
+                "A new startup has claimed a significant breakthrough in addressing a critical bottleneck that has been impeding the efficiency and scalability of large language models (LLMs).",
+                "This innovation, if verified, could dramatically improve the training speed and inference costs of LLMs, enabling more powerful and accessible AI applications across various sectors.",
+                "The architectural improvement focuses on novel data processing or computational optimization techniques, potentially unlocking new pathways for LLM design and deployment previously considered unfeasible.",
+                "This development could lead to a new generation of more efficient and widely deployable LLMs, benefiting AI developers, researchers, and enterprises seeking cost-effective advanced language capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: ANNOUNCES 40 ROLES FOR AI ACT ENFORCEMENT",
+            "nextUpTease": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://cloud.google.com/product/gemini-omni-flash-nano-banana-2-lite-announcement",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/12/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+                "Published: 2026-08-12T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI OFFICE: ANNOUNCES 40 ROLES FOR AI ACT ENFORCEMENT",
+            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "The EU AI Office has announced a major hiring initiative for 40 new roles spanning tech, legal, and operational expertise. These positions are dedicated to the robust enforcement of the EU AI Act.",
-                "This recruitment drive signifies the operationalization phase of the AI Act, ensuring compliance and regulatory oversight across European AI deployments. It aims to establish clear enforcement mechanisms.",
-                "Strategically, the AI Office is building a comprehensive team to manage AI governance, risk assessment, and standard implementation. This solidifies Europe's position as a global AI regulatory leader.",
-                "Enterprises operating in the EU must prepare for increased scrutiny and compliance requirements. This move ensures the ethical development and deployment of AI systems within the European market."
+                "Mistral AI has launched Shieldstral, a new initiative focused on providing in-region inference, open models, and European infrastructure for sovereign AI deployments. This addresses data residency concerns.",
+                "Shieldstral ensures that AI models and data processing remain within specific geographical boundaries, offering enhanced data privacy, security, and compliance for sensitive applications and government clients.",
+                "Strategically, this move strengthens Europe's position in the global AI landscape by providing robust, localized AI infrastructure. It fosters trust and autonomy in AI development and deployment.",
+                "Organizations, particularly those in regulated industries and public sectors, gain access to secure, compliant AI solutions. This reduces geopolitical risks and enables adherence to strict data governance frameworks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-eu-ai-office-hiring/",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral/",
                 "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
