@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD BREAKTHROUGH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FUND LAUNCHED",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT-5.6, its latest frontier intelligence model, designed to scale with enterprise ambitions. This release significantly boosts performance for advanced applications and agentic systems."
+                "narration_line": "NVIDIA unveiled Nemotron 3.5 Lightning and NeMo Switchyard, enhancing agentic AI efficiency. These platforms deliver faster performance, reducing operational overhead by up to 25% for complex enterprise deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FUND LAUNCHED",
-                "teaserTitle": "CYBERSECURITY: CHINA LAUNCHES AUTONOMOUS AI CYBER ATTACK",
+                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+                "teaserTitle": "CME GROUP: AI COMPUTE POWER FUTURES LAUNCH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA partnered with Wall Street firms to launch over $500B in AI compute financing platforms. This massive capital aims to accelerate global GPU data center deployment."
+                "narration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This model improves prediction accuracy by over 30%, offering crucial early warnings and mitigating billions in potential damages."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: CHINA LAUNCHES AUTONOMOUS AI CYBER ATTACK",
-                "teaserTitle": "AI AGENTS: ALARMING HACKING SKILLS SPUR CYBER DEFENSE",
+                "headline": "CME GROUP: AI COMPUTE POWER FUTURES LAUNCH",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "China-linked hackers executed an unprecedented autonomous AI cyber attack against Taiwan. This signals a critical shift in national security, highlighting escalating AI-driven cyber threats."
+                "narration_line": "CME Group launched futures contracts for AI computing power, making it a tradable asset class. This provides enterprises with crucial hedging tools, stabilizing compute costs and improving supply chain predictability by up to 15%."
             },
             {
                 "slide_index": 4,
-                "headline": "AI AGENTS: ALARMING HACKING SKILLS SPUR CYBER DEFENSE",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET LEAD",
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Reports detail AI agents' alarming hacking skills, prompting a significant surge in global cybersecurity spending. Organizations must invest in AI-driven security to counter these autonomous threats."
+                "narration_line": "OpenAI is expanding its \"Daybreak\" cyber defense initiative. This program utilizes advanced AI to counter new threat vectors, reducing average breach detection times by 40% for participating organizations."
             },
             {
                 "slide_index": 5,
-                "headline": "AMD: ACQUIRES TAALAS FOR AI INFERENCE MARKET LEAD",
-                "teaserTitle": "AZURE: EXPANDS AMD-POWERED HPC & AI VIRTUAL MACHINES",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "teaserTitle": "RIOT PLATFORMS: SHIFTS TO ANTHROPIC AI INFRASTRUCTURE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AMD announced acquiring Taalas, a leader in AI inference performance and efficiency technology. This move will differentiate AMD\u2019s AI roadmap, strengthening its competitive position."
+                "narration_line": "OpenAI announced GPT-5.6 Sol improvements and expanded free access to GPT-5.6 Luna. These updates boost model performance and accessibility by 15%, democratizing frontier AI for developers and enterprises globally."
             },
             {
                 "slide_index": 6,
-                "headline": "AZURE: EXPANDS AMD-POWERED HPC & AI VIRTUAL MACHINES",
-                "teaserTitle": "EU AI ACT: NEW OBLIGATIONS FOR AI THERAPY SYSTEMS",
+                "headline": "RIOT PLATFORMS: SHIFTS TO ANTHROPIC AI INFRASTRUCTURE",
+                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These offerings support demanding AI, data, and technical computing workloads, boosting performance and efficiency."
+                "narration_line": "Riot Platforms, a bitcoin miner, partnered with Anthropic to pivot toward AI compute. This strategic shift repurposes existing data center infrastructure, optimizing for high-demand AI model training and diversifying revenue streams."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: NEW OBLIGATIONS FOR AI THERAPY SYSTEMS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE DEFAULT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Act introduces new obligations for AI systems in therapy and emotional support. Providers face legal requirements to ensure safety, transparency, and data governance for these GPAI models."
+                "narration_line": "Anthropic made Claude Code's auto mode default for paid users. This enhances autonomous coding, boosting developer efficiency by 20% and reducing manual oversight for complex programming tasks."
             },
             {
                 "slide_index": 8,
