@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "NVIDIA AND WALL STREET UNVEIL $500B AI FINANCING PLATFORM",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "SPECTRUM-X ETHERNET PHOTONICS PRODUCTION",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL",
+                "teaserTitle": "AMD: OXFORD FRONTIER AI LAB",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, a new frontier model designed for scalable AI ambition. This release significantly advances intelligence and operational throughput for complex workloads."
+                "narration_line": "Nvidia partnered with six Wall Street giants to mobilize over 500 billion dollars in third-party capital. This framework transforms artificial intelligence data centers into a mainstream investable asset class."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SPECTRUM-X ETHERNET PHOTONICS PRODUCTION",
-                "teaserTitle": "A14 NANOFLEX PROCESS TECHNOLOGY",
+                "headline": "AMD: OXFORD FRONTIER AI LAB",
+                "teaserTitle": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA's Spectrum-X Ethernet Photonics is now in full production for AI factories. This delivers four times fewer lasers and five times lower power, enhancing efficiency and reliability."
+                "narration_line": "AMD partnered with Oxford University to advance frontier open-ended learning research across United Kingdom compute clusters. The agreement expands open-source developer access to software optimized for Instinct silicon."
             },
             {
                 "slide_index": 3,
-                "headline": "TSMC: A14 NANOFLEX PROCESS TECHNOLOGY",
-                "teaserTitle": "GEMINI 3.6 FLASH & NANO BANANA 2 LITE",
+                "headline": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
+                "teaserTitle": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "TSMC introduced A14 NanoFlex\u2122 Pro, a new process technology for AI and HPC. It offers enhanced density and power efficiency crucial for next-generation AI accelerators."
+                "narration_line": "Oracle Cloud is integrating Quantinuum's Helios system to deliver quantum computing alongside cloud artificial intelligence infrastructure. This hybrid connection solves complex optimization challenges that exceed classical computing limits."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "MUSE GLIMMER OPEN-WEIGHT RELEASE",
+                "headline": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
+                "teaserTitle": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Google Cloud unveiled Gemini 3.6 Flash and Nano Banana 2 Lite models. These provide faster inference speeds and optimized performance for diverse generative AI tasks."
+                "narration_line": "CodeRabbit launched Agentic Change Management to review and validate artificial intelligence generated code overloads in repositories. Autonomous review agents help engineering teams maintain code quality without slowing production output."
             },
             {
                 "slide_index": 5,
-                "headline": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
-                "teaserTitle": "CLAUDE CODE\u2019S AUTO MODE DEFAULT",
+                "headline": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
+                "teaserTitle": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Meta AI made its Muse Glimmer model open-weight, reversing a previous stance. This decision promotes broader AI innovation and democratizes access to advanced capabilities."
+                "narration_line": "OpenAI launched a premium ChatGPT Business seat targeted at high-intensity enterprise power users and agentic workloads. This pricing update shifts software monetization from flat rates to heavy usage models."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: CLAUDE CODE\u2019S AUTO MODE DEFAULT",
-                "teaserTitle": "OFFICE HIRING DRIVE",
+                "headline": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
+                "teaserTitle": "IBM: $240M NVIDIA AI CLUSTER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic has set Claude Code's auto mode as default for paid users. This streamlines development, improving developer productivity and accelerating code-related problem-solving."
+                "narration_line": "European provider OVHcloud announced server price increases up to 87 percent due to surging hardware and power costs. Enterprise clients face immediate cloud margin compression across both bare metal and cloud contracts."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE HIRING DRIVE",
+                "headline": "IBM: $240M NVIDIA AI CLUSTER",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office is hiring forty new experts to bolster AI Act enforcement. This expands regulatory capacity, ensuring robust oversight of AI systems across Europe."
+                "narration_line": "IBM finalized a 240 million dollar contract for a dedicated Nvidia-powered supercomputing cluster. The deployment gives hybrid cloud enterprise customers high-speed infrastructure for proprietary foundation model training."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "SPECTRUM-X ETHERNET PHOTONICS PRODUCTION",
-                "visual_caption": "OpenAI launched GPT-5.6, a new frontier model for scalable AI ambition. This release significantly advances intelligence and operational throughput for complex workloads."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL",
+                "teaserTitle": "AMD: OXFORD FRONTIER AI LAB",
+                "visual_caption": "Nvidia partnered with 6 Wall Street giants to mobilize over $500B in third-party capital. This framework transforms AI data centers into a mainstream investable asset class."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SPECTRUM-X ETHERNET PHOTONICS PRODUCTION",
-                "teaserTitle": "A14 NANOFLEX PROCESS TECHNOLOGY",
-                "visual_caption": "NVIDIA's Spectrum-X Ethernet Photonics is in full production for AI factories. It delivers 4x fewer lasers and 5x lower power, enhancing efficiency and reliability."
+                "headline": "AMD: OXFORD FRONTIER AI LAB",
+                "teaserTitle": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
+                "visual_caption": "AMD partnered with Oxford University to advance frontier open-ended learning research across UK compute clusters. The agreement expands open-source developer access to software optimized for Instinct silicon."
             },
             {
                 "slide_index": 3,
-                "headline": "TSMC: A14 NANOFLEX PROCESS TECHNOLOGY",
-                "teaserTitle": "GEMINI 3.6 FLASH & NANO BANANA 2 LITE",
-                "visual_caption": "TSMC introduced A14 NanoFlex\u2122 Pro, a new process for AI and HPC. It offers enhanced density and power efficiency crucial for next-gen AI accelerators."
+                "headline": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
+                "teaserTitle": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
+                "visual_caption": "Oracle Cloud is integrating Quantinuum's Helios system to deliver quantum computing alongside cloud AI infrastructure. This hybrid connection solves complex optimization challenges that exceed classical computing limits."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "MUSE GLIMMER OPEN-WEIGHT RELEASE",
-                "visual_caption": "Google Cloud unveiled Gemini 3.6 Flash & Nano Banana 2 Lite models. These provide faster inference & optimized performance for diverse generative AI tasks."
+                "headline": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
+                "teaserTitle": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
+                "visual_caption": "CodeRabbit launched Agentic Change Management to review and validate AI generated code overloads in repositories. Autonomous review agents help engineering teams maintain code quality without slowing production output."
             },
             {
                 "slide_index": 5,
-                "headline": "META AI: MUSE GLIMMER OPEN-WEIGHT RELEASE",
-                "teaserTitle": "CLAUDE CODE\u2019S AUTO MODE DEFAULT",
-                "visual_caption": "Meta AI made its Muse Glimmer model open-weight, reversing course. This promotes broader AI innovation and democratizes access to advanced capabilities."
+                "headline": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
+                "teaserTitle": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
+                "visual_caption": "OpenAI launched a premium ChatGPT Business seat targeted at high-intensity enterprise power users and agentic workloads. This pricing update shifts software monetization from flat rates to heavy usage models."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: CLAUDE CODE\u2019S AUTO MODE DEFAULT",
-                "teaserTitle": "OFFICE HIRING DRIVE",
-                "visual_caption": "Anthropic set Claude Code's auto mode as default for paid users. This streamlines dev workflows, improving productivity and accelerating code-related problem-solving."
+                "headline": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
+                "teaserTitle": "IBM: $240M NVIDIA AI CLUSTER",
+                "visual_caption": "European provider OVHcloud announced server price increases up to 87% due to surging hardware and power costs. Enterprise clients face immediate cloud margin compression across both bare metal and cloud contracts."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE HIRING DRIVE",
+                "headline": "IBM: $240M NVIDIA AI CLUSTER",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "EU AI Office is hiring 40 new experts to bolster AI Act enforcement. This expands regulatory capacity, ensuring robust oversight of AI systems across Europe."
+                "visual_caption": "IBM finalized a $240M contract for a dedicated Nvidia-powered supercomputing cluster. The deployment gives hybrid cloud enterprise customers high-speed infrastructure for proprietary foundation model training."
             },
             {
                 "slide_index": 8,
