@@ -268,7 +268,7 @@ jobs:
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ AEON INTEL SYSTEM DISPATCH</h2>
+                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ AEON INTEL SYSTEM DISPATCH</h2>
                     <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
