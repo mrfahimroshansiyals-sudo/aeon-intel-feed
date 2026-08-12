@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI ARCHITECTURE SHIFTS: CYBER DEFENSE EXPANSION",
+        "hookTitle": "NVIDIA ADVANCES AGENTIC AI WITH NEMOTRON 3.5 LIGHTNING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI expanded its Daybreak cyber defense platform to proactively counter AI-driven threats. This provides enhanced capabilities for real-time threat detection, boosting enterprise security."
+                "narration_line": "NVIDIA launched Nemotron 3.5 Lightning, enhancing agentic AI efficiency and intelligence. This suite delivers faster, smarter AI agent performance for complex enterprise automation and tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
-                "teaserTitle": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
+                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
+                "teaserTitle": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Bank of America pledged $250B in financing for U.S. supply chains, integrating AI and advanced tech. This investment boosts efficiency and resilience across critical manufacturing and logistics."
+                "narration_line": "Oracle integrates Quantinuum's Helios quantum computing system into OCI for hybrid AI applications. This expands computational power for complex data and advanced simulations in critical enterprise sectors."
             },
             {
                 "slide_index": 3,
-                "headline": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
+                "headline": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
+                "teaserTitle": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Meta launched its new open-weight Muse Glimmer AI model, reversing prior strategy. This democratizes access to generative AI, accelerating open-source innovation and research."
+                "narration_line": "OpenAI introduced a new premium tier for ChatGPT Business, targeting high-intensity agentic workloads. This tier ensures enhanced resource allocation and reliable processing capacity for enterprise-scale AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
-                "teaserTitle": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
+                "headline": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
+                "teaserTitle": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA partnered with major finance firms to mobilize over $500B for AI compute infrastructure. This secures critical funding pathways for data centers and GPU acquisition."
+                "narration_line": "Google's new Pixel 11 integrates Gemini AI models for advanced on-device capabilities. This deep integration enhances local processing for features like photo editing and real-time translation."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
-                "teaserTitle": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
+                "headline": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
+                "teaserTitle": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI paused development of its Astra multimodal AI model due to identified security concerns. This prioritizes safety, underscoring a commitment to responsible AI deployment."
+                "narration_line": "Meta and NVIDIA are jointly pushing open-weight AI models to rival closed-source initiatives. This collaboration aims to accelerate development and broaden access to foundational AI technologies."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
-                "teaserTitle": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
+                "headline": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
+                "teaserTitle": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google appointed a new AI head to accelerate innovation against rivals like OpenAI. This leadership change signals an intensified focus on reasserting frontier AI positioning."
+                "narration_line": "The U.S. has banned Chinese humanoid robots to address national security and promote domestic innovation. This move could reshape robotics supply chains despite limited immediate market impact."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
+                "headline": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic made Claude Code\u2019s auto mode default for paid users, enhancing software development. This update streamlines workflows, enabling more efficient code generation and debugging."
+                "narration_line": "Pakistani judges delivered a verdict on 'JudgeGPT', scrutinizing AI's role in legal processes. The decision highlights global concerns over algorithmic bias and accountability in public sector AI deployment."
             },
             {
                 "slide_index": 8,

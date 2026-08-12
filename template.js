@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DAYBREAK CYBER DEFENSE",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "OpenAI boosts cyber defenses with Daybreak. Meta shifts to open-weight AI with Muse Glimmer. NVIDIA mobilizes $500B for compute infrastructure."
+        "titleWhite": "NEMOTRON 3.5 LIGHTNING FOR AGENTIC",
+        "titleBlue": "AI",
+        "footerSummary": "NVIDIA accelerates agentic AI, Oracle links quantum with cloud, while Google integrates Gemini into Pixel 11. Regulatory shifts impact humanoid robots and legal AI. A critical week for AI infrastructure and market strategy."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
             "points": [
-                "OpenAI has significantly expanded its Daybreak initiative, a comprehensive cyber defense platform designed to protect organizations from advanced AI-driven threats.",
-                "This expansion aims to narrow the cyber defense window, providing enhanced capabilities for proactive threat identification and mitigation across enterprise systems.",
-                "Architecturally, Daybreak integrates cutting-edge AI models for real-time anomaly detection and autonomous response, moving beyond traditional security paradigms.",
-                "Enterprises can expect reduced breach risks and improved resilience, enabling a more secure operational environment in the face of rapidly evolving cyber adversaries."
+                "NVIDIA introduced Nemotron 3.5 Lightning, a new suite of models and tools within NeMo Switchyard, designed to power faster and smarter agentic AI applications. These advancements aim to improve the efficiency and capabilities of AI agents in complex tasks.",
+                "This release focuses on optimizing performance, enabling AI agents to process information and execute actions with greater speed and efficiency, delivering tangible operational impacts for enterprises. The NeMo Switchyard architecture supports flexible, modular agent development.",
+                "Architecturally, Nemotron 3.5 Lightning integrates advanced reasoning capabilities, enhanced memory management, and robust task orchestration, providing a comprehensive framework for scalable agent deployment. It emphasizes modularity and interoperability.",
+                "Enterprises can expect accelerated development cycles for custom AI agents and improved automation across business processes, leading to significant productivity gains and new opportunities for intelligent system integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
+            "nextUpTease": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
             "tags": [
-                "Source: https://openai.com/research/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-12T14:52:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
+            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATION WITH OCI",
             "points": [
-                "Bank of America has committed $250 billion in new financing and capital to bolster U.S. supply chains through AI and advanced technology adoption.",
-                "This massive investment aims to enhance efficiency, resilience, and technological integration across critical American manufacturing and logistics sectors.",
-                "The initiative leverages AI-driven analytics, automation, and predictive modeling to optimize supply chain operations and mitigate future disruptions.",
-                "Businesses within these supply chains, particularly SMEs, will gain access to vital capital and AI tools, fostering modernization and competitive growth."
+                "Oracle plans to integrate quantum computing capabilities into its Oracle Cloud Infrastructure (OCI) by offering cloud-based access to Quantinuum's Helios system for hybrid AI applications. This marks a strategic move into advanced compute.",
+                "This service will combine quantum computing's parallel processing power with AI and high-performance computing (HPC) environments, enabling accelerated problem-solving for complex data sets and simulations.",
+                "The architectural goal is to provide a seamless hybrid environment where classical and quantum algorithms can interact, allowing enterprises to run next-generation AI workloads that demand unprecedented computational power.",
+                "Enterprises in finance, materials science, and pharmaceuticals can leverage OCI for groundbreaking research and development, potentially unlocking solutions to problems currently intractable for classical computers alone."
             ],
             "imageUrl": "",
-            "nextUpTease": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
+            "nextUpTease": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
             "tags": [
-                "Source: https://www.ft.com/technology/bank-of-america-250bn-ai-pledge-supply-chains-us",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.cio.com/article/2056263/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
+            "heading": "OPENAI: NEW PREMIUM TIER FOR CHATGPT BUSINESS",
             "points": [
-                "Meta has reversed its previous stance, releasing Muse Glimmer, a new open-weight AI model designed to provide broader access to its advanced capabilities.",
-                "This strategic shift democratizes access to Meta's generative AI technology, potentially accelerating innovation and research within the open-source community.",
-                "Muse Glimmer's architecture is optimized for high-performance generative tasks, offering developers flexible tools for image and multimodal content creation.",
-                "Enterprises and developers can now integrate Meta's frontier model into custom applications, fostering new product development and expanded AI use cases."
+                "OpenAI is introducing a new premium tier for ChatGPT Business, specifically designed to cater to the high-intensity and agentic workloads of demanding enterprise users. This expands their monetization strategy.",
+                "This tier aims to enhance resource allocation and priority access, providing businesses with guaranteed uptime and increased processing capacity crucial for large-scale AI operations and complex agent deployments.",
+                "The offering signifies a redesign of OpenAI's pricing models, targeting organizations that require dedicated, robust infrastructure to integrate generative AI deeply into their core operational workflows.",
+                "Corporate clients can expect improved reliability, faster response times, and tailored features, enabling more stable and scalable deployment of AI assistants and automated agents across their organizations."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
+            "nextUpTease": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/meta-reverses-course-with-open-weight-muse-glimmer",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://www.cio.com/article/2056260/openai-targets-heavy-users-with-premium-chatgpt-business-seats.html",
+                "Published: 2026-08-11T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
+            "heading": "GOOGLE: NEW PIXEL 11 INTEGRATES GEMINI AI",
             "points": [
-                "NVIDIA has partnered with leading financial institutions, including Apollo and BlackRock, to establish AI compute infrastructure financing platforms.",
-                "This initiative aims to mobilize over $500 billion in third-party capital, addressing the escalating demand for high-performance AI computing resources.",
-                "The platforms will provide critical funding pathways for building data centers and acquiring advanced NVIDIA GPUs, expanding global AI infrastructure capacity.",
-                "This move ensures a stable supply of compute resources for enterprises, potentially mitigating future chip pricing volatility and availability challenges."
+                "Google's new Pixel 11 smartphone deeply integrates its Gemini AI models, positioning the device as a central battleground in the ongoing AI phone competition against rivals like Apple.",
+                "This integration promises enhanced on-device AI capabilities for tasks such as advanced photo editing, real-time language translation, and personalized assistant features, improving user experience.",
+                "The device's architecture emphasizes local AI processing, utilizing specialized hardware to run complex Gemini models efficiently, ensuring privacy and reducing latency for key functionalities.",
+                "Consumers will benefit from a more intelligent and responsive smartphone experience, while developers gain a powerful platform for creating next-generation AI-powered mobile applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
+            "nextUpTease": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-$500-billion-of-third-party-capital",
-                "Published: 2026-08-10T00:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/12/googles-new-pixel-11-puts-gemini-at-center-of-ai-phone-battle-with-apple.html",
+                "Published: 2026-08-12T17:39:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
+            "heading": "META/NVIDIA: JOINT PUSH FOR OPEN-WEIGHT AI",
             "points": [
-                "OpenAI has paused the development of its Astra multimodal AI model due to emerging security concerns identified during internal safety evaluations.",
-                "This halt underscores OpenAI's commitment to responsible AI development, prioritizing safety and robust security measures over rapid deployment.",
-                "The decision involves a comprehensive review of Astra's architecture to address potential vulnerabilities related to data privacy and misuse.",
-                "Developers and enterprises leveraging OpenAI models should anticipate rigorous safety protocols and transparent communication regarding future multimodal releases."
+                "Meta and NVIDIA are making a strong joint push into the open-weight AI model landscape, aiming to compete directly with state-backed and closed-source initiatives, particularly from Chinese labs.",
+                "This collaboration will likely involve shared research, optimized hardware-software stacks, and the release of new models, accelerating the development and adoption of transparent, accessible AI technologies.",
+                "The strategic alliance aims to foster a more robust open ecosystem, countering concerns about AI centralization and promoting innovation through broader access to powerful foundational models and computing resources.",
+                "Developers and researchers will gain access to cutting-edge AI models and optimized NVIDIA infrastructure, facilitating faster experimentation and the creation of diverse applications built on open standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
+            "nextUpTease": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
             "tags": [
-                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/12/meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race-led-by-chinese-labs.html",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
+            "heading": "ROBOTICS: US BAN ON CHINESE HUMANOID ROBOTS",
             "points": [
-                "Google has appointed a new head of AI, inheriting the challenging mandate to accelerate innovation and close the competitive gap with rivals like OpenAI and Anthropic.",
-                "This leadership change signals Google's intensified focus on advanced AI development, aiming to reassert its position at the frontier of generative models.",
-                "The new AI boss will be tasked with streamlining research initiatives and enhancing product deployment to deliver more impactful AI solutions faster.",
-                "Industry stakeholders anticipate a more aggressive market strategy from Google, potentially leading to rapid advancements and new enterprise-grade AI offerings."
+                "The U.S. has implemented a ban on Chinese humanoid robots, a strategic move intended to mitigate potential national security risks and encourage domestic development in the robotics industry.",
+                "This restriction could accelerate supply-chain diversification for humanoid robot components and manufacturing, but analysts anticipate a limited near-term impact on the still-emerging market due to its nascent stage.",
+                "The policy aims to reshape the global robotics supply chain by pushing for non-Chinese alternatives and fostering localized innovation, potentially leading to new regional manufacturing hubs.",
+                "Companies in the robotics sector should prepare for adjusted market dynamics, potential shifts in sourcing, and increased pressure to innovate within Western supply chains to meet demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
+            "nextUpTease": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/12/googles-new-ai-boss-inherits-a-race-to-catch-openai-and-anthropic.html",
-                "Published: 2026-08-12T06:00:00Z",
+                "Source: https://www.aibusiness.com/robotics/how-the-us-ban-on-chinese-humanoid-robots-could-affect-the-industry",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
+            "heading": "AI ETHICS: PAKISTANI JUDGES VERDICT ON JUDGEGPT",
             "points": [
-                "Anthropic has made Claude Code\u2019s auto mode the default setting for all paid users, significantly enhancing its utility for advanced software development tasks.",
-                "This update streamlines workflows, allowing developers to leverage Claude\u2019s sophisticated coding capabilities for automated code generation and debugging by default.",
-                "The feature integrates deeper into development environments, boosting productivity and enabling more efficient handling of complex programming challenges.",
-                "Enterprises utilizing Claude for software engineering can expect faster project completion times and improved code quality, driving substantial operational efficiencies."
+                "Pakistani judges have delivered their verdict on 'JudgeGPT,' an AI system designed to assist legal professionals, highlighting growing global scrutiny over AI's role in judicial processes.",
+                "The decision emphasizes concerns regarding algorithmic transparency, bias, and the ultimate accountability for legal outcomes, setting a precedent for AI integration in sensitive public sectors.",
+                "The judicial review focused on how AI systems uphold principles of fairness and due process, influencing regulatory frameworks for AI tools in legal and governmental applications worldwide.",
+                "Legal tech developers and policymakers must now consider stricter ethical guidelines and comprehensive validation processes to ensure AI tools complement, rather than compromise, human judgment and equity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710200/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-news-pakistan-judgegpt-verdict",
+                "Published: 2026-08-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
