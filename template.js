@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
-        "titleBlue": "RELEASE",
-        "footerSummary": "OpenAI unveils GPT-5.6, setting new benchmarks for enterprise AI. AMD acquires Taalas, boosting inference hardware. Google Cloud enhances AI defense."
+        "titleWhite": "DAYBREAK CYBER DEFENSE",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "OpenAI boosts cyber defenses with Daybreak. Meta shifts to open-weight AI with Muse Glimmer. NVIDIA mobilizes $500B for compute infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "points": [
-                "OpenAI has launched GPT-5.6, a new frontier intelligence model designed for scalability and ambitious enterprise applications.",
-                "This release pushes performance boundaries, enabling advanced AI capabilities crucial for complex business solutions and agentic workflows.",
-                "GPT-5.6 represents a significant architectural leap in large language models, offering enhanced reasoning and multimodal understanding.",
-                "Enterprises can leverage this model to drive new levels of automation, personalize customer experiences, and accelerate innovation across sectors."
+                "OpenAI has significantly expanded its Daybreak initiative, a comprehensive cyber defense platform designed to protect organizations from advanced AI-driven threats.",
+                "This expansion aims to narrow the cyber defense window, providing enhanced capabilities for proactive threat identification and mitigation across enterprise systems.",
+                "Architecturally, Daybreak integrates cutting-edge AI models for real-time anomaly detection and autonomous response, moving beyond traditional security paradigms.",
+                "Enterprises can expect reduced breach risks and improved resilience, enabling a more secure operational environment in the face of rapidly evolving cyber adversaries."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: ACQUIRES TAALAS FOR AI INFERENCE TECH",
+            "nextUpTease": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
             "tags": [
-                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-12T14:42:00Z",
+                "Source: https://openai.com/research/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-12T14:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMD: ACQUIRES TAALAS FOR AI INFERENCE TECH",
+            "heading": "BANK OF AMERICA: $250B AI PLEDGE FOR SUPPLY CHAINS",
             "points": [
-                "AMD announced a definitive agreement to acquire Taalas, a firm recognized for its breakthrough inference performance and efficiency technology.",
-                "This acquisition directly enhances AMD's AI roadmap, promising significant advancements in compute solutions for the rapidly growing AI inference market.",
-                "Integrating Taalas' expertise will bolster AMD's ability to deliver optimized AI hardware, crucial for data centers and edge deployments.",
-                "The move is set to benefit enterprises seeking higher efficiency and performance in their AI inference workloads, reducing operational costs."
+                "Bank of America has committed $250 billion in new financing and capital to bolster U.S. supply chains through AI and advanced technology adoption.",
+                "This massive investment aims to enhance efficiency, resilience, and technological integration across critical American manufacturing and logistics sectors.",
+                "The initiative leverages AI-driven analytics, automation, and predictive modeling to optimize supply chain operations and mitigate future disruptions.",
+                "Businesses within these supply chains, particularly SMEs, will gain access to vital capital and AI tools, fostering modernization and competitive growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+            "nextUpTease": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market.html",
-                "Published: 2026-08-06T12:00:00Z",
+                "Source: https://www.ft.com/technology/bank-of-america-250bn-ai-pledge-supply-chains-us",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+            "heading": "META: RELEASES OPEN-WEIGHT MUSE GLIMMER MODEL",
             "points": [
-                "Google Cloud has unveiled AI Threat Defense, a new security initiative designed to help organizations outpace evolving cyber adversaries.",
-                "This platform leverages advanced AI to proactively identify and mitigate sophisticated threats, safeguarding cloud environments and data.",
-                "AI Threat Defense integrates with existing Google Cloud security frameworks, providing a unified and intelligent defense against AI-driven attacks.",
-                "For enterprises, this means enhanced resilience, reduced risk of breaches, and continuous protection against state-of-the-art cyber espionage."
+                "Meta has reversed its previous stance, releasing Muse Glimmer, a new open-weight AI model designed to provide broader access to its advanced capabilities.",
+                "This strategic shift democratizes access to Meta's generative AI technology, potentially accelerating innovation and research within the open-source community.",
+                "Muse Glimmer's architecture is optimized for high-performance generative tasks, offering developers flexible tools for image and multimodal content creation.",
+                "Enterprises and developers can now integrate Meta's frontier model into custom applications, fostering new product development and expanded AI use cases."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
             "tags": [
-                "Source: https://cloud.google.com/blog/product-announcements/introducing-google-ai-threat-defense-to-help-you-outpace-the-adversary",
-                "Published: 2026-08-12T13:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FUNDING PLATFORM",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These new VMs are engineered to support demanding AI, data, inference, and technical computing workloads, offering superior performance.",
-                "The expansion enhances Azure's compute capabilities, providing customers with more powerful and efficient options for large-scale AI model training.",
-                "This strategic upgrade empowers businesses and researchers to accelerate complex simulations and generative AI applications in the cloud."
+                "NVIDIA has partnered with leading financial institutions, including Apollo and BlackRock, to establish AI compute infrastructure financing platforms.",
+                "This initiative aims to mobilize over $500 billion in third-party capital, addressing the escalating demand for high-performance AI computing resources.",
+                "The platforms will provide critical funding pathways for building data centers and acquiring advanced NVIDIA GPUs, expanding global AI infrastructure capacity.",
+                "This move ensures a stable supply of compute resources for enterprises, potentially mitigating future chip pricing volatility and availability challenges."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-12T12:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-$500-billion-of-third-party-capital",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "OPENAI: HALTS ASTRA MODEL DEVELOPMENT OVER SECURITY",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure for sovereign AI.",
-                "This launch aims to provide robust data governance and compliance, ensuring AI solutions meet strict regional regulatory requirements.",
-                "Shieldstral offers dedicated AI cloud infrastructure within Europe, enabling organizations to deploy and run models with enhanced security and control.",
-                "European enterprises can now build tailored AI systems with confidence, leveraging local compute and open-source flexibility while adhering to data residency laws."
+                "OpenAI has paused the development of its Astra multimodal AI model due to emerging security concerns identified during internal safety evaluations.",
+                "This halt underscores OpenAI's commitment to responsible AI development, prioritizing safety and robust security measures over rapid deployment.",
+                "The decision involves a comprehensive review of Astra's architecture to address potential vulnerabilities related to data privacy and misuse.",
+                "Developers and enterprises leveraging OpenAI models should anticipate rigorous safety protocols and transparent communication regarding future multimodal releases."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE/QUANTINUUM: QUANTUM COMPUTING ON OCI",
+            "nextUpTease": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://www.aibusiness.com/cybersecurity/security-concerns-cause-openai-to-halt-work-on-astra-model",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ORACLE/QUANTINUUM: QUANTUM COMPUTING ON OCI",
+            "heading": "GOOGLE: NEW AI BOSS TACKLES COMPETITION GAP",
             "points": [
-                "Oracle is partnering with Quantinuum to integrate quantum computing capabilities into Oracle Cloud Infrastructure (OCI), offering a hybrid AI solution.",
-                "This planned OCI service will provide cloud-based access to Quantinuum\u2019s Helios system, bridging quantum and classical high-performance computing.",
-                "The integration aims to accelerate complex AI workloads, enabling breakthroughs in scientific research, materials science, and financial modeling.",
-                "Enterprises will gain unprecedented access to quantum resources, solving previously intractable problems and enhancing AI model development."
+                "Google has appointed a new head of AI, inheriting the challenging mandate to accelerate innovation and close the competitive gap with rivals like OpenAI and Anthropic.",
+                "This leadership change signals Google's intensified focus on advanced AI development, aiming to reassert its position at the frontier of generative models.",
+                "The new AI boss will be tasked with streamlining research initiatives and enhancing product deployment to deliver more impactful AI solutions faster.",
+                "Industry stakeholders anticipate a more aggressive market strategy from Google, potentially leading to rapid advancements and new enterprise-grade AI offerings."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: MAJOR HIRING FOR ENFORCEMENT",
+            "nextUpTease": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
             "tags": [
-                "Source: https://www.cio.com/article/2135064/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/12/googles-new-ai-boss-inherits-a-race-to-catch-openai-and-anthropic.html",
+                "Published: 2026-08-12T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: MAJOR HIRING FOR ENFORCEMENT",
+            "heading": "ANTHROPIC: CLAUDE CODE AUTO MODE FOR PAID USERS",
             "points": [
-                "The EU AI Office has announced a significant hiring initiative, seeking 40 new experts in tech, legal, and operations to enforce the AI Act.",
-                "This recruitment drive underscores the EU's commitment to robust oversight and practical implementation of AI regulatory frameworks.",
-                "The new positions are crucial for establishing a functional body capable of guiding compliance, assessing high-risk AI, and addressing emerging challenges.",
-                "Businesses operating within or with the EU must prepare for heightened scrutiny and direct engagement with these enforcement teams as mandates roll out."
+                "Anthropic has made Claude Code\u2019s auto mode the default setting for all paid users, significantly enhancing its utility for advanced software development tasks.",
+                "This update streamlines workflows, allowing developers to leverage Claude\u2019s sophisticated coding capabilities for automated code generation and debugging by default.",
+                "The feature integrates deeper into development environments, boosting productivity and enabling more efficient handling of complex programming challenges.",
+                "Enterprises utilizing Claude for software engineering can expect faster project completion times and improved code quality, driving substantial operational efficiencies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office-40-new-posts/",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://www.infoworld.com/article/3710200/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
