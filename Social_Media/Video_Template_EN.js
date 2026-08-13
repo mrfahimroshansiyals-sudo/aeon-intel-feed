@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER MODEL DEPLOYMENT",
+        "hookTitle": "SK HYNIX'S $720 BILLION AI MEMORY BET",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL DEPLOYMENT",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
+                "headline": "SK HYNIX: $720B AI MEMORY BET",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6 to enhance frontier reasoning capabilities across enterprise workloads. The deployment reduces token processing costs by thirty percent while increasing complex task resolution speeds."
+                "narration_line": "SK Hynix is investing an unprecedented $720 billion over the next decade to expand AI memory production in Korea and the U.S. This move is critical to meet the surging demand for High Bandwidth Memory, directly impacting the future of AI compute capabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
-                "teaserTitle": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
+                "headline": "AMD: PARTNERS ON UK FRONTIER AI RESEARCH",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA unveiled Nemotron 3.5 Lightning alongside NeMo Switchyard for low latency agent orchestration. This architectural update lowers inference latency by forty percent on localized data center clusters."
+                "narration_line": "AMD has announced a partnership with the British Open-ended Learning and Discovery Lab at Oxford University to advance frontier AI research. This collaboration will leverage AMD's compute platforms to accelerate the development of next-generation AI architectures and models."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
-                "teaserTitle": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "MISTRAL AI: SOVEREIGN AI INFRASTRUCTURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft has reduced API pricing for its frontier coding models to maintain competitive dominance against open weight alternatives. The price drop enables enterprise software developers to scale automated code generation while cutting costs."
+                "narration_line": "OpenAI is expanding its Daybreak initiative to fortify AI security and combat escalating cyber threats. The program will develop advanced AI models specifically designed to detect and neutralize adversarial attacks, enhancing enterprise protection."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
-                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
+                "headline": "MISTRAL AI: SOVEREIGN AI INFRASTRUCTURE",
+                "teaserTitle": "NVIDIA: INTRODUCES NEW OPEN MODEL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM secured a two hundred forty million dollar agreement to deploy specialized NVIDIA compute clusters for enterprise workloads. The infrastructure expansion increases dedicated cloud hardware capacity to support high throughput agentic deployments."
+                "narration_line": "Mistral AI has launched Shieldstral, an initiative focused on in-region inference and sovereign AI infrastructure for Europe. This platform guarantees data residency and compliance, empowering regulated organizations to deploy AI with enhanced privacy controls."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
-                "teaserTitle": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
+                "headline": "NVIDIA: INTRODUCES NEW OPEN MODEL",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure introduced new virtual machine instances powered by AMD Instinct MI455X accelerators. The deployment delivers up to twenty five percent higher performance for memory intensive deep learning and inference tasks."
+                "narration_line": "NVIDIA has introduced a new open model, specifically optimized for deployment on local devices and edge infrastructure. This model aims to reduce latency and operational overhead, offering targeted AI capabilities for specific enterprise use cases."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
-                "teaserTitle": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "teaserTitle": "CIO: SALESFORCE & SAP AI AGENTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks completed a five billion dollar funding round, elevating its overall market valuation to one hundred ninety billion dollars. The capital will fund large scale enterprise data infrastructure and autonomous agent integration."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurately forecasting cyclone trajectories and intensity. This advancement provides crucial lead time for disaster preparedness, potentially mitigating economic damage and saving lives."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
+                "headline": "CIO: SALESFORCE & SAP AI AGENTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google Cloud officially released Gemini 3.6 Flash to optimize real time multimodal processing and agentic workflows. The model decreases time to first token by fifteen percent across enterprise cloud infrastructure."
+                "narration_line": "Salesforce and SAP are integrating AI agents directly into their enterprise software workflows, boosting automation across business processes. This will streamline tasks, improve decision-making, and significantly reduce manual intervention within CRM and ERP systems."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
