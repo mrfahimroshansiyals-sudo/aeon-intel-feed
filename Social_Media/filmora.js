@@ -4,51 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SK HYNIX: $720B AI MEMORY BET",
-                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH",
-                "visual_caption": "SK Hynix is investing an unprecedented $720B over the next decade to expand AI memory production in Korea and the U.S. This move is critical to meet surging demand for High Bandwidth Memory, directly impacting future AI compute capabilities."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI launched GPT-5.6, a new frontier model for scalable intelligence. It optimizes performance for demanding enterprise apps, enhancing agentic workflows & real-time decision-making."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: PARTNERS ON UK FRONTIER AI RESEARCH",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "AMD announced a partnership with the British Open-ended Learning and Discovery Lab at Oxford University for frontier AI research. This collaboration leverages AMD's platforms to accelerate next-gen AI architectures and models."
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, its latest workhorse model for coding & AI agents. It boosts developer productivity & enables autonomous agents to execute complex, multi-step tasks efficiently."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "MISTRAL AI: SOVEREIGN AI INFRASTRUCTURE",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI expands its Daybreak initiative to fortify AI security and combat escalating cyber threats. The program develops advanced AI models to detect and neutralize adversarial attacks, enhancing enterprise protection."
+                "visual_caption": "Google Cloud unveiled new Gemini Flash models: 3.6 Flash, 3.5 Flash-Lite, & 3.5 Flash Cyber. These models offer tailored intelligence across various enterprise use cases, from operations to cybersecurity."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: SOVEREIGN AI INFRASTRUCTURE",
-                "teaserTitle": "NVIDIA: INTRODUCES NEW OPEN MODEL",
+                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
                 "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Mistral AI launched Shieldstral, focusing on in-region inference and sovereign AI infrastructure for Europe. This platform guarantees data residency and compliance, empowering regulated organizations with enhanced privacy controls."
+                "visual_caption": "Google Cloud released Gemini Omni Flash for multimodal creation & Nano Banana 2 Lite for rapid image generation. These tools empower creative pros, enhancing design iteration & dynamic content production."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: INTRODUCES NEW OPEN MODEL",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL",
                 "visual_asset": "backgroundyt5.png",
-                "visual_caption": "NVIDIA introduced a new open model, optimized for deployment on local devices and edge infrastructure. This aims to reduce latency and operational overhead, offering targeted AI for specific enterprise use cases."
+                "visual_caption": "NVIDIA introduced Nemotron 3.5 Lightning & NeMo Switchyard, boosting agentic AI efficiency. These advancements provide significant improvements in the speed & accuracy of AI agents for complex automated workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "teaserTitle": "CIO: SALESFORCE & SAP AI AGENTS",
+                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "teaserTitle": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
                 "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurately forecasting cyclone trajectories and intensity. This provides crucial lead time for disaster preparedness, potentially mitigating economic damage and saving lives."
+                "visual_caption": "Mistral AI launched Robostral, a new foundation model for advanced robotics. It integrates multi-modal sensor data with reasoning, enabling robots to perform complex tasks in unstructured environments."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO: SALESFORCE & SAP AI AGENTS",
+                "headline": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Salesforce and SAP are integrating AI agents directly into enterprise software workflows, boosting automation. This streamlines tasks, improves decision-making, and significantly reduces manual intervention within CRM and ERP systems."
+                "visual_caption": "Oracle integrates quantum computing into OCI for hybrid AI & HPC. This provides cloud access to Quantinuum\u2019s Helios system, accelerating complex AI model development."
             },
             {
                 "slide_index": 8,
