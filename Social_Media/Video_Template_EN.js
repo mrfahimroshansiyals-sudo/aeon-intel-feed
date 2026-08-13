@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "$500B AI COMPUTE INFRASTRUCTURE FINANCING",
+        "hookTitle": "AMD DEPLOYS 2GW INSTINCT MI450 GPUS FOR ANTHROPIC",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "SK HYNIX: $720B AI MEMORY INVESTMENT",
+                "headline": "AMD: 2GW INSTINCT MI450 DEPLOYMENT",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA partnered with Wall Street giants to launch AI compute infrastructure financing platforms. This mobilizes over five hundred billion dollars, addressing escalating demand for high-performance AI computing and accelerating global AI deployment."
+                "narration_line": "AMD and Anthropic have announced a strategic partnership to deploy up to two gigawatts of Instinct MI450 Series GPUs. This landmark deal secures unprecedented compute capacity for next generation frontier Claude models."
             },
             {
                 "slide_index": 2,
-                "headline": "SK HYNIX: $720B AI MEMORY INVESTMENT",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING RELEASE",
+                "teaserTitle": "MICROSOFT: AZURE LAUNCHES AMD VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "SK Hynix commits an unprecedented seven hundred and twenty billion dollars to expand AI memory production in Korea and the U.S. This addresses the critical High Bandwidth Memory bottleneck, crucial for scaling next-generation AI accelerators."
+                "narration_line": "NVIDIA has launched Nemotron 3.5 Lightning alongside NeMo Switchyard to accelerate agentic AI deployments. The architecture enables ultra fast model routing to optimize speed, accuracy, and operational compute cost."
             },
             {
                 "slide_index": 3,
-                "headline": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
-                "teaserTitle": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
+                "headline": "MICROSOFT: AZURE LAUNCHES AMD VIRTUAL MACHINES",
+                "teaserTitle": "OPENAI: DAYBREAK AI CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Oracle will integrate quantum computing into OCI, providing cloud access to Quantinuum\u2019s Helios system. This allows enterprises to tackle complex hybrid AI workloads, enabling exponential performance gains for specialized applications."
+                "narration_line": "Microsoft Azure expanded its AI infrastructure with new virtual machines powered by AMD Instinct MI455X accelerators. These instances deliver high performance scaling for complex enterprise training and real-time inference workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
-                "teaserTitle": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+                "headline": "OPENAI: DAYBREAK AI CYBER DEFENSE EXPANSION",
+                "teaserTitle": "AMD: OXFORD FRONTIER AI LAB PARTNERSHIP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mistral AI aims to build one gigabyte of dedicated compute capacity by two thousand thirty. This massive investment will fuel the training and deployment of next-generation frontier AI models, ensuring future scalability and performance."
+                "narration_line": "OpenAI expanded its Daybreak cybersecurity platform as the window against autonomous digital threats narrows. The updated toolkit equips enterprise security teams with real time defense systems to neutralize threat agents."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
+                "headline": "AMD: OXFORD FRONTIER AI LAB PARTNERSHIP",
+                "teaserTitle": "CODERABBIT: AGENTIC CODE CHANGE CONTROL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA introduces a new power architecture, critical for scaling AI compute performance. This innovation optimizes power delivery and thermal management for future GPUs, enabling higher computational density and efficiency in AI data centers."
+                "narration_line": "AMD partnered with the University of Oxford to establish a dedicated frontier AI research initiative in the United Kingdom. The lab will focus on open-ended learning algorithms and advanced foundational model scaling."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
-                "teaserTitle": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
+                "headline": "CODERABBIT: AGENTIC CODE CHANGE CONTROL",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google Cloud launched its new AI Threat Defense solution, designed to proactively outpace cyber adversaries. This system provides real-time detection and automated response, significantly reducing breach windows and data loss."
+                "narration_line": "CodeRabbit introduced an Agentic Change Management platform to tackle code overload generated by automated AI assistants. The system validates and filters synthetic code reviews to maintain repository stability and quality."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office launched a massive hiring initiative, adding forty new posts in tech and legal for enforcing the AI Act. This bolsters its capacity to monitor high-risk AI systems and ensures rigorous compliance oversight."
+                "narration_line": "Researchers have successfully utilized generative artificial intelligence models to design functional biological viruses. The breakthrough underscores an urgent operational requirement for advanced biosecurity guardrails across public and private AI platforms."
             },
             {
                 "slide_index": 8,

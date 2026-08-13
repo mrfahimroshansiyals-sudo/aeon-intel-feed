@@ -4,49 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "SK HYNIX: $720B AI MEMORY INVESTMENT",
-                "visual_caption": "NVIDIA partnered with Wall Street giants to launch AI compute infra financing platforms. This mobilizes over $500B, addressing escalating demand for high-performance AI computing and accelerating global AI deployment."
+                "headline": "AMD: 2GW INSTINCT MI450 DEPLOYMENT",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING RELEASE",
+                "visual_caption": "AMD and Anthropic announced a strategic partnership deploying up to 2GW of Instinct MI450 Series GPUs. The deployment secures massive compute capacity for next-gen Claude AI models."
             },
             {
                 "slide_index": 2,
-                "headline": "SK HYNIX: $720B AI MEMORY INVESTMENT",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
-                "visual_caption": "SK Hynix commits an unprecedented $720B to expand AI memory production in Korea and the U.S. This addresses the critical HBM bottleneck, crucial for scaling next-gen AI accelerators."
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING RELEASE",
+                "teaserTitle": "MICROSOFT: AZURE LAUNCHES AMD VIRTUAL MACHINES",
+                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard to accelerate agentic AI workflows. The system enables dynamic model routing to optimize inference speed, accuracy, and compute costs."
             },
             {
                 "slide_index": 3,
-                "headline": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
-                "teaserTitle": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
-                "visual_caption": "Oracle will integrate quantum computing into OCI, providing cloud access to Quantinuum\u2019s Helios system. This allows enterprises to tackle complex hybrid AI workloads, enabling exponential performance gains for specialized apps."
+                "headline": "MICROSOFT: AZURE LAUNCHES AMD VIRTUAL MACHINES",
+                "teaserTitle": "OPENAI: DAYBREAK AI CYBER DEFENSE EXPANSION",
+                "visual_caption": "Microsoft Azure launched HDv2, HXv2, and ND MI455Xv7 VMs powered by AMD Instinct accelerators. The new instances provide high-density compute for enterprise AI workloads and real-time inference."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
-                "teaserTitle": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Mistral AI aims to build 1GB of dedicated compute capacity by 2030. This massive investment will fuel the training and deployment of next-gen frontier AI models, ensuring future scalability and performance."
+                "headline": "OPENAI: DAYBREAK AI CYBER DEFENSE EXPANSION",
+                "teaserTitle": "AMD: OXFORD FRONTIER AI LAB PARTNERSHIP",
+                "visual_caption": "OpenAI expanded its Daybreak cybersecurity platform to protect enterprise networks as AI threats accelerate. The toolkit delivers automated defense mechanisms to counter targeted agentic cyberattacks in real time."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "NVIDIA introduces a new power architecture, critical for scaling AI compute performance. This innovation optimizes power delivery and thermal management for future GPUs, enabling higher compute density and efficiency in AI data centers."
+                "headline": "AMD: OXFORD FRONTIER AI LAB PARTNERSHIP",
+                "teaserTitle": "CODERABBIT: AGENTIC CODE CHANGE CONTROL",
+                "visual_caption": "AMD partnered with the University of Oxford's Open-ended Learning Lab to advance UK frontier AI research. The initiative focuses on scaling autonomous learning architectures and open AI frameworks."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
-                "teaserTitle": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Google Cloud launched its new AI Threat Defense solution, designed to proactively outpace cyber adversaries. This system provides real-time detection and automated response, significantly reducing breach windows and data loss."
+                "headline": "CODERABBIT: AGENTIC CODE CHANGE CONTROL",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "visual_caption": "CodeRabbit launched Agentic Change Management to prevent developer overload from AI-generated code. The system automatically audits and filters synthetic pull requests to preserve code health."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The EU AI Office launched a massive hiring initiative, adding 40 new posts in tech and legal for enforcing the AI Act. This bolsters its capacity to monitor high-risk AI systems and ensures rigorous compliance oversight."
+                "visual_caption": "AI models demonstrated the capability to design functional biological viruses from scratch. The landmark study highlights the critical need for global biosecurity frameworks for generative platforms."
             },
             {
                 "slide_index": 8,
