@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$500B AI COMPUTE INFRASTRUCTURE",
-        "titleBlue": "FINANCING",
-        "footerSummary": "NVIDIA leads $500B AI infrastructure fund. Microsoft and Oracle advance agentic AI and quantum integration. Global AI governance strengthens."
+        "titleWhite": "GPT-5.6 UPDATES & FREE",
+        "titleBlue": "ACCESS",
+        "footerSummary": "OpenAI rolls out GPT-5.6 with free Luna access and Sol's enterprise boost. Azure expands AI capacity, while IBM secures a major NVIDIA cluster."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+            "heading": "OPENAI: GPT-5.6 UPDATES & FREE ACCESS",
             "points": [
-                "NVIDIA partners with Wall Street giants to establish AI compute infrastructure financing platforms.",
-                "This initiative aims to mobilize over $500 billion of third-party capital to accelerate AI deployment.",
-                "The strategic move provides crucial funding mechanisms for developing and scaling global AI compute capabilities.",
-                "It signals increased investor confidence in AI infrastructure as a key investable asset class for enterprises."
+                "OpenAI has released significant updates to its GPT-5.6 model, enhancing frontier intelligence capabilities.",
+                "This includes expanding free user access to GPT-5.6 Luna and improving GPT-5.6 Sol for enterprise efficiency, boosting financial sector productivity by 15% in pilot programs.",
+                "The move aims to democratize access to advanced AI while scaling sophisticated solutions for business operations.",
+                "Stakeholders can anticipate broader AI adoption and increased demand for integration services, driving innovation across various industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-10T16:00:00Z",
+                "Source: https://openai.com",
+                "Published: 2026-08-13T17:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: IQ & FOUNDRY FOR AI AGENTS",
+            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
             "points": [
-                "Microsoft Azure introduces new services: Microsoft IQ for unified agent context and Microsoft Foundry for agent orchestration.",
-                "These platforms enable enterprises to build, run, and govern AI agents at scale with their specific business context.",
-                "This expands Azure's agentic AI infrastructure, allowing secure connection to systems, data, and workflows for intelligent actions.",
-                "Organizations can optimize and accelerate the deployment of production AI agents, enhancing operational efficiency and data reasoning."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines.",
+                "These HDv2, HXv2, and ND MI455Xv7 VMs support demanding AI, data inference, and technical computing workloads, offering up to 2.5x performance gains.",
+                "The expansion provides enterprises with enhanced cloud capacity and specialized hardware for high-performance AI deployments.",
+                "Companies leveraging Azure can expect optimized performance for complex AI models and reduced latency in data processing tasks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE CLOUD: QUANTUM COMPUTING INTEGRATION",
+            "nextUpTease": "IBM: $240M NVIDIA AI CLUSTER DEAL",
             "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ORACLE CLOUD: QUANTUM COMPUTING INTEGRATION",
+            "heading": "IBM: $240M NVIDIA AI CLUSTER DEAL",
             "points": [
-                "Oracle is set to bring quantum computing capabilities to its Oracle Cloud Infrastructure (OCI).",
-                "The planned OCI service will provide cloud-based access to Quantinuum\u2019s Helios system for hybrid AI workloads.",
-                "This integration allows clients to combine quantum computing with traditional AI and high-performance computing environments.",
-                "Enterprises can explore novel computational approaches for complex problems, unlocking new frontiers in AI and scientific research."
+                "IBM has finalized a $240 million deal to acquire a new NVIDIA-powered AI cluster, significantly bolstering its generative AI capabilities.",
+                "This investment will enhance IBM's compute infrastructure, delivering over 100 petaflops of AI performance for complex models and simulations.",
+                "The strategic acquisition reflects a growing trend of major enterprises investing heavily in dedicated AI hardware for advanced analytics.",
+                "Businesses can anticipate IBM's accelerated development of new AI services and solutions, impacting industries from finance to healthcare."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://www.cio.com",
-                "Published: 2026-08-12T17:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
-            "points": [
-                "NVIDIA launches Nemotron 3.5 Lightning and NeMo Switchyard, enhancing agentic AI capabilities.",
-                "These tools deliver faster, smarter, and more efficient performance for AI agents and open models.",
-                "The update reinforces NVIDIA\u2019s commitment to fueling open-source AI development and intelligent agent ecosystems.",
-                "Developers gain access to advanced solutions for building and deploying complex, multi-modal AI applications."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-signs-240m-deal-for-nvidia-powered-ai-cluster",
                 "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "id": 4,
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "Google Cloud introduces AI Threat Defense, a new product aimed at helping organizations outpace cyber adversaries.",
-                "This security offering leverages advanced AI to provide proactive and intelligent threat detection capabilities.",
-                "It integrates with existing Google Cloud security frameworks, strengthening the overall defense posture.",
-                "Enterprises can expect enhanced protection against sophisticated cyber threats, reducing risk and improving incident response."
+                "Mistral AI has introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure for sovereign AI.",
+                "This strategic offering enables organizations to deploy AI with enhanced data residency and regulatory control, crucial for sensitive industries.",
+                "Shieldstral aims to provide robust solutions that meet strict European data governance and security compliance frameworks.",
+                "Enterprises operating within the EU will benefit from localized, high-performance AI solutions, reducing latency and ensuring data sovereignty."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: OXFORD PARTNERSHIP FOR FRONTIER AI",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
             "tags": [
-                "Source: https://cloud.google.com",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-13T12:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+            "points": [
+                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, significantly improving prediction accuracy.",
+                "The model provides earlier and more precise warnings for extreme weather events, reducing forecast errors by 20% compared to traditional methods.",
+                "This advancement leverages deep learning to analyze vast atmospheric data, enhancing our ability to predict and prepare for natural disasters.",
+                "Governments and disaster response agencies can utilize this technology for more effective public safety measures and resource allocation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
+            "tags": [
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: OXFORD PARTNERSHIP FOR FRONTIER AI",
+            "heading": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
             "points": [
-                "AMD announces a strategic partnership with the British Open-ended Learning and Discovery Lab at Oxford University.",
-                "This collaboration aims to advance frontier AI research in the UK, fostering innovation in cutting-edge AI technologies.",
-                "AMD will contribute compute technology, open software, and expertise to support next-generation AI development.",
-                "The partnership strengthens the UK's position in global AI research, benefiting academic and industrial AI ecosystems."
+                "A recent MIT Technology Review report exposed a fundamental flaw making Large Language Models strikingly vulnerable to attack.",
+                "The vulnerability allows attackers to trick LLMs into generating malicious outputs or misbehaving, bypassing existing safety mechanisms.",
+                "This inherent flaw poses significant security and ethical challenges for the widespread deployment of AI models in critical systems.",
+                "Organizations must prioritize advanced adversarial training and robust oversight mechanisms to mitigate risks from deceptive AI agents."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE STAFFING FOR ENFORCEMENT",
+            "nextUpTease": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/13/1086000/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
+                "Published: 2026-08-13T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE STAFFING FOR ENFORCEMENT",
+            "heading": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
             "points": [
-                "The EU AI Office has announced a significant hiring round, seeking 40 new posts for AI Act enforcement.",
-                "These positions will cover technical, legal, and operational roles dedicated to ensuring compliance and oversight.",
-                "The expansion underscores the EU's commitment to robustly implementing the world's first comprehensive AI regulation.",
-                "Organizations operating in the EU must prepare for heightened scrutiny and compliance requirements as enforcement capacity scales."
+                "InfoWorld highlights that AI agents are encountering an existential infrastructure problem due to fragmented data silos.",
+                "Studies indicate agents cannot reliably act on or retrieve data in real-time if it's not accessible or understood, hindering deployment efficiency by up to 30%.",
+                "This challenge necessitates a fundamental rethink of data architecture to enable seamless, real-time data access for intelligent agents.",
+                "Enterprises must invest in unified data platforms and robust governance strategies to unlock the full potential of agentic AI workflows."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.infoworld.com/article/3710500/ai-agents-are-turning-data-silos-into-an-existential-infrastructure-problem.html",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
