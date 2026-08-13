@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND REDEFINES MULTI-MODAL AI",
+        "hookTitle": "GPT-5.6 RELEASED FOR SCALABLE AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH & OMNI",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "headline": "OPENAI: GPT-5.6 RELEASED FOR SCALABLE AMBITION",
+                "teaserTitle": "LAunches AI Agent Foundry",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash and Gemini Omni in August 2026. These models significantly advance multi-modal AI for coding, agents, and video-based content creation."
+                "narration_line": "OpenAI has released its new GPT 5.6 model, offering frontier intelligence for scalable AI applications. This enhances performance for complex enterprise workloads and accelerates large-scale AI deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
+                "headline": "MICROSOFT AZURE: LAUNCHES AI AGENT FOUNDRY",
+                "teaserTitle": "Unveils AI Threat Defense",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative this August. This move enhances security against AI-driven threats, safeguarding critical AI infrastructure."
+                "naration_line": "Microsoft Azure launches its AI Agent Production Foundry for building and deploying generative AI solutions. It integrates hosted agents and tracing, streamlining agent lifecycle management for businesses."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
-                "teaserTitle": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
+                "headline": "GOOGLE CLOUD: UNVEILS AI THREAT DEFENSE",
+                "teaserTitle": "Grok 4.6 Undercuts Rival Pricing",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure now features new AMD-powered AI and HPC virtual machines. These powerful instances are optimized for demanding AI training and data inference workloads, boosting performance by 20 percent."
+                "narration_line": "Google Cloud unveils its AI Threat Defense platform, designed to safeguard AI systems against emerging cyber threats. This enhances overall cyber resilience, protecting sensitive data and models from adversarial attacks."
             },
             {
                 "slide_index": 4,
-                "headline": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
-                "teaserTitle": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
+                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVAL PRICING",
+                "teaserTitle": "AI Designs Functional Viruses",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "MongoDB has integrated AI development features like vector embedding and agent workflows. This innovation simplifies building AI-powered applications, accelerating development cycles by 25 percent."
+                "narration_line": "SpaceXAI's Grok 4.6 model is out, focused on long-running tasks and undercutting rival AI prices. This offers enterprises a cost-effective option for advanced AI deployments, intensifying market competition."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "Oracle Brings Quantum to OCI AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IEEE Spectrum highlights critical data bottlenecks impacting visual and physical AI. These issues cause up to 30 percent project delays, demanding new data management strategies."
+                "narration_line": "IEEE Spectrum reports AI can now design functional viruses, raising critical ethical and safety questions. This underscores the urgent need for robust AI governance and strict safeguards to prevent misuse."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
+                "headline": "CIO MAGAZINE: ORACLE BRINGS QUANTUM TO OCI AI",
+                "teaserTitle": "Oxford Partnership for Frontier AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases into agentic AI apps. This enhances data access and reduces latency by 10 to 15 percent for complex AI workflows."
+                "narration_line": "Oracle plans to integrate quantum computing into its OCI, providing cloud access to Quantinuum\u2019s Helios system. This offers enterprises cutting-edge quantum capabilities for complex AI and HPC problems."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
+                "headline": "AMD: OXFORD PARTNERSHIP FOR FRONTIER AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mistral AI plans to build one gigabyte of compute capacity by 2030. This ambitious goal will support next-generation AI models, boosting processing speed by 50 percent."
+                "narration_line": "AMD partners with Oxford University's BOLD Lab to advance frontier AI research in the UK. This collaboration aims to push AI boundaries, fostering academic-industrial synergy for long-term breakthroughs."
             },
             {
                 "slide_index": 8,
