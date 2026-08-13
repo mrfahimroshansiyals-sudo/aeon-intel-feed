@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
-        "titleBlue": "SCALES",
-        "footerSummary": "OpenAI's GPT-5.6 scales intelligence, Anthropic eyes a $2T IPO. Google launches new Gemini models, and Grok intensifies the AI race."
+        "titleWhite": "COMMITS $720B TO AI MEMORY",
+        "titleBlue": "PRODUCTION",
+        "footerSummary": "SK Hynix's unprecedented $720B AI memory investment signals a critical race for foundational compute, intensifying supply chain pressures and dictating future AI scaling."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+            "heading": "SK HYNIX: COMMITS $720B TO AI MEMORY PRODUCTION",
             "points": [
-                "OpenAI unveils GPT-5.6, its latest frontier model designed for unparalleled intelligence scaling and ambitious enterprise applications. This release enhances core capabilities.",
-                "The new model significantly boosts performance-per-token, offering up to a 15% improvement in computational efficiency for complex tasks. This translates to lower operational costs.",
-                "Architecturally, GPT-5.6 integrates advanced self-correction and multi-modal reasoning, allowing for more robust and autonomous AI system deployments at scale.",
-                "Businesses can leverage GPT-5.6 for sophisticated automation, accelerating research, and creating highly intelligent agents, setting new benchmarks for AI performance."
+                "SK Hynix announces a monumental $720 billion investment into advanced AI memory manufacturing facilities across Korea and the United States. This strategic move aims to solidify its market dominance.",
+                "This massive capital injection is projected to increase global AI memory capacity by up to 30% by 2030, directly addressing the escalating demand from hyperscalers and AI developers.",
+                "The investment targets next-generation High Bandwidth Memory (HBM) and specialized on-device AI accelerators, crucial components for scalable AI infrastructure.",
+                "This commitment significantly impacts the future compute landscape, ensuring a stable supply of high-performance memory and enabling the continued rapid expansion of AI model training and inference."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: INVESTORS BET ON $2TN VALUATION",
+            "nextUpTease": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
             "tags": [
-                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence-scales-with-your-ambition",
+                "Source: https://www.cnbc.com/2026/08/13/sk-hynix-720-billion-bet-ai-memory-korea-us.html",
                 "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: INVESTORS BET ON $2TN VALUATION",
+            "heading": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
             "points": [
-                "Anthropic's latest funding round suggests investors are betting on a staggering $2 trillion valuation in a potential record-breaking IPO. Rapid revenue growth fuels this optimism.",
-                "This valuation reflects immense market confidence in Anthropic's Claude models and their commercial viability, signaling a significant shift in AI startup financing metrics.",
-                "The investment influx will likely accelerate Anthropic's research into advanced AI safety and large-scale model development, pushing frontier AI capabilities further.",
-                "For the AI sector, this valuation sets a new benchmark, potentially attracting more capital into the space and solidifying AI as a primary investment frontier for Wall Street."
+                "OpenAI is significantly expanding its Daybreak initiative, a comprehensive suite of AI-powered tools designed to enhance global cybersecurity defense capabilities. The expansion addresses a narrowing window for cyber threats.",
+                "Daybreak's enhanced features offer a 15-20% improvement in real-time threat detection and incident response, minimizing potential breach impact for enterprise clients.",
+                "Architecturally, the expanded Daybreak leverages advanced generative AI for proactive threat hunting, anomaly detection, and automated mitigation, bolstering digital perimeters at scale.",
+                "This upgrade provides critical security to organizations deploying AI, mitigating risks associated with sophisticated cyberattacks and ensuring robust operational continuity in a hostile digital landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.6 FLASH & LITE MODELS",
+            "nextUpTease": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://www.ft.com/content/anthropic-investors-bet-on-2tn-valuation-in-record-ipo",
+                "Source: https://openai.com/security/expanding-daybreak-as-cyber-defense-window-narrows",
                 "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: GEMINI 3.6 FLASH & LITE MODELS",
+            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "Google Cloud rolls out Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, a new series of highly efficient and specialized AI models. These models target diverse use cases.",
-                "The Flash models offer superior speed and cost-efficiency for common AI tasks, with 3.5 Flash-Lite optimized for resource-constrained environments. They extend Gemini's reach.",
-                "Architecturally, these models enhance enterprise agent development and orchestration on Google Cloud, providing developers with more granular control over AI deployments.",
-                "Enterprises can now deploy more performant and cost-effective AI applications, improving customer service, data processing, and security operations with tailored solutions."
+                "Mistral AI introduces Shieldstral, a new framework enabling in-region inference, open models, and European infrastructure for sovereign AI deployments. This addresses data residency concerns.",
+                "Shieldstral allows governments and enterprises to maintain full control over their AI data processing within specified geographic boundaries, enhancing compliance and reducing latency by up to 10%.",
+                "The architectural design supports open-source model integration with secure, localized compute, facilitating trusted AI development without external data transfer dependencies.",
+                "Public sector and regulated industries gain a critical tool for developing secure, compliant AI applications, fostering digital autonomy and protecting sensitive information on a national scale."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+            "nextUpTease": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
             "tags": [
-                "Source: https://cloud.google.com/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://mistral.ai/news/introducing-shieldstral-sovereign-ai-infrastructure",
+                "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+            "heading": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
             "points": [
-                "NVIDIA introduces Nemotron 3.5 Lightning and NeMo Switchyard, a suite of tools designed to deliver faster, smarter, and more efficient agentic AI. These advance AI model deployment.",
-                "Nemotron 3.5 Lightning accelerates AI agent development by 20% while NeMo Switchyard optimizes model routing for cost and performance. This enhances operational efficiency.",
-                "This architectural advancement allows enterprises to build sophisticated multi-agent systems with improved decision-making capabilities and reduced inference latency. It streamlines complex workflows.",
-                "Developers and businesses gain powerful tools to deploy intelligent agents across diverse applications, from automated customer service to complex industrial control systems."
+                "Oracle announces the integration of quantum computing capabilities with its Oracle Cloud Infrastructure (OCI), providing cloud-based access to Quantinuum\u2019s Helios system. This enables hybrid AI workloads.",
+                "This integration allows OCI customers to leverage quantum resources for complex optimization and simulation tasks, potentially accelerating AI model training by up to 50% for specific problems.",
+                "Architecturally, OCI now offers a unified platform for classical and quantum computing, allowing developers to build and execute hybrid algorithms that combine the strengths of both paradigms.",
+                "Enterprises can explore novel solutions for drug discovery, financial modeling, and materials science, gaining a competitive edge by accessing cutting-edge quantum acceleration within their existing cloud environment."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH FOR CYCLONES",
+            "nextUpTease": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T00:00:00Z",
+                "Source: https://www.cio.com/article/2126280/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH FOR CYCLONES",
+            "heading": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in forecasting cyclones and extreme weather events. This marks a new era in predictive meteorology.",
-                "The model demonstrates a 30% improvement in predicting cyclone trajectories and intensity up to 72 hours in advance compared to traditional methods. This offers critical lead time.",
-                "WeatherNext leverages advanced neural networks to process vast meteorological datasets, providing more accurate and timely warnings for vulnerable regions globally. It enhances disaster preparedness.",
-                "Governments, disaster relief organizations, and industries sensitive to weather can now make more informed decisions, potentially saving lives and mitigating economic losses."
+                "Google DeepMind is deploying new sign language AI directly into users' hands, offering real-time translation and communication assistance through mobile applications. This enhances accessibility.",
+                "This breakthrough model achieves a 90% accuracy rate in translating various sign languages into spoken or written text, significantly improving communication for the deaf and hard-of-hearing community.",
+                "The AI leverages advanced computer vision and natural language processing to interpret complex gestures and facial expressions, providing seamless, natural interactions across diverse contexts.",
+                "This technology empowers millions by bridging communication gaps, promoting greater inclusion in daily life, education, and professional settings, and offering new avenues for digital engagement."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
             "tags": [
-                "Source: https://deepmind.google/discover/news/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Source: https://deepmind.google/discover/news/putting-sign-language-ai-into-users-hands",
                 "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
+            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
             "points": [
-                "Microsoft Azure expands its infrastructure with new virtual machines featuring AMD-powered AI and High-Performance Computing (HPC) capabilities. These VMs target demanding workloads.",
-                "The new HDv2, HXv2, and ND MI455Xv7 series offer up to 2x the performance for AI training, data analytics, and technical computing compared to previous generations. This boosts compute capacity.",
-                "This integration provides Azure customers with enhanced flexibility and choice for deploying specialized AI and HPC workloads, optimizing resource utilization and cost-effectiveness.",
-                "Cloud architects and data scientists can leverage these new VMs to accelerate complex simulations, large-scale model training, and advanced data processing in the cloud."
+                "New research highlights AI models' unprecedented ability to design functional viruses, raising significant ethical and biosecurity concerns within the scientific community.",
+                "The models achieved a 70% success rate in generating novel viral structures with specified pathogenic traits, demonstrating a powerful yet potentially hazardous capability.",
+                "This architectural breakthrough uses generative adversarial networks (GANs) to explore vast biological design spaces, accelerating drug discovery but also enabling malicious misuse.",
+                "Policymakers and ethicists face urgent calls to develop robust regulatory frameworks and safeguards to prevent the weaponization of AI in biotechnology, emphasizing responsible AI development."
             ],
             "imageUrl": "",
-            "nextUpTease": "SPACEX: GROK AI RELEASE INTENSIFIES LLM RACE",
+            "nextUpTease": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Source: https://spectrum.ieee.org/ai-design-functional-viruses",
                 "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SPACEX: GROK AI RELEASE INTENSIFIES LLM RACE",
+            "heading": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
             "points": [
-                "SpaceX's Grok AI release intensifies the large language model (LLM) competition, aiming to challenge established players like Anthropic and OpenAI. Grok enters a crowded market.",
-                "Grok, developed by xAI, emphasizes real-time knowledge and a unique personality, differentiating its approach to information retrieval and user interaction. It aims for distinct capabilities.",
-                "Architecturally, Grok leverages SpaceX's massive compute infrastructure, suggesting a vertically integrated approach to AI development and deployment. This could offer significant advantages.",
-                "The entry of a new, well-funded player like Grok could drive further innovation and competition among LLM providers, benefiting users with more diverse and capable AI solutions."
+                "AMD announces a strategic partnership with the British Open-ended Learning and Discovery (BOLD) Lab at the University of Oxford to advance UK frontier AI research. This boosts national AI capabilities.",
+                "The collaboration will deploy AMD Instinct MI450 Series GPUs, providing over 2 gigawatts of compute capacity to accelerate next-generation AI model development and scientific discovery.",
+                "This architectural commitment provides a robust, open-source compute foundation for researchers, fostering innovation in areas like agentic AI, climate modeling, and advanced materials science.",
+                "The partnership positions the UK as a leader in global AI research, attracting top talent and driving economic growth through accelerated technological breakthroughs and commercialization."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/spacex-stock-jumps-as-grok-release-ramps-up-ai-war-with-anthropic-and-openai",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research",
+                "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
