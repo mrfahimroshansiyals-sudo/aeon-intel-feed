@@ -4,45 +4,49 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
-                "visual_caption": "OpenAI expands Daybreak cyber defense, integrating advanced AI to fortify global cybersecurity. This enables real-time threat detection and autonomous countermeasures against escalating digital attacks."
+                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "SK HYNIX: $720B AI MEMORY INVESTMENT",
+                "visual_caption": "NVIDIA partnered with Wall Street giants to launch AI compute infra financing platforms. This mobilizes over $500B, addressing escalating demand for high-performance AI computing and accelerating global AI deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
-                "teaserTitle": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
-                "visual_caption": "SpaceX launches new Grok AI model, intensifying competition with Anthropic and OpenAI. This release introduces architectural efficiencies, boosting real-time data processing and nuanced responses."
+                "headline": "SK HYNIX: $720B AI MEMORY INVESTMENT",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
+                "visual_caption": "SK Hynix commits an unprecedented $720B to expand AI memory production in Korea and the U.S. This addresses the critical HBM bottleneck, crucial for scaling next-gen AI accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
-                "teaserTitle": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
-                "visual_caption": "New studies show AI agents turn data silos into an existential infrastructure problem for enterprises. Agents can't reliably act on inaccessible or misunderstood data, impeding real-time insights."
+                "headline": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
+                "teaserTitle": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
+                "visual_caption": "Oracle will integrate quantum computing into OCI, providing cloud access to Quantinuum\u2019s Helios system. This allows enterprises to tackle complex hybrid AI workloads, enabling exponential performance gains for specialized apps."
             },
             {
                 "slide_index": 4,
-                "headline": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
-                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
-                "visual_caption": "Salesforce and SAP embed AI agents directly into enterprise workflows, becoming active participants in core business processes. These agents automate tasks, influencing decisions and altering operational efficiency."
+                "headline": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
+                "teaserTitle": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Mistral AI aims to build 1GB of dedicated compute capacity by 2030. This massive investment will fuel the training and deployment of next-gen frontier AI models, ensuring future scalability and performance."
             },
             {
                 "slide_index": 5,
-                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
-                "teaserTitle": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
-                "visual_caption": "AMD partners with British Open-ended Learning and Discovery Lab at Oxford to advance UK frontier AI research. This collaboration targets next-gen model development and accelerates groundbreaking discoveries."
+                "headline": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "NVIDIA introduces a new power architecture, critical for scaling AI compute performance. This innovation optimizes power delivery and thermal management for future GPUs, enabling higher compute density and efficiency in AI data centers."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
-                "visual_caption": "IEEE reports AI can autonomously design functional biological viruses, raising global safety and ethical concerns. This highlights dual-use technology risks."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
+                "teaserTitle": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Google Cloud launched its new AI Threat Defense solution, designed to proactively outpace cyber adversaries. This system provides real-time detection and automated response, significantly reducing breach windows and data loss."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
+                "headline": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DeepMind's WeatherNext AI model achieves breakthrough in forecasting cyclones and extreme weather. This innovation delivers unprecedented precision for disaster preparedness globally."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "The EU AI Office launched a massive hiring initiative, adding 40 new posts in tech and legal for enforcing the AI Act. This bolsters its capacity to monitor high-risk AI systems and ensures rigorous compliance oversight."
             },
             {
                 "slide_index": 8,

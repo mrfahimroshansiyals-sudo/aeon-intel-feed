@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI DAYBREAK: CYBER DEFENSE EXPANSION",
+        "hookTitle": "$500B AI COMPUTE INFRASTRUCTURE FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
+                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "SK HYNIX: $720B AI MEMORY INVESTMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has expanded its Daybreak cyber defense initiative, integrating advanced artificial intelligence models to strengthen global cybersecurity. This move enables real-time threat detection and autonomous countermeasures against escalating digital attacks."
+                "narration_line": "NVIDIA partnered with Wall Street giants to launch AI compute infrastructure financing platforms. This mobilizes over five hundred billion dollars, addressing escalating demand for high-performance AI computing and accelerating global AI deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
-                "teaserTitle": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
+                "headline": "SK HYNIX: $720B AI MEMORY INVESTMENT",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "SpaceX has launched a new Grok artificial intelligence model, intensifying competition with Anthropic and OpenAI. This release introduces novel architectural efficiencies, boosting real-time data processing and generating nuanced responses."
+                "naration_line": "SK Hynix commits an unprecedented seven hundred and twenty billion dollars to expand AI memory production in Korea and the U.S. This addresses the critical High Bandwidth Memory bottleneck, crucial for scaling next-generation AI accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
-                "teaserTitle": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
+                "headline": "ORACLE: QUANTUM COMPUTING TO OCI FOR HYBRID AI",
+                "teaserTitle": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New studies show that artificial intelligence agents are transforming data silos into an existential infrastructure problem for enterprises. Agents cannot reliably act on inaccessible or misunderstood data, impeding real-time insights."
+                "narration_line": "Oracle will integrate quantum computing into OCI, providing cloud access to Quantinuum\u2019s Helios system. This allows enterprises to tackle complex hybrid AI workloads, enabling exponential performance gains for specialized applications."
             },
             {
                 "slide_index": 4,
-                "headline": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
-                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "headline": "MISTRAL AI: 1GB COMPUTE CAPACITY GOAL BY 2030",
+                "teaserTitle": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Salesforce and SAP are embedding artificial intelligence agents directly into enterprise workflows, becoming active participants in core business processes. These agents will automate tasks and influence decisions, altering operational efficiency."
+                "narration_line": "Mistral AI aims to build one gigabyte of dedicated compute capacity by two thousand thirty. This massive investment will fuel the training and deployment of next-generation frontier AI models, ensuring future scalability and performance."
             },
             {
                 "slide_index": 5,
-                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
-                "teaserTitle": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "NVIDIA: NEW POWER ARCHITECTURE FOR AI COMPUTE",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AMD has partnered with the British Open-ended Learning and Discovery Lab at the University of Oxford to advance frontier artificial intelligence research in the United Kingdom. This collaboration targets next-generation model development and accelerates groundbreaking discoveries."
+                "narration_line": "NVIDIA introduces a new power architecture, critical for scaling AI compute performance. This innovation optimizes power delivery and thermal management for future GPUs, enabling higher computational density and efficiency in AI data centers."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHED",
+                "teaserTitle": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "IEEE Spectrum reports new research indicating artificial intelligence can now autonomously design functional biological viruses. This breakthrough raises significant global safety and ethical concerns regarding dual-use technology."
+                "narration_line": "Google Cloud launched its new AI Threat Defense solution, designed to proactively outpace cyber adversaries. This system provides real-time detection and automated response, significantly reducing breach windows and data loss."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
+                "headline": "EU AI ACT: AI OFFICE HIRING FOR ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind's WeatherNext artificial intelligence model has achieved a breakthrough in accurately forecasting cyclones and other extreme weather events. This innovation delivers unprecedented precision, providing crucial lead times for disaster preparedness globally."
+                "narration_line": "The EU AI Office launched a massive hiring initiative, adding forty new posts in tech and legal for enforcing the AI Act. This bolsters its capacity to monitor high-risk AI systems and ensures rigorous compliance oversight."
             },
             {
                 "slide_index": 8,
