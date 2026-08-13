@@ -4,50 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL",
-                "teaserTitle": "AMD: OXFORD FRONTIER AI LAB",
-                "visual_caption": "Nvidia partnered with 6 Wall Street giants to mobilize over $500B in third-party capital. This framework transforms AI data centers into a mainstream investable asset class."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL UPGRADES",
+                "teaserTitle": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
+                "visual_caption": "OpenAI launched GPT-5.6, integrating frontier intelligence across its product suite. This upgrade enhances capabilities for free ChatGPT users and expands cyber defense tools."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: OXFORD FRONTIER AI LAB",
-                "teaserTitle": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
-                "visual_caption": "AMD partnered with Oxford University to advance frontier open-ended learning research across UK compute clusters. The agreement expands open-source developer access to software optimized for Instinct silicon."
+                "headline": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "NVIDIA's Spectrum-X Ethernet Photonics is in full production, providing next-gen networking for AI factories. This infrastructure ensures higher efficiency and reliability for large-scale deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "ORACLE: OCI QUANTUM HYBRID INTEGRATION",
-                "teaserTitle": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
-                "visual_caption": "Oracle Cloud is integrating Quantinuum's Helios system to deliver quantum computing alongside cloud AI infrastructure. This hybrid connection solves complex optimization challenges that exceed classical computing limits."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Google Cloud introduced its AI Threat Defense platform to proactively counter cyber adversaries. This system leverages advanced AI to detect and neutralize emerging security threats faster."
             },
             {
                 "slide_index": 4,
-                "headline": "CODERABBIT: AGENTIC CHANGE MANAGEMENT",
-                "teaserTitle": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
-                "visual_caption": "CodeRabbit launched Agentic Change Management to review and validate AI generated code overloads in repositories. Autonomous review agents help engineering teams maintain code quality without slowing production output."
+                "headline": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
+                "teaserTitle": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC VMs. These VMs offer high performance and efficiency for demanding AI and technical computing workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: PREMIUM CHATGPT BUSINESS TIER",
-                "teaserTitle": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
-                "visual_caption": "OpenAI launched a premium ChatGPT Business seat targeted at high-intensity enterprise power users and agentic workloads. This pricing update shifts software monetization from flat rates to heavy usage models."
+                "headline": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
+                "teaserTitle": "AI SECURITY: LLM VULNERABILITY EXPOSED",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Mistral AI unveiled new European infrastructure for in-region inference and sovereign AI initiatives. This move strengthens localized data processing and ensures EU compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "OVHCLOUD: 87% BARE METAL PRICE HIKE",
-                "teaserTitle": "IBM: $240M NVIDIA AI CLUSTER",
-                "visual_caption": "European provider OVHcloud announced server price increases up to 87% due to surging hardware and power costs. Enterprise clients face immediate cloud margin compression across both bare metal and cloud contracts."
+                "headline": "AI SECURITY: LLM VULNERABILITY EXPOSED",
+                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Researchers identified a fundamental flaw making LLMs vulnerable to attack. This critical discovery necessitates immediate action to enhance security protocols and prevent model manipulation."
             },
             {
                 "slide_index": 7,
-                "headline": "IBM: $240M NVIDIA AI CLUSTER",
+                "headline": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "IBM finalized a $240M contract for a dedicated Nvidia-powered supercomputing cluster. The deployment gives hybrid cloud enterprise customers high-speed infrastructure for proprietary foundation model training."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Google DeepMind announced advancements in its sign language AI system, improving real-time interpretation and generation. This breakthrough aims to bridge communication gaps and foster greater accessibility."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
