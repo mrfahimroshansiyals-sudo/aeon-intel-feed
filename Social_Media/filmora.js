@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SK HYNIX: COMMITS $720B TO AI MEMORY PRODUCTION",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "visual_caption": "SK Hynix is investing an unprecedented $720B into AI memory production across Korea and the U.S. This monumental commitment will dramatically increase global AI memory capacity by 30% by 2030."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL DEPLOYMENT",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
+                "visual_caption": "OpenAI has officially launched GPT-5.6 to enhance frontier reasoning capabilities across enterprise workloads. The deployment reduces token processing costs by 30% while increasing complex task resolution speeds."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
-                "visual_caption": "OpenAI is expanding its Daybreak initiative, an AI-powered suite for global cybersecurity defense, improving real-time threat detection by 15-20%. This enhancement provides critical security for organizations deploying AI."
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
+                "teaserTitle": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
+                "visual_caption": "NVIDIA unveiled Nemotron 3.5 Lightning alongside NeMo Switchyard for low-latency agent orchestration. This architectural update lowers inference latency by 40% on localized data center clusters."
             },
             {
                 "slide_index": 3,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
-                "visual_caption": "Mistral AI introduces Shieldstral, enabling sovereign AI deployments with in-region inference and open models for Europe. Governments and enterprises gain full control over local AI data, enhancing compliance and reducing latency."
+                "headline": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
+                "teaserTitle": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
+                "visual_caption": "Microsoft has reduced API pricing for its frontier coding models to maintain competitive dominance against open-weight alternatives. The price drop enables enterprise software developers to scale automated code generation while cutting costs."
             },
             {
                 "slide_index": 4,
-                "headline": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
-                "teaserTitle": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
-                "visual_caption": "Oracle is integrating quantum computing into its Cloud Infrastructure, offering access to Quantinuum\u2019s Helios system for hybrid AI workloads. This could accelerate specific AI training by up to 50% for complex problems."
+                "headline": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
+                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
+                "visual_caption": "IBM secured a $240M agreement to deploy specialized NVIDIA compute clusters for enterprise workloads. The infrastructure expansion increases dedicated cloud hardware capacity to support high-throughput agentic deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Google DeepMind is deploying new sign language AI directly to users, offering real-time translation and communication via mobile apps. This model achieves 90% accuracy, improving communication for the deaf and hard-of-hearing."
+                "headline": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
+                "teaserTitle": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
+                "visual_caption": "Microsoft Azure introduced new virtual machine instances powered by AMD Instinct MI455X accelerators. The deployment delivers up to 25% higher performance for memory-intensive deep learning and inference tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
-                "visual_caption": "New research highlights AI models\u2019 unprecedented ability to design functional viruses, raising significant biosecurity concerns. These models achieved a 70% success rate in generating novel pathogenic viral structures."
+                "headline": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
+                "teaserTitle": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
+                "visual_caption": "Databricks completed a $5B funding round, elevating its overall market valuation to $190B. The capital will fund large-scale enterprise data infrastructure and autonomous agent integration."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
+                "headline": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AMD announces a strategic partnership with Oxford University's BOLD Lab to advance UK frontier AI research. This deploys AMD Instinct MI450 Series GPUs, providing over 2GW of compute capacity."
+                "visual_caption": "Google Cloud officially released Gemini 3.6 Flash to optimize real-time multimodal processing and agentic workflows. The model decreases time-to-first-token by 15% across enterprise cloud infrastructure."
             },
             {
                 "slide_index": 8,

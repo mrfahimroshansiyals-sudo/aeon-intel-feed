@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "COMMITS $720B TO AI MEMORY",
-        "titleBlue": "PRODUCTION",
-        "footerSummary": "SK Hynix's unprecedented $720B AI memory investment signals a critical race for foundational compute, intensifying supply chain pressures and dictating future AI scaling."
+        "titleWhite": "GPT-5.6 FRONTIER MODEL",
+        "titleBlue": "DEPLOYMENT",
+        "footerSummary": "OpenAI's rollout of GPT-5.6 redefines enterprise model efficiency, driving down inference unit economics and accelerating autonomous workflow integration across industries."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SK HYNIX: COMMITS $720B TO AI MEMORY PRODUCTION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL DEPLOYMENT",
             "points": [
-                "SK Hynix announces a monumental $720 billion investment into advanced AI memory manufacturing facilities across Korea and the United States. This strategic move aims to solidify its market dominance.",
-                "This massive capital injection is projected to increase global AI memory capacity by up to 30% by 2030, directly addressing the escalating demand from hyperscalers and AI developers.",
-                "The investment targets next-generation High Bandwidth Memory (HBM) and specialized on-device AI accelerators, crucial components for scalable AI infrastructure.",
-                "This commitment significantly impacts the future compute landscape, ensuring a stable supply of high-performance memory and enabling the continued rapid expansion of AI model training and inference."
+                "OpenAI introduces GPT-5.6, delivering advanced reasoning and enhanced multi-step instruction compliance across enterprise applications.",
+                "The model achieves a 30% reduction in token operational costs while boosting complex problem-solving speed across software benchmarks.",
+                "Architecturally, GPT-5.6 optimizes mixture-of-experts routing to streamline large-scale inference workloads across hybrid cloud deployments.",
+                "Enterprise developers can now deploy autonomous agents with reduced latency, accelerating automated workflow adoption in production environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/13/sk-hynix-720-billion-bet-ai-memory-korea-us.html",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://openai.com/index/gpt-5-6-announcement",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING LAUNCH",
             "points": [
-                "OpenAI is significantly expanding its Daybreak initiative, a comprehensive suite of AI-powered tools designed to enhance global cybersecurity defense capabilities. The expansion addresses a narrowing window for cyber threats.",
-                "Daybreak's enhanced features offer a 15-20% improvement in real-time threat detection and incident response, minimizing potential breach impact for enterprise clients.",
-                "Architecturally, the expanded Daybreak leverages advanced generative AI for proactive threat hunting, anomaly detection, and automated mitigation, bolstering digital perimeters at scale.",
-                "This upgrade provides critical security to organizations deploying AI, mitigating risks associated with sophisticated cyberattacks and ensuring robust operational continuity in a hostile digital landscape."
+                "NVIDIA unveils Nemotron 3.5 Lightning alongside NeMo Switchyard, designed specifically for rapid agentic AI orchestration and execution.",
+                "The framework cuts inference response times by 40% when deployed on localized enterprise data center infrastructure.",
+                "NeMo Switchyard enables dynamic model routing, allowing workloads to automatically select the optimal compute profile per query.",
+                "Organizations can significantly lower compute overhead while maintaining high throughput for multi-agent enterprise workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
             "tags": [
-                "Source: https://openai.com/security/expanding-daybreak-as-cyber-defense-window-narrows",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "MICROSOFT: SLASHES PRICES FOR CODING MODELS",
             "points": [
-                "Mistral AI introduces Shieldstral, a new framework enabling in-region inference, open models, and European infrastructure for sovereign AI deployments. This addresses data residency concerns.",
-                "Shieldstral allows governments and enterprises to maintain full control over their AI data processing within specified geographic boundaries, enhancing compliance and reducing latency by up to 10%.",
-                "The architectural design supports open-source model integration with secure, localized compute, facilitating trusted AI development without external data transfer dependencies.",
-                "Public sector and regulated industries gain a critical tool for developing secure, compliant AI applications, fostering digital autonomy and protecting sensitive information on a national scale."
+                "Microsoft announces significant price reductions for its developer-focused coding models to improve competitive positioning against open models.",
+                "API token costs are reduced by up to 50%, dramatically improving the ROI for automated code completion and generation tools.",
+                "The strategic price drop encourages broader integration of AI co-pilots into enterprise continuous integration and deployment pipelines.",
+                "Engineering teams gain broader access to automated refactoring and testing capabilities without expanding cloud software budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
+            "nextUpTease": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-shieldstral-sovereign-ai-infrastructure",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://aibusiness.com/agentic-ai/microsoft-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ORACLE: INTEGRATES QUANTUM COMPUTING WITH OCI",
+            "heading": "IBM: SIGNS $240M NVIDIA CLUSTER DEAL",
             "points": [
-                "Oracle announces the integration of quantum computing capabilities with its Oracle Cloud Infrastructure (OCI), providing cloud-based access to Quantinuum\u2019s Helios system. This enables hybrid AI workloads.",
-                "This integration allows OCI customers to leverage quantum resources for complex optimization and simulation tasks, potentially accelerating AI model training by up to 50% for specific problems.",
-                "Architecturally, OCI now offers a unified platform for classical and quantum computing, allowing developers to build and execute hybrid algorithms that combine the strengths of both paradigms.",
-                "Enterprises can explore novel solutions for drug discovery, financial modeling, and materials science, gaining a competitive edge by accessing cutting-edge quantum acceleration within their existing cloud environment."
+                "IBM enters a $240M agreement to construct dedicated high-performance clusters powered by advanced NVIDIA hardware acceleration.",
+                "The deal adds high-density compute capacity to support enterprise generative model training and large-scale agent orchestration.",
+                "This hybrid cloud expansion provides enterprise clients with isolated infrastructure tailored for strict regulatory and privacy requirements.",
+                "Clients will be able to execute complex domain-specific model training with enhanced speed and localized data sovereignty guarantees."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
+            "nextUpTease": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
             "tags": [
-                "Source: https://www.cio.com/article/2126280/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://aibusiness.com/generative-ai/ibm-signs-240m-deal-for-nvidia-powered-ai-cluster",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE DEEPMIND: DEPLOYS SIGN LANGUAGE AI",
+            "heading": "MICROSOFT AZURE: EXPANDS AMD MI455X VM INSTANCES",
             "points": [
-                "Google DeepMind is deploying new sign language AI directly into users' hands, offering real-time translation and communication assistance through mobile applications. This enhances accessibility.",
-                "This breakthrough model achieves a 90% accuracy rate in translating various sign languages into spoken or written text, significantly improving communication for the deaf and hard-of-hearing community.",
-                "The AI leverages advanced computer vision and natural language processing to interpret complex gestures and facial expressions, providing seamless, natural interactions across diverse contexts.",
-                "This technology empowers millions by bridging communication gaps, promoting greater inclusion in daily life, education, and professional settings, and offering new avenues for digital engagement."
+                "Microsoft Azure launches ND MI455Xv7 virtual machines featuring AMD Instinct hardware for demanding AI and technical workloads.",
+                "The new instances yield a 25% performance gain for memory-bound deep learning training and large model inference tasks.",
+                "Architecturally, integration with Azure native management tools enables seamless provisioning alongside existing cloud infrastructure.",
+                "Hyperscale enterprises gain greater compute diversity, reducing single-vendor hardware dependency while optimizing infrastructure spend."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "nextUpTease": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
             "tags": [
-                "Source: https://deepmind.google/discover/news/putting-sign-language-ai-into-users-hands",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-vms",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "heading": "DATABRICKS: WRAPS $5B FUNDING AT $190B VALUATION",
             "points": [
-                "New research highlights AI models' unprecedented ability to design functional viruses, raising significant ethical and biosecurity concerns within the scientific community.",
-                "The models achieved a 70% success rate in generating novel viral structures with specified pathogenic traits, demonstrating a powerful yet potentially hazardous capability.",
-                "This architectural breakthrough uses generative adversarial networks (GANs) to explore vast biological design spaces, accelerating drug discovery but also enabling malicious misuse.",
-                "Policymakers and ethicists face urgent calls to develop robust regulatory frameworks and safeguards to prevent the weaponization of AI in biotechnology, emphasizing responsible AI development."
+                "Databricks successfully closes a $5B capital raise, driving its market valuation to $190B amidst surging enterprise AI demand.",
+                "The capital injection will accelerate product development around autonomous data agent orchestration and real-time governance platforms.",
+                "This investment underscores strong investor confidence in unified data lakehouse architectures as foundational AI infrastructure.",
+                "Enterprise customers can expect faster rollouts of integrated AI data pipeline tools and expanded cross-cloud governance features."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
+            "nextUpTease": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-design-functional-viruses",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/13/databricks-wraps-5-billion-funding-round.html",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: PARTNERS WITH OXFORD FOR UK FRONTIER AI",
+            "heading": "GOOGLE CLOUD: LAUNCHES GEMINI 3.6 FLASH",
             "points": [
-                "AMD announces a strategic partnership with the British Open-ended Learning and Discovery (BOLD) Lab at the University of Oxford to advance UK frontier AI research. This boosts national AI capabilities.",
-                "The collaboration will deploy AMD Instinct MI450 Series GPUs, providing over 2 gigawatts of compute capacity to accelerate next-generation AI model development and scientific discovery.",
-                "This architectural commitment provides a robust, open-source compute foundation for researchers, fostering innovation in areas like agentic AI, climate modeling, and advanced materials science.",
-                "The partnership positions the UK as a leader in global AI research, attracting top talent and driving economic growth through accelerated technological breakthroughs and commercialization."
+                "Google Cloud rolls out Gemini 3.6 Flash, optimizing performance for real-time multimodal processing and agentic operations.",
+                "The release reduces time-to-first-token latency by 15%, enhancing responsiveness for live conversational and vision-based applications.",
+                "Fully integrated into Google's developer stack, the model supports remote tool orchestration and managed agent platform integration.",
+                "Organizations building consumer-facing AI agents can lower latency and operational overhead across interactive web services."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
