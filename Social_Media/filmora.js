@@ -4,51 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL UPGRADES",
-                "teaserTitle": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
-                "visual_caption": "OpenAI launched GPT-5.6, integrating frontier intelligence across its product suite. This upgrade enhances capabilities for free ChatGPT users and expands cyber defense tools."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
+                "visual_caption": "NVIDIA partners with Wall Street giants to mobilize >$500B for AI compute infrastructure. This financing simplifies access to critical AI hardware for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "NVIDIA's Spectrum-X Ethernet Photonics is in full production, providing next-gen networking for AI factories. This infrastructure ensures higher efficiency and reliability for large-scale deployments."
+                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING ON OCI",
+                "visual_caption": "NVIDIA releases Nemotron 3.5 Lightning & NeMo Switchyard for agentic AI. Tools enhance speed and efficiency for sophisticated AI agent deployment."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google Cloud introduced its AI Threat Defense platform to proactively counter cyber adversaries. This system leverages advanced AI to detect and neutralize emerging security threats faster."
+                "headline": "ORACLE: QUANTUM COMPUTING ON OCI",
+                "teaserTitle": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
+                "visual_caption": "Oracle brings quantum computing to OCI, integrating Quantinuum\u2019s Helios system. Enterprises leverage hybrid AI for complex HPC workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
-                "teaserTitle": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC VMs. These VMs offer high performance and efficiency for demanding AI and technical computing workloads."
+                "headline": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES",
+                "visual_caption": "Chinese censorship mechanisms reportedly influence American AI model outputs. This raises ethical concerns about information integrity."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
-                "teaserTitle": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Mistral AI unveiled new European infrastructure for in-region inference and sovereign AI initiatives. This move strengthens localized data processing and ensures EU compliance."
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES",
+                "teaserTitle": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
+                "visual_caption": "Microsoft reduces prices for AI coding models, boosting competitiveness. This impacts cost-effectiveness of AI-powered code generation services."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Researchers identified a fundamental flaw making LLMs vulnerable to attack. This critical discovery necessitates immediate action to enhance security protocols and prevent model manipulation."
+                "headline": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
+                "teaserTitle": "AI OPERATIONS: AGENT DATA SILOS",
+                "visual_caption": "EU AI Office announced 40 new positions for AI Act enforcement. This signals firm commitment to rapid regulatory implementation."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
+                "headline": "AI OPERATIONS: AGENT DATA SILOS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Google DeepMind announced advancements in its sign language AI system, improving real-time interpretation and generation. This breakthrough aims to bridge communication gaps and foster greater accessibility."
+                "visual_caption": "AI agents face major challenges from enterprise data silos, hindering real-time data access. CIOs must prioritize data integration for effective agent deployment."
             },
             {
                 "slide_index": 8,

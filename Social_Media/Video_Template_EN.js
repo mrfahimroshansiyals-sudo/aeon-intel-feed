@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI UNVEILS GPT-5.6 FRONTIER MODEL UPGRADES",
+        "hookTitle": "NVIDIA $500B AI INFRASTRUCTURE FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL UPGRADES",
-                "teaserTitle": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, integrating advanced frontier intelligence across its product suite. This upgrade enhances capabilities for free ChatGPT users and expands cyber defense tooling."
+                "narration_line": "NVIDIA partnered with Wall Street giants to mobilize over $500 billion for AI compute infrastructure. This financing initiative is designed to simplify access to critical AI hardware."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING ON OCI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA's Spectrum-X Ethernet Photonics is now in full production, providing next-generation networking for AI factories. This infrastructure ensures higher efficiency and reliability for large-scale deployments."
+                "narration_line": "NVIDIA released Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI. These tools enhance speed and efficiency for sophisticated AI agent deployment."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
+                "headline": "ORACLE: QUANTUM COMPUTING ON OCI",
+                "teaserTitle": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduced its AI Threat Defense platform to proactively counter cyber adversaries. This system leverages advanced artificial intelligence to detect and neutralize emerging security threats faster."
+                "narration_line": "Oracle will bring quantum computing to OCI, integrating Quantinuum\u2019s Helios system. This enables enterprises to leverage hybrid AI for complex HPC workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
-                "teaserTitle": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
+                "headline": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These VMs offer high performance and efficiency for demanding artificial intelligence and technical computing workloads."
+                "naration_line": "Chinese censorship mechanisms are reportedly influencing American AI model outputs. This raises significant ethical concerns about information integrity."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
-                "teaserTitle": "AI SECURITY: LLM VULNERABILITY EXPOSED",
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES",
+                "teaserTitle": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI unveiled new European infrastructure for in-region inference and sovereign artificial intelligence initiatives. This move strengthens localized data processing and ensures compliance within the European Union."
+                "narration_line": "Microsoft reduced prices for its AI coding models, boosting competitiveness. This impacts the cost-effectiveness of AI-powered code generation services."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
+                "headline": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
+                "teaserTitle": "AI OPERATIONS: AGENT DATA SILOS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Researchers have identified a fundamental flaw making large language models vulnerable to attack. This critical discovery necessitates immediate action to enhance security protocols and prevent model manipulation."
+                "narration_line": "The EU AI Office announced 40 new positions for AI Act enforcement. This signals a firm commitment to rapid regulatory implementation."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
+                "headline": "AI OPERATIONS: AGENT DATA SILOS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind announced advancements in its sign language artificial intelligence system, improving real-time interpretation and generation. This breakthrough aims to bridge communication gaps and foster greater accessibility."
+                "narration_line": "AI agents face major challenges from enterprise data silos, hindering real-time data access. CIOs must prioritize data integration for effective agent deployment."
             },
             {
                 "slide_index": 8,

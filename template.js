@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER MODEL",
-        "titleBlue": "UPGRADES",
-        "footerSummary": "OpenAI unveils significant GPT-5.6 advancements, integrating enhanced models into core products like ChatGPT and fortifying enterprise cyber defenses."
+        "titleWhite": "$500B AI INFRASTRUCTURE",
+        "titleBlue": "FINANCING",
+        "footerSummary": "NVIDIA leads $500B AI infrastructure financing. Oracle integrates quantum computing on OCI. Reports reveal AI censorship concerns. EU expands AI Act enforcement, Microsoft cuts coding model prices."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL UPGRADES",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
             "points": [
-                "OpenAI released GPT-5.6, integrating advanced frontier intelligence with enhanced scalability across its core product suite. This upgrade represents a significant leap in model capabilities.",
-                "New features include improved GPT-5.6 Sol access for ChatGPT free users and specialized deployment of GPT-5.6 Luna. The Daybreak cyber defense window also expands with this iteration.",
-                "This architectural refinement prioritizes a balanced approach to advanced user access, offering both free-tier enhancements and critical security tooling. It underscores a strategic expansion.",
-                "Enterprise power users and cybersecurity teams will benefit from the robust model improvements and fortified defense mechanisms, enhancing operational resilience and efficiency."
+                "NVIDIA has partnered with six major Wall Street firms including Apollo and BlackRock to launch AI compute infrastructure financing platforms. This initiative aims to mobilize over $500 billion in third-party capital.",
+                "The goal is to streamline access to crucial AI hardware, enabling enterprises and startups to deploy large-scale AI factories more readily. This provides a direct capital pathway for AI development.",
+                "This strategic move recognizes AI factory compute as a new investable asset class, alleviating capital expenditure burdens for developers and fostering rapid scaling of AI capabilities.",
+                "It is predicted to accelerate global AI adoption, impacting chip pricing and availability by increasing overall demand and structuring financing solutions for vast GPU clusters."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
             "tags": [
-                "Source: https://openai.com/",
-                "Published: 2026-08-12T14:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-10T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SPECTRUM-X ETHERNET PRODUCTION",
+            "heading": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
             "points": [
-                "NVIDIA's Spectrum-X Ethernet Photonics is now in full production, establishing next-generation scale-out networking for AI factories. This infrastructure ensures high-speed data flow.",
-                "The technology boasts 4x fewer lasers, 5x lower power consumption, and 10x higher mean time between incidents compared to previous generations. It optimizes large-scale deployments.",
-                "This development addresses the critical need for purpose-built networking to achieve gigawatt-scale AI factory operations. It leverages advanced silicon photonics manufacturing partners.",
-                "Data center operators and enterprise AI initiatives will achieve unprecedented levels of network efficiency, reliability, and reduced operational costs for their compute clusters."
+                "NVIDIA announced Nemotron 3.5 Lightning and NeMo Switchyard, new offerings designed to power faster, smarter, and more efficient agentic AI systems.",
+                "Nemotron 3.5 Lightning, a smaller model, optimizes local device deployment for specific use cases with enhanced speed and efficiency. NeMo Switchyard improves model orchestration.",
+                "These advancements support a system-of-models approach, allowing developers to combine frontier intelligence with specialized open models for optimal performance.",
+                "Enterprises can leverage these tools to build sophisticated AI agents that balance accuracy, speed, and cost, driving efficiency in diverse applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+            "nextUpTease": "ORACLE: QUANTUM COMPUTING ON OCI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/",
-                "Published: 2026-08-12T13:00:00Z",
+                "Source: https://nvidianews.nvidia.com/blogs/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE PLATFORM",
+            "heading": "ORACLE: QUANTUM COMPUTING ON OCI",
             "points": [
-                "Google Cloud introduced AI Threat Defense, a new platform designed to help organizations proactively outpace advanced cyber adversaries. It leverages Google's deep AI security research.",
-                "The platform integrates advanced AI capabilities to detect, analyze, and neutralize emerging threats with unprecedented speed and accuracy. This significantly reduces response times.",
-                "This strategic move enhances cloud security postures for enterprises, providing intelligent defense mechanisms against sophisticated, AI-driven attacks. It future-proofs digital assets.",
-                "CISOs and security architects can expect a significant uplift in their defensive capabilities, shifting from reactive to predictive threat mitigation strategies across cloud environments."
+                "Oracle is set to integrate quantum computing capabilities into its Oracle Cloud Infrastructure (OCI), offering cloud-based access to Quantinuum\u2019s Helios system.",
+                "This new OCI service will provide enterprises with hybrid AI solutions, combining classical and quantum computation for advanced problem-solving.",
+                "The strategic move positions Oracle at the forefront of hybrid AI, enabling customers to leverage quantum advantages for complex AI and HPC workloads.",
+                "Organizations will gain access to cutting-edge computational power, unlocking new possibilities for drug discovery, financial modeling, and materials science."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
+            "nextUpTease": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
             "tags": [
-                "Source: https://cloud.google.com/",
-                "Published: 2026-08-12T12:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: AZURE AMD HPC VM EXPANSION",
-            "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. This diversifies compute options.",
-                "These new VMs are specifically engineered to support demanding AI, data inference, and technical computing workloads, offering high performance and efficiency. They accelerate complex tasks.",
-                "The expansion signifies Microsoft's commitment to providing diverse, high-performance compute options tailored for various enterprise AI and high-performance computing needs. It broadens access.",
-                "Developers and data scientists requiring intensive computational power for large models will benefit from improved performance and cost-effectiveness for their specialized workloads."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
-            "tags": [
-                "Source: https://azure.microsoft.com/",
-                "Published: 2026-08-12T12:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: SOVEREIGN EUROPEAN AI CLOUD",
-            "points": [
-                "Mistral AI announced new European infrastructure supporting in-region inference, open models, and sovereign AI initiatives. This strengthens localized data processing.",
-                "The introduction of 'Shieldstral' and Mistral OCR 4 underscores a strategic push for secure, localized AI model deployment. This fosters data autonomy and compliance within Europe.",
-                "This development caters to the growing demand for data residency and privacy-compliant AI solutions within the European Union. It reduces reliance on external cloud providers.",
-                "European enterprises and public sector entities gain access to robust, privacy-centric AI capabilities, ensuring compliance with strict regional data governance frameworks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-            "tags": [
-                "Source: https://mistral.ai/",
-                "Published: 2026-08-12T12:15:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-            "points": [
-                "Researchers have identified a fundamental flaw rendering Large Language Models (LLMs) strikingly vulnerable to specific attack vectors. This poses a significant security challenge.",
-                "The vulnerability allows malicious actors to easily trick LLMs into generating forbidden content or performing unauthorized actions. This can lead to system compromise.",
-                "This discovery highlights critical security gaps in current LLM architectures, necessitating immediate research into more robust and resilient AI model designs. It impacts trust.",
-                "Organizations deploying LLMs must enhance their adversarial testing protocols and implement stronger guardrails to mitigate the risks of model manipulation and data leakage."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
-            "tags": [
-                "Source: https://www.technologyreview.com/",
+                "Source: https://www.cio.com/article/2070355/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
                 "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "DEEPMIND: SIGN LANGUAGE AI SYSTEM",
+            "id": 4,
+            "heading": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
             "points": [
-                "Google DeepMind announced advancements in its sign language AI system, now enabling more accurate and natural interpretation and generation capabilities. This fosters greater accessibility.",
-                "The new model significantly improves the real-time translation of sign language into spoken or written text, bridging communication gaps for deaf and hard-of-hearing individuals.",
-                "This breakthrough leverages advanced computer vision and natural language processing to create more inclusive AI applications. It represents a major social impact.",
-                "Developers and accessibility advocates can integrate this technology to build more effective communication tools, expanding digital equity and fostering broader societal inclusion."
+                "Reports indicate that Chinese censorship mechanisms are subtly influencing the outputs of American AI models, raising significant ethical and geopolitical concerns.",
+                "This \"leakage\" suggests that training data or model design inadvertently incorporates or aligns with foreign content restrictions, impacting information integrity.",
+                "The discovery necessitates rigorous auditing of global training datasets and model alignment processes to prevent foreign influence on AI behavior.",
+                "Enterprises deploying AI models must strengthen internal governance frameworks and dataset curation to maintain neutrality and avoid unintended bias."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MICROSOFT: SLASHES CODING MODEL PRICES",
+            "tags": [
+                "Source: https://www.wsj.com/articles/chinese-ai-censorship-leak-20260813",
+                "Published: 2026-08-13T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES",
+            "points": [
+                "Microsoft has significantly reduced prices for its AI coding models, a strategic move aimed at enhancing competitiveness and accelerating adoption among developers.",
+                "This price adjustment directly impacts the cost-effectiveness of AI-powered code generation, recommendation, and completion services in Azure.",
+                "The reduction is expected to intensify competition in the AI developer tools market, potentially driving broader enterprise integration of AI-assisted coding.",
+                "Developers and organizations will benefit from lower operational costs, making advanced AI coding capabilities more accessible for software development projects."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
+            "tags": [
+                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T10:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
+            "points": [
+                "The EU AI Office has initiated a significant hiring drive, announcing 40 new positions across technical, legal, and operational roles.",
+                "This recruitment surge is dedicated to enforcing the landmark EU AI Act, with expressions of interest due by September 8th, 2026.",
+                "The move signals the EU's firm commitment to implementing its comprehensive AI regulation, establishing a robust framework for governance and oversight.",
+                "Companies operating in the EU must prepare for heightened scrutiny and compliance demands, as enforcement capabilities are being rapidly scaled up."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AI OPERATIONS: AGENT DATA SILOS",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office-40-new-posts-tech-legal-ops-and-more-dedicated-to-enforcing-the-ai-act-express-interest-by-8-sept-midday-cet/",
+                "Published: 2026-08-13T08:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AI OPERATIONS: AGENT DATA SILOS",
+            "points": [
+                "New research highlights that AI agents are encountering significant challenges due to enterprise data silos, turning them into an existential infrastructure problem.",
+                "Agents cannot reliably act on data they cannot access, understand, or retrieve in real time, limiting their effectiveness and generating errors.",
+                "This issue necessitates a fundamental shift in data architecture, emphasizing unified, accessible data platforms for effective agentic AI deployment.",
+                "CIOs and IT leaders must prioritize data governance and integration strategies to unlock the full potential of AI agents across enterprise operations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-12T11:45:00Z",
+                "Source: https://www.cio.com/article/2070366/ai-agents-are-turning-data-silos-into-an-existential-infrastructure-problem.html",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
