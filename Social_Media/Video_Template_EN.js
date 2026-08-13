@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 UNLOCKS FREE ACCESS & AZURE BOOSTS AI",
+        "hookTitle": "ANTHROPIC INVESTORS BET ON $2TN VALUATION IN RECORD IPO",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 UPDATES & FREE ACCESS",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "headline": "ANTHROPIC: RECORD $2TN VALUATION IPO",
+                "teaserTitle": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has rolled out significant GPT-5.6 model updates, including free access to GPT-5.6 Luna. These enhancements boost enterprise efficiency, achieving 15 percent productivity gains in pilot programs."
+                "narration_line": "Anthropic investors target a 2 trillion dollar valuation for a record IPO. Rapid revenue growth fuels high expectations for the Claude maker."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "IBM: $240M NVIDIA AI CLUSTER DEAL",
+                "headline": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
+                "teaserTitle": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure now offers new AMD-powered virtual machines for AI and high-performance computing. These HDv2, HXv2, and ND MI455Xv7 VMs deliver up to 2.5 times faster performance for demanding workloads."
+                "narration_line": "Microsoft slashes prices for its flagship coding model to stay competitive. The price reduction lowers development overhead across enterprise teams."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: $240M NVIDIA AI CLUSTER DEAL",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
+                "teaserTitle": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM has secured a $240 million deal for an NVIDIA-powered AI cluster, significantly expanding its generative AI capacity. This investment aims to provide over one hundred petaflops of AI performance for complex models."
+                "narration_line": "Nvidia partners with Wall Street giants to mobilize 500 billion dollars for AI compute infrastructure. This financing platform transforms hardware acquisition into an asset class."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+                "headline": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
+                "teaserTitle": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mistral AI introduced Shieldstral, focusing on in-region inference and open models for sovereign AI. This initiative offers robust solutions for European data governance and security compliance frameworks."
+                "narration_line": "Software development environments evolve into toolkits for coordinating coding agents. Modern platforms shift human workflows toward architectural oversight."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
-                "teaserTitle": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
+                "headline": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
+                "teaserTitle": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "Google DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting. The model provides earlier, more precise warnings for extreme weather, reducing forecast errors by 20 percent."
+                "narration_line": "SK Hynix advances a 720 billion dollar memory buildout across Korea and the United States. The investment secures high bandwidth memory supplies for AI accelerators."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
-                "teaserTitle": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
+                "headline": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
+                "teaserTitle": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An MIT Technology Review report revealed a fundamental flaw making Large Language Models vulnerable to attack. This vulnerability allows tricking LLMs into generating malicious outputs, bypassing safety mechanisms."
+                "narration_line": "Security teams at Black Hat deploy custom AI agents inside network operations centers. These agents mitigate escalating automated threats at machine speed."
             },
             {
                 "slide_index": 7,
-                "headline": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "InfoWorld highlights that AI agents face infrastructure challenges due to data silos. Studies show agents cannot reliably access data, hindering deployment efficiency by up to 30 percent."
+                "narration_line": "The EU AI Office launches a major hiring round to enforce the AI Act. Forty new posts target technical and legal compliance across Europe."
             },
             {
                 "slide_index": 8,

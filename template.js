@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 UPDATES & FREE",
-        "titleBlue": "ACCESS",
-        "footerSummary": "OpenAI rolls out GPT-5.6 with free Luna access and Sol's enterprise boost. Azure expands AI capacity, while IBM secures a major NVIDIA cluster."
+        "titleWhite": "ANTHROPIC INVESTORS BET ON $2TN VALUATION IN RECORD",
+        "titleBlue": "IPO",
+        "footerSummary": "Anthropic targets a record $2 trillion IPO valuation amid surging revenue growth, while Microsoft slashes model pricing and financial hubs expand agent infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 UPDATES & FREE ACCESS",
+            "heading": "ANTHROPIC: RECORD $2TN VALUATION IPO",
             "points": [
-                "OpenAI has released significant updates to its GPT-5.6 model, enhancing frontier intelligence capabilities.",
-                "This includes expanding free user access to GPT-5.6 Luna and improving GPT-5.6 Sol for enterprise efficiency, boosting financial sector productivity by 15% in pilot programs.",
-                "The move aims to democratize access to advanced AI while scaling sophisticated solutions for business operations.",
-                "Stakeholders can anticipate broader AI adoption and increased demand for integration services, driving innovation across various industries."
+                "Anthropic investors are positioning for a historic $2 trillion valuation initial public offering, driven by rapid enterprise revenue growth across the Claude product line.",
+                "This potential listing reflects unprecedented demand for frontier AI capabilities and positions the company to surpass previous tech market benchmarks.",
+                "The proposed IPO underscores the maturation of generative AI firms transitioning from research labs to dominant capital-generating market entities.",
+                "Stakeholders should anticipate intensified scrutiny on financial governance, public market readiness, and competitive positioning against major cloud conglomerates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
             "tags": [
-                "Source: https://openai.com",
-                "Published: 2026-08-13T17:42:00Z",
+                "Source: https://www.ft.com/technology",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "heading": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines.",
-                "These HDv2, HXv2, and ND MI455Xv7 VMs support demanding AI, data inference, and technical computing workloads, offering up to 2.5x performance gains.",
-                "The expansion provides enterprises with enhanced cloud capacity and specialized hardware for high-performance AI deployments.",
-                "Companies leveraging Azure can expect optimized performance for complex AI models and reduced latency in data processing tasks."
+                "Microsoft has aggressively reduced pricing for its flagship AI coding model to maintain competitiveness in the rapidly expanding developer ecosystem.",
+                "The price cut lowers enterprise operational overhead for automated software generation, driving accelerated adoption across development teams.",
+                "This strategic maneuver responds directly to pricing pressures from open-weight alternatives and aggressive market positioning by rival hyperscalers.",
+                "Development leaders can expect reduced integration costs, forcing smaller niche tool providers to adapt their monetization strategies accordingly."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: $240M NVIDIA AI CLUSTER DEAL",
+            "nextUpTease": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: $240M NVIDIA AI CLUSTER DEAL",
+            "heading": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
             "points": [
-                "IBM has finalized a $240 million deal to acquire a new NVIDIA-powered AI cluster, significantly bolstering its generative AI capabilities.",
-                "This investment will enhance IBM's compute infrastructure, delivering over 100 petaflops of AI performance for complex models and simulations.",
-                "The strategic acquisition reflects a growing trend of major enterprises investing heavily in dedicated AI hardware for advanced analytics.",
-                "Businesses can anticipate IBM's accelerated development of new AI services and solutions, impacting industries from finance to healthcare."
+                "NVIDIA has partnered with major Wall Street financial institutions to establish dedicated AI compute infrastructure financing platforms mobilizing over $500B.",
+                "This massive capital injection aims to remove funding bottlenecks for enterprise AI factory deployment and large-scale data center construction.",
+                "The initiative shifts AI hardware acquisition from standard corporate budgeting into a mature, structured institutional asset class.",
+                "Enterprise architects can anticipate accelerated silicon supply chains and streamlined capital access for next-generation compute clusters."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-signs-240m-deal-for-nvidia-powered-ai-cluster",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure for sovereign AI.",
-                "This strategic offering enables organizations to deploy AI with enhanced data residency and regulatory control, crucial for sensitive industries.",
-                "Shieldstral aims to provide robust solutions that meet strict European data governance and security compliance frameworks.",
-                "Enterprises operating within the EU will benefit from localized, high-performance AI solutions, reducing latency and ensuring data sovereignty."
+                "Software development environments have evolved into comprehensive control toolkits for orchestrating multi-model coding agents.",
+                "Platforms like GitHub Copilot and Zed now coordinate complex background task execution, fundamentally shifting human developer workflows.",
+                "This transition moves engineering from manual syntax production to architectural oversight and agent direction.",
+                "Engineering organizations will need to upskill teams in prompt coordination and workflow governance to realize expected productivity gains."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+            "nextUpTease": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
             "tags": [
-                "Source: https://mistral.ai/news",
-                "Published: 2026-08-13T12:30:00Z",
+                "Source: https://www.infoworld.com",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+            "heading": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, significantly improving prediction accuracy.",
-                "The model provides earlier and more precise warnings for extreme weather events, reducing forecast errors by 20% compared to traditional methods.",
-                "This advancement leverages deep learning to analyze vast atmospheric data, enhancing our ability to predict and prepare for natural disasters.",
-                "Governments and disaster response agencies can utilize this technology for more effective public safety measures and resource allocation."
+                "SK Hynix is advancing a massive $720 billion capital expenditure buildout across South Korea and the United States to supply high-bandwidth memory for AI.",
+                "This multi-year investment addresses critical semiconductor memory shortages required by next-generation accelerators.",
+                "The expansion cements regional manufacturing dominance and secures memory supply chains against tightening global trade constraints.",
+                "Hardware manufacturers and cloud providers can expect improved component availability for scaling large language model training infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
+            "nextUpTease": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MIT TECH REVIEW: LLM ATTACK VULNERABILITY EXPOSED",
+            "heading": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
             "points": [
-                "A recent MIT Technology Review report exposed a fundamental flaw making Large Language Models strikingly vulnerable to attack.",
-                "The vulnerability allows attackers to trick LLMs into generating malicious outputs or misbehaving, bypassing existing safety mechanisms.",
-                "This inherent flaw poses significant security and ethical challenges for the widespread deployment of AI models in critical systems.",
-                "Organizations must prioritize advanced adversarial training and robust oversight mechanisms to mitigate risks from deceptive AI agents."
+                "Security experts at Black Hat have integrated custom AI agents directly into network operations centers to mitigate escalating automated threats.",
+                "These deployed agents analyze live threat streams and execute countermeasures at machine speeds to protect enterprise networks.",
+                "The integration highlights the necessity of autonomous defense mechanisms as cyber attacks scale in frequency and sophistication.",
+                "CISOs must prioritize secure agent frameworks and real-time validation protocols to prevent adversarial manipulation of defensive systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
+            "nextUpTease": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/13/1086000/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://www.techtarget.com",
+                "Published: 2026-08-12T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFOWORLD: AI AGENTS DATA SILO PROBLEM",
+            "heading": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
             "points": [
-                "InfoWorld highlights that AI agents are encountering an existential infrastructure problem due to fragmented data silos.",
-                "Studies indicate agents cannot reliably act on or retrieve data in real-time if it's not accessible or understood, hindering deployment efficiency by up to 30%.",
-                "This challenge necessitates a fundamental rethink of data architecture to enable seamless, real-time data access for intelligent agents.",
-                "Enterprises must invest in unified data platforms and robust governance strategies to unlock the full potential of agentic AI workflows."
+                "The EU AI Office has initiated a massive hiring round to onboard 40 specialized technical and legal experts dedicated to enforcing the AI Act.",
+                "This regulatory expansion strengthens compliance oversight for general-purpose AI models and high-risk enterprise deployments.",
+                "The development underscores Europe's commitment to rigorous regulatory enforcement of AI transparency and safety mandates.",
+                "Organizations operating within the European market must accelerate governance audits to align with upcoming enforcement deadlines."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710500/ai-agents-are-turning-data-silos-into-an-existential-infrastructure-problem.html",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
