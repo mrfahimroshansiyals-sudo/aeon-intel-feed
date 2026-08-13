@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI UNLEASHES GPT-5.6 FRONTIER INTELLIGENCE",
+        "hookTitle": "ANTHROPIC'S $2T AI VALUATION SHAKES MARKET",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "headline": "ANTHROPIC: VALUATION COULD HIT $2 TRILLION",
+                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, a new frontier model for scalable intelligence. This model optimizes performance for demanding enterprise applications, enhancing agentic workflows and real-time decision-making."
+                "narration_line": "Anthropic\u2019s IPO valuation is projected to reach two trillion dollars, a new record for venture-backed AI companies. This historic figure signals strong investor confidence, intensifying market competition and strategic M&A."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
+                "headline": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduced Gemini 3.7 Flash, its latest workhorse model for coding and AI agents. It significantly boosts developer productivity and enables more autonomous agents to execute complex, multi-step tasks efficiently."
+                "narration_line": "NVIDIA has partnered with major financial firms to launch five hundred billion dollars in AI compute financing platforms. This will accelerate global data center deployment and ensure critical funding for GPU architectures."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud unveiled new Gemini Flash models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These models offer tailored intelligence across various enterprise use cases, from operations to specialized cybersecurity threat detection."
+                "narration_line": "Microsoft Azure now offers new AMD-powered HDV2, HXV2, and ND MI455XV7 virtual machines. These VMs boost performance for demanding AI training, data processing, and HPC workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "headline": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud also released Gemini Omni Flash for multimodal creation and Nano Banana 2 Lite for rapid image generation. These tools provide powerful capabilities for creative professionals, enhancing design iteration and dynamic content production."
+                "narration_line": "SpaceX AI released its Grok 4.6 frontier AI model, undercutting rivals' prices for long-running tasks. This move intensifies competition, offering enterprises more cost-effective solutions for continuous AI processing."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
-                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
+                "teaserTitle": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard, boosting agentic AI efficiency. These advancements provide significant improvements in the speed and accuracy of AI agents for complex automated workflows."
+                "narration_line": "Google Cloud unveiled AI Threat Defense to help enterprises mitigate sophisticated AI-driven cyber threats. This service enhances security, enabling organizations to proactively identify and outpace adversaries."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL",
-                "teaserTitle": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
+                "headline": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI launched Robostral, a new foundation model powering advanced robotics. This model integrates multi-modal sensor data with reasoning, enabling robots to perform complex tasks in unstructured environments."
+                "narration_line": "The EU AI Office is actively recruiting forty new tech and legal experts for Act enforcement roles. This significant hiring drive accelerates the EU's commitment to operationalizing AI regulation globally."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Oracle will integrate quantum computing into OCI for hybrid AI and HPC environments. This move provides cloud-based access to Quantinuum\u2019s Helios system, accelerating complex AI model development."
+                "naration_line": "New research indicates AI can now design functional viruses, raising significant safety concerns. This highlights the urgent need for robust ethical guidelines and secure research protocols in AI-driven biology."
             },
             {
                 "slide_index": 8,

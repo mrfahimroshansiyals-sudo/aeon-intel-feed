@@ -4,50 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI launched GPT-5.6, a new frontier model for scalable intelligence. It optimizes performance for demanding enterprise apps, enhancing agentic workflows & real-time decision-making."
+                "headline": "ANTHROPIC: VALUATION COULD HIT $2 TRILLION",
+                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+                "visual_caption": "Anthropic\u2019s IPO valuation is projected to hit $2T, a new record for venture-backed AI. This figure signals strong investor confidence, intensifying market competition and strategic M&A."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, its latest workhorse model for coding & AI agents. It boosts developer productivity & enables autonomous agents to execute complex, multi-step tasks efficiently."
+                "headline": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "NVIDIA partnered with major financial firms for $500B AI compute financing platforms. This will accelerate global data center deployment & ensure critical funding for GPU architectures."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google Cloud unveiled new Gemini Flash models: 3.6 Flash, 3.5 Flash-Lite, & 3.5 Flash Cyber. These models offer tailored intelligence across various enterprise use cases, from operations to cybersecurity."
+                "visual_caption": "Azure now offers new AMD-powered HDv2, HXv2, & ND MI455Xv7 VMs. These VMs boost performance for demanding AI training, data processing, and HPC workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
+                "headline": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
                 "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google Cloud released Gemini Omni Flash for multimodal creation & Nano Banana 2 Lite for rapid image generation. These tools empower creative pros, enhancing design iteration & dynamic content production."
+                "visual_caption": "SpaceXAI released Grok 4.6 frontier AI, undercutting rivals' prices for long-running tasks. This intensifies competition, offering enterprises more cost-effective solutions for continuous AI processing."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING FOR AGENTIC AI",
-                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
+                "teaserTitle": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
                 "visual_asset": "backgroundyt5.png",
-                "visual_caption": "NVIDIA introduced Nemotron 3.5 Lightning & NeMo Switchyard, boosting agentic AI efficiency. These advancements provide significant improvements in the speed & accuracy of AI agents for complex automated workflows."
+                "visual_caption": "Google Cloud unveiled AI Threat Defense to help enterprises mitigate sophisticated AI-driven cyber threats. This service enhances security, enabling organizations to proactively identify & outpace adversaries."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL",
-                "teaserTitle": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
+                "headline": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Mistral AI launched Robostral, a new foundation model for advanced robotics. It integrates multi-modal sensor data with reasoning, enabling robots to perform complex tasks in unstructured environments."
+                "visual_caption": "The EU AI Office is recruiting 40 new tech & legal experts for Act enforcement roles. This hiring drive accelerates the EU's commitment to operationalizing AI regulation globally."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO: ORACLE QUANTUM INTEGRATION FOR OCI AI",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Oracle integrates quantum computing into OCI for hybrid AI & HPC. This provides cloud access to Quantinuum\u2019s Helios system, accelerating complex AI model development."
+                "visual_caption": "New research indicates AI can now design functional viruses, raising significant safety concerns. This highlights the urgent need for robust ethical guidelines & secure research protocols in AI-driven biology."
             },
             {
                 "slide_index": 8,
