@@ -4,46 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, its most intelligent model for coding and agents. This release accelerates development cycles and enhances operational efficiency."
+                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+                "teaserTitle": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
+                "visual_caption": "OpenAI unveils GPT-5.6, its newest frontier model, for ambitious enterprise applications. This release promises enhanced accuracy & efficiency for complex reasoning, accelerating AI integration."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "visual_caption": "OpenAI introduced GPT-5.6, a new frontier intelligence model for ambitious enterprise applications. It delivers a 15% boost in complex task resolution for diverse business functions."
+                "headline": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "visual_asset": "",
+                "visual_caption": "TSMC unveils A16 Nanosheet with Super Power Rail for HPC & AI. This backside power solution improves efficiency & signal integrity for next-gen AI processors."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "teaserTitle": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI. These platforms improve throughput by up to 20% and reduce inference latency."
+                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "visual_asset": "",
+                "visual_caption": "Microsoft Azure introduces Foundry to build, evaluate, & deploy generative AI solutions & agents. It offers hosted agents & tracing for robust AI governance at scale."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
-                "teaserTitle": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
-                "visual_caption": "Microsoft Azure introduced Microsoft IQ, providing shared context for AI agents across enterprise systems. This enhances agent decision-making and boosts accuracy by 10-12%."
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
+                "visual_asset": "",
+                "visual_caption": "Google Cloud launches AI Threat Defense to outpace AI-driven cyber adversaries. This service integrates AI-powered detection & response, enhancing protection against sophisticated attacks."
             },
             {
                 "slide_index": 5,
-                "headline": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "visual_caption": "AMD announced a strategic partnership with Oxford's Open-ended Learning Lab to advance UK frontier AI research. This initiative provides advanced computing tech and expertise."
+                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
+                "teaserTitle": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
+                "visual_asset": "",
+                "visual_caption": "Mistral AI introduces Shieldstral, offering in-region inference & European infrastructure for sovereign AI. This service ensures data residency & compliance for sensitive applications."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
-                "visual_caption": "Databricks acquired Electric to integrate local Postgres DBs into agentic AI apps. This enhances data access for AI agents, reducing latency by up to 30% for critical workloads."
+                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
+                "teaserTitle": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
+                "visual_asset": "",
+                "visual_caption": "SpaceXAI's Grok 4.6 is now available for long-running tasks, undercutting rival AI model prices. This reduces operational costs for continuous AI agent workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
+                "headline": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "IEEE Spectrum reports cybercriminals exploit AI hallucinations for disinformation and phishing. This attack vector increases social engineering success by an estimated 25%."
+                "visual_asset": "",
+                "visual_caption": "NVIDIA, with partners, mobilizes over $500B for AI compute infrastructure financing. This initiative accelerates global AI data center deployment, addressing critical bottlenecks."
             },
             {
                 "slide_index": 8,

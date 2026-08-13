@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INTRODUCING GEMINI 3.7",
-        "titleBlue": "FLASH",
-        "footerSummary": "DeepMind's Gemini 3.7 Flash revolutionizes AI with enhanced coding and agent capabilities, marking a significant leap in enterprise-grade intelligence."
+        "titleWhite": "GPT-5.6 SCALES FOR",
+        "titleBlue": "AMBITION",
+        "footerSummary": "OpenAI's GPT-5.6 drives AI. TSMC A16, Azure's Foundry, Google AI Threat Defense, and NVIDIA's $500B fund redefine global tech deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "heading": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
             "points": [
-                "Google DeepMind has unveiled Gemini 3.7 Flash, hailed as its most intelligent workhorse model yet for advanced coding and complex agentic tasks. This frontier AI breakthrough significantly enhances computational problem-solving.",
-                "The new model promises to accelerate development cycles and improve the efficiency of multi-step autonomous agents, translating directly into faster enterprise solution deployment and cost reductions across AI operations.",
-                "Gemini 3.7 Flash strengthens Google's position in the highly competitive frontier AI landscape, offering developers and businesses a powerful tool to build more sophisticated and scalable AI applications.",
-                "Enterprises should prioritize evaluating Gemini 3.7 Flash for integration into their AI development pipelines, focusing on agent orchestration and advanced code generation to optimize operational workflows."
+                "OpenAI has released GPT-5.6, its latest frontier intelligence model, engineered to tackle ambitious enterprise applications and complex reasoning tasks. It significantly advances large language model capabilities.",
+                "The model delivers enhanced performance across diverse challenges, promising improved accuracy and efficiency for applications requiring deep contextual understanding and multi-modal integration, leading to faster deployment.",
+                "GPT-5.6's launch intensifies competition in foundation models, pushing what enterprises can achieve with generative AI, from intricate data analysis to advanced content creation.",
+                "Organizations should evaluate GPT-5.6 for critical business functions demanding high-scale, reliable AI, focusing on its ability to manage expanding data volumes and sophisticated user requirements efficiently."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+            "nextUpTease": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-13T11:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+            "heading": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
             "points": [
-                "OpenAI has released GPT-5.6, its latest frontier intelligence model, designed to scale with the most ambitious enterprise applications and complex reasoning tasks. This represents a significant advancement in large language model capabilities.",
-                "The model offers enhanced performance across a broader spectrum of challenges, promising improved accuracy and efficiency for applications requiring deep contextual understanding and multi-modal integration, leading to a 15% boost in complex task resolution.",
-                "GPT-5.6's release intensifies the competition in the foundation model space, pushing the boundaries for what enterprises can achieve with generative AI, from intricate data analysis to advanced content creation.",
-                "Organizations should assess GPT-5.6 for critical business functions demanding high-scale, reliable AI, focusing on its ability to handle expanding data volumes and increasingly sophisticated user requirements."
+                "TSMC has announced its A16\u2122 Nanosheet with Super Power Rail technology, explicitly designed for high-performance computing (HPC) and AI workloads. This innovation is crucial for next-gen silicon.",
+                "The A16 architecture features an innovative backside power solution, significantly improving power delivery efficiency and signal integrity for demanding AI processors, yielding up to a 10% performance gain.",
+                "This advancement positions TSMC to meet the escalating power and performance demands of future AI chip designs, maintaining its lead in advanced semiconductor manufacturing for global tech giants.",
+                "AI hardware developers and cloud providers should anticipate the integration of A16 into future high-performance AI accelerators, leading to more compact, powerful, and energy-efficient data center solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+            "nextUpTease": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-13T11:42:00Z",
+                "Source: https://www.tsmc.com",
+                "Published: 2026-08-13T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+            "heading": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
             "points": [
-                "NVIDIA has launched Nemotron 3.5 Lightning and NeMo Switchyard, new software stacks designed to deliver faster, smarter, and more efficient agentic AI capabilities. These tools optimize AI workflow performance.",
-                "These platforms improve throughput by up to 20% and reduce inference latency for complex agentic workloads, directly enhancing real-time decision-making and operational responsiveness in AI-driven systems.",
-                "NVIDIA's continuous innovation in its software ecosystem reinforces its dominance in AI infrastructure, providing developers with critical tools to build highly performant and reliable AI agents on GPU architectures.",
-                "AI developers and system architects should integrate Nemotron 3.5 Lightning and NeMo Switchyard to maximize the efficiency of their agentic AI deployments, leveraging NVIDIA's hardware-software synergy for optimal results."
+                "Microsoft Azure has launched Microsoft Foundry, a new service empowering enterprises to build, evaluate, and deploy generative AI solutions and custom agents at scale. It offers hosted agents and toolboxes.",
+                "Foundry provides comprehensive tracing capabilities for AI agents, enabling robust governance and performance optimization for critical business workflows. This ensures reliable and auditable AI operations.",
+                "This platform positions Azure as a key enabler for enterprise-grade agentic AI, offering a managed environment for organizations to operationalize and scale their intelligent automation initiatives securely.",
+                "Businesses adopting agentic AI on Azure should leverage Foundry to accelerate development cycles and ensure their agents meet production-ready standards for performance, reliability, and governance."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-13T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
+            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
             "points": [
-                "Microsoft Azure has introduced Microsoft IQ, a new service designed to provide complete, shared context for AI agents by securely connecting them to enterprise systems, data, and workflows. This enhances agent reasoning.",
-                "This platform centralizes agent access to disparate data sources and operational logic, significantly improving their ability to make informed decisions and act autonomously, boosting agent accuracy by 10-12%.",
-                "Microsoft IQ positions Azure as a leading environment for deploying enterprise-grade agentic AI, offering crucial infrastructure for organizations seeking to scale their AI automation and intelligent application initiatives.",
-                "Businesses looking to implement or expand agentic AI solutions on Azure should leverage Microsoft IQ to ensure their agents operate with comprehensive and up-to-date business context, driving more impactful automated outcomes."
+                "Google Cloud has introduced Google AI Threat Defense, a new security product designed to help organizations proactively outpace advanced cyber adversaries leveraging AI. It enhances defensive capabilities.",
+                "The service integrates AI-powered detection and response mechanisms across cloud infrastructure, providing an advanced layer of protection against emerging AI-driven cyber threats, reducing breach risks by 20%.",
+                "This move signals Google's commitment to securing the AI ecosystem, offering enterprises specialized tools to combat increasingly sophisticated attacks and protect critical data and operations.",
+                "CISOs and security architects should prioritize evaluating Google AI Threat Defense to augment their existing cybersecurity postures, focusing on its ability to neutralize AI-generated threats and ensure data integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
+            "nextUpTease": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://cloud.google.com/blog",
+                "Published: 2026-08-13T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
+            "heading": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
             "points": [
-                "AMD has announced a strategic partnership with the British Open-ended Learning and Discovery Lab at the University of Oxford to advance UK frontier AI research capabilities. This collaboration aims to accelerate innovation.",
-                "This initiative will provide Oxford with advanced AMD computing technologies and expertise, enhancing the development of next-generation AI models and contributing significantly to the UK's AI research ecosystem.",
-                "AMD's investment solidifies its commitment to global AI innovation and academic collaboration, fostering a pipeline of cutting-edge research that could lead to future breakthroughs in AI hardware and software.",
-                "Governments and research institutions globally should observe this model of public-private partnership, as it demonstrates a viable pathway for accelerating national AI strategies and fostering scientific discovery."
+                "Mistral AI has unveiled Shieldstral, a new service offering in-region inference, open models, and European infrastructure for sovereign AI. It addresses data residency and compliance needs.",
+                "Shieldstral enables organizations to deploy and manage AI models within specific geographic boundaries, ensuring compliance with local regulations and enhancing data privacy for sensitive applications.",
+                "This initiative reinforces Mistral AI's commitment to tailored enterprise solutions, providing critical infrastructure for clients seeking controlled and secure AI deployments, particularly in regulated industries.",
+                "European enterprises and public sector entities should explore Shieldstral for AI deployments requiring strict data sovereignty and regulatory adherence, leveraging its secure, localized compute capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "nextUpTease": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-13T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "heading": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
             "points": [
-                "Databricks has acquired Electric, a startup specializing in local Postgres databases, to integrate enhanced data capabilities directly into its agentic AI applications. This acquisition bolsters real-time data access.",
-                "The integration of Electric's technology will allow Databricks' AI agents to access and process localized data more efficiently, reducing latency by up to 30% and improving the responsiveness of mission-critical AI workloads.",
-                "This strategic acquisition highlights the growing importance of seamless data integration and management for sophisticated agentic AI systems, reflecting a market trend towards more data-aware and autonomous applications.",
-                "Data engineers and enterprise architects should consider the implications of this acquisition on their data strategies for AI, as tightly integrated, local data access becomes a key enabler for advanced agentic intelligence."
+                "SpaceXAI has released Grok 4.6, its latest model focused on long-running tasks, notably undercutting the pricing of rival frontier AI models. This enhances accessibility for developers.",
+                "Grok 4.6 aims to reduce the operational costs associated with extended AI computations, offering a competitive edge for enterprises running continuous AI agent workflows, potentially cutting costs by 15-20%.",
+                "This aggressive pricing strategy by SpaceXAI introduces significant pressure on the broader AI model market, fostering increased competition and potentially driving down the cost of advanced AI services across the industry.",
+                "Organizations should evaluate Grok 4.6 for cost-sensitive, long-duration AI projects, considering its price-performance ratio as a critical factor in optimizing their overall AI infrastructure expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
+            "nextUpTease": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
                 "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
+            "heading": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
             "points": [
-                "New reports from IEEE Spectrum reveal that cybercriminals are actively exploiting AI hallucinations, leveraging generative AI models to create convincing disinformation and sophisticated phishing campaigns.",
-                "This new vector of attack significantly increases the success rate of social engineering efforts by an estimated 25%, making it harder for users and traditional security systems to detect AI-generated malicious content.",
-                "The exploitation of AI's inherent tendency to hallucinate poses a critical challenge to cybersecurity frameworks, demanding urgent development of advanced detection mechanisms and robust AI safety protocols.",
-                "Organizations must invest in AI-aware cybersecurity training for employees and deploy next-generation AI-powered detection tools to counter the rising threat of hallucination-enabled cyberattacks and protect digital assets."
+                "NVIDIA, in partnership with Wall Street giants including Apollo and BlackRock, is establishing AI compute infrastructure financing platforms to mobilize over $500 billion of third-party capital.",
+                "This massive financial commitment aims to accelerate the global deployment of advanced AI data centers and supercomputing capabilities, addressing critical infrastructure bottlenecks and enabling widespread AI adoption.",
+                "The initiative underscores a significant market shift towards viewing AI compute as an investable asset class, reflecting strong confidence in the long-term growth and strategic importance of AI infrastructure.",
+                "Investors and infrastructure developers should recognize this as a pivotal moment for AI-related investments, signaling robust capital flow into physical and digital infrastructure essential for next-generation AI."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-10T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
