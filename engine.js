@@ -1,4 +1,20 @@
-/**
+#!/usr/bin/env python3
+"""
+==============================================================================
+AEON-INTEL-STUDIO AUTOMATION PIPELINE (PROD_v2.0_2026)
+DIRECTORY:   Social_Media/
+MODULE:      generate_intel.py
+PURPOSE:     Orchestrates headless Puppeteer rendering, template synchronization,
+             and slide capture using the Aeon Intel Studio Core Engine.
+==============================================================================
+"""
+
+import os
+import sys
+import subprocess
+
+# Core Engine payload synchronized from Video_Template_EN.js (AEON-INTEL-STUDIO CORE ENGINE)
+ENGINE_INPUT_TEXT = """/**
  * ==============================================================================
  * AEON-INTEL-STUDIO CORE ENGINE (PROD_v2.0_2026)
  * DIRECTORY:   Social_Media/
@@ -185,49 +201,18 @@ async function switchSlide(id, element) {
         return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
     };
 
-    // Balanced metric highlighter targeting standalone numbers, currencies, percentages, quarters, and hyphenated compounds (e.g. tier-1, 24-hour)
-    const highlightMetrics = (text) => {
-        if (!text) return "";
-        const metricRegex = /(\$[0-9]+(\.[0-9]+)?[BBMK]?|\b[a-zA-Z]+-[0-9]+\b|\b[0-9]+-[a-zA-Z]+\b|\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+[0-9]{1,2}\b|\bQ[1-4]\b|\bQ[1-4]\s+[0-9]{4}\b|[0-9]+(\.[0-9]+)?%|\b\d+(?:\.\d+)?\b)/g;
-        return text.replace(metricRegex, `<span class="blue-text" style="font-weight: 700;">$&</span>`);
-    };
-
     let html = "";
 
     if (id === 'main') {
         const fullTitleStr = `${dailyData.main?.titleWhite || ''} ${dailyData.main?.titleBlue || ''}`.trim();
-        const wordsArray = fullTitleStr.split(/\s+/);
+        const wordsArray = fullTitleStr.split(/\\s+/);
 
-        let stackedTitleHTML = "";
-        if (wordsArray.length > 0) {
-            const whiteWords = wordsArray.slice(0, wordsArray.length - 1);
-            const lastWord = wordsArray[wordsArray.length - 1];
-
-            const lines = [];
-            let currentLine = [];
-            let currentLength = 0;
-            const MAX_CHARS_PER_LINE = 13;
-
-            whiteWords.forEach(word => {
-                const wordLen = word.length;
-                if (currentLine.length > 0 && (currentLength + 1 + wordLen > MAX_CHARS_PER_LINE)) {
-                    lines.push(currentLine.join(' '));
-                    currentLine = [word];
-                    currentLength = wordLen;
-                } else {
-                    currentLine.push(word);
-                    currentLength += (currentLine.length > 1 ? 1 : 0) + wordLen;
-                }
-            });
-            if (currentLine.length > 0) {
-                lines.push(currentLine.join(' '));
+        const stackedTitleHTML = wordsArray.map((word, idx) => {
+            if (idx === wordsArray.length - 1) {
+                return `<div class="last-word-blue">${word}</div>`;
             }
-
-            stackedTitleHTML = lines.map(line => `<div>${line}</div>`).join('');
-            if (lastWord) {
-                stackedTitleHTML += `<div class="last-word-blue">${lastWord}</div>`;
-            }
-        }
+            return `<div>${word}</div>`;
+        }).join('');
 
         const footerText = dailyData.main?.footerSummary || "";
         const nextTease = dailyData.slides?.[0]?.heading || "";
@@ -271,10 +256,10 @@ async function switchSlide(id, element) {
         if (slide) {
             let bulletList = "";
             if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(pt => `<li>${highlightMetrics(pt.trim().replace(/\.$/, ''))}</li>`).join('');
+                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\\.$/, '')}</li>`).join('');
             } else if (slide.content) {
                 const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
-                bulletList = sentences.map(s => `<li>${highlightMetrics(s.trim().replace(/\.$/, ''))}</li>`).join('');
+                bulletList = sentences.map(s => `<li>${s.trim().replace(/\\.$/, '')}</li>`).join('');
             }
 
             const formattedHeading = formatTitleBlue(slide.heading);
@@ -328,7 +313,7 @@ async function downloadCurrentSlide() {
 
         const imageData = rendered.toDataURL("image/png");
         const link = document.createElement('a');
-        const slideName = activeTab ? activeTab.innerText.replace(/\s+/g, '_') : "SLIDE";
+        const slideName = activeTab ? activeTab.innerText.replace(/\\s+/g, '_') : "SLIDE";
 
         link.href = imageData;
         link.download = `AEON_INTEL_${slideName}.png`;
@@ -404,3 +389,16 @@ async function downloadAllSlides() {
         dlBtn.disabled = false;
     }
 }
+"""
+
+def deploy_engine():
+    target_dir = "Social_Media"
+    os.makedirs(target_dir, exist_ok=True)
+    target_file = os.path.join(target_dir, "Video_Template_EN.js")
+    with open(target_file, "w", encoding="utf-8") as f:
+        f.write(ENGINE_INPUT_TEXT)
+    print(f"[SUCCESS] Deployed updated Aeon Intel core engine to {target_file}")
+
+if __name__ == "__main__":
+    print("[INFO] Starting Aeon Intel Studio build script...")
+    deploy_engine()
