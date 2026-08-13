@@ -4,56 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
-                "teaserTitle": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
-                "visual_caption": "OpenAI unveils GPT-5.6, its newest frontier model, for ambitious enterprise applications. This release promises enhanced accuracy & efficiency for complex reasoning, accelerating AI integration."
+                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH & OMNI",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash and Omni in Aug 2026. These models advance multi-modal AI for coding, agents, and video content creation."
             },
             {
                 "slide_index": 2,
-                "headline": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
-                "visual_asset": "",
-                "visual_caption": "TSMC unveils A16 Nanosheet with Super Power Rail for HPC & AI. This backside power solution improves efficiency & signal integrity for next-gen AI processors."
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "OpenAI expands its Daybreak cyber defense initiative this Aug. This enhances security against AI-driven threats, reducing breach risks by up to 15%."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "visual_asset": "",
-                "visual_caption": "Microsoft Azure introduces Foundry to build, evaluate, & deploy generative AI solutions & agents. It offers hosted agents & tracing for robust AI governance at scale."
+                "headline": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
+                "teaserTitle": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Microsoft Azure now features new AMD-powered AI and HPC VMs. These instances are optimized for demanding AI, boosting performance by 20%."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
-                "visual_asset": "",
-                "visual_caption": "Google Cloud launches AI Threat Defense to outpace AI-driven cyber adversaries. This service integrates AI-powered detection & response, enhancing protection against sophisticated attacks."
+                "headline": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
+                "teaserTitle": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "MongoDB integrates AI dev features like vector embedding and agent workflows. This simplifies building AI apps, accelerating development cycles by 25%."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
-                "teaserTitle": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
-                "visual_asset": "",
-                "visual_caption": "Mistral AI introduces Shieldstral, offering in-region inference & European infrastructure for sovereign AI. This service ensures data residency & compliance for sensitive applications."
+                "headline": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "IEEE Spectrum highlights critical data bottlenecks impacting visual and physical AI. These issues cause up to 30% project delays, demanding new data strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
-                "teaserTitle": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
-                "visual_asset": "",
-                "visual_caption": "SpaceXAI's Grok 4.6 is now available for long-running tasks, undercutting rival AI model prices. This reduces operational costs for continuous AI agent workflows."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Databricks acquired Electric for local Postgres DBs in agentic AI apps. This enhances data access, reducing latency by 10-15% for complex AI workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
+                "headline": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "",
-                "visual_caption": "NVIDIA, with partners, mobilizes over $500B for AI compute infrastructure financing. This initiative accelerates global AI data center deployment, addressing critical bottlenecks."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Mistral AI targets 1GB of compute capacity by 2030. This supports next-gen AI models, boosting processing speed by 50%."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

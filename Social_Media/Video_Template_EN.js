@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 SCALES FOR AMBITION",
+        "hookTitle": "GOOGLE DEEPMIND REDEFINES MULTI-MODAL AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
-                "teaserTitle": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
+                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH & OMNI",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT-5.6, its newest frontier model, designed to scale with ambitious enterprise applications. This release promises enhanced accuracy and efficiency for complex reasoning tasks, accelerating AI integration."
+                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash and Gemini Omni in August 2026. These models significantly advance multi-modal AI for coding, agents, and video-based content creation."
             },
             {
                 "slide_index": 2,
-                "headline": "TSMC: UNVEILS A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "TSMC unveiled its A16 Nanosheet with Super Power Rail, a new architecture for HPC and AI. This backside power solution improves efficiency and signal integrity for next-gen AI processors."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative this August. This move enhances security against AI-driven threats, safeguarding critical AI infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "headline": "MICROSOFT AZURE: BOOSTS AI/HPC WITH NEW AMD VMS",
+                "teaserTitle": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure introduced Foundry, a new service to build, evaluate, and deploy generative AI solutions and custom agents. It offers hosted agents and tracing for robust AI governance at scale."
+                "narration_line": "Microsoft Azure now features new AMD-powered AI and HPC virtual machines. These powerful instances are optimized for demanding AI training and data inference workloads, boosting performance by 20 percent."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
+                "headline": "MONGODB: INTEGRATES AI DEV & AGENT WORKFLOWS",
+                "teaserTitle": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud launched AI Threat Defense, a new security product to outpace AI-driven cyber adversaries. This service integrates AI-powered detection and response, enhancing protection against sophisticated attacks."
+                "narration_line": "MongoDB has integrated AI development features like vector embedding and agent workflows. This innovation simplifies building AI-powered applications, accelerating development cycles by 25 percent."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR IN-REGION AI",
-                "teaserTitle": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
+                "headline": "IEEE SPECTRUM: HIGHLIGHTS AI DATA BOTTLENECKS",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced Shieldstral, offering in-region inference and European infrastructure for sovereign AI. This service ensures data residency and compliance for sensitive applications."
+                "narration_line": "IEEE Spectrum highlights critical data bottlenecks impacting visual and physical AI. These issues cause up to 30 percent project delays, demanding new data management strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVALS' AI PRICES",
-                "teaserTitle": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "SpaceXAI's Grok 4.6 is now available, specializing in long-running tasks while undercutting competitor AI model prices. This move reduces operational costs for continuous AI agent workflows."
+                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases into agentic AI apps. This enhances data access and reduces latency by 10 to 15 percent for complex AI workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE",
+                "headline": "MISTRAL AI: TARGETS 1GB COMPUTE BY 2030",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NVIDIA, with partners like BlackRock, is mobilizing over $500 billion for AI compute infrastructure financing. This initiative accelerates global AI data center deployment, addressing critical bottlenecks."
+                "narration_line": "Mistral AI plans to build one gigabyte of compute capacity by 2030. This ambitious goal will support next-generation AI models, boosting processing speed by 50 percent."
             },
             {
                 "slide_index": 8,
