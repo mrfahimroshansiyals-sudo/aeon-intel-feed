@@ -4,52 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
-                "visual_caption": "NVIDIA partners with Wall Street giants to mobilize >$500B for AI compute infrastructure. This financing simplifies access to critical AI hardware for enterprises."
+                "headline": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE SCALING WITH AMBITION",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH & CYBER MODELS",
+                "visual_caption": "OpenAI unveils its latest frontier model, GPT-5.6, designed for ambitious scaling and enhanced capabilities. This release optimizes performance-to-cost ratios for efficient advanced AI deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING ON OCI",
-                "visual_caption": "NVIDIA releases Nemotron 3.5 Lightning & NeMo Switchyard for agentic AI. Tools enhance speed and efficiency for sophisticated AI agent deployment."
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH & CYBER MODELS",
+                "teaserTitle": "ANTHROPIC: TARGETS $2T IPO VALUATION",
+                "visual_caption": "Google Cloud introduces new Gemini 3.6 Flash and 3.5 Flash Cyber models, expanding its specialized AI offerings. These iterations deliver optimized speed and efficiency for critical cybersecurity generative AI tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "ORACLE: QUANTUM COMPUTING ON OCI",
-                "teaserTitle": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
-                "visual_caption": "Oracle brings quantum computing to OCI, integrating Quantinuum\u2019s Helios system. Enterprises leverage hybrid AI for complex HPC workloads."
+                "headline": "ANTHROPIC: TARGETS $2T IPO VALUATION",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_caption": "Anthropic is targeting a $2T valuation in its upcoming record-setting initial public offering. This ambition is driven by rapid revenue growth and strong investor confidence in the frontier AI market."
             },
             {
                 "slide_index": 4,
-                "headline": "AI ETHICS: CHINESE CENSORSHIP LEAKS",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES",
-                "visual_caption": "Chinese censorship mechanisms reportedly influence American AI model outputs. This raises ethical concerns about information integrity."
+                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "IBM: NEW CHIP TECH EXTENDS MOORE'S LAW",
+                "visual_caption": "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines. These VMs, including HDv2 and ND MI455Xv7, are engineered for demanding AI, analytics, and inference workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES",
-                "teaserTitle": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
-                "visual_caption": "Microsoft reduces prices for AI coding models, boosting competitiveness. This impacts cost-effectiveness of AI-powered code generation services."
+                "headline": "IBM: NEW CHIP TECH EXTENDS MOORE'S LAW",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "IBM unveils groundbreaking chip technology designed to extend Moore's Law for another decade. This innovation stacks transistors vertically, promising exponential gains in computational density and efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE ENFORCEMENT HIRING",
-                "teaserTitle": "AI OPERATIONS: AGENT DATA SILOS",
-                "visual_caption": "EU AI Office announced 40 new positions for AI Act enforcement. This signals firm commitment to rapid regulatory implementation."
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "AI ETHICS: AI DESIGNS FUNCTIONAL VIRUSES",
+                "visual_caption": "Mistral AI launches Shieldstral, a new initiative for in-region inference and European sovereign AI infrastructure. This platform provides secure, localized AI capabilities addressing critical data residency and compliance concerns."
             },
             {
                 "slide_index": 7,
-                "headline": "AI OPERATIONS: AGENT DATA SILOS",
+                "headline": "AI ETHICS: AI DESIGNS FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "AI agents face major challenges from enterprise data silos, hindering real-time data access. CIOs must prioritize data integration for effective agent deployment."
+                "visual_caption": "IEEE Spectrum reports that AI can now design functional viruses, raising urgent ethical and biosafety concerns. This breakthrough showcases advanced AI's dual-use potential, accelerating both medical innovation and potential risks."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
