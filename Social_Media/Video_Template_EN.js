@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ANTHROPIC'S $2T AI VALUATION SHAKES MARKET",
+        "hookTitle": "GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: VALUATION COULD HIT $2 TRILLION",
-                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic\u2019s IPO valuation is projected to reach two trillion dollars, a new record for venture-backed AI companies. This historic figure signals strong investor confidence, intensifying market competition and strategic M&A."
+                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, its most intelligent workhorse model for coding and agents. This release promises to accelerate development cycles and enhance operational efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA has partnered with major financial firms to launch five hundred billion dollars in AI compute financing platforms. This will accelerate global data center deployment and ensure critical funding for GPU architectures."
+                "narration_line": "OpenAI introduced GPT five point six, a new frontier intelligence model designed to scale with ambitious enterprise applications. It delivers a fifteen percent boost in complex task resolution for diverse business functions."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "teaserTitle": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure now offers new AMD-powered HDV2, HXV2, and ND MI455XV7 virtual machines. These VMs boost performance for demanding AI training, data processing, and HPC workloads."
+                "narration_line": "NVIDIA launched Nemotron three point five Lightning and NeMo Switchyard to deliver faster, smarter agentic AI. These platforms improve throughput by up to twenty percent and reduce inference latency for complex workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
+                "headline": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
+                "teaserTitle": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SpaceX AI released its Grok 4.6 frontier AI model, undercutting rivals' prices for long-running tasks. This move intensifies competition, offering enterprises more cost-effective solutions for continuous AI processing."
+                "narration_line": "Microsoft Azure introduced Microsoft IQ, a service providing shared context for AI agents across enterprise systems. This enhances agent decision-making and boosts accuracy by ten to twelve percent."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
-                "teaserTitle": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
+                "headline": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google Cloud unveiled AI Threat Defense to help enterprises mitigate sophisticated AI-driven cyber threats. This service enhances security, enabling organizations to proactively identify and outpace adversaries."
+                "narration_line": "AMD announced a strategic partnership with Oxford's Open-ended Learning Lab to advance UK frontier AI research. This initiative will provide advanced computing technologies and expertise to accelerate innovation."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The EU AI Office is actively recruiting forty new tech and legal experts for Act enforcement roles. This significant hiring drive accelerates the EU's commitment to operationalizing AI regulation globally."
+                "narration_line": "Databricks acquired Electric to integrate local Postgres databases into agentic AI applications. This enhances data access for AI agents, reducing latency by up to thirty percent for critical workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "New research indicates AI can now design functional viruses, raising significant safety concerns. This highlights the urgent need for robust ethical guidelines and secure research protocols in AI-driven biology."
+                "naration_line": "IEEE Spectrum reports cybercriminals are exploiting AI hallucinations to create disinformation and phishing campaigns. This new attack vector increases social engineering success by an estimated twenty-five percent."
             },
             {
                 "slide_index": 8,

@@ -4,57 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: VALUATION COULD HIT $2 TRILLION",
-                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
-                "visual_caption": "Anthropic\u2019s IPO valuation is projected to hit $2T, a new record for venture-backed AI. This figure signals strong investor confidence, intensifying market competition and strategic M&A."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, its most intelligent model for coding and agents. This release accelerates development cycles and enhances operational efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "NVIDIA partnered with major financial firms for $500B AI compute financing platforms. This will accelerate global data center deployment & ensure critical funding for GPU architectures."
+                "headline": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "visual_caption": "OpenAI introduced GPT-5.6, a new frontier intelligence model for ambitious enterprise applications. It delivers a 15% boost in complex task resolution for diverse business functions."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "teaserTitle": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Azure now offers new AMD-powered HDv2, HXv2, & ND MI455Xv7 VMs. These VMs boost performance for demanding AI training, data processing, and HPC workloads."
+                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI. These platforms improve throughput by up to 20% and reduce inference latency."
             },
             {
                 "slide_index": 4,
-                "headline": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "SpaceXAI released Grok 4.6 frontier AI, undercutting rivals' prices for long-running tasks. This intensifies competition, offering enterprises more cost-effective solutions for continuous AI processing."
+                "headline": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
+                "teaserTitle": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
+                "visual_caption": "Microsoft Azure introduced Microsoft IQ, providing shared context for AI agents across enterprise systems. This enhances agent decision-making and boosts accuracy by 10-12%."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
-                "teaserTitle": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Google Cloud unveiled AI Threat Defense to help enterprises mitigate sophisticated AI-driven cyber threats. This service enhances security, enabling organizations to proactively identify & outpace adversaries."
+                "headline": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_caption": "AMD announced a strategic partnership with Oxford's Open-ended Learning Lab to advance UK frontier AI research. This initiative provides advanced computing tech and expertise."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "The EU AI Office is recruiting 40 new tech & legal experts for Act enforcement roles. This hiring drive accelerates the EU's commitment to operationalizing AI regulation globally."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
+                "visual_caption": "Databricks acquired Electric to integrate local Postgres DBs into agentic AI apps. This enhances data access for AI agents, reducing latency by up to 30% for critical workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "New research indicates AI can now design functional viruses, raising significant safety concerns. This highlights the urgent need for robust ethical guidelines & secure research protocols in AI-driven biology."
+                "visual_caption": "IEEE Spectrum reports cybercriminals exploit AI hallucinations for disinformation and phishing. This attack vector increases social engineering success by an estimated 25%."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

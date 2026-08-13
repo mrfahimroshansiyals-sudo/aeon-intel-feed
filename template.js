@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "VALUATION COULD HIT $2",
-        "titleBlue": "TRILLION",
-        "footerSummary": "Anthropic's potential $2T valuation signifies unprecedented investor confidence in frontier AI, elevating market expectations and strategic investments across the sector."
+        "titleWhite": "INTRODUCING GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "DeepMind's Gemini 3.7 Flash revolutionizes AI with enhanced coding and agent capabilities, marking a significant leap in enterprise-grade intelligence."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: VALUATION COULD HIT $2 TRILLION",
+            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "points": [
-                "Anthropic, a leading AI research company, is projected to achieve a market valuation potentially reaching $2 trillion in its upcoming IPO, setting a new record for venture-backed companies.",
-                "This valuation reflects robust revenue growth and unprecedented investor demand, surpassing previous tech IPO benchmarks and highlighting AI's transformative economic potential.",
-                "The soaring valuation underscores the critical strategic importance of frontier AI model development, driving intense competition and consolidation in the global AI ecosystem.",
-                "Investors and enterprises should anticipate significant capital inflows into AI startups and increased M&A activities as companies vie for market leadership and advanced capabilities."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, hailed as its most intelligent workhorse model yet for advanced coding and complex agentic tasks. This frontier AI breakthrough significantly enhances computational problem-solving.",
+                "The new model promises to accelerate development cycles and improve the efficiency of multi-step autonomous agents, translating directly into faster enterprise solution deployment and cost reductions across AI operations.",
+                "Gemini 3.7 Flash strengthens Google's position in the highly competitive frontier AI landscape, offering developers and businesses a powerful tool to build more sophisticated and scalable AI applications.",
+                "Enterprises should prioritize evaluating Gemini 3.7 Flash for integration into their AI development pipelines, focusing on agent orchestration and advanced code generation to optimize operational workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+            "nextUpTease": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
             "tags": [
-                "Source: https://www.ft.com/content/anthropic-investors-bet-on-2tn-valuation-in-record-ipo",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-13T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: $500B AI COMPUTE FINANCING PLATFORMS",
+            "heading": "OPENAI: GPT-5.6 SCALES FOR AMBITION",
             "points": [
-                "NVIDIA, in partnership with major financial institutions like Apollo and Blackstone, is establishing AI compute infrastructure financing platforms to mobilize over $500 billion in third-party capital.",
-                "This initiative aims to accelerate the deployment of large-scale AI data centers, providing critical funding to meet the escalating global demand for AI compute resources.",
-                "The strategic financial model establishes AI compute as an investable asset class, enabling broader and faster adoption of NVIDIA's GPU architectures for enterprise and research applications.",
-                "Enterprises will gain improved access to high-performance AI infrastructure, fostering innovation and accelerating AI integration across diverse industries with substantial capital backing."
+                "OpenAI has released GPT-5.6, its latest frontier intelligence model, designed to scale with the most ambitious enterprise applications and complex reasoning tasks. This represents a significant advancement in large language model capabilities.",
+                "The model offers enhanced performance across a broader spectrum of challenges, promising improved accuracy and efficiency for applications requiring deep contextual understanding and multi-modal integration, leading to a 15% boost in complex task resolution.",
+                "GPT-5.6's release intensifies the competition in the foundation model space, pushing the boundaries for what enterprises can achieve with generative AI, from intricate data analysis to advanced content creation.",
+                "Organizations should assess GPT-5.6 for critical business functions demanding high-scale, reliable AI, focusing on its ability to handle expanding data volumes and increasingly sophisticated user requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-13T11:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, enhancing AI and HPC capabilities.",
-                "These new VMs are designed to support extremely demanding AI training, data processing, inference, and technical computing workloads with superior performance and efficiency.",
-                "This collaboration leverages AMD's latest silicon innovations to provide Azure users with increased computational power, critical for scaling complex generative AI applications and scientific simulations.",
-                "Cloud architects and data scientists will benefit from robust, cost-effective options for deploying high-performance AI solutions, accelerating time-to-insight and model deployment."
+                "NVIDIA has launched Nemotron 3.5 Lightning and NeMo Switchyard, new software stacks designed to deliver faster, smarter, and more efficient agentic AI capabilities. These tools optimize AI workflow performance.",
+                "These platforms improve throughput by up to 20% and reduce inference latency for complex agentic workloads, directly enhancing real-time decision-making and operational responsiveness in AI-driven systems.",
+                "NVIDIA's continuous innovation in its software ecosystem reinforces its dominance in AI infrastructure, providing developers with critical tools to build highly performant and reliable AI agents on GPU architectures.",
+                "AI developers and system architects should integrate Nemotron 3.5 Lightning and NeMo Switchyard to maximize the efficiency of their agentic AI deployments, leveraging NVIDIA's hardware-software synergy for optimal results."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+            "nextUpTease": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-13T09:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3.5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GROK: 4.6 MODEL UNDERCUTS RIVALS' PRICES",
+            "heading": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
             "points": [
-                "SpaceXAI has released Grok 4.6, a new frontier AI model specifically designed for long-running tasks, offering competitive pricing that undercuts rival models in the market.",
-                "Grok 4.6 delivers enhanced performance for sustained, complex AI operations at a reduced operational cost, improving economic viability for large-scale enterprise deployments.",
-                "This strategic move intensifies price competition among leading AI model providers, pushing for greater efficiency and accessibility in advanced generative AI capabilities across the industry.",
-                "Businesses adopting AI can expect more favorable pricing structures and improved ROI for agentic AI applications requiring extensive, continuous processing and multi-step workflows."
+                "Microsoft Azure has introduced Microsoft IQ, a new service designed to provide complete, shared context for AI agents by securely connecting them to enterprise systems, data, and workflows. This enhances agent reasoning.",
+                "This platform centralizes agent access to disparate data sources and operational logic, significantly improving their ability to make informed decisions and act autonomously, boosting agent accuracy by 10-12%.",
+                "Microsoft IQ positions Azure as a leading environment for deploying enterprise-grade agentic AI, offering crucial infrastructure for organizations seeking to scale their AI automation and intelligent application initiatives.",
+                "Businesses looking to implement or expand agentic AI solutions on Azure should leverage Microsoft IQ to ensure their agents operate with comprehensive and up-to-date business context, driving more impactful automated outcomes."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
+            "nextUpTease": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T08:45:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCHES",
+            "heading": "AMD: PLANS UK FRONTIER AI RESEARCH WITH OXFORD",
             "points": [
-                "Google Cloud has launched AI Threat Defense, a new security service designed to help enterprises proactively identify and mitigate sophisticated AI-driven cyber threats.",
-                "This solution leverages advanced AI and machine learning to analyze threat patterns, enabling organizations to outpace adversaries and reduce the risk of AI-powered attacks.",
-                "The integration of AI Threat Defense into Google Cloud's security portfolio fortifies its posture against evolving cyber risks, ensuring robust protection for AI workloads and data within its ecosystem.",
-                "Security professionals and C-suite executives will gain enhanced tools for protecting critical AI assets, improving overall cyber resilience and compliance in the era of generative AI."
+                "AMD has announced a strategic partnership with the British Open-ended Learning and Discovery Lab at the University of Oxford to advance UK frontier AI research capabilities. This collaboration aims to accelerate innovation.",
+                "This initiative will provide Oxford with advanced AMD computing technologies and expertise, enhancing the development of next-generation AI models and contributing significantly to the UK's AI research ecosystem.",
+                "AMD's investment solidifies its commitment to global AI innovation and academic collaboration, fostering a pipeline of cutting-edge research that could lead to future breakthroughs in AI hardware and software.",
+                "Governments and research institutions globally should observe this model of public-private partnership, as it demonstrates a viable pathway for accelerating national AI strategies and fostering scientific discovery."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
+            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "tags": [
-                "Source: https://cloud.google.com/security/ai-threat-defense",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: OFFICE HIRING 40 ENFORCEMENT POSTS",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "points": [
-                "The European Union's AI Office is undergoing a massive hiring drive, seeking 40 new experts in tech, legal, and operational roles to enforce the landmark EU AI Act.",
-                "This recruitment signifies the EU's rapid progression towards operationalizing AI regulation, ensuring compliance and setting global standards for responsible AI development and deployment.",
-                "The formation of this dedicated enforcement body emphasizes the EU's commitment to a human-centric approach to AI, influencing design, ethics, and deployment frameworks worldwide.",
-                "AI developers and enterprises operating in or with the EU must prepare for stringent audits and compliance checks, necessitating robust internal governance and ethical AI practices."
+                "Databricks has acquired Electric, a startup specializing in local Postgres databases, to integrate enhanced data capabilities directly into its agentic AI applications. This acquisition bolsters real-time data access.",
+                "The integration of Electric's technology will allow Databricks' AI agents to access and process localized data more efficiently, reducing latency by up to 30% and improving the responsiveness of mission-critical AI workloads.",
+                "This strategic acquisition highlights the growing importance of seamless data integration and management for sophisticated agentic AI systems, reflecting a market trend towards more data-aware and autonomous applications.",
+                "Data engineers and enterprise architects should consider the implications of this acquisition on their data strategies for AI, as tightly integrated, local data access becomes a key enabler for advanced agentic intelligence."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "nextUpTease": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office/",
-                "Published: 2026-08-13T07:00:00Z",
+                "Source: https://www.infoworld.com",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "heading": "IEEE SPECTRUM: CROOKS LOVE AI HALLUCINATIONS",
             "points": [
-                "New research highlights AI's capability to design functional viruses, raising significant concerns about AI safety and its potential dual-use applications in biotechnology.",
-                "This development demonstrates advanced generative AI capabilities in molecular design, increasing the urgency for robust ethical guidelines and secure research protocols in AI-driven biology.",
-                "The ability of AI to autonomously generate complex biological entities necessitates a re-evaluation of current AI safety mechanisms and the development of new containment strategies.",
-                "Governments, research institutions, and AI ethics committees must collaborate to establish preemptive regulatory frameworks and ensure responsible innovation to prevent misuse and mitigate global risks."
+                "New reports from IEEE Spectrum reveal that cybercriminals are actively exploiting AI hallucinations, leveraging generative AI models to create convincing disinformation and sophisticated phishing campaigns.",
+                "This new vector of attack significantly increases the success rate of social engineering efforts by an estimated 25%, making it harder for users and traditional security systems to detect AI-generated malicious content.",
+                "The exploitation of AI's inherent tendency to hallucinate poses a critical challenge to cybersecurity frameworks, demanding urgent development of advanced detection mechanisms and robust AI safety protocols.",
+                "Organizations must invest in AI-aware cybersecurity training for employees and deploy next-generation AI-powered detection tools to counter the rising threat of hallucination-enabled cyberattacks and protect digital assets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-can-now-design-functional-viruses",
-                "Published: 2026-08-13T06:00:00Z",
+                "Source: https://spectrum.ieee.org",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         }
