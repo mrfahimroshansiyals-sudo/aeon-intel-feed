@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ANTHROPIC INVESTORS BET ON $2TN VALUATION IN RECORD IPO",
+        "hookTitle": "OPENAI DAYBREAK: CYBER DEFENSE EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: RECORD $2TN VALUATION IPO",
-                "teaserTitle": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic investors target a 2 trillion dollar valuation for a record IPO. Rapid revenue growth fuels high expectations for the Claude maker."
+                "narration_line": "OpenAI has expanded its Daybreak cyber defense initiative, integrating advanced artificial intelligence models to strengthen global cybersecurity. This move enables real-time threat detection and autonomous countermeasures against escalating digital attacks."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
-                "teaserTitle": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
+                "headline": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
+                "teaserTitle": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft slashes prices for its flagship coding model to stay competitive. The price reduction lowers development overhead across enterprise teams."
+                "naration_line": "SpaceX has launched a new Grok artificial intelligence model, intensifying competition with Anthropic and OpenAI. This release introduces novel architectural efficiencies, boosting real-time data processing and generating nuanced responses."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
-                "teaserTitle": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
+                "headline": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
+                "teaserTitle": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia partners with Wall Street giants to mobilize 500 billion dollars for AI compute infrastructure. This financing platform transforms hardware acquisition into an asset class."
+                "narration_line": "New studies show that artificial intelligence agents are transforming data silos into an existential infrastructure problem for enterprises. Agents cannot reliably act on inaccessible or misunderstood data, impeding real-time insights."
             },
             {
                 "slide_index": 4,
-                "headline": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
-                "teaserTitle": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
+                "headline": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Software development environments evolve into toolkits for coordinating coding agents. Modern platforms shift human workflows toward architectural oversight."
+                "narration_line": "Salesforce and SAP are embedding artificial intelligence agents directly into enterprise workflows, becoming active participants in core business processes. These agents will automate tasks and influence decisions, altering operational efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
-                "teaserTitle": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
+                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "teaserTitle": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SK Hynix advances a 720 billion dollar memory buildout across Korea and the United States. The investment secures high bandwidth memory supplies for AI accelerators."
+                "narration_line": "AMD has partnered with the British Open-ended Learning and Discovery Lab at the University of Oxford to advance frontier artificial intelligence research in the United Kingdom. This collaboration targets next-generation model development and accelerates groundbreaking discoveries."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
-                "teaserTitle": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
+                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Security teams at Black Hat deploy custom AI agents inside network operations centers. These agents mitigate escalating automated threats at machine speed."
+                "narration_line": "IEEE Spectrum reports new research indicating artificial intelligence can now autonomously design functional biological viruses. This breakthrough raises significant global safety and ethical concerns regarding dual-use technology."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office launches a major hiring round to enforce the AI Act. Forty new posts target technical and legal compliance across Europe."
+                "narration_line": "Google DeepMind's WeatherNext artificial intelligence model has achieved a breakthrough in accurately forecasting cyclones and other extreme weather events. This innovation delivers unprecedented precision, providing crucial lead times for disaster preparedness globally."
             },
             {
                 "slide_index": 8,

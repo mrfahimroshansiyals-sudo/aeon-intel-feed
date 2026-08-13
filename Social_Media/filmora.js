@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: RECORD $2TN VALUATION IPO",
-                "teaserTitle": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
-                "visual_caption": "Anthropic investors target a $2T valuation for a record IPO. Rapid revenue growth fuels high expectations for the Claude maker."
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
+                "visual_caption": "OpenAI expands Daybreak cyber defense, integrating advanced AI to fortify global cybersecurity. This enables real-time threat detection and autonomous countermeasures against escalating digital attacks."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT: SLASHES PRICING FOR CODING MODEL",
-                "teaserTitle": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
-                "visual_caption": "Microsoft slashes prices for its flagship coding model to stay competitive. The price reduction lowers development overhead across enterprise teams."
+                "headline": "SPACEX: GROK RELEASE RAMPS UP AI WAR",
+                "teaserTitle": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
+                "visual_caption": "SpaceX launches new Grok AI model, intensifying competition with Anthropic and OpenAI. This release introduces architectural efficiencies, boosting real-time data processing and nuanced responses."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: ESTABLISHES $500B INFRASTRUCTURE FINANCING",
-                "teaserTitle": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
-                "visual_caption": "Nvidia partners with Wall Street giants to mobilize $500B for AI compute infrastructure. This financing platform transforms hardware acquisition into an asset class."
+                "headline": "CIO: AI AGENTS EXPOSE DATA SILO RISK",
+                "teaserTitle": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
+                "visual_caption": "New studies show AI agents turn data silos into an existential infrastructure problem for enterprises. Agents can't reliably act on inaccessible or misunderstood data, impeding real-time insights."
             },
             {
                 "slide_index": 4,
-                "headline": "INFOWORLD: AI CODING ENVIRONMENTS EVOLVE",
-                "teaserTitle": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
-                "visual_caption": "Software development environments evolve into toolkits for coordinating coding agents. Modern platforms shift human workflows toward architectural oversight."
+                "headline": "CIO: SALESFORCE & SAP EMBED AI AGENTS",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "visual_caption": "Salesforce and SAP embed AI agents directly into enterprise workflows, becoming active participants in core business processes. These agents automate tasks, influencing decisions and altering operational efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC: SK HYNIX $720BN MEMORY BUILDOUT",
-                "teaserTitle": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
-                "visual_caption": "SK Hynix advances a $720B memory buildout across Korea and the US. The investment secures high-bandwidth memory supplies for AI accelerators."
+                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "teaserTitle": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
+                "visual_caption": "AMD partners with British Open-ended Learning and Discovery Lab at Oxford to advance UK frontier AI research. This collaboration targets next-gen model development and accelerates groundbreaking discoveries."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHTARGET: BLACK HAT AI AGENT DEPLOYMENTS",
-                "teaserTitle": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
-                "visual_caption": "Security teams at Black Hat deploy custom AI agents inside network operations centers. These agents mitigate escalating automated threats at machine speed."
+                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
+                "visual_caption": "IEEE reports AI can autonomously design functional biological viruses, raising global safety and ethical concerns. This highlights dual-use technology risks."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: HIRING SURGE FOR ENFORCEMENT",
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECAST",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The EU AI Office launches a major hiring round to enforce the AI Act. 40 new posts target technical and legal compliance across Europe."
+                "visual_caption": "DeepMind's WeatherNext AI model achieves breakthrough in forecasting cyclones and extreme weather. This innovation delivers unprecedented precision for disaster preparedness globally."
             },
             {
                 "slide_index": 8,
