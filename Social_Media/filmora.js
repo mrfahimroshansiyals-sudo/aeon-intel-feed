@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: NEMOTRON 3.5 AND NEMO SWITCHYARD",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL PLAN",
-                "visual_caption": "NVIDIA released Nemotron 3.5 Lightning and NeMo Switchyard for agent routing. This architecture optimizes token latency and compute allocation across enterprise models."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash, its most intelligent model for coding and agentic AI. This release boosts performance for complex tasks and intricate coding challenges."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL PLAN",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE ROADMAP",
-                "visual_caption": "NVIDIA partnered with Apollo and BlackRock to mobilize $500B for compute platforms. The coalition establishes AI data centers as an institutional asset class."
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
+                "visual_caption": "Microsoft Azure expands with new AMD-powered AI and HPC VMs (HDv2, HXv2, ND MI455Xv7) for demanding workloads. These offer substantial throughput and efficiency improvements for enterprise AI deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "AMD: ACQUIRES TAALAS FOR INFERENCE ROADMAP",
-                "teaserTitle": "OPENAI: APPOINTS DALI RAJIC AS CRO FOR GROWTH",
-                "visual_caption": "AMD signed a definitive agreement to acquire silicon startup Taalas. The transaction delivers custom inference IP for future Instinct hardware generations."
+                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
+                "teaserTitle": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+                "visual_caption": "Google Cloud cut Gemini 3.7 Flash API prices to attract more developers. This responds to market competition, fostering ecosystem growth and broader AI adoption."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: APPOINTS DALI RAJIC AS CRO FOR GROWTH",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL API PRICES",
-                "visual_caption": "OpenAI appointed Dali Rajic as Chief Revenue Officer to lead global market monetization. The executive hire strengthens enterprise sales execution ahead of public markets."
+                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM consulting. Clients benefit from expert guidance for faster, efficient generative AI integration."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: SLASHES CODING MODEL API PRICES",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
-                "visual_caption": "Microsoft cut pricing across its Azure coding model APIs. The strategic discounts target developer retention against rival open model ecosystems."
+                "headline": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
+                "teaserTitle": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
+                "visual_caption": "A price war is escalating among leading AI developers, including OpenAI and Anthropic. This competition drives down costs, making advanced AI more accessible to businesses globally."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL ARCHITECTURE",
-                "visual_caption": "Databricks acquired Electric to embed PostgreSQL database engines into AI platforms. The acquisition accelerates local state management for enterprise autonomous agent workloads."
+                "headline": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
+                "teaserTitle": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
+                "visual_caption": "Oracle Cloud Infrastructure integrates quantum computing via Quantinuum\u2019s Helios system for hybrid AI. This enables researchers to tackle complex optimization problems and accelerate scientific discovery."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL ARCHITECTURE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Mistral AI unveiled Shieldstral to deliver sovereign security guardrails for enterprise deployments. The framework guarantees complete compliance under the EU AI Act."
+                "headline": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "The EU AI Office is hiring over 40 new positions to rigorously enforce the EU AI Act. This signals increased oversight, requiring AI developers to prepare for strict compliance strategies."
             },
             {
                 "slide_index": 8,
