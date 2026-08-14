@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 RELEASED FOR SCALABLE AMBITION",
+        "hookTitle": "NVIDIA SECURES $500B FOR AI INFRASTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASED FOR SCALABLE AMBITION",
-                "teaserTitle": "LAunches AI Agent Foundry",
+                "headline": "NVIDIA: SECURES $500B FOR AI INFRASTRUCTURE",
+                "teaserTitle": "Mistral Introduces Shieldstral",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released its new GPT 5.6 model, offering frontier intelligence for scalable AI applications. This enhances performance for complex enterprise workloads and accelerates large-scale AI deployment."
+                "narration_line": "Nvidia has partnered with major financial institutions to mobilize over five hundred billion dollars for AI compute infrastructure platforms. This initiative aims to significantly accelerate the deployment and scalability of advanced AI capabilities globally."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: LAUNCHES AI AGENT FOUNDRY",
-                "teaserTitle": "Unveils AI Threat Defense",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "Microsoft Slashes Coding Model Prices",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Microsoft Azure launches its AI Agent Production Foundry for building and deploying generative AI solutions. It integrates hosted agents and tracing, streamlining agent lifecycle management for businesses."
+                "narration_line": "Mistral AI has unveiled Shieldstral, an initiative for in-region inference, open models, and European infrastructure for sovereign AI. This provides localized control over AI deployments, strengthening data residency and compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: UNVEILS AI THREAT DEFENSE",
-                "teaserTitle": "Grok 4.6 Undercuts Rival Pricing",
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES",
+                "teaserTitle": "OpenAI Expands Daybreak Defense",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud unveils its AI Threat Defense platform, designed to safeguard AI systems against emerging cyber threats. This enhances overall cyber resilience, protecting sensitive data and models from adversarial attacks."
+                "narration_line": "Microsoft is significantly reducing prices for its coding models, aiming to boost competitiveness and broader adoption within developer communities. This strategy lowers the barrier for advanced AI-assisted development and accelerates software cycles."
             },
             {
                 "slide_index": 4,
-                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVAL PRICING",
-                "teaserTitle": "AI Designs Functional Viruses",
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "AI Hallucinations Aid Criminals",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SpaceXAI's Grok 4.6 model is out, focused on long-running tasks and undercutting rival AI prices. This offers enterprises a cost-effective option for advanced AI deployments, intensifying market competition."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative, targeting growing security threats from advanced AI systems. This enhancement fortifies platforms against sophisticated adversarial attacks, improving overall resilience."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "Oracle Brings Quantum to OCI AI",
+                "headline": "CYBERSECURITY: AI HALLUCINATIONS AID CRIMINALS",
+                "teaserTitle": "Google Cloud Releases Gemini Flash",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IEEE Spectrum reports AI can now design functional viruses, raising critical ethical and safety questions. This underscores the urgent need for robust AI governance and strict safeguards to prevent misuse."
+                "narration_line": "Reports from IEEE Spectrum confirm criminals are exploiting AI hallucinations to enhance deceptive tactics and facilitate criminal activities. This signifies an emerging vector for sophisticated cyber threats, raising success rates for fraud."
             },
             {
                 "slide_index": 6,
-                "headline": "CIO MAGAZINE: ORACLE BRINGS QUANTUM TO OCI AI",
-                "teaserTitle": "Oxford Partnership for Frontier AI",
+                "headline": "GOOGLE CLOUD: RELEASES NEW GEMINI FLASH MODELS",
+                "teaserTitle": "EU AI Act Office Hiring Drive",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Oracle plans to integrate quantum computing into its OCI, providing cloud access to Quantinuum\u2019s Helios system. This offers enterprises cutting-edge quantum capabilities for complex AI and HPC problems."
+                "narration_line": "Google Cloud has launched new Gemini Flash models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These models are optimized for greater efficiency and speed, reducing inference costs and latency across various applications."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: OXFORD PARTNERSHIP FOR FRONTIER AI",
+                "headline": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AMD partners with Oxford University's BOLD Lab to advance frontier AI research in the UK. This collaboration aims to push AI boundaries, fostering academic-industrial synergy for long-term breakthroughs."
+                "narration_line": "The EU AI Office has begun a significant hiring round, seeking forty new experts across technology, legal, and operational roles. This bolsters enforcement of the AI Act, operationalizing regulatory oversight across Europe."
             },
             {
                 "slide_index": 8,

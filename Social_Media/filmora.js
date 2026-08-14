@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASED FOR SCALABLE AMBITION",
-                "teaserTitle": "LAunches AI Agent Foundry",
-                "visual_caption": "OpenAI releases GPT-5.6, its new frontier model for scalable AI. This enhances performance for complex enterprise workloads and accelerates large-scale AI deployment."
+                "headline": "NVIDIA: SECURES $500B FOR AI INFRASTRUCTURE",
+                "teaserTitle": "Mistral Introduces Shieldstral",
+                "visual_caption": "NVIDIA partnered with financial institutions to mobilize over $500B for AI compute infrastructure platforms. This accelerates advanced AI deployment and scalability globally."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: LAUNCHES AI AGENT FOUNDRY",
-                "teaserTitle": "Unveils AI Threat Defense",
-                "visual_caption": "Microsoft Azure launches its AI Agent Production Foundry for building & deploying GenAI solutions. This platform integrates hosted agents & tracing, streamlining agent lifecycle management for businesses."
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "Microsoft Slashes Coding Model Prices",
+                "visual_caption": "Mistral AI unveiled Shieldstral, an initiative for in-region inference, open models, and European infrastructure for sovereign AI. This provides localized control, strengthening data residency and compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: UNVEILS AI THREAT DEFENSE",
-                "teaserTitle": "Grok 4.6 Undercuts Rival Pricing",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google Cloud unveils its AI Threat Defense platform, designed to safeguard AI systems against emerging cyber threats. This enhances overall cyber resilience, protecting sensitive data & models from adversarial attacks."
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES",
+                "teaserTitle": "OpenAI Expands Daybreak Defense",
+                "visual_caption": "Microsoft is significantly reducing prices for its coding models, aiming to boost competitiveness and broader adoption. This lowers the barrier for advanced AI-assisted development, accelerating software cycles."
             },
             {
                 "slide_index": 4,
-                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS RIVAL PRICING",
-                "teaserTitle": "AI Designs Functional Viruses",
-                "visual_caption": "Grok 4.6 by SpaceXAI is out, focused on long-running tasks & undercutting rival AI model prices. This offers enterprises a more cost-effective option for advanced AI deployments, intensifying market competition."
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "AI Hallucinations Aid Criminals",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense initiative, targeting growing security threats from advanced AI systems. This enhancement fortifies platforms against sophisticated adversarial attacks, improving resilience."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "Oracle Brings Quantum to OCI AI",
-                "visual_caption": "IEEE Spectrum reports AI can now design functional viruses, raising critical ethical & safety questions. This underscores the urgent need for robust AI governance & strict safeguards to prevent misuse."
+                "headline": "CYBERSECURITY: AI HALLUCINATIONS AID CRIMINALS",
+                "teaserTitle": "Google Cloud Releases Gemini Flash",
+                "visual_caption": "Reports from IEEE Spectrum confirm criminals are exploiting AI hallucinations to enhance deceptive tactics and facilitate criminal activities. This signifies an emerging vector for sophisticated cyber threats, raising success rates for fraud."
             },
             {
                 "slide_index": 6,
-                "headline": "CIO MAGAZINE: ORACLE BRINGS QUANTUM TO OCI AI",
-                "teaserTitle": "Oxford Partnership for Frontier AI",
-                "visual_caption": "Oracle plans to integrate quantum computing into its OCI, providing cloud access to Quantinuum\u2019s Helios system for hybrid AI. This offers enterprises cutting-edge quantum capabilities for complex AI & HPC problems."
+                "headline": "GOOGLE CLOUD: RELEASES NEW GEMINI FLASH MODELS",
+                "teaserTitle": "EU AI Act Office Hiring Drive",
+                "visual_caption": "Google Cloud launched new Gemini Flash models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These are optimized for greater efficiency and speed, reducing inference costs and latency."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: OXFORD PARTNERSHIP FOR FRONTIER AI",
+                "headline": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AMD partners with Oxford University's BOLD Lab to advance frontier AI research in the UK. This collaboration aims to push AI boundaries, fostering academic-industrial synergy for long-term breakthroughs."
+                "visual_caption": "The EU AI Office began a significant hiring round, seeking 40 new experts across tech, legal, and operational roles. This bolsters enforcement of the AI Act, operationalizing regulatory oversight across Europe."
             },
             {
                 "slide_index": 8,
