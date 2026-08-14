@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6",
-        "titleBlue": "RELEASE",
-        "footerSummary": "OpenAI launches GPT-5.6, enhancing AI ambition and scalability. Google Cloud introduces new Gemini models, optimizing agentic workloads and multi-modal capabilities."
+        "titleWhite": "GEMINI 3.7 FLASH FOR",
+        "titleBlue": "AGENTS",
+        "footerSummary": "Google DeepMind unveils Gemini 3.7 Flash for coding and agentic workloads. OpenAI and Anthropic initiate a price war, reshaping the competitive AI landscape."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
             "points": [
-                "OpenAI has launched GPT-5.6, positioning it as a frontier intelligence model designed for ambitious scaling in complex AI applications. This release signifies a major advancement in large language model capabilities and deployment.",
-                "The new model offers improved performance across diverse benchmarks, translating to higher efficiency and more reliable outputs for enterprise-grade solutions. It aims to reduce operational overhead for large-scale AI deployments.",
-                "Architecturally, GPT-5.6 integrates advanced self-correction and reasoning mechanisms, enabling greater autonomy and more sophisticated problem-solving. This enhances its utility in critical business functions.",
-                "Businesses can expect accelerated development of intelligent systems and robust, scalable AI integrations. This iteration allows for deeper customization and wider application in high-demand environments."
+                "Google DeepMind has introduced Gemini 3.7 Flash, their most intelligent workhorse model yet, specifically optimized for coding and complex agentic workloads. This release signifies a strategic advancement in developing highly capable and efficient AI agents.",
+                "The new model offers enhanced performance for autonomous systems, improving task execution and problem-solving in dynamic environments. It accelerates development cycles for agent-based applications across various industries.",
+                "Architecturally, Gemini 3.7 Flash integrates advanced reasoning and orchestration capabilities, enabling agents to handle multi-step plans and complex interactions. This pushes the frontier of agentic AI system design.",
+                "Developers and enterprises can leverage this model to deploy more robust and sophisticated AI agents, driving automation and intelligent decision-making at scale. It offers a powerful foundation for next-generation AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+            "nextUpTease": "NVIDIA: NEMOTRON & NEMO SWITCHYARD BOOST AGENTS",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-14T13:42:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-13T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+            "heading": "NVIDIA: NEMOTRON & NEMO SWITCHYARD BOOST AGENTS",
             "points": [
-                "OpenAI is expanding its Daybreak cyber defense system, enhancing its capabilities to counter evolving AI-driven security threats and narrowing attack windows. This update reinforces the platform's proactive security posture.",
-                "The expansion includes new threat detection algorithms and faster response protocols, significantly reducing the potential impact of sophisticated cyberattacks. It aims to fortify AI application security.",
-                "Strategically, Daybreak's enhancements provide a crucial layer of protection for AI models and data, addressing growing concerns about AI safety and misuse. This strengthens trust in AI deployments.",
-                "Organizations deploying OpenAI models will benefit from a more resilient and secure operational environment. This ensures data integrity and continuous service availability even against advanced threats."
+                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, designed to deliver faster, smarter, and more efficient agentic AI. These tools enhance the development and deployment of sophisticated AI agents.",
+                "Nemotron 3.5 Lightning improves model efficiency for real-time inference, while NeMo Switchyard optimizes agent orchestration and task management. This leads to significant performance gains in agentic applications.",
+                "The architectural integration provides a robust framework for building intelligent agents capable of complex, multi-step operations with greater accuracy and speed. It streamlines the AI agent development pipeline.",
+                "Enterprises can utilize these advancements to accelerate agent deployment, reduce operational costs, and enhance the responsiveness of AI-powered solutions. This impacts diverse agentic use cases from coding to customer service."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+            "nextUpTease": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
             "tags": [
-                "Source: https://openai.com/security/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-14T13:52:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+            "heading": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
             "points": [
-                "OpenAI has enhanced GPT-5.6 Sol within ChatGPT and expanded access to GPT-5.6 Luna for free users, democratizing advanced AI capabilities. This strategic move aims to broaden its user base and drive adoption.",
-                "This expansion lowers the barrier to entry for users, potentially leading to a surge in AI application development and usage across various sectors. It impacts market penetration and developer engagement significantly.",
-                "By offering powerful models to a wider audience, OpenAI fosters innovation and accelerates community-driven feedback loops, refining future model iterations. This fuels collaborative AI development.",
-                "Individuals and small businesses can now leverage cutting-edge AI for tasks previously limited by cost or access, promoting wider skill adoption. This could accelerate skill development across the workforce."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, and ND MI455Xv7). These VMs are designed to support demanding AI, data, inference, and technical computing workloads.",
+                "The new virtual machines offer superior performance and efficiency for compute-intensive tasks, providing Azure customers with greater processing power. This directly impacts the scalability of complex AI deployments.",
+                "This strategic integration of AMD silicon strengthens Azure's position as a leading cloud provider for high-performance AI and scientific computing. It offers diverse hardware options for specialized workloads.",
+                "Organizations can now leverage Azure for more demanding AI model training, large-scale simulations, and real-time inference, driving innovation across various scientific and industrial applications. This enhances cloud AI capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+            "nextUpTease": "DEEPSEEK: V4 API PRICES SOAR 10X AMID DEMAND",
             "tags": [
-                "Source: https://openai.com/product/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
-                "Published: 2026-08-14T13:55:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+            "heading": "DEEPSEEK: V4 API PRICES SOAR 10X AMID DEMAND",
             "points": [
-                "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, expanding its suite of efficient, multi-modal AI models. These new offerings target diverse application requirements with optimized performance.",
-                "Omni Flash provides robust multi-modal understanding, while Nano Banana 2 Lite offers rapid image generation and editing, enhancing creative workflows. These models improve efficiency and broadens AI utility.",
-                "This release strengthens Google Cloud\u2019s competitive edge in AI infrastructure, catering to growing demands for versatile and high-performance generative AI solutions. It provides more choice for developers.",
-                "Developers can leverage these models to build more sophisticated and resource-efficient AI applications across various industries. This allows for innovation in image, video, and multi-modal content creation."
+                "DeepSeek has significantly raised its V4 API prices by over 10 times, citing unprecedented demand and strain on its AI capacity. This adjustment reflects the intensifying pressure on generative AI infrastructure.",
+                "While some prices increase sharply, DeepSeek is implementing nuanced pricing strategies including off-peak discounts, cache benefits, and multi-model routing to manage the impact. This aims to balance capacity and affordability.",
+                "This pricing shift indicates a critical bottleneck in the supply of high-performance AI compute, challenging the prevailing trend of decreasing model costs. It underscores the financial realities of scaling frontier AI.",
+                "Developers relying on DeepSeek V4 will face increased operational costs, potentially impacting project budgets and the economic viability of certain AI applications. This may drive diversification to other models or capacity planning."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
+            "nextUpTease": "AMD: UK FRONTIER AI RESEARCH WITH OXFORD",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/now-available-gemini-omni-flash-and-nano-banana-2-lite",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://www.cio.com/article/2126848/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
+            "heading": "AMD: UK FRONTIER AI RESEARCH WITH OXFORD",
             "points": [
-                "Google Cloud announced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, enhancing its Gemini model family with specialized optimizations. These models are designed for targeted, high-efficiency AI workloads.",
-                "Gemini 3.6 Flash boosts general efficiency, 3.5 Flash-Lite offers ultra-low latency, and 3.5 Flash Cyber focuses on robust security applications. This diversification caters to specific enterprise needs.",
-                "These releases solidify Google Cloud's commitment to providing a versatile and performant AI ecosystem, supporting agentic and specialized AI tasks. It positions Google as a leader in flexible AI solutions.",
-                "Enterprises can deploy these specialized models to improve performance for agentic workflows, critical real-time applications, and advanced cybersecurity operations. This drives efficiency and security simultaneously."
+                "AMD has announced a new strategic partnership with the British Open-ended Learning and Discovery (BOLD) Lab at the University of Oxford. This collaboration aims to advance frontier AI research in the United Kingdom.",
+                "The initiative will provide BOLD Lab with advanced AMD compute technology and expertise, fostering cutting-edge research in artificial intelligence. It seeks to accelerate breakthroughs in next-generation AI capabilities.",
+                "This partnership underscores AMD's commitment to supporting global AI innovation and building an open ecosystem for AI development. It strengthens the UK's position in the international AI research landscape.",
+                "The collaboration is expected to yield significant advancements in fundamental AI research, contributing to new models, algorithms, and applications across various domains. It will also foster talent development in the UK."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "nextUpTease": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEV",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-the-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research.html",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEV",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new initiative focused on in-region inference, open models, and European infrastructure for sovereign AI. This aims to provide localized and secure AI deployments.",
-                "Shieldstral enables data processing to remain within specific geographic boundaries, addressing stringent data residency and compliance requirements. This significantly reduces data sovereignty risks for European enterprises.",
-                "This strategic move reinforces Mistral AI's position as a key player in the European AI landscape, offering tailored solutions for public sector and regulated industries. It aligns with EU AI Act principles.",
-                "Governments and businesses prioritizing data privacy and national security can leverage Shieldstral for sensitive AI workloads. This ensures compliance and fosters trust in localized AI solutions."
+                "Dynatrace has acquired Arize AI, a leading platform for AI observability and machine learning operations (MLOps), significantly enhancing its capabilities in AI agent development. This is Dynatrace's third acquisition this year.",
+                "The acquisition integrates Arize's robust MLOps tools into Dynatrace's existing observability arsenal, enabling more effective building, running, and governance of AI agents at scale. This expands Dynatrace's market offering.",
+                "Strategically, this move positions Dynatrace beyond pure observability into a comprehensive system of control for AI-driven applications. It addresses the growing need for reliable AI agent lifecycle management.",
+                "Enterprises using Dynatrace will benefit from enhanced AI agent performance monitoring, bias detection, and explainability, ensuring responsible and efficient AI deployments. This reduces risks in agentic AI adoption."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
+            "nextUpTease": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
             "tags": [
-                "Source: https://mistral.ai/news/introducing-shieldstral",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://www.techtarget.com/searchitoperations/news/366579344/Dynatrace-acquires-Arize-for-AI-agent-development",
+                "Published: 2026-08-13T12:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
+            "heading": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
             "points": [
-                "Grok AI has launched Grok 4.6, a new frontier model that aggressively undercuts the pricing of its major AI rivals. This move aims to disrupt the competitive landscape for large language models.",
-                "The model's focus on long-running tasks combined with competitive pricing offers significant cost savings for developers and businesses. This reduces operational expenditure for AI-powered applications.",
-                "Grok's pricing strategy signals an intense market competition, potentially driving down costs across the AI industry. This benefits a broad range of enterprise and startup customers.",
-                "Developers can access advanced AI capabilities at a lower price point, accelerating innovation and deployment of sophisticated agentic systems. This could expand AI adoption in budget-sensitive projects."
+                "A fierce price war is erupting between leading AI developers OpenAI and Anthropic, driven by aggressive competition and the emergence of more cost-effective Chinese AI rivals. This signals a shifting market dynamic.",
+                "Both US groups are releasing cheaper models in response to new challenges to their trillion-dollar ambitions, aiming to maintain market share and attract broader adoption. This puts pressure on profit margins.",
+                "This competitive landscape is forcing innovation in cost-efficiency and model optimization, potentially accelerating the development of more resource-friendly AI architectures. It reshapes the economics of large language models.",
+                "Businesses and developers will benefit from more affordable access to frontier AI capabilities, potentially democratizing advanced AI adoption and fostering innovation across various applications. This could lead to a broader AI market."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.ft.com/content/openai-anthropic-price-war-chinese-ai-rivals-gain-ground",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         }

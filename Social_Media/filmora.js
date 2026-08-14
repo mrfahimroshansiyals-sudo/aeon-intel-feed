@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "OpenAI released GPT-5.6, its latest intelligence model for scalable AI apps. This boosts efficiency and provides more reliable enterprise-grade outputs."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "teaserTitle": "NVIDIA: NEMOTRON & NEMO SWITCHYARD BOOST AGENTS",
+                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, its newest model optimized for coding and agents. This release significantly boosts efficiency and capability for advanced autonomous systems."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
-                "visual_caption": "OpenAI expands Daybreak cyber defense for AI-driven threats. New algorithms and faster protocols fortify AI app security and data integrity."
+                "headline": "NVIDIA: NEMOTRON & NEMO SWITCHYARD BOOST AGENTS",
+                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
+                "visual_caption": "NVIDIA unveils Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI. These tools enhance agent development, leading to significant performance gains in diverse applications."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "visual_caption": "OpenAI enhanced GPT-5.6 Sol in ChatGPT and gave free access to GPT-5.6 Luna. This democratizes advanced AI, surging dev and adoption across sectors."
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "DEEPSEEK: V4 API PRICES SOAR 10X AMID DEMAND",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines. These powerful VMs offer superior performance, directly impacting the scalability of complex AI deployments for customers."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
-                "visual_caption": "Google Cloud launched Gemini Omni Flash and Nano Banana 2 Lite. These optimize diverse app requirements with enhanced performance."
+                "headline": "DEEPSEEK: V4 API PRICES SOAR 10X AMID DEMAND",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH WITH OXFORD",
+                "visual_caption": "DeepSeek has raised its V4 API prices by over 10x due to intense demand on AI capacity. This pricing shift indicates critical bottlenecks in high-performance AI compute, affecting project budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "visual_caption": "Google Cloud released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. This diversification boosts efficiency and security for enterprises."
+                "headline": "AMD: UK FRONTIER AI RESEARCH WITH OXFORD",
+                "teaserTitle": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEV",
+                "visual_caption": "AMD partners with the British Open-ended Learning and Discovery Lab at Oxford to advance UK frontier AI research. This collaboration fosters cutting-edge advancements in next-generation AI models and talent development."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
-                "visual_caption": "Mistral AI introduced Shieldstral for in-region inference, open models, and sovereign AI. This addresses data residency and compliance, fostering trust in localized AI."
+                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEV",
+                "teaserTitle": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+                "visual_caption": "Dynatrace acquired Arize AI, enhancing its capabilities in AI agent development and MLOps observability. This acquisition positions Dynatrace as a comprehensive system of control for AI-driven applications."
             },
             {
                 "slide_index": 7,
-                "headline": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
+                "headline": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Grok AI launched Grok 4.6, undercutting rivals' prices. This offers significant cost savings for developers and accelerates AI innovation."
+                "visual_caption": "A price war is escalating between OpenAI and Anthropic, influenced by cost-effective Chinese AI rivals. This market dynamic forces innovation in efficiency and democratizes access to frontier AI capabilities."
             },
             {
                 "slide_index": 8,
