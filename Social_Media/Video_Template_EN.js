@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ENTERPRISE AI PARTNERSHIP BREAKTHROUGHS",
+        "hookTitle": "AGENTIC AI PLATFORM UPGRADE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "DATABRICKS $5B FUNDING & IPO",
+                "headline": "NVIDIA: AGENTIC AI PLATFORM UPGRADE",
+                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH PRICE CUTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "IBM Consulting has partnered with OpenAI to accelerate enterprise AI deployment. This alliance embeds frontier models and OpenAI engineers into IBM services, driving rapid AI transformation."
+                "narration_line": "NVIDIA introduced Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI. These platforms deliver faster, smarter, and more efficient AI agent orchestration, boosting enterprise AI deployment capabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "DATABRICKS: $5B FUNDING & IPO INEVITABLE",
-                "teaserTitle": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
+                "headline": "GOOGLE: GEMINI 3.7 FLASH PRICE CUTS",
+                "teaserTitle": "DATABRICKS: ELECTRIC ACQUISITION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Databricks secured an additional $5 billion in funding. This capital injection signals an inevitable IPO and will fuel acquisitions for AI agent capabilities."
+                "narration_line": "Google has cut prices for its Gemini 3.7 Flash model. This strategic reduction aims to attract more developers, intensifying competition in the frontier AI model market."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
+                "headline": "DATABRICKS: ELECTRIC ACQUISITION",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VMS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure launched IQ Connect and Foundry for AI agents. These platforms provide secure context from enterprise systems, enabling scalable production AI agent deployment."
+                "narration_line": "Databricks acquired Electric to integrate local Postgres databases for agentic applications. This move enhances data management for AI agents, driving more efficient enterprise AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
-                "teaserTitle": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
+                "headline": "AZURE: NEW AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "EU AI ACT: OFFICE STAFF EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud introduced its Gemini Enterprise Agent Platform. This unified solution supports agent development, orchestration, and governance for businesses, enhancing AI-driven automation."
+                "narration_line": "Microsoft Azure launched new AMD-powered AI and HPC virtual machines. These HDv2, HXv2, and ND MI455Xv7 VMs support demanding AI and data inference, boosting cloud compute performance."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "EU AI ACT: OFFICE STAFF EXPANSION",
+                "teaserTitle": "NVIDIA: $21B SPACEX INVESTMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DeepSeek increased V4 model prices by over 10 times. This dramatic hike reflects intense demand and capacity strain on global AI infrastructure."
+                "narration_line": "The EU AI Office is hiring 40 new posts in tech, legal, and operations. This major expansion enhances its capacity to enforce the EU AI Act, strengthening regulatory oversight across the bloc."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "headline": "NVIDIA: $21B SPACEX INVESTMENT",
+                "teaserTitle": "OPENAI: AI ETHICS LEAD DEPARTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding Luna access to free users. This move broadens availability of advanced models and fosters wider adoption."
+                "narration_line": "Nvidia disclosed a $21 billion stake in SpaceX. This strategic investment ensures Nvidia's AI hardware will power SpaceX data centers, expanding its reach into space-based AI infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "headline": "OPENAI: AI ETHICS LEAD DEPARTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This improves predictive precision for extreme weather events, aiding global disaster preparedness."
+                "narration_line": "OpenAI's AI ethics lead, Chlo\u00e9 Bakalar, has departed after one year. Her exit raises questions about the company's internal AI governance and strategic commitment to ethical development."
             },
             {
                 "slide_index": 8,

@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ENTERPRISE AI",
-        "titleBlue": "PARTNERSHIP",
-        "footerSummary": "A strategic alliance between IBM and OpenAI aims to accelerate large-scale AI deployment across global enterprises, reshaping digital transformation."
+        "titleWhite": "AGENTIC AI PLATFORM",
+        "titleBlue": "UPGRADE",
+        "footerSummary": "NVIDIA's Nemotron 3.5 Lightning and NeMo Switchyard enhance agentic AI, alongside Google's Gemini Flash price cuts and strategic enterprise acquisitions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+            "heading": "NVIDIA: AGENTIC AI PLATFORM UPGRADE",
             "points": [
-                "IBM Consulting and OpenAI have formed a strategic alliance to accelerate enterprise AI adoption and transformation.",
-                "This partnership integrates OpenAI's frontier models and expert engineers directly into IBM's consulting services, offering deep AI specialization.",
-                "The collaboration aims to provide businesses with end-to-end AI deployment, from strategy to implementation, across various industries.",
-                "Stakeholders can expect faster time-to-value for complex AI projects, enhancing competitive advantage and operational efficiency."
+                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, new platforms designed to advance agentic AI development.",
+                "These tools offer faster processing and smarter orchestration, significantly boosting the efficiency of AI agent deployments.",
+                "The architectural upgrade supports complex multi-agent systems, providing a robust framework for enterprise-scale AI solutions.",
+                "Stakeholders will benefit from reduced development cycles and enhanced performance, accelerating AI integration across industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS $5B FUNDING & IPO",
+            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICE CUTS",
             "tags": [
-                "Source: https://www.cio.com/article/2117560/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-14T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DATABRICKS: $5B FUNDING & IPO INEVITABLE",
+            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICE CUTS",
             "points": [
-                "Databricks has secured an additional $5 billion in funding, underscoring strong investor confidence in its data management and AI platform.",
-                "This substantial capital injection positions Databricks for an inevitable public offering, preparing for market expansion and increased scrutiny.",
-                "The new funding will fuel acquisitions and enhance capabilities aimed at aiding users in building and deploying AI agents.",
-                "Investors anticipate significant growth in the data intelligence market, with Databricks poised to lead enterprise AI data solutions."
+                "Google has significantly cut prices for its Gemini 3.7 Flash model, aiming to attract a wider developer base.",
+                "This reduction responds to diverging enterprise AI economics and a slower cadence for the Pro version, increasing market competitiveness.",
+                "The strategic pricing adjustment enhances accessibility for AI developers, encouraging broader experimentation and application development.",
+                "The market can expect intensified competition in foundation model pricing, benefiting businesses seeking cost-effective AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
+            "nextUpTease": "DATABRICKS: ELECTRIC ACQUISITION",
             "tags": [
-                "Source: https://www.techtarget.com/datamanagement/news/252571253/IPO-inevitable-for-Databricks-after-adding-5B-in-funding.html",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://www.infoworld.com/article/3710777/google-cuts-gemini-3-7-flash-prices-as-enterprise-ai-economics-diverge.html",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
+            "heading": "DATABRICKS: ELECTRIC ACQUISITION",
             "points": [
-                "Microsoft Azure has introduced IQ Connect to provide agents with secure, shared context from enterprise systems, data, and workflows.",
-                "Concurrently, Azure Foundry is launched to build, run, and govern production AI agents at scale, utilizing GPT-5.6 with hosted agents and toolboxes.",
-                "These platforms aim to unify AI, data, and business context, empowering agents to reason and act intelligently across the enterprise.",
-                "Organizations can expect accelerated development and deployment of robust, context-aware AI agents, improving operational efficiency and decision-making."
+                "Databricks has acquired Electric, integrating local PostgreSQL databases to enhance its platform for agentic applications.",
+                "This acquisition directly supports users in building and deploying advanced AI agents by providing robust data management capabilities.",
+                "It expands Databricks' data intelligence ecosystem, offering seamless integration of structured data within AI workflows.",
+                "Enterprises can leverage improved data locality and efficiency for agentic AI, leading to faster, more reliable application performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
+            "nextUpTease": "AZURE: NEW AMD-POWERED AI/HPC VMS",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://www.infoworld.com/article/3710772/databricks-acquires-electric-to-bring-local-postgres-databases-to-agentic-apps.html",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
+            "heading": "AZURE: NEW AMD-POWERED AI/HPC VMS",
             "points": [
-                "Google Cloud has unveiled its Gemini Enterprise Agent Platform, a comprehensive solution for developing, orchestrating, and governing AI agents.",
-                "This platform provides a unified environment for businesses to build advanced agentic systems, accelerating their AI-driven initiatives.",
-                "It integrates deeply with Google's AI infrastructure, enabling scalable and secure deployment of intelligent agents across diverse applications.",
-                "Enterprises can leverage this platform to enhance automation, streamline workflows, and unlock new levels of productivity with AI."
+                "Microsoft Azure has expanded its infrastructure, introducing new AMD-powered AI and HPC virtual machines.",
+                "These HDv2, HXv2, and ND MI455Xv7 VMs support highly demanding AI, data inference, and technical computing workloads.",
+                "The deployment provides enhanced compute performance and scalability for complex AI models and high-performance applications.",
+                "Organizations can achieve significant improvements in processing large datasets and running intensive AI algorithms on Azure."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
+            "nextUpTease": "EU AI ACT: OFFICE STAFF EXPANSION",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-one-platform-for-agent-development-orchestration-and-governance",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
+            "heading": "EU AI ACT: OFFICE STAFF EXPANSION",
             "points": [
-                "DeepSeek has significantly raised the prices for its V4 model by over tenfold in response to overwhelming AI demand and capacity limitations.",
-                "This drastic price adjustment indicates considerable strain on the underlying AI infrastructure and available compute resources.",
-                "The increase affects developers, though nuanced pricing structures like off-peak rates and cache discounts aim to mitigate impact.",
-                "The market signals a critical need for expanded AI compute capacity, potentially leading to further model price volatility and strategic investments."
+                "The EU AI Office is initiating a large-scale hiring round, seeking 40 new posts across tech, legal, and operations.",
+                "This significant expansion is dedicated explicitly to enforcing the landmark EU AI Act, strengthening regulatory oversight.",
+                "The staffing increase will bolster the Office's capacity to monitor, assess, and ensure compliance of AI systems within the EU.",
+                "AI providers and deployers must prepare for more rigorous enforcement and compliance checks as the Office gains operational strength."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "nextUpTease": "NVIDIA: $21B SPACEX INVESTMENT",
             "tags": [
-                "Source: https://www.cio.com/article/2117547/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office/",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "heading": "NVIDIA: $21B SPACEX INVESTMENT",
             "points": [
-                "OpenAI is enhancing the GPT-5.6 Sol model within ChatGPT and broadening access to GPT-5.6 Luna for free-tier users.",
-                "These updates aim to make advanced frontier intelligence more widely available, driving adoption across diverse user bases.",
-                "The move reflects OpenAI's strategy to balance premium offerings with accessible models, fostering innovation and competitive pricing.",
-                "Developers and general users gain increased access to powerful AI capabilities, facilitating broader experimentation and application development."
+                "Nvidia has disclosed a $21 billion stake in SpaceX, signaling a significant strategic investment in future AI infrastructure.",
+                "This filing follows an exclusive arrangement by Elon Musk to equip SpaceX's data centers with Nvidia's powerful AI hardware.",
+                "The investment ensures Nvidia's chips will power advanced satellite and space-based AI applications, broadening its market reach.",
+                "This partnership solidifies Nvidia's position in the high-growth AI compute sector, particularly in emerging space AI opportunities."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "nextUpTease": "OPENAI: AI ETHICS LEAD DEPARTS",
             "tags": [
-                "Source: https://openai.com/blog/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+                "Source: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+            "heading": "OPENAI: AI ETHICS LEAD DEPARTS",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in accurately forecasting cyclone trajectories and intensity.",
-                "This advancement leverages sophisticated machine learning techniques to process vast meteorological datasets, improving predictive precision.",
-                "The model's enhanced capabilities offer critical improvements for early warning systems and disaster preparedness strategies globally.",
-                "Governments and emergency services can utilize this AI to mitigate the impact of severe weather events, saving lives and protecting infrastructure."
+                "Chlo\u00e9 Bakalar, OpenAI's AI ethics lead, has departed the company just a year after joining from Meta.",
+                "Her exit raises questions about the stability and internal dynamics of AI governance at a frontier model developer.",
+                "This departure could impact OpenAI's strategic direction on responsible AI development and policy implementation.",
+                "Industry observers will closely monitor OpenAI's next steps to ensure continued commitment to ethical AI practices."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://www.cio.com/article/2117565/openai-loses-its-ai-ethics-lead.html",
+                "Published: 2026-08-14T16:30:00Z",
                 "Status: Audited & True"
             ]
         }
