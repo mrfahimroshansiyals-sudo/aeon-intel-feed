@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DEEPMIND UNVEILS GEMINI 3.7 FLASH",
+        "hookTitle": "GPT-5.6 SCALES WITH AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH UNVEILED",
-                "teaserTitle": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
+                "headline": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, their newest workhorse model designed for coding and AI agents. This model significantly improves efficiency and intelligence across complex development tasks."
+                "narration_line": "OpenAI introduces GPT-5.6, its new frontier model designed for enhanced intelligence and scalability. This release promises improved performance across complex reasoning and agent development for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
-                "teaserTitle": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "headline": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
+                "teaserTitle": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Mistral AI is boosting European AI sovereignty with in-region inference, open models, and new infrastructure. This strengthens data privacy and reduces latency for EU enterprises by localizing processing."
+                "narration_line": "NVIDIA introduces NeMo Switchyard, its solution for optimizing AI model routing and inference traffic. This innovation improves efficiency and reduces latency for complex AI deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
+                "headline": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM and OpenAI have announced a strategic partnership to drive enterprise AI deployment. This integrates frontier models and OpenAI-trained engineers into IBM consulting services, accelerating global business transformations."
+                "narration_line": "A global AI price war is intensifying among leading developers, including OpenAI and Anthropic, challenged by Chinese rivals. This competition aims to accelerate AI adoption and lower enterprise costs."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
-                "teaserTitle": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA launches Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI solutions. These tools boost agent responsiveness by optimizing performance for complex multi-step tasks and improving inference speed."
+                "narration_line": "Databricks acquired Electric to integrate embeddable PostgreSQL, enhancing agentic AI application development. This addition streamlines data handling for AI agents within applications."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
+                "headline": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
+                "teaserTitle": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IEEE Spectrum reports a rise in cybercrime exploiting AI hallucinations, where malicious actors use generative AI to fabricate information. This creates new vectors for sophisticated phishing and disinformation attacks."
+                "narration_line": "SpaceXAI launched Grok 4.6, a new model designed for long-running tasks, now undercutting rival AI model prices. This offers cost-effective performance for continuous enterprise AI workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
-                "teaserTitle": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+                "headline": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
+                "teaserTitle": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Oracle is integrating quantum computing into OCI for hybrid AI workloads, partnering with Quantinuum\u2019s Helios system. This offers unprecedented computational power for HPC and AI, accelerating complex problem-solving."
+                "narration_line": "AMD partners with Oxford University's British Open-ended Learning and Discovery Lab to advance UK frontier AI research. This collaboration aims to accelerate AI hardware and software development."
             },
             {
                 "slide_index": 7,
-                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+                "headline": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Dynatrace has acquired Arize AI, a leading MLOps platform, to bolster its AI agent development and observability capabilities. This enhances end-to-end AI management by integrating agent tools into its platform."
+                "narration_line": "Quantinuum is partnering with an Apple-affiliated company to scale quantum computing applications. This collaboration aims to integrate advanced quantum capabilities into a broader technology ecosystem."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }

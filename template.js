@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEMINI 3.7 FLASH",
-        "titleBlue": "UNVEILED",
-        "footerSummary": "Google DeepMind introduces Gemini 3.7 Flash, enhancing AI agent capabilities. IBM and OpenAI partner to accelerate enterprise AI deployments globally."
+        "titleWhite": "GPT-5.6 SCALES WITH",
+        "titleBlue": "AMBITION",
+        "footerSummary": "OpenAI's GPT-5.6 expands frontier AI capabilities, while a global price war reshapes model economics. Databricks strengthens agentic apps and AMD boosts UK AI research."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DEEPMIND: GEMINI 3.7 FLASH UNVEILED",
+            "heading": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
             "points": [
-                "Google DeepMind introduces Gemini 3.7 Flash, its latest workhorse model designed for coding and agent development. This represents a significant advancement in frontier AI capabilities.",
-                "The model is engineered for improved efficiency and intelligence across complex tasks, supporting more capable AI agents and specialized coding applications. It promises faster development cycles.",
-                "Architecturally, Gemini 3.7 Flash enhances reasoning and long-horizon task execution, leveraging advanced neural network designs. It solidifies Google's lead in agentic AI.",
-                "Developers can expect accelerated build, test, and run cycles for AI agents, driving innovation in enterprise automation and custom AI solutions."
+                "OpenAI has unveiled GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for diverse applications. This release pushes the boundaries of current large language model capabilities.",
+                "The new model delivers improved performance in complex reasoning, coding, and multi-modal understanding, enabling more robust AI agents and enterprise solutions. It sets a new benchmark for AI system integration.",
+                "Architecturally, GPT-5.6 integrates advanced neural network techniques, optimizing for both efficiency and broad application across various computational environments. It aims for a versatile deployment footprint.",
+                "Enterprises can leverage GPT-5.6 for scalable AI deployments, accelerating innovation in automated workflows, advanced analytics, and intelligent decision-making systems. This provides a competitive edge."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
+            "nextUpTease": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
+            "heading": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
             "points": [
-                "Mistral AI introduces in-region inference capabilities, open models, and new European infrastructure for sovereign AI. This initiative aims to strengthen data privacy and regulatory compliance within the EU.",
-                "The deployment offers localized processing, reducing data transfer costs and latency for European enterprises, while adhering to strict EU AI Act guidelines. This enhances operational security.",
-                "Architecturally, this supports federated learning and distributed AI workloads, enabling organizations to maintain control over sensitive data. It creates a robust AI ecosystem.",
-                "European businesses can now leverage frontier AI models with increased confidence in data governance, accelerating adoption in regulated industries."
+                "NVIDIA has entered the burgeoning market for AI model routers with NeMo Switchyard, offering a new solution for managing and optimizing AI inference traffic. This targets efficient resource allocation.",
+                "NeMo Switchyard aims to improve the efficiency and cost-effectiveness of deploying multiple AI models, dynamically routing queries to the most suitable inference endpoint. It optimizes operational expenditure.",
+                "This architectural innovation allows organizations to maximize GPU utilization and reduce latency by intelligently directing AI workloads across various models and hardware. It enhances system responsiveness.",
+                "CIOs and IT architects can leverage NeMo Switchyard to build more flexible, scalable, and cost-efficient AI infrastructures, supporting diverse application requirements. This streamlines model management."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+            "nextUpTease": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
             "tags": [
-                "Source: https://mistral.ai/news",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://www.cio.com/article/2127200/nvidia-moves-into-hot-market-for-model-routers.html",
+                "Published: 2026-08-14T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+            "heading": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
             "points": [
-                "IBM and OpenAI announce a strategic partnership aimed at driving enterprise AI deployment, integrating frontier models and OpenAI-trained engineers into IBM consulting services. This expands AI adoption.",
-                "The collaboration seeks to accelerate AI-centric transformations for global businesses, combining IBM\u2019s industry expertise with OpenAI\u2019s advanced model capabilities. It targets scalable solutions.",
-                "This partnership establishes a framework for direct integration of cutting-edge AI, including GPT-5.6, into complex enterprise workflows and systems. It leverages combined technological strengths.",
-                "Enterprises gain direct access to advanced AI solutions and specialized implementation support, streamlining their journey to AI-driven operational excellence."
+                "A global price war is intensifying among leading AI developers like OpenAI and Anthropic, driven by increased competition from Chinese rivals offering cheaper models. This impacts market dynamics significantly.",
+                "The aggressive pricing strategies aim to capture market share and accelerate AI adoption across enterprises, potentially lowering the barrier to entry for many businesses. It boosts accessibility.",
+                "This competitive environment forces architectural innovation, pushing for more efficient model designs and optimized inference capabilities to maintain profitability margins. It demands operational agility.",
+                "Businesses can expect more accessible and cost-effective AI solutions, fostering broader experimentation and deployment of generative AI across various sectors. This democratizes advanced AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
+            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "tags": [
-                "Source: https://www.cio.com/article/2127209/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T15:00:00Z",
+                "Source: https://www.ft.com/artificial-intelligence-price-war",
+                "Published: 2026-08-14T15:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "points": [
-                "NVIDIA introduces Nemotron 3.5 Lightning and NeMo Switchyard, delivering faster, smarter, and more efficient agentic AI solutions. These tools enhance the development and deployment of intelligent agents.",
-                "The new releases optimize performance for complex multi-step tasks, improving inference speed by up to 2x and reducing computational overhead. This boosts agent responsiveness.",
-                "Architecturally, Nemotron 3.5 Lightning leverages advanced GPU acceleration and an optimized software stack, providing a robust foundation for next-generation AI agents. It enhances real-time decision-making.",
-                "Developers can build more sophisticated and autonomous AI agents with greater efficiency, accelerating innovation in areas like automation and virtual assistants."
+                "Databricks has acquired Electric, integrating its embeddable PostgreSQL capabilities to enhance the development and deployment of agentic AI applications. This strengthens Databricks' data management.",
+                "This acquisition provides developers with robust local database solutions, enabling more efficient data handling and improved performance for AI agents directly within applications. It streamlines data workflows.",
+                "Architecturally, the integration aims to provide a seamless data layer for agentic AI, facilitating rapid iteration and scalable deployment of intelligent applications. It simplifies development.",
+                "Enterprises can leverage this expanded capability to build more sophisticated, data-aware AI agents with reduced operational overhead, accelerating AI-driven automation initiatives. This empowers developers."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
+            "nextUpTease": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://www.techtarget.com/searchsoftwarequality/news/366579347/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
+                "Published: 2026-08-13T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
+            "heading": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
             "points": [
-                "IEEE Spectrum reports a rise in cybercrime utilizing AI hallucinations, where malicious actors exploit generative AI\u2019s tendency to fabricate information. This poses a new vector for sophisticated attacks.",
-                "Crooks are leveraging AI-generated misinformation and deceptive content to craft more convincing phishing schemes, social engineering attacks, and disinformation campaigns. This increases vulnerability.",
-                "The architectural challenge lies in building robust guardrails and verification layers for generative AI outputs to prevent misuse and enhance factual accuracy. It requires AI-native security.",
-                "CISOs must develop new defense strategies against AI-driven deception, focusing on real-time content verification and user education to mitigate risks."
+                "SpaceXAI has released Grok 4.6, a new model focusing on long-running tasks, positioned to undercut the pricing of other frontier models in the AI market. This increases competitive pressure.",
+                "Grok 4.6's competitive pricing and optimized performance for extended tasks offer a cost-effective alternative for enterprises with demanding continuous AI workloads. It expands market access.",
+                "The model's architecture is tailored for efficiency in processing and maintaining context over long interactions, a critical feature for complex agentic workflows. It supports persistent AI.",
+                "Businesses can now access powerful AI for sustained operations at a lower cost, influencing budget allocations and fostering wider adoption of AI for comprehensive tasks. This shifts purchasing patterns."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
+            "nextUpTease": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-hallucinations-cybercrime",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
+                "Published: 2026-08-13T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
+            "heading": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
             "points": [
-                "Oracle is integrating quantum computing capabilities into Oracle Cloud Infrastructure (OCI) for hybrid AI workloads, partnering to provide cloud-based access to Quantinuum\u2019s Helios system. This expands compute options.",
-                "This integration will enable high-performance computing (HPC) and AI environments to leverage quantum processing for complex problem-solving, accelerating research and development. It offers unprecedented computational power.",
-                "Architecturally, OCI will provide a seamless bridge between classical and quantum computing, allowing developers to experiment with quantum algorithms in a familiar cloud environment. This democratizes access to quantum.",
-                "Enterprises can explore quantum-accelerated AI and HPC, potentially unlocking breakthroughs in materials science, drug discovery, and financial modeling."
+                "AMD has announced a partnership with the British Open-ended Learning and Discovery Lab at Oxford University to advance frontier AI research in the UK. This boosts regional innovation.",
+                "This collaboration aims to accelerate development in AI hardware and software, leveraging AMD's computing power and Oxford's research expertise. It enhances R&D capabilities significantly.",
+                "Architecturally, the partnership will explore new paradigms for AI training and inference, potentially leading to more energy-efficient and powerful AI systems. It drives technological breakthroughs.",
+                "The UK's AI ecosystem will benefit from this investment, fostering local talent and positioning the region as a hub for cutting-edge artificial intelligence development. This strengthens national competitiveness."
             ],
             "imageUrl": "",
-            "nextUpTease": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+            "nextUpTease": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
             "tags": [
-                "Source: https://www.cio.com/article/2127205/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-the-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research.html",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+            "heading": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
             "points": [
-                "Dynatrace has acquired Arize AI, a leading MLOps platform, to bolster its capabilities in AI agent development and observability. This expands Dynatrace's AI control systems.",
-                "This marks Dynatrace's third acquisition this year, integrating AI agent development tools directly into its observability arsenal. It enhances end-to-end AI management.",
-                "Architecturally, the acquisition extends Dynatrace's platform from pure observability to comprehensive systems of control for AI models and agents. It streamlines AI lifecycle management.",
-                "Enterprises will gain more robust tools for building, monitoring, and managing AI agents in production, ensuring performance, reliability, and security."
+                "Quantinuum is collaborating with an Apple partner to scale quantum computing applications, aiming to integrate advanced quantum capabilities into a broader tech ecosystem. This expands quantum accessibility.",
+                "This partnership seeks to accelerate the development of practical quantum algorithms and solutions, bridging the gap between theoretical quantum science and commercial deployment. It fast-tracks innovation.",
+                "Architecturally, the focus is on optimizing quantum-classical hybrid workloads and exploring new ways to harness quantum processors for complex computational problems. It drives new compute paradigms.",
+                "Developers and researchers within the Apple ecosystem could gain new avenues to explore quantum-accelerated solutions for AI, cryptography, and complex optimization tasks. This opens new frontiers."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.techtarget.com/searchsoftwarequality/news/366579347/Dynatrace-acquires-Arize-for-AI-agent-development",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://www.dowjones.com/newswires/quantinuum-is-working-with-this-apple-partner-to-scale-quantum-computing",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
