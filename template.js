@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES ENTERPRISE",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI releases GPT-5.6 for scalable enterprise AI. Google Cloud expands its Gemini Flash family with new specialized models for agentic workloads."
+        "titleWhite": "GEMINI 3.7 FLASH",
+        "titleBlue": "UNVEILED",
+        "footerSummary": "Google DeepMind introduces Gemini 3.7 Flash, enhancing AI agent capabilities. IBM and OpenAI partner to accelerate enterprise AI deployments globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES ENTERPRISE INTELLIGENCE",
+            "heading": "DEEPMIND: GEMINI 3.7 FLASH UNVEILED",
             "points": [
-                "OpenAI has officially launched GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for complex enterprise applications. This release sets new performance benchmarks for advanced AI.",
-                "The model significantly improves efficiency in large-scale deployments, with reports indicating up to a 15% increase in throughput for specific API calls and optimized token consumption. It promises substantial operational savings.",
-                "Architecturally, GPT-5.6 features a refined self-attention mechanism and expanded context windows, allowing for more coherent and long-horizon reasoning. This facilitates the development of sophisticated AI agents.",
-                "Businesses can now integrate more powerful AI capabilities, driving innovation in areas like automated customer service, content generation, and data analysis. It reshapes enterprise AI strategy."
+                "Google DeepMind introduces Gemini 3.7 Flash, its latest workhorse model designed for coding and agent development. This represents a significant advancement in frontier AI capabilities.",
+                "The model is engineered for improved efficiency and intelligence across complex tasks, supporting more capable AI agents and specialized coding applications. It promises faster development cycles.",
+                "Architecturally, Gemini 3.7 Flash enhances reasoning and long-horizon task execution, leveraging advanced neural network designs. It solidifies Google's lead in agentic AI.",
+                "Developers can expect accelerated build, test, and run cycles for AI agents, driving innovation in enterprise automation and custom AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS LAUNCH",
+            "nextUpTease": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS LAUNCH",
+            "heading": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
             "points": [
-                "Google Cloud has unveiled new additions to its Gemini Flash family, including Gemini 3.6 Flash, 3.5 Flash-Lite, Gemini Omni Flash, and Nano Banana 2 Lite. These models are tailored for diverse agentic and multimodal workloads.",
-                "These new variants focus on optimizing cost and speed for specific use cases, offering up to a 30% reduction in inference latency for some tasks compared to prior models. They provide enhanced flexibility for developers.",
-                "The architectural approach emphasizes specialized efficiencies for agent development, offering improved tool integration and long-context capabilities. This supports the growing demand for custom AI solutions.",
-                "Enterprises can leverage these optimized models to build more agile and cost-effective AI agents and applications, accelerating digital transformation. It directly impacts compute resource allocation and development cycles."
+                "Mistral AI introduces in-region inference capabilities, open models, and new European infrastructure for sovereign AI. This initiative aims to strengthen data privacy and regulatory compliance within the EU.",
+                "The deployment offers localized processing, reducing data transfer costs and latency for European enterprises, while adhering to strict EU AI Act guidelines. This enhances operational security.",
+                "Architecturally, this supports federated learning and distributed AI workloads, enabling organizations to maintain control over sensitive data. It creates a robust AI ecosystem.",
+                "European businesses can now leverage frontier AI models with increased confidence in data governance, accelerating adoption in regulated industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "CIO: REAL-TIME AI COST VISIBILITY IN INFRASTRUCTURE",
+            "nextUpTease": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
             "tags": [
-                "Source: https://cloud.google.com/",
-                "Published: 2026-08-14T14:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CIO: REAL-TIME AI COST VISIBILITY IN INFRASTRUCTURE",
+            "heading": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
             "points": [
-                "A new report from CIO.com highlights the critical need for real-time AI cost visibility at the infrastructure layer, as soaring AI expenses challenge enterprise budgets. This addresses a major operational blind spot for IT leaders.",
-                "Lack of granular cost data on AI infrastructure is causing budget overruns, with some organizations reporting up to a 20% unexpected increase in cloud compute expenditures. Improved visibility can lead to significant savings.",
-                "Architecturally, this requires integrating AI cost analytics directly into cloud and on-premise infrastructure monitoring systems for immediate feedback. It necessitates a shift towards AI-aware financial operations.",
-                "IT leaders must implement robust cost visibility models to manage AI investments effectively, preventing financial waste and optimizing resource allocation. This will become a key competitive differentiator for tech-driven companies."
+                "IBM and OpenAI announce a strategic partnership aimed at driving enterprise AI deployment, integrating frontier models and OpenAI-trained engineers into IBM consulting services. This expands AI adoption.",
+                "The collaboration seeks to accelerate AI-centric transformations for global businesses, combining IBM\u2019s industry expertise with OpenAI\u2019s advanced model capabilities. It targets scalable solutions.",
+                "This partnership establishes a framework for direct integration of cutting-edge AI, including GPT-5.6, into complex enterprise workflows and systems. It leverages combined technological strengths.",
+                "Enterprises gain direct access to advanced AI solutions and specialized implementation support, streamlining their journey to AI-driven operational excellence."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHTARGET: BLACK HAT NOC WARNS OF AI SECURITY FAILURES",
+            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
             "tags": [
-                "Source: https://www.cio.com/article/2127204/the-case-and-model-for-real-time-ai-cost-visibility-at-the-infrastructure-layer.html",
-                "Published: 2026-08-14T14:52:00Z",
+                "Source: https://www.cio.com/article/2127209/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
+                "Published: 2026-08-14T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHTARGET: BLACK HAT NOC WARNS OF AI SECURITY FAILURES",
+            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
             "points": [
-                "The Black Hat Network Operations Center (NOC) has observed a disturbing trend of increasing cyber-risk directly linked to AI adoption, highlighting significant security failures in current AI deployments. This underscores the urgency of robust AI security.",
-                "Findings indicate that AI systems introduce new attack vectors and vulnerabilities, leading to a projected 30% rise in AI-related security incidents over the next 12 months. This requires immediate defensive recalibration.",
-                "Architecturally, enterprises are struggling with securing AI pipelines, from data ingestion to model deployment, due to inadequate guardrails and monitoring. The report emphasizes a critical gap in AI-native security tools.",
-                "CISOs are urged to prioritize AI security frameworks, including adversary AI testing and comprehensive risk assessments, to mitigate emerging threats. This will shape future cybersecurity strategies for AI-first organizations."
+                "NVIDIA introduces Nemotron 3.5 Lightning and NeMo Switchyard, delivering faster, smarter, and more efficient agentic AI solutions. These tools enhance the development and deployment of intelligent agents.",
+                "The new releases optimize performance for complex multi-step tasks, improving inference speed by up to 2x and reducing computational overhead. This boosts agent responsiveness.",
+                "Architecturally, Nemotron 3.5 Lightning leverages advanced GPU acceleration and an optimized software stack, providing a robust foundation for next-generation AI agents. It enhances real-time decision-making.",
+                "Developers can build more sophisticated and autonomous AI agents with greater efficiency, accelerating innovation in areas like automation and virtual assistants."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIBUSINESS: GROK 4.6 LAUNCH UNDERCUTS RIVALS",
+            "nextUpTease": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
             "tags": [
-                "Source: https://www.techtarget.com/searchsecurity/news/366579346/Black-Hat-NOC-sees-AI-security-failures-firsthand",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIBUSINESS: GROK 4.6 LAUNCH UNDERCUTS RIVALS",
+            "heading": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
             "points": [
-                "SpaceXAI has released Grok 4.6, its latest generative AI model, specifically designed to handle long-running tasks while significantly undercutting the pricing of other frontier models. This intensifies the ongoing AI price war.",
-                "Grok 4.6 offers a competitive edge with an estimated 20% lower cost per inference compared to its direct competitors for similar complex tasks. This provides economic advantages for large-scale AI consumers.",
-                "The model's architecture emphasizes efficiency and sustained performance for multi-step agentic workflows, a key differentiator in the crowded LLM market. This aims to reduce the total cost of ownership for AI operations.",
-                "This strategic pricing and capability push from SpaceXAI will pressure other major AI providers to adjust their models and pricing. It benefits developers and enterprises seeking cost-effective, high-performance AI solutions."
+                "IEEE Spectrum reports a rise in cybercrime utilizing AI hallucinations, where malicious actors exploit generative AI\u2019s tendency to fabricate information. This poses a new vector for sophisticated attacks.",
+                "Crooks are leveraging AI-generated misinformation and deceptive content to craft more convincing phishing schemes, social engineering attacks, and disinformation campaigns. This increases vulnerability.",
+                "The architectural challenge lies in building robust guardrails and verification layers for generative AI outputs to prevent misuse and enhance factual accuracy. It requires AI-native security.",
+                "CISOs must develop new defense strategies against AI-driven deception, focusing on real-time content verification and user education to mitigate risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIBUSINESS: MICROSOFT SLASHES CODING MODEL PRICES",
+            "nextUpTease": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-hallucinations-cybercrime",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIBUSINESS: MICROSOFT SLASHES CODING MODEL PRICES",
+            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
             "points": [
-                "Microsoft has significantly reduced prices for its coding models, aiming to remain competitive and attract a broader developer base amidst intense market competition. This move targets the increasing demand for efficient coding AI.",
-                "The price cuts affect various API tiers for coding assistance, with some models seeing up to a 25% reduction in cost per token for specific workloads. This directly lowers development expenditure.",
-                "This strategic adjustment reflects Microsoft's commitment to democratizing access to its advanced AI tools and scaling its presence in the AI-powered developer ecosystem. It leverages economies of scale in compute.",
-                "Developers and enterprises will benefit from more affordable access to high-quality coding AI, potentially accelerating software development cycles and fostering innovation. This could drive broader adoption of AI in engineering workflows."
+                "Oracle is integrating quantum computing capabilities into Oracle Cloud Infrastructure (OCI) for hybrid AI workloads, partnering to provide cloud-based access to Quantinuum\u2019s Helios system. This expands compute options.",
+                "This integration will enable high-performance computing (HPC) and AI environments to leverage quantum processing for complex problem-solving, accelerating research and development. It offers unprecedented computational power.",
+                "Architecturally, OCI will provide a seamless bridge between classical and quantum computing, allowing developers to experiment with quantum algorithms in a familiar cloud environment. This democratizes access to quantum.",
+                "Enterprises can explore quantum-accelerated AI and HPC, potentially unlocking breakthroughs in materials science, drug discovery, and financial modeling."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: UBER PARTNERS PONY.AI FOR 2,000 ROBOTAXIS",
+            "nextUpTease": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
-                "Published: 2026-08-12T16:00:00Z",
+                "Source: https://www.cio.com/article/2127205/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CNBC: UBER PARTNERS PONY.AI FOR 2,000 ROBOTAXIS",
+            "heading": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
             "points": [
-                "Uber has announced a major partnership with Chinese autonomous driving company Pony.ai to deploy 2,000 robotaxis across Europe, marking a significant expansion of autonomous vehicle services. This scales AI into urban transportation.",
-                "This collaboration aims to launch commercial robotaxi operations in several European cities by early 2027, with a goal to capture a 15% market share in key urban mobility segments. It represents a substantial investment.",
-                "Pony.ai's full-stack autonomous driving technology will be integrated into Uber's network, utilizing advanced AI for real-time navigation, perception, and decision-making. This leverages sophisticated sensor fusion algorithms.",
-                "The partnership will accelerate the adoption of self-driving technology in Europe, offering new mobility options and potentially reducing operational costs for ride-hailing services. This impacts urban logistics and consumer behavior."
+                "Dynatrace has acquired Arize AI, a leading MLOps platform, to bolster its capabilities in AI agent development and observability. This expands Dynatrace's AI control systems.",
+                "This marks Dynatrace's third acquisition this year, integrating AI agent development tools directly into its observability arsenal. It enhances end-to-end AI management.",
+                "Architecturally, the acquisition extends Dynatrace's platform from pure observability to comprehensive systems of control for AI models and agents. It streamlines AI lifecycle management.",
+                "Enterprises will gain more robust tools for building, monitoring, and managing AI agents in production, ensuring performance, reliability, and security."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-pony-ai-for-2000-robotaxis-in-europe.html",
-                "Published: 2026-08-14T05:00:00Z",
+                "Source: https://www.techtarget.com/searchsoftwarequality/news/366579347/Dynatrace-acquires-Arize-for-AI-agent-development",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI UNVEILS GPT-5.6 FOR ENTERPRISE",
+        "hookTitle": "DEEPMIND UNVEILS GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES ENTERPRISE INTELLIGENCE",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS LAUNCH",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH UNVEILED",
+                "teaserTitle": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, their newest frontier model, designed to offer increased intelligence and scalability for enterprise applications. This release sets new performance standards, driving efficiency in large-scale deployments."
+                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, their newest workhorse model designed for coding and AI agents. This model significantly improves efficiency and intelligence across complex development tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS LAUNCH",
-                "teaserTitle": "CIO: REAL-TIME AI COST VISIBILITY IN INFRASTRUCTURE",
+                "headline": "MISTRAL AI: EUROPEAN AI SOVEREIGNTY BOOSTED",
+                "teaserTitle": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google Cloud introduced new Gemini Flash variants, including 3.6 Flash and Omni Flash, optimized for diverse agentic workloads. These models significantly reduce inference latency by up to 30%, enhancing development flexibility."
+                "naration_line": "Mistral AI is boosting European AI sovereignty with in-region inference, open models, and new infrastructure. This strengthens data privacy and reduces latency for EU enterprises by localizing processing."
             },
             {
                 "slide_index": 3,
-                "headline": "CIO: REAL-TIME AI COST VISIBILITY IN INFRASTRUCTURE",
-                "teaserTitle": "TECHTARGET: BLACK HAT NOC WARNS OF AI SECURITY FAILURES",
+                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CIO dot com highlights the urgent need for real-time AI cost visibility at the infrastructure layer, as expenses challenge enterprise budgets. Lack of data causes up to 20% unexpected cloud compute increases, demanding better financial operations."
+                "narration_line": "IBM and OpenAI have announced a strategic partnership to drive enterprise AI deployment. This integrates frontier models and OpenAI-trained engineers into IBM consulting services, accelerating global business transformations."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHTARGET: BLACK HAT NOC WARNS OF AI SECURITY FAILURES",
-                "teaserTitle": "AIBUSINESS: GROK 4.6 LAUNCH UNDERCUTS RIVALS",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING POWERS AGENTIC AI",
+                "teaserTitle": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Black Hat's Network Operations Center reports rising cyber-risk due to AI adoption, observing significant security failures. Findings project a 30% rise in AI-related security incidents over the next 12 months, requiring urgent defensive recalibration."
+                "narration_line": "NVIDIA launches Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI solutions. These tools boost agent responsiveness by optimizing performance for complex multi-step tasks and improving inference speed."
             },
             {
                 "slide_index": 5,
-                "headline": "AIBUSINESS: GROK 4.6 LAUNCH UNDERCUTS RIVALS",
-                "teaserTitle": "AIBUSINESS: MICROSOFT SLASHES CODING MODEL PRICES",
+                "headline": "IEEE SPECTRUM: AI HALLUCINATIONS CYBER THREAT",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SpaceXAI has released Grok 4.6, a new generative AI model for long tasks, priced 20% lower than competitors. This strategic pricing pushes other providers to adjust models, benefiting developers seeking cost-effective solutions."
+                "narration_line": "IEEE Spectrum reports a rise in cybercrime exploiting AI hallucinations, where malicious actors use generative AI to fabricate information. This creates new vectors for sophisticated phishing and disinformation attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "AIBUSINESS: MICROSOFT SLASHES CODING MODEL PRICES",
-                "teaserTitle": "CNBC: UBER PARTNERS PONY.AI FOR 2,000 ROBOTAXIS",
+                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI AI",
+                "teaserTitle": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft has substantially reduced prices for its AI coding models, aiming to stay competitive and attract more developers. Some models now see up to a 25% cost reduction per token, lowering development expenditures significantly."
+                "narration_line": "Oracle is integrating quantum computing into OCI for hybrid AI workloads, partnering with Quantinuum\u2019s Helios system. This offers unprecedented computational power for HPC and AI, accelerating complex problem-solving."
             },
             {
                 "slide_index": 7,
-                "headline": "CNBC: UBER PARTNERS PONY.AI FOR 2,000 ROBOTAXIS",
+                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Uber is partnering with Chinese company Pony dot ai to deploy 2,000 robotaxis across Europe, scaling autonomous vehicle services significantly. This aims to launch commercial operations by early 2027, capturing a 15% market share."
+                "narration_line": "Dynatrace has acquired Arize AI, a leading MLOps platform, to bolster its AI agent development and observability capabilities. This enhances end-to-end AI management by integrating agent tools into its platform."
             },
             {
                 "slide_index": 8,
