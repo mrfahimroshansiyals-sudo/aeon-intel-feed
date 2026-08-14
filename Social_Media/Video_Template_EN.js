@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND INTRODUCES GEMINI 3.7 FLASH FOR CODING AND AGENTS",
+        "hookTitle": "AI FRONTIER SHIFTS: GPT-5.6, WEATHER AI, & PRICE WARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH FOR CODING AND AGENTS",
-                "teaserTitle": "NVIDIA MOBILIZES $500B FOR AI COMPUTE INFRASTRUCTURE",
+                "headline": "OPENAI: LAUNCHES GPT-5.6, EXPANDS ACCESS TO LUNA",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, their most intelligent workhorse model for coding and agents. This advancement streamlines complex development tasks, significantly boosting enterprise AI agent efficiency."
+                "narration_line": "OpenAI unveils GPT-5.6, enhancing AI capabilities and expanding free access to GPT-5.6 Luna. This move democratizes advanced models, accelerating innovation for developers and enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: MOBILIZES $500B FOR AI COMPUTE INFRASTRUCTURE",
-                "teaserTitle": "DEEPSEEK RAISES V4 PRICES BY OVER 10X AMID STRAINED CAPACITY",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI FLASH MODELS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA has partnered with six financial giants to mobilize over $500 billion for AI compute infrastructure. This massive capital injection will accelerate global AI development and high-performance computing capabilities."
+                "narration_line": "Google DeepMind's WeatherNext AI achieves a breakthrough in cyclone forecasting. This provides earlier warnings, potentially saving lives and minimizing infrastructure damage."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPSEEK: RAISES V4 PRICES BY OVER 10X AMID STRAINED CAPACITY",
-                "teaserTitle": "MICROSOFT AZURE NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI FLASH MODELS",
+                "teaserTitle": "FT: OPENAI AND ANTHROPIC IN AI PRICE WAR AMID RIVALRY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DeepSeek has increased prices for its V4 models by over ten times due to extreme demand and strained capacity. This drastic price adjustment signals mounting pressure on AI compute resources across the industry."
+                "narration_line": "Google Cloud introduces new Gemini 3.6 Flash and Omni Flash models. These empower businesses with faster, cost-effective AI integration for data analysis and content creation."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "NVIDIA NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
+                "headline": "FT: OPENAI AND ANTHROPIC IN AI PRICE WAR AMID RIVALRY",
+                "teaserTitle": "EU AI ACT: AI OFFICE ANNOUNCES MASSIVE ENFORCEMENT HIRING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines. These HDv2, HXv2, and ND MI455Xv7 series support demanding AI, data, and inference workloads."
+                "narration_line": "OpenAI and Anthropic engage in an AI price war as Chinese rivals gain ground. This will accelerate enterprise AI adoption by making sophisticated capabilities more accessible."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD FOR AGENTIC AI",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC POSTGRES DATABASES",
+                "headline": "EU AI ACT: AI OFFICE ANNOUNCES MASSIVE ENFORCEMENT HIRING",
+                "teaserTitle": "GROK: GROK 4.6 LAUNCHES, UNDERCUTTING AI RIVAL PRICING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA has released Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI. These advancements deliver faster, smarter, and more efficient AI agent operations and development workflows."
+                "naration_line": "The EU AI Office announces massive hiring for AI Act enforcement. This signifies strict regulatory oversight, impacting AI development and deployment across Europe."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC POSTGRES DATABASES",
-                "teaserTitle": "GOOGLE CLOUD UNVEILS GEMINI ENTERPRISE AGENT PLATFORM",
+                "headline": "GROK: GROK 4.6 LAUNCHES, UNDERCUTTING AI RIVAL PRICING",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks has acquired Electric, integrating local PostgreSQL databases directly into agentic applications. This acquisition enhances real-time data access and processing capabilities for advanced AI agents."
+                "narration_line": "Grok 4.6 launches, strategically undercutting rival AI pricing for long-running tasks. This offers developers budget-friendly options, potentially shifting market share and increasing AI accessibility."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE CLOUD: UNVEILS GEMINI ENTERPRISE AGENT PLATFORM",
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google Cloud has unveiled the Gemini Enterprise Agent Platform, a unified system for agent development and governance. This platform offers secure, scalable solutions for deploying AI agents across enterprise operations."
+                "narration_line": "Microsoft slashes prices for its coding AI models to boost competitiveness. This lowers the entry barrier, accelerating AI adoption across software development workflows."
             },
             {
                 "slide_index": 8,
