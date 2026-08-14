@@ -4,50 +4,56 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: NVIDIA SECURES $500B FOR AI COMPUTE",
-                "teaserTitle": "WEATHERNEXT WEATHER AI PREDICTS CYCLONES",
-                "visual_caption": "Nvidia partners with top Wall Street institutions to mobilize over $500B in financing platforms. This massive capital injection establishes AI compute factories as a primary investable asset class."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "DEEPSEEK: AI PRICE HIKE IMPACTS DEVELOPERS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, a new workhorse model for coding and agents. This promises faster, more efficient AI operations for devs & businesses."
             },
             {
                 "slide_index": 2,
-                "headline": "SCIENCE: WEATHERNEXT WEATHER AI PREDICTS CYCLONES",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTS",
-                "visual_caption": "Google DeepMind unveils WeatherNext, achieving a major breakthrough in forecasting severe cyclones with high spatial precision. The enhanced prediction engine provides critical lead time for global disaster mitigation operations."
+                "headline": "DEEPSEEK: AI PRICE HIKE IMPACTS DEVELOPERS",
+                "teaserTitle": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+                "visual_caption": "DeepSeek increased V4 model prices by >10x due to strained AI demand. This significantly raises operational costs for many developers."
             },
             {
                 "slide_index": 3,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC TO INTEGRATE POSTGRESQL DATABASES",
-                "teaserTitle": "GOOGLE CLOUD LAUNCHES GEMINI 3.7 FLASH",
-                "visual_caption": "Databricks acquires Electric to integrate embeddable PostgreSQL databases into its agent development platform. This acquisition provides the low-latency transactional storage required for complex multi-step workflows."
+                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Dynatrace acquired Arize AI, integrating new AI agent development tools into its platform. This expands its focus from observability to comprehensive AI system control."
             },
             {
                 "slide_index": 4,
-                "headline": "MODELS: GOOGLE CLOUD LAUNCHES GEMINI 3.7 FLASH",
-                "teaserTitle": "VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
-                "visual_caption": "Google Cloud launches Gemini 3.7 Flash and Omni Flash models for high-efficiency enterprise coding. The update delivers 35% faster token inference speeds while reducing cloud compute overhead."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Databricks acquired Electric to embed local PostgreSQL DBs for agentic apps. This enhances data management & processing efficiency for AI agents."
             },
             {
                 "slide_index": 5,
-                "headline": "DEVELOPMENT: VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
-                "teaserTitle": "BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
-                "visual_caption": "Visual Studio Code version 1.133 debuts with native support for Claude developer coding sessions. This integration streamlines context passing between local workspaces and frontier language models."
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "IEEE SPECTRUM: PAKISTAN JUDGES TEST JUDGEGPT",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "New research shows AI can design functional viruses, raising serious biosecurity & ethical concerns. Strict protocols are critical to prevent misuse."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
-                "teaserTitle": "LOVABLE HITS $13.3B WITH CEREBRAS INTEGRATION",
-                "visual_caption": "Security operators at the Black Hat NOC report a 40% surge in automated AI model exploitation attempts. The findings highlight an urgent need for robust runtime guardrails and real-time observability."
+                "headline": "IEEE SPECTRUM: PAKISTAN JUDGES TEST JUDGEGPT",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Pakistani judges trialed 'JudgeGPT', achieving a 6.3% speed-up in cases & fewer appeals. This represents significant AI adoption in judiciary."
             },
             {
                 "slide_index": 7,
-                "headline": "STARTUPS: LOVABLE REACHES $13.3B VALUATION WITH CEREBRAS",
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Swedish startup Lovable reaches a $13.3B valuation following Cerebras hardware integration. The milestone highlights intense venture capital demand for zero-latency software creation platforms."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Microsoft Azure now offers new AMD-powered AI & HPC VMs for demanding workloads. These VMs provide enhanced computational power & efficiency for enterprises."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
