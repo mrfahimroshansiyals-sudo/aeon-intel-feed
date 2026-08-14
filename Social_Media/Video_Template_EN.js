@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI FRONTIER SHIFTS: GPT-5.6, WEATHER AI, & PRICE WARS",
+        "hookTitle": "NVIDIA SECURES FIVE HUNDRED BILLION FOR AI COMPUTE INFRASTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: LAUNCHES GPT-5.6, EXPANDS ACCESS TO LUNA",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "INFRASTRUCTURE: NVIDIA SECURES $500B FOR AI COMPUTE",
+                "teaserTitle": "WEATHERNEXT WEATHER AI PREDICTS CYCLONES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI unveils GPT-5.6, enhancing AI capabilities and expanding free access to GPT-5.6 Luna. This move democratizes advanced models, accelerating innovation for developers and enterprises."
+                "narration_line": "Nvidia partners with top Wall Street institutions to mobilize over five hundred billion dollars in financing platforms. This massive capital injection establishes AI compute factories as a primary investable asset class."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI FLASH MODELS",
+                "headline": "SCIENCE: WEATHERNEXT WEATHER AI PREDICTS CYCLONES",
+                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind's WeatherNext AI achieves a breakthrough in cyclone forecasting. This provides earlier warnings, potentially saving lives and minimizing infrastructure damage."
+                "narration_line": "Google DeepMind unveils WeatherNext, achieving a major breakthrough in forecasting severe cyclones with high spatial precision. The enhanced prediction engine provides critical lead time for global disaster mitigation operations."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 FLASH & OMNI FLASH MODELS",
-                "teaserTitle": "FT: OPENAI AND ANTHROPIC IN AI PRICE WAR AMID RIVALRY",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC TO INTEGRATE POSTGRESQL DATABASES",
+                "teaserTitle": "GOOGLE CLOUD LAUNCHES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduces new Gemini 3.6 Flash and Omni Flash models. These empower businesses with faster, cost-effective AI integration for data analysis and content creation."
+                "narration_line": "Databricks acquires Electric to integrate embeddable PostgreSQL databases into its agent development platform. This acquisition provides the low latency transactional storage required for complex multi step workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "FT: OPENAI AND ANTHROPIC IN AI PRICE WAR AMID RIVALRY",
-                "teaserTitle": "EU AI ACT: AI OFFICE ANNOUNCES MASSIVE ENFORCEMENT HIRING",
+                "headline": "MODELS: GOOGLE CLOUD LAUNCHES GEMINI 3.7 FLASH",
+                "teaserTitle": "VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI and Anthropic engage in an AI price war as Chinese rivals gain ground. This will accelerate enterprise AI adoption by making sophisticated capabilities more accessible."
+                "narration_line": "Google Cloud launches Gemini 3.7 Flash and Omni Flash models for high efficiency enterprise coding. The update delivers thirty five percent faster token inference speeds while reducing cloud compute overhead."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI ACT: AI OFFICE ANNOUNCES MASSIVE ENFORCEMENT HIRING",
-                "teaserTitle": "GROK: GROK 4.6 LAUNCHES, UNDERCUTTING AI RIVAL PRICING",
+                "headline": "DEVELOPMENT: VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
+                "teaserTitle": "BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "The EU AI Office announces massive hiring for AI Act enforcement. This signifies strict regulatory oversight, impacting AI development and deployment across Europe."
+                "narration_line": "Visual Studio Code version 1.133 debuts with native support for Claude developer coding sessions. This integration streamlines context passing between local workspaces and frontier language models."
             },
             {
                 "slide_index": 6,
-                "headline": "GROK: GROK 4.6 LAUNCHES, UNDERCUTTING AI RIVAL PRICING",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
+                "headline": "SECURITY: BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
+                "teaserTitle": "LOVABLE HITS $13.3B WITH CEREBRAS INTEGRATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Grok 4.6 launches, strategically undercutting rival AI pricing for long-running tasks. This offers developers budget-friendly options, potentially shifting market share and increasing AI accessibility."
+                "narration_line": "Security operators at the Black Hat NOC report a forty percent surge in automated AI model exploitation attempts. The findings highlight an urgent need for robust runtime guardrails and real time observability."
             },
             {
                 "slide_index": 7,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
+                "headline": "STARTUPS: LOVABLE REACHES $13.3B VALUATION WITH CEREBRAS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Microsoft slashes prices for its coding AI models to boost competitiveness. This lowers the entry barrier, accelerating AI adoption across software development workflows."
+                "narration_line": "Swedish startup Lovable reaches a thirteen point three billion dollar valuation following Cerebras hardware integration. The milestone highlights intense venture capital demand for zero latency software creation platforms."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
     }
