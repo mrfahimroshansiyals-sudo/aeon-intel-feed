@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6",
-        "titleBlue": "RELEASE",
-        "footerSummary": "OpenAI\u2019s new GPT-5.6 sets a frontier intelligence benchmark, driving architectural shifts and competitive pricing across the AI landscape."
+        "titleWhite": "ENTERPRISE AI",
+        "titleBlue": "PARTNERSHIP",
+        "footerSummary": "A strategic alliance between IBM and OpenAI aims to accelerate large-scale AI deployment across global enterprises, reshaping digital transformation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE",
+            "heading": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
             "points": [
-                "GPT-5.6 introduces a new level of frontier intelligence, offering expanded capabilities across diverse applications and complex tasks.",
-                "This model scales performance significantly, enabling more ambitious AI implementations and pushing computational boundaries further.",
-                "Its architecture supports enhanced self-correction and reasoning, crucial for advanced agentic workflows and robust enterprise solutions.",
-                "Stakeholders can expect accelerated development cycles and a renewed focus on AI scalability and responsible deployment strategies."
+                "IBM Consulting and OpenAI have formed a strategic alliance to accelerate enterprise AI adoption and transformation.",
+                "This partnership integrates OpenAI's frontier models and expert engineers directly into IBM's consulting services, offering deep AI specialization.",
+                "The collaboration aims to provide businesses with end-to-end AI deployment, from strategy to implementation, across various industries.",
+                "Stakeholders can expect faster time-to-value for complex AI projects, enhancing competitive advantage and operational efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "nextUpTease": "DATABRICKS $5B FUNDING & IPO",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Source: https://www.cio.com/article/2117560/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "heading": "DATABRICKS: $5B FUNDING & IPO INEVITABLE",
             "points": [
-                "Google Cloud has launched AI Threat Defense, a new security solution designed to proactively counter sophisticated cyber adversaries.",
-                "This system leverages advanced AI models to detect and neutralize emerging threats, boosting overall cloud security posture for enterprises.",
-                "The defense integrates across Google Cloud infrastructure, offering comprehensive protection for critical assets and sensitive data.",
-                "Organizations will benefit from enhanced resilience against AI-powered attacks, safeguarding operations and maintaining data integrity."
+                "Databricks has secured an additional $5 billion in funding, underscoring strong investor confidence in its data management and AI platform.",
+                "This substantial capital injection positions Databricks for an inevitable public offering, preparing for market expansion and increased scrutiny.",
+                "The new funding will fuel acquisitions and enhance capabilities aimed at aiding users in building and deploying AI agents.",
+                "Investors anticipate significant growth in the data intelligence market, with Databricks poised to lead enterprise AI data solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
+            "nextUpTease": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
             "tags": [
-                "Source: https://cloud.google.com/security/ai-threat-defense",
+                "Source: https://www.techtarget.com/datamanagement/news/252571253/IPO-inevitable-for-Databricks-after-adding-5B-in-funding.html",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
+            "heading": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These VMs support demanding AI, data, inference, and technical computing workloads, offering superior performance and efficiency.",
-                "The expansion enhances Azure's capability to host large-scale AI applications and high-performance computing tasks for enterprises.",
-                "Businesses gain access to more powerful and cost-effective compute resources, accelerating their AI and scientific research initiatives."
+                "Microsoft Azure has introduced IQ Connect to provide agents with secure, shared context from enterprise systems, data, and workflows.",
+                "Concurrently, Azure Foundry is launched to build, run, and govern production AI agents at scale, utilizing GPT-5.6 with hosted agents and toolboxes.",
+                "These platforms aim to unify AI, data, and business context, empowering agents to reason and act intelligently across the enterprise.",
+                "Organizations can expect accelerated development and deployment of robust, context-aware AI agents, improving operational efficiency and decision-making."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+            "heading": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
             "points": [
-                "Google DeepMind announced significant price reductions for its Gemini 3.7 Flash model to spur broader developer adoption.",
-                "This strategic move lowers operational costs for generative AI applications, making high-performance models more accessible.",
-                "The adjustment reflects Google's response to market competition and aims to accelerate innovation in the frontier model space.",
-                "Developers and enterprises can now leverage advanced AI capabilities at reduced prices, enhancing efficiency and scalability."
+                "Google Cloud has unveiled its Gemini Enterprise Agent Platform, a comprehensive solution for developing, orchestrating, and governing AI agents.",
+                "This platform provides a unified environment for businesses to build advanced agentic systems, accelerating their AI-driven initiatives.",
+                "It integrates deeply with Google's AI infrastructure, enabling scalable and secure deployment of intelligent agents across diverse applications.",
+                "Enterprises can leverage this platform to enhance automation, streamline workflows, and unlock new levels of productivity with AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+            "nextUpTease": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
             "tags": [
-                "Source: https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-one-platform-for-agent-development-orchestration-and-governance",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+            "heading": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
             "points": [
-                "NVIDIA has partnered with major financial firms like Apollo and Goldman Sachs to establish AI compute infrastructure financing platforms.",
-                "These platforms aim to mobilize over $500 billion of third-party capital to fund essential AI data center buildouts globally.",
-                "The initiative addresses the massive capital requirements for scaling AI, transforming AI compute into an investable asset class.",
-                "This will significantly accelerate the deployment of high-performance AI infrastructure, impacting global enterprise AI adoption rates."
+                "DeepSeek has significantly raised the prices for its V4 model by over tenfold in response to overwhelming AI demand and capacity limitations.",
+                "This drastic price adjustment indicates considerable strain on the underlying AI infrastructure and available compute resources.",
+                "The increase affects developers, though nuanced pricing structures like off-peak rates and cache discounts aim to mitigate impact.",
+                "The market signals a critical need for expanded AI compute capacity, potentially leading to further model price volatility and strategic investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
+            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Source: https://www.cio.com/article/2117547/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
+            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
             "points": [
-                "Mistral AI introduced Shieldstral, a new initiative offering in-region inference and sovereign AI infrastructure in Europe.",
-                "This provides localized data processing for open models, enhancing data governance and reducing latency for European enterprises.",
-                "The development aims to foster an independent and secure AI ecosystem, aligning with regional regulatory requirements and trust.",
-                "European businesses can now deploy AI solutions with greater control over data residency and compliance, boosting regional innovation."
+                "OpenAI is enhancing the GPT-5.6 Sol model within ChatGPT and broadening access to GPT-5.6 Luna for free-tier users.",
+                "These updates aim to make advanced frontier intelligence more widely available, driving adoption across diverse user bases.",
+                "The move reflects OpenAI's strategy to balance premium offerings with accessible models, fostering innovation and competitive pricing.",
+                "Developers and general users gain increased access to powerful AI capabilities, facilitating broader experimentation and application development."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Source: https://openai.com/blog/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
             "points": [
-                "OpenAI and Anthropic are engaged in a price war, responding to growing competition from Chinese AI rivals gaining market share.",
-                "US groups are releasing cheaper models to counter new challenges to their trillion-dollar ambitions and maintain market dominance.",
-                "This competitive dynamic forces innovation in cost efficiency and model optimization, impacting the global AI services market.",
-                "Enterprises can anticipate more competitive pricing and diverse model offerings as providers vie for broader adoption."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in accurately forecasting cyclone trajectories and intensity.",
+                "This advancement leverages sophisticated machine learning techniques to process vast meteorological datasets, improving predictive precision.",
+                "The model's enhanced capabilities offer critical improvements for early warning systems and disaster preparedness strategies globally.",
+                "Governments and emergency services can utilize this AI to mitigate the impact of severe weather events, saving lives and protecting infrastructure."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ft.com/content/openai-anthropic-price-war-chinese-ai-rivals-gain-ground",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
                 "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]

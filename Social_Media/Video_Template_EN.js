@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 RELEASE IGNITES GLOBAL AI TRANSFORMATION",
+        "hookTitle": "ENTERPRISE AI PARTNERSHIP BREAKTHROUGHS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "DATABRICKS $5B FUNDING & IPO",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launched GPT-5.6, setting a new frontier for intelligence across diverse applications. This major upgrade drives architectural shifts and enhances scalability for advanced AI workflows."
+                "narration_line": "IBM Consulting has partnered with OpenAI to accelerate enterprise AI deployment. This alliance embeds frontier models and OpenAI engineers into IBM services, driving rapid AI transformation."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
+                "headline": "DATABRICKS: $5B FUNDING & IPO INEVITABLE",
+                "teaserTitle": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Google Cloud introduced AI Threat Defense, a proactive security solution against advanced cyber threats. The system utilizes AI models to detect and neutralize emerging risks, boosting enterprise cloud security."
+                "narration_line": "Databricks secured an additional $5 billion in funding. This capital injection signals an inevitable IPO and will fuel acquisitions for AI agent capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "headline": "MICROSOFT AZURE: NEW AI AGENT PLATFORMS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These high-performance VMs enhance Azure's capacity for demanding AI and scientific computing workloads."
+                "narration_line": "Microsoft Azure launched IQ Connect and Foundry for AI agents. These platforms provide secure context from enterprise systems, enabling scalable production AI agent deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
-                "teaserTitle": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "headline": "GOOGLE CLOUD: GEMINI AGENT PLATFORM",
+                "teaserTitle": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Google DeepMind cut prices for its Gemini 3.7 Flash model, aiming to broaden developer adoption. This move makes high-performance generative AI more accessible, lowering operational costs for many applications."
+                "narration_line": "Google Cloud introduced its Gemini Enterprise Agent Platform. This unified solution supports agent development, orchestration, and governance for businesses, enhancing AI-driven automation."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
+                "headline": "DEEPSEEK: V4 PRICE HIKE DUE TO DEMAND",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "NVIDIA initiated a $500 billion financing platform with Apollo and Goldman Sachs for AI compute infrastructure. This mobilizes third-party capital to accelerate global AI data center development and deployment."
+                "narration_line": "DeepSeek increased V4 model prices by over 10 times. This dramatic hike reflects intense demand and capacity strain on global AI infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
-                "teaserTitle": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Mistral AI unveiled Shieldstral, enabling in-region inference and sovereign AI infrastructure in Europe. This provides localized data processing, enhancing data governance and reducing latency for European businesses."
+                "narration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding Luna access to free users. This move broadens availability of advanced models and fosters wider adoption."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "OpenAI and Anthropic are engaged in a price war, responding to competitive pressure from Chinese AI rivals. This dynamic is leading to more cost-effective models as providers compete for wider enterprise adoption."
+                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This improves predictive precision for extreme weather events, aiding global disaster preparedness."
             },
             {
                 "slide_index": 8,
