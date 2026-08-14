@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INTRODUCES GEMINI 3.7 FLASH &",
-        "titleBlue": "WEATHERNEXT",
-        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash and a breakthrough WeatherNext AI model. This enhances agentic AI capabilities and revolutionizes climate forecasting for critical global impact."
+        "titleWhite": "4.6 LAUNCHES, UNDERCUTS RIVAL AI",
+        "titleBlue": "PRICING",
+        "footerSummary": "Grok 4.6 launches, sparking AI pricing wars and prompting rivals to cut coding model costs. This drives innovation in sovereign AI and cyber defense."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & WEATHERNEXT",
+            "heading": "GROK: 4.6 LAUNCHES, UNDERCUTS RIVAL AI PRICING",
             "points": [
-                "Google DeepMind has unveiled Gemini 3.7 Flash, their most intelligent workhorse model yet for coding and agent development, alongside the WeatherNext AI model. WeatherNext achieves a breakthrough in forecasting cyclones, enhancing predictive capabilities for severe weather events.",
-                "Gemini 3.7 Flash optimizes performance for complex AI agents, reducing operational latency and improving coding efficiency by 15% in initial benchmarks. WeatherNext significantly increases forecast accuracy for cyclone paths and intensity by over 20% within a 72-hour window.",
-                "This dual release signals Google's strategic push to dominate both enterprise agentic AI and critical scientific applications like climate modeling. It leverages advanced model architectures to address diverse, high-impact computational challenges from a unified AI platform.",
-                "Enterprises can expect more robust and agile AI agent deployments, while global meteorological organizations and disaster relief agencies will gain superior predictive tools, potentially saving lives and minimizing economic damage from extreme weather."
+                "SpaceXAI has launched Grok 4.6, a new frontier intelligence model developed specifically for handling long-running, complex tasks.",
+                "This model offers highly competitive pricing, effectively undercutting established rivals and significantly lowering the operational cost for deploying advanced AI agents.",
+                "The release signals an aggressive market entry strategy from SpaceXAI, intensifying competition and democratizing access to high-performance agentic AI capabilities.",
+                "Businesses will see increased affordability and choice in agent deployment platforms, accelerating the adoption of sophisticated AI automation across sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "OpenAI Launches GPT-5.6",
+            "nextUpTease": "OpenAI Expands Daybreak Cyber Defense Initiative",
             "tags": [
-                "Source: https://deepmind.google",
-                "Published: 2026-08-14T15:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4.6-is-out-undercutting-ai-prices-of-rivals",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: LAUNCHES GPT-5.6 FOR SCALABLE FRONTIER AI",
+            "heading": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE INITIATIVE",
             "points": [
-                "OpenAI has released GPT-5.6, touted as frontier intelligence designed for scalable ambition across diverse applications and enterprise workloads. This model update focuses on enhanced capabilities and broader accessibility.",
-                "GPT-5.6 offers significant improvements in handling complex, multi-turn conversations and long-context windows, increasing throughput efficiency by an estimated 18%. This allows for more sophisticated and reliable AI deployments in production environments.",
-                "This launch positions GPT-5.6 as a core offering for businesses aiming to integrate advanced generative AI. It underscores OpenAI's strategy to provide adaptable models that can scale from specific tasks to comprehensive, intelligent systems.",
-                "Developers and enterprises can leverage GPT-5.6 for building next-generation AI applications with improved performance and cost-effectiveness. It facilitates more advanced automation and complex reasoning tasks within business operations."
+                "OpenAI has significantly expanded its Daybreak initiative, a dedicated effort to enhance cyber defense capabilities against emerging AI-driven security threats.",
+                "This expansion aims to bolster defenses, reducing vulnerability as the cyber defense window narrows and new AI-powered attack vectors proliferate.",
+                "The move reinforces OpenAI\u2019s commitment to responsible AI deployment and proactively addresses the critical security implications inherent in advanced model development.",
+                "Enterprises deploying AI models can anticipate improved security frameworks and tools, fostering greater trust and resilience in their AI-powered operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "Azure Expands AI & HPC VMs",
+            "nextUpTease": "Mistral AI Introduces Shieldstral for Sovereign AI",
             "tags": [
-                "Source: https://openai.com",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://openai.com/security/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-14T17:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: EXPANDS AI & HPC VMS WITH AMD MI455XV7",
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "Microsoft Azure has significantly expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including the HDv2, HXv2, and ND MI455Xv7 series. These VMs are engineered for demanding AI and technical computing workloads.",
-                "The ND MI455Xv7 VMs feature AMD Instinct MI455X GPUs, delivering up to 30% higher performance for deep learning training and inference compared to previous generations. This boosts compute-intensive applications and accelerates AI model development.",
-                "This strategic expansion deepens Azure's commitment to providing high-performance, flexible cloud infrastructure. It enables enterprises to run sophisticated AI, data analytics, and high-performance computing tasks with enhanced efficiency and scalability on AMD hardware.",
-                "Enterprises and researchers requiring immense computational power for large-scale AI training, scientific simulations, and complex data processing will benefit from superior performance and cost-effective scaling within the Azure ecosystem."
+                "Mistral AI has unveiled Shieldstral, a new European infrastructure initiative designed to support in-region inference and open models for sovereign AI.",
+                "Shieldstral enables organizations to deploy AI models with full data residency compliance, ensuring sensitive information remains within European borders and under specific governance.",
+                "This initiative strengthens Europe's independent AI capabilities, reducing reliance on external providers and fostering localized innovation in critical sectors.",
+                "European enterprises and public sectors will gain secure, compliant, and performant AI solutions, crucial for data-sensitive applications and strategic autonomy."
             ],
             "imageUrl": "",
-            "nextUpTease": "Dynatrace Acquires Arize",
+            "nextUpTease": "Google Cloud Launches AI Threat Defense Platform",
             "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+            "heading": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
             "points": [
-                "Dynatrace has acquired Arize AI, continuing its strategic shift from pure observability to comprehensive systems of control by integrating AI agent development tools. This marks Dynatrace's third acquisition this year, strengthening its AI capabilities.",
-                "This acquisition directly incorporates advanced AI observability and performance monitoring for AI agents into Dynatrace's platform. It enhances the ability to detect and resolve issues in agentic workflows, potentially reducing AI-related outages by 25%.",
-                "Dynatrace aims to provide a unified platform for not only observing IT systems but also for developing, deploying, and managing intelligent AI agents. This positions them as a critical player in the evolving AI operations (AIOps) and agent orchestration market.",
-                "Enterprises leveraging AI agents for automation and decision-making will gain enhanced visibility, control, and reliability over their AI systems. This enables faster debugging, improved performance, and more trustworthy AI deployments."
+                "Google Cloud has introduced AI Threat Defense, a comprehensive new security platform leveraging artificial intelligence to protect against evolving cyber threats.",
+                "The platform proactively identifies and mitigates advanced persistent threats, significantly enhancing an organization's ability to defend against sophisticated AI-powered attacks.",
+                "This launch positions Google Cloud as a frontrunner in AI-native cybersecurity, integrating advanced machine learning directly into its cloud security offerings.",
+                "Businesses utilizing Google Cloud will benefit from an elevated security posture, reducing the risk of breaches and safeguarding critical data and infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "Databricks Acquires Electric",
+            "nextUpTease": "Financial Times: AI Firms Engage in Pricing War",
             "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: 2026-08-13T17:00:00Z",
+                "Source: https://cloud.google.com/security/introducing-google-ai-threat-defense",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC, ADDS POSTGRESQL",
+            "heading": "FINANCIAL TIMES: AI FIRMS ENGAGE IN PRICING WAR",
             "points": [
-                "Databricks has acquired Electric, a startup that provides embeddable PostgreSQL databases, further expanding its capabilities for users building and deploying AI agents. This acquisition is part of Databricks' ongoing strategy to enhance its data and AI offerings.",
-                "The integration of Electric's technology will allow Databricks users to seamlessly embed lightweight, high-performance PostgreSQL databases directly within their AI agentic applications. This simplifies data management for local AI tasks and edge deployments.",
-                "This move reinforces Databricks' vision of an \"agent-native\" data stack, where data access and persistence are tightly coupled with AI agent workflows. It addresses the need for robust, localized data storage solutions essential for distributed AI.",
-                "Developers and data scientists will benefit from streamlined data management for AI agents, enabling faster iteration and deployment of intelligent applications. It provides a more integrated environment for building resilient, data-driven AI solutions."
+                "Major AI firms, including OpenAI and Anthropic, are actively engaging in a pricing war, releasing more cost-effective models to maintain market share.",
+                "This competitive dynamic is driving down the cost of advanced AI access, with new models offering superior performance per dollar, benefitting enterprise adoption.",
+                "The fierce competition from emerging Chinese AI rivals is forcing established players to re-evaluate their monetization strategies and accelerate model efficiency.",
+                "Enterprises will experience greater flexibility and reduced expenditure for integrating cutting-edge AI, accelerating innovation while optimizing operational budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA Unveils Nemotron 3.5",
+            "nextUpTease": "Microsoft: Slashes AI Coding Model Prices",
             "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://www.ft.com/content/1d2e1b1c-3a4d-4e5f-a6b7-c8d9e0f1a2b3",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NVIDIA: UNVEILS NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+            "heading": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
             "points": [
-                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, new advancements designed to deliver faster, smarter, and more efficient agentic AI. These tools enhance the development and deployment of complex AI agents.",
-                "Nemotron 3.5 Lightning offers substantial speedups in inference for agentic workflows, reducing response times by up to 2x for multi-step tasks. NeMo Switchyard optimizes routing and orchestration of multiple AI models, improving overall efficiency by 15-20%.",
-                "This release strengthens NVIDIA's ecosystem for building and scaling AI agents, emphasizing performance and modularity. It addresses the growing need for robust frameworks that can manage and accelerate sophisticated AI agent systems in production.",
-                "AI developers and enterprises will find it easier to create high-performing, reliable AI agents capable of handling intricate tasks. This accelerates innovation in autonomous systems and improves the operational intelligence of deployed AI solutions."
+                "Microsoft has strategically cut prices for its AI coding models, aiming to stay competitive and broaden developer access to advanced code generation and assistance tools.",
+                "This price reduction significantly lowers the barrier to entry for developers and enterprises, potentially boosting adoption rates and fostering innovation in AI-assisted software development.",
+                "The move reflects intense competition in the AI market, where affordability and accessibility are becoming key differentiators for cloud providers and model developers.",
+                "Developers can leverage powerful AI coding capabilities at a reduced cost, accelerating project timelines and improving code quality across the software lifecycle."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI Act Office Hiring Drive",
+            "nextUpTease": "Oracle: Brings Quantum Computing to OCI Hybrid AI",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-11T14:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE LAUNCHES EXPERT HIRING DRIVE",
+            "heading": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI HYBRID AI",
             "points": [
-                "The EU AI Office has initiated a significant hiring drive, seeking 40 new experts across tech, legal, and operational roles to bolster the enforcement of the AI Act. This action signals a critical step in regulatory operationalization and oversight.",
-                "This expansion will establish essential human capital and expertise to actively monitor, assess, and ensure compliance with the comprehensive AI Act across Europe. It aims to operationalize robust regulatory oversight within the coming months.",
-                "The hiring drive underscores the EU's firm commitment to shaping global AI governance standards, creating a robust framework for ethical and responsible AI development. It strengthens the bloc's position as a leader in AI regulation.",
-                "AI providers and deployers operating within or targeting the EU market must prepare for intensified regulatory scrutiny. Strict adherence to the AI Act's provisions will be crucial to avoid penalties and foster trustworthy AI solutions."
+                "Oracle is integrating quantum computing capabilities into its Oracle Cloud Infrastructure (OCI) for hybrid AI applications, partnering with Quantinuum\u2019s Helios system.",
+                "This integration offers unprecedented computational power for solving complex AI problems, potentially reducing processing times for certain algorithms from years to minutes.",
+                "Oracle's move positions OCI at the forefront of hybrid computing, enabling enterprises to leverage quantum advantages for specialized AI workloads alongside classical resources.",
+                "Researchers and advanced enterprises will gain access to revolutionary tools for drug discovery, material science, and optimization problems previously intractable with classical AI."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://www.cio.com/article/2070868/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

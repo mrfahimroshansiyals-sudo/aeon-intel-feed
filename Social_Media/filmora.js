@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & WEATHERNEXT",
-                "teaserTitle": "OPENAI LAUNCHES GPT-5.6",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, their most intelligent workhorse AI model yet. WeatherNext simultaneously achieves a breakthrough in cyclone forecasting, boosting accuracy by over 20% for severe weather predictions."
+                "headline": "GROK: 4.6 LAUNCHES, UNDERCUTS RIVAL AI PRICING",
+                "teaserTitle": "OpenAI Expands Daybreak Cyber Defense Initiative",
+                "visual_caption": "SpaceXAI has released Grok 4.6, a new AI model for complex, long-running tasks. This model offers competitive pricing, aiming to significantly reduce operational costs for advanced AI agent deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: LAUNCHES GPT-5.6 FOR SCALABLE FRONTIER AI",
-                "teaserTitle": "AZURE EXPANDS AI & HPC VMS",
-                "visual_caption": "OpenAI launches GPT-5.6, a new frontier intelligence model designed for scalable enterprise AI. It offers improved efficiency, boosting throughput by an estimated 18% for complex, multi-turn conversations."
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE INITIATIVE",
+                "teaserTitle": "Mistral AI Introduces Shieldstral for Sovereign AI",
+                "visual_caption": "OpenAI expanded its Daybreak initiative to fortify cyber defenses against emerging AI security threats. This crucial step aims to reduce vulnerabilities as the window for cyber defense narrows due to new attack vectors."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: EXPANDS AI & HPC VMS WITH AMD MI455XV7",
-                "teaserTitle": "DYNATRACE ACQUIRES ARIZE",
-                "visual_caption": "Microsoft Azure expands its AI/HPC VMs with new AMD Instinct MI455Xv7 GPUs. These deliver up to 30% higher performance for DL training and inference workloads, accelerating AI model development."
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "Google Cloud Launches AI Threat Defense Platform",
+                "visual_caption": "Mistral AI introduced Shieldstral, a new European infrastructure for in-region inference and open AI models. This ensures data residency compliance for sensitive information within European borders."
             },
             {
                 "slide_index": 4,
-                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC",
-                "visual_caption": "Dynatrace acquires Arize AI, integrating advanced tools for AI agent development and observability. This enhances issue detection in agentic workflows, reducing potential outages by 25%."
+                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "Financial Times: AI Firms Engage in Pricing War",
+                "visual_caption": "Google Cloud launched AI Threat Defense, a new platform leveraging AI for advanced cybersecurity. It proactively identifies and mitigates sophisticated AI-powered attacks, enhancing organizational security postures."
             },
             {
                 "slide_index": 5,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC, ADDS POSTGRESQL",
-                "teaserTitle": "NVIDIA UNVEILS NEMOTRON 3.5",
-                "visual_caption": "Databricks acquires Electric, a startup providing embeddable PostgreSQL databases to bolster its AI agent capabilities. This simplifies data management for local AI tasks and edge deployments, streamlining intelligent app development."
+                "headline": "FINANCIAL TIMES: AI FIRMS ENGAGE IN PRICING WAR",
+                "teaserTitle": "Microsoft: Slashes AI Coding Model Prices",
+                "visual_caption": "OpenAI and Anthropic are in a pricing war, releasing more cost-effective models due to market competition. This trend is reducing the cost of advanced AI access for enterprise adoption."
             },
             {
                 "slide_index": 6,
-                "headline": "NVIDIA: UNVEILS NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "teaserTitle": "EU AI ACT OFFICE HIRING DRIVE",
-                "visual_caption": "NVIDIA introduces Nemotron 3.5 Lightning and NeMo Switchyard for faster, more efficient agentic AI. Lightning offers 2x inference speedups, while Switchyard optimizes model routing, improving overall efficiency by 15-20%."
+                "headline": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
+                "teaserTitle": "Oracle: Brings Quantum Computing to OCI Hybrid AI",
+                "visual_caption": "Microsoft has cut prices for its AI coding models to boost developer access and competitiveness. This move lowers the entry barrier for AI-assisted software development, accelerating project timelines."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE LAUNCHES EXPERT HIRING DRIVE",
+                "headline": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI HYBRID AI",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The EU AI Office launches a significant hiring drive, seeking 40 new experts across tech, legal, and operational roles. This bolsters enforcement of the AI Act, marking a critical step in regulatory operationalization."
+                "visual_caption": "Oracle is integrating quantum computing into its OCI for hybrid AI applications. This provides unprecedented computational power for intractable problems like drug discovery and material science."
             },
             {
                 "slide_index": 8,
