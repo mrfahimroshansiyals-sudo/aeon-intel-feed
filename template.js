@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES WITH",
-        "titleBlue": "AMBITION",
-        "footerSummary": "OpenAI's GPT-5.6 expands frontier AI capabilities, while a global price war reshapes model economics. Databricks strengthens agentic apps and AMD boosts UK AI research."
+        "titleWhite": "INTRODUCES GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "Gemini 3.7 Flash boosts AI efficiency, while new sovereign AI solutions emerge in Europe. IBM and OpenAI forge enterprise alliances as AI drives data breach notices and regulatory expansion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
+            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
             "points": [
-                "OpenAI has unveiled GPT-5.6, its latest frontier model, designed to offer enhanced intelligence and scalability for diverse applications. This release pushes the boundaries of current large language model capabilities.",
-                "The new model delivers improved performance in complex reasoning, coding, and multi-modal understanding, enabling more robust AI agents and enterprise solutions. It sets a new benchmark for AI system integration.",
-                "Architecturally, GPT-5.6 integrates advanced neural network techniques, optimizing for both efficiency and broad application across various computational environments. It aims for a versatile deployment footprint.",
-                "Enterprises can leverage GPT-5.6 for scalable AI deployments, accelerating innovation in automated workflows, advanced analytics, and intelligent decision-making systems. This provides a competitive edge."
+                "Google DeepMind has launched Gemini 3.7 Flash, hailed as its most intelligent workhorse model yet for coding and agentic applications. This advanced model significantly enhances efficiency and capability across complex AI tasks.",
+                "Gemini 3.7 Flash delivers faster processing speeds and superior performance, specifically optimized for intricate coding challenges and multi-step agent workflows. Enterprises can expect reduced latency and improved throughput.",
+                "This release underscores Google's commitment to scaling agentic AI infrastructure, providing developers with a robust platform for building, orchestrating, and governing advanced AI systems. It supports a comprehensive AI ecosystem.",
+                "Developers and businesses can leverage Gemini 3.7 Flash to accelerate AI application development, automate complex operations, and gain a competitive edge in AI-driven innovation. This will drive broader adoption of sophisticated agents."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
+            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://openai.com/research/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-14T17:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash",
+                "Published: 2026-08-15T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "NVIDIA has entered the burgeoning market for AI model routers with NeMo Switchyard, offering a new solution for managing and optimizing AI inference traffic. This targets efficient resource allocation.",
-                "NeMo Switchyard aims to improve the efficiency and cost-effectiveness of deploying multiple AI models, dynamically routing queries to the most suitable inference endpoint. It optimizes operational expenditure.",
-                "This architectural innovation allows organizations to maximize GPU utilization and reduce latency by intelligently directing AI workloads across various models and hardware. It enhances system responsiveness.",
-                "CIOs and IT architects can leverage NeMo Switchyard to build more flexible, scalable, and cost-efficient AI infrastructures, supporting diverse application requirements. This streamlines model management."
+                "Mistral AI has unveiled Shieldstral, a new initiative providing in-region inference, open models, and European infrastructure specifically for sovereign AI solutions. This ensures data residency and control.",
+                "Shieldstral enables organizations to deploy powerful AI models while adhering to strict local data governance and compliance regulations, reducing operational risks. It offers enhanced security and regulatory alignment.",
+                "This development addresses the growing demand for AI systems that operate within national or regional digital sovereignty frameworks, minimizing reliance on external cloud providers. It strengthens data independence.",
+                "European governments and enterprises can now confidently adopt advanced AI for sensitive applications, fostering innovation within secure, compliant, and localized environments. This accelerates trust in AI deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
+            "nextUpTease": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
             "tags": [
-                "Source: https://www.cio.com/article/2127200/nvidia-moves-into-hot-market-for-model-routers.html",
-                "Published: 2026-08-14T16:30:00Z",
+                "Source: https://mistral.ai/news/shieldstral-sovereign-ai",
+                "Published: 2026-08-14T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
+            "heading": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
             "points": [
-                "A global price war is intensifying among leading AI developers like OpenAI and Anthropic, driven by increased competition from Chinese rivals offering cheaper models. This impacts market dynamics significantly.",
-                "The aggressive pricing strategies aim to capture market share and accelerate AI adoption across enterprises, potentially lowering the barrier to entry for many businesses. It boosts accessibility.",
-                "This competitive environment forces architectural innovation, pushing for more efficient model designs and optimized inference capabilities to maintain profitability margins. It demands operational agility.",
-                "Businesses can expect more accessible and cost-effective AI solutions, fostering broader experimentation and deployment of generative AI across various sectors. This democratizes advanced AI."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7), enhancing capabilities for demanding AI and technical workloads. This boosts computational power significantly.",
+                "These new VMs support compute-intensive AI, data inference, and high-performance computing tasks, providing superior performance and efficiency for complex models. It offers significant improvements in processing large datasets.",
+                "The expansion allows Azure customers to run specialized AI and HPC workloads with increased flexibility and scalability, leveraging AMD's advanced silicon architecture. It broadens the range of available high-performance options.",
+                "Enterprises and researchers can now access more powerful and cost-effective cloud resources for training large AI models and executing complex scientific simulations. This accelerates deep learning and scientific discovery."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "nextUpTease": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
             "tags": [
-                "Source: https://www.ft.com/artificial-intelligence-price-war",
-                "Published: 2026-08-14T15:45:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-powered-ai-hpc-vms",
+                "Published: 2026-08-14T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "heading": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
             "points": [
-                "Databricks has acquired Electric, integrating its embeddable PostgreSQL capabilities to enhance the development and deployment of agentic AI applications. This strengthens Databricks' data management.",
-                "This acquisition provides developers with robust local database solutions, enabling more efficient data handling and improved performance for AI agents directly within applications. It streamlines data workflows.",
-                "Architecturally, the integration aims to provide a seamless data layer for agentic AI, facilitating rapid iteration and scalable deployment of intelligent applications. It simplifies development.",
-                "Enterprises can leverage this expanded capability to build more sophisticated, data-aware AI agents with reduced operational overhead, accelerating AI-driven automation initiatives. This empowers developers."
+                "IBM has partnered with OpenAI to integrate frontier AI models and OpenAI-trained engineers into IBM Consulting services, aiming to accelerate enterprise AI adoption. This alliance combines leading AI and consulting expertise.",
+                "This collaboration will provide businesses with tailored AI deployment strategies and specialized engineering support, streamlining the integration of advanced AI into existing operations. It aims to reduce implementation timeframes.",
+                "The partnership signals a strategic move to bridge the gap between cutting-edge AI research and practical, large-scale enterprise implementation, offering a unified path to AI transformation. It simplifies complex deployments.",
+                "Companies can expect a faster and more reliable path to leveraging OpenAI's models for critical business functions, enabling significant advancements in automation, analytics, and intelligent decision-making. This drives competitive advantage."
             ],
             "imageUrl": "",
-            "nextUpTease": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
+            "nextUpTease": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
             "tags": [
-                "Source: https://www.techtarget.com/searchsoftwarequality/news/366579347/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://www.cio.com/article/2127202/ibm-partners-openai-for-enterprise-ai-deployment.html",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
+            "heading": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
             "points": [
-                "SpaceXAI has released Grok 4.6, a new model focusing on long-running tasks, positioned to undercut the pricing of other frontier models in the AI market. This increases competitive pressure.",
-                "Grok 4.6's competitive pricing and optimized performance for extended tasks offer a cost-effective alternative for enterprises with demanding continuous AI workloads. It expands market access.",
-                "The model's architecture is tailored for efficiency in processing and maintaining context over long interactions, a critical feature for complex agentic workflows. It supports persistent AI.",
-                "Businesses can now access powerful AI for sustained operations at a lower cost, influencing budget allocations and fostering wider adoption of AI for comprehensive tasks. This shifts purchasing patterns."
+                "The EU AI Office has announced a major hiring initiative, seeking 40 new posts across tech, legal, and operations to bolster the enforcement and implementation of the EU AI Act. This expands regulatory oversight.",
+                "This significant recruitment drive will enhance the office's capacity to audit, monitor, and ensure compliance with the world's first comprehensive AI regulation, impacting all AI providers operating in the EU. It strengthens enforcement mechanisms.",
+                "The expansion signals the EU's commitment to creating a robust governance framework for AI, setting global standards for responsible AI development and deployment. It reinforces regulatory leadership.",
+                "AI developers and deployers globally must now prepare for stringent compliance checks and increased scrutiny from a well-staffed regulatory body, necessitating strong internal governance and transparency. This mandates proactive compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
+            "nextUpTease": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T14:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office/",
+                "Published: 2026-08-14T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
+            "heading": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
             "points": [
-                "AMD has announced a partnership with the British Open-ended Learning and Discovery Lab at Oxford University to advance frontier AI research in the UK. This boosts regional innovation.",
-                "This collaboration aims to accelerate development in AI hardware and software, leveraging AMD's computing power and Oxford's research expertise. It enhances R&D capabilities significantly.",
-                "Architecturally, the partnership will explore new paradigms for AI training and inference, potentially leading to more energy-efficient and powerful AI systems. It drives technological breakthroughs.",
-                "The UK's AI ecosystem will benefit from this investment, fostering local talent and positioning the region as a hub for cutting-edge artificial intelligence development. This strengthens national competitiveness."
+                "Data breach notices are surging past last year\u2019s totals, with artificial intelligence increasingly identified as a contributing factor in the scale and frequency of these security incidents. AI's role in cyberattacks is expanding.",
+                "The rise in AI-driven breaches translates to significant financial losses from remediation, regulatory fines, and reputational damage for affected organizations. It highlights evolving cyber risks and vulnerabilities.",
+                "The proliferation of AI in cyberattacks necessitates advanced AI-powered defense mechanisms and robust security protocols to counteract sophisticated threats. It drives demand for enhanced cybersecurity solutions.",
+                "CISOs and security teams must re-evaluate their defense strategies, investing in cutting-edge AI security tools and training to mitigate the heightened risk posed by AI-enabled cyber threats. This shifts security priorities."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
+            "nextUpTease": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-the-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research.html",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/ai-data-breach-notices-surge.html",
+                "Published: 2026-08-15T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
+            "heading": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
             "points": [
-                "Quantinuum is collaborating with an Apple partner to scale quantum computing applications, aiming to integrate advanced quantum capabilities into a broader tech ecosystem. This expands quantum accessibility.",
-                "This partnership seeks to accelerate the development of practical quantum algorithms and solutions, bridging the gap between theoretical quantum science and commercial deployment. It fast-tracks innovation.",
-                "Architecturally, the focus is on optimizing quantum-classical hybrid workloads and exploring new ways to harness quantum processors for complex computational problems. It drives new compute paradigms.",
-                "Developers and researchers within the Apple ecosystem could gain new avenues to explore quantum-accelerated solutions for AI, cryptography, and complex optimization tasks. This opens new frontiers."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, demonstrating improved accuracy and lead times for predicting severe weather events. This enhances predictive capabilities.",
+                "The advanced AI model can predict cyclone paths and intensities with greater precision, providing critical extra hours for emergency services and populations to prepare. It saves lives and reduces economic damage.",
+                "This development showcases the power of AI to address complex real-world challenges, utilizing vast meteorological datasets to generate highly accurate predictive analytics. It validates large-scale AI for public good.",
+                "Governments, disaster relief agencies, and affected communities will benefit from more reliable and timely warnings, enabling better resource allocation and evacuation planning. This improves global resilience."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/quantinuum-is-working-with-this-apple-partner-to-scale-quantum-computing",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-15T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

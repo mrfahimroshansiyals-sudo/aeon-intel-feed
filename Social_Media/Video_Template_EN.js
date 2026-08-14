@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES WITH AMBITION",
+        "hookTitle": "GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI introduces GPT-5.6, its new frontier model designed for enhanced intelligence and scalability. This release promises improved performance across complex reasoning and agent development for enterprises."
+                "narration_line": "Google DeepMind launched Gemini three point seven Flash, its most intelligent model for coding and agents. This improves efficiency and capability across complex artificial intelligence tasks significantly."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMO SWITCHYARD ADVANCES AI ROUTING",
-                "teaserTitle": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA introduces NeMo Switchyard, its solution for optimizing AI model routing and inference traffic. This innovation improves efficiency and reduces latency for complex AI deployments."
+                "narration_line": "Mistral AI introduced Shieldstral for sovereign artificial intelligence solutions in Europe. This ensures data residency and compliance with strict local regulations."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCIAL TIMES: AI PRICE WAR ERUPTS GLOBALLY",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
+                "teaserTitle": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A global AI price war is intensifying among leading developers, including OpenAI and Anthropic, challenged by Chinese rivals. This competition aims to accelerate AI adoption and lower enterprise costs."
+                "naration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered artificial intelligence and high-performance computing virtual machines. These boost computational power for demanding workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
+                "headline": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
+                "teaserTitle": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Databricks acquired Electric to integrate embeddable PostgreSQL, enhancing agentic AI application development. This addition streamlines data handling for AI agents within applications."
+                "narration_line": "IBM partnered with OpenAI to integrate frontier artificial intelligence models into consulting services. This accelerates enterprise artificial intelligence adoption and streamlines deployment."
             },
             {
                 "slide_index": 5,
-                "headline": "SPACEXAI: GROK 4.6 UNDERCUTS RIVAL MODELS",
-                "teaserTitle": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
+                "headline": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
+                "teaserTitle": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SpaceXAI launched Grok 4.6, a new model designed for long-running tasks, now undercutting rival AI model prices. This offers cost-effective performance for continuous enterprise AI workloads."
+                "narration_line": "The EU Artificial Intelligence Office announced a major hiring initiative for forty new posts. This bolsters enforcement of the artificial intelligence Act's compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: PARTNERS OXFORD FOR UK AI RESEARCH",
-                "teaserTitle": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
+                "headline": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
+                "teaserTitle": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AMD partners with Oxford University's British Open-ended Learning and Discovery Lab to advance UK frontier AI research. This collaboration aims to accelerate AI hardware and software development."
+                "narration_line": "Data breach notices are surging past last year's totals, with artificial intelligence identified as a key factor. This highlights evolving cyber risks for organizations."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: QUANTINUUM SCALES WITH APPLE PARTNER",
+                "headline": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Quantinuum is partnering with an Apple-affiliated company to scale quantum computing applications. This collaboration aims to integrate advanced quantum capabilities into a broader technology ecosystem."
+                "narration_line": "Google DeepMind's WeatherNext artificial intelligence achieved a breakthrough in cyclone forecasting. This provides critical extra hours for disaster preparedness and safety."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
