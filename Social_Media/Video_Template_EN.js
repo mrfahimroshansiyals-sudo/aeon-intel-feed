@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AZURE BOOSTS AI/HPC WITH AMD VMS",
+        "hookTitle": "DYNATRACE ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MICROSOFT AZURE: EXPANDS AMD AI/HPC VMS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH & NANO BANANA 2 LITE",
+                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
+                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines. These specialized VMs offer increased power for demanding AI training and high-performance computing workloads."
+                "narration_line": "Dynatrace has acquired Arize, integrating its AI agent development tools into its observability platform. This enhances end-to-end AI lifecycle management for enterprise operations."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "DEEPSEEK RAISES V4 PRICES TENFOLD AMID DEMAND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google Cloud and DeepMind have introduced Gemini 3.7 Flash and Nano Banana 2 Lite models. These highly efficient models promise faster inference and enhanced multimodal understanding for enterprise applications."
+                "narration_line": "Databricks has acquired Electric, adding embeddable PostgreSQL for agentic applications. This significantly strengthens real-time data retrieval and agent accuracy capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
-                "teaserTitle": "DYNATRACE: ACQUIRES ARIZE AI FOR AGENTS",
+                "headline": "DEEPSEEK: RAISES V4 PRICES TENFOLD AMID DEMAND",
+                "teaserTitle": "MISTRAL AI TARGETS 1GB COMPUTE CAPACITY BY 2030",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mistral AI introduces Shieldstral, a new offering for in-region inference and sovereign AI infrastructure. This directly addresses data residency and regulatory compliance requirements for sensitive sectors."
+                "narration_line": "DeepSeek announced a tenfold price increase for some V4 model services due to demand and capacity strains. Developers must re-evaluate budgets amid rising operational costs."
             },
             {
                 "slide_index": 4,
-                "headline": "DYNATRACE: ACQUIRES ARIZE AI FOR AGENTS",
-                "teaserTitle": "CIO MAGAZINE: AI COST VISIBILITY",
+                "headline": "MISTRAL AI: TARGETS 1GB COMPUTE CAPACITY BY 2030",
+                "teaserTitle": "IBM SIGNS $240M DEAL FOR NVIDIA AI CLUSTER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Dynatrace has acquired Arize AI, an MLOps platform, integrating AI agent development tools. This enhances Dynatrace's comprehensive systems for monitoring and optimizing AI agents throughout their lifecycle."
+                "narration_line": "Mistral AI plans to build 1 gigabyte of compute capacity by 2030, a strategic move for sovereign AI infrastructure. This dramatically increases their training and inference capabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "CIO MAGAZINE: AI COST VISIBILITY",
-                "teaserTitle": "CNBC TECH: AI INFRASTRUCTURE BOOM",
+                "headline": "IBM: SIGNS $240M DEAL FOR NVIDIA AI CLUSTER",
+                "teaserTitle": "AI ETHICS CROOKS LEVERAGING AI HALLUCINATIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new CIO report emphasizes the critical need for real-time AI cost visibility at the infrastructure layer. Uncontrolled AI spending challenges enterprise budgets without transparent tracking and optimization."
+                "narration_line": "IBM has secured a $240 million deal for an NVIDIA-powered AI cluster. This investment boosts IBM's high-performance AI compute infrastructure and accelerates development cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC TECH: AI INFRASTRUCTURE BOOM",
-                "teaserTitle": "DOW JONES: AI MEETS CUTTING-EDGE FINANCE",
+                "headline": "AI ETHICS: CROOKS LEVERAGING AI HALLUCINATIONS",
+                "teaserTitle": "AI POLICY FLOCK TIGHTENS RULES ON SURVEILLANCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The AI infrastructure boom is becoming increasingly leveraged, making the ecosystem harder to track. This reliance on debt financing introduces growing financial risk and market sensitivity."
+                "narration_line": "Malicious actors are exploiting AI model hallucinations to facilitate scams and cyberattacks. This reveals critical security vulnerabilities, necessitating improved AI safety research."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: AI MEETS CUTTING-EDGE FINANCE",
+                "headline": "AI POLICY: FLOCK TIGHTENS RULES ON SURVEILLANCE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Bleeding-edge AI is rapidly converging with cutting-edge finance, reshaping trading and risk management. This integration drives automation but also introduces new systemic risks for the industry."
+                "narration_line": "Flock is tightening its operational rules amid growing backlash over AI surveillance and privacy. This reflects increased scrutiny on AI ethics and data collection practices."
             },
             {
                 "slide_index": 8,
