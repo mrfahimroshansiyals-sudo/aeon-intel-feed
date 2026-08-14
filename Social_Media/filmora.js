@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI DEPLOYMENT",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, its latest intelligent workhorse model for coding and agents. This model significantly improves performance and efficiency for complex AI tasks and agentic operations."
+                "headline": "NVIDIA: NEMOTRON 3.5 AND NEMO SWITCHYARD",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL PLAN",
+                "visual_caption": "NVIDIA released Nemotron 3.5 Lightning and NeMo Switchyard for agent routing. This architecture optimizes token latency and compute allocation across enterprise models."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI DEPLOYMENT",
-                "teaserTitle": "MICROSOFT AZURE: UNVEILS NEW AMD-POWERED AI/HPC VMS",
-                "visual_caption": "IBM partnered with OpenAI, integrating frontier AI models and expert engineers into its consulting services. This alliance accelerates enterprise AI deployment, enhancing operational intelligence across diverse industries."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE CAPITAL PLAN",
+                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE ROADMAP",
+                "visual_caption": "NVIDIA partnered with Apollo and BlackRock to mobilize $500B for compute platforms. The coalition establishes AI data centers as an institutional asset class."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: UNVEILS NEW AMD-POWERED AI/HPC VMS",
-                "teaserTitle": "CNBC: AI INFRASTRUCTURE BOOM FACES LEVERAGE & TRACKING ISSUES",
-                "visual_caption": "Microsoft Azure unveils new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs boost performance and efficiency for demanding AI, data, inference, and technical computing workloads."
+                "headline": "AMD: ACQUIRES TAALAS FOR INFERENCE ROADMAP",
+                "teaserTitle": "OPENAI: APPOINTS DALI RAJIC AS CRO FOR GROWTH",
+                "visual_caption": "AMD signed a definitive agreement to acquire silicon startup Taalas. The transaction delivers custom inference IP for future Instinct hardware generations."
             },
             {
                 "slide_index": 4,
-                "headline": "CNBC: AI INFRASTRUCTURE BOOM FACES LEVERAGE & TRACKING ISSUES",
-                "teaserTitle": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "visual_caption": "The AI infrastructure boom faces new challenges as it becomes more leveraged and difficult to track. This amplifies financial risks within the AI sector, impacting future investment and project stability."
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CRO FOR GROWTH",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL API PRICES",
+                "visual_caption": "OpenAI appointed Dali Rajic as Chief Revenue Officer to lead global market monetization. The executive hire strengthens enterprise sales execution ahead of public markets."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "CNBC: AI DRIVES SURGE IN DATA BREACH NOTICES",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Google Cloud released Gemini Omni Flash and Nano Banana 2 Lite, expanding its AI model suite for creative and generative tasks. These models offer specialized tools for multimodal content creation and efficient image generation."
+                "headline": "MICROSOFT: SLASHES CODING MODEL API PRICES",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
+                "visual_caption": "Microsoft cut pricing across its Azure coding model APIs. The strategic discounts target developer retention against rival open model ecosystems."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: AI DRIVES SURGE IN DATA BREACH NOTICES",
-                "teaserTitle": "DOW JONES: APPLE SITS OUT AI RACE EXCEPT IN CHINA",
-                "visual_caption": "Data breach notices are surging, with AI playing a growing role in sophisticated cyberattacks. This trend necessitates urgent investments in AI-driven security solutions and robust compliance frameworks."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
+                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL ARCHITECTURE",
+                "visual_caption": "Databricks acquired Electric to embed PostgreSQL database engines into AI platforms. The acquisition accelerates local state management for enterprise autonomous agent workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: APPLE SITS OUT AI RACE EXCEPT IN CHINA",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Apple is reportedly cautious in the global AI race, primarily focusing its AI strategy on China. This indicates a selective engagement approach, diverging from rivals and prioritizing specific regional markets."
+                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL ARCHITECTURE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Mistral AI unveiled Shieldstral to deliver sovereign security guardrails for enterprise deployments. The framework guarantees complete compliance under the EU AI Act."
             },
             {
                 "slide_index": 8,
