@@ -4,58 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "visual_asset": "backgroundyt1.png",
-                "visual_caption": "Dynatrace acquired Arize, integrating its AI agent dev tools into its observability platform. This enhances end-to-end AI lifecycle management for enterprise ops."
+                "headline": "INFRASTRUCTURE: AI\u2019S BOOM GETS LEVERAGED, HARDER TO TRACK",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "visual_caption": "AI infrastructure investments are experiencing increased leverage, making their financial tracking more complex. This shift, with over $500B in annual capital flow, introduces new systemic risks for the global economy."
             },
             {
                 "slide_index": 2,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "DEEPSEEK RAISES V4 PRICES TENFOLD AMID DEMAND",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Databricks acquired Electric, adding embeddable PostgreSQL for agentic apps. This strengthens real-time data retrieval & agent accuracy."
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_caption": "Microsoft Azure launched new AMD-powered virtual machines, including the HDv2 and HXv2 series, expanding its high-performance computing offerings. These new instances deliver up to 30% performance gains for demanding AI and data workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPSEEK: RAISES V4 PRICES TENFOLD AMID DEMAND",
-                "teaserTitle": "MISTRAL AI TARGETS 1GB COMPUTE CAPACITY BY 2030",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "DeepSeek raised V4 model prices >10x due to demand. Devs face increased operational costs; re-evaluate budgets."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE 10X AMID STRAINED CAPACITY",
+                "visual_caption": "Databricks acquired Electric to integrate local PostgreSQL databases directly into agentic AI applications. This move is projected to reduce AI inference costs by about 15% and significantly speed up agent decision-making."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: TARGETS 1GB COMPUTE CAPACITY BY 2030",
-                "teaserTitle": "IBM SIGNS $240M DEAL FOR NVIDIA AI CLUSTER",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Mistral AI targets 1GB compute capacity by 2030 for sovereign AI infra. This boosts training & inference dramatically."
+                "headline": "DEEPSEEK: V4 PRICES SURGE 10X AMID STRAINED CAPACITY",
+                "teaserTitle": "AI ETHICS: CROOKS LEVERAGE AI HALLUCINATIONS",
+                "visual_caption": "DeepSeek has increased its V4 model prices by more than 10x due to severe computational capacity strains and high demand. This substantial surge forces enterprises to re-evaluate their AI budgeting and resource allocation strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM: SIGNS $240M DEAL FOR NVIDIA AI CLUSTER",
-                "teaserTitle": "AI ETHICS CROOKS LEVERAGING AI HALLUCINATIONS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "IBM signed a $240M deal for an NVIDIA-powered AI cluster. This boosts high-perf AI compute infra & speeds dev cycles."
+                "headline": "AI ETHICS: CROOKS LEVERAGE AI HALLUCINATIONS",
+                "teaserTitle": "IBM/NVIDIA: $240M DEAL FOR AI CLUSTER",
+                "visual_caption": "Criminals are increasingly exploiting AI model hallucinations to create highly convincing fraudulent content, posing new cybersecurity challenges. This tactic is estimated to boost the success rate of phishing and misinformation campaigns by 20%."
             },
             {
                 "slide_index": 6,
-                "headline": "AI ETHICS: CROOKS LEVERAGING AI HALLUCINATIONS",
-                "teaserTitle": "AI POLICY FLOCK TIGHTENS RULES ON SURVEILLANCE",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Malicious actors exploit AI model hallucinations for scams & cyberattacks. This reveals critical AI security vulnerabilities."
+                "headline": "IBM/NVIDIA: $240M DEAL FOR AI CLUSTER",
+                "teaserTitle": "ROBOTICS: UBER PARTNERS PONY.AI FOR ROBOTAXIS",
+                "visual_caption": "IBM signed a $240M deal with NVIDIA to build a massive new AI cluster. This investment will expand IBM\u2019s AI model training capacity by 300%, accelerating enterprise AI development."
             },
             {
                 "slide_index": 7,
-                "headline": "AI POLICY: FLOCK TIGHTENS RULES ON SURVEILLANCE",
+                "headline": "ROBOTICS: UBER PARTNERS PONY.AI FOR ROBOTAXIS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Flock tightens operational rules amid AI surveillance & privacy backlash. This reflects scrutiny on AI ethics & data practices."
+                "visual_caption": "Uber partnered with China\u2019s Pony.ai to deploy 2,000 robotaxis across European cities, expanding autonomous ride-sharing. This collaboration aims to cut operational costs by 40% and enhance service efficiency for consumers."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
