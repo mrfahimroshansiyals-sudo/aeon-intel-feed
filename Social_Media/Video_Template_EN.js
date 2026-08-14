@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
+        "hookTitle": "OPENAI LAUNCHES GPT-5.6 FOR SCALABLE FRONTIER AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FOR SCALABLE AI",
+                "teaserTitle": "NVIDIA MOBILIZES $500B+ FOR AI INFRASTRUCTURE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind launched Gemini three point seven Flash, its most intelligent model for coding and agents. This improves efficiency and capability across complex artificial intelligence tasks significantly."
+                "narration_line": "OpenAI has just launched its new GPT five point six model for scalable frontier intelligence. This update significantly enhances the model's capabilities for complex AI tasks and enterprise integration."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
+                "headline": "NVIDIA: MOBILIZES $500B+ FOR AI INFRASTRUCTURE",
+                "teaserTitle": "MICROSOFT AZURE FOUNDRY INTEGRATES GPT-5.6",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mistral AI introduced Shieldstral for sovereign artificial intelligence solutions in Europe. This ensures data residency and compliance with strict local regulations."
+                "naration_line": "NVIDIA and major financial partners are mobilizing over five hundred billion dollars for AI compute infrastructure. This massive investment addresses soaring demand for high-performance computing capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: AMD-POWERED AI/HPC VMS EXPAND INFRASTRUCTURE",
-                "teaserTitle": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
+                "headline": "MICROSOFT AZURE: FOUNDRY INTEGRATES GPT-5.6",
+                "teaserTitle": "NVIDIA NEMOTRON 3.5 & NEMO SWITCHYARD AGENTIC AI",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered artificial intelligence and high-performance computing virtual machines. These boost computational power for demanding workloads."
+                "narration_line": "Microsoft Azure Foundry now integrates GPT five point six for managing production AI agents at scale. This service offers robust tracing and hosted agent capabilities, streamlining enterprise AI deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "CIO: IBM PARTNERS OPENAI FOR ENTERPRISE AI",
-                "teaserTitle": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
+                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD AGENTIC AI",
+                "teaserTitle": "GOOGLE CLOUD INTRODUCES GEMINI 3.6 & 3.5 FLASH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM partnered with OpenAI to integrate frontier artificial intelligence models into consulting services. This accelerates enterprise artificial intelligence adoption and streamlines deployment."
+                "narration_line": "NVIDIA unveiled Nemotron three point five Lightning and NeMo Switchyard for more efficient agentic AI. These tools deliver faster and smarter AI agent performance for complex automation tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI ACT: EU AI OFFICE ANNOUNCES MAJOR HIRING",
-                "teaserTitle": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 & 3.5 FLASH",
+                "teaserTitle": "AI MARKET: OPENAI, ANTHROPIC IN PRICE WAR",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The EU Artificial Intelligence Office announced a major hiring initiative for forty new posts. This bolsters enforcement of the artificial intelligence Act's compliance."
+                "narration_line": "Google Cloud introduced new Gemini models, including three point six Flash and three point five Flash variants. These models provide optimized performance for specific applications like coding and security."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC TECH: AI INCREASES DATA BREACH NOTICES",
-                "teaserTitle": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
+                "headline": "AI MARKET: OPENAI, ANTHROPIC IN INTENSE PRICE WAR",
+                "teaserTitle": "CIO: AI COST VISIBILITY FOR INFRASTRUCTURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Data breach notices are surging past last year's totals, with artificial intelligence identified as a key factor. This highlights evolving cyber risks for organizations."
+                "narration_line": "OpenAI and Anthropic are engaged in an intense price war, fueled by competition from Chinese AI rivals. This dynamic reshapes market strategies and fosters greater AI accessibility."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
+                "headline": "CIO: AI COST VISIBILITY CRITICAL FOR INFRASTRUCTURE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind's WeatherNext artificial intelligence achieved a breakthrough in cyclone forecasting. This provides critical extra hours for disaster preparedness and safety."
+                "narration_line": "Real-time AI cost visibility is critical for managing escalating infrastructure expenses in large-scale AI deployments. This empowers IT leaders to optimize spending and ensure maximum return on investment."
             },
             {
                 "slide_index": 8,
