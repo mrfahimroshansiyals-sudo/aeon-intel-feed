@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: GOOGLE CLOUD LAUNCHES GEMINI 3.6 FLASH",
-                "teaserTitle": "DATABASES: DATABRICKS ACQUIRES ELECTRIC FOR AGENTS",
-                "visual_caption": "Google Cloud has released Gemini 3.6 Flash for enterprise workloads. The updated model architecture delivers up to 35% faster token inference speeds."
+                "headline": "OPENAI: GPT-5.6 RELEASE",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "visual_caption": "OpenAI released GPT-5.6, its latest intelligence model for scalable AI apps. This boosts efficiency and provides more reliable enterprise-grade outputs."
             },
             {
                 "slide_index": 2,
-                "headline": "DATABASES: DATABRICKS ACQUIRES ELECTRIC FOR AGENTS",
-                "teaserTitle": "SECURITY: BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
-                "visual_caption": "Databricks acquired Electric to integrate embeddable PostgreSQL databases. This provides low-latency transactional storage for multi-step agentic workflows."
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+                "visual_caption": "OpenAI expands Daybreak cyber defense for AI-driven threats. New algorithms and faster protocols fortify AI app security and data integrity."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: BLACK HAT NOC WARNS OF AI ATTACK VECTORS",
-                "teaserTitle": "DEVELOPMENT: VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
-                "visual_caption": "Black Hat NOC operators recorded a 40% increase in prompt injection attacks. Security teams must prioritize real-time observability stacks to protect infrastructure."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "visual_caption": "OpenAI enhanced GPT-5.6 Sol in ChatGPT and gave free access to GPT-5.6 Luna. This democratizes advanced AI, surging dev and adoption across sectors."
             },
             {
                 "slide_index": 4,
-                "headline": "DEVELOPMENT: VS CODE 1.133 INTEGRATES CLAUDE SESSIONS",
-                "teaserTitle": "STARTUPS: LOVABLE REACHES $13.3B VALUATION WITH CEREBRAS",
-                "visual_caption": "Visual Studio Code 1.133 launched with native support for Claude sessions. The update streamlines context passing between local workspaces and frontier LLMs."
+                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
+                "visual_caption": "Google Cloud launched Gemini Omni Flash and Nano Banana 2 Lite. These optimize diverse app requirements with enhanced performance."
             },
             {
                 "slide_index": 5,
-                "headline": "STARTUPS: LOVABLE REACHES $13.3B VALUATION WITH CEREBRAS",
-                "teaserTitle": "MODELS: GROK 4.6 DEBUTS WITH UNDERCUT PRICING",
-                "visual_caption": "Lovable reached a $13.3B valuation after integrating Cerebras hardware. The milestone highlights heavy demand for zero-latency AI-native software creation."
+                "headline": "GOOGLE CLOUD: NEW GEMINI 3.6/3.5 FLASH MODELS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "Google Cloud released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. This diversification boosts efficiency and security for enterprises."
             },
             {
                 "slide_index": 6,
-                "headline": "MODELS: GROK 4.6 DEBUTS WITH UNDERCUT PRICING",
-                "teaserTitle": "RESEARCH: PAKISTANI JUDGES EVALUATE JUDGEGPT TRIALS",
-                "visual_caption": "xAI released Grok 4.6 with aggressive pricing for long-running tasks. This launch accelerates the ongoing compression of AI inference margins."
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
+                "visual_caption": "Mistral AI introduced Shieldstral for in-region inference, open models, and sovereign AI. This addresses data residency and compliance, fostering trust in localized AI."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: PAKISTANI JUDGES EVALUATE JUDGEGPT TRIALS",
+                "headline": "GROK AI: GROK 4.6 UNDERCUTS RIVAL PRICES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Judicial AI trials achieved a 6.3% processing speed improvement using JudgeGPT. The pilot study also demonstrated fewer appeals across participating courtrooms."
+                "visual_caption": "Grok AI launched Grok 4.6, undercutting rivals' prices. This offers significant cost savings for developers and accelerates AI innovation."
             },
             {
                 "slide_index": 8,
