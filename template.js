@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "A14 & A16 CHIP",
-        "titleBlue": "ADVANCEMENTS",
-        "footerSummary": "Global AI architecture accelerates with new chip designs, strategic enterprise partnerships, and enhanced security solutions. Pricing shifts reveal compute demand pressures."
+        "titleWhite": "GPT-5.6",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI\u2019s new GPT-5.6 sets a frontier intelligence benchmark, driving architectural shifts and competitive pricing across the AI landscape."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TSMC: A14 & A16 CHIP ADVANCEMENTS",
+            "heading": "OPENAI: GPT-5.6 RELEASE",
             "points": [
-                "TSMC unveiled A14 NanoFlex\u2122 Pro and A16 Nanosheet architectures, designed for next-generation AI and high-performance computing.",
-                "These innovations offer significant improvements in transistor density and power efficiency, critical for scaling complex AI workloads.",
-                "The A16 Nanosheet incorporates Super Power Rail technology, enhancing power delivery for AI accelerators, boosting overall chip performance.",
-                "These advancements will accelerate the development of more powerful and efficient AI systems, impacting data centers and intelligent edge devices."
+                "GPT-5.6 introduces a new level of frontier intelligence, offering expanded capabilities across diverse applications and complex tasks.",
+                "This model scales performance significantly, enabling more ambitious AI implementations and pushing computational boundaries further.",
+                "Its architecture supports enhanced self-correction and reasoning, crucial for advanced agentic workflows and robust enterprise solutions.",
+                "Stakeholders can expect accelerated development cycles and a renewed focus on AI scalability and responsible deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "points": [
-                "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment across diverse industries globally.",
-                "This collaboration integrates OpenAI's frontier models into IBM Consulting services, enhancing AI-centric transformation initiatives.",
-                "The alliance leverages IBM's global enterprise reach with OpenAI's cutting-edge model capabilities, creating a potent force for AI adoption.",
-                "Enterprises can expect faster, more robust AI integrations, driving operational efficiencies and fostering new AI-powered business models."
+                "Google Cloud has launched AI Threat Defense, a new security solution designed to proactively counter sophisticated cyber adversaries.",
+                "This system leverages advanced AI models to detect and neutralize emerging threats, boosting overall cloud security posture for enterprises.",
+                "The defense integrates across Google Cloud infrastructure, offering comprehensive protection for critical assets and sensitive data.",
+                "Organizations will benefit from enhanced resilience against AI-powered attacks, safeguarding operations and maintaining data integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
             "tags": [
-                "Source: https://www.cio.com/article/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://cloud.google.com/security/ai-threat-defense",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
+            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
             "points": [
-                "NVIDIA introduced Nemotron 3.5 Lightning, a new model specifically designed to enhance agentic AI workflows with increased speed.",
-                "This model delivers significantly faster and more efficient processing for complex multi-agent systems and large language model deployments.",
-                "Nemotron 3.5 Lightning optimizes task routing and resource allocation, crucial for scaling advanced AI applications effectively.",
-                "Developers can leverage this for more responsive and powerful automated systems, reducing latency in real-time AI operations."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These VMs support demanding AI, data, inference, and technical computing workloads, offering superior performance and efficiency.",
+                "The expansion enhances Azure's capability to host large-scale AI applications and high-performance computing tasks for enterprises.",
+                "Businesses gain access to more powerful and cost-effective compute resources, accelerating their AI and scientific research initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-and-nemo-switchyard-deliver-faster-smarter-more-efficient-agentic-ai",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
             "points": [
-                "Google Cloud unveiled AI Threat Defense, a new security solution aimed at proactively outpacing advanced cyber adversaries.",
-                "This system utilizes sophisticated AI models to detect and mitigate emerging threats, significantly enhancing cloud security posture.",
-                "AI Threat Defense integrates across Google Cloud infrastructure, providing comprehensive protection for enterprise assets and data.",
-                "Organizations gain strengthened defenses against AI-powered attacks and complex cyber campaigns, securing critical data and operations."
+                "Google DeepMind announced significant price reductions for its Gemini 3.7 Flash model to spur broader developer adoption.",
+                "This strategic move lowers operational costs for generative AI applications, making high-performance models more accessible.",
+                "The adjustment reflects Google's response to market competition and aims to accelerate innovation in the frontier model space.",
+                "Developers and enterprises can now leverage advanced AI capabilities at reduced prices, enhancing efficiency and scalability."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
+            "nextUpTease": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
             "tags": [
-                "Source: https://cloud.google.com/",
-                "Published: 2026-08-14T13:00:00Z",
+                "Source: https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
+            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
             "points": [
-                "Google Cloud announced significant price reductions for its Gemini 3.7 Flash model to attract broader developer adoption.",
-                "This strategic move aims to make high-performance generative AI more accessible, lowering operational costs for many applications.",
-                "The pricing adjustment responds to evolving market dynamics and increasing competition in the frontier model space.",
-                "Developers and enterprises can now access advanced AI capabilities at a reduced cost, accelerating innovation and deployment efficiency."
+                "NVIDIA has partnered with major financial firms like Apollo and Goldman Sachs to establish AI compute infrastructure financing platforms.",
+                "These platforms aim to mobilize over $500 billion of third-party capital to fund essential AI data center buildouts globally.",
+                "The initiative addresses the massive capital requirements for scaling AI, transforming AI compute into an investable asset class.",
+                "This will significantly accelerate the deployment of high-performance AI infrastructure, impacting global enterprise AI adoption rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: UK FRONTIER AI RESEARCH LAB",
+            "nextUpTease": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
             "tags": [
-                "Source: https://www.infoworld.com/article/google-cuts-gemini-3-7-flash-prices-as-enterprise-ai-economics-diverge-and-pro-cadence-slows.html",
-                "Published: 2026-08-14T11:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: UK FRONTIER AI RESEARCH LAB",
+            "heading": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
             "points": [
-                "AMD announced plans to establish a new Frontier AI Research Lab in partnership with the University of Oxford in the UK.",
-                "This initiative aims to advance cutting-edge AI research, fostering innovation in core AI architectures and applications.",
-                "The lab will leverage AMD's compute technology and Oxford's renowned academic expertise to push the boundaries of AI capabilities.",
-                "This investment signals AMD's long-term commitment to global AI innovation, developing future talent and groundbreaking solutions."
+                "Mistral AI introduced Shieldstral, a new initiative offering in-region inference and sovereign AI infrastructure in Europe.",
+                "This provides localized data processing for open models, enhancing data governance and reducing latency for European enterprises.",
+                "The development aims to foster an independent and secure AI ecosystem, aligning with regional regulatory requirements and trust.",
+                "European businesses can now deploy AI solutions with greater control over data residency and compliance, boosting regional innovation."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
+            "nextUpTease": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-the-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research.html",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
+            "heading": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
             "points": [
-                "DeepSeek announced a more than 10x price increase for some of its V4 model services due to escalating AI demand.",
-                "The surge reflects significant strain on compute capacity and rising operational costs for advanced large language models.",
-                "This pricing adjustment impacts developers, with nuanced effects depending on off-peak usage and multi-model routing strategies.",
-                "It highlights the intense competition and infrastructure challenges faced by LLM providers, signaling a maturing market landscape."
+                "OpenAI and Anthropic are engaged in a price war, responding to growing competition from Chinese AI rivals gaining market share.",
+                "US groups are releasing cheaper models to counter new challenges to their trillion-dollar ambitions and maintain market dominance.",
+                "This competitive dynamic forces innovation in cost efficiency and model optimization, impacting the global AI services market.",
+                "Enterprises can anticipate more competitive pricing and diverse model offerings as providers vie for broader adoption."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com/article/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://www.ft.com/content/openai-anthropic-price-war-chinese-ai-rivals-gain-ground",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TSMC: A14 & A16 CHIP ADVANCEMENTS",
-                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
-                "visual_caption": "TSMC launched A14 NanoFlex Pro & A16 Nanosheet chip architectures for next-gen AI & HPC. These deliver major boosts in transistor density & power efficiency, crucial for scaling complex AI workloads."
+                "headline": "OPENAI: GPT-5.6 RELEASE",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "visual_caption": "OpenAI launched GPT-5.6, setting a new frontier for intelligence across diverse apps. This major upgrade drives architectural shifts and enhances scalability for advanced AI workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
-                "visual_caption": "IBM & OpenAI partnered to accelerate enterprise AI deployment across sectors. OpenAI's models integrate into IBM Consulting, boosting AI transformation for global businesses."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
+                "visual_caption": "Google Cloud introduced AI Threat Defense, a proactive security solution against advanced cyber threats. The system utilizes AI models to detect and neutralize emerging risks, boosting enterprise cloud security."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning, a new model enhancing agentic AI workflows with increased speed. It optimizes task routing & resource allocation, crucial for scaling advanced AI apps."
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VMs",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "visual_caption": "Microsoft Azure expanded its infrastructure with new AMD-powered AI & HPC VMs. These high-performance VMs enhance Azure's capacity for demanding AI & scientific computing workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
-                "visual_caption": "Google Cloud released AI Threat Defense, a security solution to proactively counter advanced cyber threats. It uses AI to detect & mitigate emerging risks, boosting cloud security for enterprises."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "teaserTitle": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "visual_caption": "Google DeepMind cut prices for its Gemini 3.7 Flash model to broaden developer adoption. This makes high-performance generative AI more accessible, lowering operational costs for many apps."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
-                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
-                "visual_caption": "Google Cloud announced major price cuts for Gemini 3.7 Flash to boost developer adoption. This makes high-performance gen AI more accessible, cutting operational costs for many apps."
+                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
+                "visual_caption": "NVIDIA initiated a $500B financing platform with Apollo & Goldman Sachs for AI compute infrastructure. This mobilizes third-party capital to accelerate global AI data center development."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
-                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
-                "visual_caption": "AMD partners with University of Oxford to establish a UK Frontier AI Research Lab. This initiative advances cutting-edge AI research & fosters innovation in core AI architectures."
+                "headline": "MISTRAL AI: IN-REGION INFERENCE & SHIELDSTRAL",
+                "teaserTitle": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
+                "visual_caption": "Mistral AI unveiled Shieldstral, enabling in-region inference & sovereign AI infra in Europe. This provides localized data processing, enhancing data governance & reducing latency for European businesses."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
+                "headline": "FINANCIAL TIMES: OPENAI & ANTHROPIC PRICE WAR",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DeepSeek raised V4 model prices over 10x due to surging AI demand & compute strain. This reflects high operational costs, affecting developers based on usage patterns."
+                "visual_caption": "OpenAI & Anthropic are engaged in a price war, responding to competitive pressure from Chinese AI rivals. This dynamic leads to more cost-effective models as providers compete for wider enterprise adoption."
             },
             {
                 "slide_index": 8,
