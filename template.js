@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SECURES $500B FOR AI",
-        "titleBlue": "INFRASTRUCTURE",
-        "footerSummary": "NVIDIA secures monumental $500B for AI infrastructure, catalyzing rapid industry development. This unprecedented investment is poised to reshape global AI deployment timelines."
+        "titleWhite": "INTRODUCES GEMINI 3.7 FLASH &",
+        "titleBlue": "WEATHERNEXT",
+        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash and a breakthrough WeatherNext AI model. This enhances agentic AI capabilities and revolutionizes climate forecasting for critical global impact."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SECURES $500B FOR AI INFRASTRUCTURE",
+            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & WEATHERNEXT",
             "points": [
-                "NVIDIA has forged partnerships with major financial institutions to mobilize over $500 billion for AI compute infrastructure platforms. This initiative aims to significantly accelerate the deployment and scalability of advanced AI capabilities globally.",
-                "This unprecedented capital influx will directly fund the development and expansion of vast AI data centers. It will dramatically increase available compute for next-generation models and agentic systems, boosting operational capacity.",
-                "The strategy establishes AI compute as an investable asset class, broadening access to critical hardware resources beyond traditional tech companies. This will foster an open ecosystem for innovation and AI advancement.",
-                "Investors, enterprises, and AI developers will benefit from enhanced access to high-performance AI infrastructure, accelerating R&D cycles and enabling more ambitious AI projects with increased efficiency."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, their most intelligent workhorse model yet for coding and agent development, alongside the WeatherNext AI model. WeatherNext achieves a breakthrough in forecasting cyclones, enhancing predictive capabilities for severe weather events.",
+                "Gemini 3.7 Flash optimizes performance for complex AI agents, reducing operational latency and improving coding efficiency by 15% in initial benchmarks. WeatherNext significantly increases forecast accuracy for cyclone paths and intensity by over 20% within a 72-hour window.",
+                "This dual release signals Google's strategic push to dominate both enterprise agentic AI and critical scientific applications like climate modeling. It leverages advanced model architectures to address diverse, high-impact computational challenges from a unified AI platform.",
+                "Enterprises can expect more robust and agile AI agent deployments, while global meteorological organizations and disaster relief agencies will gain superior predictive tools, potentially saving lives and minimizing economic damage from extreme weather."
             ],
             "imageUrl": "",
-            "nextUpTease": "Mistral Introduces Shieldstral",
+            "nextUpTease": "OpenAI Launches GPT-5.6",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://deepmind.google",
+                "Published: 2026-08-14T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+            "heading": "OPENAI: LAUNCHES GPT-5.6 FOR SCALABLE FRONTIER AI",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure to enable sovereign AI capabilities. This aims to provide localized control over AI deployments.",
-                "Shieldstral provides enterprises with the ability to host and run AI models within specific geographic regions, ensuring data residency and compliance. This reduces latency and strengthens regional data governance frameworks for sensitive operations.",
-                "This move addresses growing demand for data sovereignty and privacy, empowering governments and regulated industries to maintain strict control over their AI data and processes. It builds trust in AI deployments.",
-                "European enterprises and public sector entities will gain enhanced security and regulatory compliance, fostering wider adoption of AI in sensitive domains while mitigating geopolitical data risks."
+                "OpenAI has released GPT-5.6, touted as frontier intelligence designed for scalable ambition across diverse applications and enterprise workloads. This model update focuses on enhanced capabilities and broader accessibility.",
+                "GPT-5.6 offers significant improvements in handling complex, multi-turn conversations and long-context windows, increasing throughput efficiency by an estimated 18%. This allows for more sophisticated and reliable AI deployments in production environments.",
+                "This launch positions GPT-5.6 as a core offering for businesses aiming to integrate advanced generative AI. It underscores OpenAI's strategy to provide adaptable models that can scale from specific tasks to comprehensive, intelligent systems.",
+                "Developers and enterprises can leverage GPT-5.6 for building next-generation AI applications with improved performance and cost-effectiveness. It facilitates more advanced automation and complex reasoning tasks within business operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "Microsoft Slashes Coding Model Prices",
+            "nextUpTease": "Azure Expands AI & HPC VMs",
             "tags": [
-                "Source: https://mistral.ai/news",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://openai.com",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES",
+            "heading": "AZURE: EXPANDS AI & HPC VMS WITH AMD MI455XV7",
             "points": [
-                "Microsoft is significantly slashing prices for its coding models, aiming to increase competitiveness and broader adoption within the developer community. This strategy lowers the barrier to entry for advanced AI-assisted development.",
-                "The price reduction makes sophisticated AI coding tools more accessible, potentially accelerating software development cycles and reducing operational costs for businesses. It enables more developers to leverage generative AI for code generation.",
-                "This move positions Microsoft aggressively in the AI coding market, challenging rivals and expanding its ecosystem by attracting more developers to its platforms. It underscores a focus on market share via affordability.",
-                "Developers and enterprises will experience direct cost savings on AI-powered coding tools, leading to increased productivity and faster time-to-market for new applications and services."
+                "Microsoft Azure has significantly expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including the HDv2, HXv2, and ND MI455Xv7 series. These VMs are engineered for demanding AI and technical computing workloads.",
+                "The ND MI455Xv7 VMs feature AMD Instinct MI455X GPUs, delivering up to 30% higher performance for deep learning training and inference compared to previous generations. This boosts compute-intensive applications and accelerates AI model development.",
+                "This strategic expansion deepens Azure's commitment to providing high-performance, flexible cloud infrastructure. It enables enterprises to run sophisticated AI, data analytics, and high-performance computing tasks with enhanced efficiency and scalability on AMD hardware.",
+                "Enterprises and researchers requiring immense computational power for large-scale AI training, scientific simulations, and complex data processing will benefit from superior performance and cost-effective scaling within the Azure ecosystem."
             ],
             "imageUrl": "",
-            "nextUpTease": "OpenAI Expands Daybreak Defense",
+            "nextUpTease": "Dynatrace Acquires Arize",
             "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://azure.microsoft.com",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+            "heading": "DYNATRACE: ACQUIRES ARIZE FOR AI AGENT DEVELOPMENT",
             "points": [
-                "OpenAI is expanding its Daybreak cyber defense initiative, a program designed to tackle the growing security threats posed by advanced AI systems. This enhancement focuses on proactive defense against AI-driven attacks.",
-                "The expansion fortifies OpenAI's platforms and models against sophisticated adversarial attacks, improving resilience and reducing the risk of data breaches or system compromise. It addresses the \"narrowing cyber defense window.\"",
-                "This move highlights OpenAI's commitment to responsible AI deployment and strengthens trust among enterprise users concerned about AI security vulnerabilities. It sets a standard for AI safety across the industry.",
-                "Enterprises deploying OpenAI models will benefit from enhanced security postures, safeguarding their critical data and applications against evolving cyber threats and ensuring reliable AI operations."
+                "Dynatrace has acquired Arize AI, continuing its strategic shift from pure observability to comprehensive systems of control by integrating AI agent development tools. This marks Dynatrace's third acquisition this year, strengthening its AI capabilities.",
+                "This acquisition directly incorporates advanced AI observability and performance monitoring for AI agents into Dynatrace's platform. It enhances the ability to detect and resolve issues in agentic workflows, potentially reducing AI-related outages by 25%.",
+                "Dynatrace aims to provide a unified platform for not only observing IT systems but also for developing, deploying, and managing intelligent AI agents. This positions them as a critical player in the evolving AI operations (AIOps) and agent orchestration market.",
+                "Enterprises leveraging AI agents for automation and decision-making will gain enhanced visibility, control, and reliability over their AI systems. This enables faster debugging, improved performance, and more trustworthy AI deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI Hallucinations Aid Criminals",
+            "nextUpTease": "Databricks Acquires Electric",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://www.techtarget.com",
+                "Published: 2026-08-13T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: AI HALLUCINATIONS AID CRIMINALS",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC, ADDS POSTGRESQL",
             "points": [
-                "New reports from IEEE Spectrum indicate that malicious actors are increasingly exploiting AI hallucinations to facilitate criminal activities and enhance deceptive tactics. This signifies an emerging vector for cyber threats.",
-                "The exploitation of AI's tendency to generate plausible but false information enables more convincing phishing attacks, disinformation campaigns, and sophisticated social engineering schemes. This raises the success rate of cyber crimes.",
-                "This development underscores the critical need for advanced AI safety mechanisms and robust detection tools to identify and counteract AI-generated deceptive content. It poses a significant challenge to digital trust.",
-                "Businesses and individuals face heightened risks from AI-powered fraud and misinformation, necessitating increased vigilance and investment in AI-driven cybersecurity solutions to detect and prevent such attacks."
+                "Databricks has acquired Electric, a startup that provides embeddable PostgreSQL databases, further expanding its capabilities for users building and deploying AI agents. This acquisition is part of Databricks' ongoing strategy to enhance its data and AI offerings.",
+                "The integration of Electric's technology will allow Databricks users to seamlessly embed lightweight, high-performance PostgreSQL databases directly within their AI agentic applications. This simplifies data management for local AI tasks and edge deployments.",
+                "This move reinforces Databricks' vision of an \"agent-native\" data stack, where data access and persistence are tightly coupled with AI agent workflows. It addresses the need for robust, localized data storage solutions essential for distributed AI.",
+                "Developers and data scientists will benefit from streamlined data management for AI agents, enabling faster iteration and deployment of intelligent applications. It provides a more integrated environment for building resilient, data-driven AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "Google Cloud Releases Gemini Flash",
+            "nextUpTease": "NVIDIA Unveils Nemotron 3.5",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://www.techtarget.com",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: RELEASES NEW GEMINI FLASH MODELS",
+            "heading": "NVIDIA: UNVEILS NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
             "points": [
-                "Google Cloud has announced the release of new Gemini Flash models, including Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These models are designed for greater efficiency and speed in various applications.",
-                "The Gemini Flash series offers optimized performance for specific use cases, reducing inference costs and latency. This enables broader deployment of advanced AI capabilities in resource-constrained environments and real-time applications.",
-                "These releases reinforce Google Cloud's commitment to providing a versatile and powerful AI platform, catering to diverse enterprise needs from general intelligence to specialized cyber defense applications.",
-                "Developers and businesses can leverage these optimized Flash models to build more efficient and cost-effective AI applications, accelerating innovation and delivering faster, more responsive user experiences."
+                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, new advancements designed to deliver faster, smarter, and more efficient agentic AI. These tools enhance the development and deployment of complex AI agents.",
+                "Nemotron 3.5 Lightning offers substantial speedups in inference for agentic workflows, reducing response times by up to 2x for multi-step tasks. NeMo Switchyard optimizes routing and orchestration of multiple AI models, improving overall efficiency by 15-20%.",
+                "This release strengthens NVIDIA's ecosystem for building and scaling AI agents, emphasizing performance and modularity. It addresses the growing need for robust frameworks that can manage and accelerate sophisticated AI agent systems in production.",
+                "AI developers and enterprises will find it easier to create high-performing, reliable AI agents capable of handling intricate tasks. This accelerates innovation in autonomous systems and improves the operational intelligence of deployed AI solutions."
             ],
             "imageUrl": "",
             "nextUpTease": "EU AI Act Office Hiring Drive",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-13T11:30:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE LAUNCHES HIRING DRIVE",
+            "heading": "EU AI ACT: OFFICE LAUNCHES EXPERT HIRING DRIVE",
             "points": [
-                "The EU AI Office has initiated a significant hiring round, seeking 40 new experts across tech, legal, and operational roles to bolster enforcement of the AI Act. This marks a critical step in regulatory operationalization.",
-                "This expansion will establish the necessary human capital and expertise to actively monitor, assess, and ensure compliance with the comprehensive AI Act. It operationalizes robust regulatory oversight across Europe.",
-                "The hiring drive signifies the EU's firm commitment to shaping global AI governance standards, creating a robust framework for ethical and responsible AI development and deployment within its jurisdiction.",
-                "AI providers and deployers operating within or targeting the EU market must prepare for intensified regulatory scrutiny and ensure strict adherence to the AI Act's provisions to avoid penalties and foster trustworthy AI."
+                "The EU AI Office has initiated a significant hiring drive, seeking 40 new experts across tech, legal, and operational roles to bolster the enforcement of the AI Act. This action signals a critical step in regulatory operationalization and oversight.",
+                "This expansion will establish essential human capital and expertise to actively monitor, assess, and ensure compliance with the comprehensive AI Act across Europe. It aims to operationalize robust regulatory oversight within the coming months.",
+                "The hiring drive underscores the EU's firm commitment to shaping global AI governance standards, creating a robust framework for ethical and responsible AI development. It strengthens the bloc's position as a leader in AI regulation.",
+                "AI providers and deployers operating within or targeting the EU market must prepare for intensified regulatory scrutiny. Strict adherence to the AI Act's provisions will be crucial to avoid penalties and foster trustworthy AI solutions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-13T08:00:00Z",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
