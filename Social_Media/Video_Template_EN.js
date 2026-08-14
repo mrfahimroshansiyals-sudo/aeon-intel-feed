@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI LAUNCHES GPT-5.6 FOR SCALABLE FRONTIER AI",
+        "hookTitle": "GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: LAUNCHES GPT-5.6 FOR SCALABLE AI",
-                "teaserTitle": "NVIDIA MOBILIZES $500B+ FOR AI INFRASTRUCTURE",
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI DEPLOYMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has just launched its new GPT five point six model for scalable frontier intelligence. This update significantly enhances the model's capabilities for complex AI tasks and enterprise integration."
+                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, its latest intelligent workhorse model for coding and agents. This model significantly improves performance and efficiency for complex AI tasks and agentic operations."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: MOBILIZES $500B+ FOR AI INFRASTRUCTURE",
-                "teaserTitle": "MICROSOFT AZURE FOUNDRY INTEGRATES GPT-5.6",
+                "headline": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "teaserTitle": "MICROSOFT AZURE: UNVEILS NEW AMD-POWERED AI/HPC VMS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "NVIDIA and major financial partners are mobilizing over five hundred billion dollars for AI compute infrastructure. This massive investment addresses soaring demand for high-performance computing capabilities."
+                "naration_line": "IBM has partnered with OpenAI, integrating frontier AI models and expert engineers into its consulting services. This alliance accelerates enterprise AI deployment, enhancing operational intelligence across diverse industries."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: FOUNDRY INTEGRATES GPT-5.6",
-                "teaserTitle": "NVIDIA NEMOTRON 3.5 & NEMO SWITCHYARD AGENTIC AI",
+                "headline": "MICROSOFT AZURE: UNVEILS NEW AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "CNBC: AI INFRASTRUCTURE BOOM FACES LEVERAGE & TRACKING ISSUES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure Foundry now integrates GPT five point six for managing production AI agents at scale. This service offers robust tracing and hosted agent capabilities, streamlining enterprise AI deployment."
+                "narration_line": "Microsoft Azure unveils new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs boost performance and efficiency for demanding AI, data, inference, and technical computing workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: NEMOTRON 3.5 & NEMO SWITCHYARD AGENTIC AI",
-                "teaserTitle": "GOOGLE CLOUD INTRODUCES GEMINI 3.6 & 3.5 FLASH",
+                "headline": "CNBC: AI INFRASTRUCTURE BOOM FACES LEVERAGE & TRACKING ISSUES",
+                "teaserTitle": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA unveiled Nemotron three point five Lightning and NeMo Switchyard for more efficient agentic AI. These tools deliver faster and smarter AI agent performance for complex automation tasks."
+                "narration_line": "The AI infrastructure boom faces new challenges as it becomes more leveraged and difficult to track. This amplifies financial risks within the AI sector, impacting future investment and project stability."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI 3.6 & 3.5 FLASH",
-                "teaserTitle": "AI MARKET: OPENAI, ANTHROPIC IN PRICE WAR",
+                "headline": "GOOGLE CLOUD: RELEASES GEMINI OMNI FLASH & NANO BANANA 2 LITE",
+                "teaserTitle": "CNBC: AI DRIVES SURGE IN DATA BREACH NOTICES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google Cloud introduced new Gemini models, including three point six Flash and three point five Flash variants. These models provide optimized performance for specific applications like coding and security."
+                "narration_line": "Google Cloud released Gemini Omni Flash and Nano Banana 2 Lite, expanding its AI model suite for creative and generative tasks. These models offer specialized tools for multimodal content creation and efficient image generation."
             },
             {
                 "slide_index": 6,
-                "headline": "AI MARKET: OPENAI, ANTHROPIC IN INTENSE PRICE WAR",
-                "teaserTitle": "CIO: AI COST VISIBILITY FOR INFRASTRUCTURE",
+                "headline": "CNBC: AI DRIVES SURGE IN DATA BREACH NOTICES",
+                "teaserTitle": "DOW JONES: APPLE SITS OUT AI RACE EXCEPT IN CHINA",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI and Anthropic are engaged in an intense price war, fueled by competition from Chinese AI rivals. This dynamic reshapes market strategies and fosters greater AI accessibility."
+                "narration_line": "Data breach notices are surging, with AI playing a growing role in sophisticated cyberattacks. This trend necessitates urgent investments in AI-driven security solutions and robust compliance frameworks."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO: AI COST VISIBILITY CRITICAL FOR INFRASTRUCTURE",
+                "headline": "DOW JONES: APPLE SITS OUT AI RACE EXCEPT IN CHINA",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Real-time AI cost visibility is critical for managing escalating infrastructure expenses in large-scale AI deployments. This empowers IT leaders to optimize spending and ensure maximum return on investment."
+                "narration_line": "Apple is reportedly cautious in the global AI race, primarily focusing its AI strategy on China. This indicates a selective engagement approach, diverging from rivals and prioritizing specific regional markets."
             },
             {
                 "slide_index": 8,
