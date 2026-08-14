@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
-                "visual_caption": "OpenAI launches GPT-5.6, a new frontier intelligence model. This release significantly boosts scalability for complex enterprise AI workloads."
+                "headline": "TSMC: A14 & A16 CHIP ADVANCEMENTS",
+                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
+                "visual_caption": "TSMC launched A14 NanoFlex Pro & A16 Nanosheet chip architectures for next-gen AI & HPC. These deliver major boosts in transistor density & power efficiency, crucial for scaling complex AI workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
-                "teaserTitle": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
-                "visual_caption": "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber models. These expand generative AI with optimized performance for rapid inference & cybersecurity."
+                "headline": "IBM & OPENAI: ENTERPRISE AI ACCELERATION",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
+                "visual_caption": "IBM & OpenAI partnered to accelerate enterprise AI deployment across sectors. OpenAI's models integrate into IBM Consulting, boosting AI transformation for global businesses."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
-                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
-                "visual_caption": "NVIDIA mobilizes $500B+ for AI compute infrastructure. This capital accelerates global deployment of advanced AI data centers."
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING MODEL",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning, a new model enhancing agentic AI workflows with increased speed. It optimizes task routing & resource allocation, crucial for scaling advanced AI apps."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Mistral AI unveils Shieldstral for sovereign AI in Europe. It ensures in-region inference & open models for enhanced data privacy & compliance."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
+                "visual_caption": "Google Cloud released AI Threat Defense, a security solution to proactively counter advanced cyber threats. It uses AI to detect & mitigate emerging risks, boosting cloud security for enterprises."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
-                "teaserTitle": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
-                "visual_caption": "NVIDIA introduces NeMo Switchyard, a new model router for agentic AI. It optimizes task routing, reducing operational latency in multi-agent systems."
+                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUT",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "visual_caption": "Google Cloud announced major price cuts for Gemini 3.7 Flash to boost developer adoption. This makes high-performance gen AI more accessible, cutting operational costs for many apps."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
-                "teaserTitle": "MIT TECH REVIEW: LLM VULNERABILITY",
-                "visual_caption": "Microsoft Azure launches Microsoft IQ, providing shared context for AI agents. This platform securely connects agents to diverse enterprise data & workflows."
+                "headline": "AMD: UK FRONTIER AI RESEARCH LAB",
+                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
+                "visual_caption": "AMD partners with University of Oxford to establish a UK Frontier AI Research Lab. This initiative advances cutting-edge AI research & fosters innovation in core AI architectures."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: LLM VULNERABILITY",
+                "headline": "DEEPSEEK: V4 PRICES SURGE ON DEMAND",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "MIT Tech Review reports fundamental flaw making LLMs highly vulnerable. This exposes critical security concerns needing urgent architectural re-evaluation."
+                "visual_caption": "DeepSeek raised V4 model prices over 10x due to surging AI demand & compute strain. This reflects high operational costs, affecting developers based on usage patterns."
             },
             {
                 "slide_index": 8,
