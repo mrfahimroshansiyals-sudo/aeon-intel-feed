@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH MODEL",
+        "hookTitle": "OPENAI UNVEILS GPT-5.6: FRONTIER AI SCALES WITH AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, their most intelligent workhorse model for coding and agentic AI. This release boosts performance for complex tasks and intricate coding challenges."
+                "narration_line": "OpenAI has officially launched GPT-5.6, a new frontier intelligence model. This release significantly boosts scalability for complex enterprise AI workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
+                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
+                "teaserTitle": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure expands with new AMD-powered AI and HPC virtual machines for demanding workloads. These VMs offer substantial throughput and efficiency improvements for enterprise AI deployments."
+                "naration_line": "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These expand generative AI with optimized performance for rapid inference and cybersecurity."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
-                "teaserTitle": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+                "headline": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud has cut Gemini 3.7 Flash API prices to attract more developers. This move responds to market competition, fostering ecosystem growth and broader AI adoption."
+                "narration_line": "NVIDIA leads a coalition mobilizing over five hundred billion dollars for AI compute infrastructure. This capital aims to accelerate global deployment of advanced AI data centers."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
+                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM and OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM consulting. Clients benefit from expert guidance for faster, efficient generative AI integration."
+                "narration_line": "Mistral AI unveils Shieldstral, an initiative for sovereign AI in Europe. It ensures in-region inference and open models for enhanced data privacy and compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
-                "teaserTitle": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
+                "headline": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+                "teaserTitle": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A price war is escalating among leading AI developers, including OpenAI and Anthropic. This competition drives down costs, making advanced AI more accessible to businesses globally."
+                "narration_line": "NVIDIA introduces NeMo Switchyard, a new model router for agentic AI. It optimizes task routing, significantly reducing operational latency in multi-agent systems."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
-                "teaserTitle": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
+                "teaserTitle": "MIT TECH REVIEW: LLM VULNERABILITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Oracle Cloud Infrastructure is integrating quantum computing via Quantinuum\u2019s Helios system for hybrid AI. This enables researchers to tackle complex optimization problems and accelerate scientific discovery."
+                "narration_line": "Microsoft Azure launches Microsoft IQ, providing shared context for AI agents. This platform securely connects agents to diverse enterprise data and workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "MIT TECH REVIEW: LLM VULNERABILITY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office is hiring over 40 new positions to rigorously enforce the EU AI Act. This signals increased oversight, requiring AI developers to prepare for strict compliance strategies."
+                "narration_line": "MIT Technology Review reports a fundamental flaw making LLMs highly vulnerable to attacks. This exposes critical security concerns requiring urgent architectural re-evaluation."
             },
             {
                 "slide_index": 8,

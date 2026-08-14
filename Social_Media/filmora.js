@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash, its most intelligent model for coding and agentic AI. This release boosts performance for complex tasks and intricate coding challenges."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
+                "visual_caption": "OpenAI launches GPT-5.6, a new frontier intelligence model. This release significantly boosts scalability for complex enterprise AI workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
-                "visual_caption": "Microsoft Azure expands with new AMD-powered AI and HPC VMs (HDv2, HXv2, ND MI455Xv7) for demanding workloads. These offer substantial throughput and efficiency improvements for enterprise AI deployments."
+                "headline": "GOOGLE CLOUD: GEMINI 3.6 FLASH & CYBER",
+                "teaserTitle": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
+                "visual_caption": "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber models. These expand generative AI with optimized performance for rapid inference & cybersecurity."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH API PRICE REDUCTIONS",
-                "teaserTitle": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
-                "visual_caption": "Google Cloud cut Gemini 3.7 Flash API prices to attract more developers. This responds to market competition, fostering ecosystem growth and broader AI adoption."
+                "headline": "NVIDIA: $500B+ AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
+                "visual_caption": "NVIDIA mobilizes $500B+ for AI compute infrastructure. This capital accelerates global deployment of advanced AI data centers."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
+                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
                 "visual_asset": "backgroundyt4.png",
-                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM consulting. Clients benefit from expert guidance for faster, efficient generative AI integration."
+                "visual_caption": "Mistral AI unveils Shieldstral for sovereign AI in Europe. It ensures in-region inference & open models for enhanced data privacy & compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "AI MARKET: FRONTIER MODEL PRICE WAR INTENSIFIES",
-                "teaserTitle": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
-                "visual_caption": "A price war is escalating among leading AI developers, including OpenAI and Anthropic. This competition drives down costs, making advanced AI more accessible to businesses globally."
+                "headline": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+                "teaserTitle": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
+                "visual_caption": "NVIDIA introduces NeMo Switchyard, a new model router for agentic AI. It optimizes task routing, reducing operational latency in multi-agent systems."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE CLOUD INFRASTRUCTURE: QUANTUM COMPUTING FOR HYBRID AI ON OCI",
-                "teaserTitle": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
-                "visual_caption": "Oracle Cloud Infrastructure integrates quantum computing via Quantinuum\u2019s Helios system for hybrid AI. This enables researchers to tackle complex optimization problems and accelerate scientific discovery."
+                "headline": "MICROSOFT AZURE: MICROSOFT IQ FOR AGENTS",
+                "teaserTitle": "MIT TECH REVIEW: LLM VULNERABILITY",
+                "visual_caption": "Microsoft Azure launches Microsoft IQ, providing shared context for AI agents. This platform securely connects agents to diverse enterprise data & workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: EU AI OFFICE MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "MIT TECH REVIEW: LLM VULNERABILITY",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The EU AI Office is hiring over 40 new positions to rigorously enforce the EU AI Act. This signals increased oversight, requiring AI developers to prepare for strict compliance strategies."
+                "visual_caption": "MIT Tech Review reports fundamental flaw making LLMs highly vulnerable. This exposes critical security concerns needing urgent architectural re-evaluation."
             },
             {
                 "slide_index": 8,
