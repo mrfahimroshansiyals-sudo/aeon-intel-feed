@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ENTERPRISE BUSINESS OUTPACES CONSUMER",
-        "titleBlue": "REVENUE",
-        "footerSummary": "OpenAI's enterprise revenue now surpasses consumer sales, signaling a profound shift in AI market dynamics and strategic focus on B2B solutions globally."
+        "titleWhite": "NEMO SWITCHYARD MODEL",
+        "titleBlue": "ROUTER",
+        "footerSummary": "NVIDIA enters dynamic model routing infrastructure as hyperscalers adjust pricing tiers, signaling rapid maturation across enterprise agentic software stacks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: ENTERPRISE BUSINESS OUTPACES CONSUMER REVENUE",
+            "heading": "NVIDIA: NEMO SWITCHYARD MODEL ROUTER",
             "points": [
-                "OpenAI's CFO announced that its enterprise business now generates more revenue than its consumer-facing products.",
-                "This shift indicates significant growth in B2B AI adoption, with businesses integrating OpenAI models into core operations.",
-                "The strategic move strengthens OpenAI's position in the high-value enterprise market, prioritizing corporate partnerships.",
-                "Stakeholders should expect increased focus on enterprise-grade features, security, and dedicated API services."
+                "NVIDIA launched NeMo Switchyard alongside Nemotron 3.5 Lightning to optimize multi-model routing across enterprise agent workflows.",
+                "The architecture dynamically delegates subtasks across specialized open and proprietary LLMs to lower inference latency by up to 40%.",
+                "This release shifts NVIDIA's software portfolio directly into the middle-layer orchestration stack competing with standalone routing frameworks.",
+                "Enterprise architects gain native multi-model orchestration tooling deeply integrated with existing CUDA and DGX compute deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
+            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
             "tags": [
-                "Source: https://www.cnbc.com/technology/openai-cfo-tells-investors-enterprise-business-now-bigger-than-consumer-by-revenue",
-                "Published: 2026-08-15T17:00:00Z",
+                "Source: https://www.infoworld.com/article/nvidia-moves-into-hot-market-for-model-routers",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
+            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
             "points": [
-                "IBM announced a strategic partnership with OpenAI, integrating frontier models and OpenAI-trained engineers into IBM consulting services.",
-                "This collaboration aims to significantly accelerate enterprise AI deployment, leveraging advanced models for business transformation.",
-                "The alliance provides IBM clients direct access to cutting-edge AI technologies and expertise, enhancing generative AI capabilities.",
-                "Enterprises can anticipate streamlined AI integration, reduced complexities, and faster realization of AI-driven value."
+                "Google DeepMind rolled out Gemini 3.7 Flash featuring enhanced code synthesis and discounted introductory API pricing for enterprise developers.",
+                "The strategic price revision targets high-frequency agentic loops and autonomous software engineering pipelines across Google Cloud Platform.",
+                "By decoupling high-speed Flash iteration cycles from heavy Pro models, Google aims to undercut competing frontier inference costs.",
+                "Development teams can lower continuous token consumption overhead while scaling multi-step agent autonomous workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA DISCLOSES $21B STAKE IN SPACEX FOR AI INFRASTRUCTURE",
+            "nextUpTease": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.infoworld.com/article/google-cuts-gemini-3-7-flash-prices",
+                "Published: 2026-08-14T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: DISCLOSES $21B STAKE IN SPACEX FOR AI INFRASTRUCTURE",
+            "heading": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
             "points": [
-                "Nvidia disclosed a substantial $21 billion stake in SpaceX at the close of Q2, signaling a strategic investment in critical infrastructure.",
-                "This investment underscores escalating demand for advanced AI compute capabilities, likely eyeing SpaceX's satellite network.",
-                "The move highlights Nvidia's strategy to secure future-proof infrastructure for AI training and inference, leveraging low-earth orbit connectivity.",
-                "Industry observers expect this to drive innovations in distributed AI compute, impacting autonomous systems and global data centers."
+                "Databricks entered an agreement to acquire Electric, an embedded synchronization layer bringing local Postgres instances directly to AI apps.",
+                "The transaction equips client-side and edge agentic software with real-time bidirectional database synchronization and zero-latency state caching.",
+                "This integration expands Databricks beyond central data warehouses into decentralized, localized state engines for autonomous agents.",
+                "Enterprise software engineers can build offline-capable, locally grounded agent systems with verified enterprise data governance."
             ],
             "imageUrl": "",
-            "nextUpTease": "POLAND\u2019S PUSH TO BECOME EUROPE\u2019S NEXT AI POWERHOUSE",
+            "nextUpTease": "DEEPSEEK: V4 API PRICE INCREASE",
             "tags": [
-                "Source: https://www.cnbc.com/technology/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter",
-                "Published: 2026-08-15T14:00:00Z",
+                "Source: https://www.techtarget.com/news/databricks-electric-acquisition-adds-embeddable-postgresql",
+                "Published: 2026-08-13T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "POLAND: PUSH TO BECOME EUROPE\u2019S NEXT AI POWERHOUSE",
+            "heading": "DEEPSEEK: V4 API PRICE INCREASE",
             "points": [
-                "Poland is actively pursuing a strategy to establish itself as a leading AI hub within Europe, backed by governmental and private sector initiatives.",
-                "This national push includes significant investments in AI research, talent development, and infrastructure to attract global tech companies.",
-                "The initiative aims to boost economic growth, create high-tech jobs, and foster innovation across various sectors.",
-                "European businesses and investors may find new opportunities for collaboration and expansion within Poland's emerging AI ecosystem."
+                "DeepSeek announced price increases exceeding 10x across select peak-hour V4 model API endpoints due to unprecedented infrastructure strain.",
+                "The provider introduced differentiated pricing tiers, context cache rebates, and off-peak execution discounts to balance datacenter compute loads.",
+                "The steep surge highlights hardware bottlenecks and power capacity ceilings currently confronting fast-growing frontier model providers.",
+                "Engineering teams using DeepSeek models must implement intelligent caching, prompt caching policies, and secondary routing mechanisms."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROK 4.6 LAUNCH UNDERCUTS RIVAL AI PRICES",
+            "nextUpTease": "MICROSOFT: AZURE AMD MI455X INSTANCES",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/inside-polands-push-to-become-europes-next-ai-powerhouse",
-                "Published: 2026-08-15T08:00:00Z",
+                "Source: https://www.cio.com/article/deepseek-raises-v4-prices-capacity-strain",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GROK: 4.6 LAUNCH UNDERCUTS RIVAL AI PRICES",
+            "heading": "MICROSOFT: AZURE AMD MI455X INSTANCES",
             "points": [
-                "Grok has launched its 4.6 model, strategically pricing it to undercut rival AI providers in a competitive market.",
-                "This aggressive pricing aims to rapidly expand Grok's user base and challenge established players with cost-effective AI solutions.",
-                "The move intensifies the ongoing price war among frontier AI model developers, focusing on developer adoption and enterprise budgets.",
-                "Enterprises can benefit from lower access costs for advanced AI capabilities, potentially democratizing access to high-performance models."
+                "Microsoft Azure expanded its high-performance AI infrastructure with new ND MI455Xv7 virtual machines powered by AMD Instinct accelerators.",
+                "The cloud instances deliver massive high-bandwidth memory capacity designed for multi-agent reasoning, large model fine-tuning, and heavy inference.",
+                "The deployment validates AMD's growing hardware penetration within tier-one hyperscale cloud providers seeking alternatives to single-vendor ecosystems.",
+                "Cloud operations directors gain multi-vendor infrastructure flexibility, optimizing both compute unit costs and hardware provisioning lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI RESEARCH SOLVES LONG-STANDING MATH CHALLENGES",
+            "nextUpTease": "STANFORD: EMOTIONAL AI COMPANION STUDY",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-ai-vms",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AI RESEARCH: SOLVES LONG-STANDING MATH CHALLENGES",
+            "heading": "STANFORD: EMOTIONAL AI COMPANION STUDY",
             "points": [
-                "Recent AI research has demonstrated breakthroughs in solving long-standing mathematical challenges, previously thought intractable for machines.",
-                "This advancement showcases AI's enhanced reasoning capabilities and its potential to revolutionize scientific discovery and complex problem-solving.",
-                "The development could lead to new computational methods and algorithms across various scientific and engineering disciplines.",
-                "Researchers and high-tech industries are exploring implications for areas like cryptography, materials science, and drug discovery."
+                "Stanford HAI researchers published a comprehensive empirical study assessing the psychological impact of conversational AI companion platforms.",
+                "The investigation revealed that users with limited social networks experienced lower overall psychological well-being after prolonged companion usage.",
+                "The findings provide rigorous academic grounding for emerging regulatory frameworks governing therapeutic and emotional support chatbots.",
+                "Healthtech startups and platform operators face tighter governance standards regarding user dependency risks and synthetic persona disclosure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI STARTUP LOVABLE VALUED AT $13.3B IN CODING AI",
+            "nextUpTease": "ASML: HIGH NA EUV LOGIC MILESTONE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/ai-was-terrified-of-math-then-a-high-school-dropout-said-believe-in-yourself",
-                "Published: 2026-08-15T02:00:00Z",
+                "Source: https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-vulnerable-users",
+                "Published: 2026-08-14T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI STARTUP: LOVABLE VALUED AT $13.3B IN CODING AI",
+            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
             "points": [
-                "Lovable, a European vibe-coding startup, has achieved a valuation of $13.3 billion, highlighting strong investor confidence in specialized AI applications.",
-                "This significant valuation reflects the high demand and growth potential within the AI-powered coding assistance market.",
-                "The startup's success underscores the increasing maturity and investment appeal of niche AI solutions that enhance developer productivity.",
-                "Competitors and venture capitalists will be closely watching for similar high-growth opportunities in the rapidly expanding AI developer tools sector."
+                "ASML confirmed High NA EUV lithography systems have reached high-volume manufacturing readiness for advanced semiconductor logic nodes.",
+                "The platform enables precision printing of sub-2nm transistor features, significantly increasing compute density for next-generation AI processors.",
+                "The operational milestone cements ASML's indispensable position within the global leading-edge AI silicon manufacturing supply chain.",
+                "Foundries and fabless chipmakers can accelerate next-generation silicon roadmaps with predictable yield curves and reduced multi-patterning overhead."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-now-valued-at-13-3b",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.asml.com/en/news/press-releases/2026/high-na-euv-reaches-readiness-milestone",
+                "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
