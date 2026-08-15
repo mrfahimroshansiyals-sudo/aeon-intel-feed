@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 ENTERPRISE ASCENSION",
+        "hookTitle": "IBM PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 ENTERPRISE ASCENSION",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "headline": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "NVIDIA INVESTS IN SPACEX AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's CFO confirms that GPT-5.6 enterprise revenue now exceeds consumer sales, marking a critical strategic pivot. This re-prioritization towards B2B solutions is actively fueling their anticipated IPO."
+                "narration_line": "IBM and OpenAI have forged a strategic partnership to embed frontier artificial intelligence models into consulting services. This collaboration aims to significantly accelerate enterprise-wide digital transformation and solution deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
-                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX AI STAKE",
+                "teaserTitle": "OPENAI TALENT EXODUS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has significantly reduced API token pricing for its Gemini 3.7 Flash model. These price cuts are designed to attract more developers and enhance adoption in the fiercely competitive enterprise AI market."
+                "narration_line": "NVIDIA has disclosed a twenty-one billion dollar stake in SpaceX, deepening its artificial intelligence infrastructure integration with space technology. This investment signals growing demand for GPUs in data centers supporting advanced AI and satellite networks."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
-                "teaserTitle": "XAI: GROK 4.6 LAUNCH & PRICING",
+                "headline": "OPENAI: TALENT EXODUS RAISES IPO CONCERNS",
+                "teaserTitle": "DATABRICKS IPO INEVITABLE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure is expanding its infrastructure by adding new AMD-powered AI and HPC virtual machines. These powerful VMs will support demanding AI, data processing, and inference workloads for enterprise clients."
+                "narration_line": "A significant talent exodus at OpenAI is reportedly raising substantial red flags among investors before its expected public offering. Departures are impacting team stability, potentially affecting its valuation and market reception."
             },
             {
                 "slide_index": 4,
-                "headline": "XAI: GROK 4.6 LAUNCH & PRICING",
-                "teaserTitle": "EU AI ACT: OFFICE STAFFING DRIVE",
+                "headline": "DATABRICKS: IPO INEVITABLE AFTER $5B FUNDING",
+                "teaserTitle": "JANE STREET SUFFERS AI LOSSES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "XAI officially launched Grok 4.6 with competitive pricing strategies aimed at undercutting market rivals. This new model release intensifies the ongoing AI price war among leading generative AI providers."
+                "narration_line": "Databricks is prepared for an initial public offering after securing five billion dollars in additional funding. This substantial capital injection signals aggressive expansion plans in its data lakehouse and generative artificial intelligence offerings."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI ACT: OFFICE STAFFING DRIVE",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "FINANCE: JANE STREET SUFFERS $15B AI LOSS",
+                "teaserTitle": "DEEPSEEK AI PRICE HIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The EU AI Office has initiated a significant hiring drive, adding forty new positions to strengthen its enforcement capabilities. This expansion underscores the European Union's commitment to strict implementation of the AI Act."
+                "narration_line": "Jane Street Capital suffered an estimated fifteen billion dollar loss due to unexpected market turbulence from an AI trading rout. This event highlights vulnerabilities in highly automated, artificial intelligence-driven financial models."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X AMID DEMAND",
+                "teaserTitle": "ORACLE QUANTUM AI INTEGRATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New research in IEEE Spectrum indicates AI can now design functional viruses, posing both medical promise and security risks. Policymakers must address the dual-use nature of advanced AI biological capabilities immediately."
+                "narration_line": "DeepSeek has significantly raised its V4 model prices, with some tiers seeing over a ten times increase due to intense artificial intelligence demand. This signals a tightening market for AI model access, driving up operational costs for developers."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+                "headline": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mistral AI introduced Shieldstral, a new solution for in-region inference and sovereign AI needs. This platform prioritizes open models and robust European infrastructure, enhancing data governance for enterprises."
+                "narration_line": "Oracle plans to integrate quantum computing into its Cloud Infrastructure, offering cloud-based access to Quantinuum\u2019s Helios system. This strategic move provides enterprises with cutting-edge tools for solving complex hybrid artificial intelligence problems."
             },
             {
                 "slide_index": 8,

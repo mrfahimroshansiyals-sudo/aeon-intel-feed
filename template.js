@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 ENTERPRISE",
-        "titleBlue": "ASCENSION",
-        "footerSummary": "OpenAI shifts focus with GPT-5.6 enterprise revenue now exceeding consumer, signaling a strategic pivot towards high-value B2B AI deployments and IPO preparation."
+        "titleWhite": "PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE",
+        "titleBlue": "AI",
+        "footerSummary": "IBM and OpenAI forge a strategic alliance, embedding frontier AI models and engineering expertise to accelerate enterprise-wide digital transformation and solution deployments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 ENTERPRISE ASCENSION",
+            "heading": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
             "points": [
-                "OpenAI's CFO confirms enterprise business revenue for GPT-5.6 now surpasses consumer-facing offerings.",
-                "This pivotal shift signifies a strategic re-prioritization towards B2B solutions, fueling IPO readiness.",
-                "Enhanced GPT-5.6 Sol and Luna models are expanding access for both premium and free users.",
-                "The company faces internal talent shifts amidst increasing commercial pressure and market scrutiny."
+                "IBM and OpenAI have announced a strategic partnership to embed frontier AI models and engineering expertise into IBM consulting services.",
+                "This alliance aims to accelerate enterprise-wide AI transformation, focusing on large-scale deployment and integration of advanced AI solutions.",
+                "The collaboration positions IBM as a key delivery mechanism for OpenAI's sophisticated models within complex corporate environments.",
+                "Businesses can expect faster adoption cycles and more robust, tailored AI applications directly supported by leading AI and consulting firms."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+            "nextUpTease": "NVIDIA INVESTS IN SPACEX AI",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/openai-cfo-enterprise-business-now-bigger-than-consumer-by-revenue.html",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai-aug-14-2026",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+            "heading": "NVIDIA: DISCLOSES $21B SPACEX AI STAKE",
             "points": [
-                "Google DeepMind has significantly reduced API token pricing for its Gemini 3.7 Flash model.",
-                "The price cuts aim to attract developers and increase adoption in the competitive enterprise AI market.",
-                "This move reflects diverging AI economics and a focus on coding applications where flash models excel.",
-                "Businesses can expect improved cost-efficiency for large-scale deployments and agentic workflows."
+                "NVIDIA has disclosed a significant $21 billion stake in SpaceX, signaling a deeper integration of its AI infrastructure with space technology.",
+                "This investment reinforces the growing demand for NVIDIA's GPUs in data centers supporting advanced AI and satellite communication networks.",
+                "The move highlights a strategic cross-industry play, extending NVIDIA's reach into satellite internet and AI-powered space applications.",
+                "Analysts predict enhanced AI capabilities for SpaceX\u2019s Starlink, alongside potential advancements in orbital data processing for various industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+            "nextUpTease": "OPENAI TALENT EXODUS",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers-august-2026",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+                "Published: 2026-08-15T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+            "heading": "OPENAI: TALENT EXODUS RAISES IPO CONCERNS",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines.",
-                "The HDv2, HXv2, and ND MI455Xv7 VMs support demanding AI, data, inference, and technical computing workloads.",
-                "This strategic expansion provides customers with greater choice and performance for compute-intensive tasks.",
-                "Enterprises gain enhanced capabilities for accelerating deep learning and advanced analytics in the cloud."
+                "A significant talent exodus at OpenAI is reportedly raising \"huge red flags\" among investors ahead of its anticipated initial public offering (IPO).",
+                "Departures include key researchers and ethicists, impacting team stability and potentially delaying critical safety and development milestones.",
+                "The internal upheaval suggests growing pressure from commercialization efforts and disagreements over AI safety protocols.",
+                "This trend could influence investor confidence and regulatory scrutiny, potentially affecting OpenAI's valuation and market reception post-IPO."
             ],
             "imageUrl": "",
-            "nextUpTease": "XAI: GROK 4.6 LAUNCH & PRICING",
+            "nextUpTease": "DATABRICKS IPO INEVITABLE",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/openai-talent-exodus-raises-huge-red-flag-ahead-of-ipo.html",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "XAI: GROK 4.6 LAUNCH & PRICING",
+            "heading": "DATABRICKS: IPO INEVITABLE AFTER $5B FUNDING",
             "points": [
-                "XAI has officially launched Grok 4.6, positioning it as a competitor with aggressive pricing.",
-                "The new model is designed to undercut rivals, intensifying the ongoing AI price war among providers.",
-                "Grok 4.6 focuses on efficiency and accessibility to capture a larger share of the developer market.",
-                "Developers can leverage this model for cost-effective AI applications, impacting cloud expenditures."
+                "Databricks is poised for an IPO after securing an additional $5 billion in funding, pushing its valuation higher in the data and AI market.",
+                "Experts suggest the benefits of public listing now outweigh remaining private, indicating market readiness and strong investor demand.",
+                "The substantial capital injection signals aggressive expansion plans in its data lakehouse and generative AI offerings.",
+                "This move will intensify competition among cloud data platforms, potentially driving further consolidation and innovation in the sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE STAFFING DRIVE",
+            "nextUpTease": "JANE STREET SUFFERS AI LOSSES",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals-august-2026",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.techtarget.com/news/366050543/ipo-inevitable-for-databricks-after-adding-5b-in-funding",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU AI ACT: OFFICE STAFFING DRIVE",
+            "heading": "FINANCE: JANE STREET SUFFERS $15B AI LOSS",
             "points": [
-                "The EU AI Office has initiated a significant hiring round, creating 40 new posts for enforcement roles.",
-                "Positions span tech, legal, and operations, strengthening the regulatory body's oversight capacity.",
-                "This expansion underscores the EU's commitment to strictly implement and enforce the AI Act's provisions.",
-                "Companies operating in the EU must prepare for heightened scrutiny and compliance obligations as the office scales."
+                "Jane Street Capital suffered an estimated $15 billion loss due to unexpected market turbulence attributed to a meltdown at \"Situational Awareness.\"",
+                "The secretive Wall Street trading firm was reportedly wrongfooted by an \"AI rout\" in July, highlighting risks associated with algorithmic trading.",
+                "This event underscores vulnerabilities in highly automated, AI-driven financial models reacting to unforeseen market conditions.",
+                "Regulators and financial institutions will likely increase scrutiny on AI-powered trading systems and their risk management frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "nextUpTease": "DEEPSEEK AI PRICE HIKE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/news/huge-hiring-round-eu-ai-office-40-new-posts/",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.dowjones.com/newswires/jane-street-suffers-loss-of-about-15-billion-following-troubles-at-situational-awareness",
+                "Published: 2026-08-15T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "heading": "DEEPSEEK: V4 PRICES SURGE OVER 10X AMID DEMAND",
             "points": [
-                "New research published in IEEE Spectrum reveals AI's capability to design functional viruses.",
-                "This technical breakthrough carries significant medical promise for targeted therapies and vaccine development.",
-                "However, it also introduces substantial security risks and ethical concerns regarding potential misuse.",
-                "Policymakers and cybersecurity experts must address the dual-use nature of advanced AI biological capabilities."
+                "DeepSeek has significantly raised its V4 model prices, with some tiers seeing over a 10x increase, due to intense AI demand and capacity strain.",
+                "The price hike, while dismaying to some developers, is nuanced by off-peak pricing, cache discounts, and multi-model routing options.",
+                "This signals a tightening market for AI model access, driven by surging computational requirements for advanced applications.",
+                "Developers face increased operational costs, prompting a re-evaluation of AI model efficiency and API utilization strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+            "nextUpTease": "ORACLE QUANTUM AI INTEGRATION",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-design-viruses-security-risks-2667362796",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.infoworld.com/article/3710777/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+            "heading": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new solution for in-region inference and sovereign AI.",
-                "This platform emphasizes open models and new European infrastructure, catering to data locality requirements.",
-                "Shieldstral aims to provide robust, secure AI inference capabilities within national or regional boundaries.",
-                "European enterprises gain greater control over data governance and compliance for AI model deployments."
+                "Oracle plans to integrate quantum computing into its Oracle Cloud Infrastructure (OCI), offering cloud-based access to Quantinuum\u2019s Helios system.",
+                "This service will bridge quantum computing with existing AI and High-Performance Computing (HPC) environments within OCI.",
+                "The strategic move aims to provide enterprises with cutting-edge tools for solving complex problems beyond classical computation.",
+                "Early adopters can explore hybrid AI workloads, leveraging quantum advantage for specialized tasks and accelerating scientific discovery."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral/",
-                "Published: 2026-08-15T12:00:00Z",
+                "Source: https://www.cio.com/article/654876/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
