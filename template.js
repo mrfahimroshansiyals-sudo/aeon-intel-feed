@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INTRODUCING GEMINI 3.7",
-        "titleBlue": "FLASH",
-        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash, a pivotal model for coding and agents, promising enhanced performance and developer efficiency across enterprise AI applications."
+        "titleWhite": "PARTNERSHIP TO ACCELERATE ENTERPRISE",
+        "titleBlue": "AI",
+        "footerSummary": "Enterprise AI accelerates with IBM-OpenAI alliance, DeepSeek price surges, and Nvidia's strategic SpaceX investment, revealing critical market shifts and emergent AI capabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "heading": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
             "points": [
-                "Google DeepMind has introduced Gemini 3.7 Flash, an advanced workhorse model designed for enhanced coding and agentic applications.",
-                "This new iteration aims to significantly improve developer efficiency and application performance, with a focus on speed and intelligence-per-parameter.",
-                "The model leverages frontier intelligence, empowering developers to build sophisticated AI agents and streamline complex programming tasks.",
-                "Developers and enterprises can anticipate faster iteration cycles, reduced operational overhead, and more robust agent deployments across various sectors."
+                "IBM and OpenAI have announced a strategic partnership to significantly accelerate the deployment and integration of AI solutions within enterprise environments.",
+                "This alliance embeds OpenAI's frontier models and expertise directly into IBM's consulting services, aiming to streamline AI adoption for large organizations.",
+                "The collaboration provides a clear architectural pathway for businesses to leverage advanced AI capabilities, enhancing operational efficiency and innovation.",
+                "Enterprises can expect faster AI-centric transformations, reduced integration complexities, and access to cutting-edge model development."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTRODUCING AI THREAT DEFENSE",
+            "nextUpTease": "OPENAI'S TALENT EXODUS SIGNALS SHIFT",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-15T08:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+            "heading": "OPENAI: TALENT EXODUS & ENTERPRISE FOCUS SHIFT",
             "points": [
-                "Google Cloud has launched AI Threat Defense, a new security service designed to help organizations outpace sophisticated cyber adversaries.",
-                "This offering integrates advanced AI capabilities to proactively identify and neutralize emerging threats, enhancing cloud security posture.",
-                "AI Threat Defense provides real-time threat detection, automated response mechanisms, and intelligence-driven insights to protect critical assets.",
-                "Organizations will benefit from stronger data protection, reduced incident response times, and an improved defense against AI-powered attacks."
+                "OpenAI is experiencing a significant talent exodus, raising concerns ahead of its potential IPO, particularly within its ethics and safety teams.",
+                "Despite this, OpenAI's CFO reports its enterprise business now surpasses its consumer segment in revenue, highlighting a strategic pivot.",
+                "This organizational shift indicates a strong focus on high-value corporate clients and specialized AI solutions over broad consumer applications.",
+                "Stakeholders should monitor the impact on AI safety governance while observing the rapid growth in OpenAI\u2019s B2B market penetration."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPANDS AMD AI & HPC VMS",
+            "nextUpTease": "NVIDIA'S $21BN SPACEX INVESTMENT",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-15T09:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/openai-talent-exodus-raises-huge-red-flag-ahead-of-ipo.html",
+                "Published: 2026-08-15T03:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: EXPANDS AMD AI & HPC VMS",
+            "heading": "NVIDIA: $21BN INVESTMENT IN SPACEX DATA CENTERS",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These new VMs support highly demanding AI, data analytics, inference, and technical computing workloads, offering superior performance and efficiency.",
-                "The expansion enhances Azure's compute capacity for complex AI models and high-performance computing tasks, critical for large-scale enterprise deployments.",
-                "Enterprises can leverage these advanced VMs for faster AI training, more efficient data processing, and scalable HPC simulations."
+                "Nvidia has disclosed a substantial $21 billion stake in SpaceX, signaling a major investment in its data center infrastructure and AI compute capacity.",
+                "This strategic investment aims to kit out SpaceX's data centers with Nvidia's advanced GPUs, securing vital compute resources for future AI development.",
+                "The move strengthens Nvidia's ecosystem, ensuring a robust supply chain for AI hardware and expanded reach into space-based compute solutions.",
+                "This partnership offers SpaceX enhanced AI capabilities and reinforces Nvidia's dominance in providing foundational technology for frontier AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAUNCHES AI MODEL ROUTING SOLUTION",
+            "nextUpTease": "DEEPSEEK'S AI MODEL PRICES SKYROCKET",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-15T07:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html",
+                "Published: 2026-08-15T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
+            "heading": "DEEPSEEK: AI MODEL PRICES SOAR OVER 10X",
             "points": [
-                "NVIDIA is entering the burgeoning market for model routers, introducing NeMo Switchyard to optimize AI model traffic and deployment.",
-                "NeMo Switchyard aims to deliver faster, smarter, and more efficient agentic AI by intelligently routing requests across various models.",
-                "This strategic move positions NVIDIA to enhance the performance and cost-effectiveness of complex multi-model AI applications.",
-                "Enterprises can achieve better resource utilization and reduced latency for AI inference by deploying NVIDIA's new routing solutions."
+                "DeepSeek has increased prices for its V4 AI models by over 10 times, driven by intense demand and significant strains on compute capacity.",
+                "This dramatic price adjustment reflects the escalating costs of advanced AI development and the scarcity of high-performance computing resources.",
+                "The move highlights a crucial economic divergence in the AI market, where premium models command significantly higher pricing due to demand.",
+                "Developers and enterprises must reassess budget allocations for AI services and consider multi-model routing to optimize costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUTS GEMINI 3.7 FLASH API PRICES",
+            "nextUpTease": "AI NOW CAPABLE OF DESIGNING FUNCTIONAL VIRUSES",
             "tags": [
-                "Source: https://www.infoworld.com/article/3709668/nvidia-moves-into-hot-market-for-model-routers.html",
-                "Published: 2026-08-14T16:00:00Z",
+                "Source: https://www.infoworld.com/article/3709669/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
+            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
             "points": [
-                "Google has lowered the introductory prices for its Gemini 3.7 Flash API, a strategic move to attract more developers and increase adoption.",
-                "This pricing adjustment reflects an intensified competitive landscape in the frontier model market, particularly for coding applications.",
-                "The reduction aims to stimulate broader use of Gemini 3.7 Flash, enabling wider experimentation and deployment by the developer community.",
-                "Developers and startups will find it more cost-effective to integrate advanced AI capabilities into their applications and services."
+                "New research highlights AI's advanced capability to design functional viruses, raising significant ethical and security concerns globally.",
+                "This technical breakthrough in AI-written genomes presents both immense medical promise for vaccine development and substantial biosecurity risks.",
+                "The development necessitates urgent discussions on AI governance frameworks, focusing on responsible innovation and dual-use technologies.",
+                "Policymakers and cybersecurity experts must rapidly implement robust safeguards to prevent misuse of advanced AI in biological domains."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUIRES ELECTRIC FOR AI APPS",
+            "nextUpTease": "ORACLE BRINGS QUANTUM TO OCI FOR HYBRID AI",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-37-flash-to-attract-developers",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-design-viruses",
+                "Published: 2026-08-12T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
+            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATES WITH OCI",
             "points": [
-                "Databricks has acquired Electric, integrating local PostgreSQL databases to enhance its platform for developing agentic AI applications.",
-                "This acquisition aims to provide users with robust, embeddable database capabilities, crucial for on-device or local agent operations.",
-                "The move strengthens Databricks' ecosystem by offering improved data management and persistency for intelligent agent deployments.",
-                "Developers can now build more sophisticated and self-contained AI agents with integrated data storage and processing at the edge."
+                "Oracle is set to integrate quantum computing capabilities into its Oracle Cloud Infrastructure (OCI), offering cloud-based access to Quantinuum's Helios system.",
+                "This integration aims to provide enterprises with hybrid AI solutions, combining classical HPC with quantum processing for complex workloads.",
+                "The strategic move positions OCI as a frontier platform for advanced scientific computing, accelerating breakthroughs in various industry sectors.",
+                "Developers can anticipate new paradigms for solving previously intractable problems, enhancing AI model training and data analysis on OCI."
             ],
             "imageUrl": "",
-            "nextUpTease": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+            "nextUpTease": "DATABRICKS IPO BECOMES INEVITABLE",
             "tags": [
-                "Source: https://www.infoworld.com/article/3709667/databricks-acquires-electric-to-bring-local-postgres-databases-to-agentic-apps.html",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://www.cio.com/article/3709670/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
+                "Published: 2026-08-12T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+            "heading": "TECHTARGET: DATABRICKS IPO BECOMES INEVITABLE",
             "points": [
-                "The EU AI Office has announced a major hiring initiative for 40 new positions, including tech, legal, and operational roles.",
-                "These posts are specifically dedicated to enforcing the landmark EU AI Act, significantly scaling up its regulatory oversight.",
-                "The expansion indicates a rapid acceleration in the implementation and governance of AI systems across the European Union.",
-                "Organizations operating in the EU must prepare for increased scrutiny and stricter compliance with the upcoming AI regulations."
+                "Databricks' recent injection of $5 billion in funding makes its IPO an inevitable step, signaling strong market confidence and growth trajectory.",
+                "Experts suggest the benefits of going public now outweigh staying private, allowing Databricks to capitalize on its expanded valuation and market leadership.",
+                "This move will enable Databricks to further scale its data management and AI offerings, solidifying its position in the enterprise AI landscape.",
+                "Investors and competitors will closely watch Databricks' public market debut, which could reshape the valuation metrics for other AI-native startups."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.techtarget.com/searchdatamanagement/news/366571060/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "INTRODUCING AI THREAT DEFENSE",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, a new workhorse model for coding and agentic applications. This launch promises to significantly boost developer efficiency and application performance."
+                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "OPENAI'S TALENT EXODUS SIGNALS SHIFT",
+                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment across global organizations. This collaboration embeds OpenAI models into IBM consulting, boosting corporate AI integration."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "teaserTitle": "EXPANDS AMD AI & HPC VMS",
-                "visual_caption": "Google Cloud introduces AI Threat Defense, a new security service to combat advanced cyber threats. This solution uses AI to proactively identify and neutralize emerging risks for cloud-based assets."
+                "headline": "OPENAI: TALENT EXODUS & ENTERPRISE FOCUS SHIFT",
+                "teaserTitle": "NVIDIA'S $21BN SPACEX INVESTMENT",
+                "visual_caption": "OpenAI faces significant talent exodus pre-IPO, raising governance questions. Yet, enterprise revenue now exceeds consumer segments, signaling a strategic business pivot."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: EXPANDS AMD AI & HPC VMS",
-                "teaserTitle": "LAUNCHES AI MODEL ROUTING SOLUTION",
-                "visual_caption": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines. These machines support highly demanding AI, data analytics, and inference workloads for superior performance."
+                "headline": "NVIDIA: $21BN INVESTMENT IN SPACEX DATA CENTERS",
+                "teaserTitle": "DEEPSEEK'S AI MODEL PRICES SKYROCKET",
+                "visual_caption": "Nvidia disclosed a $21B stake in SpaceX, equipping its data centers with advanced GPUs. This secures compute resources for AI and expands Nvidia's space-based solutions."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
-                "teaserTitle": "CUTS GEMINI 3.7 FLASH API PRICES",
-                "visual_caption": "NVIDIA enters the model router market with NeMo Switchyard, optimizing AI model traffic for agentic applications. This solution aims to deliver faster and more efficient AI deployments."
+                "headline": "DEEPSEEK: AI MODEL PRICES SOAR OVER 10X",
+                "teaserTitle": "AI NOW CAPABLE OF DESIGNING FUNCTIONAL VIRUSES",
+                "visual_caption": "DeepSeek increased V4 AI model prices >10X due to demand and capacity strains. This reflects escalating development costs and a crucial economic divergence in the AI market."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
-                "teaserTitle": "ACQUIRES ELECTRIC FOR AI APPS",
-                "visual_caption": "Google has lowered introductory prices for its Gemini 3.7 Flash API, attracting more developers. This move intensifies competition and stimulates broader adoption of advanced AI capabilities."
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "ORACLE BRINGS QUANTUM TO OCI FOR HYBRID AI",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "New research shows AI can design functional viruses, raising ethical and security concerns. This breakthrough offers medical promise but poses biosecurity risks, requiring strong governance."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
-                "teaserTitle": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
-                "visual_caption": "Databricks acquired Electric to integrate local PostgreSQL databases into its agentic AI platform. This enhances data management and persistency for advanced intelligent agent deployments at the edge."
+                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATES WITH OCI",
+                "teaserTitle": "DATABRICKS IPO BECOMES INEVITABLE",
+                "visual_caption": "Oracle integrates quantum computing into OCI, offering Quantinuum's Helios access for hybrid AI solutions. This positions OCI as a frontier platform for advanced scientific computing."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+                "headline": "TECHTARGET: DATABRICKS IPO BECOMES INEVITABLE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The EU AI Office announced 40 new positions dedicated to enforcing the EU AI Act. This significantly scales up regulatory oversight and governance of AI systems across Europe."
+                "visual_caption": "Databricks' $5B funding injection makes its IPO inevitable, signaling strong market confidence and growth. This will scale its data management and AI offerings, solidifying its enterprise position."
             },
             {
                 "slide_index": 8,

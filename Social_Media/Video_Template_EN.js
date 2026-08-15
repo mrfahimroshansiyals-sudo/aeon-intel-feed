@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
+        "hookTitle": "PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "INTRODUCING AI THREAT DEFENSE",
+                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "OPENAI'S TALENT EXODUS SIGNALS SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, a new workhorse model for coding and agentic applications. This launch promises to significantly boost developer efficiency and application performance."
+                "narration_line": "IBM and OpenAI have forged a new strategic partnership, aiming to accelerate enterprise AI deployment across global organizations. This collaboration will embed OpenAI's models directly into IBM's consulting services, boosting corporate AI integration efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "teaserTitle": "EXPANDS AMD AI & HPC VMS",
+                "headline": "OPENAI: TALENT EXODUS & ENTERPRISE FOCUS SHIFT",
+                "teaserTitle": "NVIDIA'S $21BN SPACEX INVESTMENT",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Google Cloud introduces AI Threat Defense, a new security service to combat advanced cyber threats. This solution uses AI to proactively identify and neutralize emerging risks for cloud-based assets."
+                "narration_line": "OpenAI is reportedly facing a significant talent exodus ahead of its IPO, raising questions about ethical governance. Despite this, their CFO confirms enterprise revenue now surpasses consumer segments, signaling a strategic business shift."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: EXPANDS AMD AI & HPC VMS",
-                "teaserTitle": "LAUNCHES AI MODEL ROUTING SOLUTION",
+                "headline": "NVIDIA: $21BN INVESTMENT IN SPACEX DATA CENTERS",
+                "teaserTitle": "DEEPSEEK'S AI MODEL PRICES SKYROCKET",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines. These machines support highly demanding AI, data analytics, and inference workloads for superior performance."
+                "narration_line": "Nvidia has disclosed a substantial $21 billion investment in SpaceX, aiming to equip its data centers with advanced GPUs. This move secures critical compute resources for future AI development and expands Nvidia's reach into space-based solutions."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
-                "teaserTitle": "CUTS GEMINI 3.7 FLASH API PRICES",
+                "headline": "DEEPSEEK: AI MODEL PRICES SOAR OVER 10X",
+                "teaserTitle": "AI NOW CAPABLE OF DESIGNING FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA enters the model router market with NeMo Switchyard, optimizing AI model traffic for agentic applications. This solution aims to deliver faster and more efficient AI deployments."
+                "narration_line": "DeepSeek has dramatically increased prices for its V4 AI models by over 10 times due to intense demand and capacity strains. This reflects escalating development costs and a crucial economic divergence in the advanced AI market."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
-                "teaserTitle": "ACQUIRES ELECTRIC FOR AI APPS",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "ORACLE BRINGS QUANTUM TO OCI FOR HYBRID AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google has lowered introductory prices for its Gemini three point seven Flash API, attracting more developers. This move intensifies competition and stimulates broader adoption of advanced AI capabilities."
+                "narration_line": "New research shows AI can now design functional viruses, raising significant global ethical and security concerns. This technical breakthrough presents both medical promise and substantial biosecurity risks, demanding robust governance frameworks."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
-                "teaserTitle": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATES WITH OCI",
+                "teaserTitle": "DATABRICKS IPO BECOMES INEVITABLE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases into its agentic AI platform. This enhances data management and persistency for advanced intelligent agent deployments at the edge."
+                "narration_line": "Oracle is integrating quantum computing into its OCI, providing cloud access to Quantinuum's Helios system for hybrid AI solutions. This positions OCI as a frontier platform for advanced scientific computing, accelerating breakthroughs across sectors."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+                "headline": "TECHTARGET: DATABRICKS IPO BECOMES INEVITABLE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office announced forty new positions dedicated to enforcing the EU AI Act. This significantly scales up regulatory oversight and governance of AI systems across Europe."
+                "narration_line": "Databricks' recent $5 billion funding injection makes its IPO an inevitable market move, signaling strong confidence and growth. This will allow Databricks to further scale its data management and AI offerings, solidifying its enterprise position."
             },
             {
                 "slide_index": 8,
