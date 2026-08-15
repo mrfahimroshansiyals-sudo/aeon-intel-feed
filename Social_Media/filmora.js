@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: NEMO SWITCHYARD MODEL ROUTER",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
-                "visual_caption": "NVIDIA launched NeMo Switchyard and Nemotron 3.5 Lightning to manage dynamic agent routing across multiple models. This framework lowers inference latency by up to 40% across enterprise agent networks."
+                "headline": "OPENAI: ENTERPRISE REVENUE SURGE",
+                "teaserTitle": "IBM: OPENAI ENTERPRISE ALLIANCE",
+                "visual_caption": "OpenAI confirmed that enterprise revenue has surpassed consumer streams. This milestone highlights rapid adoption of customized corporate workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
-                "teaserTitle": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash featuring reduced API pricing tailored for autonomous coding pipelines. The aggressive pricing structure allows engineering teams to cut token expenditure across continuous development loops."
+                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
+                "teaserTitle": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
+                "visual_caption": "IBM partnered with OpenAI to embed frontier models into global consulting services. The alliance accelerates AI transformation for regulated sectors."
             },
             {
                 "slide_index": 3,
-                "headline": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
-                "teaserTitle": "DEEPSEEK: V4 API PRICE INCREASE",
-                "visual_caption": "Databricks acquired Electric to integrate embeddable Postgres databases directly into localized agent architectures. The integration enables offline-capable agent state persistence and instant edge data synchronization."
+                "headline": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
+                "teaserTitle": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
+                "visual_caption": "NVIDIA established financing platforms to mobilize over $500B in capital. This initiative turns data center construction into an investable asset class."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 API PRICE INCREASE",
-                "teaserTitle": "MICROSOFT: AZURE AMD MI455X INSTANCES",
-                "visual_caption": "DeepSeek raised select V4 API endpoint prices by >10x due to severe datacenter capacity constraints. Developers must now leverage prompt caching and off-peak execution windows to mitigate mounting inference bills."
+                "headline": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
+                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
+                "visual_caption": "Microsoft Azure expanded its cloud catalog with advanced AMD virtual machines. The new hardware provides high-bandwidth capacity for heavy agent reasoning."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: AZURE AMD MI455X INSTANCES",
-                "teaserTitle": "STANFORD: EMOTIONAL AI COMPANION STUDY",
-                "visual_caption": "Microsoft Azure launched new ND MI455Xv7 virtual machines powered by AMD Instinct hardware for large reasoning workloads. The cluster expansion provides enterprises with scalable high-memory compute alternatives across hyperscale cloud regions."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
+                "teaserTitle": "EU AI OFFICE: MANDATORY HIRING ROUND",
+                "visual_caption": "Google slashed introductory pricing for Gemini 3.7 Flash. The reduction targets high-frequency developer coding loops and API consumption."
             },
             {
                 "slide_index": 6,
-                "headline": "STANFORD: EMOTIONAL AI COMPANION STUDY",
-                "teaserTitle": "ASML: HIGH NA EUV LOGIC MILESTONE",
-                "visual_caption": "Stanford HAI researchers published findings showing AI emotional companions can exacerbate loneliness among isolated demographic groups. The data accelerates regulatory scrutiny regarding user dependency risks and synthetic therapeutic oversight."
+                "headline": "EU AI OFFICE: MANDATORY HIRING ROUND",
+                "teaserTitle": "ANTHROPIC: CLAUDE CONCEPT PROBING",
+                "visual_caption": "The European Union AI Office opened 40 new technical and legal enforcement posts. The roles focus on verifying compliance under the AI Act."
             },
             {
                 "slide_index": 7,
-                "headline": "ASML: HIGH NA EUV LOGIC MILESTONE",
+                "headline": "ANTHROPIC: CLAUDE CONCEPT PROBING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "ASML confirmed its High NA EUV lithography systems are fully verified for high-volume commercial chip production. The tooling unlocks commercial fabrication for sub-2nm silicon powering future AI hardware."
+                "visual_caption": "Anthropic developed a novel technique to probe internal model concepts. This research offers granular visibility into complex neural reasoning pathways."
             },
             {
                 "slide_index": 8,

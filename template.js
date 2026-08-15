@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NEMO SWITCHYARD MODEL",
-        "titleBlue": "ROUTER",
-        "footerSummary": "NVIDIA enters dynamic model routing infrastructure as hyperscalers adjust pricing tiers, signaling rapid maturation across enterprise agentic software stacks."
+        "titleWhite": "OPENAI ENTERPRISE REVENUE",
+        "titleBlue": "SURGE",
+        "footerSummary": "OpenAI reports enterprise business now outpaces consumer revenue as major industrial partnerships reshape AI deployment models."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: NEMO SWITCHYARD MODEL ROUTER",
+            "heading": "OPENAI: ENTERPRISE REVENUE SURGE",
             "points": [
-                "NVIDIA launched NeMo Switchyard alongside Nemotron 3.5 Lightning to optimize multi-model routing across enterprise agent workflows.",
-                "The architecture dynamically delegates subtasks across specialized open and proprietary LLMs to lower inference latency by up to 40%.",
-                "This release shifts NVIDIA's software portfolio directly into the middle-layer orchestration stack competing with standalone routing frameworks.",
-                "Enterprise architects gain native multi-model orchestration tooling deeply integrated with existing CUDA and DGX compute deployments."
+                "OpenAI leadership confirmed that enterprise revenue has officially surpassed consumer subscription streams, marking a major commercial pivot.",
+                "The revenue crossover underscores rapid enterprise adoption of customized workflows, advanced API integrations, and secure organizational tooling.",
+                "This shift reflects broader industry trends where B2B monetization stabilizes long-term artificial intelligence infrastructure investments.",
+                "Chief financial officers must recalibrate software budgets to accommodate recurring enterprise intelligence licensing costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
+            "nextUpTease": "IBM: OPENAI ENTERPRISE ALLIANCE",
             "tags": [
-                "Source: https://www.infoworld.com/article/nvidia-moves-into-hot-market-for-model-routers",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-14T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICING CUT",
+            "heading": "IBM: OPENAI ENTERPRISE ALLIANCE",
             "points": [
-                "Google DeepMind rolled out Gemini 3.7 Flash featuring enhanced code synthesis and discounted introductory API pricing for enterprise developers.",
-                "The strategic price revision targets high-frequency agentic loops and autonomous software engineering pipelines across Google Cloud Platform.",
-                "By decoupling high-speed Flash iteration cycles from heavy Pro models, Google aims to undercut competing frontier inference costs.",
-                "Development teams can lower continuous token consumption overhead while scaling multi-step agent autonomous workflows."
+                "IBM announced a strategic alliance with OpenAI to embed frontier models and forward-deployed engineers into global consulting services.",
+                "The partnership aims to accelerate complex enterprise artificial intelligence transformations across heavily regulated corporate sectors.",
+                "By combining IBM's enterprise integration footprint with OpenAI's models, the joint initiative targets streamlined legacy application modernization.",
+                "IT leadership should evaluate how embedded engineering support can shorten deployment timelines for mission-critical workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
+            "nextUpTease": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
             "tags": [
-                "Source: https://www.infoworld.com/article/google-cuts-gemini-3-7-flash-prices",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: ELECTRIC ACQUISITION FOR AGENT DATABASES",
+            "heading": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
             "points": [
-                "Databricks entered an agreement to acquire Electric, an embedded synchronization layer bringing local Postgres instances directly to AI apps.",
-                "The transaction equips client-side and edge agentic software with real-time bidirectional database synchronization and zero-latency state caching.",
-                "This integration expands Databricks beyond central data warehouses into decentralized, localized state engines for autonomous agents.",
-                "Enterprise software engineers can build offline-capable, locally grounded agent systems with verified enterprise data governance."
+                "NVIDIA partnered with major global financial institutions to establish infrastructure financing platforms mobilizing over $500B in third-party capital.",
+                "The multi-firm coalition is designed to fund massive AI compute data center expansions required by hyperscale cloud operators.",
+                "This initiative transforms artificial intelligence factory construction into a standardized, investable asset class for institutional investors.",
+                "Infrastructure planners can anticipate expanded capital availability for long-term power and compute cluster developments."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: V4 API PRICE INCREASE",
+            "nextUpTease": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
             "tags": [
-                "Source: https://www.techtarget.com/news/databricks-electric-acquisition-adds-embeddable-postgresql",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: V4 API PRICE INCREASE",
+            "heading": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
             "points": [
-                "DeepSeek announced price increases exceeding 10x across select peak-hour V4 model API endpoints due to unprecedented infrastructure strain.",
-                "The provider introduced differentiated pricing tiers, context cache rebates, and off-peak execution discounts to balance datacenter compute loads.",
-                "The steep surge highlights hardware bottlenecks and power capacity ceilings currently confronting fast-growing frontier model providers.",
-                "Engineering teams using DeepSeek models must implement intelligent caching, prompt caching policies, and secondary routing mechanisms."
+                "Microsoft Azure expanded its high-performance cloud catalog with specialized AMD-powered virtual machines to support demanding AI workloads.",
+                "The new hardware instances deliver enhanced memory bandwidth optimized for multi-agent reasoning and large-scale model inference.",
+                "The rollout strengthens multi-vendor compute availability across Microsoft's enterprise cloud infrastructure portfolio.",
+                "Cloud architects gain greater provisioning flexibility to balance performance, latency, and hardware acquisition costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AZURE AMD MI455X INSTANCES",
+            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
             "tags": [
-                "Source: https://www.cio.com/article/deepseek-raises-v4-prices-capacity-strain",
-                "Published: 2026-08-13T16:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MICROSOFT: AZURE AMD MI455X INSTANCES",
-            "points": [
-                "Microsoft Azure expanded its high-performance AI infrastructure with new ND MI455Xv7 virtual machines powered by AMD Instinct accelerators.",
-                "The cloud instances deliver massive high-bandwidth memory capacity designed for multi-agent reasoning, large model fine-tuning, and heavy inference.",
-                "The deployment validates AMD's growing hardware penetration within tier-one hyperscale cloud providers seeking alternatives to single-vendor ecosystems.",
-                "Cloud operations directors gain multi-vendor infrastructure flexibility, optimizing both compute unit costs and hardware provisioning lead times."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "STANFORD: EMOTIONAL AI COMPANION STUDY",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-ai-vms",
+                "Source: https://azure.microsoft.com/en-us/blog",
                 "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "STANFORD: EMOTIONAL AI COMPANION STUDY",
+            "id": 5,
+            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
             "points": [
-                "Stanford HAI researchers published a comprehensive empirical study assessing the psychological impact of conversational AI companion platforms.",
-                "The investigation revealed that users with limited social networks experienced lower overall psychological well-being after prolonged companion usage.",
-                "The findings provide rigorous academic grounding for emerging regulatory frameworks governing therapeutic and emotional support chatbots.",
-                "Healthtech startups and platform operators face tighter governance standards regarding user dependency risks and synthetic persona disclosure."
+                "Google DeepMind introduced aggressive introductory pricing reductions for Gemini 3.7 Flash to capture high-frequency developer traffic.",
+                "The pricing adjustment targets autonomous agentic coding loops and high-volume application programming interface consumption.",
+                "The strategy highlights intensifying pricing competition among frontier model providers seeking dominant developer mindshare.",
+                "Software engineering teams can scale continuous automated testing and code generation pipelines at significantly reduced token costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ASML: HIGH NA EUV LOGIC MILESTONE",
+            "nextUpTease": "EU AI OFFICE: MANDATORY HIRING ROUND",
             "tags": [
-                "Source: https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-vulnerable-users",
-                "Published: 2026-08-14T07:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EU AI OFFICE: MANDATORY HIRING ROUND",
+            "points": [
+                "The European Union AI Office initiated a massive hiring drive to fill 40 specialized technical, legal, and operational enforcement posts.",
+                "The recruitment wave focuses on enforcing rigorous compliance standards mandated under the comprehensive EU Artificial Intelligence Act.",
+                "This regulatory enforcement push establishes strict oversight parameters for general-purpose AI model providers operating within Europe.",
+                "Compliance officers must ensure transparent documentation practices are established well ahead of upcoming legal deadlines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ANTHROPIC: CLAUDE CONCEPT PROBING",
+            "tags": [
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
+            "heading": "ANTHROPIC: CLAUDE CONCEPT PROBING",
             "points": [
-                "ASML confirmed High NA EUV lithography systems have reached high-volume manufacturing readiness for advanced semiconductor logic nodes.",
-                "The platform enables precision printing of sub-2nm transistor features, significantly increasing compute density for next-generation AI processors.",
-                "The operational milestone cements ASML's indispensable position within the global leading-edge AI silicon manufacturing supply chain.",
-                "Foundries and fabless chipmakers can accelerate next-generation silicon roadmaps with predictable yield curves and reduced multi-patterning overhead."
+                "Anthropic researchers deployed a novel interpretability technique enabling deep probing into the internal conceptual representations of Claude models.",
+                "The diagnostic approach maps hidden feature spaces to better understand how advanced models organize and synthesize complex concepts.",
+                "This breakthrough improves internal safety verification capabilities by offering granular visibility into model reasoning pathways.",
+                "AI safety auditors gain advanced interpretability tools to detect hidden behavioral biases and mitigate alignment vulnerabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.asml.com/en/news/press-releases/2026/high-na-euv-reaches-readiness-milestone",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://www.technologyreview.com",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
