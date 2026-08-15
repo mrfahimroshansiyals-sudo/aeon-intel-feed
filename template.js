@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENAI ENTERPRISE REVENUE",
-        "titleBlue": "SURGE",
-        "footerSummary": "OpenAI reports enterprise business now outpaces consumer revenue as major industrial partnerships reshape AI deployment models."
+        "titleWhite": "Altman Readies IPO Push Amid",
+        "titleBlue": "Upheaval",
+        "footerSummary": "OpenAI's IPO plans emerge amidst upheaval. NVIDIA launches agentic AI tools; DeepSeek hikes prices as Microsoft cuts. Ethical concerns rise with AI-designed viruses."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: ENTERPRISE REVENUE SURGE",
+            "heading": "OPENAI: ALTMAN READIES IPO PUSH AMID UPHEAVAL",
             "points": [
-                "OpenAI leadership confirmed that enterprise revenue has officially surpassed consumer subscription streams, marking a major commercial pivot.",
-                "The revenue crossover underscores rapid enterprise adoption of customized workflows, advanced API integrations, and secure organizational tooling.",
-                "This shift reflects broader industry trends where B2B monetization stabilizes long-term artificial intelligence infrastructure investments.",
-                "Chief financial officers must recalibrate software budgets to accommodate recurring enterprise intelligence licensing costs."
+                "OpenAI leadership is preparing for a public listing, signaling a major financial restructuring and capital acquisition push.",
+                "This strategic move comes amidst executive departures and shifts within its safety and governance teams, raising internal tensions.",
+                "The IPO is expected to facilitate massive investment in compute infrastructure and advanced model development, securing long-term growth.",
+                "Investors should closely monitor governance stability and ethical AI commitments as the company transitions to public markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: OPENAI ENTERPRISE ALLIANCE",
+            "nextUpTease": "NVIDIA UNVEILS NEW AI AGENT TOOLS",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-14T19:00:00Z",
+                "Source: https://www.ft.com/technology/article-altman-ipo-upheaval",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: OPENAI ENTERPRISE ALLIANCE",
+            "heading": "NVIDIA: UNVEILS NEMOTRON 3.5 & NEMO SWITCHYARD",
             "points": [
-                "IBM announced a strategic alliance with OpenAI to embed frontier models and forward-deployed engineers into global consulting services.",
-                "The partnership aims to accelerate complex enterprise artificial intelligence transformations across heavily regulated corporate sectors.",
-                "By combining IBM's enterprise integration footprint with OpenAI's models, the joint initiative targets streamlined legacy application modernization.",
-                "IT leadership should evaluate how embedded engineering support can shorten deployment timelines for mission-critical workflows."
+                "NVIDIA has launched Nemotron 3.5 Lightning and NeMo Switchyard, new tools for building agentic AI with enhanced efficiency.",
+                "Nemotron 3.5 Lightning accelerates AI agent performance, while NeMo Switchyard optimizes model routing for faster, smarter operations.",
+                "This release targets developers focused on complex, multi-step agent workflows and intelligent automation solutions.",
+                "Enterprises can leverage these advancements to deploy more responsive and resource-efficient AI agent systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
+            "nextUpTease": "DEEPSEEK V4 API PRICES INCREASE",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-14T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
-            "points": [
-                "NVIDIA partnered with major global financial institutions to establish infrastructure financing platforms mobilizing over $500B in third-party capital.",
-                "The multi-firm coalition is designed to fund massive AI compute data center expansions required by hyperscale cloud operators.",
-                "This initiative transforms artificial intelligence factory construction into a standardized, investable asset class for institutional investors.",
-                "Infrastructure planners can anticipate expanded capital availability for long-term power and compute cluster developments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-10T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
-            "points": [
-                "Microsoft Azure expanded its high-performance cloud catalog with specialized AMD-powered virtual machines to support demanding AI workloads.",
-                "The new hardware instances deliver enhanced memory bandwidth optimized for multi-agent reasoning and large-scale model inference.",
-                "The rollout strengthens multi-vendor compute availability across Microsoft's enterprise cloud infrastructure portfolio.",
-                "Cloud architects gain greater provisioning flexibility to balance performance, latency, and hardware acquisition costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
+                "Source: https://nvidianews.nvidia.com/news/nemotron-switchyard-launch",
                 "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
+            "id": 3,
+            "heading": "DEEPSEEK: V4 API PRICES INCREASE OVER 10X",
             "points": [
-                "Google DeepMind introduced aggressive introductory pricing reductions for Gemini 3.7 Flash to capture high-frequency developer traffic.",
-                "The pricing adjustment targets autonomous agentic coding loops and high-volume application programming interface consumption.",
-                "The strategy highlights intensifying pricing competition among frontier model providers seeking dominant developer mindshare.",
-                "Software engineering teams can scale continuous automated testing and code generation pipelines at significantly reduced token costs."
+                "DeepSeek has significantly raised its V4 API prices by over 10x for some tiers, reflecting increasing AI demand and capacity strain.",
+                "The dramatic price adjustment impacts developers relying on DeepSeek V4 for high-volume artificial intelligence applications.",
+                "This move signals growing pressure on AI providers to manage escalating compute costs and ensure sustainable service delivery.",
+                "Developers should re-evaluate budget allocations and explore multi-model routing strategies to mitigate rising operational expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: MANDATORY HIRING ROUND",
+            "nextUpTease": "MICROSOFT SLASHES CODING MODEL PRICING",
             "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.infoworld.com/article/3712345/deepseek-raises-v4-prices.html",
+                "Published: 2026-08-13T14:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MICROSOFT: SLASHES CODING MODEL PRICING",
+            "points": [
+                "Microsoft has introduced aggressive price reductions for its AI coding models to maintain competitiveness and attract developers.",
+                "The price cuts aim to incentivize broader adoption for code generation, automated testing, and development acceleration.",
+                "This move intensifies the ongoing price war among major AI model providers, benefiting the developer ecosystem.",
+                "Engineering teams can capitalize on reduced costs to scale their automated software development workflows and improve efficiency."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "IBM SECURES $240M NVIDIA AI CLUSTER DEAL",
+            "tags": [
+                "Source: https://www.aibusiness.com/generative-ai/microsoft-slashes-coding-model-prices",
+                "Published: 2026-08-12T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "IBM: $240M NVIDIA AI CLUSTER DEAL SECURED",
+            "points": [
+                "IBM has signed a $240 million agreement for a new NVIDIA-powered AI cluster, significantly expanding its compute capabilities.",
+                "This investment aims to accelerate complex artificial intelligence workloads and enhance IBM's enterprise AI offerings.",
+                "The deal reinforces the strategic importance of high-performance GPU infrastructure for large-scale corporate AI initiatives.",
+                "Businesses can expect increased capacity and performance from IBM's AI services, supporting more demanding analytical and generative tasks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "tags": [
+                "Source: https://www.aibusiness.com/agentic-ai/ibm-signs-240m-nvidia-deal",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI OFFICE: MANDATORY HIRING ROUND",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "points": [
-                "The European Union AI Office initiated a massive hiring drive to fill 40 specialized technical, legal, and operational enforcement posts.",
-                "The recruitment wave focuses on enforcing rigorous compliance standards mandated under the comprehensive EU Artificial Intelligence Act.",
-                "This regulatory enforcement push establishes strict oversight parameters for general-purpose AI model providers operating within Europe.",
-                "Compliance officers must ensure transparent documentation practices are established well ahead of upcoming legal deadlines."
+                "Databricks has acquired Electric, integrating local PostgreSQL databases to enhance its platform for agentic applications.",
+                "The acquisition allows developers to build more robust and data-intensive AI agents with integrated, high-performance data storage.",
+                "This strategic move strengthens Databricks' position in the evolving market for AI-native application development.",
+                "Data scientists and engineers gain improved tools for managing structured data within complex AI agent workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: CLAUDE CONCEPT PROBING",
+            "nextUpTease": "IEEE AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://www.infoworld.com/article/3712346/databricks-acquires-electric.html",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: CLAUDE CONCEPT PROBING",
+            "heading": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
             "points": [
-                "Anthropic researchers deployed a novel interpretability technique enabling deep probing into the internal conceptual representations of Claude models.",
-                "The diagnostic approach maps hidden feature spaces to better understand how advanced models organize and synthesize complex concepts.",
-                "This breakthrough improves internal safety verification capabilities by offering granular visibility into model reasoning pathways.",
-                "AI safety auditors gain advanced interpretability tools to detect hidden behavioral biases and mitigate alignment vulnerabilities."
+                "New research published by IEEE Spectrum demonstrates AI's capacity to design functional viral genomes, raising ethical and security concerns.",
+                "While offering potential for medical advancements, this breakthrough necessitates urgent discussions on biosecurity and AI misuse prevention.",
+                "The development highlights the dual-use nature of advanced AI capabilities and the need for robust regulatory frameworks.",
+                "Governments and research institutions must collaborate to establish safeguards and responsible development guidelines for AI in biotechnology."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.technologyreview.com",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-designs-functional-viruses",
+                "Published: 2026-08-12T13:00:00Z",
                 "Status: Audited & True"
             ]
         }

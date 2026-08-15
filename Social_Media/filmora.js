@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: ENTERPRISE REVENUE SURGE",
-                "teaserTitle": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "visual_caption": "OpenAI confirmed that enterprise revenue has surpassed consumer streams. This milestone highlights rapid adoption of customized corporate workflows."
+                "headline": "OPENAI: ALTMAN READIES IPO PUSH AMID UPHEAVAL",
+                "teaserTitle": "NVIDIA UNVEILS NEW AI AGENT TOOLS",
+                "visual_caption": "OpenAI reportedly prepares for an IPO amid executive exits & safety team changes. This move seeks to secure significant capital for frontier model development & expansion."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "teaserTitle": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
-                "visual_caption": "IBM partnered with OpenAI to embed frontier models into global consulting services. The alliance accelerates AI transformation for regulated sectors."
+                "headline": "NVIDIA: UNVEILS NEMOTRON 3.5 & NEMO SWITCHYARD",
+                "teaserTitle": "DEEPSEEK V4 API PRICES INCREASE",
+                "visual_caption": "NVIDIA launches Nemotron 3.5 Lightning & NeMo Switchyard for faster, smarter agentic AI systems. These tools optimize model routing & accelerate complex multi-step agent workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: 500B INFRASTRUCTURE FINANCING",
-                "teaserTitle": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
-                "visual_caption": "NVIDIA established financing platforms to mobilize over $500B in capital. This initiative turns data center construction into an investable asset class."
+                "headline": "DEEPSEEK: V4 API PRICES INCREASE OVER 10X",
+                "teaserTitle": "MICROSOFT SLASHES CODING MODEL PRICING",
+                "visual_caption": "DeepSeek's V4 API prices increase >10X for some tiers due to high AI demand & capacity strain. This impacts developers using high-volume DeepSeek AI applications."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: AZURE AI INFRASTRUCTURE EXPANSION",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
-                "visual_caption": "Microsoft Azure expanded its cloud catalog with advanced AMD virtual machines. The new hardware provides high-bandwidth capacity for heavy agent reasoning."
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICING",
+                "teaserTitle": "IBM SECURES $240M NVIDIA AI CLUSTER DEAL",
+                "visual_caption": "Microsoft slashes AI coding model prices to boost competitiveness & developer adoption. These cuts incentivize broader use in code generation & automated testing workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
-                "teaserTitle": "EU AI OFFICE: MANDATORY HIRING ROUND",
-                "visual_caption": "Google slashed introductory pricing for Gemini 3.7 Flash. The reduction targets high-frequency developer coding loops and API consumption."
+                "headline": "IBM: $240M NVIDIA AI CLUSTER DEAL SECURED",
+                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_caption": "IBM secures $240M deal for a new NVIDIA AI cluster, expanding its compute capabilities. This investment accelerates complex AI workloads & enhances IBM's enterprise AI services."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: MANDATORY HIRING ROUND",
-                "teaserTitle": "ANTHROPIC: CLAUDE CONCEPT PROBING",
-                "visual_caption": "The European Union AI Office opened 40 new technical and legal enforcement posts. The roles focus on verifying compliance under the AI Act."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "IEEE AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
+                "visual_caption": "Databricks acquires Electric, integrating local PostgreSQL databases to bolster its agentic app platform. This enables developers to build more robust, data-intensive AI agents."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE CONCEPT PROBING",
+                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Anthropic developed a novel technique to probe internal model concepts. This research offers granular visibility into complex neural reasoning pathways."
+                "visual_caption": "IEEE research shows AI can design functional viral genomes, raising biosecurity & ethical concerns. This highlights the critical need for AI misuse prevention & safeguards."
             },
             {
                 "slide_index": 8,
