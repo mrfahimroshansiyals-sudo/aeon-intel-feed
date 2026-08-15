@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
-                "teaserTitle": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
-                "visual_caption": "OpenAI rolls out significant enhancements for its GPT-5.6 model and expands its Daybreak cybersecurity platform. These updates boost frontier AI intelligence and fortify defense mechanisms against emerging cyber threats."
+                "headline": "IBM: FRONTIER OPENAI CONSULTING ALLIANCE",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
+                "visual_caption": "IBM has partnered with OpenAI to embed frontier models and specialized engineers into consulting services. The alliance aims to accelerate enterprise AI deployments and modernize production workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
-                "visual_caption": "NVIDIA reportedly downsizes its $250B guarantee for OpenAI's data center buildout. This recalibration could impact OpenAI's planned GPU cluster deployments and future model training timelines."
+                "headline": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
+                "teaserTitle": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
+                "visual_caption": "Nvidia introduced NeMo Switchyard and Nemotron 3.5 for dynamic multi-model routing. The framework cuts operational latency by directing complex prompts to specialized models."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google Cloud introduces lower intro prices for its Gemini 3.7 Flash models, including new 3.6 Flash and 3.5 Flash-Lite variants. This move aims to attract a wider developer base and stimulate broad adoption across enterprises."
+                "headline": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
+                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
+                "visual_caption": "Databricks raised $5B in capital and acquired Electric to embed PostgreSQL into autonomous applications. The integration provides resilient local data persistence for distributed agent systems."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
-                "teaserTitle": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
-                "visual_caption": "Microsoft slashes prices for its coding AI models to stay competitive in the evolving developer tools landscape. These reductions aim to increase adoption by over 30% for AI-powered coding assistants."
+                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
+                "teaserTitle": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
+                "visual_caption": "DeepSeek increased select V4 token prices by over 10x to counter intense server capacity constraints. Developers are now utilizing multi-model routing and cache discounts to optimize budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
-                "teaserTitle": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
-                "visual_caption": "Grok launched its 4.6 AI model, aggressively undercutting rival pricing in the LLM market. This offers a 15-20% lower cost-per-token for high-volume inference tasks."
+                "headline": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
+                "teaserTitle": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
+                "visual_caption": "Nvidia joined major financial institutions to launch financing platforms mobilizing over $500B. The capital will fund global data center builds and dedicated energy infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
-                "teaserTitle": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
-                "visual_caption": "Jane Street suffered a $15B loss, attributed to a meltdown in Situational Awareness' AI trading systems. This incident highlights extreme risks from over-reliance on autonomous AI in financial markets."
+                "headline": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
+                "teaserTitle": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
+                "visual_caption": "AMD and Anthropic announced a partnership to deploy up to 2GW of Instinct MI450 GPUs. The rollout broadens hardware options across large-scale model training clusters."
             },
             {
                 "slide_index": 7,
-                "headline": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Black Hat NOC warns of rising AI security failures, noting a 25% increase in related cyber incidents. Enterprises must prioritize AI-native security to protect against new attack vectors."
+                "headline": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Oracle Cloud is integrating Quantinuum's Helios quantum processor to enable hybrid quantum computing. The service delivers high-performance acceleration for advanced materials discovery and complex simulations."
             },
             {
                 "slide_index": 8,

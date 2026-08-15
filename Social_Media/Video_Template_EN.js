@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
+        "hookTitle": "IBM EXPANDS OPENAI ENTERPRISE ALLIANCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
-                "teaserTitle": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+                "headline": "IBM: FRONTIER OPENAI CONSULTING ALLIANCE",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI rolls out significant enhancements for its GPT-5.6 model and expands its Daybreak cybersecurity platform. These updates boost frontier AI intelligence and fortify defense mechanisms against emerging cyber threats."
+                "narration_line": "IBM has partnered with OpenAI to embed frontier models and specialized engineers into consulting services. The alliance aims to accelerate enterprise artificial intelligence deployments and modernize production workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
+                "headline": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
+                "teaserTitle": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia has reportedly downsized its substantial two hundred fifty billion dollar guarantee for OpenAI's data center buildout. This recalibration could impact OpenAI's planned GPU cluster deployments and future model training timelines."
+                "narration_line": "Nvidia introduced NeMo Switchyard and Nemotron three point five for dynamic multi-model routing. The framework cuts operational latency by directing complex prompts to specialized models."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
+                "headline": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
+                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduces lower introductory prices for its Gemini 3.7 Flash models, including new 3.6 Flash and 3.5 Flash-Lite variants. This move aims to attract a wider developer base and stimulate broad adoption across enterprises."
+                "narration_line": "Databricks raised five billion dollars in capital and acquired Electric to embed PostgreSQL into autonomous applications. The integration provides resilient local data persistence for distributed agent systems."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
-                "teaserTitle": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
+                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
+                "teaserTitle": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft has slashed prices for its coding AI models to stay competitive in the evolving developer tools landscape. These reductions aim to increase adoption by over thirty percent for AI-powered coding assistants."
+                "narration_line": "DeepSeek increased select V4 token prices by over ten times to counter intense server capacity constraints. Developers are now utilizing multi-model routing and cache discounts to optimize budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
-                "teaserTitle": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
+                "headline": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
+                "teaserTitle": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Grok launched its 4.6 AI model, aggressively undercutting rival pricing in the large language model market. This offers a fifteen to twenty percent lower cost-per-token for high-volume inference tasks."
+                "narration_line": "Nvidia joined major financial institutions to launch financing platforms mobilizing over five hundred billion dollars. The capital will fund global data center builds and dedicated energy infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
-                "teaserTitle": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
+                "headline": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
+                "teaserTitle": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Jane Street suffered a fifteen billion dollar loss, attributed to a meltdown in Situational Awareness' AI trading systems. This incident highlights extreme risks from over-reliance on autonomous AI in financial markets."
+                "narration_line": "AMD and Anthropic announced a partnership to deploy up to two gigawatts of Instinct MI four fifty graphics processors. The rollout broadens hardware options across large-scale model training clusters."
             },
             {
                 "slide_index": 7,
-                "headline": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "The Black Hat Network Operations Center warns of rising AI security failures, noting a twenty-five percent increase in related cyber incidents. Enterprises must prioritize AI-native security to protect against new attack vectors."
+                "narration_line": "Oracle Cloud is integrating Quantinuum's Helios quantum processor to enable hybrid quantum computing. The service delivers high-performance acceleration for advanced materials discovery and complex simulations."
             },
             {
                 "slide_index": 8,
