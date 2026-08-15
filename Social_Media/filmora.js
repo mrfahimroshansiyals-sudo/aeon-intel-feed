@@ -4,51 +4,56 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
-                "teaserTitle": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
-                "visual_caption": "OpenAI officially launches GPT-5.6 frontier model for enterprise AI. Model features improved performance and robust safety protocols for complex reasoning."
+                "headline": "OPENAI: LEADERSHIP UPHEAVAL AMID IPO PUSH",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "OpenAI faces significant leadership turmoil and executive departures as it targets an aggressive IPO. This internal shift introduces strategic uncertainty for its upcoming market debut and operational stability."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
-                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment. Frontier models integrated into IBM consulting, with specialized engineers for rapid adoption."
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "NVIDIA: EYES SOFTBANK $3B AI DATA CENTER DEAL",
+                "visual_caption": "Mistral AI launches Shieldstral, a new solution empowering sovereign AI capabilities within national infrastructures. This enables greater control over sensitive data processing for EU governments and enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "headline": "NVIDIA: EYES SOFTBANK $3B AI DATA CENTER DEAL",
+                "teaserTitle": "GOOGLE DEEPMIND: LAUNCHES GEMINI 3.7 FLASH MODEL",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "NVIDIA discloses $21B equity stake in SpaceX. Investment merges advanced AI with space tech, leveraging satellites for future compute."
+                "visual_caption": "NVIDIA eyes a $3B investment in SoftBank\u2019s SB Energy to support new AI data center infrastructure. This funding aims to bolster compute capacity essential for advanced AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "AZURE: NEW PLATFORMS FOR AI AGENTS",
-                "visual_caption": "Google Cloud launches 'AI Threat Defense' for enhanced cybersecurity. The AI-powered system detects and neutralizes threats, boosting cloud security."
+                "headline": "GOOGLE DEEPMIND: LAUNCHES GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES MAJOR ENFORCEMENT HIRING",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Google DeepMind officially launches its Gemini 3.7 Flash model, offering enhanced efficiency for developers. This new model reduces computational costs, allowing for more widespread and accessible generative AI applications."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: NEW PLATFORMS FOR AI AGENTS",
-                "teaserTitle": "DEEPSEEK: RAISES V4 PRICES 10X AMID DEMAND",
-                "visual_caption": "Azure launches 'IQ Connect' and 'Foundry' for AI agent deployment. New platforms optimize agent workflows with secure context and governance."
+                "headline": "EU AI ACT: OFFICE ANNOUNCES MAJOR ENFORCEMENT HIRING",
+                "teaserTitle": "DATABRICKS: NEARS IPO AFTER $5B FUNDING ROUND",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "The EU AI Office announces a major hiring initiative for 40 new technical and legal positions. This expansion strengthens the enforcement and oversight capabilities of the landmark EU AI Act."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: RAISES V4 PRICES 10X AMID DEMAND",
-                "teaserTitle": "IEEE SPECTRUM: AI CAN DESIGN FUNCTIONAL VIRUSES",
-                "visual_caption": "DeepSeek raises V4 model prices over 10x due to strained AI capacity. Hikes signal intense demand and rising operational costs for frontier models."
+                "headline": "DATABRICKS: NEARS IPO AFTER $5B FUNDING ROUND",
+                "teaserTitle": "OSAI: PROPOSES SAFE AI CYBERSECURITY GUIDELINES",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Databricks is nearing its IPO after securing $5B in new funding. This capital injection positions the company for further growth and market expansion in enterprise AI solutions."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: AI CAN DESIGN FUNCTIONAL VIRUSES",
+                "headline": "OSAI: PROPOSES SAFE AI CYBERSECURITY GUIDELINES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AI models can now design functional viruses, posing dual medical and biosecurity implications. Urgent global dialogues on AI governance and safety protocols are critical."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "The Open Secure AI Alliance proposes new SAFE guidelines to enhance cybersecurity transparency for AI systems. These recommendations aim to improve the robustness of agentic AI against emerging threats."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
