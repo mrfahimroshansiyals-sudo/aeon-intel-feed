@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: ALTMAN READIES IPO PUSH AMID UPHEAVAL",
-                "teaserTitle": "NVIDIA UNVEILS NEW AI AGENT TOOLS",
-                "visual_caption": "OpenAI reportedly prepares for an IPO amid executive exits & safety team changes. This move seeks to secure significant capital for frontier model development & expansion."
+                "headline": "ANTHROPIC: REPORTS Q2 REVENUE JUMP TO $11.5B",
+                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "visual_caption": "Anthropic's Q2 revenue reportedly surged to over $11.5B. This substantial financial growth indicates strong enterprise adoption of its Claude AI models."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: UNVEILS NEMOTRON 3.5 & NEMO SWITCHYARD",
-                "teaserTitle": "DEEPSEEK V4 API PRICES INCREASE",
-                "visual_caption": "NVIDIA launches Nemotron 3.5 Lightning & NeMo Switchyard for faster, smarter agentic AI systems. These tools optimize model routing & accelerate complex multi-step agent workflows."
+                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "teaserTitle": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "visual_caption": "OpenAI's CFO confirms enterprise revenue now surpasses its consumer business. This strategic shift validates its focus on B2B AI solutions."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPSEEK: V4 API PRICES INCREASE OVER 10X",
-                "teaserTitle": "MICROSOFT SLASHES CODING MODEL PRICING",
-                "visual_caption": "DeepSeek's V4 API prices increase >10X for some tiers due to high AI demand & capacity strain. This impacts developers using high-volume DeepSeek AI applications."
+                "headline": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
+                "visual_caption": "IBM and OpenAI have partnered to accelerate enterprise AI deployment. This collaboration offers businesses integrated frontier models and consulting services."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICING",
-                "teaserTitle": "IBM SECURES $240M NVIDIA AI CLUSTER DEAL",
-                "visual_caption": "Microsoft slashes AI coding model prices to boost competitiveness & developer adoption. These cuts incentivize broader use in code generation & automated testing workflows."
+                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
+                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+                "visual_caption": "Google slashed its Gemini 3.7 Flash API pricing. This move intensifies the AI model pricing war, benefiting developers and enterprises."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM: $240M NVIDIA AI CLUSTER DEAL SECURED",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "visual_caption": "IBM secures $240M deal for a new NVIDIA AI cluster, expanding its compute capabilities. This investment accelerates complex AI workloads & enhances IBM's enterprise AI services."
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "visual_caption": "NVIDIA has disclosed a $21B stake in SpaceX. This investment signals potential synergy between AI hardware and the space sector."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "IEEE AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
-                "visual_caption": "Databricks acquires Electric, integrating local PostgreSQL databases to bolster its agentic app platform. This enables developers to build more robust, data-intensive AI agents."
+                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "teaserTitle": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
+                "visual_caption": "The EU AI Office launched a major hiring drive for 40 new positions. This expands its capacity for enforcing the AI Act."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE: AI DESIGNS FUNCTIONAL VIRUSES BREAKTHRU",
+                "headline": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "IEEE research shows AI can design functional viral genomes, raising biosecurity & ethical concerns. This highlights the critical need for AI misuse prevention & safeguards."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Black Hat's NOC observed firsthand AI security failures. These incidents highlight critical vulnerabilities in current AI deployments."
             },
             {
                 "slide_index": 8,
