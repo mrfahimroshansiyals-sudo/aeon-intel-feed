@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 SCALES WITH AMBITION",
+        "hookTitle": "DEEPMIND INTRODUCES GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launches GPT-5.6, enhancing frontier intelligence for complex enterprise workloads. This model promises a 15 percent efficiency boost for coding and 20 percent latency reduction in conversational AI, accelerating development cycles."
+                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, its latest AI model, enhancing coding and agentic application capabilities. This advanced model promises faster inference times and greater efficiency for complex tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
-                "teaserTitle": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "NVIDIA: OPENS INDONESIA AI CENTER",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google Cloud introduces Gemini 3.6 Flash and other new Flash models for high-speed AI. They offer 30 percent faster inference and a 40 percent cost reduction, enabling broader AI deployment."
+                "narration_line": "OpenAI expands its Daybreak cyber defense initiative, addressing a narrowing window for proactive cybersecurity. This integration targets advanced threat intelligence systems to rapidly neutralize sophisticated cyber-attacks."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
-                "teaserTitle": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+                "headline": "NVIDIA: OPENS INDONESIA AI CENTER",
+                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind\u2019s WeatherNext AI has achieved a breakthrough in cyclone forecasting. The model predicts cyclone trajectories up to 72 hours in advance with superior accuracy, enhancing global disaster preparedness."
+                "narration_line": "NVIDIA, Indosat, and Universitas Gadjah Mada have opened Indonesia\u2019s first university AI Center. This provides state-of-the-art compute infrastructure, fostering local AI talent and regional innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
-                "teaserTitle": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
+                "teaserTitle": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Microsoft Azure introduces new AMD-powered AI and HPC virtual machines, expanding its robust infrastructure. These VMs offer up to 2.5 times faster training times, accelerating demanding AI and computing workloads."
+                "narration_line": "Mistral AI introduces Shieldstral, a new platform offering in-region inference and sovereign AI infrastructure for Europe. This enhances data control and reduces latency for compliance-driven industries."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "headline": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
+                "teaserTitle": "DEEPSEEK: RAISES V4 MODEL PRICING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment. This collaboration integrates OpenAI's models into IBM's consulting, projected to reduce deployment cycles by 30 to 40 percent."
+                "narration_line": "Microsoft Azure unveils IQ Connect, a new service providing AI agents with complete, shared business context. This securely links agents to enterprise systems and data, improving reasoning and task accuracy."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
+                "headline": "DEEPSEEK: RAISES V4 MODEL PRICING",
+                "teaserTitle": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases into agentic AI applications. This move enhances real-time performance and autonomy for AI agents, simplifying data architectures."
+                "narration_line": "DeepSeek has raised V4 model prices over tenfold, reflecting intense demand straining AI compute capacity. This adjustment highlights rising operational costs and the premium placed on high-performance AI."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
+                "headline": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "IEEE Spectrum reports cybercriminals exploit AI hallucinations for sophisticated phishing and disinformation attacks. This new vector has increased successful phishing campaigns by 20 percent, amplifying cyber threats."
+                "naration_line": "The Black Hat NOC reports a disturbing rise in AI security failures as AI adoption accelerates. This trend highlights critical emergent challenges in securing AI deployments and enterprise systems."
             },
             {
                 "slide_index": 8,

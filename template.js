@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES WITH",
-        "titleBlue": "AMBITION",
-        "footerSummary": "New AI model iterations and infrastructure expansions signal the latest tech advancements, while critical challenges emerge in AI security and responsible enterprise integration."
+        "titleWhite": "INTRODUCES GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "DeepMind's new Gemini 3.7 Flash model arrives, enhancing coding and agentic AI capabilities, while critical infrastructure and security updates shape the enterprise AI landscape."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
+            "heading": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
             "points": [
-                "OpenAI has released GPT-5.6, touted as its new frontier intelligence model designed to scale with enterprise ambitions and complex workloads. This iteration focuses on enhanced capabilities for sophisticated agentic systems and deep reasoning tasks.",
-                "The model promises significant improvements in performance, with reported benchmarks indicating a 15% increase in efficiency for coding tasks and a 20% reduction in latency for conversational AI. It is designed to handle multi-modal inputs with greater accuracy.",
-                "Architecturally, GPT-5.6 integrates advanced self-correction mechanisms and a modular design, allowing for more flexible deployment and fine-tuning across diverse industry verticals. It targets use cases requiring high precision and reliability.",
-                "Stakeholders can anticipate accelerated development cycles for AI-powered products and services, with a clear pathway to leverage more powerful and efficient models. This release sets a new standard for scalability in generative AI applications."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, its latest workhorse AI model, engineered for enhanced capabilities in coding and agentic applications. This release signals a strategic push to advance flexible and powerful AI systems.",
+                "The 3.7 Flash model builds on previous iterations, prioritizing faster inference times and greater efficiency for complex multi-step tasks. It targets developers and enterprises seeking to deploy advanced AI solutions at scale.",
+                "Architecturally, the model is designed to support the next generation of autonomous agents and coding assistants, integrating seamlessly into Google's developer ecosystem. This fosters rapid innovation in AI application development.",
+                "Stakeholders can leverage 3.7 Flash for more sophisticated AI-driven solutions, leading to optimized resource allocation and accelerated project completion. This lowers operational barriers for deploying cutting-edge AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+            "nextUpTease": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-15T11:42:00Z",
+                "Source: https://deepmind.google/discover/news",
+                "Published: 2026-08-15T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+            "heading": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
             "points": [
-                "Google Cloud announced the immediate availability of Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its suite of efficient, high-speed generative AI models. These models are tailored for diverse applications from general tasks to cybersecurity.",
-                "The new Flash models prioritize speed and cost-effectiveness, offering up to 30% faster inference times and a 40% reduction in operational costs compared to previous versions for specific use cases. This significantly lowers the barrier to deploying advanced AI.",
-                "This strategic expansion reinforces Google's commitment to providing flexible AI solutions, allowing enterprises to optimize resource allocation for specific tasks without compromising performance. It aims to accelerate adoption across various sectors.",
-                "Developers and businesses can now implement highly specialized AI agents with greater efficiency, driving innovation in areas like real-time analytics, automated customer support, and advanced threat detection. This positions Google Cloud as a versatile AI provider."
+                "OpenAI is expanding its Daybreak cyber defense initiative, responding to a narrowing window for proactive cybersecurity measures against evolving AI threats. This enhances detection and response capabilities for advanced attacks.",
+                "The expansion focuses on integrating new AI-powered anomaly detection and threat intelligence systems, designed to identify and neutralize sophisticated cyber-attacks more rapidly. This reduces potential breach impact.",
+                "Strategically, Daybreak aims to protect AI systems themselves from adversarial attacks and misuse, ensuring model integrity and data security for enterprise deployments. This bolsters trust in AI applications.",
+                "Organizations relying on OpenAI's models can expect strengthened security postures and more resilient AI infrastructure, mitigating risks associated with emerging cyber vulnerabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
+            "nextUpTease": "NVIDIA: OPENS INDONESIA AI CENTER",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-                "Published: 2026-08-15T10:00:00Z",
+                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-14T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
+            "heading": "NVIDIA: OPENS INDONESIA AI CENTER",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, demonstrating superior accuracy and speed in predicting severe weather events. This advancement could revolutionize disaster preparedness globally.",
-                "The model can predict cyclone trajectories with up to 72 hours lead time, surpassing traditional numerical weather prediction models in both resolution and real-time processing capability. This enhances early warning systems crucial for public safety.",
-                "This innovation highlights the transformative potential of AI in scientific research and critical infrastructure, demonstrating how machine learning can tackle complex environmental challenges with unprecedented precision.",
-                "Governments, emergency services, and climate research institutions will gain a powerful tool for mitigating the impact of natural disasters, potentially saving lives and significantly reducing economic losses associated with extreme weather."
+                "NVIDIA, in partnership with Universitas Gadjah Mada and Indosat, has launched Indonesia\u2019s first university AI Center, a major step toward developing local AI talent and fostering regional innovation.",
+                "This initiative provides state-of-the-art NVIDIA compute infrastructure and educational resources, aiming to train a new generation of AI professionals. It enhances the country's AI ecosystem and digital economy.",
+                "Strategically, the center will serve as a hub for advanced AI research, application development, and industrial collaboration, addressing local challenges with AI-driven solutions. This strengthens global AI capabilities.",
+                "This investment signals NVIDIA's commitment to expanding AI accessibility and talent globally, providing critical support for emerging markets to harness the power of artificial intelligence."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+            "nextUpTease": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
             "tags": [
-                "Source: https://deepmind.google/discover/weather-next-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-                "Published: 2026-08-15T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/universitas-gadjah-mada-indosat-and-nvidia-open-indonesias-first-university-ai-center-to-develop-local-ai-talent",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
             "points": [
-                "Microsoft Azure has expanded its infrastructure by introducing new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, designed for demanding AI and technical computing workloads.",
-                "These new VM offerings provide significant performance uplift for deep learning, data inference, and high-performance computing tasks, with up to 2.5x faster training times reported for specific benchmarks.",
-                "The strategic partnership with AMD reinforces Azure's commitment to offering diverse and powerful compute options, enabling customers to select optimal hardware for their specific AI and HPC requirements.",
-                "Enterprises and researchers can now accelerate their most intensive AI initiatives, reducing time-to-insight and improving the scalability of complex simulations and model deployments."
+                "Mistral AI has introduced Shieldstral, a new platform designed to offer in-region inference, open models, and European infrastructure for sovereign AI solutions. This addresses data residency and privacy concerns.",
+                "Shieldstral provides enhanced data control and reduced latency by enabling AI inference within specific geographic regions. This is crucial for industries with strict regulatory compliance requirements.",
+                "The platform aligns with European initiatives for data sovereignty, allowing organizations to leverage advanced AI models while ensuring their data remains within secure, local infrastructures.",
+                "Enterprises in regulated sectors can now deploy Mistral AI's powerful models with greater confidence, securing sensitive data and meeting stringent compliance standards without compromising performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+            "nextUpTease": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-15T08:30:00Z",
+                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
+                "Published: 2026-08-15T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+            "heading": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership aimed at accelerating enterprise AI deployment, integrating OpenAI's frontier models into IBM's consulting services. This alliance will embed OpenAI-trained engineers directly into client engagements.",
-                "This collaboration is expected to streamline the adoption of advanced generative AI solutions across large organizations, reducing deployment cycles by an estimated 30-40% and enhancing solution customization.",
-                "The partnership signifies a major move to bridge the gap between cutting-edge AI research and practical enterprise application, leveraging IBM's extensive client base and industry expertise.",
-                "Businesses can anticipate a more direct and efficient path to integrate advanced AI capabilities into their operations, driving digital transformation and competitive advantage through tailored AI strategies."
+                "Microsoft Azure has introduced IQ Connect, a new service designed to provide agents with complete, shared context by securely connecting them to enterprise systems, data, and workflows.",
+                "IQ Connect aims to improve the reasoning and action capabilities of AI agents by feeding them real-time business context, reducing errors and enhancing the accuracy of automated tasks.",
+                "This architectural update streamlines the development and deployment of intelligent agents across the enterprise, fostering greater interoperability and data-driven decision-making.",
+                "Businesses can now build more sophisticated and reliable AI agents that act with a deeper understanding of operational nuances, leading to improved automation and efficiency across various functions."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "nextUpTease": "DEEPSEEK: RAISES V4 MODEL PRICING",
             "tags": [
-                "Source: https://www.cio.com/article/2144413/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T14:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "heading": "DEEPSEEK: RAISES V4 MODEL PRICING",
             "points": [
-                "Databricks has acquired Electric, a startup specializing in local PostgreSQL databases, to enhance its capabilities in building and deploying agentic AI applications. This move strengthens Databricks' data management offerings.",
-                "The acquisition will enable seamless integration of robust, embeddable data storage directly within AI agents, improving their real-time performance and autonomy by minimizing external data dependencies.",
-                "This strategic purchase underscores the increasing importance of integrated data solutions for agentic AI, allowing for more distributed and efficient AI operations at the edge and within specialized applications.",
-                "Developers working on agentic AI will benefit from simplified data architectures and improved performance, facilitating the creation of more intelligent and self-sufficient applications across various enterprise environments."
+                "DeepSeek has significantly increased pricing for its V4 models by over tenfold, signaling intense demand straining AI compute capacity across the industry. This reflects rising operational costs for advanced models.",
+                "The price adjustment impacts developers and enterprises utilizing DeepSeek's API, leading to increased costs for AI-powered applications and services. It underscores the premium on high-performance AI.",
+                "This development highlights a critical market trend: the soaring demand for AI models is pushing infrastructure to its limits, necessitating pricing strategies that balance access with resource sustainability.",
+                "Stakeholders must re-evaluate their AI operational budgets and consider multi-model routing or off-peak pricing strategies to manage rising expenses while maintaining AI performance levels."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
+            "nextUpTease": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710775/databricks-acquireshot-electric-to-bring-local-postgres-databases-to-agentic-apps.html",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://www.cio.com/article/2144415/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
+            "heading": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
             "points": [
-                "IEEE Spectrum reports that cybercriminals are increasingly exploiting AI hallucinations, using fabricated or misleading generative AI outputs to create sophisticated phishing, disinformation, and social engineering attacks.",
-                "This new threat vector amplifies the efficacy of cyberattacks, with preliminary reports indicating a 20% increase in successful phishing campaigns leveraging AI-generated deceptive content.",
-                "The strategic context highlights a critical emerging challenge in AI security, where the very capabilities of generative AI are being weaponized against users and systems.",
-                "Organizations must urgently develop advanced detection mechanisms and implement robust training to counter AI-powered deception, emphasizing the need for comprehensive AI ethics and security frameworks."
+                "The Black Hat Network Operations Center (NOC) has observed a disturbing trend of increased AI security failures, highlighting rising cyber risks as AI adoption accelerates.",
+                "NOC findings indicate that cyber-risk is significantly increasing due to new AI vulnerabilities and attack vectors. This necessitates urgent action from Chief Information Security Officers (CISOs).",
+                "This observation provides crucial architectural context regarding the emergent challenges in securing AI deployments, emphasizing the need for robust, proactive defense mechanisms.",
+                "Security leaders are urged to prioritize AI security frameworks, enhance detection capabilities, and implement stringent protocols to protect enterprise AI systems from exploitation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-hallucinations-crooks",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.techtarget.com/security/news/3710777/Black-Hat-NOC-sees-AI-security-failures-firsthand",
+                "Published: 2026-08-13T14:45:00Z",
                 "Status: Audited & True"
             ]
         }
