@@ -4,56 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: LEADERSHIP UPHEAVAL AMID IPO PUSH",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-                "visual_caption": "OpenAI faces significant leadership turmoil and executive departures as it targets an aggressive IPO. This internal shift introduces strategic uncertainty for its upcoming market debut and operational stability."
+                "headline": "OPENAI: GPT-5.6 SCALES WITH AMBITION",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "visual_caption": "OpenAI launches GPT-5.6, enhancing frontier intelligence for complex enterprise workloads. This model promises a 15% efficiency boost for coding and 20% latency reduction in conversational AI, accelerating development cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "NVIDIA: EYES SOFTBANK $3B AI DATA CENTER DEAL",
-                "visual_caption": "Mistral AI launches Shieldstral, a new solution empowering sovereign AI capabilities within national infrastructures. This enables greater control over sensitive data processing for EU governments and enterprises."
+                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "teaserTitle": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
+                "visual_caption": "Google Cloud introduces Gemini 3.6 Flash & other new Flash models for high-speed AI. They offer 30% faster inference & a 40% cost reduction, enabling broader AI deployment."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: EYES SOFTBANK $3B AI DATA CENTER DEAL",
-                "teaserTitle": "GOOGLE DEEPMIND: LAUNCHES GEMINI 3.7 FLASH MODEL",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "NVIDIA eyes a $3B investment in SoftBank\u2019s SB Energy to support new AI data center infrastructure. This funding aims to bolster compute capacity essential for advanced AI development."
+                "headline": "GOOGLE DEEPMIND: AI MODEL FORECASTS CYCLONES",
+                "teaserTitle": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+                "visual_caption": "Google DeepMind\u2019s WeatherNext AI has achieved a breakthrough in cyclone forecasting. The model predicts cyclone trajectories up to 72 hours in advance with superior accuracy, enhancing global disaster preparedness."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: LAUNCHES GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES MAJOR ENFORCEMENT HIRING",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google DeepMind officially launches its Gemini 3.7 Flash model, offering enhanced efficiency for developers. This new model reduces computational costs, allowing for more widespread and accessible generative AI applications."
+                "headline": "AZURE: NEW AMD AI/HPC VIRTUAL MACHINES",
+                "teaserTitle": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "visual_caption": "Microsoft Azure introduces new AMD-powered AI & HPC virtual machines, expanding its robust infrastructure. These VMs offer up to 2.5x faster training times, accelerating demanding AI & computing workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES MAJOR ENFORCEMENT HIRING",
-                "teaserTitle": "DATABRICKS: NEARS IPO AFTER $5B FUNDING ROUND",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "The EU AI Office announces a major hiring initiative for 40 new technical and legal positions. This expansion strengthens the enforcement and oversight capabilities of the landmark EU AI Act."
+                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_caption": "IBM & OpenAI announced a strategic partnership to accelerate enterprise AI deployment. This collaboration integrates OpenAI's models into IBM's consulting, projected to reduce deployment cycles by 30-40%."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: NEARS IPO AFTER $5B FUNDING ROUND",
-                "teaserTitle": "OSAI: PROPOSES SAFE AI CYBERSECURITY GUIDELINES",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Databricks is nearing its IPO after securing $5B in new funding. This capital injection positions the company for further growth and market expansion in enterprise AI solutions."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
+                "visual_caption": "Databricks acquired Electric to integrate local PostgreSQL databases into agentic AI apps. This move enhances real-time performance & autonomy for AI agents, simplifying data architectures."
             },
             {
                 "slide_index": 7,
-                "headline": "OSAI: PROPOSES SAFE AI CYBERSECURITY GUIDELINES",
+                "headline": "IEEE SPECTRUM: CROOKS LEVERAGE AI HALLUCINATIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The Open Secure AI Alliance proposes new SAFE guidelines to enhance cybersecurity transparency for AI systems. These recommendations aim to improve the robustness of agentic AI against emerging threats."
+                "visual_caption": "IEEE Spectrum reports cybercriminals exploit AI hallucinations for sophisticated phishing & disinformation attacks. This new vector has increased successful phishing campaigns by 20%, amplifying cyber threats."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
