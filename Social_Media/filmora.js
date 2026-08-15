@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SPACEX STAKE DISCLOSURE",
-                "teaserTitle": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "visual_caption": "Nvidia has disclosed a $21B stake in SpaceX to supply dedicated hardware for orbital data centers. This partnership secures long-term accelerated silicon demand across space and communications networks."
+                "headline": "OPENAI: GPT-5.6 ENTERPRISE ASCENSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "visual_caption": "OpenAI's CFO confirms GPT-5.6 enterprise revenue now exceeds consumer sales, marking a critical strategic pivot. This re-prioritization towards B2B solutions is actively fueling their anticipated IPO."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "teaserTitle": "JANE STREET: $15B TRADING DRAWDOWN",
-                "visual_caption": "IBM joined forces with OpenAI to embed frontier models and dedicated engineers into enterprise consulting services. The alliance delivers tailored agentic systems and automated infrastructure modernization for Fortune 500 clients."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+                "visual_caption": "Google DeepMind cut Gemini 3.7 Flash API token pricing. These cuts aim to attract developers, enhancing adoption in the competitive enterprise AI market."
             },
             {
                 "slide_index": 3,
-                "headline": "JANE STREET: $15B TRADING DRAWDOWN",
-                "teaserTitle": "DEEPSEEK: V4 API SURGE PRICING",
-                "visual_caption": "Jane Street suffered an estimated $15B loss linked to concentrated positions at Situational Awareness. The drawdown has triggered immediate risk reviews across Wall Street quantitative trading desks."
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+                "teaserTitle": "XAI: GROK 4.6 LAUNCH & PRICING",
+                "visual_caption": "Microsoft Azure expands infrastructure with new AMD-powered AI and HPC virtual machines. These VMs support demanding AI, data, and inference workloads for enterprise clients."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 API SURGE PRICING",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCH",
-                "visual_caption": "DeepSeek raised select V4 API token prices by more than 10x following severe server capacity bottlenecks. The provider launched off-peak pricing tiers to balance intense global developer traffic."
+                "headline": "XAI: GROK 4.6 LAUNCH & PRICING",
+                "teaserTitle": "EU AI ACT: OFFICE STAFFING DRIVE",
+                "visual_caption": "XAI launched Grok 4.6 with competitive pricing strategies to undercut rivals. This new model release intensifies the ongoing AI price war."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCH",
-                "teaserTitle": "DATABRICKS: ELECTRIC ACQUISITION",
-                "visual_caption": "Nvidia unveiled NeMo Switchyard alongside Nemotron 3.5 Lightning to provide intelligent multi-model routing. The system lowers operational inference costs by dynamically assigning queries to the most efficient model."
+                "headline": "EU AI ACT: OFFICE STAFFING DRIVE",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "visual_caption": "The EU AI Office initiated a significant hiring drive, adding 40 new positions. This expansion underscores the EU's commitment to strict AI Act implementation."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ELECTRIC ACQUISITION",
-                "teaserTitle": "AMD: OXFORD BOLD LAB EXPANSION",
-                "visual_caption": "Databricks acquired Electric to integrate embeddable Postgres databases into enterprise agentic applications. The architecture provides local low-latency storage while maintaining real-time synchronization with cloud data warehouses."
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+                "visual_caption": "Research in IEEE Spectrum shows AI can now design functional viruses, posing medical promise and security risks. Policymakers must address AI's dual-use biological capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: OXFORD BOLD LAB EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "AMD partnered with Oxford University's British Open-ended Learning and Discovery Lab to advance sovereign AI research. The deployment supplies Instinct hardware clusters for next-generation algorithmic development across the UK."
+                "headline": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Mistral AI introduced Shieldstral for in-region inference and sovereign AI needs. This platform prioritizes open models and robust European infrastructure."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA BACKS SPACEX IN 21 BILLION DOLLAR AI INFRASTRUCTURE PLAY",
+        "hookTitle": "GPT-5.6 ENTERPRISE ASCENSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SPACEX STAKE DISCLOSURE",
-                "teaserTitle": "IBM: OPENAI ENTERPRISE ALLIANCE",
+                "headline": "OPENAI: GPT-5.6 ENTERPRISE ASCENSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Nvidia has disclosed a twenty-one billion dollar stake in SpaceX to supply dedicated hardware for orbital data centers. This partnership secures long-term accelerated silicon demand across space and communications networks."
+                "narration_line": "OpenAI's CFO confirms that GPT-5.6 enterprise revenue now exceeds consumer sales, marking a critical strategic pivot. This re-prioritization towards B2B solutions is actively fueling their anticipated IPO."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "teaserTitle": "JANE STREET: $15B TRADING DRAWDOWN",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICE CUT",
+                "teaserTitle": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "IBM joined forces with OpenAI to embed frontier models and dedicated engineers into enterprise consulting services. The alliance delivers tailored agentic systems and automated infrastructure modernization for Fortune five hundred clients."
+                "narration_line": "Google DeepMind has significantly reduced API token pricing for its Gemini 3.7 Flash model. These price cuts are designed to attract more developers and enhance adoption in the fiercely competitive enterprise AI market."
             },
             {
                 "slide_index": 3,
-                "headline": "JANE STREET: $15B TRADING DRAWDOWN",
-                "teaserTitle": "DEEPSEEK: V4 API SURGE PRICING",
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI VM EXPANSION",
+                "teaserTitle": "XAI: GROK 4.6 LAUNCH & PRICING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Jane Street suffered an estimated fifteen billion dollar loss linked to concentrated positions at Situational Awareness. The drawdown has triggered immediate risk reviews across Wall Street quantitative trading desks."
+                "narration_line": "Microsoft Azure is expanding its infrastructure by adding new AMD-powered AI and HPC virtual machines. These powerful VMs will support demanding AI, data processing, and inference workloads for enterprise clients."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 API SURGE PRICING",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCH",
+                "headline": "XAI: GROK 4.6 LAUNCH & PRICING",
+                "teaserTitle": "EU AI ACT: OFFICE STAFFING DRIVE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DeepSeek raised select version four API token prices by more than ten times following severe server capacity bottlenecks. The provider launched off-peak pricing tiers to balance intense global developer traffic."
+                "narration_line": "XAI officially launched Grok 4.6 with competitive pricing strategies aimed at undercutting market rivals. This new model release intensifies the ongoing AI price war among leading generative AI providers."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCH",
-                "teaserTitle": "DATABRICKS: ELECTRIC ACQUISITION",
+                "headline": "EU AI ACT: OFFICE STAFFING DRIVE",
+                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Nvidia unveiled NeMo Switchyard alongside Nemotron three point five Lightning to provide intelligent multi-model routing. The system lowers operational inference costs by dynamically assigning queries to the most efficient model."
+                "narration_line": "The EU AI Office has initiated a significant hiring drive, adding forty new positions to strengthen its enforcement capabilities. This expansion underscores the European Union's commitment to strict implementation of the AI Act."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ELECTRIC ACQUISITION",
-                "teaserTitle": "AMD: OXFORD BOLD LAB EXPANSION",
+                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks acquired Electric to integrate embeddable Postgres databases into enterprise agentic applications. The architecture provides local low-latency storage while maintaining real-time synchronization with cloud data warehouses."
+                "narration_line": "New research in IEEE Spectrum indicates AI can now design functional viruses, posing both medical promise and security risks. Policymakers must address the dual-use nature of advanced AI biological capabilities immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: OXFORD BOLD LAB EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "MISTRAL AI: SHIELDSTRAL IN-REGION INFERENCE",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AMD partnered with Oxford University's British Open-ended Learning and Discovery Lab to advance sovereign AI research. The deployment supplies Instinct hardware clusters for next-generation algorithmic development across the United Kingdom."
+                "narration_line": "Mistral AI introduced Shieldstral, a new solution for in-region inference and sovereign AI needs. This platform prioritizes open models and robust European infrastructure, enhancing data governance for enterprises."
             },
             {
                 "slide_index": 8,
