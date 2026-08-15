@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EXECUTIVE TURMOIL & IPO",
-        "titleBlue": "DRIVE",
-        "footerSummary": "OpenAI faces internal leadership upheaval and an ethics lead exit while pushing for IPO, as enterprise revenue surpasses consumer."
+        "titleWhite": "SPACEX STAKE",
+        "titleBlue": "DISCLOSURE",
+        "footerSummary": "Nvidia secures a $21B stake in SpaceX to anchor AI compute contracts, as enterprise AI routing and pricing volatility accelerate."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: EXECUTIVE TURMOIL & IPO DRIVE",
+            "heading": "NVIDIA: SPACEX STAKE DISCLOSURE",
             "points": [
-                "OpenAI is experiencing significant internal upheaval, including the departure of its AI ethics lead, Chlo\u00e9 Bakalar, just one year after joining from Meta.",
-                "This leadership shift occurs as CEO Sam Altman prepares for a major IPO, with enterprise business revenue now surpassing its consumer segment.",
-                "The combined internal discord and strategic market moves signal a critical phase for the company\u2019s governance and long-term vision.",
-                "Stakeholders face increased scrutiny over the company\u2019s stability and its ability to balance rapid growth with ethical AI development."
+                "Nvidia officially disclosed a $21B equity stake in SpaceX in its latest Q2 regulatory filings.",
+                "The investment formalizes an exclusive hardware agreement to outfit next-generation orbital and terrestrial data centers.",
+                "The transaction tightly couples Nvidia accelerated computing architecture with orbital communications infrastructure.",
+                "Enterprise investors anticipate dedicated orbital compute nodes will shift sovereign AI data pipeline economics."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
+            "nextUpTease": "IBM: OPENAI ENTERPRISE ALLIANCE",
             "tags": [
-                "Source: https://www.ft.com/technology/openai-upheaval-ipo",
-                "Published: 2026-08-15T13:00:00Z",
+                "Source: https://www.ft.com/technology/nvidia-spacex-stake-21bn",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
+            "heading": "IBM: OPENAI ENTERPRISE ALLIANCE",
             "points": [
-                "Google DeepMind and Cloud have introduced Gemini 3.7 Flash, along with 3.6 Flash, 3.5 Flash-Lite, and Nano Banana 2 Lite models.",
-                "The new Gemini Flash models are being offered at lower introductory prices to attract developers, reflecting a competitive AI pricing strategy.",
-                "This expansion aims to provide a broader range of intelligent workhorse models for coding and agents, suitable for various enterprise applications.",
-                "Developers gain more cost-effective options for building AI agents, enhancing the accessibility and adoption of Google's AI ecosystem."
+                "IBM signed an expansive partnership with OpenAI to integrate frontier foundation models into enterprise consulting.",
+                "OpenAI forward-deployed engineers will embed directly into IBM client transformation teams across global accounts.",
+                "The integration focuses on scaling custom AI workflow orchestration and legacy architecture modernization.",
+                "CIOs gain turnkey enterprise deployments backed by IBM governance and OpenAI's proprietary model stack."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
+            "nextUpTease": "JANE STREET: $15B TRADING DRAWDOWN",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://www.cio.com/article/350123/ibm-partners-with-openai-enterprise-ai.html",
+                "Published: 2026-08-14T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
+            "heading": "JANE STREET: $15B TRADING DRAWDOWN",
             "points": [
-                "Microsoft Azure launched new platforms, Microsoft IQ and Microsoft Foundry, designed to build, run, and govern production AI agents at scale.",
-                "Azure infrastructure has expanded with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7) for demanding workloads.",
-                "These developments provide secure, shared context for agents and high-performance compute, unifying AI, data, and business context across enterprises.",
-                "Enterprises can deploy intelligent apps and agents more efficiently, leveraging advanced silicon for deep learning and high-performance computing."
+                "Jane Street Capital reported an estimated $15B portfolio drawdown following volatility at Situational Awareness.",
+                "The losses stem from concentrated quantitative positions in high-valuation AI infrastructure and memory equities.",
+                "Risk management desks across Wall Street are reassessing algorithmic leverage applied to synthetic tech derivatives.",
+                "Institutional capital markets face tighter margin constraints across speculative artificial intelligence asset allocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "nextUpTease": "DEEPSEEK: V4 API SURGE PRICING",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq/",
-                "Published: 2026-08-14T17:30:00Z",
+                "Source: https://www.ft.com/technology/jane-street-15bn-situational-awareness-loss",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "heading": "DEEPSEEK: V4 API SURGE PRICING",
             "points": [
-                "Google Cloud has introduced AI Threat Defense, a new security product designed to help organizations outpace evolving cyber adversaries.",
-                "This system leverages advanced AI capabilities to enhance threat detection, analysis, and response across cloud environments.",
-                "The launch addresses the growing need for specialized security solutions as AI adoption introduces new vectors for cyber-risk.",
-                "Enterprises can bolster their cybersecurity posture with AI-powered defenses, mitigating potential threats to their digital infrastructure and data."
+                "DeepSeek raised API token pricing on select V4 endpoints by over 10x due to sustained server strain.",
+                "The developer platform introduced aggressive off-peak discounting and caching rebates to manage throughput.",
+                "Extreme global compute demand is exposing structural API capacity limits among low-cost inference providers.",
+                "Engineering teams are deploying dynamic multi-model routers to prevent sudden enterprise cloud margin erosion."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
+            "nextUpTease": "NVIDIA: NEMO SWITCHYARD LAUNCH",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-google-ai-threat-defense/",
-                "Published: 2026-08-14T16:00:00Z",
+                "Source: https://www.infoworld.com/article/360456/deepseek-v4-prices-capacity-surge.html",
+                "Published: 2026-08-14T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
+            "heading": "NVIDIA: NEMO SWITCHYARD LAUNCH",
             "points": [
-                "Grok 4.6 has been released, entering the market with a pricing strategy designed to undercut existing AI rivals.",
-                "This model aims to offer competitive capabilities at a more accessible cost, intensifying the ongoing price war among frontier AI providers.",
-                "The strategic pricing reflects a move to capture market share and challenge established players in the rapidly evolving LLM landscape.",
-                "Developers and enterprises may find new cost-benefit advantages, influencing their choice of foundational models for various applications."
+                "Nvidia released NeMo Switchyard alongside Nemotron 3.5 Lightning to optimize agentic LLM routing.",
+                "The open routing architecture dynamically selects models based on token cost, operational latency, and task accuracy.",
+                "The software framework targets enterprise agent deployments requiring multi-model orchestration at scale.",
+                "Enterprises can cut model inference expenditure by routing routine queries to specialized lightweight architectures."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
+            "nextUpTease": "DATABRICKS: ELECTRIC ACQUISITION",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals/",
-                "Published: 2026-08-13T20:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nemotron-lightning-nemo-switchyard-agentic-ai",
+                "Published: 2026-08-14T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
+            "heading": "DATABRICKS: ELECTRIC ACQUISITION",
             "points": [
-                "The Black Hat Network Operations Center (NOC) observed firsthand AI security failures, highlighting a disturbing trend of rising cyber-risk with AI adoption.",
-                "Insights from the NOC indicate that as AI systems proliferate, new vulnerabilities and attack vectors are emerging, posing significant threats.",
-                "This real-world observation underscores the critical need for CISOs to implement robust AI security frameworks and incident response protocols.",
-                "Organizations must prioritize proactive cyber-risk mitigation strategies to safeguard their AI deployments and prevent potential breaches."
+                "Databricks completed the acquisition of Electric to embed local, synchronized PostgreSQL into agentic applications.",
+                "The platform enables autonomous AI agents to execute local reads and writes with instant cloud data replication.",
+                "The transaction follows Databricks' recent $5B funding round as it prepares for an enterprise IPO.",
+                "Software architects gain zero-latency data access layers crucial for building responsive offline-first AI agents."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
+            "nextUpTease": "AMD: OXFORD BOLD LAB EXPANSION",
             "tags": [
-                "Source: https://www.techtarget.com/searchsecurity/news/366571089/Black-Hat-NOC-sees-AI-security-failures-firsthand",
-                "Published: 2026-08-13T19:00:00Z",
+                "Source: https://www.techtarget.com/searchdatamanagement/news/366571120/databricks-acquires-electric-agentic-postgres",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
+            "heading": "AMD: OXFORD BOLD LAB EXPANSION",
             "points": [
-                "Nvidia has downsized its previously announced $250 billion guarantee for OpenAI data center buildouts, signaling a reassessment of its investment plans.",
-                "This adjustment indicates a shift in capital commitment, potentially reflecting evolving market dynamics or revised strategic priorities between the entities.",
-                "The downsizing affects the large-scale compute infrastructure expansion anticipated for OpenAI, impacting future capacity and growth trajectories.",
-                "The decision may lead to re-evaluation of investment pipelines in AI compute, with implications for supply chain stability and development timelines."
+                "AMD announced a strategic partnership with the British Open-ended Learning and Discovery Lab at Oxford University.",
+                "The collaboration deploys high-density AMD Instinct compute clusters to power autonomous frontier AI research.",
+                "The initiative accelerates non-traditional reasoning models and open-ended multi-agent research environments.",
+                "The alliance solidifies AMD's presence across elite European research institutions competing in foundational AI."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.wsj.com/articles/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center",
-                "Published: 2026-08-15T08:00:00Z",
+                "Source: https://www.amd.com/en/corporate/newsroom/press-releases/2026-08-12-oxford-bold-lab-partnership.html",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         }

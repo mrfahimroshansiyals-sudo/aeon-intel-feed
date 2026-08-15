@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI EXECUTIVE TURMOIL & IPO DRIVE",
+        "hookTitle": "NVIDIA BACKS SPACEX IN 21 BILLION DOLLAR AI INFRASTRUCTURE PLAY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXECUTIVE TURMOIL & IPO DRIVE",
-                "teaserTitle": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
+                "headline": "NVIDIA: SPACEX STAKE DISCLOSURE",
+                "teaserTitle": "IBM: OPENAI ENTERPRISE ALLIANCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI faces significant executive turmoil and an ethics lead exit, as its CFO confirms enterprise revenue now exceeds consumer earnings. This internal upheaval occurs while the company prepares for a major initial public offering."
+                "narration_line": "Nvidia has disclosed a twenty-one billion dollar stake in SpaceX to supply dedicated hardware for orbital data centers. This partnership secures long-term accelerated silicon demand across space and communications networks."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
-                "teaserTitle": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
+                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
+                "teaserTitle": "JANE STREET: $15B TRADING DRAWDOWN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google has released new Gemini Flash models, including 3.7 Flash and 3.6 Flash, expanding its intelligent workhorse AI portfolio. These models are priced competitively to attract developers and accelerate adoption."
+                "narration_line": "IBM joined forces with OpenAI to embed frontier models and dedicated engineers into enterprise consulting services. The alliance delivers tailored agentic systems and automated infrastructure modernization for Fortune five hundred clients."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "headline": "JANE STREET: $15B TRADING DRAWDOWN",
+                "teaserTitle": "DEEPSEEK: V4 API SURGE PRICING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure launched new agent platforms, IQ and Foundry, enhancing enterprise AI agent development and governance. Azure also expanded infrastructure with new AMD-powered AI and HPC virtual machines."
+                "narration_line": "Jane Street suffered an estimated fifteen billion dollar loss linked to concentrated positions at Situational Awareness. The drawdown has triggered immediate risk reviews across Wall Street quantitative trading desks."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
-                "teaserTitle": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
+                "headline": "DEEPSEEK: V4 API SURGE PRICING",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCH",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Google Cloud unveiled AI Threat Defense, a new security product designed to proactively counter evolving cyber adversaries. This system utilizes advanced AI to boost threat detection and response capabilities for cloud environments."
+                "narration_line": "DeepSeek raised select version four API token prices by more than ten times following severe server capacity bottlenecks. The provider launched off-peak pricing tiers to balance intense global developer traffic."
             },
             {
                 "slide_index": 5,
-                "headline": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
-                "teaserTitle": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
+                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCH",
+                "teaserTitle": "DATABRICKS: ELECTRIC ACQUISITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Grok 4.6 has been released with an aggressive pricing strategy, aiming to undercut existing AI rivals in the market. This move intensifies the competitive landscape among frontier large language model providers."
+                "narration_line": "Nvidia unveiled NeMo Switchyard alongside Nemotron three point five Lightning to provide intelligent multi-model routing. The system lowers operational inference costs by dynamically assigning queries to the most efficient model."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
-                "teaserTitle": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
+                "headline": "DATABRICKS: ELECTRIC ACQUISITION",
+                "teaserTitle": "AMD: OXFORD BOLD LAB EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Black Hat Network Operations Center identified critical AI security failures, revealing a concerning rise in cyber-risk with AI integration. These observations highlight the urgent need for robust security frameworks."
+                "narration_line": "Databricks acquired Electric to integrate embeddable Postgres databases into enterprise agentic applications. The architecture provides local low-latency storage while maintaining real-time synchronization with cloud data warehouses."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AMD: OXFORD BOLD LAB EXPANSION",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Nvidia has downsized its $250 billion guarantee for OpenAI data center buildouts, reflecting a re-evaluation of its major infrastructure investment. This adjustment signals shifting strategic priorities in AI compute."
+                "narration_line": "AMD partnered with Oxford University's British Open-ended Learning and Discovery Lab to advance sovereign AI research. The deployment supplies Instinct hardware clusters for next-generation algorithmic development across the United Kingdom."
             },
             {
                 "slide_index": 8,
