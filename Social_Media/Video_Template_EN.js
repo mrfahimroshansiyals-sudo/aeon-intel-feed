@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DEEPMIND UNVEILS GEMINI 3.7 FLASH",
+        "hookTitle": "OPENAI LAUNCHES GPT-5.6 FRONTIER MODEL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "teaserTitle": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, its most intelligent model for coding and agents. This advanced iteration boosts performance across complex programming tasks, offering significant speed and accuracy."
+                "narration_line": "OpenAI has officially launched its GPT-5.6 frontier model, marking a significant advancement for enterprise AI applications. This model offers improved performance and robust safety protocols, enabling more complex reasoning tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE",
+                "headline": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
+                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mistral AI launches Shieldstral, an initiative for in-region inference and sovereign AI within Europe. It provides secure, localized AI deployment options, reducing data egress risks and ensuring regulatory compliance."
+                "narration_line": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment, integrating frontier models into IBM consulting services. This collaboration provides specialized engineering expertise for rapid AI adoption."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE",
-                "teaserTitle": "AZURE: EXPANDS AI INFRASTRUCTURE WITH AMD HPC VM'S",
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Anthropic reportedly earned over $11.5 billion in revenue during Q2 2026, showcasing significant market adoption. This financial milestone demonstrates strong enterprise demand for Claude models, reflecting rapid scaling and market penetration."
+                "narration_line": "NVIDIA disclosed a $21 billion equity stake in SpaceX, highlighting a strategic investment in space technology and AI compute synergies. This move connects advanced AI with satellite applications for future infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: EXPANDS AI INFRASTRUCTURE WITH AMD HPC VM'S",
-                "teaserTitle": "EU AI ACT: LAUNCHES HUGE HIRING FOR ENFORCEMENT",
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "AZURE: NEW PLATFORMS FOR AI AGENTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure expands its AI and HPC virtual machine infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 series. These VMs provide enhanced performance for demanding AI and technical computing workloads, boosting efficiency."
+                "narration_line": "Google Cloud introduced 'AI Threat Defense,' a new security offering using advanced AI to outpace cyber adversaries. This system provides AI-powered analytics and automated responses, enhancing cloud security postures."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI ACT: LAUNCHES HUGE HIRING FOR ENFORCEMENT",
-                "teaserTitle": "BIG MANUFACTURERS: FIND NEW DEMAND IN AI DATA CENTERS",
+                "headline": "AZURE: NEW PLATFORMS FOR AI AGENTS",
+                "teaserTitle": "DEEPSEEK: RAISES V4 PRICES 10X AMID DEMAND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The EU AI Office is hiring 40 new experts in tech, legal, and operational roles to enforce the AI Act. This recruitment drive scales the EU\u2019s capacity to monitor and regulate AI systems across member states effectively."
+                "narration_line": "Microsoft Azure launched 'IQ Connect' and 'Foundry,' new platforms optimizing production AI agent deployment with secure context and governance. These tools streamline agentic workflows, improving operational efficiency for businesses."
             },
             {
                 "slide_index": 6,
-                "headline": "BIG MANUFACTURERS: FIND NEW DEMAND IN AI DATA CENTERS",
-                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP SHORTAGE",
+                "headline": "DEEPSEEK: RAISES V4 PRICES 10X AMID DEMAND",
+                "teaserTitle": "IEEE SPECTRUM: AI CAN DESIGN FUNCTIONAL VIRUSES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Major manufacturers observe unprecedented demand for equipping new AI data centers, reflecting escalating infrastructure needs. This surge drives increased production of advanced cooling and power units for AI hardware components."
+                "narration_line": "DeepSeek has raised some V4 model prices over 10 times due to strained AI inference capacity. These hikes, alongside new discount options, reflect intense demand and rising operational costs for frontier AI models."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP SHORTAGE",
+                "headline": "IEEE SPECTRUM: AI CAN DESIGN FUNCTIONAL VIRUSES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "The Common Earth Project has launched to end chip supply chain bottlenecks through collaborative solutions. This initiative aims to streamline global chip production, mitigating future shortages impacting AI hardware availability."
+                "narration_line": "AI models are now capable of designing functional viruses, a breakthrough with dual implications for medicine and biosecurity. This development necessitates urgent global dialogues on AI governance and robust safety protocols."
             },
             {
                 "slide_index": 8,
