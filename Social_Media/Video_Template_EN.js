@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
-                "teaserTitle": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "INTRODUCING AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA has reportedly downsized its planned two hundred fifty billion dollar guarantee for OpenAI's data center initiative. This recalibration suggests a significant adjustment in financial commitments within their strategic partnership."
+                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, a new workhorse model for coding and agentic applications. This launch promises to significantly boost developer efficiency and application performance."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
-                "teaserTitle": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
+                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+                "teaserTitle": "EXPANDS AMD AI & HPC VMS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "IBM and OpenAI have announced a strategic partnership to accelerate enterprise-grade AI deployment. This collaboration integrates OpenAI's frontier models with IBM's consulting services, driving AI transformations."
+                "naration_line": "Google Cloud introduces AI Threat Defense, a new security service to combat advanced cyber threats. This solution uses AI to proactively identify and neutralize emerging risks for cloud-based assets."
             },
             {
                 "slide_index": 3,
-                "headline": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
-                "teaserTitle": "TECHTARGET: DATABRICKS IPO INEVITABLE",
+                "headline": "AZURE: EXPANDS AMD AI & HPC VMS",
+                "teaserTitle": "LAUNCHES AI MODEL ROUTING SOLUTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "TSMC has unveiled its A fourteen NanoFlex Pro and A sixteen nanosheet technology with Super Power Rail. These innovations are optimized for high-performance computing and AI workloads, improving efficiency."
+                "narration_line": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines. These machines support highly demanding AI, data analytics, and inference workloads for superior performance."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHTARGET: DATABRICKS IPO INEVITABLE",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
+                "headline": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
+                "teaserTitle": "CUTS GEMINI 3.7 FLASH API PRICES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Databricks is deemed on an inevitable path to an Initial Public Offering after a five billion dollar funding injection. This reinforces its market valuation and growth trajectory in AI and data management."
+                "narration_line": "NVIDIA enters the model router market with NeMo Switchyard, optimizing AI model traffic for agentic applications. This solution aims to deliver faster and more efficient AI deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
-                "teaserTitle": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
+                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
+                "teaserTitle": "ACQUIRES ELECTRIC FOR AI APPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI has launched Shieldstral, focusing on in-region inference and European infrastructure for sovereign AI. This initiative addresses data sovereignty and control concerns for European entities."
+                "narration_line": "Google has lowered introductory prices for its Gemini three point seven Flash API, attracting more developers. This move intensifies competition and stimulates broader adoption of advanced AI capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
+                "teaserTitle": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Black Hat Network Operations Center reported firsthand observations of significant AI security failures. These findings underscore the urgent need for enhanced security measures in AI architectures."
+                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases into its agentic AI platform. This enhances data management and persistency for advanced intelligent agent deployments at the edge."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New research indicates AI systems are now capable of designing functional viruses. This breakthrough presents both medical promise and serious biosecurity risks, requiring robust safeguards."
+                "narration_line": "The EU AI Office announced forty new positions dedicated to enforcing the EU AI Act. This significantly scales up regulatory oversight and governance of AI systems across Europe."
             },
             {
                 "slide_index": 8,

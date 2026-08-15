@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NVIDIA DOWNSIZES OPENAI DATA CENTER",
-        "titleBlue": "GUARANTEE",
-        "footerSummary": "NVIDIA re-evaluates its substantial financial backing for OpenAI's data center expansion, signaling a major strategic adjustment amid evolving market dynamics and investment priorities."
+        "titleWhite": "INTRODUCING GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash, a pivotal model for coding and agents, promising enhanced performance and developer efficiency across enterprise AI applications."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "points": [
-                "NVIDIA has reportedly downsized its planned $250 billion guarantee for OpenAI's data center initiative.",
-                "This adjustment reflects a recalibration of financial commitments within their strategic partnership.",
-                "The shift could signal evolving market dynamics or revised projections for AI infrastructure build-out.",
-                "Stakeholders should monitor impacts on long-term AI strategy and resource allocation."
+                "Google DeepMind has introduced Gemini 3.7 Flash, an advanced workhorse model designed for enhanced coding and agentic applications.",
+                "This new iteration aims to significantly improve developer efficiency and application performance, with a focus on speed and intelligence-per-parameter.",
+                "The model leverages frontier intelligence, empowering developers to build sophisticated AI agents and streamline complex programming tasks.",
+                "Developers and enterprises can anticipate faster iteration cycles, reduced operational overhead, and more robust agent deployments across various sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
+            "nextUpTease": "INTRODUCING AI THREAT DEFENSE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/nvidia-downsizes-openai-data-center-guarantee",
-                "Published: 2026-08-15T10:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-15T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
+            "heading": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership aimed at accelerating the deployment of enterprise-grade AI solutions.",
-                "This collaboration integrates OpenAI's frontier models with IBM's extensive consulting services.",
-                "The initiative targets bridging the gap between cutting-edge AI research and practical, scalable business applications.",
-                "Enterprises can anticipate faster AI adoption, tailored solutions, and access to specialized expertise."
+                "Google Cloud has launched AI Threat Defense, a new security service designed to help organizations outpace sophisticated cyber adversaries.",
+                "This offering integrates advanced AI capabilities to proactively identify and neutralize emerging threats, enhancing cloud security posture.",
+                "AI Threat Defense provides real-time threat detection, automated response mechanisms, and intelligence-driven insights to protect critical assets.",
+                "Organizations will benefit from stronger data protection, reduced incident response times, and an improved defense against AI-powered attacks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
+            "nextUpTease": "EXPANDS AMD AI & HPC VMS",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://cloud.google.com/blog",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
+            "heading": "AZURE: EXPANDS AMD AI & HPC VMS",
             "points": [
-                "TSMC has unveiled its new A14 process with NanoFlex\u2122 Pro and the A16 nanosheet technology featuring Super Power Rail.",
-                "These innovations are designed to advance future AI computing, offering superior power delivery and efficiency.",
-                "The architectural advancements improve transistor density and power consumption, crucial for next-generation AI accelerators.",
-                "Chip designers will benefit from enhanced capabilities, enabling more powerful and energy-efficient AI processors."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These new VMs support highly demanding AI, data analytics, inference, and technical computing workloads, offering superior performance and efficiency.",
+                "The expansion enhances Azure's compute capacity for complex AI models and high-performance computing tasks, critical for large-scale enterprise deployments.",
+                "Enterprises can leverage these advanced VMs for faster AI training, more efficient data processing, and scalable HPC simulations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHTARGET: DATABRICKS IPO INEVITABLE",
+            "nextUpTease": "LAUNCHES AI MODEL ROUTING SOLUTION",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events/tsmc-a14-a16-nanosheet-ai",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-15T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHTARGET: DATABRICKS IPO INEVITABLE",
+            "heading": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
             "points": [
-                "Databricks is deemed to be on an inevitable path to an Initial Public Offering (IPO) following a substantial $5 billion injection in new funding.",
-                "This significant financial backing reinforces its market valuation and growth trajectory within the AI and data management space.",
-                "Analysts suggest the benefits of going public now outweigh the advantages of remaining private, indicating business model maturity.",
-                "Stakeholders should prepare for a major market event that will reshape the enterprise AI and data platform landscape."
+                "NVIDIA is entering the burgeoning market for model routers, introducing NeMo Switchyard to optimize AI model traffic and deployment.",
+                "NeMo Switchyard aims to deliver faster, smarter, and more efficient agentic AI by intelligently routing requests across various models.",
+                "This strategic move positions NVIDIA to enhance the performance and cost-effectiveness of complex multi-model AI applications.",
+                "Enterprises can achieve better resource utilization and reduced latency for AI inference by deploying NVIDIA's new routing solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
+            "nextUpTease": "CUTS GEMINI 3.7 FLASH API PRICES",
             "tags": [
-                "Source: https://www.techtarget.com/datamanagement/news/366571616/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
-                "Published: 2026-08-14T11:00:00Z",
+                "Source: https://www.infoworld.com/article/3709668/nvidia-moves-into-hot-market-for-model-routers.html",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
+            "heading": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
             "points": [
-                "Mistral AI has introduced Shieldstral, a new initiative focused on in-region inference, open models, and European infrastructure for sovereign AI.",
-                "Shieldstral aims to provide robust, localized AI capabilities, addressing concerns around data sovereignty and control for European organizations.",
-                "This strategic move enhances Mistral AI's offering by ensuring AI models and data processing remain within European borders.",
-                "European businesses gain access to advanced AI solutions with assured data governance, supporting localized innovation and security."
+                "Google has lowered the introductory prices for its Gemini 3.7 Flash API, a strategic move to attract more developers and increase adoption.",
+                "This pricing adjustment reflects an intensified competitive landscape in the frontier model market, particularly for coding applications.",
+                "The reduction aims to stimulate broader use of Gemini 3.7 Flash, enabling wider experimentation and deployment by the developer community.",
+                "Developers and startups will find it more cost-effective to integrate advanced AI capabilities into their applications and services."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
+            "nextUpTease": "ACQUIRES ELECTRIC FOR AI APPS",
             "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-and-new-european-infrastructure-for-sovereign-ai-introducing-shieldstral",
-                "Published: 2026-08-14T14:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-37-flash-to-attract-developers",
+                "Published: 2026-08-14T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
             "points": [
-                "The Black Hat Network Operations Center (NOC) has reported firsthand observations of significant AI security failures, highlighting rising cyber-risk.",
-                "These failures include vulnerabilities in AI systems, potential for adversarial attacks, and inadequate security protocols during deployment.",
-                "The findings underscore the urgent need for enhanced security measures and robust governance frameworks within AI architectures.",
-                "CISOs must prioritize AI-specific threat modeling and defense strategies to protect systems from sophisticated attacks."
+                "Databricks has acquired Electric, integrating local PostgreSQL databases to enhance its platform for developing agentic AI applications.",
+                "This acquisition aims to provide users with robust, embeddable database capabilities, crucial for on-device or local agent operations.",
+                "The move strengthens Databricks' ecosystem by offering improved data management and persistency for intelligent agent deployments.",
+                "Developers can now build more sophisticated and self-contained AI agents with integrated data storage and processing at the edge."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "nextUpTease": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
             "tags": [
-                "Source: https://www.techtarget.com/security/news/366571597/Black-Hat-NOC-sees-AI-security-failures-firsthand",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.infoworld.com/article/3709667/databricks-acquires-electric-to-bring-local-postgres-databases-to-agentic-apps.html",
+                "Published: 2026-08-13T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "heading": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
             "points": [
-                "New research highlights that AI systems are now capable of designing functional viruses, presenting both medical promise and significant security risks.",
-                "This technical breakthrough in AI-driven genome design enables rapid prototyping of viral structures, accelerating drug discovery.",
-                "However, the same capability raises serious ethical and biosecurity concerns regarding potential misuse and novel biological threats.",
-                "Policymakers, bioethicists, and AI developers must collaborate to establish robust regulatory frameworks and safeguards."
+                "The EU AI Office has announced a major hiring initiative for 40 new positions, including tech, legal, and operational roles.",
+                "These posts are specifically dedicated to enforcing the landmark EU AI Act, significantly scaling up its regulatory oversight.",
+                "The expansion indicates a rapid acceleration in the implementation and governance of AI systems across the European Union.",
+                "Organizations operating in the EU must prepare for increased scrutiny and stricter compliance with the upcoming AI regulations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-design-viruses",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://artificialintelligenceact.eu/",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

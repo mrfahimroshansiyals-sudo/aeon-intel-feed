@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
-                "teaserTitle": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
-                "visual_caption": "NVIDIA has reportedly downsized its planned $250B guarantee for OpenAI's data center initiative. This recalibration suggests a significant adjustment in financial commitments within their strategic partnership."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "INTRODUCING AI THREAT DEFENSE",
+                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, a new workhorse model for coding and agentic applications. This launch promises to significantly boost developer efficiency and application performance."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: OPENAI PARTNERSHIP ACCELERATES ENTERPRISE AI",
-                "teaserTitle": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
-                "visual_caption": "IBM and OpenAI have announced a strategic partnership to accelerate enterprise-grade AI deployment. This collaboration integrates OpenAI's frontier models with IBM's consulting services, driving AI transformations."
+                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+                "teaserTitle": "EXPANDS AMD AI & HPC VMS",
+                "visual_caption": "Google Cloud introduces AI Threat Defense, a new security service to combat advanced cyber threats. This solution uses AI to proactively identify and neutralize emerging risks for cloud-based assets."
             },
             {
                 "slide_index": 3,
-                "headline": "TSMC: UNVEILS A14 & A16 NANOSHEET FOR AI",
-                "teaserTitle": "TECHTARGET: DATABRICKS IPO INEVITABLE",
-                "visual_asset": "",
-                "visual_caption": "TSMC has unveiled its A14 NanoFlex\u2122 Pro and A16 nanosheet technology with Super Power Rail. These innovations are optimized for HPC and AI workloads, improving efficiency."
+                "headline": "AZURE: EXPANDS AMD AI & HPC VMS",
+                "teaserTitle": "LAUNCHES AI MODEL ROUTING SOLUTION",
+                "visual_caption": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines. These machines support highly demanding AI, data analytics, and inference workloads for superior performance."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHTARGET: DATABRICKS IPO INEVITABLE",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
-                "visual_caption": "Databricks is deemed on an inevitable path to an IPO after a $5B funding injection. This reinforces its market valuation and growth trajectory in AI and data management."
+                "headline": "NVIDIA: LAUNCHES AI MODEL ROUTING SOLUTION",
+                "teaserTitle": "CUTS GEMINI 3.7 FLASH API PRICES",
+                "visual_caption": "NVIDIA enters the model router market with NeMo Switchyard, optimizing AI model traffic for agentic applications. This solution aims to deliver faster and more efficient AI deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL EUROPEAN AI INFRA",
-                "teaserTitle": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
-                "visual_caption": "Mistral AI has launched Shieldstral, focusing on in-region inference and European infrastructure for sovereign AI. This initiative addresses data sovereignty and control concerns for EU entities."
+                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICES",
+                "teaserTitle": "ACQUIRES ELECTRIC FOR AI APPS",
+                "visual_caption": "Google has lowered introductory prices for its Gemini 3.7 Flash API, attracting more developers. This move intensifies competition and stimulates broader adoption of advanced AI capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHTARGET: BLACK HAT NOC REPORTS AI SECURITY FAILURES",
-                "teaserTitle": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "visual_caption": "The Black Hat NOC reported firsthand observations of significant AI security failures. These findings underscore the urgent need for enhanced security measures in AI architectures."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI APPS",
+                "teaserTitle": "OFFICE ANNOUNCES 40 NEW HIRE POSTS",
+                "visual_caption": "Databricks acquired Electric to integrate local PostgreSQL databases into its agentic AI platform. This enhances data management and persistency for advanced intelligent agent deployments at the edge."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW HIRE POSTS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "New research indicates AI systems are now capable of designing functional viruses. This breakthrough presents both medical promise and serious biosecurity risks, requiring robust safeguards."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "The EU AI Office announced 40 new positions dedicated to enforcing the EU AI Act. This significantly scales up regulatory oversight and governance of AI systems across Europe."
             },
             {
                 "slide_index": 8,
