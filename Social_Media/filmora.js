@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "DeepMind unveils Gemini 3.7 Flash, its latest AI model, enhancing coding & agentic apps. This model promises faster inference & greater efficiency for complex tasks."
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "teaserTitle": "TSMC UNVEILS A16 NANOSHEET SUPER POWER RAIL",
+                "visual_caption": "OpenAI released its latest GPT-5.6 frontier model, engineered to scale with enterprise ambitions. This marks a significant leap in generative AI capabilities for complex tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "NVIDIA: OPENS INDONESIA AI CENTER",
-                "visual_caption": "OpenAI expands Daybreak cyber defense, addressing a narrowing window for proactive security. It integrates advanced threat intelligence to rapidly neutralize sophisticated cyber-attacks."
+                "headline": "TSMC: UNVEILS A16 NANOSHEET SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "visual_caption": "TSMC unveiled its A16 Nanosheet technology, featuring a Super Power Rail for HPC and AI. This advancement is crucial for more powerful, energy-efficient chips."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: OPENS INDONESIA AI CENTER",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
-                "visual_caption": "NVIDIA, Indosat, & UGM open Indonesia\u2019s 1st university AI Center. It provides state-of-the-art compute, fostering local AI talent & regional innovation."
+                "headline": "MICROSOFT AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "teaserTitle": "IBM PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "visual_caption": "Microsoft Azure expands infrastructure with new AMD-powered VMs (HDv2, HXv2, ND MI455Xv7) for demanding AI/HPC workloads. This boosts cloud compute for data-intensive projects."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
-                "teaserTitle": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
-                "visual_caption": "Mistral AI launches Shieldstral, offering in-region inference & sovereign AI infra for Europe. It enhances data control & reduces latency for compliance."
+                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "teaserTitle": "GOOGLE CLOUD LAUNCHES AI THREAT DEFENSE",
+                "visual_caption": "IBM partnered with OpenAI to accelerate enterprise AI deployment, integrating frontier models and expert services. This collaboration embeds advanced AI capabilities directly into enterprise systems."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
-                "teaserTitle": "DEEPSEEK: RAISES V4 MODEL PRICING",
-                "visual_caption": "Microsoft Azure unveils IQ Connect, providing AI agents with complete, shared biz context. It links agents to enterprise systems & data, improving reasoning & accuracy."
+                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+                "teaserTitle": "NVIDIA ENTERS AI MODEL ROUTER MARKET",
+                "visual_caption": "Google Cloud launched AI Threat Defense, a new security suite to outpace AI-powered cyber threats. This solution leverages Google's expertise to identify and mitigate novel attack vectors."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: RAISES V4 MODEL PRICING",
-                "teaserTitle": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
-                "visual_caption": "DeepSeek raises V4 model prices >10x, reflecting intense demand on AI compute. This highlights rising operational costs & premium on high-performance AI."
+                "headline": "NVIDIA: ENTERS AI MODEL ROUTER MARKET",
+                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
+                "visual_caption": "NVIDIA enters the AI model router market, expanding beyond hardware into comprehensive infrastructure. This addresses complex model management, optimizing inference traffic for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
+                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Black Hat NOC reports rising AI security failures as AI adoption accelerates. This highlights critical challenges in securing AI deployments & enterprise systems."
+                "visual_caption": "The Common Earth Project launched to reduce chip supply chain bottlenecks via collaboration and data sharing. This global effort enhances transparency for critical component manufacturing."
             },
             {
                 "slide_index": 8,

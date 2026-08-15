@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DEEPMIND INTRODUCES GEMINI 3.7 FLASH",
+        "hookTitle": "FRONTIER AI: GPT-5.6 LAUNCHED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "teaserTitle": "TSMC UNVEILS A16 NANOSHEET SUPER POWER RAIL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, its latest AI model, enhancing coding and agentic application capabilities. This advanced model promises faster inference times and greater efficiency for complex tasks."
+                "narration_line": "OpenAI has released its latest GPT-5.6 frontier model, engineered to scale with advanced enterprise ambitions. This marks a significant leap in generative artificial intelligence capabilities for complex tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "NVIDIA: OPENS INDONESIA AI CENTER",
+                "headline": "TSMC: UNVEILS A16 NANOSHEET SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE EXPANDS AI/HPC VM INFRASTRUCTURE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI expands its Daybreak cyber defense initiative, addressing a narrowing window for proactive cybersecurity. This integration targets advanced threat intelligence systems to rapidly neutralize sophisticated cyber-attacks."
+                "narration_line": "TSMC has unveiled its A16 Nanosheet technology, featuring an innovative Super Power Rail for high-performance computing and AI. This advancement is crucial for more powerful and energy-efficient chips."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: OPENS INDONESIA AI CENTER",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
+                "headline": "MICROSOFT AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "teaserTitle": "IBM PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA, Indosat, and Universitas Gadjah Mada have opened Indonesia\u2019s first university AI Center. This provides state-of-the-art compute infrastructure, fostering local AI talent and regional innovation."
+                "narration_line": "Microsoft Azure is expanding infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7, for demanding AI and HPC workloads. This boosts cloud compute for data-intensive projects."
             },
             {
                 "slide_index": 4,
-                "headline": "MISTRAL AI: LAUNCHES SHIELDSTRAL PLATFORM",
-                "teaserTitle": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
+                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "teaserTitle": "GOOGLE CLOUD LAUNCHES AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mistral AI introduces Shieldstral, a new platform offering in-region inference and sovereign AI infrastructure for Europe. This enhances data control and reduces latency for compliance-driven industries."
+                "narration_line": "IBM has partnered with OpenAI to accelerate enterprise AI deployment, integrating frontier models and expert engineering services. This collaboration aims to embed advanced AI capabilities directly into enterprise systems."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: UNVEILS IQ CONNECT",
-                "teaserTitle": "DEEPSEEK: RAISES V4 MODEL PRICING",
+                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+                "teaserTitle": "NVIDIA ENTERS AI MODEL ROUTER MARKET",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure unveils IQ Connect, a new service providing AI agents with complete, shared business context. This securely links agents to enterprise systems and data, improving reasoning and task accuracy."
+                "narration_line": "Google Cloud has introduced AI Threat Defense, a new security suite designed to proactively outpace adversaries in AI-powered cyber threats. This solution leverages Google's expertise to identify and mitigate novel attack vectors."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: RAISES V4 MODEL PRICING",
-                "teaserTitle": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
+                "headline": "NVIDIA: ENTERS AI MODEL ROUTER MARKET",
+                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DeepSeek has raised V4 model prices over tenfold, reflecting intense demand straining AI compute capacity. This adjustment highlights rising operational costs and the premium placed on high-performance AI."
+                "narration_line": "NVIDIA is strategically entering the market for artificial intelligence model routers, expanding beyond core hardware into comprehensive infrastructure solutions. This addresses complex model management and optimizes inference traffic for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHTARGET: BLACK HAT AI SECURITY WARNINGS",
+                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "The Black Hat NOC reports a disturbing rise in AI security failures as AI adoption accelerates. This trend highlights critical emergent challenges in securing AI deployments and enterprise systems."
+                "naration_line": "The Common Earth Project has launched to reduce chip supply chain bottlenecks through collaborative initiatives and data sharing. This global effort enhances transparency and interoperability for critical component manufacturing."
             },
             {
                 "slide_index": 8,
