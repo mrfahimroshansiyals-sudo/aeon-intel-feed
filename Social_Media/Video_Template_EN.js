@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ANTHROPIC REPORTS Q2 REVENUE JUMP TO $11.5B",
+        "hookTitle": "OPENAI'S GPT-5.6 FRONTIER MODEL RELEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: REPORTS Q2 REVENUE JUMP TO $11.5B",
-                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic's Q2 revenue reportedly surged to over eleven point five billion dollars. This substantial financial growth indicates strong enterprise adoption of its Claude AI models."
+                "narration_line": "OpenAI has officially launched GPT-5.6, its most advanced frontier model to date, designed for unprecedented scale. This release significantly enhances reasoning and complex problem-solving, setting new benchmarks for enterprise AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
-                "teaserTitle": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI's CFO confirms enterprise revenue now surpasses its consumer business. This strategic shift validates its focus on B2B artificial intelligence solutions."
+                "naration_line": "TSMC unveiled its A16 nanosheet technology with Super Power Rail, purpose-built for HPC and AI applications. This foundational shift promises 15% speed gains and improved power efficiency for next-gen AI accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
+                "headline": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM and OpenAI have partnered to accelerate enterprise AI deployment. This collaboration offers businesses integrated frontier models and consulting services."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7). These VMs offer up to 2.5 times faster processing for demanding AI workloads, accelerating training."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
-                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "teaserTitle": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google slashed its Gemini three point seven Flash API pricing. This move intensifies the AI model pricing war, benefiting developers and enterprises."
+                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, an intelligent model optimized for coding and advanced AI agents. This release boosts developer productivity by 30 percent, delivering faster response times and enhanced accuracy for complex tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "headline": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA has disclosed a twenty-one billion dollar stake in SpaceX. This investment signals potential synergy between AI hardware and the space sector."
+                "narration_line": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard, accelerating agentic AI with faster, smarter, and more efficient routing. NeMo Switchyard reduces inference costs by up to 40 percent for multi-model applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "teaserTitle": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The EU AI Office launched a major hiring drive for forty new positions. This expands its capacity for enforcing the Artificial Intelligence Act."
+                "narration_line": "Mistral AI introduced Shieldstral, an initiative for in-region inference and open models, enhancing European infrastructure for sovereign AI. This strengthens data autonomy, ensuring compliance with local regulations and mitigating cross-border data risks."
             },
             {
                 "slide_index": 7,
-                "headline": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Black Hat's Network Operations Center observed firsthand AI security failures. These incidents highlight critical vulnerabilities in current artificial intelligence deployments."
+                "narration_line": "Google Cloud launched AI Threat Defense, a new security service leveraging advanced AI to outpace cyber adversaries. This service reduces breach detection time by up to 60 percent, bolstering cloud security posture against emerging threats."
             },
             {
                 "slide_index": 8,

@@ -4,46 +4,47 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: REPORTS Q2 REVENUE JUMP TO $11.5B",
-                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
-                "visual_caption": "Anthropic's Q2 revenue reportedly surged to over $11.5B. This substantial financial growth indicates strong enterprise adoption of its Claude AI models."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "visual_caption": "OpenAI launches GPT-5.6, its most advanced frontier model to date, for unprecedented scale. This release significantly enhances reasoning & complex problem-solving, setting new benchmarks for enterprise AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
-                "teaserTitle": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "visual_caption": "OpenAI's CFO confirms enterprise revenue now surpasses its consumer business. This strategic shift validates its focus on B2B AI solutions."
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "visual_caption": "TSMC unveiled A16 nanosheet tech with Super Power Rail for HPC & AI. This shift offers 15% speed gains & improved power efficiency for next-gen AI accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
-                "visual_caption": "IBM and OpenAI have partnered to accelerate enterprise AI deployment. This collaboration offers businesses integrated frontier models and consulting services."
+                "headline": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "visual_caption": "Azure expands with new AMD-powered AI & HPC VMs (HDv2, HXv2, ND MI455Xv7). These VMs offer 2.5x faster processing for demanding AI workloads, accelerating training."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
-                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "visual_caption": "Google slashed its Gemini 3.7 Flash API pricing. This move intensifies the AI model pricing war, benefiting developers and enterprises."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "teaserTitle": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, an intelligent model for coding & AI agents. This boosts developer productivity by 30%, delivering faster response & enhanced accuracy."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "visual_caption": "NVIDIA has disclosed a $21B stake in SpaceX. This investment signals potential synergy between AI hardware and the space sector."
+                "headline": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "NVIDIA launched Nemotron 3.5 Lightning & NeMo Switchyard, accelerating agentic AI. Switchyard reduces inference costs by up to 40% for multi-model applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "teaserTitle": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
-                "visual_caption": "The EU AI Office launched a major hiring drive for 40 new positions. This expands its capacity for enforcing the AI Act."
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Mistral AI introduced Shieldstral for in-region inference & open models, enhancing European sovereign AI. This strengthens data autonomy & compliance, mitigating cross-border data risks."
             },
             {
                 "slide_index": 7,
-                "headline": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Black Hat's NOC observed firsthand AI security failures. These incidents highlight critical vulnerabilities in current AI deployments."
+                "visual_caption": "Google Cloud launched AI Threat Defense, leveraging AI to outpace cyber adversaries. This reduces breach detection time by up to 60%, bolstering cloud security."
             },
             {
                 "slide_index": 8,

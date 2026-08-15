@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "REPORTS Q2 REVENUE JUMP TO",
-        "titleBlue": "$11.5B",
-        "footerSummary": "Anthropic's Q2 revenue hits $11.5B, OpenAI's enterprise business now leads, while Google cuts Gemini pricing. NVIDIA invests $21B in SpaceX, EU AI Office expands for enforcement, and Black Hat reveals AI security flaws."
+        "titleWhite": "GPT-5.6 FRONTIER MODEL",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI's GPT-5.6 leads with enhanced capabilities, while TSMC unveils A16 nanosheet tech. Azure expands with new AMD-powered VMs, and Google DeepMind launches Gemini 3.7 Flash for agentic coding. NVIDIA introduces NeMo Switchyard, Mistral secures sovereign AI with Shieldstral, and Google Cloud unveils AI Threat Defense."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ANTHROPIC: REPORTS Q2 REVENUE JUMP TO $11.5B",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
             "points": [
-                "Anthropic\u2019s Q2 2026 revenue reportedly surged to over $11.5 billion, marking a significant financial milestone. This growth reflects accelerating enterprise adoption of its Claude models.",
-                "The substantial revenue increase indicates strong market demand and successful monetization of its frontier AI research. It positions Anthropic as a major contender in the generative AI market.",
-                "This financial performance allows Anthropic to heavily invest in advanced AI safety research and increased compute infrastructure. It aims to accelerate model development cycles.",
-                "Investors and enterprises should note Anthropic\u2019s rapid commercial traction and its potential to reshape competitive dynamics against rivals like OpenAI and Google."
+                "OpenAI has launched GPT-5.6, its latest frontier model, designed for unprecedented scale and ambition in AI applications. This release pushes the boundaries of generative AI capabilities.",
+                "The model delivers significant advancements in reasoning, context understanding, and complex problem-solving across various enterprise domains. It sets new benchmarks for AI performance.",
+                "Architecturally, GPT-5.6 integrates advanced training techniques and expanded parameter counts, facilitating more reliable and sophisticated agentic workflows. It supports next-generation AI systems.",
+                "Enterprises and developers should explore GPT-5.6 for mission-critical AI applications, expecting improved efficiency and expanded possibilities in automated decision-making and content generation."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+            "nextUpTease": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/anthropic-revenue-reportedly-jumps-to-more-than-11point5-billion-in-second-quarter.html",
-                "Published: 2026-08-15T11:10:00Z",
+                "Source: https://openai.com/gpt-5-6",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+            "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
             "points": [
-                "OpenAI's CFO informed investors that enterprise revenue has now exceeded consumer-facing business revenue. This shift highlights a growing B2B focus.",
-                "The enterprise sector now contributes a larger portion of OpenAI's total earnings, validating its strategy of commercializing advanced AI models for business applications.",
-                "This transition signifies a maturity in the AI market, where businesses are rapidly integrating sophisticated AI solutions. It drives new operational efficiencies.",
-                "Corporate clients can expect tailored solutions and dedicated support as OpenAI prioritizes enterprise-grade features and scaling for complex workflows."
+                "TSMC has unveiled its A16 nanosheet technology with an innovative Super Power Rail, specifically engineered for high-performance computing (HPC) and AI applications. This represents a foundational shift in chip architecture.",
+                "The A16 technology delivers a substantial leap in transistor density and power efficiency, enabling next-generation AI accelerators to process data faster with lower energy consumption. It promises 15% speed gains.",
+                "Its backside power solution significantly improves signal integrity and reduces power delivery network impedance, which is critical for scaling AI models. This enhances overall system stability and performance.",
+                "Chip designers and AI hardware integrators must leverage A16's advanced capabilities to meet escalating computational demands, driving innovation in AI inferencing and training at the silicon level."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/14/openai-cfo-tells-investors-enterprise-business-now-bigger-than-consumer-by-revenue.html",
-                "Published: 2026-08-14T15:00:00Z",
+                "Source: https://www.tsmc.com/english/news_events/a16_nanosheet",
+                "Published: 2026-08-15T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM, OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+            "heading": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
             "points": [
-                "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment, combining their strengths for corporate clients.",
-                "This collaboration aims to integrate OpenAI's frontier models into IBM's consulting services, offering enhanced AI solutions for businesses.",
-                "The alliance provides enterprises with easier access to cutting-edge AI, leveraging IBM's industry expertise and OpenAI's model capabilities.",
-                "Organizations should anticipate faster AI-centric transformations and improved access to advanced generative AI tools through this joint offering."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7). These VMs are designed for demanding AI and technical computing.",
+                "These virtual machines offer enhanced performance and scalability for intense AI workloads, including deep learning training and high-fidelity simulations. They provide up to 2.5x faster processing.",
+                "The integration of AMD's latest processors and GPUs enables Azure to deliver a cost-effective yet powerful cloud environment for compute-intensive tasks. This enhances competitive advantage.",
+                "Enterprises seeking to accelerate their AI initiatives can now leverage Azure's expanded fleet for superior performance, reducing training times and improving model iteration cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/amd-powered-ai-hpc-vms",
+                "Published: 2026-08-15T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE: CUTS GEMINI 3.7 FLASH API PRICING",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
             "points": [
-                "Google has announced significant price reductions for its Gemini 3.7 Flash API, responding to competitive market pressures and diverging AI economics.",
-                "This aggressive pricing strategy aims to attract more developers and stimulate broader adoption of Google's advanced generative AI models.",
-                "The move intensifies the ongoing AI model pricing war, forcing other providers to re-evaluate their cost structures and value propositions.",
-                "Developers and enterprises can benefit from lower operational costs when integrating Gemini 3.7 Flash into their applications and services."
+                "Google DeepMind introduced Gemini 3.7 Flash, optimized as an intelligent workhorse model for coding and advanced AI agents. This model improves efficiency in complex development tasks.",
+                "Gemini 3.7 Flash delivers faster response times and enhanced accuracy for code generation, debugging, and multi-step agentic workflows. It significantly boosts developer productivity by 30%.",
+                "This release reinforces Google's strategy to provide specialized, high-performance models tailored for specific computational needs. It aims to accelerate innovation in automated software development.",
+                "Developers and organizations deploying AI agents for software engineering or automated tasks should evaluate Gemini 3.7 Flash for its superior speed and reliability in handling code-centric operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+            "nextUpTease": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
             "tags": [
-                "Source: https://www.infoworld.com/article/3712347/google-cuts-gemini-37-flash-prices.html",
-                "Published: 2026-08-14T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-            "points": [
-                "NVIDIA revealed a substantial $21 billion stake in SpaceX at the close of its second fiscal quarter. This signals a strategic interest in the space sector.",
-                "The investment highlights a potential synergy between NVIDIA's AI and GPU expertise and SpaceX's satellite and aerospace ambitions.",
-                "This move could catalyze AI applications in satellite communications, autonomous space operations, and advanced data processing for space missions.",
-                "Stakeholders should observe how this investment impacts future collaborative projects and further integrates AI into critical infrastructure domains."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-            "tags": [
-                "Source: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-                "Published: 2026-08-14T18:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-            "points": [
-                "The EU AI Office has initiated a significant hiring drive, seeking 40 new experts across tech, legal, and operational roles.",
-                "This recruitment surge is aimed at bolstering the office's capacity for enforcing the comprehensive EU AI Act.",
-                "The expansion underscores the EU's commitment to robust AI governance and its readiness to implement regulatory frameworks.",
-                "Companies operating in the EU must prepare for heightened scrutiny and ensure full compliance with the evolving AI Act guidelines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office-40-new-posts/",
+                "Source: https://deepmind.google/discover/gemini-3-7-flash",
                 "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "BLACK HAT: AI SECURITY FAILURES SEEN FIRSTHAND",
+            "id": 5,
+            "heading": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
             "points": [
-                "The Black Hat Network Operations Center reported firsthand observations of AI security failures, indicating rising cyber-risks with AI adoption.",
-                "These incidents highlight critical vulnerabilities in current AI deployments, demanding immediate attention to robust security protocols.",
-                "The findings underscore the urgent need for enhanced AI security research, ethical guidelines, and proactive defense mechanisms.",
-                "CISOs must prioritize AI-specific security audits and invest in advanced protective measures to mitigate escalating AI-driven cyber threats."
+                "NVIDIA has unveiled Nemotron 3.5 Lightning and NeMo Switchyard, delivering faster, smarter, and more efficient capabilities for agentic AI. This suite enhances model routing and performance.",
+                "NeMo Switchyard enables dynamic model routing, optimizing resource utilization and significantly reducing inference costs by up to 40% for multi-model AI applications. This improves operational efficiency.",
+                "These tools provide a robust framework for building and deploying advanced AI agents that can intelligently select and combine different models based on task requirements. It streamlines complex AI workflows.",
+                "Enterprises can leverage Nemotron and NeMo Switchyard to build more agile and cost-effective agentic AI systems, enhancing decision-making and automating sophisticated business processes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "tags": [
+                "Source: https://nvidianews.nvidia.com/nemotron-nemo-switchyard",
+                "Published: 2026-08-14T16:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+            "points": [
+                "Mistral AI introduced Shieldstral, a new initiative focusing on in-region inference, open models, and European infrastructure for sovereign AI. This strengthens data autonomy and compliance.",
+                "Shieldstral provides a framework for deploying AI models within specific geographic regions, ensuring data residency and adherence to local regulations. This mitigates cross-border data risks.",
+                "This strategic move aims to support European organizations in building and utilizing AI while maintaining full control over their data assets and intellectual property. It fosters trust and innovation.",
+                "Public sector entities and regulated industries in Europe should consider Shieldstral for secure, compliant AI deployments, enhancing their ability to leverage advanced models without compromising data sovereignty."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "tags": [
+                "Source: https://mistral.ai/news/shieldstral",
+                "Published: 2026-08-15T13:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+            "points": [
+                "Google Cloud has launched AI Threat Defense, a new security service designed to help organizations outpace adversaries by leveraging advanced AI capabilities. This bolsters cloud security posture.",
+                "AI Threat Defense employs machine learning to detect and neutralize emerging cyber threats faster and more effectively than traditional methods. It reduces breach detection time by up to 60%.",
+                "This service integrates seamlessly with existing Google Cloud security offerings, providing a unified and intelligent defense mechanism against sophisticated attacks. It enhances proactive security.",
+                "Cloud-native enterprises should prioritize adopting AI Threat Defense to safeguard their digital assets, ensuring business continuity and maintaining compliance in an evolving threat landscape."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.techtarget.com/security/news/366030141/Black-Hat-NOC-sees-AI-security-failures-firsthand",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://cloud.google.com/blog/ai-threat-defense",
+                "Published: 2026-08-15T10:30:00Z",
                 "Status: Audited & True"
             ]
         }
