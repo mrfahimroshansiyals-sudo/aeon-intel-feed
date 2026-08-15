@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+        "hookTitle": "GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "OPENAI'S TALENT EXODUS SIGNALS SHIFT",
+                "headline": "OPENAI: GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
+                "teaserTitle": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "IBM and OpenAI have forged a new strategic partnership, aiming to accelerate enterprise AI deployment across global organizations. This collaboration will embed OpenAI's models directly into IBM's consulting services, boosting corporate AI integration efficiency."
+                "narration_line": "OpenAI rolls out significant enhancements for its GPT-5.6 model and expands its Daybreak cybersecurity platform. These updates boost frontier AI intelligence and fortify defense mechanisms against emerging cyber threats."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: TALENT EXODUS & ENTERPRISE FOCUS SHIFT",
-                "teaserTitle": "NVIDIA'S $21BN SPACEX INVESTMENT",
+                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is reportedly facing a significant talent exodus ahead of its IPO, raising questions about ethical governance. Despite this, their CFO confirms enterprise revenue now surpasses consumer segments, signaling a strategic business shift."
+                "narration_line": "Nvidia has reportedly downsized its substantial two hundred fifty billion dollar guarantee for OpenAI's data center buildout. This recalibration could impact OpenAI's planned GPU cluster deployments and future model training timelines."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: $21BN INVESTMENT IN SPACEX DATA CENTERS",
-                "teaserTitle": "DEEPSEEK'S AI MODEL PRICES SKYROCKET",
+                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia has disclosed a substantial $21 billion investment in SpaceX, aiming to equip its data centers with advanced GPUs. This move secures critical compute resources for future AI development and expands Nvidia's reach into space-based solutions."
+                "narration_line": "Google Cloud introduces lower introductory prices for its Gemini 3.7 Flash models, including new 3.6 Flash and 3.5 Flash-Lite variants. This move aims to attract a wider developer base and stimulate broad adoption across enterprises."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: AI MODEL PRICES SOAR OVER 10X",
-                "teaserTitle": "AI NOW CAPABLE OF DESIGNING FUNCTIONAL VIRUSES",
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
+                "teaserTitle": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DeepSeek has dramatically increased prices for its V4 AI models by over 10 times due to intense demand and capacity strains. This reflects escalating development costs and a crucial economic divergence in the advanced AI market."
+                "narration_line": "Microsoft has slashed prices for its coding AI models to stay competitive in the evolving developer tools landscape. These reductions aim to increase adoption by over thirty percent for AI-powered coding assistants."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
-                "teaserTitle": "ORACLE BRINGS QUANTUM TO OCI FOR HYBRID AI",
+                "headline": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
+                "teaserTitle": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New research shows AI can now design functional viruses, raising significant global ethical and security concerns. This technical breakthrough presents both medical promise and substantial biosecurity risks, demanding robust governance frameworks."
+                "narration_line": "Grok launched its 4.6 AI model, aggressively undercutting rival pricing in the large language model market. This offers a fifteen to twenty percent lower cost-per-token for high-volume inference tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATES WITH OCI",
-                "teaserTitle": "DATABRICKS IPO BECOMES INEVITABLE",
+                "headline": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
+                "teaserTitle": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Oracle is integrating quantum computing into its OCI, providing cloud access to Quantinuum's Helios system for hybrid AI solutions. This positions OCI as a frontier platform for advanced scientific computing, accelerating breakthroughs across sectors."
+                "narration_line": "Jane Street suffered a fifteen billion dollar loss, attributed to a meltdown in Situational Awareness' AI trading systems. This incident highlights extreme risks from over-reliance on autonomous AI in financial markets."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHTARGET: DATABRICKS IPO BECOMES INEVITABLE",
+                "headline": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Databricks' recent $5 billion funding injection makes its IPO an inevitable market move, signaling strong confidence and growth. This will allow Databricks to further scale its data management and AI offerings, solidifying its enterprise position."
+                "naration_line": "The Black Hat Network Operations Center warns of rising AI security failures, noting a twenty-five percent increase in related cyber incidents. Enterprises must prioritize AI-native security to protect against new attack vectors."
             },
             {
                 "slide_index": 8,

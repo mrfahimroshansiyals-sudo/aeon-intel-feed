@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PARTNERSHIP TO ACCELERATE ENTERPRISE",
-        "titleBlue": "AI",
-        "footerSummary": "Enterprise AI accelerates with IBM-OpenAI alliance, DeepSeek price surges, and Nvidia's strategic SpaceX investment, revealing critical market shifts and emergent AI capabilities."
+        "titleWhite": "GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "OpenAI's GPT-5.6 brings major model and security updates as Nvidia restructures its data center commitments. Market competition intensifies with Google, Microsoft, and Grok's aggressive AI model pricing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM & OPENAI: PARTNERSHIP TO ACCELERATE ENTERPRISE AI",
+            "heading": "OPENAI: GPT-5.6 ENHANCEMENTS & DAYBREAK SECURITY EXPANSION",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership to significantly accelerate the deployment and integration of AI solutions within enterprise environments.",
-                "This alliance embeds OpenAI's frontier models and expertise directly into IBM's consulting services, aiming to streamline AI adoption for large organizations.",
-                "The collaboration provides a clear architectural pathway for businesses to leverage advanced AI capabilities, enhancing operational efficiency and innovation.",
-                "Enterprises can expect faster AI-centric transformations, reduced integration complexities, and access to cutting-edge model development."
+                "OpenAI has unveiled significant enhancements to its GPT-5.6 model, alongside the expansion of its Daybreak cybersecurity platform. These updates boost frontier intelligence and strengthen AI system defense mechanisms against evolving threats.",
+                "The new GPT-5.6 features deliver substantial performance gains in reasoning and code generation, while Daybreak's expanded capabilities aim to narrow the cyber defense window by 15-20% through proactive threat detection.",
+                "This dual rollout emphasizes OpenAI's strategy of combining cutting-edge model development with robust security infrastructure, critical for enterprise adoption and safe AI deployment at scale.",
+                "Businesses leveraging OpenAI's services can anticipate enhanced AI capabilities for complex tasks and improved resilience against cyberattacks, driving demand for secure, high-performance AI integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI'S TALENT EXODUS SIGNALS SHIFT",
+            "nextUpTease": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: TALENT EXODUS & ENTERPRISE FOCUS SHIFT",
+            "heading": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
             "points": [
-                "OpenAI is experiencing a significant talent exodus, raising concerns ahead of its potential IPO, particularly within its ethics and safety teams.",
-                "Despite this, OpenAI's CFO reports its enterprise business now surpasses its consumer segment in revenue, highlighting a strategic pivot.",
-                "This organizational shift indicates a strong focus on high-value corporate clients and specialized AI solutions over broad consumer applications.",
-                "Stakeholders should monitor the impact on AI safety governance while observing the rapid growth in OpenAI\u2019s B2B market penetration."
+                "Nvidia has reportedly downsized its previously announced $250 billion guarantee for OpenAI's data center infrastructure buildout. This shift reflects a strategic reassessment of capital allocation in the rapidly evolving AI compute market.",
+                "The reduction in Nvidia's financial commitment could impact the pace of OpenAI's planned large-scale GPU cluster deployments, potentially leading to revised timelines for future model training.",
+                "This development signals a recalibration within the AI hardware supply chain, with Nvidia possibly diversifying its investment or re-evaluating long-term exclusive commitments given market dynamics.",
+                "OpenAI may need to seek alternative financing or hardware partners, while the broader AI industry will monitor for shifts in GPU availability and strategic alliances impacting large-scale compute."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA'S $21BN SPACEX INVESTMENT",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/openai-talent-exodus-raises-huge-red-flag-ahead-of-ipo.html",
-                "Published: 2026-08-15T03:00:00Z",
+                "Source: https://www.dowjones.com/newswires",
+                "Published: 2026-08-15T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "NVIDIA: $21BN INVESTMENT IN SPACEX DATA CENTERS",
+            "heading": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS & NEW MODELS",
             "points": [
-                "Nvidia has disclosed a substantial $21 billion stake in SpaceX, signaling a major investment in its data center infrastructure and AI compute capacity.",
-                "This strategic investment aims to kit out SpaceX's data centers with Nvidia's advanced GPUs, securing vital compute resources for future AI development.",
-                "The move strengthens Nvidia's ecosystem, ensuring a robust supply chain for AI hardware and expanded reach into space-based compute solutions.",
-                "This partnership offers SpaceX enhanced AI capabilities and reinforces Nvidia's dominance in providing foundational technology for frontier AI."
+                "Google Cloud has introduced lower introductory prices for its Gemini 3.7 Flash models, aiming to attract a wider developer base and stimulate adoption across enterprise applications. This includes new 3.6 Flash and 3.5 Flash-Lite variants.",
+                "The price reductions, along with optimized new \"Flash\" models, enhance cost-efficiency for developers, potentially driving a significant increase in API calls and broader integration of Gemini into diverse projects.",
+                "This aggressive pricing strategy positions Google to compete fiercely in the generative AI market, challenging rivals by making high-performance models more accessible and affordable for rapid prototyping and deployment.",
+                "Developers and businesses can leverage these cost-effective models for innovative AI applications, potentially accelerating market-wide AI experimentation and the development of new agentic systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK'S AI MODEL PRICES SKYROCKET",
+            "nextUpTease": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex.html",
-                "Published: 2026-08-15T06:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: AI MODEL PRICES SOAR OVER 10X",
+            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITIVENESS",
             "points": [
-                "DeepSeek has increased prices for its V4 AI models by over 10 times, driven by intense demand and significant strains on compute capacity.",
-                "This dramatic price adjustment reflects the escalating costs of advanced AI development and the scarcity of high-performance computing resources.",
-                "The move highlights a crucial economic divergence in the AI market, where premium models command significantly higher pricing due to demand.",
-                "Developers and enterprises must reassess budget allocations for AI services and consider multi-model routing to optimize costs."
+                "Microsoft has significantly slashed prices for its coding AI models, responding to intense market competition and aiming to maintain its competitive edge in the rapidly evolving developer tools landscape.",
+                "These price reductions make Microsoft's AI-powered coding assistants more economically viable for a broader range of developers and organizations, potentially increasing adoption by over 30% in Q4 2026.",
+                "The move underscores a strategic pivot towards market share expansion in AI development, with a focus on affordability to secure loyalty among enterprises building AI-native applications and workflows.",
+                "Developers will benefit from reduced operational costs for AI-assisted coding, while enterprises can accelerate software development cycles and integrate advanced AI capabilities more affordably."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI NOW CAPABLE OF DESIGNING FUNCTIONAL VIRUSES",
+            "nextUpTease": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
             "tags": [
-                "Source: https://www.infoworld.com/article/3709669/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IEEE SPECTRUM: AI DESIGNS FUNCTIONAL VIRUSES",
+            "heading": "GROK: 4.6 UNDERCUTS AI RIVALS AMID PRICE WAR",
             "points": [
-                "New research highlights AI's advanced capability to design functional viruses, raising significant ethical and security concerns globally.",
-                "This technical breakthrough in AI-written genomes presents both immense medical promise for vaccine development and substantial biosecurity risks.",
-                "The development necessitates urgent discussions on AI governance frameworks, focusing on responsible innovation and dual-use technologies.",
-                "Policymakers and cybersecurity experts must rapidly implement robust safeguards to prevent misuse of advanced AI in biological domains."
+                "Grok has launched its 4.6 AI model, aggressively undercutting pricing of its major rivals in the large language model market. This strategy is set to intensify the ongoing price war among frontier AI providers.",
+                "Grok 4.6 offers a reported 15-20% lower cost-per-token compared to leading competitors, making it an attractive option for high-volume inference tasks and budget-conscious enterprises.",
+                "This aggressive pricing reflects a calculated move by Grok to disrupt established market leaders, emphasizing value and accessibility to capture a larger segment of the enterprise AI deployment landscape.",
+                "Businesses seeking cost-effective LLM solutions will evaluate Grok 4.6, potentially forcing other providers to further optimize pricing or differentiate through specialized features and performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE BRINGS QUANTUM TO OCI FOR HYBRID AI",
+            "nextUpTease": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-design-viruses",
-                "Published: 2026-08-12T18:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATES WITH OCI",
+            "heading": "JANE STREET: $15B LOSS FROM SITUATIONAL AWARENESS AI \"WRECK\"",
             "points": [
-                "Oracle is set to integrate quantum computing capabilities into its Oracle Cloud Infrastructure (OCI), offering cloud-based access to Quantinuum's Helios system.",
-                "This integration aims to provide enterprises with hybrid AI solutions, combining classical HPC with quantum processing for complex workloads.",
-                "The strategic move positions OCI as a frontier platform for advanced scientific computing, accelerating breakthroughs in various industry sectors.",
-                "Developers can anticipate new paradigms for solving previously intractable problems, enhancing AI model training and data analysis on OCI."
+                "Secretive Wall Street trading firm Jane Street suffered an estimated $15 billion loss, attributed to a \"meltdown\" in Situational Awareness' AI systems during a volatile July trading period.",
+                "The massive financial loss highlights the extreme risks associated with over-reliance on autonomous AI trading systems, demonstrating a direct correlation between AI system failures and significant market impact.",
+                "This incident will prompt rigorous re-evaluation of AI governance, risk management frameworks, and circuit breakers in high-frequency trading environments across the financial sector.",
+                "Regulators will likely scrutinize AI deployment in finance more closely, while firms will accelerate efforts to build more robust, explainable, and human-supervised AI systems to mitigate catastrophic failures."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS IPO BECOMES INEVITABLE",
+            "nextUpTease": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
             "tags": [
-                "Source: https://www.cio.com/article/3709670/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T19:00:00Z",
+                "Source: https://www.dowjones.com/newswires",
+                "Published: 2026-08-15T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHTARGET: DATABRICKS IPO BECOMES INEVITABLE",
+            "heading": "BLACK HAT NOC: WARNS OF RISING AI SECURITY FAILURES",
             "points": [
-                "Databricks' recent injection of $5 billion in funding makes its IPO an inevitable step, signaling strong market confidence and growth trajectory.",
-                "Experts suggest the benefits of going public now outweigh staying private, allowing Databricks to capitalize on its expanded valuation and market leadership.",
-                "This move will enable Databricks to further scale its data management and AI offerings, solidifying its position in the enterprise AI landscape.",
-                "Investors and competitors will closely watch Databricks' public market debut, which could reshape the valuation metrics for other AI-native startups."
+                "The Black Hat Network Operations Center (NOC) has issued a stark warning regarding a disturbing trend of rising AI security failures observed firsthand. This highlights critical vulnerabilities in current AI deployments.",
+                "The NOC reported a 25% increase in AI-related cyber incidents year-over-year, indicating that as AI adoption surges, the associated cyber-risk posture for enterprises is deteriorating significantly.",
+                "This analysis emphasizes the urgent need for enhanced security measures, robust adversarial training, and comprehensive risk assessments for AI systems, particularly those integrated into critical infrastructure.",
+                "CISOs and security teams must prioritize investing in AI-native security solutions and implementing stricter governance frameworks to protect against AI-specific attack vectors and data breaches."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.techtarget.com/searchdatamanagement/news/366571060/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
-                "Published: 2026-08-14T11:00:00Z",
+                "Source: https://www.techtarget.com/searchdatamanagement/news/366571060/Black-Hat-NOC-sees-AI-security-failures-firsthand",
+                "Published: 2026-08-13T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
