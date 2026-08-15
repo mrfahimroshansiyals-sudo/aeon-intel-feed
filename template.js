@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FRONTIER OPENAI CONSULTING",
-        "titleBlue": "ALLIANCE",
-        "footerSummary": "IBM anchors OpenAI enterprise deployments as Nvidia expands model routing and capital infrastructure, while DeepSeek hikes V4 pricing amid severe compute strain."
+        "titleWhite": "EXECUTIVE TURMOIL & IPO",
+        "titleBlue": "DRIVE",
+        "footerSummary": "OpenAI faces internal leadership upheaval and an ethics lead exit while pushing for IPO, as enterprise revenue surpasses consumer."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM: FRONTIER OPENAI CONSULTING ALLIANCE",
+            "heading": "OPENAI: EXECUTIVE TURMOIL & IPO DRIVE",
             "points": [
-                "IBM has established an enterprise alliance with OpenAI to integrate frontier models directly into its global consulting services practice.",
-                "The agreement deploys dedicated, OpenAI-trained forward-deployed engineers across client workflows to accelerate production-scale system integration.",
-                "This architecture merges proprietary enterprise data pipelines with frontier models while maintaining sovereign compliance and security perimeters.",
-                "Enterprise clients can bypass early pilot bottlenecks and deploy compliant, agentic workflows across core operational infrastructure."
+                "OpenAI is experiencing significant internal upheaval, including the departure of its AI ethics lead, Chlo\u00e9 Bakalar, just one year after joining from Meta.",
+                "This leadership shift occurs as CEO Sam Altman prepares for a major IPO, with enterprise business revenue now surpassing its consumer segment.",
+                "The combined internal discord and strategic market moves signal a critical phase for the company\u2019s governance and long-term vision.",
+                "Stakeholders face increased scrutiny over the company\u2019s stability and its ability to balance rapid growth with ethical AI development."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
+            "nextUpTease": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
             "tags": [
-                "Source: https://www.cio.com/article/350123/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://www.ft.com/technology/openai-upheaval-ipo",
+                "Published: 2026-08-15T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
+            "heading": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
             "points": [
-                "Nvidia released NeMo Switchyard and Nemotron 3.5 Lightning, entering the enterprise orchestration market for multi-model dynamic routing.",
-                "The Switchyard framework optimizes latency and cost by routing specific prompt workloads to specialized micro-models in sub-millisecond cycles.",
-                "This release transitions infrastructure strategy from static model hosting toward dynamic, compute-efficient multi-agent workload arbitration.",
-                "Enterprises can lower continuous inference expenditure by routing routine sub-tasks to smaller, task-specific models without degrading accuracy."
+                "Google DeepMind and Cloud have introduced Gemini 3.7 Flash, along with 3.6 Flash, 3.5 Flash-Lite, and Nano Banana 2 Lite models.",
+                "The new Gemini Flash models are being offered at lower introductory prices to attract developers, reflecting a competitive AI pricing strategy.",
+                "This expansion aims to provide a broader range of intelligent workhorse models for coding and agents, suitable for various enterprise applications.",
+                "Developers gain more cost-effective options for building AI agents, enhancing the accessibility and adoption of Google's AI ecosystem."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
+            "nextUpTease": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
             "tags": [
-                "Source: https://www.infoworld.com/article/350124/nvidia-moves-into-hot-market-for-model-routers.html",
-                "Published: 2026-08-14T13:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-14T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
+            "heading": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
             "points": [
-                "Databricks secured $5B in fresh financing and acquired Electric to embed local, synchronized PostgreSQL databases into agentic systems.",
-                "The Electric acquisition allows autonomous agents to query and synchronize local relational databases directly on edge runtime endpoints.",
-                "This architectural shift eliminates cloud round-trip latency, providing real-time state persistence for distributed agent deployments.",
-                "Developers can build resilient, local-first agentic applications with deterministic database synchronization across hybrid corporate clusters."
+                "Microsoft Azure launched new platforms, Microsoft IQ and Microsoft Foundry, designed to build, run, and govern production AI agents at scale.",
+                "Azure infrastructure has expanded with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7) for demanding workloads.",
+                "These developments provide secure, shared context for agents and high-performance compute, unifying AI, data, and business context across enterprises.",
+                "Enterprises can deploy intelligent apps and agents more efficiently, leveraging advanced silicon for deep learning and high-performance computing."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
+            "nextUpTease": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "tags": [
-                "Source: https://www.techtarget.com/searchdatamanagement/news/366571088/Databricks-Electric-acquisition-adds-embeddable-PostgreSQL",
-                "Published: 2026-08-14T11:45:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq/",
+                "Published: 2026-08-14T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
             "points": [
-                "DeepSeek raised API token pricing for select V4 configurations by more than 10x in response to unprecedented global compute capacity strain.",
-                "The adjustment introduces dynamic off-peak discounts, multi-model routing tiers, and prompt-cache rebates to balance server loads.",
-                "The price spike highlights structural limits in low-cost inference infrastructure when model query volumes experience exponential demand spikes.",
-                "Engineering teams must deploy cache-aware prompt engineering and fallback routing layers to mitigate sudden operational budget shocks."
+                "Google Cloud has introduced AI Threat Defense, a new security product designed to help organizations outpace evolving cyber adversaries.",
+                "This system leverages advanced AI capabilities to enhance threat detection, analysis, and response across cloud environments.",
+                "The launch addresses the growing need for specialized security solutions as AI adoption introduces new vectors for cyber-risk.",
+                "Enterprises can bolster their cybersecurity posture with AI-powered defenses, mitigating potential threats to their digital infrastructure and data."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
+            "nextUpTease": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
             "tags": [
-                "Source: https://www.infoworld.com/article/350125/deepseek-raises-some-v4-prices-by-more-than-10x.html",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-google-ai-threat-defense/",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
+            "heading": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
             "points": [
-                "Nvidia formed strategic financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to unlock $500B.",
-                "The institutional debt and equity platform will directly fund global AI factory buildouts, specialized power grids, and advanced data centers.",
-                "This initiative establishes accelerated computing hardware and associated power architecture as a standardized, investable institutional asset class.",
-                "Hyperscalers and sovereign entities secure guaranteed capital pipelines to build out GW-scale compute campuses over the next decade."
+                "Grok 4.6 has been released, entering the market with a pricing strategy designed to undercut existing AI rivals.",
+                "This model aims to offer competitive capabilities at a more accessible cost, intensifying the ongoing price war among frontier AI providers.",
+                "The strategic pricing reflects a move to capture market share and challenge established players in the rapidly evolving LLM landscape.",
+                "Developers and enterprises may find new cost-benefit advantages, influencing their choice of foundational models for various applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
+            "nextUpTease": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-kkr",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals/",
+                "Published: 2026-08-13T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
+            "heading": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
             "points": [
-                "AMD signed a strategic compute agreement with Anthropic to deploy up to 2GW of Instinct MI450 Series GPU acceleration infrastructure.",
-                "The deployment integrates AMD ROCm software optimization across Anthropic's frontier model training and real-time inference clusters.",
-                "This partnership diversifies critical silicon supply chains away from single-vendor dependence across frontier AI training workloads.",
-                "Enterprise customers benefit from competitive pricing pressure and increased multi-cluster availability for next-generation frontier models."
+                "The Black Hat Network Operations Center (NOC) observed firsthand AI security failures, highlighting a disturbing trend of rising cyber-risk with AI adoption.",
+                "Insights from the NOC indicate that as AI systems proliferate, new vulnerabilities and attack vectors are emerging, posing significant threats.",
+                "This real-world observation underscores the critical need for CISOs to implement robust AI security frameworks and incident response protocols.",
+                "Organizations must prioritize proactive cyber-risk mitigation strategies to safeguard their AI deployments and prevent potential breaches."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
+            "nextUpTease": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/press-releases/2026-08-amd-anthropic-strategic-partnership.html",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.techtarget.com/searchsecurity/news/366571089/Black-Hat-NOC-sees-AI-security-failures-firsthand",
+                "Published: 2026-08-13T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
+            "heading": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
             "points": [
-                "Oracle Cloud Infrastructure announced integration with Quantinuum's Helios system to provide hybrid quantum-classical AI computing.",
-                "The cloud service enables high-performance computing clusters to offload complex combinatorial optimization tasks to quantum processors.",
-                "This architectural bridge integrates quantum circuits with enterprise machine learning pipelines on high-throughput RDMA network fabrics.",
-                "Research institutions and enterprise labs can accelerate quantum chemistry, materials discovery, and financial risk modeling workflows."
+                "Nvidia has downsized its previously announced $250 billion guarantee for OpenAI data center buildouts, signaling a reassessment of its investment plans.",
+                "This adjustment indicates a shift in capital commitment, potentially reflecting evolving market dynamics or revised strategic priorities between the entities.",
+                "The downsizing affects the large-scale compute infrastructure expansion anticipated for OpenAI, impacting future capacity and growth trajectories.",
+                "The decision may lead to re-evaluation of investment pipelines in AI compute, with implications for supply chain stability and development timelines."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com/article/350120/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.wsj.com/articles/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center",
+                "Published: 2026-08-15T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

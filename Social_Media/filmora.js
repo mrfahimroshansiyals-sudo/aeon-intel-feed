@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM: FRONTIER OPENAI CONSULTING ALLIANCE",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
-                "visual_caption": "IBM has partnered with OpenAI to embed frontier models and specialized engineers into consulting services. The alliance aims to accelerate enterprise AI deployments and modernize production workflows."
+                "headline": "OPENAI: EXECUTIVE TURMOIL & IPO DRIVE",
+                "teaserTitle": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
+                "visual_caption": "OpenAI faces executive turmoil and ethics lead exit, as CFO confirms enterprise revenue exceeds consumer earnings. This upheaval occurs while company prepares for major IPO."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMO SWITCHYARD AGENT ROUTER",
-                "teaserTitle": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
-                "visual_caption": "Nvidia introduced NeMo Switchyard and Nemotron 3.5 for dynamic multi-model routing. The framework cuts operational latency by directing complex prompts to specialized models."
+                "headline": "GOOGLE: GEMINI FLASH MODEL EXPANSION",
+                "teaserTitle": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
+                "visual_caption": "Google released new Gemini Flash models, including 3.7 Flash and 3.6 Flash, expanding its AI portfolio. Models are priced competitively to attract developers and accelerate adoption."
             },
             {
                 "slide_index": 3,
-                "headline": "DATABRICKS: $5B FUNDING & ELECTRIC BUY",
-                "teaserTitle": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
-                "visual_caption": "Databricks raised $5B in capital and acquired Electric to embed PostgreSQL into autonomous applications. The integration provides resilient local data persistence for distributed agent systems."
+                "headline": "MICROSOFT: AZURE AGENT PLATFORMS & AMD INFRASTRUCTURE",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "visual_caption": "Microsoft Azure launched IQ and Foundry agent platforms, enhancing AI agent development. Azure also expanded infrastructure with new AMD-powered AI/HPC VMs."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X",
-                "teaserTitle": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
-                "visual_caption": "DeepSeek increased select V4 token prices by over 10x to counter intense server capacity constraints. Developers are now utilizing multi-model routing and cache discounts to optimize budgets."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "teaserTitle": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
+                "visual_caption": "Google Cloud unveiled AI Threat Defense, a new security product to counter cyber adversaries. System uses advanced AI to boost threat detection in cloud environments."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: $500B COMPUTE CAPITAL PLATFORM",
-                "teaserTitle": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
-                "visual_caption": "Nvidia joined major financial institutions to launch financing platforms mobilizing over $500B. The capital will fund global data center builds and dedicated energy infrastructure."
+                "headline": "GROK: 4.6 MODEL RELEASE & PRICING SHIFT",
+                "teaserTitle": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
+                "visual_caption": "Grok 4.6 released with aggressive pricing, aiming to undercut AI rivals. This intensifies competition among frontier LLM providers."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: 2GW ANTHROPIC CLUSTER DEPLOYMENT",
-                "teaserTitle": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
-                "visual_caption": "AMD and Anthropic announced a partnership to deploy up to 2GW of Instinct MI450 GPUs. The rollout broadens hardware options across large-scale model training clusters."
+                "headline": "CYBERSECURITY: AI SECURITY FAILURES AT BLACK HAT",
+                "teaserTitle": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
+                "visual_caption": "Black Hat NOC identified AI security failures, revealing rise in cyber-risk with AI integration. Urgent need for robust security frameworks emphasized."
             },
             {
                 "slide_index": 7,
-                "headline": "ORACLE: OCI QUANTINUUM HELIOS ENGINE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Oracle Cloud is integrating Quantinuum's Helios quantum processor to enable hybrid quantum computing. The service delivers high-performance acceleration for advanced materials discovery and complex simulations."
+                "headline": "NVIDIA: OPENAI DATA CENTER GUARANTEE DOWNSIZED",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Nvidia downsized $250B guarantee for OpenAI data center buildouts, re-evaluating major investment. Signals shifting strategic priorities in AI compute."
             },
             {
                 "slide_index": 8,
