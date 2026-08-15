@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EXPANDING DAYBREAK AS CYBER DEFENSE NARROWS",
+        "hookTitle": "DEEPMIND UNVEILS GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDING DAYBREAK AS CYBER DEFENSE NARROWS",
-                "teaserTitle": "AMD: ANTHROPIC PARTNERSHIP FOR MI450 SERIES GPUS",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched its Daybreak initiative, a strategic move to fortify its AI models against cyber threats. This program significantly reduces the window of vulnerability for integrated AI systems."
+                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, its most intelligent model for coding and agents. This advanced iteration boosts performance across complex programming tasks, offering significant speed and accuracy."
             },
             {
                 "slide_index": 2,
-                "headline": "AMD: ANTHROPIC PARTNERSHIP FOR MI450 SERIES GPUS",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS FOR SPECIALIZED AI",
+                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "AMD and Anthropic announced a strategic partnership to deploy up to two gigawatts of AMD Instinct MI four hundred fifty Series GPUs. This substantial infrastructure investment aims to accelerate Anthropic's large-scale AI research and model training initiatives."
+                "narration_line": "Mistral AI launches Shieldstral, an initiative for in-region inference and sovereign AI within Europe. It provides secure, localized AI deployment options, reducing data egress risks and ensuring regulatory compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS FOR SPECIALIZED AI",
-                "teaserTitle": "MICROSOFT AZURE: IQ AND FOUNDRY PLATFORMS FOR AI AGENTS",
+                "headline": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE",
+                "teaserTitle": "AZURE: EXPANDS AI INFRASTRUCTURE WITH AMD HPC VM'S",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Google Cloud introduced new Gemini Flash variants, including three point six Flash, three point five Flash-Lite, and three point five Flash Cyber. These models offer optimized performance for specialized AI tasks, such as enhanced coding and robust cybersecurity applications."
+                "narration_line": "Anthropic reportedly earned over $11.5 billion in revenue during Q2 2026, showcasing significant market adoption. This financial milestone demonstrates strong enterprise demand for Claude models, reflecting rapid scaling and market penetration."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: IQ AND FOUNDRY PLATFORMS FOR AI AGENTS",
-                "teaserTitle": "IBM & OPENAI: STRATEGIC ALLIANCE FOR ENTERPRISE AI DEPLOYMENT",
+                "headline": "AZURE: EXPANDS AI INFRASTRUCTURE WITH AMD HPC VM'S",
+                "teaserTitle": "EU AI ACT: LAUNCHES HUGE HIRING FOR ENFORCEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure introduced its new IQ and Foundry platforms, designed to provide comprehensive, shared context for AI agents. Microsoft IQ securely connects agents to enterprise systems, enhancing their reasoning and action with full business context."
+                "narration_line": "Microsoft Azure expands its AI and HPC virtual machine infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 series. These VMs provide enhanced performance for demanding AI and technical computing workloads, boosting efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM & OPENAI: STRATEGIC ALLIANCE FOR ENTERPRISE AI DEPLOYMENT",
-                "teaserTitle": "MIT TECH REVIEW: FUNDAMENTAL FLAW EXPOSES LLM VULNERABILITY",
+                "headline": "EU AI ACT: LAUNCHES HUGE HIRING FOR ENFORCEMENT",
+                "teaserTitle": "BIG MANUFACTURERS: FIND NEW DEMAND IN AI DATA CENTERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IBM and OpenAI have formed a strategic alliance to accelerate enterprise AI deployment. The partnership combines IBM's consulting services with OpenAI's frontier models, driving AI-centric transformation."
+                "narration_line": "The EU AI Office is hiring 40 new experts in tech, legal, and operational roles to enforce the AI Act. This recruitment drive scales the EU\u2019s capacity to monitor and regulate AI systems across member states effectively."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECH REVIEW: FUNDAMENTAL FLAW EXPOSES LLM VULNERABILITY",
-                "teaserTitle": "GOOGLE: GEMINI OMNI FLASH & NANO BANANA 2 LITE LAUNCH",
+                "headline": "BIG MANUFACTURERS: FIND NEW DEMAND IN AI DATA CENTERS",
+                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP SHORTAGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "MIT Technology Review highlights a fundamental flaw leaving large language models strikingly vulnerable to attack. This vulnerability enables tricking LLMs into generating harmful content, bypassing safety measures and posing significant security risks."
+                "narration_line": "Major manufacturers observe unprecedented demand for equipping new AI data centers, reflecting escalating infrastructure needs. This surge drives increased production of advanced cooling and power units for AI hardware components."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE: GEMINI OMNI FLASH & NANO BANANA 2 LITE LAUNCH",
+                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP SHORTAGE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google has launched Gemini Omni Flash and Nano Banana two Lite, expanding its multimodal and image generation AI models. Gemini Omni Flash creates content from video, while Nano Banana two Lite offers faster, more efficient image generation."
+                "naration_line": "The Common Earth Project has launched to end chip supply chain bottlenecks through collaborative solutions. This initiative aims to streamline global chip production, mitigating future shortages impacting AI hardware availability."
             },
             {
                 "slide_index": 8,
