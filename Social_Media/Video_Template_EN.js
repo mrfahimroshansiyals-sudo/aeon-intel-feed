@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "IBM PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
+        "hookTitle": "NVIDIA MOBILIZES $500B FOR AI INFRASTRUCTURE FINANCING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "NVIDIA INVESTS IN SPACEX AI",
+                "headline": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "GOOGLE INTRODUCES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "IBM and OpenAI have forged a strategic partnership to embed frontier artificial intelligence models into consulting services. This collaboration aims to significantly accelerate enterprise-wide digital transformation and solution deployments."
+                "narration_line": "NVIDIA has partnered with top financial firms to mobilize over five hundred billion dollars for AI compute infrastructure. This massive capital injection will address escalating demand and shape future strategic tech partnerships globally."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX AI STAKE",
-                "teaserTitle": "OPENAI TALENT EXODUS",
+                "headline": "GOOGLE: INTRODUCES GEMINI 3.7 FLASH AND PRICE ADJUSTMENTS",
+                "teaserTitle": "NVIDIA DOWNSIZES OPENAI DATA CENTER GUARANTEE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA has disclosed a twenty-one billion dollar stake in SpaceX, deepening its artificial intelligence infrastructure integration with space technology. This investment signals growing demand for GPUs in data centers supporting advanced AI and satellite networks."
+                "naration_line": "Google has launched Gemini 3.7 Flash, its latest AI model, featuring significant price adjustments to attract developers. This strategic move intensifies the price war among frontier model providers, fostering wider adoption."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: TALENT EXODUS RAISES IPO CONCERNS",
-                "teaserTitle": "DATABRICKS IPO INEVITABLE",
+                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+                "teaserTitle": "EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A significant talent exodus at OpenAI is reportedly raising substantial red flags among investors before its expected public offering. Departures are impacting team stability, potentially affecting its valuation and market reception."
+                "narration_line": "NVIDIA has downsized its two hundred fifty billion dollar guarantee for OpenAI's data center development plans. This signals a re-evaluation of investment scale and partnership dynamics between the AI industry giants."
             },
             {
                 "slide_index": 4,
-                "headline": "DATABRICKS: IPO INEVITABLE AFTER $5B FUNDING",
-                "teaserTitle": "JANE STREET SUFFERS AI LOSSES",
+                "headline": "REGULATION: EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
+                "teaserTitle": "MICROSOFT SLASHES CODING MODEL PRICES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Databricks is prepared for an initial public offering after securing five billion dollars in additional funding. This substantial capital injection signals aggressive expansion plans in its data lakehouse and generative artificial intelligence offerings."
+                "narration_line": "The EU AI Office is hiring forty new experts for tech, legal, and operations roles to enforce the EU AI Act. This expansion highlights the EU's commitment to robust AI governance and global regulatory standards."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: JANE STREET SUFFERS $15B AI LOSS",
-                "teaserTitle": "DEEPSEEK AI PRICE HIKE",
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
+                "teaserTitle": "AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Jane Street Capital suffered an estimated fifteen billion dollar loss due to unexpected market turbulence from an AI trading rout. This event highlights vulnerabilities in highly automated, artificial intelligence-driven financial models."
+                "narration_line": "Microsoft has significantly reduced prices for its AI coding models to boost market competitiveness. This aggressive strategy aims to attract more developers and challenge rivals in the generative AI space."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X AMID DEMAND",
-                "teaserTitle": "ORACLE QUANTUM AI INTEGRATION",
+                "headline": "AI ETHICS: AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
+                "teaserTitle": "CHINA ACCELERATES AI DEVELOPMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DeepSeek has significantly raised its V4 model prices, with some tiers seeing over a ten times increase due to intense artificial intelligence demand. This signals a tightening market for AI model access, driving up operational costs for developers."
+                "narration_line": "New research reveals AI can now design functional viruses, raising serious ethical and security questions globally. This breakthrough highlights the dual-use nature of advanced AI, demanding urgent safeguards."
             },
             {
                 "slide_index": 7,
-                "headline": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI",
+                "headline": "CHINA: ACCELERATES AI DEVELOPMENT UNDER TIGHT REGULATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Oracle plans to integrate quantum computing into its Cloud Infrastructure, offering cloud-based access to Quantinuum\u2019s Helios system. This strategic move provides enterprises with cutting-edge tools for solving complex hybrid artificial intelligence problems."
+                "narration_line": "China is rapidly accelerating its artificial intelligence development under stringent regulatory control. This dual approach balances rapid tech growth with centralized governance for AI deployment."
             },
             {
                 "slide_index": 8,

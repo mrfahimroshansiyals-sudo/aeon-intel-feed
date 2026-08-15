@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "NVIDIA INVESTS IN SPACEX AI",
-                "visual_caption": "IBM & OpenAI forge strategic partnership for enterprise AI. Collaboration accelerates enterprise digital transformation and solution deployments."
+                "headline": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE FINANCING",
+                "teaserTitle": "GOOGLE INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "NVIDIA partners with top financial firms to mobilize over $500B for AI compute infrastructure. This massive capital injection addresses escalating demand & shapes future strategic tech partnerships globally."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX AI STAKE",
-                "teaserTitle": "OPENAI TALENT EXODUS",
-                "visual_caption": "NVIDIA discloses $21B stake in SpaceX AI. Investment fuels GPU demand for advanced AI & satellite networks."
+                "headline": "GOOGLE: INTRODUCES GEMINI 3.7 FLASH AND PRICE ADJUSTMENTS",
+                "teaserTitle": "NVIDIA DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+                "visual_caption": "Google launches Gemini 3.7 Flash, its latest AI model, with significant price adjustments to attract developers. This strategic move intensifies the price war among frontier model providers, fostering wider adoption."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: TALENT EXODUS RAISES IPO CONCERNS",
-                "teaserTitle": "DATABRICKS IPO INEVITABLE",
-                "visual_caption": "OpenAI talent exodus raises IPO concerns. Departures impact stability, potentially affecting valuation."
+                "headline": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
+                "teaserTitle": "EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
+                "visual_caption": "NVIDIA downsizes its $250B guarantee for OpenAI's data center development plans. This signals a re-evaluation of investment scale & partnership dynamics between the AI industry giants."
             },
             {
                 "slide_index": 4,
-                "headline": "DATABRICKS: IPO INEVITABLE AFTER $5B FUNDING",
-                "teaserTitle": "JANE STREET SUFFERS AI LOSSES",
-                "visual_caption": "Databricks poised for IPO after $5B funding. Capital fuels expansion in data lakehouse & gen AI offerings."
+                "headline": "REGULATION: EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
+                "teaserTitle": "MICROSOFT SLASHES CODING MODEL PRICES",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "EU AI Office hires 40 new experts for tech, legal, & ops roles to enforce the EU AI Act. This expansion highlights EU's commitment to robust AI governance & global regulatory standards."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: JANE STREET SUFFERS $15B AI LOSS",
-                "teaserTitle": "DEEPSEEK AI PRICE HIKE",
-                "visual_caption": "Jane Street Capital suffers $15B AI trading loss. Highlights vulnerabilities in automated AI financial models."
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
+                "teaserTitle": "AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
+                "visual_caption": "Microsoft slashes prices for its AI coding models to boost market competitiveness. This aggressive strategy aims to attract more developers & challenge rivals in the generative AI space."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: V4 PRICES SURGE OVER 10X AMID DEMAND",
-                "teaserTitle": "ORACLE QUANTUM AI INTEGRATION",
-                "visual_caption": "DeepSeek V4 prices surge over 10x due to AI demand. Tightening market increases operational costs for developers."
+                "headline": "AI ETHICS: AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
+                "teaserTitle": "CHINA ACCELERATES AI DEVELOPMENT",
+                "visual_caption": "New research: AI can now design functional viruses, raising serious ethical & security questions globally. This breakthrough highlights the dual-use nature of advanced AI, demanding urgent safeguards."
             },
             {
                 "slide_index": 7,
-                "headline": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI",
+                "headline": "CHINA: ACCELERATES AI DEVELOPMENT UNDER TIGHT REGULATION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Oracle brings quantum computing to OCI via Quantinuum. Provides enterprises tools for complex hybrid AI problems."
+                "visual_caption": "China rapidly accelerates AI development under stringent regulatory control. This dual approach balances rapid tech growth with centralized governance for AI deployment."
             },
             {
                 "slide_index": 8,

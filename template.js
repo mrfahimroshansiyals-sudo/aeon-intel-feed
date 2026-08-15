@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE",
-        "titleBlue": "AI",
-        "footerSummary": "IBM and OpenAI forge a strategic alliance, embedding frontier AI models and engineering expertise to accelerate enterprise-wide digital transformation and solution deployments."
+        "titleWhite": "MOBILIZES $500B FOR AI INFRASTRUCTURE",
+        "titleBlue": "FINANCING",
+        "footerSummary": "NVIDIA and top financial firms mobilize over $500B for AI compute infrastructure, addressing escalating demand and shaping future strategic tech partnerships globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM: PARTNERS WITH OPENAI TO ACCELERATE ENTERPRISE AI",
+            "heading": "NVIDIA: MOBILIZES $500B FOR AI INFRASTRUCTURE FINANCING",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership to embed frontier AI models and engineering expertise into IBM consulting services.",
-                "This alliance aims to accelerate enterprise-wide AI transformation, focusing on large-scale deployment and integration of advanced AI solutions.",
-                "The collaboration positions IBM as a key delivery mechanism for OpenAI's sophisticated models within complex corporate environments.",
-                "Businesses can expect faster adoption cycles and more robust, tailored AI applications directly supported by leading AI and consulting firms."
+                "NVIDIA has partnered with leading financial institutions like Apollo, BlackRock, and Goldman Sachs to establish AI compute infrastructure financing platforms.",
+                "This initiative aims to mobilize over $500 billion in third-party capital, significantly boosting investment in global AI compute resources.",
+                "The strategic move addresses the escalating demand for high-performance AI infrastructure and accelerates large-scale deployment capabilities for enterprises.",
+                "This partnership signals a new era of capital influx into AI, impacting data center growth, silicon development, and the overall economic landscape of AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA INVESTS IN SPACEX AI",
+            "nextUpTease": "GOOGLE INTRODUCES GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai-aug-14-2026",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms",
+                "Published: 2026-08-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: DISCLOSES $21B SPACEX AI STAKE",
+            "heading": "GOOGLE: INTRODUCES GEMINI 3.7 FLASH AND PRICE ADJUSTMENTS",
             "points": [
-                "NVIDIA has disclosed a significant $21 billion stake in SpaceX, signaling a deeper integration of its AI infrastructure with space technology.",
-                "This investment reinforces the growing demand for NVIDIA's GPUs in data centers supporting advanced AI and satellite communication networks.",
-                "The move highlights a strategic cross-industry play, extending NVIDIA's reach into satellite internet and AI-powered space applications.",
-                "Analysts predict enhanced AI capabilities for SpaceX\u2019s Starlink, alongside potential advancements in orbital data processing for various industries."
+                "Google has introduced Gemini 3.7 Flash, a new tier in its generative AI model lineup, aiming to attract developers with competitive pricing.",
+                "This launch includes significant price adjustments, with lower introductory rates designed to undercut rivals and stimulate broader adoption of Google's AI models.",
+                "The strategic pricing reflects an intensified price war among frontier model providers, focusing on coding applications and developer engagement.",
+                "Enterprises can leverage these new models for cost-effective AI development, potentially accelerating innovation across various business functions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI TALENT EXODUS",
+            "nextUpTease": "NVIDIA DOWNSIZES OPENAI DATA CENTER GUARANTEE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-                "Published: 2026-08-15T06:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: TALENT EXODUS RAISES IPO CONCERNS",
+            "heading": "NVIDIA: DOWNSIZES OPENAI DATA CENTER GUARANTEE",
             "points": [
-                "A significant talent exodus at OpenAI is reportedly raising \"huge red flags\" among investors ahead of its anticipated initial public offering (IPO).",
-                "Departures include key researchers and ethicists, impacting team stability and potentially delaying critical safety and development milestones.",
-                "The internal upheaval suggests growing pressure from commercialization efforts and disagreements over AI safety protocols.",
-                "This trend could influence investor confidence and regulatory scrutiny, potentially affecting OpenAI's valuation and market reception post-IPO."
+                "NVIDIA has downsized its previously announced $250 billion guarantee for OpenAI's data center development plans.",
+                "This reduction signals a re-evaluation of investment scale or partnership dynamics between the two AI industry giants amidst evolving market conditions.",
+                "The adjustment could impact the pace and scope of OpenAI's ambitious infrastructure build-out, potentially leading to revised timelines.",
+                "Stakeholders may interpret this as a recalibration of financial commitments within the highly capital-intensive frontier AI sector, affecting future collaborations."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS IPO INEVITABLE",
+            "nextUpTease": "EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/openai-talent-exodus-raises-huge-red-flag-ahead-of-ipo.html",
+                "Source: https://www.dowjones.com/newswires/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center",
                 "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DATABRICKS: IPO INEVITABLE AFTER $5B FUNDING",
+            "heading": "REGULATION: EU AI OFFICE HIRES 40 FOR AI ACT ENFORCEMENT",
             "points": [
-                "Databricks is poised for an IPO after securing an additional $5 billion in funding, pushing its valuation higher in the data and AI market.",
-                "Experts suggest the benefits of public listing now outweigh remaining private, indicating market readiness and strong investor demand.",
-                "The substantial capital injection signals aggressive expansion plans in its data lakehouse and generative AI offerings.",
-                "This move will intensify competition among cloud data platforms, potentially driving further consolidation and innovation in the sector."
+                "The EU AI Office has announced a major hiring initiative, seeking 40 new experts in tech, legal, and operations to bolster its enforcement capabilities.",
+                "This significant expansion aims to ensure rigorous and effective implementation of the landmark EU AI Act across member states and affected entities.",
+                "The recruitment drive highlights the EU's commitment to establishing robust governance frameworks and setting global standards for AI regulation.",
+                "Businesses operating in or with the EU must prepare for increased scrutiny and compliance requirements as the AI Act's enforcement takes full effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "JANE STREET SUFFERS AI LOSSES",
+            "nextUpTease": "MICROSOFT SLASHES CODING MODEL PRICES",
             "tags": [
-                "Source: https://www.techtarget.com/news/366050543/ipo-inevitable-for-databricks-after-adding-5b-in-funding",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://artificialintelligenceact.eu/",
+                "Published: 2026-08-15T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FINANCE: JANE STREET SUFFERS $15B AI LOSS",
+            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES TO BOOST COMPETITIVENESS",
             "points": [
-                "Jane Street Capital suffered an estimated $15 billion loss due to unexpected market turbulence attributed to a meltdown at \"Situational Awareness.\"",
-                "The secretive Wall Street trading firm was reportedly wrongfooted by an \"AI rout\" in July, highlighting risks associated with algorithmic trading.",
-                "This event underscores vulnerabilities in highly automated, AI-driven financial models reacting to unforeseen market conditions.",
-                "Regulators and financial institutions will likely increase scrutiny on AI-powered trading systems and their risk management frameworks."
+                "Microsoft has significantly reduced prices for its AI coding models, a strategic move aimed at staying competitive in the rapidly evolving market.",
+                "This aggressive pricing strategy seeks to attract more developers and enterprises, challenging rivals like Google and OpenAI in the generative AI space.",
+                "The price cuts reflect the intense competition for market share in AI development tools and the increasing focus on cost-efficiency for large-scale adoption.",
+                "Developers can now access advanced coding assistance at lower costs, potentially accelerating software development cycles and innovation across industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK AI PRICE HIKE",
+            "nextUpTease": "AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/jane-street-suffers-loss-of-about-15-billion-following-troubles-at-situational-awareness",
-                "Published: 2026-08-15T06:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: V4 PRICES SURGE OVER 10X AMID DEMAND",
+            "heading": "AI ETHICS: AI DESIGNS FUNCTIONAL VIRUSES, RAISING CONCERNS",
             "points": [
-                "DeepSeek has significantly raised its V4 model prices, with some tiers seeing over a 10x increase, due to intense AI demand and capacity strain.",
-                "The price hike, while dismaying to some developers, is nuanced by off-peak pricing, cache discounts, and multi-model routing options.",
-                "This signals a tightening market for AI model access, driven by surging computational requirements for advanced applications.",
-                "Developers face increased operational costs, prompting a re-evaluation of AI model efficiency and API utilization strategies."
+                "New research indicates that AI models can now be used to design functional viruses, raising serious ethical and security questions globally.",
+                "This technical breakthrough highlights the dual-use nature of advanced AI, presenting both potential medical promise and significant bio-security risks.",
+                "The development necessitates urgent discussions on governance, responsible AI research, and the implementation of safeguards to prevent misuse.",
+                "Policymakers and AI developers must collaborate to establish clear guidelines and regulatory frameworks to mitigate the inherent dangers of such capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE QUANTUM AI INTEGRATION",
+            "nextUpTease": "CHINA ACCELERATES AI DEVELOPMENT",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710777/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-can-now-design-functional-viruses-should-we-worry",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ORACLE: BRINGS QUANTUM COMPUTING TO OCI",
+            "heading": "CHINA: ACCELERATES AI DEVELOPMENT UNDER TIGHT REGULATION",
             "points": [
-                "Oracle plans to integrate quantum computing into its Oracle Cloud Infrastructure (OCI), offering cloud-based access to Quantinuum\u2019s Helios system.",
-                "This service will bridge quantum computing with existing AI and High-Performance Computing (HPC) environments within OCI.",
-                "The strategic move aims to provide enterprises with cutting-edge tools for solving complex problems beyond classical computation.",
-                "Early adopters can explore hybrid AI workloads, leveraging quantum advantage for specialized tasks and accelerating scientific discovery."
+                "China is rapidly accelerating its artificial intelligence development, with a strong focus on both technological advancement and stringent regulatory control.",
+                "The nation's strategy aims to foster innovation while simultaneously keeping AI systems aligned with national policy and societal guidelines.",
+                "This dual approach positions China as a unique player, blending rapid tech growth with a centralized governance model for AI deployment.",
+                "International businesses and policymakers observe China's model for insights into managing AI's societal impact alongside its economic benefits."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com/article/654876/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.dowjones.com/newswires/china-is-moving-fast-on-ai-its-also-keeping-it-in-line",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
