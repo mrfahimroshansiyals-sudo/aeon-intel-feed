@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI'S GPT-5.6 FRONTIER MODEL RELEASE",
+        "hookTitle": "EXPANDING DAYBREAK AS CYBER DEFENSE NARROWS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
-                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "headline": "OPENAI: EXPANDING DAYBREAK AS CYBER DEFENSE NARROWS",
+                "teaserTitle": "AMD: ANTHROPIC PARTNERSHIP FOR MI450 SERIES GPUS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, its most advanced frontier model to date, designed for unprecedented scale. This release significantly enhances reasoning and complex problem-solving, setting new benchmarks for enterprise AI applications."
+                "narration_line": "OpenAI has launched its Daybreak initiative, a strategic move to fortify its AI models against cyber threats. This program significantly reduces the window of vulnerability for integrated AI systems."
             },
             {
                 "slide_index": 2,
-                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "headline": "AMD: ANTHROPIC PARTNERSHIP FOR MI450 SERIES GPUS",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS FOR SPECIALIZED AI",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "TSMC unveiled its A16 nanosheet technology with Super Power Rail, purpose-built for HPC and AI applications. This foundational shift promises 15% speed gains and improved power efficiency for next-gen AI accelerators."
+                "narration_line": "AMD and Anthropic announced a strategic partnership to deploy up to two gigawatts of AMD Instinct MI four hundred fifty Series GPUs. This substantial infrastructure investment aims to accelerate Anthropic's large-scale AI research and model training initiatives."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: AMD-POWERED AI & HPC VMS EXPAND",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH VARIANTS FOR SPECIALIZED AI",
+                "teaserTitle": "MICROSOFT AZURE: IQ AND FOUNDRY PLATFORMS FOR AI AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7). These VMs offer up to 2.5 times faster processing for demanding AI workloads, accelerating training."
+                "naration_line": "Google Cloud introduced new Gemini Flash variants, including three point six Flash, three point five Flash-Lite, and three point five Flash Cyber. These models offer optimized performance for specialized AI tasks, such as enhanced coding and robust cybersecurity applications."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
-                "teaserTitle": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
+                "headline": "MICROSOFT AZURE: IQ AND FOUNDRY PLATFORMS FOR AI AGENTS",
+                "teaserTitle": "IBM & OPENAI: STRATEGIC ALLIANCE FOR ENTERPRISE AI DEPLOYMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, an intelligent model optimized for coding and advanced AI agents. This release boosts developer productivity by 30 percent, delivering faster response times and enhanced accuracy for complex tasks."
+                "narration_line": "Microsoft Azure introduced its new IQ and Foundry platforms, designed to provide comprehensive, shared context for AI agents. Microsoft IQ securely connects agents to enterprise systems, enhancing their reasoning and action with full business context."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: NEMOTRON & NEMO SWITCHYARD LAUNCH",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "IBM & OPENAI: STRATEGIC ALLIANCE FOR ENTERPRISE AI DEPLOYMENT",
+                "teaserTitle": "MIT TECH REVIEW: FUNDAMENTAL FLAW EXPOSES LLM VULNERABILITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA launched Nemotron 3.5 Lightning and NeMo Switchyard, accelerating agentic AI with faster, smarter, and more efficient routing. NeMo Switchyard reduces inference costs by up to 40 percent for multi-model applications."
+                "narration_line": "IBM and OpenAI have formed a strategic alliance to accelerate enterprise AI deployment. The partnership combines IBM's consulting services with OpenAI's frontier models, driving AI-centric transformation."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "headline": "MIT TECH REVIEW: FUNDAMENTAL FLAW EXPOSES LLM VULNERABILITY",
+                "teaserTitle": "GOOGLE: GEMINI OMNI FLASH & NANO BANANA 2 LITE LAUNCH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduced Shieldstral, an initiative for in-region inference and open models, enhancing European infrastructure for sovereign AI. This strengthens data autonomy, ensuring compliance with local regulations and mitigating cross-border data risks."
+                "narration_line": "MIT Technology Review highlights a fundamental flaw leaving large language models strikingly vulnerable to attack. This vulnerability enables tricking LLMs into generating harmful content, bypassing safety measures and posing significant security risks."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE LAUNCH",
+                "headline": "GOOGLE: GEMINI OMNI FLASH & NANO BANANA 2 LITE LAUNCH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google Cloud launched AI Threat Defense, a new security service leveraging advanced AI to outpace cyber adversaries. This service reduces breach detection time by up to 60 percent, bolstering cloud security posture against emerging threats."
+                "narration_line": "Google has launched Gemini Omni Flash and Nano Banana two Lite, expanding its multimodal and image generation AI models. Gemini Omni Flash creates content from video, while Nano Banana two Lite offers faster, more efficient image generation."
             },
             {
                 "slide_index": 8,
