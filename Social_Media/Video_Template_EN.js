@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 FRONTIER MODEL RELEASE",
+        "hookTitle": "GLOBAL AI INTELLIGENCE: CRITICAL UPDATES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
+                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCHES FOR AI AGENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, its latest frontier AI model. This advanced system promises up to a 20% increase in performance over prior versions."
+                "narration_line": "IBM and OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM's consulting services. This collaboration is set to significantly reduce AI implementation cycles for businesses worldwide."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCHES FOR AI AGENTS",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduced Gemini 3.7 Flash and Omni, expanding its AI model suite. These models target developers with competitive pricing and enhanced coding applications."
+                "narration_line": "NVIDIA introduces NeMo Switchyard, a new platform for routing and managing AI models, enhancing agentic AI orchestration. The system optimizes multi-model application efficiency and scalability for enterprise operations."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "GOOGLE CLOUD: LAUNCHES OMNI FLASH & NANO BANANA 2 LITE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure unveiled new AMD-powered AI and HPC virtual machines. These VMs offer significantly enhanced compute performance for demanding AI and data workloads."
+                "narration_line": "Google Cloud unveils its AI Threat Defense platform, designed to proactively mitigate sophisticated cyber threats using artificial intelligence. This platform significantly enhances real-time threat detection and automated response."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
-                "teaserTitle": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
+                "headline": "GOOGLE CLOUD: LAUNCHES OMNI FLASH & NANO BANANA 2 LITE",
+                "teaserTitle": "HEALTH AI: ACCELERATING MEDICAL MYSTERY DIAGNOSES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's revenue surged to over 11.5 billion dollars in Q2 2026. This growth signals robust market demand for their Claude models and enterprise AI solutions."
+                "narration_line": "Google Cloud launches Gemini Omni Flash and Nano Banana Two Lite, expanding its generative AI model suite. These models offer improved performance for multi-modal generation and efficient image creation."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
-                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "headline": "HEALTH AI: ACCELERATING MEDICAL MYSTERY DIAGNOSES",
+                "teaserTitle": "MANUFACTURING: INDUSTRY MEETS AI DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A fundamental flaw in large language models exposes them to adversarial attacks. This vulnerability allows models to be tricked into harmful outputs."
+                "narration_line": "Artificial intelligence is now accelerating the diagnosis of complex medical mysteries by analyzing vast clinical datasets. This innovation rapidly identifies subtle diagnostic patterns, leading to quicker treatments for patients."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
-                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+                "headline": "MANUFACTURING: INDUSTRY MEETS AI DATA CENTER DEMAND",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The EU AI Office is hiring 40 new posts for AI Act enforcement. This expansion signals a rapid acceleration in regulatory compliance monitoring."
+                "narration_line": "Big manufacturers report a surge in demand for equipment to build and operate AI data centers, driving significant industrial growth. This trend provides foundational hardware for expanding global AI capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Common Earth Project addresses semiconductor chip supply chain bottlenecks. This initiative aims to ensure stable access to essential AI hardware components."
+                "naration_line": "Mistral AI introduces Shieldstral, focusing on in-region inference and secure, open models for sovereign AI solutions. This initiative bolsters data privacy and regulatory compliance for European enterprises."
             },
             {
                 "slide_index": 8,
