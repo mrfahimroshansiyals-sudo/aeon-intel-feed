@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA'S $21B SPACEX AI STRATEGY",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
-                "teaserTitle": "ANTHROPIC Q2 REVENUE EXCEEDS $11.5B",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "OPENAI EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA disclosed a $21 billion stake in SpaceX, signaling a strategic commitment to aerospace and satellite AI. This investment aims to accelerate edge AI processing within satellite networks for real-time data analysis."
+                "narration_line": "OpenAI has launched GPT-5.6, its new frontier model, bringing significant advancements in intelligence and enterprise capabilities. This model aims to redefine the limits of AI systems for complex problem-solving."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: Q2 REVENUE EXCEEDS $11.5B",
-                "teaserTitle": "GOOGLE LAUNCHES CONTENT PROVENANCE C++ LIBRARY",
+                "headline": "OPENAI: EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
+                "teaserTitle": "GOOGLE CLOUD INTRODUCES NEW GEMINI FLASH MODELS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic's Q2 revenue reportedly exceeded $11.5 billion, driven by strong market demand for its Claude AI models. This growth reflects robust enterprise adoption, fueling further R&D in AI safety."
+                "narration_line": "OpenAI is expanding free access to its GPT-5.6 Luna model within ChatGPT, democratizing advanced AI capabilities for a broader user base. This move lowers barriers for developers and fosters innovation across the AI ecosystem."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE: LAUNCHES CONTENT PROVENANCE C++ LIBRARY",
-                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "teaserTitle": "IBM & OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google launched a new C++ library for content provenance, aiming to combat misinformation and verify digital asset authenticity. This initiative provides developers with tools for embedding cryptographic signatures into content."
+                "narration_line": "Google Cloud introduced new Gemini Flash models, including 3.6 Flash and 3.5 Flash-Lite, expanding its portfolio of efficient AI solutions. These models offer optimized performance and cost-efficiency for diverse generative AI applications."
             },
             {
                 "slide_index": 4,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "GOOGLE DEEPMIND LOWERS GEMINI 3.7 FLASH PRICE",
+                "headline": "IBM & OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "DEEPSEEK RAISES V4 PRICES BY OVER 10X",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases, enhancing agentic AI application development. This move offers seamless data persistence for AI agents, improving multi-step workflow performance."
+                "narration_line": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment by integrating frontier models. This collaboration provides specialized AI engineering talent to overcome adoption barriers for large corporations."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: LOWERS GEMINI 3.7 FLASH PRICE",
-                "teaserTitle": "MISTRAL AI INTRODUCES SHIELDSTRAL",
+                "headline": "DEEPSEEK: RAISES V4 PRICES BY OVER 10X",
+                "teaserTitle": "MICROSOFT AZURE EXPANDS AI HPC VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind lowered the intro price for Gemini 3.7 Flash, aiming to attract more developers and increase AI application adoption. This strategic move makes powerful generative AI more accessible for coding tasks."
+                "narration_line": "DeepSeek has increased prices for some V4 model APIs by over 10 times, citing strained capacity due to surging AI demand. This move highlights intense computational resource requirements and impacts AI economic landscape."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
-                "teaserTitle": "OPENAI'S AI ETHICS LEAD RESIGNS",
+                "headline": "MICROSOFT AZURE: EXPANDS AI HPC VIRTUAL MACHINES",
+                "teaserTitle": "EU AI ACT ANNOUNCES MAJOR ENFORCEMENT HIRING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduced Shieldstral, an initiative for in-region inference and open models with European infrastructure. This empowers organizations with localized AI capabilities, ensuring compliance with data governance."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2 and HXv2 series. These VMs support demanding AI and technical computing workloads, boosting cloud AI capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: AI ETHICS LEAD RESIGNS",
+                "headline": "EU AI ACT: ANNOUNCES MAJOR ENFORCEMENT HIRING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI's Head of AI Ethics, Chlo\u00e9 Bakalar, resigned after one year, signaling potential internal challenges in ethical AI governance. This departure may impact efforts to ensure responsible AI practices."
+                "narration_line": "The EU AI Office is hiring 40 new tech, legal, and operations staff to rigorously enforce the EU AI Act by September. This strengthens regulatory oversight and sets precedents for ethical AI development globally."
             },
             {
                 "slide_index": 8,
