@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER MODEL",
-        "titleBlue": "LAUNCH",
-        "footerSummary": "OpenAI deploys GPT-5.6, setting new benchmarks for scaling ambition. Azure expands with AMD-powered AI VMs, as Google Cloud launches AI Threat Defense."
+        "titleWhite": "INTRODUCES GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash. NVIDIA secures $500B for AI infrastructure. Anthropic's Q2 revenue hits $11.5B, signaling market growth."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL LAUNCH",
+            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
             "points": [
-                "OpenAI has officially released GPT-5.6, a new frontier intelligence model designed for advanced reasoning and scaling enterprise applications.",
-                "Early benchmarks indicate significant improvements in efficiency and accuracy across a range of tasks, driving down inference costs for high-volume API consumption.",
-                "The architectural advancements include optimized processing units and a more robust inference engine, allowing for seamless integration into diverse enterprise environments.",
-                "Stakeholders can expect accelerated development cycles for AI-powered products and services, alongside a heightened demand for specialized AI talent."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, their latest intelligent workhorse model, optimized for coding and advanced agent capabilities.",
+                "This new model significantly enhances developer productivity and efficiency, offering improved performance in long-horizon tasks and complex code generation.",
+                "Architecturally, Gemini 3.7 Flash is designed for speed and cost-efficiency, enabling broader deployment in agentic applications and integrated development environments.",
+                "Developers can expect lower inference costs and faster deployment cycles for their AI-powered solutions, boosting innovation across various industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM PARTNERS WITH OPENAI FOR ENTERPRISE AI",
+            "nextUpTease": "NVIDIA MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-16T14:42:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI",
+            "heading": "NVIDIA: MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
             "points": [
-                "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment, integrating OpenAI's frontier models with IBM's consulting services.",
-                "The initiative embeds OpenAI-trained forward-deployed engineers into IBM consulting teams, focusing on custom solutions and operationalizing AI.",
-                "This architectural alliance is designed to bridge the gap between cutting-edge AI research and practical, secure enterprise applications, emphasizing data governance.",
-                "Enterprises will benefit from tailored AI roadmaps and dedicated expert resources, enabling them to leverage advanced generative AI for strategic transformation."
+                "NVIDIA, in partnership with major financial institutions, is establishing platforms to mobilize over $500B for AI compute infrastructure.",
+                "This initiative aims to address the soaring demand for AI compute, significantly expanding global capacity and accelerating advanced model training.",
+                "The architectural shift positions AI compute as an investable asset class, enabling broader and more consistent funding for large-scale deployments.",
+                "Investors and enterprises gain access to critical capital for building next-generation AI factories, securing long-term computational resources."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "ANTHROPIC REPORTS $11.5B REVENUE IN Q2",
             "tags": [
-                "Source: https://www.cio.com/article/openai-ibm-partnership-enterprise-ai",
-                "Published: 2026-08-14T15:30:00Z",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These new offerings provide up to a 30% performance boost for deep learning inference and high-performance computing tasks, significantly enhancing processing capabilities.",
-                "The architectural integration of AMD Instinct MI455X GPUs ensures robust support for large-scale AI training, data processing, and scientific simulations within Azure's global cloud network.",
-                "Cloud architects and data scientists can now access more powerful, cost-effective options for deploying and scaling their AI and HPC environments, accelerating research and commercial innovation."
+                "Anthropic reportedly saw its revenue jump to over $11.5 billion in the second quarter of 2026, signaling robust growth in the AI sector.",
+                "This financial performance highlights the escalating demand for advanced AI models and enterprise-grade conversational AI solutions.",
+                "The revenue surge reflects successful market penetration, driven by key partnerships and the adoption of its Claude models for business applications.",
+                "Competitors and investors should note the accelerating commercialization of frontier AI, intensifying market competition and valuation benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
+            "nextUpTease": "EU AI ACT LAUNCHES MASSIVE AI OFFICE HIRING",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-16T12:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-            "points": [
-                "Google Cloud has unveiled AI Threat Defense, a new security service designed to proactively outpace advanced cyber threats using artificial intelligence.",
-                "The service integrates real-time threat intelligence and behavioral analytics, demonstrating a 40% reduction in detection time for zero-day exploits.",
-                "Architecturally, AI Threat Defense provides a comprehensive, multi-layered security framework that continuously learns and adapts to emerging attack vectors, securing cloud environments.",
-                "Enterprise security teams will gain an intelligent shield against evolving cyber risks, ensuring data integrity and system availability, critical for business continuity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MISTRAL AI LAUNCHES IN-REGION INFERENCE PLATFORM",
-            "tags": [
-                "Source: https://cloud.google.com/blog/google-ai-threat-defense-outpace-adversary",
-                "Published: 2026-08-16T11:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MISTRAL AI: LAUNCHES IN-REGION INFERENCE PLATFORM",
-            "points": [
-                "Mistral AI has launched a new in-region inference platform, offering open models and enhanced European infrastructure to support sovereign AI initiatives.",
-                "The platform emphasizes data residency and compliance, reducing latency for European customers by 15% and ensuring adherence to strict regional data protection regulations.",
-                "Architecturally, it provides dedicated compute capacity for training and inference, enabling organizations to build tailored AI systems with greater control over data and model governance.",
-                "Governments and enterprises can now deploy advanced AI solutions while meeting stringent data sovereignty requirements, accelerating innovation within their secure digital borders."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "IEEE COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
-            "tags": [
-                "Source: https://mistral.ai/news/in-region-inference-open-models-new-european-infrastructure-sovereign-ai/",
+                "Source: https://www.cnbc.com/technology/",
                 "Published: 2026-08-16T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
+            "id": 4,
+            "heading": "EU AI ACT: LAUNCHES MASSIVE AI OFFICE HIRING",
             "points": [
-                "The IEEE-backed Common Earth Project aims to address critical bottlenecks in the global semiconductor chip supply chain through collaborative research and standardized protocols.",
-                "Preliminary simulations suggest the project could reduce chip manufacturing lead times by up to 10% and mitigate supply disruptions by 20% through optimized material sourcing.",
-                "Architecturally, the project proposes a federated data-sharing framework for supply chain participants, enabling real-time visibility and predictive analytics to anticipate future shortages.",
-                "Chipmakers, governments, and technology companies stand to gain from a more stable and predictable supply of essential components, underpinning global technological advancement."
+                "The EU AI Office is initiating a massive hiring round, seeking 40 new experts in tech, legal, and operations to enforce the AI Act.",
+                "This significant expansion underscores the EU's commitment to robust AI governance, establishing a comprehensive regulatory oversight body.",
+                "The office will develop and implement compliance frameworks, ensuring that AI systems deployed within the EU adhere to ethical and safety standards.",
+                "AI developers and deployers operating in the EU must prepare for heightened scrutiny and strict adherence to emerging regulatory requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOW JONES AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+            "nextUpTease": "OPENAI ETHICS LEAD RESIGNS AMID UPHEAVAL",
             "tags": [
-                "Source: https://spectrum.ieee.org/common-earth-project-chip-supply-chain",
-                "Published: 2026-08-16T13:00:00Z",
+                "Source: https://artificialintelligenceact.eu/",
+                "Published: 2026-08-14T12:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OPENAI: ETHICS LEAD RESIGNS AMID UPHEAVAL",
+            "points": [
+                "OpenAI's AI ethics lead, Chlo\u00e9 Bakalar, has resigned, adding to internal upheaval as Sam Altman reportedly prepares for an IPO push.",
+                "This departure raises questions about the company's internal governance and commitment to ethical AI development amidst rapid commercial expansion.",
+                "The structural changes and executive exits suggest a strategic refocus, potentially prioritizing productization and market growth over ethics and safety concerns.",
+                "Stakeholders may scrutinize OpenAI's future commitment to responsible AI, impacting trust and regulatory perceptions in the broader industry."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DEEPSEEK RAISES V4 MODEL PRICING OVER 10X",
+            "tags": [
+                "Source: https://www.cio.com/article/openai-loses-ai-ethics-lead",
+                "Published: 2026-08-14T10:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "DEEPSEEK: RAISES V4 MODEL PRICING OVER 10X",
+            "points": [
+                "DeepSeek has drastically increased prices for its V4 models by over 10x, citing immense AI demand straining existing compute capacity.",
+                "This pricing adjustment reflects the escalating costs of advanced model inference and the growing scarcity of high-performance AI compute resources.",
+                "The strategic move aims to optimize resource allocation and manage overwhelming demand, although off-peak pricing and cache discounts are offered.",
+                "Enterprises and developers relying on external AI models should anticipate significant budget re-evaluation and explore multi-model routing strategies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOOGLE DEEPMIND WEATHERNEXT CYCLONE FORECASTING AI",
+            "tags": [
+                "Source: https://www.cio.com/article/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOW JONES: AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+            "heading": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING AI",
             "points": [
-                "The Wall Street Journal reports AI is increasingly helping patients solve complex medical mysteries and aiding in early diagnosis of rare conditions.",
-                "Initial case studies show AI algorithms can identify subtle patterns in medical data, leading to diagnoses in approximately 70% of previously undiagnosed cases.",
-                "The technical breakthrough involves advanced pattern recognition and large-scale data synthesis across diverse medical datasets, enhancing the capabilities of human clinicians.",
-                "Healthcare providers and patients can anticipate faster, more accurate diagnoses, potentially leading to earlier intervention and improved treatment outcomes."
+                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in accurately forecasting cyclones, enhancing predictive capabilities.",
+                "This advancement provides more precise and earlier warnings for severe weather events, potentially reducing disaster impact and improving preparedness by up to 24 hours.",
+                "The technical innovation leverages advanced machine learning algorithms to process vast atmospheric datasets, improving resolution and speed of global weather models.",
+                "Governments, emergency services, and at-risk populations stand to benefit from more reliable climate predictions and enhanced disaster response planning."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.wsj.com/articles/ai-helping-patients-solve-medical-mysteries",
-                "Published: 2026-08-16T11:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

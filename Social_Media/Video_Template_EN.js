@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI MODEL LAUNCHES",
+        "hookTitle": "FRONTIER AI: GEMINI 3.7 FLASH DEBUTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL LAUNCH",
-                "teaserTitle": "IBM PARTNERS WITH OPENAI FOR ENTERPRISE AI",
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "NVIDIA MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI released GPT-5.6, a new frontier intelligence model for advanced reasoning and scaling enterprise applications. This launch enhances complex problem-solving and multi-agent systems efficiency."
+                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, their new workhorse model optimized for coding and advanced AI agents. This model significantly boosts developer productivity and accelerates deployment of AI solutions across various industries."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI",
-                "teaserTitle": "AZURE AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "headline": "NVIDIA: MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
+                "teaserTitle": "ANTHROPIC REPORTS $11.5B REVENUE IN Q2",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "IBM and OpenAI partnered to accelerate enterprise AI deployment, integrating frontier models with IBM consulting services. This collaboration streamlines AI adoption and custom solution development for large organizations."
+                "narration_line": "NVIDIA, with partners like Apollo and BlackRock, is establishing financing platforms to mobilize over 500 billion dollars for AI compute infrastructure. This massive investment aims to expand global AI capacity and secure essential resources for next-gen AI factories."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
+                "headline": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
+                "teaserTitle": "EU AI ACT LAUNCHES MASSIVE AI OFFICE HIRING",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Microsoft Azure launched new AMD-powered AI and HPC virtual machines, including the HDv2, HXv2, and ND MI455Xv7 series. These offer a thirty percent performance boost for deep learning and high-performance computing tasks."
+                "narration_line": "Anthropic's Q2 revenue has reportedly surged past 11.5 billion dollars, reflecting strong market demand for its advanced AI models. This rapid growth intensifies competition and sets new valuation benchmarks within the frontier AI sector."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "MISTRAL AI LAUNCHES IN-REGION INFERENCE PLATFORM",
+                "headline": "EU AI ACT: LAUNCHES MASSIVE AI OFFICE HIRING",
+                "teaserTitle": "OPENAI ETHICS LEAD RESIGNS AMID UPHEAVAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud unveiled AI Threat Defense, a new security service to proactively outpace advanced cyber threats using AI. The platform demonstrated a forty percent reduction in detection time for zero-day exploits."
+                "narration_line": "The EU AI Office is launching a massive hiring initiative, recruiting 40 experts in tech, legal, and operations to enforce the AI Act. This expansion signals the EU's firm commitment to robust AI governance and compliance standards."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: LAUNCHES IN-REGION INFERENCE PLATFORM",
-                "teaserTitle": "IEEE COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
+                "headline": "OPENAI: ETHICS LEAD RESIGNS AMID UPHEAVAL",
+                "teaserTitle": "DEEPSEEK RAISES V4 MODEL PRICING OVER 10X",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced an in-region inference platform with open models and European infrastructure for sovereign AI. This platform reduces latency for EU customers by fifteen percent and ensures data residency."
+                "narration_line": "OpenAI's AI ethics lead, Chloe Bakalar, has resigned amid internal upheaval and IPO preparations. This departure raises questions about the company's commitment to responsible AI and ethical safeguards during rapid growth."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
-                "teaserTitle": "DOW JONES AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+                "headline": "DEEPSEEK: RAISES V4 MODEL PRICING OVER 10X",
+                "teaserTitle": "GOOGLE DEEPMIND WEATHERNEXT CYCLONE FORECASTING AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The IEEE-backed Common Earth Project aims to address global semiconductor chip supply chain bottlenecks through collaborative research. Simulations suggest a ten percent reduction in chip manufacturing lead times."
+                "narration_line": "DeepSeek has dramatically increased prices for its V4 AI models by over tenfold, citing overwhelming demand straining compute capacity. This adjustment reflects escalating inference costs and highlights the growing scarcity of high-performance AI resources."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Wall Street Journal reports AI is helping patients solve complex medical mysteries and aiding in early diagnosis. AI algorithms identified diagnoses in seventy percent of previously undiagnosed cases."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurate cyclone forecasting, enhancing global predictive capabilities. This provides earlier warnings for severe weather events, improving disaster preparedness and reducing potential impact."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
