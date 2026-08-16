@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
+        "hookTitle": "OPENAI UNVEILS GPT-5.6",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
-                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "headline": "OPENAI: GPT-5.6 RELEASE",
+                "teaserTitle": "MICROSOFT AZURE: AGENT ORCHESTRATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has introduced introductory pricing for Gemini 3.7 Flash to target developer adoption for coding workflows. The move reflects intensifying API price competition across frontier model providers."
+                "narration_line": "OpenAI has officially launched its new GPT five-point-six model, offering frontier intelligence with enhanced scalability and multimodal capabilities. This advancement promises to transform enterprise operations by accelerating complex AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "MICROSOFT AZURE: INFRASTRUCTURE EXPANSION",
+                "headline": "MICROSOFT AZURE: AGENT ORCHESTRATION",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "IBM and OpenAI have forged an alliance to embed advanced foundation models into enterprise consulting operations. The partnership deploys specialized engineers to accelerate enterprise artificial intelligence transformation."
+                "naration_line": "Microsoft Azure introduces Foundry and IQ, a new suite for building and governing production AI agents. These tools provide secure shared context for agents, enabling precise business automation and reduced operational latency."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: INFRASTRUCTURE EXPANSION",
-                "teaserTitle": "NVIDIA: MULTI-BILLION DOLLAR INFRASTRUCTURE",
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "teaserTitle": "EU AI ACT: OFFICE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure has expanded its cloud portfolio with new AMD-powered virtual machines for high-performance workloads. These instances deliver up to a 40% throughput increase for intensive training tasks."
+                "narration_line": "Google Cloud rolls out AI Threat Defense, a new security product leveraging AI to proactively counter cyber adversaries. This system significantly reduces threat detection and response times, fortifying critical cloud workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: MULTI-BILLION DOLLAR INFRASTRUCTURE",
-                "teaserTitle": "DATABRICKS: STRATEGIC ACQUISITION",
+                "headline": "EU AI ACT: OFFICE EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI OMNI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Nvidia has partnered with major financial institutions to mobilize over $500B in third-party infrastructure financing. This initiative transforms compute factories into an institutional investment asset class."
+                "narration_line": "The EU AI Office is expanding, with forty new positions opened to bolster AI Act enforcement. This strategic hiring reinforces regulatory oversight for high-risk AI systems, mandating stricter compliance for providers."
             },
             {
                 "slide_index": 5,
-                "headline": "DATABRICKS: STRATEGIC ACQUISITION",
-                "teaserTitle": "AMD: OXFORD RESEARCH PARTNERSHIP",
+                "headline": "GOOGLE DEEPMIND: GEMINI OMNI",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Databricks has acquired Electric to add embeddable PostgreSQL capabilities to its data platform. This integration provides developers with robust database transaction support for agentic applications."
+                "narration_line": "Google DeepMind reveals Gemini Omni, a revolutionary multimodal AI generating content from video and diverse inputs. This model marks a leap in general-purpose creation, empowering creators with new generative capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: OXFORD RESEARCH PARTNERSHIP",
-                "teaserTitle": "EU AI ACT: SCIENTIFIC PANEL ENFORCEMENT",
+                "headline": "MISTRAL AI: SHIELDSTRAL RELEASE",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AMD has partnered with the University of Oxford to advance UK frontier artificial intelligence research. The collaboration contributes compute hardware and open software to support sovereign research."
+                "narration_line": "Mistral AI launches Shieldstral, providing in-region inference and open models with European infrastructure for sovereign AI. This ensures data residency and security, empowering European enterprises with controlled AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: SCIENTIFIC PANEL ENFORCEMENT",
-                "teaserTitle": "",
+                "headline": "NVIDIA: NEMO SWITCHYARD",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Act has activated its Scientific Panel of Independent Experts to monitor foundational models. This framework enforces strict compliance rules for general-purpose artificial intelligence providers."
+                "narration_line": "NVIDIA introduces NeMo Switchyard, a model router optimizing agentic AI workflows across diverse models. It dynamically routes requests for efficiency, dramatically improving throughput and reducing operational costs for enterprise AI."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
