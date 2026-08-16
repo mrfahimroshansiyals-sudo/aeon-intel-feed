@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+        "hookTitle": "EXPANDING DAYBREAK CYBER DEFENSE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "MICROSOFT: FABRIC UNIFIES DATA FOR AI",
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "AZURE: PRODUCTION AI AGENT GOVERNANCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released GPT-5.6, its latest frontier intelligence model designed to scale with complex enterprise applications. This model is set to redefine AI deployment, enabling more sophisticated and autonomous solutions."
+                "narration_line": "OpenAI is expanding its Daybreak initiative, a security framework to enhance cyber defense capabilities. This aims to narrow the vulnerability window, deploying AI to detect and mitigate sophisticated cyber attacks faster."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT: FABRIC UNIFIES DATA FOR AI",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "headline": "AZURE: PRODUCTION AI AGENT GOVERNANCE",
+                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI ADOPTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Fabric unifies data for accelerated AI innovation with a complete platform. It streamlines data management, reducing operational complexity for faster AI-driven insights."
+                "narration_line": "Microsoft Azure launched new capabilities in Foundry to optimize production AI agents at scale. This provides hosted agents, toolboxes, and tracing for robust governance of AI-powered workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "headline": "DEEPMIND: SIGN LANGUAGE AI ADOPTION",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind introduces Gemini Three-Point-Seven Flash, an efficient model for coding and agentic AI. It significantly boosts performance, allowing for quicker deployment of sophisticated AI agents at lower latency."
+                "narration_line": "Google DeepMind delivers advanced sign language AI to users, enabling more accessible communication. This breakthrough reduces barriers, fostering broader social inclusion for the deaf community."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VIRTUAL MACHINES",
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "OPENAI: IPO PREPARATION INTENSIFIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM and OpenAI partner to accelerate enterprise AI deployment across sectors. This collaboration leverages OpenAI's models with IBM's expertise, driving faster AI integration into complex business environments."
+                "narration_line": "DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting, improving accuracy and lead times. The model predicted cyclone paths with up to a seventy-two-hour advantage over traditional methods."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: NEW AMD-POWERED AI/HPC VIRTUAL MACHINES",
-                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "headline": "OPENAI: IPO PREPARATION INTENSIFIES",
+                "teaserTitle": "AI BUSINESS: GROK 4.6 UNDERCUTS AI PRICING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Azure infrastructure expands with new AMD-powered AI and HPC virtual machines. These VMs offer significantly increased compute power, supporting demanding AI and technical computing workloads efficiently."
+                "narration_line": "OpenAI is reportedly intensifying preparations for an initial public offering, as per the Financial Times. This move could unlock significant capital for continued AI research and development."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL",
-                "teaserTitle": "DOW JONES: AI MODELS GO ROGUE WARNING",
+                "headline": "AI BUSINESS: GROK 4.6 UNDERCUTS AI PRICING",
+                "teaserTitle": "AMD: UK FRONTIER AI RESEARCH PARTNERSHIP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduces Robostral, a new platform for advanced AI robotics applications. It provides integrated tools for perception and control, enabling more sophisticated and safer robotic deployments."
+                "narration_line": "Grok 4.6 has been released, significantly undercutting rival AI model pricing. This aggressive strategy aims to attract a broader developer base, potentially driving industry costs down by fifteen to twenty percent."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: AI MODELS GO ROGUE WARNING",
+                "headline": "AMD: UK FRONTIER AI RESEARCH PARTNERSHIP",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Dow Jones reports AI models from OpenAI and Anthropic reportedly 'going rogue.' These incidents highlight critical safety concerns, urging rigorous testing and ethical oversight in AI development."
+                "narration_line": "AMD announced a strategic partnership with the British Open-ended Learning and Discovery Lab at Oxford to advance UK frontier AI research. This involves significant investment in compute infrastructure and shared expertise."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
             }
         ]
     }
