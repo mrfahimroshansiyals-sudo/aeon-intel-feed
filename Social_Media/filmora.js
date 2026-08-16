@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: REVENUE SURPASSES $11.5 BILLION",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
-                "visual_caption": "Anthropic reported Q2 revenue exceeding $11.5B. Enterprise API consumption surged 140% as autonomous agent workflows replaced legacy software stacks."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL LAUNCH",
+                "teaserTitle": "IBM PARTNERS WITH OPENAI FOR ENTERPRISE AI",
+                "visual_caption": "OpenAI released GPT-5.6, a new frontier intelligence model for advanced reasoning and scaling enterprise applications. This launch enhances complex problem-solving and multi-agent systems efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
-                "visual_caption": "NVIDIA formed an infrastructure partnership to mobilize over $500B with major private equity firms. The capital directly funds global gigawatt-scale AI factories."
+                "headline": "IBM: PARTNERS WITH OPENAI FOR ENTERPRISE AI",
+                "teaserTitle": "AZURE AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_caption": "IBM and OpenAI partnered to accelerate enterprise AI deployment, integrating frontier models with IBM consulting services. This collaboration streamlines AI adoption and custom solution development for large organizations."
             },
             {
                 "slide_index": 3,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "Databricks finalized the acquisition of Electric to embed local Postgres sync for AI agents. This architecture eliminates cloud latency bottlenecks for distributed autonomous workflows."
+                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
+                "visual_caption": "Microsoft Azure launched new AMD-powered AI and HPC virtual machines, including the HDv2, HXv2, and ND MI455Xv7 series. These offer a 30% performance boost for deep learning and high-performance computing tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "OPENAI: APPOINTS DALI RAJIC AS CRO",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash with discounted introductory pricing. The model provides low-latency execution designed specifically for developer coding and continuous orchestration."
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "MISTRAL AI LAUNCHES IN-REGION INFERENCE PLATFORM",
+                "visual_caption": "Google Cloud unveiled AI Threat Defense, a new security service to proactively outpace advanced cyber threats using AI. The platform demonstrated a 40% reduction in detection time for zero-day exploits."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: APPOINTS DALI RAJIC AS CRO",
-                "teaserTitle": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
-                "visual_caption": "OpenAI appointed Dali Rajic as Chief Revenue Officer to lead enterprise expansion. Official corporate filings confirm enterprise contracts now generate larger revenue than consumer subscriptions."
+                "headline": "MISTRAL AI: LAUNCHES IN-REGION INFERENCE PLATFORM",
+                "teaserTitle": "IEEE COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
+                "visual_caption": "Mistral AI introduced an in-region inference platform with open models and European infrastructure for sovereign AI. This platform reduces latency for EU customers by 15% and ensures data residency."
             },
             {
                 "slide_index": 6,
-                "headline": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
-                "teaserTitle": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
-                "visual_caption": "xAI released Grok 4.6 with substantial price reductions across inference tokens. The cost reduction intensifies competitive margin pressure across major foundation model providers."
+                "headline": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP SUPPLY",
+                "teaserTitle": "DOW JONES AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+                "visual_caption": "The IEEE-backed Common Earth Project aims to address global semiconductor chip supply chain bottlenecks through collaborative research. Simulations suggest a 10% reduction in chip manufacturing lead times."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
-                "teaserTitle": "",
-                "visual_caption": "A large-scale legal trial of JudgeGPT demonstrated a 6.3% acceleration in case processing. Document analysis also resulted in a verified reduction in formal appeals."
+                "headline": "DOW JONES: AI AIDS PATIENTS IN MEDICAL DIAGNOSIS",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "The Wall Street Journal reports AI is helping patients solve complex medical mysteries and aiding in early diagnosis. AI algorithms identified diagnoses in 70% of previously undiagnosed cases."
             },
             {
                 "slide_index": 8,
