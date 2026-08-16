@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEMINI 3.7 FLASH",
-        "titleBlue": "DEBUTS",
-        "footerSummary": "Gemini 3.7 Flash leads new AI models. Microsoft & IBM drive enterprise solutions. OpenAI faces market shifts as Databricks thrives, and EU ramps up AI regulation."
+        "titleWhite": "NEW GEMINI FLASH MODELS",
+        "titleBlue": "DEBUT",
+        "footerSummary": "Google Cloud launches new Gemini Flash models. OpenAI shifts to enterprise. NVIDIA invests in SpaceX, DeepSeek hikes prices amid AI demand."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS DEBUT",
             "points": [
-                "Google DeepMind launched Gemini 3.7 Flash, its latest and most intelligent workhorse model, engineered for advanced coding and complex agentic workflows. This model represents a significant leap in AI capabilities.",
-                "It offers improved efficiency and performance, notably with a lower introductory price to attract a broader developer base, enhancing accessibility for high-demand AI applications.",
-                "Architecturally, Gemini 3.7 Flash is designed to maximize intelligence per parameter, integrating advanced capabilities for real-time processing and efficient resource utilization.",
-                "Developers can leverage this model to build next-generation enterprise agents and innovative applications, driving down operational costs and accelerating development cycles."
+                "Google Cloud has introduced multiple new Gemini Flash models, including 3.6, 3.5 Lite, 3.5 Cyber, Omni Flash, and Nano Banana 2 Lite. These advanced models enhance its AI platform.",
+                "This expansion offers improved efficiency and performance across a spectrum of AI applications, catering to diverse enterprise needs from agents to image generation.",
+                "Architecturally, these models are designed for scalability within Google Cloud's AI infrastructure, integrating seamlessly for complex agent development and real-time processing.",
+                "Developers can leverage these new models to build next-generation enterprise AI solutions, optimizing both operational costs and development cycles effectively."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
+            "nextUpTease": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
             "tags": [
-                "Source: https://deepmind.google/news",
-                "Published: 2026-08-15T10:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+                "Published: 2026-08-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
+            "heading": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
             "points": [
-                "Microsoft Azure introduces Microsoft IQ Connect, a new service designed to provide complete, shared context for AI agents across enterprise systems, data, and workflows.",
-                "This system allows AI agents to reason and act with precise business context, improving accuracy and relevance in automated decision-making and task execution across the enterprise.",
-                "Strategically, IQ Connect unifies AI, data, business context, applications, and agents into a cohesive intelligent system, enabling seamless operation and enhanced governance.",
-                "Organizations can now securely connect their AI agents to critical business assets, leading to more reliable AI deployments and accelerated transformation initiatives."
+                "OpenAI's CFO has announced that the company's enterprise business revenue has officially surpassed its consumer-facing revenue. This marks a pivotal strategic reorientation for the AI giant.",
+                "This shift indicates a significant expansion of OpenAI's B2B market penetration, with enterprises increasingly adopting its frontier models for critical business operations, impacting revenue to surpass individual subscriptions.",
+                "Strategically, this validates OpenAI's focus on enterprise-grade solutions, including secure APIs and custom model deployments, as key drivers for long-term growth and stability.",
+                "Stakeholders should anticipate continued development of robust enterprise features and services, further integrating OpenAI's AI capabilities into core business workflows globally."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+            "nextUpTease": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-15T11:30:00Z",
+                "Source: https://www.cnbc.com/2026/08/14/openai-cfo-tells-investors-enterprise-business-now-bigger-than-consumer-by-revenue.html",
+                "Published: 2026-08-14T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+            "heading": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership to accelerate enterprise AI deployment, integrating OpenAI's frontier models into IBM consulting services.",
-                "This collaboration embeds OpenAI-trained forward-deployed engineers into IBM projects, aiming to streamline and expedite AI-centric transformation for businesses.",
-                "The architectural alliance focuses on co-innovation, leveraging OpenAI's advanced models with IBM's deep enterprise integration expertise to create robust AI solutions.",
-                "Enterprises gain access to unparalleled expertise and advanced AI tools, enabling faster adoption of generative AI and achieving significant operational efficiencies."
+                "NVIDIA has disclosed a substantial $21 billion stake in SpaceX at the close of the second quarter, as reported in its latest filings. This reveals a major strategic investment by the leading AI chipmaker.",
+                "The quantitative impact of this investment signals NVIDIA's expanding influence beyond traditional computing, potentially leveraging SpaceX's capabilities for edge AI and satellite-based data processing infrastructures.",
+                "This architectural context highlights a growing convergence between advanced AI hardware and space technology, fostering new paradigms for global data networks and AI-driven applications.",
+                "Investors and industry observers should note NVIDIA's long-term vision to integrate high-performance computing into diverse, frontier technology sectors, diversifying its strategic assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
+            "nextUpTease": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T14:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
+            "heading": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
             "points": [
-                "Databricks has secured an additional $5 billion in funding, fueling speculation among industry experts that an Initial Public Offering (IPO) is now inevitable.",
-                "This massive influx of capital underscores strong investor confidence in Databricks' enterprise AI platform, positioning it for aggressive market expansion and product development.",
-                "Strategically, the funding reinforces Databricks' ability to acquire new capabilities, such as its recent acquisition of Electric for PostgreSQL, enhancing its data management and agent-building tools.",
-                "Enterprises relying on Databricks can expect accelerated innovation and broader feature sets, solidifying its role as a core platform for data intelligence and AI agent deployment."
+                "Anthropic's revenue reportedly jumped to over $11.5 billion in the second quarter of 2026, showcasing remarkable growth for the AI safety-focused company. This significant financial milestone highlights increasing market demand for its AI models.",
+                "This substantial revenue increase reflects strong enterprise adoption of Anthropic's Claude models, demonstrating their effectiveness in demanding business environments and accelerating their market share.",
+                "Strategically, this growth positions Anthropic as a formidable competitor in the frontier AI space, reinforcing its ability to invest further in AI safety research and model development.",
+                "Enterprises and developers can expect continued innovation from Anthropic, ensuring access to cutting-edge, safety-aligned AI solutions that meet evolving business needs."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+            "nextUpTease": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
             "tags": [
-                "Source: https://www.techtarget.com/news/366571587/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/anthropic-revenue-reportedly-jumps-to-more-than-115-billion-in-second-quarter.html",
+                "Published: 2026-08-15T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+            "heading": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
             "points": [
-                "OpenAI is expanding its Daybreak cyber defense initiative, developing new strategies and tools as the window for effective cyber defense continues to narrow.",
-                "This expansion focuses on building more robust AI systems that can proactively identify and mitigate sophisticated cyber threats, enhancing system resilience.",
-                "The strategic move addresses the escalating complexity of AI-powered attacks, emphasizing the need for advanced, self-improving defense mechanisms within AI deployments.",
-                "Stakeholders can anticipate improved security postures for AI models and applications, reducing vulnerability to emergent threats and ensuring data integrity."
+                "Microsoft Azure has introduced 'Foundry,' a new service specifically designed for building, running, and governing production AI agents at enterprise scale. This platform aims to streamline complex agent workflows.",
+                "Foundry provides hosted agents, toolboxes, and robust tracing capabilities, enabling organizations to deploy and manage generative AI solutions with enhanced reliability and observability across their operations.",
+                "Architecturally, this service extends Azure's AI capabilities, offering a comprehensive environment for developing sophisticated AI agents that interact securely with enterprise systems and data.",
+                "Enterprises can leverage Foundry to accelerate their AI transformation, ensuring that agentic AI deployments are secure, compliant, and optimized for high-performance business outcomes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
+            "nextUpTease": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
             "tags": [
-                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-16T09:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/run-and-optimize-production-ai-agents-with-microsoft-foundry/",
+                "Published: 2026-08-16T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
+            "heading": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
             "points": [
-                "Reports from the Financial Times indicate mounting internal upheaval at OpenAI as CEO Sam Altman prepares the company for a potential blockbuster Initial Public Offering (IPO).",
-                "This strategic move comes amidst executive exits and changes within the safety team, raising questions about corporate governance and the future direction of the AI giant.",
-                "The company's architectural vision and ethical commitments are under scrutiny as it balances rapid commercialization with its original safety-focused mission.",
-                "Investors and the broader AI community are closely watching these developments, which could significantly impact market perceptions and regulatory frameworks for frontier AI."
+                "Mistral AI has announced the introduction of 'Robostral,' a new platform specifically tailored for advancing AI agents in robotic applications. This marks a significant expansion into physical AI.",
+                "Robostral aims to empower more autonomous and intelligent robotic systems by leveraging Mistral's expertise in large language models and agentic AI. This enables complex task execution in real-world environments.",
+                "Strategically, this platform integrates Mistral's frontier models with robotic hardware, facilitating robust interactions and decision-making capabilities for industrial and service robotics.",
+                "Developers and robotics engineers can utilize Robostral to create advanced, AI-driven automation solutions, accelerating innovation in manufacturing, logistics, and other physical domains."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+            "nextUpTease": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
             "tags": [
-                "Source: https://www.ft.com/content/openai-upheaval-mounts-as-sam-altman-readies-ipo-push",
-                "Published: 2026-08-16T08:00:00Z",
+                "Source: https://mistral.ai/news/introducing-robostral/",
+                "Published: 2026-08-16T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+            "heading": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
             "points": [
-                "The EU AI Office has announced a huge hiring round, seeking 40 new posts across tech, legal, and operational roles, dedicated to enforcing the landmark EU AI Act.",
-                "This significant expansion of personnel signals a concrete commitment to robust regulatory oversight, ensuring compliance and effective governance of AI systems across Europe.",
-                "The operational impact will strengthen the EU's capacity to audit and regulate high-risk AI applications, setting a global precedent for AI governance.",
-                "AI developers and deployers operating within the EU must prepare for increased scrutiny and adherence to evolving compliance frameworks as the office staffs up."
+                "DeepSeek has implemented a significant price increase for its V4 model, raising costs by more than tenfold due to overwhelming demand. This adjustment reflects heightened strain on AI compute capacity.",
+                "The quantitative impact of this price hike underscores the escalating operational expenses associated with leveraging advanced frontier models and the immense value placed on their capabilities.",
+                "This market shift indicates that premium AI model access is becoming a critical cost factor for developers and enterprises, influencing strategic resource allocation for AI deployments.",
+                "Businesses reliant on DeepSeek's V4 model must re-evaluate budget allocations and explore optimization strategies, as the cost of high-signal AI compute continues its upward trajectory."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-16T07:00:00Z",
+                "Source: https://www.cio.com/article/2117564/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,52 +4,59 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
-                "visual_caption": "Google DeepMind debuted its Gemini 3.7 Flash, optimized for complex coding and agentic workflows. This new model offers enhanced efficiency and a lower intro price, attracting broader developer adoption."
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS DEBUT",
+                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "visual_caption": "Google Cloud introduced new Gemini 3.6 Flash, 3.5 Lite, 3.5 Cyber, Omni Flash, and Nano Banana 2 Lite models. These boost enterprise AI efficiency.",
+                "visual_asset": "backgroundyt1.png"
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
-                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
-                "visual_caption": "Microsoft Azure introduces IQ Connect, providing complete shared context for AI agents across enterprise systems. This unifies AI, data, and workflows for precise business reasoning, improving automated decision-making."
+                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
+                "visual_caption": "OpenAI's enterprise revenue now exceeds consumer revenue, signaling a major strategic shift. This solidifies OpenAI as a top B2B AI solution provider.",
+                "visual_asset": "backgroundyt2.png"
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
-                "teaserTitle": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
-                "visual_caption": "IBM & OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM consulting services. This embeds OpenAI engineers, streamlining AI transformation for businesses globally."
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
+                "teaserTitle": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
+                "visual_caption": "NVIDIA disclosed a $21B stake in SpaceX at Q2 end, a key investment. This shows increasing ties between AI hardware and space infrastructure.",
+                "visual_asset": "backgroundyt3.png"
             },
             {
                 "slide_index": 4,
-                "headline": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
-                "visual_caption": "Databricks raised an additional $5B in funding, making an IPO seem inevitable. This capital influx highlights strong investor confidence, fueling aggressive market expansion for its enterprise AI platform."
+                "headline": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
+                "teaserTitle": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
+                "visual_caption": "Anthropic's Q2 revenue reportedly hit over $11.5B, showing rapid market growth. This highlights strong demand for Claude models and AI safety.",
+                "visual_asset": "backgroundyt4.png"
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
-                "teaserTitle": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "OpenAI expands Daybreak cyber defense, developing new tools to counter narrowing cyber defense windows. This builds robust AI systems, proactively mitigating sophisticated AI-powered threats for enhanced resilience."
+                "headline": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
+                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
+                "visual_caption": "Microsoft Azure launched 'Foundry' for production AI agents. This service enables scalable agent development and governance for enterprises.",
+                "visual_asset": "backgroundyt5.png"
             },
             {
                 "slide_index": 6,
-                "headline": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
-                "teaserTitle": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
-                "visual_caption": "FT reports mounting internal upheaval at OpenAI as CEO Sam Altman prepares for potential IPO. This comes amidst executive exits, raising questions about governance & company's future direction."
+                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
+                "teaserTitle": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
+                "visual_caption": "Mistral AI debuted Robostral, a platform for AI agents in robotics. This expands Mistral's reach into physical AI, enabling smarter robotic systems.",
+                "visual_asset": "backgroundyt6.png"
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+                "headline": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "EU AI Office announced huge hiring round, seeking 40 new tech, legal, & ops posts. This expands regulatory oversight, setting a global precedent for AI governance."
+                "visual_caption": "DeepSeek increased its V4 model prices over 10X due to intense demand. This hike signals escalating costs for advanced frontier AI models.",
+                "visual_asset": "backgroundyt7.png"
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
+                "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more.",
+                "visual_asset": "backgroundyt8.png"
             }
         ]
     }

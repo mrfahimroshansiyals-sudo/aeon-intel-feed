@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+        "hookTitle": "NEW GEMINI FLASH MODELS DEBUT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS DEBUT",
+                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has debuted its powerful Gemini three point seven Flash, optimized for complex coding and agentic workflows. This new model offers enhanced efficiency and a lower introductory price, attracting broader developer adoption."
+                "narration_line": "Google Cloud introduced new Gemini Flash models, including 3.6 and 3.5 Lite, enhancing its AI platform offerings. These advanced models boost enterprise efficiency and performance across diverse applications."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
-                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Microsoft Azure introduces IQ Connect, a new service providing complete shared context for AI agents across enterprise systems. This unifies AI, data, and workflows for precise business reasoning, improving automated decision-making."
+                "narration_line": "OpenAI's CFO confirmed that enterprise business revenue now exceeds consumer revenue, marking a strategic shift. This reorientation solidifies OpenAI's standing as a premier B2B AI solution provider."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
-                "teaserTitle": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
+                "teaserTitle": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM and OpenAI have partnered to accelerate enterprise AI deployment, integrating frontier models into IBM consulting services. This collaboration embeds OpenAI engineers, streamlining AI transformation for businesses globally."
+                "narration_line": "NVIDIA revealed a significant 21 billion dollar stake in SpaceX at the close of its second quarter, signaling a bold investment strategy. This move indicates a growing link between advanced AI hardware and space technology infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+                "headline": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
+                "teaserTitle": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Databricks has raised an additional five billion dollars in funding, making an IPO seem inevitable. This capital influx highlights strong investor confidence, fueling aggressive market expansion for its enterprise AI platform."
+                "narration_line": "Anthropic's revenue reportedly surged to over 11.5 billion dollars in the second quarter, reflecting rapid market adoption. This milestone highlights increasing demand for its Claude models and AI safety research."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
-                "teaserTitle": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
+                "headline": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
+                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative, developing new tools to counter narrowing cyber defense windows. This builds robust AI systems, proactively mitigating sophisticated AI-powered threats for enhanced resilience."
+                "narration_line": "Microsoft Azure launched 'Foundry' for production AI agents, a new service to build, run, and govern agents at scale. This platform optimizes large-scale AI deployments for enterprise users."
             },
             {
                 "slide_index": 6,
-                "headline": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
-                "teaserTitle": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
+                "teaserTitle": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Financial Times reports mounting internal upheaval at OpenAI as CEO Sam Altman prepares for a potential IPO. This comes amidst executive exits, raising questions about governance and the company's future direction."
+                "narration_line": "Mistral AI introduced Robostral, a new platform aimed at advancing AI agents for robotic applications. This development extends Mistral's capabilities into physical AI, enabling more autonomous systems."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+                "headline": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office announced a huge hiring round, seeking forty new tech, legal, and operational posts. This expansion strengthens regulatory oversight, setting a global precedent for AI governance."
+                "narration_line": "DeepSeek significantly increased its V4 model prices by over ten times, reflecting intense demand and capacity strain. This adjustment underscores the escalating costs and high value of advanced frontier models."
             },
             {
                 "slide_index": 8,
