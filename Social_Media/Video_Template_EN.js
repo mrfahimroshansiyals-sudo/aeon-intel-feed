@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI: GPT-5.6 LAUNCHED",
+        "hookTitle": "NVIDIA'S $21B SPACEX AI STRATEGY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
-                "teaserTitle": "TSMC UNVEILS A16 NANOSHEET SUPER POWER RAIL",
+                "headline": "NVIDIA: DISCLOSES $21B SPACEX STAKE",
+                "teaserTitle": "ANTHROPIC Q2 REVENUE EXCEEDS $11.5B",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released its latest GPT-5.6 frontier model, engineered to scale with advanced enterprise ambitions. This marks a significant leap in generative artificial intelligence capabilities for complex tasks."
+                "narration_line": "NVIDIA disclosed a $21 billion stake in SpaceX, signaling a strategic commitment to aerospace and satellite AI. This investment aims to accelerate edge AI processing within satellite networks for real-time data analysis."
             },
             {
                 "slide_index": 2,
-                "headline": "TSMC: UNVEILS A16 NANOSHEET SUPER POWER RAIL",
-                "teaserTitle": "MICROSOFT AZURE EXPANDS AI/HPC VM INFRASTRUCTURE",
+                "headline": "ANTHROPIC: Q2 REVENUE EXCEEDS $11.5B",
+                "teaserTitle": "GOOGLE LAUNCHES CONTENT PROVENANCE C++ LIBRARY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "TSMC has unveiled its A16 Nanosheet technology, featuring an innovative Super Power Rail for high-performance computing and AI. This advancement is crucial for more powerful and energy-efficient chips."
+                "narration_line": "Anthropic's Q2 revenue reportedly exceeded $11.5 billion, driven by strong market demand for its Claude AI models. This growth reflects robust enterprise adoption, fueling further R&D in AI safety."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: EXPANDS AI/HPC VM INFRASTRUCTURE",
-                "teaserTitle": "IBM PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "headline": "GOOGLE: LAUNCHES CONTENT PROVENANCE C++ LIBRARY",
+                "teaserTitle": "DATABRICKS ACQUIRES ELECTRIC FOR AGENTIC APPS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure is expanding infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7, for demanding AI and HPC workloads. This boosts cloud compute for data-intensive projects."
+                "narration_line": "Google launched a new C++ library for content provenance, aiming to combat misinformation and verify digital asset authenticity. This initiative provides developers with tools for embedding cryptographic signatures into content."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
-                "teaserTitle": "GOOGLE CLOUD LAUNCHES AI THREAT DEFENSE",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "GOOGLE DEEPMIND LOWERS GEMINI 3.7 FLASH PRICE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM has partnered with OpenAI to accelerate enterprise AI deployment, integrating frontier models and expert engineering services. This collaboration aims to embed advanced AI capabilities directly into enterprise systems."
+                "narration_line": "Databricks acquired Electric to integrate local PostgreSQL databases, enhancing agentic AI application development. This move offers seamless data persistence for AI agents, improving multi-step workflow performance."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
-                "teaserTitle": "NVIDIA ENTERS AI MODEL ROUTER MARKET",
+                "headline": "GOOGLE DEEPMIND: LOWERS GEMINI 3.7 FLASH PRICE",
+                "teaserTitle": "MISTRAL AI INTRODUCES SHIELDSTRAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google Cloud has introduced AI Threat Defense, a new security suite designed to proactively outpace adversaries in AI-powered cyber threats. This solution leverages Google's expertise to identify and mitigate novel attack vectors."
+                "narration_line": "Google DeepMind lowered the intro price for Gemini 3.7 Flash, aiming to attract more developers and increase AI application adoption. This strategic move makes powerful generative AI more accessible for coding tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "NVIDIA: ENTERS AI MODEL ROUTER MARKET",
-                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL",
+                "teaserTitle": "OPENAI'S AI ETHICS LEAD RESIGNS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "NVIDIA is strategically entering the market for artificial intelligence model routers, expanding beyond core hardware into comprehensive infrastructure solutions. This addresses complex model management and optimizes inference traffic for enterprises."
+                "narration_line": "Mistral AI introduced Shieldstral, an initiative for in-region inference and open models with European infrastructure. This empowers organizations with localized AI capabilities, ensuring compliance with data governance."
             },
             {
                 "slide_index": 7,
-                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES SUPPLY CHAIN",
+                "headline": "OPENAI: AI ETHICS LEAD RESIGNS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "The Common Earth Project has launched to reduce chip supply chain bottlenecks through collaborative initiatives and data sharing. This global effort enhances transparency and interoperability for critical component manufacturing."
+                "narration_line": "OpenAI's Head of AI Ethics, Chlo\u00e9 Bakalar, resigned after one year, signaling potential internal challenges in ethical AI governance. This departure may impact efforts to ensure responsible AI practices."
             },
             {
                 "slide_index": 8,
