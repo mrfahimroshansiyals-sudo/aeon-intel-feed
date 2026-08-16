@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NEW GEMINI FLASH MODELS DEBUT",
+        "hookTitle": "GPT-5.6 RELEASE & SOL/LUNA ACCESS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS DEBUT",
-                "teaserTitle": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
+                "headline": "OPENAI: GPT-5.6 RELEASE & SOL/LUNA ACCESS",
+                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google Cloud introduced new Gemini Flash models, including 3.6 and 3.5 Lite, enhancing its AI platform offerings. These advanced models boost enterprise efficiency and performance across diverse applications."
+                "narration_line": "OpenAI has officially launched its new frontier model, GPT-5.6, introducing specialized variants Sol and Luna. This strategic release enhances coding agents and broadens free user access, driving advanced AI capabilities for a wider audience."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENTERPRISE REVENUE SURPASSES CONSUMER",
-                "teaserTitle": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "AI COMPUTE INFRASTRUCTURE FINANCING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI's CFO confirmed that enterprise business revenue now exceeds consumer revenue, marking a strategic shift. This reorientation solidifies OpenAI's standing as a premier B2B AI solution provider."
+                "narration_line": "Google DeepMind has unveiled its new Gemini 3.7 Flash model, tailored for sophisticated coding and agentic tasks. This release aims to attract developers with competitive pricing, enhancing efficiency for enterprise AI solutions."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: DISCLOSES $21B SPACEX INVESTMENT",
-                "teaserTitle": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
+                "headline": "NVIDIA: AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "ENTERPRISE AI PARTNERSHIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA revealed a significant 21 billion dollar stake in SpaceX at the close of its second quarter, signaling a bold investment strategy. This move indicates a growing link between advanced AI hardware and space technology infrastructure."
+                "narration_line": "NVIDIA has partnered with major financial institutions to launch AI compute infrastructure financing platforms. This initiative aims to mobilize over $500 billion in third-party capital, significantly accelerating global AI infrastructure deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: Q2 REVENUE SOARS TO $11.5 BILLION",
-                "teaserTitle": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
+                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "QUANTUM COMPUTING ON OCI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's revenue reportedly surged to over 11.5 billion dollars in the second quarter, reflecting rapid market adoption. This milestone highlights increasing demand for its Claude models and AI safety research."
+                "narration_line": "IBM and OpenAI have forged a strategic partnership to accelerate enterprise AI deployment by integrating frontier models into IBM's consulting services. This collaboration ensures faster AI-centric transformation for global clients."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: INTRODUCES FOUNDRY FOR AI AGENTS",
-                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
+                "headline": "ORACLE: QUANTUM COMPUTING ON OCI",
+                "teaserTitle": "ACQUIRES ELECTRIC FOR AI AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure launched 'Foundry' for production AI agents, a new service to build, run, and govern agents at scale. This platform optimizes large-scale AI deployments for enterprise users."
+                "narration_line": "Oracle plans to bring quantum computing to OCI, providing cloud-based access to Quantinuum\u2019s Helios system. This integration will enable hybrid AI solutions for complex computational challenges."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL PLATFORM",
-                "teaserTitle": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
+                "teaserTitle": "INTRODUCES MISTRAL OCR 4",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI introduced Robostral, a new platform aimed at advancing AI agents for robotic applications. This development extends Mistral's capabilities into physical AI, enabling more autonomous systems."
+                "narration_line": "Databricks has acquired Electric, integrating its embeddable PostgreSQL databases to bolster AI agent development. This move enhances data management for sophisticated agentic applications on the Databricks platform."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPSEEK: V4 PRICES INCREASE 10X AMID DEMAND",
+                "headline": "MISTRAL AI: INTRODUCES MISTRAL OCR 4",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DeepSeek significantly increased its V4 model prices by over ten times, reflecting intense demand and capacity strain. This adjustment underscores the escalating costs and high value of advanced frontier models."
+                "naration_line": "Mistral AI has introduced Mistral OCR 4, its newest model for advanced optical character recognition. This enhances document intelligence, boosting accuracy and processing speed for enterprise data workflows."
             },
             {
                 "slide_index": 8,
