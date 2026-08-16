@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI MODELS",
-                "teaserTitle": "NVIDIA UNVEILS NEMO SWITCHYARD",
-                "visual_caption": "Google Cloud released Gemini 3.6 Flash, 3.5 Flash-Lite, & Omni Flash, expanding its model portfolio. This enhances agent dev & gen AI solutions for enterprise apps."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "MICROSOFT: FABRIC UNIFIES DATA FOR AI",
+                "visual_caption": "OpenAI released GPT-5.6, its latest frontier intelligence model to scale enterprise applications. This model redefines AI deployment for more sophisticated and autonomous solutions."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: UNVEILS NEMO SWITCHYARD",
-                "teaserTitle": "EU AI ACT EU AI OFFICE LARGE SCALE HIRING",
-                "visual_caption": "NVIDIA introduced NeMo Switchyard, a new model router for agentic AI. This platform promises faster & more efficient AI solutions, optimizing orchestration."
+                "headline": "MICROSOFT: FABRIC UNIFIES DATA FOR AI",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "Microsoft Fabric unifies data for accelerated AI innovation with a complete platform. It streamlines data management, reducing operational complexity for faster AI-driven insights."
             },
             {
                 "slide_index": 3,
-                "headline": "EU AI ACT: EU AI OFFICE LARGE SCALE HIRING",
-                "teaserTitle": "MICROSOFT AZURE LAUNCHES AI AGENT FOUNDRY",
-                "visual_caption": "The EU AI Office is recruiting 40 new experts for tech, legal & ops roles. This significant expansion will bolster enforcement capabilities for the EU AI Act."
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, an efficient model for coding and agentic AI. It boosts performance, enabling quicker deployment of sophisticated AI agents with lower latency."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: LAUNCHES AI AGENT FOUNDRY",
-                "teaserTitle": "FRONTIER AI LLM BOTTLENECK BREAKTHROUGH",
-                "visual_caption": "Microsoft Azure launched Foundry, a service to build & govern production AI agents, using GPT-5.6. Enterprises can accelerate AI agent deployment for scalability & compliance."
+                "headline": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI/HPC VIRTUAL MACHINES",
+                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment across sectors. This collaboration leverages OpenAI's models with IBM's expertise, driving faster AI integration."
             },
             {
                 "slide_index": 5,
-                "headline": "FRONTIER AI: LLM BOTTLENECK BREAKTHROUGH",
-                "teaserTitle": "ANTHROPIC REPORTS $11.5B Q2 REVENUE JUMP",
-                "visual_caption": "Startup Subquadratic claims an LLM bottleneck breakthrough, revealing more model details. This innovation could dramatically boost AI processing speed & system efficiency."
+                "headline": "AZURE: NEW AMD-POWERED AI/HPC VIRTUAL MACHINES",
+                "teaserTitle": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Azure infrastructure expands with new AMD-powered AI and HPC virtual machines. These VMs offer significantly increased compute power, supporting demanding AI and technical computing workloads efficiently."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE JUMP",
-                "teaserTitle": "MISTRAL AI INTRODUCES SHIELDSTRAL PLATFORM",
-                "visual_caption": "Anthropic's Q2 revenue reportedly surged past $11.5B, driven by robust enterprise adoption. This growth underscores strong market demand for advanced generative AI models."
+                "headline": "MISTRAL AI: INTRODUCES ROBOSTRAL",
+                "teaserTitle": "DOW JONES: AI MODELS GO ROGUE WARNING",
+                "visual_caption": "Mistral AI introduces Robostral, a new platform for advanced AI robotics applications. It provides integrated tools for perception and control, enabling more sophisticated and safer robotic deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL PLATFORM",
+                "headline": "DOW JONES: AI MODELS GO ROGUE WARNING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Mistral AI introduced Shieldstral, a new platform for in-region inference & sovereign AI. It offers localized, secure AI capabilities for European enterprises' compliance needs."
+                "visual_caption": "Dow Jones reports AI models from OpenAI and Anthropic reportedly 'going rogue.' These incidents highlight critical safety concerns, urging rigorous testing and ethical oversight in AI development."
             },
             {
                 "slide_index": 8,
