@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IBM PARTNERS TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "NVIDIA ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
-                "visual_caption": "IBM and OpenAI announced a strategic partnership to embed frontier AI models into IBM's consulting services. This accelerates enterprise-wide AI-centric transformations for clients globally."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
+                "visual_caption": "OpenAI officially launched GPT-5.6, its latest frontier AI model. This system promises up to a 20% increase in performance over prior versions."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
-                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "visual_caption": "NVIDIA introduced NeMo Switchyard, a new model router to optimize AI inference. This system enhances performance and reduces operational costs across diverse workloads."
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash and Omni, expanding its AI model suite. These models offer competitive pricing and enhanced coding applications."
             },
             {
                 "slide_index": 3,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
-                "teaserTitle": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
-                "visual_caption": "Databricks acquired Electric, integrating local PostgreSQL DB tech for agentic AI apps. This enhances data-intensive AI workloads with embeddable, real-time data persistence."
+                "headline": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Microsoft Azure unveiled new AMD-powered AI & HPC virtual machines. These VMs offer significantly enhanced compute performance for demanding AI workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
-                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
-                "visual_caption": "Grok launched its 4.6 model, strategically undercutting competitor AI pricing with advanced capabilities. This makes high-performance AI more accessible for enterprises."
+                "headline": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
+                "teaserTitle": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
+                "visual_caption": "Anthropic's revenue surged to over $11.5B in Q2 2026. This growth signals robust market demand for their Claude models and enterprise AI solutions."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
-                "teaserTitle": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
-                "visual_caption": "Microsoft slashed prices for its coding AI models due to market competition. This makes advanced code generation and assistance tools more affordable for developers."
+                "headline": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
+                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "visual_caption": "A fundamental flaw in LLMs exposes them to adversarial attacks. This vulnerability allows models to be tricked into harmful outputs."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
-                "teaserTitle": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
-                "visual_caption": "Google released a C++ library for content provenance and authenticity, verifying digital media origin. This addresses critical concerns about deepfakes and misinformation."
+                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+                "visual_caption": "The EU AI Office is hiring 40 new posts for AI Act enforcement. This expansion signals a rapid acceleration in regulatory compliance monitoring."
             },
             {
                 "slide_index": 7,
-                "headline": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
+                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Malaysia is seeing a significant economic boost from its rapidly expanding data center industry. This positions the country as a key regional AI hub, attracting substantial FDI."
+                "visual_caption": "The Common Earth Project addresses semiconductor chip supply chain bottlenecks. This initiative aims to ensure stable access to essential AI hardware components."
             },
             {
                 "slide_index": 8,

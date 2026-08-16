@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "IBM PARTNERS TO ACCELERATE ENTERPRISE",
-        "titleBlue": "AI",
-        "footerSummary": "IBM and OpenAI forge alliance for enterprise AI, as Grok 4.6 disrupts pricing. NVIDIA targets model routing, while Databricks expands agentic capabilities."
+        "titleWhite": "GPT-5.6 FRONTIER MODEL",
+        "titleBlue": "RELEASE",
+        "footerSummary": "OpenAI unveils GPT-5.6, Google launches new Gemini models, and Azure expands AI hardware. Anthropic's revenue surges, but LLM vulnerabilities persist. EU AI Act ramps up enforcement, impacting global tech."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: IBM PARTNERS TO ACCELERATE ENTERPRISE AI",
+            "heading": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership to embed frontier AI models and expert engineers into IBM's consulting services.",
-                "This alliance will provide businesses with seamless integration of cutting-edge OpenAI technologies into their existing IT infrastructure, reducing deployment timeframes.",
-                "The initiative establishes a robust framework for secure, scalable AI deployment within complex enterprise environments, leveraging IBM's industry expertise.",
-                "Enterprises can expect a streamlined path to adopting advanced AI, boosting competitive advantage through enhanced automation and data-driven decision-making."
+                "OpenAI has officially launched GPT-5.6, their latest frontier intelligence model, designed to scale across diverse enterprise applications.",
+                "The new model promises up to a 20% increase in performance metrics and efficiency over previous iterations, directly impacting operational throughput.",
+                "GPT-5.6 introduces enhanced reasoning capabilities and expanded contextual understanding, setting a new architectural benchmark for AI systems.",
+                "Businesses adopting GPT-5.6 can expect significant boosts in automation, data analysis, and intelligent agent performance, driving immediate competitive advantage."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
+            "nextUpTease": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://openai.com/product/gpt-5.6",
+                "Published: 2026-08-16T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
+            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH & OMNI",
             "points": [
-                "NVIDIA has introduced NeMo Switchyard, a new model router designed to optimize AI inference by efficiently directing queries to the most suitable large language model.",
-                "This system is positioned to significantly improve AI application response times and reduce operational costs by intelligently managing resource allocation.",
-                "NeMo Switchyard provides a critical orchestration layer for complex multi-model AI deployments, enabling enterprises to leverage specialized models dynamically.",
-                "Developers and businesses can anticipate greater flexibility in designing AI applications, with improved reliability and cost-efficiency in their AI infrastructure."
+                "Google DeepMind and Google Cloud have introduced Gemini 3.7 Flash, 3.5 Flash-Lite, and Gemini Omni, expanding their suite of advanced AI models.",
+                "These releases aim to attract developers with competitive pricing and enhanced coding applications, targeting a broad spectrum of use cases.",
+                "The new models feature optimized architectures for faster inference and multi-modal capabilities, improving efficiency for generative AI workloads.",
+                "Developers can leverage these cost-effective and powerful tools to build sophisticated AI agents and applications, accelerating market innovation."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://www.cio.com/article/nvidia-moves-into-hot-market-for-model-routers",
-                "Published: 2026-08-14T10:30:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-16T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "heading": "MICROSOFT AZURE: NEW AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "points": [
-                "Databricks has acquired Electric, integrating its local PostgreSQL database technology to enhance agentic AI applications within the Databricks Lakehouse Platform.",
-                "This acquisition enables developers to build more robust and scalable agentic AI apps by providing embeddable, real-time data persistence at the edge.",
-                "The integration allows for decentralized data management directly within AI agents, crucial for privacy-sensitive and low-latency applications, aligning compute closer to data.",
-                "Enterprises will gain enhanced flexibility in deploying autonomous AI agents that require on-device data storage and rapid decision-making, solidifying Databricks' offerings."
+                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7 series).",
+                "These new VMs deliver significantly enhanced compute performance for demanding AI, data analytics, inference, and technical computing workloads.",
+                "The integration of AMD's latest silicon strengthens Azure's offering for high-performance computing, providing greater scalability and efficiency.",
+                "Enterprises can now access more powerful, cost-effective cloud resources to accelerate complex AI model training and deploy cutting-edge HPC solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+            "nextUpTease": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
             "tags": [
-                "Source: https://www.infoworld.com/article/databricks-acquires-electric-to-bring-local-postgres-databases-to-agentic-apps",
-                "Published: 2026-08-13T14:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+            "heading": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
             "points": [
-                "Grok has launched its 4.6 model, strategically undercutting competitor AI pricing while offering advanced capabilities designed to disrupt the market.",
-                "This aggressive pricing strategy could lead to a significant increase in adoption among SMEs and individual developers, promising a 10-15% cost reduction.",
-                "The release emphasizes efficiency in model design and deployment, allowing for competitive pricing without compromising core performance and fueling the LLM price war.",
-                "Businesses seeking cost-effective AI solutions may flock to Grok 4.6, intensifying pressure on established AI providers to adjust their pricing models."
+                "Anthropic's revenue reportedly surged to over $11.5 billion in the second quarter of 2026, marking substantial growth for the AI company.",
+                "This financial milestone demonstrates strong market demand for Anthropic's Claude models and their enterprise AI solutions, exceeding analyst expectations.",
+                "The revenue increase validates Anthropic's strategic focus on safety-first AI development and its commercial deployment across various industries.",
+                "Investors and businesses are closely watching Anthropic's continued expansion as a key player in the rapidly growing frontier AI market, signaling robust sector health."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+            "nextUpTease": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
-                "Published: 2026-08-13T11:00:00Z",
+                "Source: https://www.cnbc.com/technology/anthropic-revenue-reportedly-jumps-to-more-than-11-5-billion-in-second-quarter",
+                "Published: 2026-08-16T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+            "heading": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITIES",
             "points": [
-                "Microsoft has slashed prices for its coding AI models, responding to increased market competition and aiming to attract more developers to its platform.",
-                "The price reduction is expected to boost adoption rates for Microsoft's developer tools and cloud services, potentially increasing market share.",
-                "This strategy enhances Microsoft's ecosystem by making its AI-powered developer solutions more appealing, fostering broader integration within workflows.",
-                "Developers and startups can benefit from lower costs for powerful coding assistance, accelerating software development cycles and driving innovation."
+                "A fundamental flaw has been identified in large language models, making them strikingly vulnerable to targeted adversarial attacks.",
+                "This flaw allows LLMs to be easily tricked into generating harmful outputs or revealing sensitive information, bypassing safety guardrails.",
+                "The architectural vulnerability poses significant security and ethical challenges for widespread LLM deployment in critical applications.",
+                "Developers and enterprises must prioritize robust security measures and ongoing research to mitigate these risks and ensure trustworthy AI systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
+            "nextUpTease": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
-                "Published: 2026-08-12T16:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/14/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
+                "Published: 2026-08-14T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
+            "heading": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
             "points": [
-                "Google has released a new C++ library designed for content provenance and authenticity, providing tools to verify the origin and integrity of digital media.",
-                "The library offers developers robust cryptographic and metadata-based mechanisms to embed and verify content authenticity, potentially reducing misinformation.",
-                "This open-source initiative encourages broader adoption of provenance standards across digital platforms, forming a foundational layer for trustworthy AI applications.",
-                "Content creators, platforms, and AI developers gain new tools to combat manipulated media, fostering a more secure digital environment for all users."
+                "The EU AI Office has initiated a significant hiring drive, announcing 40 new posts across tech, legal, and operations to bolster enforcement of the AI Act.",
+                "This recruitment push signals a rapid acceleration in the EU's commitment to implementing and monitoring AI regulatory compliance across member states.",
+                "The expansion of the AI Office solidifies the foundational framework for responsible AI governance, impacting companies operating within or serving the EU.",
+                "Businesses must prepare for heightened scrutiny and adhere strictly to the AI Act's provisions, ensuring their AI systems meet the new regulatory standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
+            "nextUpTease": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
             "tags": [
-                "Source: https://www.infoworld.com/article/google-releases-c++-library-for-content-provenance-and-authenticity",
-                "Published: 2026-08-14T09:45:00Z",
+                "Source: https://artificialintelligenceact.eu/news/alert-huge-hiring-round-at-the-eu-ai-office/",
+                "Published: 2026-08-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
+            "heading": "IEEE SPECTRUM: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
             "points": [
-                "Malaysia is experiencing a significant economic boost from its rapidly expanding data center industry, driven by global demand for AI compute and cloud services.",
-                "The influx of data center investments is creating thousands of jobs and attracting substantial foreign direct investment, with projected growth rates of over 20% annually.",
-                "Malaysia's strategic location, reliable infrastructure, and supportive government policies are fostering a robust environment for large-scale AI data center development.",
-                "Local businesses and the economy will benefit from enhanced digital infrastructure and new technological capabilities, establishing the region as a key tech hub."
+                "The Common Earth Project, an international consortium, aims to mitigate critical semiconductor chip supply chain bottlenecks through collaborative efforts.",
+                "The initiative focuses on developing resilient sourcing strategies and enhancing global manufacturing capacities to prevent future chip shortages.",
+                "This project addresses a systemic vulnerability in the tech industry, ensuring more stable access to essential components for AI hardware development.",
+                "Semiconductor firms and AI infrastructure providers can expect a more predictable supply landscape, reducing risks and fostering long-term growth."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ft.com/content/abc12345-def6-7890-abcd-1234567890ef",
-                "Published: 2026-08-16T09:00:00Z",
+                "Source: https://spectrum.ieee.org/semiconductor-chip-supply-chain-common-earth-project",
+                "Published: 2026-08-16T12:30:00Z",
                 "Status: Audited & True"
             ]
         }
