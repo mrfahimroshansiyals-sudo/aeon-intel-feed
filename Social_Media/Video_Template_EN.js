@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 RELEASE & SOL/LUNA ACCESS",
+        "hookTitle": "GOOGLE CLOUD UNVEILS NEW GEMINI MODELS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE & SOL/LUNA ACCESS",
-                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI MODELS",
+                "teaserTitle": "NVIDIA UNVEILS NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched its new frontier model, GPT-5.6, introducing specialized variants Sol and Luna. This strategic release enhances coding agents and broadens free user access, driving advanced AI capabilities for a wider audience."
+                "narration_line": "Google Cloud has released Gemini 3.6 Flash, 3.5 Flash-Lite, and Omni Flash, expanding its model portfolio. This initiative enhances agent development and generative AI solutions for diverse enterprise applications."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "AI COMPUTE INFRASTRUCTURE FINANCING",
+                "headline": "NVIDIA: UNVEILS NEMO SWITCHYARD",
+                "teaserTitle": "EU AI ACT EU AI OFFICE LARGE SCALE HIRING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has unveiled its new Gemini 3.7 Flash model, tailored for sophisticated coding and agentic tasks. This release aims to attract developers with competitive pricing, enhancing efficiency for enterprise AI solutions."
+                "naration_line": "NVIDIA introduced NeMo Switchyard, a new model router for agentic AI. This platform promises faster and more efficient AI solutions, optimizing orchestration across various enterprise use cases."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "ENTERPRISE AI PARTNERSHIP",
+                "headline": "EU AI ACT: EU AI OFFICE LARGE SCALE HIRING",
+                "teaserTitle": "MICROSOFT AZURE LAUNCHES AI AGENT FOUNDRY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA has partnered with major financial institutions to launch AI compute infrastructure financing platforms. This initiative aims to mobilize over $500 billion in third-party capital, significantly accelerating global AI infrastructure deployment."
+                "narration_line": "The EU AI Office is recruiting 40 new experts for tech, legal, and operations roles. This significant expansion will bolster enforcement capabilities for the EU AI Act."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "QUANTUM COMPUTING ON OCI",
+                "headline": "MICROSOFT AZURE: LAUNCHES AI AGENT FOUNDRY",
+                "teaserTitle": "FRONTIER AI LLM BOTTLENECK BREAKTHROUGH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM and OpenAI have forged a strategic partnership to accelerate enterprise AI deployment by integrating frontier models into IBM's consulting services. This collaboration ensures faster AI-centric transformation for global clients."
+                "narration_line": "Microsoft Azure launched Foundry, a service to build and govern production AI agents, utilizing GPT-5.6. Enterprises can now accelerate AI agent deployment, ensuring scalability and compliance in workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "ORACLE: QUANTUM COMPUTING ON OCI",
-                "teaserTitle": "ACQUIRES ELECTRIC FOR AI AGENTS",
+                "headline": "FRONTIER AI: LLM BOTTLENECK BREAKTHROUGH",
+                "teaserTitle": "ANTHROPIC REPORTS $11.5B Q2 REVENUE JUMP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Oracle plans to bring quantum computing to OCI, providing cloud-based access to Quantinuum\u2019s Helios system. This integration will enable hybrid AI solutions for complex computational challenges."
+                "narration_line": "A startup named Subquadratic claims an LLM bottleneck breakthrough, revealing more model details. This innovation could dramatically boost AI processing speed and overall system efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AI AGENTS",
-                "teaserTitle": "INTRODUCES MISTRAL OCR 4",
+                "headline": "ANTHROPIC: REPORTS $11.5B Q2 REVENUE JUMP",
+                "teaserTitle": "MISTRAL AI INTRODUCES SHIELDSTRAL PLATFORM",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Databricks has acquired Electric, integrating its embeddable PostgreSQL databases to bolster AI agent development. This move enhances data management for sophisticated agentic applications on the Databricks platform."
+                "narration_line": "Anthropic's Q2 revenue reportedly surged past 11.5 billion dollars, driven by robust enterprise adoption. This growth underscores strong market demand for advanced generative AI models."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: INTRODUCES MISTRAL OCR 4",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL PLATFORM",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Mistral AI has introduced Mistral OCR 4, its newest model for advanced optical character recognition. This enhances document intelligence, boosting accuracy and processing speed for enterprise data workflows."
+                "narration_line": "Mistral AI introduced Shieldstral, a new platform for in-region inference and sovereign AI. It offers localized, secure AI capabilities tailored for European enterprises' compliance needs."
             },
             {
                 "slide_index": 8,
