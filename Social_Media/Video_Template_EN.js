@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI UNVEILS GPT-5.6",
+        "hookTitle": "OPENAI ENTERPRISE ALLIANCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE",
-                "teaserTitle": "MICROSOFT AZURE: AGENT ORCHESTRATION",
+                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
+                "teaserTitle": "ANTHROPIC Q2 REVENUE SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched its new GPT five-point-six model, offering frontier intelligence with enhanced scalability and multimodal capabilities. This advancement promises to transform enterprise operations by accelerating complex AI deployments."
+                "narration_line": "IBM and OpenAI have forged a strategic alliance to accelerate enterprise AI deployment; this collaboration integrates frontier models and engineering expertise into core business transformations."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: AGENT ORCHESTRATION",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "headline": "ANTHROPIC: Q2 REVENUE SURGE",
+                "teaserTitle": "DEEPSEEK V4 PRICE HIKES",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Microsoft Azure introduces Foundry and IQ, a new suite for building and governing production AI agents. These tools provide secure shared context for agents, enabling precise business automation and reduced operational latency."
+                "narration_line": "Anthropic\u2019s revenue reportedly surged to over eleven point five billion dollars in the second quarter. This growth signifies increasing enterprise adoption of their leading AI models, boosting market competition."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE",
-                "teaserTitle": "EU AI ACT: OFFICE EXPANSION",
+                "headline": "DEEPSEEK: V4 PRICE HIKES",
+                "teaserTitle": "DATABRICKS $5B FUNDING & IPO",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud rolls out AI Threat Defense, a new security product leveraging AI to proactively counter cyber adversaries. This system significantly reduces threat detection and response times, fortifying critical cloud workloads."
+                "narration_line": "DeepSeek is raising its V4 model prices by more than ten times, due to intense AI demand. This adjustment signals rising operational costs and infrastructure strain for advanced AI deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "EU AI ACT: OFFICE EXPANSION",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI OMNI",
+                "headline": "DATABRICKS: $5B FUNDING & IPO",
+                "teaserTitle": "ORACLE QUANTUM CLOUD INTEGRATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The EU AI Office is expanding, with forty new positions opened to bolster AI Act enforcement. This strategic hiring reinforces regulatory oversight for high-risk AI systems, mandating stricter compliance for providers."
+                "narration_line": "Databricks secured an additional five billion dollars in funding, making an initial public offering now appear inevitable. This reflects strong investor confidence in data intelligence and AI platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: GEMINI OMNI",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL RELEASE",
+                "headline": "ORACLE: QUANTUM CLOUD INTEGRATION",
+                "teaserTitle": "CHIP SUPPLY: COMMON EARTH PROJECT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind reveals Gemini Omni, a revolutionary multimodal AI generating content from video and diverse inputs. This model marks a leap in general-purpose creation, empowering creators with new generative capabilities."
+                "narration_line": "Oracle plans to integrate quantum computing into OCI with Quantinuum\u2019s Helios system. This will provide cloud-based access for hybrid AI and high-performance computing workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL RELEASE",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD",
+                "headline": "CHIP SUPPLY: COMMON EARTH PROJECT",
+                "teaserTitle": "AI ETHICS: VIRUS DESIGN CAPABILITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI launches Shieldstral, providing in-region inference and open models with European infrastructure for sovereign AI. This ensures data residency and security, empowering European enterprises with controlled AI deployments."
+                "narration_line": "The Common Earth Project aims to eliminate global chip supply chain bottlenecks. This initiative focuses on resilient semiconductor ecosystems, enhancing stability for AI and HPC industries."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: NEMO SWITCHYARD",
+                "headline": "AI ETHICS: VIRUS DESIGN CAPABILITY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NVIDIA introduces NeMo Switchyard, a model router optimizing agentic AI workflows across diverse models. It dynamically routes requests for efficiency, dramatically improving throughput and reducing operational costs for enterprise AI."
+                "narration_line": "Research shows AI can now design functional viruses, raising serious security and ethical concerns. Policymakers must address these dual-use capabilities to prevent misuse and ensure global safety."
             },
             {
                 "slide_index": 8,
