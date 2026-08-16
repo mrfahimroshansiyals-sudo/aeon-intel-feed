@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "NVIDIA MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, a new workhorse model for coding and advanced AI agents. This model significantly boosts dev productivity, accelerating AI solution deployment across industries."
+                "headline": "OPENAI: IBM PARTNERS TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "NVIDIA ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
+                "visual_caption": "IBM and OpenAI announced a strategic partnership to embed frontier AI models into IBM's consulting services. This accelerates enterprise-wide AI-centric transformations for clients globally."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
-                "teaserTitle": "ANTHROPIC REPORTS $11.5B REVENUE IN Q2",
-                "visual_caption": "NVIDIA mobilizes >$500B for AI compute infrastructure with financial partners. This investment expands global AI capacity, securing resources for next-gen AI factories."
+                "headline": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "visual_caption": "NVIDIA introduced NeMo Switchyard, a new model router to optimize AI inference. This system enhances performance and reduces operational costs across diverse workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
-                "teaserTitle": "EU AI ACT LAUNCHES MASSIVE AI OFFICE HIRING",
-                "visual_caption": "Anthropic Q2 revenue reportedly surges past $11.5B. This rapid growth intensifies competition and sets new valuation benchmarks in the frontier AI sector."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+                "teaserTitle": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+                "visual_caption": "Databricks acquired Electric, integrating local PostgreSQL DB tech for agentic AI apps. This enhances data-intensive AI workloads with embeddable, real-time data persistence."
             },
             {
                 "slide_index": 4,
-                "headline": "EU AI ACT: LAUNCHES MASSIVE AI OFFICE HIRING",
-                "teaserTitle": "OPENAI ETHICS LEAD RESIGNS AMID UPHEAVAL",
-                "visual_caption": "EU AI Office launches massive hiring round for 40 experts in tech, legal, operations to enforce AI Act. This expansion signals EU's firm commitment to robust AI governance."
+                "headline": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+                "teaserTitle": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+                "visual_caption": "Grok launched its 4.6 model, strategically undercutting competitor AI pricing with advanced capabilities. This makes high-performance AI more accessible for enterprises."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: ETHICS LEAD RESIGNS AMID UPHEAVAL",
-                "teaserTitle": "DEEPSEEK RAISES V4 MODEL PRICING OVER 10X",
-                "visual_caption": "OpenAI's AI ethics lead resigns amid upheaval and IPO preparations. This raises questions about commitment to responsible AI and ethical safeguards during rapid growth."
+                "headline": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+                "teaserTitle": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
+                "visual_caption": "Microsoft slashed prices for its coding AI models due to market competition. This makes advanced code generation and assistance tools more affordable for developers."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPSEEK: RAISES V4 MODEL PRICING OVER 10X",
-                "teaserTitle": "GOOGLE DEEPMIND WEATHERNEXT CYCLONE FORECASTING AI",
-                "visual_caption": "DeepSeek raises V4 model pricing >10x due to overwhelming demand. This reflects escalating inference costs and scarcity of high-performance AI resources."
+                "headline": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
+                "teaserTitle": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
+                "visual_caption": "Google released a C++ library for content provenance and authenticity, verifying digital media origin. This addresses critical concerns about deepfakes and misinformation."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING AI",
+                "headline": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieves breakthrough in accurate cyclone forecasting. This provides earlier warnings, improving disaster preparedness and reducing impact."
+                "visual_caption": "Malaysia is seeing a significant economic boost from its rapidly expanding data center industry. This positions the country as a key regional AI hub, attracting substantial FDI."
             },
             {
                 "slide_index": 8,

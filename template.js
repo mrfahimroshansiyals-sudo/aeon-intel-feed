@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INTRODUCES GEMINI 3.7",
-        "titleBlue": "FLASH",
-        "footerSummary": "Google DeepMind launches Gemini 3.7 Flash. NVIDIA secures $500B for AI infrastructure. Anthropic's Q2 revenue hits $11.5B, signaling market growth."
+        "titleWhite": "IBM PARTNERS TO ACCELERATE ENTERPRISE",
+        "titleBlue": "AI",
+        "footerSummary": "IBM and OpenAI forge alliance for enterprise AI, as Grok 4.6 disrupts pricing. NVIDIA targets model routing, while Databricks expands agentic capabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+            "heading": "OPENAI: IBM PARTNERS TO ACCELERATE ENTERPRISE AI",
             "points": [
-                "Google DeepMind has unveiled Gemini 3.7 Flash, their latest intelligent workhorse model, optimized for coding and advanced agent capabilities.",
-                "This new model significantly enhances developer productivity and efficiency, offering improved performance in long-horizon tasks and complex code generation.",
-                "Architecturally, Gemini 3.7 Flash is designed for speed and cost-efficiency, enabling broader deployment in agentic applications and integrated development environments.",
-                "Developers can expect lower inference costs and faster deployment cycles for their AI-powered solutions, boosting innovation across various industries."
+                "IBM and OpenAI have announced a strategic partnership to embed frontier AI models and expert engineers into IBM's consulting services.",
+                "This alliance will provide businesses with seamless integration of cutting-edge OpenAI technologies into their existing IT infrastructure, reducing deployment timeframes.",
+                "The initiative establishes a robust framework for secure, scalable AI deployment within complex enterprise environments, leveraging IBM's industry expertise.",
+                "Enterprises can expect a streamlined path to adopting advanced AI, boosting competitive advantage through enhanced automation and data-driven decision-making."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
+            "nextUpTease": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-16T10:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "NVIDIA: MOBILIZES $500B AI COMPUTE INFRASTRUCTURE",
-            "points": [
-                "NVIDIA, in partnership with major financial institutions, is establishing platforms to mobilize over $500B for AI compute infrastructure.",
-                "This initiative aims to address the soaring demand for AI compute, significantly expanding global capacity and accelerating advanced model training.",
-                "The architectural shift positions AI compute as an investable asset class, enabling broader and more consistent funding for large-scale deployments.",
-                "Investors and enterprises gain access to critical capital for building next-generation AI factories, securing long-term computational resources."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ANTHROPIC REPORTS $11.5B REVENUE IN Q2",
-            "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-                "Published: 2026-08-14T16:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ANTHROPIC: REPORTS $11.5B REVENUE IN Q2",
-            "points": [
-                "Anthropic reportedly saw its revenue jump to over $11.5 billion in the second quarter of 2026, signaling robust growth in the AI sector.",
-                "This financial performance highlights the escalating demand for advanced AI models and enterprise-grade conversational AI solutions.",
-                "The revenue surge reflects successful market penetration, driven by key partnerships and the adoption of its Claude models for business applications.",
-                "Competitors and investors should note the accelerating commercialization of frontier AI, intensifying market competition and valuation benchmarks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EU AI ACT LAUNCHES MASSIVE AI OFFICE HIRING",
-            "tags": [
-                "Source: https://www.cnbc.com/technology/",
-                "Published: 2026-08-16T09:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EU AI ACT: LAUNCHES MASSIVE AI OFFICE HIRING",
-            "points": [
-                "The EU AI Office is initiating a massive hiring round, seeking 40 new experts in tech, legal, and operations to enforce the AI Act.",
-                "This significant expansion underscores the EU's commitment to robust AI governance, establishing a comprehensive regulatory oversight body.",
-                "The office will develop and implement compliance frameworks, ensuring that AI systems deployed within the EU adhere to ethical and safety standards.",
-                "AI developers and deployers operating in the EU must prepare for heightened scrutiny and strict adherence to emerging regulatory requirements."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "OPENAI ETHICS LEAD RESIGNS AMID UPHEAVAL",
-            "tags": [
-                "Source: https://artificialintelligenceact.eu/",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
                 "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "OPENAI: ETHICS LEAD RESIGNS AMID UPHEAVAL",
+            "id": 2,
+            "heading": "NVIDIA: ENTERS MODEL ROUTER MARKET WITH NEMO SWITCHYARD",
             "points": [
-                "OpenAI's AI ethics lead, Chlo\u00e9 Bakalar, has resigned, adding to internal upheaval as Sam Altman reportedly prepares for an IPO push.",
-                "This departure raises questions about the company's internal governance and commitment to ethical AI development amidst rapid commercial expansion.",
-                "The structural changes and executive exits suggest a strategic refocus, potentially prioritizing productization and market growth over ethics and safety concerns.",
-                "Stakeholders may scrutinize OpenAI's future commitment to responsible AI, impacting trust and regulatory perceptions in the broader industry."
+                "NVIDIA has introduced NeMo Switchyard, a new model router designed to optimize AI inference by efficiently directing queries to the most suitable large language model.",
+                "This system is positioned to significantly improve AI application response times and reduce operational costs by intelligently managing resource allocation.",
+                "NeMo Switchyard provides a critical orchestration layer for complex multi-model AI deployments, enabling enterprises to leverage specialized models dynamically.",
+                "Developers and businesses can anticipate greater flexibility in designing AI applications, with improved reliability and cost-efficiency in their AI infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK RAISES V4 MODEL PRICING OVER 10X",
+            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
             "tags": [
-                "Source: https://www.cio.com/article/openai-loses-ai-ethics-lead",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.cio.com/article/nvidia-moves-into-hot-market-for-model-routers",
+                "Published: 2026-08-14T10:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTIC APPS",
+            "points": [
+                "Databricks has acquired Electric, integrating its local PostgreSQL database technology to enhance agentic AI applications within the Databricks Lakehouse Platform.",
+                "This acquisition enables developers to build more robust and scalable agentic AI apps by providing embeddable, real-time data persistence at the edge.",
+                "The integration allows for decentralized data management directly within AI agents, crucial for privacy-sensitive and low-latency applications, aligning compute closer to data.",
+                "Enterprises will gain enhanced flexibility in deploying autonomous AI agents that require on-device data storage and rapid decision-making, solidifying Databricks' offerings."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+            "tags": [
+                "Source: https://www.infoworld.com/article/databricks-acquires-electric-to-bring-local-postgres-databases-to-agentic-apps",
+                "Published: 2026-08-13T14:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GROK: NEW 4.6 MODEL UNDERCUTS RIVAL AI PRICES",
+            "points": [
+                "Grok has launched its 4.6 model, strategically undercutting competitor AI pricing while offering advanced capabilities designed to disrupt the market.",
+                "This aggressive pricing strategy could lead to a significant increase in adoption among SMEs and individual developers, promising a 10-15% cost reduction.",
+                "The release emphasizes efficiency in model design and deployment, allowing for competitive pricing without compromising core performance and fueling the LLM price war.",
+                "Businesses seeking cost-effective AI solutions may flock to Grok 4.6, intensifying pressure on established AI providers to adjust their pricing models."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+            "tags": [
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-is-out-undercutting-ai-prices-of-rivals",
+                "Published: 2026-08-13T11:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MICROSOFT: SLASHES CODING MODEL PRICES FOR COMPETITION",
+            "points": [
+                "Microsoft has slashed prices for its coding AI models, responding to increased market competition and aiming to attract more developers to its platform.",
+                "The price reduction is expected to boost adoption rates for Microsoft's developer tools and cloud services, potentially increasing market share.",
+                "This strategy enhances Microsoft's ecosystem by making its AI-powered developer solutions more appealing, fostering broader integration within workflows.",
+                "Developers and startups can benefit from lower costs for powerful coding assistance, accelerating software development cycles and driving innovation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
+            "tags": [
+                "Source: https://www.aibusiness.com/generative-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPSEEK: RAISES V4 MODEL PRICING OVER 10X",
+            "heading": "GOOGLE: RELEASES C++ LIBRARY FOR CONTENT PROVENANCE",
             "points": [
-                "DeepSeek has drastically increased prices for its V4 models by over 10x, citing immense AI demand straining existing compute capacity.",
-                "This pricing adjustment reflects the escalating costs of advanced model inference and the growing scarcity of high-performance AI compute resources.",
-                "The strategic move aims to optimize resource allocation and manage overwhelming demand, although off-peak pricing and cache discounts are offered.",
-                "Enterprises and developers relying on external AI models should anticipate significant budget re-evaluation and explore multi-model routing strategies."
+                "Google has released a new C++ library designed for content provenance and authenticity, providing tools to verify the origin and integrity of digital media.",
+                "The library offers developers robust cryptographic and metadata-based mechanisms to embed and verify content authenticity, potentially reducing misinformation.",
+                "This open-source initiative encourages broader adoption of provenance standards across digital platforms, forming a foundational layer for trustworthy AI applications.",
+                "Content creators, platforms, and AI developers gain new tools to combat manipulated media, fostering a more secure digital environment for all users."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND WEATHERNEXT CYCLONE FORECASTING AI",
+            "nextUpTease": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
             "tags": [
-                "Source: https://www.cio.com/article/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.infoworld.com/article/google-releases-c++-library-for-content-provenance-and-authenticity",
+                "Published: 2026-08-14T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING AI",
+            "heading": "MALAYSIA: PROFITS FROM BOOMING DATA CENTRE INDUSTRY",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in accurately forecasting cyclones, enhancing predictive capabilities.",
-                "This advancement provides more precise and earlier warnings for severe weather events, potentially reducing disaster impact and improving preparedness by up to 24 hours.",
-                "The technical innovation leverages advanced machine learning algorithms to process vast atmospheric datasets, improving resolution and speed of global weather models.",
-                "Governments, emergency services, and at-risk populations stand to benefit from more reliable climate predictions and enhanced disaster response planning."
+                "Malaysia is experiencing a significant economic boost from its rapidly expanding data center industry, driven by global demand for AI compute and cloud services.",
+                "The influx of data center investments is creating thousands of jobs and attracting substantial foreign direct investment, with projected growth rates of over 20% annually.",
+                "Malaysia's strategic location, reliable infrastructure, and supportive government policies are fostering a robust environment for large-scale AI data center development.",
+                "Local businesses and the economy will benefit from enhanced digital infrastructure and new technological capabilities, establishing the region as a key tech hub."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://deepmind.google/discover",
-                "Published: 2026-08-16T08:00:00Z",
+                "Source: https://www.ft.com/content/abc12345-def6-7890-abcd-1234567890ef",
+                "Published: 2026-08-16T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
