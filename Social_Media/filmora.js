@@ -4,56 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "MISTRAL SHIELDSTRAL FOR SOVEREIGN AI",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, its latest frontier intelligence model for rapid inference. This model offers a 2.5x throughput increase, reducing operational costs for large-scale AI apps."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "TSMC A16 NANOSHEET SUPER POWER RAIL",
+                "visual_caption": "OpenAI has released its latest frontier model, GPT-5.6, engineered for advanced agentic AI and demanding enterprise workflows. This model boosts performance and scalability across diverse AI applications by up to 15%."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
-                "visual_caption": "Mistral AI unveiled Shieldstral, a new platform for sovereign AI, ensuring in-region inference & open models. This initiative provides enhanced data residency & compliance for EU enterprises & governments."
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE AMD-POWERED AI & HPC VMS",
+                "visual_caption": "TSMC has unveiled its A16 nanosheet process technology, featuring an innovative Super Power Rail design. This optimizes HPC & AI applications with best-in-class backside power delivery."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "DEEPSEEK V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "IBM & OpenAI partnered to accelerate enterprise AI deployment by integrating frontier models with IBM Consulting services. This alliance aims to reduce AI implementation timelines for large orgs by 30%."
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "teaserTitle": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
+                "visual_caption": "Microsoft Azure is expanding its infrastructure with new AMD-powered VMs, including HDv2, HXv2, & ND MI455Xv7 series. These VMs target demanding AI & HPC workloads, boosting efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
-                "teaserTitle": "OPENAI EXPANDING DAYBREAK FOR CYBER DEFENSE",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "DeepSeek increased its V4 model API prices by over 10x due to intense AI compute demand & strained capacity. This adjustment impacts development costs, forcing optimization & alternative model considerations."
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "NVIDIA AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
+                "visual_caption": "Google Cloud has unveiled AI Threat Defense, a new security suite leveraging advanced AI to proactively identify & neutralize sophisticated cyber threats. This system reduces vulnerability, minimizing breaches."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: EXPANDING DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
+                "headline": "NVIDIA: AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
+                "teaserTitle": "BIG TECH DATA CENTER BOOM DRIVES CARBON",
                 "visual_asset": "backgroundyt5.png",
-                "visual_caption": "OpenAI is expanding its Daybreak initiative, boosting AI-powered cyber defense to counter evolving threats. These advancements aim to reduce threat detection & mitigation times by 15-20%."
+                "visual_caption": "The Open Secure AI Alliance, including NVIDIA, is developing SAFE Guidelines for cybersecurity transparency to strengthen agentic AI systems. These guidelines aim to establish industry-wide best practices for securing AI."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
-                "teaserTitle": "EU AI ACT OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "The Common Earth Project, an international initiative, aims to resolve chip supply chain bottlenecks via collaborative research & standardized manufacturing. This project seeks to stabilize global semiconductor availability & pricing."
+                "headline": "FINANCIAL TIMES: BIG TECH DATA CENTER BOOM DRIVES CARBON",
+                "teaserTitle": "DOW JONES AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
+                "visual_caption": "A Financial Times analysis reveals the rapid boom in Big Tech data center construction is poised to significantly increase global carbon emissions. The 60 largest planned facilities could emit carbon equivalent to 27 coal plants annually."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "DOW JONES: AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The EU AI Office announced a massive hiring round, seeking 40 new experts across tech, legal, & ops. This recruitment drive bolsters its capacity for enforcing the EU AI Act, increasing regulatory scrutiny."
+                "visual_caption": "AI is increasingly assisting patients in solving complex medical mysteries, enhancing diagnostic accuracy & uncovering previously undiagnosed conditions. AI systems improve diagnostic timelines by up to 30%."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

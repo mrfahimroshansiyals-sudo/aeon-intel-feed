@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH DEBUT",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "MISTRAL SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "TSMC A16 NANOSHEET SUPER POWER RAIL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, its latest frontier intelligence model, for rapid inference. This model offers a 2.5x throughput increase, reducing operational costs for large-scale AI applications."
+                "narration_line": "OpenAI has released its latest frontier model, GPT-five-point-six, engineered for advanced agentic AI and demanding enterprise workflows. This model boosts performance and scalability across diverse AI applications by up to 15 percent."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "MICROSOFT AZURE AMD-POWERED AI & HPC VMS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Mistral AI unveiled Shieldstral, a new platform for sovereign AI, ensuring in-region inference and open models. This initiative provides enhanced data residency and compliance for European enterprises and governments."
+                "narration_line": "TSMC has unveiled its A16 nanosheet process technology, featuring an innovative Super Power Rail design. This optimizes high-performance computing and AI applications with best-in-class backside power delivery."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "DEEPSEEK V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+                "teaserTitle": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM and OpenAI partnered to accelerate enterprise AI deployment by integrating frontier models with IBM Consulting services. This alliance aims to reduce AI implementation timelines for large organizations by 30%."
+                "naration_line": "Microsoft Azure is expanding its infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs target demanding AI and high-performance computing workloads, boosting efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPSEEK: V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
-                "teaserTitle": "OPENAI EXPANDING DAYBREAK FOR CYBER DEFENSE",
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "NVIDIA AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DeepSeek increased its V4 model API prices by over 10 times due to intense AI compute demand and strained capacity. This significant adjustment impacts development costs, forcing optimization and alternative model considerations."
+                "narration_line": "Google Cloud has unveiled AI Threat Defense, a new security suite leveraging advanced AI to proactively identify and neutralize sophisticated cyber threats. This system reduces vulnerability windows, minimizing potential data breaches."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: EXPANDING DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
+                "headline": "NVIDIA: AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
+                "teaserTitle": "BIG TECH DATA CENTER BOOM DRIVES CARBON",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding its Daybreak initiative, boosting AI-powered cyber defense to counter evolving threats. These advancements aim to reduce threat detection and mitigation times by 15% to 20%."
+                "narration_line": "The Open Secure AI Alliance, including NVIDIA, is developing SAFE Guidelines for cybersecurity transparency to strengthen agentic AI systems. These guidelines aim to establish industry-wide best practices for securing AI deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
-                "teaserTitle": "EU AI ACT OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "FINANCIAL TIMES: BIG TECH DATA CENTER BOOM DRIVES CARBON",
+                "teaserTitle": "DOW JONES AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Common Earth Project, an international initiative, aims to resolve chip supply chain bottlenecks through collaborative research and standardized manufacturing. This project seeks to stabilize global semiconductor availability and pricing."
+                "narration_line": "A Financial Times analysis reveals the rapid boom in Big Tech data center construction is poised to significantly increase global carbon emissions. Sixty largest planned facilities could emit carbon equivalent to twenty-seven coal plants annually."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
+                "headline": "DOW JONES: AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office announced a massive hiring round, seeking 40 new experts across tech, legal, and operations. This recruitment drive bolsters its capacity for enforcing the EU AI Act, increasing regulatory scrutiny."
+                "narration_line": "Artificial intelligence is increasingly assisting patients in solving complex medical mysteries, enhancing diagnostic accuracy and uncovering previously undiagnosed conditions. AI systems improve diagnostic timelines by up to thirty percent."
             },
             {
                 "slide_index": 8,
