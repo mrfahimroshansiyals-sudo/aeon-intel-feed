@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL AI INTELLIGENCE: CRITICAL UPDATES",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCHES FOR AI AGENTS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "AMD-POWERED AI & HPC VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "IBM and OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM's consulting services. This collaboration is set to significantly reduce AI implementation cycles for businesses worldwide."
+                "narration_line": "OpenAI has launched GPT-5.6, its new frontier intelligence model for advanced enterprise applications. This release improves specialized finance workflows and expands free user access."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCHES FOR AI AGENTS",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
+                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA introduces NeMo Switchyard, a new platform for routing and managing AI models, enhancing agentic AI orchestration. The system optimizes multi-model application efficiency and scalability for enterprise operations."
+                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered virtual machines for AI and HPC workloads. These VMs boost performance and scalability for intensive computing tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "GOOGLE CLOUD: LAUNCHES OMNI FLASH & NANO BANANA 2 LITE",
+                "headline": "MICROSOFT AZURE: IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
+                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud unveils its AI Threat Defense platform, designed to proactively mitigate sophisticated cyber threats using artificial intelligence. This platform significantly enhances real-time threat detection and automated response."
+                "narration_line": "Microsoft Azure introduced IQ and Foundry platforms to build, orchestrate, and govern production AI agents. These services connect agents securely to enterprise systems with shared context."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: LAUNCHES OMNI FLASH & NANO BANANA 2 LITE",
-                "teaserTitle": "HEALTH AI: ACCELERATING MEDICAL MYSTERY DIAGNOSES",
+                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "teaserTitle": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud launches Gemini Omni Flash and Nano Banana Two Lite, expanding its generative AI model suite. These models offer improved performance for multi-modal generation and efficient image creation."
+                "narration_line": "NVIDIA advanced Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI. These updates enhance performance and optimize model routing for complex multi-agent workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "HEALTH AI: ACCELERATING MEDICAL MYSTERY DIAGNOSES",
-                "teaserTitle": "MANUFACTURING: INDUSTRY MEETS AI DATA CENTER DEMAND",
+                "headline": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
+                "teaserTitle": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Artificial intelligence is now accelerating the diagnosis of complex medical mysteries by analyzing vast clinical datasets. This innovation rapidly identifies subtle diagnostic patterns, leading to quicker treatments for patients."
+                "narration_line": "Google Cloud is scaling its AI infrastructure to support the agentic AI era. This strategy optimizes hardware and software for high-demand intelligent agent workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "MANUFACTURING: INDUSTRY MEETS AI DATA CENTER DEMAND",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Big manufacturers report a surge in demand for equipment to build and operate AI data centers, driving significant industrial growth. This trend provides foundational hardware for expanding global AI capabilities."
+                "narration_line": "TSMC is advancing AI with A14 NanoFlex\u2122 Pro and A16 Nanosheet with Super Power Rail. These innovations enable more powerful and energy-efficient chips for AI accelerators."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Mistral AI introduces Shieldstral, focusing on in-region inference and secure, open models for sovereign AI solutions. This initiative bolsters data privacy and regulatory compliance for European enterprises."
+                "narration_line": "Google DeepMind announced reduced introductory pricing for its Gemini 3.7 Flash model, targeting developers. This move encourages broader adoption and lowers costs for AI application development."
             },
             {
                 "slide_index": 8,
