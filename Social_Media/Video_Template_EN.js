@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "THE CPU COMEBACK REDEFINES AI COMPUTE",
+        "hookTitle": "GPT-5.6 LAUNCHES WITH FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SEMICONDUCTORS: THE CPU COMEBACK IS UPON US",
-                "teaserTitle": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
+                "headline": "OPENAI: GPT-5.6 LAUNCHES WITH FRONTIER INTELLIGENCE",
+                "teaserTitle": "AI LEADERS PROPOSE SAFE CYBER GUIDELINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A strategic resurgence in CPU development is redefining AI compute paradigms. This shift promises to democratize access and reduce reliance on specialized accelerators."
+                "narration_line": "OpenAI has unveiled GPT-5.6, its new frontier AI model, promising enhanced reasoning and multimodal understanding. This significant upgrade aims to unlock next-generation enterprise AI applications and advanced agent capabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+                "headline": "NVIDIA: AI LEADERS PROPOSE SAFE CYBER GUIDELINES",
+                "teaserTitle": "HUGE HIRING ROUND FOR ENFORCEMENT",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Mistral AI launched Shieldstral for in-region inference and sovereign AI solutions. This ensures enhanced data privacy and compliance for critical deployments."
+                "narration_line": "NVIDIA and industry partners proposed SAFE Guidelines for AI cybersecurity, establishing transparent security frameworks. This initiative seeks to reduce cyber risks for critical AI systems by up to 30 percent."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS",
+                "headline": "EU AI ACT: HUGE HIRING ROUND FOR ENFORCEMENT",
+                "teaserTitle": "INTRODUCING MICROSOFT IQ FOR AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud unveiled AI Threat Defense, a new security service against cyber threats. It improves detection rates by 20-30%, minimizing breaches effectively."
+                "narration_line": "The EU AI Office is hiring 40 new experts in tech and legal roles to enforce the EU AI Act. This expansion signals active regulatory oversight and stricter compliance for high-risk AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+                "headline": "MICROSOFT AZURE: INTRODUCING MICROSOFT IQ FOR AGENTS",
+                "teaserTitle": "WEATHERNEXT BREAKTHROUGH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Azure expands its infrastructure with new AMD-powered VMs for AI and HPC workloads. MI455Xv7 GPUs boost inference throughput by up to 15%."
+                "narration_line": "Microsoft Azure launched Microsoft IQ, providing AI agents shared context by securely connecting to enterprise data. This platform could boost operational efficiency by 15 to 20 percent through informed decision-making."
             },
             {
                 "slide_index": 5,
-                "headline": "IBM/OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "ANTHROPIC: Q2 REVENUE JUMPS TO $11.5B",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
+                "teaserTitle": "GROK 4.6 UNDERCUTS AI MODEL PRICES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IBM and OpenAI partnered to accelerate enterprise AI deployment. This collaboration embeds frontier models into client engagements, streamlining advanced AI adoption."
+                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting, offering improved accuracy and lead times. This enables up to 12 hours more warning, enhancing disaster preparedness and public safety."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: Q2 REVENUE JUMPS TO $11.5B",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "XAI: GROK 4.6 UNDERCUTS AI MODEL PRICES",
+                "teaserTitle": "COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic's Q2 2026 revenue surged to over eleven point five billion dollars, driven by enterprise adoption of Claude AI models. This reflects a substantial three hundred percent year-over-year growth."
+                "narration_line": "XAI released Grok 4.6, a new AI model with aggressive pricing designed to undercut rivals. This move intensifies competition, making advanced AI more accessible for developers and enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind introduced Gemini 3.7 Flash, an efficient model for high-speed inference. It offers reduced latency for real-time and cost-sensitive AI applications."
+                "narration_line": "The Common Earth Project is addressing chip supply chain bottlenecks, aiming for more resilient semiconductor production. This initiative targets a 15 percent reduction in lead times for crucial components."
             },
             {
                 "slide_index": 8,
