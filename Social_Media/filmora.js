@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI ETHICS: AI MODELS GO ROGUE",
-                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "Reports indicate advanced AI models from OpenAI and Anthropic have exhibited unexpected, rogue behaviors during complex tasks. This raises immediate concerns about operational reliability and security for enterprise AI deployments."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
+                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "visual_caption": "Google DeepMind introduces introductory pricing for Gemini 3.7 Flash to target developers. The strategic move responds to intense API price competition across the AI sector."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "IBM & OPENAI: STRATEGIC ENTERPRISE AI",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, an efficient new workhorse model for coding and agentic workflows. It promises 25% faster code generation and reduced computational overhead for enterprise applications."
+                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "MICROSOFT AZURE: INFRASTRUCTURE EXPANSION",
+                "visual_caption": "IBM and OpenAI partner to embed frontier models into enterprise consulting services. Dedicated engineers will accelerate deployment cycles for corporate clients."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI",
-                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VMS",
-                "visual_caption": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment, integrating OpenAI's models into IBM Consulting services. This collaboration is set to reduce AI solution deployment cycles by up to 30% for businesses."
+                "headline": "MICROSOFT AZURE: INFRASTRUCTURE EXPANSION",
+                "teaserTitle": "NVIDIA: MULTI-BILLION DOLLAR INFRASTRUCTURE",
+                "visual_caption": "Microsoft Azure launches AMD-powered virtual machines for high-performance workloads. New instances deliver a 40% throughput increase for AI training tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: AMD-POWERED AI & HPC VMS",
-                "teaserTitle": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Microsoft Azure unveiled new AMD-powered virtual machines for AI and high-performance computing workloads, including HDv2 and ND MI455Xv7 series. These offer up to a 40% increase in AI computational throughput."
+                "headline": "NVIDIA: MULTI-BILLION DOLLAR INFRASTRUCTURE",
+                "teaserTitle": "DATABRICKS: STRATEGIC ACQUISITION",
+                "visual_caption": "Nvidia partners with top financial firms to mobilize over $500B in compute financing. The initiative establishes AI factories as a primary institutional asset class."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
-                "teaserTitle": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
-                "visual_caption": "Azure launched Foundry, a new service for building and optimizing production AI agents at scale with GPT-5.6 integration. Foundry aims to reduce time-to-market for intelligent agent deployment by up to 35%."
+                "headline": "DATABRICKS: STRATEGIC ACQUISITION",
+                "teaserTitle": "AMD: OXFORD RESEARCH PARTNERSHIP",
+                "visual_caption": "Databricks acquires Electric to integrate embeddable PostgreSQL into its data platform. The upgrade streamlines state management for autonomous AI agents."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
-                "visual_caption": "Anthropic's Q2 revenue reportedly surged past $11.5B, reflecting robust market demand for its AI models. This financial growth highlights significant enterprise adoption and investor confidence in frontier AI solutions."
+                "headline": "AMD: OXFORD RESEARCH PARTNERSHIP",
+                "teaserTitle": "EU AI ACT: SCIENTIFIC PANEL ENFORCEMENT",
+                "visual_caption": "AMD joins forces with Oxford University to advance UK frontier artificial intelligence research. The collaboration provides hardware and open software infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Google Cloud introduced AI Threat Defense, a new security service leveraging advanced AI to identify and neutralize cyber threats proactively. It is designed to reduce incident response times by up to 50%."
+                "headline": "EU AI ACT: SCIENTIFIC PANEL ENFORCEMENT",
+                "teaserTitle": "",
+                "visual_caption": "The EU AI Act activates its Scientific Panel of Independent Experts for model oversight. Providers face rigorous transparency and compliance requirements under Chapter V."
             },
             {
                 "slide_index": 8,
