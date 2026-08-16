@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-        "titleBlue": "AMBITION",
-        "footerSummary": "OpenAI's GPT-5.6 and TSMC's A16 advance AI. Azure expands, Google and NVIDIA secure systems. Yet, data center growth accelerates carbon risks."
+        "titleWhite": "GEMINI 3.7 FLASH",
+        "titleBlue": "DEBUTS",
+        "footerSummary": "Gemini 3.7 Flash leads new AI models. Microsoft & IBM drive enterprise solutions. OpenAI faces market shifts as Databricks thrives, and EU ramps up AI regulation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
             "points": [
-                "OpenAI has released GPT-5.6, its latest frontier model, designed to scale with demanding enterprise ambition and complex agentic workflows. It represents a significant leap in AI capabilities.",
-                "This model enhances performance across diverse applications, offering improved reasoning, expanded context windows, and higher throughput for advanced AI systems. It reduces inference latency by up to 15%.",
-                "Architecturally, GPT-5.6 integrates new sparse attention mechanisms and enhanced multi-modal understanding, enabling more sophisticated problem-solving and adaptable deployments.",
-                "Enterprises can leverage GPT-5.6 to automate complex tasks, develop next-generation AI agents, and unlock new levels of productivity and innovation across their operations."
+                "Google DeepMind launched Gemini 3.7 Flash, its latest and most intelligent workhorse model, engineered for advanced coding and complex agentic workflows. This model represents a significant leap in AI capabilities.",
+                "It offers improved efficiency and performance, notably with a lower introductory price to attract a broader developer base, enhancing accessibility for high-demand AI applications.",
+                "Architecturally, Gemini 3.7 Flash is designed to maximize intelligence per parameter, integrating advanced capabilities for real-time processing and efficient resource utilization.",
+                "Developers can leverage this model to build next-generation enterprise agents and innovative applications, driving down operational costs and accelerating development cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC A16 NANOSHEET SUPER POWER RAIL",
+            "nextUpTease": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6",
-                "Published: 2026-08-18T09:00:00Z",
+                "Source: https://deepmind.google/news",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+            "heading": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
             "points": [
-                "TSMC has unveiled its A16 nanosheet process technology, featuring an innovative Super Power Rail design, specifically optimized for high-performance computing (HPC) and AI applications.",
-                "This advancement provides best-in-class backside power delivery, significantly improving transistor performance and power efficiency for next-generation AI accelerators and data centers.",
-                "The A16 architecture with nanosheet transistors enables higher density and reduced resistance, allowing for tighter integration of components and pushing the limits of Moore's Law.",
-                "AI chip developers can leverage A16 to design more powerful and energy-efficient processors, accelerating training and inference for future frontier models."
+                "Microsoft Azure introduces Microsoft IQ Connect, a new service designed to provide complete, shared context for AI agents across enterprise systems, data, and workflows.",
+                "This system allows AI agents to reason and act with precise business context, improving accuracy and relevance in automated decision-making and task execution across the enterprise.",
+                "Strategically, IQ Connect unifies AI, data, business context, applications, and agents into a cohesive intelligent system, enabling seamless operation and enhanced governance.",
+                "Organizations can now securely connect their AI agents to critical business assets, leading to more reliable AI deployments and accelerated transformation initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE AMD-POWERED AI & HPC VMS",
+            "nextUpTease": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events/a16-nanosheet",
-                "Published: 2026-08-17T09:30:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-15T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS EXPAND",
+            "heading": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, targeting demanding AI and HPC workloads.",
-                "These new VMs offer enhanced compute capabilities and specialized GPU acceleration, significantly boosting performance and efficiency for data processing, AI training, and inference tasks.",
-                "The architectural integration of AMD's latest processors and Instinct GPUs provides a powerful foundation for scalable, high-performance cloud environments, reducing latency for complex models.",
-                "Enterprises can now run their most intensive AI and high-performance computing applications with greater speed and cost-effectiveness on Azure's expanded, optimized infrastructure."
+                "IBM and OpenAI have announced a strategic partnership to accelerate enterprise AI deployment, integrating OpenAI's frontier models into IBM consulting services.",
+                "This collaboration embeds OpenAI-trained forward-deployed engineers into IBM projects, aiming to streamline and expedite AI-centric transformation for businesses.",
+                "The architectural alliance focuses on co-innovation, leveraging OpenAI's advanced models with IBM's deep enterprise integration expertise to create robust AI solutions.",
+                "Enterprises gain access to unparalleled expertise and advanced AI tools, enabling faster adoption of generative AI and achieving significant operational efficiencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
+            "nextUpTease": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-amd-ai-hpc-vms",
-                "Published: 2026-08-17T15:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+            "heading": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
             "points": [
-                "Google Cloud has unveiled AI Threat Defense, a new suite of security tools leveraging advanced AI to proactively identify and neutralize sophisticated cyber threats across cloud environments.",
-                "This defense system uses predictive analytics and real-time anomaly detection to outpace adversaries, reducing the window of vulnerability and minimizing potential data breaches.",
-                "Architecturally, AI Threat Defense integrates directly into Google Cloud's security fabric, providing continuous monitoring and automated response capabilities for robust protection.",
-                "Organizations deploying AI models and critical workloads on Google Cloud gain enhanced cybersecurity, ensuring data integrity and operational resilience against evolving AI-powered attacks."
+                "Databricks has secured an additional $5 billion in funding, fueling speculation among industry experts that an Initial Public Offering (IPO) is now inevitable.",
+                "This massive influx of capital underscores strong investor confidence in Databricks' enterprise AI platform, positioning it for aggressive market expansion and product development.",
+                "Strategically, the funding reinforces Databricks' ability to acquire new capabilities, such as its recent acquisition of Electric for PostgreSQL, enhancing its data management and agent-building tools.",
+                "Enterprises relying on Databricks can expect accelerated innovation and broader feature sets, solidifying its role as a core platform for data intelligence and AI agent deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
+            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
             "tags": [
-                "Source: https://cloud.google.com/blog/google-ai-threat-defense",
-                "Published: 2026-08-17T13:30:00Z",
+                "Source: https://www.techtarget.com/news/366571587/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NVIDIA: AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
+            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
             "points": [
-                "The Open Secure AI Alliance, with over 120 organizations including NVIDIA, is developing SAFE Guidelines for cybersecurity transparency to strengthen agentic AI systems.",
-                "These guidelines aim to establish industry-wide best practices for securing AI, enhancing the trustworthiness and resilience of AI deployments against malicious exploits and vulnerabilities.",
-                "Strategically, this initiative promotes responsible AI development and deployment by standardizing security measures, fostering a more transparent and defensible AI ecosystem.",
-                "Developers and enterprises adopting agentic AI will benefit from clearer security frameworks, reducing risks and accelerating the safe integration of advanced AI capabilities."
+                "OpenAI is expanding its Daybreak cyber defense initiative, developing new strategies and tools as the window for effective cyber defense continues to narrow.",
+                "This expansion focuses on building more robust AI systems that can proactively identify and mitigate sophisticated cyber threats, enhancing system resilience.",
+                "The strategic move addresses the escalating complexity of AI-powered attacks, emphasizing the need for advanced, self-improving defense mechanisms within AI deployments.",
+                "Stakeholders can anticipate improved security postures for AI models and applications, reducing vulnerability to emergent threats and ensuring data integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "BIG TECH DATA CENTER BOOM DRIVES CARBON",
+            "nextUpTease": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/ai-leaders-propose-safe-guidelines-for-cybersecurity-transparency",
-                "Published: 2026-08-17T16:00:00Z",
+                "Source: https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-16T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCIAL TIMES: BIG TECH DATA CENTER BOOM DRIVES CARBON",
+            "heading": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
             "points": [
-                "A Financial Times analysis reveals that the rapid boom in Big Tech data center construction is poised to significantly increase global carbon emissions.",
-                "The 60 largest planned facilities could collectively emit carbon equivalent to 27 coal plants or 24 million cars per year, posing a substantial environmental challenge.",
-                "This operational impact highlights the urgent need for more sustainable energy solutions and efficiency improvements in AI infrastructure to mitigate climate risks.",
-                "Stakeholders face pressure to prioritize green data center technologies and renewable energy sources to support AI growth responsibly and meet climate targets."
+                "Reports from the Financial Times indicate mounting internal upheaval at OpenAI as CEO Sam Altman prepares the company for a potential blockbuster Initial Public Offering (IPO).",
+                "This strategic move comes amidst executive exits and changes within the safety team, raising questions about corporate governance and the future direction of the AI giant.",
+                "The company's architectural vision and ethical commitments are under scrutiny as it balances rapid commercialization with its original safety-focused mission.",
+                "Investors and the broader AI community are closely watching these developments, which could significantly impact market perceptions and regulatory frameworks for frontier AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOW JONES AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
+            "nextUpTease": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
             "tags": [
-                "Source: https://www.ft.com/content/big-tech-data-centre-boom-carbon-emissions",
-                "Published: 2026-08-18T11:00:00Z",
+                "Source: https://www.ft.com/content/openai-upheaval-mounts-as-sam-altman-readies-ipo-push",
+                "Published: 2026-08-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOW JONES: AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
+            "heading": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
             "points": [
-                "Artificial intelligence is increasingly assisting patients in solving complex medical mysteries, enhancing diagnostic accuracy and uncovering previously undiagnosed conditions.",
-                "AI systems analyze vast amounts of patient data, including genetic information, medical histories, and symptoms, to identify obscure patterns and potential diagnoses rapidly.",
-                "This technical breakthrough leverages advanced machine learning and natural language processing to augment human clinicians, improving diagnostic timelines by up to 30%.",
-                "Patients and healthcare providers benefit from faster, more precise diagnoses for rare and challenging conditions, leading to improved treatment outcomes and better quality of life."
+                "The EU AI Office has announced a huge hiring round, seeking 40 new posts across tech, legal, and operational roles, dedicated to enforcing the landmark EU AI Act.",
+                "This significant expansion of personnel signals a concrete commitment to robust regulatory oversight, ensuring compliance and effective governance of AI systems across Europe.",
+                "The operational impact will strengthen the EU's capacity to audit and regulate high-risk AI applications, setting a global precedent for AI governance.",
+                "AI developers and deployers operating within the EU must prepare for increased scrutiny and adherence to evolving compliance frameworks as the office staffs up."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.wsj.com/articles/ai-patients-medical-mysteries",
-                "Published: 2026-08-18T01:00:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-16T07:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "TSMC A16 NANOSHEET SUPER POWER RAIL",
-                "visual_caption": "OpenAI has released its latest frontier model, GPT-5.6, engineered for advanced agentic AI and demanding enterprise workflows. This model boosts performance and scalability across diverse AI applications by up to 15%."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
+                "visual_caption": "Google DeepMind debuted its Gemini 3.7 Flash, optimized for complex coding and agentic workflows. This new model offers enhanced efficiency and a lower intro price, attracting broader developer adoption."
             },
             {
                 "slide_index": 2,
-                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "MICROSOFT AZURE AMD-POWERED AI & HPC VMS",
-                "visual_caption": "TSMC has unveiled its A16 nanosheet process technology, featuring an innovative Super Power Rail design. This optimizes HPC & AI applications with best-in-class backside power delivery."
+                "headline": "MICROSOFT AZURE: INTRODUCES MICROSOFT IQ CONNECT",
+                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "visual_caption": "Microsoft Azure introduces IQ Connect, providing complete shared context for AI agents across enterprise systems. This unifies AI, data, and workflows for precise business reasoning, improving automated decision-making."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VMS EXPAND",
-                "teaserTitle": "GOOGLE CLOUD INTRODUCES AI THREAT DEFENSE",
-                "visual_caption": "Microsoft Azure is expanding its infrastructure with new AMD-powered VMs, including HDv2, HXv2, & ND MI455Xv7 series. These VMs target demanding AI & HPC workloads, boosting efficiency."
+                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "teaserTitle": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
+                "visual_caption": "IBM & OpenAI partner to accelerate enterprise AI deployment, integrating frontier models into IBM consulting services. This embeds OpenAI engineers, streamlining AI transformation for businesses globally."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "NVIDIA AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
-                "visual_caption": "Google Cloud has unveiled AI Threat Defense, a new security suite leveraging advanced AI to proactively identify & neutralize sophisticated cyber threats. This system reduces vulnerability, minimizing breaches."
+                "headline": "TECHTARGET: DATABRICKS ADDS $5B, IPO INEVITABLE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+                "visual_caption": "Databricks raised an additional $5B in funding, making an IPO seem inevitable. This capital influx highlights strong investor confidence, fueling aggressive market expansion for its enterprise AI platform."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: AI LEADERS PROPOSE CYBERSECURITY SAFE GUIDELINES",
-                "teaserTitle": "BIG TECH DATA CENTER BOOM DRIVES CARBON",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+                "teaserTitle": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
                 "visual_asset": "backgroundyt5.png",
-                "visual_caption": "The Open Secure AI Alliance, including NVIDIA, is developing SAFE Guidelines for cybersecurity transparency to strengthen agentic AI systems. These guidelines aim to establish industry-wide best practices for securing AI."
+                "visual_caption": "OpenAI expands Daybreak cyber defense, developing new tools to counter narrowing cyber defense windows. This builds robust AI systems, proactively mitigating sophisticated AI-powered threats for enhanced resilience."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCIAL TIMES: BIG TECH DATA CENTER BOOM DRIVES CARBON",
-                "teaserTitle": "DOW JONES AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
-                "visual_caption": "A Financial Times analysis reveals the rapid boom in Big Tech data center construction is poised to significantly increase global carbon emissions. The 60 largest planned facilities could emit carbon equivalent to 27 coal plants annually."
+                "headline": "FT: OPENAI UPHEAVAL MOUNTS AS ALTMAN READIES IPO",
+                "teaserTitle": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
+                "visual_caption": "FT reports mounting internal upheaval at OpenAI as CEO Sam Altman prepares for potential IPO. This comes amidst executive exits, raising questions about governance & company's future direction."
             },
             {
                 "slide_index": 7,
-                "headline": "DOW JONES: AI AIDS PATIENTS SOLVING MEDICAL MYSTERIES",
+                "headline": "EU AI ACT: HUGE HIRING ROUND FOR AI OFFICE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AI is increasingly assisting patients in solving complex medical mysteries, enhancing diagnostic accuracy & uncovering previously undiagnosed conditions. AI systems improve diagnostic timelines by up to 30%."
+                "visual_caption": "EU AI Office announced huge hiring round, seeking 40 new tech, legal, & ops posts. This expands regulatory oversight, setting a global precedent for AI governance."
             },
             {
                 "slide_index": 8,
