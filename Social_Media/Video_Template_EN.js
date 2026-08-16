@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+        "hookTitle": "ANTHROPIC SURPASSES 11.5 BILLION AS PRIVATE AI FACTORY CAPITAL EXPANDS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "OPENAI EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
+                "headline": "ANTHROPIC: REVENUE SURPASSES $11.5 BILLION",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its new frontier model, bringing significant advancements in intelligence and enterprise capabilities. This model aims to redefine the limits of AI systems for complex problem-solving."
+                "narration_line": "Anthropic reported Q2 revenue exceeding eleven point five billion dollars. Enterprise API consumption surged one hundred forty percent as autonomous agent workflows replaced legacy software stacks."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
-                "teaserTitle": "GOOGLE CLOUD INTRODUCES NEW GEMINI FLASH MODELS",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding free access to its GPT-5.6 Luna model within ChatGPT, democratizing advanced AI capabilities for a broader user base. This move lowers barriers for developers and fosters innovation across the AI ecosystem."
+                "narration_line": "NVIDIA formed an infrastructure partnership to mobilize over five hundred billion dollars with major private equity firms. The capital directly funds global gigawatt scale AI factories."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
-                "teaserTitle": "IBM & OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduced new Gemini Flash models, including 3.6 Flash and 3.5 Flash-Lite, expanding its portfolio of efficient AI solutions. These models offer optimized performance and cost-efficiency for diverse generative AI applications."
+                "narration_line": "Databricks finalized the acquisition of Electric to embed local Postgres sync for AI agents. This architecture eliminates cloud latency bottlenecks for distributed autonomous workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM & OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "DEEPSEEK RAISES V4 PRICES BY OVER 10X",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "OPENAI: APPOINTS DALI RAJIC AS CRO",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment by integrating frontier models. This collaboration provides specialized AI engineering talent to overcome adoption barriers for large corporations."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash with discounted introductory pricing. The model provides low-latency execution designed specifically for developer coding and continuous orchestration."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPSEEK: RAISES V4 PRICES BY OVER 10X",
-                "teaserTitle": "MICROSOFT AZURE EXPANDS AI HPC VIRTUAL MACHINES",
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CRO",
+                "teaserTitle": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DeepSeek has increased prices for some V4 model APIs by over 10 times, citing strained capacity due to surging AI demand. This move highlights intense computational resource requirements and impacts AI economic landscape."
+                "narration_line": "OpenAI appointed Dali Rajic as Chief Revenue Officer to lead enterprise expansion. Official corporate filings confirm enterprise contracts now generate larger revenue than consumer subscriptions."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT AZURE: EXPANDS AI HPC VIRTUAL MACHINES",
-                "teaserTitle": "EU AI ACT ANNOUNCES MAJOR ENFORCEMENT HIRING",
+                "headline": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
+                "teaserTitle": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2 and HXv2 series. These VMs support demanding AI and technical computing workloads, boosting cloud AI capabilities."
+                "narration_line": "xAI released Grok four point six with substantial price reductions across inference tokens. The cost reduction intensifies competitive margin pressure across major foundation model providers."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: ANNOUNCES MAJOR ENFORCEMENT HIRING",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office is hiring 40 new tech, legal, and operations staff to rigorously enforce the EU AI Act by September. This strengthens regulatory oversight and sets precedents for ethical AI development globally."
+                "narration_line": "A large-scale legal trial of JudgeGPT demonstrated a six point three percent acceleration in case processing. Document analysis also resulted in a verified reduction in formal appeals."
             },
             {
                 "slide_index": 8,

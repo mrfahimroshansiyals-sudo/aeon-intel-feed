@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-        "titleBlue": "AMBITION",
-        "footerSummary": "OpenAI's GPT-5.6 launch with free access, new Google Cloud Gemini models, and major IBM partnership reshape frontier AI amidst EU AI Act enforcement."
+        "titleWhite": "REVENUE SURPASSES $11.5",
+        "titleBlue": "BILLION",
+        "footerSummary": "Anthropic Q2 revenue crosses $11.5B as NVIDIA mobilizes $500B in infrastructure capital and Databricks acquires Electric to accelerate agentic SQL systems."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+            "heading": "ANTHROPIC: REVENUE SURPASSES $11.5 BILLION",
             "points": [
-                "OpenAI launched GPT-5.6, its new frontier model, boasting significant advances in intelligence and capability for enterprise solutions. This model represents a leap in large language model performance.",
-                "GPT-5.6 is engineered for complex problem-solving, enabling more sophisticated AI agents and highly autonomous applications. Its scaling ambition aims to redefine AI system ceilings.",
-                "Architecturally, it integrates enhanced reasoning, longer context windows, and multimodal capabilities, facilitating broader deployment across diverse enterprise use cases. This boosts application versatility.",
-                "Stakeholders can expect accelerated development of intelligent systems, with GPT-5.6 driving new benchmarks in AI performance and pushing the boundaries of what AI can achieve."
+                "Anthropic reported Q2 2026 annualized revenue exceeding $11.5B, driven by high enterprise Claude adoption.",
+                "Enterprise API consumption surged 140% quarter-over-quarter as frontier agent workflows replaced legacy SaaS tools.",
+                "The financial expansion secures dedicated capital for multi-gigawatt cluster deployments and frontier research.",
+                "Enterprises face accelerating model consolidation as top frontier labs scale dedicated high-throughput infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
+            "nextUpTease": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-16T17:42:00Z",
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-16T04:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
             "points": [
-                "OpenAI is expanding free access to its GPT-5.6 Luna model, making advanced AI capabilities more broadly available to users within ChatGPT. This move democratizes frontier AI.",
-                "This expansion aims to accelerate innovation by lowering barriers for developers and researchers, encouraging wider experimentation and integration of sophisticated AI. It boosts user engagement.",
-                "Strategically, providing free access to powerful models like Luna fosters ecosystem growth and community contributions, solidifying OpenAI's market position. This enhances platform stickiness.",
-                "Developers and SMBs can leverage high-performance AI at no cost, enabling rapid prototyping and deployment of new AI-powered features and applications. This drives new market opportunities."
+                "NVIDIA formed a joint finance platform with Apollo, BlackRock, Blackstone, Brookfield, and KKR to fund AI compute.",
+                "The initiative mobilizes over $500B in private capital to construct gigawatt-scale AI factories globally.",
+                "The structure shifts data center capital expenditure off sovereign balance sheets into institutional asset classes.",
+                "Hyperscalers and cloud operators gain non-dilutive liquidity to secure multi-year accelerated computing hardware pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD INTRODUCES NEW GEMINI FLASH MODELS",
+            "nextUpTease": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
             "tags": [
-                "Source: https://openai.com/product/improving-gpt-5-6-sol-and-luna",
-                "Published: 2026-08-16T17:55:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-15T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+            "heading": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
             "points": [
-                "Google Cloud has introduced new Gemini Flash models, including 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its range of efficient AI solutions. This diversifies model offerings.",
-                "These models offer optimized performance for specific tasks, with a focus on speed and cost-efficiency for various generative AI applications. They provide tailored AI solutions.",
-                "Architecturally, these additions enhance Google Cloud's AI infrastructure, providing developers with more granular choices for balancing performance and resource utilization. This supports flexible deployment.",
-                "Enterprises can now select Gemini Flash variants best suited for their latency-sensitive or cost-constrained workloads, accelerating AI adoption across diverse operational contexts."
+                "Databricks finalized the acquisition of Electric to integrate embeddable, local-first PostgreSQL synchronization.",
+                "The technology enables client-side AI agents to execute sub-millisecond local state queries with cloud sync.",
+                "Architecturally, this removes high network latency bottlenecks for distributed multi-agent enterprise software stacks.",
+                "Application engineers can now deploy offline-capable autonomous workflows without maintaining separate operational databases."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "tags": [
-                "Source: https://cloud.google.com/",
-                "Published: 2026-08-16T18:00:00Z",
+                "Source: https://www.infoworld.com/article/databricks-acquires-electric",
+                "Published: 2026-08-15T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IBM & OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership aimed at accelerating enterprise AI deployment through combined expertise and resources. This alliance merges strengths for business transformation.",
-                "The collaboration will embed frontier models and OpenAI-trained engineers into IBM consulting services, providing bespoke AI solutions for large corporations. This offers advanced integration.",
-                "Strategically, this partnership enables enterprises to more rapidly integrate advanced AI into their operations, overcoming adoption barriers and leveraging cutting-edge models. It drives market-ready AI.",
-                "Clients of IBM consulting services can expect streamlined AI integration, access to specialized AI engineering talent, and faster realization of AI's business benefits. This enhances client value."
+                "Google DeepMind introduced Gemini 3.7 Flash, engineered as an optimized workhorse model for coding and agent loops.",
+                "DeepMind implemented aggressive introductory pricing to lower developer switching barriers across high-volume APIs.",
+                "The architecture delivers expanded tool orchestration latency improvements while preserving complex reasoning capabilities.",
+                "DevOps teams can replace multi-model routing cascades with a unified low-cost engine for continuous CI/CD automation."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK RAISES V4 PRICES BY OVER 10X",
+            "nextUpTease": "OPENAI: APPOINTS DALI RAJIC AS CRO",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-15T09:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPSEEK: RAISES V4 PRICES BY OVER 10X",
+            "heading": "OPENAI: APPOINTS DALI RAJIC AS CRO",
             "points": [
-                "DeepSeek has significantly increased prices for some of its V4 model APIs by over 10 times, citing strained capacity due to surging AI demand. This reflects intense market pressure.",
-                "The price hike, while substantial, is mitigated by off-peak pricing, cache discounts, and multi-model routing options for developers. It adjusts to infrastructure costs.",
-                "This move highlights the immense computational resources required for frontier AI models and signals a re-evaluation of pricing strategies across the industry. It impacts AI's economic landscape.",
-                "Developers face increased operational costs for high-demand AI workloads, prompting strategic optimization of model usage and potential shifts to more cost-effective alternatives."
+                "OpenAI appointed former Zscaler Chief Operating Officer Dali Rajic as Chief Revenue Officer to lead enterprise expansion.",
+                "The leadership appointment comes as OpenAI verified that enterprise contracts now generate more revenue than consumer plans.",
+                "The hire signals an operational push toward enterprise governance, dedicated B2B SLAs, and global go-to-market scaling.",
+                "Enterprise CIOs can anticipate structured volume licensing and tighter compliance controls across frontier model deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE EXPANDS AI HPC VIRTUAL MACHINES",
+            "nextUpTease": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
             "tags": [
-                "Source: https://www.cio.com/article/2144416/deepseek-raises-some-v4-prices-by-more-than-10x.html",
-                "Published: 2026-08-13T18:00:00Z",
+                "Source: https://www.ft.com/technology",
+                "Published: 2026-08-14T21:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT AZURE: EXPANDS AI HPC VIRTUAL MACHINES",
+            "heading": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. This enhances compute capacity.",
-                "These VMs are designed to support highly demanding AI, data, inference, and technical computing workloads, offering superior performance and efficiency. They target specialized AI tasks.",
-                "Architecturally, this expansion provides enterprises with robust, high-performance computing options, facilitating scalable deployment of complex AI models and simulations. This boosts cloud AI capabilities.",
-                "Businesses requiring intensive computational power for AI development and deployment can now leverage Azure's enhanced offerings, reducing time-to-market for advanced solutions."
+                "xAI rolled out Grok 4.6, delivering advanced reasoning benchmarks while undercutting prevailing frontier token prices.",
+                "The release applies direct pricing pressure on competing commercial foundation models across developer token tiers.",
+                "Architectural optimizations on xAI compute clusters allow higher concurrent request throughput at reduced watt-per-token metrics.",
+                "AI startups gain wider flexibility to build high-context agent architectures at reduced recurring operational expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT ANNOUNCES MAJOR ENFORCEMENT HIRING",
+            "nextUpTease": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-16T18:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/grok-4-6-undercuts-prices",
+                "Published: 2026-08-14T19:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: ANNOUNCES MAJOR ENFORCEMENT HIRING",
+            "heading": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
             "points": [
-                "The EU AI Office has initiated a significant hiring drive for 40 new posts across tech, legal, and operations, dedicated to rigorously enforcing the EU AI Act. This strengthens regulatory oversight.",
-                "This recruitment effort targets mid-September for expressions of interest, indicating a rapid scale-up of the enforcement body responsible for AI governance. It accelerates compliance implementation.",
-                "Strategically, this move underscores the EU's commitment to becoming a global leader in AI regulation, setting precedents for ethical and responsible AI development worldwide. This impacts global AI standards.",
-                "AI developers and deployers operating within or with the EU must prepare for increased scrutiny and strict compliance requirements, impacting product design and operational processes."
+                "Judges completed the first large-scale trial of specialized legal LLM JudgeGPT to streamline case document handling.",
+                "The deployment demonstrated a 6.3% acceleration in case processing time alongside a measurable drop in appeal filings.",
+                "The legal architecture integrates strict statutory verification guardrails to eliminate hallucination risks during proceedings.",
+                "Public sector institutions will accelerate automated legal document review adoption under structured oversight frameworks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/",
-                "Published: 2026-08-16T18:00:00Z",
+                "Source: https://spectrum.ieee.org/judiciary-ai-trial",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         }

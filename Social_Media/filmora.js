@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "OPENAI EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
-                "visual_caption": "OpenAI launches GPT-5.6, its new frontier model, with significant intelligence advances. This model aims to redefine AI system limits for complex problem-solving."
+                "headline": "ANTHROPIC: REVENUE SURPASSES $11.5 BILLION",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
+                "visual_caption": "Anthropic reported Q2 revenue exceeding $11.5B. Enterprise API consumption surged 140% as autonomous agent workflows replaced legacy software stacks."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS ACCESS TO GPT-5.6 LUNA FREE",
-                "teaserTitle": "GOOGLE CLOUD INTRODUCES NEW GEMINI FLASH MODELS",
-                "visual_caption": "OpenAI expands free access to GPT-5.6 Luna in ChatGPT, democratizing advanced AI. This lowers developer barriers, fostering innovation across the AI ecosystem."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE PLATFORM",
+                "teaserTitle": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
+                "visual_caption": "NVIDIA formed an infrastructure partnership to mobilize over $500B with major private equity firms. The capital directly funds global gigawatt-scale AI factories."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
-                "teaserTitle": "IBM & OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
-                "visual_caption": "Google Cloud introduces new Gemini Flash models (e.g., 3.6 Flash, 3.5 Flash-Lite). These offer optimized performance/cost for diverse generative AI applications."
+                "headline": "DATABRICKS: ACQUIRES ELECTRIC FOR AGENTS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "Databricks finalized the acquisition of Electric to embed local Postgres sync for AI agents. This architecture eliminates cloud latency bottlenecks for distributed autonomous workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "IBM & OPENAI: PARTNER TO ACCELERATE ENTERPRISE AI",
-                "teaserTitle": "DEEPSEEK RAISES V4 PRICES BY OVER 10X",
-                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment with frontier model integration. This provides specialized AI engineering talent to overcome corporate adoption barriers."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "OPENAI: APPOINTS DALI RAJIC AS CRO",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash with discounted introductory pricing. The model provides low-latency execution designed specifically for developer coding and continuous orchestration."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPSEEK: RAISES V4 PRICES BY OVER 10X",
-                "teaserTitle": "MICROSOFT AZURE EXPANDS AI HPC VIRTUAL MACHINES",
-                "visual_caption": "DeepSeek raises V4 API prices >10x due to surging AI demand and strained capacity. This highlights high compute costs, impacting AI's economic landscape."
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CRO",
+                "teaserTitle": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
+                "visual_caption": "OpenAI appointed Dali Rajic as Chief Revenue Officer to lead enterprise expansion. Official corporate filings confirm enterprise contracts now generate larger revenue than consumer subscriptions."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT AZURE: EXPANDS AI HPC VIRTUAL MACHINES",
-                "teaserTitle": "EU AI ACT ANNOUNCES MAJOR ENFORCEMENT HIRING",
-                "visual_caption": "Microsoft Azure expands infrastructure with new AMD-powered AI/HPC VMs (HDv2, HXv2). These support demanding AI/tech workloads, boosting cloud AI capabilities."
+                "headline": "XAI: GROK 4.6 CUTS INFERENCE COSTS",
+                "teaserTitle": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
+                "visual_caption": "xAI released Grok 4.6 with substantial price reductions across inference tokens. The cost reduction intensifies competitive margin pressure across major foundation model providers."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: ANNOUNCES MAJOR ENFORCEMENT HIRING",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "EU AI Office hires 40 new staff (tech, legal, ops) to enforce the EU AI Act by Sept. This strengthens regulatory oversight, setting global ethical AI precedents."
+                "headline": "IEEE: JUDICIAL SYSTEM TRIALS JUDGEGPT",
+                "teaserTitle": "",
+                "visual_caption": "A large-scale legal trial of JudgeGPT demonstrated a 6.3% acceleration in case processing. Document analysis also resulted in a verified reduction in formal appeals."
             },
             {
                 "slide_index": 8,
