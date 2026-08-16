@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "GEMINI 3.7 FLASH DEBUT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "MISTRAL SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its new frontier intelligence model for advanced enterprise applications. This release improves specialized finance workflows and expands free user access."
+                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, its latest frontier intelligence model, for rapid inference. This model offers a 2.5x throughput increase, reducing operational costs for large-scale AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
+                "headline": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered virtual machines for AI and HPC workloads. These VMs boost performance and scalability for intensive computing tasks."
+                "naration_line": "Mistral AI unveiled Shieldstral, a new platform for sovereign AI, ensuring in-region inference and open models. This initiative provides enhanced data residency and compliance for European enterprises and governments."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
-                "teaserTitle": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+                "headline": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
+                "teaserTitle": "DEEPSEEK V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure introduced IQ and Foundry platforms to build, orchestrate, and govern production AI agents. These services connect agents securely to enterprise systems with shared context."
+                "narration_line": "IBM and OpenAI partnered to accelerate enterprise AI deployment by integrating frontier models with IBM Consulting services. This alliance aims to reduce AI implementation timelines for large organizations by 30%."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
-                "teaserTitle": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
+                "headline": "DEEPSEEK: V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
+                "teaserTitle": "OPENAI EXPANDING DAYBREAK FOR CYBER DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA advanced Nemotron 3.5 Lightning and NeMo Switchyard for faster, smarter agentic AI. These updates enhance performance and optimize model routing for complex multi-agent workflows."
+                "narration_line": "DeepSeek increased its V4 model API prices by over 10 times due to intense AI compute demand and strained capacity. This significant adjustment impacts development costs, forcing optimization and alternative model considerations."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
-                "teaserTitle": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
+                "headline": "OPENAI: EXPANDING DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google Cloud is scaling its AI infrastructure to support the agentic AI era. This strategy optimizes hardware and software for high-demand intelligent agent workloads."
+                "narration_line": "OpenAI is expanding its Daybreak initiative, boosting AI-powered cyber defense to counter evolving threats. These advancements aim to reduce threat detection and mitigation times by 15% to 20%."
             },
             {
                 "slide_index": 6,
-                "headline": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
+                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
+                "teaserTitle": "EU AI ACT OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "TSMC is advancing AI with A14 NanoFlex\u2122 Pro and A16 Nanosheet with Super Power Rail. These innovations enable more powerful and energy-efficient chips for AI accelerators."
+                "narration_line": "The Common Earth Project, an international initiative, aims to resolve chip supply chain bottlenecks through collaborative research and standardized manufacturing. This project seeks to stabilize global semiconductor availability and pricing."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
+                "headline": "EU AI ACT: OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind announced reduced introductory pricing for its Gemini 3.7 Flash model, targeting developers. This move encourages broader adoption and lowers costs for AI application development."
+                "narration_line": "The EU AI Office announced a massive hiring round, seeking 40 new experts across tech, legal, and operations. This recruitment drive bolsters its capacity for enforcing the EU AI Act, increasing regulatory scrutiny."
             },
             {
                 "slide_index": 8,

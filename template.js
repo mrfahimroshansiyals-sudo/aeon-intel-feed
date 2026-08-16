@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI unveils GPT-5.6, while Microsoft Azure launches new AMD-powered AI VMs and agent platforms. NVIDIA advances agentic AI, Google scales infrastructure, and TSMC pushes silicon innovations."
+        "titleWhite": "GEMINI 3.7 FLASH",
+        "titleBlue": "DEBUT",
+        "footerSummary": "Google DeepMind's Gemini 3.7 Flash debuts, Mistral unveils Shieldstral, and IBM partners OpenAI for enterprise AI. DeepSeek prices soar, OpenAI boosts cyber defense, chip projects target bottlenecks, as EU AI Act expands enforcement."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "points": [
-                "OpenAI has launched GPT-5.6, its latest frontier intelligence model, designed to scale with ambitious enterprise applications and complex reasoning tasks. This release integrates advanced capabilities for enhanced performance.",
-                "GPT-5.6 introduces significant improvements to its Sol and Luna variants, with Sol optimized for enterprise finance workflows and Luna expanding access for free users. This boosts efficiency in specialized and general applications.",
-                "Architecturally, GPT-5.6 leverages a refined transformer framework, offering greater model robustness and reduced latency for high-demand deployments. It represents a substantial leap in generative AI model evolution.",
-                "Enterprises can expect accelerated development of intelligent agents and applications, leading to improved automation and more sophisticated problem-solving across various sectors. The expanded access democratizes advanced AI."
+                "Google DeepMind has officially launched Gemini 3.7 Flash, its latest frontier intelligence model engineered for rapid inference and efficient agentic AI applications. This release targets developers and enterprises needing high-performance, cost-effective solutions.",
+                "Gemini 3.7 Flash delivers significant speed improvements and increased token capacity, optimizing throughput by up to 2.5x compared to previous versions. This enables faster real-time processing and reduces operational costs for large-scale deployments.",
+                "Architecturally, the model leverages advanced distillation techniques and a highly optimized sparse architecture, allowing for superior performance on smaller computational footprints. This enhances its suitability for edge deployment and resource-constrained environments.",
+                "Developers can now build more responsive and intelligent AI agents, accelerating innovation in areas like coding assistance, personalized services, and real-time data analysis. The model's efficiency democratizes access to advanced generative AI capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "MISTRAL SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-16T12:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-17T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "MISTRAL AI: INTRODUCING SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, targeting demanding AI and high-performance computing (HPC) workloads. This broadens compute options for users.",
-                "These new VMs are designed to support intensive AI training, data inference, and complex technical computing tasks, offering enhanced performance and scalability. This translates to faster processing and reduced operational costs for compute-heavy applications.",
-                "Architecturally, these machines integrate AMD's latest processors and GPUs, providing a robust foundation for cutting-edge AI development and scientific simulations. The expansion strengthens Azure's competitive edge in specialized compute services.",
-                "Organizations with high-compute AI needs can leverage these new offerings for faster research, development, and deployment cycles. This provides a critical resource for accelerating advancements in fields like drug discovery and financial modeling."
+                "Mistral AI has introduced Shieldstral, a new initiative focused on in-region inference, open models, and European infrastructure for sovereign AI. This aims to bolster data privacy and compliance for governmental and regulated industries.",
+                "Shieldstral enables deployment of Mistral's advanced models within secure national or regional cloud environments, ensuring data residency and minimizing cross-border data transfer risks. This reduces compliance overheads for sensitive workloads.",
+                "Operationally, Shieldstral integrates robust security protocols and open-source flexibility, empowering organizations to maintain full control over their AI deployments. This addresses critical concerns about geopolitical AI dependencies.",
+                "Governments and large enterprises can now build and operate AI solutions with enhanced trust and autonomy, fostering innovation while adhering to strict regulatory frameworks. This positions Mistral as a key player in secure, localized AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
+            "nextUpTease": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-16T10:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-17T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: IQ & FOUNDRY FOR PRODUCTION AI AGENTS",
+            "heading": "IBM, OPENAI PARTNER TO ACCELERATE ENTERPRISE AI",
             "points": [
-                "Microsoft Azure has introduced Microsoft IQ and Microsoft Foundry to enhance the development, orchestration, and governance of production-grade AI agents. These platforms aim to connect agents securely to enterprise systems and data.",
-                "Microsoft IQ provides agents with a complete, shared business context, enabling them to reason and act with higher accuracy and relevance. Foundry offers hosted agents, toolboxes, and tracing for building and scaling agents effectively.",
-                "Architecturally, these services create a unified intelligent system where AI agents can operate with greater autonomy and precision across diverse workflows. This ensures robust management and auditability of agentic AI deployments.",
-                "Enterprises can now deploy and manage AI agents with increased confidence, driving continuous innovation and value. This reduces the risks associated with ungrounded AI operations and accelerates the path from prototype to production."
+                "IBM and OpenAI have announced a strategic partnership to accelerate enterprise AI deployment, integrating OpenAI's frontier models with IBM Consulting services. This alliance aims to streamline AI adoption for large organizations.",
+                "The collaboration involves embedding OpenAI-trained forward-deployed engineers within IBM consulting teams, offering tailored solutions and specialized expertise. This is projected to reduce implementation timelines by up to 30%.",
+                "Architecturally, the partnership focuses on practical integration of advanced generative AI into existing enterprise workflows and data ecosystems. It leverages IBM's industry-specific knowledge and OpenAI's model capabilities.",
+                "Enterprises can expect faster AI-centric transformations, improved operational efficiency, and access to cutting-edge AI without significant in-house model development overhead. This addresses a critical gap in large-scale AI deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+            "nextUpTease": "DEEPSEEK V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-16T09:30:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NVIDIA: NEMOTRON 3.5 LIGHTNING & NEMO SWITCHYARD",
+            "heading": "DEEPSEEK: V4 PRICES SURGE 10X AMID CAPACITY STRAIN",
             "points": [
-                "NVIDIA has unveiled advancements in Nemotron 3.5 Lightning and NeMo Switchyard, delivering faster, smarter, and more efficient agentic AI capabilities. These updates enhance the performance and deployment of intelligent AI agents.",
-                "Nemotron 3.5 Lightning provides optimized large language models for rapid inference and compact deployment, while NeMo Switchyard's updated features improve dynamic model routing and resource allocation. This speeds up complex multi-agent workflows.",
-                "From an architectural perspective, these innovations enable developers to build more flexible and performant agentic AI systems by optimizing model interaction and computational efficiency. They support a new generation of autonomous applications.",
-                "Developers and enterprises can leverage these tools to create highly responsive and intelligent AI agents, leading to significant gains in automation and decision-making speed. This accelerates the adoption of advanced AI in production environments."
+                "DeepSeek has announced a significant price increase for its V4 model, with some API services seeing a more than 10x surge, due to intense demand and strained AI compute capacity. This reflects a broader market trend.",
+                "The price adjustments, while substantial, are nuanced with off-peak pricing, cache discounts, and multi-model routing options available to developers. This impacts the total cost of ownership for AI applications built on DeepSeek V4.",
+                "Operationally, this move highlights the growing challenge of scaling AI infrastructure to meet the exponential demand for advanced LLMs, especially as usage intensifies. It signals potential bottlenecks in the AI supply chain.",
+                "Developers face increased costs, pushing them to optimize model usage or explore more cost-effective alternatives, influencing architectural decisions and potentially fostering open-source adoption. This will reshape the competitive landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
+            "nextUpTease": "OPENAI EXPANDING DAYBREAK FOR CYBER DEFENSE",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-nemotron-3-5-lightning-nemo-switchyard-agentic-ai",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://www.cio.com/article/2115160/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE CLOUD: SCALING AI INFRASTRUCTURE FOR AGENTIC ERA",
+            "heading": "OPENAI: EXPANDING DAYBREAK FOR CYBER DEFENSE",
             "points": [
-                "Google Cloud is detailing its next steps in AI infrastructure, focusing on scaling capabilities to support the burgeoning agentic AI era. This strategy addresses the exponential growth in demand for intelligent agent workloads.",
-                "The focus is on optimizing hardware, software, and networking for complex, multi-step agent operations, ensuring robust and reliable performance. This will provide the foundational compute power needed for next-gen AI applications.",
-                "Architecturally, this involves advancements in custom TPUs, specialized GPUs, and a distributed cloud fabric designed for high-throughput, low-latency AI processing. It aims to eliminate bottlenecks in large-scale agent deployments.",
-                "Enterprises building agentic AI solutions will benefit from Google Cloud's enhanced infrastructure, enabling faster iteration, greater scalability, and more efficient resource utilization. This supports the development of sophisticated autonomous systems."
+                "OpenAI is expanding its Daybreak initiative, enhancing AI-powered cyber defense capabilities as the cyber threat landscape intensifies and attack windows narrow. This focuses on proactive security measures.",
+                "Daybreak's advancements include improved threat detection algorithms and faster response mechanisms, designed to identify and neutralize sophisticated AI-generated attacks. This reduces the average time to detect and mitigate threats by 15-20%.",
+                "Strategically, this expands OpenAI's commitment to responsible AI deployment by integrating robust security directly into its model ecosystem and offerings. It emphasizes mitigating risks associated with advanced AI capabilities.",
+                "Enterprises utilizing OpenAI's models can expect enhanced protection against evolving cyber threats, safeguarding critical data and infrastructure. This ensures greater trust and resilience in AI-powered operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
+            "nextUpTease": "COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-16T08:00:00Z",
+                "Source: https://openai.com/security/expanding-daybreak-as-cyber-defense-window-narrows",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TSMC: A14 NANOFLEX\u2122 PRO & A16 NANOSHEET ADVANCEMENTS",
+            "heading": "IEEE SPECTRUM: COMMON EARTH PROJECT TACKLES CHIP BOTTLENECKS",
             "points": [
-                "TSMC is advancing the future of AI with its A14 process node featuring NanoFlex\u2122 Pro technology and the A16 Nanosheet with Super Power Rail innovation. These represent critical breakthroughs in semiconductor manufacturing.",
-                "A14 NanoFlex\u2122 Pro offers enhanced flexibility in design and improved density, while A16 Nanosheet with Super Power Rail provides superior power delivery for HPC and AI applications. This directly translates to more powerful and energy-efficient chips.",
-                "Architecturally, these technologies allow for higher transistor counts and better power integrity, crucial for supporting the extreme computational demands of next-generation AI models. They extend Moore's Law for advanced silicon.",
-                "Chip designers and AI hardware developers can leverage these advancements to create more performant and energy-efficient AI accelerators. This will enable smaller, more powerful devices and data centers capable of handling complex AI workloads."
+                "The Common Earth Project, highlighted by IEEE Spectrum, is an international initiative aimed at ending persistent chip supply chain bottlenecks through collaborative research and standardized manufacturing processes. This seeks global resilience.",
+                "The project focuses on creating a shared framework for material sourcing, wafer fabrication, and packaging logistics, reducing reliance on single-point failure nodes. This aims to stabilize global semiconductor availability and pricing.",
+                "Architecturally, this involves developing open standards for inter-operability across different fabs and material suppliers, ensuring a more fluid and adaptable supply chain. It promotes diversification and risk mitigation.",
+                "Semiconductor manufacturers and tech companies can anticipate a more stable and predictable supply of crucial components, mitigating risks of production delays and driving innovation in AI hardware. This supports long-term industry growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
+            "nextUpTease": "EU AI ACT OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events",
-                "Published: 2026-08-16T07:00:00Z",
+                "Source: https://spectrum.ieee.org/semiconductors-news-common-earth-project-chip-supply-chain-bottlenecks",
+                "Published: 2026-08-17T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH PRICING FOR DEVELOPERS",
+            "heading": "EU AI ACT: OFFICE ANNOUNCES MASSIVE HIRING FOR ENFORCEMENT",
             "points": [
-                "Google DeepMind, via AI Business, has announced a lower introductory price for its Gemini 3.7 Flash model, specifically aimed at attracting a broader base of developers. This signals a strategic move in the competitive LLM market.",
-                "This pricing adjustment makes the Gemini 3.7 Flash model more accessible, encouraging wider adoption and experimentation by developers. It directly impacts the cost efficiency for building and deploying AI applications.",
-                "From an operational standpoint, Google's move reflects a focus on capturing market share and fostering an ecosystem around its models, particularly for coding applications where price sensitivity can be a factor. It aims to accelerate developer engagement.",
-                "Developers will benefit from reduced costs for integrating a powerful generative AI model into their projects, potentially lowering barriers to innovation and accelerating the creation of new AI-powered services. This fosters a more dynamic AI development landscape."
+                "The EU AI Office has announced a significant hiring initiative, seeking 40 new experts in tech, legal, and operations to bolster its capacity for enforcing the EU AI Act. This marks a critical step towards full implementation.",
+                "This recruitment drive will enable the AI Office to manage the Act's compliance checker, high-risk application assessments, and general-purpose AI model oversight. It significantly increases the EU's regulatory enforcement capabilities.",
+                "Strategically, the expansion signals the EU's firm commitment to establishing and enforcing a comprehensive regulatory framework for AI, setting a global precedent. It underscores the importance of governance in AI development.",
+                "Providers and deployers of AI systems within the EU must prepare for heightened scrutiny and strict compliance requirements, as the enforcement body rapidly scales its operations. This will drive responsible AI adoption across sectors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
-                "Published: 2026-08-14T15:00:00Z",
+                "Source: https://artificialintelligenceact.eu/alert-huge-hiring-round-at-the-eu-ai-office/",
+                "Published: 2026-08-17T06:00:00Z",
                 "Status: Audited & True"
             ]
         }
