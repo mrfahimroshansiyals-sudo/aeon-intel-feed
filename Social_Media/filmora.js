@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
-                "visual_caption": "OpenAI expands its Daybreak cyber defense initiative, leveraging advanced AI models. This enhances real-time threat detection and response for critical infrastructure."
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+                "visual_caption": "OpenAI unveils GPT-5.6, its new frontier intelligence model, for ambitious enterprise AI. It delivers significant reasoning and contextual understanding for complex agentic workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
-                "visual_caption": "Microsoft Azure launches new AMD-powered AI/HPC VMs. These deliver significant performance gains for demanding AI and inference workloads."
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+                "teaserTitle": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
+                "visual_caption": "Google Cloud launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These offer optimized performance and efficiency for diverse generative AI applications."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
-                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
-                "visual_caption": "Google Cloud now offers Gemini Omni Flash and Nano Banana 2 Lite models. These versatile tools empower developers for advanced multimodal and efficient image generation applications."
+                "headline": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
+                "teaserTitle": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
+                "visual_caption": "Microsoft Azure introduces Foundry, a new platform to deploy production AI agents at scale. It integrates GPT-5.6 to streamline the agent lifecycle."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
-                "teaserTitle": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieves a breakthrough in cyclone forecasting accuracy. This improves lead times and precision for severe weather event predictions."
+                "headline": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "visual_caption": "Azure IQ Connect provides agents secure, direct access to enterprise systems and data. This enables more context-aware AI agents, improving automation and operational efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
-                "visual_caption": "Google introduces lower introductory prices for its Gemini 3.7 Flash model. This strategy aims to boost developer adoption and market competition in coding applications."
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
+                "visual_caption": "TSMC introduces A16 Nanosheet technology with Super Power Rail. This optimizes power efficiency for HPC and future AI accelerators."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
-                "teaserTitle": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
-                "visual_caption": "Mistral AI launches Shieldstral for in-region inference and sovereign AI infrastructure in Europe. This provides enhanced data privacy and control for regulated deployments."
+                "headline": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
+                "teaserTitle": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
+                "visual_caption": "Dow Jones reports Big Tech AI spending is $3T higher than estimates. This reveals an intensifying strategic arms race in AI infrastructure development."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+                "headline": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "NVIDIA's NeMo Switchyard enters the market as an AI model router. It optimizes multi-model inference workflows, improving efficiency and reducing deployment costs."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "IEEE Spectrum highlights a CPU comeback for certain AI workloads, challenging GPU dominance. This signals a more diversified and efficient AI computing landscape."
             },
             {
                 "slide_index": 8,

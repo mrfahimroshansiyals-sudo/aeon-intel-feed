@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DAYBREAK CYBER DEFENSE",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "OpenAI's Daybreak initiative broadens AI-driven cyber defense, enhancing real-time threat detection and mitigation strategies for critical infrastructure and enterprise systems globally."
+        "titleWhite": "GPT-5.6 SCALES FRONTIER",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "Today's intelligence spotlights OpenAI's GPT-5.6 scaling, new Google Cloud Gemini Flash, and Azure's agent platforms, tracking Big Tech's accelerating AI infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
             "points": [
-                "OpenAI expands its Daybreak initiative, leveraging advanced AI models to bolster global cyber defense capabilities.",
-                "This expansion aims to significantly reduce the mean time to detect and respond to sophisticated cyber threats, enhancing resilience.",
-                "Architecturally, Daybreak integrates large language models for proactive threat intelligence and automated countermeasure deployment.",
-                "Stakeholders should anticipate improved security posture against evolving AI-driven attacks and more robust data protection frameworks."
+                "OpenAI announces GPT-5.6, its new frontier intelligence model, designed for ambitious, large-scale enterprise applications.",
+                "The model delivers a significant leap in reasoning capabilities and contextual understanding, enabling more complex agentic workflows.",
+                "Architecturally, GPT-5.6 offers enhanced scalability and efficiency, optimizing resource utilization for demanding AI workloads.",
+                "Enterprises can expect accelerated development of advanced AI agents, leading to novel automation and intelligent system deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
             "tags": [
-                "Source: https://openai.com/blog/expanding-daybreak-cyber-defense",
-                "Published: 2026-08-18T13:45:00Z",
+                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
+                "Published: 2026-08-19T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
             "points": [
-                "Microsoft Azure rolls out new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7 series).",
-                "These VMs offer significant performance gains for compute-intensive AI, data, inference, and technical computing workloads.",
-                "The expansion provides enterprises with a more diverse and powerful infrastructure for scalable, cost-effective AI deployments.",
-                "Businesses can accelerate complex simulations, large-scale model training, and real-time inference with enhanced efficiency."
+                "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its powerful model lineup.",
+                "These models provide developers with optimized performance and efficiency for a diverse range of generative AI applications.",
+                "The releases enhance multimodal capabilities and specialized cyber defense functionalities within the Gemini ecosystem.",
+                "Businesses gain access to more versatile and cost-effective AI tools, fostering innovation in areas from coding to security."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+            "nextUpTease": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-18T12:30:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber-release",
+                "Published: 2026-08-19T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+            "heading": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
             "points": [
-                "Google Cloud announces the general availability of Gemini Omni Flash and Nano Banana 2 Lite models.",
-                "Omni Flash excels in multimodal understanding, while Nano Banana 2 Lite offers highly efficient image generation at scale.",
-                "These models provide developers with versatile tools for building sophisticated, intelligent applications across various modalities.",
-                "Enterprises gain access to cutting-edge AI capabilities for enhanced content creation, automation, and user experiences."
+                "Microsoft Azure unveils Foundry, a new platform designed to build, evaluate, and deploy production AI agents at scale.",
+                "Foundry integrates GPT-5.6, hosted agents, toolboxes, and tracing capabilities, streamlining the agent lifecycle.",
+                "This offering provides a robust environment for enterprises to manage and govern complex agentic AI solutions effectively.",
+                "Organizations can now accelerate their transition from AI pilots to full-scale operational agent deployments with confidence."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+            "nextUpTease": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-flash-nano-banana-2-lite-release",
-                "Published: 2026-08-18T11:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/run-optimize-production-ai-agents-with-microsoft-foundry/",
+                "Published: 2026-08-18T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+            "heading": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
             "points": [
-                "Google DeepMind's WeatherNext AI model achieves a significant breakthrough in real-time cyclone forecasting accuracy.",
-                "The model improves lead times and precision for predicting severe weather events, crucial for disaster preparedness efforts.",
-                "This development leverages advanced neural networks trained on vast meteorological datasets for pattern recognition.",
-                "Governments and emergency services can enhance public safety and infrastructure protection through more timely and accurate warnings."
+                "Microsoft Azure introduces IQ Connect, securing agents with direct access to enterprise systems, data, and workflows.",
+                "This enables AI agents to reason and act with comprehensive business context, reducing errors and improving decision-making.",
+                "IQ Connect addresses critical challenges in data grounding and security for intelligent agent applications within regulated environments.",
+                "Enterprises can deploy more reliable and context-aware AI agents, driving smarter automation and operational efficiencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+            "nextUpTease": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-                "Published: 2026-08-18T10:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
+                "Published: 2026-08-18T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+            "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
             "points": [
-                "Google implements new lower introductory pricing for its Gemini 3.7 Flash model to attract broader developer adoption.",
-                "This strategic price reduction aims to intensify competition in the AI model market and stimulate generative AI application development.",
-                "The move reflects a focus on coding applications, seeking to capture market share through cost-effective frontier model access.",
-                "Developers and startups can now access powerful AI capabilities at a lower entry barrier, accelerating innovation and deployment."
+                "TSMC introduces its A16 Nanosheet technology featuring an innovative Super Power Rail for enhanced performance.",
+                "This advanced process is optimized for high-performance computing (HPC) and AI applications, delivering significant power efficiency.",
+                "The backside power delivery network in A16 nanosheet architecture is critical for scaling future AI accelerators.",
+                "Chip designers can achieve superior performance-per-watt for next-generation AI processors, driving innovation in AI hardware."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+            "nextUpTease": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3.7-flash-to-attract-developers",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://www.tsmc.com/english/news_events/a16-nanosheet-super-power-rail",
+                "Published: 2026-08-18T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+            "heading": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
             "points": [
-                "Mistral AI introduces Shieldstral, a new initiative for in-region inference, open models, and European sovereign AI infrastructure.",
-                "This move aims to provide enhanced data privacy and control, fostering trust for government and regulated industry deployments.",
-                "Shieldstral's architecture supports localized AI operations, reducing latency and adhering to stringent regional data compliance.",
-                "European entities gain a strategic advantage with secure, high-performance AI solutions tailored to their regulatory landscape."
+                "Dow Jones reports that Big Tech's actual AI spending is $3 trillion higher than previously estimated, indicating massive investments.",
+                "This substantial increase reflects intensified competition and accelerated development in AI infrastructure and capabilities.",
+                "The hidden spending reveals a strategic arms race among major players to dominate the frontier of artificial intelligence.",
+                "Investors and policymakers should recalibrate market expectations and regulatory frameworks to account for this escalating expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+            "nextUpTease": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
             "tags": [
-                "Source: https://mistral.ai/news/shieldstral-sovereign-ai/",
-                "Published: 2026-08-17T16:00:00Z",
+                "Source: https://www.dowjones.com/newswires/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems",
+                "Published: 2026-08-17T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+            "heading": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
             "points": [
-                "NVIDIA's NeMo Switchyard enters the market for model routers, optimizing multi-model AI inference workflows.",
-                "This technology facilitates dynamic routing of queries to the most suitable AI models, improving efficiency and reducing costs.",
-                "NeMo Switchyard provides a crucial architectural component for scaling complex agentic AI applications and microservices.",
-                "Enterprises can achieve more agile and cost-effective AI deployments, particularly for large-scale, diverse model ecosystems."
+                "IEEE Spectrum highlights a 'CPU comeback,' signaling renewed focus on central processing units for AI workloads.",
+                "Advances in CPU architecture are demonstrating surprising efficacy for certain AI tasks, challenging GPU dominance in specific niches.",
+                "This trend indicates a more diversified and efficient AI computing landscape, moving beyond a sole reliance on specialized accelerators.",
+                "Developers and system architects can explore hybrid computing strategies to optimize cost and performance for varied AI applications."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com/article/2143009/nvidia-moves-into-hot-market-for-model-routers.html",
-                "Published: 2026-08-14T13:00:00Z",
+                "Source: https://spectrum.ieee.org/cpu-comeback",
+                "Published: 2026-08-17T18:00:00Z",
                 "Status: Audited & True"
             ]
         }

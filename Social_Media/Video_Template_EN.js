@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AEON INTEL: AI CYBER DEFENSE EXPANSION",
+        "hookTitle": "OPENAI GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI expands its Daybreak cyber defense initiative, leveraging advanced AI models. This enhances real-time threat detection and response for critical infrastructure."
+                "narration_line": "OpenAI has unveiled its new GPT-5.6 frontier intelligence model, scaling for ambitious enterprise applications. This delivers significant reasoning improvements and contextual understanding for complex agentic workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+                "teaserTitle": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure launches new AMD-powered AI and high-performance computing virtual machines. These deliver significant performance gains for demanding AI and inference workloads."
+                "narration_line": "Google Cloud launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These offer optimized performance and efficiency for diverse generative AI applications."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
-                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+                "headline": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
+                "teaserTitle": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud now offers Gemini Omni Flash and Nano Banana Two Lite models. These versatile tools empower developers for advanced multimodal and efficient image generation applications."
+                "narration_line": "Microsoft Azure introduces Foundry, a new platform for deploying production AI agents at scale. It integrates GPT-5.6 to streamline the agent lifecycle from development to governance."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
-                "teaserTitle": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+                "headline": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model achieves a breakthrough in cyclone forecasting accuracy. This improves lead times and precision for severe weather event predictions."
+                "narration_line": "Azure's IQ Connect now provides agents with direct, secure access to enterprise systems and data. This enables more context-aware AI agents, improving automation and operational efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google introduces lower introductory prices for its Gemini Three Point Seven Flash model. This strategy aims to boost developer adoption and market competition in coding applications."
+                "narration_line": "TSMC has introduced its A16 Nanosheet technology, featuring an innovative Super Power Rail design. This optimizes power efficiency for high-performance computing and future AI accelerators."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
-                "teaserTitle": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+                "headline": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
+                "teaserTitle": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mistral AI launches Shieldstral for in-region inference and sovereign AI infrastructure in Europe. This provides enhanced data privacy and control for regulated deployments."
+                "narration_line": "Dow Jones reports Big Tech's actual AI spending is three trillion dollars higher than estimates. This reveals an intensifying strategic arms race in AI infrastructure development."
             },
             {
                 "slide_index": 7,
-                "headline": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+                "headline": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NVIDIA's NeMo Switchyard enters the market as an AI model router. It optimizes multi-model inference workflows, improving efficiency and reducing deployment costs."
+                "narration_line": "IEEE Spectrum highlights a significant CPU comeback for certain AI workloads, challenging GPU dominance. This signals a more diversified and efficient AI computing landscape."
             },
             {
                 "slide_index": 8,
