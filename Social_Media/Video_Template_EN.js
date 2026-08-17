@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "AEON INTEL: AI CYBER DEFENSE EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its new frontier intelligence model for complex enterprise needs. This advanced model is expected to reduce operational costs by up to 15% through enhanced efficiency."
+                "narration_line": "OpenAI expands its Daybreak cyber defense initiative, leveraging advanced AI models. This enhances real-time threat detection and response for critical infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an AI model optimized for speed in real-time applications. It delivers up to 2x faster inference speeds for agentic workflows, boosting responsiveness."
+                "narration_line": "Microsoft Azure launches new AMD-powered AI and high-performance computing virtual machines. These deliver significant performance gains for demanding AI and inference workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "teaserTitle": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
+                "headline": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google Cloud introduced AI Threat Defense, a new security service combating cyber threats with AI insights. This service reduces incident response times by 30% through real-time detection."
+                "narration_line": "Google Cloud now offers Gemini Omni Flash and Nano Banana Two Lite models. These versatile tools empower developers for advanced multimodal and efficient image generation applications."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
-                "teaserTitle": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
+                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+                "teaserTitle": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft Azure launched AI Agents with Foundry, a platform for scaling production AI agents. It enables businesses to deploy and optimize custom agents securely, enhancing operational efficiency."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieves a breakthrough in cyclone forecasting accuracy. This improves lead times and precision for severe weather event predictions."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
-                "teaserTitle": "EU AI ACT: OFFICE STAFF EXPANSION",
+                "headline": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Common Earth Project aims to tackle chip supply chain bottlenecks and strengthen global semiconductor resilience. It targets a 20% reduction in lead times for critical components."
+                "narration_line": "Google introduces lower introductory prices for its Gemini Three Point Seven Flash model. This strategy aims to boost developer adoption and market competition in coding applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE STAFF EXPANSION",
-                "teaserTitle": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
+                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+                "teaserTitle": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The EU AI Office is expanding, hiring 40 new experts to enforce the AI Act. This move strengthens Europe's regulatory framework by 2027, setting a global standard."
+                "narration_line": "Mistral AI launches Shieldstral for in-region inference and sovereign AI infrastructure in Europe. This provides enhanced data privacy and control for regulated deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
+                "headline": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic\u2019s Q2 revenue has reportedly soared to over eleven point five billion dollars. This reflects strong demand for its advanced AI models and positions it as a dominant market force."
+                "narration_line": "NVIDIA's NeMo Switchyard enters the market as an AI model router. It optimizes multi-model inference workflows, improving efficiency and reducing deployment costs."
             },
             {
                 "slide_index": 8,

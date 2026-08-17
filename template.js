@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI's GPT-5.6 signals a new era of model capabilities, potentially reshaping enterprise AI and increasing architectural demands. This release accelerates the race for frontier intelligence and market dominance."
+        "titleWhite": "DAYBREAK CYBER DEFENSE",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "OpenAI's Daybreak initiative broadens AI-driven cyber defense, enhancing real-time threat detection and mitigation strategies for critical infrastructure and enterprise systems globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "points": [
-                "OpenAI unveils GPT-5.6, a new frontier intelligence model designed to scale with complex enterprise ambitions.",
-                "This release promises significant advancements in AI performance and efficiency, potentially reducing operational costs by up to 15% in specific benchmarks.",
-                "GPT-5.6\u2019s architecture is engineered for unprecedented scalability, enabling deeper integration into existing SaaS platforms and AI-native applications.",
-                "Enterprises should prepare for enhanced AI-driven automation and strategic shifts in competitive landscapes, leveraging advanced model capabilities."
+                "OpenAI expands its Daybreak initiative, leveraging advanced AI models to bolster global cyber defense capabilities.",
+                "This expansion aims to significantly reduce the mean time to detect and respond to sophisticated cyber threats, enhancing resilience.",
+                "Architecturally, Daybreak integrates large language models for proactive threat intelligence and automated countermeasure deployment.",
+                "Stakeholders should anticipate improved security posture against evolving AI-driven attacks and more robust data protection frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "nextUpTease": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
             "tags": [
-                "Source: https://openai.com",
-                "Published: 2026-08-17T11:00:00Z",
+                "Source: https://openai.com/blog/expanding-daybreak-cyber-defense",
+                "Published: 2026-08-18T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "heading": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
             "points": [
-                "Google DeepMind introduces Gemini 3.7 Flash, optimized for speed and efficiency in real-time AI applications.",
-                "The model boasts up to 2x faster inference speeds for specific agentic workflows, improving responsiveness and user interaction.",
-                "Gemini 3.7 Flash integrates advanced distillation techniques, making it suitable for edge deployments and computationally constrained environments.",
-                "Developers and enterprises gain a powerful tool for building advanced AI agents and automating complex coding tasks, potentially accelerating innovation across industries."
+                "Microsoft Azure rolls out new AMD-powered AI and HPC virtual machines (HDv2, HXv2, ND MI455Xv7 series).",
+                "These VMs offer significant performance gains for compute-intensive AI, data, inference, and technical computing workloads.",
+                "The expansion provides enterprises with a more diverse and powerful infrastructure for scalable, cost-effective AI deployments.",
+                "Businesses can accelerate complex simulations, large-scale model training, and real-time inference with enhanced efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
             "tags": [
-                "Source: https://deepmind.google",
-                "Published: 2026-08-17T10:30:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-18T12:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
             "points": [
-                "Google Cloud launches AI Threat Defense, a new security service to combat sophisticated cyber adversaries with AI-powered insights.",
-                "This service provides real-time threat detection and automated response capabilities, reducing average incident response times by 30%.",
-                "AI Threat Defense integrates directly with Google Cloud's existing security ecosystem, offering proactive protection across cloud deployments.",
-                "Organizations can expect enhanced cybersecurity resilience and reduced risk exposure, crucial for maintaining data integrity and operational continuity."
+                "Google Cloud announces the general availability of Gemini Omni Flash and Nano Banana 2 Lite models.",
+                "Omni Flash excels in multimodal understanding, while Nano Banana 2 Lite offers highly efficient image generation at scale.",
+                "These models provide developers with versatile tools for building sophisticated, intelligent applications across various modalities.",
+                "Enterprises gain access to cutting-edge AI capabilities for enhanced content creation, automation, and user experiences."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
+            "nextUpTease": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
             "tags": [
-                "Source: https://cloud.google.com",
-                "Published: 2026-08-17T09:45:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-flash-nano-banana-2-lite-release",
+                "Published: 2026-08-18T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
+            "heading": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
             "points": [
-                "Microsoft Azure introduces AI Agents with Foundry, a platform designed to build, run, and govern production AI agents at scale.",
-                "Foundry enables businesses to deploy and optimize custom agents with features like hosted agents, toolboxes, and robust tracing capabilities.",
-                "This platform enhances agent orchestration and ensures secure integration with enterprise systems, leveraging business context for intelligent actions.",
-                "Enterprises can accelerate the development of autonomous workflows and improve operational efficiency by systematically managing AI agent lifecycles."
+                "Google DeepMind's WeatherNext AI model achieves a significant breakthrough in real-time cyclone forecasting accuracy.",
+                "The model improves lead times and precision for predicting severe weather events, crucial for disaster preparedness efforts.",
+                "This development leverages advanced neural networks trained on vast meteorological datasets for pattern recognition.",
+                "Governments and emergency services can enhance public safety and infrastructure protection through more timely and accurate warnings."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
+            "nextUpTease": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
             "tags": [
-                "Source: https://azure.microsoft.com",
-                "Published: 2026-08-17T09:15:00Z",
+                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+                "Published: 2026-08-18T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
+            "heading": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
             "points": [
-                "The Common Earth Project aims to address critical chip supply chain bottlenecks, enhancing global semiconductor resilience.",
-                "The initiative targets a 20% reduction in lead times for crucial components by optimizing manufacturing processes and logistics.",
-                "This collaborative effort involves major industry players and research institutions, focusing on a more distributed and secure supply network.",
-                "Semiconductor-dependent industries can anticipate greater stability and predictability in hardware availability, mitigating future supply shocks."
+                "Google implements new lower introductory pricing for its Gemini 3.7 Flash model to attract broader developer adoption.",
+                "This strategic price reduction aims to intensify competition in the AI model market and stimulate generative AI application development.",
+                "The move reflects a focus on coding applications, seeking to capture market share through cost-effective frontier model access.",
+                "Developers and startups can now access powerful AI capabilities at a lower entry barrier, accelerating innovation and deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE STAFF EXPANSION",
+            "nextUpTease": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-15T16:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3.7-flash-to-attract-developers",
+                "Published: 2026-08-14T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: OFFICE STAFF EXPANSION",
+            "heading": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
             "points": [
-                "The EU AI Office announces a major recruitment drive, hiring 40 new experts across tech, legal, and operations roles.",
-                "This expansion will significantly boost the capacity for implementing and enforcing the EU AI Act, ensuring compliance oversight by 2027.",
-                "The increased staffing strengthens Europe's regulatory framework for AI, setting a global benchmark for ethical and safe AI governance.",
-                "AI developers and deployers within the EU must prepare for more stringent auditing and transparency requirements, fostering responsible innovation."
+                "Mistral AI introduces Shieldstral, a new initiative for in-region inference, open models, and European sovereign AI infrastructure.",
+                "This move aims to provide enhanced data privacy and control, fostering trust for government and regulated industry deployments.",
+                "Shieldstral's architecture supports localized AI operations, reducing latency and adhering to stringent regional data compliance.",
+                "European entities gain a strategic advantage with secure, high-performance AI solutions tailored to their regulatory landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
+            "nextUpTease": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-17T08:00:00Z",
+                "Source: https://mistral.ai/news/shieldstral-sovereign-ai/",
+                "Published: 2026-08-17T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
+            "heading": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
             "points": [
-                "Anthropic\u2019s Q2 revenue reportedly surged to over $11.5 billion, marking a significant financial milestone in the AI sector.",
-                "This substantial revenue increase reflects a robust demand for Anthropic's advanced AI models and enterprise solutions.",
-                "The financial growth positions Anthropic as a key player in the competitive AI market, enabling further investment in R&D and infrastructure.",
-                "Investors and competitors will monitor Anthropic's strategy as it capitalizes on this growth to expand its market presence and technological lead."
+                "NVIDIA's NeMo Switchyard enters the market for model routers, optimizing multi-model AI inference workflows.",
+                "This technology facilitates dynamic routing of queries to the most suitable AI models, improving efficiency and reducing costs.",
+                "NeMo Switchyard provides a crucial architectural component for scaling complex agentic AI applications and microservices.",
+                "Enterprises can achieve more agile and cost-effective AI deployments, particularly for large-scale, diverse model ecosystems."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-15T14:00:00Z",
+                "Source: https://www.cio.com/article/2143009/nvidia-moves-into-hot-market-for-model-routers.html",
+                "Published: 2026-08-14T13:00:00Z",
                 "Status: Audited & True"
             ]
         }

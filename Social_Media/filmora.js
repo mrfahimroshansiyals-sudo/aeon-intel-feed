@@ -4,52 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_asset": "backgroundyt1.png",
-                "visual_caption": "OpenAI launched GPT-5.6, a new frontier intelligence model. It\u2019s designed to scale enterprise needs, projected to cut operational costs by up to 15%."
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "visual_caption": "OpenAI expands its Daybreak cyber defense initiative, leveraging advanced AI models. This enhances real-time threat detection and response for critical infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Google DeepMind's Gemini 3.7 Flash is now available. This model delivers up to 2x faster inference for agentic workflows, significantly boosting responsiveness."
+                "headline": "MICROSOFT AZURE: NEW AMD AI/HPC VMS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+                "visual_caption": "Microsoft Azure launches new AMD-powered AI/HPC VMs. These deliver significant performance gains for demanding AI and inference workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: INTRODUCING AI THREAT DEFENSE",
-                "teaserTitle": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google Cloud introduced AI Threat Defense, an AI-powered security service. It reduces average incident response times by 30% against cyber threats."
+                "headline": "GOOGLE CLOUD: GEMINI OMNI & NANO 2 LITE",
+                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+                "visual_caption": "Google Cloud now offers Gemini Omni Flash and Nano Banana 2 Lite models. These versatile tools empower developers for advanced multimodal and efficient image generation applications."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: AI AGENTS WITH FOUNDRY",
-                "teaserTitle": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Microsoft Azure launched AI Agents with Foundry for production-scale deployment. Businesses can optimize custom agents and secure enterprise integration."
+                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING AI",
+                "teaserTitle": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieves a breakthrough in cyclone forecasting accuracy. This improves lead times and precision for severe weather event predictions."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: CHIP SUPPLY CHAIN BOTTLENECKS",
-                "teaserTitle": "EU AI ACT: OFFICE STAFF EXPANSION",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "The Common Earth Project addresses chip supply chain bottlenecks, aiming for a 20% reduction in lead times. This enhances global semiconductor resilience."
+                "headline": "AI BUSINESS: GEMINI 3.7 FLASH PRICE CUTS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+                "visual_caption": "Google introduces lower introductory prices for its Gemini 3.7 Flash model. This strategy aims to boost developer adoption and market competition in coding applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE STAFF EXPANSION",
-                "teaserTitle": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "The EU AI Office is hiring 40 new experts to enforce the AI Act. This expansion bolsters Europe\u2019s regulatory framework for AI by 2027."
+                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+                "teaserTitle": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
+                "visual_caption": "Mistral AI launches Shieldstral for in-region inference and sovereign AI infrastructure in Europe. This provides enhanced data privacy and control for regulated deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: Q2 REVENUE JUMPS $11.5B",
+                "headline": "CIO MAGAZINE: NVIDIA NEMO SWITCHYARD",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Anthropic\u2019s Q2 revenue surged to over $11.5B, signaling strong demand for its AI models. This positions them as a key player in the AI market."
+                "visual_caption": "NVIDIA's NeMo Switchyard enters the market as an AI model router. It optimizes multi-model inference workflows, improving efficiency and reducing deployment costs."
             },
             {
                 "slide_index": 8,
