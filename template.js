@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "AI SPENDING CONCERNS",
-        "titleBlue": "RISE",
-        "footerSummary": "Big tech's AI spending is scrutinized amid soaring costs. OpenAI expands access, Google launches new security, and Anthropic's Q2 revenue surges."
+        "titleWhite": "STRATEGIC ENTERPRISE AI",
+        "titleBlue": "ALLIANCE",
+        "footerSummary": "IBM and OpenAI forge a new alliance, accelerating AI integration for global enterprises. Databricks eyes IPO after $5B funding and new acquisition."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "BIG TECH: AI SPENDING CONCERNS RISE",
+            "heading": "IBM & OPENAI: STRATEGIC ENTERPRISE AI ALLIANCE",
             "points": [
-                "New analysis suggests Big Tech's true AI spending is $3 trillion higher than reported, exposing significant hidden infrastructure costs.",
-                "This financial surge indicates an unprecedented investment pace, fundamentally reshaping capital allocation in the technology sector.",
-                "The architectural context reveals a critical shift towards massive, long-term compute and data center expansion for advanced AI.",
-                "Stakeholders should prepare for prolonged high investment cycles and increased pressure on profitability margins as AI infrastructure scales."
+                "IBM and OpenAI have announced a new strategic partnership focused on accelerating the integration of AI capabilities within enterprise environments.",
+                "This alliance aims to deploy OpenAI's frontier models across IBM's extensive client base, enhancing business process automation and data analytics.",
+                "The architectural context centers on leveraging IBM's industry expertise and hybrid cloud platforms to tailor advanced AI solutions for large organizations.",
+                "Stakeholders can anticipate faster, more secure AI adoption, alongside a competitive push for enhanced enterprise AI readiness and specialized deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS GPT-5.6 ACCESS",
+            "nextUpTease": "DATABRICKS: $5B FUNDING & ELECTRIC ACQUISITION",
             "tags": [
-                "Source: https://www.wsj.com/articles/big-tech-ai-spending-trillion-higher-than-seems",
-                "Published: 2026-08-17T13:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: EXPANDS GPT-5.6 ACCESS",
+            "heading": "DATABRICKS: $5B FUNDING & ELECTRIC ACQUISITION",
             "points": [
-                "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding free user access to GPT-5.6 Luna, boosting model availability.",
-                "This move aims to democratize advanced AI capabilities, significantly increasing the user base for frontier models.",
-                "Strategically, it accelerates AI adoption across diverse applications and reinforces OpenAI's market leadership in accessible AI.",
-                "Developers and small businesses will benefit from lower entry barriers, fostering broader innovation and experimentation with powerful LLMs."
+                "Databricks secured an additional $5 billion in funding, fueling speculation about an impending IPO and solidifying its market position.",
+                "The company also acquired Electric, integrating embeddable PostgreSQL capabilities to enhance its data management and AI agent deployment platforms.",
+                "This strategic expansion reinforces Databricks' vision for a unified data and AI platform, enabling more versatile and scalable enterprise solutions.",
+                "Investors and customers can expect accelerated product development and broadened data tooling, pushing Databricks closer to public market entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
             "tags": [
-                "Source: https://openai.com/blog/improving-gpt-5-6-sol-and-expanding-luna",
-                "Published: 2026-08-17T09:00:00Z",
+                "Source: https://www.techtarget.com/searchdatamanagement/news/366571597/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+            "heading": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
             "points": [
-                "Google Cloud introduces AI Threat Defense, a new security service designed to proactively counter evolving AI-powered cyber threats.",
-                "This platform integrates AI to analyze vast datasets, detecting and mitigating novel attack vectors with enhanced speed and precision.",
-                "Architecturally, it provides a crucial layer of defense for cloud-native AI deployments, securing sensitive data and applications.",
-                "Enterprises can expect fortified security postures, reducing AI-specific vulnerabilities and safeguarding critical business operations."
+                "Google has introduced lower introductory pricing for its Gemini 3.7 Flash model, aimed at attracting a broader developer base.",
+                "This competitive pricing strategy is expected to significantly reduce the cost of entry for businesses and individual developers leveraging advanced AI.",
+                "Strategically, this move intensifies the price war in the frontier AI model market, fostering wider adoption and innovation across the ecosystem.",
+                "Developers will benefit from more accessible, powerful AI tools, enabling cost-efficient experimentation and scaling of generative AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
+            "nextUpTease": "AZURE: NEW AMD HPC VMS LACTNCH",
             "tags": [
-                "Source: https://cloud.google.com/blog/introducing-ai-threat-defense",
-                "Published: 2026-08-16T15:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Published: 2026-08-14T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
+            "heading": "AZURE: NEW AMD HPC VMS LAUNCH",
             "points": [
-                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving prediction accuracy and lead times.",
-                "This advance promises to enhance early warning systems, potentially saving lives and mitigating billions in economic damage annually.",
-                "The model leverages complex meteorological data with advanced neural networks, setting a new benchmark for environmental AI applications.",
-                "Governments and disaster relief organizations will gain critical tools for preemptive action, improving global climate resilience strategies."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These new VMs are designed to support demanding AI, data, inference, and technical computing workloads, offering enhanced performance and efficiency.",
+                "Architecturally, this rollout significantly boosts Azure's capacity for high-performance computing, providing robust support for large-scale AI projects.",
+                "Enterprises can leverage these advanced compute options for complex simulations, deep learning training, and accelerated data processing in the cloud."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
+            "nextUpTease": "IEEE SPECTRUM: CHIP SUPPLY CHAIN FIX",
             "tags": [
-                "Source: https://deepmind.google/discover/weather-next-cyclone-forecast",
-                "Published: 2026-08-16T10:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-16T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
+            "heading": "IEEE SPECTRUM: CHIP SUPPLY CHAIN FIX",
             "points": [
-                "Anthropic's Q2 revenue has reportedly surged past $11.5 billion, signaling robust growth in the competitive frontier AI market.",
-                "This financial milestone underscores the rapid enterprise adoption and monetization potential of advanced conversational AI models.",
-                "The strategic context highlights increasing market confidence in Anthropic's safety-focused AI development and commercial offerings.",
-                "Investors and competitors will closely watch this growth, indicating strong demand for ethical and high-performing AI solutions."
+                "The Common Earth Project, featured in IEEE Spectrum, aims to alleviate critical bottlenecks within the global chip supply chain.",
+                "This initiative focuses on fostering collaboration and resource sharing across the semiconductor industry to improve resilience and efficiency.",
+                "Strategically, it addresses long-standing vulnerabilities in chip manufacturing, aiming to prevent future shortages and stabilize production cycles.",
+                "Governments and tech manufacturers should closely monitor this project, as its success could significantly impact global hardware availability and costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
+            "nextUpTease": "IBM: NEXT-GEN CHIP TECHNOLOGY REVEALED",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/anthropic-revenue-q2-2026-report.html",
-                "Published: 2026-08-15T22:00:00Z",
+                "Source: https://spectrum.ieee.org/common-earth-project-chip-supply-chain",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
+            "heading": "IBM: NEXT-GEN CHIP TECHNOLOGY REVEALED",
             "points": [
-                "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, enhancing its suite of generative AI models.",
-                "These new models offer improved efficiency and faster inference speeds, catering to a broad spectrum of enterprise AI applications.",
-                "Architecturally, they represent continued iteration in model optimization, pushing the boundaries of accessible and powerful AI tools.",
-                "Developers can now deploy more versatile and cost-effective multimodal AI solutions, accelerating application development and deployment."
+                "IBM has unveiled breakthrough chip technology designed to potentially extend Moore\u2019s Law for another decade.",
+                "This innovation focuses on novel transistor architectures and materials, promising significant gains in processing power and energy efficiency.",
+                "The architectural context highlights a fundamental shift in chip design, moving beyond current scaling limitations to sustain computational growth.",
+                "Semiconductor industry players and AI developers will keenly watch these advancements, as they could unlock new frontiers for hardware-accelerated AI."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
+            "nextUpTease": "ASML: $400M CHIPMAKING DOMINANCE",
             "tags": [
-                "Source: https://cloud.google.com/blog/gemini-omni-flash-nano-banana-2-lite",
-                "Published: 2026-08-15T13:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/14/1031853/ibm-chip-technology-moores-law/",
+                "Published: 2026-08-14T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
+            "heading": "ASML: $400M CHIPMAKING DOMINANCE",
             "points": [
-                "The EU AI Office is undergoing a massive hiring drive, adding 40 new tech, legal, and operational posts to enforce the AI Act.",
-                "This expansion significantly bolsters the regulatory body's capacity to oversee AI compliance across the European Union.",
-                "Strategically, it reinforces the EU's commitment to robust AI governance, setting a global precedent for responsible AI deployment.",
-                "AI developers and deployers in the EU must prepare for heightened scrutiny and a more active regulatory environment."
+                "ASML's $400 million Extreme Ultraviolet (EUV) lithography machines remain critical, powering the future of advanced chipmaking with unmatched precision.",
+                "The company maintains a near-monopoly on this essential technology, which is indispensable for patterning the ever-smaller features of cutting-edge AI chips.",
+                "Strategically, ASML's dominance creates a bottleneck for competitors and ensures its pivotal role in the global semiconductor ecosystem.",
+                "Chipmakers worldwide continue to rely heavily on ASML's advanced machinery, highlighting its control over the supply chain for next-generation hardware."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/news/hiring-eu-ai-office-40-new-posts",
-                "Published: 2026-08-15T09:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/13/1031846/asml-euv-chipmaking-machine/",
+                "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
