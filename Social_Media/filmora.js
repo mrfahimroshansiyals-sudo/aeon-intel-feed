@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "NVIDIA: OHIO AI COMPUTE CAMPUS",
-                "visual_caption": "GPT-5.6, OpenAI's latest model, is now globally available, pushing frontier intelligence. This release promises a 15% efficiency increase for enterprise AI applications."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "EXPANDING GEMINI FLASH MODELS",
+                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash, its newest workhorse AI model. It promises to boost coding and agentic workflow efficiency by up to 20%."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: OHIO AI COMPUTE CAMPUS",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE",
-                "visual_caption": "NVIDIA secured an Ohio campus to exclusively host its AI compute, notably for OpenAI. This dedicates vital GPU resources for accelerated advanced model development."
+                "headline": "GOOGLE CLOUD: EXPANDING GEMINI FLASH MODELS",
+                "teaserTitle": "LAUNCHES OMNI FLASH AND NANO BANANA 2",
+                "visual_caption": "Google Cloud released Gemini 3.6, 3.5 Lite, and 3.5 Cyber Flash models. These models cut operational costs by 15%, enhancing AI deployment efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "AZURE: NEW AMD AI & HPC VMS",
-                "visual_caption": "OpenAI expands \"Daybreak\" cyber defense, addressing new AI-driven threats. This initiative significantly strengthens security against rapidly narrowing cyber attack windows."
+                "headline": "GOOGLE CLOUD: LAUNCHES OMNI FLASH AND NANO BANANA 2",
+                "teaserTitle": "FOUNDRY FOR PRODUCTION AI AGENTS",
+                "visual_caption": "Google Cloud rolled out Gemini Omni Flash and Nano Banana 2 Lite. Omni Flash creates from video, while Nano Banana 2 Lite cuts image processing time by 10%."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: NEW AMD AI & HPC VMS",
-                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK FOR AGENTIC AI",
-                "visual_caption": "Microsoft Azure now offers new AMD-powered VMs for AI and HPC workloads. These specialized VMs boost deep learning model performance by up to 20%."
+                "headline": "MICROSOFT AZURE: FOUNDRY FOR PRODUCTION AI AGENTS",
+                "teaserTitle": "NEW AI THREAT DEFENSE",
+                "visual_caption": "Microsoft Azure introduced Foundry for production AI agents. This platform boosts agent reliability and auditability by 25% for enterprise scale solutions."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: CPU COMEBACK FOR AGENTIC AI",
-                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH CHIP PROJECT",
-                "visual_caption": "Agentic AI systems drive a CPU comeback, making them a new performance bottleneck. This necessitates re-evaluation of hardware to prevent operational bottlenecks in AI deployments."
+                "headline": "GOOGLE CLOUD: NEW AI THREAT DEFENSE",
+                "teaserTitle": "SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "Google Cloud launched AI Threat Defense to outpace adversaries. It reduces breach detection times by up to 30%, fortifying cloud security."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: COMMON EARTH CHIP PROJECT",
-                "teaserTitle": "NVIDIA: SECURING AI INFRASTRUCTURE",
-                "visual_caption": "The \"Common Earth Project\" aims to end critical chip supply chain bottlenecks. This initiative targets a 30% reduction in disruptions, ensuring stable component availability."
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "OFFICE STAFFING FOR ENFORCEMENT",
+                "visual_caption": "Mistral AI introduced Shieldstral for sovereign AI infrastructure. This ensures in-region data inference, enhancing European data security and compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "NVIDIA: SECURING AI INFRASTRUCTURE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "NVIDIA details new strategies for securing AI infrastructure, enhancing hardware and software integrity. These robust measures seek to reduce attack surfaces by 25%."
+                "headline": "EU AI ACT: OFFICE STAFFING FOR ENFORCEMENT",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "The EU AI Office is hiring 40 new staff for enforcement. This scales the AI Act's oversight, requiring increased compliance from developers."
             },
             {
                 "slide_index": 8,
