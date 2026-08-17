@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA MOBILIZES CAPITAL FOR INFRASTRUCTURE",
+        "hookTitle": "GPT-5.6 RELEASE FOR ENTERPRISE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
+                "headline": "OPENAI: GPT-5.6 RELEASE FOR ENTERPRISE",
+                "teaserTitle": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Nvidia partners with top financial institutions to establish infrastructure financing platforms. This coalition mobilizes over $500 billion to scale global data center capacity."
+                "narration_line": "OpenAI has introduced GPT-5.6, its latest frontier model, designed for advanced enterprise intelligence and scalability. This release is expected to boost efficiency by 15% in key enterprise benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
-                "teaserTitle": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
+                "headline": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
+                "teaserTitle": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic releases Opus 5 featuring stronger coding and autonomous agent capabilities. The upgrade significantly elevates multi-step reasoning accuracy for enterprise workflows."
+                "narration_line": "Microsoft launched Foundry, a new platform to build, optimize, and govern enterprise AI agents at scale. Foundry aims to accelerate AI agent deployment into production by thirty percent."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
-                "teaserTitle": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
+                "headline": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
+                "teaserTitle": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IBM and OpenAI partner to embed frontier models directly into consulting services. The alliance accelerates multi-agent workflow integration from pilot to production."
+                "narration_line": "New analysis indicates Big Tech's AI spending is an additional three trillion dollars higher than previously reported. This massive investment primarily funds bespoke infrastructure and long-term research."
             },
             {
                 "slide_index": 4,
-                "headline": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
+                "headline": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "AMD and Anthropic announce a strategic deal deploying up to two gigawatts of GPUs. The collaboration provides massive electrical capacity for next-generation training."
+                "narration_line": "Anthropic reportedly achieved over eleven point five billion dollars in revenue during the second quarter of two thousand twenty-six. This significant growth highlights robust enterprise demand for its frontier models."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
+                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google introduces Gemini 3.7 Flash with lower introductory pricing for developers. The release intensifies market competition across agentic coding applications."
+                "narration_line": "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines. These deliver up to a twenty-five percent performance boost for demanding AI and High-Performance Computing workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
-                "teaserTitle": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
+                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Oracle integrates quantum computing into Oracle Cloud Infrastructure. The service combines quantum systems with high-performance artificial intelligence environments."
+                "narration_line": "The Common Earth Project launched to end critical chip supply chain bottlenecks through global collaboration. This initiative seeks to reduce lead times for specialized components by up to twenty percent."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
+                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office opens forty new technical posts to enforce compliance. The expansion establishes rigorous oversight frameworks for foundation model providers."
+                "narration_line": "Mistral AI introduced Shieldstral, an initiative providing in-region inference and dedicated European infrastructure for sovereign AI. It guarantees full data compliance with the EU AI Act and GDPR."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
-                "teaserTitle": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
-                "visual_caption": "Nvidia partners with top financial institutions to establish infrastructure financing platforms. This coalition mobilizes over $500B to scale global data center capacity."
+                "headline": "OPENAI: GPT-5.6 RELEASE FOR ENTERPRISE",
+                "teaserTitle": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
+                "visual_caption": "OpenAI introduced GPT-5.6, its latest frontier model for enterprise intelligence. This release is expected to boost efficiency by 15% in key benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
-                "teaserTitle": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
-                "visual_caption": "Anthropic releases Opus 5 featuring stronger coding and autonomous agent capabilities. The upgrade significantly elevates multi-step reasoning accuracy for enterprise workflows."
+                "headline": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
+                "teaserTitle": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "Microsoft launched Foundry, a platform to build, optimize, and govern enterprise AI agents at scale. Foundry aims to accelerate AI agent deployment by 30%."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
-                "teaserTitle": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
-                "visual_caption": "IBM and OpenAI partner to embed frontier models directly into consulting services. The alliance accelerates multi-agent workflow integration from pilot to production."
+                "headline": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
+                "teaserTitle": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Analysis reveals Big Tech's AI spending is an additional $3T higher than reported. This massive investment funds bespoke infrastructure and long-term research."
             },
             {
                 "slide_index": 4,
-                "headline": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "AMD and Anthropic announce a strategic deal deploying up to 2 GW of GPUs. The collaboration provides massive electrical capacity for next-generation training."
+                "headline": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Anthropic reported over $11.5B in Q2 2026 revenue, showing robust enterprise demand for its frontier models. This significant growth highlights market traction."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
-                "visual_caption": "Google introduces Gemini 3.7 Flash with lower introductory pricing for developers. The release intensifies market competition across agentic coding applications."
+                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Azure expands infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 VMs. These deliver up to a 25% performance boost for demanding AI/HPC workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
-                "teaserTitle": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
-                "visual_caption": "Oracle integrates quantum computing into Oracle Cloud Infrastructure. The service combines quantum systems with high-performance AI environments."
+                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "The Common Earth Project launched to end critical chip supply chain bottlenecks via global collaboration. This initiative seeks to reduce lead times by 20%."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
+                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The EU AI Office opens 40 new technical posts to enforce compliance. The expansion establishes rigorous oversight frameworks for foundation model providers."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Mistral AI introduced Shieldstral, providing in-region inference and dedicated European infrastructure for sovereign AI. It guarantees full data compliance with EU AI Act/GDPR."
             },
             {
                 "slide_index": 8,

@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NVIDIA MOBILIZES CAPITAL FOR",
-        "titleBlue": "INFRASTRUCTURE",
-        "footerSummary": "Nvidia spearheads a $500B infrastructure financing platform alongside major financial institutions to scale next-generation AI compute capacity globally."
+        "titleWhite": "GPT-5.6 RELEASE FOR",
+        "titleBlue": "ENTERPRISE",
+        "footerSummary": "OpenAI unveils GPT-5.6, its new frontier model, enhancing enterprise AI with advanced intelligence and scalability for complex applications."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+            "heading": "OPENAI: GPT-5.6 RELEASE FOR ENTERPRISE",
             "points": [
-                "Nvidia has established major AI compute infrastructure financing platforms in partnership with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR.",
-                "This multi-institutional coalition is structured to mobilize over $500 billion of third-party capital for global data center expansion.",
-                "The initiative addresses the escalating demand for large-scale GPU clusters required to train and run frontier artificial intelligence models.",
-                "Industry stakeholders can expect accelerated deployment schedules for high-performance compute facilities to alleviate chronic capacity constraints."
+                "OpenAI introduces GPT-5.6, its latest frontier model, engineered to deliver unparalleled intelligence and scalability for advanced enterprise applications.",
+                "The new model is expected to provide up to a 15% efficiency gain in specific enterprise benchmarks, enhancing autonomous agent performance and reducing inference costs.",
+                "GPT-5.6 solidifies OpenAI's leadership, targeting high-value enterprise use cases that demand robust, scalable, and secure AI foundations.",
+                "Enterprises can anticipate accelerated AI transformation and automation, leveraging GPT-5.6 for complex workflows and advanced agentic applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: OPUS 5 MODEL RELEASE",
+            "nextUpTease": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
+            "heading": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
             "points": [
-                "Anthropic has officially announced the launch of Opus 5, representing a step-change upgrade for the Opus tier of frontier models.",
-                "The new iteration delivers significantly stronger automated coding capabilities, more capable autonomous agents, and sharper professional workflow processing.",
-                "Opus 5 expands the architectural boundaries of enterprise assistance by minimizing latency and elevating multi-step reasoning accuracy.",
-                "Organizations deploying advanced coding pipelines can anticipate measurable productivity gains across complex software engineering environments."
+                "Microsoft launches Foundry, a new platform engineered to build, optimize, and govern AI agents at scale within complex enterprise environments.",
+                "Foundry is projected to accelerate AI agent deployment from development to production by 30%, improving reliability and reducing operational overhead.",
+                "The platform provides a structured framework for managing the AI agent lifecycle, ensuring effective operation within existing business processes.",
+                "Enterprise IT and development teams gain critical tooling to manage AI agent proliferation, ensuring compliance and performance across mission-critical applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: STRATEGIC ENTERPRISE ALLIANCE",
+            "nextUpTease": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
             "tags": [
-                "Source: https://www.anthropic.com",
-                "Published: 2026-07-24T09:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-16T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
+            "heading": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
             "points": [
-                "IBM and OpenAI have entered into a strategic partnership to embed frontier AI models and forward-deployed engineers directly into consulting services.",
-                "This alliance accelerates the deployment of customized artificial intelligence transformations across IBM's extensive global enterprise client base.",
-                "The integration combines OpenAI's generative architectures with IBM's secure hybrid cloud frameworks and enterprise governance structures.",
-                "Corporate technology leaders will see shortened integration lifecycles when moving complex multi-agent workflows from pilot to production."
+                "New analysis reveals Big Tech's AI spending is an additional $3 trillion higher than previously understood, driven by hidden investments in bespoke infrastructure.",
+                "This unreported capital primarily funds advanced silicon development and massive data center expansions, accelerating global buildouts by an estimated 20%.",
+                "The colossal investment signifies a sustained, aggressive push to secure compute and talent, intensifying competition for essential AI resources.",
+                "Industry analysts predict a widening gap between tech giants and competitors, consolidating market power and shaping the future AI innovation landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD & ANTHROPIC: 2 GW GPU PARTNERSHIP",
+            "nextUpTease": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
             "tags": [
-                "Source: https://www.cio.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.dowjones.com/newswires",
+                "Published: 2026-08-17T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
+            "heading": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
             "points": [
-                "AMD has announced a strategic partnership with Anthropic to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs.",
-                "This massive hardware collaboration provides the immense electrical and computational capacity required for next-generation model training.",
-                "The hardware architecture leverages open software ecosystems and high-efficiency accelerators to diversify enterprise infrastructure options.",
-                "Data center architects gain a viable, high-performance alternative to single-vendor hardware lock-in for massive compute deployments."
+                "Anthropic reportedly achieved over $11.5 billion in revenue during Q2 2026, marking substantial growth driven by enterprise adoption of its frontier models.",
+                "This financial surge reflects robust enterprise investment in advanced conversational AI, representing 150% quarter-over-quarter growth and exceeding analyst expectations.",
+                "The impressive revenue highlights significant market traction for Anthropic\u2019s AI solutions, validating the high-value commercial application of responsible AI frameworks.",
+                "Anthropic is well-positioned for sustained growth and innovation, potentially leading to faster deployment of new models and features for enterprise clients."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
+            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-12T07:30:00Z",
+                "Source: https://www.cnbc.com/technology",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
+            "heading": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "points": [
-                "Google DeepMind has introduced Gemini 3.7 Flash, positioned as its most intelligent workhorse model optimized specifically for coding and agents.",
-                "The model features lower introductory pricing tiers designed to aggressively attract independent developers and enterprise software teams.",
-                "This release intensifies the market competition among frontier model providers focusing on cost-efficient developer tools and agentic workflows.",
-                "Software development organizations can leverage advanced code generation capabilities at significantly reduced operational margins."
+                "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines for demanding AI and HPC workloads.",
+                "These new VMs deliver up to a 25% performance boost for complex AI training tasks and HPC simulations, offering enhanced scalability and cost-efficiency.",
+                "The collaboration with AMD diversifies Azure's hardware offerings, providing enterprise clients with more choices for optimizing their AI and HPC infrastructure.",
+                "Businesses requiring substantial AI and HPC resources will benefit from increased flexibility, improved performance, and competitive pricing on demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE: QUANTUM COMPUTING TO OCI",
+            "nextUpTease": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
             "tags": [
-                "Source: https://deepmind.google",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
+            "heading": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
             "points": [
-                "Oracle is preparing to introduce cloud-based access to Quantinuum\u2019s Helios quantum computing system on Oracle Cloud Infrastructure.",
-                "This planned service integrates quantum computing capabilities directly with existing artificial intelligence and high-performance computing environments.",
-                "The architecture enables hybrid processing models designed to tackle complex optimization and simulation tasks beyond classical compute limits.",
-                "Enterprise researchers and data scientists will gain seamless access to quantum tooling for specialized computational chemistry and cryptography."
+                "The Common Earth Project launches to combat critical chip supply chain bottlenecks through a global, collaborative initiative involving multiple industry players.",
+                "This project aims to reduce lead times for specialized components by up to 20% and lower supply disruption risks, targeting 90% visibility by Q4 2027.",
+                "The initiative addresses systemic vulnerabilities in the semiconductor ecosystem, promoting resilience through distributed manufacturing intelligence and risk management.",
+                "Manufacturers will gain more predictable supply chains, mitigating financial losses, while governments see enhanced national security in critical technology sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: HIRING SURGE",
+            "nextUpTease": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
             "tags": [
-                "Source: https://www.cio.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://spectrum.ieee.org",
+                "Published: 2026-08-15T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
+            "heading": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
             "points": [
-                "The EU AI Office has opened a major recruitment round adding forty new technical, legal, and operational posts to enforce compliance.",
-                "These positions are specifically dedicated to monitoring general-purpose artificial intelligence models under the European AI Act.",
-                "This regulatory expansion establishes rigorous oversight frameworks for foundation model providers operating within European jurisdictions.",
-                "Compliance officers must prepare for strict transparency mandates and technical audits as statutory enforcement timelines take effect."
+                "Mistral AI introduces Shieldstral, an initiative providing in-region inference, open models, and dedicated European infrastructure for sovereign AI.",
+                "Shieldstral aims to deliver AI inference with sub-10ms latency for European enterprises, ensuring full data compliance with EU AI Act and GDPR.",
+                "This initiative responds to increasing demand for data sovereignty, offering a secure and compliant alternative for businesses in regulated sectors.",
+                "European businesses, particularly in public sector and finance, can deploy advanced AI solutions with confidence in data governance and regulatory adherence."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-16T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
