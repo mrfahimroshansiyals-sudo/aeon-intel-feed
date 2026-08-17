@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TSMC: A16\u2122 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "AZURE: PRODUCTION AI AGENTS WITH FOUNDRY",
-                "visual_caption": "TSMC's A16 Nanosheet with Super Power Rail is set to revolutionize HPC/AI silicon. This next-gen architecture promises superior performance and energy efficiency for future AI model training."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "NVIDIA: OHIO AI COMPUTE CAMPUS",
+                "visual_caption": "GPT-5.6, OpenAI's latest model, is now globally available, pushing frontier intelligence. This release promises a 15% efficiency increase for enterprise AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: PRODUCTION AI AGENTS WITH FOUNDRY",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "visual_caption": "Microsoft Azure launches its Foundry platform to optimize production AI agents using GPT-5.6. This managed environment will streamline agentic workflow deployment for large enterprises."
+                "headline": "NVIDIA: OHIO AI COMPUTE CAMPUS",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE",
+                "visual_caption": "NVIDIA secured an Ohio campus to exclusively host its AI compute, notably for OpenAI. This dedicates vital GPU resources for accelerated advanced model development."
             },
             {
                 "slide_index": 3,
-                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
-                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
-                "visual_caption": "Mistral AI introduces Shieldstral, offering in-region inference and sovereign AI infrastructure in Europe. This ensures robust data governance and compliance for secure AI deployments."
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "AZURE: NEW AMD AI & HPC VMS",
+                "visual_caption": "OpenAI expands \"Daybreak\" cyber defense, addressing new AI-driven threats. This initiative significantly strengthens security against rapidly narrowing cyber attack windows."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
-                "teaserTitle": "OPENAI: OPTIMIZES GPT-5.6 ACCESS",
-                "visual_caption": "Google Cloud unveils AI Threat Defense, a new service to combat advanced cyber adversaries. It utilizes AI/ML for rapid threat detection and response."
+                "headline": "AZURE: NEW AMD AI & HPC VMS",
+                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK FOR AGENTIC AI",
+                "visual_caption": "Microsoft Azure now offers new AMD-powered VMs for AI and HPC workloads. These specialized VMs boost deep learning model performance by up to 20%."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: OPTIMIZES GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "ALIBABA: NEW LAPTOP-READY AI MODEL",
-                "visual_caption": "OpenAI is optimizing GPT-5.6 Sol in ChatGPT and expanding Luna access for free users. These updates enhance performance and broaden frontier AI capabilities for millions."
+                "headline": "IEEE SPECTRUM: CPU COMEBACK FOR AGENTIC AI",
+                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH CHIP PROJECT",
+                "visual_caption": "Agentic AI systems drive a CPU comeback, making them a new performance bottleneck. This necessitates re-evaluation of hardware to prevent operational bottlenecks in AI deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "ALIBABA: LAUNCHES NEW LAPTOP-READY AI MODEL",
-                "teaserTitle": "FINANCIAL TIMES: HIGGSFIELD $5.4B",
-                "visual_caption": "Alibaba debuts a new AI model tailored for direct laptop integration, boosting edge AI capabilities. This development intensifies competition in local, AI-enhanced personal computing."
+                "headline": "IEEE SPECTRUM: COMMON EARTH CHIP PROJECT",
+                "teaserTitle": "NVIDIA: SECURING AI INFRASTRUCTURE",
+                "visual_caption": "The \"Common Earth Project\" aims to end critical chip supply chain bottlenecks. This initiative targets a 30% reduction in disruptions, ensuring stable component availability."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCIAL TIMES: HIGGSFIELD VALUED AT $5.4B",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AI video startup Higgsfield achieves a $5.4B valuation with backing from Goldman Sachs & Intel. This substantial investment validates the growth potential of AI-driven media creation."
+                "headline": "NVIDIA: SECURING AI INFRASTRUCTURE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "NVIDIA details new strategies for securing AI infrastructure, enhancing hardware and software integrity. These robust measures seek to reduce attack surfaces by 25%."
             },
             {
                 "slide_index": 8,
