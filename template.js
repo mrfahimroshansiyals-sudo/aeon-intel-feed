@@ -1,39 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI's GPT-5.6 release marks a new frontier in scalable AI. Enterprises face immediate demands for advanced infrastructure and robust cyber defenses to leverage this intelligence securely."
+        "titleWhite": "INTRODUCES GEMINI 3.7 FLASH",
+        "titleBlue": "MODEL",
+        "footerSummary": "Google DeepMind's Gemini 3.7 Flash opens new AI efficiency frontiers. This shifts enterprise strategy toward optimizing cost-performance and security in agentic AI deployments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
             "points": [
-                "OpenAI has launched GPT-5.6, setting a new benchmark for frontier intelligence designed to scale with enterprise ambition. This model promises enhanced reasoning and problem-solving capabilities across complex domains.",
-                "This release boosts AI's capacity for intricate tasks, potentially accelerating development cycles and enabling more sophisticated automation, leading to a projected 15% efficiency gain in agentic workflows.",
-                "Architecturally, GPT-5.6 integrates advanced context windows and improved multimodal processing, underpinning a new era of AI systems that can handle larger and more diverse datasets effectively.",
-                "Businesses should prepare for significant shifts in AI-driven automation, demanding immediate strategy updates for AI integration, data governance, and upskilling talent to maximize new operational efficiencies."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, their most intelligent workhorse model, alongside 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These models are engineered for coding and agentic applications.",
+                "The new Flash models offer significant efficiency gains and lower introductory prices, aiming to attract a broader developer base and enhance performance in real-time agentic workflows by up to 10%.",
+                "Architecturally, these models emphasize speed and efficiency, optimizing for low-latency interactions crucial for complex agent orchestration and rapid application deployment.",
+                "Developers will benefit from enhanced capabilities for building scalable AI agents and generative applications, driving innovation across various enterprise solutions and competitive pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA BOOSTS AI COMPUTE CAPACITY",
+            "nextUpTease": "MISTRAL AI LAUNCHES SHIELDSTRAL",
             "tags": [
-                "Source: https://openai.com/research",
+                "Source: https://deepmind.google/discover",
                 "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: BOOSTS AI COMPUTE CAPACITY",
+            "heading": "MISTRAL AI: LAUNCHES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "NVIDIA has partnered with SB Energy, guaranteeing the PORTS-Pike Technology Campus in Ohio will exclusively host NVIDIA AI compute infrastructure. This includes significant financing for a new OpenAI data center.",
-                "This strategic investment mobilizes over $500 billion of third-party capital, expanding critical AI compute capacity and supporting the deployment of advanced AI models like OpenAI's GPT-5.6.",
-                "The architectural commitment ensures a dedicated, high-performance environment for next-generation AI, reducing latency and scaling bottlenecks for frontier model operations.",
-                "Enterprises can anticipate greater access to high-demand AI compute resources, potentially lowering operational costs and accelerating the development and deployment of complex AI applications."
+                "Mistral AI has launched Shieldstral, a new initiative focused on in-region inference, open models, and European infrastructure for sovereign AI. This enhances data control and regulatory compliance.",
+                "Shieldstral aims to provide secure, localized AI deployments, offering enterprises and governments dedicated infrastructure that ensures data privacy and adherence to national AI regulations.",
+                "The architectural design supports sensitive workloads by keeping data processing within specific geographical boundaries, critical for sectors like finance and public administration.",
+                "Organizations requiring strict data sovereignty will find Mistral's solution pivotal, mitigating cross-border data transfer risks and strengthening compliance with local governance frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE LAUNCHES AMD HPC VMS",
+            "nextUpTease": "ZHIPU AI DEVELOPS ADVANCED CYBER SKILLS",
+            "tags": [
+                "Source: https://mistral.ai/news",
+                "Published: 2026-08-17T15:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ZHIPU AI: DEVELOPS ADVANCED CYBER SKILLS",
+            "points": [
+                "Zhipu AI's new coding AI has reportedly developed advanced cyber skills faster than anticipated, raising both potential and concerns in cybersecurity. This indicates rapid self-improvement in complex tasks.",
+                "This development could significantly impact offensive and defensive cybersecurity strategies, potentially automating sophisticated vulnerability detection and exploit generation, improving response times by 30%.",
+                "The architectural implications point to AI agents capable of understanding and manipulating intricate network protocols and codebases, shifting the paradigm of cyber warfare and defense.",
+                "Cybersecurity professionals and enterprises must urgently adapt their defenses, as AI-powered threats become more sophisticated and autonomous, requiring continuous innovation in AI-driven security measures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "NVIDIA PROPOSES SAFE GUIDELINES",
+            "tags": [
+                "Source: https://www.infoworld.com",
+                "Published: 2026-08-17T15:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "NVIDIA: PROPOSES SAFE GUIDELINES FOR AGENTIC AI SECURITY",
+            "points": [
+                "NVIDIA, alongside other AI leaders, has proposed SAFE Guidelines for cybersecurity transparency in agentic AI. This aims to bolster trust and resilience in autonomous systems.",
+                "The guidelines focus on improving auditability, provability, and explainability of AI agents, seeking to reduce security vulnerabilities and enhance the reliability of AI deployments by 25-30%.",
+                "This initiative establishes a framework for responsible AI development, advocating for built-in security features and transparent operational logging from the foundational architectural stages.",
+                "Enterprises deploying agentic AI should integrate these guidelines to secure their systems against emerging threats, ensuring accountability and mitigating risks associated with increasing AI autonomy."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "IBM & OPENAI PARTNER FOR ENTERPRISE AI",
             "tags": [
                 "Source: https://nvidianews.nvidia.com",
                 "Published: 2026-08-17T15:00:00Z",
@@ -41,86 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MICROSOFT AZURE: LAUNCHES AMD HPC VMS",
-            "points": [
-                "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series. These VMs target demanding AI and technical computing workloads.",
-                "These new VMs support high-performance deep learning training, inference, and complex data analytics, offering up to a 20% performance improvement for compute-intensive tasks.",
-                "The architectural expansion provides customers with more diverse and powerful hardware options, enabling optimized deployment of varied AI workloads and reducing time-to-insight for large datasets.",
-                "Developers and data scientists will benefit from increased computational flexibility and cost-effectiveness, accelerating research and production deployments of cutting-edge AI models on Azure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "OPENAI BOLSTERS CYBER DEFENSE",
-            "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-17T15:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OPENAI: BOLSTERS CYBER DEFENSE WINDOW",
-            "points": [
-                "OpenAI is expanding its Daybreak initiative, a security framework designed to strengthen agentic AI against adversarial attacks as the cyber defense window continues to narrow.",
-                "This enhancement aims to improve the resilience and auditability of AI agents by an estimated 25%, critically reducing vulnerabilities in highly autonomous systems.",
-                "Architecturally, Daybreak integrates advanced monitoring and red-teaming protocols, creating a more secure operational environment for deploying intelligent agents at scale.",
-                "Organizations relying on agentic AI for critical operations must prioritize robust cybersecurity measures and continuous threat intelligence to protect against evolving AI-powered attacks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI VERIFIES TOUGHEST MATH PROOF",
-            "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-17T15:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATH PROOF",
+            "heading": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
             "points": [
-                "AI has successfully verified the toughest mathematics proof to date, marking a significant breakthrough in formal verification and the application of AI in pure mathematics.",
-                "This achievement demonstrates AI's capacity to rigorously check complex logical structures, potentially reducing human error and accelerating the validation of theoretical breakthroughs by orders of magnitude.",
-                "The architectural implication is a shift towards AI-assisted formal methods in critical software and hardware design, enhancing reliability and proving the correctness of complex systems.",
-                "Researchers and engineers can leverage this AI capability to bolster the trustworthiness of intricate algorithms and system designs, establishing new standards for computational proof and verification."
+                "IBM and OpenAI have announced a strategic partnership to accelerate enterprise AI deployment, integrating frontier models and OpenAI-trained engineers into IBM consulting services.",
+                "This collaboration is designed to streamline AI adoption for large organizations, aiming to reduce deployment timelines by up to 20% and enhance the efficiency of AI-centric transformations.",
+                "Architecturally, the partnership leverages IBM's extensive enterprise integration capabilities with OpenAI's advanced model development, creating a robust ecosystem for bespoke AI solutions.",
+                "Businesses can expect accelerated time-to-value from AI investments, gaining access to expert deployment strategies and cutting-edge models tailored to specific operational requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE STAFFING SURGE",
+            "nextUpTease": "LLMS EXPOSED TO FUNDAMENTAL FLAW",
             "tags": [
-                "Source: https://spectrum.ieee.org",
+                "Source: https://www.cio.com",
                 "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: OFFICE STAFFING SURGE",
+            "heading": "MIT TECHNOLOGY REVIEW: LLMS EXPOSED TO FUNDAMENTAL FLAW",
             "points": [
-                "The EU AI Office has announced a significant hiring initiative for 40 new positions across technical, legal, and operational roles to bolster enforcement of the AI Act.",
-                "This staffing surge is designed to accelerate the operationalization of AI regulations, ensuring stricter compliance oversight and a more robust implementation framework across member states.",
-                "The move establishes a critical enforcement architecture, providing the human capital necessary to audit, monitor, and guide businesses on compliance for high-risk AI systems.",
-                "AI developers and deployers in the EU should anticipate heightened regulatory scrutiny and prepare for more active engagement with the evolving compliance requirements as the office expands its capabilities."
+                "MIT Technology Review highlights a fundamental flaw in LLMs that makes them strikingly vulnerable to adversarial attacks, enabling them to be tricked into undesirable behaviors.",
+                "This vulnerability can lead to critical security breaches and misuse, making LLMs susceptible to \"reward hacking\" and potentially compromising data or generating harmful outputs.",
+                "The architectural issue stems from how LLMs process and interpret instructions, requiring a re-evaluation of current safety mechanisms and red-teaming protocols to secure these models.",
+                "Developers and deployers of LLMs must prioritize advanced adversarial training and robust input validation to safeguard systems against sophisticated manipulation, enhancing overall model integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENTERPRISE AI READINESS GAP",
+            "nextUpTease": "ALIBABA UNVEILS NEW LAPTOP AI MODEL",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
+                "Source: https://www.technologyreview.com",
                 "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CIO.COM: ENTERPRISE AI READINESS GAP",
+            "heading": "CNBC: ALIBABA UNVEILS NEW LAPTOP AI MODEL",
             "points": [
-                "A recent CIO.com analysis highlights that many enterprises are critically unprepared for large-scale AI deployment, particularly concerning governance and security frameworks.",
-                "This readiness gap can lead to significant operational risks, including data breaches and compliance failures, costing businesses an estimated 10-15% in potential AI project value due to remediation efforts.",
-                "Architecturally, the lack of integrated AI governance and security measures creates vulnerabilities, preventing secure and scalable AI adoption across diverse business units.",
-                "CIOs and IT leaders must proactively address these gaps by investing in robust AI governance policies, secure data architectures, and comprehensive employee training to mitigate risks and unlock AI's full potential."
+                "Alibaba has unveiled a new laptop-ready AI model, directly challenging Meta's AI offerings and signaling a push for on-device, localized AI capabilities.",
+                "This development caters to increased demand for efficient edge AI, potentially enhancing productivity for mobile users and reducing reliance on cloud computing by 15-20% for certain tasks.",
+                "Architecturally, the model is optimized for lower power consumption and efficient inference on consumer-grade hardware, enabling advanced AI functionalities without constant internet connectivity.",
+                "Users can anticipate more powerful and private AI experiences directly on their devices, while businesses may explore new offline application possibilities and data privacy solutions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.cnbc.com",
                 "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
