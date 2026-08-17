@@ -4,51 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 LAUNCHES",
-                "teaserTitle": "NVIDIA SECURES OHIO AI COMPUTE CAMPUS",
-                "visual_caption": "OpenAI's GPT-5.6, their latest frontier intelligence model, has officially launched, designed for enhanced scalability across complex tasks. This model is projected to boost computational efficiency by 15-20% and reduce inference costs by 10% for enterprises."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI FLASH & OMNI RELEASE",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands free access to GPT-5.6 Luna. This update aims to increase user engagement by ~25% across diverse applications."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SECURES OHIO AI COMPUTE CAMPUS",
-                "teaserTitle": "AZURE EXPANDS AMD AI/HPC VM OFFERINGS",
-                "visual_caption": "NVIDIA secured the PORTS-Pike Technology Campus in Ohio, earmarking it exclusively for NVIDIA AI compute, with a $105B financing commitment for an OpenAI data center. This expands high-performance GPU resources, aiming to cut training times by 30%."
+                "headline": "GOOGLE DEEPMIND: GEMINI FLASH & OMNI RELEASE",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCHED",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, Omni Flash, & Nano Banana 2 Lite. These models offer a ~30% speed increase & reduce compute costs for developers."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: EXPANDS AMD AI/HPC VM OFFERINGS",
-                "teaserTitle": "GOOGLE DEEPMIND UNVEILS SIGN LANGUAGE AI",
-                "visual_caption": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2 and ND MI455Xv7 series. These VMs offer a 25% improvement in computational throughput for HPC and 20% latency reduction for AI inference."
+                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCHED",
+                "teaserTitle": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "NVIDIA introduces NeMo Switchyard, new software for efficient AI model routing. This platform aims to reduce operational latency by up to 15% for complex inference."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: UNVEILS SIGN LANGUAGE AI",
-                "teaserTitle": "GOOGLE DEEPMIND WEATHERNEXT AI BREAKTHROUGH",
-                "visual_caption": "Google DeepMind unveiled new sign language AI technology, empowering users with advanced communication tools and increasing accessibility. This AI model achieves a 95% accuracy in real-time translation, reducing communication barriers significantly."
+                "headline": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "teaserTitle": "COMPUTING: AGENTIC AI CAUSES CPU BOTTLENECK",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "AI successfully verifies the toughest known math proof, showcasing advanced automated reasoning. This could reduce human verification time by orders of magnitude."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "teaserTitle": "LG PLANS 2027 NVIDIA-POWERED HUMANOID",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a significant breakthrough in forecasting cyclones, offering unprecedented accuracy and lead times. WeatherNext demonstrates a 20% increase in lead time for intensity prediction, improving decision-making by 24 hours."
+                "headline": "COMPUTING: AGENTIC AI CAUSES CPU BOTTLENECK",
+                "teaserTitle": "ZHIPU: CODING AI DEVELOPS CYBER SKILLS",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Agentic AI causes CPUs to become a performance bottleneck, despite GPU-centric scaling. This affects overall system throughput by 5-10%."
             },
             {
                 "slide_index": 6,
-                "headline": "LG: PLANS 2027 NVIDIA-POWERED HUMANOID",
-                "teaserTitle": "OPENAI SYNCHRONY PARTNERS FOR SHOPPING AI",
-                "visual_caption": "LG plans to release an NVIDIA-powered humanoid robot in 2027, marking a major push into advanced robotics. The robot is expected to perform complex tasks with 90% accuracy, leveraging NVIDIA GPUs for real-time perception."
+                "headline": "ZHIPU: CODING AI DEVELOPS CYBER SKILLS",
+                "teaserTitle": "ROBOTICS: HUMANOID ROBOTS FOR SHIPYARD WELDING",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Zhipu's new coding AI rapidly develops advanced cyber skills for security tasks. This enhances automated vulnerability detection, reducing mitigation time by 15-20%."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: SYNCHRONY PARTNERS FOR SHOPPING AI",
+                "headline": "ROBOTICS: HUMANOID ROBOTS FOR SHIPYARD WELDING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Synchrony partnered with OpenAI to integrate advanced AI capabilities into its shopping and credit card services, enhancing customer experience. This aims to reduce customer service call times by 20%, impacting 70M active accounts."
+                "visual_caption": "Humanoid robots evaluated for shipyard welding, a major leap in industrial automation. This promises 100% worker safety & 20% efficiency gains."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
