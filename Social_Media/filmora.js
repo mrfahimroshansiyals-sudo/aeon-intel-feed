@@ -4,50 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
-                "visual_caption": "OpenAI launched its latest frontier model, GPT-5.6, for enterprise AI scaling. This boosts operational efficiency by up to 20% for complex AI workloads."
+                "headline": "NVIDIA: SB ENERGY GUARANTEES AI COMPUTE",
+                "teaserTitle": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
+                "visual_caption": "NVIDIA secured dedicated AI compute campus with SB Energy in Ohio. This guarantees essential infrastructure, accelerating development timelines for advanced AI models."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
-                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCE PLATFORMS",
-                "visual_caption": "Google Cloud released new Gemini Flash models (3.6 Flash, 3.5 Flash Cyber) for high-performance AI. These deliver optimized latency and efficiency for real-time AI and security."
+                "headline": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "Microsoft Azure expanded infrastructure with new AMD-powered AI and HPC VMs. These specialized VMs boost performance for critical enterprise AI and scientific workloads."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: $500B AI COMPUTE FINANCE PLATFORMS",
-                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "visual_caption": "NVIDIA partners to establish $500B AI compute financing platforms. This accelerates global infrastructure, cutting project timelines by 15-20%."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "OpenAI improved GPT-5.6 Sol in ChatGPT and expanded GPT-5.6 Luna access for free users. This democratizes advanced AI, fostering wider adoption and diverse application development."
             },
             {
                 "slide_index": 4,
-                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "AZURE: MICROSOFT FOUNDRY LAUNCHES FOR AI AGENTS",
-                "visual_caption": "TSMC unveiled A16 Nanosheet with Super Power Rail for HPC/AI. It increases speed by 15% and reduces power by 30% for next-gen AI chips."
+                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
+                "teaserTitle": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Google Cloud cut prices for its Gemini 3.7 Flash model to attract developers. This makes high-performance generative AI more economically viable for enterprise deployment."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: MICROSOFT FOUNDRY LAUNCHES FOR AI AGENTS",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
-                "visual_caption": "Microsoft Azure launched Foundry for building & deploying enterprise AI agents. Foundry streamlines AI deployment cycles by up to 25%."
+                "headline": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
+                "teaserTitle": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Mistral AI introduced its new OCR 4 model for optical character recognition. It promises enhanced accuracy and efficiency, streamlining enterprise document processing workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
-                "teaserTitle": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "visual_caption": "Mistral AI introduced Shieldstral for sovereign AI via in-region inference & open models in Europe. This improves data residency and reduces risks for sensitive AI applications."
+                "headline": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
+                "teaserTitle": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "AMD partnered with University of Oxford's Open-ended Learning and Discovery Lab for frontier AI research. This collaboration strengthens academic ties and advances hardware-software co-design."
             },
             {
                 "slide_index": 7,
-                "headline": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "ANTHROPIC: $65B ANNUALIZED REVENUE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AI verified a toughest math proof yet, marking a significant research breakthrough. This advances AI's potential to accelerate complex scientific discovery and validation."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Anthropic reported $65B annualized revenue run rate in July to investors. This signals robust market demand and strong commercial scaling for its Claude AI models."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
