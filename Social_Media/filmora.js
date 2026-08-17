@@ -4,57 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SB ENERGY GUARANTEES AI COMPUTE",
-                "teaserTitle": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
-                "visual_caption": "NVIDIA secured dedicated AI compute campus with SB Energy in Ohio. This guarantees essential infrastructure, accelerating development timelines for advanced AI models."
+                "headline": "NVIDIA: $105B BACKING FOR OPENAI OHIO DATA CENTER",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "NVIDIA commits $105B in financing to establish a major OpenAI data center in Ohio. This substantial investment will accelerate frontier AI dev & deployment for the entire industry."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Microsoft Azure expanded infrastructure with new AMD-powered AI and HPC VMs. These specialized VMs boost performance for critical enterprise AI and scientific workloads."
+                "headline": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
+                "visual_caption": "Google Cloud launched Gemini 3.7 Flash, an AI model optimized for devs. This enhances efficiency & performance for enterprise generative AI apps."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI improved GPT-5.6 Sol in ChatGPT and expanded GPT-5.6 Luna access for free users. This democratizes advanced AI, fostering wider adoption and diverse application development."
+                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
+                "teaserTitle": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
+                "visual_caption": "Google DeepMind introduced Nano Banana 2 Lite, an efficient new Gemini image model. It delivers faster, more creative visual content generation with reduced compute needs."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
-                "teaserTitle": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google Cloud cut prices for its Gemini 3.7 Flash model to attract developers. This makes high-performance generative AI more economically viable for enterprise deployment."
+                "headline": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
+                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "visual_caption": "OpenAI unveiled 'The Defender\u2019s Window,' a critical security update for its AI systems. This initiative aims to reduce vulnerabilities by up to 20% against evolving cyber threats."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
-                "teaserTitle": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Mistral AI introduced its new OCR 4 model for optical character recognition. It promises enhanced accuracy and efficiency, streamlining enterprise document processing workflows."
+                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
+                "visual_caption": "Alibaba\u2019s new Qwen 3.8 27B model targets advanced edge AI capabilities. It runs locally on laptops, cutting costs & latency for on-device apps."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
-                "teaserTitle": "ANTHROPIC: $65B ANNUALIZED REVENUE",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "AMD partnered with University of Oxford's Open-ended Learning and Discovery Lab for frontier AI research. This collaboration strengthens academic ties and advances hardware-software co-design."
+                "headline": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
+                "teaserTitle": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
+                "visual_caption": "LG will release an NVIDIA-powered humanoid robot in 2027. This innovation signifies a major leap in physical AI & advanced robotic interaction."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+                "headline": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Anthropic reported $65B annualized revenue run rate in July to investors. This signals robust market demand and strong commercial scaling for its Claude AI models."
+                "visual_caption": "Synchrony & OpenAI partner to integrate AI into shopping for Amazon & Walmart. This collaboration boosts conversion rates & customer satisfaction by 10-15%."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

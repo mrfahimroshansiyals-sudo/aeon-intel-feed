@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SB ENERGY GUARANTEES AI",
-        "titleBlue": "COMPUTE",
-        "footerSummary": "AI compute infrastructure scales, model pricing shifts. New agent advancements emerge. Frontier AI revenue surges, driving intensified competition and global adoption acceleration."
+        "titleWhite": "$105B BACKING FOR OPENAI OHIO DATA",
+        "titleBlue": "CENTER",
+        "footerSummary": "NVIDIA commits significant capital for critical AI compute. This investment underscores rapid scaling demands for frontier models and intensifies infrastructure competition."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: SB ENERGY GUARANTEES AI COMPUTE",
+            "heading": "NVIDIA: $105B BACKING FOR OPENAI OHIO DATA CENTER",
             "points": [
-                "NVIDIA has partnered with SB Energy to exclusively host NVIDIA AI compute at the PORTS-Pike Technology Campus in Ohio, securing vital infrastructure for high-performance operations.",
-                "This agreement ensures massive-scale AI compute capacity, crucial for training large language models and complex AI workloads, mitigating supply chain risks and accelerating project timelines.",
-                "Architecturally, this establishes a significant AI factory, providing foundational compute power. It forms a crucial part of NVIDIA's strategy to expand global AI infrastructure and deployment capabilities.",
-                "Enterprises and research institutions will benefit from assured access to high-performance AI compute resources, reducing operational bottlenecks and fostering rapid innovation in the AI sector."
+                "NVIDIA is pledging $105 billion in financing to support the development of a large OpenAI data center in Ohio. This significant capital infusion aims to accelerate the deployment of advanced AI compute infrastructure.",
+                "This massive investment directly addresses the growing demand for high-performance AI compute, potentially enabling OpenAI to scale its operations and model training significantly faster. It provides crucial resources for frontier AI research and development.",
+                "The financing establishes a dedicated, large-scale AI factory, reinforcing the strategic alliance between NVIDIA and OpenAI. It positions Ohio as a key hub for future AI innovation and compute capacity.",
+                "This move signals NVIDIA's deep commitment to its ecosystem partners and the broader AI industry, ensuring robust infrastructure for AI model development. It will likely attract further tech investment to the region and accelerate OpenAI's product roadmap."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energys-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.cnbc.com/technology/",
+                "Published: 2026-08-18T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
+            "heading": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
             "points": [
-                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series, for specialized computing.",
-                "This expansion directly supports deep learning, large-scale data analytics, and high-performance computing, offering increased throughput and efficiency for critical enterprise applications.",
-                "The architectural enhancement provides a more diverse and potent compute offering, enabling Azure customers to optimize their AI and HPC strategies with AMD\u2019s latest silicon.",
-                "Enterprises can now choose specialized AMD-based VMs on Azure, improving cost-effectiveness and performance for their most compute-intensive AI initiatives and scientific simulations."
+                "Google Cloud has officially introduced its Gemini 3.7 Flash model, designed for developers seeking efficient and high-performance AI. This model offers advanced capabilities for a wide range of generative AI applications.",
+                "The new Gemini 3.7 Flash model targets optimal price-performance, making cutting-edge generative AI more accessible for enterprise-scale deployment. It aims to accelerate developer workflows and improve the cost-effectiveness of AI inference tasks.",
+                "This launch expands Google Cloud\u2019s diverse AI model portfolio, offering specialized options to meet varied customer needs from speed to cost efficiency. It reinforces Google's strategy to democratize AI access across its cloud platform.",
+                "Developers and businesses can leverage Gemini 3.7 Flash for faster iteration and deployment of AI-powered solutions. It may spur increased adoption of generative AI services on the Google Cloud Platform due to improved efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "nextUpTease": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-18T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "heading": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
             "points": [
-                "OpenAI is improving GPT-5.6 Sol in ChatGPT and expanding access to GPT-5.6 Luna for free users, aiming to democratize advanced AI capabilities and enhance user experience.",
-                "This update provides broader availability of powerful models, potentially increasing user engagement and accelerating AI adoption for diverse applications, driving significant efficiency for many tasks.",
-                "Strategically, this lowers the barrier to entry for developers and casual users, fostering a larger ecosystem around OpenAI's frontier models and ensuring wider real-world testing and feedback.",
-                "Individuals and small businesses can leverage these advanced models for free, while enterprises benefit from a more mature and broadly tested model base for integration into their systems."
+                "Google DeepMind has launched Nano Banana 2 Lite, an advanced and highly efficient Gemini Image model. This new model is engineered for rapid and creative image generation and editing tasks.",
+                "Nano Banana 2 Lite offers superior speed and efficiency in processing visual data, reducing computational overhead for image-intensive applications. Its optimized design allows for more creative output with less latency.",
+                "This release strengthens Google DeepMind's leadership in multimodal AI capabilities, providing a compact yet powerful tool for visual content creation. It expands the utility of the Gemini ecosystem into diverse creative workflows.",
+                "Developers and creative professionals will benefit from a faster, more agile image generation tool, accelerating content production. This could drive new innovations in digital art, advertising, and interactive media."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
+            "nextUpTease": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
             "tags": [
-                "Source: https://openai.com/blog/improving-gpt-5.6-sol-in-chatgpt",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-18T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
+            "heading": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
             "points": [
-                "Google Cloud is cutting prices for its Gemini 3.7 Flash model, signaling a strategic move to attract more developers and stimulate enterprise AI adoption amidst evolving market economics.",
-                "This price adjustment significantly reduces the cost of deploying Gemini 3.7 Flash, offering up to a 20% reduction for high-volume inference tasks and improving accessibility and ROI for users.",
-                "The architectural implications point to Google optimizing its AI offerings for broader market penetration, making advanced models more economically viable for a wider range of applications and startups.",
-                "Developers and enterprises can now access cutting-edge generative AI capabilities at a lower cost, accelerating innovation and deployment of agentic AI solutions on Google Cloud Platform."
+                "OpenAI has announced \"The Defender\u2019s Window,\" a significant security update aimed at narrowing the cyber defense window for AI systems. This initiative enhances the robustness and resilience of OpenAI's models against emerging threats.",
+                "This security enhancement aims to significantly reduce vulnerabilities and potential exploitation vectors in AI deployments, improving system integrity by an estimated 15-20%. It strengthens the defense against adversarial attacks on large language models.",
+                "OpenAI is prioritizing AI safety and security by implementing advanced defensive mechanisms, building trust and stability in its platform. This forms a critical part of its responsible scaling policy and enterprise-grade offerings.",
+                "Enterprises deploying OpenAI models will experience enhanced security postures, mitigating risks associated with AI-powered cyber threats. It sets a higher standard for secure AI development and deployment across the industry."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
+            "nextUpTease": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "tags": [
-                "Source: https://www.infoworld.com/article/3710777/google-cuts-gemini-3-7-flash-prices-as-enterprise-ai-economics-diverge-and-pro-cadence-slows.html",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://openai.com/news",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
+            "heading": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "points": [
-                "Mistral AI has introduced OCR 4, its latest model focused on optical character recognition, designed to deliver enhanced accuracy and efficiency for complex document processing tasks.",
-                "This new OCR model promises significant improvements in extracting text from challenging images and PDFs, potentially reducing manual data entry errors by 30% and accelerating workflow automation.",
-                "Architecturally, OCR 4 leverages advanced deep learning techniques tailored for robust, multilingual text extraction in varied visual conditions, integrating seamlessly into existing enterprise systems.",
-                "Businesses can deploy Mistral OCR 4 to automate high-volume document workflows, improve data quality, and streamline operations across legal, finance, and administrative sectors globally."
+                "Alibaba has unveiled its new Qwen 3.8 27B model, specifically designed to optimize artificial intelligence performance for edge computing environments. This model pioneers open-source innovation for local AI processing.",
+                "The Qwen 3.8 27B model can run locally on standard laptops, offering high efficiency for on-device AI inference and reducing reliance on cloud infrastructure. This significantly lowers operational costs and latency for edge applications.",
+                "Alibaba's release demonstrates a commitment to expanding AI capabilities beyond the datacenter, fostering decentralized and private AI deployments. It underscores the trend towards more distributed and accessible AI architectures.",
+                "Businesses can now deploy powerful AI models directly at the edge, enabling real-time insights and decision-making without constant network connectivity. This opens new opportunities for smart devices, industrial IoT, and embedded AI systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
+            "nextUpTease": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
             "tags": [
-                "Source: https://mistral.ai/models/mistral-ocr-4",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
+            "heading": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
             "points": [
-                "AMD has announced plans to partner with the British Open-ended Learning and Discovery Lab at the University of Oxford, aiming to advance UK frontier AI research and development.",
-                "This partnership will focus on developing next-generation AI algorithms and hardware-software co-design, potentially accelerating breakthroughs in foundational AI by 10-15% through combined expertise.",
-                "Strategically, the collaboration positions AMD at the forefront of AI research in Europe, fostering an ecosystem for talent development and leveraging advanced computing architectures for complex AI challenges.",
-                "This initiative will contribute significantly to the UK\u2019s sovereign AI capabilities and provide AMD with early insights into future AI computing demands, benefiting both academic research and commercial applications."
+                "LG is set to release a new NVIDIA-powered humanoid robot in 2027, integrating advanced AI capabilities for sophisticated human-like interactions and task execution. This marks a significant step in consumer robotics.",
+                "This collaboration promises a new generation of robots with enhanced cognitive functions, capable of complex environmental understanding and dynamic responsiveness. The NVIDIA hardware ensures high-performance AI processing directly on the device.",
+                "LG's strategic move into humanoid robotics with NVIDIA's AI platform positions it at the forefront of the burgeoning physical AI market. It demonstrates a clear vision for integrating AI into daily life through robotic companions and assistants.",
+                "Consumers can anticipate more intelligent and interactive robotic companions, while industries may explore new automation possibilities with advanced humanoid form factors. This fuels competition in the rapidly evolving robotics sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+            "nextUpTease": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
             "tags": [
-                "Source: https://www.amd.com/en/corporate/newsroom/amd-announces-plans-with-the-british-open-ended-learning-and-discovery-lab-at-university-of-oxford-to-advance-uk-frontier-ai-research.html",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.aibusiness.com/robotics/lg-to-release-nvidia-powered-humanoid-in-2027",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+            "heading": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
             "points": [
-                "Anthropic, a leading AI model developer, has informed investors that its annualized revenue run rate climbed to an impressive $65 billion in July, demonstrating strong market traction and demand.",
-                "This significant financial performance indicates robust demand for Anthropic's Claude AI models, reflecting successful enterprise deployments and rapid commercial scaling in the competitive AI market.",
-                "The company's strong revenue base provides substantial capital for accelerating crucial R&D, scaling infrastructure, and attracting top talent, reinforcing its position as a frontier AI leader.",
-                "This financial milestone signals strong investor confidence and validates the economic viability of large-scale, responsible AI models, potentially influencing future funding and M&A activities in the sector."
+                "Synchrony, a major card issuer for Amazon and Walmart, has announced a strategic partnership with OpenAI to integrate advanced AI into shopping experiences. This collaboration aims to revolutionize retail payment and customer interaction.",
+                "This partnership is expected to streamline customer journeys, personalize recommendations, and enhance fraud detection through OpenAI's powerful models. It targets a 10-15% improvement in conversion rates and customer satisfaction.",
+                "Synchrony is leveraging frontier AI to enhance its core financial services, setting a new benchmark for AI-driven customer engagement in the retail sector. It demonstrates the critical role of AI in modernizing financial and commerce platforms.",
+                "Retailers and financial institutions will benefit from more intelligent payment solutions and customer support, driving loyalty and efficiency. Consumers can expect a more seamless, secure, and personalized shopping experience across major platforms."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://www.cnbc.com/technology/",
-                "Published: 2026-08-18T11:50:00Z",
+                "Published: 2026-08-18T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

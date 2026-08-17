@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI COMPUTE ACCELERATES GLOBALLY",
+        "hookTitle": "NVIDIA FUELS OPENAI'S OHIO AI CENTER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SB ENERGY GUARANTEES AI COMPUTE",
-                "teaserTitle": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
+                "headline": "NVIDIA: $105B BACKING FOR OPENAI OHIO DATA CENTER",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA secured a dedicated AI compute campus with SB Energy in Ohio. This guarantees essential infrastructure, accelerating development timelines for advanced AI models."
+                "narration_line": "NVIDIA commits one hundred five billion dollars in financing to establish a major OpenAI data center in Ohio. This substantial investment will accelerate frontier AI development and deployment for the entire industry."
             },
             {
                 "slide_index": 2,
-                "headline": "AZURE: AMD-POWERED AI/HPC VM EXPANSION",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These specialized VMs boost performance for critical enterprise AI and scientific workloads."
+                "narration_line": "Google Cloud has launched Gemini three point seven Flash, a new AI model optimized for developers. This enhances efficiency and performance for enterprise generative AI applications."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
+                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
+                "teaserTitle": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI improved GPT-5.6 Sol in ChatGPT and expanded GPT-5.6 Luna access for free users. This democratizes advanced AI, fostering wider adoption and diverse application development."
+                "narration_line": "Google DeepMind introduced Nano Banana two Lite, an efficient new Gemini image model. It delivers faster, more creative visual content generation with reduced computational needs."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: GEMINI 3.7 FLASH PRICE CUTS",
-                "teaserTitle": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
+                "headline": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
+                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud cut prices for its Gemini 3.7 Flash model to attract developers. This makes high-performance generative AI more economically viable for enterprise deployment."
+                "narration_line": "OpenAI has unveiled 'The Defender\u2019s Window,' a critical security update for its AI systems. This initiative aims to reduce vulnerabilities by up to twenty percent against evolving cyber threats."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: INTRODUCING OCR 4 MODEL",
-                "teaserTitle": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
+                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI introduced its new OCR 4 model for optical character recognition. It promises enhanced accuracy and efficiency, streamlining enterprise document processing workflows."
+                "narration_line": "Alibaba\u2019s new Qwen three point eight twenty-seven billion model now targets advanced edge AI capabilities. It runs locally on laptops, cutting costs and latency for on-device applications."
             },
             {
                 "slide_index": 6,
-                "headline": "AMD: OXFORD AI RESEARCH PARTNERSHIP",
-                "teaserTitle": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+                "headline": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
+                "teaserTitle": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AMD partnered with the University of Oxford's Open-ended Learning and Discovery Lab for frontier AI research. This collaboration strengthens academic ties and advances hardware-software co-design."
+                "narration_line": "LG will release an NVIDIA-powered humanoid robot in twenty twenty-seven for the consumer market. This innovation signifies a major leap in physical AI and advanced robotic interaction."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: $65B ANNUALIZED REVENUE",
+                "headline": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic reported a sixty-five billion dollar annualized revenue run rate in July to investors. This signals robust market demand and strong commercial scaling for its Claude AI models."
+                "narration_line": "Synchrony and OpenAI are partnering to integrate AI into shopping experiences for Amazon and Walmart. This collaboration is set to boost conversion rates and customer satisfaction by ten to fifteen percent."
             },
             {
                 "slide_index": 8,
