@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AEON INTEL: DECODING AI'S FRONTIER SHIFTS",
+        "hookTitle": "NVIDIA $100B FOR OPENAI OHIO DATA CENTER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: SECURES PORTS-PIKE AI COMPUTE CAMPUS",
-                "teaserTitle": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "headline": "NVIDIA: $100B FOR OPENAI OHIO DATA CENTER",
+                "teaserTitle": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA has guaranteed the SB Energy PORTS-Pike Technology Campus will exclusively host NVIDIA AI Compute. This significant infrastructure commitment ensures dedicated resources for their advanced AI development and deployment."
+                "narration_line": "NVIDIA is investing one hundred billion dollars into an OpenAI data center located in Ohio. This massive capital injection secures critical infrastructure, accelerating frontier AI development and deployment for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
+                "headline": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI has launched GPT-5.6, a new frontier intelligence model designed for advanced scalability and enhanced capabilities. This powerful release will enable more complex reasoning and multi-modal interactions for enterprises."
+                "narration_line": "The EU AI Office is creating forty new positions dedicated to enforcing the new EU AI Act. This expansion signals Europe's commitment to stringent AI governance, increasing compliance requirements for global businesses."
             },
             {
                 "slide_index": 3,
-                "headline": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
+                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These high-performance VMs will significantly boost compute for demanding AI workloads and scientific applications."
+                "narration_line": "Google DeepMind has introduced WeatherNext AI, achieving a breakthrough in cyclone forecasting. This model provides more accurate and timely predictions, significantly improving disaster preparedness worldwide."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
-                "teaserTitle": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
+                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "teaserTitle": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These new efficient variants offer optimized performance and cost-effectiveness for rapid inference and specialized security."
+                "narration_line": "OpenAI is enhancing its Daybreak initiative to strengthen cyber defense against AI threats. This program boosts security against adversarial attacks, building greater trust in AI applications."
             },
             {
                 "slide_index": 5,
-                "headline": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
-                "teaserTitle": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
+                "headline": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
+                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mistral AI unveiled 'Shieldstral', a new initiative for in-region inference and European sovereign AI. This aims to provide secure, localized AI capabilities with strict data privacy and compliance."
+                "narration_line": "Agentic AI is driving a CPU resurgence as it emerges as a new performance bottleneck. This shift necessitates balanced compute strategies, integrating both CPUs and GPUs for optimal AI workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
-                "teaserTitle": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
+                "headline": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
+                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Microsoft Azure introduced IQ Connect, a new service providing complete, shared context for AI agents. This enhances agent reliability by securely integrating with enterprise data sources and workflows."
+                "narration_line": "Alibaba Cloud has released its Qwen 3.8 27B model, specifically optimized for edge AI devices. This enables advanced AI capabilities to run efficiently on local hardware, reducing cloud reliance."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
+                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic reported an annualized revenue run rate climbing to sixty-five billion dollars in July. This impressive growth highlights the rapid market adoption and strong commercial viability of their Claude AI models."
+                "naration_line": "IBM is partnering with OpenAI to accelerate enterprise AI deployment through its consulting services. This collaboration offers businesses a streamlined path to AI-centric transformation and competitive advantage."
             },
             {
                 "slide_index": 8,
