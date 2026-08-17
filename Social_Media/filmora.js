@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $105B BACKING FOR OPENAI OHIO DATA CENTER",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "NVIDIA commits $105B in financing to establish a major OpenAI data center in Ohio. This substantial investment will accelerate frontier AI dev & deployment for the entire industry."
+                "headline": "NVIDIA: SECURES PORTS-PIKE AI COMPUTE CAMPUS",
+                "teaserTitle": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "visual_caption": "NVIDIA guarantees SB Energy's PORTS-Pike Campus will exclusively host NVIDIA AI Compute. This crucial infrastructure commitment secures dedicated resources for advanced AI development and deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
-                "visual_caption": "Google Cloud launched Gemini 3.7 Flash, an AI model optimized for devs. This enhances efficiency & performance for enterprise generative AI apps."
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
+                "visual_caption": "OpenAI launches GPT-5.6, its new frontier intelligence model for advanced scalability and enhanced capabilities. This powerful release enables more complex reasoning and multimodal interactions for enterprise."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
-                "teaserTitle": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
-                "visual_caption": "Google DeepMind introduced Nano Banana 2 Lite, an efficient new Gemini image model. It delivers faster, more creative visual content generation with reduced compute needs."
+                "headline": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
+                "visual_caption": "Azure infrastructure expands with new AMD-powered AI and HPC VMs (HDv2, HXv2, ND MI455Xv7). These VMs boost compute performance for demanding AI workloads and scientific applications."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "visual_caption": "OpenAI unveiled 'The Defender\u2019s Window,' a critical security update for its AI systems. This initiative aims to reduce vulnerabilities by up to 20% against evolving cyber threats."
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
+                "teaserTitle": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
+                "visual_caption": "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These efficient variants offer optimized performance and cost-effectiveness for rapid inference and specialized security."
             },
             {
                 "slide_index": 5,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "teaserTitle": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
-                "visual_caption": "Alibaba\u2019s new Qwen 3.8 27B model targets advanced edge AI capabilities. It runs locally on laptops, cutting costs & latency for on-device apps."
+                "headline": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
+                "teaserTitle": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Mistral AI unveils 'Shieldstral', a new initiative for in-region inference and European sovereign AI. It provides secure, localized AI capabilities with strict data privacy and compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
-                "teaserTitle": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
-                "visual_caption": "LG will release an NVIDIA-powered humanoid robot in 2027. This innovation signifies a major leap in physical AI & advanced robotic interaction."
+                "headline": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
+                "teaserTitle": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
+                "visual_caption": "Azure introduced IQ Connect, a service providing complete, shared context for AI agents. It enhances agent reliability by securely integrating with enterprise data sources and workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
+                "headline": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Synchrony & OpenAI partner to integrate AI into shopping for Amazon & Walmart. This collaboration boosts conversion rates & customer satisfaction by 10-15%."
+                "visual_caption": "Anthropic reports an annualized revenue run rate climbing to $65B in July. This growth highlights rapid market adoption and strong commercial viability of their Claude AI models."
             },
             {
                 "slide_index": 8,

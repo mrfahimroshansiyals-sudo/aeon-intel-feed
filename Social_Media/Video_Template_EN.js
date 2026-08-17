@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA FUELS OPENAI'S OHIO AI CENTER",
+        "hookTitle": "AEON INTEL: DECODING AI'S FRONTIER SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $105B BACKING FOR OPENAI OHIO DATA CENTER",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "NVIDIA: SECURES PORTS-PIKE AI COMPUTE CAMPUS",
+                "teaserTitle": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA commits one hundred five billion dollars in financing to establish a major OpenAI data center in Ohio. This substantial investment will accelerate frontier AI development and deployment for the entire industry."
+                "narration_line": "NVIDIA has guaranteed the SB Energy PORTS-Pike Technology Campus will exclusively host NVIDIA AI Compute. This significant infrastructure commitment ensures dedicated resources for their advanced AI development and deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
+                "headline": "OPENAI: LAUNCHES GPT-5.6 FRONTIER MODEL",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google Cloud has launched Gemini three point seven Flash, a new AI model optimized for developers. This enhances efficiency and performance for enterprise generative AI applications."
+                "naration_line": "OpenAI has launched GPT-5.6, a new frontier intelligence model designed for advanced scalability and enhanced capabilities. This powerful release will enable more complex reasoning and multi-modal interactions for enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE IMAGE MODEL",
-                "teaserTitle": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
+                "headline": "AZURE: NEW AMD-POWERED AI VIRTUAL MACHINES",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind introduced Nano Banana two Lite, an efficient new Gemini image model. It delivers faster, more creative visual content generation with reduced computational needs."
+                "narration_line": "Microsoft Azure has expanded its infrastructure with new AMD-powered AI and HPC virtual machines. These high-performance VMs will significantly boost compute for demanding AI workloads and scientific applications."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: THE DEFENDER\u2019S WINDOW SECURITY",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "headline": "GOOGLE CLOUD: INTRODUCES GEMINI FLASH MODELS",
+                "teaserTitle": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI has unveiled 'The Defender\u2019s Window,' a critical security update for its AI systems. This initiative aims to reduce vulnerabilities by up to twenty percent against evolving cyber threats."
+                "narration_line": "Google Cloud introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These new efficient variants offer optimized performance and cost-effectiveness for rapid inference and specialized security."
             },
             {
                 "slide_index": 5,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "teaserTitle": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
+                "headline": "MISTRAL AI: LAUNCHES SOVEREIGN AI INITIATIVE",
+                "teaserTitle": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Alibaba\u2019s new Qwen three point eight twenty-seven billion model now targets advanced edge AI capabilities. It runs locally on laptops, cutting costs and latency for on-device applications."
+                "narration_line": "Mistral AI unveiled 'Shieldstral', a new initiative for in-region inference and European sovereign AI. This aims to provide secure, localized AI capabilities with strict data privacy and compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "LG: RELEASES NVIDIA-POWERED HUMANOID IN 2027",
-                "teaserTitle": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
+                "headline": "AZURE: MICROSOFT IQ CONNECT FOR AGENTS",
+                "teaserTitle": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "LG will release an NVIDIA-powered humanoid robot in twenty twenty-seven for the consumer market. This innovation signifies a major leap in physical AI and advanced robotic interaction."
+                "narration_line": "Microsoft Azure introduced IQ Connect, a new service providing complete, shared context for AI agents. This enhances agent reliability by securely integrating with enterprise data sources and workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "SYNCHRONY: PARTNERS OPENAI FOR AI SHOPPING",
+                "headline": "ANTHROPIC: REPORTS $65B REVENUE RUN RATE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Synchrony and OpenAI are partnering to integrate AI into shopping experiences for Amazon and Walmart. This collaboration is set to boost conversion rates and customer satisfaction by ten to fifteen percent."
+                "narration_line": "Anthropic reported an annualized revenue run rate climbing to sixty-five billion dollars in July. This impressive growth highlights the rapid market adoption and strong commercial viability of their Claude AI models."
             },
             {
                 "slide_index": 8,
