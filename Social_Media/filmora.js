@@ -4,51 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM & OPENAI: STRATEGIC ENTERPRISE AI ALLIANCE",
-                "teaserTitle": "DATABRICKS: $5B FUNDING & ELECTRIC ACQUISITION",
-                "visual_caption": "IBM and OpenAI announce a strategic partnership to embed advanced AI models into enterprise operations. This collaboration accelerates AI integration for global businesses, boosting automation and analytics."
+                "headline": "NVIDIA: $500B AI COMPUTE INFRASTRUCTURE FINANCING",
+                "teaserTitle": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
+                "visual_caption": "Nvidia partners with top financial institutions to establish infrastructure financing platforms. This coalition mobilizes over $500B to scale global data center capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "DATABRICKS: $5B FUNDING & ELECTRIC ACQUISITION",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
-                "visual_caption": "Databricks secured $5B in new funding, signaling an imminent IPO for the data and AI giant. The company acquired Electric, adding embeddable PostgreSQL for enhanced agent deployment."
+                "headline": "ANTHROPIC: OPUS 5 MODEL LAUNCH",
+                "teaserTitle": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
+                "visual_caption": "Anthropic releases Opus 5 featuring stronger coding and autonomous agent capabilities. The upgrade significantly elevates multi-step reasoning accuracy for enterprise workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH PRICE CUT",
-                "teaserTitle": "AZURE: NEW AMD HPC VMS LAUNCH",
-                "visual_caption": "Google cut the intro price for its Gemini 3.7 Flash model, aiming to attract more developers. This move intensifies competition in the frontier AI market, making advanced tools more accessible."
+                "headline": "IBM: ENTERPRISE AI ALLIANCE WITH OPENAI",
+                "teaserTitle": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
+                "visual_caption": "IBM and OpenAI partner to embed frontier models directly into consulting services. The alliance accelerates multi-agent workflow integration from pilot to production."
             },
             {
                 "slide_index": 4,
-                "headline": "AZURE: NEW AMD HPC VMS LAUNCH",
-                "teaserTitle": "IEEE SPECTRUM: CHIP SUPPLY CHAIN FIX",
-                "visual_caption": "Azure expanded its infrastructure, launching new AMD-powered AI & HPC VMs. These VMs offer enhanced performance for demanding AI & technical computing workloads in the cloud."
+                "headline": "AMD: 2-GW GPU PARTNERSHIP WITH ANTHROPIC",
+                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "AMD and Anthropic announce a strategic deal deploying up to 2 GW of GPUs. The collaboration provides massive electrical capacity for next-generation training."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: CHIP SUPPLY CHAIN FIX",
-                "teaserTitle": "IBM: NEXT-GEN CHIP TECHNOLOGY REVEALED",
-                "visual_caption": "The Common Earth Project seeks to resolve global chip supply chain bottlenecks. This initiative aims to improve semiconductor industry resilience and manufacturing efficiency."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
+                "visual_caption": "Google introduces Gemini 3.7 Flash with lower introductory pricing for developers. The release intensifies market competition across agentic coding applications."
             },
             {
                 "slide_index": 6,
-                "headline": "IBM: NEXT-GEN CHIP TECHNOLOGY REVEALED",
-                "teaserTitle": "ASML: $400M CHIPMAKING DOMINANCE",
-                "visual_caption": "IBM unveiled breakthrough chip tech designed to extend Moore\u2019s Law for another decade. This innovation promises significant gains in processing power & energy efficiency for future AI hardware."
+                "headline": "ORACLE: QUANTUM COMPUTING INTEGRATION FOR OCI",
+                "teaserTitle": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
+                "visual_caption": "Oracle integrates quantum computing into Oracle Cloud Infrastructure. The service combines quantum systems with high-performance AI environments."
             },
             {
                 "slide_index": 7,
-                "headline": "ASML: $400M CHIPMAKING DOMINANCE",
+                "headline": "EU AI OFFICE: ENFORCEMENT HIRING SURGE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "ASML's $400M EUV lithography machines maintain dominance in advanced chipmaking. This monopoly on EUV tech is critical for producing next-gen AI silicon."
+                "visual_caption": "The EU AI Office opens 40 new technical posts to enforce compliance. The expansion establishes rigorous oversight frameworks for foundation model providers."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
