@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IBM: OPENAI ENTERPRISE ALLIANCE",
-                "teaserTitle": "ANTHROPIC Q2 REVENUE SURGE",
-                "visual_caption": "IBM and OpenAI forge a strategic alliance to accelerate enterprise AI deployment; this collaboration integrates frontier models and engineering expertise into core business transformations."
+                "headline": "AI ECONOMICS: BIG TECH'S HIDDEN SPENDING",
+                "teaserTitle": "OPENAI IPO PUSH AMID UPHEAVAL",
+                "visual_caption": "New reports indicate Big Tech's actual AI spending is $3T higher than publicly known figures. This massive hidden investment is accelerating global AI infra and model development significantly."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: Q2 REVENUE SURGE",
-                "teaserTitle": "DEEPSEEK V4 PRICE HIKES",
-                "visual_caption": "Anthropic\u2019s revenue reportedly surged to over $11.5B in Q2. This growth signifies increasing enterprise adoption of their leading AI models, boosting market competition."
+                "headline": "OPENAI: IPO PUSH AMID UPHEAVAL",
+                "teaserTitle": "GOOGLE DEEPMIND GEMINI 3.7 FLASH RELEASE",
+                "visual_caption": "OpenAI is preparing for an IPO amidst significant internal leadership changes and safety team shifts. This pivotal market move aims to secure major capital while facing intensified public and investor scrutiny."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPSEEK: V4 PRICE HIKES",
-                "teaserTitle": "DATABRICKS $5B FUNDING & IPO",
-                "visual_caption": "DeepSeek is raising its V4 model prices by >10x, due to intense AI demand. This adjustment signals rising operational costs and infrastructure strain for advanced AI deployment."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "AZURE AMD-POWERED AI/HPC VMS",
+                "visual_caption": "Google DeepMind has unveiled Gemini 3.7 Flash, its most intelligent model yet, optimized for advanced coding and agentic tasks. This release aims to boost developer efficiency and accelerate sophisticated AI app development."
             },
             {
                 "slide_index": 4,
-                "headline": "DATABRICKS: $5B FUNDING & IPO",
-                "teaserTitle": "ORACLE QUANTUM CLOUD INTEGRATION",
-                "visual_caption": "Databricks secured an additional $5B in funding, with an IPO now appear inevitable. This reflects strong investor confidence in data intelligence and AI platforms."
+                "headline": "AZURE: AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "MISTRAL AI SHIELDSTRAL SOVEREIGN AI",
+                "visual_caption": "Microsoft Azure is enhancing its cloud infra with new AMD-powered AI and HPC VMs, including HDv2 and MI455Xv7 series. This expansion provides increased computational power for demanding deep learning and scientific workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "ORACLE: QUANTUM CLOUD INTEGRATION",
-                "teaserTitle": "CHIP SUPPLY: COMMON EARTH PROJECT",
-                "visual_caption": "Oracle plans to integrate quantum computing into OCI with Quantinuum\u2019s Helios system. This will provide cloud-based access for hybrid AI and HPC workloads."
+                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
+                "teaserTitle": "GOOGLE CLOUD AI THREAT DEFENSE",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Mistral AI launched Shieldstral, an initiative for in-region inference, open models, and new sovereign AI infra in Europe. This strategy ensures data residency and compliance for EU enterprises, fostering local AI autonomy."
             },
             {
                 "slide_index": 6,
-                "headline": "CHIP SUPPLY: COMMON EARTH PROJECT",
-                "teaserTitle": "AI ETHICS: VIRUS DESIGN CAPABILITY",
-                "visual_caption": "The Common Earth Project aims to eliminate global chip supply chain bottlenecks. This initiative focuses on resilient semiconductor ecosystems, enhancing stability for AI and HPC industries."
+                "headline": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "teaserTitle": "EU AI ACT OFFICE STAFF EXPANSION",
+                "visual_caption": "Google Cloud introduces AI Threat Defense, a new service leveraging advanced AI to counter sophisticated cyber adversaries. This proactive measure provides real-time threat intelligence and automated response, strengthening cloud security postures."
             },
             {
                 "slide_index": 7,
-                "headline": "AI ETHICS: VIRUS DESIGN CAPABILITY",
+                "headline": "EU AI ACT: OFFICE STAFF EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Research shows AI can now design functional viruses, raising serious security and ethical concerns. Policymakers must address these dual-use capabilities to prevent misuse and ensure global safety."
+                "visual_caption": "The EU AI Office is undertaking a major hiring initiative for 40 new tech, legal, and operational roles to enforce the AI Act. This significant expansion bolsters regulatory oversight and ensures stricter compliance across the Union."
             },
             {
                 "slide_index": 8,

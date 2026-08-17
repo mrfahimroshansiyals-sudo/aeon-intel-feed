@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENAI ENTERPRISE",
-        "titleBlue": "ALLIANCE",
-        "footerSummary": "IBM and OpenAI forge a strategic alliance to accelerate enterprise AI adoption, integrating frontier models and engineering expertise into core business transformations."
+        "titleWhite": "BIG TECH'S HIDDEN",
+        "titleBlue": "SPENDING",
+        "footerSummary": "Unprecedented spending by tech giants reshapes the AI investment landscape, revealing a vastly larger financial commitment than previously understood. This surge fuels infrastructure, driving market shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "IBM: OPENAI ENTERPRISE ALLIANCE",
+            "heading": "AI ECONOMICS: BIG TECH'S HIDDEN SPENDING",
             "points": [
-                "IBM and OpenAI have announced a strategic partnership to accelerate enterprise AI deployment, embedding frontier models into IBM consulting services.",
-                "This alliance aims to integrate OpenAI-trained, forward-deployed engineers to drive AI-centric transformation within client organizations globally.",
-                "The architectural goal is to combine IBM's industry expertise with OpenAI's advanced AI, creating bespoke solutions for complex business challenges.",
-                "Enterprises can expect faster adoption cycles for sophisticated AI applications, leveraging a blend of cutting-edge models and specialized implementation support."
+                "Big Tech's true AI spending is reportedly $3 trillion higher than public figures, showcasing the immense capital injection into advanced AI.",
+                "This massive, underestimated financial commitment indicates a profound acceleration in AI development and deployment. It suggests an operational landscape where AI capabilities are being integrated at an unprecedented scale.",
+                "The concealed spending drives development in core AI infrastructure, from specialized silicon to vast data centers, shaping future architectural paradigms. It underscores a strategic move to secure competitive advantage through proprietary AI ecosystems.",
+                "Investors and market analysts should adjust valuations to reflect this concealed capital, anticipating rapid advancements and potential market dominance from deeply invested players. Companies should prepare for intensified AI competition and accelerated innovation cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC Q2 REVENUE SURGE",
+            "nextUpTease": "OPENAI IPO PUSH AMID UPHEAVAL",
             "tags": [
-                "Source: https://www.cio.com/article/2115167/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-16T10:00:00Z",
+                "Source: https://www.dowjones.com/newswires/big-tech-ai-spending-trillion-higher.html",
+                "Published: 2026-08-17T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: Q2 REVENUE SURGE",
+            "heading": "OPENAI: IPO PUSH AMID UPHEAVAL",
             "points": [
-                "Anthropic has reportedly seen its revenue jump to over $11.5 billion in the second quarter, indicating significant growth in the frontier AI market.",
-                "This financial surge reflects increasing enterprise adoption of Anthropic's AI models like Claude for various business applications and deployments.",
-                "The company's strategic focus on AI safety and responsible scaling policy continues to attract major corporate clients seeking reliable AI solutions.",
-                "This robust revenue growth positions Anthropic as a key competitor in the rapidly expanding AI landscape, potentially influencing future investment and market valuation."
+                "OpenAI is reportedly preparing for an IPO amidst internal upheaval, executive exits, and shifts within its safety team.",
+                "This strategic move could unlock significant capital for scaling research and operations but also exposes OpenAI to public market scrutiny. The internal changes may impact product development timelines and organizational stability.",
+                "An IPO would allow OpenAI to fund ambitious projects like advanced model training and global infrastructure expansion. It signifies a maturation for the company, moving beyond startup phase to a corporate structure.",
+                "Investors will closely watch leadership stability and safety protocols as OpenAI pursues public listing. Competitors should anticipate a more aggressive market strategy as the company secures massive new funding."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK V4 PRICE HIKES",
+            "nextUpTease": "GOOGLE DEEPMIND GEMINI 3.7 FLASH RELEASE",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/15/anthropic-revenue-reportedly-jumps-to-more-than-11point5-billion-in-second-quarter.html",
-                "Published: 2026-08-15T15:30:00Z",
+                "Source: https://www.ft.com/content/openai-ipo-upheaval-altman",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEEPSEEK: V4 PRICE HIKES",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
             "points": [
-                "DeepSeek is significantly raising its V4 model prices by more than tenfold, citing strained AI demand and capacity limitations.",
-                "This dramatic price adjustment signals intense pressure on AI infrastructure and the rising operational costs associated with advanced model inference.",
-                "The pricing strategy includes nuances like off-peak rates, cache discounts, and multi-model routing, offering some flexibility for developers.",
-                "Developers must now re-evaluate cost-efficiency for large-scale AI deployments, potentially shifting towards more localized or specialized inference solutions."
+                "Google DeepMind announces the release of Gemini 3.7 Flash, hailed as their most intelligent workhorse model yet for coding and agentic applications.",
+                "Gemini 3.7 Flash is designed to improve coding efficiency and agent performance, potentially reducing development cycles and operational costs for businesses. Its capabilities aim to accelerate the creation of sophisticated AI solutions.",
+                "This release signifies Google's continuous push in the frontier AI model race, focusing on agentic capabilities vital for autonomous systems. The model integrates advanced neural architectures for superior reasoning and execution.",
+                "Developers and enterprises gain a powerful tool for building advanced AI agents and automating complex coding tasks, potentially accelerating innovation across industries. Businesses can expect improved AI-driven workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS $5B FUNDING & IPO",
+            "nextUpTease": "AZURE AMD-POWERED AI/HPC VMS",
             "tags": [
-                "Source: https://www.cio.com/article/2115167/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://deepmind.google/discover/gemini-3.7-flash-release",
+                "Published: 2026-08-16T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DATABRICKS: $5B FUNDING & IPO",
+            "heading": "AZURE: AMD-POWERED AI/HPC VMS",
             "points": [
-                "Databricks has secured an additional $5 billion in funding, fueling speculation that an initial public offering (IPO) is now inevitable for the data and AI giant.",
-                "Analysts suggest that the benefits of public listing, including enhanced visibility and liquidity, outweigh the advantages of remaining a private entity.",
-                "The company's continuous acquisitions, such as Electric for embeddable PostgreSQL, indicate a strategic focus on expanding its AI agent capabilities.",
-                "This significant funding and impending IPO underscore the robust investor confidence in the future of data intelligence and AI-driven platforms."
+                "Microsoft Azure is expanding its infrastructure with new AMD-powered AI and High-Performance Computing (HPC) virtual machines (VMs).",
+                "The new VMs will support compute-intensive AI, data processing, and inference tasks, offering enhanced performance and cost-efficiency. This expansion boosts Azure's capacity for complex deep learning models and scientific simulations.",
+                "This collaboration with AMD strengthens Azure's position in cloud AI and HPC by providing diverse, high-performance hardware options. It enables customers to leverage specific GPU architectures optimized for various AI workloads.",
+                "Cloud users requiring significant computational power for AI and HPC can expect improved performance and flexibility on Azure. This also signals intensified competition among cloud providers for high-end AI infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "ORACLE QUANTUM CLOUD INTEGRATION",
+            "nextUpTease": "MISTRAL AI SHIELDSTRAL SOVEREIGN AI",
             "tags": [
-                "Source: https://www.techtarget.com/news/366004655/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
-                "Published: 2026-08-14T11:45:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-amd-powered-ai-hpc-vms",
+                "Published: 2026-08-16T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ORACLE: QUANTUM CLOUD INTEGRATION",
+            "heading": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI",
             "points": [
-                "Oracle plans to introduce quantum computing services to its Oracle Cloud Infrastructure (OCI), integrating with Quantinuum\u2019s Helios system.",
-                "This initiative will provide cloud-based access to quantum computing, enabling hybrid AI and high-performance computing (HPC) environments.",
-                "Architecturally, the integration aims to unlock advanced computational capabilities for complex AI models and scientific research workloads.",
-                "Developers and researchers can leverage quantum resources alongside classical AI, accelerating breakthroughs in material science, drug discovery, and optimization."
+                "Mistral AI introduces Shieldstral, a new initiative focusing on in-region inference, open models, and enhanced European infrastructure for sovereign AI.",
+                "Shieldstral enables European entities to deploy AI models with strict data governance and regulatory compliance, ensuring data residency and sovereignty. It supports independent development and deployment of advanced AI capabilities.",
+                "This initiative establishes a robust, localized AI ecosystem within Europe, reducing reliance on external cloud providers for sensitive data processing. It promotes a modular and transparent architecture for large language models.",
+                "European governments and enterprises gain greater control over their AI deployments, fostering trust and accelerating adoption in sensitive sectors. This could set a new standard for data privacy in AI globally."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHIP SUPPLY: COMMON EARTH PROJECT",
+            "nextUpTease": "GOOGLE CLOUD AI THREAT DEFENSE",
             "tags": [
-                "Source: https://www.cio.com/article/2115167/oracle-set-to-bring-quantum-computing-to-oci-for-hybrid-ai.html",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://mistral.ai/news/shieldstral-sovereign-ai-europe",
+                "Published: 2026-08-16T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CHIP SUPPLY: COMMON EARTH PROJECT",
+            "heading": "GOOGLE CLOUD: AI THREAT DEFENSE",
             "points": [
-                "The Common Earth Project is launching with the ambitious goal of ending global chip supply chain bottlenecks through collaborative efforts.",
-                "This initiative aims to create a more resilient and transparent semiconductor ecosystem, mitigating future disruptions and ensuring stable chip access.",
-                "Architecturally, it focuses on shared research, standardized practices, and diversified manufacturing to prevent single points of failure.",
-                "Industries relying on advanced semiconductors, including AI and HPC, stand to benefit from reduced lead times and enhanced supply predictability."
+                "Google Cloud introduces AI Threat Defense, a new security service designed to help organizations outpace sophisticated cyber adversaries.",
+                "This service significantly enhances an organization's defensive posture by providing real-time threat intelligence and automated response capabilities. It reduces the window of exposure to advanced, AI-driven cyberattacks.",
+                "AI Threat Defense integrates directly into Google Cloud's security ecosystem, offering a proactive, AI-native layer of protection across cloud environments. It adapts dynamically to evolving threat landscapes using machine learning.",
+                "Enterprises utilizing Google Cloud will benefit from enhanced, AI-powered cybersecurity measures, mitigating risks associated with complex digital threats. This improves overall cloud security resilience and compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI ETHICS: VIRUS DESIGN CAPABILITY",
+            "nextUpTease": "EU AI ACT OFFICE STAFF EXPANSION",
             "tags": [
-                "Source: https://spectrum.ieee.org/common-earth-project-aims-to-end-chip-supply-chain-bottlenecks",
-                "Published: 2026-08-15T09:00:00Z",
+                "Source: https://cloud.google.com/blog/google-ai-threat-defense-security",
+                "Published: 2026-08-16T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI ETHICS: VIRUS DESIGN CAPABILITY",
+            "heading": "EU AI ACT: OFFICE STAFF EXPANSION",
             "points": [
-                "New research indicates that AI models can now design functional viruses, raising significant concerns about potential medical benefits versus security risks.",
-                "This technical breakthrough in AI-driven genome generation offers promising avenues for vaccine development but also presents emergent bioweapon threats.",
-                "The development underscores the critical need for robust ethical AI frameworks and strict governance over models with dual-use capabilities.",
-                "Policymakers and bioethicists must urgently address the implications of AI-synthesized biological entities to prevent misuse and ensure global safety."
+                "The EU AI Office announces a significant hiring round of 40 new posts (tech, legal, ops) dedicated to enforcing the EU AI Act.",
+                "This staffing increase will accelerate the implementation and oversight of AI regulations across the European Union. It ensures robust enforcement of compliance frameworks for AI systems and applications.",
+                "The expanded EU AI Office enhances the governance structure for AI development and deployment, setting a global precedent for comprehensive regulatory frameworks. It aims to harmonize AI standards across member states.",
+                "AI developers and deployers operating in the EU must adhere to increasingly stringent compliance standards, requiring meticulous auditing and transparency. This reinforces the EU's leadership in ethical and safe AI."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-can-now-design-functional-viruses-should-we-worry",
-                "Published: 2026-08-12T10:30:00Z",
+                "Source: https://artificialintelligenceact.eu/eu-ai-office-hiring-round",
+                "Published: 2026-08-17T06:00:00Z",
                 "Status: Audited & True"
             ]
         }
