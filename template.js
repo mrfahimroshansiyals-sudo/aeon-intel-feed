@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "Today's intelligence spotlights OpenAI's GPT-5.6 scaling, new Google Cloud Gemini Flash, and Azure's agent platforms, tracking Big Tech's accelerating AI infrastructure."
+        "titleWhite": "DAYBREAK SHIELDS CYBER",
+        "titleBlue": "DEFENSE",
+        "footerSummary": "OpenAI's Daybreak fortifies cyber defenses, Google slashes Gemini 3.7 API pricing, and Azure deploys AMD-powered AI VMs, spotlighting shifting AI infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: DAYBREAK SHIELDS CYBER DEFENSE",
             "points": [
-                "OpenAI announces GPT-5.6, its new frontier intelligence model, designed for ambitious, large-scale enterprise applications.",
-                "The model delivers a significant leap in reasoning capabilities and contextual understanding, enabling more complex agentic workflows.",
-                "Architecturally, GPT-5.6 offers enhanced scalability and efficiency, optimizing resource utilization for demanding AI workloads.",
-                "Enterprises can expect accelerated development of advanced AI agents, leading to novel automation and intelligent system deployments."
+                "OpenAI introduces Daybreak, an advanced cyber defense system designed to counter sophisticated AI-driven threats.",
+                "This system leverages frontier intelligence to detect and neutralize adversarial attacks with enhanced speed and accuracy.",
+                "Architecturally, Daybreak integrates deeply with existing security frameworks, offering a unified, proactive defense posture.",
+                "Organizations can anticipate a significant reduction in breach vulnerabilities and improved resilience against evolving cyber warfare tactics."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
             "tags": [
-                "Source: https://openai.com/product/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-19T09:00:00Z",
+                "Source: https://openai.com/product/daybreak-cyber-defense",
+                "Published: 2026-08-19T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+            "heading": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
             "points": [
-                "Google Cloud introduces Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, expanding its powerful model lineup.",
-                "These models provide developers with optimized performance and efficiency for a diverse range of generative AI applications.",
-                "The releases enhance multimodal capabilities and specialized cyber defense functionalities within the Gemini ecosystem.",
-                "Businesses gain access to more versatile and cost-effective AI tools, fostering innovation in areas from coding to security."
+                "Google DeepMind and Cloud announce Gemini 3.7 Flash, a new model with a significantly lower introductory API price.",
+                "This strategic pricing aims to attract a broader developer base, accelerating adoption for coding and agentic applications.",
+                "The move intensifies the competitive landscape for frontier AI models, pressuring rivals to adjust their cost structures.",
+                "Developers and enterprises gain access to more powerful AI capabilities at a reduced barrier to entry, fostering innovation."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
+            "nextUpTease": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
             "tags": [
-                "Source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber-release",
-                "Published: 2026-08-19T08:30:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
+            "heading": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
             "points": [
-                "Microsoft Azure unveils Foundry, a new platform designed to build, evaluate, and deploy production AI agents at scale.",
-                "Foundry integrates GPT-5.6, hosted agents, toolboxes, and tracing capabilities, streamlining the agent lifecycle.",
-                "This offering provides a robust environment for enterprises to manage and govern complex agentic AI solutions effectively.",
-                "Organizations can now accelerate their transition from AI pilots to full-scale operational agent deployments with confidence."
+                "IBM and OpenAI announce a strategic partnership to accelerate enterprise AI deployment through integrated services.",
+                "The collaboration embeds OpenAI's frontier models and expertise directly into IBM's consulting services, streamlining AI adoption.",
+                "This alliance addresses the complex challenges of scaling AI solutions within large organizational structures and workflows.",
+                "Enterprises can expect faster, more efficient integration of advanced AI capabilities, driving significant operational transformation."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
+            "nextUpTease": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/run-optimize-production-ai-agents-with-microsoft-foundry/",
-                "Published: 2026-08-18T16:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
+            "heading": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
             "points": [
-                "Microsoft Azure introduces IQ Connect, securing agents with direct access to enterprise systems, data, and workflows.",
-                "This enables AI agents to reason and act with comprehensive business context, reducing errors and improving decision-making.",
-                "IQ Connect addresses critical challenges in data grounding and security for intelligent agent applications within regulated environments.",
-                "Enterprises can deploy more reliable and context-aware AI agents, driving smarter automation and operational efficiencies."
+                "Microsoft has significantly reduced prices for its leading AI coding models to remain competitive in the rapidly evolving market.",
+                "This pricing adjustment aims to increase accessibility and adoption among developers and enterprises for generative code solutions.",
+                "The move reflects intense market competition, with major tech firms vying for dominance in the AI development ecosystem.",
+                "Developers can leverage more cost-effective tools, potentially accelerating software development cycles and innovation across industries."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/get-complete-shared-context-for-your-agents-with-microsoft-iq-connect/",
-                "Published: 2026-08-18T15:30:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
+                "Published: 2026-08-12T13:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+            "heading": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
             "points": [
-                "TSMC introduces its A16 Nanosheet technology featuring an innovative Super Power Rail for enhanced performance.",
-                "This advanced process is optimized for high-performance computing (HPC) and AI applications, delivering significant power efficiency.",
-                "The backside power delivery network in A16 nanosheet architecture is critical for scaling future AI accelerators.",
-                "Chip designers can achieve superior performance-per-watt for next-generation AI processors, driving innovation in AI hardware."
+                "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
+                "These VMs are engineered to support highly demanding AI, data inference, and technical computing workloads with superior performance.",
+                "The integration of AMD's latest processors enhances Azure's capability to deliver high-performance computing resources globally.",
+                "Enterprises gain access to optimized cloud infrastructure, enabling faster model training and more efficient AI application deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
+            "nextUpTease": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
             "tags": [
-                "Source: https://www.tsmc.com/english/news_events/a16-nanosheet-super-power-rail",
-                "Published: 2026-08-18T14:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
+            "heading": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
             "points": [
-                "Dow Jones reports that Big Tech's actual AI spending is $3 trillion higher than previously estimated, indicating massive investments.",
-                "This substantial increase reflects intensified competition and accelerated development in AI infrastructure and capabilities.",
-                "The hidden spending reveals a strategic arms race among major players to dominate the frontier of artificial intelligence.",
-                "Investors and policymakers should recalibrate market expectations and regulatory frameworks to account for this escalating expenditure."
+                "The IEEE Spectrum reports on the 'Common Earth Project,' an initiative aimed at ending global chip supply chain bottlenecks.",
+                "This project focuses on collaborative efforts and innovative manufacturing strategies to diversify and secure semiconductor production.",
+                "Addressing supply chain vulnerabilities is critical for the sustained growth and stability of the global technology sector.",
+                "The semiconductor industry can expect enhanced resilience and reduced risks from future disruptions, ensuring consistent hardware availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
+            "nextUpTease": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
             "tags": [
-                "Source: https://www.dowjones.com/newswires/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems",
-                "Published: 2026-08-17T17:00:00Z",
+                "Source: https://spectrum.ieee.org/common-earth-project-chip-supply-chain-bottlenecks",
+                "Published: 2026-08-15T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
+            "heading": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
             "points": [
-                "IEEE Spectrum highlights a 'CPU comeback,' signaling renewed focus on central processing units for AI workloads.",
-                "Advances in CPU architecture are demonstrating surprising efficacy for certain AI tasks, challenging GPU dominance in specific niches.",
-                "This trend indicates a more diversified and efficient AI computing landscape, moving beyond a sole reliance on specialized accelerators.",
-                "Developers and system architects can explore hybrid computing strategies to optimize cost and performance for varied AI applications."
+                "DeepSeek announces price increases for its V4 models, with some tiers rising by over 10 times due to surging demand.",
+                "This significant price adjustment reflects the intense strain on AI compute capacity amidst an exponential growth in usage.",
+                "The move indicates a critical bottleneck in available infrastructure for advanced generative AI models, impacting operational costs.",
+                "Developers and businesses must re-evaluate their AI strategies, focusing on cost optimization and efficient resource allocation to manage budgets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/cpu-comeback",
-                "Published: 2026-08-17T18:00:00Z",
+                "Source: https://www.infoworld.com/article/2115160/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         }

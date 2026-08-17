@@ -4,51 +4,53 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
-                "visual_caption": "OpenAI unveils GPT-5.6, its new frontier intelligence model, for ambitious enterprise AI. It delivers significant reasoning and contextual understanding for complex agentic workflows."
+                "headline": "OPENAI: DAYBREAK SHIELDS CYBER DEFENSE",
+                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
+                "visual_caption": "OpenAI introduces Daybreak, an advanced cyber defense system designed to counter sophisticated AI-driven threats. This system leverages frontier intelligence to detect and neutralize adversarial attacks efficiently."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
-                "teaserTitle": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
-                "visual_caption": "Google Cloud launched Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These offer optimized performance and efficiency for diverse generative AI applications."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
+                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, a new model with a significantly lower intro API price. This pricing strategy aims to attract more developers, accelerating adoption for coding applications."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT AZURE: AI AGENT FOUNDRY OPTIMIZES DEPLOYMENT",
-                "teaserTitle": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
-                "visual_caption": "Microsoft Azure introduces Foundry, a new platform to deploy production AI agents at scale. It integrates GPT-5.6 to streamline the agent lifecycle."
+                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+                "teaserTitle": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
+                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment through integrated services. This collaboration embeds OpenAI's frontier models into IBM's consulting, streamlining enterprise AI adoption."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: IQ CONNECT ENHANCES AGENT CONTEXT",
-                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "visual_caption": "Azure IQ Connect provides agents secure, direct access to enterprise systems and data. This enables more context-aware AI agents, improving automation and operational efficiency."
+                "headline": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
+                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "visual_caption": "Microsoft slashes prices for its AI coding models to stay competitive. This adjustment aims to increase accessibility for developers, accelerating software development cycles and innovation across sectors."
             },
             {
                 "slide_index": 5,
-                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
-                "teaserTitle": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
-                "visual_caption": "TSMC introduces A16 Nanosheet technology with Super Power Rail. This optimizes power efficiency for HPC and future AI accelerators."
+                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+                "teaserTitle": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+                "visual_caption": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC VMs (HDv2, HXv2, ND MI455Xv7 series). These VMs support demanding AI, data inference, and technical computing workloads with superior performance."
             },
             {
                 "slide_index": 6,
-                "headline": "DOW JONES: BIG TECH AI SPENDING NEARS $3 TRILLION",
-                "teaserTitle": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
-                "visual_caption": "Dow Jones reports Big Tech AI spending is $3T higher than estimates. This reveals an intensifying strategic arms race in AI infrastructure development."
+                "headline": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+                "teaserTitle": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "The IEEE Spectrum highlights the 'Common Earth Project,' aimed at ending global chip supply chain bottlenecks. This initiative focuses on collaborative efforts to diversify and secure semiconductor production worldwide."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
+                "headline": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "IEEE Spectrum highlights a CPU comeback for certain AI workloads, challenging GPU dominance. This signals a more diversified and efficient AI computing landscape."
+                "visual_caption": "DeepSeek announces V4 model price increases, with some tiers rising over 10x due to surging demand. This reflects intense strain on AI compute capacity amidst exponential usage growth."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
