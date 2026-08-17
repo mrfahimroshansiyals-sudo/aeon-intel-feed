@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
-                "visual_caption": "OpenAI launches GPT-5.6 with advanced enterprise scaling and improved coding logic. The new model slashes workflow latency while boosting multi-step task execution."
+                "headline": "TSMC: A16\u2122 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "AZURE: PRODUCTION AI AGENTS WITH FOUNDRY",
+                "visual_caption": "TSMC's A16 Nanosheet with Super Power Rail is set to revolutionize HPC/AI silicon. This next-gen architecture promises superior performance and energy efficiency for future AI model training."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD ROUTERS",
-                "visual_caption": "IBM and OpenAI form a strategic consulting alliance to embed frontier AI into corporate systems. Forward-deployed engineers will accelerate enterprise digital transformation."
+                "headline": "AZURE: PRODUCTION AI AGENTS WITH FOUNDRY",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "Microsoft Azure launches its Foundry platform to optimize production AI agents using GPT-5.6. This managed environment will streamline agentic workflow deployment for large enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMO SWITCHYARD ROUTERS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
-                "visual_caption": "NVIDIA releases NeMo Switchyard to optimize agentic AI model routing and execution. The software framework delivers faster and more efficient enterprise workload management."
+                "headline": "MISTRAL AI: SHIELDSTRAL FOR SOVEREIGN AI",
+                "teaserTitle": "GOOGLE CLOUD: AI THREAT DEFENSE",
+                "visual_caption": "Mistral AI introduces Shieldstral, offering in-region inference and sovereign AI infrastructure in Europe. This ensures robust data governance and compliance for secure AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
-                "teaserTitle": "AMD: TAALAS & INFERENCE ACQUISITION",
-                "visual_caption": "Google DeepMind debuts Gemini 3.7 Flash with aggressive pricing for developers. The efficient workhorse model accelerates AI application deployment across cloud environments."
+                "headline": "GOOGLE CLOUD: INTRODUCES AI THREAT DEFENSE",
+                "teaserTitle": "OPENAI: OPTIMIZES GPT-5.6 ACCESS",
+                "visual_caption": "Google Cloud unveils AI Threat Defense, a new service to combat advanced cyber adversaries. It utilizes AI/ML for rapid threat detection and response."
             },
             {
                 "slide_index": 5,
-                "headline": "AMD: TAALAS INFERENCE ACQUISITION",
-                "teaserTitle": "DATABRICKS: $5B FUNDING ROUND",
-                "visual_caption": "AMD announces the acquisition of Taalas to scale its AI inference roadmap. The deal integrates breakthrough silicon efficiency to challenge competitors in data centers."
+                "headline": "OPENAI: OPTIMIZES GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "ALIBABA: NEW LAPTOP-READY AI MODEL",
+                "visual_caption": "OpenAI is optimizing GPT-5.6 Sol in ChatGPT and expanding Luna access for free users. These updates enhance performance and broaden frontier AI capabilities for millions."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: $5B FUNDING ROUND",
-                "teaserTitle": "IEEE SPECTRUM: CPU AI RESURGENCE",
-                "visual_caption": "Databricks secures $5B in fresh funding, setting the stage for an IPO. The capital accelerates agentic data platform acquisitions and market expansion."
+                "headline": "ALIBABA: LAUNCHES NEW LAPTOP-READY AI MODEL",
+                "teaserTitle": "FINANCIAL TIMES: HIGGSFIELD $5.4B",
+                "visual_caption": "Alibaba debuts a new AI model tailored for direct laptop integration, boosting edge AI capabilities. This development intensifies competition in local, AI-enhanced personal computing."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: CPU AI RESURGENCE",
+                "headline": "FINANCIAL TIMES: HIGGSFIELD VALUED AT $5.4B",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "IEEE Spectrum reports a major comeback for CPUs in complex AI compute pipelines. Modern processors now complement GPU acceleration to improve overall system efficiency."
+                "visual_caption": "AI video startup Higgsfield achieves a $5.4B valuation with backing from Goldman Sachs & Intel. This substantial investment validates the growth potential of AI-driven media creation."
             },
             {
                 "slide_index": 8,
