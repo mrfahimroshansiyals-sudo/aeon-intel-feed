@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEMINI 3.7 FLASH",
-        "titleBlue": "DEBUTS",
-        "footerSummary": "Google DeepMind unveils Gemini 3.7 Flash, a new efficient model with aggressive pricing aimed at attracting developers and expanding market share, signaling intensifying competition."
+        "titleWhite": "OPENAI FRONTITER INTELLIGENCE",
+        "titleBlue": "SCALES",
+        "footerSummary": "OpenAI unveils GPT-5.6, bringing advanced multi-tier enterprise capabilities and optimized performance to fuel agentic automation workflows."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "points": [
-                "Google DeepMind introduces Gemini 3.7 Flash, an advanced, highly efficient AI model targeting widespread developer adoption with competitive pricing strategies.",
-                "The new Flash model is poised to accelerate AI application development by offering a lower entry price point, potentially driving a significant increase in developer engagement.",
-                "This strategic move aims to strengthen Google Cloud's position in the frontier AI market by providing accessible, powerful tools for building generative AI applications.",
-                "Developers can expect improved access to cutting-edge models, while businesses benefit from more cost-effective AI integration and faster project scaling capabilities."
+                "OpenAI has launched GPT-5.6, introducing breakthrough architectural scaling for enterprise workloads and autonomous coding tasks.",
+                "The new frontier model significantly enhances multi-step reasoning capabilities while optimizing overall compute cost and latency.",
+                "This release marks a major leap in commercial AI deployment, bridging the gap between research models and production systems.",
+                "Enterprises can expect faster automated software delivery and deeper integration across complex operational workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+            "nextUpTease": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-37-flash-to-attract-developers",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://openai.com",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+            "heading": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
             "points": [
-                "IBM and OpenAI announce a strategic partnership aimed at accelerating enterprise AI deployment by integrating frontier models directly into IBM consulting services.",
-                "This collaboration will embed OpenAI-trained forward-deployed engineers into IBM teams, providing clients with specialized expertise to drive AI-centric transformation.",
-                "The alliance is designed to bridge the gap between advanced AI research and practical enterprise application, leveraging IBM's market reach and OpenAI's model capabilities.",
-                "Enterprises can anticipate streamlined AI adoption, enhanced operational efficiency, and accelerated innovation cycles through this joint industry initiative."
+                "IBM and OpenAI have announced a strategic alliance to accelerate enterprise AI integration across global consulting operations.",
+                "The partnership embeds OpenAI-trained forward-deployed engineers directly into IBM teams to optimize client transformation projects.",
+                "This collaboration leverages IBM's extensive industry reach with cutting-edge frontier models to drive operational efficiency.",
+                "Businesses will experience streamlined AI adoption paths and reduced friction when scaling proprietary workloads."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+            "nextUpTease": "NVIDIA: NEMO SWITCHYARD ROUTERS",
             "tags": [
                 "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
                 "Published: 2026-08-14T11:00:00Z",
@@ -42,49 +42,66 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+            "heading": "NVIDIA: NEMO SWITCHYARD ROUTERS",
             "points": [
-                "NVIDIA introduces NeMo Switchyard, a novel model router designed to optimize the deployment and management of complex agentic AI applications at scale.",
-                "This new technology addresses the demanding requirements of intelligent agents, enabling faster, smarter, and more efficient AI operations in dynamic environments.",
-                "NeMo Switchyard represents NVIDIA's strategic expansion into critical software infrastructure for AI agents, moving beyond core hardware to comprehensive system solutions.",
-                "Developers and IT leaders will gain advanced tools for orchestration and routing, significantly improving the performance and reliability of enterprise-grade AI agents."
+                "NVIDIA introduced NeMo Switchyard alongside Nemotron 3.5 Lightning to optimize agentic AI orchestration and model routing.",
+                "The system architecture delivers faster, smarter, and more energy-efficient execution for large-scale multi-agent deployments.",
+                "This software framework expands NVIDIA's infrastructure ecosystem deeper into enterprise agent management layers.",
+                "Developers gain advanced routing tools that minimize latency and reduce operational overhead for dynamic AI tasks."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://www.cio.com/article/2117562/nvidia-moves-into-hot-market-for-model-routers.html",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-14T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
             "points": [
-                "Recent reports signal a significant resurgence of CPUs as foundational compute elements in advanced AI architectures, complementing GPU-driven acceleration.",
-                "The \"CPU Comeback\" emphasizes the critical role of versatile processing in AI, driven by new designs optimizing for diverse workload types and overall system efficiency.",
-                "This shift reflects an evolving architectural strategy in AI, recognizing the need for balanced computational power across specialized and general-purpose processors.",
-                "Organizations should reassess their AI infrastructure strategies to incorporate optimized CPU solutions, potentially unlocking new performance and cost efficiencies."
+                "Google DeepMind has rolled out Gemini 3.7 Flash with highly competitive pricing structures to capture developer market share.",
+                "The high-efficiency workhorse model targets rapid application building and agentic workflow orchestration at scale.",
+                "The aggressive pricing strategy intensifies competition among frontier model providers aiming for widespread adoption.",
+                "Developers benefit from lower barrier-to-entry costs while maintaining access to advanced coding and reasoning tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
+            "nextUpTease": "AMD: TAALAS & INFERENCE ACQUISITION",
             "tags": [
-                "Source: https://spectrum.ieee.org/the-cpu-comeback-is-upon-us",
-                "Published: 2026-08-17T09:00:00Z",
+                "Source: https://cloud.google.com",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
+            "heading": "AMD: TAALAS INFERENCE ACQUISITION",
             "points": [
-                "Databricks has secured an additional $5 billion in funding, fueling speculation that an initial public offering (IPO) is now an inevitable next step for the data and AI leader.",
-                "This substantial capital injection boosts Databricks' valuation and capacity for strategic acquisitions, affirming its market leadership in the fiercely competitive AI sector.",
-                "The funding underscores robust investor confidence in Databricks' unified data and AI platform, positioning it for aggressive expansion in enterprise AI solutions.",
-                "An impending IPO would provide liquidity for early investors and employees, while allowing Databricks to further scale its offerings and potentially consolidate market segments."
+                "AMD has reached a definitive agreement to acquire Taalas, integrating breakthrough inference performance technologies.",
+                "The acquisition strengthens AMD's hardware roadmap to capture a larger share of the rapidly growing AI inference market.",
+                "By combining Taalas' efficiency designs with EPYC and Instinct portfolios, AMD expands its data center capabilities.",
+                "Enterprise buyers will see enhanced options for high-throughput, energy-optimized local and cloud AI infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
+            "nextUpTease": "DATABRICKS: $5B FUNDING ROUND",
+            "tags": [
+                "Source: https://www.amd.com",
+                "Published: 2026-08-06T12:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "DATABRICKS: $5B FUNDING ROUND",
+            "points": [
+                "Databricks has secured an additional $5B in funding, cementing its market valuation and clearing the path toward an IPO.",
+                "The capital injection enhances the company's capability for strategic acquisitions like Electric to build agent-ready tools.",
+                "The milestone underscores robust investor confidence in unified data platforms designed for generative AI integration.",
+                "Organizations can anticipate accelerated product releases geared toward agentic data management and vector analytics."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "IEEE SPECTRUM: CPU AI RESURGENCE",
             "tags": [
                 "Source: https://www.techtarget.com/searchdatamanagement/news/366570659/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
                 "Published: 2026-08-14T13:00:00Z",
@@ -92,36 +109,19 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
-            "points": [
-                "The Black Hat Network Operations Center (NOC) has observed firsthand a disturbing trend of increasing AI security failures during recent industry events.",
-                "These failures highlight rising cyber-risks as AI adoption accelerates, with incidents demonstrating vulnerabilities in deployed AI systems and platforms.",
-                "The findings underscore critical gaps in current AI security postures, demanding immediate attention to develop more robust defense mechanisms and audit protocols.",
-                "CISOs must prioritize comprehensive AI security assessments and implement proactive strategies to mitigate emerging threats posed by AI system vulnerabilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
-            "tags": [
-                "Source: https://www.techtarget.com/searchsecurity/news/366570656/Black-Hat-NOC-sees-AI-security-failures-firsthand",
-                "Published: 2026-08-13T14:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
+            "heading": "IEEE SPECTRUM: CPU AI RESURGENCE",
             "points": [
-                "Research highlights the profound emotional impact on neurodivergent children when their AI companion robots cease functioning or are \"lost.\"",
-                "These companion technologies, designed for connection and therapy, create significant attachment, making their failure a source of grief and distress.",
-                "The findings emphasize an ethical imperative for developers to consider the long-term psychological implications and introduce robust \"end-of-life\" protocols for AI companions.",
-                "Stakeholders must address the complex human-AI bond, ensuring future AI companion designs prioritize emotional safety and provide appropriate support mechanisms for users."
+                "Industry reports highlight a significant comeback for CPUs as essential co-processors within advanced AI compute architectures.",
+                "New processor designs optimize for diverse workload types, addressing bottlenecks alongside heavy GPU acceleration.",
+                "This architectural shift reflects a broader industry focus on balancing system efficiency across heterogeneous hardware.",
+                "IT leaders must reassess infrastructure strategies to incorporate optimized CPU clusters for cost-effective scaling."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/17/1031385/what-happens-when-a-kids-robot-best-friend-dies-ai-companion-toys-neurodivergent/",
-                "Published: 2026-08-17T15:00:00Z",
+                "Source: https://spectrum.ieee.org",
+                "Published: 2026-08-18T09:00:00Z",
                 "Status: Audited & True"
             ]
         }

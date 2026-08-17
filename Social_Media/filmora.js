@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, an advanced AI model with a new competitive pricing strategy for developers. This aims to significantly boost adoption and strengthen Google Cloud's market leadership in generative AI apps."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
+                "visual_caption": "OpenAI launches GPT-5.6 with advanced enterprise scaling and improved coding logic. The new model slashes workflow latency while boosting multi-step task execution."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
-                "visual_caption": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment. OpenAI-trained engineers will embed into IBM consulting services, streamlining AI-centric transformation for clients."
+                "headline": "IBM & OPENAI: ENTERPRISE DEPLOYMENT",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD ROUTERS",
+                "visual_caption": "IBM and OpenAI form a strategic consulting alliance to embed frontier AI into corporate systems. Forward-deployed engineers will accelerate enterprise digital transformation."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
-                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
-                "visual_caption": "NVIDIA introduced NeMo Switchyard, a new model router optimizing agentic AI apps at scale. This enhances efficiency and performance for complex intelligent agent deployments in enterprise environments."
+                "headline": "NVIDIA: NEMO SWITCHYARD ROUTERS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
+                "visual_caption": "NVIDIA releases NeMo Switchyard to optimize agentic AI model routing and execution. The software framework delivers faster and more efficient enterprise workload management."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
-                "teaserTitle": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
-                "visual_caption": "Reports highlight a CPU comeback in AI compute, positioning them as critical foundational elements alongside GPUs. This shift signals evolving architectural strategies for optimized AI workload processing."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH",
+                "teaserTitle": "AMD: TAALAS & INFERENCE ACQUISITION",
+                "visual_caption": "Google DeepMind debuts Gemini 3.7 Flash with aggressive pricing for developers. The efficient workhorse model accelerates AI application deployment across cloud environments."
             },
             {
                 "slide_index": 5,
-                "headline": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
-                "teaserTitle": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
-                "visual_caption": "Databricks secured $5B in new funding, signaling an inevitable IPO as the company accelerates its unified data and AI platform. This substantial capital injection reinforces its market leadership."
+                "headline": "AMD: TAALAS INFERENCE ACQUISITION",
+                "teaserTitle": "DATABRICKS: $5B FUNDING ROUND",
+                "visual_caption": "AMD announces the acquisition of Taalas to scale its AI inference roadmap. The deal integrates breakthrough silicon efficiency to challenge competitors in data centers."
             },
             {
                 "slide_index": 6,
-                "headline": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
-                "teaserTitle": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
-                "visual_caption": "The Black Hat NOC revealed increasing AI security failures, exposing rising cyber-risks with accelerating AI adoption. CISOs must prioritize robust AI defense mechanisms."
+                "headline": "DATABRICKS: $5B FUNDING ROUND",
+                "teaserTitle": "IEEE SPECTRUM: CPU AI RESURGENCE",
+                "visual_caption": "Databricks secures $5B in fresh funding, setting the stage for an IPO. The capital accelerates agentic data platform acquisitions and market expansion."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
+                "headline": "IEEE SPECTRUM: CPU AI RESURGENCE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "New research details the emotional impact on neurodivergent children experiencing the loss of AI companion robots. Developers face an ethical imperative to implement 'end-of-life' protocols for these technologies."
+                "visual_caption": "IEEE Spectrum reports a major comeback for CPUs in complex AI compute pipelines. Modern processors now complement GPU acceleration to improve overall system efficiency."
             },
             {
                 "slide_index": 8,
