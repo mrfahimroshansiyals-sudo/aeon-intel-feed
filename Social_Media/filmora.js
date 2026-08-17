@@ -4,57 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA EXPANSION",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI FLASH & OMNI RELEASE",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands free access to GPT-5.6 Luna. This update aims to increase user engagement by ~25% across diverse applications."
+                "headline": "NVIDIA / OPENAI: $105B AI DATA CENTER IN OHIO",
+                "teaserTitle": "META & BLACKROCK FACE $14BN INSURANCE GAP",
+                "visual_caption": "NVIDIA commits $105B financing for new OpenAI AI data center in Ohio. This scales OpenAI operations, providing dedicated high-performance compute for frontier models."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI FLASH & OMNI RELEASE",
-                "teaserTitle": "NVIDIA: NEMO SWITCHYARD LAUNCHED",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, Omni Flash, & Nano Banana 2 Lite. These models offer a ~30% speed increase & reduce compute costs for developers."
+                "headline": "CLOUD INFRASTRUCTURE: META & BLACKROCK FACE $14BN INSURANCE GAP",
+                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "visual_caption": "Report reveals $14B insurance gap for Meta & BlackRock gigawatt-scale data centers. Exposes lenders to substantial underinsured risks for critical AI infra projects."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: NEMO SWITCHYARD LAUNCHED",
-                "teaserTitle": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "OPENAI: DAYBREAK EXPANDS CYBER DEFENSE WINDOW",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "NVIDIA introduces NeMo Switchyard, new software for efficient AI model routing. This platform aims to reduce operational latency by up to 15% for complex inference."
+                "visual_caption": "Alibaba introduces Qwen 3.8 27B model targeting Edge AI apps for efficient local deployment. Aims to improve latency by up to 30% for on-device AI tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "teaserTitle": "COMPUTING: AGENTIC AI CAUSES CPU BOTTLENECK",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "AI successfully verifies the toughest known math proof, showcasing advanced automated reasoning. This could reduce human verification time by orders of magnitude."
+                "headline": "OPENAI: DAYBREAK EXPANDS CYBER DEFENSE WINDOW",
+                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS LAUNCH",
+                "visual_caption": "OpenAI expands Daybreak initiative to narrow cyber defense window with AI security. Enhances threat detection by 15% and accelerates response times vs. attacks."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTING: AGENTIC AI CAUSES CPU BOTTLENECK",
-                "teaserTitle": "ZHIPU: CODING AI DEVELOPS CYBER SKILLS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Agentic AI causes CPUs to become a performance bottleneck, despite GPU-centric scaling. This affects overall system throughput by 5-10%."
+                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS LAUNCH",
+                "teaserTitle": "AI RESEARCH: SUBQUADRATIC CLAIMS LLM BOTTLENECK BREAKTHROUGH",
+                "visual_caption": "Azure launches new AMD-powered AI & HPC VMs (ND MI455Xv7 series) for demanding workloads. Promises up to 25% performance boost for deep learning and scientific simulations."
             },
             {
                 "slide_index": 6,
-                "headline": "ZHIPU: CODING AI DEVELOPS CYBER SKILLS",
-                "teaserTitle": "ROBOTICS: HUMANOID ROBOTS FOR SHIPYARD WELDING",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Zhipu's new coding AI rapidly develops advanced cyber skills for security tasks. This enhances automated vulnerability detection, reducing mitigation time by 15-20%."
+                "headline": "AI RESEARCH: SUBQUADRATIC CLAIMS LLM BOTTLENECK BREAKTHROUGH",
+                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "visual_caption": "Startup Subquadratic claims breakthrough in overcoming key LLM bottleneck. Improves inference efficiency by 15-20%, reducing computational complexity from quadratic to subquadratic."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: HUMANOID ROBOTS FOR SHIPYARD WELDING",
+                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Humanoid robots evaluated for shipyard welding, a major leap in industrial automation. This promises 100% worker safety & 20% efficiency gains."
+                "visual_caption": "EU AI Office announces 40 new enforcement posts (tech, legal, ops) for AI Act. Aims to accelerate compliance monitoring and investigative capabilities."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
