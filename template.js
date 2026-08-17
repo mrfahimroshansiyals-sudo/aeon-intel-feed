@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DAYBREAK SHIELDS CYBER",
-        "titleBlue": "DEFENSE",
-        "footerSummary": "OpenAI's Daybreak fortifies cyber defenses, Google slashes Gemini 3.7 API pricing, and Azure deploys AMD-powered AI VMs, spotlighting shifting AI infrastructure."
+        "titleWhite": "AI SPENDING CONCERNS",
+        "titleBlue": "RISE",
+        "footerSummary": "Big tech's AI spending is scrutinized amid soaring costs. OpenAI expands access, Google launches new security, and Anthropic's Q2 revenue surges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: DAYBREAK SHIELDS CYBER DEFENSE",
+            "heading": "BIG TECH: AI SPENDING CONCERNS RISE",
             "points": [
-                "OpenAI introduces Daybreak, an advanced cyber defense system designed to counter sophisticated AI-driven threats.",
-                "This system leverages frontier intelligence to detect and neutralize adversarial attacks with enhanced speed and accuracy.",
-                "Architecturally, Daybreak integrates deeply with existing security frameworks, offering a unified, proactive defense posture.",
-                "Organizations can anticipate a significant reduction in breach vulnerabilities and improved resilience against evolving cyber warfare tactics."
+                "New analysis suggests Big Tech's true AI spending is $3 trillion higher than reported, exposing significant hidden infrastructure costs.",
+                "This financial surge indicates an unprecedented investment pace, fundamentally reshaping capital allocation in the technology sector.",
+                "The architectural context reveals a critical shift towards massive, long-term compute and data center expansion for advanced AI.",
+                "Stakeholders should prepare for prolonged high investment cycles and increased pressure on profitability margins as AI infrastructure scales."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
+            "nextUpTease": "OPENAI: EXPANDS GPT-5.6 ACCESS",
             "tags": [
-                "Source: https://openai.com/product/daybreak-cyber-defense",
-                "Published: 2026-08-19T09:45:00Z",
+                "Source: https://www.wsj.com/articles/big-tech-ai-spending-trillion-higher-than-seems",
+                "Published: 2026-08-17T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
+            "heading": "OPENAI: EXPANDS GPT-5.6 ACCESS",
             "points": [
-                "Google DeepMind and Cloud announce Gemini 3.7 Flash, a new model with a significantly lower introductory API price.",
-                "This strategic pricing aims to attract a broader developer base, accelerating adoption for coding and agentic applications.",
-                "The move intensifies the competitive landscape for frontier AI models, pressuring rivals to adjust their cost structures.",
-                "Developers and enterprises gain access to more powerful AI capabilities at a reduced barrier to entry, fostering innovation."
+                "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding free user access to GPT-5.6 Luna, boosting model availability.",
+                "This move aims to democratize advanced AI capabilities, significantly increasing the user base for frontier models.",
+                "Strategically, it accelerates AI adoption across diverse applications and reinforces OpenAI's market leadership in accessible AI.",
+                "Developers and small businesses will benefit from lower entry barriers, fostering broader innovation and experimentation with powerful LLMs."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+            "nextUpTease": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-to-attract-developers",
-                "Published: 2026-08-14T11:00:00Z",
+                "Source: https://openai.com/blog/improving-gpt-5-6-sol-and-expanding-luna",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
+            "heading": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
             "points": [
-                "IBM and OpenAI announce a strategic partnership to accelerate enterprise AI deployment through integrated services.",
-                "The collaboration embeds OpenAI's frontier models and expertise directly into IBM's consulting services, streamlining AI adoption.",
-                "This alliance addresses the complex challenges of scaling AI solutions within large organizational structures and workflows.",
-                "Enterprises can expect faster, more efficient integration of advanced AI capabilities, driving significant operational transformation."
+                "Google Cloud introduces AI Threat Defense, a new security service designed to proactively counter evolving AI-powered cyber threats.",
+                "This platform integrates AI to analyze vast datasets, detecting and mitigating novel attack vectors with enhanced speed and precision.",
+                "Architecturally, it provides a crucial layer of defense for cloud-native AI deployments, securing sensitive data and applications.",
+                "Enterprises can expect fortified security postures, reducing AI-specific vulnerabilities and safeguarding critical business operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
+            "nextUpTease": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://cloud.google.com/blog/introducing-ai-threat-defense",
+                "Published: 2026-08-16T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
+            "heading": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
             "points": [
-                "Microsoft has significantly reduced prices for its leading AI coding models to remain competitive in the rapidly evolving market.",
-                "This pricing adjustment aims to increase accessibility and adoption among developers and enterprises for generative code solutions.",
-                "The move reflects intense market competition, with major tech firms vying for dominance in the AI development ecosystem.",
-                "Developers can leverage more cost-effective tools, potentially accelerating software development cycles and innovation across industries."
+                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving prediction accuracy and lead times.",
+                "This advance promises to enhance early warning systems, potentially saving lives and mitigating billions in economic damage annually.",
+                "The model leverages complex meteorological data with advanced neural networks, setting a new benchmark for environmental AI applications.",
+                "Governments and disaster relief organizations will gain critical tools for preemptive action, improving global climate resilience strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
             "tags": [
-                "Source: https://www.aibusiness.com/agentic-ai/microsoft-seeking-to-stay-competitive-slashes-prices-for-coding-model",
-                "Published: 2026-08-12T13:30:00Z",
+                "Source: https://deepmind.google/discover/weather-next-cyclone-forecast",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
             "points": [
-                "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC virtual machines, including HDv2, HXv2, and ND MI455Xv7 series.",
-                "These VMs are engineered to support highly demanding AI, data inference, and technical computing workloads with superior performance.",
-                "The integration of AMD's latest processors enhances Azure's capability to deliver high-performance computing resources globally.",
-                "Enterprises gain access to optimized cloud infrastructure, enabling faster model training and more efficient AI application deployment."
+                "Anthropic's Q2 revenue has reportedly surged past $11.5 billion, signaling robust growth in the competitive frontier AI market.",
+                "This financial milestone underscores the rapid enterprise adoption and monetization potential of advanced conversational AI models.",
+                "The strategic context highlights increasing market confidence in Anthropic's safety-focused AI development and commercial offerings.",
+                "Investors and competitors will closely watch this growth, indicating strong demand for ethical and high-performing AI solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+            "nextUpTease": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog/azure-infrastructure-expands-with-new-amd-powered-ai-and-hpc-virtual-machines/",
-                "Published: 2026-08-15T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/15/anthropic-revenue-q2-2026-report.html",
+                "Published: 2026-08-15T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
+            "heading": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
             "points": [
-                "The IEEE Spectrum reports on the 'Common Earth Project,' an initiative aimed at ending global chip supply chain bottlenecks.",
-                "This project focuses on collaborative efforts and innovative manufacturing strategies to diversify and secure semiconductor production.",
-                "Addressing supply chain vulnerabilities is critical for the sustained growth and stability of the global technology sector.",
-                "The semiconductor industry can expect enhanced resilience and reduced risks from future disruptions, ensuring consistent hardware availability."
+                "Google Cloud has released Gemini Omni Flash and Nano Banana 2 Lite, enhancing its suite of generative AI models.",
+                "These new models offer improved efficiency and faster inference speeds, catering to a broad spectrum of enterprise AI applications.",
+                "Architecturally, they represent continued iteration in model optimization, pushing the boundaries of accessible and powerful AI tools.",
+                "Developers can now deploy more versatile and cost-effective multimodal AI solutions, accelerating application development and deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
+            "nextUpTease": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
             "tags": [
-                "Source: https://spectrum.ieee.org/common-earth-project-chip-supply-chain-bottlenecks",
-                "Published: 2026-08-15T14:00:00Z",
+                "Source: https://cloud.google.com/blog/gemini-omni-flash-nano-banana-2-lite",
+                "Published: 2026-08-15T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
+            "heading": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
             "points": [
-                "DeepSeek announces price increases for its V4 models, with some tiers rising by over 10 times due to surging demand.",
-                "This significant price adjustment reflects the intense strain on AI compute capacity amidst an exponential growth in usage.",
-                "The move indicates a critical bottleneck in available infrastructure for advanced generative AI models, impacting operational costs.",
-                "Developers and businesses must re-evaluate their AI strategies, focusing on cost optimization and efficient resource allocation to manage budgets."
+                "The EU AI Office is undergoing a massive hiring drive, adding 40 new tech, legal, and operational posts to enforce the AI Act.",
+                "This expansion significantly bolsters the regulatory body's capacity to oversee AI compliance across the European Union.",
+                "Strategically, it reinforces the EU's commitment to robust AI governance, setting a global precedent for responsible AI deployment.",
+                "AI developers and deployers in the EU must prepare for heightened scrutiny and a more active regulatory environment."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.infoworld.com/article/2115160/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://artificialintelligenceact.eu/news/hiring-eu-ai-office-40-new-posts",
+                "Published: 2026-08-15T09:00:00Z",
                 "Status: Audited & True"
             ]
         }

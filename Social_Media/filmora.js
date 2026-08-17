@@ -4,53 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: DAYBREAK SHIELDS CYBER DEFENSE",
-                "teaserTitle": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
-                "visual_caption": "OpenAI introduces Daybreak, an advanced cyber defense system designed to counter sophisticated AI-driven threats. This system leverages frontier intelligence to detect and neutralize adversarial attacks efficiently."
+                "headline": "BIG TECH: AI SPENDING CONCERNS RISE",
+                "teaserTitle": "OPENAI: EXPANDS GPT-5.6 ACCESS",
+                "visual_caption": "New analysis indicates Big Tech's actual AI spending is $3T higher than publicly estimated. This substantial investment is rapidly accelerating global AI infrastructure development and expansion."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH LOWERS API PRICE",
-                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, a new model with a significantly lower intro API price. This pricing strategy aims to attract more developers, accelerating adoption for coding applications."
+                "headline": "OPENAI: EXPANDS GPT-5.6 ACCESS",
+                "teaserTitle": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+                "visual_caption": "OpenAI is improving GPT-5.6 Sol in ChatGPT and expanding GPT-5.6 Luna access to free users. This move aims to democratize advanced AI capabilities, fostering innovation across a broader user base."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI DEPLOYMENT",
-                "teaserTitle": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
-                "visual_caption": "IBM and OpenAI partner to accelerate enterprise AI deployment through integrated services. This collaboration embeds OpenAI's frontier models into IBM's consulting, streamlining enterprise AI adoption."
+                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE",
+                "teaserTitle": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
+                "visual_caption": "Google Cloud has launched AI Threat Defense, a new security service combating advanced AI-powered cyber threats. This platform integrates AI to detect and mitigate novel attack vectors with enhanced precision."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: SLASHES AI CODING MODEL PRICES",
-                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "visual_caption": "Microsoft slashes prices for its AI coding models to stay competitive. This adjustment aims to increase accessibility for developers, accelerating software development cycles and innovation across sectors."
+                "headline": "DEEPMIND: AI MODEL BOOSTS CYCLONE FORECASTS",
+                "teaserTitle": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, improving prediction accuracy and lead times. This advance promises to enhance early warning systems, potentially saving lives."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
-                "visual_caption": "Microsoft Azure expands its infrastructure with new AMD-powered AI and HPC VMs (HDv2, HXv2, ND MI455Xv7 series). These VMs support demanding AI, data inference, and technical computing workloads with superior performance."
+                "headline": "ANTHROPIC: Q2 REVENUE SOARS PAST $11.5B",
+                "teaserTitle": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
+                "visual_caption": "Anthropic's Q2 revenue has reportedly surged past $11.5B, reflecting robust growth in the frontier AI market. This financial milestone highlights the rapid enterprise adoption of advanced conversational AI models."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: COMMON EARTH PROJECT ADDRESSES CHIP BOTTLENECKS",
-                "teaserTitle": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "The IEEE Spectrum highlights the 'Common Earth Project,' aimed at ending global chip supply chain bottlenecks. This initiative focuses on collaborative efforts to diversify and secure semiconductor production worldwide."
+                "headline": "GOOGLE CLOUD: GEMINI OMNI FLASH RELEASED",
+                "teaserTitle": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
+                "visual_caption": "Google Cloud released Gemini Omni Flash and Nano Banana 2 Lite, enhancing its generative AI model suite. These models offer improved efficiency and faster inference, serving diverse enterprise AI applications."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPSEEK: V4 PRICES INCREASE OVER 10X",
+                "headline": "EU AI ACT: ENFORCEMENT OFFICE EXPANDS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "DeepSeek announces V4 model price increases, with some tiers rising over 10x due to surging demand. This reflects intense strain on AI compute capacity amidst exponential usage growth."
+                "visual_caption": "The EU AI Office is undertaking a massive hiring drive, adding 40 new tech and legal posts for AI Act enforcement. This expansion significantly bolsters the regulatory body's capacity to oversee AI compliance."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
