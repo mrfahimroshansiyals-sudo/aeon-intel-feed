@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA & OPENAI'S $105B AI DATA CENTER",
+        "hookTitle": "AI INTELLIGENCE: GPT-5.6, $500B COMPUTE & SOVEREIGN AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA / OPENAI: $105B AI DATA CENTER IN OHIO",
-                "teaserTitle": "META & BLACKROCK FACE $14BN INSURANCE GAP",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA has committed a substantial one hundred five billion dollars in financing for a new OpenAI AI data center in Ohio. This investment aims to scale OpenAI's operations, providing dedicated high-performance computing resources for frontier model training."
+                "narration_line": "OpenAI has launched its latest frontier model, GPT-5 point 6, designed to scale advanced intelligence for enterprise applications. This upgrade is set to boost operational efficiency by up to 20 percent for complex artificial intelligence workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "CLOUD INFRASTRUCTURE: META & BLACKROCK FACE $14BN INSURANCE GAP",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "headline": "GOOGLE CLOUD: NEW GEMINI FLASH MODELS RELEASED",
+                "teaserTitle": "NVIDIA: $500B AI COMPUTE FINANCE PLATFORMS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A new report reveals a fourteen billion dollar insurance gap for Meta and BlackRock's gigawatt-scale data centers. This deficit exposes lenders to substantial underinsured risks for critical AI infrastructure projects."
+                "naration_line": "Google Cloud introduces new Gemini Flash models, including 3 point 6 Flash and 3 point 5 Flash Cyber, for high-performance AI. These models deliver optimized latency and efficiency for real-time artificial intelligence and security tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "teaserTitle": "OPENAI: DAYBREAK EXPANDS CYBER DEFENSE WINDOW",
+                "headline": "NVIDIA: $500B AI COMPUTE FINANCE PLATFORMS",
+                "teaserTitle": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Alibaba introduced its Qwen three point eight twenty-seven billion parameter model, targeting edge AI applications for efficient local deployment. This model aims to improve latency by up to thirty percent for on-device AI tasks."
+                "narration_line": "NVIDIA leads a coalition to establish 500 billion dollars in AI compute financing platforms. This will accelerate global infrastructure deployment and reduce project timelines by 15 to 20 percent."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK EXPANDS CYBER DEFENSE WINDOW",
-                "teaserTitle": "AZURE: NEW AMD-POWERED AI & HPC VMS LAUNCH",
+                "headline": "TSMC: A16 NANOSHEET WITH SUPER POWER RAIL",
+                "teaserTitle": "AZURE: MICROSOFT FOUNDRY LAUNCHES FOR AI AGENTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI has expanded its Daybreak initiative, focused on narrowing the cyber defense window through advanced AI-driven security measures. This enhances threat detection capabilities by fifteen percent and accelerates response times against sophisticated cyberattacks."
+                "narration_line": "TSMC unveils its A16 Nanosheet technology with Super Power Rail, optimized for High Performance Computing and AI. This innovation promises a 15 percent speed increase and 30 percent power reduction for next-gen artificial intelligence chips."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: NEW AMD-POWERED AI & HPC VMS LAUNCH",
-                "teaserTitle": "AI RESEARCH: SUBQUADRATIC CLAIMS LLM BOTTLENECK BREAKTHROUGH",
+                "headline": "AZURE: MICROSOFT FOUNDRY LAUNCHES FOR AI AGENTS",
+                "teaserTitle": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft Azure launched new AMD-powered AI and HPC virtual machines, including the ND MI455Xv7 series, for demanding workloads. These advanced instances promise up to a twenty-five percent performance boost for deep learning and scientific simulations."
+                "narration_line": "Microsoft Azure launches Foundry, a new platform to build and deploy generative AI solutions and custom agents. Foundry is expected to streamline enterprise AI deployment cycles by up to 25 percent."
             },
             {
                 "slide_index": 6,
-                "headline": "AI RESEARCH: SUBQUADRATIC CLAIMS LLM BOTTLENECK BREAKTHROUGH",
-                "teaserTitle": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "headline": "MISTRAL AI: SHIELDSTRAL BOOSTS SOVEREIGN AI",
+                "teaserTitle": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Startup Subquadratic claims a significant breakthrough in overcoming a key bottleneck holding back large language models. This reportedly improves inference efficiency by fifteen to twenty percent, reducing computational complexity from quadratic to subquadratic."
+                "narration_line": "Mistral AI introduces Shieldstral, an initiative for sovereign AI with in-region inference and open models in Europe. This enhances data residency and reduces cross-border risks for sensitive artificial intelligence applications."
             },
             {
                 "slide_index": 7,
-                "headline": "EU AI ACT: OFFICE ANNOUNCES 40 NEW ENFORCEMENT POSTS",
+                "headline": "AI RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The EU AI Office announced a significant hiring round of forty new posts across technical, legal, and operational roles for enforcing the EU AI Act. This expansion aims to accelerate compliance monitoring and investigative capabilities."
+                "narration_line": "Artificial intelligence has verified one of the most challenging mathematical proofs to date, marking a significant research breakthrough. This advances AI's potential to accelerate complex scientific discovery and validation efforts."
             },
             {
                 "slide_index": 8,
