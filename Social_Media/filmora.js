@@ -4,51 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 RELEASE FOR ENTERPRISE",
-                "teaserTitle": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
-                "visual_caption": "OpenAI introduced GPT-5.6, its latest frontier model for enterprise intelligence. This release is expected to boost efficiency by 15% in key benchmarks."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, an advanced AI model with a new competitive pricing strategy for developers. This aims to significantly boost adoption and strengthen Google Cloud's market leadership in generative AI apps."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
-                "teaserTitle": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Microsoft launched Foundry, a platform to build, optimize, and govern enterprise AI agents at scale. Foundry aims to accelerate AI agent deployment by 30%."
+                "headline": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
+                "teaserTitle": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+                "visual_caption": "IBM and OpenAI announced a strategic partnership to accelerate enterprise AI deployment. OpenAI-trained engineers will embed into IBM consulting services, streamlining AI-centric transformation for clients."
             },
             {
                 "slide_index": 3,
-                "headline": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
-                "teaserTitle": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Analysis reveals Big Tech's AI spending is an additional $3T higher than reported. This massive investment funds bespoke infrastructure and long-term research."
+                "headline": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
+                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
+                "visual_caption": "NVIDIA introduced NeMo Switchyard, a new model router optimizing agentic AI apps at scale. This enhances efficiency and performance for complex intelligent agent deployments in enterprise environments."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
-                "teaserTitle": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Anthropic reported over $11.5B in Q2 2026 revenue, showing robust enterprise demand for its frontier models. This significant growth highlights market traction."
+                "headline": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
+                "teaserTitle": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
+                "visual_caption": "Reports highlight a CPU comeback in AI compute, positioning them as critical foundational elements alongside GPUs. This shift signals evolving architectural strategies for optimized AI workload processing."
             },
             {
                 "slide_index": 5,
-                "headline": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
-                "teaserTitle": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Azure expands infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 VMs. These deliver up to a 25% performance boost for demanding AI/HPC workloads."
+                "headline": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
+                "teaserTitle": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
+                "visual_caption": "Databricks secured $5B in new funding, signaling an inevitable IPO as the company accelerates its unified data and AI platform. This substantial capital injection reinforces its market leadership."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
-                "teaserTitle": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "The Common Earth Project launched to end critical chip supply chain bottlenecks via global collaboration. This initiative seeks to reduce lead times by 20%."
+                "headline": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
+                "teaserTitle": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
+                "visual_caption": "The Black Hat NOC revealed increasing AI security failures, exposing rising cyber-risks with accelerating AI adoption. CISOs must prioritize robust AI defense mechanisms."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
+                "headline": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Mistral AI introduced Shieldstral, providing in-region inference and dedicated European infrastructure for sovereign AI. It guarantees full data compliance with EU AI Act/GDPR."
+                "visual_caption": "New research details the emotional impact on neurodivergent children experiencing the loss of AI companion robots. Developers face an ethical imperative to implement 'end-of-life' protocols for these technologies."
             },
             {
                 "slide_index": 8,

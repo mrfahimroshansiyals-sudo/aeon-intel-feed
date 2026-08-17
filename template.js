@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 RELEASE FOR",
-        "titleBlue": "ENTERPRISE",
-        "footerSummary": "OpenAI unveils GPT-5.6, its new frontier model, enhancing enterprise AI with advanced intelligence and scalability for complex applications."
+        "titleWhite": "GEMINI 3.7 FLASH",
+        "titleBlue": "DEBUTS",
+        "footerSummary": "Google DeepMind unveils Gemini 3.7 Flash, a new efficient model with aggressive pricing aimed at attracting developers and expanding market share, signaling intensifying competition."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 RELEASE FOR ENTERPRISE",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
             "points": [
-                "OpenAI introduces GPT-5.6, its latest frontier model, engineered to deliver unparalleled intelligence and scalability for advanced enterprise applications.",
-                "The new model is expected to provide up to a 15% efficiency gain in specific enterprise benchmarks, enhancing autonomous agent performance and reducing inference costs.",
-                "GPT-5.6 solidifies OpenAI's leadership, targeting high-value enterprise use cases that demand robust, scalable, and secure AI foundations.",
-                "Enterprises can anticipate accelerated AI transformation and automation, leveraging GPT-5.6 for complex workflows and advanced agentic applications."
+                "Google DeepMind introduces Gemini 3.7 Flash, an advanced, highly efficient AI model targeting widespread developer adoption with competitive pricing strategies.",
+                "The new Flash model is poised to accelerate AI application development by offering a lower entry price point, potentially driving a significant increase in developer engagement.",
+                "This strategic move aims to strengthen Google Cloud's position in the frontier AI market by providing accessible, powerful tools for building generative AI applications.",
+                "Developers can expect improved access to cutting-edge models, while businesses benefit from more cost-effective AI integration and faster project scaling capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
+            "nextUpTease": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-16T10:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/lower-intro-price-for-gemini-37-flash-to-attract-developers",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MICROSOFT: AI AGENT PRODUCTION WITH FOUNDRY",
+            "heading": "IBM & OPENAI: ENTERPRISE AI PARTNERSHIP",
             "points": [
-                "Microsoft launches Foundry, a new platform engineered to build, optimize, and govern AI agents at scale within complex enterprise environments.",
-                "Foundry is projected to accelerate AI agent deployment from development to production by 30%, improving reliability and reducing operational overhead.",
-                "The platform provides a structured framework for managing the AI agent lifecycle, ensuring effective operation within existing business processes.",
-                "Enterprise IT and development teams gain critical tooling to manage AI agent proliferation, ensuring compliance and performance across mission-critical applications."
+                "IBM and OpenAI announce a strategic partnership aimed at accelerating enterprise AI deployment by integrating frontier models directly into IBM consulting services.",
+                "This collaboration will embed OpenAI-trained forward-deployed engineers into IBM teams, providing clients with specialized expertise to drive AI-centric transformation.",
+                "The alliance is designed to bridge the gap between advanced AI research and practical enterprise application, leveraging IBM's market reach and OpenAI's model capabilities.",
+                "Enterprises can anticipate streamlined AI adoption, enhanced operational efficiency, and accelerated innovation cycles through this joint industry initiative."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
+            "nextUpTease": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-16T11:00:00Z",
+                "Source: https://www.aibusiness.com/agentic-ai/ibm-openai-partner-to-accelerate-enterprise-ai",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOW JONES: BIG TECH $3T UNREPORTED AI SPENDING",
+            "heading": "NVIDIA: NEMO SWITCHYARD FOR AGENTIC AI",
             "points": [
-                "New analysis reveals Big Tech's AI spending is an additional $3 trillion higher than previously understood, driven by hidden investments in bespoke infrastructure.",
-                "This unreported capital primarily funds advanced silicon development and massive data center expansions, accelerating global buildouts by an estimated 20%.",
-                "The colossal investment signifies a sustained, aggressive push to secure compute and talent, intensifying competition for essential AI resources.",
-                "Industry analysts predict a widening gap between tech giants and competitors, consolidating market power and shaping the future AI innovation landscape."
+                "NVIDIA introduces NeMo Switchyard, a novel model router designed to optimize the deployment and management of complex agentic AI applications at scale.",
+                "This new technology addresses the demanding requirements of intelligent agents, enabling faster, smarter, and more efficient AI operations in dynamic environments.",
+                "NeMo Switchyard represents NVIDIA's strategic expansion into critical software infrastructure for AI agents, moving beyond core hardware to comprehensive system solutions.",
+                "Developers and IT leaders will gain advanced tools for orchestration and routing, significantly improving the performance and reliability of enterprise-grade AI agents."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
+            "nextUpTease": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
             "tags": [
-                "Source: https://www.dowjones.com/newswires",
-                "Published: 2026-08-17T01:00:00Z",
+                "Source: https://www.cio.com/article/2117562/nvidia-moves-into-hot-market-for-model-routers.html",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ANTHROPIC: $11.5B Q2 REVENUE JUMP",
+            "heading": "IEEE SPECTRUM: CPU COMEBACK IN AI COMPUTE",
             "points": [
-                "Anthropic reportedly achieved over $11.5 billion in revenue during Q2 2026, marking substantial growth driven by enterprise adoption of its frontier models.",
-                "This financial surge reflects robust enterprise investment in advanced conversational AI, representing 150% quarter-over-quarter growth and exceeding analyst expectations.",
-                "The impressive revenue highlights significant market traction for Anthropic\u2019s AI solutions, validating the high-value commercial application of responsible AI frameworks.",
-                "Anthropic is well-positioned for sustained growth and innovation, potentially leading to faster deployment of new models and features for enterprise clients."
+                "Recent reports signal a significant resurgence of CPUs as foundational compute elements in advanced AI architectures, complementing GPU-driven acceleration.",
+                "The \"CPU Comeback\" emphasizes the critical role of versatile processing in AI, driven by new designs optimizing for diverse workload types and overall system efficiency.",
+                "This shift reflects an evolving architectural strategy in AI, recognizing the need for balanced computational power across specialized and general-purpose processors.",
+                "Organizations should reassess their AI infrastructure strategies to incorporate optimized CPU solutions, potentially unlocking new performance and cost efficiencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "nextUpTease": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-15T09:00:00Z",
+                "Source: https://spectrum.ieee.org/the-cpu-comeback-is-upon-us",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AZURE: AMD-POWERED AI & HPC VIRTUAL MACHINES",
+            "heading": "DATABRICKS: $5B FUNDING & IPO OUTLOOK",
             "points": [
-                "Microsoft Azure expands its infrastructure with new AMD-powered HDv2, HXv2, and ND MI455Xv7 virtual machines for demanding AI and HPC workloads.",
-                "These new VMs deliver up to a 25% performance boost for complex AI training tasks and HPC simulations, offering enhanced scalability and cost-efficiency.",
-                "The collaboration with AMD diversifies Azure's hardware offerings, providing enterprise clients with more choices for optimizing their AI and HPC infrastructure.",
-                "Businesses requiring substantial AI and HPC resources will benefit from increased flexibility, improved performance, and competitive pricing on demand."
+                "Databricks has secured an additional $5 billion in funding, fueling speculation that an initial public offering (IPO) is now an inevitable next step for the data and AI leader.",
+                "This substantial capital injection boosts Databricks' valuation and capacity for strategic acquisitions, affirming its market leadership in the fiercely competitive AI sector.",
+                "The funding underscores robust investor confidence in Databricks' unified data and AI platform, positioning it for aggressive expansion in enterprise AI solutions.",
+                "An impending IPO would provide liquidity for early investors and employees, while allowing Databricks to further scale its offerings and potentially consolidate market segments."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
+            "nextUpTease": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-16T12:00:00Z",
+                "Source: https://www.techtarget.com/searchdatamanagement/news/366570659/IPO-inevitable-for-Databricks-after-adding-5B-in-funding",
+                "Published: 2026-08-14T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IEEE SPECTRUM: COMMON EARTH PROJECT FOR CHIPS",
+            "heading": "BLACK HAT: AI SECURITY FAILURES EXPOSED",
             "points": [
-                "The Common Earth Project launches to combat critical chip supply chain bottlenecks through a global, collaborative initiative involving multiple industry players.",
-                "This project aims to reduce lead times for specialized components by up to 20% and lower supply disruption risks, targeting 90% visibility by Q4 2027.",
-                "The initiative addresses systemic vulnerabilities in the semiconductor ecosystem, promoting resilience through distributed manufacturing intelligence and risk management.",
-                "Manufacturers will gain more predictable supply chains, mitigating financial losses, while governments see enhanced national security in critical technology sectors."
+                "The Black Hat Network Operations Center (NOC) has observed firsthand a disturbing trend of increasing AI security failures during recent industry events.",
+                "These failures highlight rising cyber-risks as AI adoption accelerates, with incidents demonstrating vulnerabilities in deployed AI systems and platforms.",
+                "The findings underscore critical gaps in current AI security postures, demanding immediate attention to develop more robust defense mechanisms and audit protocols.",
+                "CISOs must prioritize comprehensive AI security assessments and implement proactive strategies to mitigate emerging threats posed by AI system vulnerabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
+            "nextUpTease": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-15T13:00:00Z",
+                "Source: https://www.techtarget.com/searchsecurity/news/366570656/Black-Hat-NOC-sees-AI-security-failures-firsthand",
+                "Published: 2026-08-13T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MISTRAL AI: SHIELDSTRAL SOVEREIGN AI INITIATIVE",
+            "heading": "MIT TECH REVIEW: AI COMPANION LOSS IMPACT",
             "points": [
-                "Mistral AI introduces Shieldstral, an initiative providing in-region inference, open models, and dedicated European infrastructure for sovereign AI.",
-                "Shieldstral aims to deliver AI inference with sub-10ms latency for European enterprises, ensuring full data compliance with EU AI Act and GDPR.",
-                "This initiative responds to increasing demand for data sovereignty, offering a secure and compliant alternative for businesses in regulated sectors.",
-                "European businesses, particularly in public sector and finance, can deploy advanced AI solutions with confidence in data governance and regulatory adherence."
+                "Research highlights the profound emotional impact on neurodivergent children when their AI companion robots cease functioning or are \"lost.\"",
+                "These companion technologies, designed for connection and therapy, create significant attachment, making their failure a source of grief and distress.",
+                "The findings emphasize an ethical imperative for developers to consider the long-term psychological implications and introduce robust \"end-of-life\" protocols for AI companions.",
+                "Stakeholders must address the complex human-AI bond, ensuring future AI companion designs prioritize emotional safety and provide appropriate support mechanisms for users."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://mistral.ai/news",
-                "Published: 2026-08-16T14:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/17/1031385/what-happens-when-a-kids-robot-best-friend-dies-ai-companion-toys-neurodivergent/",
+                "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
