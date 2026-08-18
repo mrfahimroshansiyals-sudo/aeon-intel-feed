@@ -63,8 +63,8 @@ jobs:
       # ==============================================================================
       - name: Process Dynamic Tracker Rotation and Commit Data
         run: |
-          git config --global user.name "AEON-Bot"
-          git config --global user.email "bot@AEON.com"
+          git config --global user.name "Aeon-Intel-Bot"
+          git config --global user.email "bot@aeon.intel"
           
           # Fetch remote tracking branch and reset working tree state
           git fetch origin main
@@ -225,8 +225,8 @@ jobs:
       - name: Dispatch Reconfirmation Email Notification
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         env:
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_USER: ${{ secrets.EMAIL_USERNAME }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASSWORD }}
         run: |
           sleep 10
           python - << 'EOF'
