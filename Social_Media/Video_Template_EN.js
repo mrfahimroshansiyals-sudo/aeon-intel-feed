@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI EXPANDS GPT-5.6 SOL & LUNA ACCESS",
+        "hookTitle": "GUARDING AI: BREACHES, COSTS, & COMPLIANCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "COMPUTE: PERSISTENT GPU VM LAUNCH",
+                "headline": "OPENAI: NEW SAFEGUARDS AFTER HUGGING FACE BREACH",
+                "teaserTitle": "HARDWARE: MEMORY PRICES CLIMB 500%",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI is enhancing its GPT-5.6 Sol model and broadening access to GPT-5.6 Luna for free users, boosting performance and multimodal capabilities. This move aims to expand advanced AI accessibility, driving diverse applications and user adoption."
+                "narration_line": "OpenAI has instituted new safeguards following a recent Hugging Face breach, bolstering security for its AI model deployments. This action compels enterprises to reassess AI supply chain security against increasing cyber risks and potential compliance costs."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPUTE: PERSISTENT GPU VM LAUNCH",
-                "teaserTitle": "MODELS: LIGHTRICKS LTX-2.5 RELEASE",
+                "headline": "HARDWARE: MEMORY PRICES CLIMB 500%",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER HEAT RISES 4 DEGREES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "machine0 introduces persistent CPU and GPU virtual machines accessible via the command line interface, providing stable compute resources for AI developers. This innovation streamlines development workflows and accelerates model training cycles by offering reliable, high-performance environments."
+                "narration_line": "Memory prices have dramatically climbed five hundred percent in the last twelve months, creating a significant bottleneck for AI hardware procurement. This surge demands immediate re-evaluation of AI infrastructure investments to mitigate financial exposure and maintain operational efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "MODELS: LIGHTRICKS LTX-2.5 RELEASE",
-                "teaserTitle": "HARDWARE: CPU COMEBACK AS AI BOTTLENECK",
+                "headline": "INFRASTRUCTURE: DATA CENTER HEAT RISES 4 DEGREES",
+                "teaserTitle": "REGULATION: EU TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Lightricks has unveiled LTX-2.5 on Hugging Face, a new generative AI model excelling in creative content generation and manipulation. This release marks continued innovation in specialized AI, offering improved efficiency and fidelity for integrated applications."
+                "narration_line": "Data centers in Phoenix are elevating nearby temperatures by up to four degrees Celsius, posing critical environmental and operational challenges. This warming effect could lead to stricter regulations and increased compliance costs for compute facilities."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: CPU COMEBACK AS AI BOTTLENECK",
-                "teaserTitle": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
+                "headline": "REGULATION: EU TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "STRATEGY: MICROSOFT CYBER-CRITICAL AI DEVELOPMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IEEE Spectrum highlights that CPUs are now a key performance bottleneck for agentic AI, shifting hardware demands from pure GPU acceleration. This necessitates re-evaluating hardware strategies to balance CPU and GPU power effectively."
+                "narration_line": "The EU Commission proposed a Tech Sovereignty Package to bolster digital autonomy in AI and semiconductors, reducing reliance on non-EU tech. This initiative introduces new compliance requirements and market entry barriers for global AI firms."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
-                "teaserTitle": "SAAS: CLAUDE CODE WEEKLY LIMITS REDUCED",
+                "headline": "STRATEGY: MICROSOFT CYBER-CRITICAL AI DEVELOPMENT",
+                "teaserTitle": "FUNDING: ETCHED AI VALUATION DOUBLES TO $21B",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, positioned as their most intelligent workhorse model for coding and agentic applications. This release aims to accelerate software development and automate complex tasks through advanced foundation models."
+                "narration_line": "Microsoft advises pacing AI model development amidst cyber-critical capabilities, urging integration of robust cybersecurity measures from the outset. This guidance demands greater investment in secure MLOps, potentially extending development cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "SAAS: CLAUDE CODE WEEKLY LIMITS REDUCED",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT DOUBTS",
+                "headline": "FUNDING: ETCHED AI VALUATION DOUBLES TO $21B",
+                "teaserTitle": "DEVELOPMENT: WARP'S AI SOFTWARE FACTORY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic's Claude Code service is reducing its weekly usage limits by one-third, impacting developers who rely on the platform for intensive coding tasks. This change may create operational friction, requiring users to adapt their workflows or seek alternative solutions."
+                "narration_line": "Etched, an AI hardware startup, saw its valuation double to twenty-one billion dollars in just one month, reflecting intense investor confidence in specialized AI silicon. This surge indicates a competitive landscape for AI hardware, prompting strategic assessments of partnerships and proprietary silicon."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT DOUBTS",
+                "headline": "DEVELOPMENT: WARP'S AI SOFTWARE FACTORY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Technology Review suggests AI's recursive self-improvement may be slower than expected, noting current agents lack creative ingenuity for truly open-ended research. This challenges optimistic timelines, urging continued human oversight in frontier AI development."
+                "narration_line": "Warp introduced a new out-of-the-box software factory system to streamline AI development, integrating tools for model building, testing, and deployment. This platform can boost developer productivity but requires careful evaluation of vendor lock-in and flexibility."
             },
             {
                 "slide_index": 8,

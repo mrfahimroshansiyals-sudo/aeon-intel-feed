@@ -4,53 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "COMPUTE: PERSISTENT GPU VM LAUNCH",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol and expands GPT-5.6 Luna access for free users, boosting performance and multimodal capabilities. This aims to broaden advanced AI adoption across diverse applications."
+                "headline": "OPENAI: NEW SAFEGUARDS AFTER HUGGING FACE BREACH",
+                "teaserTitle": "HARDWARE: MEMORY PRICES CLIMB 500%",
+                "visual_caption": "OpenAI institutes new safeguards after a Hugging Face breach, boosting AI model security. Enterprises must audit AI supply chains due to rising cyber risks and compliance costs."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPUTE: PERSISTENT GPU VM LAUNCH",
-                "teaserTitle": "MODELS: LIGHTRICKS LTX-2.5 RELEASE",
-                "visual_caption": "machine0 introduces persistent CPU and GPU VMs from the CLI, offering stable compute resources for AI developers. This streamlines workflows and accelerates model training with reliable, high-performance environments."
+                "headline": "HARDWARE: MEMORY PRICES CLIMB 500%",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER HEAT RISES 4 DEGREES",
+                "visual_caption": "Memory prices surged 500% in 12 months, bottlenecking AI hardware procurement. Re-evaluate AI infrastructure investments to mitigate financial exposure and maintain operational efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "MODELS: LIGHTRICKS LTX-2.5 RELEASE",
-                "teaserTitle": "HARDWARE: CPU COMEBACK AS AI BOTTLENECK",
-                "visual_caption": "Lightricks releases LTX-2.5 on Hugging Face, a new generative AI model excelling in creative content generation. This signifies continued innovation, offering improved efficiency and fidelity for integrated applications."
+                "headline": "INFRASTRUCTURE: DATA CENTER HEAT RISES 4 DEGREES",
+                "teaserTitle": "REGULATION: EU TECH SOVEREIGNTY PACKAGE",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Phoenix data centers raise nearby temperatures by up to 4\u00b0C, creating environmental and operational challenges. Stricter regulations and higher compliance costs may follow for compute facilities."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: CPU COMEBACK AS AI BOTTLENECK",
-                "teaserTitle": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
-                "visual_caption": "IEEE Spectrum notes agentic AI makes CPUs the new performance bottleneck, shifting hardware demands from pure GPU acceleration. This necessitates re-evaluating strategies to balance CPU and GPU power effectively."
+                "headline": "REGULATION: EU TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "STRATEGY: MICROSOFT CYBER-CRITICAL AI DEVELOPMENT",
+                "visual_caption": "The EU proposed a Tech Sovereignty Package for digital autonomy in AI/semiconductors. This creates new compliance requirements and market entry barriers for global AI firms."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
-                "teaserTitle": "SAAS: CLAUDE CODE WEEKLY LIMITS REDUCED",
-                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash, their most intelligent workhorse model for coding and agentic applications. This release aims to accelerate software development and automate complex tasks via advanced foundation models."
+                "headline": "STRATEGY: MICROSOFT CYBER-CRITICAL AI DEVELOPMENT",
+                "teaserTitle": "FUNDING: ETCHED AI VALUATION DOUBLES TO $21B",
+                "visual_caption": "Microsoft advocates pacing AI model development with cyber-critical capabilities, integrating robust cybersecurity early. This requires greater secure MLOps investment, potentially extending development cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "SAAS: CLAUDE CODE WEEKLY LIMITS REDUCED",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT DOUBTS",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Anthropic's Claude Code service cuts weekly usage limits by 33%, impacting developers reliant on the platform for intensive tasks. This creates operational friction, requiring workflow adjustments or alternative solutions."
+                "headline": "FUNDING: ETCHED AI VALUATION DOUBLES TO $21B",
+                "teaserTitle": "DEVELOPMENT: WARP'S AI SOFTWARE FACTORY",
+                "visual_caption": "Etched, an AI hardware startup, doubled its valuation to $21B in one month due to investor confidence in specialized AI silicon. This signals a competitive AI hardware landscape, prompting strategic assessments of partnerships."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT DOUBTS",
+                "headline": "DEVELOPMENT: WARP'S AI SOFTWARE FACTORY",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "MIT Technology Review questions rapid AI self-improvement, stating current agents lack creativity for truly open-ended research. This challenges optimistic timelines, advocating for continued human oversight in frontier AI development."
+                "visual_caption": "Warp launched a new out-of-the-box software factory to streamline AI development, integrating tools for model building/testing/deployment. This boosts productivity but demands careful vendor lock-in and flexibility evaluation."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
