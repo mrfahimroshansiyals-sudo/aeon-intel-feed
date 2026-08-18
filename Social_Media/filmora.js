@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI launched GPT-5.6, setting new benchmarks in frontier intelligence for complex reasoning. This demands re-evaluation of current compute and deployment strategies."
+                "headline": "ANTHROPIC: LAUNCHES OPUS 5",
+                "teaserTitle": "EUROPEAN UNION: ENFORCING AI ACT",
+                "visual_caption": "Anthropic releases Opus 5 with stronger coding and agentic workflows. This upgrade raises the baseline for enterprise autonomous execution."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, an efficient model tailored for coding and agentic tasks. This intensifies competition, urging assessment of integration costs."
+                "headline": "EUROPEAN UNION: ENFORCING AI ACT",
+                "teaserTitle": "HACKER NEWS: MEMORY PRICES CLIMB",
+                "visual_caption": "The European Union starts enforcing strict AI Act transparency rules. Organizations must comply with mandated risk audits and technical governance."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "HACKER NEWS: TURBOVEC GOOGLE TURBOQUANT",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI is bolstering its Daybreak cyber defense, emphasizing robust security for AI systems. This mandates increased investment to mitigate critical breaches and regulatory risks."
+                "headline": "HACKER NEWS: MEMORY PRICES CLIMB",
+                "teaserTitle": "PAPERS WITH CODE: IN-CONTEXT LEARNING",
+                "visual_caption": "Global memory prices have climbed 500% over the past 12 months. This surge tightens hardware procurement budgets for data center expansion."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: TURBOVEC GOOGLE TURBOQUANT",
-                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK AS AI BOTTLENECK",
-                "visual_caption": "Google's Turbovec for vector search, now in Rust, offers significant performance and efficiency upgrades. This can cut infrastructure costs by up to 20% for vector workloads."
+                "headline": "PAPERS WITH CODE: IN-CONTEXT LEARNING",
+                "teaserTitle": "MICROSOFT: AZURE AI INFRASTRUCTURE",
+                "visual_caption": "A new 150M-parameter reasoning model achieves a cost-accuracy breakthrough. It proves that latent reasoning can match massive parameter scaling."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: CPU COMEBACK AS AI BOTTLENECK",
-                "teaserTitle": "PAPERS WITH CODE: HARNESSEVAL-W VISUAL WORLDS",
-                "visual_caption": "Agentic AI makes CPUs a performance bottleneck, shifting compute demands from GPUs. This requires rebalancing hardware investments toward high-performance CPUs for scalability."
+                "headline": "MICROSOFT: AZURE AI INFRASTRUCTURE",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES",
+                "visual_caption": "Microsoft expands its Azure AI infrastructure with new AMD hardware integration. This diversification aims to alleviate GPU supply constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "PAPERS WITH CODE: HARNESSEVAL-W VISUAL WORLDS",
-                "teaserTitle": "HACKER NEWS: LINUX 7.3 VRAM PERFORMANCE",
-                "visual_caption": "HarnessEval-W introduces a framework for agentifying visual world evaluations via verifiable reasoning chains. This improves AI agent trustworthiness, impacting development and QA budgets."
+                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES",
+                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK BOTTLENECK",
+                "visual_caption": "Startup Etched doubled its valuation to $21B in a single month. Investors are betting heavily on custom transformer silicon."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: LINUX 7.3 VRAM PERFORMANCE",
+                "headline": "IEEE SPECTRUM: CPU COMEBACK BOTTLENECK",
                 "teaserTitle": "",
-                "visual_caption": "Linux 7.3 enhances performance under vRAM constraints, optimizing memory for GPU-intensive tasks. This update offers immediate operational gains, reducing vRAM upgrade needs."
+                "visual_caption": "Agentic workflows have made CPUs the new performance bottleneck in compute stacks. Teams must rebalance hardware investments for optimal orchestration."
             },
             {
                 "slide_index": 8,
