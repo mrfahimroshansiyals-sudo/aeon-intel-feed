@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: MODEL SOL FINANCE WORK",
-                "teaserTitle": "CURSOR: LAUNCHES ORIGIN HOSTING",
-                "visual_caption": "OpenAI has officially launched GPT-5.6 Sol to execute complex finance tasks with unprecedented precision. Financial institutions deploying Sol can significantly accelerate transaction processing while reducing overhead costs."
+                "headline": "HACKER NEWS: MEMORY PRICES CLIMB 500%",
+                "teaserTitle": "STARTUP BREAKS LLM BOTTLENECK",
+                "visual_caption": "Global memory chip prices increased 500% over 12 months, constraining compute infrastructure. Enterprises must re-evaluate budgets and optimize existing deployments for greater memory efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "CURSOR: LAUNCHES ORIGIN HOSTING",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION JUMP",
-                "visual_caption": "Cursor has launched Origin, a rival hosting platform designed to challenge GitHub workflows. Migrating core repositories to Origin allows engineering teams to leverage native AI tooling."
+                "headline": "MIT TECHNOLOGY REVIEW: STARTUP BREAKS LLM BOTTLENECK",
+                "teaserTitle": "OPENAI: CYBER-CRITICAL MODEL PACING",
+                "visual_caption": "A startup claims architectural breakthrough, resolving a core bottleneck limiting LLM scalability. This innovation offers reduced training costs and accelerated deployment for enterprise LLMs."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH: ETCHED VALUATION JUMP",
-                "teaserTitle": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
-                "visual_caption": "Specialized chip startup Etched has doubled its valuation to $21B in a single month. This capital influx highlights surging demand for hardware built exclusively for transformer architectures."
+                "headline": "OPENAI: CYBER-CRITICAL MODEL PACING",
+                "teaserTitle": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
+                "visual_caption": "OpenAI paces model development, balancing rapid advancement with robust cyber defense. This addresses concerns over model misuse and expanding AI attack surfaces."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
-                "teaserTitle": "PAPERS WITH CODE: HARNESSEVAL-W",
-                "visual_caption": "Turbovec delivers a high-performance Rust implementation to accelerate vector search operations. Adopting these low-level memory optimizations cuts infrastructure footprint and lowers query latency."
+                "headline": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
+                "teaserTitle": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
+                "visual_caption": "OpenAI implemented safeguards after Hugging Face breach, tightening data access and API security. Developers must scrutinize third-party integrations to prevent unauthorized model exfiltration."
             },
             {
                 "slide_index": 5,
-                "headline": "PAPERS WITH CODE: HARNESSEVAL-W",
-                "teaserTitle": "EU AI OFFICE: ENFORCEMENT TIMELINE",
-                "visual_caption": "HarnessEval-W introduces a hierarchical multi-agent framework for evaluating visual world models. Deploying rigorous evaluation frameworks enables AI labs to reliably measure spatial reasoning performance."
+                "headline": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
+                "teaserTitle": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
+                "visual_caption": "New GLM-5.3 benchmarks reveal significant performance gains across complex reasoning tasks. This indicates improved capacity for handling intricate, multi-step problem-solving in scientific applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: ENFORCEMENT TIMELINE",
-                "teaserTitle": "MICROSOFT BLOG: AZURE HPC EXPANSION",
-                "visual_caption": "The European Union has initiated the enforcement phase of core AI Act transparency regulations. Organizations failing to comply face severe financial penalties reaching a percentage of global turnover."
+                "headline": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
+                "teaserTitle": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "visual_caption": "The new \"fx\" open-source project released a tiny, native coding agent, emphasizing extreme efficiency and low resource footprint. This tool automates repetitive coding tasks with minimal latency locally."
             },
             {
                 "slide_index": 7,
-                "headline": "MICROSOFT BLOG: AZURE HPC EXPANSION",
+                "headline": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
                 "teaserTitle": "",
-                "visual_caption": "Microsoft has expanded its Azure high-performance computing infrastructure using advanced AMD silicon nodes. This hardware diversification provides enterprise customers with scalable compute alternatives."
+                "visual_caption": "Analysis indicates AI recursive self-improvement might not materialize as rapidly as projected. Human oversight will remain critical for high-level AI research and development."
             },
             {
                 "slide_index": 8,

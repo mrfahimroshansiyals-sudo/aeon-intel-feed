@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI LAUNCHES GPT-5.6 SOL",
+        "hookTitle": "GLOBAL MEMORY PRICES SURGE 500%",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: MODEL SOL FINANCE WORK",
-                "teaserTitle": "CURSOR: LAUNCHES ORIGIN HOSTING",
+                "headline": "HACKER NEWS: MEMORY PRICES CLIMB 500%",
+                "teaserTitle": "STARTUP BREAKS LLM BOTTLENECK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6 Sol to execute complex finance tasks with unprecedented precision. Financial institutions deploying Sol can significantly accelerate transaction processing while reducing overhead costs."
+                "narration_line": "Global memory chip prices have increased by five hundred percent over the last twelve months, severely constraining compute infrastructure expansion. This surge forces enterprises to re-evaluate budgets and optimize existing deployments for greater memory efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "CURSOR: LAUNCHES ORIGIN HOSTING",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION JUMP",
+                "headline": "MIT TECHNOLOGY REVIEW: STARTUP BREAKS LLM BOTTLENECK",
+                "teaserTitle": "OPENAI: CYBER-CRITICAL MODEL PACING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Cursor has launched Origin, a rival hosting platform designed to challenge GitHub workflows. Migrating core repositories to Origin allows engineering teams to leverage native AI tooling."
+                "naration_line": "A new startup claims a significant architectural breakthrough, resolving a core bottleneck limiting large language model scalability. This innovation offers reduced training costs and accelerated deployment cycles for enterprise LLMs."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH: ETCHED VALUATION JUMP",
-                "teaserTitle": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
+                "headline": "OPENAI: CYBER-CRITICAL MODEL PACING",
+                "teaserTitle": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Specialized chip startup Etched has doubled its valuation to twenty-one billion dollars in a single month. This capital influx highlights surging demand for hardware built exclusively for transformer architectures."
+                "narration_line": "OpenAI is pacing model development to balance rapid advancement with robust cyber defense capabilities. This addresses growing concerns over model misuse and expanding AI attack surfaces."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
-                "teaserTitle": "PAPERS WITH CODE: HARNESSEVAL-W",
+                "headline": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
+                "teaserTitle": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Turbovec delivers a high-performance Rust implementation to accelerate vector search operations. Adopting these low-level memory optimizations cuts infrastructure footprint and lowers query latency."
+                "narration_line": "OpenAI implemented enhanced safeguards after a reported breach impacting Hugging Face, tightening data access and API security. This underscores the urgent need for developers to scrutinize third-party platform integrations."
             },
             {
                 "slide_index": 5,
-                "headline": "PAPERS WITH CODE: HARNESSEVAL-W",
-                "teaserTitle": "EU AI OFFICE: ENFORCEMENT TIMELINE",
+                "headline": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
+                "teaserTitle": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "HarnessEval-W introduces a hierarchical multi-agent framework for evaluating visual world models. Deploying rigorous evaluation frameworks enables AI labs to reliably measure spatial reasoning performance."
+                "narration_line": "New benchmarks for GLM-five point three reveal significant performance gains across complex reasoning tasks. This indicates improved capacity for handling intricate, multi-step problem-solving in scientific applications."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: ENFORCEMENT TIMELINE",
-                "teaserTitle": "MICROSOFT BLOG: AZURE HPC EXPANSION",
+                "headline": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
+                "teaserTitle": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The European Union has initiated the enforcement phase of core AI Act transparency regulations. Organizations failing to comply face severe financial penalties reaching a percentage of global turnover."
+                "narration_line": "The new open-source \"fx\" project released a tiny, native coding agent emphasizing extreme efficiency and low resource footprint. This tool automates repetitive coding tasks with minimal latency on local machines."
             },
             {
                 "slide_index": 7,
-                "headline": "MICROSOFT BLOG: AZURE HPC EXPANSION",
+                "headline": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Microsoft has expanded its Azure high-performance computing infrastructure using advanced AMD silicon nodes. This hardware diversification provides enterprise customers with scalable compute alternatives."
+                "narration_line": "Analysis indicates AI recursive self-improvement might not materialize as rapidly as projected due to limitations in genuine creative research. Human oversight will remain critical for high-level AI research and development."
             },
             {
                 "slide_index": 8,
