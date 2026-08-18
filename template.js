@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EU AI ACT ENFORCEMENT",
-        "titleBlue": "BEGINS",
-        "footerSummary": "EU AI Act enforcement begins August 2, imposing new compliance burdens. Businesses face immediate transparency requirements, impacting operational risk and model deployment across Europe."
+        "titleWhite": "CPU COMEBACK AS AGENTIC AI",
+        "titleBlue": "BOTTLENECK",
+        "footerSummary": "Agentic AI shifts compute bottlenecks to CPUs, impacting infrastructure costs and requiring optimized hardware stacks for scalable deployment across enterprises."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: EU AI ACT ENFORCEMENT BEGINS",
+            "heading": "HARDWARE: CPU COMEBACK AS AGENTIC AI BOTTLENECK",
             "paragraphs": [
-                "The European Commission has initiated enforcement of the AI Act rules, introducing stringent new transparency requirements and compliance obligations effective August 2, 2026. This legislative milestone demands immediate recalibration of AI systems to adhere to ethical guidelines, data governance, and risk management frameworks across all operational deployments.",
-                "Businesses must now prioritize comprehensive audits and system reconfigurations to mitigate severe legal and financial penalties, affecting model development costs and market entry strategies. Executives face critical decisions on resource allocation for compliance, potentially shifting R&D focus from pure innovation to regulatory adherence to avoid significant operational friction."
+                "Agentic AI architectures are increasingly shifting performance bottlenecks from GPUs to CPUs, making the latter critical for orchestrating complex multi-step tasks. While GPUs accelerate raw computation, the sequential and diverse nature of agent workflows now demands robust CPU power for efficient process scheduling and memory management, impacting overall system throughput.",
+                "This re-evaluation of CPU significance impacts infrastructure planning, potentially altering traditional GPU-centric procurement strategies and increasing capital expenditure on high-core-count CPUs. Enterprises must optimize their compute stacks to balance GPU power with enhanced CPU capabilities, mitigating latency and ensuring scalable agentic system deployments at optimal cost."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
+            "nextUpTease": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
-                "Published: 2026-07-31T10:00:00Z",
+                "Source: https://spectrum.ieee.org/artificial-intelligence/the-cpu-comeback-is-upon-us-agentic-ai-has-made-cpus-the-new-performance-bottleneck",
+                "Published: 2026-08-16T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
+            "heading": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
             "paragraphs": [
-                "The EU has launched a strategic call for AI Gigafactories, mobilizing over \u20ac30 billion in investment to dramatically boost Europe\u2019s computing capacity and reduce dependency on external hardware. This initiative targets the creation of advanced data centers and high-performance computing resources, addressing critical bottlenecks in frontier AI research and large-scale deployment.",
-                "This substantial investment provides a pivotal opportunity for European AI leaders to secure localized, high-performance compute resources, potentially lowering long-term operational costs and increasing data sovereignty. However, it also demands careful strategic planning for allocation and integration to ensure optimal utilization and avoidance of vendor lock-in, influencing future infrastructure investments."
+                "Google DeepMind has launched Gemini 3.7 Flash, its latest intelligence workhorse model designed for enhanced coding and multi-agent capabilities. This release focuses on optimizing performance-per-parameter, offering a more efficient and powerful foundation for complex AI applications while maintaining high accuracy on intricate tasks.",
+                "The introduction of Gemini 3.7 Flash provides enterprises with a new, cost-effective option for integrating advanced AI into developer workflows and autonomous systems, potentially lowering inference costs. Strategic adoption of this model allows for greater operational agility and scaled AI deployment, impacting competitive positioning for firms leveraging next-gen intelligence."
             ],
             "imageUrl": "",
-            "nextUpTease": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
+            "nextUpTease": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
-                "Published: 2026-07-30T14:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
+            "heading": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
             "paragraphs": [
-                "Reports indicate that a state actor created a fake think tank to manipulate AI chatbots, demonstrating a novel form of AI-driven disinformation aimed at shaping public opinion and narrative control. This development highlights critical vulnerabilities in large language models\u2019 ability to discern credible sources, escalating the risk of systemic bias and misinformation dissemination.",
-                "This emergence of sophisticated AI manipulation directly impacts the trustworthiness of AI-generated content and the integrity of information pipelines, requiring immediate robust verification mechanisms. Organizations deploying AI for content generation or analysis must invest in advanced adversarial training and fact-checking layers to preserve brand reputation and prevent inadvertent participation in disinformation campaigns."
+                "Nvidia's competitive advantage in the AI sector is evolving from exclusive chip dominance to a formidable capital moat, driven by strategic investments and market consolidation. This shift indicates that sheer compute power is increasingly a function of financial leverage and ecosystem control, rather than solely leading-edge silicon.",
+                "This strategic evolution impacts long-term investment in AI infrastructure, emphasizing access to capital and market influence as key determinants of success for AI companies. CTOs must consider the broader financial dynamics and ecosystem partnerships, beyond just hardware specifications, when planning large-scale AI deployments and vendor reliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+            "nextUpTease": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
             "tags": [
-                "Source: https://responsiblestatecraft.org/2026/07/31/israel-creates-fake-think-tank-in-likely-attempt-to-dupe-ai-chatbots/",
-                "Published: 2026-07-31T16:00:00Z",
+                "Source: https://www.cnbc.com/technology/2026/08/17/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+                "Published: 2026-08-17T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+            "heading": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
             "paragraphs": [
-                "OpenAI has announced a 50% price reduction for its GPT-5.6 Sol model, aiming to accelerate enterprise adoption and stimulate broader integration into diverse applications. This aggressive pricing strategy directly lowers the cost barrier for high-performance AI, enabling more accessible and economical large-scale deployments for developers and businesses.",
-                "This significant cost adjustment impacts budget allocations for AI inference and may trigger a market shift towards more cost-efficient model utilization, intensifying competition among foundation model providers. CTOs must re-evaluate current model choices and projected inference costs, leveraging these new economics to optimize operational expenditure and potentially scale AI capabilities without proportional budget increases."
+                "HarnessEval-W introduces a novel method to evaluate complex visual world models using hierarchical sub-agents, enabling decomposition of evaluations into verifiable reasoning chains. This architectural shift provides transparent evidence for performance scores, addressing a critical bottleneck in understanding and trusting advanced AI system capabilities.",
+                "This innovation significantly improves the auditability and interpretability of sophisticated AI, reducing risk in deployment and accelerating trusted adoption in high-stakes environments. Developers can leverage this framework to build more robust and accountable AI, impacting resource allocation for model validation and quality assurance processes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
+            "nextUpTease": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
             "tags": [
-                "Source: https://openrouter.ai/models/openai/gpt-5.6-sol",
-                "Published: 2026-07-31T17:00:00Z",
+                "Source: https://paperswithcode.com/paper/harnesseval-w-agentifying-the-evaluation",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
+            "heading": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
             "paragraphs": [
-                "AI automation startup Relay has ceased operations, with its entire engineering staff reportedly joining Google's Chrome team, signaling a strategic talent acquisition and market consolidation trend. This event underscores the intense competition for specialized AI talent and the increasing integration of advanced AI capabilities into core technology products.",
-                "This move impacts the competitive landscape for AI automation tools and highlights a strategic shift towards in-house AI development within major tech giants, potentially limiting third-party solutions. Enterprises reliant on external AI automation platforms should assess vendor stability and explore diversified strategies for talent acquisition or in-house capability building to secure future operational continuity."
+                "Groq has secured $350M in new funding to pivot its strategy from solely AI chips to developing a \"neocloud\" infrastructure focused on low-latency inference, aiming to disrupt the high-performance computing market. This significant capital injection validates a shift towards specialized cloud services optimized for real-time AI processing.",
+                "This investment fuels a new competitive front in AI infrastructure, offering alternatives to traditional cloud providers and potentially reducing inference costs for real-time applications. Enterprises should evaluate Groq's neocloud for specialized workloads requiring extreme speed, impacting decisions on cloud vendor diversification and strategic compute resource acquisition."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
+            "nextUpTease": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
             "tags": [
-                "Source: https://techcrunch.com/2026/07/31/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-                "Published: 2026-07-31T17:00:00Z",
+                "Source: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+                "Published: 2026-08-17T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
+            "heading": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
             "paragraphs": [
-                "New architectural paradigms are shifting AI development from traditional copilots to complex agent swarms, where multiple autonomous agents collaborate on intricate tasks, enhancing overall problem-solving capabilities. This transition promises more robust, self-organizing systems but introduces new challenges in orchestration, inter-agent communication, and emergent behavior control.",
-                "This evolution in AI architecture profoundly impacts the design and deployment of next-generation intelligent systems, demanding advanced frameworks for multi-agent coordination and decentralized computation. Engineers must adapt their skillsets to manage highly distributed AI ecosystems, balancing the benefits of increased autonomy with the complexities of monitoring and ensuring reliable collective performance."
+                "Meta has filed patents for advanced facial recognition and automatic recording technologies capable of identifying and documenting individuals in real-time, raising significant privacy and regulatory concerns. This development signals a potential expansion of Meta's surveillance capabilities across its ecosystem, impacting user data rights.",
+                "These patent filings could foreshadow stringent new data privacy and ethical AI deployment challenges for technology companies, necessitating robust compliance frameworks and public transparency. Businesses must anticipate heightened regulatory scrutiny and potential public backlash, influencing product development roadmaps and user trust in AI-driven features."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
+            "nextUpTease": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
             "tags": [
-                "Source: https://spectrum.ieee.org/artificial-intelligence/from-ai-copilots-to-agent-swarms",
-                "Published: 2026-07-31T08:00:00Z",
+                "Source: https://privacyguides.org/news/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+                "Published: 2026-08-17T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
+            "heading": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
             "paragraphs": [
-                "OpenAI has officially launched a new, safer version of ChatGPT specifically tailored for teenage users, incorporating enhanced content filters, privacy controls, and age-appropriate interaction guidelines. This product expansion aims to provide a controlled environment for younger demographics, addressing long-standing concerns regarding AI exposure and responsible usage.",
-                "This strategic product move signals a growing emphasis on AI safety and ethical deployment across diverse user segments, influencing future product development and regulatory compliance efforts. Companies expanding AI services to sensitive user groups must integrate robust safeguarding measures and transparent usage policies, balancing market reach with stringent user protection and risk management."
+                "AI systems have achieved a breakthrough by verifying some of the most challenging mathematical proofs, demonstrating advanced logical reasoning and problem-solving capabilities previously exclusive to human experts. This advancement validates the increasing reliability of AI in formal verification and complex abstract reasoning tasks.",
+                "This milestone in AI-assisted mathematics opens new avenues for accelerating scientific discovery and ensuring the veracity of complex algorithms in high-assurance systems, potentially reducing human error. Organizations can explore integrating such AI tools for critical software validation and complex engineering problems, impacting R&D efficiency and intellectual property development."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/01/openai-launches-a-safer-chatgpt-for-teens/",
-                "Published: 2026-08-01T09:12:00Z",
+                "Source: https://spectrum.ieee.org/artificial-intelligence/ai-used-to-verify-toughest-mathematics-proof-yet",
+                "Published: 2026-08-17T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

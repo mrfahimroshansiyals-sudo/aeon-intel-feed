@@ -4,48 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: EU AI ACT ENFORCEMENT BEGINS",
-                "teaserTitle": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
-                "visual_caption": "The European Commission has initiated enforcement of the AI Act rules, introducing stringent new transparency requirements and compliance obligations effective August 2, 2026. Businesses must now prioritize comprehensive audits and system reconfigurations to mitigate severe legal and financial penalties."
+                "headline": "HARDWARE: CPU COMEBACK AS AGENTIC AI BOTTLENECK",
+                "teaserTitle": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "visual_caption": "Agentic AI makes CPUs the new performance bottleneck, demanding stronger CPU power. This impacts infrastructure planning, shifting focus from GPU-only procurement."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
-                "teaserTitle": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
-                "visual_caption": "The EU has launched a strategic call for AI Gigafactories, mobilizing over \u20ac30B in investment to boost Europe\u2019s computing capacity. This initiative targets advanced data centers, addressing critical bottlenecks in frontier AI research."
+                "headline": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "teaserTitle": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
+                "visual_caption": "Google DeepMind releases Gemini 3.7 Flash, a new workhorse model for coding and agents. It optimizes performance-per-parameter, providing efficient AI for complex tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
-                "visual_caption": "Reports indicate a state actor created a fake think tank to manipulate AI chatbots, demonstrating a novel form of AI-driven disinformation. This highlights critical vulnerabilities in large language models' ability to discern credible sources."
+                "headline": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
+                "teaserTitle": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
+                "visual_caption": "Nvidia's AI moat shifts from chip dominance to a formidable capital moat. This emphasizes financial leverage and ecosystem control as key to AI success."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
-                "visual_caption": "OpenAI has announced a 50% price reduction for its GPT-5.6 Sol model, aiming to accelerate enterprise adoption. This aggressive pricing strategy directly lowers the cost barrier for high-performance AI."
+                "headline": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
+                "teaserTitle": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "visual_caption": "HarnessEval-W evaluates visual world models using hierarchical sub-agents. This innovation provides transparent evidence for AI performance scores."
             },
             {
                 "slide_index": 5,
-                "headline": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
-                "teaserTitle": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "AI automation startup Relay has ceased operations, with its engineering staff joining Google\u2019s Chrome team. This signals intense competition for specialized AI talent and advanced AI capabilities integration into core tech products."
+                "headline": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "teaserTitle": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
+                "visual_caption": "Groq raises $350M to pivot from AI chips to a \"neocloud\" infrastructure. This funding aims to disrupt HPC with specialized real-time AI processing."
             },
             {
                 "slide_index": 6,
-                "headline": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
-                "teaserTitle": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "New architectural paradigms are shifting AI development from traditional copilots to complex agent swarms. This promises more robust, self-organizing systems, yet introduces new challenges in orchestration and control."
+                "headline": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
+                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
+                "visual_caption": "Meta patents advanced facial recognition and automatic recording technologies. These filings raise significant privacy and regulatory concerns, impacting user data rights."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
-                "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "OpenAI has launched a new, safer version of ChatGPT specifically tailored for teenage users. This product expansion aims to provide a controlled environment, addressing long-standing concerns regarding AI exposure and responsible usage."
+                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "AI systems verify tough mathematical proofs, showing advanced logical reasoning. This accelerates scientific discovery, reducing human error in complex algorithms."
             },
             {
                 "slide_index": 8,
