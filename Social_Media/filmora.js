@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDS GPT-5.6 ACCESS FOR FREE USERS",
-                "teaserTitle": "ANTHROPIC ANNUALIZED REVENUE HITS $65 BILLION",
-                "visual_caption": "OpenAI enhanced GPT-5.6 Sol and made GPT-5.6 Luna accessible to free users, expanding frontier model capabilities. This democratizes advanced AI, fostering innovation and wider application development."
+                "headline": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
+                "teaserTitle": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+                "visual_caption": "Google DeepMind has released Gemini 3.7 Flash as its most intelligent workhorse model for coding. The new release slashes latency and accelerates production agentic applications for developers."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE HITS $65 BILLION",
-                "teaserTitle": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
-                "visual_caption": "Anthropic's annualized revenue run rate reached $65B by July, signaling rapid enterprise adoption of its AI solutions. This milestone demonstrates robust market demand and strong commercial traction."
+                "headline": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+                "teaserTitle": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
+                "visual_caption": "Nvidia secured land and power capacity at the Ports Pike campus in Ohio through SB Energy. The dedicated facility will exclusively host high-density AI compute infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
-                "teaserTitle": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
-                "visual_caption": "Google Cloud launched AI Threat Defense, leveraging advanced AI to proactively counter cyber threats. This solution aims to reduce response times and minimize potential breach impacts for enterprises."
+                "headline": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
+                "teaserTitle": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
+                "visual_caption": "IBM and OpenAI announced a strategic alliance to embed frontier models into consulting services. The partnership accelerates enterprise transformation through joint engineering support."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
-                "teaserTitle": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
-                "visual_caption": "Microsoft Azure introduced Foundry and IQ to optimize production AI agent deployment and governance. These services help enterprises securely integrate autonomous AI into workflows with shared context."
+                "headline": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
+                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+                "visual_caption": "AMD and Anthropic agreed to deploy up to 2GW of Instinct MI450 Series GPUs. This massive compute expansion powers next-generation Claude model training."
             },
             {
                 "slide_index": 5,
-                "headline": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
-                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "visual_caption": "Gartner predicts AI agent inference costs per workflow will rise >5x by 2028, despite cheaper general inference. This signals a critical economic challenge for extensive agent deployments."
+                "headline": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+                "teaserTitle": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+                "visual_caption": "Microsoft Azure added new AMD-powered virtual machines for demanding HPC workloads. These instances provide flexible and cost-effective scaling for enterprise AI."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
-                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
-                "visual_caption": "The EU AI Office launched a major hiring drive for 40 new tech, legal, and operational posts. This initiative enforces the AI Act, transitioning from legislation to active implementation."
+                "headline": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+                "teaserTitle": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+                "visual_caption": "Databricks integrated embeddable PostgreSQL capabilities following its acquisition of Electric. The update provides engineering teams with robust relational tools for building agents."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
+                "headline": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Agentic AI workloads are making CPUs the new performance bottleneck, marking a CPU comeback. This indicates an architectural shift, demanding innovation in CPU designs for evolving AI needs."
+                "visual_caption": "Stanford researchers found that vulnerable users seeking emotional support from AI companions experience reduced well-being. The findings highlight the need for strict ethical governance."
             },
             {
                 "slide_index": 8,

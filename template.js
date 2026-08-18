@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EXPANDS GPT-5.6 ACCESS FOR FREE",
-        "titleBlue": "USERS",
-        "footerSummary": "OpenAI democratizes advanced model access while new reports highlight the escalating inference costs of agentic AI workflows for enterprises."
+        "titleWhite": "GOOGLE DEEPMIND LAUNCHES GEMINI",
+        "titleBlue": "FLASH",
+        "footerSummary": "Google DeepMind unveils Gemini 3.7 Flash alongside specialized robotics models as enterprises rapidly scale autonomous agent infrastructures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: EXPANDS GPT-5.6 ACCESS FOR FREE USERS",
+            "heading": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
             "points": [
-                "OpenAI has enhanced its GPT-5.6 Sol model within ChatGPT and extended free access to GPT-5.6 Luna for a broader user base.",
-                "This move aims to democratize advanced AI capabilities, potentially increasing user engagement and accelerating real-world application development.",
-                "Strategically, this expansion lowers the barrier to entry for developers and casual users, fostering innovation and wider adoption of frontier models.",
-                "Stakeholders can expect a surge in creative applications and agentic experiments, further solidifying OpenAI's ecosystem dominance."
+                "Google DeepMind has officially released Gemini 3.7 Flash as its most intelligent workhorse model optimized specifically for coding and autonomous agents.",
+                "The new model introduces highly efficient execution pipelines designed to slash operational latency and reduce token expenditure for enterprise deployments.",
+                "Positioned directly within the Gemini Enterprise ecosystem, the model bridges high-speed inference with advanced multi-step task reasoning.",
+                "Developers can immediately integrate the updated architecture via Google AI Studio to accelerate production-grade agentic applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: ANNUALIZED REVENUE HITS $65 BILLION",
+            "nextUpTease": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-18T17:55:00Z",
+                "Source: https://deepmind.google",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ANTHROPIC: ANNUALIZED REVENUE HITS $65 BILLION",
+            "heading": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
             "points": [
-                "Anthropic has reportedly achieved an annualized revenue run rate of $65 billion as of July, demonstrating significant commercial traction.",
-                "This substantial financial milestone underscores the rapid enterprise adoption and monetization of advanced AI models and services.",
-                "The performance signals robust market demand for Anthropic's safety-focused AI solutions, attracting major institutional investment and partnerships.",
-                "Competitors may accelerate their own revenue strategies, while investors will closely watch the sustainability of this growth trajectory."
+                "NVIDIA has secured dedicated land, power, and shell capacity at the PORTS-Pike Technology Campus in Ohio through a strategic partnership with SB Energy.",
+                "The facility will exclusively host high-density NVIDIA AI compute infrastructure to support expanding enterprise training and inference demands.",
+                "This deployment addresses critical power constraints facing large-scale AI developers as multi-gigawatt cluster requirements escalate globally.",
+                "Industry partners can leverage the new Ohio campus to accelerate large model training cycles and expand regional operational footprints."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
+            "nextUpTease": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
             "tags": [
-                "Source: https://www.cnbc.com/technology",
-                "Published: 2026-08-18T11:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
+            "heading": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
             "points": [
-                "Google Cloud has introduced AI Threat Defense, a new platform designed to help enterprises proactively counter evolving cyber threats.",
-                "This security solution aims to leverage advanced AI to outpace adversaries, reducing response times and minimizing potential breach impacts.",
-                "The platform reflects a strategic focus on integrating AI directly into core cloud security infrastructure, enhancing preventative capabilities.",
-                "Businesses can now fortify their digital perimeters with Google's AI expertise, mitigating risks associated with sophisticated, AI-driven attacks."
+                "IBM and OpenAI have announced a strategic alliance to embed frontier AI models and forward-deployed engineers directly into IBM consulting services.",
+                "The joint initiative aims to accelerate enterprise-wide AI transformations by combining OpenAI's foundational models with IBM's integration frameworks.",
+                "The partnership targets complex enterprise modernization challenges, providing structured pathways for deploying secure, scalable LLM workflows.",
+                "Business stakeholders should anticipate faster enterprise adoption cycles and tighter integration of generative AI across mission-critical systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
+            "nextUpTease": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
             "tags": [
-                "Source: https://cloud.google.com/blog",
-                "Published: 2026-08-18T18:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
+            "heading": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
             "points": [
-                "Microsoft Azure has launched Foundry and IQ, new services specifically engineered to facilitate the deployment and optimization of production AI agents.",
-                "Foundry enables scaled agent management with hosted agents and toolboxes, while IQ provides shared context for agents to reason effectively across systems.",
-                "This strategic offering addresses critical enterprise needs for governing and securely integrating autonomous AI agents into existing workflows.",
-                "Organizations can now confidently build and scale complex agentic solutions, ensuring secure operations and maximizing business context utilization."
+                "AMD and Anthropic have established a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs for frontier model scaling.",
+                "The hardware agreement significantly diversifies Anthropic's computing infrastructure while validating AMD's data center AI architecture at scale.",
+                "This massive compute expansion provides the raw processing capacity required to train next-generation Claude models with enhanced reasoning capabilities.",
+                "Market analysts expect this alliance to intensify hardware competition in high-performance AI clusters throughout the upcoming fiscal quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
+            "nextUpTease": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-18T18:00:00Z",
+                "Source: https://www.amd.com",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
+            "heading": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
             "points": [
-                "Gartner predicts that inference costs per AI agent workflow will rise over fivefold by 2028, despite general AI inference becoming cheaper.",
-                "This surge is attributed to agents' continuous reasoning, replanning, and calls to other agents, compounding operational expenditures.",
-                "The finding highlights a critical economic challenge for enterprises planning extensive deployments of complex, autonomous AI agents.",
-                "CIOs must strategically budget and optimize agent architectures to manage escalating operational costs and ensure sustainable AI investments."
+                "Microsoft Azure has expanded its cloud infrastructure portfolio by integrating new AMD-powered AI and HPC virtual machines including HDv2, HXv2, and ND MI455Xv7.",
+                "These specialized instances are engineered to support demanding deep learning, data processing, and technical computing workloads.",
+                "The infrastructure update offers enterprise customers enhanced flexibility and cost-performance ratios for running intensive AI model deployments.",
+                "Cloud architects can now provision high-throughput AMD nodes directly within Azure environments to optimize large-scale inferencing."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+            "nextUpTease": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
             "tags": [
-                "Source: https://www.cio.com/article/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-18T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+            "heading": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
             "points": [
-                "The EU AI Office has announced a significant hiring initiative, seeking 40 new posts across tech, legal, and operational roles.",
-                "This recruitment drive is dedicated to enforcing the landmark AI Act, ensuring compliance and effective regulatory oversight across member states.",
-                "The move signals the critical next phase in the EU's AI governance, transitioning from legislative drafting to active implementation and enforcement.",
-                "Businesses operating within or with the EU must prepare for stricter scrutiny and adapt their AI deployments to meet forthcoming regulatory demands."
+                "Following its recent funding round and acquisition of Electric, Databricks has integrated embeddable PostgreSQL capabilities into its data management platform.",
+                "The feature is specifically designed to aid developers in building and deploying data-intensive autonomous agents with low latency.",
+                "This architectural enhancement bridges structured relational data storage with modern vector search requirements for enterprise AI pipelines.",
+                "Data engineering teams gain a unified platform for managing stateful agent operations without relying on fragmented database architectures."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
+            "nextUpTease": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-18T18:00:00Z",
+                "Source: https://www.techtarget.com",
+                "Published: 2026-08-13T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
+            "heading": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
             "points": [
-                "Recent analysis indicates that agentic AI workloads are causing a \"CPU comeback,\" making central processing units the new performance bottleneck.",
-                "This shift highlights the increasing demand for strong single-thread performance and efficient multi-core handling for complex agent interactions.",
-                "The trend signifies an architectural evolution where AI's computational demands are broadening beyond GPU-centric training to encompass CPU-intensive inference and orchestration.",
-                "Hardware manufacturers and cloud providers will need to innovate CPU designs and resource allocation strategies to meet this evolving AI workload demand."
+                "A new Stanford HAI research study reveals that vulnerable users with limited social networks who seek emotional support from AI companions experience reduced well-being.",
+                "The findings highlight critical socio-ethical challenges regarding the deployment of parasocial AI tools for mental health and therapy.",
+                "The study underscores the urgent need for rigorous governance frameworks and ethical boundaries in consumer-facing conversational applications.",
+                "Policymakers and developers must account for psychological impacts when designing autonomous engagement systems for sensitive demographics."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://spectrum.ieee.org/cpu-agentic-ai-bottleneck",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://hai.stanford.edu",
+                "Published: 2026-08-04T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
