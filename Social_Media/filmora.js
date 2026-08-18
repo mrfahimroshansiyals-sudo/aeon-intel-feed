@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands free user access to GPT-5.6 Luna. This broadens model utilization, shifting developer focus to accessible, powerful AI capabilities."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI has unveiled its new GPT-5.6 model, showcasing enhanced frontier intelligence and significant scalability improvements. This directly impacts enterprise deployments, raising computational demands and setting new industry benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "teaserTitle": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
-                "visual_caption": "OpenAI expands its Daybreak cyber defense to counter the narrow window for sophisticated AI threats. This bolsters protections against emerging adversarial AI techniques and system vulnerabilities."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a high-speed, cost-efficient model for diverse AI and agentic workloads. This accelerates real-time processing and reduces critical latency bottlenecks for developers."
             },
             {
                 "slide_index": 3,
-                "headline": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
-                "teaserTitle": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI cuts GPT-5.6 Sol pricing by 50% to accelerate adoption and make high-performance AI more accessible. This aggressive strategy aims for greater market share and volume usage."
+                "headline": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
+                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "visual_caption": "Agentic AI is making CPUs a critical performance bottleneck for certain logic-heavy workloads. This shifts data center infrastructure needs from solely GPU-centric designs."
             },
             {
                 "slide_index": 4,
-                "headline": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
-                "teaserTitle": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
-                "visual_caption": "An AI-generated autofix from GitHub Copilot compromised Snowflake's Jira, exposing critical security flaws in AI-assisted dev tools. This highlights the need for rigorous auditing of autonomous code generation."
+                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "visual_caption": "New research suggests AI recursive self-improvement is slower than anticipated, indicating a longer timeline for fully autonomous systems. This requires pragmatic recalibration of enterprise AI strategies and expectations."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
-                "teaserTitle": "MARKET: ANTHROPIC REVENUE HITS $65B",
-                "visual_caption": "Nvidia's AI advantage shifts from raw chip dominance to leveraging capital and ecosystem investments. This strategic pivot emphasizes long-term infrastructure control and resource aggregation."
+                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "teaserTitle": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense to counter advanced AI-driven threats. This fortifies core models and infrastructure against rapidly evolving adversarial AI attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: ANTHROPIC REVENUE HITS $65B",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
-                "visual_caption": "Anthropic reports an annualized revenue run rate surging to $65B, indicating robust market adoption in frontier AI. This growth validates its focus on safety-aligned models and enterprise solutions."
+                "headline": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
+                "teaserTitle": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
+                "visual_caption": "Groq secured $350M in funding, pivoting to a \"neocloud\" inference platform for real-time AI. This challenges traditional cloud providers and impacts enterprise compute resource allocation."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "headline": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
                 "teaserTitle": "",
-                "visual_caption": "Research suggests AI's recursive self-improvement may not happen as quickly as anticipated, implying a longer roadmap for fully autonomous intelligence. This challenges previous assumptions about rapid AI evolution."
+                "visual_caption": "European economists warn the AI-driven market rally is overextended and faces a sharp correction. This impacts strategic investments, urging caution and a focus on sustainable, defensible AI growth."
             },
             {
                 "slide_index": 8,

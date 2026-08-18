@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SOL & LUNA",
-        "titleBlue": "ACCESS",
-        "footerSummary": "OpenAI broadens GPT-5.6 access, cuts Sol pricing by 50%, while Copilot autofix compromises Jira. Nvidia shifts to capital dominance; Anthropic hits $65B revenue."
+        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "titleBlue": "SCALES",
+        "footerSummary": "OpenAI unveils GPT-5.6, DeepMind launches Gemini 3.7 Flash, and agentic AI drives CPU bottleneck. Market warns of AI rally correction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
             "paragraphs": [
-                "OpenAI has enhanced GPT-5.6 Sol within ChatGPT and expanded free user access to GPT-5.6 Luna, signaling a strategic move to broaden advanced model utilization. This directly impacts user adoption rates and potentially shifts developer focus towards integrating more accessible, yet powerful, AI capabilities.",
-                "This expanded access could democratize advanced AI feature deployment, yet it also presents a challenge for enterprises reliant on premium tiers to differentiate their offerings. Businesses must now evaluate if free model access will dilute competitive advantages or if it fosters a larger ecosystem for specialized AI applications."
+                "OpenAI's new GPT-5.6 model introduces frontier intelligence, showcasing enhanced capabilities and improved scalability crucial for demanding enterprise deployments. This release directly impacts current large language model evaluations, setting new performance benchmarks and increasing the immediate computational requirements for leading AI architectures.",
+                "Enterprises must reassess their existing AI infrastructure to integrate GPT-5.6 effectively, balancing higher inference costs with significant gains in model performance and output quality. Strategic decisions around hardware upgrades and optimized deployment pipelines are now critical to leverage these advanced capabilities and maintain competitive advantage."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+            "nextUpTease": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://openai.com/news/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
-                "Published: 2026-08-25T14:55:00Z",
+                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-18T09:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+            "heading": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "paragraphs": [
-                "OpenAI is expanding its Daybreak cyber defense initiatives, addressing the increasingly narrow window for detecting sophisticated AI-driven cyber threats. This strategic enhancement aims to bolster protective measures against emerging adversarial AI techniques and system vulnerabilities.",
-                "This expansion impacts enterprise risk exposure, necessitating a review of current cybersecurity postures and potential integration with advanced AI-powered defense mechanisms. Organizations must allocate resources to adapt to rapid threat evolution, ensuring their AI architecture is resilient against state-of-the-art cyberattacks and data breaches."
+                "Google DeepMind has launched Gemini 3.7 Flash, an advanced model designed for high-speed, cost-efficient inference across a broad spectrum of AI applications and agentic workloads. This release significantly pushes the envelope for real-time processing, addressing critical latency bottlenecks in complex multi-step tasks and enhancing developer access to powerful, streamlined AI.",
+                "The emergence of Gemini 3.7 Flash directly impacts architectural choices, enabling developers to achieve higher throughput and lower operational costs for applications requiring rapid responses. Businesses should strategically integrate this model to optimize their resource allocation and accelerate the deployment of scalable, high-performance AI services, driving efficiency and reducing cloud expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
+            "nextUpTease": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-25T14:52:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
+            "heading": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
             "paragraphs": [
-                "OpenAI has significantly reduced the pricing for its GPT-5.6 Sol model by 50%, a move designed to accelerate adoption and make high-performance AI more accessible across diverse applications. This aggressive pricing strategy aims to capture greater market share and drive volume usage.",
-                "This pricing adjustment directly impacts the total cost of ownership for enterprises integrating advanced LLMs, offering substantial savings on inference workloads. Technical architects must re-evaluate current budget allocations and explore opportunities to scale AI initiatives more aggressively due to reduced operational expenditure."
+                "Agentic AI systems are increasingly re-establishing CPUs as a critical performance bottleneck, shifting the primary compute constraint away from GPUs for certain multi-step, logic-heavy workloads. This transition necessitates a re-evaluation of data center infrastructure, as current GPU-centric designs may not adequately support the evolving demands of complex AI agents.",
+                "The renewed importance of CPUs impacts compute efficiency and hardware procurement strategies, potentially driving significant investment in balanced heterogeneous architectures rather than solely GPU-dominated clusters. Technical architects must consider optimizing for both parallel processing and sequential logic, ensuring their infrastructure can handle diversified AI task types without incurring substantial operational friction or scaling limitations."
             ],
             "imageUrl": "",
-            "nextUpTease": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
+            "nextUpTease": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
             "tags": [
-                "Source: https://openrouter.ai/blog/gpt-5-6-sol-pricing-cut-by-50",
-                "Published: 2026-08-24T23:00:00Z",
+                "Source: https://spectrum.ieee.org/artificial-intelligence/the-cpu-comeback-is-upon-us-agentic-ai-has-made-cpus-the-new-performance-bottleneck",
+                "Published: 2026-08-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
+            "heading": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
             "paragraphs": [
-                "A recent incident revealed that an AI-generated autofix from GitHub Copilot led to the compromise of Snowflake's Jira, highlighting critical security vulnerabilities in AI-assisted development tools. This demonstrates that autonomous code generation can introduce exploitable flaws if not rigorously audited.",
-                "This event underscores the escalating risk exposure for organizations heavily relying on AI copilots in their software development lifecycle, impacting both code integrity and compliance. Engineering teams must implement stringent code review processes and integrate advanced static analysis tools to mitigate potential AI-induced security weaknesses and prevent critical system breaches."
+                "New research indicates that AI\u2019s recursive self-improvement capabilities are not advancing as rapidly as projected, suggesting a prolonged timeline for achieving fully autonomous, self-optimizing intelligent systems. This finding challenges earlier assumptions about exponential AI progress, highlighting fundamental limitations in current algorithmic architectures.",
+                "This delayed self-improvement trajectory impacts long-term AI strategy, requiring a pragmatic recalibration of expectations for autonomous agent deployment and resource allocation. Organizations should prioritize human-in-the-loop systems and incremental AI advancements, ensuring robust oversight and mitigating risks associated with premature reliance on unproven self-evolving AI capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
+            "nextUpTease": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
             "tags": [
-                "Source: https://www.wiz.io/blog/ai-generated-github-copilot-autofix-allowed-compromise-of-snowflakes-jira",
-                "Published: 2026-08-24T17:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/18/ai-recursive-self-improvement-might-not-come-so-quickly-after-all",
+                "Published: 2026-08-18T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
+            "heading": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
             "paragraphs": [
-                "Nvidia's competitive advantage in AI is evolving, moving beyond raw chip dominance to leveraging its substantial capital and ecosystem investments to maintain market leadership. This strategic pivot emphasizes long-term infrastructure control and the aggregation of key AI resources.",
-                "This shift impacts enterprise hardware procurement and strategic partnerships, as access to integrated AI solutions becomes increasingly tied to financial leverage and ecosystem lock-in rather than just chip performance. Tech executives must assess vendor dependencies and explore diversified compute strategies to avoid potential market concentration risks and ensure long-term architectural flexibility."
+                "OpenAI is expanding its Daybreak cyber defense initiatives to counter the rapidly evolving landscape of sophisticated AI-driven cyber threats, aiming to fortify core models and infrastructure. This critical upgrade addresses the increasingly narrow window for detecting and neutralizing adversarial AI attacks, reinforcing system integrity.",
+                "This intensified focus on AI security impacts enterprise risk exposure, mandating a thorough review of AI deployment protocols and defensive architectures. CTOs and security leads must integrate advanced threat intelligence and robust vulnerability management into their AI pipelines, proactively safeguarding sensitive data and intellectual property from state-sponsored and criminal AI-powered threats."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKET: ANTHROPIC REVENUE HITS $65B",
+            "nextUpTease": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/25/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-                "Published: 2026-08-25T13:00:00Z",
+                "Source: https://openai.com/news/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-18T09:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARKET: ANTHROPIC REVENUE HITS $65B",
+            "heading": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
             "paragraphs": [
-                "Anthropic has reported an annualized revenue run rate surging to $65B, indicating robust market adoption and significant financial traction within the competitive frontier AI sector. This rapid growth validates its focus on safety-aligned models and enterprise solutions.",
-                "This financial milestone impacts the strategic valuation of AI startups and influences investment flows, signaling strong demand for responsible AI frameworks in enterprise deployments. Tech leaders should analyze Anthropic\u2019s growth drivers to identify key market trends and potential partnership opportunities, ensuring their AI strategy aligns with proven high-value sectors."
+                "AI chip startup Groq has secured $350M in new funding, signaling a strategic pivot from pure AI chip manufacturing to developing a \"neocloud\" inference platform for real-time AI workloads. This significant capital injection aims to establish Groq as a key player in high-performance, low-latency AI compute infrastructure, challenging traditional cloud providers.",
+                "This market shift by Groq impacts compute resource allocation and vendor diversification strategies for enterprises seeking specialized AI inference solutions. Tech executives should evaluate the potential for enhanced performance and cost efficiencies offered by new, dedicated AI cloud infrastructure, assessing whether to integrate these specialized services into their hybrid cloud architectures to reduce inference latency."
             ],
             "imageUrl": "",
-            "nextUpTease": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+            "nextUpTease": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/24/anthropics-annualized-revenue-surges-to-65b",
-                "Published: 2026-08-24T22:00:00Z",
+                "Source: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+            "heading": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
             "paragraphs": [
-                "Recent research suggests that AI's recursive self-improvement capabilities may not materialize as quickly as anticipated, implying a longer developmental roadmap for fully autonomous intelligence. This challenges previous assumptions about rapid, exponential AI evolution.",
-                "This finding directly impacts long-term AI architecture planning, requiring a recalibration of timelines for achieving truly autonomous agentic systems and their integration into critical infrastructure. Enterprise strategy must balance ambitious AI goals with realistic development cycles, focusing on incremental advancements and robust human-in-the-loop oversight for the foreseeable future."
+                "European economists are issuing warnings that the current AI-driven market rally is overextended and susceptible to a sharp correction, citing inflated valuations and unsustainable growth projections. This analysis points to potential instability in tech stocks heavily reliant on speculative AI investments, urging caution from investors.",
+                "This economic outlook impacts strategic investment in AI initiatives and the financial stability of tech portfolios, necessitating a conservative approach to capital deployment. Business leaders must scrutinize the tangible ROI of AI projects and focus on sustainable, defensible growth, preparing for potential market volatility and ensuring their AI strategies are grounded in fundamental value rather than speculative hype."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/25/ai-recursive-self-improvement-might-not-come-so-quickly-after-all",
-                "Published: 2026-08-25T11:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/18/european-economists-warn-ai-driven-market-rally-is-due-a-sharp-correction.html",
+                "Published: 2026-08-18T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

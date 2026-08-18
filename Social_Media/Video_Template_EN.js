@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI ACCESS, SECURITY & MARKET SHIFTS",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has expanded GPT-5.6 Sol's ChatGPT features and made GPT-5.6 Luna accessible for free users. This move broadens advanced model utilization and impacts developer focus on integrating powerful AI capabilities."
+                "narration_line": "OpenAI has unveiled its new GPT-5.6 model, showcasing enhanced frontier intelligence and significant scalability improvements. This directly impacts enterprise deployments, raising computational demands and setting new industry benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "teaserTitle": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is bolstering its Daybreak cyber defense to counter the tightening window against sophisticated AI threats. This aims to protect systems from emerging adversarial AI techniques and vulnerabilities."
+                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, a high-speed, cost-efficient model for diverse AI and agentic workloads. This accelerates real-time processing and reduces critical latency bottlenecks for developers."
             },
             {
                 "slide_index": 3,
-                "headline": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
-                "teaserTitle": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
+                "headline": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
+                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI has sharply cut GPT-5.6 Sol's pricing by fifty percent to boost adoption and make high-performance AI more widely available. This strategic price reduction aims for increased market share and usage volume."
+                "narration_line": "Agentic AI is making central processing units a critical performance bottleneck for certain logic-heavy workloads. This shifts data center infrastructure needs from solely GPU-centric designs."
             },
             {
                 "slide_index": 4,
-                "headline": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
-                "teaserTitle": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
+                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "An AI-generated autofix from GitHub Copilot recently compromised Snowflake's Jira, exposing critical security gaps in AI-assisted development tools. This highlights the need for rigorous auditing of autonomous code generation."
+                "narration_line": "New research suggests AI recursive self-improvement is slower than anticipated, indicating a longer timeline for fully autonomous systems. This requires pragmatic recalibration of enterprise AI strategies and expectations."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
-                "teaserTitle": "MARKET: ANTHROPIC REVENUE HITS $65B",
+                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "teaserTitle": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Nvidia's AI competitive edge is evolving from chip leadership to leveraging extensive capital and ecosystem investments for market control. This strategic shift emphasizes infrastructure dominance and resource aggregation."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense to counter advanced AI-driven threats. This fortifies core models and infrastructure against rapidly evolving adversarial AI attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: ANTHROPIC REVENUE HITS $65B",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "headline": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
+                "teaserTitle": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic reports an annualized revenue run rate reaching sixty-five billion dollars, showing strong market adoption in the frontier AI sector. This rapid financial growth validates its focus on safety-aligned enterprise solutions."
+                "narration_line": "Groq secured three hundred fifty million dollars in funding, pivoting to a \"neocloud\" inference platform for real-time AI. This challenges traditional cloud providers and impacts enterprise compute resource allocation."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "headline": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New research indicates that AI's recursive self-improvement capabilities may develop slower than expected, suggesting a longer path to fully autonomous intelligence. This challenges earlier assumptions about rapid, exponential AI evolution."
+                "narration_line": "European economists warn the AI-driven market rally is overextended and faces a sharp correction. This impacts strategic investments, urging caution and a focus on sustainable, defensible AI growth."
             },
             {
                 "slide_index": 8,
