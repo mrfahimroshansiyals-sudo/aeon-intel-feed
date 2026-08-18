@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HARDWARE: CPU COMEBACK AS AGENTIC AI BOTTLENECK",
-                "teaserTitle": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
-                "visual_caption": "Agentic AI makes CPUs the new performance bottleneck, demanding stronger CPU power. This impacts infrastructure planning, shifting focus from GPU-only procurement."
+                "headline": "MODELS: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "SECURITY: DAYBREAK CYBER DEFENSE NARROWS",
+                "visual_caption": "OpenAI launches GPT-5.6, setting new AI intelligence frontiers. Enterprises must re-evaluate model integration and compute for advanced applications."
             },
             {
                 "slide_index": 2,
-                "headline": "MODELS: GOOGLE DEEPMIND RELEASES GEMINI 3.7 FLASH",
-                "teaserTitle": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
-                "visual_caption": "Google DeepMind releases Gemini 3.7 Flash, a new workhorse model for coding and agents. It optimizes performance-per-parameter, providing efficient AI for complex tasks."
+                "headline": "SECURITY: DAYBREAK CYBER DEFENSE NARROWS",
+                "teaserTitle": "RELIABILITY: CLAUDE DEGRADED MODEL PERFORMANCE",
+                "visual_caption": "OpenAI's \"Daybreak\" report warns of narrowing cyber defense windows. Proactive investment in AI-native security is crucial for organizations."
             },
             {
                 "slide_index": 3,
-                "headline": "MARKET: NVIDIA AI MOAT SHIFTS TO CAPITAL",
-                "teaserTitle": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
-                "visual_caption": "Nvidia's AI moat shifts from chip dominance to a formidable capital moat. This emphasizes financial leverage and ecosystem control as key to AI success."
+                "headline": "RELIABILITY: CLAUDE DEGRADED MODEL PERFORMANCE",
+                "teaserTitle": "ARCHITECTURE: AI AGENTS SHIFT TO SWARM DESIGN",
+                "visual_caption": "Anthropic's Claude models face degraded performance, impacting reliability. Businesses need contingency planning and multi-vendor AI strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "ARCHITECTURE: HARNESSEVAL-W AGENTIFIES AI EVALUATION",
-                "teaserTitle": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "visual_caption": "HarnessEval-W evaluates visual world models using hierarchical sub-agents. This innovation provides transparent evidence for AI performance scores."
+                "headline": "ARCHITECTURE: AI AGENTS SHIFT TO SWARM DESIGN",
+                "teaserTitle": "EFFICIENCY: MODEL QUANTIZATION BREAKTHROUGH",
+                "visual_caption": "AI agents shift from copilots to swarms, enabling decentralized problem-solving. This demands investment in orchestration platforms and infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "teaserTitle": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
-                "visual_caption": "Groq raises $350M to pivot from AI chips to a \"neocloud\" infrastructure. This funding aims to disrupt HPC with specialized real-time AI processing."
+                "headline": "EFFICIENCY: MODEL QUANTIZATION BREAKTHROUGH",
+                "teaserTitle": "REGULATION: SAFER CHATGPT FOR TEENS LAUNCHED",
+                "visual_caption": "\"Shoehorn\" enables model quantization, reducing AI computational footprints. This cuts inference costs and expands edge AI deployment."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: META PATENTS FACIAL RECOGNITION TECH",
-                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
-                "visual_caption": "Meta patents advanced facial recognition and automatic recording technologies. These filings raise significant privacy and regulatory concerns, impacting user data rights."
+                "headline": "REGULATION: SAFER CHATGPT FOR TEENS LAUNCHED",
+                "teaserTitle": "MARKET: AI RALLY FACES SHARP CORRECTION RISK",
+                "visual_caption": "OpenAI launches safer ChatGPT for teens with enhanced safety features. This sets a precedent for age-gated AI and demands compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOFS",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "AI systems verify tough mathematical proofs, showing advanced logical reasoning. This accelerates scientific discovery, reducing human error in complex algorithms."
+                "headline": "MARKET: AI RALLY FACES SHARP CORRECTION RISK",
+                "teaserTitle": "",
+                "visual_caption": "Economists warn AI-driven market rallies face sharp correction risks. Cautious investment strategies and scrutinizing AI project ROI are critical."
             },
             {
                 "slide_index": 8,
