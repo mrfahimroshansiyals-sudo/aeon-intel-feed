@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AZURE DEPLOYS NEW AMD-POWERED AI/HPC VMS",
+        "hookTitle": "OPENAI EXPANDS GPT-5.6 FREE ACCESS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MICROSOFT: AZURE INTRODUCES NEW AMD-POWERED AI/HPC VMS",
-                "teaserTitle": "OPENAI: EXPANDS CYBER DEFENSE WINDOW",
+                "headline": "OPENAI: EXPANDS GPT-5.6 ACCESS FOR FREE USERS",
+                "teaserTitle": "ANTHROPIC ANNUALIZED REVENUE HITS $65 BILLION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Microsoft Azure expanded its infrastructure by introducing new AMD-powered AI and HPC virtual machines. These offerings provide enterprises with powerful, efficient compute options, optimizing cloud spend for intensive computational projects."
+                "narration_line": "OpenAI has enhanced GPT-5.6 Sol and made GPT-5.6 Luna accessible to free users, expanding frontier model capabilities. This move aims to democratize advanced AI, fostering innovation and wider application development."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
-                "teaserTitle": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
+                "headline": "ANTHROPIC: ANNUALIZED REVENUE HITS $65 BILLION",
+                "teaserTitle": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI introduced Daybreak, a new initiative to expand cyber defense against advanced AI-driven threats and vulnerabilities. This system integrates enhanced detection and rapid response, significantly narrowing adversary exploitation windows."
+                "narration_line": "Anthropic's annualized revenue run rate reached sixty-five billion dollars by July, signaling rapid enterprise adoption of its AI solutions. This financial milestone demonstrates robust market demand and strong commercial traction."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "headline": "GOOGLE CLOUD: LAUNCHES AI THREAT DEFENSE PLATFORM",
+                "teaserTitle": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Google DeepMind unveiled Gemini three point seven Flash, their latest intelligent model optimized for coding and agentic applications. This iteration offers improved processing speed and efficiency, accelerating complex AI agent development and deployment."
+                "narration_line": "Google Cloud launched AI Threat Defense, a new platform leveraging advanced AI to proactively counter cyber threats. This solution aims to reduce response times and minimize potential breach impacts for enterprises."
             },
             {
                 "slide_index": 4,
-                "headline": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "teaserTitle": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
+                "headline": "MICROSOFT AZURE: UNVEILS FOUNDRY AND IQ FOR AGENT DEPLOYMENT",
+                "teaserTitle": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Alibaba launched its Qwen three point eight twenty-seven billion parameter model, engineered for efficient operation on edge AI devices. This model decentralizes AI inference, enabling robust real-time applications with lower latency and enhanced data privacy."
+                "naration_line": "Microsoft Azure introduced Foundry and IQ to optimize production AI agent deployment and governance. These services help enterprises securely integrate autonomous AI into workflows with shared context."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
-                "teaserTitle": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
+                "headline": "CIO: AI AGENT INFERENCE COSTS SET TO SURGE",
+                "teaserTitle": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "NVIDIA partnered with SB Energy to exclusively host its AI compute infrastructure at the PORTS-Pike Technology Campus in Ohio. This agreement secures a dedicated, large-scale environment for advanced AI computing, meeting escalating demand for frontier models."
+                "narration_line": "Gartner predicts AI agent inference costs per workflow will rise over fivefold by two thousand twenty-eight, despite cheaper general inference. This signals a critical economic challenge for extensive agent deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
-                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "EU AI ACT: OFFICE LAUNCHES MAJOR HIRING DRIVE",
+                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An AI system has formally verified the toughest mathematics proof to date, marking a significant milestone in computational logic. This breakthrough demonstrates AI's capability to assist and validate complex theoretical work, enhancing scientific rigor."
+                "narration_line": "The EU AI Office is launching a major hiring drive for forty new tech, legal, and operational posts. This initiative aims to enforce the AI Act, transitioning from legislation to active implementation."
             },
             {
                 "slide_index": 7,
-                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "headline": "IEEE SPECTRUM: CPU COMEBACK DRIVEN BY AGENTIC AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mistral AI introduced Shieldstral, providing in-region inference and European infrastructure for sovereign AI deployments. This enables enterprises to deploy powerful AI models while maintaining strict data governance and regulatory compliance locally."
+                "narration_line": "Agentic AI workloads are making central processing units the new performance bottleneck, marking a CPU comeback. This indicates an architectural shift, demanding innovation in CPU designs for evolving AI needs."
             },
             {
                 "slide_index": 8,
