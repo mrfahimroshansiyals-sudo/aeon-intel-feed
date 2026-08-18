@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA $100B FOR OPENAI OHIO DATA CENTER",
+        "hookTitle": "HIGH NA EUV REACHES READINESS MILESTONE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $100B FOR OPENAI OHIO DATA CENTER",
-                "teaserTitle": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
+                "headline": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA is investing one hundred billion dollars into an OpenAI data center located in Ohio. This massive capital injection secures critical infrastructure, accelerating frontier AI development and deployment for enterprises."
+                "narration_line": "ASML has achieved a major milestone by delivering its first high-volume Logic product using High NA EUV lithography. This breakthrough accelerates semiconductor manufacturing precision for the next era of advanced microchips."
             },
             {
                 "slide_index": 2,
-                "headline": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
+                "teaserTitle": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The EU AI Office is creating forty new positions dedicated to enforcing the new EU AI Act. This expansion signals Europe's commitment to stringent AI governance, increasing compliance requirements for global businesses."
+                "narration_line": "Nvidia partnered with major financial institutions to establish financing platforms mobilizing over 500 billion dollars. This capital injection directly addresses the physical infrastructure bottleneck facing hyperscale data centers."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+                "teaserTitle": "GARTNER: AI INFERENCE COSTS SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has introduced WeatherNext AI, achieving a breakthrough in cyclone forecasting. This model provides more accurate and timely predictions, significantly improving disaster preparedness worldwide."
+                "narration_line": "OpenAI rolled out GPT-5.6 with advanced frontier intelligence designed to scale with enterprise ambition. Early deployments show models completing complex financial tasks with significantly reduced latency."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
+                "headline": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
+                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI is enhancing its Daybreak initiative to strengthen cyber defense against AI threats. This program boosts security against adversarial attacks, building greater trust in AI applications."
+                "narration_line": "Gartner predicts AI inference costs per workflow will rise more than 5fold through 2028. Continuous agent reasoning and background planning are creating unexpected financial burdens for IT budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
+                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "teaserTitle": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Agentic AI is driving a CPU resurgence as it emerges as a new performance bottleneck. This shift necessitates balanced compute strategies, integrating both CPUs and GPUs for optimal AI workloads."
+                "narration_line": "Anthropic reported its annualized revenue run rate climbed rapidly to 65 billion dollars in July. This exponential growth reflects accelerating commercial demand for high-tier intelligence."
             },
             {
                 "slide_index": 6,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
-                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "headline": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
+                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Alibaba Cloud has released its Qwen 3.8 27B model, specifically optimized for edge AI devices. This enables advanced AI capabilities to run efficiently on local hardware, reducing cloud reliance."
+                "narration_line": "The EU AI Office opened a recruitment drive for 40 specialized technical and legal positions. This expansion provides the necessary personnel to enforce compliance across European markets."
             },
             {
                 "slide_index": 7,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "headline": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "IBM is partnering with OpenAI to accelerate enterprise AI deployment through its consulting services. This collaboration offers businesses a streamlined path to AI-centric transformation and competitive advantage."
+                "narration_line": "A-M-D has agreed to acquire Taalas to integrate breakthrough inference efficiency into its hardware roadmap. This acquisition strengthens silicon performance for rapidly expanding AI workloads."
             },
             {
                 "slide_index": 8,

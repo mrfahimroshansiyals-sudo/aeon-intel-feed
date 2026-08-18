@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "$100B FOR OPENAI OHIO DATA",
-        "titleBlue": "CENTER",
-        "footerSummary": "NVIDIA's massive investment into OpenAI's Ohio data center signals deepening ties and an accelerated build-out of critical AI infrastructure."
+        "titleWhite": "HIGH NA EUV REACHES NEW READINESS",
+        "titleBlue": "MILESTONE",
+        "footerSummary": "ASML achieves first high-volume Logic product using High NA EUV, accelerating semiconductor fabrication for the next era."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "NVIDIA: $100B FOR OPENAI OHIO DATA CENTER",
+            "heading": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
             "points": [
-                "NVIDIA has pledged $100 billion to support the development of an OpenAI data center in Ohio, intensifying their strategic partnership.",
-                "This investment ensures dedicated, large-scale compute resources for OpenAI's advanced model training and deployment. It reinforces the capacity necessary for future frontier AI development.",
-                "Strategically, this commitment solidifies NVIDIA's role as a foundational enabler for leading AI developers, fostering a robust, integrated ecosystem for AI advancement in the US.",
-                "Enterprises and developers can anticipate accelerated access to OpenAI's capabilities, driven by this enhanced computational backbone, promising faster innovation cycles."
+                "ASML has achieved a major technological milestone by successfully delivering its first high-volume Logic product utilizing High NA EUV lithography systems.",
+                "This deployment significantly advances semiconductor manufacturing capabilities, enabling chipmakers to pattern microchips with unprecedented nanometer precision and efficiency.",
+                "As the semiconductor industry enters its next architectural era, High NA EUV technology remains foundational for sustaining Moore's Law and silicon scaling.",
+                "Leading global chip manufacturers can now accelerate advanced node production to satisfy surging computational demands across enterprise data centers."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
+            "nextUpTease": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
             "tags": [
-                "Source: https://www.ft.com/content/123xyz",
-                "Published: 2026-08-17T20:00:00Z",
+                "Source: https://www.asml.com/en/news",
+                "Published: 2026-07-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
+            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
             "points": [
-                "The EU AI Office is launching a major recruitment drive, seeking 40 new experts in tech, legal, and operations to bolster enforcement of the EU AI Act.",
-                "This significant expansion of staff is crucial for effectively implementing the world's first comprehensive AI regulation, ensuring compliance and oversight across Europe.",
-                "The initiative underscores the EU's commitment to robust AI governance and its ambition to set global standards for safe and trustworthy AI deployment.",
-                "Businesses operating in the EU must prepare for heightened scrutiny and compliance requirements as the AI Act's enforcement capabilities rapidly scale up."
+                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to establish massive AI financing platforms.",
+                "This collaboration aims to mobilize over $500B of third-party capital specifically dedicated to scaling global AI compute infrastructure and data center capacity.",
+                "The initiative addresses the critical capital expenditure bottleneck facing hyperscalers as they construct next-generation gigawatt-scale AI computing campuses.",
+                "Institutional investors gain direct exposure to the booming AI asset class while securing the physical infrastructure needed for long-term technological expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
+            "nextUpTease": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "tags": [
-                "Source: https://artificialintelligenceact.eu/news-alert-40-new-ai-office-posts/",
-                "Published: 2026-08-18T09:00:00Z",
+                "Source: https://nvidianews.nvidia.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
             "points": [
-                "Google DeepMind has introduced WeatherNext, a groundbreaking AI model demonstrating significant breakthroughs in forecasting the paths and intensity of cyclones.",
-                "This model offers unprecedented accuracy and speed in predicting severe weather events, potentially improving lead times for disaster preparedness and response globally.",
-                "The development highlights the transformative potential of AI in complex scientific domains, moving beyond traditional simulations to data-driven predictive intelligence.",
-                "Governments, emergency services, and at-risk populations stand to benefit immensely from more precise and timely warnings, enhancing global resilience to climate challenges."
+                "OpenAI has rolled out GPT-5.6, introducing advanced frontier intelligence capabilities designed to scale dynamically with enterprise operational ambition.",
+                "Early enterprise deployment benchmarks show models completing complex financial and engineering tasks with significantly higher efficiency and reduced latency.",
+                "The release reflects a structural shift toward agentic autonomy, enabling models to execute multi-step workflows across professional environments reliably.",
+                "Businesses adopting GPT-5.6 can anticipate immediate productivity gains and deeper automation integration across core software development cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "nextUpTease": "GARTNER: AI INFERENCE COSTS SURGE",
             "tags": [
-                "Source: https://deepmind.google/discover/news/weather-next-cyclone-forecasting-breakthrough/",
-                "Published: 2026-08-18T11:00:00Z",
+                "Source: https://openai.com/research",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
+            "heading": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
             "points": [
-                "OpenAI is expanding its Daybreak initiative, a security program focused on narrowing the cyber defense window against advanced AI threats and adversarial attacks.",
-                "This program enhances OpenAI's capabilities to detect and mitigate evolving cyber risks associated with AI models, improving the security posture of its platforms.",
-                "It represents a critical strategic investment in safeguarding AI systems and user data, aligning with the industry's growing focus on responsible AI development and deployment.",
-                "Organizations utilizing OpenAI's models can expect improved resilience against sophisticated cyber threats, fostering greater trust and security in AI-powered applications."
+                "Gartner predicts that inference costs per AI workflow will rise more than 5fold through 2028 as autonomous agents engage in continuous reasoning and planning.",
+                "While base token generation is getting cheaper, the background operations required by multi-agent swarms create unexpected financial burdens for IT budgets.",
+                "This trend highlights a widening gap between raw model pricing drops and the total cost of ownership associated with autonomous enterprise deployments.",
+                "CIOs must implement real-time infrastructure cost visibility and governance frameworks to prevent uncontrolled cloud compute expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
+            "nextUpTease": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
             "tags": [
-                "Source: https://openai.com/blog/expanding-daybreak-cyber-defense/",
-                "Published: 2026-08-18T09:30:00Z",
+                "Source: https://www.cio.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
+            "heading": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
             "points": [
-                "Agentic AI's rise is positioning CPUs as a new performance bottleneck in AI workloads, driving a resurgence in CPU innovation and demand.",
-                "While GPUs dominate training, the orchestrating and decision-making nature of agentic AI often leverages CPU-intensive operations, shifting compute requirements.",
-                "This signals a significant architectural evolution where balanced compute strategies, integrating both CPUs and GPUs, become critical for efficient AI deployment.",
-                "Developers and hardware manufacturers must re-evaluate system designs to optimize for agentic workloads, impacting future chip designs and data center strategies."
+                "Anthropic's annualized revenue run rate climbed rapidly to $65 billion in July, driven by enterprise adoption of Claude 5 and specialized research tools.",
+                "The exponential revenue growth reflects accelerating commercial demand for secure, high-tier intelligence capable of handling complex coding and analysis.",
+                "This financial milestone solidifies Anthropic's market position alongside other foundational AI giants in capturing enterprise technology budgets.",
+                "Market competitors will likely accelerate their own model commercialization timelines to compete for large-scale enterprise service contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
+            "nextUpTease": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
             "tags": [
-                "Source: https://spectrum.ieee.org/cpu-comeback-agentic-ai/",
-                "Published: 2026-08-16T10:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
+            "heading": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
             "points": [
-                "Alibaba Cloud has released the Qwen 3.8 27B model, specifically engineered and optimized to run efficiently on edge AI devices and local hardware.",
-                "This 27 billion parameter model enables sophisticated AI capabilities directly on devices like laptops, reducing latency and reliance on cloud infrastructure.",
-                "The move highlights a growing industry trend towards democratizing advanced AI by making powerful models accessible for on-device inference in resource-constrained environments.",
-                "This offers new opportunities for developers to create private, high-performance AI applications across various edge computing sectors, from IoT to personal devices."
+                "The EU AI Office has opened a major recruitment drive for 40 specialized technical, legal, and operational positions to enforce the EU AI Act.",
+                "This regulatory expansion provides the necessary personnel to oversee general-purpose AI models and ensure strict compliance across European markets.",
+                "The initiative underscores the European Union's determination to establish enforceable global standards for trustworthy and transparent artificial intelligence.",
+                "Firms operating within the EU must audit their AI deployments immediately to align with upcoming Chapter V enforcement deadlines."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+            "nextUpTease": "AMD: ACQUIRES TAALAS FOR INFERENCE",
             "tags": [
-                "Source: https://www.aibusiness.com/generative-ai/alibaba-qwen-38-27b-model-targets-edge-ai",
-                "Published: 2026-08-17T18:00:00Z",
+                "Source: https://artificialintelligenceact.eu",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+            "heading": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
             "points": [
-                "IBM has formed a strategic partnership with OpenAI, integrating frontier AI models and OpenAI engineers into its consulting services to accelerate enterprise AI adoption.",
-                "This collaboration aims to provide businesses with end-to-end solutions for deploying and scaling generative AI, bridging the gap between innovation and practical application.",
-                "The alliance leverages IBM's extensive enterprise client base and consulting expertise with OpenAI's cutting-edge model development, creating a powerful market offering.",
-                "Enterprises can expect a streamlined pathway to AI-centric transformation, gaining access to specialized talent and advanced tools for competitive advantage."
+                "AMD has reached a definitive agreement to acquire Taalas, integrating its breakthrough inference performance and efficiency technology into the hardware roadmap.",
+                "The acquisition enhances AMD's capability to deliver high-throughput, energy-optimized silicon solutions for rapidly expanding AI inference workloads.",
+                "Strategically, this move strengthens AMD's competitive positioning against market incumbents in the data center and edge hardware sectors.",
+                "Enterprise customers can expect enhanced hardware performance-per-watt ratios, helping mitigate surging data center energy consumption crises."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cio.com/article/200000/ibm-partners-with-openai-to-drive-enterprise-ai-deployment.html",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://www.amd.com",
+                "Published: 2026-08-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

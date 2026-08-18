@@ -4,56 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: $100B FOR OPENAI OHIO DATA CENTER",
-                "teaserTitle": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
-                "visual_caption": "NVIDIA is investing $100B into an OpenAI data center in Ohio. This massive capital injection secures critical infrastructure, accelerating frontier AI development for enterprises."
+                "headline": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
+                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "visual_caption": "ASML has achieved a major milestone by delivering its first high-volume Logic product using High NA EUV lithography. This breakthrough accelerates semiconductor manufacturing precision for the next era of advanced microchips."
             },
             {
                 "slide_index": 2,
-                "headline": "EU AI ACT: 40 NEW ENFORCEMENT POSTS",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
-                "visual_caption": "The EU AI Office is creating 40 new posts for EU AI Act enforcement. This expansion signals Europe's commitment to stringent AI governance, increasing compliance for global businesses."
+                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
+                "teaserTitle": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "visual_caption": "NVIDIA partnered with major financial institutions to establish financing platforms mobilizing over $500B. This capital injection directly addresses the physical infrastructure bottleneck facing hyperscale data centers."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTS",
-                "teaserTitle": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google DeepMind unveiled WeatherNext AI, a breakthrough in cyclone forecasting. This model provides more accurate, timely predictions, improving disaster preparedness worldwide."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+                "teaserTitle": "GARTNER: AI INFERENCE COSTS SURGE",
+                "visual_caption": "OpenAI rolled out GPT-5.6 with advanced frontier intelligence designed to scale with enterprise ambition. Early deployments show models completing complex financial tasks with significantly reduced latency."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: EXPANDS DAYBREAK FOR CYBER DEFENSE",
-                "teaserTitle": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "OpenAI is enhancing its Daybreak initiative for cyber defense against AI threats. This program boosts security against adversarial attacks, building greater trust in AI apps."
+                "headline": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
+                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
+                "visual_caption": "Gartner predicts AI inference costs per workflow will rise more than 5x through 2028. Continuous agent reasoning and background planning are creating unexpected financial burdens for IT budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTING: AGENTIC AI DRIVES CPU COMEBACK",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Agentic AI is driving CPU comeback as a new performance bottleneck emerges. This shift necessitates balanced compute strategies, integrating CPUs and GPUs for optimal AI workloads."
+                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "teaserTitle": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
+                "visual_caption": "Anthropic reported its annualized revenue run rate climbed rapidly to $65B in July. This exponential growth reflects accelerating commercial demand for high-tier intelligence."
             },
             {
                 "slide_index": 6,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
-                "teaserTitle": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Alibaba Cloud released its Qwen 3.8 27B model, optimized for edge AI devices. This enables advanced AI on local hardware, reducing cloud reliance."
+                "headline": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
+                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
+                "visual_caption": "The EU AI Office opened a recruitment drive for 40 specialized technical and legal positions. This expansion provides the necessary personnel to enforce compliance across European markets."
             },
             {
                 "slide_index": 7,
-                "headline": "IBM: PARTNERS OPENAI FOR ENTERPRISE AI",
+                "headline": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "IBM partners with OpenAI to accelerate enterprise AI deployment via consulting services. This collaboration offers businesses a streamlined path to AI transformation and competitive advantage."
+                "visual_caption": "AMD has agreed to acquire Taalas to integrate breakthrough inference efficiency into its hardware roadmap. This acquisition strengthens silicon performance for rapidly expanding AI workloads."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
