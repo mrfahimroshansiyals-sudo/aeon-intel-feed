@@ -4,47 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODEL ACCESS: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "MODEL RELEASE: OPENAI UNVEILS GPT-5.6 FRONTIER",
-                "visual_caption": "OpenAI cut GPT-5.6 Sol API pricing by 50%. This makes advanced model capabilities more accessible for developers and enterprises."
+                "headline": "PRICING: OPENAI SOL PRICING CUT BY 50%",
+                "teaserTitle": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "visual_caption": "OpenAI slashed GPT-5.6 Sol pricing by 50% across API tiers. This adjustment compresses provider margins and accelerates enterprise adoption."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL RELEASE: OPENAI UNVEILS GPT-5.6 FRONTIER",
-                "teaserTitle": "HARDWARE: GROQ SECURES $350M FOR NEOCLOUD PIVOT",
-                "visual_caption": "OpenAI introduced GPT-5.6 Frontier, an intelligence model for advanced problem-solving. This enhances multi-modal handling and autonomous agent development."
+                "headline": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "teaserTitle": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
+                "visual_caption": "Anthropic's annualized revenue run rate surged to $65B in July. Strong enterprise demand for Opus 5 drives this financial expansion."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: GROQ SECURES $350M FOR NEOCLOUD PIVOT",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "Groq secured $350M to pivot to a \"neocloud\" inference platform. This scales specialized compute infrastructure for real-time AI workloads."
+                "headline": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
+                "teaserTitle": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
+                "visual_caption": "Groq raised $350M to pivot from silicon to neocloud infrastructure. The capital expands LPU hosting capacity for low-latency workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "APPLIED AI: WEATHERNEXT ACHIEVES CYCLONE FORECASTING",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, their most intelligent workhorse for coding and agentic applications. It optimizes performance for complex software development tasks."
+                "headline": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
+                "teaserTitle": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "visual_caption": "Agent swarms have triggered memory bottlenecks, driving a CPU comeback. Data centers must rebalance procurement to support complex orchestration."
             },
             {
                 "slide_index": 5,
-                "headline": "APPLIED AI: WEATHERNEXT ACHIEVES CYCLONE FORECASTING",
-                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF YET",
-                "visual_caption": "Google DeepMind's WeatherNext AI achieved a major breakthrough in cyclone forecasting. It offers enhanced accuracy and lead times over traditional models."
+                "headline": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "teaserTitle": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
+                "visual_caption": "The EU commenced strict enforcement of AI Act transparency rules. Deployed models must comply with documentation mandates to avoid penalties."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF YET",
-                "teaserTitle": "CYBERSECURITY: OPENAI STRENGTHENS DAYBREAK DEFENSES",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "AI systems successfully verified one of the toughest mathematical proofs. This marks a new frontier in automated reasoning and formal verification."
+                "headline": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
+                "teaserTitle": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+                "visual_caption": "Automation startup Relay shut down and its staff joined Google. Tech giants continue aggressive talent consolidation across the sector."
             },
             {
                 "slide_index": 7,
-                "headline": "CYBERSECURITY: OPENAI STRENGTHENS DAYBREAK DEFENSES",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "OpenAI is expanding its \"Daybreak\" cyber defense window, enhancing security protocols to protect frontier models. This narrows the exploitation window for AI-specific cyber threats."
+                "headline": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+                "teaserTitle": "",
+                "visual_caption": "Investigators flagged an unprecedented wave of spyware alerts on Apple devices. Organizations must enhance endpoint security protocols."
             },
             {
                 "slide_index": 8,
