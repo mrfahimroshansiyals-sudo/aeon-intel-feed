@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "visual_caption": "OpenAI has dramatically cut GPT-5.6 Sol inference costs by 50%, expanding access to Luna and unveiling Sol's superior vision model. This impacts compute budgets, making multimodal applications more accessible."
+                "headline": "SECURITY: AI-GENERATED COPILOT COMPROMISE HITS JIRA",
+                "teaserTitle": "MODELS: GPT 5.6 SOL SETS NEW VISION BENCHMARKS",
+                "visual_caption": "AI-generated autofix from GitHub Copilot led to a compromise of Snowflake's Jira. This exposes critical vulnerabilities in integrating generative AI tools into sensitive enterprise workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "teaserTitle": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "visual_caption": "Groq secured $350M in funding to pivot from AI chips to a \"neocloud\" strategy. This aims to establish high-performance compute, competing with existing cloud providers."
+                "headline": "MODELS: GPT 5.6 SOL SETS NEW VISION BENCHMARKS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "visual_caption": "OpenAI's GPT-5.6 Sol is now the leading vision model, demonstrating superior capabilities in image and video understanding. This breakthrough is critical for advanced multimodal AI applications."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "Anthropic reported an annualized revenue run rate surging to $65B in July. This financial growth validates market demand for safety-focused frontier AI and intensifies competition."
+                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
+                "visual_caption": "OpenAI announced performance improvements for GPT-5.6 Sol and free access to GPT-5.6 Luna. This strategy enhances Sol's capabilities while democratizing Luna's access."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "OpenAI is expanding its \"Daybreak\" cyber defense initiative, addressing the narrowing window for AI-powered attack detection. This aims to bolster resilience against adversarial techniques."
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "APPLICATIONS: DEEPMIND WEATHERNEXT FORECASTS CYCLONES",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, their latest frontier model for coding and agentic tasks. This new iteration offers enhanced efficiency and capability for sophisticated AI deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
-                "teaserTitle": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
-                "visual_caption": "Israel is reportedly creating fake AI think tanks to influence public opinion, raising critical questions about disinformation and generative AI misuse. This highlights challenges in verifying online information."
+                "headline": "APPLICATIONS: DEEPMIND WEATHERNEXT FORECASTS CYCLONES",
+                "teaserTitle": "MODELS: LIGHTRICKS RELEASES LTX-2.5 UPDATE",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, improving accuracy and lead times. This is significant for disaster preparedness and climate modeling."
             },
             {
                 "slide_index": 6,
-                "headline": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
-                "teaserTitle": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
-                "visual_caption": "Google DeepMind is putting sign language AI into users' hands, developing models for real-time translation and interaction. This initiative aims to bridge communication gaps and expand AI utility."
+                "headline": "MODELS: LIGHTRICKS RELEASES LTX-2.5 UPDATE",
+                "teaserTitle": "INDUSTRY: AI STARTUP RELAY SHUTS DOWN, TALENT TO GOOGLE",
+                "visual_caption": "Lightricks updated its LTX-2.5 model, enhancing performance for creative and media generation tasks. This offers refined capabilities for image and video editing workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "",
-                "visual_caption": "AI-assisted development is shifting from single \"copilot\" models to orchestrated \"agent swarms,\" enabling more autonomous and complex task execution. This implies a fundamental change in operational workflows."
+                "headline": "INDUSTRY: AI STARTUP RELAY SHUTS DOWN, TALENT TO GOOGLE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "AI automation startup Relay shut down, with its staff joining Google\u2019s Chrome team. This reflects industry consolidation as major tech players absorb specialized AI talent."
             },
             {
                 "slide_index": 8,

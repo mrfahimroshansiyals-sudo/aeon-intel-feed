@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI PRICING HALVED: NEW MARKET SHIFTS",
+        "hookTitle": "COPILOT COMPROMISE HITS SNOWFLAKE JIRA",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "headline": "SECURITY: AI-GENERATED COPILOT COMPROMISE HITS JIRA",
+                "teaserTitle": "MODELS: GPT 5.6 SOL SETS NEW VISION BENCHMARKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has dramatically cut GPT-5.6 Sol inference costs by fifty percent, also expanding access to Luna and unveiling Sol's superior vision model. This impacts compute budgets, making advanced multimodal applications significantly more accessible."
+                "narration_line": "AI-generated autofix from GitHub Copilot led to a compromise of Snowflake's Jira instance. This incident exposes critical vulnerabilities in integrating generative AI tools into sensitive enterprise workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "teaserTitle": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "headline": "MODELS: GPT 5.6 SOL SETS NEW VISION BENCHMARKS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Groq has secured three hundred fifty million dollars in funding to pivot from AI chips to a \"neocloud\" strategy. This capital injection aims to establish high-performance compute, competing directly with existing cloud providers."
+                "narration_line": "OpenAI's GPT five point six Sol is now the leading vision model, demonstrating superior capabilities in image and video understanding. This breakthrough is critical for advanced multimodal AI applications, pushing visual reasoning frontiers."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Anthropic has reported an annualized revenue run rate surging to sixty-five billion dollars in July. This impressive financial growth validates strong market demand for safety-focused frontier AI and intensifies competition."
+                "narration_line": "OpenAI announced performance improvements for GPT five point six Sol and free access to GPT five point six Luna. This strategy enhances Sol's capabilities while democratizing Luna's access for wider adoption."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
+                "headline": "GOOGLE DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "APPLICATIONS: DEEPMIND WEATHERNEXT FORECASTS CYCLONES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI is expanding its \"Daybreak\" cyber defense initiative, addressing the narrowing window for threat detection and response in AI-powered attacks. This aims to bolster resilience against emerging adversarial techniques."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, their latest frontier model for coding and agentic tasks. This new iteration offers enhanced efficiency and capability, targeting developers for sophisticated AI deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
-                "teaserTitle": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
+                "headline": "APPLICATIONS: DEEPMIND WEATHERNEXT FORECASTS CYCLONES",
+                "teaserTitle": "MODELS: LIGHTRICKS RELEASES LTX-2.5 UPDATE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Israel is reportedly creating fake AI-generated think tanks to influence public opinion, raising critical questions about disinformation and ethical misuse of generative AI. This highlights challenges in verifying online information."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, improving accuracy and lead times. This advancement is significant for disaster preparedness and climate modeling, offering crucial predictive insights."
             },
             {
                 "slide_index": 6,
-                "headline": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
-                "teaserTitle": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
+                "headline": "MODELS: LIGHTRICKS RELEASES LTX-2.5 UPDATE",
+                "teaserTitle": "INDUSTRY: AI STARTUP RELAY SHUTS DOWN, TALENT TO GOOGLE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind is putting sign language AI into users' hands, developing advanced models capable of real-time translation and interaction. This initiative aims to bridge communication gaps and expand AI utility."
+                "narration_line": "Lightricks updated its LTX two point five model, enhancing performance for creative and media generation tasks. This continuous advancement offers refined capabilities for image and video editing workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "",
+                "headline": "INDUSTRY: AI STARTUP RELAY SHUTS DOWN, TALENT TO GOOGLE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The paradigm in AI-assisted development is shifting from single \"copilot\" models to orchestrated \"agent swarms,\" enabling more autonomous and complex task execution. This implies a fundamental change in operational workflows."
+                "narration_line": "AI automation startup Relay shut down, with its staff joining Google\u2019s Chrome team. This reflects industry consolidation, as major tech players absorb specialized AI talent."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
