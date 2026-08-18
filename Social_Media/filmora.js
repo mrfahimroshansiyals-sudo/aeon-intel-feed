@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "STRIPE: OPENROUTER ACQUISITION VALUED AT $7B",
-                "teaserTitle": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
-                "visual_caption": "Stripe is set to acquire AI gateway startup OpenRouter for $7B. The strategic deal embeds multi-model developer routing directly into global enterprise billing and payment infrastructure."
+                "headline": "GROQ: RAISES $350M TO FUEL NEOCLOUD",
+                "teaserTitle": "HIGGSFIELD: RAISES $400M SERIES B",
+                "visual_caption": "Groq secured $350M to pivot from specialized chips toward neocloud infrastructure. This funding scales dedicated inference platforms for enterprise workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
-                "teaserTitle": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
-                "visual_caption": "Groq has raised $350M to scale its specialized neocloud compute fleet. This funding accelerates dedicated inference deployments to challenge conventional GPU data center dominance."
+                "headline": "HIGGSFIELD: RAISES $400M SERIES B",
+                "teaserTitle": "WISPR: RAISES $280M AT $2B VALUATION",
+                "visual_caption": "Higgsfield closed a $400M Series B round, quadrupling its valuation to $5.4B. The capital will fund core cluster expansions for video generation pipelines."
             },
             {
                 "slide_index": 3,
-                "headline": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
-                "visual_caption": "Video generation firm Higgsfield secured $400M, driving its private valuation to $5.4B. The investment targets production-grade visual synthesis pipelines for enterprise media workflows."
+                "headline": "WISPR: RAISES $280M AT $2B VALUATION",
+                "teaserTitle": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
+                "visual_caption": "Wispr raised $280M at a $2B valuation to expand beyond dictation. The investment accelerates hands-free neural interface software development."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
-                "visual_caption": "OpenAI has slashed API token rates for GPT-5.6 Sol by 50%. This reduction significantly lowers operational overhead for large-scale enterprise coding and autonomous agent workflows."
+                "headline": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
+                "teaserTitle": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
+                "visual_caption": "Stripe is reportedly acquiring AI gateway OpenRouter for $7B+. The deal bridges high-volume model routing with global payment processing."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
-                "teaserTitle": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
-                "visual_caption": "Researchers discovered an automated Copilot code fix created a security breach compromising Jira systems. The vulnerability underscores immediate security risks in unverified AI code generation across enterprise software pipelines."
+                "headline": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
+                "teaserTitle": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
+                "visual_caption": "Agentic AI workflows are making traditional CPUs the primary performance bottleneck in data centers. Complex multi-step reasoning demands balanced hybrid processing architectures."
             },
             {
                 "slide_index": 6,
-                "headline": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
-                "teaserTitle": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
-                "visual_caption": "Engineers successfully utilized automated reasoning models to verify a complex formal mathematics proof. This breakthrough establishes neuro-symbolic verification as a critical tool for mission-critical software and chip design."
+                "headline": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
+                "teaserTitle": "REGULATION: EU ENFORCES NEW AI ACT RULES",
+                "visual_caption": "An AI-generated GitHub Copilot feature allowed a breach of Snowflake's Jira instance. This incident highlights the risks of automated code fixes without human validation."
             },
             {
                 "slide_index": 7,
-                "headline": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Lightricks has released the open-weights LTX-2.5 video foundation model. The optimized architecture delivers real-time high-fidelity temporal video generation on single workstation hardware setups."
+                "headline": "REGULATION: EU ENFORCES NEW AI ACT RULES",
+                "teaserTitle": "",
+                "visual_caption": "The European Union has officially started enforcing new AI Act transparency rules. Organizations now face mandatory compliance audits for automated deployments."
             },
             {
                 "slide_index": 8,

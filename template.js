@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENROUTER ACQUISITION VALUED AT",
-        "titleBlue": "$7B",
-        "footerSummary": "Stripe acquires OpenRouter for $7B while Groq secures $350M, signaling aggressive infrastructure consolidation across AI developer routing and neocloud compute."
+        "titleWhite": "GROQ RAISES $350M TO FUEL",
+        "titleBlue": "NEOCLOUD",
+        "footerSummary": "Groq secures $350M to accelerate its strategic pivot from specialized hardware chips toward scalable neocloud infrastructure and expanded enterprise compute services."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "STRIPE: OPENROUTER ACQUISITION VALUED AT $7B",
+            "heading": "GROQ: RAISES $350M TO FUEL NEOCLOUD",
             "paragraphs": [
-                "Financial infrastructure giant Stripe has entered an agreement to acquire AI model gateway OpenRouter for over $7B. The transaction integrates multi-model token routing directly into enterprise payment and billing stacks, consolidating high-volume developer API traffic.",
-                "This acquisition positions Stripe at the critical routing layer between enterprise applications and competing foundation model providers. Engineering organizations must assess whether centralized payment-layer routing creates single-provider lock-in or lowers overall API margin overhead."
+                "Groq has successfully secured $350M in new capital to drive its ongoing operational shift from standalone artificial intelligence silicon toward comprehensive neocloud services. This strategic pivot addresses the growing enterprise demand for dedicated, high-speed inference platforms capable of handling massive transactional workloads.",
+                "The fresh capital injection positions the company to aggressively scale its data center footprint while competing directly against traditional hyper-scaler infrastructure offerings. Engineering executives must evaluate how dedicated inference clouds impact total cost of ownership across distributed production environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
+            "nextUpTease": "HIGGSFIELD: RAISES $400M SERIES B",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/18/stripe-openrouter-acquisition-7b",
-                "Published: 2026-08-18T10:30:00Z",
+                "Source: https://techcrunch.com/2026/08/11/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+                "Published: 2026-08-11T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
+            "heading": "HIGGSFIELD: RAISES $400M SERIES B",
             "paragraphs": [
-                "Inference accelerator specialist Groq has secured $350M in fresh funding to accelerate its transition from pure silicon hardware sales into a full-stack neocloud provider. The capital deployment expands dedicated LPU capacity across global cloud regions to serve ultra-low-latency workloads.",
-                "As foundational reasoning models mandate rapid token generation speeds, Groq\u2019s neocloud infrastructure directly challenges traditional GPU clusters for production inference. Infrastructure architects must evaluate the long-term cost benefits of dedicated inference silicon against general-purpose compute fleets."
+                "Higgsfield has closed a massive $400M Series B funding round, quadrupling its corporate valuation to $5.4B in just 8 months of operation. The rapid valuation growth underscores intense investor appetite for advanced video generation platforms and scalable media synthesis tooling.",
+                "The capital will fund core cluster expansions to support real-time rendering pipelines and reduce latency for enterprise creative teams. Media tech buyers must now factor high-valuation vendor stability into their long-term content automation roadmaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
+            "nextUpTease": "WISPR: RAISES $280M AT $2B VALUATION",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/18/groq-raises-350m-neocloud-pivot",
-                "Published: 2026-08-18T05:00:00Z",
+                "Source: https://techcrunch.com/2026/08/11/higgsfield-raises-400m-series-b-valuation/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
+            "heading": "WISPR: RAISES $280M AT $2B VALUATION",
             "paragraphs": [
-                "Generative video developer Higgsfield has closed a $400M Series B funding round, quadrupling its market valuation to $5.4B within an 8-month timeframe. The company is directing resources toward enterprise video synthesis architectures with fine-grained motion control.",
-                "The rapid valuation surge highlights intense enterprise demand for automated commercial video production pipelines. Technical leaders must evaluate integration overhead and compute unit costs when replacing traditional rendering pipelines with generative diffusion systems."
+                "Wispr has secured $280M at a $2B valuation as the company expands its technological focus far beyond basic voice dictation utilities. The funding reflects accelerating enterprise demand for hands-free neural interface systems and seamless multimodal productivity software.",
+                "This capital allocation enables accelerated hardware-software co-design to minimize processing bottlenecks during complex hands-free operations. Enterprise buyers should monitor how neural interface integration alters workstation procurement cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+            "nextUpTease": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/18/higgsfield-raises-400m-series-b",
-                "Published: 2026-08-18T07:00:00Z",
+                "Source: https://techcrunch.com/2026/08/11/wispr-raises-280m-at-2b-valuation/",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+            "heading": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
             "paragraphs": [
-                "OpenAI has enacted a 50% API price reduction for its frontier GPT-5.6 Sol model across major routing endpoints. The aggressive price slash targets high-volume agentic coding and multimodal vision workflows across production enterprise environments.",
-                "The halving of token fees significantly lowers the economic barrier for recursive multi-agent deployments and automated codebase migrations. Engineering teams can now re-evaluate batch processing budgets and expand context-window utilization without escalating inference operational costs."
+                "Stripe is reportedly moving to acquire artificial intelligence gateway startup OpenRouter for upwards of $7B in a landmark fintech-AI consolidation deal. The proposed acquisition bridges high-volume model routing infrastructure with robust global payment processing and enterprise billing systems.",
+                "This integration signals a major shift toward unified financial management of multi-model API consumption across large corporate deployments. Engineering leaders must assess how gateway consolidation influences vendor lock-in and API routing redundancy."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
+            "nextUpTease": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41283011",
-                "Published: 2026-08-18T10:00:00Z",
+                "Source: https://techcrunch.com/2026/08/11/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
+            "heading": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
             "paragraphs": [
-                "Security researchers at Wiz revealed that an AI-generated GitHub Copilot Autofix pull request inadvertently created a vulnerability that compromised Snowflake Jira instances. The incident exposes critical validation vulnerabilities in autonomous code remediation pipelines.",
-                "This vulnerability demonstrates that unverified autonomous code generation introduces severe supply chain risks into enterprise software stacks. Chief Information Security Officers must mandate deterministic human-in-the-loop verification policies before deploying automated code generation tools."
+                "Recent engineering analysis reveals that the rapid proliferation of agentic AI workloads is making traditional CPUs the primary performance bottleneck. While accelerator silicon handles massive parallel inference, complex multi-step reasoning and orchestration overwhelm standard host processors.",
+                "This structural limitation forces data center architects to redesign compute topologies for balanced hybrid processing across enterprise clusters. CTOs must budget for upgraded CPU infrastructure to prevent latency degradation in multi-agent workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
+            "nextUpTease": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41281240",
-                "Published: 2026-08-18T03:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-cpu-bottleneck-agentic-ai-aug2026",
+                "Published: 2026-08-16T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
+            "heading": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
             "paragraphs": [
-                "Computer scientists have successfully utilized automated reasoning systems to verify one of the most complex open mathematics proofs in formal logic. The achievement marks a milestone in applying neuro-symbolic models to deterministic theorem proving.",
-                "Formal proof verification eliminates hallucination vectors in advanced scientific computation, opening pathways for automated chip architecture verification and mission-critical software safety. Research teams must assess formal verification tools to prevent catastrophic architectural errors."
+                "Security investigators have disclosed that an artificial intelligence-generated GitHub Copilot autofix feature inadvertently allowed a significant compromise of Snowflake's Jira instance. The vulnerability highlights the inherent risks of deploying automated code remediation tools without rigorous human validation loops.",
+                "This incident underscores the urgent need for strict enterprise guardrails and automated security auditing for all AI-generated code modifications. Security teams must implement multi-layered validation protocols before permitting autonomous tools to push direct code fixes."
             ],
             "imageUrl": "",
-            "nextUpTease": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
+            "nextUpTease": "REGULATION: EU ENFORCES NEW AI ACT RULES",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-math-proof-verification-2026",
-                "Published: 2026-08-18T03:30:00Z",
+                "Source: https://news.ycombinator.com/item?id=wiz-snowflake-jira-compromise",
+                "Published: 2026-08-16T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
+            "heading": "REGULATION: EU ENFORCES NEW AI ACT RULES",
             "paragraphs": [
-                "Lightricks has published the open-weights release of LTX-2.5, an advanced open-source video generation model optimized for high-fidelity temporal consistency. The model architecture reduces memory footprints, enabling full video synthesis on single local workstation GPUs.",
-                "The availability of performant open-weights video models weakens reliance on proprietary commercial APIs and empowers self-hosted enterprise fine-tuning. Infrastructure directors must evaluate whether on-premise open-weight clusters provide better long-term ROI than hosted closed-source video APIs."
+                "The European Commission has officially commenced active enforcement of foundational European Union Artificial Intelligence Act rules and strict transparency mandates. Organizations operating within the region now face mandatory compliance audits and substantial penalties for non-compliant model deployments.",
+                "This regulatory milestone requires immediate legal and technical alignment across all customer-facing automated systems and internal machine learning models. Enterprise legal teams must accelerate governance reviews to ensure adherence to emerging transparency standards."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://huggingface.co/Lightricks/LTX-2.5",
-                "Published: 2026-08-18T02:00:00Z",
+                "Source: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-aug2026",
+                "Published: 2026-08-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         }
