@@ -4,45 +4,48 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI has unveiled its new GPT-5.6 model, showcasing enhanced frontier intelligence and significant scalability improvements. This directly impacts enterprise deployments, raising computational demands and setting new industry benchmarks."
+                "headline": "REGULATION: EU AI ACT ENFORCEMENT BEGINS",
+                "teaserTitle": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
+                "visual_caption": "The European Commission has initiated enforcement of the AI Act rules, introducing stringent new transparency requirements and compliance obligations effective August 2, 2026. Businesses must now prioritize comprehensive audits and system reconfigurations to mitigate severe legal and financial penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a high-speed, cost-efficient model for diverse AI and agentic workloads. This accelerates real-time processing and reduces critical latency bottlenecks for developers."
+                "headline": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
+                "teaserTitle": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
+                "visual_caption": "The EU has launched a strategic call for AI Gigafactories, mobilizing over \u20ac30B in investment to boost Europe\u2019s computing capacity. This initiative targets advanced data centers, addressing critical bottlenecks in frontier AI research."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
-                "visual_caption": "Agentic AI is making CPUs a critical performance bottleneck for certain logic-heavy workloads. This shifts data center infrastructure needs from solely GPU-centric designs."
+                "headline": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+                "visual_caption": "Reports indicate a state actor created a fake think tank to manipulate AI chatbots, demonstrating a novel form of AI-driven disinformation. This highlights critical vulnerabilities in large language models' ability to discern credible sources."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "visual_caption": "New research suggests AI recursive self-improvement is slower than anticipated, indicating a longer timeline for fully autonomous systems. This requires pragmatic recalibration of enterprise AI strategies and expectations."
+                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
+                "visual_caption": "OpenAI has announced a 50% price reduction for its GPT-5.6 Sol model, aiming to accelerate enterprise adoption. This aggressive pricing strategy directly lowers the cost barrier for high-performance AI."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "teaserTitle": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense to counter advanced AI-driven threats. This fortifies core models and infrastructure against rapidly evolving adversarial AI attacks."
+                "headline": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
+                "teaserTitle": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "AI automation startup Relay has ceased operations, with its engineering staff joining Google\u2019s Chrome team. This signals intense competition for specialized AI talent and advanced AI capabilities integration into core tech products."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
-                "teaserTitle": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
-                "visual_caption": "Groq secured $350M in funding, pivoting to a \"neocloud\" inference platform for real-time AI. This challenges traditional cloud providers and impacts enterprise compute resource allocation."
+                "headline": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
+                "teaserTitle": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "New architectural paradigms are shifting AI development from traditional copilots to complex agent swarms. This promises more robust, self-organizing systems, yet introduces new challenges in orchestration and control."
             },
             {
                 "slide_index": 7,
-                "headline": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
+                "headline": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
                 "teaserTitle": "",
-                "visual_caption": "European economists warn the AI-driven market rally is overextended and faces a sharp correction. This impacts strategic investments, urging caution and a focus on sustainable, defensible AI growth."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "OpenAI has launched a new, safer version of ChatGPT specifically tailored for teenage users. This product expansion aims to provide a controlled environment, addressing long-standing concerns regarding AI exposure and responsible usage."
             },
             {
                 "slide_index": 8,

@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+        "hookTitle": "EU AI ACT ENFORCEMENT BEGINS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "REGULATION: EU AI ACT ENFORCEMENT BEGINS",
+                "teaserTitle": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled its new GPT-5.6 model, showcasing enhanced frontier intelligence and significant scalability improvements. This directly impacts enterprise deployments, raising computational demands and setting new industry benchmarks."
+                "narration_line": "The European Commission has initiated enforcement of the AI Act rules, introducing stringent new transparency requirements and compliance obligations effective August two, twenty-twenty-six. Businesses must now prioritize comprehensive audits and system reconfigurations to mitigate severe legal and financial penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
+                "headline": "INFRASTRUCTURE: EU LAUNCHES AI GIGAFACTORIES WITH \u20ac30B",
+                "teaserTitle": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, a high-speed, cost-efficient model for diverse AI and agentic workloads. This accelerates real-time processing and reduces critical latency bottlenecks for developers."
+                "narration_line": "The EU has launched a strategic call for AI Gigafactories, mobilizing over thirty billion Euros in investment to boost Europe\u2019s computing capacity. This initiative targets advanced data centers, addressing critical bottlenecks in frontier AI research."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPUTE: CPU COMEBACK DRIVES AGENTIC AI",
-                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "headline": "ETHICS: AI DISINFORMATION ATTACKS EMERGE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Agentic AI is making central processing units a critical performance bottleneck for certain logic-heavy workloads. This shifts data center infrastructure needs from solely GPU-centric designs."
+                "narration_line": "Reports indicate a state actor created a fake think tank to manipulate AI chatbots, demonstrating a novel form of AI-driven disinformation. This highlights critical vulnerabilities in large language models' ability to discern credible sources."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New research suggests AI recursive self-improvement is slower than anticipated, indicating a longer timeline for fully autonomous systems. This requires pragmatic recalibration of enterprise AI strategies and expectations."
+                "narration_line": "OpenAI has announced a fifty percent price reduction for its GPT-five point six Sol model, aiming to accelerate enterprise adoption. This aggressive pricing strategy directly lowers the cost barrier for high-performance AI."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
-                "teaserTitle": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
+                "headline": "MARKET: AI AUTOMATION STARTUP SHUTS DOWN",
+                "teaserTitle": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense to counter advanced AI-driven threats. This fortifies core models and infrastructure against rapidly evolving adversarial AI attacks."
+                "narration_line": "AI automation startup Relay has ceased operations, with its engineering staff joining Google\u2019s Chrome team. This signals intense competition for specialized AI talent and advanced AI capabilities integration into core tech products."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: GROQ RAISES $350M, SHIFTS TO NEOCLOUD",
-                "teaserTitle": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
+                "headline": "ARCHITECTURE: AGENT SWARMS TRANSFORM AI",
+                "teaserTitle": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Groq secured three hundred fifty million dollars in funding, pivoting to a \"neocloud\" inference platform for real-time AI. This challenges traditional cloud providers and impacts enterprise compute resource allocation."
+                "narration_line": "New architectural paradigms are shifting AI development from traditional copilots to complex agent swarms. This promises more robust, self-organizing systems, yet introduces new challenges in orchestration and control."
             },
             {
                 "slide_index": 7,
-                "headline": "ECONOMICS: AI RALLY FACES SHARP CORRECTION",
+                "headline": "OPENAI: SAFER CHATGPT FOR TEENS LAUNCHES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "European economists warn the AI-driven market rally is overextended and faces a sharp correction. This impacts strategic investments, urging caution and a focus on sustainable, defensible AI growth."
+                "narration_line": "OpenAI has launched a new, safer version of ChatGPT specifically tailored for teenage users. This product expansion aims to provide a controlled environment, addressing long-standing concerns regarding AI exposure and responsible usage."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
