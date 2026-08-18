@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENAI PARTNERS FOR ENTERPRISE",
-        "titleBlue": "TRANSFORMATION",
-        "footerSummary": "IBM and OpenAI announce a strategic alliance embedding frontier models and engineers directly into consulting workflows."
+        "titleWhite": "OPENAI RELEASES FRONTIER",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "OpenAI unveils GPT-5.6 alongside expanded enterprise safety features while global semiconductor supply chains face extreme infrastructure pressure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: PARTNERS WITH IBM FOR ENTERPRISE AI",
+            "heading": "OPENAI: RELEASES FRONTIER INTELLIGENCE",
             "points": [
-                "IBM and OpenAI have announced a strategic alliance to embed frontier AI models and forward-deployed engineers directly into IBM consulting services.",
-                "The joint initiative aims to accelerate enterprise-wide AI transformations by combining OpenAI's foundational models with IBM's integration frameworks.",
-                "The partnership targets complex enterprise modernization challenges, providing structured pathways for deploying secure, scalable LLM workflows.",
-                "Business stakeholders should anticipate faster enterprise adoption cycles and tighter integration of generative AI across mission-critical systems."
+                "OpenAI has officially launched GPT-5.6 as a scalable frontier model designed to adapt dynamically to complex enterprise demands.",
+                "The updated architecture delivers superior task execution speed while reducing overall query operational overhead by 18%.",
+                "This release marks a critical shift toward highly dependable reasoning frameworks capable of autonomous multi-step operations.",
+                "Enterprise developers can immediately access the new endpoints via the primary platform developer portal."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+            "nextUpTease": "NVIDIA: SECURES OHIO COMPUTE CAPACITY",
             "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://openai.com",
+                "Published: 2026-08-18T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+            "heading": "NVIDIA: SECURES OHIO COMPUTE CAPACITY",
             "points": [
-                "NVIDIA has secured dedicated land, power, and shell capacity at the PORTS-Pike Technology Campus in Ohio through a strategic partnership with SB Energy.",
-                "The facility will exclusively host high-density NVIDIA AI compute infrastructure to support expanding enterprise training and inference demands.",
-                "This deployment addresses critical power constraints facing large-scale AI developers as multi-gigawatt cluster requirements escalate globally.",
-                "Industry partners can leverage the new Ohio campus to accelerate large model training cycles and expand regional operational footprints."
+                "NVIDIA has successfully guaranteed land and power capacity at SB Energy's PORTS-Pike Technology Campus in Ohio.",
+                "The massive facility will exclusively host dense NVIDIA AI compute infrastructure to satisfy accelerating regional training demands.",
+                "The deployment directly addresses severe grid constraints impacting large-scale data center operators across North America.",
+                "Cloud architects can leverage the expanded regional capacity to scale multi-gigawatt cluster architectures seamlessly."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
+            "nextUpTease": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
             "tags": [
                 "Source: https://nvidianews.nvidia.com",
                 "Published: 2026-08-17T09:00:00Z",
@@ -42,86 +42,86 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AMD: DEPLOYS 2GW OF INSTANT GPUS WITH ANTHROPIC",
+            "heading": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
             "points": [
-                "AMD and Anthropic have established a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs for frontier model scaling.",
-                "The hardware agreement significantly diversifies Anthropic's computing infrastructure while validating AMD's data center AI architecture at scale.",
-                "This massive compute expansion provides the raw processing capacity required to train next-generation Claude models with enhanced reasoning capabilities.",
-                "Market analysts expect this alliance to intensify hardware competition in high-performance AI clusters throughout the upcoming fiscal quarters."
+                "Google DeepMind has introduced Gemini 3.7 Flash as a specialized workhorse model optimized for high-speed coding tasks.",
+                "The lightweight model cuts inference latency by 25% while maintaining robust performance across complex code generation benchmarks.",
+                "Positioned directly within the developer ecosystem, it bridges fast inference speeds with multi-step reasoning capabilities.",
+                "Engineering teams can integrate the new models immediately via Google AI Studio for production-grade applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+            "nextUpTease": "IEEE: THE CPU COMEBACK IS UPON US",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://deepmind.google",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+            "heading": "IEEE: THE CPU COMEBACK IS UPON US",
             "points": [
-                "Microsoft Azure has expanded its cloud infrastructure portfolio by integrating new AMD-powered AI and HPC virtual machines including HDv2, HXv2, and ND MI455Xv7.",
-                "These specialized instances are engineered to support demanding deep learning, data processing, and technical computing workloads.",
-                "The infrastructure update offers enterprise customers enhanced flexibility and cost-performance ratios for running intensive AI model deployments.",
-                "Cloud architects can now provision high-throughput AMD nodes directly within Azure environments to optimize large-scale inferencing."
+                "Recent engineering analysis published by IEEE highlights how advanced agentic workloads are making CPUs the new performance bottleneck.",
+                "As autonomous agents manage continuous background reasoning, memory bandwidth demands on host processors have surged by 40%.",
+                "This architectural shift forces data center operators to rebalance heterogeneous compute clusters for optimal throughput.",
+                "Hardware strategists must incorporate high-core-pressure evaluations into upcoming server procurement planning cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+            "nextUpTease": "ALIBABA: QWEN MODEL TARGETS EDGE AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-18T12:00:00Z",
+                "Source: https://spectrum.ieee.org",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+            "heading": "ALIBABA: QWEN MODEL TARGETS EDGE AI",
             "points": [
-                "Following its recent funding round and acquisition of Electric, Databricks has integrated embeddable PostgreSQL capabilities into its data management platform.",
-                "The feature is specifically designed to aid developers in building and deploying data-intensive autonomous agents with low latency.",
-                "This architectural enhancement bridges structured relational data storage with modern vector search requirements for enterprise AI pipelines.",
-                "Data engineering teams gain a unified platform for managing stateful agent operations without relying on fragmented database architectures."
+                "Alibaba has released the Qwen 3.8 27B model designed specifically for local execution on standard enterprise laptops.",
+                "The open-weight model achieves 85% cloud-parity performance while operating entirely offline on consumer-grade silicon.",
+                "This deployment model significantly lowers the barrier for local developer experimentation and secure edge computing.",
+                "Enterprises can deploy localized intelligence models without exposing sensitive operational data to external APIs."
             ],
             "imageUrl": "",
-            "nextUpTease": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+            "nextUpTease": "GARTNER: INFERENCE COSTS SET TO RISE",
             "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: 2026-08-13T13:00:00Z",
+                "Source: https://www.aibusiness.com",
+                "Published: 2026-08-17T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+            "heading": "GARTNER: INFERENCE COSTS SET TO RISE",
             "points": [
-                "A new Stanford HAI research study reveals that vulnerable users with limited social networks who seek emotional support from AI companions experience reduced well-being.",
-                "The findings highlight critical socio-ethical challenges regarding the deployment of parasocial AI tools for mental health and therapy.",
-                "The study underscores the urgent need for rigorous governance frameworks and ethical boundaries in consumer-facing conversational applications.",
-                "Policymakers and developers must account for psychological impacts when designing autonomous engagement systems for sensitive demographics."
+                "Gartner predicts that autonomous agentic workflows will cause average enterprise inference costs to increase over fivefold by 2028.",
+                "Continuous background reasoning, multi-step replanning, and agent collaboration drive exponential token consumption.",
+                "IT leaders must implement strict budget guardrails and caching strategies to prevent runaway cloud operational expenditures.",
+                "Financial controllers should adopt real-time token visibility platforms to track infrastructure consumption accurately."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI ACT: ENFORCEMENT & COMPLIANCE UPDATES",
+            "nextUpTease": "EU AI ACT: ENFORCEMENT ENTERS NEW PHASE",
             "tags": [
-                "Source: https://hai.stanford.edu",
-                "Published: 2026-08-04T14:00:00Z",
+                "Source: https://www.cio.com",
+                "Published: 2026-08-17T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EU AI ACT: ENFORCEMENT & COMPLIANCE UPDATES",
+            "heading": "EU AI ACT: ENFORCEMENT ENTERS NEW PHASE",
             "points": [
-                "The European Union AI Office is expanding its regulatory enforcement team with forty new hires across technical, legal, and operational divisions.",
-                "The comprehensive push aims to enforce Chapter V obligations and general-purpose AI model compliance standards effectively across member states.",
-                "Organizations deploying enterprise AI systems must navigate evolving risk categories and transparency rules under the stringent regulatory framework.",
-                "Compliance officers should immediately review model governance practices to align with upcoming audit milestones and enforcement deadlines."
+                "The EU AI Office has initiated a major hiring round to recruit 40 specialists dedicated to enforcing the European AI Act.",
+                "The expanded enforcement team focuses on general-purpose AI compliance, technical transparency, and risk governance.",
+                "Companies deploying commercial models within European markets face immediate regulatory scrutiny regarding training data provenance.",
+                "Compliance officers must audit internal system pipelines before mandatory transparency deadlines take full effect."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-07T08:00:00Z",
+                "Published: 2026-08-18T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
