@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 LUNA FREE ACCESS",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UPDATE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 LUNA FREE ACCESS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "INVESTMENT: GROQ SECURES $350M FOR NEOCLOUD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's latest GPT-5.6 Luna model is now available to all free users, enhancing access to advanced multimodal AI capabilities. This development intensifies competition in the AI services market, compelling businesses to rapidly adapt their deployment strategies."
+                "narration_line": "OpenAI announces its GPT-5.6 model is advancing frontier intelligence, expanding capabilities for diverse enterprise applications. This signals new deployment benchmarks, reshaping how businesses integrate large language models."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
-                "teaserTitle": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
+                "headline": "INVESTMENT: GROQ SECURES $350M FOR NEOCLOUD",
+                "teaserTitle": "SECURITY: FUNDAMENTAL FLAW IN LLM ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, an optimized model for coding and advanced AI agents. This innovation offers high efficiency and performance, supporting developers in building sophisticated autonomous systems."
+                "narration_line": "Groq secured three hundred fifty million dollars in new funding, pivoting from AI chips to an AI neocloud service model. This validates a market shift toward optimized inferencing, impacting compute strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
-                "teaserTitle": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
+                "headline": "SECURITY: FUNDAMENTAL FLAW IN LLM ATTACKS",
+                "teaserTitle": "CAPABILITIES: WEATHERNEXT AI CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AI-generated GitHub Copilot 'Autofix' led to a Snowflake Jira compromise, exposing critical security flaws in AI-assisted development tools. Organizations must enhance auditing and validation for AI-generated code to mitigate these new risks."
+                "narration_line": "A fundamental flaw makes large language models vulnerable to adversarial attacks, risking the integrity of AI systems in sensitive applications. This mandates immediate re-evaluation of security protocols for all enterprise LLM deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
-                "teaserTitle": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
+                "headline": "CAPABILITIES: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "ARCHITECTURE: STARTUP BREAKS LLM BOTTLENECK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Israel reportedly used a fake think tank to manipulate AI chatbots, sparking concerns about geopolitical misinformation campaigns. This necessitates stronger adversarial training and fact-checking protocols to protect AI system integrity."
+                "narration_line": "Google DeepMind's WeatherNext AI model made a breakthrough in accurate cyclone forecasting, enhancing predictive capabilities for critical environmental applications. This highlights AI's growing prowess in complex, real-world scenario analysis."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
-                "teaserTitle": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
+                "headline": "ARCHITECTURE: STARTUP BREAKS LLM BOTTLENECK",
+                "teaserTitle": "TRENDS: AI COPILOTS TO AGENT SWARMS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "ASML's four hundred million dollar lithography machines remain a critical bottleneck in advanced AI chip manufacturing. This concentrated risk impacts the scalability and cost efficiency of future AI architectures, demanding strategic investment."
+                "narration_line": "A startup claims a breakthrough for a key bottleneck hindering large language model efficiency and scalability, promising improved processing. This innovation targets computational limitations, impacting infrastructure costs and model efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
-                "teaserTitle": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "TRENDS: AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "INDUSTRY: AI AUTOMATION STARTUP SHUTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AI startup Higgsfield secured a four hundred million dollar Series B, quadrupling its valuation to five point four billion dollars. This demonstrates strong investor confidence in high-growth AI ventures, influencing strategic market evaluations."
+                "narration_line": "The AI landscape is evolving from single-purpose copilots to complex agent swarms capable of multi-step reasoning. This shift demands advanced orchestration and distributed intelligence architectures for new deployment models."
             },
             {
                 "slide_index": 7,
-                "headline": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "INDUSTRY: AI AUTOMATION STARTUP SHUTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Artificial intelligence has verified one of the toughest mathematical proofs, marking a significant advance in AI's symbolic reasoning capabilities. This breakthrough suggests AI can accelerate scientific discovery and enhance engineering validation processes."
+                "narration_line": "AI automation startup Relay has shut down, with staff joining Google's Chrome team, highlighting intense competition and market consolidation. Enterprises must carefully evaluate the long-term viability of their AI vendor partnerships."
             },
             {
                 "slide_index": 8,
