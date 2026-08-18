@@ -14,12 +14,12 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'           # Prevent re-entrant triggers from template data updates
-      - 'post.txt'              # Prevent re-entrant triggers from text payload updates
-      - 'download/**'           # Prevent re-entrant triggers from screenshot asset commits
-      - 'bg_tracker.txt'        # Prevent re-entrant triggers from background state updates
-      - 'follow_tracker.txt'    # Prevent re-entrant triggers from follow-up slide state updates
-      - 'Social_Media/**'       # Prevent re-entrant triggers from template code updates
+      - 'template.js'            # Prevent re-entrant triggers from template data updates
+      - 'post.txt'               # Prevent re-entrant triggers from text payload updates
+      - 'download/**'            # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'         # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'     # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'        # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'        # Primary precise hourly trigger (runs at :16 past every hour each hour)
@@ -63,8 +63,8 @@ jobs:
       # ==============================================================================
       - name: Process Dynamic Tracker Rotation and Commit Data
         run: |
-          git config --global user.name "Aeon-Intel-Bot"
-          git config --global user.email "bot@aeon.intel"
+          git config --global user.name "AEON-Bot"
+          git config --global user.email "bot@AEON.com"
           
           # Fetch remote tracking branch and reset working tree state
           git fetch origin main
@@ -225,8 +225,8 @@ jobs:
       - name: Dispatch Reconfirmation Email Notification
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         env:
-          EMAIL_USER: ${{ secrets.EMAIL_USERNAME }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: |
           sleep 10
           python - << 'EOF'
@@ -258,7 +258,8 @@ jobs:
               sender = os.environ.get('EMAIL_USER')
               password = os.environ.get('EMAIL_PASS')
 
-              msg = MIMEMultipart()
+              # Build the Email Container
+              msg = MIMEMultipart('alternative')
               msg['Subject'] = subject_line
               msg['From'] = f"Aeon Intel Core <{sender}>"
               msg['To'] = recipient
@@ -267,7 +268,7 @@ jobs:
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ AEON INTEL SYSTEM DISPATCH</h2>
+                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ AEON SYSTEM DISPATCH</h2>
                     <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
@@ -280,12 +281,12 @@ jobs:
                       </tr>
                       <tr>
                         <td style="padding: 8px 0; color: #8b949e;"><strong>Live Feed URL:</strong></td>
-                        <td style="padding: 8px 0;"><a href="https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed" style="color: #58a6ff; text-decoration: underline; font-weight: bold;">Launch Live Dashboard →</a></td>
+                        <td style="padding: 8px 0;"><a href="https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed" style="color: #00a8a8; text-decoration: underline; font-weight: bold;">Launch Live Dashboard →</a></td>
                       </tr>
                     </table>
                     
-                    <h3 style="color: #58a6ff; font-size: 14px; margin-top: 25px; margin-bottom: 10px; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📱 SOCIAL MEDIA POST CONTENT (POST.TXT)</h3>
-                    <pre style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 4px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word; margin: `10px 0;">{post_content}</pre>
+                    <h3 style="color: #00a8a8; font-size: 14px; margin-top: 25px; margin-bottom: 10px; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📱 SOCIAL MEDIA POST CONTENT (POST.TXT)</h3>
+                    <pre style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 4px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word; margin: 10px 0;">{post_content}</pre>
                     
                     <p style="font-size: 11px; color: #8b949e; border-top: 1px solid #30363d; padding-top: 15px; margin-bottom: 0;">
                       This is an automated operational metric confirmation statement. Do not reply.
@@ -332,6 +333,6 @@ jobs:
               server.quit()
               print(f"[SUCCESS] Reconfirmation dispatch email sent to {recipient}.")
 
-          exceptException as e:
+          except Exception as e:
               print(f"[ERROR] Dispatch email execution fault: {str(e)}")
           EOF
