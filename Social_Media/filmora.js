@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "INVESTMENT: GROQ SECURES $350M FOR NEOCLOUD",
-                "visual_caption": "OpenAI\u2019s GPT-5.6 model advances frontier intelligence, expanding capabilities for diverse enterprise applications. This signals new deployment benchmarks, reshaping LLM integration."
+                "headline": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands free user access to GPT-5.6 Luna. This broadens model utilization, shifting developer focus to accessible, powerful AI capabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "INVESTMENT: GROQ SECURES $350M FOR NEOCLOUD",
-                "teaserTitle": "SECURITY: FUNDAMENTAL FLAW IN LLM ATTACKS",
-                "visual_caption": "Groq secured $350M in new funding, pivoting from AI chips to an AI neocloud service. This validates a market shift towards optimized inferencing as a service, impacting compute strategies."
+                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
+                "teaserTitle": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
+                "visual_caption": "OpenAI expands its Daybreak cyber defense to counter the narrow window for sophisticated AI threats. This bolsters protections against emerging adversarial AI techniques and system vulnerabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: FUNDAMENTAL FLAW IN LLM ATTACKS",
-                "teaserTitle": "CAPABILITIES: WEATHERNEXT AI CYCLONE FORECASTING",
-                "visual_caption": "A fundamental flaw leaves LLMs vulnerable to adversarial attacks, risking the integrity of AI systems in sensitive applications. This mandates immediate re-evaluation of security protocols for all enterprise LLM deployments."
+                "headline": "ECONOMICS: GPT-5.6 SOL PRICING CUT 50%",
+                "teaserTitle": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "OpenAI cuts GPT-5.6 Sol pricing by 50% to accelerate adoption and make high-performance AI more accessible. This aggressive strategy aims for greater market share and volume usage."
             },
             {
                 "slide_index": 4,
-                "headline": "CAPABILITIES: WEATHERNEXT AI CYCLONE FORECASTING",
-                "teaserTitle": "ARCHITECTURE: STARTUP BREAKS LLM BOTTLENECK",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurate cyclone forecasting, enhancing predictive capabilities. This highlights AI's growing prowess in complex, real-world scenario analysis."
+                "headline": "RISK: COPILOT AUTOFIX COMPROMISES JIRA",
+                "teaserTitle": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
+                "visual_caption": "An AI-generated autofix from GitHub Copilot compromised Snowflake's Jira, exposing critical security flaws in AI-assisted dev tools. This highlights the need for rigorous auditing of autonomous code generation."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCHITECTURE: STARTUP BREAKS LLM BOTTLENECK",
-                "teaserTitle": "TRENDS: AI COPILOTS TO AGENT SWARMS",
-                "visual_caption": "A startup claims a breakthrough for a key bottleneck hindering LLM efficiency and scalability, promising improved processing. This targets core computational limitations, impacting infrastructure costs and model efficiency."
+                "headline": "HARDWARE: NVIDIA'S MOAT SHIFTS TO CAPITAL",
+                "teaserTitle": "MARKET: ANTHROPIC REVENUE HITS $65B",
+                "visual_caption": "Nvidia's AI advantage shifts from raw chip dominance to leveraging capital and ecosystem investments. This strategic pivot emphasizes long-term infrastructure control and resource aggregation."
             },
             {
                 "slide_index": 6,
-                "headline": "TRENDS: AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "INDUSTRY: AI AUTOMATION STARTUP SHUTS",
-                "visual_caption": "The AI landscape evolves from single-purpose copilots to complex agent swarms capable of multi-step reasoning. This shift demands advanced orchestration and distributed intelligence architectures for new deployment models."
+                "headline": "MARKET: ANTHROPIC REVENUE HITS $65B",
+                "teaserTitle": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
+                "visual_caption": "Anthropic reports an annualized revenue run rate surging to $65B, indicating robust market adoption in frontier AI. This growth validates its focus on safety-aligned models and enterprise solutions."
             },
             {
                 "slide_index": 7,
-                "headline": "INDUSTRY: AI AUTOMATION STARTUP SHUTS",
+                "headline": "RESEARCH: AI SELF-IMPROVEMENT LAGS",
                 "teaserTitle": "",
-                "visual_caption": "AI automation startup Relay has shut down, with staff joining Google's Chrome team, highlighting intense competition and market consolidation. Enterprises must evaluate long-term viability of AI vendor partnerships."
+                "visual_caption": "Research suggests AI's recursive self-improvement may not happen as quickly as anticipated, implying a longer roadmap for fully autonomous intelligence. This challenges previous assumptions about rapid AI evolution."
             },
             {
                 "slide_index": 8,
