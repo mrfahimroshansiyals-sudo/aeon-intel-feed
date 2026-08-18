@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "AI PRICING HALVED: NEW MARKET SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT-5.6, its new flagship model, pushing frontier AI capabilities. This release demands significant compute and infrastructure evaluation from enterprises."
+                "narration_line": "OpenAI has dramatically cut GPT-5.6 Sol inference costs by fifty percent, also expanding access to Luna and unveiling Sol's superior vision model. This impacts compute budgets, making advanced multimodal applications significantly more accessible."
             },
             {
                 "slide_index": 2,
-                "headline": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
+                "headline": "FUNDING: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "teaserTitle": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, an efficient model for coding and agents. This optimizes intelligence per parameter, offering substantial cost savings for large-scale deployments."
+                "narration_line": "Groq has secured three hundred fifty million dollars in funding to pivot from AI chips to a \"neocloud\" strategy. This capital injection aims to establish high-performance compute, competing directly with existing cloud providers."
             },
             {
                 "slide_index": 3,
-                "headline": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
-                "teaserTitle": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
+                "headline": "FINANCE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Stripe is reportedly acquiring AI gateway OpenRouter for over seven billion dollars. This consolidates AI infrastructure and streamlines API adoption for developers."
+                "narration_line": "Anthropic has reported an annualized revenue run rate surging to sixty-five billion dollars in July. This impressive financial growth validates strong market demand for safety-focused frontier AI and intensifies competition."
             },
             {
                 "slide_index": 4,
-                "headline": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
-                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lightricks released a major update to its LTX-2.5 model, enhancing creative AI applications. This improves performance for image and video generation tools."
+                "narration_line": "OpenAI is expanding its \"Daybreak\" cyber defense initiative, addressing the narrowing window for threat detection and response in AI-powered attacks. This aims to bolster resilience against emerging adversarial techniques."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "teaserTitle": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
+                "headline": "ETHICS: ISRAEL ACCUSED OF FAKE AI THINK TANK",
+                "teaserTitle": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AI has successfully verified a very challenging mathematics proof, a breakthrough in symbolic reasoning. This improves rigorous software validation and cybersecurity analysis."
+                "narration_line": "Israel is reportedly creating fake AI-generated think tanks to influence public opinion, raising critical questions about disinformation and ethical misuse of generative AI. This highlights challenges in verifying online information."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
-                "teaserTitle": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "APPLICATIONS: GOOGLE DEEPMIND SIGN LANGUAGE AI",
+                "teaserTitle": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A GitHub Copilot Autofix vulnerability allowed compromise of a Snowflake Jira instance. This highlights emerging supply chain risks from AI-powered development tools."
+                "narration_line": "Google DeepMind is putting sign language AI into users' hands, developing advanced models capable of real-time translation and interaction. This initiative aims to bridge communication gaps and expand AI utility."
             },
             {
                 "slide_index": 7,
-                "headline": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "WORKFLOWS: FROM AI COPILOTS TO AGENT SWARMS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting. This provides critical advantages for logistics and insurance industries."
+                "narration_line": "The paradigm in AI-assisted development is shifting from single \"copilot\" models to orchestrated \"agent swarms,\" enabling more autonomous and complex task execution. This implies a fundamental change in operational workflows."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
