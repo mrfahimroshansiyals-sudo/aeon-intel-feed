@@ -4,45 +4,47 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI SECURITY: AI-GENERATED COPILOT COMPROMISES JIRA",
-                "teaserTitle": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
-                "visual_caption": "AI-generated code from GitHub Copilot was exploited to compromise Snowflake's Jira. This incident highlights critical vulnerabilities in software supply chains and the security implications of integrated AI tools."
+                "headline": "MODEL ACCESS: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "MODEL RELEASE: OPENAI UNVEILS GPT-5.6 FRONTIER",
+                "visual_caption": "OpenAI cut GPT-5.6 Sol API pricing by 50%. This makes advanced model capabilities more accessible for developers and enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
-                "teaserTitle": "HARDWARE: NVIDIA STOCK RECOVERS WITH 3 KEY TAILWINDS",
-                "visual_caption": "OpenAI expands free access to its GPT-5.6 Luna model, improving Sol in ChatGPT. This democratizes advanced model capabilities for broader user bases."
+                "headline": "MODEL RELEASE: OPENAI UNVEILS GPT-5.6 FRONTIER",
+                "teaserTitle": "HARDWARE: GROQ SECURES $350M FOR NEOCLOUD PIVOT",
+                "visual_caption": "OpenAI introduced GPT-5.6 Frontier, an intelligence model for advanced problem-solving. This enhances multi-modal handling and autonomous agent development."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: NVIDIA STOCK RECOVERS WITH 3 KEY TAILWINDS",
-                "teaserTitle": "AGENTIC AI: TRANSITIONING FROM COPILOTS TO SWARMS",
-                "visual_caption": "Nvidia stock is experiencing a resurgence, driven by strong GPU demand and new enterprise partnerships. This performance signals robust investment in AI-enabling hardware."
+                "headline": "HARDWARE: GROQ SECURES $350M FOR NEOCLOUD PIVOT",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "Groq secured $350M to pivot to a \"neocloud\" inference platform. This scales specialized compute infrastructure for real-time AI workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "AGENTIC AI: TRANSITIONING FROM COPILOTS TO SWARMS",
-                "teaserTitle": "POLICY: ISRAEL'S FAKE THINK TANK DUPES AI CHATBOTS",
-                "visual_caption": "The AI landscape is transitioning from individual copilots to complex agent swarms. New architectures are needed for orchestrating multiple specialized AI entities collaboratively."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "APPLIED AI: WEATHERNEXT ACHIEVES CYCLONE FORECASTING",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, their most intelligent workhorse for coding and agentic applications. It optimizes performance for complex software development tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "POLICY: ISRAEL'S FAKE THINK TANK DUPES AI CHATBOTS",
-                "teaserTitle": "ROBOTICS: HUMANOIDS IN SHIPYARD WELDING TRIALS",
-                "visual_caption": "Israel reportedly created a fake think tank to dupe AI chatbots and influence public opinion. This exposes LLMs' vulnerability to state-sponsored disinformation campaigns."
+                "headline": "APPLIED AI: WEATHERNEXT ACHIEVES CYCLONE FORECASTING",
+                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF YET",
+                "visual_caption": "Google DeepMind's WeatherNext AI achieved a major breakthrough in cyclone forecasting. It offers enhanced accuracy and lead times over traditional models."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: HUMANOIDS IN SHIPYARD WELDING TRIALS",
-                "teaserTitle": "APPLIED AI: GOOGLE DEEPMIND DEPLOYS SIGN LANGUAGE AI",
-                "visual_caption": "Humanoid robots are undergoing trials for shipyard welding, automating hazardous industrial tasks. These deployments leverage advanced computer vision and precision motion control."
+                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF YET",
+                "teaserTitle": "CYBERSECURITY: OPENAI STRENGTHENS DAYBREAK DEFENSES",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "AI systems successfully verified one of the toughest mathematical proofs. This marks a new frontier in automated reasoning and formal verification."
             },
             {
                 "slide_index": 7,
-                "headline": "APPLIED AI: GOOGLE DEEPMIND DEPLOYS SIGN LANGUAGE AI",
-                "teaserTitle": "",
-                "visual_caption": "Google DeepMind is deploying new sign language AI directly to users. This technology enables real-time translation and communication assistance for deaf and hard-of-hearing individuals."
+                "headline": "CYBERSECURITY: OPENAI STRENGTHENS DAYBREAK DEFENSES",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "OpenAI is expanding its \"Daybreak\" cyber defense window, enhancing security protocols to protect frontier models. This narrows the exploitation window for AI-specific cyber threats."
             },
             {
                 "slide_index": 8,
