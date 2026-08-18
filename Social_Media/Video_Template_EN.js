@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI UNLOCKS NEW AI FRONTIERS",
+        "hookTitle": "OPENAI PARTNERS WITH IBM FOR ENTERPRISE TRANSFORMATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IMPROVES GPT-5.6 SOL & EXPANDS LUNA",
-                "teaserTitle": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
+                "headline": "OPENAI: PARTNERS WITH IBM FOR ENTERPRISE AI",
+                "teaserTitle": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has significantly enhanced its GPT-5.6 Sol model within ChatGPT, improving its performance. Simultaneously, access to GPT-5.6 Luna has been expanded for free users, broadening its reach."
+                "narration_line": "IBM and OpenAI formed a strategic alliance to embed frontier models into consulting services. The partnership accelerates enterprise AI adoption and modernization workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
-                "teaserTitle": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
+                "headline": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+                "teaserTitle": "AMD: DEPLOYS 2GW OF INSTANT GPUS WITH ANTHROPIC",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia committed one hundred billion dollars to OpenAI's new Ohio data center, expanding AI compute infrastructure. This investment will accelerate next-gen AI model deployment by securing dedicated GPU clusters."
+                "narration_line": "Nvidia secured dedicated power and land capacity at an Ohio technology campus via SB Energy. The facility will exclusively host high density AI compute infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
-                "teaserTitle": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "headline": "AMD: DEPLOYS 2GW OF INSTANT GPUS WITH ANTHROPIC",
+                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Zhipu AI's new coding model has rapidly developed advanced cybersecurity skills, demonstrating complex defensive and offensive capabilities. This highlights the accelerating pace of AI growth, impacting cyber operations and threat detection."
+                "narration_line": "AMD and Anthropic partnered to deploy up to two gigawatts of instinct series graphics processors. This massive compute expansion scales frontier model reasoning capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
-                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
+                "headline": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+                "teaserTitle": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google Cloud introduced new Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models, broadening its generative AI portfolio. These specialized models offer extreme efficiency and enhanced security for diverse enterprise needs."
+                "narration_line": "Microsoft Azure integrated new advanced virtual machines powered by AMD hardware instances. These nodes optimize large scale deep learning and technical computing workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "headline": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+                "teaserTitle": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New research indicates that agentic AI systems are increasingly making CPUs the primary performance bottleneck in AI workflows. This architectural shift demands reconsideration of hardware resource allocation in future AI infrastructure."
+                "narration_line": "Databricks integrated embeddable postgresql capabilities into its enterprise data platform. The architectural update bridges relational storage with modern vector search."
             },
             {
                 "slide_index": 6,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
-                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "headline": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+                "teaserTitle": "EU AI ACT: ENFORCEMENT & COMPLIANCE UPDATES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Alibaba has introduced its Qwen 3.8 27 billion parameter model, engineered for powerful generative AI directly on edge devices. This model enables efficient, low-latency AI processing without cloud dependency for various applications."
+                "narration_line": "A Stanford study revealed vulnerable users seeking emotional support experience reduced well-being. The findings highlight urgent ethical challenges in conversational tools."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "headline": "EU AI ACT: ENFORCEMENT & COMPLIANCE UPDATES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic reported its annualized revenue run rate reached an impressive sixty-five billion dollars as of July twenty twenty-six. This milestone reflects robust enterprise adoption of its Claude models, solidifying its market position."
+                "narration_line": "The European Union AI Office added forty new enforcement roles for compliance oversight. Enterprises must immediately align governance models with strict regulatory standards."
             },
             {
                 "slide_index": 8,
