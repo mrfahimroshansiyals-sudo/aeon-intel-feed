@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GROQ RAISES $350M TO FUEL",
-        "titleBlue": "NEOCLOUD",
-        "footerSummary": "Groq secures $350M to accelerate its strategic pivot from specialized hardware chips toward scalable neocloud infrastructure and expanded enterprise compute services."
+        "titleWhite": "LTX-2.5 OPEN WEIGHTS",
+        "titleBlue": "RELEASE",
+        "footerSummary": "Frontier models like LTX-2.5 and Gemini 3.7 Flash push video synthesis and enterprise AI, as Anthropic\u2019s revenue soars and AI manipulation risks emerge."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GROQ: RAISES $350M TO FUEL NEOCLOUD",
+            "heading": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
             "paragraphs": [
-                "Groq has successfully secured $350M in new capital to drive its ongoing operational shift from standalone artificial intelligence silicon toward comprehensive neocloud services. This strategic pivot addresses the growing enterprise demand for dedicated, high-speed inference platforms capable of handling massive transactional workloads.",
-                "The fresh capital injection positions the company to aggressively scale its data center footprint while competing directly against traditional hyper-scaler infrastructure offerings. Engineering executives must evaluate how dedicated inference clouds impact total cost of ownership across distributed production environments."
+                "Lightricks has made LTX-2.5, an advanced open-source video generation model, available with full open weights. This model is engineered for high-fidelity temporal consistency and a reduced memory footprint, enabling full video synthesis on single local workstation GPUs.",
+                "The release of performant open-weights video models diminishes reliance on expensive proprietary commercial APIs, empowering self-hosted enterprise fine-tuning. Infrastructure directors must evaluate the long-term ROI of on-premise open-weight clusters against recurring costs of hosted closed-source video APIs."
             ],
             "imageUrl": "",
-            "nextUpTease": "HIGGSFIELD: RAISES $400M SERIES B",
+            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/11/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-                "Published: 2026-08-11T13:00:00Z",
+                "Source: https://huggingface.co/Lightricks/LTX-2.5",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "HIGGSFIELD: RAISES $400M SERIES B",
+            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
             "paragraphs": [
-                "Higgsfield has closed a massive $400M Series B funding round, quadrupling its corporate valuation to $5.4B in just 8 months of operation. The rapid valuation growth underscores intense investor appetite for advanced video generation platforms and scalable media synthesis tooling.",
-                "The capital will fund core cluster expansions to support real-time rendering pipelines and reduce latency for enterprise creative teams. Media tech buyers must now factor high-valuation vendor stability into their long-term content automation roadmaps."
+                "OpenAI is enhancing its GPT-5.6 Sol model within ChatGPT while also expanding free user access to its GPT-5.6 Luna model. These updates focus on improving model performance and accessibility for a broader user base across diverse applications.",
+                "Increased access to powerful models like GPT-5.6 Luna for free users could drive wider adoption and innovative use cases, potentially democratizing advanced AI capabilities. Businesses relying on commercial APIs should assess the evolving competitive landscape and user expectations for model performance and cost."
             ],
             "imageUrl": "",
-            "nextUpTease": "WISPR: RAISES $280M AT $2B VALUATION",
+            "nextUpTease": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/11/higgsfield-raises-400m-series-b-valuation/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://openai.com/news/improving-gpt-5-6-sol-expanding-luna-access",
+                "Published: 2026-08-19T13:55:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "WISPR: RAISES $280M AT $2B VALUATION",
+            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "paragraphs": [
-                "Wispr has secured $280M at a $2B valuation as the company expands its technological focus far beyond basic voice dictation utilities. The funding reflects accelerating enterprise demand for hands-free neural interface systems and seamless multimodal productivity software.",
-                "This capital allocation enables accelerated hardware-software co-design to minimize processing bottlenecks during complex hands-free operations. Enterprise buyers should monitor how neural interface integration alters workstation procurement cycles."
+                "Google DeepMind has launched Gemini 3.7 Flash, billed as their most intelligent workhorse model yet, specifically optimized for coding and agentic workflows. This model aims to deliver high performance while maintaining efficiency for demanding AI applications.",
+                "The introduction of Gemini 3.7 Flash provides enterprises with a new powerful tool for automating complex coding tasks and deploying sophisticated AI agents, potentially reducing development cycles and operational costs. Organizations must evaluate its integration capabilities and performance benchmarks against existing foundation models."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
+            "nextUpTease": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/11/wispr-raises-280m-at-2b-valuation/",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-19T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENROUTER: STRIPE TO ACQUIRE STARTUP",
+            "heading": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
             "paragraphs": [
-                "Stripe is reportedly moving to acquire artificial intelligence gateway startup OpenRouter for upwards of $7B in a landmark fintech-AI consolidation deal. The proposed acquisition bridges high-volume model routing infrastructure with robust global payment processing and enterprise billing systems.",
-                "This integration signals a major shift toward unified financial management of multi-model API consumption across large corporate deployments. Engineering leaders must assess how gateway consolidation influences vendor lock-in and API routing redundancy."
+                "Anthropic has informed investors that its annualized revenue run rate reached an estimated $65B in July, indicating significant market adoption and strong demand for its Claude models. This financial milestone reflects accelerated enterprise and developer engagement with their AI offerings.",
+                "This explosive revenue growth signals Anthropic's increasing competitive pressure on other frontier model providers, driving further investment into R&D and compute infrastructure. Tech executives should anticipate continued aggressive pricing and feature innovation as companies vie for market share in the rapidly expanding AI ecosystem."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
+            "nextUpTease": "STARTUP: RELAY SHUTS DOWN, GOOGLE HIRES STAFF",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/11/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/19/anthropic-annualized-revenue-65-billion-july.html",
+                "Published: 2026-08-19T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "HARDWARE: CPU BOTTLENECK IN AGENTIC AI",
+            "heading": "STARTUP: RELAY SHUTS DOWN, GOOGLE HIRES STAFF",
             "paragraphs": [
-                "Recent engineering analysis reveals that the rapid proliferation of agentic AI workloads is making traditional CPUs the primary performance bottleneck. While accelerator silicon handles massive parallel inference, complex multi-step reasoning and orchestration overwhelm standard host processors.",
-                "This structural limitation forces data center architects to redesign compute topologies for balanced hybrid processing across enterprise clusters. CTOs must budget for upgraded CPU infrastructure to prevent latency degradation in multi-agent workflows."
+                "AI automation startup Relay is shutting down operations, with its entire staff transitioning to Google\u2019s Chrome team. This move highlights a significant talent acquisition by Google, integrating specialized AI automation expertise directly into its browser development.",
+                "The closure of Relay and subsequent acqui-hire by Google reflects intensified competition and consolidation within the AI startup landscape, where large tech companies absorb promising talent. Startups must differentiate aggressively, while enterprises should monitor talent shifts for shifts in platform capabilities and strategic priorities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
+            "nextUpTease": "GOVERNANCE: ISRAEL FAKE THINK TANK TARGETS AI",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-cpu-bottleneck-agentic-ai-aug2026",
-                "Published: 2026-08-16T15:00:00Z",
+                "Source: https://techcrunch.com/2026/08/19/ai-automation-startup-relay-shuts-down-staff-joins-google-chrome/",
+                "Published: 2026-08-19T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: COPILOT AUTOFIX LEADS TO BREACH",
+            "heading": "GOVERNANCE: ISRAEL FAKE THINK TANK TARGETS AI",
             "paragraphs": [
-                "Security investigators have disclosed that an artificial intelligence-generated GitHub Copilot autofix feature inadvertently allowed a significant compromise of Snowflake's Jira instance. The vulnerability highlights the inherent risks of deploying automated code remediation tools without rigorous human validation loops.",
-                "This incident underscores the urgent need for strict enterprise guardrails and automated security auditing for all AI-generated code modifications. Security teams must implement multi-layered validation protocols before permitting autonomous tools to push direct code fixes."
+                "Reports indicate that Israel has established a fake think tank, allegedly attempting to manipulate or \"dupe\" AI chatbots with specific narratives. This action underscores emerging national security strategies that involve information warfare tactics targeting large language models.",
+                "The deliberate manipulation of AI chatbots by state actors introduces severe integrity risks for enterprise knowledge bases and public information systems relying on LLMs. Organizations must immediately implement robust AI verification protocols and advanced truthfulness detection layers to safeguard against sophisticated propaganda campaigns."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU ENFORCES NEW AI ACT RULES",
+            "nextUpTease": "ROBOTICS: HUMANOIDS ENTER SHIPYARD WELDING",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=wiz-snowflake-jira-compromise",
-                "Published: 2026-08-16T15:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=41283012",
+                "Published: 2026-08-19T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: EU ENFORCES NEW AI ACT RULES",
+            "heading": "ROBOTICS: HUMANOIDS ENTER SHIPYARD WELDING",
             "paragraphs": [
-                "The European Commission has officially commenced active enforcement of foundational European Union Artificial Intelligence Act rules and strict transparency mandates. Organizations operating within the region now face mandatory compliance audits and substantial penalties for non-compliant model deployments.",
-                "This regulatory milestone requires immediate legal and technical alignment across all customer-facing automated systems and internal machine learning models. Enterprise legal teams must accelerate governance reviews to ensure adherence to emerging transparency standards."
+                "Humanoid robots are being deployed for shipyard welding tasks, marking a significant step in the application of advanced robotics in heavy industrial environments. This deployment aims to enhance precision, safety, and efficiency in traditionally hazardous manual labor sectors.",
+                "The successful integration of humanoid robots into complex manufacturing processes like shipyard welding signals a potential shift in labor dynamics and operational expenditure for heavy industries. Companies should assess the long-term cost savings and improved safety metrics of robotics automation against initial capital investment and workforce retraining requirements."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-aug2026",
-                "Published: 2026-08-02T08:00:00Z",
+                "Source: https://spectrum.ieee.org/humanoid-robots-shipyard-welding",
+                "Published: 2026-08-19T02:00:00Z",
                 "Status: Audited & True"
             ]
         }
