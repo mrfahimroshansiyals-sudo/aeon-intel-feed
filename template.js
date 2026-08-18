@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HIGH NA EUV REACHES NEW READINESS",
-        "titleBlue": "MILESTONE",
-        "footerSummary": "ASML achieves first high-volume Logic product using High NA EUV, accelerating semiconductor fabrication for the next era."
+        "titleWhite": "AZURE INTRODUCES NEW AMD-POWERED AI/HPC",
+        "titleBlue": "VMS",
+        "footerSummary": "Microsoft Azure expands its compute offerings with new AMD-powered virtual machines, delivering enhanced performance for AI and HPC workloads and optimizing cloud efficiency."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
+            "heading": "MICROSOFT: AZURE INTRODUCES NEW AMD-POWERED AI/HPC VMS",
             "points": [
-                "ASML has achieved a major technological milestone by successfully delivering its first high-volume Logic product utilizing High NA EUV lithography systems.",
-                "This deployment significantly advances semiconductor manufacturing capabilities, enabling chipmakers to pattern microchips with unprecedented nanometer precision and efficiency.",
-                "As the semiconductor industry enters its next architectural era, High NA EUV technology remains foundational for sustaining Moore's Law and silicon scaling.",
-                "Leading global chip manufacturers can now accelerate advanced node production to satisfy surging computational demands across enterprise data centers."
+                "Azure has expanded its infrastructure by introducing new AMD-powered virtual machines, specifically the HDv2, HXv2, and ND MI455Xv7 series.",
+                "These VMs are designed to support highly demanding AI, data processing, and high-performance computing (HPC) workloads, boosting processing capabilities.",
+                "This strategic enhancement provides enterprises with more powerful and efficient compute options for deploying advanced AI models and complex technical tasks.",
+                "Customers can expect improved performance-per-watt ratios, helping to optimize cloud spend while accelerating their most intensive computational projects."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+            "nextUpTease": "OPENAI: EXPANDS CYBER DEFENSE WINDOW",
             "tags": [
-                "Source: https://www.asml.com/en/news",
-                "Published: 2026-07-15T00:00:00Z",
+                "Source: https://azure.microsoft.com/en-us/blog",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
+            "heading": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
             "points": [
-                "NVIDIA has partnered with major financial institutions including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to establish massive AI financing platforms.",
-                "This collaboration aims to mobilize over $500B of third-party capital specifically dedicated to scaling global AI compute infrastructure and data center capacity.",
-                "The initiative addresses the critical capital expenditure bottleneck facing hyperscalers as they construct next-generation gigawatt-scale AI computing campuses.",
-                "Institutional investors gain direct exposure to the booming AI asset class while securing the physical infrastructure needed for long-term technological expansion."
+                "OpenAI has introduced \"Daybreak,\" a new initiative designed to expand the cyber defense window against advanced AI-driven threats and vulnerabilities.",
+                "This system integrates enhanced detection protocols and rapid response mechanisms, significantly narrowing the time adversaries have to exploit model weaknesses.",
+                "The expansion reflects a proactive architectural shift towards strengthening AI security posture as the complexity of agentic systems grows exponentially.",
+                "Stakeholders leveraging OpenAI models can anticipate a more resilient and secure operational environment, mitigating emerging cyber risks more effectively."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "nextUpTease": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
+                "Source: https://openai.com/research",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+            "heading": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH MODEL",
             "points": [
-                "OpenAI has rolled out GPT-5.6, introducing advanced frontier intelligence capabilities designed to scale dynamically with enterprise operational ambition.",
-                "Early enterprise deployment benchmarks show models completing complex financial and engineering tasks with significantly higher efficiency and reduced latency.",
-                "The release reflects a structural shift toward agentic autonomy, enabling models to execute multi-step workflows across professional environments reliably.",
-                "Businesses adopting GPT-5.6 can anticipate immediate productivity gains and deeper automation integration across core software development cycles."
+                "Google DeepMind has unveiled Gemini 3.7 Flash, their latest highly intelligent workhorse model, specifically optimized for advanced coding and agentic applications.",
+                "This iteration offers significant improvements in processing speed and efficiency, allowing for faster development and deployment of complex AI agents.",
+                "The release marks a strategic step in providing developers with powerful, yet lightweight, models capable of handling intricate multi-step tasks.",
+                "Enterprises can leverage Gemini 3.7 Flash to accelerate software development, automate sophisticated workflows, and enhance internal operational intelligence."
             ],
             "imageUrl": "",
-            "nextUpTease": "GARTNER: AI INFERENCE COSTS SURGE",
+            "nextUpTease": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "tags": [
-                "Source: https://openai.com/research",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://deepmind.google/discover",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
+            "heading": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "points": [
-                "Gartner predicts that inference costs per AI workflow will rise more than 5fold through 2028 as autonomous agents engage in continuous reasoning and planning.",
-                "While base token generation is getting cheaper, the background operations required by multi-agent swarms create unexpected financial burdens for IT budgets.",
-                "This trend highlights a widening gap between raw model pricing drops and the total cost of ownership associated with autonomous enterprise deployments.",
-                "CIOs must implement real-time infrastructure cost visibility and governance frameworks to prevent uncontrolled cloud compute expenditures."
+                "Alibaba has launched its Qwen 3.8 27B model, a new generative AI specifically engineered to operate efficiently on edge AI devices, including standard laptops.",
+                "This 27-billion-parameter model demonstrates Alibaba's commitment to pioneering open-source solutions for localized AI processing and reduced cloud dependency.",
+                "The release signifies a strategic push towards decentralizing AI inference, enabling robust real-time applications directly at the data source.",
+                "Developers and businesses can now deploy powerful AI capabilities with lower latency and enhanced data privacy, expanding AI adoption in constrained environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
+            "nextUpTease": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
             "tags": [
-                "Source: https://www.cio.com",
+                "Source: https://www.aibusiness.com/generative-ai/alibaba-qwen-38-27b-model-targets-edge-ai",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+            "heading": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
             "points": [
-                "Anthropic's annualized revenue run rate climbed rapidly to $65 billion in July, driven by enterprise adoption of Claude 5 and specialized research tools.",
-                "The exponential revenue growth reflects accelerating commercial demand for secure, high-tier intelligence capable of handling complex coding and analysis.",
-                "This financial milestone solidifies Anthropic's market position alongside other foundational AI giants in capturing enterprise technology budgets.",
-                "Market competitors will likely accelerate their own model commercialization timelines to compete for large-scale enterprise service contracts."
+                "NVIDIA has partnered with SB Energy to exclusively host NVIDIA AI compute infrastructure at the PORTS-Pike Technology Campus in Ohio, securing significant land, power, and shell capacity.",
+                "This strategic agreement guarantees a dedicated, large-scale environment for NVIDIA's advanced AI computing, ensuring future expansion and operational continuity.",
+                "The initiative directly addresses the escalating demand for massive, dedicated AI data center infrastructure required to train and deploy frontier models.",
+                "This partnership signals NVIDIA's aggressive move to control and expand its foundational compute resources, reinforcing its market leadership in AI infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
+            "nextUpTease": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energys-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
+            "heading": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
             "points": [
-                "The EU AI Office has opened a major recruitment drive for 40 specialized technical, legal, and operational positions to enforce the EU AI Act.",
-                "This regulatory expansion provides the necessary personnel to oversee general-purpose AI models and ensure strict compliance across European markets.",
-                "The initiative underscores the European Union's determination to establish enforceable global standards for trustworthy and transparent artificial intelligence.",
-                "Firms operating within the EU must audit their AI deployments immediately to align with upcoming Chapter V enforcement deadlines."
+                "An AI system has successfully been utilized to formally verify the toughest mathematics proof to date, marking a significant milestone in computational logic and automated reasoning.",
+                "This achievement demonstrates AI's growing capability to assist and validate highly complex theoretical work, potentially accelerating mathematical discovery.",
+                "The breakthrough showcases a powerful synergy between human expertise and AI tools, pushing the frontiers of formal verification in academic and scientific fields.",
+                "Researchers can now leverage advanced AI to explore intricate proofs and complex problem spaces with greater confidence and reduced human error, enhancing scientific rigor."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD: ACQUIRES TAALAS FOR INFERENCE",
+            "nextUpTease": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "tags": [
-                "Source: https://artificialintelligenceact.eu",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-math-proof",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
+            "heading": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
             "points": [
-                "AMD has reached a definitive agreement to acquire Taalas, integrating its breakthrough inference performance and efficiency technology into the hardware roadmap.",
-                "The acquisition enhances AMD's capability to deliver high-throughput, energy-optimized silicon solutions for rapidly expanding AI inference workloads.",
-                "Strategically, this move strengthens AMD's competitive positioning against market incumbents in the data center and edge hardware sectors.",
-                "Enterprise customers can expect enhanced hardware performance-per-watt ratios, helping mitigate surging data center energy consumption crises."
+                "Mistral AI has launched Shieldstral, a new offering providing in-region inference, open models, and dedicated European infrastructure for sovereign AI deployments.",
+                "This initiative enables European enterprises and governments to deploy powerful AI models while maintaining strict data governance and regulatory compliance locally.",
+                "Shieldstral represents a strategic response to rising demand for secure, geographically compliant AI solutions, vital for sensitive sectors like finance and public service.",
+                "Organizations prioritizing data sovereignty can now leverage Mistral's advanced AI capabilities with guaranteed control over data residency and processing environments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://mistral.ai/news/shieldstral",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         }

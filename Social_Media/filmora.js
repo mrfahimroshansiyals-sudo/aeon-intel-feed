@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
-                "visual_caption": "ASML has achieved a major milestone by delivering its first high-volume Logic product using High NA EUV lithography. This breakthrough accelerates semiconductor manufacturing precision for the next era of advanced microchips."
+                "headline": "MICROSOFT: AZURE INTRODUCES NEW AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "OPENAI: EXPANDS CYBER DEFENSE WINDOW",
+                "visual_caption": "Azure expanded its infrastructure with new AMD-powered AI and HPC VMs. These offerings provide powerful, efficient compute options, optimizing cloud spend for intensive computational projects."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
-                "teaserTitle": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "visual_caption": "NVIDIA partnered with major financial institutions to establish financing platforms mobilizing over $500B. This capital injection directly addresses the physical infrastructure bottleneck facing hyperscale data centers."
+                "headline": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
+                "teaserTitle": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI introduced Daybreak, a new initiative to expand cyber defense against advanced AI threats. This system integrates enhanced detection and rapid response, significantly narrowing adversary exploitation windows."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
-                "teaserTitle": "GARTNER: AI INFERENCE COSTS SURGE",
-                "visual_caption": "OpenAI rolled out GPT-5.6 with advanced frontier intelligence designed to scale with enterprise ambition. Early deployments show models completing complex financial tasks with significantly reduced latency."
+                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their latest intelligent model optimized for coding and agentic apps. This iteration offers improved processing speed and efficiency, accelerating complex AI agent development and deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
-                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
-                "visual_caption": "Gartner predicts AI inference costs per workflow will rise more than 5x through 2028. Continuous agent reasoning and background planning are creating unexpected financial burdens for IT budgets."
+                "headline": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
+                "visual_caption": "Alibaba launched its Qwen 3.8 27B model, engineered for efficient operation on edge AI devices. This model decentralizes AI inference, enabling robust real-time applications with lower latency and enhanced data privacy."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
-                "teaserTitle": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
-                "visual_caption": "Anthropic reported its annualized revenue run rate climbed rapidly to $65B in July. This exponential growth reflects accelerating commercial demand for high-tier intelligence."
+                "headline": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
+                "teaserTitle": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
+                "visual_caption": "NVIDIA partnered with SB Energy to exclusively host its AI compute infrastructure at the PORTS-Pike Tech Campus in Ohio. This agreement secures a dedicated, large-scale environment for advanced AI compute, meeting escalating demand."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
-                "visual_caption": "The EU AI Office opened a recruitment drive for 40 specialized technical and legal positions. This expansion provides the necessary personnel to enforce compliance across European markets."
+                "headline": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
+                "visual_caption": "An AI system has formally verified the toughest math proof to date, marking a significant milestone in computational logic. This breakthrough demonstrates AI's capability to assist and validate complex theoretical work, enhancing scientific rigor."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "AMD has agreed to acquire Taalas to integrate breakthrough inference efficiency into its hardware roadmap. This acquisition strengthens silicon performance for rapidly expanding AI workloads."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Mistral AI introduced Shieldstral, providing in-region inference and European infrastructure for sovereign AI deployments. This enables enterprises to deploy powerful AI models while maintaining strict data governance and regulatory compliance locally."
             },
             {
                 "slide_index": 8,

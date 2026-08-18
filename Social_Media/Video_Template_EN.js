@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HIGH NA EUV REACHES READINESS MILESTONE",
+        "hookTitle": "AZURE DEPLOYS NEW AMD-POWERED AI/HPC VMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ASML: HIGH NA EUV REACHES NEW READINESS MILESTONE",
-                "teaserTitle": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING",
+                "headline": "MICROSOFT: AZURE INTRODUCES NEW AMD-POWERED AI/HPC VMS",
+                "teaserTitle": "OPENAI: EXPANDS CYBER DEFENSE WINDOW",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "ASML has achieved a major milestone by delivering its first high-volume Logic product using High NA EUV lithography. This breakthrough accelerates semiconductor manufacturing precision for the next era of advanced microchips."
+                "narration_line": "Microsoft Azure expanded its infrastructure by introducing new AMD-powered AI and HPC virtual machines. These offerings provide enterprises with powerful, efficient compute options, optimizing cloud spend for intensive computational projects."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: $500B AI INFRASTRUCTURE FINANCING PLATFORMS",
-                "teaserTitle": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "headline": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
+                "teaserTitle": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia partnered with major financial institutions to establish financing platforms mobilizing over 500 billion dollars. This capital injection directly addresses the physical infrastructure bottleneck facing hyperscale data centers."
+                "narration_line": "OpenAI introduced Daybreak, a new initiative to expand cyber defense against advanced AI-driven threats and vulnerabilities. This system integrates enhanced detection and rapid response, significantly narrowing adversary exploitation windows."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
-                "teaserTitle": "GARTNER: AI INFERENCE COSTS SURGE",
+                "headline": "GOOGLE DEEPMIND: UNVEILS GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI rolled out GPT-5.6 with advanced frontier intelligence designed to scale with enterprise ambition. Early deployments show models completing complex financial tasks with significantly reduced latency."
+                "naration_line": "Google DeepMind unveiled Gemini three point seven Flash, their latest intelligent model optimized for coding and agentic applications. This iteration offers improved processing speed and efficiency, accelerating complex AI agent development and deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "GARTNER: AI INFERENCE COSTS SURGE FOR AGENTS",
-                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE HITS $65B",
+                "headline": "ALIBABA AI: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Gartner predicts AI inference costs per workflow will rise more than 5fold through 2028. Continuous agent reasoning and background planning are creating unexpected financial burdens for IT budgets."
+                "narration_line": "Alibaba launched its Qwen three point eight twenty-seven billion parameter model, engineered for efficient operation on edge AI devices. This model decentralizes AI inference, enabling robust real-time applications with lower latency and enhanced data privacy."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
-                "teaserTitle": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS",
+                "headline": "NVIDIA: PARTNERS SB ENERGY FOR OHIO AI COMPUTE CAMPUS",
+                "teaserTitle": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic reported its annualized revenue run rate climbed rapidly to 65 billion dollars in July. This exponential growth reflects accelerating commercial demand for high-tier intelligence."
+                "narration_line": "NVIDIA partnered with SB Energy to exclusively host its AI compute infrastructure at the PORTS-Pike Technology Campus in Ohio. This agreement secures a dedicated, large-scale environment for advanced AI computing, meeting escalating demand for frontier models."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: 40 NEW ENFORCEMENT POSTS LAUNCHED",
-                "teaserTitle": "AMD: ACQUIRES TAALAS FOR INFERENCE",
+                "headline": "IEEE SPECTRUM: AI VERIFIES TOUGHEST MATHEMATICS PROOF",
+                "teaserTitle": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The EU AI Office opened a recruitment drive for 40 specialized technical and legal positions. This expansion provides the necessary personnel to enforce compliance across European markets."
+                "narration_line": "An AI system has formally verified the toughest mathematics proof to date, marking a significant milestone in computational logic. This breakthrough demonstrates AI's capability to assist and validate complex theoretical work, enhancing scientific rigor."
             },
             {
                 "slide_index": 7,
-                "headline": "AMD: ACQUIRES TAALAS TO ACCELERATE INFERENCE",
+                "headline": "MISTRAL AI: INTRODUCES SHIELDSTRAL FOR SOVEREIGN AI",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A-M-D has agreed to acquire Taalas to integrate breakthrough inference efficiency into its hardware roadmap. This acquisition strengthens silicon performance for rapidly expanding AI workloads."
+                "narration_line": "Mistral AI introduced Shieldstral, providing in-region inference and European infrastructure for sovereign AI deployments. This enables enterprises to deploy powerful AI models while maintaining strict data governance and regulatory compliance locally."
             },
             {
                 "slide_index": 8,
