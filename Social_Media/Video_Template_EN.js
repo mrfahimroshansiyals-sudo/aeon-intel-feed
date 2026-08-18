@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH DEPLOYMENT",
+        "hookTitle": "STRIPE ACQUIRES OPENROUTER FOR $7B",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "MICROSOFT AZURE: ENTERPRISE AGENTIC IQ INTEGRATION",
+                "headline": "STRIPE: OPENROUTER ACQUISITION VALUED AT $7B",
+                "teaserTitle": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has officially launched Gemini 3.7 Flash to accelerate autonomous agent workflows. The architecture delivers sub-100 millisecond response times while reducing enterprise operational inference costs by up to 40%."
+                "narration_line": "Stripe is set to acquire artificial intelligence gateway startup OpenRouter for seven billion dollars. The strategic deal embeds multi-model developer routing directly into global enterprise billing and payment infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "MICROSOFT AZURE: ENTERPRISE AGENTIC IQ INTEGRATION",
-                "teaserTitle": "OPENAI: DEFENDER WINDOW CYBER PLATFORM",
+                "headline": "GROQ: $350M NEOCLOUD COMPUTING PIVOT",
+                "teaserTitle": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Microsoft rolled out Microsoft IQ to connect enterprise agents directly with live organizational data pipelines. The platform provides unified tracing and grounding to minimize operational hallucination risks across business applications."
+                "narration_line": "Groq has raised three hundred fifty million dollars to scale its specialized neocloud compute fleet. This funding accelerates dedicated inference deployments to challenge conventional graphics processing unit data center dominance."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DEFENDER WINDOW CYBER PLATFORM",
-                "teaserTitle": "NVIDIA: AGENTIC AI SAFE COMPLIANCE STANDARD",
+                "headline": "HIGGSFIELD: $400M VALUATION SURGES TO $5.4B",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI published The Defender's Window framework detailing automated defensive systems against frontier model vulnerabilities. The initiative establishes automated red-teaming protocols to secure autonomous coding models before production deployment."
+                "narration_line": "Video generation firm Higgsfield secured four hundred million dollars, driving its private valuation to five point four billion dollars. The investment targets production-grade visual synthesis pipelines for enterprise media workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: AGENTIC AI SAFE COMPLIANCE STANDARD",
-                "teaserTitle": "LG ELECTRONICS: NVIDIA POWERED HUMANOID ROBOT",
+                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA partnered with over 120 tech organizations to create the SAFE cybersecurity guidelines for agentic systems. The framework standardizes tool execution boundaries and data access controls across enterprise architectures."
+                "narration_line": "OpenAI has slashed application programming interface token rates for GPT five point six Sol by fifty percent. This reduction significantly lowers operational overhead for large-scale enterprise coding and autonomous agent workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "LG ELECTRONICS: NVIDIA POWERED HUMANOID ROBOT",
-                "teaserTitle": "EU AI OFFICE: MANDATORY ENFORCEMENT EXPANSION",
+                "headline": "SECURITY: COPILOT AUTOFIX ZERO-DAY RISK",
+                "teaserTitle": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "LG Electronics announced a commercial rollout of NVIDIA powered humanoid robots scheduled for 2027. The robots incorporate real-time physical AI vision models to perform complex industrial manufacturing assembly tasks."
+                "narration_line": "Researchers discovered an automated Copilot code fix created a security breach compromising Jira systems. The vulnerability underscores immediate security risks in unverified artificial intelligence code generation across enterprise software pipelines."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: MANDATORY ENFORCEMENT EXPANSION",
-                "teaserTitle": "IBM CONSULTING: OPENAI ENTERPRISE SCALING ALLIANCE",
+                "headline": "MATHEMATICS: AI VERIFIES COMPLEX PROOF",
+                "teaserTitle": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The European Union AI Office opened 40 technical and legal posts to enforce compliance across member states. The expanded regulatory team will directly audit general-purpose foundation models and high-risk deployments."
+                "narration_line": "Engineers successfully utilized automated reasoning models to verify a complex formal mathematics proof. This breakthrough establishes neuro-symbolic verification as a critical tool for mission-critical software and chip design."
             },
             {
                 "slide_index": 7,
-                "headline": "IBM CONSULTING: OPENAI ENTERPRISE SCALING ALLIANCE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "LIGHTRICKS: LTX-2.5 OPEN WEIGHTS RELEASE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "IBM joined forces with OpenAI to embed frontier reasoning models and forward-deployed engineers into enterprise workflows. The alliance provides direct technical resources to accelerate AI modernization across legacy enterprise systems."
+                "narration_line": "Lightricks has released the open-weights LTX two point five video foundation model. The optimized architecture delivers real-time high-fidelity temporal video generation on single workstation hardware setups."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at aeon intel, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
