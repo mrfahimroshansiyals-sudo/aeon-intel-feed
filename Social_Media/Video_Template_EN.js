@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 SOL PRICING CUT BY 50%",
+        "hookTitle": "AI SECURITY: GITHUB COPILOT AUTOFIX COMPROMISES JIRA",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "AI SECURITY: GITHUB COPILOT AUTOFIX COMPROMISES JIRA",
+                "teaserTitle": "REGULATORY: FAKE THINK TANK DUPES AI CHATBOTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has cut GPT-5.6 Sol pricing by fifty percent across major developer platforms. This aggressive reduction lowers enterprise inference costs and forces market-wide pricing competition."
+                "narration_line": "Wiz.io researchers uncovered that AI-generated autofix suggestions in GitHub Copilot led to the compromise of Snowflake's Jira system. This critical vulnerability demands re-evaluation of trust in AI-augmented software development workflows."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "headline": "REGULATORY: FAKE THINK TANK DUPES AI CHATBOTS",
+                "teaserTitle": "COMPUTE EFFICIENCY: RUST GPU OFFLOAD ACHIEVES BREAKTHROUGH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash for complex coding and agentic workflows. The model delivers ultra-low latency execution for demanding software engineering tasks."
+                "narration_line": "A fake think tank successfully tricked several prominent AI chatbots into citing its fabricated research. This manipulation highlights an urgent need for enhanced source verification in generative AI models."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
-                "teaserTitle": "STARTUP: HIGGSFIELD RAISES $400M SERIES B",
+                "headline": "COMPUTE EFFICIENCY: RUST GPU OFFLOAD ACHIEVES BREAKTHROUGH",
+                "teaserTitle": "MODEL RESEARCH: GPT 5.6 SOL SETS NEW VISION BENCHMARK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Anthropic reports its annualized revenue run rate reached sixty-five billion dollars in July. This massive milestone reflects explosive enterprise adoption of Claude models."
+                "narration_line": "New research details a portable and fast GPU offloading mechanism implemented in Rust, significantly boosting AI computational efficiency. This promises to optimize existing AI inference pipelines, reducing costs and latency."
             },
             {
                 "slide_index": 4,
-                "headline": "STARTUP: HIGGSFIELD RAISES $400M SERIES B",
-                "teaserTitle": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "headline": "MODEL RESEARCH: GPT 5.6 SOL SETS NEW VISION BENCHMARK",
+                "teaserTitle": "ARCHITECTURE: FROM AI COPILOTS TO AGENT SWARMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Video startup Higgsfield raised four hundred million dollars in Series B funding. The round quadrupled its valuation to five point four billion dollars in eight months."
+                "naration_line": "OpenAI's GPT 5.6 Sol is now independently validated as the leading vision model, demonstrating unparalleled performance in visual understanding. This breakthrough enables more robust AI applications, from autonomous systems to content moderation."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
-                "teaserTitle": "SECURITY: APPLE USERS HIT BY SPYWARE ALERTS",
+                "headline": "ARCHITECTURE: FROM AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "AI CAPABILITY: VERIFIES TOUGHEST MATHEMATICS PROOF",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Chip developer Groq secured three hundred fifty million dollars to fuel its neocloud pivot. The company now offers dedicated high-performance inference capacity directly."
+                "narration_line": "Industry analysis shows an architectural evolution from individual AI copilots to orchestrated agent swarms for complex enterprise tasks. Organizations should re-evaluate AI deployment strategies towards integrated agentic frameworks for optimization."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: APPLE USERS HIT BY SPYWARE ALERTS",
-                "teaserTitle": "COMPLIANCE: EU ENFORCES AI ACT RULES",
+                "headline": "AI CAPABILITY: VERIFIES TOUGHEST MATHEMATICS PROOF",
+                "teaserTitle": "ROBOTICS: HUMANOID ROBOTS DEPLOYED IN SHIPYARD WELDING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Apple users face an unprecedented surge in targeted spyware threat notifications. Investigators warn that zero-day exploits threaten mobile and corporate device security."
+                "narration_line": "A new AI system successfully verified one of the toughest mathematical proofs, marking a monumental achievement in automated reasoning. This impacts fields needing high-assurance systems, reducing human error in complex verification tasks."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: EU ENFORCES AI ACT RULES",
+                "headline": "ROBOTICS: HUMANOID ROBOTS DEPLOYED IN SHIPYARD WELDING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The European Commission has officially started enforcing strict AI Act compliance rules. Businesses must adhere to mandatory transparency and risk auditing standards immediately."
+                "narration_line": "Humanoid robots are now deployed in shipyard welding, performing intricate and dangerous tasks with precision. This signals a major shift in labor allocation and safety protocols for high-risk industrial occupations."
             },
             {
                 "slide_index": 8,
