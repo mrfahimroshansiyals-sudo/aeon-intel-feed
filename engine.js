@@ -4,8 +4,8 @@
  * DIRECTORY:   Social_Media/
  * MODULE:      Video_Template_EN.js
  * PURPOSE:     Unified client-side DOM rendering engine for social media video slides.
- * Handles dynamic script loading, CORS background image encoding,
- * DOM slide layout synthesis, auto-fit typography, and slide capture.
+ *              Handles dynamic script loading, CORS background image encoding,
+ *              DOM slide layout synthesis, auto-fit typography, and slide capture.
  * DATA FLOW:   template.js -> Video_Template_EN.js -> DOM Hydration -> Puppeteer Capture
  * ==============================================================================
  */
