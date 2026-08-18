@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI SOL PRICING CUT BY 50 PERCENT",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PRICING: OPENAI SOL PRICING CUT BY 50%",
-                "teaserTitle": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "headline": "MODELS: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has slashed pricing for its flagship GPT-5.6 Sol model by fifty percent across API tiers. This unexpected adjustment compresses provider margins and accelerates enterprise model adoption."
+                "narration_line": "OpenAI has unveiled GPT-5.6, its new flagship model, pushing frontier AI capabilities. This release demands significant compute and infrastructure evaluation from enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "teaserTitle": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
+                "headline": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic reported its annualized revenue run rate surged to sixty-five billion dollars in July. Strong enterprise adoption of Opus 5 drives this unprecedented financial expansion."
+                "narration_line": "Google DeepMind launched Gemini 3.7 Flash, an efficient model for coding and agents. This optimizes intelligence per parameter, offering substantial cost savings for large-scale deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
-                "teaserTitle": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
+                "headline": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
+                "teaserTitle": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Groq secured three hundred fifty million dollars to pivot from AI chips to neocloud infrastructure. The funding expands specialized LPU hosting capacity for low latency inference."
+                "naration_line": "Stripe is reportedly acquiring AI gateway OpenRouter for over seven billion dollars. This consolidates AI infrastructure and streamlines API adoption for developers."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
-                "teaserTitle": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "headline": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
+                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous agent swarms have created memory bottlenecks, driving a comeback for high-performance CPUs. Data centers must rebalance procurement budgets to support multi-step task execution."
+                "narration_line": "Lightricks released a major update to its LTX-2.5 model, enhancing creative AI applications. This improves performance for image and video generation tools."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "teaserTitle": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
+                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "teaserTitle": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Union has commenced strict enforcement of AI Act transparency rules. Deployed models must meet rigorous documentation standards or face severe financial penalties."
+                "narration_line": "AI has successfully verified a very challenging mathematics proof, a breakthrough in symbolic reasoning. This improves rigorous software validation and cybersecurity analysis."
             },
             {
                 "slide_index": 6,
-                "headline": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
-                "teaserTitle": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+                "headline": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
+                "teaserTitle": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Automation startup Relay has shut down its independent operations and joined Google. Major tech giants continue aggressive talent consolidation across the workflow automation sector."
+                "narration_line": "A GitHub Copilot Autofix vulnerability allowed compromise of a Snowflake Jira instance. This highlights emerging supply chain risks from AI-powered development tools."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+                "headline": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Security investigators report an unprecedented wave of targeted spyware alerts impacting Apple users. Organizations must enhance endpoint detection to mitigate critical credential risks."
+                "narration_line": "DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting. This provides critical advantages for logistics and insurance industries."
             },
             {
                 "slide_index": 8,

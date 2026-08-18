@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PRICING: OPENAI SOL PRICING CUT BY 50%",
-                "teaserTitle": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "visual_caption": "OpenAI slashed GPT-5.6 Sol pricing by 50% across API tiers. This adjustment compresses provider margins and accelerates enterprise adoption."
+                "headline": "MODELS: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI unveils GPT-5.6, its new flagship model, pushing frontier AI capabilities. This release demands significant compute & infrastructure evaluation from enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
-                "teaserTitle": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
-                "visual_caption": "Anthropic's annualized revenue run rate surged to $65B in July. Strong enterprise demand for Opus 5 drives this financial expansion."
+                "headline": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, an efficient model for coding & agents. This optimizes intelligence per parameter, offering substantial cost savings for large-scale deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
-                "teaserTitle": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
-                "visual_caption": "Groq raised $350M to pivot from silicon to neocloud infrastructure. The capital expands LPU hosting capacity for low-latency workloads."
+                "headline": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
+                "teaserTitle": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
+                "visual_caption": "Stripe is reportedly acquiring AI gateway OpenRouter for over $7B. This consolidates AI infrastructure & streamlines API adoption for developers."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
-                "teaserTitle": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "visual_caption": "Agent swarms have triggered memory bottlenecks, driving a CPU comeback. Data centers must rebalance procurement to support complex orchestration."
+                "headline": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
+                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "visual_caption": "Lightricks released a major update to its LTX-2.5 model, enhancing creative AI applications. This improves performance for image & video generation tools."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "teaserTitle": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
-                "visual_caption": "The EU commenced strict enforcement of AI Act transparency rules. Deployed models must comply with documentation mandates to avoid penalties."
+                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "teaserTitle": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
+                "visual_caption": "AI has successfully verified a very challenging mathematics proof, a breakthrough in symbolic reasoning. This improves rigorous software validation & cybersecurity analysis."
             },
             {
                 "slide_index": 6,
-                "headline": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
-                "teaserTitle": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
-                "visual_caption": "Automation startup Relay shut down and its staff joined Google. Tech giants continue aggressive talent consolidation across the sector."
+                "headline": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
+                "teaserTitle": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
+                "visual_caption": "A GitHub Copilot Autofix vulnerability allowed compromise of a Snowflake Jira instance. This highlights emerging supply chain risks from AI-powered development tools."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+                "headline": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
                 "teaserTitle": "",
-                "visual_caption": "Investigators flagged an unprecedented wave of spyware alerts on Apple devices. Organizations must enhance endpoint security protocols."
+                "visual_caption": "DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting. This provides critical advantages for logistics & insurance industries."
             },
             {
                 "slide_index": 8,

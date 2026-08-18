@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENAI SOL PRICING CUT BY",
-        "titleBlue": "50%",
-        "footerSummary": "OpenAI cuts Sol pricing by 50% while Anthropic hits $65B ARR, accelerating infrastructure adoption and margin compression."
+        "titleWhite": "GPT-5.6 FRONTIER",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "OpenAI unveils GPT-5.6, Google DeepMind launches Gemini 3.7 Flash, and Stripe moves to acquire OpenRouter for $7B."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PRICING: OPENAI SOL PRICING CUT BY 50%",
+            "heading": "MODELS: GPT-5.6 FRONTIER INTELLIGENCE",
             "paragraphs": [
-                "OpenAI has slashed pricing for its flagship GPT-5.6 Sol model by 50 percent across API tiers, driving aggressive cost compression across frontier LLM providers. This unexpected pricing adjustment directly challenges competitor unit economics and accelerates the commoditization of high-end reasoning workloads.",
-                "Enterprise engineering teams must recalibrate their long-term inference cost models and cloud budget allocations to capitalize on the new pricing structure. The reduction intensifies margin pressure across independent model providers while forcing rapid efficiency gains in hardware deployment."
+                "OpenAI has unveiled GPT-5.6, its new flagship model, demonstrating enhanced reasoning and multimodal capabilities that set new benchmarks for frontier AI. This release signals a significant architectural leap, potentially enabling more complex autonomous agentic workflows with reduced error rates and increased contextual understanding.",
+                "Deploying GPT-5.6 will require enterprise clients to evaluate substantial compute resource allocations, balancing increased performance against potentially higher inference costs. This upgrade pressures competitors to accelerate their own model development, intensifying the race for market share in high-leverage AI applications and demanding strategic investment in advanced infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+            "nextUpTease": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://openrouter.ai",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence",
+                "Published: 2026-08-21T22:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REVENUE: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+            "heading": "MODELS: INTRODUCING GEMINI 3.7 FLASH",
             "paragraphs": [
-                "Anthropic informed investors that its annualized revenue run rate surged to $65B in July, driven by rapid enterprise adoption of the Opus 5 and Sonnet 5 model tiers. This unprecedented financial expansion underscores the accelerating shift toward production-grade agentic workflows in corporate environments.",
-                "The revenue milestone validates scalable monetization models for frontier AI labs while raising the capital expenditure bar for smaller market entrants. Organizations evaluating multi-vendor architectures must weigh Anthropic's premium pricing against measurable productivity gains in software engineering."
+                "Google DeepMind has launched Gemini 3.7 Flash, an optimized, more efficient version of its workhorse model, targeting lower latency and reduced operational overhead for coding and agent deployments. This new iteration focuses on maximizing intelligence-per-parameter, directly addressing the critical need for cost-effective, high-performance inference in real-world applications.",
+                "The availability of Gemini 3.7 Flash allows organizations to achieve significant cost savings on large-scale deployments, optimizing compute efficiency for various use cases. Executives must analyze its performance-to-cost ratio against larger models, making strategic choices that impact infrastructure investment and the overall economic viability of AI initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
+            "nextUpTease": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash",
+                "Published: 2026-08-21T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD",
+            "heading": "ACQUISITIONS: STRIPE ACQUIRES OPENROUTER FOR $7B",
             "paragraphs": [
-                "Groq has successfully closed a $350M funding round to accelerate its strategic pivot from dedicated AI silicon manufacturing toward full-scale neocloud infrastructure operations. The capital injection will expand specialized LPU hosting capacity to meet surging enterprise demand for ultra-low latency inference.",
-                "This shift signals a broader industry trend where hardware vendors evolve into vertically integrated cloud providers to capture higher margins. Infrastructure architects must assess whether dedicated LPU hosting offers superior cost-performance ratios compared to traditional GPU clusters."
+                "Stripe is reportedly set to acquire AI gateway startup OpenRouter for over $7B, consolidating a key piece of the rapidly evolving AI infrastructure ecosystem. This acquisition positions Stripe to integrate advanced AI routing and model management directly into its financial platform, streamlining AI adoption for its developer base.",
+                "This strategic move indicates a significant market shift towards embedding AI capabilities within foundational enterprise services, potentially reducing friction for AI API integration and driving vertical consolidation. Businesses relying on independent AI API gateways should assess the implications for pricing, service continuity, and potential platform lock-in as major players absorb key middleware providers."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
+            "nextUpTease": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
             "tags": [
-                "Source: https://techcrunch.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://techcrunch.com/2026/08/21/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+                "Published: 2026-08-21T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPUTING: CPU COMEBACK IN AGENTIC AI BOTTLENECK",
+            "heading": "PLATFORMS: LIGHTRICKS LTX-2.5 UPDATE",
             "paragraphs": [
-                "The widespread deployment of autonomous agent swarms has exposed significant memory bandwidth bottlenecks, prompting an unexpected comeback for high-performance CPUs in cluster architectures. Engineering teams report that complex agentic orchestration requires robust CPU capabilities to manage extensive context switching and multi-step task delegation.",
-                "This architectural shift requires hardware buyers to rebalance data center procurement budgets, increasing allocations for high-core-count CPUs alongside accelerator cards. Overlooking CPU bottlenecks can degrade multi-agent throughput and stall enterprise automation initiatives."
+                "Lightricks has released a significant update to its LTX-2.5 model, enhancing its capabilities and efficiency for creative AI applications, as highlighted on Hugging Face. This update improves performance in areas like image and video generation, offering developers more robust tools for integrating advanced creative features into their platforms.",
+                "The improved LTX-2.5 model provides a competitive edge for companies leveraging generative AI in design and media, potentially reducing rendering times and resource consumption. Businesses should evaluate this updated model for its potential to accelerate content creation workflows and lower operational costs in highly visual and interactive applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
+            "nextUpTease": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
             "tags": [
-                "Source: https://spectrum.ieee.org",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://huggingface.co/Lightricks/LTX-2.5",
+                "Published: 2026-08-21T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: EU ENFORCES AI ACT TRANSPARENCY RULES",
+            "heading": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
             "paragraphs": [
-                "The European Commission officially commenced enforcement of foundational AI Act rules and stringent transparency mandates for general-purpose AI systems operating within the union. Organizations deploying frontier models must now comply with strict documentation, watermarking, and copyright provenance requirements or face severe financial penalties.",
-                "Compliance integration introduces administrative friction and demands robust automated auditing tools to track training data lineage and model outputs. Enterprise legal and engineering teams must coordinate immediately to audit deployed models and avoid astronomical non-compliance fines."
+                "Artificial intelligence has been successfully employed to verify one of the most challenging mathematics proofs to date, marking a significant milestone in AI's symbolic reasoning capabilities. This breakthrough demonstrates AI's growing potential to independently validate complex logical structures and formal systems, moving beyond heuristic approaches.",
+                "The ability of AI to verify complex proofs opens new avenues for rigorous software validation, cybersecurity protocol analysis, and scientific discovery, potentially reducing human error and time-to-market for critical systems. Organizations should explore integrating such AI-powered verification tools into R&D pipelines to enhance reliability and accelerate innovation in computationally intensive fields."
             ],
             "imageUrl": "",
-            "nextUpTease": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
+            "nextUpTease": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu",
-                "Published: 2026-08-02T00:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-mathematics-proof",
+                "Published: 2026-08-21T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "STARTUPS: RELAY SHUTS DOWN AND JOINS GOOGLE",
+            "heading": "SECURITY: GITHUB COPILOT AUTOFIX COMPROMISE",
             "paragraphs": [
-                "AI automation pioneer Relay has officially wound down its independent operations, with its core engineering staff transitioning directly into Google's Chrome team. The acqui-hire highlights the intensifying talent consolidation wave as major tech conglomerates absorb specialized workflow automation startups.",
-                "This consolidation trend reduces independent tool options for enterprise architects while accelerating the native integration of browser-level automation features. Companies relying on specialized third-party workflow tools must evaluate continuity risks and potential platform lock-in."
+                "A critical security vulnerability in GitHub Copilot's \"Autofix\" feature has been identified, allowing for potential compromise of systems like Snowflake's Jira instance through AI-generated code. This flaw highlights the emerging supply chain risks associated with integrating AI-powered development tools that can inadvertently introduce insecure code or exploit existing system weaknesses.",
+                "Enterprises leveraging AI code assistants must implement stringent code review processes and automated security scans to mitigate risks introduced by AI-generated suggestions, facing potential compliance and financial liabilities. Security architects must reassess their threat models to account for AI-specific attack vectors and establish robust guardrails around autonomous code generation."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+            "nextUpTease": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
             "tags": [
-                "Source: https://techcrunch.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://wiz.io/blog/github-copilot-autofix-snowflake-jira-compromise",
+                "Published: 2026-08-21T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: APPLE USERS HIT BY UNPRECEDENTED SPYWARE",
+            "heading": "APPLICATIONS: WEATHERNEXT CYCLONE FORECASTING BREAKTHROUGH",
             "paragraphs": [
-                "Security investigators have flagged an unprecedented wave of targeted spyware alerts delivered to Apple device users across multiple enterprise sectors. The sophisticated attacks exploit zero-day vulnerabilities to bypass hardware security enclaves and compromise corporate credentials.",
-                "This escalating threat landscape necessitates immediate zero-trust auditing and enhanced endpoint detection protocols across all mobile and desktop fleets. Security leaders must treat these alerts as critical operational risks requiring rapid device isolation and credential rotation."
+                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, significantly improving accuracy and lead times for severe weather predictions. This advanced model leverages novel architectures to process vast meteorological datasets, providing more precise spatial and temporal insights for disaster preparedness and climate modeling.",
+                "Enhanced cyclone forecasting offers critical advantages for industries like logistics, insurance, and agriculture, enabling proactive risk mitigation and minimizing financial losses from extreme weather events. Businesses dependent on weather-sensitive operations should integrate these advanced AI forecasts to optimize strategic planning, resource allocation, and ensure business continuity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://deepmind.google/discover/blog/weather-next-cyclone-forecasting",
+                "Published: 2026-08-21T17:00:00Z",
                 "Status: Audited & True"
             ]
         }
