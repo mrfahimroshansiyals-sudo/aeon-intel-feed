@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: UNVEILS FLASH 3.7",
-                "teaserTitle": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
-                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash to accelerate agentic workflows. This workhorse model optimizes intelligence-per-parameter to reduce enterprise inference costs."
+                "headline": "OPENAI: MODEL SOL FINANCE WORK",
+                "teaserTitle": "CURSOR: LAUNCHES ORIGIN HOSTING",
+                "visual_caption": "OpenAI has officially launched GPT-5.6 Sol to execute complex finance tasks with unprecedented precision. Financial institutions deploying Sol can significantly accelerate transaction processing while reducing overhead costs."
             },
             {
                 "slide_index": 2,
-                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "OPENAI: CHATGPT TEENS ROLLOUT",
-                "visual_caption": "The European Commission introduces the Tech Sovereignty Package to boost regional semiconductor autonomy. Enterprises must align infrastructure compliance with these new digital mandates."
+                "headline": "CURSOR: LAUNCHES ORIGIN HOSTING",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION JUMP",
+                "visual_caption": "Cursor has launched Origin, a rival hosting platform designed to challenge GitHub workflows. Migrating core repositories to Origin allows engineering teams to leverage native AI tooling."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: CHATGPT TEENS ROLLOUT",
-                "teaserTitle": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
-                "visual_caption": "OpenAI rolls out a specialized ChatGPT experience tailored for teens with robust safety protections. Companies must benchmark their consumer moderation against these protective standards."
+                "headline": "TECHCRUNCH: ETCHED VALUATION JUMP",
+                "teaserTitle": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
+                "visual_caption": "Specialized chip startup Etched has doubled its valuation to $21B in a single month. This capital influx highlights surging demand for hardware built exclusively for transformer architectures."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
-                "teaserTitle": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
-                "visual_caption": "IEEE reports that agentic AI workflows have turned CPUs into performance bottlenecks. Architects must reallocate capital toward high-throughput CPU nodes."
+                "headline": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
+                "teaserTitle": "PAPERS WITH CODE: HARNESSEVAL-W",
+                "visual_caption": "Turbovec delivers a high-performance Rust implementation to accelerate vector search operations. Adopting these low-level memory optimizations cuts infrastructure footprint and lowers query latency."
             },
             {
                 "slide_index": 5,
-                "headline": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
-                "teaserTitle": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
-                "visual_caption": "A new 150M-parameter model demonstrates advanced recurrent latent reasoning. This compact architecture achieves breakthrough cost-accuracy on reasoning benchmarks."
+                "headline": "PAPERS WITH CODE: HARNESSEVAL-W",
+                "teaserTitle": "EU AI OFFICE: ENFORCEMENT TIMELINE",
+                "visual_caption": "HarnessEval-W introduces a hierarchical multi-agent framework for evaluating visual world models. Deploying rigorous evaluation frameworks enables AI labs to reliably measure spatial reasoning performance."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
-                "teaserTitle": "NIST: NEW APPOINTMENT AND STANDARDS",
-                "visual_caption": "Linux kernel updates improve performance when systems run out of vRAM during heavy workloads. Administrators can leverage these enhancements to prevent cluster crashes."
+                "headline": "EU AI OFFICE: ENFORCEMENT TIMELINE",
+                "teaserTitle": "MICROSOFT BLOG: AZURE HPC EXPANSION",
+                "visual_caption": "The European Union has initiated the enforcement phase of core AI Act transparency regulations. Organizations failing to comply face severe financial penalties reaching a percentage of global turnover."
             },
             {
                 "slide_index": 7,
-                "headline": "NIST: NEW APPOINTMENT AND STANDARDS",
+                "headline": "MICROSOFT BLOG: AZURE HPC EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "NIST advances critical encryption standards to protect network traffic against quantum threats. Organizations must audit infrastructure to comply with quantum-safe guidelines."
+                "visual_caption": "Microsoft has expanded its Azure high-performance computing infrastructure using advanced AMD silicon nodes. This hardware diversification provides enterprise customers with scalable compute alternatives."
             },
             {
                 "slide_index": 8,

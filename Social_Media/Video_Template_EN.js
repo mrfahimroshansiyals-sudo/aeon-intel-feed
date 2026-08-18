@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GOOGLE DEEPMIND UNVEILS FLASH 3.7",
+        "hookTitle": "OPENAI LAUNCHES GPT-5.6 SOL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: UNVEILS FLASH 3.7",
-                "teaserTitle": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
+                "headline": "OPENAI: MODEL SOL FINANCE WORK",
+                "teaserTitle": "CURSOR: LAUNCHES ORIGIN HOSTING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind launches Gemini three point seven Flash to accelerate agentic workflows. This workhorse model optimizes intelligence per parameter to reduce enterprise inference costs."
+                "narration_line": "OpenAI has officially launched GPT-5.6 Sol to execute complex finance tasks with unprecedented precision. Financial institutions deploying Sol can significantly accelerate transaction processing while reducing overhead costs."
             },
             {
                 "slide_index": 2,
-                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "OPENAI: CHATGPT TEENS ROLLOUT",
+                "headline": "CURSOR: LAUNCHES ORIGIN HOSTING",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION JUMP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The European Commission introduces the Tech Sovereignty Package to boost regional semiconductor autonomy. Enterprises must align infrastructure compliance with these new digital mandates."
+                "narration_line": "Cursor has launched Origin, a rival hosting platform designed to challenge GitHub workflows. Migrating core repositories to Origin allows engineering teams to leverage native AI tooling."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: CHATGPT TEENS ROLLOUT",
-                "teaserTitle": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
+                "headline": "TECHCRUNCH: ETCHED VALUATION JUMP",
+                "teaserTitle": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI rolls out a specialized ChatGPT experience tailored for teens with robust safety protections. Companies must benchmark their consumer moderation against these protective standards."
+                "narration_line": "Specialized chip startup Etched has doubled its valuation to twenty-one billion dollars in a single month. This capital influx highlights surging demand for hardware built exclusively for transformer architectures."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
-                "teaserTitle": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
+                "headline": "HACKER NEWS: TURBOVEC VECTOR SEARCH",
+                "teaserTitle": "PAPERS WITH CODE: HARNESSEVAL-W",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IEEE reports that agentic artificial intelligence workflows have turned CPUs into performance bottlenecks. Architects must reallocate capital toward high-throughput CPU nodes."
+                "narration_line": "Turbovec delivers a high-performance Rust implementation to accelerate vector search operations. Adopting these low-level memory optimizations cuts infrastructure footprint and lowers query latency."
             },
             {
                 "slide_index": 5,
-                "headline": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
-                "teaserTitle": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
+                "headline": "PAPERS WITH CODE: HARNESSEVAL-W",
+                "teaserTitle": "EU AI OFFICE: ENFORCEMENT TIMELINE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new one hundred fifty million parameter model demonstrates advanced recurrent latent reasoning. This compact architecture achieves breakthrough cost accuracy on reasoning benchmarks."
+                "narration_line": "HarnessEval-W introduces a hierarchical multi-agent framework for evaluating visual world models. Deploying rigorous evaluation frameworks enables AI labs to reliably measure spatial reasoning performance."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
-                "teaserTitle": "NIST: NEW APPOINTMENT AND STANDARDS",
+                "headline": "EU AI OFFICE: ENFORCEMENT TIMELINE",
+                "teaserTitle": "MICROSOFT BLOG: AZURE HPC EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Linux kernel updates improve performance when systems run out of vRAM during heavy workloads. Administrators can leverage these enhancements to prevent cluster crashes."
+                "narration_line": "The European Union has initiated the enforcement phase of core AI Act transparency regulations. Organizations failing to comply face severe financial penalties reaching a percentage of global turnover."
             },
             {
                 "slide_index": 7,
-                "headline": "NIST: NEW APPOINTMENT AND STANDARDS",
+                "headline": "MICROSOFT BLOG: AZURE HPC EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NIST advances critical encryption standards to protect network traffic against quantum threats. Organizations must audit infrastructure to comply with quantum safe guidelines."
+                "narration_line": "Microsoft has expanded its Azure high-performance computing infrastructure using advanced AMD silicon nodes. This hardware diversification provides enterprise customers with scalable compute alternatives."
             },
             {
                 "slide_index": 8,
