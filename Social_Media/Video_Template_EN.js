@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ANTHROPIC LAUNCHES OPUS 5",
+        "hookTitle": "GOOGLE DEEPMIND UNVEILS FLASH 3.7",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: LAUNCHES OPUS 5",
-                "teaserTitle": "EUROPEAN UNION: ENFORCING AI ACT",
+                "headline": "GOOGLE DEEPMIND: UNVEILS FLASH 3.7",
+                "teaserTitle": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic has released Opus 5, bringing stronger coding and agentic workflows to enterprise users. This major upgrade raises the baseline for autonomous software execution."
+                "narration_line": "Google DeepMind launches Gemini three point seven Flash to accelerate agentic workflows. This workhorse model optimizes intelligence per parameter to reduce enterprise inference costs."
             },
             {
                 "slide_index": 2,
-                "headline": "EUROPEAN UNION: ENFORCING AI ACT",
-                "teaserTitle": "HACKER NEWS: MEMORY PRICES CLIMB",
+                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "OPENAI: CHATGPT TEENS ROLLOUT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The European Union has officially started enforcing its strict AI Act transparency rules. Organizations must comply with mandated risk audits and technical governance."
+                "narration_line": "The European Commission introduces the Tech Sovereignty Package to boost regional semiconductor autonomy. Enterprises must align infrastructure compliance with these new digital mandates."
             },
             {
                 "slide_index": 3,
-                "headline": "HACKER NEWS: MEMORY PRICES CLIMB",
-                "teaserTitle": "PAPERS WITH CODE: IN-CONTEXT LEARNING",
+                "headline": "OPENAI: CHATGPT TEENS ROLLOUT",
+                "teaserTitle": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global memory prices have climbed five hundred percent over the past twelve months. This surge tightens hardware procurement budgets for data center expansion."
+                "narration_line": "OpenAI rolls out a specialized ChatGPT experience tailored for teens with robust safety protections. Companies must benchmark their consumer moderation against these protective standards."
             },
             {
                 "slide_index": 4,
-                "headline": "PAPERS WITH CODE: IN-CONTEXT LEARNING",
-                "teaserTitle": "MICROSOFT: AZURE AI INFRASTRUCTURE",
+                "headline": "IEEE SPECTRUM: CPU PERFORMANCE BOTTLENECK",
+                "teaserTitle": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new one hundred fifty million parameter reasoning model achieves a cost-accuracy breakthrough. It proves that latent reasoning can match massive parameter scaling."
+                "narration_line": "IEEE reports that agentic artificial intelligence workflows have turned CPUs into performance bottlenecks. Architects must reallocate capital toward high-throughput CPU nodes."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: AZURE AI INFRASTRUCTURE",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES",
+                "headline": "PAPERS WITH CODE: RECURRENT LATENT REASONING",
+                "teaserTitle": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft has expanded its Azure AI infrastructure with new AMD hardware integration. This diversification aims to alleviate GPU supply constraints for enterprise clients."
+                "narration_line": "A new one hundred fifty million parameter model demonstrates advanced recurrent latent reasoning. This compact architecture achieves breakthrough cost accuracy on reasoning benchmarks."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES",
-                "teaserTitle": "IEEE SPECTRUM: CPU COMEBACK BOTTLENECK",
+                "headline": "HACKER NEWS: LINUX vRAM OPTIMIZATION",
+                "teaserTitle": "NIST: NEW APPOINTMENT AND STANDARDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Specialized chip startup Etched doubled its valuation to twenty-one billion dollars this month. Investors are betting heavily on custom transformer silicon."
+                "narration_line": "Linux kernel updates improve performance when systems run out of vRAM during heavy workloads. Administrators can leverage these enhancements to prevent cluster crashes."
             },
             {
                 "slide_index": 7,
-                "headline": "IEEE SPECTRUM: CPU COMEBACK BOTTLENECK",
+                "headline": "NIST: NEW APPOINTMENT AND STANDARDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Agentic workflows have made CPUs the new performance bottleneck in compute stacks. Engineering teams must rebalance hardware investments for optimal orchestration."
+                "narration_line": "NIST advances critical encryption standards to protect network traffic against quantum threats. Organizations must audit infrastructure to comply with quantum safe guidelines."
             },
             {
                 "slide_index": 8,
