@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI SECURITY: GITHUB COPILOT AUTOFIX COMPROMISES JIRA",
-                "teaserTitle": "REGULATORY: FAKE THINK TANK DUPES AI CHATBOTS",
-                "visual_caption": "AI-generated autofix suggestions in GitHub Copilot compromised Snowflake's Jira. This critical vulnerability demands re-evaluation of trust in AI-augmented software development."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "MODEL ECONOMICS: GPT-5.6 SOL PRICING CUT BY 50%",
+                "visual_caption": "OpenAI launched GPT-5.6, redefining frontier intelligence across multimodal reasoning. This release demands re-evaluation of current AI system designs & operational throughput."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: FAKE THINK TANK DUPES AI CHATBOTS",
-                "teaserTitle": "COMPUTE EFFICIENCY: RUST GPU OFFLOAD ACHIEVES BREAKTHROUGH",
-                "visual_caption": "Fake think tank duped AI chatbots into citing fabricated research. This manipulation highlights urgent need for enhanced source verification in generative AI."
+                "headline": "MODEL ECONOMICS: GPT-5.6 SOL PRICING CUT BY 50%",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH MODEL UNVEILED",
+                "visual_caption": "OpenRouter announced a 50% price cut for GPT-5.6 Sol, lowering vision AI operational costs. This democratizes access to advanced visual intelligence, making high-performance models more economically viable."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPUTE EFFICIENCY: RUST GPU OFFLOAD ACHIEVES BREAKTHROUGH",
-                "teaserTitle": "MODEL RESEARCH: GPT 5.6 SOL SETS NEW VISION BENCHMARK",
-                "visual_caption": "New Rust GPU offload boosts AI compute efficiency. This optimizes inference pipelines, reducing costs and latency."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH MODEL UNVEILED",
+                "teaserTitle": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their new workhorse model for coding & agentic tasks. This intensifies competitive pressure in the LLM market for high intelligence at lower latency."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL RESEARCH: GPT 5.6 SOL SETS NEW VISION BENCHMARK",
-                "teaserTitle": "ARCHITECTURE: FROM AI COPILOTS TO AGENT SWARMS",
-                "visual_caption": "OpenAI's GPT 5.6 Sol sets new vision benchmark. This enables robust AI apps from autonomous systems to content moderation."
+                "headline": "HARDWARE: GROQ RAISES $350M FOR NEOCLOUD PIVOT",
+                "teaserTitle": "MARKET SIGNAL: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "visual_caption": "Groq raised $350M, pivoting from AI chips to a neocloud inference platform. This capital infusion allows scaling of specialized compute infrastructure as a service."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCHITECTURE: FROM AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "AI CAPABILITY: VERIFIES TOUGHEST MATHEMATICS PROOF",
-                "visual_caption": "AI architecture shifts from copilots to agent swarms. Organizations must re-evaluate deployment for integrated agentic frameworks."
+                "headline": "MARKET SIGNAL: ANTHROPIC ANNUALIZED REVENUE HITS $65B",
+                "teaserTitle": "AI CAPABILITY: WEATHERNEXT MODEL FORECASTS CYCLONES BETTER",
+                "visual_caption": "Anthropic achieved an annualized revenue run rate of $65B, showcasing rapid market penetration. This validates increasing enterprise investment in advanced AI capabilities & safety-focused solutions."
             },
             {
                 "slide_index": 6,
-                "headline": "AI CAPABILITY: VERIFIES TOUGHEST MATHEMATICS PROOF",
-                "teaserTitle": "ROBOTICS: HUMANOID ROBOTS DEPLOYED IN SHIPYARD WELDING",
-                "visual_caption": "AI verifies toughest math proof, a monumental achievement in automated reasoning. This impacts high-assurance systems, reducing human error."
+                "headline": "AI CAPABILITY: WEATHERNEXT MODEL FORECASTS CYCLONES BETTER",
+                "teaserTitle": "AI SECURITY: OPENAI DAYBREAK NARROWS CYBER DEFENSE WINDOW",
+                "visual_caption": "Google DeepMind's WeatherNext AI model made a breakthrough in cyclone forecasting, improving accuracy & lead times. This directly impacts critical infrastructure planning & disaster preparedness."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: HUMANOID ROBOTS DEPLOYED IN SHIPYARD WELDING",
+                "headline": "AI SECURITY: OPENAI DAYBREAK NARROWS CYBER DEFENSE WINDOW",
                 "teaserTitle": "",
-                "visual_caption": "Humanoid robots now perform shipyard welding tasks. This signals major shift in labor allocation and safety for high-risk industrial jobs."
+                "visual_caption": "OpenAI is expanding Daybreak, their cyber defense initiative, in response to narrowing threat windows in the AI era. This focuses on preemptive security & accelerated vulnerability patching."
             },
             {
                 "slide_index": 8,
