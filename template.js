@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI's new GPT-5.6 boosts enterprise AI scalability. Anthropic reports $65B revenue, reshaping the competitive landscape. Groq pivots to neocloud with $350M funding. (24 words)"
+        "titleWhite": "GPT-5.6 LUNA FREE",
+        "titleBlue": "ACCESS",
+        "footerSummary": "OpenAI's GPT-5.6 Luna is now free, expanding multimodal AI access and intensifying market competition. Enterprises must adapt for rapid deployment shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: GPT-5.6 LUNA FREE ACCESS",
             "paragraphs": [
-                "OpenAI has rolled out GPT-5.6, their latest frontier model, designed to offer enhanced scalability and performance across diverse enterprise applications. This release focuses on optimizing computational throughput and minimizing latency, addressing key bottlenecks in large-scale AI deployment environments.",
-                "The improved scalability of GPT-5.6 directly impacts the total cost of ownership for AI-driven solutions by reducing inference costs and maximizing hardware utilization. Tech executives must evaluate migration paths and infrastructure upgrades to leverage these advancements, ensuring future-proof architecture and competitive advantage."
+                "OpenAI has made its advanced GPT-5.6 Luna model, featuring enhanced multimodal capabilities, available to free users. This strategic move aims to accelerate broader adoption and integrate complex vision and language processing into more applications, lowering entry barriers for developers.",
+                "This expansion of free access significantly democratizes advanced AI, forcing businesses to re-evaluate their model integration strategies and operational costs. It intensifies competitive pressure on paid API services, requiring enterprises to innovate faster or risk falling behind in feature parity."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRY: ANTHROPIC REVENUE SURGES TO $65B",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
             "tags": [
-                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-23T20:00:00Z",
+                "Source: https://openai.com/news/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+                "Published: 2026-08-24T11:55:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INDUSTRY: ANTHROPIC REVENUE SURGES TO $65B",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
             "paragraphs": [
-                "Anthropic has reported an annualized revenue run rate climbing to $65 billion, signaling significant market traction and demand for its enterprise AI models, particularly Claude. This rapid financial growth underscores aggressive adoption rates and successful monetization strategies in the frontier AI sector.",
-                "The substantial revenue growth validates Anthropic's competitive position against major players like OpenAI and Google, indicating robust enterprise confidence in its AI safety-first approach. Businesses should consider the implications of this market consolidation, assessing partnership opportunities and vendor stability for long-term AI strategy and investment."
+                "Google DeepMind has launched Gemini 3.7 Flash, an intelligent workhorse model optimized for coding and sophisticated agentic applications. This release focuses on delivering high efficiency and performance for developers building autonomous AI systems, addressing the computational demands of multi-step reasoning.",
+                "Gemini 3.7 Flash provides a powerful new foundation for developing advanced AI agents, potentially reducing development cycles and compute costs for complex automation. Enterprises should assess its capabilities for integrating into mission-critical agent workflows and enhancing operational autonomy across various business functions."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: GROQ RAISES $350M, PIVOTS TO NEOCLOUD",
+            "nextUpTease": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/23/anthropic-annualized-revenue-surges-to-65b/",
-                "Published: 2026-08-23T15:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash",
+                "Published: 2026-08-24T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "HARDWARE: GROQ RAISES $350M, PIVOTS TO NEOCLOUD",
+            "heading": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
             "paragraphs": [
-                "AI chip startup Groq has secured $350 million in new funding to support its strategic pivot from solely developing AI chips to offering \"neocloud\" services. This shift aims to provide customers with direct access to Groq's high-performance Language Processor Units (LPUs) via a cloud-based inference platform, bypassing traditional GPU bottlenecks.",
-                "Groq's move into neocloud services could disrupt the AI inference market by offering a highly optimized, low-latency alternative to GPU-centric cloud providers, potentially lowering operational costs for real-time AI applications. Enterprises must evaluate this new compute paradigm for its efficiency gains and explore its implications for proprietary model deployment and scaling strategies."
+                "AI-generated GitHub Copilot 'Autofix' functionality has been implicated in allowing the compromise of Snowflake's Jira, highlighting critical security vulnerabilities in AI-assisted development tools. This incident reveals how seemingly benign AI suggestions can introduce exploits if not rigorously validated, posing a new vector for supply chain attacks.",
+                "The compromise underscores the urgent need for enhanced security auditing of AI-generated code and prompts, directly impacting development timelines and cybersecurity budgets. Organizations leveraging AI coding assistants must implement robust human-in-the-loop validation and automated vulnerability scanning to mitigate severe data breach risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: OPENAI DAYBREAK SHIELDS CYBER DEFENSE",
+            "nextUpTease": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/23/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-                "Published: 2026-08-23T07:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=38833917",
+                "Published: 2026-08-23T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: OPENAI DAYBREAK SHIELDS CYBER DEFENSE",
+            "heading": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
             "paragraphs": [
-                "OpenAI is expanding its \"Daybreak\" initiative, focusing on advanced cyber defense mechanisms as the window for vulnerability exploitation rapidly narrows due to accelerated AI attack vectors. This proactive stance involves developing more sophisticated AI-driven threat detection and mitigation tools to counter evolving adversarial AI tactics.",
-                "The increasing sophistication of AI-powered cyber threats necessitates substantial investment in defensive AI capabilities, directly impacting enterprise security budgets and risk management frameworks. Organizations must integrate cutting-edge AI security solutions to protect critical infrastructure and data, mitigating financial losses from breaches and maintaining regulatory compliance."
+                "Reports indicate that Israel created a fake think tank in an attempt to dupe AI chatbots, raising significant concerns about the deliberate manipulation of large language models for geopolitical influence. This tactic exploits AI's reliance on vast training data, potentially weaponizing information environments and distorting factual integrity.",
+                "Such AI manipulation efforts expose new dimensions of information warfare and necessitate advanced adversarial training and fact-checking protocols for AI deployments, increasing operational complexity and trust costs. Enterprises must fortify their AI systems against deliberate misinformation, protecting brand reputation and maintaining unbiased decision-making."
             ],
             "imageUrl": "",
-            "nextUpTease": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
+            "nextUpTease": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-as-cyber-defense-window-narrows",
-                "Published: 2026-08-23T16:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=38833917",
+                "Published: 2026-08-23T23:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
+            "heading": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
             "paragraphs": [
-                "OpenAI has announced a 50% price reduction for its GPT-5.6 Sol model, making its advanced vision and multimodal capabilities significantly more accessible to developers and businesses. This aggressive pricing strategy aims to accelerate adoption and integrate the model into a wider array of applications, stimulating innovation in vision-centric AI.",
-                "The drastic price cut directly lowers the cost of deploying high-performance vision AI, enabling companies to expand existing projects or launch new, previously cost-prohibitive initiatives. Tech leaders should re-evaluate their model choices and budget allocations, capitalizing on the reduced inference costs to gain a competitive edge in visual data processing and automation."
+                "ASML's $400M lithography machines remain critical for advanced chip manufacturing, representing a significant bottleneck in the global supply chain for high-performance AI silicon. This monopoly on extreme ultraviolet (EUV) technology directly impacts the speed and cost of producing next-generation AI processors, constraining compute expansion.",
+                "The reliance on ASML's specialized machinery highlights a concentrated risk in AI infrastructure, affecting the scalability and efficiency of future AI architectures. Strategic investment in alternative lithography technologies or diversified chip supply agreements becomes crucial for companies aiming to secure their long-term AI compute roadmaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: LLM FLAW MAKES MODELS VULNERABLE",
+            "nextUpTease": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
             "tags": [
-                "Source: https://openrouter.ai/models/openai/gpt-5.6-sol",
-                "Published: 2026-08-23T12:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/23/the-400-million-machine-powering-the-future-of-chipmaking/",
+                "Published: 2026-08-23T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: LLM FLAW MAKES MODELS VULNERABLE",
+            "heading": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
             "paragraphs": [
-                "A recent analysis by MIT Technology Review has uncovered a fundamental flaw in large language models, making them strikingly vulnerable to targeted attacks that bypass safety alignments. This inherent weakness allows malicious actors to trick LLMs into generating harmful content or executing unauthorized actions, posing significant operational risks.",
-                "The identified vulnerability demands immediate architectural review and robust defensive programming strategies for all LLM deployments, increasing development overhead and operational security costs. Enterprises must invest in advanced red-teaming and continuous monitoring to mitigate potential exploitation, safeguarding against reputational damage and regulatory penalties."
+                "AI startup Higgsfield has successfully closed a $400M Series B funding round, quadrupling its valuation to $5.4B in just eight months. This substantial capital injection validates its innovative approach in the AI sector and provides significant resources for accelerating product development and market expansion in competitive environments.",
+                "Higgsfield's rapid valuation increase demonstrates robust investor appetite for high-growth AI ventures addressing critical industry needs, impacting strategic M&A considerations and competitive landscapes. Businesses should monitor well-funded startups for potential disruptive technologies and consider their integration into future innovation roadmaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCHITECTURE: AI AGENTS SHIFT TO SWARMS",
+            "nextUpTease": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/23/llm-vulnerability-attack-flaw/",
-                "Published: 2026-08-23T14:00:00Z",
+                "Source: https://techcrunch.com/2026/08/23/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+                "Published: 2026-08-23T21:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ARCHITECTURE: AI AGENTS SHIFT TO SWARMS",
+            "heading": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
             "paragraphs": [
-                "The paradigm for AI deployment is shifting from individual AI copilots to orchestrated \"agent swarms,\" where multiple specialized AI agents collaborate to achieve complex tasks. This architectural evolution enhances autonomy and problem-solving capabilities, but introduces new coordination and control challenges in enterprise systems.",
-                "Transitioning to agent swarm architectures requires significant re-engineering of existing AI infrastructure and investment in advanced orchestration layers, impacting compute resource allocation and development timelines. Businesses must assess the trade-offs between increased autonomous operational efficiency and the complexities of managing multi-agent systems to maximize strategic value."
+                "Artificial intelligence has been successfully employed to verify one of the toughest mathematical proofs to date, demonstrating a significant leap in AI's symbolic reasoning and formal verification capabilities. This breakthrough signals AI's growing ability to tackle highly abstract and complex intellectual challenges, extending beyond traditional data processing.",
+                "This advancement validates AI's potential in accelerating scientific discovery and engineering validation processes, reducing human error and time-to-solution in critical domains like software verification. Researchers and architects should explore integrating such AI-driven proof assistants to enhance the reliability and efficiency of complex system designs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-copilots-agent-swarms",
-                "Published: 2026-08-23T10:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-used-to-verify-toughest-mathematics-proof-yet",
+                "Published: 2026-08-23T21:00:00Z",
                 "Status: Audited & True"
             ]
         }

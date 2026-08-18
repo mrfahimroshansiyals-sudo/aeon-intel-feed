@@ -4,50 +4,56 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "ANTHROPIC'S REVENUE SURGES TO $65B",
-                "visual_caption": "OpenAI rolls out GPT-5.6, boosting enterprise AI scalability and performance. Computational throughput is optimized, minimizing latency in large-scale AI deployments."
+                "headline": "OPENAI: GPT-5.6 LUNA FREE ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "visual_caption": "OpenAI\u2019s GPT-5.6 Luna model is now free for all users, enhancing multimodal AI access. This intensifies market competition, compelling businesses to adapt deployment strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "INDUSTRY: ANTHROPIC REVENUE SURGES TO $65B",
-                "teaserTitle": "GROQ RAISES $350M, PIVOTS TO NEOCLOUD",
-                "visual_caption": "Anthropic's annualized revenue run rate climbs to $65B, showing strong market traction for Claude AI. This validates aggressive adoption and successful monetization strategies in frontier AI."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH FOR AGENTS",
+                "teaserTitle": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
+                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, optimized for coding and advanced AI agents. This innovation offers high efficiency, supporting developers in building sophisticated autonomous systems."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: GROQ RAISES $350M, PIVOTS TO NEOCLOUD",
-                "teaserTitle": "OPENAI: DAYBREAK SHIELDS CYBER DEFENSE",
-                "visual_caption": "AI chip startup Groq secured $350M, pivoting from chips to offering neocloud services. This provides direct access to Groq's high-performance LPUs, bypassing traditional GPU bottlenecks."
+                "headline": "SECURITY: COPILOT AUTOFIX COMPROMISES JIRA",
+                "teaserTitle": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "AI-generated GitHub Copilot 'Autofix' compromised Snowflake's Jira, exposing critical security flaws in AI-assisted development tools. Organizations must enhance auditing for AI-generated code to mitigate new risks."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI DAYBREAK SHIELDS CYBER DEFENSE",
-                "teaserTitle": "GPT-5.6 SOL PRICING CUT BY 50%",
-                "visual_caption": "OpenAI expands Daybreak, enhancing cyber defense as exploitation windows narrow. This involves sophisticated AI-driven threat detection to counter evolving adversarial AI tactics."
+                "headline": "GEOPOLITICS: ISRAELI FAKE THINK TANK FOOLS AIs",
+                "teaserTitle": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Israel reportedly used a fake think tank to manipulate AI chatbots, sparking concerns about geopolitical misinformation. Stronger adversarial training and fact-checking protocols are needed to protect AI system integrity."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: GPT-5.6 SOL PRICING CUT BY 50%",
-                "teaserTitle": "LLM FLAW MAKES MODELS VULNERABLE",
-                "visual_caption": "OpenAI announced a 50% price reduction for its GPT-5.6 Sol model, making advanced vision capabilities more accessible. This strategy aims to accelerate adoption into wider applications."
+                "headline": "HARDWARE: ASML MACHINE POWERS FUTURE CHIPMAKING",
+                "teaserTitle": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "ASML's $400M lithography machines remain a critical bottleneck in advanced AI chip manufacturing. This concentrated risk impacts the scalability and cost efficiency of future AI architectures, demanding strategic investment."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: LLM FLAW MAKES MODELS VULNERABLE",
-                "teaserTitle": "AI AGENTS SHIFT FROM COPILOT TO SWARMS",
-                "visual_caption": "MIT Technology Review uncovered a fundamental flaw in LLMs, making them vulnerable to targeted attacks. This weakness allows malicious actors to trick LLMs into generating harmful content or executing unauthorized actions."
+                "headline": "INVESTMENT: HIGGSFIELD SECURES $400M SERIES B",
+                "teaserTitle": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "AI startup Higgsfield secured a $400M Series B, quadrupling its valuation to $5.4B. This demonstrates strong investor confidence in high-growth AI ventures, influencing strategic market evaluations."
             },
             {
                 "slide_index": 7,
-                "headline": "ARCHITECTURE: AI AGENTS SHIFT TO SWARMS",
+                "headline": "CAPABILITIES: AI VERIFIES TOUGHEST MATH PROOF",
                 "teaserTitle": "",
-                "visual_caption": "AI deployment shifts from individual copilots to orchestrated agent swarms for complex tasks. This architectural evolution enhances autonomy but introduces new coordination challenges."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Artificial intelligence has verified one of the toughest mathematical proofs, marking a significant advance in AI's symbolic reasoning. This breakthrough suggests AI can accelerate scientific discovery and enhance engineering validation processes."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
