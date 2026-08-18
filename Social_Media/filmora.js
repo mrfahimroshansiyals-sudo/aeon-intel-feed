@@ -4,49 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: PLEDGES $100BN FOR OPENAI DATA CENTER",
-                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65 BILLION",
-                "visual_caption": "NVIDIA pledges $100B for OpenAI's new data center in Ohio. This investment rapidly expands compute infrastructure for next-gen AI models."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "MICROSOFT AZURE: ENTERPRISE AGENTIC IQ INTEGRATION",
+                "visual_caption": "Google DeepMind officially launched Gemini 3.7 Flash to accelerate autonomous agent workflows. The architecture delivers sub-100ms response times while reducing inference costs by up to 40%."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65 BILLION",
-                "teaserTitle": "ECONOMICS: AI INFERENCE CHEAPER, AGENTS COSTLIER",
-                "visual_caption": "Anthropic's annualized revenue run rate hit $65B by July 2026. This milestone reflects significant growth in enterprise AI deployments."
+                "headline": "MICROSOFT AZURE: ENTERPRISE AGENTIC IQ INTEGRATION",
+                "teaserTitle": "OPENAI: DEFENDER WINDOW CYBER PLATFORM",
+                "visual_caption": "Microsoft rolled out Microsoft IQ to connect enterprise agents directly with live corporate data pipelines. The platform provides unified tracing and grounding to minimize hallucination risks across business apps."
             },
             {
                 "slide_index": 3,
-                "headline": "ECONOMICS: AI INFERENCE CHEAPER, AGENTS COSTLIER",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH NEW PRICING",
-                "visual_caption": "AI inference costs are cheaper, but agent expenses will rise 5X by 2028. This is due to agents' continuous reasoning and orchestration needs."
+                "headline": "OPENAI: DEFENDER WINDOW CYBER PLATFORM",
+                "teaserTitle": "NVIDIA: AGENTIC AI SAFE COMPLIANCE STANDARD",
+                "visual_caption": "OpenAI published The Defender's Window framework detailing automated defensive systems against frontier model vulnerabilities. The initiative establishes automated red-teaming protocols to secure autonomous coding models before production."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH NEW PRICING",
-                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash with new introductory pricing. This aims to attract developers and reduce operational latency."
+                "headline": "NVIDIA: AGENTIC AI SAFE COMPLIANCE STANDARD",
+                "teaserTitle": "LG ELECTRONICS: NVIDIA POWERED HUMANOID ROBOT",
+                "visual_caption": "NVIDIA partnered with over 120 tech organizations to create the SAFE cybersecurity guidelines for agentic systems. The framework standardizes tool execution boundaries and data access controls across enterprise architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "ALIBABA: QWEN 3.8 27B MODEL FOR EDGE AI",
-                "teaserTitle": "ARCHITECTURE: AGENTIC AI BOTTLENECKS CPUS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Alibaba launched its Qwen 3.8 27B model for edge AI applications. This model runs efficiently on local devices, pushing distributed computing."
+                "headline": "LG ELECTRONICS: NVIDIA POWERED HUMANOID ROBOT",
+                "teaserTitle": "EU AI OFFICE: MANDATORY ENFORCEMENT EXPANSION",
+                "visual_caption": "LG Electronics announced a commercial rollout of NVIDIA-powered humanoid robots scheduled for 2027. The robots incorporate real-time physical AI vision models to perform complex industrial manufacturing assembly tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "ARCHITECTURE: AGENTIC AI BOTTLENECKS CPUS",
-                "teaserTitle": "MARKET VALUATION: SPEECH-TO-TEXT AI SPECIALIST HITS $2BN",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Agentic AI makes traditional CPUs the primary performance bottleneck. This shift demands re-evaluation of system design for optimal agent performance."
+                "headline": "EU AI OFFICE: MANDATORY ENFORCEMENT EXPANSION",
+                "teaserTitle": "IBM CONSULTING: OPENAI ENTERPRISE SCALING ALLIANCE",
+                "visual_caption": "The EU AI Office opened 40 technical and legal posts to enforce compliance across member states. The expanded regulatory team will directly audit general-purpose foundation models and high-risk deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "MARKET VALUATION: SPEECH-TO-TEXT AI SPECIALIST HITS $2BN",
+                "headline": "IBM CONSULTING: OPENAI ENTERPRISE SCALING ALLIANCE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "A leading speech-to-text AI specialist achieved a $2B valuation after its latest funding. This highlights strong market demand for scalable conversational AI solutions."
+                "visual_caption": "IBM joined forces with OpenAI to embed frontier reasoning models and forward-deployed engineers into enterprise workflows. The alliance provides dedicated technical resources to accelerate AI modernization across legacy systems."
             },
             {
                 "slide_index": 8,
