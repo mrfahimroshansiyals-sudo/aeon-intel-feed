@@ -207,14 +207,14 @@ def main():
             if not video_module_node:
                 video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
 
-            # --- FILMORA NODE EXTRACTION & FALLBACKS (TARGETING filmora_captions) ---
+            # --- FILMORA NODE EXTRACTION & FALLBACKS (UPDATED TO TARGET filmora_captions) ---
             filmora_node = parsed_payload.get("filmora_captions") or parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
             if not filmora_node:
                 filmora_node = parsed_payload.get("video_shorts_module", {"language": "EN", "captions": parsed_payload})
 
             post_content = parsed_payload.get("social_post", "")
             if not post_content and isinstance(parsed_payload, dict):
-                post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
+                post_content = "🌐 GLOBAL AI INTELLIGENCE\nStay ahead of the global AI pulse."
 
             # --- ENFORCEMENT ---
             slides_data_node = enforce_slide_structure(slides_data_node)
