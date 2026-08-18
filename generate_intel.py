@@ -207,14 +207,14 @@ def main():
             if not video_module_node:
                 video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
 
-            # --- FILMORA NODE EXTRACTION & FALLBACKS (UPDATED TO TARGET filmora_captions) ---
+            # --- FILMORA NODE EXTRACTION & FALLBACKS (TARGETING filmora_captions) ---
             filmora_node = parsed_payload.get("filmora_captions") or parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
             if not filmora_node:
                 filmora_node = parsed_payload.get("video_shorts_module", {"language": "EN", "captions": parsed_payload})
 
             post_content = parsed_payload.get("social_post", "")
             if not post_content and isinstance(parsed_payload, dict):
-                post_content = "🌐 GLOBAL AI INTELLIGENCE\nStay ahead of the global AI pulse."
+                post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
 
             # --- ENFORCEMENT ---
             slides_data_node = enforce_slide_structure(slides_data_node)
@@ -232,7 +232,7 @@ def main():
                 f.write(f"const dailyData = {slides_json_str};")
             log("SUCCESS", "Generated and exported: template.js")
                 
-            # 3. Social Media Post Content (post.txt in Root)
+            # 3. Social Media Post Content (post.txt in Root) -->
             with open("post.txt", "w", encoding="utf-8") as f:
                 clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
