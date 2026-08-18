@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
-                "teaserTitle": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
-                "visual_caption": "Google DeepMind has released Gemini 3.7 Flash as its most intelligent workhorse model for coding. The new release slashes latency and accelerates production agentic applications for developers."
+                "headline": "OPENAI: IMPROVES GPT-5.6 SOL & EXPANDS LUNA",
+                "teaserTitle": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
+                "visual_caption": "OpenAI enhanced GPT-5.6 Sol in ChatGPT, boosting performance. GPT-5.6 Luna access expanded for free users, broadening its reach."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
-                "teaserTitle": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
-                "visual_caption": "Nvidia secured land and power capacity at the Ports Pike campus in Ohio through SB Energy. The dedicated facility will exclusively host high-density AI compute infrastructure."
+                "headline": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
+                "teaserTitle": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
+                "visual_caption": "Nvidia committed $100B to OpenAI's new Ohio data center, expanding AI compute infrastructure. This investment accelerates next-gen AI model deployment by securing dedicated GPU clusters."
             },
             {
                 "slide_index": 3,
-                "headline": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
-                "teaserTitle": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
-                "visual_caption": "IBM and OpenAI announced a strategic alliance to embed frontier models into consulting services. The partnership accelerates enterprise transformation through joint engineering support."
+                "headline": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
+                "teaserTitle": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "visual_caption": "Zhipu AI's new coding model rapidly developed advanced cybersecurity skills. This impacts cyber operations and threat detection."
             },
             {
                 "slide_index": 4,
-                "headline": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
-                "teaserTitle": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
-                "visual_caption": "AMD and Anthropic agreed to deploy up to 2GW of Instinct MI450 Series GPUs. This massive compute expansion powers next-generation Claude model training."
+                "headline": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
+                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
+                "visual_caption": "Google Cloud introduced new Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models. These offer efficiency and security for diverse enterprise needs."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
-                "teaserTitle": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
-                "visual_caption": "Microsoft Azure added new AMD-powered virtual machines for demanding HPC workloads. These instances provide flexible and cost-effective scaling for enterprise AI."
+                "headline": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
+                "teaserTitle": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "visual_caption": "Agentic AI systems make CPUs the primary bottleneck in AI workflows. This demands hardware resource reallocation in AI infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
-                "teaserTitle": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
-                "visual_caption": "Databricks integrated embeddable PostgreSQL capabilities following its acquisition of Electric. The update provides engineering teams with robust relational tools for building agents."
+                "headline": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
+                "teaserTitle": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Alibaba introduced Qwen 3.8 27B model for powerful generative AI on edge devices. It enables efficient, low-latency AI without cloud dependency."
             },
             {
                 "slide_index": 7,
-                "headline": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+                "headline": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Stanford researchers found that vulnerable users seeking emotional support from AI companions experience reduced well-being. The findings highlight the need for strict ethical governance."
+                "visual_caption": "Anthropic's annualized revenue run rate hit $65B as of July 2026. This reflects robust enterprise adoption of Claude models, solidifying market position."
             },
             {
                 "slide_index": 8,

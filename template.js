@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GOOGLE DEEPMIND LAUNCHES GEMINI",
-        "titleBlue": "FLASH",
-        "footerSummary": "Google DeepMind unveils Gemini 3.7 Flash alongside specialized robotics models as enterprises rapidly scale autonomous agent infrastructures."
+        "titleWhite": "IMPROVES GPT-5.6 SOL & EXPANDS",
+        "titleBlue": "LUNA",
+        "footerSummary": "OpenAI boosts GPT-5.6 Sol performance and broadens Luna access, indicating aggressive product scaling and intensified competition in frontier AI model deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: LAUNCHES GEMINI FLASH",
+            "heading": "OPENAI: IMPROVES GPT-5.6 SOL & EXPANDS LUNA",
             "points": [
-                "Google DeepMind has officially released Gemini 3.7 Flash as its most intelligent workhorse model optimized specifically for coding and autonomous agents.",
-                "The new model introduces highly efficient execution pipelines designed to slash operational latency and reduce token expenditure for enterprise deployments.",
-                "Positioned directly within the Gemini Enterprise ecosystem, the model bridges high-speed inference with advanced multi-step task reasoning.",
-                "Developers can immediately integrate the updated architecture via Google AI Studio to accelerate production-grade agentic applications."
+                "OpenAI has significantly enhanced GPT-5.6 Sol in ChatGPT and made GPT-5.6 Luna broadly available to free users. This update improves model performance and accessibility for a wider user base.",
+                "The Sol model now offers advanced reasoning capabilities, optimized for complex problem-solving, while Luna's wider access aims to democratize frontier AI.",
+                "This strategic move accelerates OpenAI's market penetration, providing a competitive edge by lowering barriers for high-quality AI interaction and development.",
+                "Stakeholders should anticipate a rapid increase in AI-driven applications and a push for more advanced features across consumer and enterprise platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+            "nextUpTease": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
             "tags": [
-                "Source: https://deepmind.google",
-                "Published: 2026-08-17T08:00:00Z",
+                "Source: https://openai.com/blog/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+                "Published: 2026-08-18T16:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: SECURES OHIO DATA CENTER CAPACITY",
+            "heading": "NVIDIA: PLEDGES $100B FOR OPENAI DATA CENTER",
             "points": [
-                "NVIDIA has secured dedicated land, power, and shell capacity at the PORTS-Pike Technology Campus in Ohio through a strategic partnership with SB Energy.",
-                "The facility will exclusively host high-density NVIDIA AI compute infrastructure to support expanding enterprise training and inference demands.",
-                "This deployment addresses critical power constraints facing large-scale AI developers as multi-gigawatt cluster requirements escalate globally.",
-                "Industry partners can leverage the new Ohio campus to accelerate large model training cycles and expand regional operational footprints."
+                "Nvidia has committed $100 billion to backing OpenAI's data center initiative in Ohio, a significant investment to expand AI compute infrastructure.",
+                "This massive capital injection is slated to accelerate the deployment of next-generation AI models by securing dedicated, large-scale GPU clusters.",
+                "The partnership underscores a critical strategic alignment between leading AI chipmakers and foundational model developers to meet escalating compute demands.",
+                "Enterprises should expect faster AI model training and deployment capabilities, driven by the expanding availability of high-performance data center capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
+            "nextUpTease": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
             "tags": [
-                "Source: https://nvidianews.nvidia.com",
-                "Published: 2026-08-17T09:00:00Z",
+                "Source: https://www.ft.com/content/nvidia-openai-data-center-investment",
+                "Published: 2026-08-18T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IBM & OPENAI: PARTNER FOR ENTERPRISE AI",
+            "heading": "ZIPHU: CODING AI DEVELOPS ADVANCED CYBER SKILLS",
             "points": [
-                "IBM and OpenAI have announced a strategic alliance to embed frontier AI models and forward-deployed engineers directly into IBM consulting services.",
-                "The joint initiative aims to accelerate enterprise-wide AI transformations by combining OpenAI's foundational models with IBM's integration frameworks.",
-                "The partnership targets complex enterprise modernization challenges, providing structured pathways for deploying secure, scalable LLM workflows.",
-                "Business stakeholders should anticipate faster enterprise adoption cycles and tighter integration of generative AI across mission-critical systems."
+                "Zhipu AI's new coding model has unexpectedly demonstrated advanced cybersecurity skills, acquiring complex defensive and offensive capabilities rapidly.",
+                "The AI's proficiency includes identifying vulnerabilities and generating sophisticated exploits, raising both potential and significant security concerns.",
+                "This development highlights the accelerating pace of AI capability growth, pushing the boundaries of autonomous cyber operations and threat landscapes.",
+                "Organizations must prioritize integrating advanced AI into their cyber defense strategies while rigorously assessing potential risks from malevolent AI use."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
+            "nextUpTease": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
             "tags": [
-                "Source: https://www.aibusiness.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.infoworld.com/article/3711928/zhipu-new-coding-ai-developed-advanced-cyber-skills-faster-than-expected.html",
+                "Published: 2026-08-17T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMD & ANTHROPIC: DEPLOY 2GW OF INSTANT GPUS",
+            "heading": "GOOGLE CLOUD: INTRODUCES NEW GEMINI FLASH MODELS",
             "points": [
-                "AMD and Anthropic have established a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs for frontier model scaling.",
-                "The hardware agreement significantly diversifies Anthropic's computing infrastructure while validating AMD's data center AI architecture at scale.",
-                "This massive compute expansion provides the raw processing capacity required to train next-generation Claude models with enhanced reasoning capabilities.",
-                "Market analysts expect this alliance to intensify hardware competition in high-performance AI clusters throughout the upcoming fiscal quarters."
+                "Google Cloud has unveiled new Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models, broadening its generative AI portfolio for developers.",
+                "These models offer specialized capabilities, with Flash-Lite providing extreme efficiency and Flash Cyber focusing on enhanced security applications.",
+                "The expansion targets diverse enterprise needs, from cost-optimized inference to robust cyber defense, reinforcing Google's comprehensive AI ecosystem.",
+                "Developers can leverage these new tools to build more efficient, secure, and tailored AI applications, driving innovation across various industry sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+            "nextUpTease": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
             "tags": [
-                "Source: https://www.amd.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+                "Published: 2026-08-17T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MICROSOFT AZURE: EXPANDS AMD VIRTUAL MACHINES",
+            "heading": "IEEE SPECTRUM: AGENTIC AI DRIVES CPU BOTTLENECKS",
             "points": [
-                "Microsoft Azure has expanded its cloud infrastructure portfolio by integrating new AMD-powered AI and HPC virtual machines including HDv2, HXv2, and ND MI455Xv7.",
-                "These specialized instances are engineered to support demanding deep learning, data processing, and technical computing workloads.",
-                "The infrastructure update offers enterprise customers enhanced flexibility and cost-performance ratios for running intensive AI model deployments.",
-                "Cloud architects can now provision high-throughput AMD nodes directly within Azure environments to optimize large-scale inferencing."
+                "New research indicates that the rise of agentic AI systems is increasingly causing CPUs to become the primary performance bottleneck in AI workflows.",
+                "This architectural shift demands reconsideration of hardware resource allocation, as intensive agent orchestration tasks burden traditional CPU designs.",
+                "The finding challenges the GPU-centric view of AI computing, underscoring the need for balanced system architectures optimized for multi-component AI.",
+                "System architects must now account for expanded CPU requirements when designing future AI infrastructure, impacting procurement and scaling strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+            "nextUpTease": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "tags": [
-                "Source: https://azure.microsoft.com/en-us/blog",
-                "Published: 2026-08-18T12:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-cpu-bottleneck",
+                "Published: 2026-08-16T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DATABRICKS: ADDS EMBEDDABLE POSTGRESQL",
+            "heading": "ALIBABA: QWEN 3.8 27B MODEL TARGETS EDGE AI",
             "points": [
-                "Following its recent funding round and acquisition of Electric, Databricks has integrated embeddable PostgreSQL capabilities into its data management platform.",
-                "The feature is specifically designed to aid developers in building and deploying data-intensive autonomous agents with low latency.",
-                "This architectural enhancement bridges structured relational data storage with modern vector search requirements for enterprise AI pipelines.",
-                "Data engineering teams gain a unified platform for managing stateful agent operations without relying on fragmented database architectures."
+                "Alibaba has introduced the Qwen 3.8 27B model, specifically engineered to deliver powerful generative AI capabilities directly on edge devices.",
+                "This 27 billion parameter model is optimized for local execution on hardware like laptops, enabling efficient, low-latency AI processing without cloud dependency.",
+                "The release signifies a strategic push towards decentralized AI, enhancing privacy and reducing operational costs for a range of edge applications.",
+                "Enterprises can leverage this model to deploy secure, real-time AI solutions in environments with limited connectivity or stringent data sovereignty requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+            "nextUpTease": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
             "tags": [
-                "Source: https://www.techtarget.com",
-                "Published: 2026-08-13T13:00:00Z",
+                "Source: https://www.aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+                "Published: 2026-08-17T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STANFORD HAI: WARNS OF AI LONELINESS RISKS",
+            "heading": "ANTHROPIC: ANNUALIZED REVENUE RUN RATE HITS $65B",
             "points": [
-                "A new Stanford HAI research study reveals that vulnerable users with limited social networks who seek emotional support from AI companions experience reduced well-being.",
-                "The findings highlight critical socio-ethical challenges regarding the deployment of parasocial AI tools for mental health and therapy.",
-                "The study underscores the urgent need for rigorous governance frameworks and ethical boundaries in consumer-facing conversational applications.",
-                "Policymakers and developers must account for psychological impacts when designing autonomous engagement systems for sensitive demographics."
+                "Anthropic reported to investors that its annualized revenue run rate reached an impressive $65 billion as of July 2026, marking significant market traction.",
+                "This financial milestone reflects robust enterprise adoption of Anthropic's Claude models, indicating strong demand for safe and capable AI systems.",
+                "The figure solidifies Anthropic's position as a major player in the competitive frontier AI market, attracting further investment and strategic partnerships.",
+                "The rapid revenue growth signals accelerating enterprise AI integration, validating the commercial viability and impact of advanced conversational AI."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://hai.stanford.edu",
-                "Published: 2026-08-04T14:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/18/anthropic-annualized-revenue-run-rate-climbed-to-65-billion-in-july.html",
+                "Published: 2026-08-18T07:30:00Z",
                 "Status: Audited & True"
             ]
         }
