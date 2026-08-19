@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MICROSOFT: EXPANDING AZURE AI WITH AMD",
-                "teaserTitle": "EU PROPOSES TECH SOVEREIGNTY PACKAGE",
-                "visual_caption": "Microsoft expands Azure AI infrastructure using AMD hardware. This strategic integration diversifies cloud compute supply chains for enterprise customers."
+                "headline": "OPENAI: PACING CYBER-CRITICAL AI MODEL DEV",
+                "teaserTitle": "SECURITY: OPENAI'S NEW HUGGING FACE SAFEGUARDS",
+                "visual_caption": "OpenAI set a new framework for pacing AI model development, addressing cyber-critical capabilities. This mitigates systemic risks and controls the deployment of destabilizing autonomous systems."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: EU PROPOSES TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "HARDWARE: MEMORY PRICES CLIMB 500% IN 12 MONTHS",
-                "visual_caption": "The European Commission proposes a tech sovereignty package to boost regional autonomy. New rules aim to strengthen local semiconductor capacity and open-source ecosystems."
+                "headline": "SECURITY: OPENAI'S NEW HUGGING FACE SAFEGUARDS",
+                "teaserTitle": "MODELS: GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI instituted new safeguards after a Hugging Face breach to protect models and user data. This reinforces the need for multi-layered security across the entire AI supply chain."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: MEMORY PRICES CLIMB 500% IN 12 MONTHS",
-                "teaserTitle": "IEEE: AGENTIC AI FUELS CPU COMEBACK",
-                "visual_caption": "High-bandwidth memory prices have climbed 500% over 12 months. The severe cost surge creates a major procurement bottleneck for artificial intelligence hardware."
+                "headline": "MODELS: GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
+                "teaserTitle": "HARDWARE: CEREBRAS UNVEILS CS-4 PROCESSOR",
+                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, an efficient model for coding and agents. This lowers computational overhead for complex workflows, accelerating automation with improved economic viability."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE: AGENTIC AI FUELS CPU COMEBACK",
-                "teaserTitle": "SECURITY: CROOKS TARGET LLM HALLUCINATIONS",
-                "visual_caption": "Agentic artificial intelligence workloads have turned CPUs into a new performance bottleneck. System architects must rebalance heterogeneous clusters for multi-step agent execution."
+                "headline": "HARDWARE: CEREBRAS UNVEILS CS-4 PROCESSOR",
+                "teaserTitle": "RESEARCH: AI'S RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "visual_caption": "Cerebras introduced the CS-4 processor, designed for unparalleled single-chip AI compute performance. This hardware addresses scaling limitations, significantly reducing training times and energy consumption for massive models."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: CROOKS TARGET LLM HALLUCINATIONS",
-                "teaserTitle": "MARKET: UNITREE POPS 542% IN SHANGHAI DEBUT",
-                "visual_caption": "Cybercriminals are exploiting large language model hallucinations by registering fake website URLs. Security teams must deploy strict validation layers to prevent phishing attacks."
+                "headline": "RESEARCH: AI'S RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "teaserTitle": "DEVELOPER TOOLS: CURSOR LAUNCHES GITHUB RIVAL",
+                "visual_caption": "Research suggests AI's recursive self-improvement may not advance as quickly as thought, lacking genuine creativity. This implies human oversight remains critical for breakthroughs, influencing R&D strategies and talent acquisition."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: UNITREE POPS 542% IN SHANGHAI DEBUT",
-                "teaserTitle": "PAPERSWITHCODE: HARNESSEVAL-W VISUAL AGENTS",
-                "visual_caption": "Robotics developer Unitree surged 542% in its Shanghai market debut. The massive valuation leap highlights surging investor demand for embodied artificial intelligence hardware."
+                "headline": "DEVELOPER TOOLS: CURSOR LAUNCHES GITHUB RIVAL",
+                "teaserTitle": "CYBERSECURITY: OPENAI'S THE DEFENDER'S WINDOW",
+                "visual_caption": "Cursor launched Origin, a GitHub rival with AI-powered developer workflows and advanced code management. This competitive platform offers potential productivity gains, but organizations must weigh data migration and vendor lock-in risks."
             },
             {
                 "slide_index": 7,
-                "headline": "PAPERSWITHCODE: HARNESSEVAL-W VISUAL AGENTS",
+                "headline": "CYBERSECURITY: OPENAI'S THE DEFENDER'S WINDOW",
                 "teaserTitle": "",
-                "visual_caption": "Researchers introduced HarnessEval-W to decompose world model evaluations using sub-agents. The framework provides transparent reasoning chains for spatial computing tasks."
+                "visual_caption": "OpenAI published 'The Defender\u2019s Window,' outlining cyber defense strategies for complex AI systems. This guidance helps AI security teams fortify digital perimeters against sophisticated attacks and maintain operational integrity."
             },
             {
                 "slide_index": 8,
