@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH DEPLOYMENT",
+        "hookTitle": "WEATHERNEXT AI CYCLONE FORECASTING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has unveiled Gemini 3.7 Flash, their latest and most intelligent workhorse AI model, promising significant gains in coding and agent task performance. This new iteration delivers a thirty percent increase in inference speed and twenty percent lower compute cost, directly enhancing real-time application responsiveness."
+                "narration_line": "DeepMind's WeatherNext AI model has achieved a major breakthrough in cyclone forecasting, boosting accuracy by fifteen percent. This directly improves disaster preparedness and climate infrastructure planning."
             },
             {
                 "slide_index": 2,
-                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "teaserTitle": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
+                "headline": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
+                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Modular, now part of Qualcomm, has open-sourced its Mojo programming language, specifically engineered to bridge the performance gap for artificial intelligence development. This broadens access to a powerful tool that achieves C++ level speeds for machine learning workloads, while retaining the familiar ease of Python."
+                "narration_line": "OpenAI has launched a specialized ChatGPT version for teenagers, integrating enhanced safety protocols and content filtering. This expands AI accessibility while prioritizing secure user experiences for younger demographics."
             },
             {
                 "slide_index": 3,
-                "headline": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
-                "teaserTitle": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
+                "headline": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
+                "teaserTitle": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Cerebras Systems has introduced its CS-4 Wafer Scale Engine, packed with two point six trillion transistors and nine hundred thousand artificial intelligence cores on a single chip. This hardware dramatically accelerates training times for multi-billion parameter models, bypassing traditional GPU cluster limitations."
+                "narration_line": "Google DeepMind has deployed new AI capabilities for real-time sign language recognition and translation in user applications. This dramatically enhances accessibility for the deaf and hard-of-hearing community."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
-                "teaserTitle": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
+                "headline": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
+                "teaserTitle": "CADENCE: AI CHIP MARKET DISRUPTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI has implemented new security safeguards following a recent breach involving Hugging Face, reinforcing their API protocols and access controls. This proactive measure targets vulnerabilities in third-party integrations, which often serve as critical attack vectors for artificial intelligence systems."
+                "narration_line": "A Goldman Sachs report indicates generative AI will intensify labor market shifts, projecting twenty-five percent of job functions in certain sectors could be automated by two thousand thirty. This signals a measurable decrease in entry-level hiring across AI-exposed industries."
             },
             {
                 "slide_index": 5,
-                "headline": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
-                "teaserTitle": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
+                "headline": "CADENCE: AI CHIP MARKET DISRUPTION",
+                "teaserTitle": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The ACM highlights 'lambda lambda', a new programming language for silicon photonics, poised to revolutionize high-speed data transfer in next-generation artificial intelligence accelerators. This language offers direct control over light-based computations, potentially overcoming electron-based data movement limits for latency and bandwidth."
+                "narration_line": "CNBC reports Cadence Design Systems faces pressure in the AI hardware market as hyperscalers pursue custom silicon development. Their stock performance lags behind pure-play AI chip manufacturers, signaling strategic bottlenecks in adapting to evolving compute demands."
             },
             {
                 "slide_index": 6,
-                "headline": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
-                "teaserTitle": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
+                "headline": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
+                "teaserTitle": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AI Cursor has launched a competing hosting platform to GitHub, specifically designed for artificial intelligence development workflows, addressing user frustrations and offering enhanced AI-native collaboration tools. This new platform aims to streamline the development, version control, and deployment of complex AI models."
+                "narration_line": "A new open-source project introduces interactive, animated visualizations for Hugging Face models, allowing deep inspection of neural network architectures. This tool streamlines debugging and performance optimization for advanced AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
+                "headline": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Technology Review indicates that artificial intelligence's recursive self-improvement might not progress as swiftly as anticipated, due to current limitations in AI agent creativity and open-ended research. This research tempers expectations for the immediate advent of self-improving superintelligence."
+                "narration_line": "Data on AI usage in software teams reveals developers leveraging AI coding assistants achieve a twenty percent increase in code completion speed. This also results in a fifteen percent reduction in bug detection time for routine tasks."
             },
             {
                 "slide_index": 8,

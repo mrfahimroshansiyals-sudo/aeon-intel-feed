@@ -4,46 +4,47 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, boosting coding and agent task performance. It achieves 30% faster inference and 20% lower compute cost for real-time applications."
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
+                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough, boosting cyclone forecasting accuracy by 15%. This improves disaster preparedness and climate infrastructure planning directly."
             },
             {
                 "slide_index": 2,
-                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "teaserTitle": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
-                "visual_caption": "Modular open-sources Mojo, bridging AI development's performance gap. It achieves C++ speeds for ML workloads with Python's ease of use."
+                "headline": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
+                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
+                "visual_caption": "OpenAI launched a safer ChatGPT for teens, with enhanced content filtering and privacy protections. This expands AI accessibility while ensuring secure user experiences."
             },
             {
                 "slide_index": 3,
-                "headline": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
-                "teaserTitle": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
-                "visual_caption": "Cerebras launches CS-4 Wafer Scale Engine, featuring 2.6T transistors and 900K AI cores. It dramatically accelerates multi-billion parameter model training, bypassing GPU bottlenecks."
+                "headline": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
+                "teaserTitle": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
+                "visual_caption": "Google DeepMind deployed new AI for real-time sign language recognition and translation in user apps. This dramatically enhances accessibility for the deaf and hard-of-hearing community."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
-                "teaserTitle": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
-                "visual_caption": "OpenAI implements new safeguards after Hugging Face breach, reinforcing API security. This targets third-party integration vulnerabilities, critical attack vectors for AI systems."
+                "headline": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
+                "teaserTitle": "CADENCE: AI CHIP MARKET DISRUPTION",
+                "visual_caption": "Goldman Sachs reports generative AI could automate 25% of administrative and legal job functions by 2030. This signals a measurable decrease in entry-level hiring across AI-exposed sectors."
             },
             {
                 "slide_index": 5,
-                "headline": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
-                "teaserTitle": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
-                "visual_caption": "ACM highlights '\u03bb\u03bb', a new programming language for silicon photonics. It revolutionizes high-speed data transfer in AI accelerators, overcoming electron-based data limits."
+                "headline": "CADENCE: AI CHIP MARKET DISRUPTION",
+                "teaserTitle": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
+                "visual_caption": "CNBC reports Cadence Design Systems faces pressure in the AI hardware market as hyperscalers pursue custom silicon. Its stock lags pure-play AI chip makers, signaling strategic bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
-                "teaserTitle": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
+                "headline": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
+                "teaserTitle": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
                 "visual_asset": "backgroundyt6.png",
-                "visual_caption": "AI Cursor launches a GitHub rival hosting platform for AI development workflows. It offers enhanced AI-native collaboration tools to streamline model deployment."
+                "visual_caption": "A new open-source project introduces interactive, animated visualizations for Hugging Face models. This tool streamlines debugging and performance optimization for advanced AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
+                "headline": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
                 "teaserTitle": "",
-                "visual_caption": "MIT Tech Review suggests AI's recursive self-improvement may not be swift. Limitations in AI agent creativity temper expectations for rapid autonomous superintelligence."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Data shows AI coding assistants increase developer code completion speed by 20% and reduce bug detection time by 15% for routine tasks. This augments efficiency in predictable coding scenarios."
             },
             {
                 "slide_index": 8,
