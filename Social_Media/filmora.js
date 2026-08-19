@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PUBLIC COMPANY IN 2027",
-                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
-                "visual_caption": "OpenAI's CFO states the company aims to go public by 2027 or sooner. This signals a major shift in its financial and operational strategies. Enterprises should prepare for potential changes in pricing and service agreements from a public OpenAI."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI has launched its new GPT-5.6 model, representing a significant advancement in frontier intelligence for complex enterprise applications. This release directly addresses critical architectural bottlenecks and aims to optimize compute utilization across various deployment scenarios."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
-                "teaserTitle": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
-                "visual_caption": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7B. This consolidates critical AI infrastructure and expands Stripe's fintech capabilities. Businesses must assess impacts on their current AI API strategies and potential vendor lock-in."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, an efficient model optimized for speed and cost-effectiveness in AI deployment. It democratizes advanced AI, making it ideal for high-volume, low-latency applications where rapid inference is crucial."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
-                "teaserTitle": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
+                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "teaserTitle": "TERRAPOWER FUELS AI DATA CENTERS",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Marvell Technology secured a $12.2B AI chip deal with Google for custom silicon. This reflects a massive investment in specialized hardware for AI workloads. AI architects should consider the long-term cost and availability implications of custom chips."
+                "visual_caption": "OpenAI warns of a narrowing cyber defense window for AI systems, highlighting heightened risks from sophisticated attacks targeting model vulnerabilities. This mandates a proactive re-evaluation of current AI security protocols and significant investment in defense mechanisms."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
-                "teaserTitle": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
-                "visual_caption": "OpenAI reportedly revoked access for some researchers from its limited cyber program. This raises concerns about transparency and collaborative AI security. Organizations must re-evaluate their risk assessments without broader external auditing."
+                "headline": "INFRASTRUCTURE: TERRAPOWER FUELS AI DATA CENTERS",
+                "teaserTitle": "GPT-5.6 SOL & LUNA FREE ACCESS",
+                "visual_caption": "TerraPower is positioning its advanced nuclear reactors as a key energy solution for the escalating power demands of AI data centers. This aims to provide a reliable, carbon-free energy source, addressing the immense electrical consumption of modern AI infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
-                "teaserTitle": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
-                "visual_caption": "HarnessEval-W introduces a new framework for evaluating visual world models using hierarchical sub-agents. This enhances reliability by providing transparent, verifiable reasoning chains. MLOps teams gain a critical tool for systematic testing and auditing of agentic AI."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+                "teaserTitle": "UNSLOTH QWEN 3.8-27B GGUF",
+                "visual_caption": "OpenAI is expanding free access to its GPT-5.6 Luna model and improving GPT-5.6 Sol in ChatGPT. This move broadens user engagement and accelerates the iteration cycle for future model enhancements."
             },
             {
                 "slide_index": 6,
-                "headline": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
-                "teaserTitle": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
-                "visual_caption": "AMD predicts software engineering will shift from AI copilots to agent swarms, redefining development workflows. This points to autonomous multi-agent systems handling complex tasks end-to-end. Enterprise leaders must prepare for new productivity models and governance challenges."
+                "headline": "MODEL EFFICIENCY: UNSLOTH QWEN 3.8-27B GGUF",
+                "teaserTitle": "CLAUDE AI DISCOVERY HIDDEN SPACES",
+                "visual_caption": "Unsloth released an optimized GGUF version of Qwen 3.8-27B, dramatically improving its inference speed and reducing memory for local deployments. This makes large language models more accessible and practical for on-device and edge computing."
             },
             {
                 "slide_index": 7,
-                "headline": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
+                "headline": "ANTHROPIC: CLAUDE AI DISCOVERY HIDDEN SPACES",
                 "teaserTitle": "",
-                "visual_caption": "Google DeepMind's WeatherNext AI model significantly improves cyclone forecasting accuracy and lead times. This leverages deep learning for critical weather events and resource planning. Governments and industries should integrate this AI to mitigate climate-related operational risks."
+                "visual_caption": "Anthropic\u2019s research reveals a \"hidden space\" within Claude\u2019s model architecture, showing where the AI processes complex concepts. This offers unprecedented insights into the opaque reasoning mechanisms of large language models, crucial for interpretability and reliability."
             },
             {
                 "slide_index": 8,

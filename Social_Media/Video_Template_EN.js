@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI PUBLIC COMPANY IN 2027",
+        "hookTitle": "FRONTIER INTELLIGENCE SCALES AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PUBLIC COMPANY IN 2027",
-                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's CFO has stated the company aims to go public by two thousand twenty-seven or sooner. This indicates a major shift in its financial and operational strategies. Enterprises should prepare for potential changes in pricing and service agreements from a public OpenAI."
+                "narration_line": "OpenAI has launched its new GPT five point six model, representing a significant advancement in frontier intelligence for complex enterprise applications. This release directly addresses critical architectural bottlenecks and aims to optimize compute utilization across various deployment scenarios."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
-                "teaserTitle": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "CYBER DEFENSE WINDOW NARROWS FOR AI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over seven billion dollars. This consolidates critical AI infrastructure and expands Stripe's fintech capabilities. Businesses must assess impacts on their current AI API strategies and potential vendor lock-in."
+                "narration_line": "Google DeepMind introduces Gemini three point seven Flash, an efficient model optimized for speed and cost-effectiveness in AI deployment. It democratizes advanced AI, making it ideal for high-volume, low-latency applications where rapid inference is crucial."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
-                "teaserTitle": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
+                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "teaserTitle": "TERRAPOWER FUELS AI DATA CENTERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Marvell Technology secured a twelve point two billion dollar AI chip deal with Google for custom silicon. This reflects a massive investment in specialized hardware for AI workloads. AI architects should consider the long-term cost and availability implications of custom chips."
+                "narration_line": "OpenAI warns of a narrowing cyber defense window for AI systems, highlighting heightened risks from sophisticated attacks targeting model vulnerabilities. This mandates a proactive re-evaluation of current AI security protocols and significant investment in defense mechanisms."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
-                "teaserTitle": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
+                "headline": "INFRASTRUCTURE: TERRAPOWER FUELS AI DATA CENTERS",
+                "teaserTitle": "GPT-5.6 SOL & LUNA FREE ACCESS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI reportedly revoked access for some researchers from its limited cyber program. This raises concerns about transparency and collaborative AI security. Organizations must re-evaluate their risk assessments without broader external auditing."
+                "narration_line": "TerraPower is positioning its advanced nuclear reactors as a key energy solution for the escalating power demands of AI data centers. This aims to provide a reliable, carbon-free energy source, addressing the immense electrical consumption of modern AI infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
-                "teaserTitle": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
+                "teaserTitle": "UNSLOTH QWEN 3.8-27B GGUF",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "HarnessEval-W introduces a new framework for evaluating visual world models using hierarchical sub-agents. This enhances reliability by providing transparent, verifiable reasoning chains. MLOps teams gain a critical tool for systematic testing and auditing of agentic AI."
+                "narration_line": "OpenAI is expanding free access to its GPT five point six Luna model and improving GPT five point six Sol in ChatGPT. This move broadens user engagement and accelerates the iteration cycle for future model enhancements."
             },
             {
                 "slide_index": 6,
-                "headline": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
-                "teaserTitle": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
+                "headline": "MODEL EFFICIENCY: UNSLOTH QWEN 3.8-27B GGUF",
+                "teaserTitle": "CLAUDE AI DISCOVERY HIDDEN SPACES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "AMD predicts software engineering will shift from AI copilots to agent swarms, redefining development workflows. This points to autonomous multi-agent systems handling complex tasks end-to-end. Enterprise leaders must prepare for new productivity models and governance challenges."
+                "narration_line": "Unsloth released an optimized GGUF version of Qwen three point eight twenty-seven billion, dramatically improving its inference speed and reducing memory for local deployments. This makes large language models more accessible and practical for on-device and edge computing."
             },
             {
                 "slide_index": 7,
-                "headline": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
+                "headline": "ANTHROPIC: CLAUDE AI DISCOVERY HIDDEN SPACES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Google DeepMind's WeatherNext AI model significantly improves cyclone forecasting accuracy and lead times. This leverages deep learning for critical weather events and resource planning. Governments and industries should integrate this AI to mitigate climate-related operational risks."
+                "narration_line": "Anthropic\u2019s research reveals a \"hidden space\" within Claude\u2019s model architecture, showing where the AI processes complex concepts. This offers unprecedented insights into the opaque reasoning mechanisms of large language models, crucial for interpretability and reliability."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
