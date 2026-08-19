@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI: CYBER PROGRAM ACCESS REVOKED",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: CYBER PROGRAM ACCESS REVOKED",
-                "teaserTitle": "ENHANCING PRIVACY PROTECTIONS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "IMPROVED GPT-5.6 SOL & LUNA ACCESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has reportedly revoked researcher access to a limited cyber program, raising significant transparency and security concerns. This action highlights increasing control over advanced AI capabilities and the need for robust risk mitigation in sensitive research."
+                "narration_line": "OpenAI has introduced GPT-5.6, setting new benchmarks for frontier AI intelligence. This scales advanced model capabilities, impacting core architecture and enterprise deployment strategies globally."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENHANCING PRIVACY PROTECTIONS",
-                "teaserTitle": "PUBLIC IPO EXPECTED BY 2027",
+                "headline": "OPENAI: IMPROVED GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is implementing new customer privacy protections to address data concerns and differentiate its services from competitors. This move aims to build greater trust and compliance in enterprise AI deployments."
+                "naration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding free Luna access. This democratizes powerful AI tools, intensifying competitive pressure on AI-as-a-Service providers and influencing pricing."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: PUBLIC IPO EXPECTED BY 2027",
-                "teaserTitle": "UNSLOTH DYNAMIC 3.0 GGUFS",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI's CFO indicates the company expects to go public by two thousand twenty-seven or sooner, marking a major shift in its funding strategy. An IPO could accelerate industry consolidation and investment in AI infrastructure."
+                "naration_line": "Google DeepMind has deployed Gemini 3.7 Flash, their most intelligent workhorse for coding and agents. It promises high performance and efficiency, offering enterprises enhanced development pipelines and sophisticated AI agents."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
-                "teaserTitle": "ANTHROPIC PROTEIN BINDER AI DESIGN",
+                "headline": "M&A: STRIPE ACQUIRES OPENROUTER",
+                "teaserTitle": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Unsloth has released Dynamic three point zero GGUFs, significantly boosting local inference speeds and reducing memory for large language models. This optimization makes powerful AI more viable for edge computing and personal devices."
+                "naration_line": "Stripe has acquired OpenRouter, an AI gateway startup, to integrate advanced AI routing into its financial infrastructure. This streamlines AI deployment, potentially lowering integration overhead for transaction-heavy services."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: PROTEIN BINDER AI DESIGN",
-                "teaserTitle": "JAPAN BONDS & AI RALLY MARKET RISK",
+                "headline": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic is advancing its Claude-protein-binder-design model for complex biomolecular engineering, accelerating drug discovery and material science. This research requires robust compute for sophisticated simulations in specialized AI applications."
+                "naration_line": "Cognition Labs\u2019 CEO denies SpaceX acquisition reports, clarifying its independent trajectory in the AI market. This reinforces the autonomy of leading AI startups, influencing investor sentiment and future M&A."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET RISK: JAPAN BONDS & AI RALLY",
-                "teaserTitle": "FX NATIVE CODING AGENT",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
+                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Analysts warn Japan's bond market may signal instability for the AI stock rally, highlighting potential economic pressures on tech valuations. This indicates increased financial risk for AI-focused investments and strategic planning."
+                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This significantly reduces operational risks for industries reliant on stable supply chains, urging integration for better risk management."
             },
             {
                 "slide_index": 7,
-                "headline": "AI TOOLING: FX NATIVE CODING AGENT",
+                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A new open-source native coding agent, 'fx', offers ultra-compact design and efficient performance for developer workflows. This tool improves compute efficiency by shifting AI-assisted development to local machines, reducing cloud reliance."
+                "naration_line": "Google DeepMind is offering advanced sign language AI for users, aiding real-time translation for deaf and hard-of-hearing communities. This expands market reach and improves user experience, aligning with broader ESG objectives."
             },
             {
                 "slide_index": 8,

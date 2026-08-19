@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: CYBER PROGRAM ACCESS REVOKED",
-                "teaserTitle": "ENHANCING PRIVACY PROTECTIONS",
-                "visual_caption": "OpenAI has reportedly revoked researcher access to a limited cyber program, raising significant transparency and security concerns. This action highlights increasing control over advanced AI capabilities and the need for robust risk mitigation in sensitive research."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "IMPROVED GPT-5.6 SOL & LUNA ACCESS",
+                "visual_caption": "OpenAI introduces GPT-5.6, setting new benchmarks for frontier AI intelligence. This scales advanced model capabilities, impacting core architecture and enterprise deployment strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENHANCING PRIVACY PROTECTIONS",
-                "teaserTitle": "PUBLIC IPO EXPECTED BY 2027",
-                "visual_caption": "OpenAI is implementing new customer privacy protections to address data concerns and differentiate its services from competitors. This move aims to build greater trust and compliance in enterprise AI deployments."
+                "headline": "OPENAI: IMPROVED GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands free Luna access. This democratizes powerful AI tools, intensifying competitive pressure on AI-as-a-Service providers."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: PUBLIC IPO EXPECTED BY 2027",
-                "teaserTitle": "UNSLOTH DYNAMIC 3.0 GGUFS",
-                "visual_caption": "OpenAI's CFO indicates the company expects to go public by 2027 or sooner, marking a major shift in its funding strategy. An IPO could accelerate industry consolidation and investment in AI infrastructure."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER",
+                "visual_caption": "Google DeepMind deploys Gemini 3.7 Flash, its most intelligent workhorse for coding and agents. This offers enterprises enhanced development pipelines and sophisticated AI agents."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
-                "teaserTitle": "ANTHROPIC PROTEIN BINDER AI DESIGN",
-                "visual_caption": "Unsloth has released Dynamic 3.0 GGUFs, significantly boosting local inference speeds and reducing memory for large language models. This optimization makes powerful AI more viable for edge computing and personal devices."
+                "headline": "M&A: STRIPE ACQUIRES OPENROUTER",
+                "teaserTitle": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
+                "visual_caption": "Stripe acquires OpenRouter, an AI gateway startup, integrating advanced AI routing into its financial infrastructure. This streamlines AI deployment, lowering integration overhead for transaction-heavy services."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: PROTEIN BINDER AI DESIGN",
-                "teaserTitle": "JAPAN BONDS & AI RALLY MARKET RISK",
-                "visual_caption": "Anthropic is advancing its Claude-protein-binder-design model for complex biomolecular engineering, accelerating drug discovery and material science. This research requires robust compute for sophisticated simulations in specialized AI applications."
+                "headline": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
+                "visual_caption": "Cognition Labs\u2019 CEO denies SpaceX acquisition reports, clarifying its independent trajectory in the AI market. This reinforces the autonomy of leading AI startups, influencing M&A activities."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET RISK: JAPAN BONDS & AI RALLY",
-                "teaserTitle": "FX NATIVE CODING AGENT",
-                "visual_caption": "Analysts warn Japan's bond market may signal instability for the AI stock rally, highlighting potential economic pressures on tech valuations. This indicates increased financial risk for AI-focused investments and strategic planning."
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
+                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This reduces operational risks for industries reliant on stable supply chains, optimizing planning."
             },
             {
                 "slide_index": 7,
-                "headline": "AI TOOLING: FX NATIVE CODING AGENT",
+                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
                 "teaserTitle": "",
-                "visual_caption": "A new open-source native coding agent, 'fx', offers ultra-compact design and efficient performance for developer workflows. This tool improves compute efficiency by shifting AI-assisted development to local machines, reducing cloud reliance."
+                "visual_caption": "Google DeepMind offers advanced sign language AI, aiding real-time translation for deaf and hard-of-hearing communities. This expands market reach and improves user experience."
             },
             {
                 "slide_index": 8,
