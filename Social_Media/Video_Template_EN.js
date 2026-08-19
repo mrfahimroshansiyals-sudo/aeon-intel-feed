@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+        "hookTitle": "OPENAI BOOSTS GPT-5.6 ACCESS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released its GPT-5.6 frontier intelligence model, designed for advanced enterprise tasks and dynamic environments. This model enhances reasoning and data efficiency, impacting next-generation AI deployments and requiring re-evaluation of current model strategies."
+                "narration_line": "OpenAI has improved GPT-5.6 Sol in ChatGPT and expanded Luna access for free users. This enhances model stability and broadens the user base for advanced generative AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
+                "teaserTitle": "MEMORY PRICES CLIMB 500% IN 12 MONTHS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an efficient workhorse model for coding and autonomous agents with speed and cost improvements. This launch demands strategic review of existing AI frameworks and potential shifts towards multi-model orchestration for agile deployment."
+                "narration_line": "OpenAI instituted new safeguards after a security breach affecting Hugging Face. This fortifies AI systems against cyber threats, a critical concern for enterprise integration."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "CEREBRAS: CS4 AI HARDWARE PLATFORM",
+                "headline": "HARDWARE: MEMORY PRICES CLIMB 500% IN 12 MONTHS",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is expanding Daybreak, its cyber defense initiative, to secure AI systems against emerging threats as the attack surface narrows. This signifies an imperative to integrate advanced cyber defenses into the AI development lifecycle, moving beyond reactive measures."
+                "narration_line": "Memory prices have escalated by five hundred percent over the past twelve months. This creates a critical bottleneck in AI hardware procurement, impacting large-scale compute clusters."
             },
             {
                 "slide_index": 4,
-                "headline": "CEREBRAS: CS4 AI HARDWARE PLATFORM",
-                "teaserTitle": "MACHINE0: PERSISTENT CPU/GPU VMS",
+                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
+                "teaserTitle": "ANTHROPIC: CLAUDE'S HIDDEN CONCEPT SPACE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cerebras announced its CS4 AI hardware platform, featuring advancements in wafer-scale computing for large model training and low-latency inference. This offers opportunities for unparalleled performance gains and compute efficiency, reducing training times and inference costs."
+                "narration_line": "Etched, an AI hardware startup, has seen its valuation double to twenty-one billion dollars in one month. This signals robust investor confidence in specialized silicon solutions."
             },
             {
                 "slide_index": 5,
-                "headline": "MACHINE0: PERSISTENT CPU/GPU VMS",
-                "teaserTitle": "OPENAI: CHATGPT FOR TEENS SAFETY",
+                "headline": "ANTHROPIC: CLAUDE'S HIDDEN CONCEPT SPACE",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Machine0 launched persistent CPU and GPU virtual machines accessible via command line, streamlining MLOps workflows with robust and customizable compute environments. This provides architectural advantages for granular control and uninterrupted access for critical AI tasks."
+                "narration_line": "Anthropic discovered a 'hidden concept space' in Claude's internal workings. This breakthrough provides unprecedented insight into how large language models organize abstract ideas."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: CHATGPT FOR TEENS SAFETY",
-                "teaserTitle": "LINEAR: AI USAGE PATTERNS IN SOFTWARE TEAMS",
+                "headline": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "teaserTitle": "ARTIFICIAL ANALYSIS: GLM-5.3 BENCHMARKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI rolled out ChatGPT for teens, incorporating stronger built-in safety protections and age-appropriate content filters. This initiative expands AI accessibility responsibly, setting a precedent for ethical AI deployment and user-segment-specific safety frameworks."
+                "narration_line": "DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones with unprecedented accuracy. This significantly improves early warning capabilities for extreme weather events."
             },
             {
                 "slide_index": 7,
-                "headline": "LINEAR: AI USAGE PATTERNS IN SOFTWARE TEAMS",
+                "headline": "ARTIFICIAL ANALYSIS: GLM-5.3 BENCHMARKS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Linear's analysis shows AI usage patterns in software teams, revealing growing adoption for code generation and project management. This highlights a shift in development workflows, demanding strategies for human-AI collaboration and new governance frameworks for quality and security."
+                "narration_line": "Artificial Analysis released detailed benchmarks for GLM-5.3, revealing its performance across enterprise-grade tasks. The report highlights enhanced throughput and reduced latency for demanding AI applications."
             },
             {
                 "slide_index": 8,
