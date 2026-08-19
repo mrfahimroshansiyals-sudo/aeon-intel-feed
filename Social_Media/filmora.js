@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "visual_caption": "OpenAI launched GPT-5.6, scaling frontier intelligence with enhanced reasoning and expanded context. This upgrade addresses deployment bottlenecks for agentic systems, implying significant compute investment for full utilization."
+                "headline": "OPENAI: PUBLIC COMPANY IN 2027",
+                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
+                "visual_caption": "OpenAI's CFO states the company aims to go public by 2027 or sooner. This signals a major shift in its financial and operational strategies. Enterprises should prepare for potential changes in pricing and service agreements from a public OpenAI."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "HARDWARE: TERRAPOWER FUELS AI DATA CENTERS",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, their most intelligent and efficient workhorse model for coding. It targets high-volume production with low-latency inference, impacting total cost of ownership for scalable agent deployments."
+                "headline": "M&A: STRIPE ACQUIRES OPENROUTER FOR $7B+",
+                "teaserTitle": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
+                "visual_caption": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7B. This consolidates critical AI infrastructure and expands Stripe's fintech capabilities. Businesses must assess impacts on their current AI API strategies and potential vendor lock-in."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: TERRAPOWER FUELS AI DATA CENTERS",
-                "teaserTitle": "COMPUTE: NVIDIA EXPANDS NORDIC DATA CENTERS",
+                "headline": "HARDWARE: MARVELL SECURES $12.2B GOOGLE AI DEAL",
+                "teaserTitle": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "TerraPower is developing nuclear reactors to power next-gen AI data centers, promising stable, high-density energy. This innovation addresses the escalating energy footprint, offering critical competitive advantage and resilience for operators."
+                "visual_caption": "Marvell Technology secured a $12.2B AI chip deal with Google for custom silicon. This reflects a massive investment in specialized hardware for AI workloads. AI architects should consider the long-term cost and availability implications of custom chips."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTE: NVIDIA EXPANDS NORDIC DATA CENTERS",
-                "teaserTitle": "OPTIMIZATION: UNSLOTH RELEASES DYNAMIC 3.0 GGUFS",
-                "visual_caption": "NVIDIA is facilitating major AI data center expansion in the Nordics, leveraging renewable energy and stable grids. This regional focus shifts global AI training footprints, impacting latency and sovereign data considerations for infrastructure planners."
+                "headline": "SECURITY: OPENAI REVOKES CYBER PROGRAM ACCESS",
+                "teaserTitle": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
+                "visual_caption": "OpenAI reportedly revoked access for some researchers from its limited cyber program. This raises concerns about transparency and collaborative AI security. Organizations must re-evaluate their risk assessments without broader external auditing."
             },
             {
                 "slide_index": 5,
-                "headline": "OPTIMIZATION: UNSLOTH RELEASES DYNAMIC 3.0 GGUFS",
-                "teaserTitle": "SECURITY: LLM FUNDAMENTAL FLAW EXPOSED",
-                "visual_caption": "Unsloth launched Dynamic 3.0 GGUFs, significantly enhancing LLM quantization efficiency, seen with Qwen3.8-27B. This enables faster inference and reduced memory on consumer hardware, drastically cutting operational expenditure for local model serving."
+                "headline": "AGENTS: HARNESSEVAL-W DECOMPOSES WORLD-MODELS",
+                "teaserTitle": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
+                "visual_caption": "HarnessEval-W introduces a new framework for evaluating visual world models using hierarchical sub-agents. This enhances reliability by providing transparent, verifiable reasoning chains. MLOps teams gain a critical tool for systematic testing and auditing of agentic AI."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: LLM FUNDAMENTAL FLAW EXPOSED",
-                "teaserTitle": "COMPLIANCE: OPENAI CYBER DEFENSE WINDOW NARROWS",
-                "visual_caption": "A fundamental flaw has been identified in LLMs, making them strikingly vulnerable to targeted adversarial attacks. Enterprise security teams must prioritize red-teaming and prompt engineering defenses to mitigate this newly exposed attack vector."
+                "headline": "WORKFLOW: AI AGENT SWARMS REDEFINE ENGINEERING",
+                "teaserTitle": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
+                "visual_caption": "AMD predicts software engineering will shift from AI copilots to agent swarms, redefining development workflows. This points to autonomous multi-agent systems handling complex tasks end-to-end. Enterprise leaders must prepare for new productivity models and governance challenges."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: OPENAI CYBER DEFENSE WINDOW NARROWS",
+                "headline": "CLIMATE AI: WEATHERNEXT BOOSTS CYCLONE FORECASTING",
                 "teaserTitle": "",
-                "visual_caption": "OpenAI expanded its \"Daybreak\" cyber defense initiative, noting a narrowing cyber defense window due to increasing AI threats. Regulatory bodies must establish clear guidelines for AI model security, risk assessment, and incident response."
+                "visual_caption": "Google DeepMind's WeatherNext AI model significantly improves cyclone forecasting accuracy and lead times. This leverages deep learning for critical weather events and resource planning. Governments and industries should integrate this AI to mitigate climate-related operational risks."
             },
             {
                 "slide_index": 8,
