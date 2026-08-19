@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EXPANDING DAYBREAK CYBER",
-        "titleBlue": "DEFENSE",
-        "footerSummary": "OpenAI boosts Daybreak cyber defense to counter advanced AI threats. Re-evaluate your AI infrastructure's risk exposure and platform integrations immediately."
+        "titleWhite": "MARVELL POPS ON AI CHIP DEAL FOR",
+        "title_blue": "GOOGLE",
+        "footerSummary": "Marvell surges on an AI chip deal allowing Google to buy up to $12.2B in shares. Re-evaluate your semiconductor procurement and infrastructure strategies."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+            "heading": "CNBC: MARVELL POPS ON AI CHIP DEAL",
             "paragraphs": [
-                "OpenAI is significantly enhancing its \"Daybreak\" cyber defense capabilities, expanding its scope to preemptively counter advanced AI-driven threats as the window for system vulnerability narrows. This initiative focuses on robust anomaly detection and real-time threat intelligence to protect large-scale model deployments.",
-                "This critical security development signals increasing cyber warfare risks targeting AI infrastructure, necessitating immediate evaluation of existing defense postures and investment in proactive threat intelligence. Tech leaders must allocate resources to integrated AI security platforms to safeguard proprietary models and sensitive data from escalating attacks."
+                "Marvell shares jumped 6% following a high-stakes AI chip agreement that allows Google to acquire up to $12.2B in equity shares. This strategic semiconductor pact underscores the intensifying race among hyperscalers to secure dedicated custom silicon and specialized hardware infrastructure.",
+                "The multi-billion dollar arrangement redefines vendor-client interdependence in the cloud ecosystem, forcing engineering leaders to factor hardware equity ties into long-term architecture planning. CTOs must carefully weigh the financial implications of custom silicon commitments against traditional merchant silicon procurement models."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+            "nextUpTease": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-as-cyber-defense-window-narrows",
-                "Published: 2026-08-27T11:52:00Z",
+                "Source: https://www.cnbc.com/2026/08/27/marvell-pops-on-ai-chip-deal-that-lets-google-buy-up-to-12point2-billion-in-shares.html",
+                "Published: 2026-08-27T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+            "heading": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
             "paragraphs": [
-                "Google DeepMind has launched Gemini 3.7 Flash, its latest workhorse model, specifically engineered for enhanced coding capabilities and more capable agentic operations. This iteration focuses on superior efficiency and speed, providing developers with a more agile foundation for complex AI system development.",
-                "The debut of Gemini 3.7 Flash demands assessment for enterprises seeking to optimize AI development cycles and deploy advanced autonomous agents at scale. Its improved performance-per-parameter will directly influence compute allocation strategies and the cost-effectiveness of next-generation AI application architecture."
+                "Specialized AI chip startup Etched has seen its private valuation double to $21B in just a month, driven by surging enterprise demand for transformer-specific hardware accelerators. This rapid capitalization reflects intense venture backing for dedicated architectures designed to bypass traditional GPU bottlenecks.",
+                "The soaring valuation highlights the immense capital flowing into non-GPU compute alternatives that promise dramatic improvements in model inference efficiency. Enterprise infrastructure planners must monitor specialized chip startups closely to identify potential alternatives for cost-effective large-scale model deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
+            "nextUpTease": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/introducing-gemini-3.7-flash/",
-                "Published: 2026-08-26T10:00:00Z",
+                "Source: https://techcrunch.com/2026/08/26/etched-valuation-doubles-to-21b-in-a-month/",
+                "Published: 2026-08-26T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
+            "heading": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
             "paragraphs": [
-                "Hugging Face has updated the unsloth/Qwen3.8-27B-GGUF model, providing an optimized version for efficient deployment and inference on consumer-grade hardware, reducing memory footprint and improving execution speed. This update addresses the growing demand for local and edge AI capabilities for smaller parameter models.",
-                "This model optimization offers significant benefits for developers and businesses aiming to reduce inference costs and expand AI deployment beyond expensive cloud infrastructures. CTOs should explore integrating this highly efficient 27B parameter model for on-device applications and decentralized AI operations, minimizing compute overhead."
+                "Hugging Face has released an optimized unsloth Qwen3.8-27B-GGUF model weight update, tailored specifically for high-performance edge execution and reduced memory footprints. This release allows developers to run complex 27B parameter architectures locally on consumer-grade hardware without sacrificing core reasoning fidelity.",
+                "This optimization drastically lowers the barrier for decentralized artificial intelligence operations, offering a viable path to bypass expensive cloud inference fees. Engineering teams should assess local GGUF integration to reduce operational overhead for privacy-sensitive enterprise applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+            "nextUpTease": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
             "tags": [
                 "Source: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
                 "Published: 2026-08-27T11:00:00Z",
@@ -53,61 +53,61 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+            "heading": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
             "paragraphs": [
-                "Modular has announced the open-sourcing of Mojo, its high-performance programming language designed to bridge the gap between Python's usability and C/C++'s speed for AI development. This move aims to accelerate the creation of machine learning models and systems with native hardware integration.",
-                "The open-sourcing of Mojo presents a strategic opportunity for AI engineering teams to standardize development across diverse hardware architectures, potentially leading to significant performance gains and reduced time-to-market. Companies should evaluate Mojo for future AI framework development and optimization of existing Python-heavy workloads."
+                "According to recent analysis from semiconductor leader AMD published via IEEE Spectrum, software engineering workflows are undergoing a structural shift from passive coding copilots to autonomous agent swarms. This paradigm evolution redefines how development teams manage complex codebase generation, testing, and multi-step deployment pipelines.",
+                "Transitioning to multi-agent software development architectures introduces new orchestration challenges and demands robust runtime governance frameworks. Technical leaders must restructure internal engineering protocols to accommodate autonomous agent interactions while mitigating the risk of cascading errors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
+            "nextUpTease": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M PATIENT BREACH",
             "tags": [
-                "Source: https://modular.com/",
-                "Published: 2026-08-27T05:00:00Z",
+                "Source: https://spectrum.ieee.org/ai-copilots-to-agent-swarms",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
+            "heading": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M BREACH",
             "paragraphs": [
-                "Cursor.io is challenging GitHub with a new rival hosting platform, capitalizing on developer frustrations with existing tools and offering enhanced AI-native features for collaborative code development and deployment. This new platform aims to streamline workflows for complex AI projects and distributed teams.",
-                "This emerging competitor in the code hosting space could redefine the ecosystem for AI project management and MLOps, prompting enterprises to reassess their preferred development and collaboration platforms. Technical leaders should explore Cursor.io\u2019s capabilities for potential improvements in developer productivity and cost efficiency in AI software delivery."
+                "CareCloud has officially confirmed a massive data security breach impacting 3.7M patient medical records, exposing vulnerabilities in healthcare data repositories. This incident underscores the escalating cybersecurity risks facing organizations that aggregate sensitive health information within interconnected digital networks.",
+                "The breach serves as a stark reminder of the regulatory liabilities and reputational damage associated with inadequate data perimeter defenses in vertical SaaS sectors. Security architects must immediately audit access controls, encryption standards, and third-party vendor integrations to prevent similar catastrophic data exfiltration."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: NVIDIA AI DATA CENTER BOOM",
+            "nextUpTease": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/26/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-                "Published: 2026-08-26T19:00:00Z",
+                "Source: https://techcrunch.com/2026/08/27/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
+                "Published: 2026-08-27T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CNBC: NVIDIA AI DATA CENTER BOOM",
+            "heading": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
             "paragraphs": [
-                "NVIDIA is actively facilitating significant AI data center deals across the Nordics, acting as a key matchmaker in the region to meet surging demand for advanced compute infrastructure. This strategic expansion aims to establish critical hubs for large-scale AI model training and inference.",
-                "This rapid growth in NVIDIA-backed AI data centers signals a global race for compute dominance, impacting future regional pricing and resource availability for AI development. Enterprises must strategically plan their cloud and on-premise compute procurement, considering these emerging data center concentrations for optimal latency and cost structures."
+                "The European Commission has officially initiated the rigorous enforcement of core EU AI Act rules and mandatory model transparency requirements across all member states. Organizations operating within the European market face immediate compliance obligations regarding algorithmic accountability, risk categorization, and data governance.",
+                "Non-compliance carries severe financial penalties that can substantially impact enterprise profit margins and operational deployment timelines in Europe. Legal and engineering teams must conduct exhaustive compliance audits to ensure their models meet the newly enforced regulatory thresholds without stalling product velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+            "nextUpTease": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/27/nvidia-plays-matchmaker-in-nordics-as-ai-data-center-deals-boom-in-region.html",
-                "Published: 2026-08-27T11:25:00Z",
+                "Source: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-august-2",
+                "Published: 2026-07-31T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+            "heading": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
             "paragraphs": [
-                "A new startup, funded for advanced AI applications in cancer research, claims a unique approach to accelerating breakthroughs by leveraging novel algorithmic methods for drug discovery and personalized treatment analysis. This venture aims to overcome current limitations in AI's clinical impact for oncology.",
-                "This focused investment in AI-driven cancer solutions highlights the escalating potential for specialized AI models to disrupt and redefine healthcare research and development paradigms. Biotech and pharmaceutical executives should monitor these vertical-specific AI advancements for potential partnership opportunities and to evaluate long-term strategic investments in medical AI."
+                "A newly published implementation of MicroGPT written entirely in pure C has achieved a staggering 10M tokens per second when executed on Apple M5 hardware. This technical milestone demonstrates the incredible headroom available when stripping away traditional framework abstraction layers for lightweight neural models.",
+                "The breakthrough points toward hyper-efficient edge computing paradigms that could drastically reduce the cost of running localized inference tasks. Systems architects should evaluate bare-metal C implementations to unlock extreme performance gains for resource-constrained embedded environments."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/27/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-                "Published: 2026-08-27T09:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=microgpt-pure-c-apple-m5",
+                "Published: 2026-08-27T13:00:00Z",
                 "Status: Audited & True"
             ]
         }

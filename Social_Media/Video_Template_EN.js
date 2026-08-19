@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+        "hookTitle": "MARVELL POPS ON AI CHIP DEAL FOR GOOGLE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "headline": "CNBC: MARVELL POPS ON AI CHIP DEAL",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI is enhancing its Daybreak cyber defense to counter advanced AI-driven threats. This critical security update protects large-scale model deployments from escalating attacks, demanding immediate evaluation of existing defense postures."
+                "narration_line": "Marvell shares surged six percent following a custom semiconductor deal enabling Google to acquire up to twelve point two billion dollars in shares. This multi-billion dollar pact highlights the intensifying race among tech giants for dedicated hardware infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
+                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
+                "teaserTitle": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, a new workhorse model for enhanced coding and agentic operations. This iteration focuses on superior efficiency and speed for complex AI system development."
+                "narration_line": "Specialized AI chip startup Etched doubled its valuation to twenty-one billion dollars in a single month. The capital surge reflects massive enterprise demand for transformer-specific hardware accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
-                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "headline": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
+                "teaserTitle": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Hugging Face updated the Unsloth Qwen three point eight twenty-seven billion GGUF model for efficient deployment. This optimization reduces memory footprint and improves execution speed on consumer-grade hardware."
+                "narration_line": "Hugging Face released an optimized unsloth model update tailored for high-performance edge deployment. Developers can now execute complex twenty-seven billion parameter models locally on consumer hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "teaserTitle": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
+                "headline": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M PATIENT BREACH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Modular has open-sourced Mojo, a high-performance language bridging Python's usability with C++ speed for AI development. This move accelerates model creation with native hardware integration."
+                "narration_line": "AMD analysis indicates software workflows are shifting rapidly from coding copilots to autonomous agent swarms. This evolution demands robust runtime governance frameworks across development pipelines."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
-                "teaserTitle": "CNBC: NVIDIA AI DATA CENTER BOOM",
+                "headline": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M BREACH",
+                "teaserTitle": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cursor dot io launched a rival hosting platform to GitHub, offering AI-native features for collaborative code development. This aims to streamline workflows for complex AI projects and distributed teams."
+                "narration_line": "CareCloud confirmed a security breach compromising three point seven million patient medical records. The incident underscores escalating cybersecurity risks within healthcare data infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: NVIDIA AI DATA CENTER BOOM",
-                "teaserTitle": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+                "headline": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
+                "teaserTitle": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "NVIDIA is facilitating significant AI data center deals in the Nordics, acting as a matchmaker to meet surging compute demand. This strategic expansion establishes critical hubs for large-scale AI model training."
+                "narration_line": "The European Commission has officially initiated enforcement of core AI Act transparency rules. Enterprises operating in Europe face immediate compliance obligations and potential financial penalties."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+                "headline": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A new startup is leveraging advanced AI applications in cancer research, claiming a unique approach for drug discovery and personalized treatment analysis. This venture aims to overcome current limitations in AI's clinical impact for oncology."
+                "narration_line": "A pure C implementation of MicroGPT achieved ten million tokens per second on Apple M5 hardware. This milestone demonstrates extreme headroom for lightweight neural model execution."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "OpenAI enhances Daybreak cyber defense to counter advanced AI threats. This critical update protects large-scale model deployments, demanding immediate evaluation of defense postures."
+                "headline": "CNBC: MARVELL POPS ON AI CHIP DEAL",
+                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
+                "visual_caption": "Marvell shares gained 6% on a chip deal letting Google buy up to $12.2B in shares. This pact underscores the intense race for dedicated silicon."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a new workhorse model for enhanced coding and agentic operations. This iteration focuses on superior efficiency and speed for complex AI system development."
+                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
+                "teaserTitle": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
+                "visual_caption": "Etched saw its valuation double to $21B in a month amid surging demand. The capital inflow highlights intense backing for dedicated accelerators."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
-                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "visual_caption": "Hugging Face updated unsloth/Qwen3.8-27B-GGUF model for efficient deployment. This optimization reduces memory footprint, improves execution speed on consumer hardware."
+                "headline": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
+                "teaserTitle": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
+                "visual_caption": "Hugging Face released an optimized 27B model update for edge devices. Developers can run complex weights locally on consumer-grade hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "teaserTitle": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
-                "visual_caption": "Modular open-sourced Mojo, a high-performance language bridging Python's usability with C++ speed for AI development. This accelerates model creation with native hardware integration."
+                "headline": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M PATIENT BREACH",
+                "visual_caption": "Software workflows are shifting from basic copilots to autonomous agent swarms. Teams must restructure internal protocols for agent oversight."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
-                "teaserTitle": "CNBC: NVIDIA AI DATA CENTER BOOM",
-                "visual_caption": "Cursor.io launched a rival hosting platform to GitHub, offering AI-native features for collaborative code development. This aims to streamline workflows for complex AI projects."
+                "headline": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M BREACH",
+                "teaserTitle": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
+                "visual_caption": "CareCloud confirmed 3.7M patient medical records were stolen in a data breach. Security teams must audit access controls and vendor integrations."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: NVIDIA AI DATA CENTER BOOM",
-                "teaserTitle": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
-                "visual_caption": "NVIDIA facilitates major AI data center deals in Nordics, meeting surging compute demand. This strategic expansion establishes critical hubs for large-scale AI model training."
+                "headline": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
+                "teaserTitle": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
+                "visual_caption": "The EU has started enforcing strict AI Act rules and transparency mandates. Organizations face immediate compliance obligations across Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+                "headline": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
                 "teaserTitle": "",
-                "visual_caption": "A new startup leverages advanced AI in cancer research, claiming a unique approach for drug discovery and personalized treatment. This aims to overcome AI's clinical impact limitations."
+                "visual_caption": "MicroGPT in pure C hit 10M tokens per second on Apple M5 hardware. This milestone proves the massive potential of bare-metal optimization."
             },
             {
                 "slide_index": 8,
