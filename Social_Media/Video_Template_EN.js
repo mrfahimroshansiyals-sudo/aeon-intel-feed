@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "WEATHERNEXT AI CYCLONE FORECASTING",
+        "hookTitle": "GPT-5.6 SOL & LUNA ACCESS EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
-                "teaserTitle": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "NVIDIA CHINA CHIP LOOPHOLE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "DeepMind's WeatherNext AI model has achieved a major breakthrough in cyclone forecasting, boosting accuracy by fifteen percent. This directly improves disaster preparedness and climate infrastructure planning."
+                "narration_line": "OpenAI has enhanced GPT-5.6 Sol and made GPT-5.6 Luna accessible for free users, significantly boosting its model capabilities. This move escalates competitive pressure on enterprise AI providers, requiring a re-evaluation of current pricing and feature offerings."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: CHATGPT TEEN SAFETY LAUNCH",
-                "teaserTitle": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
+                "headline": "CNBC: NVIDIA CHINA CHIP LOOPHOLE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI has launched a specialized ChatGPT version for teenagers, integrating enhanced safety protocols and content filtering. This expands AI accessibility while prioritizing secure user experiences for younger demographics."
+                "narration_line": "Reports indicate that the U.S. ban on Nvidia's advanced AI chips for China is being bypassed through new export loopholes. This situation creates substantial supply chain and compliance risks for companies in the AI hardware sector."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: SIGN LANGUAGE AI FOR ACCESSIBILITY",
-                "teaserTitle": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "MODULAR: MOJO LANGUAGE OPEN-SOURCE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has deployed new AI capabilities for real-time sign language recognition and translation in user applications. This dramatically enhances accessibility for the deaf and hard-of-hearing community."
+                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, an efficient workhorse model for coding and agentic applications. This deployment impacts developer choices and infrastructure investments, optimizing the operational costs of AI projects."
             },
             {
                 "slide_index": 4,
-                "headline": "GOLDMAN SACHS: AI LABOR MARKET SQUEEZE",
-                "teaserTitle": "CADENCE: AI CHIP MARKET DISRUPTION",
+                "headline": "MODULAR: MOJO LANGUAGE OPEN-SOURCE",
+                "teaserTitle": "RELATIVITY NETWORKS: FIBER INFRASTRUCTURE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A Goldman Sachs report indicates generative AI will intensify labor market shifts, projecting twenty-five percent of job functions in certain sectors could be automated by two thousand thirty. This signals a measurable decrease in entry-level hiring across AI-exposed industries."
+                "narration_line": "Modular's Mojo language, now open-source with Qualcomm backing, offers a high-performance programming solution for AI. This empowers engineering teams to optimize AI pipelines, significantly reducing compute costs and improving model inference times."
             },
             {
                 "slide_index": 5,
-                "headline": "CADENCE: AI CHIP MARKET DISRUPTION",
-                "teaserTitle": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
+                "headline": "RELATIVITY NETWORKS: FIBER INFRASTRUCTURE",
+                "teaserTitle": "CEREBRAS: CS-4 AI CHIP DEBUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CNBC reports Cadence Design Systems faces pressure in the AI hardware market as hyperscalers pursue custom silicon development. Their stock performance lags behind pure-play AI chip manufacturers, signaling strategic bottlenecks in adapting to evolving compute demands."
+                "narration_line": "Relativity Networks raised twenty-two million dollars for faster fiber technology, targeting enhanced data center connectivity. This critical investment area for AI infrastructure can lower data transfer costs and boost the responsiveness of AI services."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGINGFACE: INTERACTIVE MODEL ARCHITECTURES",
-                "teaserTitle": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
+                "headline": "CEREBRAS: CS-4 AI CHIP DEBUT",
+                "teaserTitle": "MIT TECH REVIEW: CHILD APP ETHICS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new open-source project introduces interactive, animated visualizations for Hugging Face models, allowing deep inspection of neural network architectures. This tool streamlines debugging and performance optimization for advanced AI deployments."
+                "naration_line": "Cerebras debuted its CS-4 AI chip, featuring advanced processing for extreme-scale AI training, directly addressing compute bottlenecks. Investing in such specialized AI silicon can dramatically reduce training times and energy consumption for demanding workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "AI PRODUCTIVITY: SOFTWARE TEAM USAGE PATTERNS",
-                "teaserTitle": "",
+                "headline": "MIT TECH REVIEW: CHILD APP ETHICS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Data on AI usage in software teams reveals developers leveraging AI coding assistants achieve a twenty percent increase in code completion speed. This also results in a fifteen percent reduction in bug detection time for routine tasks."
+                "narration_line": "MIT Technology Review highlights the need for a 'reboot' in child-monitoring apps due to ethical and privacy concerns. This signals critical regulatory and reputational risks for companies developing AI applications targeting minors."
             },
             {
                 "slide_index": 8,
