@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MARVELL POPS ON AI CHIP DEAL FOR GOOGLE",
+        "hookTitle": "OPENAI APPOINTS DALI RAJIC AS CHIEF REVENUE OFFICER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CNBC: MARVELL POPS ON AI CHIP DEAL",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE",
+                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Marvell shares surged six percent following a custom semiconductor deal enabling Google to acquire up to twelve point two billion dollars in shares. This multi-billion dollar pact highlights the intensifying race among tech giants for dedicated hardware infrastructure."
+                "narration_line": "OpenAI appoints Dali Rajic as Chief Revenue Officer to scale global sales operations. This strategic addition accelerates enterprise monetization and commercial deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
-                "teaserTitle": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
+                "teaserTitle": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Specialized AI chip startup Etched doubled its valuation to twenty-one billion dollars in a single month. The capital surge reflects massive enterprise demand for transformer-specific hardware accelerators."
+                "narration_line": "OpenAI addresses the balance between rapid model deployment and cyber threat management. Stricter evaluation protocols mitigate security vulnerabilities before public releases."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
-                "teaserTitle": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
+                "headline": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
+                "teaserTitle": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Hugging Face released an optimized unsloth model update tailored for high-performance edge deployment. Developers can now execute complex twenty-seven billion parameter models locally on consumer hardware."
+                "narration_line": "Researchers unveil a one hundred fifty million parameter reasoning model utilizing recurrent latent structures. This architecture establishes a new cost accuracy frontier on complex tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M PATIENT BREACH",
+                "headline": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
+                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "AMD analysis indicates software workflows are shifting rapidly from coding copilots to autonomous agent swarms. This evolution demands robust runtime governance frameworks across development pipelines."
+                "narration_line": "MirroS introduces HarnessEval-W to verify world model outputs using hierarchical sub-agents. The system generates transparent reasoning chains to justify performance scores."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M BREACH",
-                "teaserTitle": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
+                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CareCloud confirmed a security breach compromising three point seven million patient medical records. The incident underscores escalating cybersecurity risks within healthcare data infrastructure."
+                "narration_line": "Microsoft reviews fiscal year twenty twenty six, highlighting a shift toward enterprise frontier transformation. Global deployments show measurable productivity returns across industries."
             },
             {
                 "slide_index": 6,
-                "headline": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
-                "teaserTitle": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
+                "headline": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
+                "teaserTitle": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The European Commission has officially initiated enforcement of core AI Act transparency rules. Enterprises operating in Europe face immediate compliance obligations and potential financial penalties."
+                "narration_line": "NIST joins the National Genesis Mission to accelerate artificial intelligence innovation and safety standards. The collaboration establishes rigorous measurement science and benchmarks."
             },
             {
                 "slide_index": 7,
-                "headline": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
+                "headline": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A pure C implementation of MicroGPT achieved ten million tokens per second on Apple M5 hardware. This milestone demonstrates extreme headroom for lightweight neural model execution."
+                "narration_line": "OneCLI launches an open source sandboxed agent harness for collaborative development teams. The platform provides secure execution boundaries for autonomous coding agents."
             },
             {
                 "slide_index": 8,

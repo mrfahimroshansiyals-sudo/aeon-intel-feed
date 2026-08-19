@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CNBC: MARVELL POPS ON AI CHIP DEAL",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
-                "visual_caption": "Marvell shares gained 6% on a chip deal letting Google buy up to $12.2B in shares. This pact underscores the intense race for dedicated silicon."
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE",
+                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
+                "visual_caption": "OpenAI appoints Dali Rajic as CRO to scale global sales. This strategic addition accelerates enterprise monetization and commercial deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
-                "teaserTitle": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
-                "visual_caption": "Etched saw its valuation double to $21B in a month amid surging demand. The capital inflow highlights intense backing for dedicated accelerators."
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
+                "teaserTitle": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
+                "visual_caption": "OpenAI addresses the balance between rapid model deployment and cyber threat management. Stricter evaluation protocols mitigate security vulnerabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: UNSLOTH QWEN3.8-27B GGUF UPDATE",
-                "teaserTitle": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
-                "visual_caption": "Hugging Face released an optimized 27B model update for edge devices. Developers can run complex weights locally on consumer-grade hardware."
+                "headline": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
+                "teaserTitle": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
+                "visual_caption": "Researchers unveil a 150M parameter reasoning model utilizing recurrent latent structures. This architecture establishes a new cost-accuracy frontier."
             },
             {
                 "slide_index": 4,
-                "headline": "IEEE SPECTRUM: COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M PATIENT BREACH",
-                "visual_caption": "Software workflows are shifting from basic copilots to autonomous agent swarms. Teams must restructure internal protocols for agent oversight."
+                "headline": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
+                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "visual_caption": "MirroS introduces HarnessEval-W to verify world-model outputs using hierarchical sub-agents. The system generates transparent reasoning chains."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: CARECLOUD CONFIRMS 3.7M BREACH",
-                "teaserTitle": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
-                "visual_caption": "CareCloud confirmed 3.7M patient medical records were stolen in a data breach. Security teams must audit access controls and vendor integrations."
+                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
+                "visual_caption": "Microsoft reviews FY26, highlighting a shift toward enterprise frontier transformation. Global deployments show measurable productivity returns."
             },
             {
                 "slide_index": 6,
-                "headline": "EUROPEAN COMMISSION: AI ACT ENFORCEMENT START",
-                "teaserTitle": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
-                "visual_caption": "The EU has started enforcing strict AI Act rules and transparency mandates. Organizations face immediate compliance obligations across Europe."
+                "headline": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
+                "teaserTitle": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
+                "visual_caption": "NIST joins the National Genesis Mission to accelerate AI innovation and safety standards. The collaboration establishes rigorous measurement science."
             },
             {
                 "slide_index": 7,
-                "headline": "GITHUB: MICROGPT IN PURE C HITS 10M TPS",
+                "headline": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
                 "teaserTitle": "",
-                "visual_caption": "MicroGPT in pure C hit 10M tokens per second on Apple M5 hardware. This milestone proves the massive potential of bare-metal optimization."
+                "visual_caption": "OneCLI launches an OSS sandboxed agent harness for collaborative development teams. The platform provides secure execution boundaries."
             },
             {
                 "slide_index": 8,
