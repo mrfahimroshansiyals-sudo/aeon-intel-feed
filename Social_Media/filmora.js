@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER AI AMBITION",
-                "teaserTitle": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
-                "visual_caption": "OpenAI's GPT-5.6 now scales frontier AI ambition, establishing new multimodal reasoning benchmarks. This advancement pushes current compute infrastructure, demanding optimized resource allocation for strategic leverage."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH WORKHORSE MODEL",
+                "teaserTitle": "MODELS: OPENAI EXPANDS SOL AND LUNA ACCESS",
+                "visual_caption": "Google introduces Gemini 3.7 Flash as its most intelligent workhorse model for coding and agents. Engineering teams can now leverage breakthrough performance benchmarks across enterprise pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
-                "teaserTitle": "HARDWARE: DRAM PRICES SURGE 500%",
-                "visual_caption": "OpenAI's Daybreak initiative reveals a narrowing cyber defense window for AI systems. Proactive security measures are crucial against sophisticated threats targeting frontier models and data assets."
+                "headline": "MODELS: OPENAI EXPANDS SOL AND LUNA ACCESS",
+                "teaserTitle": "SECURITY: SAFEGUARDS DEPLOYED AFTER BREACH",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT while expanding free access to Luna users. These updates streamline automated financial workflows and general enterprise productivity."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: DRAM PRICES SURGE 500%",
-                "teaserTitle": "MLOPS: AI USAGE PATTERNS EMERGE",
-                "visual_caption": "DRAM memory prices have surged 500% over the past 12 months, bottlenecking AI training clusters. This impacts compute infrastructure costs, influencing operational budgets and development timelines significantly."
+                "headline": "SECURITY: SAFEGUARDS DEPLOYED AFTER BREACH",
+                "teaserTitle": "COMPUTING: AGENTIC AI DEMANDS CPU UPGRADES",
+                "visual_caption": "OpenAI institutes rigorous new built-in safety protections following a security breach. These defensive measures secure collaborative machine learning workflows against external threats."
             },
             {
                 "slide_index": 4,
-                "headline": "MLOPS: AI USAGE PATTERNS EMERGE",
-                "teaserTitle": "MODELS: STARTUP BREAKS LLM BOTTLENECK",
-                "visual_caption": "New analysis reveals AI usage patterns in software development teams, highlighting both productivity gains and emerging workflow integration challenges. This data offers crucial insights for optimizing MLOps strategies."
+                "headline": "COMPUTING: AGENTIC AI DEMANDS CPU UPGRADES",
+                "teaserTitle": "REGULATION: EUROPEAN TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "Agentic AI workloads have made traditional CPUs the primary performance bottleneck in data centers. Infrastructure planners must reevaluate hardware allocation ratios to maintain throughput."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: STARTUP BREAKS LLM BOTTLENECK",
-                "teaserTitle": "RISK: LLMS STRIKINGLY VULNERABLE TO ATTACK",
-                "visual_caption": "A new startup claims to have broken a fundamental bottleneck hindering large language models, promising significant efficiency gains. This development could disrupt existing model architectures and accelerate deployment cycles."
+                "headline": "REGULATION: EUROPEAN TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HARDWARE: CEREBRAS UNVEILS CS-4 ARCHITECTURE",
+                "visual_caption": "The European Commission advances the Technological Sovereignty Package with strict AI Act rules. Compliance officers must review cross-border data flows to avoid regulatory penalties."
             },
             {
                 "slide_index": 6,
-                "headline": "RISK: LLMS STRIKINGLY VULNERABLE TO ATTACK",
-                "teaserTitle": "INFRASTRUCTURE: ETCHED HITS $21B VALUATION",
-                "visual_caption": "Research exposes a fundamental flaw leaving large language models vulnerable to adversarial attacks, risking harmful or unintended outputs. AI security teams must prioritize robust defense mechanisms and continuous monitoring."
+                "headline": "HARDWARE: CEREBRAS UNVEILS CS-4 ARCHITECTURE",
+                "teaserTitle": "RESEARCH: RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "visual_caption": "Cerebras details its next generation CS-4 system architecture for deep learning training. The wafer-scale engine delivers unprecedented memory bandwidth compared to standard clusters."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: ETCHED HITS $21B VALUATION",
+                "headline": "RESEARCH: RECURSIVE SELF-IMPROVEMENT LIMITS",
                 "teaserTitle": "",
-                "visual_caption": "AI chip startup Etched has seen its valuation double to $21B in one month, reflecting strong investor confidence. This signals a maturing hardware ecosystem critical for optimal compute efficiency."
+                "visual_caption": "Research shows AI recursive self-improvement faces limits due to agent creativity bottlenecks. Executives must calibrate strategic timelines around these measured capability constraints."
             },
             {
                 "slide_index": 8,
