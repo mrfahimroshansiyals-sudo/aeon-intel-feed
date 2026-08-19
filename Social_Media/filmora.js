@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH WORKHORSE MODEL",
-                "teaserTitle": "MODELS: OPENAI EXPANDS SOL AND LUNA ACCESS",
-                "visual_caption": "Google introduces Gemini 3.7 Flash as its most intelligent workhorse model for coding and agents. Engineering teams can now leverage breakthrough performance benchmarks across enterprise pipelines."
+                "headline": "OPENAI: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
+                "teaserTitle": "GOLDMAN SACHS: AI IMPACT ON LABOR MARKETS",
+                "visual_caption": "OpenAI launched GPT-5.6, its latest frontier intelligence model for ambitious enterprise deployments. This model offers enhanced capabilities for complex problem-solving and multi-modal reasoning."
             },
             {
                 "slide_index": 2,
-                "headline": "MODELS: OPENAI EXPANDS SOL AND LUNA ACCESS",
-                "teaserTitle": "SECURITY: SAFEGUARDS DEPLOYED AFTER BREACH",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT while expanding free access to Luna users. These updates streamline automated financial workflows and general enterprise productivity."
+                "headline": "GOLDMAN SACHS: AI IMPACT ON LABOR MARKETS",
+                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "visual_caption": "Goldman Sachs' analysis reveals significant shifts in labor markets due to AI adoption across global industries. The study identifies sectors with both new job roles and displaced positions."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: SAFEGUARDS DEPLOYED AFTER BREACH",
-                "teaserTitle": "COMPUTING: AGENTIC AI DEMANDS CPU UPGRADES",
-                "visual_caption": "OpenAI institutes rigorous new built-in safety protections following a security breach. These defensive measures secure collaborative machine learning workflows against external threats."
+                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "visual_caption": "OpenAI highlights a narrowing cyber defense window in AI systems, urging proactive security measures against sophisticated threats. New threat vectors are emerging from adversarial AI and nation-state actors."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTING: AGENTIC AI DEMANDS CPU UPGRADES",
-                "teaserTitle": "REGULATION: EUROPEAN TECH SOVEREIGNTY PACKAGE",
-                "visual_caption": "Agentic AI workloads have made traditional CPUs the primary performance bottleneck in data centers. Infrastructure planners must reevaluate hardware allocation ratios to maintain throughput."
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "MIT TECH REVIEW: ANTHROPIC CLAUDE INTERPRETABILITY",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting accuracy and lead time. This uses novel neural network architectures for efficient meteorological data processing."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EUROPEAN TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "HARDWARE: CEREBRAS UNVEILS CS-4 ARCHITECTURE",
-                "visual_caption": "The European Commission advances the Technological Sovereignty Package with strict AI Act rules. Compliance officers must review cross-border data flows to avoid regulatory penalties."
+                "headline": "MIT TECH REVIEW: ANTHROPIC CLAUDE INTERPRETABILITY",
+                "teaserTitle": "HUGGING FACE: LIGHTRICKS LTX-2.5 MODEL UPDATE",
+                "visual_caption": "MIT Technology Review reports Anthropic found a \"hidden space\" in Claude where concepts are processed, offering insights into AI interpretability. This research moves beyond opaque black-box models towards explainable outputs."
             },
             {
                 "slide_index": 6,
-                "headline": "HARDWARE: CEREBRAS UNVEILS CS-4 ARCHITECTURE",
-                "teaserTitle": "RESEARCH: RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "visual_caption": "Cerebras details its next generation CS-4 system architecture for deep learning training. The wafer-scale engine delivers unprecedented memory bandwidth compared to standard clusters."
+                "headline": "HUGGING FACE: LIGHTRICKS LTX-2.5 MODEL UPDATE",
+                "teaserTitle": "CNBC: OPENAI CHATGPT FOR TEENS SAFETY",
+                "visual_caption": "Hugging Face spotlights Lightricks' LTX-2.5 model update, introducing significant performance improvements for creative AI applications. This includes advanced image and video generation capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "headline": "CNBC: OPENAI CHATGPT FOR TEENS SAFETY",
                 "teaserTitle": "",
-                "visual_caption": "Research shows AI recursive self-improvement faces limits due to agent creativity bottlenecks. Executives must calibrate strategic timelines around these measured capability constraints."
+                "visual_caption": "CNBC reports OpenAI rolled out ChatGPT for teenagers with stronger built-in safety protections and content filters. This product expansion addresses critical concerns for younger demographics and regulatory compliance."
             },
             {
                 "slide_index": 8,
