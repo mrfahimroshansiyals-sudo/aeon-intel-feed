@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER INTELLIGENCE SCALES AMBITION",
+        "hookTitle": "OPENAI: CYBER PROGRAM ACCESS REVOKED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "OPENAI: CYBER PROGRAM ACCESS REVOKED",
+                "teaserTitle": "ENHANCING PRIVACY PROTECTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched its new GPT five point six model, representing a significant advancement in frontier intelligence for complex enterprise applications. This release directly addresses critical architectural bottlenecks and aims to optimize compute utilization across various deployment scenarios."
+                "narration_line": "OpenAI has reportedly revoked researcher access to a limited cyber program, raising significant transparency and security concerns. This action highlights increasing control over advanced AI capabilities and the need for robust risk mitigation in sensitive research."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "headline": "OPENAI: ENHANCING PRIVACY PROTECTIONS",
+                "teaserTitle": "PUBLIC IPO EXPECTED BY 2027",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduces Gemini three point seven Flash, an efficient model optimized for speed and cost-effectiveness in AI deployment. It democratizes advanced AI, making it ideal for high-volume, low-latency applications where rapid inference is crucial."
+                "narration_line": "OpenAI is implementing new customer privacy protections to address data concerns and differentiate its services from competitors. This move aims to build greater trust and compliance in enterprise AI deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS FOR AI",
-                "teaserTitle": "TERRAPOWER FUELS AI DATA CENTERS",
+                "headline": "OPENAI: PUBLIC IPO EXPECTED BY 2027",
+                "teaserTitle": "UNSLOTH DYNAMIC 3.0 GGUFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI warns of a narrowing cyber defense window for AI systems, highlighting heightened risks from sophisticated attacks targeting model vulnerabilities. This mandates a proactive re-evaluation of current AI security protocols and significant investment in defense mechanisms."
+                "narration_line": "OpenAI's CFO indicates the company expects to go public by two thousand twenty-seven or sooner, marking a major shift in its funding strategy. An IPO could accelerate industry consolidation and investment in AI infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: TERRAPOWER FUELS AI DATA CENTERS",
-                "teaserTitle": "GPT-5.6 SOL & LUNA FREE ACCESS",
+                "headline": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
+                "teaserTitle": "ANTHROPIC PROTEIN BINDER AI DESIGN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "TerraPower is positioning its advanced nuclear reactors as a key energy solution for the escalating power demands of AI data centers. This aims to provide a reliable, carbon-free energy source, addressing the immense electrical consumption of modern AI infrastructure."
+                "narration_line": "Unsloth has released Dynamic three point zero GGUFs, significantly boosting local inference speeds and reducing memory for large language models. This optimization makes powerful AI more viable for edge computing and personal devices."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA FREE ACCESS",
-                "teaserTitle": "UNSLOTH QWEN 3.8-27B GGUF",
+                "headline": "ANTHROPIC: PROTEIN BINDER AI DESIGN",
+                "teaserTitle": "JAPAN BONDS & AI RALLY MARKET RISK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding free access to its GPT five point six Luna model and improving GPT five point six Sol in ChatGPT. This move broadens user engagement and accelerates the iteration cycle for future model enhancements."
+                "narration_line": "Anthropic is advancing its Claude-protein-binder-design model for complex biomolecular engineering, accelerating drug discovery and material science. This research requires robust compute for sophisticated simulations in specialized AI applications."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL EFFICIENCY: UNSLOTH QWEN 3.8-27B GGUF",
-                "teaserTitle": "CLAUDE AI DISCOVERY HIDDEN SPACES",
+                "headline": "MARKET RISK: JAPAN BONDS & AI RALLY",
+                "teaserTitle": "FX NATIVE CODING AGENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Unsloth released an optimized GGUF version of Qwen three point eight twenty-seven billion, dramatically improving its inference speed and reducing memory for local deployments. This makes large language models more accessible and practical for on-device and edge computing."
+                "narration_line": "Analysts warn Japan's bond market may signal instability for the AI stock rally, highlighting potential economic pressures on tech valuations. This indicates increased financial risk for AI-focused investments and strategic planning."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE AI DISCOVERY HIDDEN SPACES",
+                "headline": "AI TOOLING: FX NATIVE CODING AGENT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic\u2019s research reveals a \"hidden space\" within Claude\u2019s model architecture, showing where the AI processes complex concepts. This offers unprecedented insights into the opaque reasoning mechanisms of large language models, crucial for interpretability and reliability."
+                "narration_line": "A new open-source native coding agent, 'fx', offers ultra-compact design and efficient performance for developer workflows. This tool improves compute efficiency by shifting AI-assisted development to local machines, reducing cloud reliance."
             },
             {
                 "slide_index": 8,
