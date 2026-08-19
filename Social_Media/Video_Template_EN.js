@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI MODEL RELEASE",
+        "hookTitle": "SAFEGUARDS AFTER HUGGING FACE BREACH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6: FRONTIER MODEL RELEASE",
-                "teaserTitle": "NVIDIA: CHINA CHIP EXPORT LOOPHOLE",
+                "headline": "OPENAI: SAFEGUARDS AFTER HUGGING FACE BREACH",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT-5.6, setting new benchmarks in multimodal reasoning and efficient task execution for enterprise deployments. AI architects must now re-evaluate their strategies, considering migration costs and potential productivity enhancements."
+                "narration_line": "OpenAI has swiftly implemented new safeguards following a recent security breach impacting Hugging Face users. This proactive measure aims to mitigate potential data exfiltration risks and reinforce the integrity of connected AI development platforms."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: CHINA CHIP EXPORT LOOPHOLE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH: AGENTIC AI CAPABILITIES",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+                "teaserTitle": "ECONOMICS: AI INFLUENCES HIGHER YIELD RATES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "NVIDIA\u2019s advanced AI chips are reportedly bypassing U.S. export bans to China through modified variants, challenging compliance. CTOs must diversify hardware sourcing and monitor geopolitical tensions to safeguard their AI pipelines."
+                "narration_line": "OpenAI is enhancing GPT five point six Sol in ChatGPT and expanding free user access to GPT five point six Luna. This strategic move aims for broader adoption and diversified model utility."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH: AGENTIC AI CAPABILITIES",
-                "teaserTitle": "MIT TECH REVIEW: LLM SECURITY: CRITICAL VULNERABILITY FLAW",
+                "headline": "ECONOMICS: AI INFLUENCES HIGHER YIELD RATES",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECAST BREAKTHROUGH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind released Gemini 3.7 Flash, an enhanced agentic AI model for faster, more efficient multi-step task execution. This offers enterprises a strategic opportunity to accelerate automation and optimize resource allocation for agent-based systems."
+                "narration_line": "CNBC reports that the artificial intelligence sector's accelerated investment and energy demands are significantly influencing higher Treasury yields. This correlation highlights AI's growing systemic impact on global financial markets."
             },
             {
                 "slide_index": 4,
-                "headline": "MIT TECH REVIEW: LLM SECURITY: CRITICAL VULNERABILITY FLAW",
-                "teaserTitle": "HACKER NEWS: SILICON PHOTONICS: NEW PROGRAMMING LANGUAGE",
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECAST BREAKTHROUGH",
+                "teaserTitle": "HARDWARE: CEREBRAS CS-4 ACCELERATES AI TRAINING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Researchers discovered a fundamental flaw making large language models vulnerable to adversarial attacks like prompt injection. This demands immediate attention from developers to prevent data breaches and reputational damage."
+                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting accuracy. This innovation promises more precise and timely alerts for extreme weather events."
             },
             {
                 "slide_index": 5,
-                "headline": "HACKER NEWS: SILICON PHOTONICS: NEW PROGRAMMING LANGUAGE",
-                "teaserTitle": "HACKER NEWS: MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "headline": "HARDWARE: CEREBRAS CS-4 ACCELERATES AI TRAINING",
+                "teaserTitle": "ETHICS: AVOID \"AI AGENTS AS COWORKERS\" PITFALL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new programming language, `\u03bb\u03bb`, designed for silicon photonics, aims to streamline optical AI accelerator development. This signals an architectural shift, compelling companies to explore it for competitive compute efficiency."
+                "narration_line": "Cerebras has unveiled its CS-4 Wafer-Scale Engine, the latest AI accelerator designed to dramatically reduce training time for large models. It directly targets bottlenecks in compute scaling for advanced AI research."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
-                "teaserTitle": "OPENAI: DAYBREAK: CYBER DEFENSE EXPANSION",
+                "headline": "ETHICS: AVOID \"AI AGENTS AS COWORKERS\" PITFALL",
+                "teaserTitle": "INFRASTRUCTURE: RELATIVITY NETWORKS' $22M FIBER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Modular has open-sourced Mojo, its high-performance AI programming language, offering Python compatibility with C/C++ speed. This presents an opportunity for engineering teams to optimize model performance and reduce operational costs."
+                "narration_line": "MIT Technology Review cautions against framing AI agents as \"coworkers,\" citing risks of human workers disengaging from accountability and error detection. This perspective highlights friction from misaligned human-AI collaboration."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: DAYBREAK: CYBER DEFENSE EXPANSION",
+                "headline": "INFRASTRUCTURE: RELATIVITY NETWORKS' $22M FIBER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI is expanding Daybreak, its cyber defense initiative, integrating advanced AI to identify and neutralize sophisticated threats targeting AI infrastructure. CISOs must integrate these capabilities to fortify AI ecosystems against emergent risks."
+                "narration_line": "Relativity Networks secured twenty-two million dollars in funding for specialized fiber optic technology. This aims to deliver faster, more efficient data transfer rates for AI data centers."
             },
             {
                 "slide_index": 8,
