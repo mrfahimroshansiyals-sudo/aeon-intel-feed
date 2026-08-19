@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ACQUISITION: OPENROUTER JOINS STRIPE",
-                "teaserTitle": "CEREBRAS: CS-4 ACCELERATES SILICON BENCHMARKS",
-                "visual_caption": "Stripe acquires AI gateway OpenRouter for >$7B. The merger unifies multi-model routing with global developer payment rails."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "visual_caption": "OpenAI launched GPT-5.6, scaling frontier intelligence with enhanced reasoning and expanded context. This upgrade addresses deployment bottlenecks for agentic systems, implying significant compute investment for full utilization."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: CEREBRAS CS-4 DEBUTS",
-                "teaserTitle": "ETCHED: VALUATION DOUBLES TO $21B",
-                "visual_caption": "Cerebras unveils the CS-4 wafer-scale engine. The system eliminates memory bottlenecks for massive frontier models."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "HARDWARE: TERRAPOWER FUELS AI DATA CENTERS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, their most intelligent and efficient workhorse model for coding. It targets high-volume production with low-latency inference, impacting total cost of ownership for scalable agent deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "SILICON: ETCHED VALUATION DOUBLES",
-                "teaserTitle": "SECURITY: CARECLOUD BREACH EXPOSES 3.7M RECORDS",
-                "visual_caption": "Etched valuation doubles to $21B in a month. Investor demand for transformer-specific silicon is surging rapidly."
+                "headline": "HARDWARE: TERRAPOWER FUELS AI DATA CENTERS",
+                "teaserTitle": "COMPUTE: NVIDIA EXPANDS NORDIC DATA CENTERS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "TerraPower is developing nuclear reactors to power next-gen AI data centers, promising stable, high-density energy. This innovation addresses the escalating energy footprint, offering critical competitive advantage and resilience for operators."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: CARECLOUD BREACH EXPOSES 3.7M RECORDS",
-                "teaserTitle": "MARVELL: GOOGLE AI CHIP DEAL EXPANDS",
-                "visual_caption": "CareCloud confirms 3.7M patient records stolen in breach. Healthcare infrastructure demands urgent zero-trust security overhauls."
+                "headline": "COMPUTE: NVIDIA EXPANDS NORDIC DATA CENTERS",
+                "teaserTitle": "OPTIMIZATION: UNSLOTH RELEASES DYNAMIC 3.0 GGUFS",
+                "visual_caption": "NVIDIA is facilitating major AI data center expansion in the Nordics, leveraging renewable energy and stable grids. This regional focus shifts global AI training footprints, impacting latency and sovereign data considerations for infrastructure planners."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: MARVELL SECURES GOOGLE DEAL",
-                "teaserTitle": "HUGGING FACE: QWEN3.8-27B LEADS OPEN MODELS",
-                "visual_caption": "Marvell expands custom chip deal allowing Google to buy $12.2B in shares. Hyperscalers are standardizing custom ASICs."
+                "headline": "OPTIMIZATION: UNSLOTH RELEASES DYNAMIC 3.0 GGUFS",
+                "teaserTitle": "SECURITY: LLM FUNDAMENTAL FLAW EXPOSED",
+                "visual_caption": "Unsloth launched Dynamic 3.0 GGUFs, significantly enhancing LLM quantization efficiency, seen with Qwen3.8-27B. This enables faster inference and reduced memory on consumer hardware, drastically cutting operational expenditure for local model serving."
             },
             {
                 "slide_index": 6,
-                "headline": "OPEN SOURCE: QWEN3.8-27B DOMINATES LEADERBOARD",
-                "teaserTitle": "OPENAI: RESEARCH ACCESS REVOCATION PROMPTS SCRUTINY",
-                "visual_caption": "Qwen3.8-27B surpasses 1M downloads on Hugging Face. Open-source architectures match proprietary reasoning performance."
+                "headline": "SECURITY: LLM FUNDAMENTAL FLAW EXPOSED",
+                "teaserTitle": "COMPLIANCE: OPENAI CYBER DEFENSE WINDOW NARROWS",
+                "visual_caption": "A fundamental flaw has been identified in LLMs, making them strikingly vulnerable to targeted adversarial attacks. Enterprise security teams must prioritize red-teaming and prompt engineering defenses to mitigate this newly exposed attack vector."
             },
             {
                 "slide_index": 7,
-                "headline": "GOVERNANCE: OPENAI REVOKES CYBER ACCESS",
+                "headline": "COMPLIANCE: OPENAI CYBER DEFENSE WINDOW NARROWS",
                 "teaserTitle": "",
-                "visual_caption": "OpenAI revokes researcher access to limited cyber programs. Independent evaluation transparency remains a critical industry friction."
+                "visual_caption": "OpenAI expanded its \"Daybreak\" cyber defense initiative, noting a narrowing cyber defense window due to increasing AI threats. Regulatory bodies must establish clear guidelines for AI model security, risk assessment, and incident response."
             },
             {
                 "slide_index": 8,
