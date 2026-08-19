@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PACING CYBER-CRITICAL AI MODEL DEV",
-                "teaserTitle": "SECURITY: OPENAI'S NEW HUGGING FACE SAFEGUARDS",
-                "visual_caption": "OpenAI set a new framework for pacing AI model development, addressing cyber-critical capabilities. This mitigates systemic risks and controls the deployment of destabilizing autonomous systems."
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER AI AMBITION",
+                "teaserTitle": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
+                "visual_caption": "OpenAI's GPT-5.6 now scales frontier AI ambition, establishing new multimodal reasoning benchmarks. This advancement pushes current compute infrastructure, demanding optimized resource allocation for strategic leverage."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: OPENAI'S NEW HUGGING FACE SAFEGUARDS",
-                "teaserTitle": "MODELS: GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI instituted new safeguards after a Hugging Face breach to protect models and user data. This reinforces the need for multi-layered security across the entire AI supply chain."
+                "headline": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "HARDWARE: DRAM PRICES SURGE 500%",
+                "visual_caption": "OpenAI's Daybreak initiative reveals a narrowing cyber defense window for AI systems. Proactive security measures are crucial against sophisticated threats targeting frontier models and data assets."
             },
             {
                 "slide_index": 3,
-                "headline": "MODELS: GOOGLE DEEPMIND'S GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: CEREBRAS UNVEILS CS-4 PROCESSOR",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, an efficient model for coding and agents. This lowers computational overhead for complex workflows, accelerating automation with improved economic viability."
+                "headline": "HARDWARE: DRAM PRICES SURGE 500%",
+                "teaserTitle": "MLOPS: AI USAGE PATTERNS EMERGE",
+                "visual_caption": "DRAM memory prices have surged 500% over the past 12 months, bottlenecking AI training clusters. This impacts compute infrastructure costs, influencing operational budgets and development timelines significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: CEREBRAS UNVEILS CS-4 PROCESSOR",
-                "teaserTitle": "RESEARCH: AI'S RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "visual_caption": "Cerebras introduced the CS-4 processor, designed for unparalleled single-chip AI compute performance. This hardware addresses scaling limitations, significantly reducing training times and energy consumption for massive models."
+                "headline": "MLOPS: AI USAGE PATTERNS EMERGE",
+                "teaserTitle": "MODELS: STARTUP BREAKS LLM BOTTLENECK",
+                "visual_caption": "New analysis reveals AI usage patterns in software development teams, highlighting both productivity gains and emerging workflow integration challenges. This data offers crucial insights for optimizing MLOps strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: AI'S RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "teaserTitle": "DEVELOPER TOOLS: CURSOR LAUNCHES GITHUB RIVAL",
-                "visual_caption": "Research suggests AI's recursive self-improvement may not advance as quickly as thought, lacking genuine creativity. This implies human oversight remains critical for breakthroughs, influencing R&D strategies and talent acquisition."
+                "headline": "MODELS: STARTUP BREAKS LLM BOTTLENECK",
+                "teaserTitle": "RISK: LLMS STRIKINGLY VULNERABLE TO ATTACK",
+                "visual_caption": "A new startup claims to have broken a fundamental bottleneck hindering large language models, promising significant efficiency gains. This development could disrupt existing model architectures and accelerate deployment cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "DEVELOPER TOOLS: CURSOR LAUNCHES GITHUB RIVAL",
-                "teaserTitle": "CYBERSECURITY: OPENAI'S THE DEFENDER'S WINDOW",
-                "visual_caption": "Cursor launched Origin, a GitHub rival with AI-powered developer workflows and advanced code management. This competitive platform offers potential productivity gains, but organizations must weigh data migration and vendor lock-in risks."
+                "headline": "RISK: LLMS STRIKINGLY VULNERABLE TO ATTACK",
+                "teaserTitle": "INFRASTRUCTURE: ETCHED HITS $21B VALUATION",
+                "visual_caption": "Research exposes a fundamental flaw leaving large language models vulnerable to adversarial attacks, risking harmful or unintended outputs. AI security teams must prioritize robust defense mechanisms and continuous monitoring."
             },
             {
                 "slide_index": 7,
-                "headline": "CYBERSECURITY: OPENAI'S THE DEFENDER'S WINDOW",
+                "headline": "INFRASTRUCTURE: ETCHED HITS $21B VALUATION",
                 "teaserTitle": "",
-                "visual_caption": "OpenAI published 'The Defender\u2019s Window,' outlining cyber defense strategies for complex AI systems. This guidance helps AI security teams fortify digital perimeters against sophisticated attacks and maintain operational integrity."
+                "visual_caption": "AI chip startup Etched has seen its valuation double to $21B in one month, reflecting strong investor confidence. This signals a maturing hardware ecosystem critical for optimal compute efficiency."
             },
             {
                 "slide_index": 8,
