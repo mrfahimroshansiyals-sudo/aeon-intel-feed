@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI FORTIFIES TEEN AI SAFETY",
+        "hookTitle": "FRONTIER AI MODEL RELEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: CHATGPT TEEN SAFETY PROTECTIONS",
-                "teaserTitle": "OPENAI: POST-BREACH SECURITY UPGRADES",
+                "headline": "OPENAI: GPT-5.6: FRONTIER MODEL RELEASE",
+                "teaserTitle": "NVIDIA: CHINA CHIP EXPORT LOOPHOLE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has introduced new robust safety features for ChatGPT, specifically designed for users under eighteen years of age. This initiative addresses ethical deployment and privacy concerns, influencing broader regulatory frameworks for artificial intelligence applications."
+                "narration_line": "OpenAI has unveiled GPT-5.6, setting new benchmarks in multimodal reasoning and efficient task execution for enterprise deployments. AI architects must now re-evaluate their strategies, considering migration costs and potential productivity enhancements."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: POST-BREACH SECURITY UPGRADES",
-                "teaserTitle": "ROBOTICS: UNITREE 542% MARKET DEBUT",
+                "headline": "NVIDIA: CHINA CHIP EXPORT LOOPHOLE",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH: AGENTIC AI CAPABILITIES",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI rapidly deployed new security safeguards following the recent Hugging Face data breach, tightening API credentials and data access protocols. These critical updates aim to fortify the entire artificial intelligence ecosystem against emerging cyber threats and ensure model integrity."
+                "narration_line": "NVIDIA\u2019s advanced AI chips are reportedly bypassing U.S. export bans to China through modified variants, challenging compliance. CTOs must diversify hardware sourcing and monitor geopolitical tensions to safeguard their AI pipelines."
             },
             {
                 "slide_index": 3,
-                "headline": "ROBOTICS: UNITREE 542% MARKET DEBUT",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH: AGENTIC AI CAPABILITIES",
+                "teaserTitle": "MIT TECH REVIEW: LLM SECURITY: CRITICAL VULNERABILITY FLAW",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "China's Unitree, a leading robotics company, saw its shares surge by over five hundred forty percent in its Shanghai debut. This significant market enthusiasm highlights the accelerating demand and innovation in physical artificial intelligence, especially for agile humanoids."
+                "narration_line": "Google DeepMind released Gemini 3.7 Flash, an enhanced agentic AI model for faster, more efficient multi-step task execution. This offers enterprises a strategic opportunity to accelerate automation and optimize resource allocation for agent-based systems."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
-                "teaserTitle": "ECONOMICS: AI LABOR MARKET IMPACT",
+                "headline": "MIT TECH REVIEW: LLM SECURITY: CRITICAL VULNERABILITY FLAW",
+                "teaserTitle": "HACKER NEWS: SILICON PHOTONICS: NEW PROGRAMMING LANGUAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind's WeatherNext model achieved a major breakthrough, precisely forecasting cyclone trajectories and intensity. This advancement will provide earlier, more accurate warnings, drastically improving disaster preparedness and climate resilience efforts globally."
+                "narration_line": "Researchers discovered a fundamental flaw making large language models vulnerable to adversarial attacks like prompt injection. This demands immediate attention from developers to prevent data breaches and reputational damage."
             },
             {
                 "slide_index": 5,
-                "headline": "ECONOMICS: AI LABOR MARKET IMPACT",
-                "teaserTitle": "DEVTOOLS: CURSOR RIVAL HOSTING LAUNCH",
+                "headline": "HACKER NEWS: SILICON PHOTONICS: NEW PROGRAMMING LANGUAGE",
+                "teaserTitle": "HACKER NEWS: MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new Goldman Sachs study reveals artificial intelligence is significantly reshaping global labor markets, with specific sectors facing automation. This analysis guides executives in optimizing workforce strategies and managing talent transitions effectively for the evolving economy."
+                "narration_line": "A new programming language, `\u03bb\u03bb`, designed for silicon photonics, aims to streamline optical AI accelerator development. This signals an architectural shift, compelling companies to explore it for competitive compute efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "DEVTOOLS: CURSOR RIVAL HOSTING LAUNCH",
-                "teaserTitle": "AGENTIC AI: CLAUDE DRIVER GENERATION",
+                "headline": "HACKER NEWS: MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "teaserTitle": "OPENAI: DAYBREAK: CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cursor launched a new artificial intelligence-first code hosting platform, directly challenging GitHub with optimized large language model integration. This platform aims to boost developer productivity and accelerate software delivery cycles by streamlining automated code generation."
+                "narration_line": "Modular has open-sourced Mojo, its high-performance AI programming language, offering Python compatibility with C/C++ speed. This presents an opportunity for engineering teams to optimize model performance and reduce operational costs."
             },
             {
                 "slide_index": 7,
-                "headline": "AGENTIC AI: CLAUDE DRIVER GENERATION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "OPENAI: DAYBREAK: CYBER DEFENSE EXPANSION",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic's Claude AI successfully generated a functional macOS driver for an obscure Windows-only HP printer, demonstrating advanced agentic programming capabilities. This real-world application underscores artificial intelligence's potential to automate complex software development and bridge system compatibility gaps."
+                "narration_line": "OpenAI is expanding Daybreak, its cyber defense initiative, integrating advanced AI to identify and neutralize sophisticated threats targeting AI infrastructure. CISOs must integrate these capabilities to fortify AI ecosystems against emergent risks."
             },
             {
                 "slide_index": 8,
