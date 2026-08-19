@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
-                "visual_caption": "OpenAI has improved GPT-5.6 Sol in ChatGPT and expanded Luna access for free users. This enhances model stability and broadens the user base for advanced generative AI applications."
+                "headline": "MICROSOFT: EXPANDING AZURE AI WITH AMD",
+                "teaserTitle": "EU PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "Microsoft expands Azure AI infrastructure using AMD hardware. This strategic integration diversifies cloud compute supply chains for enterprise customers."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
-                "teaserTitle": "MEMORY PRICES CLIMB 500% IN 12 MONTHS",
-                "visual_caption": "OpenAI instituted new safeguards after a security breach affecting Hugging Face. This fortifies AI systems against cyber threats, a critical concern for enterprise integration."
+                "headline": "REGULATION: EU PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HARDWARE: MEMORY PRICES CLIMB 500% IN 12 MONTHS",
+                "visual_caption": "The European Commission proposes a tech sovereignty package to boost regional autonomy. New rules aim to strengthen local semiconductor capacity and open-source ecosystems."
             },
             {
                 "slide_index": 3,
                 "headline": "HARDWARE: MEMORY PRICES CLIMB 500% IN 12 MONTHS",
-                "teaserTitle": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
-                "visual_caption": "Memory prices have escalated by 500% over the past 12 months. This creates a critical bottleneck in AI hardware procurement, impacting large-scale compute clusters."
+                "teaserTitle": "IEEE: AGENTIC AI FUELS CPU COMEBACK",
+                "visual_caption": "High-bandwidth memory prices have climbed 500% over 12 months. The severe cost surge creates a major procurement bottleneck for artificial intelligence hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH: ETCHED VALUATION DOUBLES TO $21B",
-                "teaserTitle": "ANTHROPIC: CLAUDE'S HIDDEN CONCEPT SPACE",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Etched, an AI hardware startup, has seen its valuation double to $21B in one month. This signals robust investor confidence in specialized silicon solutions."
+                "headline": "IEEE: AGENTIC AI FUELS CPU COMEBACK",
+                "teaserTitle": "SECURITY: CROOKS TARGET LLM HALLUCINATIONS",
+                "visual_caption": "Agentic artificial intelligence workloads have turned CPUs into a new performance bottleneck. System architects must rebalance heterogeneous clusters for multi-step agent execution."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: CLAUDE'S HIDDEN CONCEPT SPACE",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "visual_caption": "Anthropic discovered a 'hidden concept space' in Claude's internal workings. This breakthrough provides unprecedented insight into how large language models organize abstract ideas."
+                "headline": "SECURITY: CROOKS TARGET LLM HALLUCINATIONS",
+                "teaserTitle": "MARKET: UNITREE POPS 542% IN SHANGHAI DEBUT",
+                "visual_caption": "Cybercriminals are exploiting large language model hallucinations by registering fake website URLs. Security teams must deploy strict validation layers to prevent phishing attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
-                "teaserTitle": "ARTIFICIAL ANALYSIS: GLM-5.3 BENCHMARKS",
-                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones with unprecedented accuracy. This significantly improves early warning capabilities for extreme weather events."
+                "headline": "MARKET: UNITREE POPS 542% IN SHANGHAI DEBUT",
+                "teaserTitle": "PAPERSWITHCODE: HARNESSEVAL-W VISUAL AGENTS",
+                "visual_caption": "Robotics developer Unitree surged 542% in its Shanghai market debut. The massive valuation leap highlights surging investor demand for embodied artificial intelligence hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "ARTIFICIAL ANALYSIS: GLM-5.3 BENCHMARKS",
+                "headline": "PAPERSWITHCODE: HARNESSEVAL-W VISUAL AGENTS",
                 "teaserTitle": "",
-                "visual_caption": "Artificial Analysis released detailed benchmarks for GLM-5.3, revealing its performance across enterprise-grade tasks. The report highlights enhanced throughput and reduced latency for demanding AI applications."
+                "visual_caption": "Researchers introduced HarnessEval-W to decompose world model evaluations using sub-agents. The framework provides transparent reasoning chains for spatial computing tasks."
             },
             {
                 "slide_index": 8,
