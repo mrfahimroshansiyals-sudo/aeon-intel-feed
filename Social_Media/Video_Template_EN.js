@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL MEMORY PRICES SURGE 500%",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HACKER NEWS: MEMORY PRICES CLIMB 500%",
-                "teaserTitle": "STARTUP BREAKS LLM BOTTLENECK",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global memory chip prices have increased by five hundred percent over the last twelve months, severely constraining compute infrastructure expansion. This surge forces enterprises to re-evaluate budgets and optimize existing deployments for greater memory efficiency."
+                "narration_line": "OpenAI has released its GPT-5.6 frontier intelligence model, designed for advanced enterprise tasks and dynamic environments. This model enhances reasoning and data efficiency, impacting next-generation AI deployments and requiring re-evaluation of current model strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "MIT TECHNOLOGY REVIEW: STARTUP BREAKS LLM BOTTLENECK",
-                "teaserTitle": "OPENAI: CYBER-CRITICAL MODEL PACING",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "A new startup claims a significant architectural breakthrough, resolving a core bottleneck limiting large language model scalability. This innovation offers reduced training costs and accelerated deployment cycles for enterprise LLMs."
+                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an efficient workhorse model for coding and autonomous agents with speed and cost improvements. This launch demands strategic review of existing AI frameworks and potential shifts towards multi-model orchestration for agile deployment."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: CYBER-CRITICAL MODEL PACING",
-                "teaserTitle": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "CEREBRAS: CS4 AI HARDWARE PLATFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is pacing model development to balance rapid advancement with robust cyber defense capabilities. This addresses growing concerns over model misuse and expanding AI attack surfaces."
+                "narration_line": "OpenAI is expanding Daybreak, its cyber defense initiative, to secure AI systems against emerging threats as the attack surface narrows. This signifies an imperative to integrate advanced cyber defenses into the AI development lifecycle, moving beyond reactive measures."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH: OPENAI HUGGING FACE SAFEGUARDS",
-                "teaserTitle": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
+                "headline": "CEREBRAS: CS4 AI HARDWARE PLATFORM",
+                "teaserTitle": "MACHINE0: PERSISTENT CPU/GPU VMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI implemented enhanced safeguards after a reported breach impacting Hugging Face, tightening data access and API security. This underscores the urgent need for developers to scrutinize third-party platform integrations."
+                "narration_line": "Cerebras announced its CS4 AI hardware platform, featuring advancements in wafer-scale computing for large model training and low-latency inference. This offers opportunities for unparalleled performance gains and compute efficiency, reducing training times and inference costs."
             },
             {
                 "slide_index": 5,
-                "headline": "HACKER NEWS: GLM-5.3 ANALYSIS BENCHMARKS",
-                "teaserTitle": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
+                "headline": "MACHINE0: PERSISTENT CPU/GPU VMS",
+                "teaserTitle": "OPENAI: CHATGPT FOR TEENS SAFETY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New benchmarks for GLM-five point three reveal significant performance gains across complex reasoning tasks. This indicates improved capacity for handling intricate, multi-step problem-solving in scientific applications."
+                "narration_line": "Machine0 launched persistent CPU and GPU virtual machines accessible via command line, streamlining MLOps workflows with robust and customizable compute environments. This provides architectural advantages for granular control and uninterrupted access for critical AI tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: FX TINY CODING AGENT RELEASE",
-                "teaserTitle": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "headline": "OPENAI: CHATGPT FOR TEENS SAFETY",
+                "teaserTitle": "LINEAR: AI USAGE PATTERNS IN SOFTWARE TEAMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The new open-source \"fx\" project released a tiny, native coding agent emphasizing extreme efficiency and low resource footprint. This tool automates repetitive coding tasks with minimal latency on local machines."
+                "narration_line": "OpenAI rolled out ChatGPT for teens, incorporating stronger built-in safety protections and age-appropriate content filters. This initiative expands AI accessibility responsibly, setting a precedent for ethical AI deployment and user-segment-specific safety frameworks."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECHNOLOGY REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "headline": "LINEAR: AI USAGE PATTERNS IN SOFTWARE TEAMS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Analysis indicates AI recursive self-improvement might not materialize as rapidly as projected due to limitations in genuine creative research. Human oversight will remain critical for high-level AI research and development."
+                "narration_line": "Linear's analysis shows AI usage patterns in software teams, revealing growing adoption for code generation and project management. This highlights a shift in development workflows, demanding strategies for human-AI collaboration and new governance frameworks for quality and security."
             },
             {
                 "slide_index": 8,
