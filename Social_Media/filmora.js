@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
-                "teaserTitle": "GOLDMAN SACHS: AI IMPACT ON LABOR MARKETS",
-                "visual_caption": "OpenAI launched GPT-5.6, its latest frontier intelligence model for ambitious enterprise deployments. This model offers enhanced capabilities for complex problem-solving and multi-modal reasoning."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, boosting coding and agent task performance. It achieves 30% faster inference and 20% lower compute cost for real-time applications."
             },
             {
                 "slide_index": 2,
-                "headline": "GOLDMAN SACHS: AI IMPACT ON LABOR MARKETS",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
-                "visual_caption": "Goldman Sachs' analysis reveals significant shifts in labor markets due to AI adoption across global industries. The study identifies sectors with both new job roles and displaced positions."
+                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "teaserTitle": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
+                "visual_caption": "Modular open-sources Mojo, bridging AI development's performance gap. It achieves C++ speeds for ML workloads with Python's ease of use."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
-                "visual_caption": "OpenAI highlights a narrowing cyber defense window in AI systems, urging proactive security measures against sophisticated threats. New threat vectors are emerging from adversarial AI and nation-state actors."
+                "headline": "CEREBRAS: CS-4 WAFER SCALE ENGINE LAUNCH",
+                "teaserTitle": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
+                "visual_caption": "Cerebras launches CS-4 Wafer Scale Engine, featuring 2.6T transistors and 900K AI cores. It dramatically accelerates multi-billion parameter model training, bypassing GPU bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
-                "teaserTitle": "MIT TECH REVIEW: ANTHROPIC CLAUDE INTERPRETABILITY",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting accuracy and lead time. This uses novel neural network architectures for efficient meteorological data processing."
+                "headline": "OPENAI: HUGGING FACE BREACH SAFEGUARDS",
+                "teaserTitle": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
+                "visual_caption": "OpenAI implements new safeguards after Hugging Face breach, reinforcing API security. This targets third-party integration vulnerabilities, critical attack vectors for AI systems."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECH REVIEW: ANTHROPIC CLAUDE INTERPRETABILITY",
-                "teaserTitle": "HUGGING FACE: LIGHTRICKS LTX-2.5 MODEL UPDATE",
-                "visual_caption": "MIT Technology Review reports Anthropic found a \"hidden space\" in Claude where concepts are processed, offering insights into AI interpretability. This research moves beyond opaque black-box models towards explainable outputs."
+                "headline": "ACM: PHOTONICS PROGRAMMING LANGUAGE",
+                "teaserTitle": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
+                "visual_caption": "ACM highlights '\u03bb\u03bb', a new programming language for silicon photonics. It revolutionizes high-speed data transfer in AI accelerators, overcoming electron-based data limits."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: LIGHTRICKS LTX-2.5 MODEL UPDATE",
-                "teaserTitle": "CNBC: OPENAI CHATGPT FOR TEENS SAFETY",
-                "visual_caption": "Hugging Face spotlights Lightricks' LTX-2.5 model update, introducing significant performance improvements for creative AI applications. This includes advanced image and video generation capabilities."
+                "headline": "CURSOR: GITHUB RIVAL HOSTING PLATFORM",
+                "teaserTitle": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "AI Cursor launches a GitHub rival hosting platform for AI development workflows. It offers enhanced AI-native collaboration tools to streamline model deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "CNBC: OPENAI CHATGPT FOR TEENS SAFETY",
+                "headline": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT DOUBTS",
                 "teaserTitle": "",
-                "visual_caption": "CNBC reports OpenAI rolled out ChatGPT for teenagers with stronger built-in safety protections and content filters. This product expansion addresses critical concerns for younger demographics and regulatory compliance."
+                "visual_caption": "MIT Tech Review suggests AI's recursive self-improvement may not be swift. Limitations in AI agent creativity temper expectations for rapid autonomous superintelligence."
             },
             {
                 "slide_index": 8,
