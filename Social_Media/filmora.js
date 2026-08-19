@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE",
-                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
-                "visual_caption": "OpenAI appoints Dali Rajic as CRO to scale global sales. This strategic addition accelerates enterprise monetization and commercial deployment."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "ANTHROPIC: OPUS 5 UNLEASHES ADVANCED AGENTS",
+                "visual_caption": "Google has launched Gemini 3.7 Flash as an elite workhorse model for coding. The architecture maximizes intelligence-per-parameter to slash latency across developer pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
-                "teaserTitle": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
-                "visual_caption": "OpenAI addresses the balance between rapid model deployment and cyber threat management. Stricter evaluation protocols mitigate security vulnerabilities."
+                "headline": "ANTHROPIC: OPUS 5 UNLEASHES ADVANCED AGENTS",
+                "teaserTitle": "GITHUB: ONECLI LAUNCHES SANDBOXED HARNESS",
+                "visual_caption": "Anthropic has unveiled Opus 5 with enhanced coding performance and autonomous agent capabilities. Enterprise engineering teams gain a robust foundation for multi-step software execution."
             },
             {
                 "slide_index": 3,
-                "headline": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
-                "teaserTitle": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
-                "visual_caption": "Researchers unveil a 150M parameter reasoning model utilizing recurrent latent structures. This architecture establishes a new cost-accuracy frontier."
+                "headline": "GITHUB: ONECLI LAUNCHES SANDBOXED HARNESS",
+                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "visual_caption": "OneCLI has launched an open-source sandboxed agent harness for collaborative teams. The platform secures execution boundaries for deploying autonomous agents safely inside live codebases."
             },
             {
                 "slide_index": 4,
-                "headline": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
-                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
-                "visual_caption": "MirroS introduces HarnessEval-W to verify world-model outputs using hierarchical sub-agents. The system generates transparent reasoning chains."
+                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION",
+                "visual_caption": "Microsoft has published its FY26 review on enterprise frontier transformation. Organizations are shifting from pilot phases to mandatory infrastructure overhauls."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
-                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
-                "visual_caption": "Microsoft reviews FY26, highlighting a shift toward enterprise frontier transformation. Global deployments show measurable productivity returns."
+                "headline": "NIST: JOINING NATIONAL GENESIS MISSION",
+                "teaserTitle": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "NIST has joined the National Genesis Mission to advance AI measurement science. The collaboration establishes rigorous cryptographic safeguards for critical technology."
             },
             {
                 "slide_index": 6,
-                "headline": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
-                "teaserTitle": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
-                "visual_caption": "NIST joins the National Genesis Mission to accelerate AI innovation and safety standards. The collaboration establishes rigorous measurement science."
+                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "MIRROS: HARNESSEVAL-W AGENTIFIES EVALUATION",
+                "visual_caption": "The European Commission has introduced the Technological Sovereignty Package. New transparency rules and EU AI Act enforcement demand strict enterprise compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
+                "headline": "MIRROS: HARNESSEVAL-W AGENTIFIES EVALUATION",
                 "teaserTitle": "",
-                "visual_caption": "OneCLI launches an OSS sandboxed agent harness for collaborative development teams. The platform provides secure execution boundaries."
+                "visual_caption": "MirroS has unveiled HarnessEval-W for evaluating visual world models. Hierarchical sub-agents generate auditable reasoning chains to verify simulation performance."
             },
             {
                 "slide_index": 8,

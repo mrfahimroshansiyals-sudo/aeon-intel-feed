@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI APPOINTS DALI RAJIC AS CHIEF REVENUE OFFICER",
+        "hookTitle": "GOOGLE GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE",
-                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
+                "headline": "GOOGLE: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "ANTHROPIC: OPUS 5 UNLEASHES ADVANCED AGENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI appoints Dali Rajic as Chief Revenue Officer to scale global sales operations. This strategic addition accelerates enterprise monetization and commercial deployment."
+                "narration_line": "Google has launched Gemini three point seven Flash as an ultra efficient workhorse model for coding. The architecture maximizes intelligence per parameter to slash operational latency across developer pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: PACING MODEL DEVELOPMENT AMID CYBER THREATS",
-                "teaserTitle": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
+                "headline": "ANTHROPIC: OPUS 5 UNLEASHES ADVANCED AGENTS",
+                "teaserTitle": "GITHUB: ONECLI LAUNCHES SANDBOXED HARNESS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI addresses the balance between rapid model deployment and cyber threat management. Stricter evaluation protocols mitigate security vulnerabilities before public releases."
+                "narration_line": "Anthropic has unveiled Opus five with enhanced coding performance and autonomous agent capabilities. Enterprise engineering teams gain a robust foundation for multi step software execution."
             },
             {
                 "slide_index": 3,
-                "headline": "PATHWAY: BDH-CQ REWRITES RECURRENT LATENT REASONING",
-                "teaserTitle": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
+                "headline": "GITHUB: ONECLI LAUNCHES SANDBOXED HARNESS",
+                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Researchers unveil a one hundred fifty million parameter reasoning model utilizing recurrent latent structures. This architecture establishes a new cost accuracy frontier on complex tasks."
+                "narration_line": "OneCLI has launched an open source sandboxed agent harness for collaborative teams. The platform secures execution boundaries for deploying autonomous agents safely inside live codebases."
             },
             {
                 "slide_index": 4,
-                "headline": "MIRROS: HARNESSEVAL-W DECOMPOSES WORLD MODELS",
-                "teaserTitle": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
+                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "MirroS introduces HarnessEval-W to verify world model outputs using hierarchical sub-agents. The system generates transparent reasoning chains to justify performance scores."
+                "narration_line": "Microsoft has published its fiscal year twenty six review on enterprise frontier transformation. Organizations are shifting from pilot phases to mandatory infrastructure overhauls."
             },
             {
                 "slide_index": 5,
-                "headline": "MICROSOFT: FY26 FRONTIER TRANSFORMATION REVIEW",
-                "teaserTitle": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
+                "headline": "NIST: JOINING NATIONAL GENESIS MISSION",
+                "teaserTitle": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Microsoft reviews fiscal year twenty twenty six, highlighting a shift toward enterprise frontier transformation. Global deployments show measurable productivity returns across industries."
+                "narration_line": "NIST has joined the National Genesis Mission to advance artificial intelligence measurement science. The collaboration establishes rigorous cryptographic safeguards for critical technology."
             },
             {
                 "slide_index": 6,
-                "headline": "NIST: JOINING NATIONAL GENESIS MISSION FOR AI",
-                "teaserTitle": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
+                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "MIRROS: HARNESSEVAL-W AGENTIFIES EVALUATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "NIST joins the National Genesis Mission to accelerate artificial intelligence innovation and safety standards. The collaboration establishes rigorous measurement science and benchmarks."
+                "narration_line": "The European Commission has introduced the Technological Sovereignty Package. New transparency rules and AI Act enforcement demand strict enterprise compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "GITHUB: ONECLI LAUNCHES OSS AGENT HARNESS",
+                "headline": "MIRROS: HARNESSEVAL-W AGENTIFIES EVALUATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OneCLI launches an open source sandboxed agent harness for collaborative development teams. The platform provides secure execution boundaries for autonomous coding agents."
+                "narration_line": "MirroS has unveiled HarnessEval-W for evaluating visual world models. Hierarchical sub agents generate auditable reasoning chains to verify simulation performance."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
