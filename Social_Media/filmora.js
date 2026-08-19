@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: SAFEGUARDS AFTER HUGGING FACE BREACH",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
-                "visual_caption": "OpenAI implements new safeguards after a Hugging Face breach, boosting API key protection and token management. This mitigates data exfiltration risks and reinforces AI platform integrity."
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "OpenAI enhances Daybreak cyber defense to counter advanced AI threats. This critical update protects large-scale model deployments, demanding immediate evaluation of defense postures."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
-                "teaserTitle": "ECONOMICS: AI INFLUENCES HIGHER YIELD RATES",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT, expanding free access to GPT-5.6 Luna. This targets broader adoption and diversified model utility for increased platform efficiency."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a new workhorse model for enhanced coding and agentic operations. This iteration focuses on superior efficiency and speed for complex AI system development."
             },
             {
                 "slide_index": 3,
-                "headline": "ECONOMICS: AI INFLUENCES HIGHER YIELD RATES",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECAST BREAKTHROUGH",
-                "visual_caption": "AI's accelerated investment and energy demands now directly influence higher Treasury yields. This highlights AI's systemic impact on global financial markets and resource allocation."
+                "headline": "HUGGING FACE: QWEN3.8-27B-GGUF MODEL UPDATE",
+                "teaserTitle": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "visual_caption": "Hugging Face updated unsloth/Qwen3.8-27B-GGUF model for efficient deployment. This optimization reduces memory footprint, improves execution speed on consumer hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECAST BREAKTHROUGH",
-                "teaserTitle": "HARDWARE: CEREBRAS CS-4 ACCELERATES AI TRAINING",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "DeepMind's WeatherNext AI achieves a breakthrough in cyclone forecasting accuracy. This innovation promises more precise, timely alerts for extreme weather events."
+                "headline": "MODULAR: MOJO LANGUAGE GOES OPEN-SOURCE",
+                "teaserTitle": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
+                "visual_caption": "Modular open-sourced Mojo, a high-performance language bridging Python's usability with C++ speed for AI development. This accelerates model creation with native hardware integration."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: CEREBRAS CS-4 ACCELERATES AI TRAINING",
-                "teaserTitle": "ETHICS: AVOID \"AI AGENTS AS COWORKERS\" PITFALL",
-                "visual_caption": "Cerebras unveils its CS-4 Wafer-Scale Engine, an AI accelerator slashing large model training times. It directly addresses compute scaling bottlenecks for advanced AI."
+                "headline": "TECHCRUNCH: CURSOR.IO LAUNCHES RIVAL HOSTING",
+                "teaserTitle": "CNBC: NVIDIA AI DATA CENTER BOOM",
+                "visual_caption": "Cursor.io launched a rival hosting platform to GitHub, offering AI-native features for collaborative code development. This aims to streamline workflows for complex AI projects."
             },
             {
                 "slide_index": 6,
-                "headline": "ETHICS: AVOID \"AI AGENTS AS COWORKERS\" PITFALL",
-                "teaserTitle": "INFRASTRUCTURE: RELATIVITY NETWORKS' $22M FIBER",
-                "visual_caption": "MIT Tech Review warns against calling AI agents \"coworkers\" due to risks of human accountability loss. This highlights operational friction from misaligned human-AI collaboration."
+                "headline": "CNBC: NVIDIA AI DATA CENTER BOOM",
+                "teaserTitle": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
+                "visual_caption": "NVIDIA facilitates major AI data center deals in Nordics, meeting surging compute demand. This strategic expansion establishes critical hubs for large-scale AI model training."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: RELATIVITY NETWORKS' $22M FIBER",
+                "headline": "TECHCRUNCH: AI IN CANCER RESEARCH STARTUP",
                 "teaserTitle": "",
-                "visual_caption": "Relativity Networks raised $22M for specialized fiber optics to enhance AI data center data transfer. This targets faster, more efficient data movement for distributed AI workloads."
+                "visual_caption": "A new startup leverages advanced AI in cancer research, claiming a unique approach for drug discovery and personalized treatment. This aims to overcome AI's clinical impact limitations."
             },
             {
                 "slide_index": 8,
