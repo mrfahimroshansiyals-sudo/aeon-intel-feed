@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "NVIDIA CHINA CHIP LOOPHOLE",
-                "visual_caption": "OpenAI enhanced GPT-5.6 Sol & expanded GPT-5.6 Luna access for free users, boosting model capabilities. This move escalates competitive pressure on enterprise AI providers, requiring a re-evaluation of pricing & feature offerings."
+                "headline": "OPENAI: CHATGPT TEEN SAFETY PROTECTIONS",
+                "teaserTitle": "OPENAI: POST-BREACH SECURITY UPGRADES",
+                "visual_caption": "OpenAI rolled out new safety for ChatGPT users under 18, with enhanced content moderation. This impacts ethical AI deployment and regulatory compliance for youth-focused services."
             },
             {
                 "slide_index": 2,
-                "headline": "CNBC: NVIDIA CHINA CHIP LOOPHOLE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "visual_caption": "Reports indicate the U.S. ban on Nvidia's advanced AI chips for China is bypassed via new export loopholes. This creates substantial supply chain & compliance risks for AI hardware companies."
+                "headline": "OPENAI: POST-BREACH SECURITY UPGRADES",
+                "teaserTitle": "ROBOTICS: UNITREE 542% MARKET DEBUT",
+                "visual_caption": "OpenAI implemented new security safeguards after a Hugging Face breach, strengthening API credentials. This fortifies the AI ecosystem against threats and ensures model integrity."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "MODULAR: MOJO LANGUAGE OPEN-SOURCE",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, an efficient workhorse model for coding & agentic applications. This deployment impacts developer choices & infrastructure investments, optimizing AI project costs."
+                "headline": "ROBOTICS: UNITREE 542% MARKET DEBUT",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "visual_caption": "China's Unitree robotics saw a 542% market debut surge, signaling investor confidence. This highlights accelerating innovation in physical AI and industrial automation."
             },
             {
                 "slide_index": 4,
-                "headline": "MODULAR: MOJO LANGUAGE OPEN-SOURCE",
-                "teaserTitle": "RELATIVITY NETWORKS: FIBER INFRASTRUCTURE",
-                "visual_caption": "Modular's Mojo language, now open-source with Qualcomm backing, offers a high-performance programming solution for AI. This empowers teams to optimize AI pipelines, reducing compute costs & improving inference times."
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "ECONOMICS: AI LABOR MARKET IMPACT",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones. This provides earlier, more precise warnings for disaster preparedness and climate resilience."
             },
             {
                 "slide_index": 5,
-                "headline": "RELATIVITY NETWORKS: FIBER INFRASTRUCTURE",
-                "teaserTitle": "CEREBRAS: CS-4 AI CHIP DEBUT",
-                "visual_caption": "Relativity Networks raised $22M for faster fiber tech, targeting enhanced data center connectivity. This critical investment for AI infrastructure can lower data transfer costs & boost AI service responsiveness."
+                "headline": "ECONOMICS: AI LABOR MARKET IMPACT",
+                "teaserTitle": "DEVTOOLS: CURSOR RIVAL HOSTING LAUNCH",
+                "visual_caption": "Goldman Sachs revealed AI is impacting labor markets, with sectors facing automation. This guides executives on workforce transitions and talent strategies in the AI economy."
             },
             {
                 "slide_index": 6,
-                "headline": "CEREBRAS: CS-4 AI CHIP DEBUT",
-                "teaserTitle": "MIT TECH REVIEW: CHILD APP ETHICS",
-                "visual_caption": "Cerebras debuted its CS-4 AI chip, featuring advanced processing for extreme-scale AI training, addressing compute bottlenecks. Investing in specialized AI silicon reduces training times & energy consumption."
+                "headline": "DEVTOOLS: CURSOR RIVAL HOSTING LAUNCH",
+                "teaserTitle": "AGENTIC AI: CLAUDE DRIVER GENERATION",
+                "visual_caption": "Cursor launched an AI-first code hosting platform, challenging GitHub directly. This boosts developer productivity via LLM integration and automated code generation."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: CHILD APP ETHICS",
+                "headline": "AGENTIC AI: CLAUDE DRIVER GENERATION",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "MIT Tech Review highlights the need for a 'reboot' in child-monitoring apps due to ethical and privacy concerns. This signals critical regulatory & reputational risks for AI applications targeting minors."
+                "visual_caption": "Claude AI generated a macOS driver for a Windows-only HP printer, demonstrating agentic capabilities. This shows AI's potential for legacy system integration and custom dev."
             },
             {
                 "slide_index": 8,
