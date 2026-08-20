@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 FRONTIER INTELLIGENCE",
+        "hookTitle": "QWEN OPTIMIZATION FOR EDGE DEPLOYMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: OPENAI GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
+                "headline": "MODELS: QWEN OPTIMIZATION FOR EDGE DEPLOYMENT",
+                "teaserTitle": "SOFTWARE: MOJO PROGRAMMING LANGUAGE OPEN SOURCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, a new frontier intelligence model designed for complex enterprise ambition. This advancement demands robust deployment strategies and higher-capacity inference clusters for businesses."
+                "narration_line": "New Qwen models are now optimized for edge deployment using GGUF and FP8 formats, significantly reducing memory and boosting inference speed. This enhances efficiency and expands advanced LLM integration into mobile and IoT systems."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
-                "teaserTitle": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "headline": "SOFTWARE: MOJO PROGRAMMING LANGUAGE OPEN SOURCE",
+                "teaserTitle": "MODEL RELIABILITY: GROK GIBBERISH RESPONSES INCREASE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Fintech leader Ramp introduced \"Router,\" its AI model router, optimizing multi-model API calls for enterprises. CTOs must now consider dedicated routing layers to minimize inference expenses and maximize model performance."
+                "narration_line": "Mojo, a high-performance programming language for AI, has been open-sourced for wider community contribution. This aims to bridge Python's usability with C++ performance for AI workloads, accelerating development."
             },
             {
                 "slide_index": 3,
-                "headline": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
-                "teaserTitle": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "headline": "MODEL RELIABILITY: GROK GIBBERISH RESPONSES INCREASE",
+                "teaserTitle": "CONTENT: AI AUTHORSHIP DETECTED ON 1/3 OF WEBPAGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind released Gemini three point seven Flash, an efficient workhorse model for coding and agentic applications. This provides a highly optimized alternative for tasks requiring rapid execution and budget constraints."
+                "narration_line": "Grok is increasingly generating gibberish responses, raising serious concerns about its foundational stability and output reliability. This directly impacts user trust and necessitates stringent quality assurance for integrated AI systems."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "FINANCIALS: ALIBABA SHARES FALL ON AI SPENDING",
+                "headline": "CONTENT: AI AUTHORSHIP DETECTED ON 1/3 OF WEBPAGES",
+                "teaserTitle": "OPERATIONS: AI 'GATEKEEPING BOTS' CAUSE FRICTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI's \"Daybreak\" assessment highlights an escalating threat where advanced AI is weaponized by bad actors. Urgent investment in AI-driven threat intelligence and proactive security architectures is now essential."
+                "narration_line": "Over one-third of new webpages now show signs of AI authorship, signaling a massive proliferation of machine-generated content. This challenges content authenticity and demands new tools for verification and ethical attribution in digital strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCIALS: ALIBABA SHARES FALL 5% ON AI SPENDING",
-                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
+                "headline": "OPERATIONS: AI 'GATEKEEPING BOTS' CAUSE FRICTION",
+                "teaserTitle": "INFRASTRUCTURE: AI DATACENTER OUTRAGE ESCALATES",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "Alibaba Group's shares dropped five percent after reporting a seventy-five percent net income reduction due to AI investments. Executives must meticulously forecast return on investment and demonstrate clear monetization paths for AI initiatives."
+                "narration_line": "The rise of AI 'gatekeeping bots' in enterprise workflows is causing significant operational friction and user frustration. Organizations must balance AI efficiency with human accessibility to prevent bottlenecks and maintain effective communication."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
-                "teaserTitle": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
+                "headline": "INFRASTRUCTURE: AI DATACENTER OUTRAGE ESCALATES",
+                "teaserTitle": "APPLICATIONS: DEEPMIND DEPLOYS SIGN LANGUAGE AI",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "MIT Technology Review explores debates on AI recursive self-improvement, suggesting progress might be slower than anticipated. Leaders should prioritize incremental, human-in-the-loop AI development over speculative AGI timelines."
+                "narration_line": "Public outrage over AI datacenter environmental impact, including energy and water consumption, is escalating, influencing policy and elections. Companies must invest in sustainable solutions and transparently communicate efforts to mitigate regulatory risks."
             },
             {
                 "slide_index": 7,
-                "headline": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
+                "headline": "APPLICATIONS: DEEPMIND DEPLOYS SIGN LANGUAGE AI",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic released a new dataset for protein binder design, leveraging advanced AI for accelerated drug discovery. This opens new avenues for pharmaceutical and biotech firms, drastically reducing research and development cycles."
+                "narration_line": "Google DeepMind is deploying sign language AI directly to users, significantly advancing communication and accessibility for deaf and hard-of-hearing communities. This expands market segments and mandates inclusive design for broader tech adoption."
             },
             {
                 "slide_index": 8,
