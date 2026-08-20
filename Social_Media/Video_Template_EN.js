@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UPDATE",
+        "hookTitle": "FROM AI COPILOTS TO AGENT SWARMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "headline": "AI SYSTEMS: FROM AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "SECURITY: LLM FUNDAMENTAL VULNERABILITIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially unveiled its new GPT-5.6 frontier model, setting advanced benchmarks for reasoning and complex problem-solving. This release mandates an immediate architectural review to integrate its enhanced inference capacity efficiently."
+                "narration_line": "AMD envisions the next software engineering revolution shifting from AI copilots to agent swarms. This demands enterprises rethink current integration strategies for autonomous AI components."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
-                "teaserTitle": "OPEN-SOURCE: MOJO LANGUAGE GOES OPEN SOURCE",
+                "headline": "SECURITY: LLM FUNDAMENTAL VULNERABILITIES",
+                "teaserTitle": "COMPUTE: AGENTIC AI DRIVES CPU COMEBACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, a highly intelligent model optimized for coding and agentic applications. Enterprises must assess this new model for integration into development pipelines, aiming for improved efficiency and cost savings."
+                "narration_line": "A fundamental flaw makes large language models vulnerable to targeted adversarial attacks. This necessitates urgent investment in advanced defense mechanisms."
             },
             {
                 "slide_index": 3,
-                "headline": "OPEN-SOURCE: MOJO LANGUAGE GOES OPEN SOURCE",
-                "teaserTitle": "SECURITY: OPENAI DAYBREAK CYBER DEFENSE",
+                "headline": "COMPUTE: AGENTIC AI DRIVES CPU COMEBACK",
+                "teaserTitle": "EVALUATION: HARNESSEVAL-W AGENTIFIES ASSESSMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Modular has made Mojo open-source, providing a new programming language to unify AI development with high performance. This offers engineering teams a critical opportunity to optimize model deployment and achieve significant compute efficiency gains."
+                "narration_line": "Agentic AI systems are driving a CPU comeback, with traditional central processing units now a new performance bottleneck. This challenges prevailing GPU-centric compute strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "STRATEGY: PACING AI MODEL DEVELOPMENT",
+                "headline": "EVALUATION: HARNESSEVAL-W AGENTIFIES ASSESSMENT",
+                "teaserTitle": "REGULATORY: 1/3 WEB PAGES SHOW AI AUTHORSHIP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative, directly addressing the narrowing window for AI-driven threats. Organizations must evaluate their cybersecurity postures against these evolving risks, crucial for robust AI deployment protection."
+                "narration_line": "HarnessEval-W uses hierarchical sub-agents to decompose complex world-model evaluations into verifiable reasoning chains. This enhances interpretability and auditability for advanced models."
             },
             {
                 "slide_index": 5,
-                "headline": "STRATEGY: PACING AI MODEL DEVELOPMENT",
-                "teaserTitle": "EFFICIENCY: CLAUDE 5 OUTPUT REFINEMENT",
+                "headline": "REGULATORY: 1/3 WEB PAGES SHOW AI AUTHORSHIP",
+                "teaserTitle": "VERIFICATION: AI VERIFIES TOUGHEST MATH PROOF",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "OpenAI and Microsoft are advocating for careful pacing in AI model development, especially with increasing cyber risks and regulatory scrutiny. This strategic shift impacts development roadmaps, demanding a balance between innovation speed and strong compliance."
+                "narration_line": "One-third of web pages since ChatGPT's launch show signs of AI authorship, raising concerns about content authenticity. Businesses must implement robust AI detection to comply."
             },
             {
                 "slide_index": 6,
-                "headline": "EFFICIENCY: CLAUDE 5 OUTPUT REFINEMENT",
-                "teaserTitle": "FINANCE: WALL STREET AI BOND BOOM",
+                "headline": "VERIFICATION: AI VERIFIES TOUGHEST MATH PROOF",
+                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE ESCALATES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New techniques are emerging to refine Claude 5's token output using a separate Large Language Model, improving generation quality and reducing gibberish. This architectural approach can boost reliability and cost-effectiveness for production AI systems."
+                "narration_line": "AI has successfully verified the toughest mathematics proof to date, enhancing the rigor of complex computational tasks. This breakthrough aids automated verification for AI-generated code."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: WALL STREET AI BOND BOOM",
+                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE ESCALATES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Wall Street is seeing a surge in high-yielding AI bonds, reflecting strong investor confidence in the sector's growth and profitability. This financial trend impacts corporate financing strategies and the overall valuation of AI-centric companies."
+                "naration_line": "Public outrage over AI data center impacts is escalating, appearing in ads and elections. Hyperscalers face operational challenges planning new compute infrastructure."
             },
             {
                 "slide_index": 8,
