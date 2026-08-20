@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "STRIPE: ACQUIRES OPENROUTER FOR AI EXPANSION",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "visual_caption": "Stripe acquired AI gateway startup OpenRouter, integrating advanced AI model routing into its financial infrastructure. This strategic move streamlines access for developers using diverse LLMs through a unified API."
+                "headline": "SECURITY: US WATER SYSTEMS TARGETED BY AI-AIDED HACKERS",
+                "teaserTitle": "CYBERSECURITY: AI DATA GIANT ALATION CONFIRMS ATTACK",
+                "visual_caption": "US water systems are under active cyberattack, with hackers leveraging AI tools to exploit critical infrastructure vulnerabilities. This raises immediate public safety concerns and demands robust defense protocols."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a new AI model engineered for enhanced speed and efficiency. This release offers improved performance for high-volume, low-latency applications across enterprise deployments."
+                "headline": "CYBERSECURITY: AI DATA GIANT ALATION CONFIRMS ATTACK",
+                "teaserTitle": "FINANCE: ALIBABA NET INCOME DROPS 75% DUE TO AI SPEND",
+                "visual_caption": "AI data intelligence firm Alation confirmed a cyberattack, potentially exposing client data and intellectual property. Enterprises must scrutinize vendor security and enhance data governance practices."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
-                "teaserTitle": "FINTECH: BINANCE AI AGENT TRADING",
-                "visual_caption": "Unsloth released Dynamic 3.0 GGUFs, an optimization for quantized LLMs, improving speeds on consumer hardware. This update enables more efficient AI deployment in edge computing and resource-constrained systems."
+                "headline": "FINANCE: ALIBABA NET INCOME DROPS 75% DUE TO AI SPEND",
+                "teaserTitle": "OPENAI: NEW PRIVACY PROTECTIONS CHALLENGE ANTHROPIC",
+                "visual_caption": "Alibaba's net income dropped 75%, largely due to high AI investment and operational costs. This prompts critical re-evaluation of AI investment strategies for financial sustainability."
             },
             {
                 "slide_index": 4,
-                "headline": "FINTECH: BINANCE AI AGENT TRADING",
-                "teaserTitle": "SECURITY: NEW 'DONT PASTE THE AI' INITIATIVE",
-                "visual_caption": "Binance has launched features allowing users to deploy AI agents for automated crypto trading. This introduces sophisticated automation but carries risks related to model performance and market volatility."
+                "headline": "OPENAI: NEW PRIVACY PROTECTIONS CHALLENGE ANTHROPIC",
+                "teaserTitle": "CONSUMER AI: META LAUNCHES NEW MAC APP FOR AI ASSISTANTS",
+                "visual_caption": "OpenAI introduced enhanced privacy protections, intensifying competition with Anthropic in the enterprise AI market. Businesses should demand stronger safeguards from AI providers for robust compliance and data control."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: NEW 'DONT PASTE THE AI' INITIATIVE",
-                "teaserTitle": "AI ADOPTION: GENERAL PUBLIC AI PERCEPTION",
-                "visual_caption": "A new 'Dont Paste the AI' initiative advocates secure practices to prevent sensitive data leakage with LLMs. This highlights a critical vector for data exfiltration and IP compromise in AI workflows."
+                "headline": "CONSUMER AI: META LAUNCHES NEW MAC APP FOR AI ASSISTANTS",
+                "teaserTitle": "AI ETHICS: CHATGPT FOR TEENS SAFETY MEASURES DEBATED",
+                "visual_caption": "Meta AI launched a new Mac app, integrating AI assistants more deeply into desktop workflows. Companies must develop clear guidelines for employee tool usage, balancing productivity with data security and IP protection."
             },
             {
                 "slide_index": 6,
-                "headline": "AI ADOPTION: GENERAL PUBLIC AI PERCEPTION",
-                "teaserTitle": "ANTHROPIC: AGENTS.MD SUPPORT FEATURE REQUEST",
-                "visual_caption": "Analysis shows public AI adoption has not met expectations, with many users remaining skeptical or disengaged. This slower embrace impacts market penetration and requires re-evaluation of product-market fit."
+                "headline": "AI ETHICS: CHATGPT FOR TEENS SAFETY MEASURES DEBATED",
+                "teaserTitle": "AI INFRASTRUCTURE: FILTERED VECTOR SEARCH ADVANCES PERFORMANCE",
+                "visual_caption": "The effectiveness of ChatGPT's safety measures for teens is debated, highlighting challenges in ethical AI safeguards. Companies face scrutiny regarding content moderation, requiring robust ethical frameworks."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: AGENTS.MD SUPPORT FEATURE REQUEST",
+                "headline": "AI INFRASTRUCTURE: FILTERED VECTOR SEARCH ADVANCES PERFORMANCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "A feature request for AGENTS.md support on Anthropic's platform indicates demand for standardized AI agent documentation. This suggests a push toward more structured and collaborative environments for agent system development."
+                "visual_caption": "New filtered vector search advancements are significantly boosting AI data retrieval speed and precision. Technical architects should evaluate these solutions for optimizing AI infrastructure and enhancing real-time decision-making."
             },
             {
                 "slide_index": 8,
