@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 SOL & LUNA EXPANSION",
+        "hookTitle": "STRIPE ACQUIRES OPENROUTER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
-                "teaserTitle": "ALIBABA: AI SPENDING HITS NET INCOME BY 75%",
+                "headline": "STRIPE: ACQUIRES OPENROUTER FOR AI EXPANSION",
+                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has expanded access to its GPT-5.6 Sol model within ChatGPT and made GPT-5.6 Luna available for all free users. This democratizes advanced AI, lowering integration barriers for developers and enterprises globally."
+                "narration_line": "Stripe has acquired AI gateway startup OpenRouter, integrating advanced AI model routing into its financial infrastructure. This strategic move streamlines access for developers using diverse large language models through a unified API."
             },
             {
                 "slide_index": 2,
-                "headline": "ALIBABA: AI SPENDING HITS NET INCOME BY 75%",
-                "teaserTitle": "OPENAI: NEW CUSTOMER PRIVACY PROTECTIONS",
+                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Alibaba reported a seventy-five percent net income drop, directly due to significant investments in artificial intelligence research and infrastructure. This highlights the immense capital burden tech giants face pursuing AI leadership."
+                "narration_line": "Google DeepMind launched Gemini three point seven Flash, a new AI model engineered for enhanced speed and efficiency. This release offers improved performance for high-volume, low-latency applications across enterprise deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: NEW CUSTOMER PRIVACY PROTECTIONS",
-                "teaserTitle": "COGNITION: CEO DENIES SPACEX ACQUISITION BID",
+                "headline": "MODEL OPTIMIZATION: UNSLOTH DYNAMIC 3.0 GGUFS",
+                "teaserTitle": "FINTECH: BINANCE AI AGENT TRADING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is implementing enhanced customer privacy protections, aiming to surpass current industry data security standards for large language models. These new measures require stricter data handling protocols for enterprise deployments."
+                "narration_line": "Unsloth released Dynamic three point zero GGUFs, an optimization for quantized large language models, improving speeds on consumer hardware. This update enables more efficient AI deployment in edge computing and resource-constrained systems."
             },
             {
                 "slide_index": 4,
-                "headline": "COGNITION: CEO DENIES SPACEX ACQUISITION BID",
-                "teaserTitle": "OPENAI: RESEARCHER CYBER PROGRAM ACCESS REVOKED",
+                "headline": "FINTECH: BINANCE AI AGENT TRADING",
+                "teaserTitle": "SECURITY: NEW 'DONT PASTE THE AI' INITIATIVE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cognition's CEO publicly denied SpaceX's reported acquisition attempt, clarifying the AI startup's independent strategic direction. This underscores the competitive landscape for acquiring top-tier artificial intelligence talent."
+                "narration_line": "Binance has launched features allowing users to deploy AI agents for automated crypto trading. This introduces sophisticated automation but carries risks related to model performance and market volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: RESEARCHER CYBER PROGRAM ACCESS REVOKED",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "headline": "SECURITY: NEW 'DONT PASTE THE AI' INITIATIVE",
+                "teaserTitle": "AI ADOPTION: GENERAL PUBLIC AI PERCEPTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI reportedly revoked access for certain researchers in a limited cyber defense program, raising questions about internal security and research governance. This highlights the delicate balance between open innovation and proprietary control."
+                "narration_line": "A new 'Dont Paste the AI' initiative advocates secure practices to prevent sensitive data leakage with large language models. This highlights a critical vector for data exfiltration and intellectual property compromise in AI workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
-                "teaserTitle": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "headline": "AI ADOPTION: GENERAL PUBLIC AI PERCEPTION",
+                "teaserTitle": "ANTHROPIC: AGENTS.MD SUPPORT FEATURE REQUEST",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting, demonstrating enhanced accuracy and lead times. This advancement improves disaster preparedness and logistics by providing earlier warnings."
+                "narration_line": "Analysis shows public AI adoption has not met expectations, with many users remaining skeptical or disengaged. This slower embrace impacts market penetration and requires re-evaluation of product-market fit."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "headline": "ANTHROPIC: AGENTS.MD SUPPORT FEATURE REQUEST",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Technology Review suggests AI's recursive self-improvement may not advance as rapidly as anticipated, challenging current scaling assumptions. This impacts long-term AI architecture roadmaps and resource allocation."
+                "narration_line": "A feature request for AGENTS.md support on Anthropic's platform indicates demand for standardized AI agent documentation. This suggests a push toward more structured and collaborative environments for agent system development."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
