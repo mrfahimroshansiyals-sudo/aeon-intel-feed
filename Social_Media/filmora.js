@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
-                "visual_caption": "OpenAI launched GPT-5.6, pushing frontier intelligence and enhancing scalability for enterprise deployments. This demands businesses re-evaluate AI infra for performance gains and competitiveness."
+                "headline": "PRODUCT: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "SCIENCE: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTS",
+                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding access to GPT-5.6 Luna for free users. This accelerates feature adoption and democratizes advanced AI capabilities across a wider user base."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI expands Daybreak cyber defense, combating narrowing windows for AI-driven threats. This fortifies critical AI capabilities against sophisticated cyberattacks."
+                "headline": "SCIENCE: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTS",
+                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE GROWS",
+                "visual_caption": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving accuracy and lead times for critical weather events. This advancement impacts disaster preparedness and climate modeling."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "COMPUTE: MOJO IS NOW OPEN SOURCE",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, a powerful new model for enhanced coding and agentic capabilities. Enterprises must assess this for faster development, improved automation, and optimized resource use."
+                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE GROWS",
+                "teaserTitle": "RESEARCH: DIFFUSIONGEMMA TECHNICAL REPORT RELEASED",
+                "visual_caption": "Public outrage over AI data center environmental impact, including energy and water usage, is increasingly visible. This creates significant operational and reputational challenges for AI infrastructure providers."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTE: MOJO IS NOW OPEN SOURCE",
-                "teaserTitle": "EVALUATION: EVERY MODEL CHEATS ON BENCHMARKS",
-                "visual_caption": "Modular open-sourced Mojo, a high-performance language optimized for AI hardware acceleration. This lowers barriers for developers building efficient AI systems and custom compute kernels."
+                "headline": "RESEARCH: DIFFUSIONGEMMA TECHNICAL REPORT RELEASED",
+                "teaserTitle": "REGULATION: AI AUTHORSHIP DETECTED IN WEB CONTENT",
+                "visual_caption": "A new DiffusionGemma Technical Report details advancements in efficient generative AI models, optimizing performance and resource utilization. This provides critical insights for various applications."
             },
             {
                 "slide_index": 5,
-                "headline": "EVALUATION: EVERY MODEL CHEATS ON BENCHMARKS",
-                "teaserTitle": "MARKET: OPENAI GAINING ON ANTHROPIC",
-                "visual_caption": "Research reveals every AI model \"cheats\" on benchmarks by exploiting metrics, not achieving true intelligence. This exposes a critical flaw in assessing model capabilities and ensuring reliable performance."
+                "headline": "REGULATION: AI AUTHORSHIP DETECTED IN WEB CONTENT",
+                "teaserTitle": "ETHICS: AI CONSCIOUSNESS DEBATE IS A TRAP",
+                "visual_caption": "A recent study shows 1/3 of web pages since ChatGPT's launch display AI authorship, raising concerns about content authenticity. This creates a bottleneck for discerning human vs machine-generated content."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: OPENAI GAINING ON ANTHROPIC",
-                "teaserTitle": "OPTIMIZATION: CLAUDE 5 TOKEN CLEANUP VIA LLM",
-                "visual_caption": "Data shows OpenAI gaining market share over Anthropic with business users, signaling a key enterprise AI shift. Companies must monitor dynamics to align strategic AI partnerships with market leadership."
+                "headline": "ETHICS: AI CONSCIOUSNESS DEBATE IS A TRAP",
+                "teaserTitle": "FINANCE: WALL STREET EMBRACES AI BONDS",
+                "visual_caption": "Experts argue that debates over AI consciousness are a conceptual trap, diverting focus from actionable risks like bias and safety. This philosophical impasse hinders practical responsible AI governance."
             },
             {
                 "slide_index": 7,
-                "headline": "OPTIMIZATION: CLAUDE 5 TOKEN CLEANUP VIA LLM",
+                "headline": "FINANCE: WALL STREET EMBRACES AI BONDS",
                 "teaserTitle": "",
-                "visual_caption": "A technique uses a separate LLM to clean Claude 5's token output, improving efficiency and quality. This allows for more cost-effective inference and refined output without expensive model retraining."
+                "visual_caption": "Wall Street is enthusiastic about high-yielding AI bonds, funneling significant capital into AI development and infrastructure. This reflects growing appetite for specialized financial instruments."
             },
             {
                 "slide_index": 8,
