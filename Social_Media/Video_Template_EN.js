@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "hookTitle": "OPENAI PUBLIC COMPANY TIMELINE ACCELERATES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "IMPROVED GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "OPENAI: PUBLIC COMPANY TIMELINE ACCELERATES",
+                "teaserTitle": "ENHANCED CUSTOMER PRIVACY SHIELDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has introduced GPT-5.6, setting new benchmarks for frontier AI intelligence. This scales advanced model capabilities, impacting core architecture and enterprise deployment strategies globally."
+                "narration_line": "OpenAI's CFO confirmed the company aims for public listing by 2027 or sooner, accelerating its financial strategy. This move will fundamentally alter the valuation landscape for frontier artificial intelligence companies, impacting investment and market dynamics."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: IMPROVED GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "headline": "OPENAI: ENHANCED CUSTOMER PRIVACY SHIELDS",
+                "teaserTitle": "DYNAMIC 3.0 GGUF ARCHITECTURE",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding free Luna access. This democratizes powerful AI tools, intensifying competitive pressure on AI-as-a-Service providers and influencing pricing."
+                "narration_line": "OpenAI is developing new customer privacy protections to surpass industry standards, targeting differentiation from rivals like Anthropic. This initiative directly addresses B2B adoption barriers by securing sensitive enterprise data processed through advanced AI models."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "M&A: STRIPE ACQUIRES OPENROUTER",
+                "headline": "UNSLOTH: DYNAMIC 3.0 GGUF ARCHITECTURE",
+                "teaserTitle": "COLLABORATIVE AGENT PROTOCOL",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Google DeepMind has deployed Gemini 3.7 Flash, their most intelligent workhorse for coding and agents. It promises high performance and efficiency, offering enterprises enhanced development pipelines and sophisticated AI agents."
+                "narration_line": "Unsloth released Dynamic 3.0 GGUF architecture, significantly boosting efficiency for large language models on consumer hardware. This update optimizes memory use and speeds up inference for quantized models, lowering barriers to local AI deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: STRIPE ACQUIRES OPENROUTER",
-                "teaserTitle": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
+                "headline": "AGENT FRAMEWORKS: COLLABORATIVE AGENT PROTOCOL",
+                "teaserTitle": "GEMINI AI STUDY TOOL INTEGRATION",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Stripe has acquired OpenRouter, an AI gateway startup, to integrate advanced AI routing into its financial infrastructure. This streamlines AI deployment, potentially lowering integration overhead for transaction-heavy services."
+                "narration_line": "BrightbeamAI introduced the Collaborative Human Agent Protocol (CHAP), an open standard for seamless human-AI agent interaction. This protocol enhances reliability and auditability, crucial for scaling multi-agent systems in complex enterprise environments."
             },
             {
                 "slide_index": 5,
-                "headline": "STARTUP DYNAMICS: COGNITION LABS DENIES SPACEX ACQUISITION",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
+                "headline": "GOOGLE: GEMINI AI STUDY TOOL INTEGRATION",
+                "teaserTitle": "RECURSIVE SELF-IMPROVEMENT LIMITS",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "Cognition Labs\u2019 CEO denies SpaceX acquisition reports, clarifying its independent trajectory in the AI market. This reinforces the autonomy of leading AI startups, influencing investor sentiment and future M&A."
+                "narration_line": "Google integrated new artificial intelligence study tools, powered by Gemini, into Search and educational platforms, enhancing personalized learning. This expands generative AI into learning ecosystems, creating new avenues for user engagement and data capture."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECAST",
-                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "headline": "FRONTIER AI: RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "teaserTitle": "REAL-WORLD USAGE INSIGHTS LACKING",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This significantly reduces operational risks for industries reliant on stable supply chains, urging integration for better risk management."
+                "narration_line": "Analyses suggest AI recursive self-improvement may be more constrained and slower than projected, challenging optimistic AGI timelines. This impacts R&D investment strategies, shifting focus towards incremental advancements rather than unconstrained growth."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "headline": "AI DEPLOYMENT: REAL-WORLD USAGE INSIGHTS LACKING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Google DeepMind is offering advanced sign language AI for users, aiding real-time translation for deaf and hard-of-hearing communities. This expands market reach and improves user experience, aligning with broader ESG objectives."
+                "naration_line": "A significant gap exists in understanding real-world AI usage beyond benchmarks, hindering effective product iteration and optimization. This data void challenges enterprises in measuring AI impact and proving return on investment, requiring robust observability solutions."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
