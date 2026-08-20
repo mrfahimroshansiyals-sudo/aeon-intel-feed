@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: TECH SOVEREIGNTY PACKAGE LAUNCHED",
-                "teaserTitle": "HARDWARE: THE CPU COMEBACK IN AGENTIC AI",
-                "visual_caption": "Europe unveils the Tech Sovereignty Package to bolster digital autonomy and resilience. The initiative injects billions into localized compute infrastructure and open-source capabilities."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+                "teaserTitle": "HARDWARE: AI COPILOTS TO AGENT SWARMS",
+                "visual_caption": "OpenAI launched GPT-5.6, setting new benchmarks for reasoning and code generation. Enterprises must evaluate deploying this superior performance against increased compute costs."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: THE CPU COMEBACK IN AGENTIC AI",
-                "teaserTitle": "MODELS: OPUS 5 FRONTIER RELEASE",
-                "visual_caption": "Autonomous agentic workflows are driving a critical CPU comeback across server architectures. Multi-step task orchestration creates heavy new demands on processor throughput."
+                "headline": "HARDWARE: AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "RESEARCH: AGENTIC VISUAL WORLD EVALUATION",
+                "visual_caption": "AMD reports a shift from AI copilots to agent swarms, redefining software engineering. This stresses CPU-GPU synergy for complex, distributed tasks and demands compute re-evaluation."
             },
             {
                 "slide_index": 3,
-                "headline": "MODELS: OPUS 5 FRONTIER RELEASE",
-                "teaserTitle": "SECURITY: EXPANDING DAYBREAK DEFENSE WINDOW",
-                "visual_caption": "Anthropic has deployed Opus 5 with advanced coding and professional reasoning. The model features upgraded multi-agent coordination for complex enterprise deployments."
+                "headline": "RESEARCH: AGENTIC VISUAL WORLD EVALUATION",
+                "teaserTitle": "COMPUTE: AI DATA CENTER RESOURCE SCRUTINY",
+                "visual_caption": "HarnessEval-W introduces a new framework for evaluating visual world models with transparent reasoning. This is crucial for validating the safety and reliability of autonomous AI agents."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: EXPANDING DAYBREAK DEFENSE WINDOW",
-                "teaserTitle": "SCIENCE: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "OpenAI expands its Daybreak security framework as the cyber defense window narrows. Continuous monitoring helps preemptively patch vulnerabilities across cloud networks."
+                "headline": "COMPUTE: AI DATA CENTER RESOURCE SCRUTINY",
+                "teaserTitle": "TRUST & SAFETY: AI AUTHORSHIP DETECTION STUDY",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Public and regulatory scrutiny targets AI data center resource demands and energy consumption. Operators must demonstrate compute efficiency and sustainable infrastructure to avoid backlash."
             },
             {
                 "slide_index": 5,
-                "headline": "SCIENCE: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "RESEARCH: RECURRENT LATENT REASONING BREAKTHROUGH",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash for high-speed coding and agentic tasks. The architecture optimizes token processing while preserving reasoning fidelity."
+                "headline": "TRUST & SAFETY: AI AUTHORSHIP DETECTION STUDY",
+                "teaserTitle": "MODELS: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
+                "visual_caption": "A study reveals 1/3 of web content since ChatGPT's launch indicates AI authorship, challenging authenticity. Organizations need advanced detection and governance to combat misinformation."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: RECURRENT LATENT REASONING BREAKTHROUGH",
-                "teaserTitle": "ENTERPRISE: RAMP DEPLOYS MODEL ROUTER",
-                "visual_caption": "New research shows compact recurrent latent models hitting record efficiency on benchmarks. This breakthrough lowers cost barriers for localized enterprise logic tasks."
+                "headline": "MODELS: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
+                "teaserTitle": "OPEN-SOURCE: QWEN3.8-27B-UNCENSORED-FP8 UPDATE",
+                "visual_caption": "OpenAI improves GPT-5.6 Sol access and expands Luna for free users, democratizing advanced AI. This accelerates adoption but requires managing evolving API usage costs."
             },
             {
                 "slide_index": 7,
-                "headline": "ENTERPRISE: RAMP DEPLOYS MODEL ROUTER",
+                "headline": "OPEN-SOURCE: QWEN3.8-27B-UNCENSORED-FP8 UPDATE",
                 "teaserTitle": "",
-                "visual_caption": "Ramp launches an intelligent model router to dynamically optimize enterprise API traffic. The system balances cost and latency across multiple frontier LLM providers."
+                "visual_caption": "Hugging Face reports an update to Qwen3.8-27B-Uncensored-FP8, advancing efficient open-source models. These offer alternatives but require rigorous safety validation for integration."
             },
             {
                 "slide_index": 8,
