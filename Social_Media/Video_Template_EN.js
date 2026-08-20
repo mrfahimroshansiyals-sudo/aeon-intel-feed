@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "US TARGETS WATER WITH AI HACKS",
+        "hookTitle": "STRIPE ACQUIRES OPENROUTER FOR SEVEN BILLION DOLLARS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CRITICAL INFRA: US TARGETS WATER WITH AI HACKS",
-                "teaserTitle": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
+                "headline": "FINANCIALS: STRIPE ACQUIRES OPENROUTER FOR $7B+",
+                "teaserTitle": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "U.S. intelligence confirms state-sponsored actors are using advanced artificial intelligence to compromise water infrastructure. This escalating cyber threat demands urgent re-evaluation of critical utility defenses."
+                "narration_line": "Stripe acquires OpenRouter for over seven billion dollars to consolidate its gateway infrastructure. This strategic move unifies multi model routing directly into global fintech payment rails."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
-                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
+                "headline": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
+                "teaserTitle": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A malicious Rust programming language crate named 'Arrayref' has been found executing hidden code during software builds. This introduces severe supply chain risks for artificial intelligence development environments."
+                "narration_line": "Specialized silicon startup Etched doubles its valuation to twenty one billion dollars in a month. Demand for custom transformer hardware designed to bypass GPU bottlenecks is surging."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
-                "teaserTitle": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
+                "headline": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
+                "teaserTitle": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global public and regulatory outrage is growing over the environmental impacts of large artificial intelligence data centers. This escalating scrutiny impacts policy decisions and future expansion plans."
+                "narration_line": "Binance now permits autonomous software agents to execute live cryptocurrency trades on its exchange. Users carry the full operational responsibility for maintaining rigorous risk controls."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
+                "headline": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
+                "teaserTitle": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Alibaba Group's net income dropped by seventy-five percent, directly due to massive investments in its artificial intelligence division. This strategic pivot prioritizes long-term artificial intelligence leadership over immediate profits."
+                "narration_line": "Data catalog giant Alation confirms a major cyberattack compromising internal metadata repositories. Organizations must immediately audit third party connectors to prevent enterprise data leaks."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
-                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "headline": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
+                "teaserTitle": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is improving its GPT five point six 'Sol' in ChatGPT and expanding free access to 'Luna' models. This strategy aims to accelerate artificial intelligence adoption and refine performance."
+                "narration_line": "The European Commission launches a multi billion euro call to fund new artificial intelligence gigafactories. This initiative aims to strengthen regional compute sovereignty and infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "teaserTitle": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
+                "headline": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
+                "teaserTitle": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New research suggests that artificial intelligence recursive self-improvement faces significant practical and theoretical limitations. This compels re-evaluation of long-term artificial general intelligence roadmaps."
+                "narration_line": "The rise of autonomous agent swarms is making central processors the new performance bottleneck. Modern clusters require a hybrid balance of specialized GPUs and high core count CPUs."
             },
             {
                 "slide_index": 7,
-                "headline": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
+                "headline": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google has released the 'DiffusionGemma' technical report, detailing architectural advancements for its open-source diffusion models. These insights significantly enhance efficiency and generation quality, reducing computational overhead."
+                "narration_line": "Data center operators are using intelligent software load shifting to bypass electrical grid constraints. Dynamic throttling keeps heavy workloads running without triggering power outages."
             },
             {
                 "slide_index": 8,

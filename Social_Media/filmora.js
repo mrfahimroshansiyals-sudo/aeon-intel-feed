@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CRITICAL INFRA: US TARGETS WATER WITH AI HACKS",
-                "teaserTitle": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
-                "visual_caption": "U.S. intelligence confirms state-sponsored actors are using advanced AI to compromise water infrastructure. This escalating cyber threat demands urgent re-evaluation of critical utility defenses."
+                "headline": "FINANCIALS: STRIPE ACQUIRES OPENROUTER FOR $7B+",
+                "teaserTitle": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
+                "visual_caption": "Stripe acquires OpenRouter for over $7B to consolidate its gateway infrastructure. This strategic move unifies multi-model routing directly into global fintech payment rails."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
-                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
-                "visual_caption": "A malicious Rust crate, 'Arrayref', executes hidden code during software builds, introducing severe supply chain risks. This impacts AI development environments directly."
+                "headline": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
+                "teaserTitle": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
+                "visual_caption": "Specialized silicon startup Etched doubles its valuation to $21B in a month. Demand for custom transformer hardware designed to bypass GPU bottlenecks is surging."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
-                "teaserTitle": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
-                "visual_caption": "Global public and regulatory outrage over AI data center environmental impacts is escalating. This scrutiny influences policy and future expansion plans significantly."
+                "headline": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
+                "teaserTitle": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
+                "visual_caption": "Binance now permits autonomous software agents to execute live cryptocurrency trades on its exchange. Users carry the full operational responsibility for maintaining rigorous risk controls."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
-                "visual_caption": "Alibaba Group's net income dropped 75%, directly due to massive investments in its AI division. This strategic pivot prioritizes long-term AI leadership over immediate profits."
+                "headline": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
+                "teaserTitle": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
+                "visual_caption": "Data catalog giant Alation confirms a major cyberattack compromising internal metadata repositories. Organizations must immediately audit third-party connectors to prevent enterprise data leaks."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
-                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "visual_caption": "OpenAI improves GPT-5.6 Sol in ChatGPT and expands free access to Luna models. This strategy aims to accelerate AI adoption and refine performance."
+                "headline": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
+                "teaserTitle": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
+                "visual_caption": "The European Commission launches a multi-billion-euro call to fund new AI gigafactories. This initiative aims to strengthen regional compute sovereignty and infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "teaserTitle": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
-                "visual_caption": "New research suggests AI's recursive self-improvement faces significant practical and theoretical limitations. This compels re-evaluation of AGI roadmaps."
+                "headline": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
+                "teaserTitle": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
+                "visual_caption": "The rise of autonomous agent swarms is making central processors the new performance bottleneck. Modern clusters require a hybrid balance of specialized GPUs and high-core-count CPUs."
             },
             {
                 "slide_index": 7,
-                "headline": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
+                "headline": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
                 "teaserTitle": "",
-                "visual_caption": "Google released the DiffusionGemma Technical Report, detailing architectural advancements for its open-source diffusion models. These insights enhance efficiency and generation quality, reducing computational overhead."
+                "visual_caption": "Data center operators are using intelligent software load-shifting to bypass electrical grid constraints. Dynamic throttling keeps heavy workloads running without triggering power outages."
             },
             {
                 "slide_index": 8,
