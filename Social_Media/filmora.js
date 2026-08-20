@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 EXPANDS CYBER DEFENSE WINDOW",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH POWERS NEW AGENTIC CAPABILITIES",
-                "visual_caption": "OpenAI's new GPT-5.6 is expanding the cyber defense window with advanced threat detection capabilities. This enhances security protocols and reduces system vulnerability for enterprises."
+                "headline": "CRITICAL INFRA: US TARGETS WATER WITH AI HACKS",
+                "teaserTitle": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
+                "visual_caption": "U.S. intelligence confirms state-sponsored actors are using advanced AI to compromise water infrastructure. This escalating cyber threat demands urgent re-evaluation of critical utility defenses."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH POWERS NEW AGENTIC CAPABILITIES",
-                "teaserTitle": "M&A: STRIPE ACQUIRES AI GATEWAY OPENROUTER",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, optimized for new agentic capabilities. This boosts performance for complex multi-step tasks across enterprise applications."
+                "headline": "CYBERSECURITY: MALICIOUS RUST CRATE PAYLOAD DETECTED",
+                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
+                "visual_caption": "A malicious Rust crate, 'Arrayref', executes hidden code during software builds, introducing severe supply chain risks. This impacts AI development environments directly."
             },
             {
                 "slide_index": 3,
-                "headline": "M&A: STRIPE ACQUIRES AI GATEWAY OPENROUTER",
-                "teaserTitle": "HARDWARE: MICRON'S $50B BUILD-OUT BOOSTS AI COMPUTE",
-                "visual_caption": "Stripe acquired AI gateway OpenRouter, integrating advanced model routing into its payment ecosystem. This strategic move simplifies AI deployment and management for businesses."
+                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE SCALES GLOBALLY",
+                "teaserTitle": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
+                "visual_caption": "Global public and regulatory outrage over AI data center environmental impacts is escalating. This scrutiny influences policy and future expansion plans significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: MICRON'S $50B BUILD-OUT BOOSTS AI COMPUTE",
-                "teaserTitle": "AI ETHICS: \"DON'T PASTE THE AI\" CAMPAIGN HIGHLIGHTS RISKS",
-                "visual_caption": "Micron Technology is investing $50B in its Boise build-out to expand AI compute fabrication. This will meet escalating infrastructure demands and alleviate critical supply chain pressures."
+                "headline": "FINANCIALS: ALIBABA NET INCOME DROPS 75% AMID AI SPEND",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
+                "visual_caption": "Alibaba Group's net income dropped 75%, directly due to massive investments in its AI division. This strategic pivot prioritizes long-term AI leadership over immediate profits."
             },
             {
                 "slide_index": 5,
-                "headline": "AI ETHICS: \"DON'T PASTE THE AI\" CAMPAIGN HIGHLIGHTS RISKS",
-                "teaserTitle": "MODELS: HUGGING FACE OPTIMIZES QWEN 3.8-27B GGUF",
-                "visual_caption": "The \"Don't Paste the AI\" campaign highlights ethical risks in deploying AI-generated content. Organizations need robust policies and training to prevent misinformation and data leaks."
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA EXPANDS FREE ACCESS",
+                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "visual_caption": "OpenAI improves GPT-5.6 Sol in ChatGPT and expands free access to Luna models. This strategy aims to accelerate AI adoption and refine performance."
             },
             {
                 "slide_index": 6,
-                "headline": "MODELS: HUGGING FACE OPTIMIZES QWEN 3.8-27B GGUF",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI ADVANCES CYCLONE FORECASTING",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Hugging Face optimized the Qwen 3.8-27B GGUF model for local deployment efficiency. This significantly lowers the barrier for smaller enterprises to deploy powerful language models."
+                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "teaserTitle": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
+                "visual_caption": "New research suggests AI's recursive self-improvement faces significant practical and theoretical limitations. This compels re-evaluation of AGI roadmaps."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: WEATHERNEXT AI ADVANCES CYCLONE FORECASTING",
+                "headline": "MODELS: DIFFUSIONGEMMA TECHNICAL REPORT REVEALED",
                 "teaserTitle": "",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting accuracy. This scientific advancement promises improved disaster preparedness and minimized economic impact."
+                "visual_caption": "Google released the DiffusionGemma Technical Report, detailing architectural advancements for its open-source diffusion models. These insights enhance efficiency and generation quality, reducing computational overhead."
             },
             {
                 "slide_index": 8,
