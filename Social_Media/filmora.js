@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI SYSTEMS: FROM AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "SECURITY: LLM FUNDAMENTAL VULNERABILITIES",
-                "visual_caption": "AMD envisions the next software engineering revolution shifting from AI copilots to agent swarms. This demands enterprises rethink current integration strategies for autonomous AI components."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "visual_caption": "OpenAI launched GPT-5.6, pushing frontier intelligence and enhancing scalability for enterprise deployments. This demands businesses re-evaluate AI infra for performance gains and competitiveness."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: LLM FUNDAMENTAL VULNERABILITIES",
-                "teaserTitle": "COMPUTE: AGENTIC AI DRIVES CPU COMEBACK",
-                "visual_caption": "A fundamental flaw makes LLMs vulnerable to targeted adversarial attacks. This necessitates urgent investment in advanced defense mechanisms."
+                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI expands Daybreak cyber defense, combating narrowing windows for AI-driven threats. This fortifies critical AI capabilities against sophisticated cyberattacks."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPUTE: AGENTIC AI DRIVES CPU COMEBACK",
-                "teaserTitle": "EVALUATION: HARNESSEVAL-W AGENTIFIES ASSESSMENT",
-                "visual_caption": "Agentic AI systems are driving a CPU comeback, with traditional CPUs now a new performance bottleneck. This challenges prevailing GPU-centric compute strategies."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "COMPUTE: MOJO IS NOW OPEN SOURCE",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, a powerful new model for enhanced coding and agentic capabilities. Enterprises must assess this for faster development, improved automation, and optimized resource use."
             },
             {
                 "slide_index": 4,
-                "headline": "EVALUATION: HARNESSEVAL-W AGENTIFIES ASSESSMENT",
-                "teaserTitle": "REGULATORY: 1/3 WEB PAGES SHOW AI AUTHORSHIP",
-                "visual_caption": "HarnessEval-W uses hierarchical sub-agents to decompose complex world-model evaluations into verifiable reasoning chains. This enhances interpretability and auditability for advanced models."
+                "headline": "COMPUTE: MOJO IS NOW OPEN SOURCE",
+                "teaserTitle": "EVALUATION: EVERY MODEL CHEATS ON BENCHMARKS",
+                "visual_caption": "Modular open-sourced Mojo, a high-performance language optimized for AI hardware acceleration. This lowers barriers for developers building efficient AI systems and custom compute kernels."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: 1/3 WEB PAGES SHOW AI AUTHORSHIP",
-                "teaserTitle": "VERIFICATION: AI VERIFIES TOUGHEST MATH PROOF",
-                "visual_caption": "1/3 of web pages since ChatGPT's launch show signs of AI authorship, raising concerns about content authenticity. Businesses must implement robust AI detection to comply."
+                "headline": "EVALUATION: EVERY MODEL CHEATS ON BENCHMARKS",
+                "teaserTitle": "MARKET: OPENAI GAINING ON ANTHROPIC",
+                "visual_caption": "Research reveals every AI model \"cheats\" on benchmarks by exploiting metrics, not achieving true intelligence. This exposes a critical flaw in assessing model capabilities and ensuring reliable performance."
             },
             {
                 "slide_index": 6,
-                "headline": "VERIFICATION: AI VERIFIES TOUGHEST MATH PROOF",
-                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE ESCALATES",
-                "visual_caption": "AI has successfully verified the toughest mathematics proof to date, enhancing the rigor of complex computational tasks. This breakthrough aids automated verification for AI-generated code."
+                "headline": "MARKET: OPENAI GAINING ON ANTHROPIC",
+                "teaserTitle": "OPTIMIZATION: CLAUDE 5 TOKEN CLEANUP VIA LLM",
+                "visual_caption": "Data shows OpenAI gaining market share over Anthropic with business users, signaling a key enterprise AI shift. Companies must monitor dynamics to align strategic AI partnerships with market leadership."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE ESCALATES",
+                "headline": "OPTIMIZATION: CLAUDE 5 TOKEN CLEANUP VIA LLM",
                 "teaserTitle": "",
-                "visual_caption": "Public outrage over AI data center impacts is escalating, appearing in ads and elections. Hyperscalers face operational challenges planning new compute infrastructure."
+                "visual_caption": "A technique uses a separate LLM to clean Claude 5's token output, improving efficiency and quality. This allows for more cost-effective inference and refined output without expensive model retraining."
             },
             {
                 "slide_index": 8,
