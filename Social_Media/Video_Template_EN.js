@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE RELEASED",
+        "hookTitle": "OPENROUTER STRIPE ACQUISITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASED",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "headline": "FINTECH: OPENROUTER STRIPE ACQUISITION",
+                "teaserTitle": "OPENAI: PRIVACY PROTECTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, its latest frontier model, designed to offer significantly enhanced intelligence and scalability for enterprise applications. This release focuses on optimizing performance across multimodal reasoning and large-scale data workloads."
+                "narration_line": "Stripe has acquired OpenRouter for over seven billion dollars. This transaction merges multi-model routing directly into core payment infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "HACKER NEWS: UNSLOTH DYNAMIC 3.0 GGUFS RELEASED",
+                "headline": "OPENAI: PRIVACY PROTECTIONS",
+                "teaserTitle": "ANTHROPIC: COGNITIVE PROBING",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Google DeepMind has unveiled Gemini 3.7 Flash, a new intelligent workhorse model specifically engineered for coding and advanced agentic operations. This release highlights improvements in rapid task execution and complex multi-step reasoning efficiency."
+                "narration_line": "OpenAI has introduced advanced customer privacy protections for enterprise users. The update enforces strict zero-retention parameters across API deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "HACKER NEWS: UNSLOTH DYNAMIC 3.0 GGUFS RELEASED",
-                "teaserTitle": "MIT TECHNOLOGY REVIEW: LLMS FACE NEW ATTACKS",
+                "headline": "ANTHROPIC: COGNITIVE PROBING",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Unsloth has rolled out Dynamic 3.0 GGUF implementations, significantly boosting efficiency for running large language models on consumer-grade hardware. This update enables faster inference and lower memory footprints, crucial for localized AI deployments."
+                "narration_line": "Anthropic researchers have mapped a hidden latent space inside Claude models. This interpretability breakthrough reveals how models process abstract concepts."
             },
             {
                 "slide_index": 4,
-                "headline": "MIT TECHNOLOGY REVIEW: LLMS FACE NEW ATTACKS",
-                "teaserTitle": "HUGGING FACE: ANTHROPIC AI FOR PROTEIN BINDING",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH",
+                "teaserTitle": "EU AI OFFICE: ACT ENFORCEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A fundamental flaw has been identified in large language models, rendering them vulnerable to novel attack vectors that can trick them into generating harmful outputs. This exposes a critical security gap in current LLM deployment practices."
+                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash for agentic workflows. The architecture delivers reduced latency for complex software automation tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "HUGGING FACE: ANTHROPIC AI FOR PROTEIN BINDING",
-                "teaserTitle": "MIT TECHNOLOGY REVIEW: IBM'S CHIP BREAKTHROUGH",
+                "headline": "REGULATION: EU AI ACT ENFORCEMENT",
+                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic has released a new dataset and model architecture for protein binder design, enabling advanced AI for novel therapeutic agents. This marks a significant leap in computational biology, accelerating drug discovery R&D."
+                "narration_line": "The European Commission has begun enforcing strict AI Act compliance rules. Non-compliant enterprises face penalties reaching up to seven percent of global turnover."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECHNOLOGY REVIEW: IBM'S CHIP BREAKTHROUGH",
-                "teaserTitle": "HACKER NEWS: ORNITH-1.5 SELF-IMPROVING AGENTS",
+                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT",
+                "teaserTitle": "HACKER NEWS: UNSLOTH DYNAMIC GGUFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "IBM has unveiled revolutionary new chip technology designed to extend Moore's Law for another decade, pushing beyond current silicon limitations. This breakthrough promises exponential gains in processing power and energy efficiency."
+                "narration_line": "The Common Earth Project aims to eliminate rare earth chip supply bottlenecks. Researchers are developing novel material substitutes for semiconductor fabrication."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: ORNITH-1.5 SELF-IMPROVING AGENTS",
+                "headline": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Researchers behind Ornith-1.5 have demonstrated significant advancements in self-scaffolding and self-improvement mechanisms for AI agents. This enables agents to refine their capabilities with minimal human intervention."
+                "narration_line": "Unsloth has released Dynamic GGUFs for optimized local model execution. This update significantly reduces VRAM requirements for workstation hardware."
             },
             {
                 "slide_index": 8,
