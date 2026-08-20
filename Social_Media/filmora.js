@@ -5,44 +5,44 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "FINTECH: OPENROUTER STRIPE ACQUISITION",
-                "teaserTitle": "OPENAI: PRIVACY PROTECTIONS",
-                "visual_caption": "Stripe acquired OpenRouter for >$7B. This deal integrates multi-model routing into financial rails."
+                "teaserTitle": "EU AI OFFICE: ACT ENFORCEMENT",
+                "visual_caption": "Stripe acquires OpenRouter for over $7B. This transaction merges financial rails with multi-model API infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: PRIVACY PROTECTIONS",
-                "teaserTitle": "ANTHROPIC: COGNITIVE PROBING",
-                "visual_caption": "OpenAI rolled out new enterprise privacy protections. The update enforces zero-retention parameters across APIs."
+                "headline": "REGULATION: EU AI ACT ENFORCEMENT",
+                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT",
+                "visual_caption": "The European Commission enforces core AI Act rules across member states. Enterprises face mandatory transparency directives and 7% turnover penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: COGNITIVE PROBING",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH",
-                "visual_caption": "Anthropic mapped a hidden latent space in Claude. This reveals internal mechanics during abstract reasoning."
+                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT",
+                "teaserTitle": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
+                "visual_caption": "The Common Earth Project eliminates rare earth dependencies in chip manufacturing. Securing resilient hardware supply chains is critical for scaling."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH",
-                "teaserTitle": "EU AI OFFICE: ACT ENFORCEMENT",
-                "visual_caption": "Google DeepMind debuted Gemini 3.7 Flash. The model optimizes latency for complex agentic workflows."
+                "headline": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH",
+                "visual_caption": "Unsloth releases Dynamic 3.0 GGUFs providing unprecedented parameter efficiency. This update drastically reduces VRAM requirements for local execution."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU AI ACT ENFORCEMENT",
-                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT",
-                "visual_caption": "The EU started enforcing AI Act transparency rules. Violators face fines up to 7% of global turnover."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH",
+                "teaserTitle": "ANTHROPIC: COGNITIVE PROBING",
+                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash for coding and agentic workflows. The architecture delivers significant latency reductions across multi-step tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT",
-                "teaserTitle": "HACKER NEWS: UNSLOTH DYNAMIC GGUFS",
-                "visual_caption": "The Common Earth Project tackles chip supply bottlenecks. Researchers are testing rare-earth-free materials."
+                "headline": "ANTHROPIC: COGNITIVE PROBING",
+                "teaserTitle": "OPENAI: PRIVACY PROTECTIONS",
+                "visual_caption": "Anthropic uncovers a hidden latent space mapping reasoning inside Claude models. This interpretability technique provides deeper visibility into weights."
             },
             {
                 "slide_index": 7,
-                "headline": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
+                "headline": "OPENAI: PRIVACY PROTECTIONS",
                 "teaserTitle": "",
-                "visual_caption": "Unsloth released Dynamic 3.0 GGUFs. This update drastically lowers VRAM requirements for local execution."
+                "visual_caption": "OpenAI deploys advanced customer privacy protections with zero-retention parameters. These safeguards offer granular data isolation guarantees."
             },
             {
                 "slide_index": 8,
