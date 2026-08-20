@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "QWEN OPTIMIZATION FOR EDGE DEPLOYMENT",
+        "hookTitle": "TECH SOVEREIGNTY PACKAGE LAUNCHED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: QWEN OPTIMIZATION FOR EDGE DEPLOYMENT",
-                "teaserTitle": "SOFTWARE: MOJO PROGRAMMING LANGUAGE OPEN SOURCE",
+                "headline": "REGULATION: TECH SOVEREIGNTY PACKAGE LAUNCHED",
+                "teaserTitle": "HARDWARE: THE CPU COMEBACK IN AGENTIC AI",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "New Qwen models are now optimized for edge deployment using GGUF and FP8 formats, significantly reducing memory and boosting inference speed. This enhances efficiency and expands advanced LLM integration into mobile and IoT systems."
+                "narration_line": "Europe unveils the Tech Sovereignty Package to bolster digital autonomy and regional semiconductor resilience. This legislative framework injects billions into localized compute infrastructure and open source ecosystems."
             },
             {
                 "slide_index": 2,
-                "headline": "SOFTWARE: MOJO PROGRAMMING LANGUAGE OPEN SOURCE",
-                "teaserTitle": "MODEL RELIABILITY: GROK GIBBERISH RESPONSES INCREASE",
+                "headline": "HARDWARE: THE CPU COMEBACK IN AGENTIC AI",
+                "teaserTitle": "MODELS: OPUS 5 FRONTIER RELEASE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mojo, a high-performance programming language for AI, has been open-sourced for wider community contribution. This aims to bridge Python's usability with C++ performance for AI workloads, accelerating development."
+                "narration_line": "Autonomous agentic workflows are driving a major CPU comeback across enterprise server architectures. Multi-step task orchestration places unprecedented demands on general processor throughput and cluster design."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL RELIABILITY: GROK GIBBERISH RESPONSES INCREASE",
-                "teaserTitle": "CONTENT: AI AUTHORSHIP DETECTED ON 1/3 OF WEBPAGES",
+                "headline": "MODELS: OPUS 5 FRONTIER RELEASE",
+                "teaserTitle": "SECURITY: EXPANDING DAYBREAK DEFENSE WINDOW",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Grok is increasingly generating gibberish responses, raising serious concerns about its foundational stability and output reliability. This directly impacts user trust and necessitates stringent quality assurance for integrated AI systems."
+                "narration_line": "Anthropic has officially deployed Opus 5 with advanced coding capabilities and sharper professional reasoning. The model introduces multi-agent coordination frameworks designed to handle complex enterprise tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTENT: AI AUTHORSHIP DETECTED ON 1/3 OF WEBPAGES",
-                "teaserTitle": "OPERATIONS: AI 'GATEKEEPING BOTS' CAUSE FRICTION",
+                "headline": "SECURITY: EXPANDING DAYBREAK DEFENSE WINDOW",
+                "teaserTitle": "SCIENCE: GEMINI 3.7 FLASH DEBUT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Over one-third of new webpages now show signs of AI authorship, signaling a massive proliferation of machine-generated content. This challenges content authenticity and demands new tools for verification and ethical attribution in digital strategies."
+                "narration_line": "OpenAI is expanding its Daybreak cybersecurity frameworks as the digital threat defense window narrows. Continuous threat monitoring helps preemptively patch vulnerabilities across cloud environments."
             },
             {
                 "slide_index": 5,
-                "headline": "OPERATIONS: AI 'GATEKEEPING BOTS' CAUSE FRICTION",
-                "teaserTitle": "INFRASTRUCTURE: AI DATACENTER OUTRAGE ESCALATES",
+                "headline": "SCIENCE: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "RESEARCH: RECURRENT LATENT REASONING BREAKTHROUGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The rise of AI 'gatekeeping bots' in enterprise workflows is causing significant operational friction and user frustration. Organizations must balance AI efficiency with human accessibility to prevent bottlenecks and maintain effective communication."
+                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash for high throughput coding and agentic execution. The architecture optimizes token processing speed while maintaining high reasoning fidelity."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: AI DATACENTER OUTRAGE ESCALATES",
-                "teaserTitle": "APPLICATIONS: DEEPMIND DEPLOYS SIGN LANGUAGE AI",
+                "headline": "RESEARCH: RECURRENT LATENT REASONING BREAKTHROUGH",
+                "teaserTitle": "ENTERPRISE: RAMP DEPLOYS MODEL ROUTER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Public outrage over AI datacenter environmental impact, including energy and water consumption, is escalating, influencing policy and elections. Companies must invest in sustainable solutions and transparently communicate efforts to mitigate regulatory risks."
+                "narration_line": "New research reveals compact recurrent latent models achieving record accuracy at fraction scale. This breakthrough drastically lowers cost barriers for specialized enterprise reasoning tasks."
             },
             {
                 "slide_index": 7,
-                "headline": "APPLICATIONS: DEEPMIND DEPLOYS SIGN LANGUAGE AI",
+                "headline": "ENTERPRISE: RAMP DEPLOYS MODEL ROUTER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind is deploying sign language AI directly to users, significantly advancing communication and accessibility for deaf and hard-of-hearing communities. This expands market segments and mandates inclusive design for broader tech adoption."
+                "narration_line": "Ramp has launched an intelligent model router to dynamically optimize enterprise API routing. The system balances cost and latency across multiple frontier LLM providers."
             },
             {
                 "slide_index": 8,
