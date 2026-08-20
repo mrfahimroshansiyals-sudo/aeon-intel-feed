@@ -7,51 +7,51 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "FINTECH: OPENROUTER STRIPE ACQUISITION",
-                "teaserTitle": "EU AI OFFICE: ACT ENFORCEMENT",
+                "teaserTitle": "REGULATION: EU AI ACT ENFORCEMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Stripe has acquired AI gateway startup OpenRouter for over seven billion dollars. This strategic consolidation merges payment rails with multi-model API infrastructure."
+                "narration_line": "Stripe is acquiring AI gateway startup OpenRouter for over seven billion dollars. This major consolidation unites payment rails with advanced multi model routing infrastructure."
             },
             {
                 "slide_index": 2,
                 "headline": "REGULATION: EU AI ACT ENFORCEMENT",
                 "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The European Commission has formally initiated strict enforcement of core artificial intelligence act rules across member states. Enterprises now face mandatory transparency directives and severe financial penalties."
+                "narration_line": "The European Commission has formally initiated strict enforcement of the EU AI Act. Non compliant enterprises face heavy penalties reaching up to seven percent of global turnover."
             },
             {
                 "slide_index": 3,
                 "headline": "SEMICONDUCTORS: COMMON EARTH PROJECT",
                 "teaserTitle": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Researchers have launched the Common Earth Project to eliminate rare earth dependencies in chip manufacturing. Securing resilient hardware supply chains is critical for data center scaling."
+                "narration_line": "Researchers launched the Common Earth Project to remove rare earth dependencies in chip manufacturing. This initiative secures critical hardware supply chains for future data centers."
             },
             {
                 "slide_index": 4,
                 "headline": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
                 "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Unsloth has released dynamic GGUF implementations providing unprecedented parameter efficiency for local execution. This drastically reduces VRAM requirements for consumer hardware."
+                "narration_line": "Unsloth released Dynamic 3.0 GGUF implementations to maximize local parameter efficiency. The update significantly reduces VRAM requirements for workstation hardware execution."
             },
             {
                 "slide_index": 5,
                 "headline": "DEEPMIND: GEMINI 3.7 FLASH",
                 "teaserTitle": "ANTHROPIC: COGNITIVE PROBING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash as a high-velocity workhorse model for coding agents. The architecture delivers significant latency reductions across multi-step tasks."
+                "narration_line": "Google DeepMind launched Gemini 3.7 Flash for accelerated coding and agentic workflows. The architecture delivers reduced latency while maintaining top tier multi step reasoning."
             },
             {
                 "slide_index": 6,
                 "headline": "ANTHROPIC: COGNITIVE PROBING",
                 "teaserTitle": "OPENAI: PRIVACY PROTECTIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic researchers have uncovered a hidden latent space mapping abstract reasoning inside Claude models. This interpretability technique provides deeper visibility into internal model weights."
+                "narration_line": "Anthropic uncovered a hidden latent space that maps how Claude models process abstract concepts. This interpretability breakthrough directly enhances safety verification and alignment."
             },
             {
                 "slide_index": 7,
                 "headline": "OPENAI: PRIVACY PROTECTIONS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI has deployed advanced customer privacy protections featuring strict zero-retention parameters. These safeguards address regulatory pressures by offering granular data isolation guarantees."
+                "narration_line": "OpenAI deployed advanced privacy protections featuring zero retention parameters for enterprise APIs. The upgrade enforces secure data isolation across multi tenant architectures."
             },
             {
                 "slide_index": 8,

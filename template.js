@@ -14,7 +14,7 @@ const dailyData = {
                 "The transaction fundamentally alters the competitive dynamics of LLM routing, signaling a convergence between high-frequency financial rails and artificial intelligence infrastructure. Engineering leaders must evaluate how gateway consolidation impacts long-term multi-model switching costs and vendor lock-in risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: ACT ENFORCEMENT",
+            "nextUpTease": "REGULATION: EU AI ACT ENFORCEMENT",
             "tags": [
                 "Source: https://www.cnbc.com/2026/08/17/stripe-to-buy-openrouter-as-fintech-expands-deeper-into-ai.html",
                 "Published: 2026-08-17T12:00:00Z",
