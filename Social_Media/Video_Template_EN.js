@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI: PACING MODEL DEVELOPMENT",
+        "hookTitle": "OPENAI UNLEASHES GPT-5.6 INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PACING MODEL DEVELOPMENT",
-                "teaserTitle": "OPENAI: THE DEFENDER'S WINDOW",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI is now pacing model development with cyber-critical capabilities built in from the start. This approach builds inherently more secure AI systems for frontier deployments. It means enterprise AI leaders must prioritize security-first roadmaps, increasing upfront costs but mitigating future cyber risks."
+                "narration_line": "OpenAI has launched its advanced GPT-5.6 model, showcasing superior reasoning and multimodal capabilities for enterprise applications. This release demands significant infrastructure updates to harness its expanded power and efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: THE DEFENDER'S WINDOW",
-                "teaserTitle": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI launched 'The Defender's Window,' a framework to detect and neutralize security vulnerabilities faster. This provides enterprises with improved threat intelligence and reduced mean time to remediation for AI-specific attacks. Strategic integration of these defense mechanisms is now critical for compliance."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative, enhancing security protocols to counter sophisticated AI-driven threats more effectively. This proactive measure aims to reduce enterprise risk exposure against evolving digital dangers."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "STRIPE: OPENROUTER AI ACQUISITION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AMD predicts software engineering will shift from AI copilots to agent swarms, redefining development workflows. This architectural change demands re-tooling and new orchestration platforms for interdependent AI entities. Engineering teams should prepare for increased complexity in debugging and security."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, an efficient model optimized for rapid, cost-effective inference in diverse AI applications. This model offers enterprises lower operational costs and faster deployment for latency-sensitive tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
-                "teaserTitle": "COMPUTE: THE CPU COMEBACK IS UPON US",
+                "headline": "STRIPE: OPENROUTER AI ACQUISITION",
+                "teaserTitle": "OPENAI: IPO CONFIRMED FOR 2027",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "HarnessEval-W uses hierarchical sub-agents to evaluate visual world models through verifiable reasoning chains, boosting transparency. This is vital for validating autonomous AI agent reliability and safety in high-stakes visual environments. Development teams can use this for better debugging and trust in critical applications."
+                "narration_line": "Stripe acquired OpenRouter, an AI gateway startup, aiming to integrate advanced AI capabilities into its financial technology platform. This move streamlines AI model access for developers and enhances Stripe's offerings in AI-powered financial services."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTE: THE CPU COMEBACK IS UPON US",
-                "teaserTitle": "OPEN SOURCE: ONECLI AGENT HARNESS",
+                "headline": "OPENAI: IPO CONFIRMED FOR 2027",
+                "teaserTitle": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IEEE Spectrum reports on a 'CPU comeback' in AI, driven by specialized instruction sets that augment GPU workflows. This offers enterprises a chance to re-evaluate hardware, potentially cutting high-cost GPU dependence. CTOs should assess hybrid CPU-GPU strategies for cost and energy efficiency."
+                "narration_line": "OpenAI\u2019s CFO confirmed plans for an initial public offering by two thousand twenty-seven, signaling a major shift in its corporate funding strategy. This impending IPO will profoundly influence the entire artificial intelligence industry and market valuations."
             },
             {
                 "slide_index": 6,
-                "headline": "OPEN SOURCE: ONECLI AGENT HARNESS",
-                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "headline": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
+                "teaserTitle": "BINANCE: AI AGENT TRADING CONTROLS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OneCLI, an open-source sandboxed agent harness, helps teams securely develop and deploy generalist AI agents. This platform allows safer experimentation and integration of agentic workflows into existing software stacks. Adopting such harnesses accelerates agent innovation while maintaining stringent security."
+                "narration_line": "Unsloth released Dynamic three point zero GGUFs, significantly improving large language model inference speed and memory use on consumer hardware. This optimization reduces compute costs and enables broader, more efficient local AI deployments for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "BINANCE: AI AGENT TRADING CONTROLS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI successfully verified the toughest mathematics proof to date, marking a milestone in its symbolic reasoning capabilities. This has deep implications for provably correct AI systems and accelerates automated theorem proving research. It signals a future where AI can self-verify its logic."
+                "narration_line": "Binance now permits AI agents in crypto trading, implementing new user controls to manage autonomous operations and market risks. This necessitates robust oversight frameworks for financial institutions to mitigate potential volatility and unexpected agent behavior."
             },
             {
                 "slide_index": 8,

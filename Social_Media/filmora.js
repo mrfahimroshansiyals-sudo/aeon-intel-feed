@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PACING MODEL DEVELOPMENT",
-                "teaserTitle": "OPENAI: THE DEFENDER'S WINDOW",
-                "visual_caption": "OpenAI is pacing model development with built-in cyber-critical capabilities for secure frontier deployments. This requires enterprises to adopt security-first roadmaps, increasing upfront costs but mitigating future cyber risks."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "visual_caption": "OpenAI launched GPT-5.6, setting new benchmarks for adaptable AI architectures and enterprise applications. This release requires infrastructure updates to leverage its expanded parameters and efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: THE DEFENDER'S WINDOW",
-                "teaserTitle": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
-                "visual_caption": "OpenAI launched 'The Defender's Window' to detect and neutralize security vulnerabilities faster. This gives enterprises better threat intelligence and reduced MTTR for AI attacks. Strategic integration of these defenses is now critical for compliance."
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "visual_caption": "OpenAI is expanding Daybreak cyber defense, integrating advanced threat detection into model security protocols. This enhances security against AI-driven threats, crucial for regulatory compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
-                "visual_caption": "AMD predicts software engineering will move from AI copilots to agent swarms, redefining workflows. This architecture demands re-tooling and new orchestration for interdependent AI. Teams must prepare for greater complexity in debugging and security."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "STRIPE: OPENROUTER AI ACQUISITION",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, optimized for speed and cost-effectiveness in AI applications. This model offers lower operational costs and faster deployment for latency-sensitive tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
-                "teaserTitle": "COMPUTE: THE CPU COMEBACK IS UPON US",
-                "visual_caption": "HarnessEval-W uses hierarchical sub-agents to evaluate visual world models via verifiable reasoning chains, boosting transparency. This is vital for validating autonomous AI agent reliability and safety. Teams can use this for enhanced debugging and trust."
+                "headline": "STRIPE: OPENROUTER AI ACQUISITION",
+                "teaserTitle": "OPENAI: IPO CONFIRMED FOR 2027",
+                "visual_caption": "Stripe acquired OpenRouter, an AI gateway startup, to integrate advanced AI capabilities into its fintech ecosystem. This streamlines AI model access and enhances Stripe's AI-powered financial services."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTE: THE CPU COMEBACK IS UPON US",
-                "teaserTitle": "OPEN SOURCE: ONECLI AGENT HARNESS",
-                "visual_caption": "IEEE Spectrum reports a \"CPU comeback\" in AI, driven by specialized instruction sets augmenting GPU workflows. This lets enterprises re-evaluate hardware, cutting high-cost GPU dependence. CTOs should assess hybrid CPU-GPU strategies for cost and energy efficiency."
+                "headline": "OPENAI: IPO CONFIRMED FOR 2027",
+                "teaserTitle": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
+                "visual_caption": "OpenAI\u2019s CFO confirmed plans for an IPO by 2027 or sooner, signifying a major shift in its corporate funding strategy. This will influence AI industry investments and market valuations."
             },
             {
                 "slide_index": 6,
-                "headline": "OPEN SOURCE: ONECLI AGENT HARNESS",
-                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "OneCLI, an open-source sandboxed agent harness, helps teams securely develop and deploy generalist AI agents. This platform allows safer experimentation and integration. Adopting such harnesses accelerates agent innovation while maintaining stringent enterprise security protocols."
+                "headline": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
+                "teaserTitle": "BINANCE: AI AGENT TRADING CONTROLS",
+                "visual_caption": "Unsloth released Dynamic 3.0 GGUFs, improving LLM inference speed and memory use on consumer hardware. This reduces compute costs and enables more efficient, localized AI deployments for enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "AI verified the toughest mathematics proof to date, marking a milestone in its symbolic reasoning. This has profound implications for provably correct AI systems. It accelerates automated theorem proving, enhancing AI reliability for critical algorithms."
+                "headline": "BINANCE: AI AGENT TRADING CONTROLS",
+                "teaserTitle": "",
+                "visual_caption": "Binance allows AI agents in crypto trading, with new controls for autonomous operations and market risks. This requires robust oversight to mitigate potential volatility and unexpected agent behavior."
             },
             {
                 "slide_index": 8,
