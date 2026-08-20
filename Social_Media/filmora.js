@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FINTECH: OPENROUTER STRIPE ACQUISITION",
-                "teaserTitle": "REGULATION: EU AI ACT ENFORCEMENT",
-                "visual_caption": "Stripe acquires OpenRouter for over $7B. This consolidation unifies payment rails with multi-model enterprise routing infrastructure."
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT",
+                "teaserTitle": "OPENAI: THE DEFENDER'S WINDOW",
+                "visual_caption": "OpenAI is pacing model development with built-in cyber-critical capabilities for secure frontier deployments. This requires enterprises to adopt security-first roadmaps, increasing upfront costs but mitigating future cyber risks."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: EU AI ACT ENFORCEMENT",
-                "teaserTitle": "SEMICONDUCTORS: COMMON EARTH PROJECT",
-                "visual_caption": "The European Commission officially enforces core AI Act rules. Non-compliant firms face financial penalties up to 7% of global turnover."
+                "headline": "OPENAI: THE DEFENDER'S WINDOW",
+                "teaserTitle": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
+                "visual_caption": "OpenAI launched 'The Defender's Window' to detect and neutralize security vulnerabilities faster. This gives enterprises better threat intelligence and reduced MTTR for AI attacks. Strategic integration of these defenses is now critical for compliance."
             },
             {
                 "slide_index": 3,
-                "heading": "SEMICONDUCTORS: COMMON EARTH PROJECT",
-                "teaserTitle": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
-                "visual_caption": "The Common Earth Project eliminates rare earth dependencies in chip manufacturing. This initiative secures hardware supply chains for future data centers."
+                "headline": "ARCHITECTURES: AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
+                "visual_caption": "AMD predicts software engineering will move from AI copilots to agent swarms, redefining workflows. This architecture demands re-tooling and new orchestration for interdependent AI. Teams must prepare for greater complexity in debugging and security."
             },
             {
                 "slide_index": 4,
-                "headline": "OPEN SOURCE: UNSLOTH DYNAMIC GGUFS",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH",
-                "visual_caption": "Unsloth released Dynamic 3.0 GGUFs to optimize parameter efficiency. The update drastically reduces VRAM requirements for local hardware execution."
+                "headline": "AI AGENTS: HARNESSEVAL-W VISUAL WORLDS",
+                "teaserTitle": "COMPUTE: THE CPU COMEBACK IS UPON US",
+                "visual_caption": "HarnessEval-W uses hierarchical sub-agents to evaluate visual world models via verifiable reasoning chains, boosting transparency. This is vital for validating autonomous AI agent reliability and safety. Teams can use this for enhanced debugging and trust."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH",
-                "teaserTitle": "ANTHROPIC: COGNITIVE PROBING",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash for agentic workflows. The architecture delivers reduced latency while maintaining top-tier multi-step reasoning."
+                "headline": "COMPUTE: THE CPU COMEBACK IS UPON US",
+                "teaserTitle": "OPEN SOURCE: ONECLI AGENT HARNESS",
+                "visual_caption": "IEEE Spectrum reports a \"CPU comeback\" in AI, driven by specialized instruction sets augmenting GPU workflows. This lets enterprises re-evaluate hardware, cutting high-cost GPU dependence. CTOs should assess hybrid CPU-GPU strategies for cost and energy efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: COGNITIVE PROBING",
-                "teaserTitle": "OPENAI: PRIVACY PROTECTIONS",
-                "visual_caption": "Anthropic uncovered a hidden latent space mapping how Claude processes abstract concepts. This interpretability breakthrough enhances alignment protocols."
+                "headline": "OPEN SOURCE: ONECLI AGENT HARNESS",
+                "teaserTitle": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "OneCLI, an open-source sandboxed agent harness, helps teams securely develop and deploy generalist AI agents. This platform allows safer experimentation and integration. Adopting such harnesses accelerates agent innovation while maintaining stringent enterprise security protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: PRIVACY PROTECTIONS",
-                "teaserTitle": "",
-                "visual_caption": "OpenAI deployed advanced privacy protections featuring zero-retention parameters for APIs. The upgrade enforces data isolation across multi-tenant deployments."
+                "headline": "RESEARCH: AI VERIFIES TOUGHEST MATH PROOF",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "AI verified the toughest mathematics proof to date, marking a milestone in its symbolic reasoning. This has profound implications for provably correct AI systems. It accelerates automated theorem proving, enhancing AI reliability for critical algorithms."
             },
             {
                 "slide_index": 8,
