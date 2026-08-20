@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_caption": "OpenAI launched GPT-5.6, setting new benchmarks for adaptable AI architectures and enterprise applications. This release requires infrastructure updates to leverage its expanded parameters and efficiency."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "teaserTitle": "ALIBABA: AI SPENDING HITS NET INCOME BY 75%",
+                "visual_caption": "OpenAI expands GPT-5.6 Sol in ChatGPT and opens Luna to free users. This move reduces AI integration barriers for global developers and enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
-                "visual_caption": "OpenAI is expanding Daybreak cyber defense, integrating advanced threat detection into model security protocols. This enhances security against AI-driven threats, crucial for regulatory compliance."
+                "headline": "ALIBABA: AI SPENDING HITS NET INCOME BY 75%",
+                "teaserTitle": "OPENAI: NEW CUSTOMER PRIVACY PROTECTIONS",
+                "visual_caption": "Alibaba reports a 75% net income drop, directly due to significant AI investments. This highlights the immense capital burden tech giants face pursuing AI leadership."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
-                "teaserTitle": "STRIPE: OPENROUTER AI ACQUISITION",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, optimized for speed and cost-effectiveness in AI applications. This model offers lower operational costs and faster deployment for latency-sensitive tasks."
+                "headline": "OPENAI: NEW CUSTOMER PRIVACY PROTECTIONS",
+                "teaserTitle": "COGNITION: CEO DENIES SPACEX ACQUISITION BID",
+                "visual_caption": "OpenAI implements enhanced customer privacy protections to surpass LLM data security standards. These new measures require stricter data handling protocols for enterprise deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "STRIPE: OPENROUTER AI ACQUISITION",
-                "teaserTitle": "OPENAI: IPO CONFIRMED FOR 2027",
-                "visual_caption": "Stripe acquired OpenRouter, an AI gateway startup, to integrate advanced AI capabilities into its fintech ecosystem. This streamlines AI model access and enhances Stripe's AI-powered financial services."
+                "headline": "COGNITION: CEO DENIES SPACEX ACQUISITION BID",
+                "teaserTitle": "OPENAI: RESEARCHER CYBER PROGRAM ACCESS REVOKED",
+                "visual_caption": "Cognition CEO denies SpaceX acquisition report, clarifying the AI startup's independent strategy. This underscores the competitive landscape for acquiring top-tier AI talent."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: IPO CONFIRMED FOR 2027",
-                "teaserTitle": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
-                "visual_caption": "OpenAI\u2019s CFO confirmed plans for an IPO by 2027 or sooner, signifying a major shift in its corporate funding strategy. This will influence AI industry investments and market valuations."
+                "headline": "OPENAI: RESEARCHER CYBER PROGRAM ACCESS REVOKED",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "visual_caption": "OpenAI reportedly revoked access for researchers in a cyber defense program. This raises questions about internal security and the balance between open innovation and proprietary control."
             },
             {
                 "slide_index": 6,
-                "headline": "UNSLOTH: DYNAMIC 3.0 GGUFS OPTIMIZATION",
-                "teaserTitle": "BINANCE: AI AGENT TRADING CONTROLS",
-                "visual_caption": "Unsloth released Dynamic 3.0 GGUFs, improving LLM inference speed and memory use on consumer hardware. This reduces compute costs and enables more efficient, localized AI deployments for enterprises."
+                "headline": "DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
+                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This improves disaster preparedness and logistics by providing enhanced accuracy and earlier warnings."
             },
             {
                 "slide_index": 7,
-                "headline": "BINANCE: AI AGENT TRADING CONTROLS",
+                "headline": "MIT TECH REVIEW: AI RECURSIVE SELF-IMPROVEMENT",
                 "teaserTitle": "",
-                "visual_caption": "Binance allows AI agents in crypto trading, with new controls for autonomous operations and market risks. This requires robust oversight to mitigate potential volatility and unexpected agent behavior."
+                "visual_caption": "MIT Tech Review suggests AI's recursive self-improvement may not advance as rapidly as anticipated. This impacts long-term AI architecture roadmaps and resource allocation."
             },
             {
                 "slide_index": 8,
