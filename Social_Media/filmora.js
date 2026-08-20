@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FINANCIALS: STRIPE ACQUIRES OPENROUTER FOR $7B+",
-                "teaserTitle": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
-                "visual_caption": "Stripe acquires OpenRouter for over $7B to consolidate its gateway infrastructure. This strategic move unifies multi-model routing directly into global fintech payment rails."
+                "headline": "MODELS: OPENAI GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
+                "visual_caption": "OpenAI launches GPT-5.6, a new frontier intelligence model for complex enterprise ambition. This demands robust deployment strategies and higher-capacity inference clusters."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
-                "teaserTitle": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
-                "visual_caption": "Specialized silicon startup Etched doubles its valuation to $21B in a month. Demand for custom transformer hardware designed to bypass GPU bottlenecks is surging."
+                "headline": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
+                "teaserTitle": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "visual_caption": "Fintech leader Ramp launches 'Router' AI model router, optimizing multi-model API calls. CTOs must consider dedicated routing layers to minimize inference expenses and maximize model performance."
             },
             {
                 "slide_index": 3,
-                "headline": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
-                "teaserTitle": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
-                "visual_caption": "Binance now permits autonomous software agents to execute live cryptocurrency trades on its exchange. Users carry the full operational responsibility for maintaining rigorous risk controls."
+                "headline": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "teaserTitle": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "visual_caption": "Google DeepMind releases Gemini 3.7 Flash, an efficient model for coding and agentic applications. This provides an optimized alternative for rapid execution and budget-constrained tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
-                "teaserTitle": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
-                "visual_caption": "Data catalog giant Alation confirms a major cyberattack compromising internal metadata repositories. Organizations must immediately audit third-party connectors to prevent enterprise data leaks."
+                "headline": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "FINANCIALS: ALIBABA SHARES FALL ON AI SPENDING",
+                "visual_caption": "OpenAI's 'Daybreak' assessment warns of escalating AI-weaponized threats from bad actors. Urgent investment in AI-driven threat intelligence and proactive security architectures is now essential."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
-                "teaserTitle": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
-                "visual_caption": "The European Commission launches a multi-billion-euro call to fund new AI gigafactories. This initiative aims to strengthen regional compute sovereignty and infrastructure."
+                "headline": "FINANCIALS: ALIBABA SHARES FALL 5% ON AI SPENDING",
+                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
+                "visual_caption": "Alibaba shares fell 5% after reporting a 75% net income drop due to AI investments. Executives must meticulously forecast ROI and demonstrate clear monetization paths for AI initiatives."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
-                "teaserTitle": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
-                "visual_caption": "The rise of autonomous agent swarms is making central processors the new performance bottleneck. Modern clusters require a hybrid balance of specialized GPUs and high-core-count CPUs."
+                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
+                "teaserTitle": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
+                "visual_caption": "MIT Technology Review explores debates on AI recursive self-improvement, suggesting slower progress. Leaders should prioritize incremental, human-in-the-loop AI development over speculative AGI timelines."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
+                "headline": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
                 "teaserTitle": "",
-                "visual_caption": "Data center operators are using intelligent software load-shifting to bypass electrical grid constraints. Dynamic throttling keeps heavy workloads running without triggering power outages."
+                "visual_caption": "Anthropic releases a new dataset for protein binder design, leveraging AI for accelerated drug discovery. This opens new avenues for pharmaceutical and biotech firms, reducing R&D cycles."
             },
             {
                 "slide_index": 8,

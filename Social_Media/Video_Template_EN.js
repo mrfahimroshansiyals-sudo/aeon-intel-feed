@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "STRIPE ACQUIRES OPENROUTER FOR SEVEN BILLION DOLLARS SURGE",
+        "hookTitle": "OPENAI GPT-5.6 FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FINANCIALS: STRIPE ACQUIRES OPENROUTER FOR $7B+",
-                "teaserTitle": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
+                "headline": "MODELS: OPENAI GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Stripe acquires OpenRouter for over seven billion dollars to consolidate its gateway infrastructure. This strategic move unifies multi model routing directly into global fintech payment rails."
+                "narration_line": "OpenAI has officially launched GPT-5.6, a new frontier intelligence model designed for complex enterprise ambition. This advancement demands robust deployment strategies and higher-capacity inference clusters for businesses."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: ETCHED VALUATION DOUBLES TO $21B",
-                "teaserTitle": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
+                "headline": "INFRASTRUCTURE: RAMP LAUNCHES AI MODEL ROUTER",
+                "teaserTitle": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Specialized silicon startup Etched doubles its valuation to twenty one billion dollars in a month. Demand for custom transformer hardware designed to bypass GPU bottlenecks is surging."
+                "narration_line": "Fintech leader Ramp introduced \"Router,\" its AI model router, optimizing multi-model API calls for enterprises. CTOs must now consider dedicated routing layers to minimize inference expenses and maximize model performance."
             },
             {
                 "slide_index": 3,
-                "headline": "AGENTS: BINANCE ENABLES AUTONOMOUS AI TRADING",
-                "teaserTitle": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
+                "headline": "MODELS: DEEPMIND RELEASES GEMINI 3.7 FLASH",
+                "teaserTitle": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Binance now permits autonomous software agents to execute live cryptocurrency trades on its exchange. Users carry the full operational responsibility for maintaining rigorous risk controls."
+                "narration_line": "Google DeepMind released Gemini three point seven Flash, an efficient workhorse model for coding and agentic applications. This provides a highly optimized alternative for tasks requiring rapid execution and budget constraints."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: ALATION CONFIRMS MAJOR CYBERATTACK",
-                "teaserTitle": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
+                "headline": "SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "FINANCIALS: ALIBABA SHARES FALL ON AI SPENDING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Data catalog giant Alation confirms a major cyberattack compromising internal metadata repositories. Organizations must immediately audit third party connectors to prevent enterprise data leaks."
+                "narration_line": "OpenAI's \"Daybreak\" assessment highlights an escalating threat where advanced AI is weaponized by bad actors. Urgent investment in AI-driven threat intelligence and proactive security architectures is now essential."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU LAUNCHES AI GIGAFACTORORIES CALL",
-                "teaserTitle": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
+                "headline": "FINANCIALS: ALIBABA SHARES FALL 5% ON AI SPENDING",
+                "teaserTitle": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission launches a multi billion euro call to fund new artificial intelligence gigafactories. This initiative aims to strengthen regional compute sovereignty and infrastructure."
+                "naration_line": "Alibaba Group's shares dropped five percent after reporting a seventy-five percent net income reduction due to AI investments. Executives must meticulously forecast return on investment and demonstrate clear monetization paths for AI initiatives."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPUTING: THE CPU COMEBACK IN THE AGE OF AGENTS",
-                "teaserTitle": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
+                "headline": "RESEARCH: AI RECURSIVE SELF-IMPROVEMENT DEBATED",
+                "teaserTitle": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The rise of autonomous agent swarms is making central processors the new performance bottleneck. Modern clusters require a hybrid balance of specialized GPUs and high core count CPUs."
+                "narration_line": "MIT Technology Review explores debates on AI recursive self-improvement, suggesting progress might be slower than anticipated. Leaders should prioritize incremental, human-in-the-loop AI development over speculative AGI timelines."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: FLEXIBLE SOFTWARE CURBS GRID PRESSURES",
+                "headline": "BIOTECH: ANTHROPIC PROTEIN BINDER DATASET",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Data center operators are using intelligent software load shifting to bypass electrical grid constraints. Dynamic throttling keeps heavy workloads running without triggering power outages."
+                "narration_line": "Anthropic released a new dataset for protein binder design, leveraging advanced AI for accelerated drug discovery. This opens new avenues for pharmaceutical and biotech firms, drastically reducing research and development cycles."
             },
             {
                 "slide_index": 8,
