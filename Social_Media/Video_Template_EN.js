@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI PUBLIC COMPANY TIMELINE ACCELERATES",
+        "hookTitle": "OPENROUTER ACQUISITION VALUED AT OVER SEVEN BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: PUBLIC COMPANY TIMELINE ACCELERATES",
-                "teaserTitle": "ENHANCED CUSTOMER PRIVACY SHIELDS",
+                "headline": "STRIPE: OPENROUTER ACQUISITION VALUED AT OVER $7B",
+                "teaserTitle": "EU TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's CFO confirmed the company aims for public listing by 2027 or sooner, accelerating its financial strategy. This move will fundamentally alter the valuation landscape for frontier artificial intelligence companies, impacting investment and market dynamics."
+                "narration_line": "Stripe has agreed to acquire AI gateway startup OpenRouter for over seven billion dollars. This major consolidation bridges fintech dominance with frontier model routing."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENHANCED CUSTOMER PRIVACY SHIELDS",
-                "teaserTitle": "DYNAMIC 3.0 GGUF ARCHITECTURE",
+                "headline": "EUROPEAN UNION: TECH SOVEREIGNTY PACKAGE LAUNCHED",
+                "teaserTitle": "OPENAI PRIVACY PROTECTIONS DEPLOYED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is developing new customer privacy protections to surpass industry standards, targeting differentiation from rivals like Anthropic. This initiative directly addresses B2B adoption barriers by securing sensitive enterprise data processed through advanced AI models."
+                "narration_line": "The European Commission introduced the Technological Sovereignty Package to strengthen regional capabilities. The initiative unlocks over thirty billion euros in targeted investments for AI infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "UNSLOTH: DYNAMIC 3.0 GGUF ARCHITECTURE",
-                "teaserTitle": "COLLABORATIVE AGENT PROTOCOL",
+                "headline": "OPENAI: CUSTOMER PRIVACY PROTECTIONS DEPLOYED",
+                "teaserTitle": "AMD CLOUD INFRASTRUCTURE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Unsloth released Dynamic 3.0 GGUF architecture, significantly boosting efficiency for large language models on consumer hardware. This update optimizes memory use and speeds up inference for quantized models, lowering barriers to local AI deployment."
+                "narration_line": "OpenAI rolled out enhanced customer privacy shields to secure enterprise data processing. These upgrades enforce strict data isolation boundaries to reduce regulatory risk."
             },
             {
                 "slide_index": 4,
-                "headline": "AGENT FRAMEWORKS: COLLABORATIVE AGENT PROTOCOL",
-                "teaserTitle": "GEMINI AI STUDY TOOL INTEGRATION",
+                "headline": "MICROSOFT: AZURE AI AND AMD INFRASTRUCTURE EXPANSION",
+                "teaserTitle": "RECURRENT LATENT REASONING MODEL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "BrightbeamAI introduced the Collaborative Human Agent Protocol (CHAP), an open standard for seamless human-AI agent interaction. This protocol enhances reliability and auditability, crucial for scaling multi-agent systems in complex enterprise environments."
+                "narration_line": "Microsoft expanded its Azure cloud infrastructure through a strategic integration of AMD silicon. This hardware scaling initiative helps mitigate supply chain bottlenecks for enterprise workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE: GEMINI AI STUDY TOOL INTEGRATION",
-                "teaserTitle": "RECURSIVE SELF-IMPROVEMENT LIMITS",
+                "headline": "ARXIV: RECURRENT LATENT REASONING MODEL RELEASED",
+                "teaserTitle": "AI SOFTWARE AGENTS PLATFORM",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google integrated new artificial intelligence study tools, powered by Gemini, into Search and educational platforms, enhancing personalized learning. This expands generative AI into learning ecosystems, creating new avenues for user engagement and data capture."
+                "narration_line": "Researchers released a compact one hundred fifty million parameter reasoning model achieving high efficiency. This breakthrough lowers the hardware footprint required for complex reasoning."
             },
             {
                 "slide_index": 6,
-                "headline": "FRONTIER AI: RECURSIVE SELF-IMPROVEMENT LIMITS",
-                "teaserTitle": "REAL-WORLD USAGE INSIGHTS LACKING",
+                "headline": "HACKER NEWS: OPENDEVIN GENERALIST AGENTS PLATFORM",
+                "teaserTitle": "SOFTWARE ENGINEERING AGENT SWARMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Analyses suggest AI recursive self-improvement may be more constrained and slower than projected, challenging optimistic AGI timelines. This impacts R&D investment strategies, shifting focus towards incremental advancements rather than unconstrained growth."
+                "narration_line": "The OpenDevin community advanced its open platform for generalist AI coding agents. The framework provides standardized evaluation benchmarks to accelerate software automation."
             },
             {
                 "slide_index": 7,
-                "headline": "AI DEPLOYMENT: REAL-WORLD USAGE INSIGHTS LACKING",
+                "headline": "IEEE SPECTRUM: SOFTWARE ENGINEERING AGENT SWARMS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "A significant gap exists in understanding real-world AI usage beyond benchmarks, hindering effective product iteration and optimization. This data void challenges enterprises in measuring AI impact and proving return on investment, requiring robust observability solutions."
+                "narration_line": "Industry leaders report that agent swarms are set to redefine software engineering workflows. Organizations must establish strict validation guardrails to manage autonomous code generation."
             },
             {
                 "slide_index": 8,
