@@ -14,7 +14,7 @@ const dailyData = {
                 "This transaction bridges fintech dominance with frontier AI routing, positioning Stripe to capture transactional value from enterprise API orchestration. Engineering leaders must evaluate how gateway consolidation impacts long-term model switching costs and multi-provider redundancy strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU TECH SOVEREIGNTY PACKAGE",
+            "nextUpTease": "TECH SOVEREIGNTY PACKAGE",
             "tags": [
                 "Source: https://techcrunch.com/2026/08/24/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
                 "Published: 2026-08-24T03:00:00Z",
@@ -29,7 +29,7 @@ const dailyData = {
                 "For multinational enterprises operating in Europe, compliance requirements are shifting from voluntary guidelines to strict legal mandates under the newly enforced AI Act rules. Organizations must immediately audit internal model deployment pipelines to align with rigorous regional transparency and data governance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI PRIVACY PROTECTIONS DEPLOYED",
+            "nextUpTease": "CUSTOMER PRIVACY PROTECTIONS DEPLOYED",
             "tags": [
                 "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
                 "Published: 2026-07-31T09:00:00Z",
@@ -44,7 +44,7 @@ const dailyData = {
                 "Corporate buyers can now leverage more rigorous data governance assurances, lowering legal barriers for large-scale enterprise deployments. Chief Information Officers must balance these proprietary safeguards against open-weight self-hosted alternatives when designing internal security architectures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMD CLOUD INFRASTRUCTURE EXPANSION",
+            "nextUpTease": "INFRASTRUCTURE EXPANSION",
             "tags": [
                 "Source: https://techcrunch.com/2026/08/24/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
                 "Published: 2026-08-24T05:00:00Z",
@@ -74,7 +74,7 @@ const dailyData = {
                 "This efficiency breakthrough drastically lowers the hardware footprint and memory bandwidth required for complex reasoning tasks at the edge. Technical architects can deploy these lightweight models to reduce operational inference costs while maintaining high execution accuracy."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI SOFTWARE AGENTS PLATFORM",
+            "nextUpTease": "GENERALIST AGENTS PLATFORM",
             "tags": [
                 "Source: https://arxiv.org/rss/cs.AI",
                 "Published: 2026-08-10T12:00:00Z",
