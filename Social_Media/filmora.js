@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "FRONTIER MODEL: DEEPSEEK-V4 FLASH VISION",
-                "visual_caption": "Google DeepMind has launched Gemini 3.7 Flash, their most intelligent workhorse model yet for coding and agents. This release pushes the frontier of intelligence per parameter, optimizing compute efficiency."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B UNCENSORED MLX UPDATE",
+                "teaserTitle": "FRONTIER MODEL: NVIDIA AVO HITS ARC-AGI-3 BENCHMARK",
+                "visual_caption": "The Qwen 3.8-27B Uncensored MLX model received an update, boosting local inference for Apple Silicon. This optimizes efficiency and speed for developers on edge devices."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER MODEL: DEEPSEEK-V4 FLASH VISION",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B UNCENSORED",
-                "visual_caption": "DeepSeek introduces the v4 Flash Vision experimental model, advancing multimodal capabilities for integrated visual data processing. This enhances AI understanding by reducing the need for separate vision-language pipelines."
+                "headline": "FRONTIER MODEL: NVIDIA AVO HITS ARC-AGI-3 BENCHMARK",
+                "teaserTitle": "INFRASTRUCTURE: STARCLOUD RAISES $250M FOR ORBITAL DATA CENTERS",
+                "visual_caption": "Nvidia's AVO model achieved 100% on the ARC-AGI-3 benchmark, a major breakthrough in advanced AI reasoning. This validates its ability to solve complex, novel problems requiring deeper cognitive processes."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B UNCENSORED",
-                "teaserTitle": "AUTONOMOUS DEPLOYMENT: NEVADA APPROVES ROBOTAXIS",
-                "visual_caption": "The Qwen 3.8-27B Uncensored MLX model on Hugging Face offers optimized local inference performance. This enables efficient, localized AI deployments, benefiting edge computing and reducing cloud dependence."
+                "headline": "INFRASTRUCTURE: STARCLOUD RAISES $250M FOR ORBITAL DATA CENTERS",
+                "teaserTitle": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
+                "visual_caption": "Starcloud secured $250M for orbital data centers, meeting escalating compute demands in space-constrained environments. This aims to deploy crucial data infrastructure in orbit, overcoming terrestrial limitations."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS DEPLOYMENT: NEVADA APPROVES ROBOTAXIS",
-                "teaserTitle": "CYBERSECURITY: RUST CRATE SUPPLY CHAIN THREAT",
-                "visual_caption": "Nevada regulators have approved thousands of robotaxis for Tesla, Uber, and Waymo, marking a major milestone in autonomous vehicle deployment. This accelerates AI-driven mobility's integration, increasing market opportunities and regulatory scrutiny."
+                "headline": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
+                "teaserTitle": "DATASET DEVELOPMENT: ULTRA-FINEWEB-L1 DATASET RELEASE",
+                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and broadening access to GPT-5.6 Luna for free users. This move strategically expands its advanced AI capabilities across a wider consumer base."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: RUST CRATE SUPPLY CHAIN THREAT",
-                "teaserTitle": "COMPUTE EFFICIENCY: NOVEL DATA CENTER COOLING",
-                "visual_caption": "A malicious Rust crate, 'Arrayref', was found executing a build-time payload, exposing a critical software supply chain vulnerability. This incident highlights the growing threat of embedded malware compromising AI development and deployment."
+                "headline": "DATASET DEVELOPMENT: ULTRA-FINEWEB-L1 DATASET RELEASE",
+                "teaserTitle": "ENTERPRISE SAAS: MICRO1 AI TRAINING HITS $500M RUN RATE",
+                "visual_caption": "The Ultra-FineWeb-L1 dataset received an update on Hugging Face, providing a vast, high-quality resource for training advanced large language models. This curated data directly addresses bottlenecks in acquiring and processing web-scale information."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPUTE EFFICIENCY: NOVEL DATA CENTER COOLING",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
-                "visual_caption": "Discussions have emerged about using human waste for data center cooling, highlighting the urgent need for sustainable thermal management solutions. This underscores extreme pressures on infrastructure to maintain efficient operational temperatures for AI compute."
+                "headline": "ENTERPRISE SAAS: MICRO1 AI TRAINING HITS $500M RUN RATE",
+                "teaserTitle": "ETHICS & IP: AI DRUG DESIGN AND OWNERSHIP DEBATE",
+                "visual_caption": "AI data startup Micro1 has achieved a $500M gross run rate, driven by surging demand for AI training data. This milestone reflects the critical and expanding market for bespoke data solutions powering enterprise AI initiatives."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+                "headline": "ETHICS & IP: AI DRUG DESIGN AND OWNERSHIP DEBATE",
                 "teaserTitle": "",
-                "visual_caption": "OpenAI is improving GPT-5.6 Sol within ChatGPT and expanding Luna access for free users, broadening its user base. This tiered deployment strategy aims to democratize advanced AI and gather extensive user feedback."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "A critical debate has emerged over intellectual property rights when AI autonomously designs novel drugs. This questions who deserves credit and ownership in AI-generated innovation within the pharmaceutical sector."
             },
             {
                 "slide_index": 8,
