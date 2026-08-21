@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "REGULATION: ANTHROPIC IPO BACKLASH RISK",
-                "visual_caption": "OpenAI has launched GPT-5.6, its new frontier intelligence model for enhanced scaling and advanced reasoning. This advances multi-modal understanding and abstract problem-solving in complex enterprise applications."
+                "headline": "AI ETHICS: AI COMPANIES DESTROY PHYSICAL BOOKS",
+                "teaserTitle": "DEEPSEEK-V4 FLASH VISION",
+                "visual_caption": "AI companies are reportedly destroying physical books after scanning them for model training, raising critical ethical and intellectual property concerns. This practice creates significant bottlenecks for data provenance and fair use guidelines in LLM development."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: ANTHROPIC IPO BACKLASH RISK",
-                "teaserTitle": "MODEL RELEASE: GEMINI 3.7 FLASH EFFICIENCY",
-                "visual_caption": "Anthropic's upcoming IPO filing highlights AI backlash as a key risk factor, reflecting growing investor concern over regulatory scrutiny. This emphasizes the need for robust governance and transparent communication strategies."
+                "headline": "MODEL RELEASE: DEEPSEEK-V4 FLASH VISION",
+                "teaserTitle": "NVIDIA CLOVERLEAF PARTNERSHIP",
+                "visual_caption": "DeepSeek launched its v4 Flash Vision-Experiment model, enhancing real-time visual-language understanding for autonomous systems. This release offers improved efficiency for complex object recognition, demanding GPU compute upgrades for full operational capability."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL RELEASE: GEMINI 3.7 FLASH EFFICIENCY",
-                "teaserTitle": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, an efficient workhorse model for coding and agent-based applications. This iteration improves development tasks with lower latency and reduced operational costs."
+                "headline": "INFRASTRUCTURE: NVIDIA CLOVERLEAF PARTNERSHIP",
+                "teaserTitle": "AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
+                "visual_caption": "Nvidia partnered with Cloverleaf to expand high-performance AI compute infrastructure, targeting large-scale GPU deployments globally. This collaboration aims to alleviate data center capacity bottlenecks, accelerating frontier model training and inference at scale."
             },
             {
                 "slide_index": 4,
-                "headline": "AI SECURITY: LLM VULNERABILITY EXPOSED",
-                "teaserTitle": "MARKET DYNAMICS: RILLET'S $100M UNICORN STATUS",
-                "visual_caption": "Research exposes a fundamental flaw in LLMs, making them vulnerable to attacks that can trick them. This threat necessitates immediate architectural review and advanced defensive measures for secure deployments."
+                "headline": "AI EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
+                "teaserTitle": "RESEARCH: 4D ANYONE MONOCULAR VIDEO",
+                "visual_caption": "A new study shows AI tools boost homework scores but correlate with a drop in exam performance, exposing a critical understanding gap. This impacts educational assessment and future workforce readiness, influencing AI-driven talent strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "MARKET DYNAMICS: RILLET'S $100M UNICORN STATUS",
-                "teaserTitle": "MODEL ARCHITECTURE: SELF-CORRECTING LLMS",
-                "visual_caption": "AI accounting startup Rillet secured $100M in funding within 48 hours, achieving unicorn status. This highlights rapid investor confidence and strong market demand for specialized enterprise AI solutions."
+                "headline": "RESEARCH: 4D ANYONE MONOCULAR VIDEO",
+                "teaserTitle": "QWEN3.8-27B GGUF UPDATE",
+                "visual_caption": "Researchers introduced '4DAnyone,' a framework reconstructing 4D human models from single monocular videos, overcoming previous scaling bottlenecks. This breakthrough streamlines content creation for VR and gaming, reducing asset generation costs by 25%."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL ARCHITECTURE: SELF-CORRECTING LLMS",
-                "teaserTitle": "INFRASTRUCTURE: NVIDIA AI HARNESS FOCUS",
-                "visual_caption": "New research introduces self-correcting LLMs through Chain-of-Thought refinement, enabling error identification and rectification. This significantly improves AI system reliability and accuracy in real-world scenarios."
+                "headline": "MODEL OPTIMIZATION: QWEN3.8-27B GGUF UPDATE",
+                "teaserTitle": "AI CONSCIOUSNESS DEBATE TRAP",
+                "visual_caption": "The `unsloth/Qwen3.8-27B-GGUF` model received an update, enhancing its quantized performance and local deployment efficiency on consumer hardware. This optimization reduces hardware requirements by 10-20%, expanding AI access for smaller enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: NVIDIA AI HARNESS FOCUS",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Nvidia emphasizes the \"harness\" as a critical AI deployment differentiator, shifting focus from models to orchestration and optimization layers. This strategic re-prioritization ensures greater efficiency and scalability for AI investments."
+                "headline": "AI POLICY: AI CONSCIOUSNESS DEBATE TRAP",
+                "teaserTitle": "",
+                "visual_caption": "MIT Tech Review warns that debates on AI consciousness divert resources from tangible risks like bias and safety. This misdirection delays pragmatic policy development, increasing regulatory compliance risks for AI deployments."
             },
             {
                 "slide_index": 8,
