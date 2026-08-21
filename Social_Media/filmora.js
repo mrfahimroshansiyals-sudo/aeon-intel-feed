@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IEEE SPECTRUM: FROM AI COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
-                "visual_caption": "Software engineering is shifting from human-assisted copilots to fully autonomous agent swarms. This transition forces enterprise development teams to overhaul their underlying infrastructure."
+                "headline": "OPENAI: CODEX BUG CAUSES 10X AWS CHARGES",
+                "teaserTitle": "AI SECURITY: FUNDAMENTAL LLM ATTACK FLAW",
+                "visual_caption": "A critical bug in OpenAI's Codex on AWS Bedrock is causing a 10X surge in compute charges for enterprise users. This error triggers redundant API calls and excessive token consumption, severely impacting development cost efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
-                "teaserTitle": "PAPERS WITH CODE: BDH-CQ RECURRENT LATENT REASONING",
-                "visual_caption": "Agentic workloads have turned central processing units into critical performance bottlenecks across data centers. Architects must rebalance compute allocations to eliminate latency spikes."
+                "headline": "AI SECURITY: FUNDAMENTAL LLM ATTACK FLAW",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "Researchers uncovered a fundamental flaw making LLMs highly vulnerable to new adversarial attacks. This vulnerability allows subtle prompt injections that bypass safety filters."
             },
             {
                 "slide_index": 3,
-                "headline": "PAPERS WITH CODE: BDH-CQ RECURRENT LATENT REASONING",
-                "teaserTitle": "HACKER NEWS: VOMIT TOKEN CLEANUP UTILITY",
-                "visual_caption": "A new 150M-parameter model called BDH-CQ achieves breakthrough efficiency using recurrent latent reasoning. This lean architecture slashes inference costs while rivaling massive models."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent workhorse model for coding and agents. This iteration boosts performance efficiency while maintaining state-of-the-art intelligence."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: VOMIT TOKEN CLEANUP UTILITY",
-                "teaserTitle": "TECHCRUNCH: MICRO1 REACHES 500M RUN RATE",
-                "visual_caption": "Open-source proxy tools are now stripping noisy intermediate reasoning tokens from production API outputs. Filtering these payloads successfully reduces downstream billing costs."
+                "headline": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
+                "teaserTitle": "PROGRAMMING: MOJO NOW OPEN SOURCE",
+                "visual_caption": "New data shows OpenAI gaining rapidly on Anthropic in securing B2B enterprise users, intensifying competition for foundational model adoption. This shift signals a competitive landscape for strategic platform integration."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: MICRO1 REACHES 500M RUN RATE",
-                "teaserTitle": "EU AI OFFICE: ENFORCING AI ACT RULES",
-                "visual_caption": "Data startup Micro1 has reached a $500M run rate amid intense training demand. Premium data curation pipelines now command extreme pricing power across the B2B market."
+                "headline": "PROGRAMMING: MOJO NOW OPEN SOURCE",
+                "teaserTitle": "HARDWARE: $400M CHIPMAKING MACHINE",
+                "visual_caption": "The high-performance AI programming language Mojo is now open source, enabling broader community development for AI inference. This aims to standardize and optimize AI development across diverse hardware."
             },
             {
                 "slide_index": 6,
-                "headline": "EU AI OFFICE: ENFORCING AI ACT RULES",
-                "teaserTitle": "MICROSOFT: FRONTIER COMPANY TRANSFORMATION",
-                "visual_caption": "The European Commission has initiated strict enforcement of foundational AI Act transparency mandates. Non-compliance carries severe penalties reaching up to 7% of turnover."
+                "headline": "HARDWARE: $400M CHIPMAKING MACHINE",
+                "teaserTitle": "PRODUCT: CHATGPT APPLE MESSAGES PLUGIN",
+                "visual_caption": "ASML holds a critical monopoly on the $400M machines essential for patterning advanced AI chips. This creates an unprecedented bottleneck for semiconductor fabrication."
             },
             {
                 "slide_index": 7,
-                "headline": "MICROSOFT: FRONTIER COMPANY TRANSFORMATION",
+                "headline": "PRODUCT: CHATGPT APPLE MESSAGES PLUGIN",
                 "teaserTitle": "",
-                "visual_caption": "Microsoft has released comprehensive blueprints detailing its internal transition into a frontier AI enterprise. Organizations must adopt these advanced frameworks to stay competitive."
+                "visual_caption": "ChatGPT now features a new Apple Messages plug-in, allowing users to send texts directly from the AI. This marks a significant step towards deeper integration into personal communication platforms."
             },
             {
                 "slide_index": 8,
