@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: OPENAI INTRODUCES GPT-5.6 SCALABILITY",
-                "teaserTitle": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
-                "visual_caption": "OpenAI released GPT-5.6, a frontier model for unprecedented enterprise scalability. It optimizes complex deployments, boosting multi-modal processing efficiency by 15%."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX OPTIMIZATION",
+                "teaserTitle": "QWEN 3.8-27B FP8 EFFICIENCY",
+                "visual_caption": "Orcarouter released an MLX optimized Qwen 3.8-27B model for Apple Silicon. This delivers a 20-25% improvement in processing latency on compatible devices."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
-                "teaserTitle": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "DeepSeek unveiled its v4-Flash-Vision-exp model, integrating high-speed vision with advanced language. It offers 20% faster inference on real-time visual-linguistic tasks."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B FP8 EFFICIENCY",
+                "teaserTitle": "GEMINI 3.7 FLASH DEPLOYMENT",
+                "visual_caption": "The Qwen 3.8-27B Uncensored model now uses FP8 precision, cutting VRAM usage by up to 50%. This accelerates inference by 30% on supporting hardware."
             },
             {
                 "slide_index": 3,
-                "headline": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
-                "visual_caption": "OpenAI expands Daybreak, enhancing AI cyber defense as vulnerabilities narrow. Threat detection models identify attacks 25% faster."
+                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "AI BOOK SCANNING CONTROVERSY",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, optimized for coding and agentic workflows. This model delivers rapid response times in complex multi-step reasoning tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
-                "teaserTitle": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
-                "visual_caption": "Samsung announced up to $80B in shareholder returns post-SK Hynix buyback. This signals major capital redeployment into next-gen AI hardware."
+                "headline": "DATA ETHICS: AI BOOK SCANNING CONTROVERSY",
+                "teaserTitle": "TTS SUB-50MS LATENCY BREAKTHROUGH",
+                "visual_caption": "A controversy emerges over reports of AI companies destroying rare physical books for training data. This risks irreversible damage to cultural archives and raises ethical concerns."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
-                "teaserTitle": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Unsloth Qwen 3.8-27B GGUF model updated for local inference optimization. It improves execution speed and reduces memory footprint by 15-20%."
+                "headline": "AI EFFICIENCY: TTS SUB-50MS LATENCY BREAKTHROUGH",
+                "teaserTitle": "AI MEMORY STOCKS RISE",
+                "visual_caption": "Nari Labs achieved sub-50ms response times in Text-to-Speech technology. This breakthrough sets a new benchmark for real-time conversational AI."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
-                "teaserTitle": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
-                "visual_caption": "Debate grows over AI companies destroying rare books for bulk data scanning. This raises questions about cultural preservation and ethical data acquisition."
+                "headline": "HARDWARE TRENDS: AI MEMORY STOCKS RISE",
+                "teaserTitle": "MICRO1 HITS $500M RUN RATE",
+                "visual_caption": "Four key memory stocks are trending as darlings of the AI boom, reflecting strong market demand for HBM. This indicates rising investment and valuation in specialized AI hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
+                "headline": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
                 "teaserTitle": "",
-                "visual_caption": "Orcarouter released updated Qwen 3.8-27B Uncensored-FP8 model. It leverages 8-bit floating-point precision for efficient inference and reduced memory."
+                "visual_caption": "AI data startup Micro1 reached a significant milestone, achieving a $500M gross run rate. This growth highlights the critical demand for high-quality data in AI model training."
             },
             {
                 "slide_index": 8,

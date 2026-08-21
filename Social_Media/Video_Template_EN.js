@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI INTRODUCES GPT-5.6 SCALABILITY",
+        "hookTitle": "QWEN 3.8-27B MLX OPTIMIZATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: OPENAI INTRODUCES GPT-5.6 SCALABILITY",
-                "teaserTitle": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX OPTIMIZATION",
+                "teaserTitle": "QWEN 3.8-27B FP8 EFFICIENCY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released GPT-5.6, a new frontier model designed for unprecedented enterprise scalability. This advancement optimizes complex deployments, improving multi-modal processing efficiency by fifteen percent."
+                "narration_line": "Orcarouter has released a new MLX optimized version of its Qwen 3.8-27B model, specifically for Apple Silicon. This provides a twenty to twenty-five percent improvement in processing latency on compatible devices."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
-                "teaserTitle": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B FP8 EFFICIENCY",
+                "teaserTitle": "GEMINI 3.7 FLASH DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DeepSeek unveiled its v4-Flash-Vision-exp model, integrating high-speed vision with advanced language understanding. This model offers twenty percent faster inference on real-time visual-linguistic tasks."
+                "narration_line": "The Qwen 3.8-27B Uncensored model now uses FP8 precision, cutting VRAM usage by up to fifty percent. This accelerates inference by thirty percent on supporting hardware."
             },
             {
                 "slide_index": 3,
-                "headline": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
+                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "AI BOOK SCANNING CONTROVERSY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is expanding its Daybreak initiative, enhancing AI cyber defense as system vulnerabilities narrow. Threat detection models now identify sophisticated attacks twenty-five percent faster."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, optimized for coding and agentic workflows. This model delivers rapid response times in complex multi-step reasoning tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
-                "teaserTitle": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
+                "headline": "DATA ETHICS: AI BOOK SCANNING CONTROVERSY",
+                "teaserTitle": "TTS SUB-50MS LATENCY BREAKTHROUGH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Samsung announced plans for up to eighty billion dollars in shareholder returns, following its SK Hynix buyback. This signals major capital redeployment into next-generation AI hardware."
+                "narration_line": "A controversy is emerging over reports of AI companies destroying rare physical books for training data. This practice risks irreversible damage to cultural archives and raises ethical concerns."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
-                "teaserTitle": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
+                "headline": "AI EFFICIENCY: TTS SUB-50MS LATENCY BREAKTHROUGH",
+                "teaserTitle": "AI MEMORY STOCKS RISE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Unsloth Qwen three point eight-twenty-seven billion GGUF model received an update for local inference optimization. It improves execution speed and reduces memory footprint by fifteen to twenty percent."
+                "narration_line": "Nari Labs has achieved sub-fifty millisecond response times in Text-to-Speech technology. This breakthrough sets a new benchmark for real-time conversational artificial intelligence."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
-                "teaserTitle": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
+                "headline": "HARDWARE TRENDS: AI MEMORY STOCKS RISE",
+                "teaserTitle": "MICRO1 HITS $500M RUN RATE",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "A debate is growing over AI companies reportedly destroying rare physical books for bulk data scanning. This practice raises critical questions about cultural preservation and ethical data acquisition methods."
+                "narration_line": "Four key memory stocks are trending as darlings of the artificial intelligence boom, reflecting strong market demand for high-bandwidth memory. This indicates rising investment and valuation in specialized AI hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
+                "headline": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Orcarouter released an updated Qwen three point eight-twenty-seven billion Uncensored-FP8 model. It leverages eight-bit floating-point precision for more efficient inference and reduced memory consumption."
+                "narration_line": "AI data startup Micro1 has reached a significant milestone, achieving a five hundred million dollar gross run rate. This growth highlights the critical demand for high-quality data in AI model training."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
