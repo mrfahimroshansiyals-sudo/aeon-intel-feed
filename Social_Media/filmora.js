@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: GPT-5.6 SCALES WITH AMBITION",
-                "teaserTitle": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
-                "visual_caption": "OpenAI has launched GPT-5.6, their newest frontier model designed for powerful, scalable intelligence. This release promises significant architectural shifts, allowing more ambitious AI projects and faster development cycles."
+                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH UNVEILED",
+                "teaserTitle": "HARDWARE ARCHITECTURE: NVIDIA'S AI HARNESS CRITICAL",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, a new workhorse model for coding and agents. This release pushes performance boundaries for sophisticated AI applications."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
-                "teaserTitle": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
-                "visual_caption": "DeepSeek introduced its v4-flash-vision-exp, a new multimodal model optimized for faster visual and textual understanding. It offers high-performance capabilities, improving cost-effectiveness for real-time perception by 15%."
+                "headline": "HARDWARE ARCHITECTURE: NVIDIA'S AI HARNESS CRITICAL",
+                "teaserTitle": "AI SECURITY: CLAUDE MYTHOS 5 BOOSTS DEFENSE",
+                "visual_caption": "Nvidia emphasizes that AI system harnesses are now more crucial than models for performance. This requires strategic investment in infrastructure and software integration for peak efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
-                "teaserTitle": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
-                "visual_caption": "Proliferate launched an open-source, self-hostable platform for building advanced coding agents. This framework enables developers to manage AI agents, potentially cutting licensing costs by up to 25%."
+                "headline": "AI SECURITY: CLAUDE MYTHOS 5 BOOSTS DEFENSE",
+                "teaserTitle": "MODEL DEPLOYMENT: GPT-5.6 SOL/LUNA ACCESS EXPANDS",
+                "visual_caption": "Anthropic is extending Claude Mythos 5's advanced cybersecurity features to more defenders. This aims to fortify digital infrastructure against increasingly sophisticated AI threats."
             },
             {
                 "slide_index": 4,
-                "headline": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
-                "visual_caption": "OpenAI's Daybreak initiative reports a narrowing cyber defense window due to escalating AI-powered threats. This mandates immediate investment in AI-driven cybersecurity to reduce incident response times by 30%."
+                "headline": "MODEL DEPLOYMENT: GPT-5.6 SOL/LUNA ACCESS EXPANDS",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN3.8 FP8 BOOSTS COMPUTE",
+                "visual_caption": "OpenAI improved GPT-5.6 Sol and extended free access to GPT-5.6 Luna. This democratizes advanced AI, lowering entry barriers for businesses to integrate sophisticated models."
             },
             {
                 "slide_index": 5,
-                "headline": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
-                "teaserTitle": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
-                "visual_caption": "Hugging Face now hosts ChartGalaxy, a dataset enhancing large language model training with diverse charting contexts. Integrating this resource can improve LLM performance, reducing hallucination rates by 10% in fact-based output."
+                "headline": "MODEL OPTIMIZATION: QWEN3.8 FP8 BOOSTS COMPUTE",
+                "teaserTitle": "DATA INFRASTRUCTURE: ORBITAL DATA CENTERS SECURE $250M",
+                "visual_caption": "Qwen3.8-27B-Uncensored-FP8 uses FP8 quantization for greater compute efficiency. This enables faster LLM inference with significantly reduced memory footprints."
             },
             {
                 "slide_index": 6,
-                "headline": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
-                "teaserTitle": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
-                "visual_caption": "AI's role in drug discovery raises complex questions about intellectual property rights and research credit. This necessitates re-evaluation of legal frameworks, potentially impacting R&D investments and collaborative models."
+                "headline": "DATA INFRASTRUCTURE: ORBITAL DATA CENTERS SECURE $250M",
+                "teaserTitle": "TOOLS & FRAMEWORKS: SELF-HOSTED AGENT FACTORY EMERGES",
+                "visual_caption": "Starcloud secured $250M for orbital data centers. This addresses critical compute capacity demand as terrestrial options face constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
+                "headline": "TOOLS & FRAMEWORKS: SELF-HOSTED AGENT FACTORY EMERGES",
                 "teaserTitle": "",
-                "visual_caption": "New research details GPU memory access mechanisms, showing how hardware designs impact processing efficiency. These insights offer significant performance gains, potentially boosting AI training speeds by 5-10%."
+                "visual_caption": "A blueprint for a self-hosted, sandboxed, agentic software factory has emerged. This offers enhanced control and privacy for developing AI-driven solutions internally."
             },
             {
                 "slide_index": 8,
