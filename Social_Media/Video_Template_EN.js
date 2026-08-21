@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENROUTER OX ALPHA",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENROUTER: OX ALPHA",
-                "teaserTitle": "GITHUB: 506 POINT OUTAGE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenRouter launches Ox Alpha to streamline multi model API routing across enterprise developer environments. This platform update provides centralized load balancing and telemetry for organizations managing concurrent frontier deployments."
+                "narration_line": "OpenAI has released GPT-5.6, a new frontier model for scalable enterprise AI. This advancement enhances complex reasoning for real-world deployments, setting higher benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "GITHUB: 506 POINT OUTAGE",
-                "teaserTitle": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "GitHub experienced a major infrastructure failure resulting in five hundred six points of community discussion regarding service reliability. The unexpected downtime disrupted critical enterprise deployment workflows across global development teams."
+                "narration_line": "Google DeepMind introduced Gemini 3.7 Flash, optimized for advanced coding and agentic tasks. This powerful model boosts efficiency for complex computational workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
-                "teaserTitle": "MICROSOFT: FY26 FRONTIER SHIFT",
+                "headline": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Security researchers identified a malicious Rust crate named Arrayref executing unauthorized build time payloads during compilation. This supply chain vulnerability exposes downstream software dependencies to arbitrary code execution risks."
+                "narration_line": "Agentic AI workloads are making CPUs the new performance bottleneck, requiring a re-evaluation of hardware designs. Infrastructure planning must now balance CPU and GPU allocation to maintain efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: FY26 FRONTIER SHIFT",
-                "teaserTitle": "EU: TECH SOVEREIGNTY PACKAGE",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft commercial leadership reviewed the fiscal year twenty twenty six trajectory, emphasizing enterprise transition to frontier operationalization. The strategic focus centers on deep systems integration and measurable return on investment."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense to narrow AI system vulnerabilities. This initiative integrates advanced threat detection, requiring stronger security protocols."
             },
             {
                 "slide_index": 5,
-                "headline": "EU: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "NIST: GENESIS MISSION PARTNERSHIP",
+                "headline": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
+                "teaserTitle": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission introduced the technological sovereignty package to strengthen local digital autonomy across semiconductors and cloud infrastructure. The new regulatory measures aim to secure European supply chains against external dependencies."
+                "narration_line": "AI data startup Micro1 hit a five hundred million dollar gross run rate, driven by surging demand for AI training data. This highlights a critical market opportunity in high-quality dataset generation."
             },
             {
                 "slide_index": 6,
-                "headline": "NIST: GENESIS MISSION PARTNERSHIP",
-                "teaserTitle": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+                "headline": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
+                "teaserTitle": "CNBC: HIGH-YIELDING AI BONDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The National Institute of Standards and Technology officially joined the national genesis mission to accelerate artificial intelligence safety standards. This federal initiative bridges fundamental metrology research with scalable deployment."
+                "narration_line": "HarnessEval-W offers agentic evaluation of visual world models, improving transparency and accuracy. Development teams must integrate rigorous protocols for safer AI deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+                "headline": "CNBC: HIGH-YIELDING AI BONDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Trending developer repositories on Hugging Face highlight advanced model variations optimized for high performance inference and fine tuning. Community focus has shifted entirely toward efficient weight distribution and quantization formats."
+                "naration_line": "Wall Street is investing in high-yielding AI bonds to fund rapid AI infrastructure growth. This provides new capital for R&D, accelerating technological adoption."
             },
             {
                 "slide_index": 8,

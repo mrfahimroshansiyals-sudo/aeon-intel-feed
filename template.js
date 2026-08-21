@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENROUTER",
-        "titleBlue": "ALPHA",
-        "footerSummary": "OpenRouter launches Ox Alpha as API gateway integration speeds up multi-model enterprise orchestration and workload distribution."
+        "titleWhite": "GPT-5.6 FRONTIER",
+        "titleBlue": "INTELLIGENCE",
+        "footerSummary": "OpenAI unveils GPT-5.6, pushing frontier AI capabilities to scale enterprise ambition. The update signals new benchmarks for model deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENROUTER: OX ALPHA",
+            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
             "paragraphs": [
-                "OpenRouter has launched Ox Alpha to streamline multi-model API routing across enterprise developer environments. This platform update provides centralized load balancing and telemetry for organizations managing concurrent frontier deployments.",
-                "Engineering teams can now eliminate redundant gateway infrastructure while optimizing token routing costs dynamically. Strategic adoption of unified routing significantly reduces operational friction in multi-vendor LLM stacks."
+                "OpenAI has unveiled GPT-5.6, a new frontier model designed to scale intelligence across ambitious enterprise applications. This release focuses on advanced reasoning capabilities and enhanced architectural efficiency for complex, real-world deployments, setting a higher bar for integrated AI systems.",
+                "Businesses must now re-evaluate their model integration strategies to leverage GPT-5.6's expanded capacity, potentially accelerating automation roadmaps. The strategic imperative shifts towards optimizing compute allocation and fine-tuning for specialized tasks, impacting both development cycles and operational costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "GITHUB: 506 POINT OUTAGE",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "tags": [
-                "Source: https://news.ycombinator.com/",
-                "Published: 2026-08-22T09:00:00Z",
+                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+                "Published: 2026-08-18T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GITHUB: 506 POINT OUTAGE",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "paragraphs": [
-                "GitHub experienced a major infrastructure failure resulting in 506 points of community discussion regarding service reliability and CI/CD pipeline stalls. The unexpected downtime disrupted critical enterprise deployment workflows across global development teams.",
-                "Engineering leadership must re-evaluate dependency chains on centralized code hosting platforms to mitigate operational risk. Implementing robust local fallback mechanisms is essential to prevent cascading build failures during major cloud outages."
+                "Google DeepMind announced the release of Gemini 3.7 Flash, their most intelligent workhorse model yet, optimized for coding and agentic operations. This iteration emphasizes speed and efficiency, delivering high performance for complex computational tasks and multi-step agent workflows.",
+                "Developers gain a powerful, cost-effective tool for rapidly prototyping and deploying AI agents, potentially reducing inference latency and API call overhead. Strategic adoption can streamline software development pipelines and enhance autonomous system capabilities, directly impacting project timelines and resource consumption."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
+            "nextUpTease": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
             "tags": [
-                "Source: https://news.ycombinator.com/",
-                "Published: 2026-08-22T08:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-22T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
+            "heading": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
             "paragraphs": [
-                "Security researchers identified a malicious Rust crate named Arrayref executing unauthorized build-time payloads during compilation. This supply chain vulnerability exposes downstream software dependencies to arbitrary code execution risks.",
-                "Security teams must enforce strict dependency pinning and automated static analysis within package management pipelines. Proactive scanning for build-time execution scripts is now a mandatory defense against software supply chain infiltration."
+                "IEEE Spectrum reports that agentic AI workloads are increasingly making CPUs the new performance bottleneck, signaling a \"CPU comeback\" in hardware architecture. This shift requires re-evaluating traditional GPU-centric design paradigms for distributed agent systems and specialized inference tasks.",
+                "Enterprise infrastructure planning must now consider balanced CPU-GPU resource allocation to prevent compute efficiency losses and manage escalating inference costs. Strategic investment in optimized CPU architectures and heterogeneous computing solutions becomes critical for scaling advanced AI applications and maintaining competitive operational expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: FY26 FRONTIER SHIFT",
+            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "tags": [
-                "Source: https://news.ycombinator.com/",
-                "Published: 2026-08-22T07:30:00Z",
+                "Source: https://spectrum.ieee.org/ai-cpu-comeback",
+                "Published: 2026-08-16T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: FY26 FRONTIER SHIFT",
+            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
             "paragraphs": [
-                "Microsoft commercial leadership reviewed the fiscal year 2026 trajectory, emphasizing a complete enterprise transition from AI experimentation to full frontier operationalization. The strategic pivot focuses on deep systems integration and measurable ROI across commercial cloud deployments.",
-                "Enterprise architects must align cloud budgets with production-grade AI infrastructure rather than isolated pilot projects. Scaling autonomous systems requires rigorous governance frameworks to ensure secure enterprise transformation."
+                "OpenAI is expanding its Daybreak initiative, a cyber defense window designed to narrow vulnerabilities in AI systems, as security threats become more sophisticated. This move integrates advanced threat detection capabilities and proactive countermeasures into frontier model deployment lifecycles.",
+                "Organizations leveraging OpenAI's models must factor in enhanced security protocols and compliance frameworks to mitigate increasing cyber-physical risks. This strategic focus demands robust internal auditing and a re-evaluation of data protection policies to safeguard proprietary intelligence and maintain operational integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU: TECH SOVEREIGNTY PACKAGE",
+            "nextUpTease": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
             "tags": [
-                "Source: https://blogs.microsoft.com/",
-                "Published: 2026-07-28T10:00:00Z",
+                "Source: https://openai.com/news/expanding-daybreak-as-cyber-defense-window-narrows",
+                "Published: 2026-08-17T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EU: TECH SOVEREIGNTY PACKAGE",
+            "heading": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
             "paragraphs": [
-                "The European Commission introduced the comprehensive Technological Sovereignty Package to strengthen local digital autonomy across semiconductors, AI, and cloud infrastructure. The new regulatory measures aim to secure European supply chains against external dependencies.",
-                "Compliance officers operating within European markets must audit cross-border data flows and hardware sourcing strategies immediately. Adapting to stricter regional mandates ensures legal resilience and unlocks access to regional public funding."
+                "TechCrunch reports that AI data startup Micro1 has reached a $500M gross run rate amid a massive boom in AI training data demand. This rapid growth highlights the critical bottleneck and market opportunity in high-quality, specialized dataset generation for enterprise AI development.",
+                "Firms must strategically allocate significant budgets towards robust data acquisition and curation to fuel their proprietary model development and competitive advantage. Overlooking this foundational layer risks significant performance degradation and increased reliance on generalized, less effective public datasets, impacting project ROI and time-to-market."
             ],
             "imageUrl": "",
-            "nextUpTease": "NIST: GENESIS MISSION PARTNERSHIP",
+            "nextUpTease": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/",
-                "Published: 2026-07-31T09:00:00Z",
+                "Source: https://techcrunch.com/2026/08/23/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+                "Published: 2026-08-23T03:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NIST: GENESIS MISSION PARTNERSHIP",
+            "heading": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
             "paragraphs": [
-                "The National Institute of Standards and Technology officially joined the National Genesis Mission to accelerate AI innovation and safety measurement standards. This federal initiative bridges fundamental metrology research with scalable artificial intelligence deployment.",
-                "Government contractors and defense tech developers must align model validation frameworks with emerging NIST measurement standards. Early adoption of these benchmarks provides a decisive advantage in securing public sector procurement contracts."
+                "HarnessEval-W, a new framework trending on Hugging Face, enables agentic evaluation of visual world models by decomposing assessments into verifiable reasoning chains. This methodology aims to improve transparency and accuracy in validating complex AI behaviors and understanding model decision-making processes.",
+                "AI development teams must integrate more rigorous, agent-based evaluation protocols to ensure the safety and reliability of deploying world models in critical applications. This strategic shift in validation reduces unforeseen risks and provides auditable evidence for regulatory compliance, ultimately impacting project scalability and public trust."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+            "nextUpTease": "CNBC: HIGH-YIELDING AI BONDS",
             "tags": [
-                "Source: https://www.nist.gov/",
-                "Published: 2026-08-05T12:00:00Z",
+                "Source: https://paperswithcode.com/paper/harnesseval-w-agentifying-the-evaluation-of",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+            "heading": "CNBC: HIGH-YIELDING AI BONDS",
             "paragraphs": [
-                "Trending developer repositories on Hugging Face highlight advanced model variations like Qwen3.8 optimized for high-performance inference and fine-tuning. The community focus has shifted entirely toward efficient weight distribution and quantization formats like FP8 and GGUF.",
-                "Engineering leads can significantly lower operational expenditure by deploying optimized open-weights architectures in production clusters. Leveraging community fine-tunes reduces dependency on proprietary vendor APIs while maintaining competitive benchmark performance."
+                "CNBC reports that Wall Street is increasingly investing in high-yielding AI bonds, signaling a new financial instrument for funding rapid AI infrastructure growth. These specialized bonds offer attractive returns, reflecting investor confidence in the sector's long-term expansion and underlying technological innovation.",
+                "Corporate finance leaders can leverage these emerging bond markets to secure capital for aggressive AI R&D and compute cluster build-outs, but must carefully assess associated risk profiles. Strategic engagement with these financial products can accelerate technological adoption and expand market footprint, directly influencing long-term competitive positioning."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://huggingface.co/",
-                "Published: 2026-08-22T06:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/22/wall-street-loves-these-high-yielding-ai-bonds-what-investors-should-know.html",
+                "Published: 2026-08-22T21:00:00Z",
                 "Status: Audited & True"
             ]
         }
