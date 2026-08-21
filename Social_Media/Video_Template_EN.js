@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "DEEPSEEK: V4 FLASH VISION-EXP RELEASE",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "SECURITY: FUNDAMENTAL LLM VULNERABILITY FOUND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has introduced Gemini three point seven Flash, their most intelligent workhorse model yet for coding and agents. This release signifies a major architectural shift, enhancing compute efficiency for complex AI deployments."
+                "narration_line": "OpenAI has launched GPT-5.6, their new frontier intelligence model built for scalable enterprise AI and complex reasoning. It advances multi-modal understanding and pushes operational resilience benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPSEEK: V4 FLASH VISION-EXP RELEASE",
-                "teaserTitle": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "headline": "SECURITY: FUNDAMENTAL LLM VULNERABILITY FOUND",
+                "teaserTitle": "HARDWARE: MICRON INVESTS $10B IN AI MEMORY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DeepSeek has launched its new version four flash vision-experience model, an efficient multimodal AI optimized for visual tasks. This model provides rapid inference speeds, crucial for real-time applications and reduced compute costs."
+                "narration_line": "Researchers found a fundamental flaw in large language models, making them vulnerable to attacks and easily tricked into generating harmful content. This critical vulnerability compromises model function and bypasses traditional safeguards."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
-                "teaserTitle": "SECURITY: MALICIOUS RUST CRATE PAYLOAD",
+                "headline": "HARDWARE: MICRON INVESTS $10B IN AI MEMORY",
+                "teaserTitle": "COMPUTE: LINUX MICROVM STACK ON APPLE SILICON",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Micron's Chief Executive Officer confirms AI demand is reshaping the memory industry, moving beyond traditional cycles due to sustained high-bandwidth memory needs. This permanent shift impacts hardware procurement and infrastructure scaling plans significantly."
+                "narration_line": "Micron announced a ten billion dollar investment for a new R&D hub in Boise, accelerating advanced memory solutions for future AI. This strategic outlay targets memory bottlenecks and next-gen hardware development."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: MALICIOUS RUST CRATE PAYLOAD",
-                "teaserTitle": "AGENTIC AI: SEED HARNESS RELEASE",
+                "headline": "COMPUTE: LINUX MICROVM STACK ON APPLE SILICON",
+                "teaserTitle": "ECONOMICS: AI TRAINING DATA MARKET SURGES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A malicious Rust crate named 'Arrayref' has been found executing build-time payloads, exposing a critical software supply chain vulnerability. This incident highlights severe immediate risks from third-party dependencies in development environments."
+                "narration_line": "The Linux MicroVM stack has been rebuilt and optimized for Apple Silicon, dramatically increasing virtualization efficiency and performance. This enables high-density, low-overhead virtual machine deployments on custom chip architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "AGENTIC AI: SEED HARNESS RELEASE",
-                "teaserTitle": "INFRASTRUCTURE: NOVEL 'PEE' COOLING METHOD",
+                "headline": "ECONOMICS: AI TRAINING DATA MARKET SURGES",
+                "teaserTitle": "ARCHITECTURE: LLM REFINE CLAUDE 5 OUTPUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new open-source 'Seed' framework provides a minimal self-modifying agent harness to accelerate autonomous AI system development. This architecture improves development velocity for complex agentic workflows and reduces research and development cycles."
+                "narration_line": "AI data startup Micro1 reached a five hundred million dollar gross run rate, signaling a surging market for AI training data services. This growth reflects accelerating enterprise adoption and critical demand for quality datasets."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: NOVEL 'PEE' COOLING METHOD",
-                "teaserTitle": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
+                "headline": "ARCHITECTURE: LLM REFINE CLAUDE 5 OUTPUT",
+                "teaserTitle": "CYBERSECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Researchers explore novel data center cooling methods like 'pee cooling' to combat escalating energy consumption. This innovative approach aims to dramatically reduce operational footprint and long-term operating costs for AI compute clusters."
+                "narration_line": "A novel technique uses a separate large language model to clean and refine Claude 5's token output, improving precision and addressing inconsistencies. This architectural pattern enhances primary model reliability."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
+                "headline": "CYBERSECURITY: OPENAI EXPANDS DAYBREAK DEFENSE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Chinese humanoid robots continue to face a primary operational hurdle: human workers still outperform them in complex, unstructured tasks. This limitation impacts immediate widespread industrial deployment and requires realistic expectations for robotic solutions."
+                "narration_line": "OpenAI is expanding its Daybreak initiative, developing advanced AI for cyber defense against rapidly evolving threats. This program aims for proactive AI systems to detect and neutralize emerging cyber risks at an accelerated pace."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
