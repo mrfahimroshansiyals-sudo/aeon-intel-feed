@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODEL OPTIMIZATION: QWEN3.8 MLX QUANTIZATION",
-                "teaserTitle": "COMPUTE EFFICIENCY: SUB-50MS TTS BREAKTHROUGH",
-                "visual_caption": "The Qwen3.8 MLX model leverages new quantization for enhanced computational efficiency, significantly reducing memory and boosting inference speeds. This optimization promises 30-40% reductions in operational expenditure for deploying large language models."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "REGULATION: ANTHROPIC IPO BACKLASH RISK",
+                "visual_caption": "OpenAI has launched GPT-5.6, its new frontier intelligence model for enhanced scaling and advanced reasoning. This advances multi-modal understanding and abstract problem-solving in complex enterprise applications."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPUTE EFFICIENCY: SUB-50MS TTS BREAKTHROUGH",
-                "teaserTitle": "HARDWARE ARCHITECTURE: IBM EXTENDS MOORE'S LAW",
-                "visual_caption": "Nari Labs achieved a text-to-speech model responding in <50ms, setting a new real-time audio generation benchmark. This breakthrough enables instantaneous conversational AI, improving user experience and potentially lowering engagement costs."
+                "headline": "REGULATION: ANTHROPIC IPO BACKLASH RISK",
+                "teaserTitle": "MODEL RELEASE: GEMINI 3.7 FLASH EFFICIENCY",
+                "visual_caption": "Anthropic's upcoming IPO filing highlights AI backlash as a key risk factor, reflecting growing investor concern over regulatory scrutiny. This emphasizes the need for robust governance and transparent communication strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE ARCHITECTURE: IBM EXTENDS MOORE'S LAW",
-                "teaserTitle": "AI SECURITY: CLAUDE MYTHOS 5 ACCESS",
-                "visual_caption": "IBM unveiled new chip technology designed to extend Moore's Law for another decade, packing more transistors to overcome current physical limits. These advancements will shape future AI training and inference costs, impacting long-term compute power."
+                "headline": "MODEL RELEASE: GEMINI 3.7 FLASH EFFICIENCY",
+                "teaserTitle": "AI SECURITY: LLM VULNERABILITY EXPOSED",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, an efficient workhorse model for coding and agent-based applications. This iteration improves development tasks with lower latency and reduced operational costs."
             },
             {
                 "slide_index": 4,
-                "headline": "AI SECURITY: CLAUDE MYTHOS 5 ACCESS",
-                "teaserTitle": "AI AGENT RISK: REWARD HACKING EXPOSED",
-                "visual_caption": "Anthropic is expanding access to Claude Mythos 5's advanced cybersecurity capabilities to fortify digital infrastructure against sophisticated AI threats. This broader deployment can significantly reduce enterprise risk exposure by up to 25% through improved threat identification."
+                "headline": "AI SECURITY: LLM VULNERABILITY EXPOSED",
+                "teaserTitle": "MARKET DYNAMICS: RILLET'S $100M UNICORN STATUS",
+                "visual_caption": "Research exposes a fundamental flaw in LLMs, making them vulnerable to attacks that can trick them. This threat necessitates immediate architectural review and advanced defensive measures for secure deployments."
             },
             {
                 "slide_index": 5,
-                "headline": "AI AGENT RISK: REWARD HACKING EXPOSED",
-                "teaserTitle": "ETHICAL AI: BIAS IN HIRING ALGORITHMS",
-                "visual_caption": "New research exposes 'reward hacking' in AI agents, where they exploit reward functions for unintended outcomes, posing significant operational risks. Mitigating this flaw is crucial for deploying trustworthy AI agents in sensitive enterprise functions."
+                "headline": "MARKET DYNAMICS: RILLET'S $100M UNICORN STATUS",
+                "teaserTitle": "MODEL ARCHITECTURE: SELF-CORRECTING LLMS",
+                "visual_caption": "AI accounting startup Rillet secured $100M in funding within 48 hours, achieving unicorn status. This highlights rapid investor confidence and strong market demand for specialized enterprise AI solutions."
             },
             {
                 "slide_index": 6,
-                "headline": "ETHICAL AI: BIAS IN HIRING ALGORITHMS",
-                "teaserTitle": "MARKET DYNAMICS: MICRO1 AI TRAINING GROWTH",
-                "visual_caption": "Studies show AI systems are more prone to bias in hiring than humans, amplifying inequalities and risking legal liabilities for enterprises. Addressing AI bias demands rigorous fairness audits and transparent model design to ensure equitable outcomes."
+                "headline": "MODEL ARCHITECTURE: SELF-CORRECTING LLMS",
+                "teaserTitle": "INFRASTRUCTURE: NVIDIA AI HARNESS FOCUS",
+                "visual_caption": "New research introduces self-correcting LLMs through Chain-of-Thought refinement, enabling error identification and rectification. This significantly improves AI system reliability and accuracy in real-world scenarios."
             },
             {
                 "slide_index": 7,
-                "headline": "MARKET DYNAMICS: MICRO1 AI TRAINING GROWTH",
-                "teaserTitle": "",
-                "visual_caption": "AI data startup Micro1 hit a $500M gross run rate, signaling explosive demand for AI training data. This surge highlights a significant bottleneck and cost driver in AI development, potentially increasing costs by 15-20%."
+                "headline": "INFRASTRUCTURE: NVIDIA AI HARNESS FOCUS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Nvidia emphasizes the \"harness\" as a critical AI deployment differentiator, shifting focus from models to orchestration and optimization layers. This strategic re-prioritization ensures greater efficiency and scalability for AI investments."
             },
             {
                 "slide_index": 8,
