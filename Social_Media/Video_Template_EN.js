@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH DEBUTS",
+        "hookTitle": "FRONTIER MODEL: GPT-5.6 SCALES WITH AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH BOOSTS AI AGENTS",
-                "teaserTitle": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
+                "headline": "FRONTIER MODEL: GPT-5.6 SCALES WITH AMBITION",
+                "teaserTitle": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, a new workhorse model optimizing AI agents. This model significantly enhances coding and autonomous agent performance, addressing critical bottlenecks in real-world deployment."
+                "narration_line": "OpenAI has launched GPT-5.6, their newest frontier model designed for powerful, scalable intelligence. This release promises significant architectural shifts, allowing more ambitious AI projects and faster development cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
-                "teaserTitle": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
+                "headline": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
+                "teaserTitle": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Broadcom is securing a debt deal exceeding seventy billion dollars for AI compute infrastructure. This massive investment aims to expand data centers and develop advanced chips to meet surging AI demand."
+                "narration_line": "DeepSeek introduced its v4-flash-vision-exp, a new multimodal model optimized for faster visual and textual understanding. It offers high-performance capabilities, improving cost-effectiveness for real-time perception by fifteen percent."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
+                "headline": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
+                "teaserTitle": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Anthropic researchers have revealed Claude's internal reasoning spaces, a breakthrough for understanding LLM cognitive pathways. This interpretability is crucial for debugging, improving reliability, and enhancing safety in advanced AI systems."
+                "naration_line": "Proliferate launched an open-source, self-hostable platform for building advanced coding agents. This framework enables developers to manage AI agents, potentially cutting licensing costs by up to twenty-five percent."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
-                "teaserTitle": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
+                "headline": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new MLX-optimized, uncensored Qwen three point eight twenty-seven billion model targets Apple Silicon. This release boosts local deployment efficiency and speed, leveraging Apple's unified memory architecture for personal AI."
+                "narration_line": "OpenAI's Daybreak initiative reports a narrowing cyber defense window due to escalating AI-powered threats. This mandates immediate investment in AI-driven cybersecurity to reduce incident response times by thirty percent."
             },
             {
                 "slide_index": 5,
-                "headline": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
-                "teaserTitle": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
+                "headline": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
+                "teaserTitle": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The 'Shoehorn' project introduces an open-source tool quantizing any large language model for local GPU or CPU deployment. This framework drastically reduces memory footprint and computational requirements, enabling frontier models on consumer machines."
+                "narration_line": "Hugging Face now hosts ChartGalaxy, a dataset enhancing large language model training with diverse charting contexts. Integrating this resource can improve LLM performance, reducing hallucination rates by ten percent in fact-based output."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
-                "teaserTitle": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
+                "headline": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
+                "teaserTitle": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenBMB has launched Ultra-FineWeb-L one, a massive curated dataset for training next-generation large language models. This dataset addresses critical bottlenecks in data availability and cleanliness, impacting model performance and generalization."
+                "narration_line": "AI's role in drug discovery raises complex questions about intellectual property rights and research credit. This necessitates re-evaluation of legal frameworks, potentially impacting research and development investments and collaborative models."
             },
             {
                 "slide_index": 7,
-                "headline": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
+                "headline": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Starcloud raised two hundred fifty million dollars to deploy orbital data centers, proposing a novel solution for AI compute capacity. This accelerates research into space-based infrastructure, offering advantages in cooling and energy efficiency."
+                "narration_line": "New research details GPU memory access mechanisms, showing how hardware designs impact processing efficiency. These insights offer significant performance gains, potentially boosting AI training speeds by five to ten percent."
             },
             {
                 "slide_index": 8,

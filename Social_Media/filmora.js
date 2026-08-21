@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH BOOSTS AI AGENTS",
-                "teaserTitle": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, optimizing AI agents. The model significantly enhances coding and autonomous agent performance, addressing critical real-world deployment bottlenecks."
+                "headline": "FRONTIER MODEL: GPT-5.6 SCALES WITH AMBITION",
+                "teaserTitle": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
+                "visual_caption": "OpenAI has launched GPT-5.6, their newest frontier model designed for powerful, scalable intelligence. This release promises significant architectural shifts, allowing more ambitious AI projects and faster development cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
-                "teaserTitle": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
-                "visual_caption": "Broadcom secures over $70B debt for AI compute infrastructure. This investment expands data centers and develops advanced chips, meeting surging AI demand."
+                "headline": "FRONTIER MODEL: DEEPSEEK-V4-FLASH-VISION-EXP RELEASED",
+                "teaserTitle": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
+                "visual_caption": "DeepSeek introduced its v4-flash-vision-exp, a new multimodal model optimized for faster visual and textual understanding. It offers high-performance capabilities, improving cost-effectiveness for real-time perception by 15%."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
-                "visual_caption": "Anthropic unveils Claude's internal reasoning spaces, a breakthrough for LLM interpretability. This insight is crucial for debugging, improving reliability, and enhancing safety in advanced AI."
+                "headline": "TOOLS & FRAMEWORKS: PROLIFERATE OPENS CODING AGENT STACK",
+                "teaserTitle": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "visual_caption": "Proliferate launched an open-source, self-hostable platform for building advanced coding agents. This framework enables developers to manage AI agents, potentially cutting licensing costs by up to 25%."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
-                "teaserTitle": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
-                "visual_caption": "MLX-optimized, uncensored Qwen 3.8-27B model targets Apple Silicon. This boosts local deployment efficiency and speed, leveraging Apple's unified memory for personal AI."
+                "headline": "AI SECURITY: DAYBREAK CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
+                "visual_caption": "OpenAI's Daybreak initiative reports a narrowing cyber defense window due to escalating AI-powered threats. This mandates immediate investment in AI-driven cybersecurity to reduce incident response times by 30%."
             },
             {
                 "slide_index": 5,
-                "headline": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
-                "teaserTitle": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
-                "visual_caption": "Shoehorn introduces an open-source tool, quantizing any LLM for local GPU/CPU deployment. This framework reduces memory footprint and computational requirements, enabling frontier models on consumer machines."
+                "headline": "DATA INFRASTRUCTURE: CHARTGALAXY DATASET FOR LLM TRAINING",
+                "teaserTitle": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
+                "visual_caption": "Hugging Face now hosts ChartGalaxy, a dataset enhancing large language model training with diverse charting contexts. Integrating this resource can improve LLM performance, reducing hallucination rates by 10% in fact-based output."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
-                "teaserTitle": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
-                "visual_caption": "OpenBMB launches Ultra-FineWeb-L1, a massive dataset for next-gen LLM training. This addresses critical bottlenecks in data availability and cleanliness, impacting model performance and generalization."
+                "headline": "AI & BIOTECH: AI DESIGNS DRUG, CREDIT QUESTIONED",
+                "teaserTitle": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
+                "visual_caption": "AI's role in drug discovery raises complex questions about intellectual property rights and research credit. This necessitates re-evaluation of legal frameworks, potentially impacting R&D investments and collaborative models."
             },
             {
                 "slide_index": 7,
-                "headline": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
+                "headline": "HARDWARE OPTIMIZATION: GPU MEMORY ACCESS IMPROVEMENTS",
                 "teaserTitle": "",
-                "visual_caption": "Starcloud raises $250M for orbital data centers, a novel AI compute solution. This accelerates research into space-based infrastructure, offering advantages in cooling and energy efficiency."
+                "visual_caption": "New research details GPU memory access mechanisms, showing how hardware designs impact processing efficiency. These insights offer significant performance gains, potentially boosting AI training speeds by 5-10%."
             },
             {
                 "slide_index": 8,
