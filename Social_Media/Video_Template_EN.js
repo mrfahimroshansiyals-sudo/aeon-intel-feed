@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "hookTitle": "FRONTIER AI EXPANSION & COMPUTE RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "headline": "OPENAI: GPT-5.6 ACCESS EXPANSION",
+                "teaserTitle": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released GPT-5.6, a new frontier model for scalable enterprise AI. This advancement enhances complex reasoning for real-world deployments, setting higher benchmarks."
+                "narration_line": "OpenAI has expanded access to its GPT-5.6 Sol model within ChatGPT, making advanced capabilities available to a broader user base. This update democratizes access to frontier intelligence, impacting enterprise deployment strategies and compute demand."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
+                "headline": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "teaserTitle": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduced Gemini 3.7 Flash, optimized for advanced coding and agentic tasks. This powerful model boosts efficiency for complex computational workflows."
+                "narration_line": "Micron's CEO announced that artificial intelligence has fundamentally transformed the memory industry, moving it beyond traditional market cycles. This shift implies a sustained demand and potentially elevated pricing for high-bandwidth memory crucial for advanced AI compute."
             },
             {
                 "slide_index": 3,
-                "headline": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
+                "teaserTitle": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Agentic AI workloads are making CPUs the new performance bottleneck, requiring a re-evaluation of hardware designs. Infrastructure planning must now balance CPU and GPU allocation to maintain efficiency."
+                "narration_line": "New market data shows OpenAI is steadily outcompeting Anthropic among business users, signaling a shift in enterprise AI adoption. This trend emphasizes the critical role of robust developer ecosystems and ease of integration for commercial AI success."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
+                "headline": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
+                "teaserTitle": "AGENTIC AI: SEED HARNESS RELEASE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense to narrow AI system vulnerabilities. This initiative integrates advanced threat detection, requiring stronger security protocols."
+                "narration_line": "A significant bug on AWS Bedrock's Codex service is causing reported ten times higher charges for users. This critical issue highlights major cost management vulnerabilities in cloud AI deployments and necessitates vigilant monitoring."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
-                "teaserTitle": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
+                "headline": "AGENTIC AI: SEED HARNESS RELEASE",
+                "teaserTitle": "DATA CENTERS: NOVEL COOLING METHOD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AI data startup Micro1 hit a five hundred million dollar gross run rate, driven by surging demand for AI training data. This highlights a critical market opportunity in high-quality dataset generation."
+                "narration_line": "The new \"Seed\" framework has been introduced, offering a minimal, self-modifying agent harness for developing autonomous AI systems. This open-source tool streamlines the prototyping of complex AI agents, reducing time-to-market for specialized automation solutions."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
-                "teaserTitle": "CNBC: HIGH-YIELDING AI BONDS",
+                "headline": "DATA CENTERS: NOVEL COOLING METHOD",
+                "teaserTitle": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "HarnessEval-W offers agentic evaluation of visual world models, improving transparency and accuracy. Development teams must integrate rigorous protocols for safer AI deployment."
+                "narration_line": "Researchers are actively exploring novel cooling solutions for data centers, including innovative and unconventional approaches. This research aims to drastically reduce energy consumption and the environmental footprint of large-scale artificial intelligence infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "CNBC: HIGH-YIELDING AI BONDS",
+                "headline": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "Wall Street is investing in high-yielding AI bonds to fund rapid AI infrastructure growth. This provides new capital for R&D, accelerating technological adoption."
+                "narration_line": "Chinese humanoid robots currently face a key challenge as human workers still largely outperform them in complex, unstructured tasks. This limitation hinders immediate widespread industrial deployment and requires refined strategic integration for optimal return on investment."
             },
             {
                 "slide_index": 8,

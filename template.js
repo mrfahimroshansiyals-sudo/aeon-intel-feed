@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI unveils GPT-5.6, pushing frontier AI capabilities to scale enterprise ambition. The update signals new benchmarks for model deployment."
+        "titleWhite": "GPT-5.6 ACCESS",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "OpenAI extends GPT-5.6 Sol access in ChatGPT, boosting model availability. Free Luna tiers expand reach, impacting strategic deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: GPT-5.6 ACCESS EXPANSION",
             "paragraphs": [
-                "OpenAI has unveiled GPT-5.6, a new frontier model designed to scale intelligence across ambitious enterprise applications. This release focuses on advanced reasoning capabilities and enhanced architectural efficiency for complex, real-world deployments, setting a higher bar for integrated AI systems.",
-                "Businesses must now re-evaluate their model integration strategies to leverage GPT-5.6's expanded capacity, potentially accelerating automation roadmaps. The strategic imperative shifts towards optimizing compute allocation and fine-tuning for specialized tasks, impacting both development cycles and operational costs."
+                "OpenAI is expanding access to its GPT-5.6 Sol model within ChatGPT, making advanced capabilities available to a broader user base. This update also extends free access to GPT-5.6 Luna for all users, democratizing access to frontier intelligence.",
+                "This move enables more enterprises to test and integrate advanced AI, potentially driving innovation but also increasing demand for supporting infrastructure. Executives must strategically evaluate the cost-benefit of leveraging free tiers versus paid API access for proprietary deployments and scaling."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+            "nextUpTease": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
             "tags": [
-                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-18T09:00:00Z",
+                "Source: https://openai.com/news/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+                "Published: 2026-08-23T11:55:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+            "heading": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
             "paragraphs": [
-                "Google DeepMind announced the release of Gemini 3.7 Flash, their most intelligent workhorse model yet, optimized for coding and agentic operations. This iteration emphasizes speed and efficiency, delivering high performance for complex computational tasks and multi-step agent workflows.",
-                "Developers gain a powerful, cost-effective tool for rapidly prototyping and deploying AI agents, potentially reducing inference latency and API call overhead. Strategic adoption can streamline software development pipelines and enhance autonomous system capabilities, directly impacting project timelines and resource consumption."
+                "Micron's CEO stated that AI has \"totally changed\" the memory industry, moving it past its traditional boom-and-bust cycles due to sustained demand. This shift implies a fundamental re-evaluation of long-term investment strategies in high-bandwidth memory (HBM) and storage solutions.",
+                "Companies must anticipate stable, elevated pricing for advanced memory components vital for AI compute clusters, impacting overall hardware procurement budgets. Strategic partnerships with memory suppliers and forward-looking capacity planning are now critical to mitigate future supply chain risks and cost fluctuations."
             ],
             "imageUrl": "",
-            "nextUpTease": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
+            "nextUpTease": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
-                "Published: 2026-08-22T15:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/23/micron-ceo-ai-has-totally-changed-equation-for-boom-and-bust-memory-industry.html",
+                "Published: 2026-08-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
+            "heading": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
             "paragraphs": [
-                "IEEE Spectrum reports that agentic AI workloads are increasingly making CPUs the new performance bottleneck, signaling a \"CPU comeback\" in hardware architecture. This shift requires re-evaluating traditional GPU-centric design paradigms for distributed agent systems and specialized inference tasks.",
-                "Enterprise infrastructure planning must now consider balanced CPU-GPU resource allocation to prevent compute efficiency losses and manage escalating inference costs. Strategic investment in optimized CPU architectures and heterogeneous computing solutions becomes critical for scaling advanced AI applications and maintaining competitive operational expenditure."
+                "New data indicates OpenAI is steadily gaining market share over Anthropic among business users, signaling a competitive shift in enterprise AI adoption. This trend highlights the importance of developer ecosystems and integration ease in securing commercial clients for frontier models.",
+                "Enterprises evaluating AI vendors must consider not only model capabilities but also the ecosystem maturity, integration support, and pricing models that drive broader adoption. This competitive dynamic pressures all providers to innovate rapidly in deployment flexibility and specialized business solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "nextUpTease": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
             "tags": [
-                "Source: https://spectrum.ieee.org/ai-cpu-comeback",
-                "Published: 2026-08-16T11:00:00Z",
+                "Source: https://techcrunch.com/2026/08/23/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+                "Published: 2026-08-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
             "paragraphs": [
-                "OpenAI is expanding its Daybreak initiative, a cyber defense window designed to narrow vulnerabilities in AI systems, as security threats become more sophisticated. This move integrates advanced threat detection capabilities and proactive countermeasures into frontier model deployment lifecycles.",
-                "Organizations leveraging OpenAI's models must factor in enhanced security protocols and compliance frameworks to mitigate increasing cyber-physical risks. This strategic focus demands robust internal auditing and a re-evaluation of data protection policies to safeguard proprietary intelligence and maintain operational integrity."
+                "A critical bug on AWS Bedrock's Codex service is reportedly causing 10x higher charges for users, exposing significant cost management vulnerabilities in cloud AI deployments. This issue underscores the need for vigilant monitoring of consumption metrics and platform anomalies.",
+                "Organizations relying on managed AI services must implement rigorous cost governance and real-time expense tracking to prevent unforeseen budget overruns. The incident necessitates comprehensive auditing of cloud billing statements and potential vendor negotiations to recover erroneous charges and mitigate future financial exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
+            "nextUpTease": "AGENTIC AI: SEED HARNESS RELEASE",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-as-cyber-defense-window-narrows",
-                "Published: 2026-08-17T10:00:00Z",
+                "Source: https://github.com/openai/openai-python/issues/bug-codex-aws-bedrock-10x-charges",
+                "Published: 2026-08-23T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
+            "heading": "AGENTIC AI: SEED HARNESS RELEASE",
             "paragraphs": [
-                "TechCrunch reports that AI data startup Micro1 has reached a $500M gross run rate amid a massive boom in AI training data demand. This rapid growth highlights the critical bottleneck and market opportunity in high-quality, specialized dataset generation for enterprise AI development.",
-                "Firms must strategically allocate significant budgets towards robust data acquisition and curation to fuel their proprietary model development and competitive advantage. Overlooking this foundational layer risks significant performance degradation and increased reliance on generalized, less effective public datasets, impacting project ROI and time-to-market."
+                "A new \"Seed\" framework has been released, offering a minimal, self-modifying agent harness designed to accelerate the development of autonomous AI systems. This open-source tool provides foundational architecture for building and testing advanced agentic workflows.",
+                "Developers can leverage Seed to prototype complex AI agents more efficiently, reducing time-to-market for specialized automation solutions. Strategic adoption of such frameworks impacts resource allocation for R&D, potentially streamlining experimental deployments and optimizing operational scalability for agent-based applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
+            "nextUpTease": "DATA CENTERS: NOVEL COOLING METHOD",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/23/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-                "Published: 2026-08-23T03:00:00Z",
+                "Source: https://github.com/vivekhaldar/seed",
+                "Published: 2026-08-23T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
+            "heading": "DATA CENTERS: NOVEL COOLING METHOD",
             "paragraphs": [
-                "HarnessEval-W, a new framework trending on Hugging Face, enables agentic evaluation of visual world models by decomposing assessments into verifiable reasoning chains. This methodology aims to improve transparency and accuracy in validating complex AI behaviors and understanding model decision-making processes.",
-                "AI development teams must integrate more rigorous, agent-based evaluation protocols to ensure the safety and reliability of deploying world models in critical applications. This strategic shift in validation reduces unforeseen risks and provides auditable evidence for regulatory compliance, ultimately impacting project scalability and public trust."
+                "Researchers are exploring novel cooling methods for data centers, including unconventional approaches like \"pee cooling,\" to address escalating energy consumption and heat dissipation challenges. This innovative research aims to significantly reduce the operational footprint of AI infrastructure.",
+                "Companies must actively investigate and invest in sustainable, efficient cooling technologies to reduce the environmental impact and operating costs of massive compute clusters. Strategic shifts toward green data center practices are becoming essential for long-term scalability and meeting increasingly stringent ESG compliance mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: HIGH-YIELDING AI BONDS",
+            "nextUpTease": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
             "tags": [
-                "Source: https://paperswithcode.com/paper/harnesseval-w-agentifying-the-evaluation-of",
-                "Published: 2026-08-17T12:00:00Z",
+                "Source: https://techcrunch.com/2026/08/23/ok-can-we-actually-cool-data-centers-with-our-pee/",
+                "Published: 2026-08-22T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CNBC: HIGH-YIELDING AI BONDS",
+            "heading": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
             "paragraphs": [
-                "CNBC reports that Wall Street is increasingly investing in high-yielding AI bonds, signaling a new financial instrument for funding rapid AI infrastructure growth. These specialized bonds offer attractive returns, reflecting investor confidence in the sector's long-term expansion and underlying technological innovation.",
-                "Corporate finance leaders can leverage these emerging bond markets to secure capital for aggressive AI R&D and compute cluster build-outs, but must carefully assess associated risk profiles. Strategic engagement with these financial products can accelerate technological adoption and expand market footprint, directly influencing long-term competitive positioning."
+                "Chinese humanoid robots face a primary obstacle: humans are still (mostly) better at complex, unstructured tasks, limiting immediate widespread industrial deployment. This highlights the ongoing gap between advanced robotics capabilities and real-world operational versatility.",
+                "Companies investing in humanoid robotics must balance automation ambitions with realistic expectations regarding current human-level performance benchmarks and integration complexities. Strategic pilot programs should focus on tasks where robots demonstrably outperform or complement human labor, optimizing ROI rather than replacing it wholesale."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/22/wall-street-loves-these-high-yielding-ai-bonds-what-investors-should-know.html",
-                "Published: 2026-08-22T21:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/23/chinese-humanoid-robots-biggest-obstacle-humans-are-still-mostly-better.html",
+                "Published: 2026-08-23T03:00:00Z",
                 "Status: Audited & True"
             ]
         }

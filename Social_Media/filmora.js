@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "OpenAI has released GPT-5.6, a new frontier model for scalable enterprise AI. This advancement enhances complex reasoning for real-world deployments, setting higher benchmarks."
+                "headline": "OPENAI: GPT-5.6 ACCESS EXPANSION",
+                "teaserTitle": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "visual_caption": "OpenAI expands GPT-5.6 Sol access in ChatGPT, boosting model availability to a broader user base. Free Luna tiers extend frontier intelligence, impacting enterprise deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, optimized for advanced coding and agentic tasks. This powerful model boosts efficiency for complex computational workflows."
+                "headline": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "teaserTitle": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
+                "visual_caption": "Micron's CEO confirms AI redefined memory industry, ending boom-bust cycles due to sustained demand. Expect elevated HBM prices, requiring strategic supply chain planning."
             },
             {
                 "slide_index": 3,
-                "headline": "IEEE SPECTRUM: AGENTIC AI CPU COMEBACK",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_caption": "Agentic AI workloads are making CPUs the new performance bottleneck, requiring a re-evaluation of hardware designs. Infrastructure planning must now balance CPU and GPU allocation to maintain efficiency."
+                "headline": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
+                "teaserTitle": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
+                "visual_caption": "OpenAI gains market share over Anthropic in business AI adoption, signaling competitive shift. Evaluate vendor ecosystems and integration ease for commercial success."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense to narrow AI system vulnerabilities. This initiative integrates advanced threat detection, requiring stronger security protocols."
+                "headline": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
+                "teaserTitle": "AGENTIC AI: SEED HARNESS RELEASE",
+                "visual_caption": "AWS Bedrock's Codex service reports a 10x charging bug, revealing critical cost management vulnerabilities. Implement rigorous cost governance to prevent unforeseen overruns."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: MICRO1 AI DATA TRAINING BOOM",
-                "teaserTitle": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
-                "visual_caption": "AI data startup Micro1 hit a $500M gross run rate, driven by surging demand for AI training data. This highlights a critical market opportunity in high-quality dataset generation."
+                "headline": "AGENTIC AI: SEED HARNESS RELEASE",
+                "teaserTitle": "DATA CENTERS: NOVEL COOLING METHOD",
+                "visual_caption": "A \"Seed\" framework released, offering a minimal, self-modifying agent harness for AI. Accelerates complex agent development, streamlining specialized automation solutions."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: HARNESSEVAL-W WORLD MODEL EVALUATION",
-                "teaserTitle": "CNBC: HIGH-YIELDING AI BONDS",
-                "visual_caption": "HarnessEval-W offers agentic evaluation of visual world models, improving transparency and accuracy. Development teams must integrate rigorous protocols for safer AI deployment."
+                "headline": "DATA CENTERS: NOVEL COOLING METHOD",
+                "teaserTitle": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
+                "visual_caption": "Novel cooling methods for data centers, including unconventional approaches, are under review. Aims to cut energy use and environmental impact for AI infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "CNBC: HIGH-YIELDING AI BONDS",
+                "headline": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
                 "teaserTitle": "",
-                "visual_caption": "Wall Street is investing in high-yielding AI bonds to fund rapid AI infrastructure growth. This provides new capital for R&D, accelerating technological adoption."
+                "visual_caption": "Chinese humanoid robots face human performance obstacle in complex, unstructured tasks. Limits widespread industrial deployment, needing careful ROI-focused integration."
             },
             {
                 "slide_index": 8,
