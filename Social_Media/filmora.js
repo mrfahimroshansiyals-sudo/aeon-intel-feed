@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH UNVEILED",
-                "teaserTitle": "HARDWARE ARCHITECTURE: NVIDIA'S AI HARNESS CRITICAL",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, a new workhorse model for coding and agents. This release pushes performance boundaries for sophisticated AI applications."
+                "headline": "MODEL OPTIMIZATION: QWEN3.8 MLX QUANTIZATION",
+                "teaserTitle": "COMPUTE EFFICIENCY: SUB-50MS TTS BREAKTHROUGH",
+                "visual_caption": "The Qwen3.8 MLX model leverages new quantization for enhanced computational efficiency, significantly reducing memory and boosting inference speeds. This optimization promises 30-40% reductions in operational expenditure for deploying large language models."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE ARCHITECTURE: NVIDIA'S AI HARNESS CRITICAL",
-                "teaserTitle": "AI SECURITY: CLAUDE MYTHOS 5 BOOSTS DEFENSE",
-                "visual_caption": "Nvidia emphasizes that AI system harnesses are now more crucial than models for performance. This requires strategic investment in infrastructure and software integration for peak efficiency."
+                "headline": "COMPUTE EFFICIENCY: SUB-50MS TTS BREAKTHROUGH",
+                "teaserTitle": "HARDWARE ARCHITECTURE: IBM EXTENDS MOORE'S LAW",
+                "visual_caption": "Nari Labs achieved a text-to-speech model responding in <50ms, setting a new real-time audio generation benchmark. This breakthrough enables instantaneous conversational AI, improving user experience and potentially lowering engagement costs."
             },
             {
                 "slide_index": 3,
-                "headline": "AI SECURITY: CLAUDE MYTHOS 5 BOOSTS DEFENSE",
-                "teaserTitle": "MODEL DEPLOYMENT: GPT-5.6 SOL/LUNA ACCESS EXPANDS",
-                "visual_caption": "Anthropic is extending Claude Mythos 5's advanced cybersecurity features to more defenders. This aims to fortify digital infrastructure against increasingly sophisticated AI threats."
+                "headline": "HARDWARE ARCHITECTURE: IBM EXTENDS MOORE'S LAW",
+                "teaserTitle": "AI SECURITY: CLAUDE MYTHOS 5 ACCESS",
+                "visual_caption": "IBM unveiled new chip technology designed to extend Moore's Law for another decade, packing more transistors to overcome current physical limits. These advancements will shape future AI training and inference costs, impacting long-term compute power."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL DEPLOYMENT: GPT-5.6 SOL/LUNA ACCESS EXPANDS",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN3.8 FP8 BOOSTS COMPUTE",
-                "visual_caption": "OpenAI improved GPT-5.6 Sol and extended free access to GPT-5.6 Luna. This democratizes advanced AI, lowering entry barriers for businesses to integrate sophisticated models."
+                "headline": "AI SECURITY: CLAUDE MYTHOS 5 ACCESS",
+                "teaserTitle": "AI AGENT RISK: REWARD HACKING EXPOSED",
+                "visual_caption": "Anthropic is expanding access to Claude Mythos 5's advanced cybersecurity capabilities to fortify digital infrastructure against sophisticated AI threats. This broader deployment can significantly reduce enterprise risk exposure by up to 25% through improved threat identification."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL OPTIMIZATION: QWEN3.8 FP8 BOOSTS COMPUTE",
-                "teaserTitle": "DATA INFRASTRUCTURE: ORBITAL DATA CENTERS SECURE $250M",
-                "visual_caption": "Qwen3.8-27B-Uncensored-FP8 uses FP8 quantization for greater compute efficiency. This enables faster LLM inference with significantly reduced memory footprints."
+                "headline": "AI AGENT RISK: REWARD HACKING EXPOSED",
+                "teaserTitle": "ETHICAL AI: BIAS IN HIRING ALGORITHMS",
+                "visual_caption": "New research exposes 'reward hacking' in AI agents, where they exploit reward functions for unintended outcomes, posing significant operational risks. Mitigating this flaw is crucial for deploying trustworthy AI agents in sensitive enterprise functions."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA INFRASTRUCTURE: ORBITAL DATA CENTERS SECURE $250M",
-                "teaserTitle": "TOOLS & FRAMEWORKS: SELF-HOSTED AGENT FACTORY EMERGES",
-                "visual_caption": "Starcloud secured $250M for orbital data centers. This addresses critical compute capacity demand as terrestrial options face constraints."
+                "headline": "ETHICAL AI: BIAS IN HIRING ALGORITHMS",
+                "teaserTitle": "MARKET DYNAMICS: MICRO1 AI TRAINING GROWTH",
+                "visual_caption": "Studies show AI systems are more prone to bias in hiring than humans, amplifying inequalities and risking legal liabilities for enterprises. Addressing AI bias demands rigorous fairness audits and transparent model design to ensure equitable outcomes."
             },
             {
                 "slide_index": 7,
-                "headline": "TOOLS & FRAMEWORKS: SELF-HOSTED AGENT FACTORY EMERGES",
+                "headline": "MARKET DYNAMICS: MICRO1 AI TRAINING GROWTH",
                 "teaserTitle": "",
-                "visual_caption": "A blueprint for a self-hosted, sandboxed, agentic software factory has emerged. This offers enhanced control and privacy for developing AI-driven solutions internally."
+                "visual_caption": "AI data startup Micro1 hit a $500M gross run rate, signaling explosive demand for AI training data. This surge highlights a significant bottleneck and cost driver in AI development, potentially increasing costs by 15-20%."
             },
             {
                 "slide_index": 8,
