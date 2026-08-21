@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "IMPROVING GPT-5.6 SOL & LUNA",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE TOOLS",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has significantly improved GPT five point six Sol within ChatGPT for enterprise users. Free access to GPT five point six Luna has also been expanded, making advanced capabilities widely available."
+                "narration_line": "Google DeepMind has launched Gemini 3.7 Flash, their most intelligent and efficient model for coding and agentic tasks. This new release sets a high bar for foundational model utility and multi-step reasoning capabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE TOOLS",
-                "teaserTitle": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
+                "teaserTitle": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative amidst a rapidly narrowing window for counter-AI measures. This focuses on enhancing threat detection and response against sophisticated AI-driven cyberattacks."
+                "narration_line": "OpenAI is strategically adjusting its model development to address the rapidly evolving cyber defense landscape. This focus enhances capabilities critical for national security and critical infrastructure resilience."
             },
             {
                 "slide_index": 3,
-                "headline": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
-                "teaserTitle": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
+                "headline": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AI data startup Micro One has achieved an impressive five hundred million dollar gross run rate. This growth is driven by surging demand for high-quality data in the intensive AI training boom."
+                "narration_line": "The European Commission has proposed a Tech Sovereignty Package to bolster digital autonomy in AI and cloud. This initiative aims to reduce reliance on external providers and foster European innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
-                "teaserTitle": "OPEN SOURCE: QWEN 3.8-27B MODEL UPDATES",
+                "headline": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
+                "teaserTitle": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New data indicates OpenAI is rapidly expanding its market share among business-to-business enterprise users. This poses a significant challenge to Anthropic's position in the foundational model space."
+                "narration_line": "A critical bug in OpenAI Codex on AWS Bedrock is reportedly causing up to ten times the expected charges. This issue highlights vulnerabilities in managed AI service billing and resource allocation."
             },
             {
                 "slide_index": 5,
-                "headline": "OPEN SOURCE: QWEN 3.8-27B MODEL UPDATES",
-                "teaserTitle": "RESEARCH: AGENT EVALUATION FRAMEWORK",
+                "headline": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
+                "teaserTitle": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Qwen three point eight twenty-seven billion parameter model family received multiple significant updates. New GGUF and MLX optimized versions enhance its performance and deployment flexibility."
+                "narration_line": "MIT Technology Review reveals a fundamental flaw making large language models vulnerable to adversarial attacks. This finding demands re-evaluation of LLM deployment strategies and enhanced security measures."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AGENT EVALUATION FRAMEWORK",
-                "teaserTitle": "COMPUTING: AI VERIFIES MATH PROOF",
+                "headline": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
+                "teaserTitle": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "HarnessEval-W introduces a framework using hierarchical sub-agents for complex world-model evaluations. This improves the auditability and reliability of AI agent performance metrics."
+                "narration_line": "Hugging Face released Ultra-FineWeb-L1, a vast open-source dataset for training next-generation large language models. This dataset improves model performance and reduces data acquisition costs."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTING: AI VERIFIES MATH PROOF",
+                "headline": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Artificial intelligence has successfully verified one of the toughest mathematical proofs to date. This demonstrates a significant leap in AI's formal reasoning capabilities and error detection."
+                "narration_line": "A malicious Rust crate, 'Arrayref,' executes a build-time payload, presenting a severe software supply chain risk. This requires immediate auditing of third-party dependencies in AI development pipelines."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

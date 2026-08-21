@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE TOOLS",
-                "visual_caption": "OpenAI has significantly improved GPT-5.6 Sol within ChatGPT for enterprise users. Free access to GPT-5.6 Luna has also been expanded, making advanced capabilities widely available."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
+                "visual_caption": "Google DeepMind launches Gemini 3.7 Flash, their most intelligent and efficient model for coding and agentic tasks. This new release sets a high bar for foundational model utility and multi-step reasoning."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE TOOLS",
-                "teaserTitle": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense initiative amidst a rapidly narrowing window for counter-AI measures. This focuses on enhancing threat detection and response against sophisticated AI-driven cyberattacks."
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
+                "teaserTitle": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "OpenAI adjusts model development to evolving cyber defense, enhancing capabilities critical for national security. This focus targets robust AI systems for threat detection and incident response."
             },
             {
                 "slide_index": 3,
-                "headline": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
-                "teaserTitle": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
-                "visual_caption": "AI data startup Micro1 has achieved an impressive $500M gross run rate. This growth is driven by surging demand for high-quality data in the intensive AI training boom."
+                "headline": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
+                "visual_caption": "The European Commission proposes a Tech Sovereignty Package, boosting EU digital autonomy in AI and cloud. This initiative aims to reduce external reliance and foster indigenous AI innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "MARKET DYNAMICS: OPENAI GAINS ON ANTHROPIC",
-                "teaserTitle": "OPEN SOURCE: QWEN 3.8-27B MODEL UPDATES",
-                "visual_caption": "New data indicates OpenAI is rapidly expanding its market share among B2B enterprise users. This poses a significant challenge to Anthropic's position in the foundational model space."
+                "headline": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
+                "teaserTitle": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
+                "visual_caption": "A critical bug in OpenAI Codex on AWS Bedrock causes up to 10x expected charges for users. This highlights vulnerabilities in managed AI service billing and resource allocation mechanisms."
             },
             {
                 "slide_index": 5,
-                "headline": "OPEN SOURCE: QWEN 3.8-27B MODEL UPDATES",
-                "teaserTitle": "RESEARCH: AGENT EVALUATION FRAMEWORK",
-                "visual_caption": "The Qwen 3.8-27B model family has received multiple significant updates. New GGUF and MLX optimized versions enhance its performance and deployment flexibility."
+                "headline": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
+                "teaserTitle": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
+                "visual_caption": "MIT Tech Review reveals a fundamental flaw making LLMs vulnerable to adversarial attacks. This necessitates re-evaluation of LLM deployment and a strengthened focus on robust input validation."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: AGENT EVALUATION FRAMEWORK",
-                "teaserTitle": "COMPUTING: AI VERIFIES MATH PROOF",
-                "visual_caption": "HarnessEval-W introduces a framework using hierarchical sub-agents for complex world-model evaluations. This improves the auditability and reliability of AI agent performance metrics."
+                "headline": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
+                "teaserTitle": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
+                "visual_caption": "Hugging Face released Ultra-FineWeb-L1, a vast open-source dataset for training next-gen LLMs. This improves model performance and reduces the computational cost of data acquisition and preprocessing."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTING: AI VERIFIES MATH PROOF",
+                "headline": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
                 "teaserTitle": "",
-                "visual_caption": "Artificial intelligence has successfully verified one of the toughest mathematical proofs to date. This demonstrates a significant leap in AI's formal reasoning capabilities and error detection."
+                "visual_caption": "A malicious Rust crate, 'Arrayref,' executes a build-time payload during compilation, posing a severe supply chain risk. This demands immediate auditing of all third-party dependencies in AI development pipelines."
             },
             {
                 "slide_index": 8,
