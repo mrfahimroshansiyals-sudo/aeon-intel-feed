@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ETCHED: SILICON VALUATION SURGE",
-                "teaserTitle": "STRIPE: OPENROUTER ACQUISITION DEAL",
-                "visual_caption": "Etched hit a $21B valuation after launching its transformer-specific chips. This shift signals a massive move away from general GPUs toward specialized silicon."
+                "headline": "OPENROUTER: OX ALPHA",
+                "teaserTitle": "GITHUB: 506 POINT OUTAGE",
+                "visual_caption": "OpenRouter launches Ox Alpha to streamline multi-model API routing across enterprise developer environments. This platform update provides centralized load balancing and telemetry for concurrent frontier deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "STRIPE: OPENROUTER ACQUISITION DEAL",
-                "teaserTitle": "AMD: AGENTIC CPU BOTTLENECK",
-                "visual_caption": "Stripe is reportedly buying OpenRouter for $7B to integrate model routing into payments. This deal consolidates the gateway market into a single unified interface."
+                "headline": "GITHUB: 506 POINT OUTAGE",
+                "teaserTitle": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
+                "visual_caption": "GitHub experienced a major infrastructure failure resulting in 506 points of community discussion regarding service reliability. The unexpected downtime disrupted critical enterprise deployment workflows across global teams."
             },
             {
                 "slide_index": 3,
-                "headline": "AMD: AGENTIC CPU BOTTLENECK",
-                "teaserTitle": "TAIWAN: AI CHIP REVENUE VOLATILITY",
-                "visual_caption": "AMD reports that agentic AI swarms are moving the performance bottleneck back to CPUs. Systems now require faster instruction branching to handle complex autonomous workflows."
+                "headline": "SAFEDEP: MALICIOUS CRATE PAYLOAD",
+                "teaserTitle": "MICROSOFT: FY26 FRONTIER SHIFT",
+                "visual_caption": "Security researchers identified a malicious Rust crate named Arrayref executing unauthorized build-time payloads during compilation. This supply chain vulnerability exposes downstream software to arbitrary code execution."
             },
             {
                 "slide_index": 4,
-                "headline": "TAIWAN: AI CHIP REVENUE VOLATILITY",
-                "teaserTitle": "MICRO1: AI DATA BOOM",
-                "visual_caption": "Taiwan\u2019s 11% growth forecast faces sustainability risks due to extreme chip export concentration. Tech leaders must diversify supply chains to protect against potential regional disruptions."
+                "headline": "MICROSOFT: FY26 FRONTIER SHIFT",
+                "teaserTitle": "EU: TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "Microsoft commercial leadership reviewed the FY26 trajectory, emphasizing enterprise transition to frontier operationalization. The strategic focus centers on deep systems integration and measurable ROI."
             },
             {
                 "slide_index": 5,
-                "headline": "MICRO1: AI DATA BOOM",
-                "teaserTitle": "NIST: GENESIS MISSION INTEGRATION",
-                "visual_caption": "Micro1 reached a $500M run rate as companies scramble for high-quality training data. Synthetic and curated datasets are now the primary differentiator for model performance."
+                "headline": "EU: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "NIST: GENESIS MISSION PARTNERSHIP",
+                "visual_caption": "The European Commission introduced the Technological Sovereignty Package to strengthen digital autonomy across semiconductors and cloud. Regulatory measures aim to secure European supply chains."
             },
             {
                 "slide_index": 6,
-                "headline": "NIST: GENESIS MISSION INTEGRATION",
-                "teaserTitle": "VOMIT: LLM TOKEN REFINEMENT",
-                "visual_caption": "NIST joined a $40M mission to standardize AI safety and measurement. This partnership will define the future of regulatory auditing for frontier models."
+                "headline": "NIST: GENESIS MISSION PARTNERSHIP",
+                "teaserTitle": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+                "visual_caption": "NIST officially joined the National Genesis Mission to accelerate AI innovation and safety measurement standards. This federal initiative bridges fundamental metrology research with scalable deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "VOMIT: LLM TOKEN REFINEMENT",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "The new Vomit framework uses secondary models to clean token outputs and reduce errors. This architecture ensures high reliability for critical code and data generation tasks."
+                "headline": "HUGGING FACE: QWEN RECURRENT LATENT REASONING",
+                "teaserTitle": "",
+                "visual_caption": "Trending Hugging Face repositories highlight advanced Qwen model variations optimized for high-performance inference. Community focus centers entirely on efficient weight distribution and FP8 quantization."
             },
             {
                 "slide_index": 8,
