@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "FROM AI COPILOTS TO AGENT SWARMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: ENHANCES CYBER DEFENSE WINDOW",
+                "headline": "IEEE SPECTRUM: FROM AI COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT five point six, a new frontier model scaling multimodal reasoning and long-context capabilities. This demands significant compute upgrades for optimal performance and throughput across advanced AI deployments."
+                "narration_line": "Software engineering is shifting from human assisted copilots to fully autonomous agent swarms. This transition forces enterprise development teams to overhaul their underlying infrastructure and orchestration tools."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: ENHANCES CYBER DEFENSE WINDOW",
-                "teaserTitle": "OPENAI: EXPANDS GPT-5.6 ACCESS",
+                "headline": "IEEE SPECTRUM: THE CPU COMEBACK IS UPON US",
+                "teaserTitle": "PAPERS WITH CODE: BDH-CQ RECURRENT LATENT REASONING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding its Daybreak capabilities, narrowing the cyber defense window with enhanced AI-driven threat detection. This initiative addresses critical security vulnerabilities against sophisticated adversarial attacks and data exfiltration."
+                "narration_line": "Agentic workloads have turned central processing units into critical performance bottlenecks across data centers. Architects must rebalance compute allocations to eliminate latency spikes during sequential task execution."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDS GPT-5.6 ACCESS",
-                "teaserTitle": "DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
+                "headline": "PAPERS WITH CODE: BDH-CQ RECURRENT LATENT REASONING",
+                "teaserTitle": "HACKER NEWS: VOMIT TOKEN CLEANUP UTILITY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is improving GPT five point six Sol and expanding Luna access for free users, democratizing advanced AI capabilities. This broadens the user base, accelerating feature development cycles across the ecosystem."
+                "narration_line": "A new one hundred fifty million parameter model called BDH CQ achieves breakthrough efficiency using recurrent latent reasoning. This lean architecture slashes inference costs while rivaling massive frontier models."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: UNVEILS GEMINI 3.7 FLASH",
-                "teaserTitle": "TECHCRUNCH: OPENAI GAINS ON ANTHROPIC IN B2B",
+                "headline": "HACKER NEWS: VOMIT TOKEN CLEANUP UTILITY",
+                "teaserTitle": "TECHCRUNCH: MICRO1 REACHES 500M RUN RATE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind launched Gemini three point seven Flash, optimized as their most intelligent workhorse model for coding and agents. This offers improved efficiency for complex programming tasks and autonomous system orchestration."
+                "narration_line": "Open source proxy tools are now stripping noisy intermediate reasoning tokens from production API outputs. Filtering these payloads successfully reduces downstream billing costs and improves application efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: OPENAI GAINS ON ANTHROPIC IN B2B",
-                "teaserTitle": "REGULATION: EU PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "headline": "TECHCRUNCH: MICRO1 REACHES 500M RUN RATE",
+                "teaserTitle": "EU AI OFFICE: ENFORCING AI ACT RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New data indicates OpenAI is rapidly gaining market share against Anthropic among business users. This highlights a strong preference for OpenAI's ecosystem in critical B2B applications."
+                "narration_line": "Data startup Micro1 has reached a five hundred million dollar run rate amid intense training demand. Premium data curation pipelines now command extreme pricing power across the B2B market."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: EU PROPOSES TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "CHATGPT: INTEGRATES APPLE MESSAGES",
+                "headline": "EU AI OFFICE: ENFORCING AI ACT RULES",
+                "teaserTitle": "MICROSOFT: FRONTIER COMPANY TRANSFORMATION",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "The European Commission proposed a Tech Sovereignty Package to strengthen digital autonomy in semiconductors, AI, and cloud technologies. This initiative aims to reduce reliance on external tech giants, fostering indigenous development."
+                "narration_line": "The European Commission has officially initiated strict enforcement of foundational AI Act transparency mandates. Non compliance carries severe financial penalties reaching up to seven percent of global turnover."
             },
             {
                 "slide_index": 7,
-                "headline": "CHATGPT: INTEGRATES APPLE MESSAGES",
+                "headline": "MICROSOFT: FRONTIER COMPANY TRANSFORMATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "ChatGPT now integrates with Apple Messages via a new plugin, enabling users to send texts directly from the AI interface. This broadens its conversational AI reach into native mobile messaging environments."
+                "narration_line": "Microsoft has released comprehensive blueprints detailing its internal transition into a frontier AI enterprise. Organizations must adopt these advanced operational frameworks to maintain market competitiveness."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
