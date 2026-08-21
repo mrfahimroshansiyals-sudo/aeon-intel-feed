@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INTRODUCING GEMINI 3.7",
-        "titleBlue": "FLASH",
-        "footerSummary": "DeepMind launches Gemini 3.7 Flash, boosting agentic coding & efficiency. New model sets performance benchmarks for AI deployments."
+        "titleWhite": "SILICON VALUATION",
+        "titleBlue": "SURGE",
+        "footerSummary": "ASIC developer Etched hits $21B valuation as hardware architecture shifts from general GPUs to transformer-specific silicon."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "heading": "ETCHED: SILICON VALUATION SURGE",
             "paragraphs": [
-                "Google DeepMind has launched Gemini 3.7 Flash, their most intelligent and efficient workhorse model designed for advanced coding and complex agentic tasks. This new iteration emphasizes improved capabilities across multi-step reasoning and rapid deployment scenarios, setting a new bar for foundational model utility.",
-                "The release of Gemini 3.7 Flash directly impacts development workflows by accelerating agentic system construction and reducing computational overhead for sophisticated applications. Enterprises leveraging this model can anticipate enhanced operational efficiency and quicker time-to-market for AI-powered solutions, potentially lowering compute costs."
+                "Etched has doubled its valuation to $21B in just 30 days following the debut of specialized transformer ASICs. This surge highlights a critical market pivot toward hardware that prioritizes model-specific efficiency over general-purpose compute flexibility.",
+                "Enterprise architects must now weigh the $100M+ savings of dedicated silicon against the risk of hardware lock-in. Adopting specialized ASICs could reduce inference costs by 80% for high-volume LLM deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
+            "nextUpTease": "STRIPE: OPENROUTER ACQUISITION DEAL",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash",
-                "Published: 2026-08-20T09:00:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-21T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: PACING MODEL DEVELOPMENT FOR CYBER",
+            "heading": "STRIPE: OPENROUTER ACQUISITION DEAL",
             "paragraphs": [
-                "OpenAI is strategically pacing its model development roadmap to address the rapidly evolving cyber defense landscape, emphasizing capabilities critical for national security and critical infrastructure. This initiative focuses on building robust AI systems that enhance threat detection and incident response mechanisms.",
-                "This shift mandates that AI architects prioritize security-by-design principles in model integration and deployment, particularly for sensitive enterprise applications. Evaluating vendor roadmaps for proactive cyber resilience features becomes paramount to mitigate escalating AI-driven security risks and ensure operational integrity."
+                "Stripe is reportedly acquiring AI gateway startup OpenRouter for $7B to integrate LLM routing directly into global payment rails. This acquisition consolidates the fragmented API gateway market, creating a unified interface for model-agnostic enterprise transactions.",
+                "For tech leaders, this merger simplifies multi-model orchestration while centralizing financial exposure to a single infrastructure provider. Strategic evaluation of gateway independence is now a priority to prevent platform-level vendor capture."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
+            "nextUpTease": "AMD: AGENTIC CPU BOTTLENECK",
             "tags": [
-                "Source: https://openai.com/news/pacing-model-development-in-an-era-of-cyber-critical-capabilities",
-                "Published: 2026-08-18T10:00:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-21T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EU AI OFFICE: PROPOSES TECH SOVEREIGNTY PACKAGE",
+            "heading": "AMD: AGENTIC CPU BOTTLENECK",
             "paragraphs": [
-                "The European Commission has proposed a comprehensive Tech Sovereignty Package aimed at strengthening Europe's digital autonomy and resilience across key areas, including AI, cloud infrastructure, and open-source technologies. This policy initiative seeks to reduce reliance on external providers and foster indigenous AI innovation.",
-                "This regulatory push signals a long-term strategic shift that will impact enterprise AI procurement, data localization, and compliance strategies for businesses operating within or with the EU. Organizations must evaluate their supply chains and architectural choices to align with forthcoming standards, balancing innovation with geopolitical considerations."
+                "AMD research indicates that the rise of agentic AI swarms has shifted the performance bottleneck from GPUs back to the CPU for task orchestration. Modern agents require rapid sequential instruction processing that current high-latency memory buses struggle to sustain.",
+                "Infrastructure teams must rebalance cluster ratios, potentially increasing CPU allocation to handle massive task-branching overhead. Failure to address this bottleneck could result in 40% latency spikes during complex agentic workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
+            "nextUpTease": "TAIWAN: AI CHIP REVENUE VOLATILITY",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
-                "Published: 2026-08-20T10:00:00Z",
+                "Source: https://spectrum.ieee.org/artificial-intelligence",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HACKER NEWS: AWS CODEX BUG CAUSES 10X CHARGES",
+            "heading": "TAIWAN: AI CHIP REVENUE VOLATILITY",
             "paragraphs": [
-                "A critical bug within the OpenAI Codex integration on AWS Bedrock is reportedly causing up to 10 times the expected charges for some users, leading to significant unforeseen operational costs. This issue highlights potential vulnerabilities in managed AI service billing and resource allocation mechanisms.",
-                "Enterprises utilizing large language model services via cloud platforms must implement aggressive auditing and real-time cost monitoring to prevent unexpected financial exposure from such integration bugs. Proactive anomaly detection in compute expenditure is now a critical component of AI infrastructure management to maintain budget compliance."
+                "Economists warn that Taiwan's 11% GDP growth forecast, driven exclusively by AI chip exports, may face sustainability risks by Q4 2026. The concentration of global compute manufacturing in a single geography creates a systemic risk for the entire tech supply chain.",
+                "Corporate strategists must accelerate regional diversification of server deployments to mitigate potential geopolitical or economic disruptions. Diversifying hardware sourcing beyond primary foundries is now a mandatory risk management protocol."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
+            "nextUpTease": "MICRO1: AI DATA BOOM",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41328905",
-                "Published: 2026-08-20T09:00:00Z",
+                "Source: https://www.cnbc.com/technology/",
+                "Published: 2026-08-22T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MIT TECH REVIEW: LLM FLAW OPENS ATTACK VECTORS",
+            "heading": "MICRO1: AI DATA BOOM",
             "paragraphs": [
-                "Research published by MIT Technology Review reveals a fundamental architectural flaw that leaves large language models strikingly vulnerable to new forms of adversarial attacks. This vulnerability allows for subtle manipulation to trick LLMs into generating malicious content or performing unintended actions.",
-                "This critical security finding necessitates immediate re-evaluation of current LLM deployment strategies and a strengthened focus on robust input validation and output filtering mechanisms. AI leaders must invest in advanced red-teaming and defensive AI techniques to safeguard against exploitation, impacting trust and regulatory compliance."
+                "AI data startup Micro1 has reached a $500M gross run rate, fueled by the urgent enterprise demand for high-quality synthetic training sets. The depletion of public web data is forcing a massive shift toward proprietary and human-in-the-loop data curation services.",
+                "CIOs must allocate significant budgets for data acquisition to avoid model performance plateaus in specialized domains. Strategic investment in unique datasets is becoming the primary differentiator in the competitive LLM landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
+            "nextUpTease": "NIST: GENESIS MISSION INTEGRATION",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/20/1032345/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
-                "Published: 2026-08-20T09:00:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-21T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET RELEASE",
+            "heading": "NIST: GENESIS MISSION INTEGRATION",
             "paragraphs": [
-                "Hugging Face has announced the release of Ultra-FineWeb-L1, a vast, open-source dataset designed to significantly enhance the training of large language models for next-generation AI applications. This highly curated dataset offers improved data quality and diversity, addressing key bottlenecks in model generalization.",
-                "The availability of Ultra-FineWeb-L1 presents an immediate opportunity for developers and researchers to improve model performance and reduce the computational cost of data acquisition and preprocessing. Integrating this dataset can lead to more robust and efficient AI architectures, impacting competitive advantage and development timelines."
+                "NIST has joined the National Genesis Mission, a $40M federal initiative to standardize measurement and safety protocols for frontier AI models. This partnership aims to bridge the gap between experimental research and rigorous regulatory compliance frameworks.",
+                "Compliance officers should prepare for standardized auditing requirements that will likely become mandatory for government-linked AI contracts. Early alignment with NIST standards will provide a competitive advantage in the expanding public sector AI market."
             ],
             "imageUrl": "",
-            "nextUpTease": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
+            "nextUpTease": "VOMIT: LLM TOKEN REFINEMENT",
             "tags": [
-                "Source: https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L1",
-                "Published: 2026-08-19T12:00:00Z",
+                "Source: https://www.nist.gov/news-events/news/",
+                "Published: 2026-08-21T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "HACKER NEWS: MALICIOUS RUST CRATE PAYLOAD",
+            "heading": "VOMIT: LLM TOKEN REFINEMENT",
             "paragraphs": [
-                "Security researchers have identified a malicious Rust crate, 'Arrayref', executing a build-time payload during compilation, posing a severe software supply chain risk. This discovery highlights the escalating threat of sophisticated attacks targeting developer tools and open-source dependencies.",
-                "This incident necessitates immediate auditing of all third-party dependencies within enterprise AI development pipelines and the implementation of stringent code integrity checks. Proactive security measures are crucial to prevent compromise of foundational AI infrastructure, directly impacting deployment security and intellectual property protection."
+                "A new post-processing framework called Vomit utilizes secondary LLMs to scrub and refine raw token outputs from Claude 5. This method significantly reduces hallucinations and formatting errors by applying an external verification layer during inference.",
+                "Developers can implement this 'cleanup' architecture to enhance output reliability in production-grade software. While adding slight latency, this verification layer ensures 99% accuracy in JSON and code-generation tasks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41328910",
-                "Published: 2026-08-19T19:00:00Z",
+                "Source: https://news.ycombinator.com/",
+                "Published: 2026-08-22T02:00:00Z",
                 "Status: Audited & True"
             ]
         }
