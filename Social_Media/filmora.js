@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B UNCENSORED MLX UPDATE",
-                "teaserTitle": "FRONTIER MODEL: NVIDIA AVO HITS ARC-AGI-3 BENCHMARK",
-                "visual_caption": "The Qwen 3.8-27B Uncensored MLX model received an update, boosting local inference for Apple Silicon. This optimizes efficiency and speed for developers on edge devices."
+                "headline": "FRONTIER MODEL: OPENAI INTRODUCES GPT-5.6 SCALABILITY",
+                "teaserTitle": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
+                "visual_caption": "OpenAI released GPT-5.6, a frontier model for unprecedented enterprise scalability. It optimizes complex deployments, boosting multi-modal processing efficiency by 15%."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER MODEL: NVIDIA AVO HITS ARC-AGI-3 BENCHMARK",
-                "teaserTitle": "INFRASTRUCTURE: STARCLOUD RAISES $250M FOR ORBITAL DATA CENTERS",
-                "visual_caption": "Nvidia's AVO model achieved 100% on the ARC-AGI-3 benchmark, a major breakthrough in advanced AI reasoning. This validates its ability to solve complex, novel problems requiring deeper cognitive processes."
+                "headline": "MODEL DEVELOPMENT: DEEPSEEK V4-FLASH-VISION-EXP LAUNCH",
+                "teaserTitle": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "visual_caption": "DeepSeek unveiled its v4-Flash-Vision-exp model, integrating high-speed vision with advanced language. It offers 20% faster inference on real-time visual-linguistic tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: STARCLOUD RAISES $250M FOR ORBITAL DATA CENTERS",
-                "teaserTitle": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
-                "visual_caption": "Starcloud secured $250M for orbital data centers, meeting escalating compute demands in space-constrained environments. This aims to deploy crucial data infrastructure in orbit, overcoming terrestrial limitations."
+                "headline": "AI SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
+                "visual_caption": "OpenAI expands Daybreak, enhancing AI cyber defense as vulnerabilities narrow. Threat detection models identify attacks 25% faster."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL ACCESS: OPENAI EXPANDS GPT-5.6 LUNA FOR FREE",
-                "teaserTitle": "DATASET DEVELOPMENT: ULTRA-FINEWEB-L1 DATASET RELEASE",
-                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and broadening access to GPT-5.6 Luna for free users. This move strategically expands its advanced AI capabilities across a wider consumer base."
+                "headline": "HARDWARE: SAMSUNG PLANS $80B SHAREHOLDER RETURNS",
+                "teaserTitle": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
+                "visual_caption": "Samsung announced up to $80B in shareholder returns post-SK Hynix buyback. This signals major capital redeployment into next-gen AI hardware."
             },
             {
                 "slide_index": 5,
-                "headline": "DATASET DEVELOPMENT: ULTRA-FINEWEB-L1 DATASET RELEASE",
-                "teaserTitle": "ENTERPRISE SAAS: MICRO1 AI TRAINING HITS $500M RUN RATE",
-                "visual_caption": "The Ultra-FineWeb-L1 dataset received an update on Hugging Face, providing a vast, high-quality resource for training advanced large language models. This curated data directly addresses bottlenecks in acquiring and processing web-scale information."
+                "headline": "MODEL OPTIMIZATION: UNSLOTH QWEN 3.8-27B GGUF UPDATE",
+                "teaserTitle": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Unsloth Qwen 3.8-27B GGUF model updated for local inference optimization. It improves execution speed and reduces memory footprint by 15-20%."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE SAAS: MICRO1 AI TRAINING HITS $500M RUN RATE",
-                "teaserTitle": "ETHICS & IP: AI DRUG DESIGN AND OWNERSHIP DEBATE",
-                "visual_caption": "AI data startup Micro1 has achieved a $500M gross run rate, driven by surging demand for AI training data. This milestone reflects the critical and expanding market for bespoke data solutions powering enterprise AI initiatives."
+                "headline": "DATA ETHICS: AI BOOK SCANNING & PRESERVATION",
+                "teaserTitle": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
+                "visual_caption": "Debate grows over AI companies destroying rare books for bulk data scanning. This raises questions about cultural preservation and ethical data acquisition."
             },
             {
                 "slide_index": 7,
-                "headline": "ETHICS & IP: AI DRUG DESIGN AND OWNERSHIP DEBATE",
+                "headline": "MODEL OPTIMIZATION: ORCAROUTER QWEN 3.8-27B FP8",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "A critical debate has emerged over intellectual property rights when AI autonomously designs novel drugs. This questions who deserves credit and ownership in AI-generated innovation within the pharmaceutical sector."
+                "visual_caption": "Orcarouter released updated Qwen 3.8-27B Uncensored-FP8 model. It leverages 8-bit floating-point precision for efficient inference and reduced memory."
             },
             {
                 "slide_index": 8,
