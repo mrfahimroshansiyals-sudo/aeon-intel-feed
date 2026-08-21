@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PRODUCT: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "SCIENCE: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTS",
-                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and expanding access to GPT-5.6 Luna for free users. This accelerates feature adoption and democratizes advanced AI capabilities across a wider user base."
+                "headline": "AUTONOMY: NEVADA CLEARS ROBOTAXI FLEETS",
+                "teaserTitle": "DATA: MICRO1 HITS $500M RUN RATE",
+                "visual_caption": "Nevada regulators approved Tesla, Uber, and Waymo to deploy 1000s of commercial robotaxis. This shift accelerates autonomous fleet expansion across regional transit networks."
             },
             {
                 "slide_index": 2,
-                "headline": "SCIENCE: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTS",
-                "teaserTitle": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE GROWS",
-                "visual_caption": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving accuracy and lead times for critical weather events. This advancement impacts disaster preparedness and climate modeling."
+                "headline": "DATA: MICRO1 HITS $500M RUN RATE",
+                "teaserTitle": "TOOLING: MODULAR OPEN SOURCES MOJO",
+                "visual_caption": "AI training data provider Micro1 reached a $500M gross run rate. High demand for reasoning data is intensifying pressure on AI development budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: AI DATA CENTER OUTRAGE GROWS",
-                "teaserTitle": "RESEARCH: DIFFUSIONGEMMA TECHNICAL REPORT RELEASED",
-                "visual_caption": "Public outrage over AI data center environmental impact, including energy and water usage, is increasingly visible. This creates significant operational and reputational challenges for AI infrastructure providers."
+                "headline": "TOOLING: MODULAR OPEN SOURCES MOJO",
+                "teaserTitle": "HARDWARE: AGENTIC AI DRIVES CPU STRAIN",
+                "visual_caption": "Modular has open-sourced the core compiler for its Mojo programming language. The release simplifies low-level AI performance tuning across diverse compute hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: DIFFUSIONGEMMA TECHNICAL REPORT RELEASED",
-                "teaserTitle": "REGULATION: AI AUTHORSHIP DETECTED IN WEB CONTENT",
-                "visual_caption": "A new DiffusionGemma Technical Report details advancements in efficient generative AI models, optimizing performance and resource utilization. This provides critical insights for various applications."
+                "headline": "HARDWARE: AGENTIC AI DRIVES CPU STRAIN",
+                "teaserTitle": "REASONING: BDH-CQ SCALES LATENT INFERENCE",
+                "visual_caption": "New analysis indicates agentic AI workloads are creating severe bottlenecks on traditional host CPUs. Multi-agent state orchestration demands faster CPU throughput alongside accelerators."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: AI AUTHORSHIP DETECTED IN WEB CONTENT",
-                "teaserTitle": "ETHICS: AI CONSCIOUSNESS DEBATE IS A TRAP",
-                "visual_caption": "A recent study shows 1/3 of web pages since ChatGPT's launch display AI authorship, raising concerns about content authenticity. This creates a bottleneck for discerning human vs machine-generated content."
+                "headline": "REASONING: BDH-CQ SCALES LATENT INFERENCE",
+                "teaserTitle": "ARCHITECTURE: AMD MAPS AGENT SWARMS",
+                "visual_caption": "Researchers released BDH-CQ, a 150M parameter reasoning model. The compact architecture establishes a new benchmark frontier on ARC-AGI-1 reasoning tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "ETHICS: AI CONSCIOUSNESS DEBATE IS A TRAP",
-                "teaserTitle": "FINANCE: WALL STREET EMBRACES AI BONDS",
-                "visual_caption": "Experts argue that debates over AI consciousness are a conceptual trap, diverting focus from actionable risks like bias and safety. This philosophical impasse hinders practical responsible AI governance."
+                "headline": "ARCHITECTURE: AMD MAPS AGENT SWARMS",
+                "teaserTitle": "COMPLIANCE: EU DENIES COPYRIGHT TO AI",
+                "visual_caption": "AMD unveiled an engineering framework shifting software development from single copilots to agent swarms. Autonomous coding pipelines will require strict automated verification to maintain code quality."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: WALL STREET EMBRACES AI BONDS",
+                "headline": "COMPLIANCE: EU DENIES COPYRIGHT TO AI",
                 "teaserTitle": "",
-                "visual_caption": "Wall Street is enthusiastic about high-yielding AI bonds, funneling significant capital into AI development and infrastructure. This reflects growing appetite for specialized financial instruments."
+                "visual_caption": "EU authorities confirmed that purely AI-generated content lacks copyright protection. Companies must incorporate verifiable human review to protect digital software assets."
             },
             {
                 "slide_index": 8,
