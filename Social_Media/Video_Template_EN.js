@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES INTELLIGENCE",
+        "hookTitle": "GEMINI 3.7 FLASH DEBUTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER MODEL: GPT-5.6 SCALES INTELLIGENCE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH BOOSTS AI AGENTS",
+                "teaserTitle": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its next-generation frontier model for scaling intelligence in complex applications. This release enhances reasoning and generalist performance, addressing critical enterprise deployment bottlenecks."
+                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, a new workhorse model optimizing AI agents. This model significantly enhances coding and autonomous agent performance, addressing critical bottlenecks in real-world deployment."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "CYBER DEFENSE: DAYBREAK WINDOW NARROWS",
+                "headline": "COMPUTE INVESTMENT: BROADCOM SECURES $70B AI INFRA",
+                "teaserTitle": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is improving GPT-5.6 Sol in ChatGPT and expanding Luna access for free users. This tiered rollout democratizes powerful capabilities while refining the commercial Sol model for advanced applications."
+                "naration_line": "Broadcom is securing a debt deal exceeding seventy billion dollars for AI compute infrastructure. This massive investment aims to expand data centers and develop advanced chips to meet surging AI demand."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBER DEFENSE: DAYBREAK WINDOW NARROWS",
-                "teaserTitle": "SECURITY RISK: FUNDAMENTAL LLM VULNERABILITY",
+                "headline": "MODEL RESEARCH: ANTHROPIC UNVEILS CLAUDE'S REASONING",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "OpenAI is expanding Daybreak, its cyber defense initiative, to narrow the vulnerability window against advanced AI threats. This strategy focuses on proactive detection and hardening AI systems for operational integrity."
+                "narration_line": "Anthropic researchers have revealed Claude's internal reasoning spaces, a breakthrough for understanding LLM cognitive pathways. This interpretability is crucial for debugging, improving reliability, and enhancing safety in advanced AI systems."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY RISK: FUNDAMENTAL LLM VULNERABILITY",
-                "teaserTitle": "HARDWARE OPT: GPU MEMORY MECHANICS",
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX TARGETS APPLE",
+                "teaserTitle": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A fundamental flaw has been identified in large language models, making them vulnerable to novel attack vectors. This critical exposure risks compromising model integrity and output reliability, necessitating immediate architectural review."
+                "narration_line": "A new MLX-optimized, uncensored Qwen three point eight twenty-seven billion model targets Apple Silicon. This release boosts local deployment efficiency and speed, leveraging Apple's unified memory architecture for personal AI."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE OPT: GPU MEMORY MECHANICS",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B GGUF",
+                "headline": "TOOLS & FRAMEWORKS: SHOEHORN QUANTIZES ANY MODEL",
+                "teaserTitle": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Insights into how graphics processing units read memory reveal opportunities for optimizing AI compute efficiency. Understanding these low-level mechanics allows for fine-tuning data access, impacting training speeds and inference latency."
+                "narration_line": "The 'Shoehorn' project introduces an open-source tool quantizing any large language model for local GPU or CPU deployment. This framework drastically reduces memory footprint and computational requirements, enabling frontier models on consumer machines."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B GGUF",
-                "teaserTitle": "FRONTIER VISION: DEEPSEEK-V4 FLASH",
+                "headline": "DATA INFRASTRUCTURE: ULTRA-FINEWEB-L1 POWERS NEXT-GEN LLMS",
+                "teaserTitle": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Unsloth has released a GGUF-optimized version of the Qwen three point eight-twenty seven billion parameter model. This enhances its performance and deployability on a wider range of consumer hardware by reducing memory footprint."
+                "narration_line": "OpenBMB has launched Ultra-FineWeb-L one, a massive curated dataset for training next-generation large language models. This dataset addresses critical bottlenecks in data availability and cleanliness, impacting model performance and generalization."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER VISION: DEEPSEEK-V4 FLASH",
+                "headline": "EMERGING COMPUTE: STARCLOUD RAISES $250M FOR ORBITAL DCS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DeepSeek has introduced DeepSeek-v4-flash-vision-experimental, a new frontier model for enhanced multimodal vision capabilities. This release improves visual understanding and generation, crucial for autonomous systems."
+                "narration_line": "Starcloud raised two hundred fifty million dollars to deploy orbital data centers, proposing a novel solution for AI compute capacity. This accelerates research into space-based infrastructure, offering advantages in cooling and energy efficiency."
             },
             {
                 "slide_index": 8,
