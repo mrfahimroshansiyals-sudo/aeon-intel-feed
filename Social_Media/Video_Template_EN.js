@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI EXPANSION & COMPUTE RISKS",
+        "hookTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 ACCESS EXPANSION",
-                "teaserTitle": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "DEEPSEEK: V4 FLASH VISION-EXP RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has expanded access to its GPT-5.6 Sol model within ChatGPT, making advanced capabilities available to a broader user base. This update democratizes access to frontier intelligence, impacting enterprise deployment strategies and compute demand."
+                "narration_line": "Google DeepMind has introduced Gemini three point seven Flash, their most intelligent workhorse model yet for coding and agents. This release signifies a major architectural shift, enhancing compute efficiency for complex AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
-                "teaserTitle": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
+                "headline": "DEEPSEEK: V4 FLASH VISION-EXP RELEASE",
+                "teaserTitle": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Micron's CEO announced that artificial intelligence has fundamentally transformed the memory industry, moving it beyond traditional market cycles. This shift implies a sustained demand and potentially elevated pricing for high-bandwidth memory crucial for advanced AI compute."
+                "narration_line": "DeepSeek has launched its new version four flash vision-experience model, an efficient multimodal AI optimized for visual tasks. This model provides rapid inference speeds, crucial for real-time applications and reduced compute costs."
             },
             {
                 "slide_index": 3,
-                "headline": "MARKET SHARE: OPENAI GAINS ON ANTHROPIC",
-                "teaserTitle": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
+                "headline": "HARDWARE: MICRON CEO ON AI MEMORY SHIFT",
+                "teaserTitle": "SECURITY: MALICIOUS RUST CRATE PAYLOAD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New market data shows OpenAI is steadily outcompeting Anthropic among business users, signaling a shift in enterprise AI adoption. This trend emphasizes the critical role of robust developer ecosystems and ease of integration for commercial AI success."
+                "narration_line": "Micron's Chief Executive Officer confirms AI demand is reshaping the memory industry, moving beyond traditional cycles due to sustained high-bandwidth memory needs. This permanent shift impacts hardware procurement and infrastructure scaling plans significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "CLOUD COSTS: AWS CODEX 10X CHARGE BUG",
+                "headline": "SECURITY: MALICIOUS RUST CRATE PAYLOAD",
                 "teaserTitle": "AGENTIC AI: SEED HARNESS RELEASE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A significant bug on AWS Bedrock's Codex service is causing reported ten times higher charges for users. This critical issue highlights major cost management vulnerabilities in cloud AI deployments and necessitates vigilant monitoring."
+                "narration_line": "A malicious Rust crate named 'Arrayref' has been found executing build-time payloads, exposing a critical software supply chain vulnerability. This incident highlights severe immediate risks from third-party dependencies in development environments."
             },
             {
                 "slide_index": 5,
                 "headline": "AGENTIC AI: SEED HARNESS RELEASE",
-                "teaserTitle": "DATA CENTERS: NOVEL COOLING METHOD",
+                "teaserTitle": "INFRASTRUCTURE: NOVEL 'PEE' COOLING METHOD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The new \"Seed\" framework has been introduced, offering a minimal, self-modifying agent harness for developing autonomous AI systems. This open-source tool streamlines the prototyping of complex AI agents, reducing time-to-market for specialized automation solutions."
+                "narration_line": "A new open-source 'Seed' framework provides a minimal self-modifying agent harness to accelerate autonomous AI system development. This architecture improves development velocity for complex agentic workflows and reduces research and development cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "DATA CENTERS: NOVEL COOLING METHOD",
+                "headline": "INFRASTRUCTURE: NOVEL 'PEE' COOLING METHOD",
                 "teaserTitle": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Researchers are actively exploring novel cooling solutions for data centers, including innovative and unconventional approaches. This research aims to drastically reduce energy consumption and the environmental footprint of large-scale artificial intelligence infrastructure."
+                "narration_line": "Researchers explore novel data center cooling methods like 'pee cooling' to combat escalating energy consumption. This innovative approach aims to dramatically reduce operational footprint and long-term operating costs for AI compute clusters."
             },
             {
                 "slide_index": 7,
                 "headline": "ROBOTICS: HUMAN OBSTACLE FOR HUMANOIDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Chinese humanoid robots currently face a key challenge as human workers still largely outperform them in complex, unstructured tasks. This limitation hinders immediate widespread industrial deployment and requires refined strategic integration for optimal return on investment."
+                "narration_line": "Chinese humanoid robots continue to face a primary operational hurdle: human workers still outperform them in complex, unstructured tasks. This limitation impacts immediate widespread industrial deployment and requires realistic expectations for robotic solutions."
             },
             {
                 "slide_index": 8,
