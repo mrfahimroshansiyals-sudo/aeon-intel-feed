@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B MLX OPTIMIZATION",
-                "teaserTitle": "QWEN 3.8-27B FP8 EFFICIENCY",
-                "visual_caption": "Orcarouter released an MLX optimized Qwen 3.8-27B model for Apple Silicon. This delivers a 20-25% improvement in processing latency on compatible devices."
+                "headline": "FRONTIER MODEL: GPT-5.6 SCALES INTELLIGENCE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "visual_caption": "OpenAI launched GPT-5.6, its next-gen frontier model, to scale intelligence across complex applications. This release improves reasoning and generalist performance for enterprise AI."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B FP8 EFFICIENCY",
-                "teaserTitle": "GEMINI 3.7 FLASH DEPLOYMENT",
-                "visual_caption": "The Qwen 3.8-27B Uncensored model now uses FP8 precision, cutting VRAM usage by up to 50%. This accelerates inference by 30% on supporting hardware."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "CYBER DEFENSE: DAYBREAK WINDOW NARROWS",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands Luna access for free users. This tiered rollout democratizes powerful capabilities and refines the commercial Sol model."
             },
             {
                 "slide_index": 3,
-                "headline": "FRONTIER MODEL: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "AI BOOK SCANNING CONTROVERSY",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, optimized for coding and agentic workflows. This model delivers rapid response times in complex multi-step reasoning tasks."
+                "headline": "CYBER DEFENSE: DAYBREAK WINDOW NARROWS",
+                "teaserTitle": "SECURITY RISK: FUNDAMENTAL LLM VULNERABILITY",
+                "visual_caption": "OpenAI expands Daybreak, its cyber defense strategy, to narrow the vulnerability window against AI threats. This enhances proactive detection and hardens AI systems for operational integrity."
             },
             {
                 "slide_index": 4,
-                "headline": "DATA ETHICS: AI BOOK SCANNING CONTROVERSY",
-                "teaserTitle": "TTS SUB-50MS LATENCY BREAKTHROUGH",
-                "visual_caption": "A controversy emerges over reports of AI companies destroying rare physical books for training data. This risks irreversible damage to cultural archives and raises ethical concerns."
+                "headline": "SECURITY RISK: FUNDAMENTAL LLM VULNERABILITY",
+                "teaserTitle": "HARDWARE OPT: GPU MEMORY MECHANICS",
+                "visual_caption": "A fundamental flaw in LLMs leaves them vulnerable to novel attacks, risking model integrity and output reliability. This critical exposure demands immediate architectural review and security patches."
             },
             {
                 "slide_index": 5,
-                "headline": "AI EFFICIENCY: TTS SUB-50MS LATENCY BREAKTHROUGH",
-                "teaserTitle": "AI MEMORY STOCKS RISE",
-                "visual_caption": "Nari Labs achieved sub-50ms response times in Text-to-Speech technology. This breakthrough sets a new benchmark for real-time conversational AI."
+                "headline": "HARDWARE OPT: GPU MEMORY MECHANICS",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8-27B GGUF",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "New insights into GPU memory mechanics reveal critical opportunities for optimizing AI compute efficiency. Understanding these low-level patterns boosts training speeds and inference latency."
             },
             {
                 "slide_index": 6,
-                "headline": "HARDWARE TRENDS: AI MEMORY STOCKS RISE",
-                "teaserTitle": "MICRO1 HITS $500M RUN RATE",
-                "visual_caption": "Four key memory stocks are trending as darlings of the AI boom, reflecting strong market demand for HBM. This indicates rising investment and valuation in specialized AI hardware."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8-27B GGUF",
+                "teaserTitle": "FRONTIER VISION: DEEPSEEK-V4 FLASH",
+                "visual_caption": "Unsloth released a GGUF optimized Qwen 3.8-27B model, enhancing its performance and deployability on consumer hardware. This quantization drastically reduces memory footprint for efficient CPU inference."
             },
             {
                 "slide_index": 7,
-                "headline": "MARKET DYNAMICS: MICRO1 HITS $500M RUN RATE",
+                "headline": "FRONTIER VISION: DEEPSEEK-V4 FLASH",
                 "teaserTitle": "",
-                "visual_caption": "AI data startup Micro1 reached a significant milestone, achieving a $500M gross run rate. This growth highlights the critical demand for high-quality data in AI model training."
+                "visual_caption": "DeepSeek introduced DeepSeek-v4-flash-vision-exp, a new frontier model for enhanced multimodal vision and rapid inference. It advances visual understanding and scene interpretation, critical for autonomous systems."
             },
             {
                 "slide_index": 8,
