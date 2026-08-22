@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE OFFICER",
-                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT IN AN ERA OF CYBER-CRITICAL CAPABILITIES",
-                "visual_caption": "OpenAI appoints Dali Rajic as Chief Revenue Officer to scale enterprise operations globally. This leadership addition accelerates commercial software distribution and alters B2B procurement cycles."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
+                "teaserTitle": "OPENAI: DAYBREAK PLATFORM EXPANDS CYBER DEFENSE",
+                "visual_caption": "OpenAI has officially unveiled GPT-5.6, their latest frontier intelligence model, engineered for advanced scalability. Its expanded capabilities redefine architectural baselines for integrated AI systems."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: PACING MODEL DEVELOPMENT IN AN ERA OF CYBER-CRITICAL CAPABILITIES",
-                "teaserTitle": "ANTHROPIC: IPO FILING TO SHOW AI BACKLASH AS RISK FACTOR",
-                "visual_caption": "OpenAI establishes formal guidelines for pacing frontier model development against cyber threats. Engineering teams must integrate safety thresholds that directly impact deployment velocity."
+                "headline": "OPENAI: DAYBREAK PLATFORM EXPANDS CYBER DEFENSE",
+                "teaserTitle": "HUGGING FACE: OBLITERATED QWEN 3.8 27B OPTIMIZED",
+                "visual_caption": "OpenAI's Daybreak platform is expanding its cyber defense capabilities, addressing a narrowing window for threat detection. This update integrates advanced anomaly detection to fortify critical infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: IPO FILING TO SHOW AI BACKLASH AS RISK FACTOR",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI MODEL ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
-                "visual_caption": "Anthropic's upcoming IPO filing discloses potential artificial intelligence backlash as a material risk factor. Strategy officers must analyze how public sentiment translates into financial risk exposure."
+                "headline": "HUGGING FACE: OBLITERATED QWEN 3.8 27B OPTIMIZED",
+                "teaserTitle": "AGENT SYSTEMS: MUNDER DIFFLIN LAUNCHES CLONE HARNESS",
+                "visual_caption": "The OBLITERATUS Qwen 3.8 27B model offers highly optimized quantization for efficient deployment. It targets maximum performance on resource-constrained edge devices."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: WEATHERNEXT AI MODEL ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8 27B DOMINATES OPEN WEIGHT LEADERBOARD",
-                "visual_caption": "Google DeepMind demonstrates a major forecasting breakthrough with its WeatherNext model for tropical cyclones. Enterprise leaders can integrate these simulations to minimize operational supply chain disruptions."
+                "headline": "AGENT SYSTEMS: MUNDER DIFFLIN LAUNCHES CLONE HARNESS",
+                "teaserTitle": "NVIDIA: HARNESS DESIGN OUTPERFORMS RAW MODELS",
+                "visual_caption": "Munder Difflin has launched an agent harness designed to orchestrate offices of AI clones, allowing multiple agents to collaborate. This streamlines multi-agent workflows for enterprise tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "HUGGING FACE: QWEN 3.8 27B DOMINATES OPEN WEIGHT LEADERBOARD",
-                "teaserTitle": "ARXIV: BDH-CQ REWRITES IN-CONTEXT LEARNING EFFICIENCY BENCHMARKS",
-                "visual_caption": "The open-weight Qwen 3.8 27B model series surges to the forefront of community collaboration metrics on Hugging Face. Organizations must restructure budgets to support local fine-tuning pipelines."
+                "headline": "NVIDIA: HARNESS DESIGN OUTPERFORMS RAW MODELS",
+                "teaserTitle": "SECURITY: LLMS REMAIN HIGHLY SUSCEPTIBLE TO ATTACK",
+                "visual_caption": "Nvidia finds that AI harness design now impacts system performance more than raw model size, shifting focus to efficient interfaces. This insight challenges traditional compute scaling strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "ARXIV: BDH-CQ REWRITES IN-CONTEXT LEARNING EFFICIENCY BENCHMARKS",
-                "teaserTitle": "TECHCRUNCH: US GOVERNMENT LAB PROBES CHINESE LIDAR VULNERABILITIES",
-                "visual_caption": "A new arXiv paper introduces a 150M-parameter model utilizing recurrent latent reasoning for efficiency gains. This architecture drastically reduces parameter counts while preserving high-level problem-solving capabilities."
+                "headline": "SECURITY: LLMS REMAIN HIGHLY SUSCEPTIBLE TO ATTACK",
+                "teaserTitle": "FRONTIER AI: LABS LACK ROGUE MODEL CONTAINMENT",
+                "visual_caption": "Large language models remain highly susceptible to adversarial attacks, including prompt injection and data poisoning, due to fundamental flaws. This enables malicious actors to manipulate model outputs for harmful purposes."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: US GOVERNMENT LAB PROBES CHINESE LIDAR VULNERABILITIES",
-                "teaserTitle": "",
-                "visual_caption": "United States government laboratories initiate security audits into imported Chinese lidar hardware. Autonomous vehicle manufacturers must conduct supply chain audits to insulate physical infrastructure."
+                "headline": "FRONTIER AI: LABS LACK ROGUE MODEL CONTAINMENT",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Leading frontier AI labs are still unable to articulate clear strategies for containing a rogue advanced AI model if it were to deviate. This raises significant safety concerns for superintelligent systems."
             },
             {
                 "slide_index": 8,
