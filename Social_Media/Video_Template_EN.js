@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "INHERENT AI: OUTPERFORMS GIANTS",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "HACKER NEWS: MUNDER DIFFLIN AGENT HARNESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched its new GPT-five point six frontier model for enhanced general intelligence across enterprise applications. This release pushes performance benchmarks in complex reasoning while optimizing for broader deployment scenarios."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, their most intelligent workhorse model for coding and agentic applications. This release enhances performance across complex development tasks and autonomous system orchestration."
             },
             {
                 "slide_index": 2,
-                "headline": "INHERENT AI: OUTPERFORMS GIANTS",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "headline": "HACKER NEWS: MUNDER DIFFLIN AGENT HARNESS",
+                "teaserTitle": "ANTHROPIC: CLAUDE CODE EFFORT REDUCTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Inherent AI, a startup from DeepMind alumni, shows its AI teammate outperforms Anthropic and OpenAI in research replication. This marks a critical shift in AI agent reliability and automation capabilities."
+                "narration_line": "A new agent harness called 'Munder Difflin' facilitates running an office of AI clones for multi-agent system automation. This framework enables advanced self-organizing AI architectures for enterprise operations."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "CALIFORNIA: STRENGTHENS AI SAFETY BILL",
+                "headline": "ANTHROPIC: CLAUDE CODE EFFORT REDUCTION",
+                "teaserTitle": "HACKER NEWS: NEW MCP ROADMAP UNVEILED",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense capabilities, recognizing a narrowing window against advanced AI threats. This initiative develops robust protective measures to safeguard AI systems and critical infrastructure."
+                "narration_line": "Anthropic is reportedly testing reduced 'effort levels' in its Claude Code model, potentially impacting generated code quality. This optimization drive aims for inference efficiency but may affect comprehensive output."
             },
             {
                 "slide_index": 4,
-                "headline": "CALIFORNIA: STRENGTHENS AI SAFETY BILL",
-                "teaserTitle": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
+                "headline": "HACKER NEWS: NEW MCP ROADMAP UNVEILED",
+                "teaserTitle": "HUGGING FACE: QWEN3.8-27B OBLITERATED UPDATE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI urges California lawmakers to strengthen its proposed AI safety bill, advocating for rigorous regulatory frameworks. This move signals a proactive stance on responsible AI governance and risk mitigation."
+                "narration_line": "The new roadmap for the Model Context Protocol has been unveiled, detailing advancements in how AI models manage and update contextual information. This highlights critical infrastructural shifts towards more adaptive AI architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
-                "teaserTitle": "FRONTIER AI: LABS EVADE CONTAINMENT QUESTIONS",
+                "headline": "HUGGING FACE: QWEN3.8-27B OBLITERATED UPDATE",
+                "teaserTitle": "HACKER NEWS: LOCAL LLM PERFORMANCE DISPARITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mythic AI unveils advancements in its analog compute-in-memory architecture, promising significant gains in AI inference efficiency and power consumption. This drastically reduces data movement bottlenecks for AI workloads."
+                "narration_line": "A significant update to the 'OBLITERATUS/Qwen three point eight-twenty-seven billion-OBLITERATED' model introduces new capabilities or performance benchmarks. This signals rapid iteration and specialization within the open-source model ecosystem."
             },
             {
                 "slide_index": 6,
-                "headline": "FRONTIER AI: LABS EVADE CONTAINMENT QUESTIONS",
-                "teaserTitle": "ANTHROPIC: OPUS 4.6 CONTENT FILTERING",
+                "headline": "HACKER NEWS: LOCAL LLM PERFORMANCE DISPARITY",
+                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI ROOT CAUSE",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Frontier AI labs continue to avoid clear answers on containing rogue models, highlighting a safety gap. This raises critical concerns about industry preparedness for potential catastrophic risks."
+                "narration_line": "A critical discussion explores why local Large Language Models often 'feel dumber' than cloud versions, highlighting performance bottlenecks. This unpacks optimization complexities for edge and private deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: OPUS 4.6 CONTENT FILTERING",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "IEEE SPECTRUM: AGENTIC AI ROOT CAUSE",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic's Opus four point six model shows content filtering issues, allowing generation of restricted material. This exposes vulnerabilities in the safety guardrails of advanced conversational AI systems."
+                "narration_line": "IEEE Spectrum showcases agentic AI for accelerating root cause analysis, demonstrating autonomous systems diagnosing complex operational issues. This application offers a high-leverage solution in enterprise problem-solving."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
