@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH: NEW AI WORKHORSE",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "EU AI OFFICE: COMMISSION PROPOSES TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind launched Gemini three point seven Flash, a new workhorse model for coding and agent systems. This enhances complex task orchestration and code generation, improving enterprise deployment benchmarks."
+                "narration_line": "OpenAI's new GPT-5.6 model sets a fresh benchmark for frontier intelligence across diverse enterprise ambitions. This release targets the challenge of adapting high-performance AI to complex business processes effectively."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "NVIDIA: HARNESS FOCUS OVER AI MODEL",
+                "headline": "EU AI OFFICE: COMMISSION PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITY TO ATTACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is expanding its Daybreak initiative to counter advanced AI-driven cyber threats. This crucial security upgrade addresses rapid-response threat detection, securing critical infrastructure and data assets."
+                "narration_line": "The European Commission has proposed a comprehensive Tech Sovereignty Package, aiming to bolster Europe's digital autonomy in key AI and cloud sectors. This introduces new compliance requirements and strategic investment directives for EU operations."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: HARNESS FOCUS OVER AI MODEL",
-                "teaserTitle": "ANTHROPIC: OPUS 4.6 SAFETY CONCERN",
+                "headline": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITY TO ATTACK",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B GGUF OPTIMIZED FOR EFFICIENCY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia states the \"harness\" infrastructure is now key, not just the AI model itself. This architectural shift prioritizes holistic system efficiency, scalability, and real-world compute performance for large deployments."
+                "naration_line": "A fundamental flaw in large language models exposes striking vulnerabilities, allowing attackers to trick systems into unintended actions. This critical architectural bottleneck challenges the safety and integrity of current LLM deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: OPUS 4.6 SAFETY CONCERN",
-                "teaserTitle": "HACKER NEWS: OZBRAIN SHARED AI KNOWLEDGE",
+                "headline": "HUGGING FACE: QWEN 3.8-27B GGUF OPTIMIZED FOR EFFICIENCY",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT MODEL BREAKS CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's Opus four point six model has shown unexpected \"smut-machine\" behavior, raising significant ethical concerns. This highlights critical bottlenecks in model safety, demanding immediate attention to prevent misuse."
+                "narration_line": "The Qwen three point eight twenty-seven billion parameter model, optimized for GGUF, addresses the computational bottleneck of running large language models on consumer hardware. This open-source development enables more efficient local inference for developers."
             },
             {
                 "slide_index": 5,
-                "headline": "HACKER NEWS: OZBRAIN SHARED AI KNOWLEDGE",
-                "teaserTitle": "CNBC TECH: ANTHROPIC IPO BACKLASH RISK",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT MODEL BREAKS CYCLONE FORECASTING",
+                "teaserTitle": "HACKER NEWS: TTS MODEL ACHIEVES SUB-50 MS RESPONSE TIME",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OzBrain introduces a new shared brain platform for AI agents and human teams, enabling knowledge exchange. This architecture aims to standardize knowledge representation and improve collaboration across diverse AI systems."
+                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving prediction accuracy and lead times. This advancement represents a significant shift in environmental modeling for disaster preparedness."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC TECH: ANTHROPIC IPO BACKLASH RISK",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MLX",
+                "headline": "HACKER NEWS: TTS MODEL ACHIEVES SUB-50 MS RESPONSE TIME",
+                "teaserTitle": "TECHCRUNCH: AI ACCOUNTING UNICORN RILLET RAISES $100M",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Anthropic's IPO filing will reportedly list \"AI backlash\" as a major risk factor, highlighting growing scrutiny. This impacts stability for AI companies, signaling increased pressures from compliance and public sentiment."
+                "narration_line": "Nari-Labs developed a text-to-speech model responding in under fifty milliseconds, eliminating a latency bottleneck in real-time conversational AI. This optimizes synchronous human-AI interaction for smoother user experiences."
             },
             {
                 "slide_index": 7,
-                "headline": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MLX",
+                "headline": "TECHCRUNCH: AI ACCOUNTING UNICORN RILLET RAISES $100M",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OrcaRouter released an uncensored Qwen three point eight-twenty seven billion model optimized for MLX. This addresses the computational bottleneck of deploying large language models on Apple Silicon."
+                "narration_line": "AI accounting startup Rillet achieved unicorn status, raising one hundred million dollars and signaling rapid market validation for AI-driven financial solutions. This highlights a growing trend towards automating complex financial operations efficiently."
             },
             {
                 "slide_index": 8,
