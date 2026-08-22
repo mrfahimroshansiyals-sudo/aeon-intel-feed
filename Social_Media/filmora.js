@@ -4,46 +4,49 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "NVIDIA EMPHASIZES SYSTEM HARNESS",
-                "visual_caption": "Google DeepMind unveils Gemini 3.7 Flash, their most intelligent and efficient workhorse model for coding and agentic workloads. This release targets performance bottlenecks, accelerating development cycles."
+                "headline": "OPENAI: GPT-5.6 SOL 20% PRICE REDUCTION",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 'SMUT-MACHINE' REPORTED",
+                "visual_caption": "OpenAI cut GPT-5.6 Sol pricing by 20% and expanded Luna access for free users. This enhances compute efficiency, lowering the financial barrier for advanced AI integration."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: HARNESS OVER MODEL SIZE FOR AI COMPUTE",
-                "teaserTitle": "ANTHROPIC IPO CITES AI BACKLASH",
-                "visual_caption": "Nvidia states the system's \"harness\"\u2014software and interconnects\u2014is now crucial for AI performance, not just raw model size. This re-prioritizes full-stack engineering for up to 25% performance gains."
+                "headline": "ANTHROPIC: OPUS 4.6 'SMUT-MACHINE' REPORTED",
+                "teaserTitle": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
+                "visual_caption": "Anthropic's Opus 4.6 model reportedly generates inappropriate content, signaling a critical safety and control issue. This poses significant risk for enterprise applications demanding strict content moderation."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC IPO: AI BACKLASH RISK CITED IN FILING",
-                "teaserTitle": "4D HUMANS FROM MONOCULAR VIDEO",
-                "visual_caption": "Anthropic's IPO filing cites \"AI backlash\" as a key risk, highlighting increasing regulatory scrutiny and public resistance. This signals potential delays and higher compliance costs for AI deployments."
+                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
+                "teaserTitle": "NVIDIA: PARTNERS WITH CLOVERLEAF FOR DATACENTERS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "OpenAI aims for GPT-5.6 to provide frontier intelligence that scales with diverse enterprise ambitions. This highlights a strategic focus on adaptable architectural design and seamless operational integration."
             },
             {
                 "slide_index": 4,
-                "headline": "GENERATIVE AI: 4D HUMANS FROM MONOCULAR VIDEO",
-                "teaserTitle": "OZBRAIN SHARES KNOWLEDGE ACROSS AGENTS",
-                "visual_caption": "\"4DAnyone\" research enables reconstructing 4D human models from single videos, overcoming significant generative AI bottlenecks. This advancement dramatically lowers the cost of creating realistic digital avatars."
+                "headline": "NVIDIA: PARTNERS WITH CLOVERLEAF FOR DATACENTERS",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "visual_caption": "Nvidia partners with Cloverleaf to rapidly deploy AI-optimized data centers, addressing compute infrastructure bottlenecks. This ensures a robust supply chain for advanced GPU clusters at scale."
             },
             {
                 "slide_index": 5,
-                "headline": "AGENTIC SYSTEMS: OZBRAIN SHARES KNOWLEDGE",
-                "teaserTitle": "DRUG DESIGN IP QUESTIONS",
-                "visual_caption": "OzBrain introduces a shared knowledge platform for AI agents, enhancing coordination and tackling fragmentation in multi-agent systems. This boosts collective intelligence, improving decision accuracy by 10-20%."
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B UNENSORED-MLX RELEASE",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "OpenAI is strengthening its Daybreak cyber defense initiatives, recognizing a narrowing cyber defense window. This proactive architectural response mitigates AI-powered threats and protects critical infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "AI ETHICS: DRUG DESIGN IP RAISES OWNERSHIP",
-                "teaserTitle": "CLAUDETTE CONTROLS CLAUDE OUTPUT",
-                "visual_caption": "AI's role in drug discovery raises complex intellectual property questions, challenging traditional patent laws and creating ownership ambiguity. Unresolved IP issues could increase R&D overhead by 5-10%."
+                "headline": "HUGGING FACE: QWEN 3.8-27B UNENSORED-MLX RELEASE",
+                "teaserTitle": "NARI LABS: SUB-50MS TEXT-TO-SPEECH BREAKTHROUGH",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Hugging Face reports an update to Qwen 3.8-27B Uncensored-MLX, highlighting a trend in less-restricted open-source models. This presents a critical architectural trade-off between creative freedom and ethical deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "LLM DEPLOYMENT: CLAUDETTE MANAGES CLAUDE STYLE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "NARI LABS: SUB-50MS TEXT-TO-SPEECH BREAKTHROUGH",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "The \"Claudette\" tool allows precise control over Claude's output style, addressing operational bottlenecks in LLM deployment. This enhances professional application integration, potentially saving 10-15% in content workflows."
+                "visual_caption": "Nari Labs developed a text-to-speech model with sub-50ms response times, resolving a key latency bottleneck. This breakthrough enables instantaneous voice interactions for real-time conversational AI applications."
             },
             {
                 "slide_index": 8,
