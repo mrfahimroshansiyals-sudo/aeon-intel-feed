@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA HARNESS OVER MODEL SHIFT",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: HARNESS OVER MODEL SHIFT",
-                "teaserTitle": "AGENTIC AI: ROOT CAUSE ANALYSIS",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA now emphasizes AI infrastructure, or the 'harness,' as a greater driver of model performance than the models themselves. This shift mandates a holistic view of compute stacks to optimize frontier AI deployments."
+                "narration_line": "Google DeepMind has unveiled its new Gemini three point seven Flash model, optimized for coding and agent applications. This release demands an immediate re-evaluation of existing AI architectures to leverage enhanced speed and cost efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "AGENTIC AI: ROOT CAUSE ANALYSIS",
-                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
+                "headline": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
+                "teaserTitle": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "New agentic AI developments are accelerating root cause analysis in complex systems by connecting cross-domain data for faster diagnostics. This promises significant gains in system uptime and reduced operational costs."
+                "narration_line": "Starcloud has secured two hundred and fifty million dollars in funding for its orbital data center project. This investment addresses the growing demand for specialized compute infrastructure as terrestrial options face constraints."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
-                "teaserTitle": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
+                "headline": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
+                "teaserTitle": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting, improving prediction accuracy and lead times. This advancement can save billions in damages and enhance public safety globally."
+                "narration_line": "A new agent harness platform called Munder Difflin allows users to deploy autonomous AI agents for complex office workflows. This innovation enables \"cloned\" AI operations, streamlining enterprise tasks from scheduling to project execution."
             },
             {
                 "slide_index": 4,
-                "headline": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
-                "teaserTitle": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
+                "headline": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
+                "teaserTitle": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hugging Face reports a significant update to the Ultra-FineWeb-L1 dataset for LLM training and evaluation. Access to cleaner, more diverse data is crucial for mitigating model bias and enhancing generalization capabilities efficiently."
+                "narration_line": "Nari Labs achieved a breakthrough in text-to-speech models, demonstrating response times below fifty milliseconds. This milestone enables real-time conversational AI applications with near-instantaneous audio generation, impacting user experience."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
-                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "headline": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
+                "teaserTitle": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic's IPO filing will list 'AI backlash' as a key risk factor, highlighting growing regulatory scrutiny and ethical concerns. Tech executives must fortify AI governance to navigate increasing external pressures."
+                "narration_line": "A fundamental flaw in large language models makes them strikingly vulnerable to adversarial attacks like prompt injection. This inherent design vulnerability poses significant risk to data integrity and system security for deployed AI."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
-                "teaserTitle": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
+                "headline": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
+                "teaserTitle": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind has released new sign language AI models, enhancing communication accessibility for deaf and hard-of-hearing communities. This deployment fosters broader market adoption and demonstrates critical ethical AI applications."
+                "narration_line": "Anthropic's upcoming IPO filing will cite \"AI backlash\" as a key risk factor, reflecting increasing regulatory and ethical pressures. This signals a critical need for proactive AI governance and robust ethical framework development."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
+                "headline": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Technology Review explores the complex IP rights when AI designs new drugs, highlighting challenges in attributing ownership. Defining IP in AI-generated innovations is crucial for R&D investment and competitive strategy."
+                "naration_line": "AI's recursive self-improvement may not materialize as quickly as predicted, due to limitations in agentic creativity. This impacts long-term strategic planning for research and development, necessitating adjusted innovation roadmaps."
             },
             {
                 "slide_index": 8,
