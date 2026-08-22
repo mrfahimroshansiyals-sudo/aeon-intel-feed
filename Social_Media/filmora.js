@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HACKER NEWS: AGENT HARNESS FOR CLONES",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their newest intelligent model for coding and agents. This development sets a new standard for efficient AI deployments, prompting re-evaluation of enterprise model architectures."
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "NVIDIA SHIFTS TO AGENT HARNESS FOCUS",
+                "visual_caption": "OpenAI has launched GPT-5.6, its new frontier intelligence model for ambitious enterprise applications. This model offers advanced performance in complex reasoning and optimized compute efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "HACKER NEWS: AGENT HARNESS FOR CLONES",
-                "teaserTitle": "TECHCRUNCH AI: ANTHROPIC OPUS 4.6 SAFETY",
-                "visual_caption": "A Hacker News report emphasizes the agent harness as crucial for managing complex AI clone environments, shifting focus to sophisticated orchestration. Businesses must prioritize robust harness frameworks to ensure scalable and reliable agentic AI operations."
+                "headline": "TECHCRUNCH AI: NVIDIA SHIFTS TO AGENT HARNESS FOCUS",
+                "teaserTitle": "NEW MCP ROADMAP ANNOUNCED",
+                "visual_caption": "Nvidia confirms that robust agent harnesses are now more crucial than raw model power for effective AI deployments. Orchestration layers for multi-agent systems represent the emerging operational bottleneck."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH AI: ANTHROPIC OPUS 4.6 SAFETY",
-                "teaserTitle": "CNBC TECHNOLOGY: DATA CENTERS AT RISK",
-                "visual_caption": "TechCrunch reveals Anthropic's Opus 4.6 model struggles with content moderation, failing to filter inappropriate material. This highlights persistent challenges in aligning large language models with stringent safety and ethical guidelines."
+                "headline": "HACKER NEWS: NEW MCP ROADMAP ANNOUNCED",
+                "teaserTitle": "NARROWING CYBER DEFENSE WINDOW",
+                "visual_caption": "The Model Context Protocol (MCP) Roadmap introduces updates for standardizing how AI models maintain conversational context. This aims to improve consistency and reduce semantic drift in long-running AI interactions."
             },
             {
                 "slide_index": 4,
-                "headline": "CNBC TECHNOLOGY: DATA CENTERS AT RISK",
-                "teaserTitle": "CNBC TECHNOLOGY: ANTHROPIC IPO RISK FACTORS",
-                "visual_caption": "CNBC reports Ohio's data centers face growing political concern over energy demands, risking the state's power grid. Strategic re-evaluation of location and power sourcing for AI deployments is crucial to mitigate regulatory hurdles."
+                "headline": "OPENAI: NARROWING CYBER DEFENSE WINDOW",
+                "teaserTitle": "AI DRUG DESIGN IP DILEMMA",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "OpenAI\u2019s \u201cDaybreak\u201d reveals a rapidly narrowing cyber defense window due to advanced AI capabilities, demanding proactive security. Organizations using frontier models must reassess threat models and invest in AI-native security protocols."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC TECHNOLOGY: ANTHROPIC IPO RISK FACTORS",
-                "teaserTitle": "HACKER NEWS: META DATA STRATEGY",
-                "visual_caption": "Anthropic\u2019s upcoming IPO filing lists \"AI backlash\" as a key risk factor, reflecting increasing scrutiny on frontier AI development. AI leaders must integrate ethical AI frameworks to mitigate reputational and regulatory risks, ensuring market stability."
+                "headline": "MIT TECH REVIEW: AI DRUG DESIGN IP DILEMMA",
+                "teaserTitle": "AGENTIC AI FOR ROOT CAUSE",
+                "visual_caption": "MIT Technology Review explores the intellectual property challenge as AI designs new drugs, raising questions about ownership of breakthroughs. Biotech R&D departments must clarify rights to mitigate litigation risks and re-evaluate patent strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: META DATA STRATEGY",
-                "teaserTitle": "TECHCRUNCH AI: NVIDIA CLOVERLEAF PARTNERSHIP",
-                "visual_caption": "Hacker News highlighted Meta\u2019s alleged \"hook, hold, harvest, and hide\" strategy, raising serious concerns about user data privacy. Enterprises must reinforce data governance protocols to avoid legal and reputational repercussions from ethical data handling failures."
+                "headline": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
+                "teaserTitle": "RILLET HITS $100M VALUATION",
+                "visual_caption": "An IEEE Spectrum webinar highlighted agentic AI's potential in accelerating root cause analysis for system failures. This approach connects cross-domain data for proactive problem-solving, leading to improved operational efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH AI: NVIDIA CLOVERLEAF PARTNERSHIP",
+                "headline": "TECHCRUNCH AI: RILLET HITS $100M VALUATION",
                 "teaserTitle": "",
-                "visual_caption": "Nvidia partnered with Cloverleaf to scale next-generation AI compute infrastructure, optimizing data centers for high-density GPU deployments. This collaboration addresses escalating demand for computational power, critical for frontier AI model training and inference."
+                "visual_caption": "AI accounting startup Rillet secured $100M in funding, achieving unicorn status in just 48 hours. This underscores intense investor confidence in specialized enterprise AI solutions."
             },
             {
                 "slide_index": 8,
