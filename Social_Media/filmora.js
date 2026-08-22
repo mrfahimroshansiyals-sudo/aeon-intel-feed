@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "visual_caption": "OpenAI launched GPT-5.6, its latest intelligence model for scalable AI applications. This release enhances processing and understanding, accelerating projects by up to 15%."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, a new workhorse model for coding and agent systems. This enhances complex task orchestration and code generation, improving enterprise deployment benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "INFRASTRUCTURE: STARCLOUD SECURES $250M",
-                "visual_caption": "OpenAI is improving GPT-5.6 Sol in ChatGPT and expanding Luna access to free users. This democratizes AI, increasing adoption and providing vital feedback for model refinement."
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "NVIDIA: HARNESS FOCUS OVER AI MODEL",
+                "visual_caption": "OpenAI is expanding its Daybreak initiative to counter advanced AI-driven cyber threats. This crucial security upgrade addresses rapid-response threat detection, securing critical infrastructure and data assets."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: STARCLOUD SECURES $250M",
-                "teaserTitle": "SECURITY: LLM ATTACK VULNERABILITIES",
-                "visual_caption": "Starcloud raised $250M for orbital data centers, meeting demand for secure compute infrastructure. This offers breakthroughs in latency reduction and geopolitical resilience for AI workloads."
+                "headline": "NVIDIA: HARNESS FOCUS OVER AI MODEL",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 SAFETY CONCERN",
+                "visual_caption": "Nvidia states the \"harness\" infrastructure is now key, not just the AI model itself. This architectural shift prioritizes holistic system efficiency, scalability, and real-world compute performance for large deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: LLM ATTACK VULNERABILITIES",
-                "teaserTitle": "PERFORMANCE: SUB-50 MS TTS DEPLOYMENT",
-                "visual_caption": "LLMs are vulnerable to adversarial attacks, risking data integrity and system reliability. Organizations must invest in advanced red-teaming to prevent exploitation and mitigate penalties."
+                "headline": "ANTHROPIC: OPUS 4.6 SAFETY CONCERN",
+                "teaserTitle": "HACKER NEWS: OZBRAIN SHARED AI KNOWLEDGE",
+                "visual_caption": "Anthropic's Opus 4.6 model has shown unexpected \"smut-machine\" behavior, raising significant ethical concerns. This highlights critical bottlenecks in model safety, demanding immediate attention to prevent misuse."
             },
             {
                 "slide_index": 5,
-                "headline": "PERFORMANCE: SUB-50 MS TTS DEPLOYMENT",
-                "teaserTitle": "ENTERPRISE AI: AGENTIC ROOT CAUSE ANALYSIS",
-                "visual_caption": "Researchers achieved sub-50 ms response times for a new text-to-speech model. This eliminates latency bottlenecks in conversational AI, enhancing human-AI interface design and user experience."
+                "headline": "HACKER NEWS: OZBRAIN SHARED AI KNOWLEDGE",
+                "teaserTitle": "CNBC TECH: ANTHROPIC IPO BACKLASH RISK",
+                "visual_caption": "OzBrain introduces a new shared brain platform for AI agents and human teams, enabling knowledge exchange. This architecture aims to standardize knowledge representation and improve collaboration across diverse AI systems."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE AI: AGENTIC ROOT CAUSE ANALYSIS",
-                "teaserTitle": "RESEARCH: AI MODEL TRAINS ON LIVE SKIN",
-                "visual_caption": "Agentic AI systems accelerate root cause analysis, automating system failure identification. This upgrade improves uptime and reduces human intervention by 25%, optimizing resource allocation."
+                "headline": "CNBC TECH: ANTHROPIC IPO BACKLASH RISK",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MLX",
+                "visual_caption": "Anthropic's IPO filing will reportedly list \"AI backlash\" as a major risk factor, highlighting growing scrutiny. This impacts stability for AI companies, signaling increased pressures from compliance and public sentiment."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: AI MODEL TRAINS ON LIVE SKIN",
+                "headline": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MLX",
                 "teaserTitle": "",
-                "visual_caption": "Michael Polansky trains AI models on live human skin for diagnostics and bio-digital interfaces. This offers precision in health solutions, accelerating drug discovery cycles by 20%."
+                "visual_caption": "OrcaRouter released an uncensored Qwen 3.8-27B model optimized for MLX. This addresses the computational bottleneck of deploying large language models on Apple Silicon."
             },
             {
                 "slide_index": 8,
