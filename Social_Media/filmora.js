@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "ANTHROPIC: IPO FILING HIGHLIGHTS AI BACKLASH",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic workflows. This release promises enhanced efficiency and reasoning across complex multi-step operations."
+                "headline": "OPENAI: APPOINTS DALI RAJIC AS CHIEF REVENUE OFFICER",
+                "teaserTitle": "OPENAI: PACING MODEL DEVELOPMENT IN AN ERA OF CYBER-CRITICAL CAPABILITIES",
+                "visual_caption": "OpenAI appoints Dali Rajic as Chief Revenue Officer to scale enterprise operations globally. This leadership addition accelerates commercial software distribution and alters B2B procurement cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: IPO FILING HIGHLIGHTS AI BACKLASH",
-                "teaserTitle": "ANTHROPIC: OPUS 4.6 FACES ETHICS CRITICISM",
-                "visual_caption": "Anthropic's IPO filing will reportedly cite 'AI backlash' as a major risk factor, reflecting concerns over public perception and regulatory oversight. AI firms must transparently address ethical impacts to investors."
+                "headline": "OPENAI: PACING MODEL DEVELOPMENT IN AN ERA OF CYBER-CRITICAL CAPABILITIES",
+                "teaserTitle": "ANTHROPIC: IPO FILING TO SHOW AI BACKLASH AS RISK FACTOR",
+                "visual_caption": "OpenAI establishes formal guidelines for pacing frontier model development against cyber threats. Engineering teams must integrate safety thresholds that directly impact deployment velocity."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: OPUS 4.6 FACES ETHICS CRITICISM",
-                "teaserTitle": "AGENTIC AI: NEW HARNESS FOR CLONE OFFICES",
-                "visual_caption": "Anthropic's Opus 4.6 faces scrutiny for generating inappropriate content, raising questions about safety controls and ethical safeguards. This highlights ongoing challenges in aligning advanced AI with human values."
+                "headline": "ANTHROPIC: IPO FILING TO SHOW AI BACKLASH AS RISK FACTOR",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI MODEL ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "visual_caption": "Anthropic's upcoming IPO filing discloses potential artificial intelligence backlash as a material risk factor. Strategy officers must analyze how public sentiment translates into financial risk exposure."
             },
             {
                 "slide_index": 4,
-                "headline": "AGENTIC AI: NEW HARNESS FOR CLONE OFFICES",
-                "teaserTitle": "ROBOTICS: SUPERHUMAN HUMANOID DEBATE",
-                "visual_caption": "The new 'Munder Difflin' agent harness enables distributed execution of AI agents, creating a 'clone office' for parallel business processes. This significantly boosts operational scalability and task automation."
+                "headline": "DEEPMIND: WEATHERNEXT AI MODEL ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8 27B DOMINATES OPEN WEIGHT LEADERBOARD",
+                "visual_caption": "Google DeepMind demonstrates a major forecasting breakthrough with its WeatherNext model for tropical cyclones. Enterprise leaders can integrate these simulations to minimize operational supply chain disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "ROBOTICS: SUPERHUMAN HUMANOID DEBATE",
-                "teaserTitle": "DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
-                "visual_caption": "IEEE Spectrum debates the implications of developing 'superhuman' humanoid robots for industrial and service roles. Discussion centers on capability thresholds, safety protocols, and societal acceptance of these autonomous agents."
+                "headline": "HUGGING FACE: QWEN 3.8 27B DOMINATES OPEN WEIGHT LEADERBOARD",
+                "teaserTitle": "ARXIV: BDH-CQ REWRITES IN-CONTEXT LEARNING EFFICIENCY BENCHMARKS",
+                "visual_caption": "The open-weight Qwen 3.8 27B model series surges to the forefront of community collaboration metrics on Hugging Face. Organizations must restructure budgets to support local fine-tuning pipelines."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
-                "teaserTitle": "EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a major breakthrough in cyclone forecasting, offering improved accuracy and earlier warnings. This uses novel deep learning to enhance disaster preparedness."
+                "headline": "ARXIV: BDH-CQ REWRITES IN-CONTEXT LEARNING EFFICIENCY BENCHMARKS",
+                "teaserTitle": "TECHCRUNCH: US GOVERNMENT LAB PROBES CHINESE LIDAR VULNERABILITIES",
+                "visual_caption": "A new arXiv paper introduces a 150M-parameter model utilizing recurrent latent reasoning for efficiency gains. This architecture drastically reduces parameter counts while preserving high-level problem-solving capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
+                "headline": "TECHCRUNCH: US GOVERNMENT LAB PROBES CHINESE LIDAR VULNERABILITIES",
                 "teaserTitle": "",
-                "visual_caption": "A recent Hacker News study reveals AI tools boost student homework scores but correlate with a drop in unassisted exam performance. This suggests critical reliance on AI rather than genuine understanding."
+                "visual_caption": "United States government laboratories initiate security audits into imported Chinese lidar hardware. Autonomous vehicle manufacturers must conduct supply chain audits to insulate physical infrastructure."
             },
             {
                 "slide_index": 8,
