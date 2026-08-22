@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "MCP: OPEN CONTEXT PROTOCOL ROADMAP",
-                "visual_caption": "Google DeepMind deployed Gemini 3.7 Flash for rapid coding workflows. The architecture delivers reduced inference latency across autonomous agent pipelines."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "INHERENT AI: OUTPERFORMS GIANTS",
+                "visual_caption": "OpenAI has launched its new GPT-5.6 frontier model for enhanced general intelligence across enterprise applications. This release pushes performance benchmarks in complex reasoning while optimizing for broader deployment scenarios."
             },
             {
                 "slide_index": 2,
-                "headline": "MCP: OPEN CONTEXT PROTOCOL ROADMAP",
-                "teaserTitle": "FINANCE: ANTHROPIC FILES IPO RISK FACTORS",
-                "visual_caption": "The Model Context Protocol team unveiled its open engineering roadmap for standardized multi-agent tooling. This framework reduces custom integration overhead across disparate model providers."
+                "headline": "INHERENT AI: OUTPERFORMS GIANTS",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "visual_caption": "Inherent AI, a startup from DeepMind alumni, shows its AI teammate outperforms Anthropic and OpenAI in research replication. This marks a critical shift in AI agent reliability and automation capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: ANTHROPIC FILES IPO RISK FACTORS",
-                "teaserTitle": "INFRASTRUCTURE: NVIDIA PARTNERS WITH CLOVERLEAF",
-                "visual_caption": "Anthropic listed societal backlash and safety compliance as key commercial risks in preliminary filing documents. Enterprise compliance teams must now prepare for increased model governance audits."
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "CALIFORNIA: STRENGTHENS AI SAFETY BILL",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense capabilities, recognizing a narrowing window against advanced AI threats. This initiative develops robust protective measures to safeguard AI systems and critical infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: NVIDIA PARTNERS WITH CLOVERLEAF",
-                "teaserTitle": "VENTURE: RILLET RAISES $100M UNICORN ROUND",
-                "visual_caption": "Nvidia partnered with data center developer Cloverleaf to construct high-density computing campuses. The facilities address power bottlenecks for multi-gigawatt AI clusters."
+                "headline": "CALIFORNIA: STRENGTHENS AI SAFETY BILL",
+                "teaserTitle": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
+                "visual_caption": "OpenAI urges California lawmakers to strengthen its proposed AI safety bill, advocating for rigorous regulatory frameworks. This move signals a proactive stance on responsible AI governance and risk mitigation."
             },
             {
                 "slide_index": 5,
-                "headline": "VENTURE: RILLET RAISES $100M UNICORN ROUND",
-                "teaserTitle": "BERKELEY: FREETOKEN EDGE MOE SYSTEM",
-                "visual_caption": "Autonomous accounting platform Rillet secured $100M in venture capital in 48 hours. The company reached a $1B valuation by automating corporate ledgers."
+                "headline": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
+                "teaserTitle": "FRONTIER AI: LABS EVADE CONTAINMENT QUESTIONS",
+                "visual_caption": "Mythic AI unveils advancements in its analog compute-in-memory architecture, promising significant gains in AI inference efficiency and power consumption. This drastically reduces data movement bottlenecks for AI workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "BERKELEY: FREETOKEN EDGE MOE SYSTEM",
-                "teaserTitle": "DEVELOPER TOOLS: RUST GLANCER CUTS RAM 100X",
-                "visual_caption": "Berkeley researchers published FreeToken to run large Mixture-of-Experts models on heterogeneous local hardware. The system eliminates cloud inference costs for decentralized edge workloads."
+                "headline": "FRONTIER AI: LABS EVADE CONTAINMENT QUESTIONS",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 CONTENT FILTERING",
+                "visual_caption": "Frontier AI labs continue to avoid clear answers on containing rogue models, highlighting a safety gap. This raises critical concerns about industry preparedness for potential catastrophic risks."
             },
             {
                 "slide_index": 7,
-                "headline": "DEVELOPER TOOLS: RUST GLANCER CUTS RAM 100X",
+                "headline": "ANTHROPIC: OPUS 4.6 CONTENT FILTERING",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Rust Glancer introduced an open language server protocol using 100x less memory. This optimization frees substantial local compute resources for integrated coding agents."
+                "visual_caption": "Anthropic's Opus 4.6 model shows content filtering issues, allowing generation of restricted material. This exposes vulnerabilities in the safety guardrails of advanced conversational AI systems."
             },
             {
                 "slide_index": 8,
