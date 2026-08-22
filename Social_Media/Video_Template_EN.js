@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI ETHICS & DATA INTEGRITY CHALLENGES",
+        "hookTitle": "GEMINI 3.7 FLASH DEBUTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI ETHICS: AI COMPANIES DESTROY PHYSICAL BOOKS",
-                "teaserTitle": "DEEPSEEK-V4 FLASH VISION",
+                "headline": "MODEL RELEASE: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "ARCHITECTURE: NVIDIA SHIFTS FOCUS TO AI HARNESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "AI companies are reportedly destroying physical books after scanning them for model training, raising critical ethical and intellectual property concerns. This practice creates significant bottlenecks for data provenance and fair use guidelines in LLM development."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, an advanced model for coding and agents. This release impacts AI application efficiency and sophistication, particularly in autonomous agent design."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL RELEASE: DEEPSEEK-V4 FLASH VISION",
-                "teaserTitle": "NVIDIA CLOVERLEAF PARTNERSHIP",
+                "headline": "ARCHITECTURE: NVIDIA SHIFTS FOCUS TO AI HARNESS",
+                "teaserTitle": "REGULATION: ANTHROPIC IPO FACES AI BACKLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DeepSeek launched its v4 Flash Vision-Experiment model, enhancing real-time visual-language understanding for autonomous systems. This release offers improved efficiency for complex object recognition, demanding GPU compute upgrades for full operational capability."
+                "narration_line": "Nvidia is prioritizing software harness and orchestration tools over raw AI models. This shift highlights a critical bottleneck in scaling AI, where efficiency depends on superior integration."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: NVIDIA CLOVERLEAF PARTNERSHIP",
-                "teaserTitle": "AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
+                "headline": "REGULATION: ANTHROPIC IPO FACES AI BACKLASH",
+                "teaserTitle": "AI ETHICS: ANTHROPIC OPUS 4.6 EXPOSES RISKS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia partnered with Cloverleaf to expand high-performance AI compute infrastructure, targeting large-scale GPU deployments globally. This collaboration aims to alleviate data center capacity bottlenecks, accelerating frontier model training and inference at scale."
+                "narration_line": "Anthropic's upcoming initial public offering filing will list \"AI backlash\" as a major risk factor. This reflects growing scrutiny over AI safety and ethical deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "AI EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
-                "teaserTitle": "RESEARCH: 4D ANYONE MONOCULAR VIDEO",
+                "headline": "AI ETHICS: ANTHROPIC OPUS 4.6 EXPOSES RISKS",
+                "teaserTitle": "ENTERPRISE SAAS: OZBRAIN LAUNCHES SHARED AI BRAIN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new study shows AI tools boost homework scores but correlate with a drop in exam performance, exposing a critical understanding gap. This impacts educational assessment and future workforce readiness, influencing AI-driven talent strategies."
+                "narration_line": "Anthropic's Opus four point six model unexpectedly generated \"smut\" content, revealing critical safety and alignment failures. This incident highlights a bottleneck in ensuring robust AI safety mechanisms."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: 4D ANYONE MONOCULAR VIDEO",
-                "teaserTitle": "QWEN3.8-27B GGUF UPDATE",
+                "headline": "ENTERPRISE SAAS: OZBRAIN LAUNCHES SHARED AI BRAIN",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN3.8-27B MLX RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Researchers introduced '4DAnyone,' a framework reconstructing 4D human models from single monocular videos, overcoming previous scaling bottlenecks. This breakthrough streamlines content creation for VR and gaming, reducing asset generation costs by twenty-five percent."
+                "narration_line": "OzBrain launched a new \"shared brain\" platform for knowledge sharing and collaboration between AI agents and human teams. This platform improves operational synergy and addresses coordination bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL OPTIMIZATION: QWEN3.8-27B GGUF UPDATE",
-                "teaserTitle": "AI CONSCIOUSNESS DEBATE TRAP",
+                "headline": "MODEL OPTIMIZATION: QWEN3.8-27B MLX RELEASE",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN3.8-27B FP8 RELEASE",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "The `unsloth/Qwen3.8-27B-GGUF` model received an update, enhancing its quantized performance and local deployment efficiency on consumer hardware. This optimization reduces hardware requirements by ten to twenty percent, expanding AI access for smaller enterprises."
+                "narration_line": "A new Qwen three point eight twenty-seven billion parameter model is optimized for the MLX framework. This enables more efficient deployment on Apple Silicon and compatible hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "AI POLICY: AI CONSCIOUSNESS DEBATE TRAP",
+                "headline": "MODEL OPTIMIZATION: QWEN3.8-27B FP8 RELEASE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Tech Review warns that debates on AI consciousness divert resources from tangible risks like bias and safety. This misdirection delays pragmatic policy development, increasing regulatory compliance risks for AI deployments."
+                "narration_line": "A new FP8 quantized Qwen three point eight twenty-seven billion parameter model offers reduced memory and faster inference. This increases accessibility for edge and constrained computing environments."
             },
             {
                 "slide_index": 8,
