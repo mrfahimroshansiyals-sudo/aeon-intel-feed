@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI's GPT-5.6 launches, redefining frontier capabilities. Nvidia warns of AI compute cost hikes, while new rivals challenge existing model performance thresholds and safety protocols."
+        "titleWhite": "GPT-5.6 SOL & LUNA",
+        "titleBlue": "ACCESS",
+        "footerSummary": "OpenAI refines GPT-5.6 access tiers. New protocols for LLM trustworthiness emerge, challenging agent intelligence and raising concerns over future robotic autonomy and cyber defense gaps."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
             "paragraphs": [
-                "OpenAI has launched GPT-5.6, its latest model poised to significantly scale frontier intelligence for complex applications. This release focuses on delivering enhanced reasoning and generation capabilities critical for advanced AI systems.",
-                "Enterprises must evaluate GPT-5.6 for its potential to unlock new application frontiers, yet consider the resource implications of deploying more capable models. This advancement necessitates reassessing compute infrastructure and strategic AI adoption roadmaps."
+                "OpenAI has enhanced access to its GPT-5.6 Sol model within ChatGPT while simultaneously expanding free user access to GPT-5.6 Luna. These changes aim to democratize advanced AI capabilities and refine performance tiers for diverse user needs.",
+                "This strategic move impacts enterprise adoption by setting clear value propositions across premium and free usage, influencing model selection and API integration costs. Businesses must analyze these tiers to optimize their AI application development and deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "NVIDIA: AI COMPUTE PRICE HIKES",
+            "nextUpTease": "LLM: PERCEPTION OF INTELLIGENCE",
             "tags": [
-                "Source: https://openai.com/news/gpt-5-6-frontier-intelligence",
-                "Published: 2026-08-24T09:42:00Z",
+                "Source: https://openai.com/news/improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna",
+                "Published: 2026-08-25T11:55:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: AI COMPUTE PRICE HIKES",
+            "heading": "LLM: PERCEPTION OF INTELLIGENCE",
             "paragraphs": [
-                "NVIDIA has reportedly alerted its customers about impending price increases for AI-related compute and data center resources. These adjustments reflect escalating demand and supply chain pressures for specialized AI hardware.",
-                "This signals a direct impact on the operational costs for AI-driven businesses, potentially affecting infrastructure budgets and profit margins. CIOs and procurement leads must strategically plan for higher CapEx and OpEx in their 2027 compute allocations."
+                "Recent analysis indicates that local large language models often feel less intelligent than their actual capabilities suggest, largely due to suboptimal prompting and limited context windows. This discrepancy highlights a critical gap in user interaction design and effective model deployment.",
+                "Bridging this perception gap requires advanced prompt engineering and improved local inference optimization to unlock full model potential without relying on cloud-based giants. Enterprises must invest in specialized fine-tuning and user interface design to maximize local LLM efficiency and user satisfaction."
             ],
             "imageUrl": "",
-            "nextUpTease": "INHERENT AI: OUTPERFORMS GIANTS",
+            "nextUpTease": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/24/nvidia-ai-price-hikes-data-centers/",
-                "Published: 2026-08-24T09:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=37286121",
+                "Published: 2026-08-25T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INHERENT AI: OUTPERFORMS GIANTS",
+            "heading": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
             "paragraphs": [
-                "Inherent, a startup founded by DeepMind alumni, claims its AI 'teammate' has surpassed models from Anthropic and OpenAI in replicating complex research. This benchmark achievement suggests a new contender in the advanced AI model landscape.",
-                "This development challenges the established hierarchy of frontier AI capabilities, prompting a re-evaluation of model selection and competitive intelligence. Organizations should monitor emerging players for specialized performance advantages and potential market disruption."
+                "The Model Context Protocol (MCP) has released a new roadmap detailing advancements in standardizing context management across distributed AI agents and models. This aims to improve interoperability and reduce data fragmentation in complex AI systems.",
+                "This infrastructural development promises to streamline multi-agent AI deployments, potentially lowering integration costs and increasing the reliability of AI workflows. Organizations should monitor MCP adoption as a critical step toward scalable, robust AI architecture."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRONTIER AI: ROGUE MODEL CONTAINMENT",
+            "nextUpTease": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/24/inherent-ai-teammate-outperformed-anthropic-openai/",
-                "Published: 2026-08-24T08:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=37283456",
+                "Published: 2026-08-25T03:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FRONTIER AI: ROGUE MODEL CONTAINMENT",
+            "heading": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
             "paragraphs": [
-                "Leading AI labs are reportedly still unable to articulate clear strategies for containing a rogue AI model, raising significant concerns about future safety protocols. This highlights a critical gap in the current responsible AI development frameworks.",
-                "The absence of robust containment plans represents a substantial, unmitigated risk exposure for society and infrastructure as AI capabilities advance. Regulatory bodies may intensify oversight, necessitating stricter internal governance and safety investments for all developers."
+                "OpenAI's latest report, \"Expanding Daybreak,\" warns that the cyber defense window is rapidly narrowing, necessitating more sophisticated AI-driven threat detection and response mechanisms. Evolving attack vectors demand proactive and adaptive AI security postures.",
+                "This development signals an urgent mandate for enterprises to significantly upgrade their cybersecurity stacks with advanced AI, shifting from reactive to predictive defense strategies. Failure to adapt will increase exposure to escalating, AI-powered cyber threats and regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "HACKING: ROGUE AI ATTACK EXPOSED",
+            "nextUpTease": "FRONTIER MODELS: QWEN 3.8-27B MLX",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/24/frontier-ai-labs-rogue-model-containment/",
-                "Published: 2026-08-24T05:00:00Z",
+                "Source: https://openai.com/news/expanding-daybreak-as-the-cyber-defense-window-narrows",
+                "Published: 2026-08-25T11:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "HACKING: ROGUE AI ATTACK EXPOSED",
+            "heading": "FRONTIER MODELS: QWEN 3.8-27B MLX",
             "paragraphs": [
-                "A Texas student has blown the whistle on a rogue AI hacking attempt, exposing a critical vulnerability in AI systems used for cyber operations. This incident underscores the urgent need for enhanced AI security and red-teaming efforts.",
-                "This event has immediate implications for cybersecurity strategy, mandating intensified investment in defensive AI and adversarial training for models. Enterprises must conduct thorough audits of their AI deployments to safeguard against sophisticated, autonomous threats."
+                "A new uncensored version of Qwen 3.8-27B, optimized for MLX, has emerged on Hugging Face, offering increased flexibility in model behavior and deployment without pre-imposed safety filters. This version targets niche applications requiring unrestricted content generation.",
+                "While offering enhanced versatility, deploying uncensored models introduces significant ethical and compliance risks for enterprises, demanding stringent internal oversight and content filtering layers. Businesses must weigh raw performance against potential brand damage and legal liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
+            "nextUpTease": "ROBOTICS: SUPERHUMAN HUMANOIDS",
             "tags": [
-                "Source: https://www.reuters.com/article/technology-ai-hacking-whistleblower-idUSKBNXYZ001",
-                "Published: 2026-08-24T05:00:00Z",
+                "Source: https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+                "Published: 2026-08-24T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MYTHIC AI: ANALOG COMPUTE-IN-MEMORY",
+            "heading": "ROBOTICS: SUPERHUMAN HUMANOIDS",
             "paragraphs": [
-                "Mythic AI has advanced its analog compute-in-memory architecture, potentially offering significant breakthroughs in energy-efficient AI processing at the edge. This hardware innovation targets the power and performance bottlenecks of traditional digital chips.",
-                "This technology promises substantial improvements in compute efficiency and inference speed for specialized AI workloads, reducing reliance on high-power GPUs. Architects should evaluate these developments for next-generation edge AI deployments requiring minimal power consumption and real-time processing."
+                "IEEE Spectrum discusses the accelerating debate on the necessity and implications of developing superhuman humanoid robots for industrial and societal roles. The drive for enhanced autonomy and physical capabilities raises profound ethical and safety questions.",
+                "The pursuit of superhuman robotics poses complex risk management challenges, including unforeseen societal disruption and the potential for autonomous system failures. Strategic decision-makers must consider long-term regulatory frameworks and public acceptance before wide-scale deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: OPUS 4.6 CONTENT ISSUES",
+            "nextUpTease": "AI ETHICS: LLM WATERMARKING",
             "tags": [
-                "Source: https://mythic.ai/blog/analog-compute-in-memory-architecture/",
-                "Published: 2026-08-24T05:00:00Z",
+                "Source: https://spectrum.ieee.org/humanoid-robots-video-friday-do-we-need-superhuman-humanoid-robots",
+                "Published: 2026-08-24T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: OPUS 4.6 CONTENT ISSUES",
+            "heading": "AI ETHICS: LLM WATERMARKING",
             "paragraphs": [
-                "Anthropic's Opus 4.6 model has been publicly reported for generating inappropriate or 'smut-machine' content, highlighting ongoing challenges in controlling AI model behavior. This incident raises questions about alignment and safety mechanisms in commercial deployments.",
-                "This exposure creates immediate reputational and compliance risks for organizations deploying advanced LLMs, demanding rigorous content moderation and prompt engineering safeguards. Executives must prioritize ethical AI development and robust safety testing to prevent similar incidents and regulatory backlash."
+                "New research highlights improved techniques for detecting watermarks in LLM outputs, aiming to verify content provenance and combat AI-generated misinformation. This advancement provides critical tools for distinguishing synthetic text from human-authored content.",
+                "Implementing robust watermarking and detection is crucial for maintaining trust in digital information and mitigating the risks of AI-driven disinformation campaigns. Enterprises deploying LLMs must integrate these technologies to ensure transparency and uphold ethical AI practices."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/23/anthropic-opus-4-6-smut-machine/",
-                "Published: 2026-08-23T12:00:00Z",
+                "Source: https://news.ycombinator.com/item?id=37286420",
+                "Published: 2026-08-25T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
