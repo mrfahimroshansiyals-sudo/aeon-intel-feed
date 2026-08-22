@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
-                "visual_caption": "Google DeepMind unveils its new Gemini 3.7 Flash model, optimized for coding and agent applications. This release demands an immediate re-evaluation of existing AI architectures to leverage enhanced speed and cost efficiency."
+                "headline": "OPENAI: GPT-5.6 SCALES INTELLIGENCE",
+                "teaserTitle": "NVIDIA AGENT HARNESS ORCHESTRATION",
+                "visual_caption": "OpenAI has launched GPT-5.6, a new frontier model for enhanced intelligence and scalability. This release necessitates a strategic re-evaluation of existing AI deployment strategies and resource allocation."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
-                "teaserTitle": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
-                "visual_caption": "Starcloud has secured $250M in funding for its orbital data center project. This investment addresses the growing demand for specialized compute infrastructure as terrestrial options face constraints."
+                "headline": "TECHCRUNCH AI: NVIDIA AGENT HARNESS ORCHESTRATION",
+                "teaserTitle": "QWEN3.8-27B OPTIMIZED RELEASE",
+                "visual_caption": "Nvidia shows the agent harness is now key for advanced AI deployments, shifting focus from core models. Enterprises must invest in robust agentic frameworks to maximize model potential and improve operational agility."
             },
             {
                 "slide_index": 3,
-                "headline": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
-                "teaserTitle": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
-                "visual_caption": "A new agent harness platform, Munder Difflin, allows users to deploy autonomous AI agents for complex office workflows. This innovation enables \"cloned\" AI operations, streamlining enterprise tasks from scheduling to project execution."
+                "headline": "HUGGING FACE: QWEN3.8-27B OPTIMIZED RELEASE",
+                "teaserTitle": "RILLET SECURES $100M",
+                "visual_caption": "Hugging Face features Qwen3.8-27B-GGUF, an optimized model for efficient deployment. Technical teams should evaluate these alternatives to reduce cloud compute dependencies and lower operational expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
-                "teaserTitle": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
-                "visual_caption": "Nari Labs achieved a breakthrough in text-to-speech models, demonstrating response times below 50ms. This milestone enables real-time conversational AI applications with near-instantaneous audio generation, impacting user experience."
+                "headline": "TECHCRUNCH AI: RILLET SECURES $100M",
+                "teaserTitle": "EXPANDING CYBER DEFENSE",
+                "visual_caption": "AI accounting startup Rillet secured $100M in funding, achieving unicorn status within 48 hours. This signals a maturing market for targeted business intelligence, urging tech executives to identify key AI application areas."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
-                "teaserTitle": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
-                "visual_caption": "A fundamental flaw in LLMs makes them strikingly vulnerable to adversarial attacks like prompt injection. This inherent design vulnerability poses significant risk to data integrity and system security for deployed AI."
+                "headline": "OPENAI SECURITY: EXPANDING CYBER DEFENSE",
+                "teaserTitle": "WEATHERNEXT BREAKTHROUGH",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense window, strengthening security against AI-driven threats. Organizations must align defense strategies with advanced cyber-physical system protections to safeguard proprietary data and maintain compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
-                "teaserTitle": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
-                "visual_caption": "Anthropic's upcoming IPO filing will cite \"AI backlash\" as a key risk factor, reflecting increasing regulatory and ethical pressures. This signals a critical need for proactive AI governance and robust ethical framework development."
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
+                "teaserTitle": "AI IMPACTS EXAM SCORES",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, showing improved accuracy and lead times. Enterprises in climate-sensitive sectors must integrate these advanced forecasting tools to mitigate operational disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
+                "headline": "HACKER NEWS: AI IMPACTS EXAM SCORES",
                 "teaserTitle": "",
-                "visual_caption": "AI's recursive self-improvement may not materialize as quickly as predicted, due to limitations in agentic creativity. This impacts long-term strategic planning for R&D, necessitating adjusted innovation roadmaps."
+                "visual_caption": "A study on Hacker News shows AI-boosted homework scores correlate with drops in exam performance. Institutions must critically evaluate AI's long-term impact on knowledge retention and practical competency."
             },
             {
                 "slide_index": 8,

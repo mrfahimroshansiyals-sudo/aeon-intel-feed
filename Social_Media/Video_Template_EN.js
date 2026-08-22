@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
+        "hookTitle": "GPT-5.6 SCALES INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
+                "headline": "OPENAI: GPT-5.6 SCALES INTELLIGENCE",
+                "teaserTitle": "NVIDIA AGENT HARNESS ORCHESTRATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has unveiled its new Gemini three point seven Flash model, optimized for coding and agent applications. This release demands an immediate re-evaluation of existing AI architectures to leverage enhanced speed and cost efficiency."
+                "narration_line": "OpenAI has launched GPT five point six, a new frontier model for enhanced intelligence and scalability. This release necessitates a strategic re-evaluation of existing AI deployment strategies and resource allocation."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: STARCLOUD SECURES ORBITAL COMPUTE",
-                "teaserTitle": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
+                "headline": "TECHCRUNCH AI: NVIDIA AGENT HARNESS ORCHESTRATION",
+                "teaserTitle": "QWEN3.8-27B OPTIMIZED RELEASE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Starcloud has secured two hundred and fifty million dollars in funding for its orbital data center project. This investment addresses the growing demand for specialized compute infrastructure as terrestrial options face constraints."
+                "narration_line": "Nvidia shows the agent harness is now key for advanced AI deployments, shifting focus from core models. Enterprises must invest in robust agentic frameworks to maximize model potential and improve operational agility."
             },
             {
                 "slide_index": 3,
-                "headline": "HACKER NEWS: AGENTIC HARNESS PLATFORM EMERGES",
-                "teaserTitle": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
+                "headline": "HUGGING FACE: QWEN3.8-27B OPTIMIZED RELEASE",
+                "teaserTitle": "RILLET SECURES $100M",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A new agent harness platform called Munder Difflin allows users to deploy autonomous AI agents for complex office workflows. This innovation enables \"cloned\" AI operations, streamlining enterprise tasks from scheduling to project execution."
+                "narration_line": "Hugging Face features Qwen three point eight twenty-seven billion GGUF, an optimized model for efficient deployment. Technical teams should evaluate these alternatives to reduce cloud compute dependencies and lower operational expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: TTS LATENCY BELOW 50MS ACHIEVED",
-                "teaserTitle": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
+                "headline": "TECHCRUNCH AI: RILLET SECURES $100M",
+                "teaserTitle": "EXPANDING CYBER DEFENSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Nari Labs achieved a breakthrough in text-to-speech models, demonstrating response times below fifty milliseconds. This milestone enables real-time conversational AI applications with near-instantaneous audio generation, impacting user experience."
+                "narration_line": "AI accounting startup Rillet secured one hundred million dollars in funding, achieving unicorn status within forty-eight hours. This signals a maturing market for targeted business intelligence, urging tech executives to identify key AI application areas."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECH REVIEW: LLM FUNDAMENTAL ATTACK FLAW",
-                "teaserTitle": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
+                "headline": "OPENAI SECURITY: EXPANDING CYBER DEFENSE",
+                "teaserTitle": "WEATHERNEXT BREAKTHROUGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A fundamental flaw in large language models makes them strikingly vulnerable to adversarial attacks like prompt injection. This inherent design vulnerability poses significant risk to data integrity and system security for deployed AI."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense window, strengthening security against AI-driven threats. Organizations must align defense strategies with advanced cyber physical system protections to safeguard proprietary data and maintain compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: ANTHROPIC IPO FILING AI BACKLASH RISK",
-                "teaserTitle": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
+                "teaserTitle": "AI IMPACTS EXAM SCORES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic's upcoming IPO filing will cite \"AI backlash\" as a key risk factor, reflecting increasing regulatory and ethical pressures. This signals a critical need for proactive AI governance and robust ethical framework development."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, showing improved accuracy and lead times. Enterprises in climate sensitive sectors must integrate these advanced forecasting tools to mitigate operational disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: AI SELF-IMPROVEMENT DELAY",
+                "headline": "HACKER NEWS: AI IMPACTS EXAM SCORES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "AI's recursive self-improvement may not materialize as quickly as predicted, due to limitations in agentic creativity. This impacts long-term strategic planning for research and development, necessitating adjusted innovation roadmaps."
+                "narration_line": "A study on Hacker News shows AI boosted homework scores correlate with drops in exam performance. Institutions must critically evaluate AI's long-term impact on knowledge retention and practical competency."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
