@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
-                "teaserTitle": "OPENAI: DAYBREAK PLATFORM EXPANDS CYBER DEFENSE",
-                "visual_caption": "OpenAI has officially unveiled GPT-5.6, their latest frontier intelligence model, engineered for advanced scalability. Its expanded capabilities redefine architectural baselines for integrated AI systems."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "MCP: OPEN CONTEXT PROTOCOL ROADMAP",
+                "visual_caption": "Google DeepMind deployed Gemini 3.7 Flash for rapid coding workflows. The architecture delivers reduced inference latency across autonomous agent pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DAYBREAK PLATFORM EXPANDS CYBER DEFENSE",
-                "teaserTitle": "HUGGING FACE: OBLITERATED QWEN 3.8 27B OPTIMIZED",
-                "visual_caption": "OpenAI's Daybreak platform is expanding its cyber defense capabilities, addressing a narrowing window for threat detection. This update integrates advanced anomaly detection to fortify critical infrastructure."
+                "headline": "MCP: OPEN CONTEXT PROTOCOL ROADMAP",
+                "teaserTitle": "FINANCE: ANTHROPIC FILES IPO RISK FACTORS",
+                "visual_caption": "The Model Context Protocol team unveiled its open engineering roadmap for standardized multi-agent tooling. This framework reduces custom integration overhead across disparate model providers."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: OBLITERATED QWEN 3.8 27B OPTIMIZED",
-                "teaserTitle": "AGENT SYSTEMS: MUNDER DIFFLIN LAUNCHES CLONE HARNESS",
-                "visual_caption": "The OBLITERATUS Qwen 3.8 27B model offers highly optimized quantization for efficient deployment. It targets maximum performance on resource-constrained edge devices."
+                "headline": "FINANCE: ANTHROPIC FILES IPO RISK FACTORS",
+                "teaserTitle": "INFRASTRUCTURE: NVIDIA PARTNERS WITH CLOVERLEAF",
+                "visual_caption": "Anthropic listed societal backlash and safety compliance as key commercial risks in preliminary filing documents. Enterprise compliance teams must now prepare for increased model governance audits."
             },
             {
                 "slide_index": 4,
-                "headline": "AGENT SYSTEMS: MUNDER DIFFLIN LAUNCHES CLONE HARNESS",
-                "teaserTitle": "NVIDIA: HARNESS DESIGN OUTPERFORMS RAW MODELS",
-                "visual_caption": "Munder Difflin has launched an agent harness designed to orchestrate offices of AI clones, allowing multiple agents to collaborate. This streamlines multi-agent workflows for enterprise tasks."
+                "headline": "INFRASTRUCTURE: NVIDIA PARTNERS WITH CLOVERLEAF",
+                "teaserTitle": "VENTURE: RILLET RAISES $100M UNICORN ROUND",
+                "visual_caption": "Nvidia partnered with data center developer Cloverleaf to construct high-density computing campuses. The facilities address power bottlenecks for multi-gigawatt AI clusters."
             },
             {
                 "slide_index": 5,
-                "headline": "NVIDIA: HARNESS DESIGN OUTPERFORMS RAW MODELS",
-                "teaserTitle": "SECURITY: LLMS REMAIN HIGHLY SUSCEPTIBLE TO ATTACK",
-                "visual_caption": "Nvidia finds that AI harness design now impacts system performance more than raw model size, shifting focus to efficient interfaces. This insight challenges traditional compute scaling strategies."
+                "headline": "VENTURE: RILLET RAISES $100M UNICORN ROUND",
+                "teaserTitle": "BERKELEY: FREETOKEN EDGE MOE SYSTEM",
+                "visual_caption": "Autonomous accounting platform Rillet secured $100M in venture capital in 48 hours. The company reached a $1B valuation by automating corporate ledgers."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: LLMS REMAIN HIGHLY SUSCEPTIBLE TO ATTACK",
-                "teaserTitle": "FRONTIER AI: LABS LACK ROGUE MODEL CONTAINMENT",
-                "visual_caption": "Large language models remain highly susceptible to adversarial attacks, including prompt injection and data poisoning, due to fundamental flaws. This enables malicious actors to manipulate model outputs for harmful purposes."
+                "headline": "BERKELEY: FREETOKEN EDGE MOE SYSTEM",
+                "teaserTitle": "DEVELOPER TOOLS: RUST GLANCER CUTS RAM 100X",
+                "visual_caption": "Berkeley researchers published FreeToken to run large Mixture-of-Experts models on heterogeneous local hardware. The system eliminates cloud inference costs for decentralized edge workloads."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER AI: LABS LACK ROGUE MODEL CONTAINMENT",
+                "headline": "DEVELOPER TOOLS: RUST GLANCER CUTS RAM 100X",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Leading frontier AI labs are still unable to articulate clear strategies for containing a rogue advanced AI model if it were to deviate. This raises significant safety concerns for superintelligent systems."
+                "visual_caption": "Rust Glancer introduced an open language server protocol using 100x less memory. This optimization frees substantial local compute resources for integrated coding agents."
             },
             {
                 "slide_index": 8,
