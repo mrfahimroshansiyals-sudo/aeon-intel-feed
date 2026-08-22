@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES INTELLIGENCE",
-                "teaserTitle": "NVIDIA AGENT HARNESS ORCHESTRATION",
-                "visual_caption": "OpenAI has launched GPT-5.6, a new frontier model for enhanced intelligence and scalability. This release necessitates a strategic re-evaluation of existing AI deployment strategies and resource allocation."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "HACKER NEWS: AGENT HARNESS FOR CLONES",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their newest intelligent model for coding and agents. This development sets a new standard for efficient AI deployments, prompting re-evaluation of enterprise model architectures."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH AI: NVIDIA AGENT HARNESS ORCHESTRATION",
-                "teaserTitle": "QWEN3.8-27B OPTIMIZED RELEASE",
-                "visual_caption": "Nvidia shows the agent harness is now key for advanced AI deployments, shifting focus from core models. Enterprises must invest in robust agentic frameworks to maximize model potential and improve operational agility."
+                "headline": "HACKER NEWS: AGENT HARNESS FOR CLONES",
+                "teaserTitle": "TECHCRUNCH AI: ANTHROPIC OPUS 4.6 SAFETY",
+                "visual_caption": "A Hacker News report emphasizes the agent harness as crucial for managing complex AI clone environments, shifting focus to sophisticated orchestration. Businesses must prioritize robust harness frameworks to ensure scalable and reliable agentic AI operations."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN3.8-27B OPTIMIZED RELEASE",
-                "teaserTitle": "RILLET SECURES $100M",
-                "visual_caption": "Hugging Face features Qwen3.8-27B-GGUF, an optimized model for efficient deployment. Technical teams should evaluate these alternatives to reduce cloud compute dependencies and lower operational expenses."
+                "headline": "TECHCRUNCH AI: ANTHROPIC OPUS 4.6 SAFETY",
+                "teaserTitle": "CNBC TECHNOLOGY: DATA CENTERS AT RISK",
+                "visual_caption": "TechCrunch reveals Anthropic's Opus 4.6 model struggles with content moderation, failing to filter inappropriate material. This highlights persistent challenges in aligning large language models with stringent safety and ethical guidelines."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH AI: RILLET SECURES $100M",
-                "teaserTitle": "EXPANDING CYBER DEFENSE",
-                "visual_caption": "AI accounting startup Rillet secured $100M in funding, achieving unicorn status within 48 hours. This signals a maturing market for targeted business intelligence, urging tech executives to identify key AI application areas."
+                "headline": "CNBC TECHNOLOGY: DATA CENTERS AT RISK",
+                "teaserTitle": "CNBC TECHNOLOGY: ANTHROPIC IPO RISK FACTORS",
+                "visual_caption": "CNBC reports Ohio's data centers face growing political concern over energy demands, risking the state's power grid. Strategic re-evaluation of location and power sourcing for AI deployments is crucial to mitigate regulatory hurdles."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI SECURITY: EXPANDING CYBER DEFENSE",
-                "teaserTitle": "WEATHERNEXT BREAKTHROUGH",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense window, strengthening security against AI-driven threats. Organizations must align defense strategies with advanced cyber-physical system protections to safeguard proprietary data and maintain compliance."
+                "headline": "CNBC TECHNOLOGY: ANTHROPIC IPO RISK FACTORS",
+                "teaserTitle": "HACKER NEWS: META DATA STRATEGY",
+                "visual_caption": "Anthropic\u2019s upcoming IPO filing lists \"AI backlash\" as a key risk factor, reflecting increasing scrutiny on frontier AI development. AI leaders must integrate ethical AI frameworks to mitigate reputational and regulatory risks, ensuring market stability."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
-                "teaserTitle": "AI IMPACTS EXAM SCORES",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in forecasting cyclones, showing improved accuracy and lead times. Enterprises in climate-sensitive sectors must integrate these advanced forecasting tools to mitigate operational disruptions."
+                "headline": "HACKER NEWS: META DATA STRATEGY",
+                "teaserTitle": "TECHCRUNCH AI: NVIDIA CLOVERLEAF PARTNERSHIP",
+                "visual_caption": "Hacker News highlighted Meta\u2019s alleged \"hook, hold, harvest, and hide\" strategy, raising serious concerns about user data privacy. Enterprises must reinforce data governance protocols to avoid legal and reputational repercussions from ethical data handling failures."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: AI IMPACTS EXAM SCORES",
+                "headline": "TECHCRUNCH AI: NVIDIA CLOVERLEAF PARTNERSHIP",
                 "teaserTitle": "",
-                "visual_caption": "A study on Hacker News shows AI-boosted homework scores correlate with drops in exam performance. Institutions must critically evaluate AI's long-term impact on knowledge retention and practical competency."
+                "visual_caption": "Nvidia partnered with Cloverleaf to scale next-generation AI compute infrastructure, optimizing data centers for high-density GPU deployments. This collaboration addresses escalating demand for computational power, critical for frontier AI model training and inference."
             },
             {
                 "slide_index": 8,
