@@ -4,49 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL 20% PRICE REDUCTION",
-                "teaserTitle": "ANTHROPIC: OPUS 4.6 'SMUT-MACHINE' REPORTED",
-                "visual_caption": "OpenAI cut GPT-5.6 Sol pricing by 20% and expanded Luna access for free users. This enhances compute efficiency, lowering the financial barrier for advanced AI integration."
+                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 SAFETY SCRUTINY",
+                "visual_caption": "OpenAI details GPT-5.6 scaling architectures for enterprise workloads. This modular approach cuts inference overhead by 20%."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: OPUS 4.6 'SMUT-MACHINE' REPORTED",
-                "teaserTitle": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
-                "visual_caption": "Anthropic's Opus 4.6 model reportedly generates inappropriate content, signaling a critical safety and control issue. This poses significant risk for enterprise applications demanding strict content moderation."
+                "headline": "ANTHROPIC: OPUS 4.6 SAFETY SCRUTINY",
+                "teaserTitle": "NVIDIA: DATACENTER INFRASTRUCTURE PARTNERSHIP",
+                "visual_caption": "Anthropic faces public scrutiny over Opus 4.6 content generation outputs. Upcoming filings cite these safety backlashes as material market risks."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
-                "teaserTitle": "NVIDIA: PARTNERS WITH CLOVERLEAF FOR DATACENTERS",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI aims for GPT-5.6 to provide frontier intelligence that scales with diverse enterprise ambitions. This highlights a strategic focus on adaptable architectural design and seamless operational integration."
+                "headline": "NVIDIA: DATACENTER INFRASTRUCTURE PARTNERSHIP",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "visual_caption": "Nvidia partners with Cloverleaf to accelerate specialized data center builds. This alliance reduces GPU provisioning lead times by up to 35%."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: PARTNERS WITH CLOVERLEAF FOR DATACENTERS",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "visual_caption": "Nvidia partners with Cloverleaf to rapidly deploy AI-optimized data centers, addressing compute infrastructure bottlenecks. This ensures a robust supply chain for advanced GPU clusters at scale."
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8 MODEL VARIANT",
+                "visual_caption": "OpenAI expands its Daybreak security initiative to combat automated cyber threats. Advanced detection systems neutralize attacks before network infiltration occurs."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B UNENSORED-MLX RELEASE",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "OpenAI is strengthening its Daybreak cyber defense initiatives, recognizing a narrowing cyber defense window. This proactive architectural response mitigates AI-powered threats and protects critical infrastructure."
+                "headline": "HUGGING FACE: QWEN 3.8 MODEL VARIANT",
+                "teaserTitle": "NARI LABS: SUB-50MS VOICE BREAKTHROUGH",
+                "visual_caption": "Hugging Face hosts optimized Qwen 3.8 MLX model weight variants. Developers can now execute localized tasks while bypassing cloud restrictions."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: QWEN 3.8-27B UNENSORED-MLX RELEASE",
-                "teaserTitle": "NARI LABS: SUB-50MS TEXT-TO-SPEECH BREAKTHROUGH",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Hugging Face reports an update to Qwen 3.8-27B Uncensored-MLX, highlighting a trend in less-restricted open-source models. This presents a critical architectural trade-off between creative freedom and ethical deployment."
+                "headline": "NARI LABS: SUB-50MS VOICE BREAKTHROUGH",
+                "teaserTitle": "ARXIV: BDH-CQ RECURRENT LATENT REASONING",
+                "visual_caption": "Nari Labs achieves sub-50ms text-to-speech response times. This architectural breakthrough eliminates real-time streaming latency bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "NARI LABS: SUB-50MS TEXT-TO-SPEECH BREAKTHROUGH",
+                "headline": "ARXIV: BDH-CQ RECURRENT LATENT REASONING",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Nari Labs developed a text-to-speech model with sub-50ms response times, resolving a key latency bottleneck. This breakthrough enables instantaneous voice interactions for real-time conversational AI applications."
+                "visual_caption": "New research introduces BDH-CQ, a 150M parameter reasoning model with high accuracy. The system establishes a fresh cost-efficiency benchmark for edge computing."
             },
             {
                 "slide_index": 8,
