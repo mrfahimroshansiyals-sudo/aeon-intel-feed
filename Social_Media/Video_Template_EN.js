@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ANTHROPIC OPUS 4.6 FACES IPO IMPACT",
+        "hookTitle": "GEMINI 3.7 FLASH DEBUT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: OPUS 4.6 SAFETY RISKS & IPO IMPACT",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA EXPANSION",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "OPENAI: GPT-5.6 SCALING FRONTIER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic's Opus 4.6 model faces significant safety concerns regarding uncontrolled AI outputs. This raises material risk factors for its upcoming IPO filings, requiring new compliance strategies."
+                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, its most intelligent workhorse model yet for advanced coding and agentic applications. This launch is poised to significantly boost developer productivity and optimize the cost of AI agent deployments for businesses."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA EXPANSION",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "headline": "OPENAI: GPT-5.6 SCALING FRONTIER",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is enhancing its GPT-5.6 Sol and expanding free access to GPT-5.6 Luna. This strategy democratizes advanced AI, accelerating adoption and refining models for broader utility."
+                "narration_line": "OpenAI's new GPT-five point six model pushes the frontiers of scalable intelligence, offering advanced capabilities for complex enterprise solutions. Its release impacts how organizations plan long-term infrastructure and evaluate next-generation model architectures."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has debuted Gemini 3.7 Flash, its most intelligent workhorse model for coding and agents. This release optimizes performance for complex multi-step tasks, boosting developer productivity."
+                "narration_line": "OpenAI is expanding its Daybreak initiative to combat a narrowing cyber defense window against advanced AI threats. This critical security update requires enterprises to immediately re-evaluate their AI governance and threat mitigation strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
-                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
+                "headline": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
+                "teaserTitle": "STARCLOUD: $250M ORBITAL DATA CENTERS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting, providing more accurate and earlier predictions. This innovation reduces economic losses and enhances safety in critical industries."
+                "narration_line": "Nvidia is partnering with data center developer Cloverleaf to accelerate the deployment of high-performance AI infrastructure. This collaboration directly influences GPU availability and pricing, compelling companies to refine their compute procurement strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
-                "teaserTitle": "TECHCRUNCH: NVIDIA HARNESS IS THE HERO",
+                "headline": "STARCLOUD: $250M ORBITAL DATA CENTERS",
+                "teaserTitle": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Agentic AI is accelerating root cause analysis by integrating cross-domain data, significantly reducing problem-solving time. This minimizes operational downtime by up to forty percent and lowers maintenance costs."
+                "naration_line": "Space Starcloud secured two hundred and fifty million dollars for orbital data centers, pioneering resilient compute infrastructure in low-Earth orbit. This introduces new strategic considerations for global AI latency and disaster recovery planning for enterprises."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHCRUNCH: NVIDIA HARNESS IS THE HERO",
-                "teaserTitle": "TECHCRUNCH: RILLET AI UNICORN STATUS",
+                "headline": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
+                "teaserTitle": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Nvidia's 'harness'\u2014its software and frameworks\u2014is now as vital as the AI model for optimal deployment. Enterprises must prioritize comprehensive infrastructure, moving beyond isolated model-centric strategies."
+                "narration_line": "Autolith has launched a programming agent with a live runtime, designed for autonomous code generation and execution in AI systems. This innovation promises to accelerate software development cycles and enhance engineering cost efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: RILLET AI UNICORN STATUS",
+                "headline": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "AI accounting startup Rillet secured one hundred million dollars, achieving unicorn status within 48 hours. This validates strong market demand for specialized AI SaaS, pressuring traditional software vendors."
+                "narration_line": "Nari Labs achieved sub-fifty millisecond text-to-speech response times, setting a new benchmark for real-time AI applications. This breakthrough vastly improves user experience in conversational AI and optimizes compute efficiency for instantaneous interfaces."
             },
             {
                 "slide_index": 8,
