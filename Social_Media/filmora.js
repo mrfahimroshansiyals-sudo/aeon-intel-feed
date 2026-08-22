@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "LLM PERCEPTION OF INTELLIGENCE",
-                "visual_caption": "OpenAI enhanced GPT-5.6 Sol access in ChatGPT and expanded GPT-5.6 Luna for free users. This refines performance tiers, impacting enterprise adoption strategies and API integration costs."
+                "headline": "AI PERFORMANCE: INHERENT AI OUTPERFORMS LEADING MODELS",
+                "teaserTitle": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
+                "visual_caption": "Inherent AI's new 'teammate' has reportedly outperformed leading models from Anthropic and OpenAI in research replication tasks. This breakthrough sets a new performance benchmark for collaborative AI systems and R&D efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "LLM: PERCEPTION OF INTELLIGENCE",
-                "teaserTitle": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
-                "visual_caption": "Local LLMs often appear less intelligent due to poor prompting and limited context. Enterprises must optimize prompt engineering and local inference to unlock full model potential."
+                "headline": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
+                "teaserTitle": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
+                "visual_caption": "Google DeepMind has unveiled Gemini 3.7 Flash, its latest AI workhorse model designed for advanced coding and agentic applications. This release enhances AI capabilities for complex task execution and broad development workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
-                "teaserTitle": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
-                "visual_caption": "The Model Context Protocol released a new roadmap to standardize context management across AI agents. This boosts interoperability, reducing integration costs and improving AI workflow reliability."
+                "headline": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
+                "teaserTitle": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
+                "visual_caption": "Nvidia is alerting customers about impending price increases for its high-performance AI hardware due to growing demand and supply chain pressures. These hikes will directly impact CapEx for AI infrastructure and cloud migration strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
-                "teaserTitle": "FRONTIER MODELS: QWEN 3.8-27B MLX",
-                "visual_caption": "OpenAI warns the cyber defense window is narrowing, requiring advanced AI for threat detection. Enterprises must upgrade security stacks to predictive defense to counter escalating AI threats."
+                "headline": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
+                "teaserTitle": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
+                "visual_caption": "OpenAI emphasizes that AI model development must be paced with evolving cyber-critical capabilities to mitigate systemic risks. This strategic balance is crucial for chief architects to integrate security into early model designs."
             },
             {
                 "slide_index": 5,
-                "headline": "FRONTIER MODELS: QWEN 3.8-27B MLX",
-                "teaserTitle": "ROBOTICS: SUPERHUMAN HUMANOIDS",
-                "visual_caption": "An uncensored Qwen 3.8-27B MLX model is available, offering flexible content generation without safety filters. This introduces significant ethical and compliance risks for deploying businesses."
+                "headline": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
+                "visual_caption": "AMD highlights an architectural shift from individual AI copilots to advanced agent swarm systems, redefining enterprise workflow automation. This paradigm change requires significant MLOps re-tooling and strategic infrastructure investments for scalable deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: SUPERHUMAN HUMANOIDS",
-                "teaserTitle": "AI ETHICS: LLM WATERMARKING",
-                "visual_caption": "IEEE Spectrum debates developing superhuman humanoid robots for industrial and societal roles. This poses complex risk management challenges, including unforeseen disruption and autonomous system failures."
+                "headline": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
+                "teaserTitle": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
+                "visual_caption": "FreeToken introduced an edge-native Mixture-of-Experts serving system that enables efficient deployment of large models on personal machines. This innovation lowers operational costs and improves privacy for localized AI applications."
             },
             {
                 "slide_index": 7,
-                "headline": "AI ETHICS: LLM WATERMARKING",
+                "headline": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
                 "teaserTitle": "",
-                "visual_caption": "New research improves detecting watermarks in LLM outputs, verifying content origin and combating AI misinformation. Robust watermarking is crucial for maintaining digital trust and ethical AI practices."
+                "visual_caption": "Frontier AI labs are reportedly silent on comprehensive plans to contain potentially rogue or uncontrollable advanced AI models. This lack of transparency signals critical unmitigated risks for societal stability and corporate deployments."
             },
             {
                 "slide_index": 8,

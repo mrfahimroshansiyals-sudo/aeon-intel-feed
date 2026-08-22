@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SOL & LUNA ACCESS REFINED",
+        "hookTitle": "INHERENT AI OUTPERFORMS LEADING MODELS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "LLM PERCEPTION OF INTELLIGENCE",
+                "headline": "AI PERFORMANCE: INHERENT AI OUTPERFORMS LEADING MODELS",
+                "teaserTitle": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has enhanced access to its GPT-5.6 Sol model within ChatGPT, simultaneously expanding free user access to GPT-5.6 Luna. This strategic move impacts enterprise adoption by refining value propositions across premium and free usage tiers."
+                "narration_line": "Inherent AI's new 'teammate' has reportedly outperformed leading models from Anthropic and OpenAI in research replication tasks. This breakthrough sets a new performance benchmark for collaborative AI systems and R&D efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "LLM: PERCEPTION OF INTELLIGENCE",
-                "teaserTitle": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
+                "headline": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
+                "teaserTitle": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "New analysis shows local LLMs often feel less intelligent than they truly are due to suboptimal prompting. Bridging this gap requires advanced prompt engineering and improved local inference optimization for enterprises."
+                "naration_line": "Google DeepMind has unveiled Gemini 3.7 Flash, its latest AI workhorse model designed for advanced coding and agentic applications. This release enhances AI capabilities for complex task execution and broad development workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURE: MODEL CONTEXT PROTOCOL",
-                "teaserTitle": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
+                "headline": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
+                "teaserTitle": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "The Model Context Protocol has unveiled a new roadmap to standardize context management across distributed AI agents. This promises to streamline multi-agent AI deployments, lowering integration costs and boosting reliability."
+                "narration_line": "Nvidia is alerting customers about impending price increases for its high-performance AI-related hardware due to growing demand and supply chain pressures. These hikes will directly impact CapEx for AI infrastructure and cloud migration strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: DEFENSE WINDOW NARROWS",
-                "teaserTitle": "FRONTIER MODELS: QWEN 3.8-27B MLX",
+                "headline": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
+                "teaserTitle": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "OpenAI warns that the cyber defense window is rapidly narrowing, demanding more sophisticated AI-driven threat detection. This signals an urgent mandate for enterprises to significantly upgrade their cybersecurity stacks with advanced AI."
+                "narration_line": "OpenAI emphasizes that AI model development must be paced with evolving cyber-critical capabilities to mitigate systemic risks. This strategic balance is crucial for chief architects to integrate security into early model designs."
             },
             {
                 "slide_index": 5,
-                "headline": "FRONTIER MODELS: QWEN 3.8-27B MLX",
-                "teaserTitle": "ROBOTICS: SUPERHUMAN HUMANOIDS",
+                "headline": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
+                "teaserTitle": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "An uncensored Qwen 3.8-27B model, optimized for MLX, has emerged on Hugging Face, offering unrestricted content generation. While versatile, deploying such models introduces significant ethical and compliance risks for businesses."
+                "narration_line": "AMD highlights an architectural shift from individual AI copilots to advanced agent swarm systems, redefining enterprise workflow automation. This paradigm change requires significant MLOps re-tooling and strategic infrastructure investments for scalable deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: SUPERHUMAN HUMANOIDS",
-                "teaserTitle": "AI ETHICS: LLM WATERMARKING",
+                "headline": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
+                "teaserTitle": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "IEEE Spectrum discusses the escalating debate on the necessity of developing superhuman humanoid robots for industrial roles. This pursuit poses complex risk management challenges, including potential societal disruption."
+                "narration_line": "FreeToken introduced an edge-native Mixture-of-Experts serving system that enables efficient deployment of large models on personal machines. This innovation lowers operational costs and improves privacy for localized AI applications."
             },
             {
                 "slide_index": 7,
-                "headline": "AI ETHICS: LLM WATERMARKING",
+                "headline": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "New research shows improved techniques for detecting watermarks in LLM outputs, verifying content provenance and combating AI-generated misinformation. Implementing robust watermarking is crucial for maintaining trust in digital information."
+                "narration_line": "Frontier AI labs are reportedly silent on comprehensive plans to contain potentially rogue or uncontrollable advanced AI models. This lack of transparency signals critical unmitigated risks for societal stability and corporate deployments."
             },
             {
                 "slide_index": 8,
