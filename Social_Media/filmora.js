@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "OPENAI: GPT-5.6 SCALING FRONTIER",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, its most intelligent workhorse model for coding and agentic applications. This boosts developer productivity and optimizes AI agent deployment costs for businesses."
+                "headline": "NVIDIA: HARNESS OVER MODEL SHIFT",
+                "teaserTitle": "AGENTIC AI: ROOT CAUSE ANALYSIS",
+                "visual_caption": "NVIDIA now emphasizes AI infrastructure, or the 'harness,' as a greater driver of model performance than the models themselves. This shift mandates a holistic view of compute stacks to optimize frontier AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SCALING FRONTIER",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_caption": "OpenAI's new GPT-5.6 model pushes scalable intelligence frontiers, offering advanced capabilities for complex enterprise solutions. Its release impacts long-term infrastructure planning and next-gen model architecture evaluation."
+                "headline": "AGENTIC AI: ROOT CAUSE ANALYSIS",
+                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
+                "visual_caption": "New agentic AI developments are accelerating root cause analysis in complex systems by connecting cross-domain data for faster diagnostics. This promises significant gains in system uptime and reduced operational costs."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
-                "visual_caption": "OpenAI expands Daybreak to counter a narrowing cyber defense window against AI threats. This critical update requires enterprises to re-evaluate AI governance and threat mitigation strategies."
+                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
+                "teaserTitle": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
+                "visual_caption": "Google DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting, improving prediction accuracy and lead times. This advancement can save billions in damages and enhance public safety globally."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
-                "teaserTitle": "STARCLOUD: $250M ORBITAL DATA CENTERS",
-                "visual_caption": "Nvidia partners Cloverleaf to accelerate high-performance AI data center deployment. This influences GPU availability and pricing, impacting compute procurement strategies."
+                "headline": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
+                "teaserTitle": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
+                "visual_caption": "Hugging Face reports a significant update to the Ultra-FineWeb-L1 dataset for LLM training and evaluation. Access to cleaner, more diverse data is crucial for mitigating model bias and enhancing generalization capabilities efficiently."
             },
             {
                 "slide_index": 5,
-                "headline": "STARCLOUD: $250M ORBITAL DATA CENTERS",
-                "teaserTitle": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
-                "visual_caption": "Space Starcloud secured $250M for orbital data centers, pioneering resilient compute infrastructure in low-Earth orbit. This introduces new strategic considerations for global AI latency and disaster recovery."
+                "headline": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
+                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "visual_caption": "Anthropic's IPO filing will list 'AI backlash' as a key risk factor, highlighting growing regulatory scrutiny and ethical concerns. Tech executives must fortify AI governance to navigate increasing external pressures."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
-                "teaserTitle": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
-                "visual_caption": "Autolith launched a programming agent with a live runtime for autonomous code generation and execution in AI systems. This innovation accelerates software development cycles and enhances engineering cost efficiency."
+                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "teaserTitle": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
+                "visual_caption": "Google DeepMind has released new sign language AI models, enhancing communication accessibility for deaf and hard-of-hearing communities. This deployment fosters broader market adoption and demonstrates critical ethical AI applications."
             },
             {
                 "slide_index": 7,
-                "headline": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
+                "headline": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
                 "teaserTitle": "",
-                "visual_caption": "Nari Labs achieved sub-50ms text-to-speech response times, setting a new benchmark for real-time AI applications. This vastly improves conversational AI user experience and optimizes compute efficiency for instantaneous interfaces."
+                "visual_caption": "MIT Technology Review explores the complex IP rights when AI designs new drugs, highlighting challenges in attributing ownership. Defining IP in AI-generated innovations is crucial for R&D investment and competitive strategy."
             },
             {
                 "slide_index": 8,

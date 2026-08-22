@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH DEBUT",
+        "hookTitle": "NVIDIA HARNESS OVER MODEL SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "OPENAI: GPT-5.6 SCALING FRONTIER",
+                "headline": "NVIDIA: HARNESS OVER MODEL SHIFT",
+                "teaserTitle": "AGENTIC AI: ROOT CAUSE ANALYSIS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has unveiled Gemini three point seven Flash, its most intelligent workhorse model yet for advanced coding and agentic applications. This launch is poised to significantly boost developer productivity and optimize the cost of AI agent deployments for businesses."
+                "narration_line": "NVIDIA now emphasizes AI infrastructure, or the 'harness,' as a greater driver of model performance than the models themselves. This shift mandates a holistic view of compute stacks to optimize frontier AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SCALING FRONTIER",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "AGENTIC AI: ROOT CAUSE ANALYSIS",
+                "teaserTitle": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI's new GPT-five point six model pushes the frontiers of scalable intelligence, offering advanced capabilities for complex enterprise solutions. Its release impacts how organizations plan long-term infrastructure and evaluate next-generation model architectures."
+                "narration_line": "New agentic AI developments are accelerating root cause analysis in complex systems by connecting cross-domain data for faster diagnostics. This promises significant gains in system uptime and reduced operational costs."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
+                "headline": "GOOGLE DEEPMIND: CYCLONE FORECASTING",
+                "teaserTitle": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI is expanding its Daybreak initiative to combat a narrowing cyber defense window against advanced AI threats. This critical security update requires enterprises to immediately re-evaluate their AI governance and threat mitigation strategies."
+                "narration_line": "Google DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting, improving prediction accuracy and lead times. This advancement can save billions in damages and enhance public safety globally."
             },
             {
                 "slide_index": 4,
-                "headline": "NVIDIA: CLOVERLEAF DATA CENTER PARTNERSHIP",
-                "teaserTitle": "STARCLOUD: $250M ORBITAL DATA CENTERS",
+                "headline": "HUGGING FACE: ULTRA-FINEWEB L1 DATASET",
+                "teaserTitle": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Nvidia is partnering with data center developer Cloverleaf to accelerate the deployment of high-performance AI infrastructure. This collaboration directly influences GPU availability and pricing, compelling companies to refine their compute procurement strategies."
+                "narration_line": "Hugging Face reports a significant update to the Ultra-FineWeb-L1 dataset for LLM training and evaluation. Access to cleaner, more diverse data is crucial for mitigating model bias and enhancing generalization capabilities efficiently."
             },
             {
                 "slide_index": 5,
-                "headline": "STARCLOUD: $250M ORBITAL DATA CENTERS",
-                "teaserTitle": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
+                "headline": "ANTHROPIC: IPO FILING AI BACKLASH RISK",
+                "teaserTitle": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "Space Starcloud secured two hundred and fifty million dollars for orbital data centers, pioneering resilient compute infrastructure in low-Earth orbit. This introduces new strategic considerations for global AI latency and disaster recovery planning for enterprises."
+                "narration_line": "Anthropic's IPO filing will list 'AI backlash' as a key risk factor, highlighting growing regulatory scrutiny and ethical concerns. Tech executives must fortify AI governance to navigate increasing external pressures."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOLITH: PROGRAMMING AGENT LIVE RUNTIME",
-                "teaserTitle": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
+                "headline": "GOOGLE DEEPMIND: SIGN LANGUAGE AI RELEASE",
+                "teaserTitle": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Autolith has launched a programming agent with a live runtime, designed for autonomous code generation and execution in AI systems. This innovation promises to accelerate software development cycles and enhance engineering cost efficiency."
+                "narration_line": "Google DeepMind has released new sign language AI models, enhancing communication accessibility for deaf and hard-of-hearing communities. This deployment fosters broader market adoption and demonstrates critical ethical AI applications."
             },
             {
                 "slide_index": 7,
-                "headline": "NARI LABS: SUB-50MS TEXT-TO-SPEECH",
+                "headline": "MIT TECH REVIEW: AI DRUG DISCOVERY IP",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Nari Labs achieved sub-fifty millisecond text-to-speech response times, setting a new benchmark for real-time AI applications. This breakthrough vastly improves user experience in conversational AI and optimizes compute efficiency for instantaneous interfaces."
+                "narration_line": "MIT Technology Review explores the complex IP rights when AI designs new drugs, highlighting challenges in attributing ownership. Defining IP in AI-generated innovations is crucial for R&D investment and competitive strategy."
             },
             {
                 "slide_index": 8,
