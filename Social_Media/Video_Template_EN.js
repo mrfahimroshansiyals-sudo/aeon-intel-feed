@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI ANNOUNCES FRONTIER INTELLIGENCE",
+        "hookTitle": "ANTHROPIC OPUS 4.6 FACES IPO IMPACT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALING AMBITION",
-                "teaserTitle": "ANTHROPIC: OPUS 4.6 SAFETY SCRUTINY",
+                "headline": "ANTHROPIC: OPUS 4.6 SAFETY RISKS & IPO IMPACT",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI details GPT-5.6 scaling architectures for enterprise workloads. This modular approach cuts inference overhead by twenty percent."
+                "narration_line": "Anthropic's Opus 4.6 model faces significant safety concerns regarding uncontrolled AI outputs. This raises material risk factors for its upcoming IPO filings, requiring new compliance strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: OPUS 4.6 SAFETY SCRUTINY",
-                "teaserTitle": "NVIDIA: DATACENTER INFRASTRUCTURE PARTNERSHIP",
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA EXPANSION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic faces public scrutiny over Opus 4.6 content generation outputs. Upcoming filings cite these safety backlashes as material market risks."
+                "narration_line": "OpenAI is enhancing its GPT-5.6 Sol and expanding free access to GPT-5.6 Luna. This strategy democratizes advanced AI, accelerating adoption and refining models for broader utility."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: DATACENTER INFRASTRUCTURE PARTNERSHIP",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia partners with Cloverleaf to accelerate specialized data center builds. This alliance reduces GPU provisioning lead times by up to thirty-five percent."
+                "narration_line": "Google DeepMind has debuted Gemini 3.7 Flash, its most intelligent workhorse model for coding and agents. This release optimizes performance for complex multi-step tasks, boosting developer productivity."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8 MODEL VARIANT",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI expands its Daybreak security initiative to combat automated cyber threats. Advanced detection systems neutralize attacks before network infiltration occurs."
+                "narration_line": "DeepMind's WeatherNext AI has achieved a breakthrough in cyclone forecasting, providing more accurate and earlier predictions. This innovation reduces economic losses and enhances safety in critical industries."
             },
             {
                 "slide_index": 5,
-                "headline": "HUGGING FACE: QWEN 3.8 MODEL VARIANT",
-                "teaserTitle": "NARI LABS: SUB-50MS VOICE BREAKTHROUGH",
+                "headline": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
+                "teaserTitle": "TECHCRUNCH: NVIDIA HARNESS IS THE HERO",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Hugging Face hosts optimized Qwen 3.8 MLX model weight variants. Developers can now execute localized tasks while bypassing cloud restrictions."
+                "narration_line": "Agentic AI is accelerating root cause analysis by integrating cross-domain data, significantly reducing problem-solving time. This minimizes operational downtime by up to forty percent and lowers maintenance costs."
             },
             {
                 "slide_index": 6,
-                "headline": "NARI LABS: SUB-50MS VOICE BREAKTHROUGH",
-                "teaserTitle": "ARXIV: BDH-CQ RECURRENT LATENT REASONING",
+                "headline": "TECHCRUNCH: NVIDIA HARNESS IS THE HERO",
+                "teaserTitle": "TECHCRUNCH: RILLET AI UNICORN STATUS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Nari Labs achieves sub-fifty millisecond text-to-speech response times. This architectural breakthrough eliminates real-time streaming latency bottlenecks."
+                "narration_line": "Nvidia's 'harness'\u2014its software and frameworks\u2014is now as vital as the AI model for optimal deployment. Enterprises must prioritize comprehensive infrastructure, moving beyond isolated model-centric strategies."
             },
             {
                 "slide_index": 7,
-                "headline": "ARXIV: BDH-CQ RECURRENT LATENT REASONING",
+                "headline": "TECHCRUNCH: RILLET AI UNICORN STATUS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New research introduces BDH-CQ, a compact reasoning model with high accuracy. The system establishes a fresh cost-efficiency benchmark for edge computing."
+                "naration_line": "AI accounting startup Rillet secured one hundred million dollars, achieving unicorn status within 48 hours. This validates strong market demand for specialized AI SaaS, pressuring traditional software vendors."
             },
             {
                 "slide_index": 8,
