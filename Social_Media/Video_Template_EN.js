@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "EU AI OFFICE: COMMISSION PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "NVIDIA EMPHASIZES SYSTEM HARNESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's new GPT-5.6 model sets a fresh benchmark for frontier intelligence across diverse enterprise ambitions. This release targets the challenge of adapting high-performance AI to complex business processes effectively."
+                "narration_line": "Google DeepMind unveils Gemini 3.7 Flash, their most intelligent and efficient workhorse model for coding and agentic workloads. This release targets performance bottlenecks, accelerating development cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "EU AI OFFICE: COMMISSION PROPOSES TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITY TO ATTACK",
+                "headline": "NVIDIA: HARNESS OVER MODEL SIZE FOR AI COMPUTE",
+                "teaserTitle": "ANTHROPIC IPO CITES AI BACKLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The European Commission has proposed a comprehensive Tech Sovereignty Package, aiming to bolster Europe's digital autonomy in key AI and cloud sectors. This introduces new compliance requirements and strategic investment directives for EU operations."
+                "narration_line": "Nvidia states the system's \"harness\"\u2014software and interconnects\u2014is now crucial for AI performance, not just raw model size. This re-prioritizes full-stack engineering for up to twenty-five percent performance gains."
             },
             {
                 "slide_index": 3,
-                "headline": "MIT TECHNOLOGY REVIEW: LLM FLAW EXPOSES VULNERABILITY TO ATTACK",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B GGUF OPTIMIZED FOR EFFICIENCY",
+                "headline": "ANTHROPIC IPO: AI BACKLASH RISK CITED IN FILING",
+                "teaserTitle": "4D HUMANS FROM MONOCULAR VIDEO",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "A fundamental flaw in large language models exposes striking vulnerabilities, allowing attackers to trick systems into unintended actions. This critical architectural bottleneck challenges the safety and integrity of current LLM deployments."
+                "narration_line": "Anthropic's IPO filing cites \"AI backlash\" as a key risk, highlighting increasing regulatory scrutiny and public resistance. This signals potential delays and higher compliance costs for AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "HUGGING FACE: QWEN 3.8-27B GGUF OPTIMIZED FOR EFFICIENCY",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT MODEL BREAKS CYCLONE FORECASTING",
+                "headline": "GENERATIVE AI: 4D HUMANS FROM MONOCULAR VIDEO",
+                "teaserTitle": "OZBRAIN SHARES KNOWLEDGE ACROSS AGENTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Qwen three point eight twenty-seven billion parameter model, optimized for GGUF, addresses the computational bottleneck of running large language models on consumer hardware. This open-source development enables more efficient local inference for developers."
+                "narration_line": "\"4DAnyone\" research enables reconstructing four-dimensional human models from single videos, overcoming significant generative AI bottlenecks. This advancement dramatically lowers the cost of creating realistic digital avatars."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT MODEL BREAKS CYCLONE FORECASTING",
-                "teaserTitle": "HACKER NEWS: TTS MODEL ACHIEVES SUB-50 MS RESPONSE TIME",
+                "headline": "AGENTIC SYSTEMS: OZBRAIN SHARES KNOWLEDGE",
+                "teaserTitle": "DRUG DESIGN IP QUESTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, improving prediction accuracy and lead times. This advancement represents a significant shift in environmental modeling for disaster preparedness."
+                "narration_line": "OzBrain introduces a shared knowledge platform for AI agents, enhancing coordination and tackling fragmentation in multi-agent systems. This boosts collective intelligence, improving decision accuracy by ten to twenty percent."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: TTS MODEL ACHIEVES SUB-50 MS RESPONSE TIME",
-                "teaserTitle": "TECHCRUNCH: AI ACCOUNTING UNICORN RILLET RAISES $100M",
+                "headline": "AI ETHICS: DRUG DESIGN IP RAISES OWNERSHIP",
+                "teaserTitle": "CLAUDETTE CONTROLS CLAUDE OUTPUT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Nari-Labs developed a text-to-speech model responding in under fifty milliseconds, eliminating a latency bottleneck in real-time conversational AI. This optimizes synchronous human-AI interaction for smoother user experiences."
+                "narration_line": "AI's role in drug discovery raises complex intellectual property questions, challenging traditional patent laws and creating ownership ambiguity. Unresolved IP issues could increase research and development overhead by five to ten percent."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: AI ACCOUNTING UNICORN RILLET RAISES $100M",
-                "teaserTitle": "",
+                "headline": "LLM DEPLOYMENT: CLAUDETTE MANAGES CLAUDE STYLE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI accounting startup Rillet achieved unicorn status, raising one hundred million dollars and signaling rapid market validation for AI-driven financial solutions. This highlights a growing trend towards automating complex financial operations efficiently."
+                "narration_line": "The \"Claudette\" tool allows precise control over Claude's output style, addressing operational bottlenecks in LLM deployment. This enhances professional application integration, potentially saving ten to fifteen percent in content workflows."
             },
             {
                 "slide_index": 8,
