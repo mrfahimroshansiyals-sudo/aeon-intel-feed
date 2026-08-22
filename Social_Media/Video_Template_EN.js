@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "DEEPMIND UNVEILS GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "NVIDIA SHIFTS TO AGENT HARNESS FOCUS",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "ANTHROPIC: IPO FILING HIGHLIGHTS AI BACKLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, its new frontier intelligence model for ambitious enterprise applications. This model offers advanced performance in complex reasoning and optimized compute efficiency."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, their most intelligent model for coding and advanced agentic workflows. This release promises enhanced efficiency and superior reasoning across complex multi-step operations."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH AI: NVIDIA SHIFTS TO AGENT HARNESS FOCUS",
-                "teaserTitle": "NEW MCP ROADMAP ANNOUNCED",
+                "headline": "ANTHROPIC: IPO FILING HIGHLIGHTS AI BACKLASH",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 FACES ETHICS CRITICISM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia confirms that robust agent harnesses are now more crucial than raw model power for effective AI deployments. Orchestration layers for multi-agent systems represent the emerging operational bottleneck."
+                "narration_line": "Anthropic's upcoming IPO filing will reportedly cite 'AI backlash' as a major risk, reflecting increasing concerns over public perception and regulatory oversight. This emphasizes the urgent need for AI firms to transparently address ethical and societal impacts to investors."
             },
             {
                 "slide_index": 3,
-                "headline": "HACKER NEWS: NEW MCP ROADMAP ANNOUNCED",
-                "teaserTitle": "NARROWING CYBER DEFENSE WINDOW",
+                "headline": "ANTHROPIC: OPUS 4.6 FACES ETHICS CRITICISM",
+                "teaserTitle": "AGENTIC AI: NEW HARNESS FOR CLONE OFFICES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Model Context Protocol (MCP) Roadmap introduces updates for standardizing how AI models maintain conversational context. This aims to improve consistency and reduce semantic drift in long-running AI interactions."
+                "narration_line": "Anthropic's Opus four point six model faces scrutiny for generating inappropriate content, raising questions about its safety controls and ethical safeguards. This incident underscores ongoing challenges in aligning advanced AI behavior with human values."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: NARROWING CYBER DEFENSE WINDOW",
-                "teaserTitle": "AI DRUG DESIGN IP DILEMMA",
+                "headline": "AGENTIC AI: NEW HARNESS FOR CLONE OFFICES",
+                "teaserTitle": "ROBOTICS: SUPERHUMAN HUMANOID DEBATE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI\u2019s \u201cDaybreak\u201d reveals a rapidly narrowing cyber defense window due to advanced AI capabilities, demanding proactive security. Organizations using frontier models must reassess threat models and invest in AI-native security protocols."
+                "narration_line": "The new 'Munder Difflin' agent harness now enables distributed execution of AI agents, creating a 'clone office' for parallel business processes. This framework significantly boosts operational scalability and task automation by simplifying agent coordination."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECH REVIEW: AI DRUG DESIGN IP DILEMMA",
-                "teaserTitle": "AGENTIC AI FOR ROOT CAUSE",
+                "headline": "ROBOTICS: SUPERHUMAN HUMANOID DEBATE",
+                "teaserTitle": "DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "MIT Technology Review explores the intellectual property challenge as AI designs new drugs, raising questions about ownership of breakthroughs. Biotech R&D departments must clarify rights to mitigate litigation risks and re-evaluate patent strategies."
+                "narration_line": "IEEE Spectrum's 'Humanoid Robots Video Friday' explores the implications of developing 'superhuman' humanoid robots for industrial and service roles. The debate centers on capability thresholds, safety protocols, and societal acceptance of these autonomous physical agents."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: AGENTIC AI FOR ROOT CAUSE",
-                "teaserTitle": "RILLET HITS $100M VALUATION",
+                "headline": "DEEPMIND: AI BREAKTHROUGH IN CYCLONE FORECASTING",
+                "teaserTitle": "EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An IEEE Spectrum webinar highlighted agentic AI's potential in accelerating root cause analysis for system failures. This approach connects cross-domain data for proactive problem-solving, leading to improved operational efficiency."
+                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a major breakthrough in cyclone forecasting, offering improved accuracy and earlier warnings. This advancement processes vast datasets with novel deep learning to enhance disaster preparedness."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH AI: RILLET HITS $100M VALUATION",
+                "headline": "EDUCATION: AI BOOSTS HOMEWORK, DROPS EXAM SCORES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI accounting startup Rillet secured one hundred million dollars in funding, achieving unicorn status in just forty-eight hours. This underscores intense investor confidence in specialized enterprise AI solutions."
+                "narration_line": "A recent Hacker News study indicates AI tools enhance student homework scores but correlate with a drop in unassisted exam performance. This suggests a critical reliance on AI rather than genuine understanding, challenging current educational assessments."
             },
             {
                 "slide_index": 8,
