@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI GPT-5.6 SOL/LUNA ACCESS EXPANSION",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALABILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
-                "teaserTitle": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALABILITY",
+                "teaserTitle": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI is expanding access to its G P T 5 point 6 Sol in Chat G P T, making G P T 5 point 6 Luna available for free users. This move aims to accelerate user adoption and intensify enterprise A I market competition."
+                "narration_line": "OpenAI's new GPT five point six model offers frontier intelligence designed for massive scalability across diverse applications. This release pushes the boundaries of what advanced artificial intelligence can achieve in complex, real-world scenarios."
             },
             {
                 "slide_index": 2,
-                "headline": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
+                "headline": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
+                "teaserTitle": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "The open-weight G L M 5 point 3 model reportedly outperforms Anthropic and OpenAI models at one-fifth the cost. This challenges the cost-accuracy frontier for large language models, demonstrating significant efficiency gains."
+                "narration_line": "Nvidia customers are reportedly receiving warnings of impending artificial intelligence-related price hikes for crucial GPU infrastructure. This development directly impacts the economic viability and scaling strategies of many artificial intelligence-driven enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
-                "teaserTitle": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
+                "headline": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "teaserTitle": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The orcarouter Qwen 3 point 8 27 Billion Uncensored M L X model has received an update for enhanced open-source A I performance. This continuous optimization improves inference speed and resource utilization on specific hardware."
+                "narration_line": "OpenAI has highlighted a narrowing cyber defense window, underscoring critical vulnerabilities as advanced artificial intelligence systems grow. This necessitates urgent enhancements in artificial intelligence security protocols and threat detection capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
-                "teaserTitle": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
+                "headline": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
+                "teaserTitle": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Qwen 3 point 8 27 Billion model demonstrated its capability in complex reverse-engineering tasks, completing a job in just 30 minutes. This highlights its advanced problem-solving prowess for specialized technical applications."
+                "narration_line": "The legality of training artificial intelligence models on copyrighted materials remains a complex and debated issue. This ongoing uncertainty poses significant compliance risks for artificial intelligence developers and content platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
+                "headline": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
+                "teaserTitle": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Inherent A I, founded by DeepMind alumni, has outperformed Anthropic and OpenAI models in replicating research. This signals a new frontier in automated scientific discovery and research acceleration."
+                "narration_line": "Reports indicate that local large language models often underperform compared to their hosted counterparts. This gap highlights critical challenges in optimizing models for constrained edge environments."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
-                "teaserTitle": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
+                "headline": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
+                "teaserTitle": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI is advocating for California to strengthen its proposed A I safety bill, emphasizing robust regulatory frameworks. This reflects increasing industry recognition of escalating risks and the demand for clear guidelines."
+                "naration_line": "The OBLITERATUS Qwen three point eight twenty-seven billion model has received a new update from its community, reflecting continuous refinement and performance enhancements. This iteration aims to improve efficiency and overall capability."
             },
             {
                 "slide_index": 7,
-                "headline": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
+                "headline": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Frontier A I labs face scrutiny for lacking clear strategies to contain a potentially rogue advanced A I model. This transparency gap raises significant ethical and operational safety concerns."
+                "narration_line": "American companies are grappling with an artificial intelligence backlash, striving to maintain worker trust amidst increasing automation. This challenge requires transparent communication and ethical deployment strategies to succeed."
             },
             {
                 "slide_index": 8,

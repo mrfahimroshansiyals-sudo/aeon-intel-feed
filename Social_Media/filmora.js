@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
-                "teaserTitle": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
-                "visual_caption": "OpenAI is expanding access to its GPT-5.6 Sol in ChatGPT, making GPT-5.6 Luna available for free users. This move aims to accelerate user adoption and intensify enterprise AI market competition."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALABILITY",
+                "teaserTitle": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
+                "visual_caption": "OpenAI's new GPT-5.6 model offers frontier intelligence designed for massive scalability across diverse applications. This release pushes the boundaries of what advanced AI can achieve in complex, real-world scenarios."
             },
             {
                 "slide_index": 2,
-                "headline": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
-                "visual_caption": "The open-weight GLM-5.3 model reportedly outperforms Anthropic and OpenAI models at 1/5 the cost. This challenges the cost-accuracy frontier for large language models, demonstrating significant efficiency gains."
+                "headline": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
+                "teaserTitle": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "visual_caption": "Nvidia customers are reportedly receiving warnings of impending AI-related price hikes for crucial GPU infrastructure. This development directly impacts the economic viability and scaling strategies of many AI-driven enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
-                "teaserTitle": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
-                "visual_caption": "The orcarouter Qwen 3.8 27B Uncensored MLX model has received an update for enhanced open-source AI performance. This continuous optimization improves inference speed and resource utilization on specific hardware."
+                "headline": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "teaserTitle": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
+                "visual_caption": "OpenAI has highlighted a narrowing cyber defense window, underscoring critical vulnerabilities as advanced AI systems grow. This necessitates urgent enhancements in AI security protocols and threat detection capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
-                "teaserTitle": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
-                "visual_caption": "Qwen 3.8 27B model demonstrated its capability in complex reverse-engineering tasks, completing a job in just 30 minutes. This highlights its advanced problem-solving prowess for specialized technical applications."
+                "headline": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
+                "teaserTitle": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
+                "visual_caption": "The legality of training AI models on copyrighted materials remains a complex and debated issue. This ongoing uncertainty poses significant compliance risks for AI developers and content platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
-                "visual_caption": "Inherent AI, founded by DeepMind alumni, has outperformed Anthropic and OpenAI models in replicating research. This signals a new frontier in automated scientific discovery and research acceleration."
+                "headline": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
+                "teaserTitle": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
+                "visual_caption": "Reports indicate that local LLMs often underperform compared to their hosted counterparts. This gap highlights critical challenges in optimizing models for constrained edge environments."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
-                "teaserTitle": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
-                "visual_caption": "OpenAI is advocating for California to strengthen its proposed AI safety bill, emphasizing robust regulatory frameworks. This reflects increasing industry recognition of escalating risks and the demand for clear guidelines."
+                "headline": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
+                "teaserTitle": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
+                "visual_caption": "The OBLITERATUS Qwen 3.8 27B model has received a new update, reflecting continuous refinement and performance enhancements. This iteration aims to improve efficiency and overall capability."
             },
             {
                 "slide_index": 7,
-                "headline": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
+                "headline": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
                 "teaserTitle": "",
-                "visual_caption": "Frontier AI labs face scrutiny for lacking clear strategies to contain a potentially rogue advanced AI model. This transparency gap raises significant ethical and operational safety concerns."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "American companies are grappling with an AI backlash, striving to maintain worker trust amidst increasing automation. This challenge requires transparent communication and ethical deployment strategies to succeed."
             },
             {
                 "slide_index": 8,
