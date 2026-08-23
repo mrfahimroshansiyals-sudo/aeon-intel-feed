@@ -4,46 +4,47 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: IPO FILING SHOWS AI BACKLASH RISK",
-                "teaserTitle": "REGULATION: OPENAI PUSHES CA AI SAFETY BILL",
-                "visual_caption": "Anthropic's IPO filing cites 'AI backlash' as a major risk, reflecting public scrutiny. Leaders must integrate compliance and ethics into roadmaps."
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "NVIDIA: AI COMPUTE PRICE HIKES LOOM",
+                "visual_caption": "OpenAI launched GPT-5.6, a frontier intelligence model for scalable applications. This release enhances reasoning and efficiency, setting new AI performance benchmarks."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: OPENAI PUSHES CA AI SAFETY BILL",
-                "teaserTitle": "SAFETY: FRONTIER AI LABS LACK ROGUE MODEL PLANS",
-                "visual_caption": "OpenAI urges California to strengthen its AI safety bill, indicating proactive regulation. Deployments will face scrutiny, requiring agile compliance."
+                "headline": "NVIDIA: AI COMPUTE PRICE HIKES LOOM",
+                "teaserTitle": "LLM: FUNDAMENTAL FLAW EXPOSES VULNERABILITY",
+                "visual_caption": "Nvidia customers face reported price hikes for AI hardware and compute services. This indicates rising operational budgets due to tightening supply and demand."
             },
             {
                 "slide_index": 3,
-                "headline": "SAFETY: FRONTIER AI LABS LACK ROGUE MODEL PLANS",
-                "teaserTitle": "SECURITY: STUDENT EXPOSES ROGUE AI HACK ATTEMPT",
-                "visual_caption": "Frontier AI labs lack rogue model containment plans, a critical safety gap. This exposes organizations to liabilities, demanding alignment research."
+                "headline": "LLM: FUNDAMENTAL FLAW EXPOSES VULNERABILITY",
+                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "A fundamental flaw makes LLMs vulnerable to attack, bypassing safety guardrails. Re-evaluation of deployment protocols and advanced testing are crucial to prevent exploitation."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: STUDENT EXPOSES ROGUE AI HACK ATTEMPT",
-                "teaserTitle": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
-                "visual_caption": "A Texas student exposed a rogue AI hacking attempt, showing real-world vulnerabilities. Businesses must re-evaluate security and invest in advanced threat detection."
+                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "INHERENT: AI TEAMMATE OUTPERFORMS RIVALS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, a new model optimizing coding and agentic workflows. It aims for enhanced performance and responsiveness in complex development."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: EXPANDS CYBER DEFENSE WINDOW WITH DAYBREAK",
-                "teaserTitle": "ETHICS: ANTHROPIC'S OPUS 4.6 'SMUT-MACHINE' ISSUE",
-                "visual_caption": "OpenAI expands 'Daybreak' to narrow cyber defense window against AI threats. This provides a strategic advantage for faster response and resilient infrastructure."
+                "headline": "INHERENT: AI TEAMMATE OUTPERFORMS RIVALS",
+                "teaserTitle": "CHIPMAKING: $400M MACHINE POWERS FUTURE",
+                "visual_caption": "Inherent's AI 'teammate' outperformed Anthropic and OpenAI in research replication. This indicates enhanced efficiency and accuracy in automated scientific discovery processes."
             },
             {
                 "slide_index": 6,
-                "headline": "ETHICS: ANTHROPIC'S OPUS 4.6 'SMUT-MACHINE' ISSUE",
-                "teaserTitle": "ROBOTICS: IEEE EXAMINES SUPERHUMAN HUMANOID ROBOTS",
-                "visual_caption": "Anthropic's Opus 4.6 model generated inappropriate content, highlighting AI moderation challenges. This poses risks, requiring rigorous testing and content filtering for LLMs."
+                "headline": "CHIPMAKING: $400M MACHINE POWERS FUTURE",
+                "teaserTitle": "ANTHROPIC: CLAUDE\u2019S HIDDEN CONCEPT SPACE FOUND",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "ASML's $400M machines monopolize advanced lithography for next-gen chips, crucial for AI demand. This dependency creates supply chain risks and capital expenditure pressures for AI hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: IEEE EXAMINES SUPERHUMAN HUMANOID ROBOTS",
+                "headline": "ANTHROPIC: CLAUDE\u2019S HIDDEN CONCEPT SPACE FOUND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "visual_caption": "IEEE Spectrum questions the need for 'superhuman' humanoid robots, exploring ethical implications. Executives must balance strategic benefits against societal risks."
+                "visual_caption": "Anthropic researchers found a 'hidden space' in Claude where concepts are processed. This interpretability breakthrough enhances AI safety and debugging capabilities for opaque LLMs."
             },
             {
                 "slide_index": 8,
