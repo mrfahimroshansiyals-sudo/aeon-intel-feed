@@ -5,44 +5,44 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "AI PERFORMANCE: INHERENT AI OUTPERFORMS LEADING MODELS",
-                "teaserTitle": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
-                "visual_caption": "Inherent AI's new 'teammate' has reportedly outperformed leading models from Anthropic and OpenAI in research replication tasks. This breakthrough sets a new performance benchmark for collaborative AI systems and R&D efficiency."
+                "teaserTitle": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
+                "visual_caption": "Inherent AI, a new venture, has developed an 'AI teammate' that outperformed models from Anthropic and OpenAI in research replication. This sets a new benchmark for collaborative AI system capabilities and shifts performance expectations."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
-                "teaserTitle": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
-                "visual_caption": "Google DeepMind has unveiled Gemini 3.7 Flash, its latest AI workhorse model designed for advanced coding and agentic applications. This release enhances AI capabilities for complex task execution and broad development workflows."
+                "headline": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
+                "teaserTitle": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
+                "visual_caption": "Nvidia is warning customers of impending price hikes for its AI hardware due to surging demand and complex supply-chain pressures. This directly impacts CapEx for AI infrastructure and necessitates strategic re-evaluation."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPUTE ECONOMICS: NVIDIA AI CHIP PRICE HIKES",
-                "teaserTitle": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
-                "visual_caption": "Nvidia is alerting customers about impending price increases for its high-performance AI hardware due to growing demand and supply chain pressures. These hikes will directly impact CapEx for AI infrastructure and cloud migration strategies."
+                "headline": "MODEL RELEASE: GOOGLE UNVEILS GEMINI 3.7 FLASH",
+                "teaserTitle": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
+                "visual_caption": "Google DeepMind has launched Gemini 3.7 Flash, its latest model optimized for advanced coding and agentic applications. This enhances AI capabilities for complex task execution and promises improved efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "AI STRATEGY: PACING MODEL DEVELOPMENT FOR CYBER",
-                "teaserTitle": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
-                "visual_caption": "OpenAI emphasizes that AI model development must be paced with evolving cyber-critical capabilities to mitigate systemic risks. This strategic balance is crucial for chief architects to integrate security into early model designs."
+                "headline": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
+                "teaserTitle": "MODEL RELEASE: OPENAI GPT-5.6 SCALES AMBITION",
+                "visual_caption": "Frontier AI labs are not publicly disclosing comprehensive plans for containing potentially rogue or uncontrollable advanced AI models. This silence raises serious questions about industry preparedness for extreme safety scenarios."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCHITECTURAL SHIFT: FROM COPILOTS TO AGENT SWARMS",
-                "teaserTitle": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
-                "visual_caption": "AMD highlights an architectural shift from individual AI copilots to advanced agent swarm systems, redefining enterprise workflow automation. This paradigm change requires significant MLOps re-tooling and strategic infrastructure investments for scalable deployments."
+                "headline": "MODEL RELEASE: OPENAI GPT-5.6 SCALES AMBITION",
+                "teaserTitle": "REGULATORY: ANTHROPIC IPO FILING HIGHLIGHTS AI RISK",
+                "visual_caption": "OpenAI has launched GPT-5.6, described as 'frontier intelligence that scales with your ambition,' setting a new benchmark for model capabilities. This will directly influence enterprise AI strategies by offering enhanced performance."
             },
             {
                 "slide_index": 6,
-                "headline": "EDGE INFERENCE: FREETOKEN OPTIMIZES MOE SERVING",
-                "teaserTitle": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
-                "visual_caption": "FreeToken introduced an edge-native Mixture-of-Experts serving system that enables efficient deployment of large models on personal machines. This innovation lowers operational costs and improves privacy for localized AI applications."
+                "headline": "REGULATORY: ANTHROPIC IPO FILING HIGHLIGHTS AI RISK",
+                "teaserTitle": "ARCHITECTURAL SHIFT: AGENTIC ERA SOFTWARE ENGINEERING",
+                "visual_caption": "Anthropic's upcoming IPO filing will reportedly list 'AI backlash' as a significant risk factor, reflecting growing investor and public concern. This highlights the intersection of technical development and market perception."
             },
             {
                 "slide_index": 7,
-                "headline": "AI SAFETY: FRONTIER LABS LACK ROGUE MODEL PLAN",
-                "teaserTitle": "",
-                "visual_caption": "Frontier AI labs are reportedly silent on comprehensive plans to contain potentially rogue or uncontrollable advanced AI models. This lack of transparency signals critical unmitigated risks for societal stability and corporate deployments."
+                "headline": "ARCHITECTURAL SHIFT: AGENTIC ERA SOFTWARE ENGINEERING",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Software engineering is shifting towards the 'Agentic Era,' where autonomous AI agents handle complex, multi-step tasks. This paradigm emphasizes self-organizing systems, fundamentally redefining application development."
             },
             {
                 "slide_index": 8,
