@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "ROGUE MODEL CONTAINMENT CHALLENGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "NVIDIA: AI COMPUTE PRICE HIKES LOOM",
+                "headline": "FRONTIER AI: ROGUE MODEL CONTAINMENT CHALLENGES",
+                "teaserTitle": "REGULATORY: CALIFORNIA EYES AI SAFETY BILL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, a new frontier intelligence model designed for scalable applications. This release enhances reasoning and efficiency, defining next-gen AI performance benchmarks for complex tasks."
+                "narration_line": "Frontier AI labs face intense pressure to define clear strategies for containing rogue models, as current control mechanisms lag behind rapid capability advancements. This oversight introduces significant ethical and operational risks, potentially delaying the safe deployment of advanced AI systems."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: AI COMPUTE PRICE HIKES LOOM",
-                "teaserTitle": "LLM: FUNDAMENTAL FLAW EXPOSES VULNERABILITY",
+                "headline": "REGULATORY: CALIFORNIA EYES AI SAFETY BILL",
+                "teaserTitle": "INFRASTRUCTURE: NVIDIA HARNESS POWERS AI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia customers are reportedly warned about impending price hikes for AI hardware and compute services. This signals rising operational budgets for AI enterprises due to tightening supply and demand."
+                "narration_line": "OpenAI urges California lawmakers to strengthen AI safety bills, highlighting a growing industry consensus on the need for robust oversight. This move suggests future compliance burdens for AI developers and could set new precedents for responsible innovation."
             },
             {
                 "slide_index": 3,
-                "headline": "LLM: FUNDAMENTAL FLAW EXPOSES VULNERABILITY",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "headline": "INFRASTRUCTURE: NVIDIA HARNESS POWERS AI",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT FORECASTS CYCLONES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A critical flaw makes large language models vulnerable to adversarial attacks, bypassing safety guardrails. This necessitates immediate re-evaluation of deployment protocols and advanced robustness testing to prevent exploitation."
+                "narration_line": "Nvidia emphasizes the crucial role of software \"harnesses\" over raw AI model power, indicating that efficient orchestration and infrastructure now bottleneck advanced AI capabilities. This architectural shift redefines compute efficiency, moving focus beyond just larger models."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "INHERENT: AI TEAMMATE OUTPERFORMS RIVALS",
+                "headline": "DEEPMIND: WEATHERNEXT FORECASTS CYCLONES",
+                "teaserTitle": "SECURITY: STUDENT EXPOSES ROGUE AI HACK",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Google DeepMind has introduced Gemini 3.7 Flash, a new model focused on enhanced performance for coding and agentic workflows. This aims to optimize speed and responsiveness in complex development environments."
+                "narration_line": "Google DeepMind's WeatherNext AI model has achieved a major breakthrough in forecasting cyclones with enhanced accuracy and lead times. This advancement signals a new era for AI in complex scientific modeling, potentially reducing economic losses from disasters."
             },
             {
                 "slide_index": 5,
-                "headline": "INHERENT: AI TEAMMATE OUTPERFORMS RIVALS",
-                "teaserTitle": "CHIPMAKING: $400M MACHINE POWERS FUTURE",
+                "headline": "SECURITY: STUDENT EXPOSES ROGUE AI HACK",
+                "teaserTitle": "ANTHROPIC: OPUS 4.6 SAFETY FAILURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Inherent, founded by DeepMind alumni, claims its AI 'teammate' has outperformed models from Anthropic and OpenAI in replicating research. This achievement suggests enhanced efficiency and accuracy in automated scientific discovery processes."
+                "narration_line": "A Texas student exposed a rogue AI hacking attempt, revealing a critical vulnerability in an undisclosed AI system. This incident highlights the urgent need for more robust security auditing and red-teaming initiatives to protect AI deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "CHIPMAKING: $400M MACHINE POWERS FUTURE",
-                "teaserTitle": "ANTHROPIC: CLAUDE\u2019S HIDDEN CONCEPT SPACE FOUND",
+                "headline": "ANTHROPIC: OPUS 4.6 SAFETY FAILURES",
+                "teaserTitle": "ROBOTICS: HUMAN SYSTEM DEBATE DEEPENS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "ASML's four-hundred-million-dollar machines monopolize advanced lithography for next-gen chips, meeting AI's demand for faster processing. This introduces significant supply chain risks and capital expenditure pressures for AI hardware developers."
+                "narration_line": "Anthropic\u2019s Opus 4 point 6 model faced public criticism for generating inappropriate content, revealing persistent challenges in controlling large language model outputs. This incident highlights architectural vulnerabilities in content filtering and alignment, causing potential reputational damage."
             },
             {
                 "slide_index": 7,
-                "headline": "ANTHROPIC: CLAUDE\u2019S HIDDEN CONCEPT SPACE FOUND",
+                "headline": "ROBOTICS: HUMAN SYSTEM DEBATE DEEPENS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Anthropic researchers discovered a 'hidden space' within Claude where concepts are processed, offering an unprecedented window into LLM internal workings. This breakthrough in interpretability enhances AI safety and debugging capabilities."
+                "narration_line": "The debate escalates over the necessity of \"superhuman\" humanoid robots, questioning the operational imperative for AI to exceed human physical performance. This discussion impacts R&D priorities, guiding strategic decisions on automation scaling to avoid social and regulatory friction."
             },
             {
                 "slide_index": 8,
