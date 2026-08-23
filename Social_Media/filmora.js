@@ -4,53 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER AI: INHERENT AI OUTPERFORMS GIANTS IN RESEARCH",
-                "teaserTitle": "REGULATORY: OPENAI URGES CALIFORNIA TO STRENGTHEN AI SAFETY BILL",
-                "visual_caption": "Inherent AI, a startup from DeepMind alumni, has surpassed models from Anthropic & OpenAI in research replication. This indicates specialized AI can achieve superior accuracy, prompting a strategic re-evaluation of generalized frontier models."
+                "headline": "FRONTIER AI: GPT-5.6 FRONTIER INTELLIGENCE LAUNCH",
+                "teaserTitle": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI launched GPT-5.6, its frontier intelligence model, for enterprise scalability. This sets new benchmarks for general-purpose AI, accelerating development."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: OPENAI URGES CALIFORNIA TO STRENGTHEN AI SAFETY BILL",
-                "teaserTitle": "RISK: FRONTIER AI LABS SILENT ON ROGUE MODEL CONTAINMENT",
-                "visual_caption": "OpenAI advocates for stronger AI safety legislation in California, highlighting concerns over regulatory robustness. This suggests increased compliance burdens, requiring proactive integration of robust safety protocols for market access."
+                "headline": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
+                "teaserTitle": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, optimized for coding and agents. This model aims for high efficiency, pushing developer boundaries."
             },
             {
                 "slide_index": 3,
-                "headline": "RISK: FRONTIER AI LABS SILENT ON ROGUE MODEL CONTAINMENT",
-                "teaserTitle": "MODEL OPS: QWEN 3.8 27B COMPLETES REVERSE ENGINEERING IN 30 MIN",
-                "visual_caption": "Frontier AI labs are silent on containing rogue models, exposing critical architectural vulnerabilities in advanced autonomous systems. This transparency deficit introduces substantial, unquantified risk for enterprises deploying or integrating frontier AI."
+                "headline": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
+                "teaserTitle": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
+                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands Luna access for free users. These updates improve experience and performance."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPS: QWEN 3.8 27B COMPLETES REVERSE ENGINEERING IN 30 MIN",
-                "teaserTitle": "ARCHITECTURAL: NEW MCP ROADMAP REVEALS CORE MODEL PROTOCOL EVOLUTION",
-                "visual_caption": "Qwen 3.8 27B model completed a reverse-engineering task in just 30 minutes. This breakthrough signals faster code analysis & vulnerability identification, potentially cutting software development & security auditing costs."
+                "headline": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
+                "teaserTitle": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
+                "visual_caption": "Qwen 3.8 27B uncensored MLX/FP8 variants are trending on Hugging Face. This shows demand for hardware-optimized, specialized AI models."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCHITECTURAL: NEW MCP ROADMAP REVEALS CORE MODEL PROTOCOL EVOLUTION",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE AMID NARROWING WINDOW",
-                "visual_caption": "The Model Context Protocol has unveiled its new roadmap, detailing architectural evolutions for inter-model communication. This aims to unify frameworks for multi-agent deployments, reducing integration complexities & proprietary lock-in risks for enterprises."
+                "headline": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
+                "teaserTitle": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
+                "visual_caption": "A JIT compiling breakthrough achieves 5\u00b5s execution speeds. This dramatically reduces processing for dynamic AI workloads, improving efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE AMID NARROWING WINDOW",
-                "teaserTitle": "MODEL EFFICIENCY: WHY LOCAL LLMS UNDERPERFORM, NEW INSIGHTS",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "OpenAI expands its Daybreak cyber defense initiatives, acknowledging a narrowing window for effective security responses. This urgent measure demands immediate executive attention to AI security budgets & strategic risk assessments for proprietary models."
+                "headline": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
+                "teaserTitle": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
+                "visual_caption": "A Texas student exposed a rogue AI hacking attempt, revealing system vulnerabilities. This highlights the urgent need for robust ethical AI development."
             },
             {
                 "slide_index": 7,
-                "headline": "MODEL EFFICIENCY: WHY LOCAL LLMS UNDERPERFORM, NEW INSIGHTS",
+                "headline": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "New analysis reveals why local LLMs often underperform compared to cloud-hosted counterparts. Understanding these bottlenecks allows for targeted optimization, potentially reducing expensive cloud inference calls & improving data privacy for businesses."
+                "visual_caption": "Nvidia warns customers of AI chip price hikes, signaling increasing GPU infrastructure costs. This directly impacts financial planning for AI enterprises."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

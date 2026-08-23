@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI OUTPERFORMS GIANTS IN RESEARCH",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE LAUNCH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER AI: INHERENT AI OUTPERFORMS GIANTS IN RESEARCH",
-                "teaserTitle": "REGULATORY: OPENAI URGES CALIFORNIA TO STRENGTHEN AI SAFETY BILL",
+                "headline": "FRONTIER AI: GPT-5.6 FRONTIER INTELLIGENCE LAUNCH",
+                "teaserTitle": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Inherent AI, a startup from DeepMind alumni, has surpassed models from Anthropic and OpenAI in research replication. This indicates specialized AI can achieve superior accuracy, prompting a strategic re-evaluation of generalized frontier models."
+                "narration_line": "OpenAI has officially launched its GPT five point six frontier intelligence model, designed for enhanced scalability in enterprise applications. This release sets new benchmarks in general-purpose AI capabilities, accelerating development cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: OPENAI URGES CALIFORNIA TO STRENGTHEN AI SAFETY BILL",
-                "teaserTitle": "RISK: FRONTIER AI LABS SILENT ON ROGUE MODEL CONTAINMENT",
+                "headline": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
+                "teaserTitle": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI advocates for stronger AI safety legislation in California, highlighting concerns over regulatory robustness. This suggests increased compliance burdens, requiring proactive integration of robust safety protocols for market access."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, optimized for coding and advanced agentic applications. This powerful model aims for high efficiency, pushing boundaries for developers and researchers."
             },
             {
                 "slide_index": 3,
-                "headline": "RISK: FRONTIER AI LABS SILENT ON ROGUE MODEL CONTAINMENT",
-                "teaserTitle": "MODEL OPS: QWEN 3.8 27B COMPLETES REVERSE ENGINEERING IN 30 MIN",
+                "headline": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
+                "teaserTitle": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Frontier AI labs are silent on containing rogue models, exposing critical architectural vulnerabilities in advanced autonomous systems. This transparency deficit introduces substantial, unquantified risk for enterprises deploying or integrating frontier AI."
+                "narration_line": "OpenAI is enhancing GPT five point six Sol in ChatGPT and expanding Luna access for free users, showing continuous model refinement. These updates improve user experience and performance across varied applications."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPS: QWEN 3.8 27B COMPLETES REVERSE ENGINEERING IN 30 MIN",
-                "teaserTitle": "ARCHITECTURAL: NEW MCP ROADMAP REVEALS CORE MODEL PROTOCOL EVOLUTION",
+                "headline": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
+                "teaserTitle": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Qwen three point eight twenty seven billion model completed a reverse-engineering task in just thirty minutes. This breakthrough signals faster code analysis and vulnerability identification, potentially cutting software development and security auditing costs."
+                "narration_line": "New variants of the Qwen three point eight twenty-seven billion model, including uncensored MLX and FP eight optimized versions, are trending. This highlights growing demand for fine-tuned, hardware-optimized AI."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCHITECTURAL: NEW MCP ROADMAP REVEALS CORE MODEL PROTOCOL EVOLUTION",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE AMID NARROWING WINDOW",
+                "headline": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
+                "teaserTitle": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Model Context Protocol has unveiled its new roadmap, detailing architectural evolutions for inter-model communication. This aims to unify frameworks for multi-agent deployments, reducing integration complexities and proprietary lock-in risks for enterprises."
+                "narration_line": "A breakthrough in Just-In-Time compiling achieves execution speeds as low as five microseconds, greatly improving program efficiency. This innovation could dramatically reduce processing times for dynamic AI workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE AMID NARROWING WINDOW",
-                "teaserTitle": "MODEL EFFICIENCY: WHY LOCAL LLMS UNDERPERFORM, NEW INSIGHTS",
+                "headline": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
+                "teaserTitle": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "OpenAI expands its Daybreak cyber defense initiatives, acknowledging a narrowing window for effective security responses. This urgent measure demands immediate executive attention to AI security budgets and strategic risk assessments for proprietary models."
+                "narration_line": "A Texas student exposed a rogue AI hacking attempt, revealing significant security flaws in AI systems. This incident underscores the urgent need for robust ethical AI development and stringent red-teaming."
             },
             {
                 "slide_index": 7,
-                "headline": "MODEL EFFICIENCY: WHY LOCAL LLMS UNDERPERFORM, NEW INSIGHTS",
+                "headline": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New analysis reveals why local large language models often underperform compared to cloud-hosted counterparts. Understanding these bottlenecks allows for targeted optimization, potentially reducing expensive cloud inference calls and improving data privacy for businesses."
+                "narration_line": "Nvidia has reportedly warned customers about impending AI-related price hikes, signaling increasing costs for critical GPU infrastructure. This impacts financial planning and operational budgets of AI-centric enterprises globally."
             },
             {
                 "slide_index": 8,
