@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "QWEN 3.8 27B UNCENSORED MLX",
-        "titleBlue": "MODEL",
-        "footerSummary": "New Qwen 3.8 27B MLX model showcases advanced deployment. Enterprises must evaluate open-source strategies for efficiency and compliance risks now."
+        "titleWhite": "INTRODUCING GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "Gemini 3.7 Flash signals a new intelligence layer for coding and agentic tasks. Enterprises must re-evaluate model integration for enhanced efficiency."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "HUGGING FACE: QWEN 3.8 27B UNCENSORED MLX MODEL",
+            "heading": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "paragraphs": [
-                "The new Qwen 3.8 27B Uncensored MLX model, released hours ago on Hugging Face, showcases significant advancements in specialized model deployment for privacy-sensitive and robust applications. This variant offers enhanced control and reduced hallucination rates compared to its predecessors.",
-                "This development signals a critical need for enterprises to re-evaluate their model architecture for niche deployments, considering the trade-off between open-source flexibility and the potential for increased compliance and governance overhead. Leveraging such specialized models can optimize task-specific AI solutions, but requires careful integration planning."
+                "Google DeepMind has launched Gemini 3.7 Flash, their latest highly intelligent model optimized for coding and sophisticated agentic applications. This release underscores a strategic focus on models designed for efficient task orchestration and complex multi-step reasoning capabilities.",
+                "Enterprises should assess Gemini 3.7 Flash for integrating advanced AI into development workflows and automating intricate business processes, potentially reducing operational overhead. Evaluating its performance-to-cost ratio is crucial for leveraging this frontier model in competitive AI deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: OBLITERATUS QWEN 3.8 27B OPTIMIZATION",
+            "nextUpTease": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
             "tags": [
-                "Source: https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-                "Published: 2026-08-23T04:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "HUGGING FACE: OBLITERATUS QWEN 3.8 27B OPTIMIZATION",
-            "paragraphs": [
-                "OBLITERATUS has launched a highly optimized Qwen 3.8 27B model, referred to as \"OBLITERATED,\" focusing on aggressive performance tuning and resource efficiency. This fine-tuned version aims to set new benchmarks for inference speed and reduced memory footprint.",
-                "Organizations must assess the potential of such heavily optimized models to significantly lower operational costs and improve throughput for high-volume inference tasks. Integrating these variants can provide a competitive advantage in compute-constrained environments, offering a direct path to higher ROI on AI investments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
-            "tags": [
-                "Source: https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
                 "Published: 2026-08-23T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
+            "id": 2,
+            "heading": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
             "paragraphs": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting accuracy and early warning capabilities, demonstrating improved predictive power for severe weather events. This advancement offers more precise, localized, and timely risk assessments.",
-                "This innovation directly impacts disaster preparedness and supply chain resilience, prompting industries reliant on weather intelligence to integrate these advanced forecasting tools. Leveraging WeatherNext can reduce economic losses and enhance safety protocols, offering a substantial return on investment in predictive analytics infrastructure."
+                "Uber is reportedly facing a fine of almost $1B due to automated driver suspension systems, highlighting significant regulatory and ethical concerns surrounding AI-driven operational decisions. This substantial penalty emphasizes the critical need for human oversight and robust audit trails in autonomous systems.",
+                "This development compels companies deploying AI for critical human resource management or operational control to immediately review their algorithmic fairness, transparency, and accountability frameworks. The financial implications underscore the escalating risk exposure from poorly governed AI systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPETITIVE AI: ANTHROPIC MODELS STRUGGLE",
+            "nextUpTease": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weather-next-cyclone-forecasting-breakthrough",
-                "Published: 2026-08-22T14:30:00Z",
+                "Source: https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+                "Published: 2026-08-23T14:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
+            "paragraphs": [
+                "A mysterious \"stealth model\" named Ox Alpha has emerged, with its undisclosed developers creating buzz within the frontier AI community regarding its potential capabilities and market impact. The secrecy surrounding its origins suggests a disruptive new player or a significant technological leap is on the horizon.",
+                "This unannounced model signals a potential shift in competitive dynamics, urging tech leaders to closely monitor its unveiling for architectural innovations or new performance benchmarks. Early identification of such stealth projects is vital for anticipating market dislocations and strategic positioning."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
+            "tags": [
+                "Source: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+                "Published: 2026-08-23T14:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPETITIVE AI: ANTHROPIC MODELS STRUGGLE",
+            "heading": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
             "paragraphs": [
-                "Anthropic's flagship AI models are reportedly struggling to attract widespread users as more affordable and performant open-source alternatives gain market traction. This indicates a growing competitive pressure from models offering similar capabilities at a lower price point.",
-                "This market shift compels tech executives to critically re-evaluate their investment in premium proprietary models versus the accelerating capabilities of cost-efficient open-source solutions. Strategic re-alignment towards optimized budget allocation and diversified AI toolchains is now essential to maintain competitive advantage."
+                "NVIDIA has reportedly warned customers of impending AI-related price hikes, indicating growing supply chain pressures and increased demand for specialized GPU hardware. These anticipated cost increases will directly impact the capital expenditure and operational budgets of AI infrastructure providers.",
+                "This development forces businesses to re-evaluate their compute procurement strategies, explore alternative hardware solutions, and optimize model efficiency to mitigate rising inference and training costs. Strategic planning for diversified compute resources and cloud partnerships becomes critical for cost control."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL & REGULATORY: COPYRIGHTED BOOKS LEGALITY",
+            "nextUpTease": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41334057",
-                "Published: 2026-08-23T11:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes/",
+                "Published: 2026-08-22T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LEGAL & REGULATORY: COPYRIGHTED BOOKS LEGALITY",
+            "heading": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
             "paragraphs": [
-                "The legality of training AI models on copyrighted books and media remains complex and unresolved, with ongoing debates raising significant intellectual property concerns for developers and content creators alike. This legal ambiguity poses substantial risk for AI development pipelines.",
-                "Enterprises must navigate this evolving legal landscape with extreme caution, implementing robust copyright compliance frameworks and potentially re-evaluating their data acquisition strategies to mitigate future litigation risks and substantial financial penalties. Proactive legal counsel and risk assessment are now paramount for responsible AI development."
+                "Anthropic's potential IPO filing is expected to list growing \"AI backlash\" as a significant risk factor, reflecting increasing public and regulatory scrutiny over job displacement and ethical concerns. This acknowledges the tangible impact of societal sentiment on market valuation and investment prospects.",
+                "This revelation demands that AI companies integrate robust public relations and ethical governance strategies into their core business models to preemptively address widespread public apprehension. Mitigating reputational risk and building stakeholder trust are now critical components of long-term financial viability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MODEL EFFICIENCY: GLM-5.3 POWERS TABLET PROJECT",
+            "nextUpTease": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-                "Published: 2026-08-23T07:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/21/anthropic-ipo-filing-will-show-ai-backlash-as-a-risk-factor-sources-say.html",
+                "Published: 2026-08-21T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MODEL EFFICIENCY: GLM-5.3 POWERS TABLET PROJECT",
+            "heading": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
             "paragraphs": [
-                "A recent project demonstrated GLM-5.3's efficiency by using it to fully \"own\" a tablet in just one day at a minimal cost of $266, leveraging multiple AI models for rapid, complex task execution. This highlights the practical application of highly efficient open-weight models in niche automation.",
-                "This successful, rapid deployment proves the immense potential for specialized AI models to streamline complex operational tasks and drastically reduce project timelines and labor costs. Companies should explore fine-tuned, cost-effective AI solutions for specific automation needs to unlock significant productivity gains."
+                "Researchers have identified a fundamental flaw rendering large language models (LLMs) strikingly vulnerable to specific attack vectors, enabling them to be tricked into performing unintended or malicious actions. This vulnerability bypasses traditional safety guardrails and poses a significant security challenge.",
+                "Organizations deploying LLMs must immediately implement advanced red-teaming protocols and develop new defensive architectures to counter these sophisticated adversarial attacks. Addressing this core vulnerability is paramount for maintaining model integrity and preventing high-impact security breaches."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI GOVERNANCE: US AI BACKLASH GROWS",
+            "nextUpTease": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=41334000",
-                "Published: 2026-08-23T07:00:00Z",
+                "Source: https://www.technologyreview.com/2026/08/22/10000000/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
+                "Published: 2026-08-22T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI GOVERNANCE: US AI BACKLASH GROWS",
+            "heading": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
             "paragraphs": [
-                "Growing sentiment in the U.S. indicates an emerging backlash against AI adoption, primarily driven by concerns over job displacement, ethical usage, and the erosion of worker trust within companies. This public perception shift presents significant challenges for AI integration.",
-                "Businesses must develop comprehensive AI governance strategies that prioritize transparency, reskilling initiatives, and robust ethical guidelines to rebuild and maintain employee and public trust. Failure to address these concerns can lead to workforce resistance, regulatory scrutiny, and negative brand perception, hindering long-term AI success."
+                "A new analysis pits Etched Sohu's Transformer ASIC against NVIDIA's GPUs, scrutinizing the architectural efficiency and performance implications for large-scale AI training and inference. This comparison highlights a burgeoning competition in specialized hardware design for future AI compute.",
+                "Tech executives must closely evaluate the cost-performance benefits of emerging ASIC architectures against traditional GPU dominance to inform strategic infrastructure investments. Diversifying hardware procurement and understanding specialized silicon advancements are key to optimizing compute efficiency and cost."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/23/americas-ai-backlash-how-effort-to-keep-worker-trust-is-going-inside-companies.html",
-                "Published: 2026-08-23T07:00:00Z",
+                "Source: https://spheron.network/blog/etched-sohu-vs-nvidia-transformer-asic-vs-gpu-2026",
+                "Published: 2026-08-23T13:00:00Z",
                 "Status: Audited & True"
             ]
         }

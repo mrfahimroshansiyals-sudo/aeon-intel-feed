@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "QWEN 3.8 27B MLX MODEL BREAKTHROUGH",
+        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HUGGING FACE: QWEN 3.8 27B UNCENSORED MLX MODEL",
-                "teaserTitle": "HUGGING FACE: OBLITERATUS QWEN 3.8 27B OPTIMIZATION",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Qwen three point eight twenty-seven billion Uncensored MLX model offers advanced specialized deployment. Enterprises must evaluate open-source model strategies for critical efficiency and compliance."
+                "narration_line": "Google DeepMind just unveiled Gemini 3.7 Flash, their newest, highly intelligent model for coding and agent applications. Enterprises must now evaluate its integration for advanced task automation and strategic efficiency gains."
             },
             {
                 "slide_index": 2,
-                "headline": "HUGGING FACE: OBLITERATUS QWEN 3.8 27B OPTIMIZATION",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
+                "headline": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
+                "teaserTitle": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OBLITERATUS released an optimized Qwen three point eight twenty-seven billion model with aggressive performance tuning. Organizations should assess its potential to lower operational costs and improve inference throughput significantly."
+                "narration_line": "Uber faces a nearly one billion dollar fine over automated driver suspensions, revealing major regulatory risks in AI-driven decisions. Companies must now strengthen algorithmic fairness and accountability frameworks to mitigate escalating financial exposure."
             },
             {
                 "slide_index": 3,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT BREAKTHROUGH",
-                "teaserTitle": "COMPETITIVE AI: ANTHROPIC MODELS STRUGGLE",
+                "headline": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
+                "teaserTitle": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting accuracy and early warning. This impacts disaster preparedness and prompts industries to integrate advanced predictive tools."
+                "narration_line": "A mysterious \"stealth model\" called Ox Alpha is generating industry buzz, with its developers remaining undisclosed. Enterprises should monitor this unannounced AI for potential market shifts and architectural innovations."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPETITIVE AI: ANTHROPIC MODELS STRUGGLE",
-                "teaserTitle": "LEGAL & REGULATORY: COPYRIGHTED BOOKS LEGALITY",
+                "headline": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
+                "teaserTitle": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's AI models are reportedly struggling to attract users amid cheaper open-source alternatives. This market shift urges tech executives to re-evaluate proprietary versus cost-efficient AI investments."
+                "narration_line": "NVIDIA has reportedly warned customers about upcoming AI price hikes, reflecting supply chain pressures and surging GPU demand. Businesses must now re-evaluate compute strategies and optimize model efficiency to manage rising costs."
             },
             {
                 "slide_index": 5,
-                "headline": "LEGAL & REGULATORY: COPYRIGHTED BOOKS LEGALITY",
-                "teaserTitle": "MODEL EFFICIENCY: GLM-5.3 POWERS TABLET PROJECT",
+                "headline": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
+                "teaserTitle": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The legality of training AI on copyrighted books remains complex and unresolved. Enterprises must navigate this evolving legal landscape with robust compliance frameworks and data acquisition strategies."
+                "narration_line": "Anthropic's upcoming IPO filing will reportedly list \"AI backlash\" as a major risk factor, highlighting public scrutiny over job displacement. AI companies must now integrate ethical governance and robust public relations into core business models to mitigate reputational risk."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL EFFICIENCY: GLM-5.3 POWERS TABLET PROJECT",
-                "teaserTitle": "AI GOVERNANCE: US AI BACKLASH GROWS",
+                "headline": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
+                "teaserTitle": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A project demonstrated GLM-five point three's efficiency by owning a tablet in one day for two hundred sixty-six dollars. This proves the potential of specialized AI models to streamline complex tasks and reduce costs."
+                "narration_line": "A fundamental flaw has been discovered making large language models vulnerable to attacks, allowing them to be tricked into malicious actions. Organizations using LLMs must implement advanced red-teaming and new defensive architectures to prevent security breaches."
             },
             {
                 "slide_index": 7,
-                "headline": "AI GOVERNANCE: US AI BACKLASH GROWS",
+                "headline": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Growing U.S. sentiment indicates an AI backlash driven by job displacement and worker trust concerns. Businesses must prioritize transparency and ethical guidelines to maintain employee and public confidence."
+                "narration_line": "A new analysis compares Etched Sohu's Transformer ASIC against NVIDIA's GPUs, assessing efficiency for large-scale AI training. Executives must evaluate emerging ASIC architectures versus traditional GPUs for future infrastructure investments."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
