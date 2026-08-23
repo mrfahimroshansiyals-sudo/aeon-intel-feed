@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "AI SECURITY: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_caption": "OpenAI has launched GPT-5.6, a new frontier intelligence model designed to scale ambitious enterprise applications. This release pushes the boundaries of adaptable AI performance, critical for technical architecture."
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
+                "teaserTitle": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
+                "visual_caption": "OpenAI is expanding access to its GPT-5.6 Sol in ChatGPT, making GPT-5.6 Luna available for free users. This move aims to accelerate user adoption and intensify enterprise AI market competition."
             },
             {
                 "slide_index": 2,
-                "headline": "AI SECURITY: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "AI GOVERNANCE: COPYRIGHT & TRAINING LEGALITY",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense, enhancing threat detection and response mechanisms for advanced AI systems. This aims to narrow the cyber defense window against sophisticated attacks targeting LLMs."
+                "headline": "LLM BENCHMARKS: GLM-5.3 BEATS FRONTIER MODELS",
+                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
+                "visual_caption": "The open-weight GLM-5.3 model reportedly outperforms Anthropic and OpenAI models at 1/5 the cost. This challenges the cost-accuracy frontier for large language models, demonstrating significant efficiency gains."
             },
             {
                 "slide_index": 3,
-                "headline": "AI GOVERNANCE: COPYRIGHT & TRAINING LEGALITY",
-                "teaserTitle": "ENTERPRISE ADOPTION: US AI BACKLASH & TRUST",
-                "visual_caption": "The legal landscape for training AI models on copyrighted content is growing increasingly complex, sparking debates over intellectual property rights. This poses significant legal risks and potential financial liabilities for AI developers and deploying organizations."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX UPDATE",
+                "teaserTitle": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
+                "visual_caption": "The orcarouter Qwen 3.8 27B Uncensored MLX model has received an update for enhanced open-source AI performance. This continuous optimization improves inference speed and resource utilization on specific hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "ENTERPRISE ADOPTION: US AI BACKLASH & TRUST",
-                "teaserTitle": "LLM SECURITY: CRITICAL VULNERABILITY FOUND",
-                "visual_caption": "A growing AI backlash in the US forces companies to reassess integration strategies to maintain worker trust and prevent internal resistance. This internal friction can impede enterprise-wide AI adoption, impacting projected efficiency gains."
+                "headline": "MODEL APPLICATION: QWEN 3.8 27B REVERSE ENGINEERING",
+                "teaserTitle": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
+                "visual_caption": "Qwen 3.8 27B model demonstrated its capability in complex reverse-engineering tasks, completing a job in just 30 minutes. This highlights its advanced problem-solving prowess for specialized technical applications."
             },
             {
                 "slide_index": 5,
-                "headline": "LLM SECURITY: CRITICAL VULNERABILITY FOUND",
-                "teaserTitle": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX RELEASE",
-                "visual_caption": "Researchers have uncovered a fundamental flaw making LLMs vulnerable to adversarial attacks, allowing them to be tricked into generating harmful content. This poses an immediate threat to the integrity and safety of deployed LLM applications."
+                "headline": "AI RESEARCH: INHERENT AI OUTPERFORMS GIANTS",
+                "teaserTitle": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
+                "visual_caption": "Inherent AI, founded by DeepMind alumni, has outperformed Anthropic and OpenAI models in replicating research. This signals a new frontier in automated scientific discovery and research acceleration."
             },
             {
                 "slide_index": 6,
-                "headline": "MODEL OPTIMIZATION: QWEN 3.8 27B MLX RELEASE",
-                "teaserTitle": "FRONTIER MODELS: GEMINI 3.7 FLASH INTRODUCED",
-                "visual_caption": "The orcarouter Qwen 3.8 27B Uncensored MLX model has been updated, offering enhanced performance and deployment flexibility. This iteration improves inference speed and resource utilization on specific hardware for specialized edge deployments."
+                "headline": "REGULATORY: OPENAI URGES CA AI SAFETY BILL",
+                "teaserTitle": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
+                "visual_caption": "OpenAI is advocating for California to strengthen its proposed AI safety bill, emphasizing robust regulatory frameworks. This reflects increasing industry recognition of escalating risks and the demand for clear guidelines."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER MODELS: GEMINI 3.7 FLASH INTRODUCED",
+                "headline": "AI SAFETY: ROGUE MODEL CONTAINMENT CONCERNS",
                 "teaserTitle": "",
-                "visual_caption": "Google DeepMind has introduced Gemini 3.7 Flash, a new model designed for speed and efficiency in specific AI use cases. This release targets applications requiring rapid inference and optimized resource consumption, extending advanced AI capabilities."
+                "visual_caption": "Frontier AI labs face scrutiny for lacking clear strategies to contain a potentially rogue advanced AI model. This transparency gap raises significant ethical and operational safety concerns."
             },
             {
                 "slide_index": 8,
