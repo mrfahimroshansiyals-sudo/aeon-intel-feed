@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
+        "hookTitle": "DATACENTER TRADE FACES PRESSURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE RELEASE",
-                "teaserTitle": "SECURITY: DAYBREAK CYBER DEFENSE NARROWS",
+                "headline": "INFRASTRUCTURE: DATACENTER TRADE FACES PRESSURE",
+                "teaserTitle": "RESEARCH: WEATHERNEXT AI MODEL BREAKTHROUGH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT five point six, its latest frontier model with enhanced reasoning. This new performance ceiling impacts future AI applications requiring advanced cognitive functions."
+                "narration_line": "The data center industry now faces critical issues beyond just demand, including power limitations and supply chain bottlenecks affecting new expansions. This directly impacts compute infrastructure strategies for large-scale AI model training and inference workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: DAYBREAK CYBER DEFENSE NARROWS",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
+                "headline": "RESEARCH: WEATHERNEXT AI MODEL BREAKTHROUGH",
+                "teaserTitle": "COMPETITION: INHERENT AI OUTPERFORMS GIANTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI's \"Daybreak\" report highlights a narrowing cyber defense window due to advanced AI attack vectors. This compels leaders to invest in proactive AI-driven cybersecurity."
+                "narration_line": "DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, delivering unprecedented accuracy and extended lead times. This advancement utilizes sophisticated neural networks to process vast meteorological datasets, improving predictions for severe weather."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
-                "teaserTitle": "MARKET: STEALTH MODEL OX ALPHA REVEALED",
+                "headline": "COMPETITION: INHERENT AI OUTPERFORMS GIANTS",
+                "teaserTitle": "MARKET: ANTHROPIC MODEL ADOPTION CHALLENGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, an optimized model for coding and agentic capabilities. It balances performance with efficiency for diverse development."
+                "narration_line": "Inherent, a startup founded by DeepMind alumni, claims its new AI system has surpassed leading models from Anthropic and OpenAI in key research replication benchmarks. This highlights intense competitive pressures in AI performance, especially for tasks requiring high-fidelity scientific analysis."
             },
             {
                 "slide_index": 4,
-                "headline": "MARKET: STEALTH MODEL OX ALPHA REVEALED",
-                "teaserTitle": "OPTIMIZATION: QWEN 3.8-27B MODEL UPDATES",
+                "headline": "MARKET: ANTHROPIC MODEL ADOPTION CHALLENGE",
+                "teaserTitle": "HARDWARE: AI CHIP ARCHITECTURES DIVERGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "TechCrunch reports a new \"stealth model\" called Ox Alpha, sparking speculation about its capabilities. This signals intensifying competition in frontier AI."
+                "narration_line": "Reports indicate Anthropic's flagship AI models are struggling with user adoption, as developers increasingly choose more affordable and accessible alternative tools. This trend suggests a growing market preference for cost-efficiency over marginal performance gains at the AI frontier."
             },
             {
                 "slide_index": 5,
-                "headline": "OPTIMIZATION: QWEN 3.8-27B MODEL UPDATES",
-                "teaserTitle": "HARDWARE: TRANSFORMER ASIC VS. GPU DEBATE",
+                "headline": "HARDWARE: AI CHIP ARCHITECTURES DIVERGE",
+                "teaserTitle": "OPTIMIZATION: QWEN 3.8-27B MLX RELEASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Hugging Face users are seeing optimized versions of Qwen three point eight twenty seven B, including uncensored variants. These enhance model performance and accessibility for specific deployments."
+                "narration_line": "Discussions on Hacker News highlight diverging trends in AI chip architectures, with specialized ASICs and adaptable GPUs competing for dominance in high-performance computing. The debate centers on optimizing for specific model types versus maintaining general-purpose flexibility and ecosystem maturity."
             },
             {
                 "slide_index": 6,
-                "headline": "HARDWARE: TRANSFORMER ASIC VS. GPU DEBATE",
-                "teaserTitle": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "headline": "OPTIMIZATION: QWEN 3.8-27B MLX RELEASE",
+                "teaserTitle": "REGULATION: AI COPYRIGHT TRAINING DEBATE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A Hacker News debate highlights the architectural choice between specialized Transformer ASICs and general-purpose GPUs. This impacts optimal performance for future AI workloads."
+                "narration_line": "The Hugging Face community has released an MLX-accelerated, uncensored version of the Qwen three point eight to twenty-seven B model, enhancing performance and reducing inference latency on Apple Silicon. This optimization facilitates more efficient local deployments of large language models for specialized applications."
             },
             {
                 "slide_index": 7,
-                "headline": "PRODUCT: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "headline": "REGULATION: AI COPYRIGHT TRAINING DEBATE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "OpenAI is improving access to GPT five point six Sol and extending Luna to free users. This democratizes powerful AI tools for a broader user base."
+                "narration_line": "The legal framework for training AI models on copyrighted materials remains complex and contentious, with ongoing lawsuits challenging current industry practices. This legal uncertainty poses significant risks to the future development of foundation models and the availability of essential training data."
             },
             {
                 "slide_index": 8,
