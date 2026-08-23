@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INTRODUCING GEMINI 3.7 FLASH",
+        "hookTitle": "INHERENT AI OUTPERFORMS FRONTIER MODELS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
+                "headline": "BENCHMARKS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
+                "teaserTitle": "AGENTIC AI: QWEN 3.8 REVERSE ENGINEERING WIN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind just unveiled Gemini 3.7 Flash, their newest, highly intelligent model for coding and agent applications. Enterprises must now evaluate its integration for advanced task automation and strategic efficiency gains."
+                "narration_line": "Inherent AI, founded by DeepMind alumni, has now outperformed frontier models from Anthropic and OpenAI. This breakthrough sets a new benchmark in complex research replication tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
-                "teaserTitle": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
+                "headline": "AGENTIC AI: QWEN 3.8 REVERSE ENGINEERING WIN",
+                "teaserTitle": "REGULATION: AI TRAINING COPYRIGHT LEGALITY SHIFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Uber faces a nearly one billion dollar fine over automated driver suspensions, revealing major regulatory risks in AI-driven decisions. Companies must now strengthen algorithmic fairness and accountability frameworks to mitigate escalating financial exposure."
+                "narration_line": "The Qwen 3.8 twenty-seven billion parameter model recently completed a reverse-engineering task in just thirty minutes. This highlights its advanced code analysis for specialized technical workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
-                "teaserTitle": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
+                "headline": "REGULATION: AI TRAINING COPYRIGHT LEGALITY SHIFT",
+                "teaserTitle": "COMPLIANCE: CORPORATE AI TRUST INITIATIVES GAIN TRACTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A mysterious \"stealth model\" called Ox Alpha is generating industry buzz, with its developers remaining undisclosed. Enterprises should monitor this unannounced AI for potential market shifts and architectural innovations."
+                "narration_line": "Legal complexities are escalating regarding the use of copyrighted materials for training artificial intelligence models. This poses significant compliance risks for developers."
             },
             {
                 "slide_index": 4,
-                "headline": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
-                "teaserTitle": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
+                "headline": "COMPLIANCE: CORPORATE AI TRUST INITIATIVES GAIN TRACTION",
+                "teaserTitle": "INFRASTRUCTURE: EVOLVING AI ENGINEERING PARADIGMS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NVIDIA has reportedly warned customers about upcoming AI price hikes, reflecting supply chain pressures and surging GPU demand. Businesses must now re-evaluate compute strategies and optimize model efficiency to manage rising costs."
+                "narration_line": "Corporate initiatives are gaining traction to address the growing artificial intelligence backlash and foster worker trust. Mitigating job displacement fears is vital for organizational stability."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
-                "teaserTitle": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
+                "headline": "INFRASTRUCTURE: EVOLVING AI ENGINEERING PARADIGMS",
+                "teaserTitle": "NEURO-AI: DECODING SILENT THOUGHT VIA EEG INTERFACES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic's upcoming IPO filing will reportedly list \"AI backlash\" as a major risk factor, highlighting public scrutiny over job displacement. AI companies must now integrate ethical governance and robust public relations into core business models to mitigate reputational risk."
+                "narration_line": "Discussions on Hacker News highlight evolving challenges in artificial intelligence infrastructure engineering. There is a shift toward dynamic, scalable, and energy-efficient compute architectures."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
-                "teaserTitle": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
+                "headline": "NEURO-AI: DECODING SILENT THOUGHT VIA EEG INTERFACES",
+                "teaserTitle": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY TOOLS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A fundamental flaw has been discovered making large language models vulnerable to attacks, allowing them to be tricked into malicious actions. Organizations using LLMs must implement advanced red-teaming and new defensive architectures to prevent security breaches."
+                "narration_line": "New research shows progress in decoding silent reading using non-invasive EEG interfaces. This pushes the boundaries of brain-computer interface technology."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY TOOLS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A new analysis compares Etched Sohu's Transformer ASIC against NVIDIA's GPUs, assessing efficiency for large-scale AI training. Executives must evaluate emerging ASIC architectures versus traditional GPUs for future infrastructure investments."
+                "narration_line": "A new tool, `agent dot md`, is designed to enhance code quality through advanced large language model assisted analysis. This improves software development lifecycle efficiency."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

@@ -4,50 +4,56 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, their new model for coding & agentic tasks. Enterprises must assess its integration for advanced automation & efficiency."
+                "headline": "BENCHMARKS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
+                "teaserTitle": "AGENTIC AI: QWEN 3.8 REVERSE ENGINEERING WIN",
+                "visual_caption": "Inherent AI, founded by DeepMind alumni, has now outperformed frontier models from Anthropic and OpenAI. This breakthrough sets a new benchmark in complex research replication tasks."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: UBER FACES NEARLY $1B FINE",
-                "teaserTitle": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
-                "visual_caption": "Uber faces nearly $1B fine over automated driver suspensions, highlighting AI regulatory risks. Companies must strengthen algorithmic fairness & accountability to mitigate exposure."
+                "headline": "AGENTIC AI: QWEN 3.8 REVERSE ENGINEERING WIN",
+                "teaserTitle": "REGULATION: AI TRAINING COPYRIGHT LEGALITY SHIFT",
+                "visual_caption": "The Qwen 3.8 27B model recently completed a reverse-engineering task in just 30 minutes. This highlights its advanced code analysis for specialized technical workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH: NEW STEALTH MODEL OX ALPHA",
-                "teaserTitle": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
-                "visual_caption": "New \"stealth model\" Ox Alpha creates buzz; developers remain undisclosed. Enterprises must monitor this AI for potential market shifts & architectural innovations."
+                "headline": "REGULATION: AI TRAINING COPYRIGHT LEGALITY SHIFT",
+                "teaserTitle": "COMPLIANCE: CORPORATE AI TRUST INITIATIVES GAIN TRACTION",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Legal complexities are escalating regarding the use of copyrighted materials for training AI models. This poses significant compliance risks for developers."
             },
             {
                 "slide_index": 4,
-                "headline": "CNBC: NVIDIA WARNS OF AI PRICE HIKES",
-                "teaserTitle": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
-                "visual_caption": "NVIDIA warns customers of AI price hikes due to supply chain & GPU demand. Businesses must re-evaluate compute strategies & optimize model efficiency to manage costs."
+                "headline": "COMPLIANCE: CORPORATE AI TRUST INITIATIVES GAIN TRACTION",
+                "teaserTitle": "INFRASTRUCTURE: EVOLVING AI ENGINEERING PARADIGMS",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Corporate initiatives are gaining traction to address the growing AI backlash and foster worker trust. Mitigating job displacement fears is vital for organizational stability."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC: ANTHROPIC IPO FILING RISK FACTOR",
-                "teaserTitle": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
-                "visual_caption": "Anthropic IPO filing to list \"AI backlash\" as risk factor, citing job displacement concerns. AI firms must integrate ethical governance & public relations to mitigate reputational risk."
+                "headline": "INFRASTRUCTURE: EVOLVING AI ENGINEERING PARADIGMS",
+                "teaserTitle": "NEURO-AI: DECODING SILENT THOUGHT VIA EEG INTERFACES",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Discussions on Hacker News highlight evolving challenges in AI infrastructure engineering. There is a shift toward dynamic, scalable, and energy-efficient compute architectures."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECH REVIEW: LLMS VULNERABLE TO ATTACK",
-                "teaserTitle": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
-                "visual_caption": "A fundamental flaw makes LLMs vulnerable to attacks for malicious actions. Organizations must implement advanced red-teaming & new defensive architectures to prevent breaches."
+                "headline": "NEURO-AI: DECODING SILENT THOUGHT VIA EEG INTERFACES",
+                "teaserTitle": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY TOOLS",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "New research shows progress in decoding silent reading using non-invasive EEG interfaces. This pushes the boundaries of brain-computer interface technology."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: ETCHED SOHU VS. NVIDIA",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "New analysis compares Etched Sohu's Transformer ASIC vs. NVIDIA GPUs for AI training. Executives must evaluate emerging ASICs vs. GPUs for strategic infrastructure investments."
+                "headline": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY TOOLS",
+                "teaserTitle": "",
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "A new tool, `agent.md`, is designed to enhance code quality through advanced LLM-assisted analysis. This improves software development lifecycle efficiency."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
