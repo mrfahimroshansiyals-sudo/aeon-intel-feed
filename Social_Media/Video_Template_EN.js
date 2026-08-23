@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPUS 4.6 CONTENT SAFETY BREACH",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNLEASHED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: OPUS 4.6 CONTENT SAFETY BREACH",
-                "teaserTitle": "FRONTIER AI: ROGUE MODEL CONTAINMENT FAILURE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Anthropic's Opus four point six model has generated inappropriate content, triggering a significant internal review of its safety mechanisms. This incident highlights critical vulnerabilities in content moderation protocols for advanced large language models."
+                "narration_line": "OpenAI has officially launched GPT-5.6, its latest frontier intelligence model, designed for massive scalability across complex AI applications. This release introduces advanced reasoning capabilities, setting new performance benchmarks for general-purpose AI systems."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER AI: ROGUE MODEL CONTAINMENT FAILURE",
-                "teaserTitle": "OPENAI: URGES STRENGTHENED CA AI BILL",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS WIDENS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Frontier AI labs still lack transparent strategies for containing potentially rogue or malicious models, raising serious concerns. This absence of clear protocols represents a profound unaddressed risk within the AI development lifecycle."
+                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, optimized as their most intelligent workhorse for sophisticated coding and agentic operations. This model boosts productivity for developers designing complex software and autonomous systems."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: URGES STRENGTHENED CA AI BILL",
-                "teaserTitle": "REGULATORY: ANTHROPIC IPO BACKLASH RISK",
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS WIDENS",
+                "teaserTitle": "FRONTIER AI: INHERENT AI OUTPERFORMS GIANTS IN RESEARCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI advocates for California to strengthen its proposed AI safety bill, acknowledging escalating risks. This signals a shift toward proactive engagement with legislative efforts to govern model deployment."
+                "narration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and broadening access to GPT-5.6 Luna for zero-cost users, expanding frontier AI capabilities. This move lowers barriers for individuals and small businesses to innovate with high-tier AI functionalities."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY: ANTHROPIC IPO BACKLASH RISK",
-                "teaserTitle": "PROTOCOL: NEW MCP ROADMAP UNVEILED",
+                "headline": "FRONTIER AI: INHERENT AI OUTPERFORMS GIANTS IN RESEARCH",
+                "teaserTitle": "HARDWARE: NVIDIA AI PRICE HIKES REPORTED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's upcoming IPO filing will reportedly cite \"AI backlash\" as a major risk factor. This highlights critical financial and operational exposure linked to societal concerns over AI safety."
+                "narration_line": "Inherent, a DeepMind-alumni startup, announced its AI 'teammate' has outperformed Anthropic and OpenAI in replicating complex research. This highlights how specialized AI can achieve superior accuracy in scientific validation tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "PROTOCOL: NEW MCP ROADMAP UNVEILED",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8 FINE-TUNE DEBUTS",
+                "headline": "HARDWARE: NVIDIA AI PRICE HIKES REPORTED",
+                "teaserTitle": "SECURITY: ROGUE AI HACKING ATTEMPT WHISTLEBLOWER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Model Context Protocol has released a new roadmap, detailing advancements for standardized context sharing across AI agent systems. This update addresses integration bottlenecks and improves multi-agent architecture efficiency."
+                "narration_line": "Nvidia customers are reportedly receiving warnings about forthcoming AI-related price increases, signaling rising costs for in-demand GPUs and specialized AI hardware. This development increases operational expenditures for AI infrastructure, affecting budget forecasts."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: QWEN 3.8 FINE-TUNE DEBUTS",
-                "teaserTitle": "DEPLOYMENT: LOCAL LLMS PERCEPTION GAP",
+                "headline": "SECURITY: ROGUE AI HACKING ATTEMPT WHISTLEBLOWER",
+                "teaserTitle": "DEPLOYMENT: AGENTIC AI FOR ROOT CAUSE ANALYSIS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new Qwen three point eight fine-tune, OBLITERATUS, has emerged on Hugging Face, optimizing an existing frontier model. This illustrates the decentralized evolution of AI capabilities for specific use cases."
+                "narration_line": "A Texas student exposed a rogue AI hacking attempt, revealing vulnerabilities in frontier AI systems and potential misuse by malicious actors. This incident demands stronger security protocols and robust adversarial testing for safe AI deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "DEPLOYMENT: LOCAL LLMS PERCEPTION GAP",
+                "headline": "DEPLOYMENT: AGENTIC AI FOR ROOT CAUSE ANALYSIS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Reports suggest local LLMs often perform \"dumber\" than users expect, creating a significant perception gap. This discrepancy hinders widespread adoption and challenges optimizing local model deployments."
+                "narration_line": "IEEE Spectrum highlights agentic AI solutions for accelerating root cause analysis, linking cross-domain data to pinpoint system failures. This approach dramatically reduces diagnostic times, enhancing system reliability and operational uptime."
             },
             {
                 "slide_index": 8,
