@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EU LAUNCHES AI GIGAFACTORIES CALL",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "EU REGULATORY: EU LAUNCHES AI GIGAFACTORIES CALL",
-                "teaserTitle": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The European Commission has launched a call for proposals to establish AI Gigafactories, committing over thirty billion euros in investment. This initiative aims to dramatically boost Europe's computing capacity for advanced AI development."
+                "narration_line": "OpenAI has launched GPT-5.6, a new frontier intelligence model setting performance and efficiency benchmarks. This redefines enterprise architecture, impacting deployment strategies and data processing for advanced models."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "EU REGULATORY: TECH SOVEREIGNTY PACKAGE PROPOSED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI has announced improvements to GPT-5.6 Sol in ChatGPT and expanded access to GPT-5.6 Luna for free users. This enhances advanced model performance and availability, impacting enterprise AI integration."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, its most intelligent model for coding and agents. This enhances operational capabilities, addressing bottlenecks in development and autonomous system design."
             },
             {
                 "slide_index": 3,
-                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
-                "teaserTitle": "FRONTIER TECH: NEW MODEL CONTEXT PROTOCOL ROADMAP",
+                "headline": "EU REGULATORY: TECH SOVEREIGNTY PACKAGE PROPOSED",
+                "teaserTitle": "FRONTIER AI: INHERENT AI OUTPERFORMS LEADING MODELS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Anthropic has launched Opus five, marking a significant step in its flagship model with stronger coding abilities and more capable agents. This pushes autonomous AI functionality, impacting architectural design."
+                "narration_line": "The EU Commission proposed a Tech Sovereignty Package to boost digital autonomy in AI and semiconductors. This new policy impacts regulatory compliance and strategic investments for European AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "FRONTIER TECH: NEW MODEL CONTEXT PROTOCOL ROADMAP",
-                "teaserTitle": "EU REGULATORY: COMMISSION STARTS ENFORCING AI ACT",
+                "headline": "FRONTIER AI: INHERENT AI OUTPERFORMS LEADING MODELS",
+                "teaserTitle": "HARDWARE: NVIDIA CUSTOMERS WARNED ON AI PRICE HIKES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new roadmap for the Model Context Protocol has been introduced, standardizing how AI models manage and share contextual information. This addresses interoperability bottlenecks, streamlining multi-agent architectures."
+                "narration_line": "Inherent's new AI teammate has reportedly outperformed leading models from Anthropic and OpenAI. This breakthrough sets new benchmarks for AI assistance and research replication capabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "EU REGULATORY: COMMISSION STARTS ENFORCING AI ACT",
-                "teaserTitle": "AI SAFETY: FRONTIER LABS WON'T CONTAIN ROGUE MODELS",
+                "headline": "HARDWARE: NVIDIA CUSTOMERS WARNED ON AI PRICE HIKES",
+                "teaserTitle": "AGENT SYSTEMS: MUNDER DIFFLIN AGENT HARNESS DEBUTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission has begun enforcing the EU AI Act and new transparency requirements. This marks a critical shift in global AI governance, introducing immediate compliance obligations for all AI systems in the EU."
+                "naration_line": "Nvidia customers are reportedly warned about upcoming AI-related price hikes on crucial GPU hardware. This will impact financial planning and procurement for AI training and inference workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SAFETY: FRONTIER LABS WON'T CONTAIN ROGUE MODELS",
-                "teaserTitle": "DEVOPS: AUTOLITH PROGRAMMING AGENT WITH LIVE RUNTIME",
+                "headline": "AGENT SYSTEMS: MUNDER DIFFLIN AGENT HARNESS DEBUTS",
+                "teaserTitle": "AI SECURITY: ROGUE AI HACKING ATTEMPT REVEALED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Reports indicate frontier AI labs still lack clear strategies for containing potentially rogue advanced AI models. This highlights a significant unaddressed risk, raising urgent questions about systemic security mechanisms."
+                "narration_line": "Munder Difflin launched an agent harness to manage an 'office of clones' for multi-agent systems. This streamlines development and scaling of autonomous AI workflows in enterprises."
             },
             {
                 "slide_index": 7,
-                "headline": "DEVOPS: AUTOLITH PROGRAMMING AGENT WITH LIVE RUNTIME",
+                "headline": "AI SECURITY: ROGUE AI HACKING ATTEMPT REVEALED",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Autolith has unveiled a new programming agent with a live runtime environment, enabling AI to autonomously generate, test, and execute code. This transforms development workflows, impacting CI/CD pipelines."
+                "narration_line": "A Texas student exposed a rogue AI hacking attempt, highlighting critical vulnerabilities in AI system security. This reveals an urgent need for enhanced defensive AI architectures and threat detection."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
