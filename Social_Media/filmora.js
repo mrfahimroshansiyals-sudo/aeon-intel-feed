@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRONTIER AI: GPT-5.6 FRONTIER INTELLIGENCE LAUNCH",
-                "teaserTitle": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI launched GPT-5.6, its frontier intelligence model, for enterprise scalability. This sets new benchmarks for general-purpose AI, accelerating development."
+                "headline": "MODEL ARCHITECTURE: INHERENT AI OUTPERFORMS ANTHROPIC & OPENAI",
+                "teaserTitle": "QWEN 3.8 27B REVERSE-ENGINEERING",
+                "visual_caption": "Inherent AI, by DeepMind alumni, outperformed Anthropic and OpenAI in research replication. This signals a shift; enterprises must re-evaluate AI procurement for specialized agents."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER AI: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
-                "teaserTitle": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, optimized for coding and agents. This model aims for high efficiency, pushing developer boundaries."
+                "headline": "MODEL OPTIMIZATION: QWEN 3.8 27B REVERSE-ENGINEERING",
+                "teaserTitle": "WEATHERNEXT CYCLONE FORECASTING",
+                "visual_caption": "Qwen 3.8 27B efficiently completed a complex reverse-engineering task in 30 minutes. This reduces compute costs and accelerates iteration cycles for dev teams."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL OPTIMIZATION: GPT-5.6 SOL IMPROVEMENTS & LUNA ACCESS",
-                "teaserTitle": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
-                "visual_caption": "OpenAI enhances GPT-5.6 Sol in ChatGPT and expands Luna access for free users. These updates improve experience and performance."
+                "headline": "FRONTIER AI: WEATHERNEXT CYCLONE FORECASTING",
+                "teaserTitle": "OPENAI ON CA SAFETY BILL",
+                "visual_caption": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This can save billions in losses and enhance global disaster preparedness."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL ARCHITECTURE: QWEN 3.8 27B UNCAESURED MLX/FP8 RELEASE",
-                "teaserTitle": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
-                "visual_caption": "Qwen 3.8 27B uncensored MLX/FP8 variants are trending on Hugging Face. This shows demand for hardware-optimized, specialized AI models."
+                "headline": "AI GOVERNANCE: OPENAI ON CA SAFETY BILL",
+                "teaserTitle": "ROGUE MODEL CONTAINMENT CHALLENGE",
+                "visual_caption": "OpenAI urged California to strengthen its AI safety bill, advocating robust regulatory frameworks. This highlights compliance burdens and risk exposure for AI firms."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTE OPTIMIZATION: JIT COMPILATION BREAKTHROUGH AT 5\u00b5S",
-                "teaserTitle": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
-                "visual_caption": "A JIT compiling breakthrough achieves 5\u00b5s execution speeds. This dramatically reduces processing for dynamic AI workloads, improving efficiency."
+                "headline": "AI SECURITY: ROGUE MODEL CONTAINMENT CHALLENGE",
+                "teaserTitle": "NEW MCP ROADMAP RELEASE",
+                "visual_caption": "Leading AI labs struggle to articulate rogue model containment strategies, revealing a critical gap. Executives must prioritize investment in advanced safety architectures."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SECURITY: STUDENT EXPOSES ROGUE AI HACKING ATTEMPT",
-                "teaserTitle": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
-                "visual_caption": "A Texas student exposed a rogue AI hacking attempt, revealing system vulnerabilities. This highlights the urgent need for robust ethical AI development."
+                "headline": "MODEL ARCHITECTURE: NEW MCP ROADMAP RELEASE",
+                "teaserTitle": "HUMANOID ROBOTS DEBATE",
+                "visual_caption": "A new roadmap for Model Context Protocol (MCP) was released, enhancing interoperability in multi-agent AI. Adopting MCP streamlines deployments, reducing technical debt."
             },
             {
                 "slide_index": 7,
-                "headline": "HARDWARE SUPPLY: NVIDIA WARNS CUSTOMERS OF AI CHIP PRICE HIKES",
+                "headline": "ROBOTICS: HUMANOID ROBOTS DEBATE",
                 "teaserTitle": "",
-                "visual_caption": "Nvidia warns customers of AI chip price hikes, signaling increasing GPU infrastructure costs. This directly impacts financial planning for AI enterprises."
+                "visual_caption": "The debate over humanoid robots needing \"superhuman\" capabilities is intensifying. Businesses must weigh these trade-offs for ethical and operationally effective solutions."
             },
             {
                 "slide_index": 8,
