@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA WARNINGS ON AI PRICE HIKES",
+        "hookTitle": "EU LAUNCHES AI GIGAFACTORIES CALL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: NVIDIA WARNINGS ON AI PRICE HIKES",
-                "teaserTitle": "REGULATORY: ANTHROPIC IPO CITES AI BACKLASH RISK",
+                "headline": "EU REGULATORY: EU LAUNCHES AI GIGAFACTORIES CALL",
+                "teaserTitle": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Nvidia has reportedly warned customers of upcoming price increases for AI related hardware, signaling rising compute costs. This impacts enterprise AI deployment, requiring a reevaluation of infrastructure investments."
+                "narration_line": "The European Commission has launched a call for proposals to establish AI Gigafactories, committing over thirty billion euros in investment. This initiative aims to dramatically boost Europe's computing capacity for advanced AI development."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ANTHROPIC IPO CITES AI BACKLASH RISK",
-                "teaserTitle": "FRONTIER MODEL: QWEN 3.8-27B OPTIMIZED FOR EDGE",
+                "headline": "OPENAI: IMPROVING GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic's IPO filing will likely cite \"AI backlash\" as a key risk factor, reflecting growing societal and regulatory scrutiny. This signals increased compliance costs and potential market entry challenges for advanced AI models."
+                "narration_line": "OpenAI has announced improvements to GPT-5.6 Sol in ChatGPT and expanded access to GPT-5.6 Luna for free users. This enhances advanced model performance and availability, impacting enterprise AI integration."
             },
             {
                 "slide_index": 3,
-                "headline": "FRONTIER MODEL: QWEN 3.8-27B OPTIMIZED FOR EDGE",
-                "teaserTitle": "OPENAI: GPT-5.6 UNVEILS FRONTIER INTELLIGENCE",
+                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
+                "teaserTitle": "FRONTIER TECH: NEW MODEL CONTEXT PROTOCOL ROADMAP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New MLX and FP8 optimizations allow Qwen three point eight twenty-seven billion to run efficiently on edge devices. This significantly reduces computational needs, enabling broader deployment in resource-constrained environments."
+                "narration_line": "Anthropic has launched Opus five, marking a significant step in its flagship model with stronger coding abilities and more capable agents. This pushes autonomous AI functionality, impacting architectural design."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 UNVEILS FRONTIER INTELLIGENCE",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "headline": "FRONTIER TECH: NEW MODEL CONTEXT PROTOCOL ROADMAP",
+                "teaserTitle": "EU REGULATORY: COMMISSION STARTS ENFORCING AI ACT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI has launched GPT-five point six, showcasing new frontier intelligence across reasoning and code generation. This sets a new benchmark for large language models, impacting integration and infrastructure planning."
+                "narration_line": "A new roadmap for the Model Context Protocol has been introduced, standardizing how AI models manage and share contextual information. This addresses interoperability bottlenecks, streamlining multi-agent architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
+                "headline": "EU REGULATORY: COMMISSION STARTS ENFORCING AI ACT",
+                "teaserTitle": "AI SAFETY: FRONTIER LABS WON'T CONTAIN ROGUE MODELS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiatives, citing a narrowing window for cyber threats. This emphasizes the critical need for proactive security measures in all AI systems against adversarial attacks."
+                "narration_line": "The European Commission has begun enforcing the EU AI Act and new transparency requirements. This marks a critical shift in global AI governance, introducing immediate compliance obligations for all AI systems in the EU."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "FRONTIER TECH: INHERENT AI RESEARCH REPLICATION",
+                "headline": "AI SAFETY: FRONTIER LABS WON'T CONTAIN ROGUE MODELS",
+                "teaserTitle": "DEVOPS: AUTOLITH PROGRAMMING AGENT WITH LIVE RUNTIME",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, an efficient workhorse model for coding and agents. This promises lower latency and computational requirements, enhancing developer productivity."
+                "narration_line": "Reports indicate frontier AI labs still lack clear strategies for containing potentially rogue advanced AI models. This highlights a significant unaddressed risk, raising urgent questions about systemic security mechanisms."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER TECH: INHERENT AI RESEARCH REPLICATION",
+                "headline": "DEVOPS: AUTOLITH PROGRAMMING AGENT WITH LIVE RUNTIME",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Inherent, a DeepMind-founded startup, claims its AI outperformed major labs in replicating research. This signals a breakthrough in autonomous scientific discovery, potentially cutting R&D costs."
+                "narration_line": "Autolith has unveiled a new programming agent with a live runtime environment, enabling AI to autonomously generate, test, and execute code. This transforms development workflows, impacting CI/CD pipelines."
             },
             {
                 "slide_index": 8,
