@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALABILITY",
+        "hookTitle": "GLM-5.3 BEATS RIVALS AT 1/5 COST",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALABILITY",
-                "teaserTitle": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
+                "headline": "MODEL PERFORMANCE: GLM-5.3 BEATS RIVALS AT 1/5 COST",
+                "teaserTitle": "FRONTIER MODELS: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's new GPT five point six model offers frontier intelligence designed for massive scalability across diverse applications. This release pushes the boundaries of what advanced artificial intelligence can achieve in complex, real-world scenarios."
+                "narration_line": "A new open-weight GLM-5.3 model now outperforms proprietary AI, reducing operational costs by a factor of five. This signals a major shift in the competitive landscape for large language models, favoring more affordable deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: NVIDIA AI PRICE HIKES LOOMING",
-                "teaserTitle": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
+                "headline": "FRONTIER MODELS: GOOGLE DEEPMIND LAUNCHES GEMINI 3.7 FLASH",
+                "teaserTitle": "ENTERPRISE SAAS: OPENAI EXPANDS GPT-5.6 ACCESS FOR USERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia customers are reportedly receiving warnings of impending artificial intelligence-related price hikes for crucial GPU infrastructure. This development directly impacts the economic viability and scaling strategies of many artificial intelligence-driven enterprises."
+                "narration_line": "Google DeepMind has unveiled Gemini 3.7 Flash, their latest frontier model engineered for rapid inference and optimized real-time AI performance. Enterprises must evaluate this for latency-sensitive operations, gaining a competitive edge."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: CYBER DEFENSE WINDOW NARROWS FOR AI",
-                "teaserTitle": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
+                "headline": "ENTERPRISE SAAS: OPENAI EXPANDS GPT-5.6 ACCESS FOR USERS",
+                "teaserTitle": "AI GOVERNANCE: CALLS TO DENY AI AGENTS LEGAL PERSONHOOD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI has highlighted a narrowing cyber defense window, underscoring critical vulnerabilities as advanced artificial intelligence systems grow. This necessitates urgent enhancements in artificial intelligence security protocols and threat detection capabilities."
+                "narration_line": "OpenAI is enhancing GPT-5.6 Sol and expanding free access to GPT-5.6 Luna, democratizing advanced AI capabilities. Businesses must analyze this widespread access for competitive positioning and internal AI strategy implications."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY: AI COPYRIGHT TRAINING LEGALITY",
-                "teaserTitle": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
+                "headline": "AI GOVERNANCE: CALLS TO DENY AI AGENTS LEGAL PERSONHOOD",
+                "teaserTitle": "COMPETITIVE AI: INHERENT AI OUTPERFORMS RIVALS IN RESEARCH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The legality of training artificial intelligence models on copyrighted materials remains a complex and debated issue. This ongoing uncertainty poses significant compliance risks for artificial intelligence developers and content platforms."
+                "naration_line": "The debate intensifies against granting AI agents legal personhood, raising critical questions on accountability and liability. This impacts corporate risk exposure, necessitating clear policies on AI responsibility."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL OPTIMIZATION: LOCAL LLM PERFORMANCE GAP",
-                "teaserTitle": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
+                "headline": "COMPETITIVE AI: INHERENT AI OUTPERFORMS RIVALS IN RESEARCH",
+                "teaserTitle": "REGULATORY COMPLIANCE: OPENAI ADVOCATES STRONGER CA AI SAFETY BILL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Reports indicate that local large language models often underperform compared to their hosted counterparts. This gap highlights critical challenges in optimizing models for constrained edge environments."
+                "narration_line": "Inherent, a new AI startup, claims its AI 'teammate' now surpasses Anthropic and OpenAI in research replication tasks. This could redefine the market for AI research tools and accelerate scientific discovery outputs."
             },
             {
                 "slide_index": 6,
-                "headline": "OPEN-SOURCE: QWEN 3.8 27B OBLITERATED UPDATE",
-                "teaserTitle": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
+                "headline": "REGULATORY COMPLIANCE: OPENAI ADVOCATES STRONGER CA AI SAFETY BILL",
+                "teaserTitle": "MODEL APPLICATIONS: QWEN 3.8 27B EXCELS IN REVERSE ENGINEERING",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "The OBLITERATUS Qwen three point eight twenty-seven billion model has received a new update from its community, reflecting continuous refinement and performance enhancements. This iteration aims to improve efficiency and overall capability."
+                "narration_line": "OpenAI is advocating for a stronger AI safety bill in California, emphasizing robust regulatory frameworks for frontier AI. This signals more stringent future compliance burdens for businesses, demanding early preparation."
             },
             {
                 "slide_index": 7,
-                "headline": "ENTERPRISE: MANAGING AI TRUST IN COMPANIES",
+                "headline": "MODEL APPLICATIONS: QWEN 3.8 27B EXCELS IN REVERSE ENGINEERING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "American companies are grappling with an artificial intelligence backlash, striving to maintain worker trust amidst increasing automation. This challenge requires transparent communication and ethical deployment strategies to succeed."
+                "narration_line": "The Qwen 3.8 27B model successfully completed a complex reverse-engineering task in just 30 minutes, demonstrating advanced code analysis. This capability can significantly accelerate software development and security auditing workflows, reducing costs."
             },
             {
                 "slide_index": 8,
