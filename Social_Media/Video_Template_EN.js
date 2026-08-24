@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HUGGING FACE ACQUISITION TALKS FOR THIRTEEN BILLION DOLLARS",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
-                "teaserTitle": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Hugging Face is engaged in acquisition talks for thirteen billion dollars. This potential deal highlights massive consolidation across open source developer hubs."
+                "narration_line": "OpenAI unveils GPT-5.6, its new frontier intelligence model for ambitious scaling and complex enterprise applications. This release advances large language model capabilities in reasoning and task execution."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
-                "teaserTitle": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
+                "headline": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Alibaba shares dropped ten percent following a ten point two billion dollar share placement. The capital targets aggressive artificial intelligence infrastructure expansion."
+                "narration_line": "OpenAI dramatically cut GPT-5.6 Sol pricing, guaranteeing new rates until at least November twenty-first. This aggressive strategy aims to boost adoption and lower enterprise inference costs significantly."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
-                "teaserTitle": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States trade officials hiked automotive tariffs on Canada to fifty percent. This aggressive trade policy threatens cross border supply chain stability."
+                "narration_line": "Google DeepMind released Gemini three point seven Flash, optimized for coding and agentic tasks. This highly efficient model offers enhanced performance for rapid AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
-                "teaserTitle": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
+                "headline": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
+                "teaserTitle": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "NIST warned that quantum computing advancements threaten current internet encryption standards. Organizations face an urgent countdown to upgrade cryptographic architectures."
+                "narration_line": "Hot Chips two thousand twenty-six revealed High Bandwidth Flash technology, promising vast data throughput for AI workloads. This innovation targets memory bottlenecks in large-scale model training and inference."
             },
             {
                 "slide_index": 5,
-                "headline": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
-                "teaserTitle": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
+                "headline": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
+                "teaserTitle": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Engineers unveiled a brain implant leveraging infrared light for high resolution neural signaling. This breakthrough offers a safer interface for neural communication."
+                "narration_line": "SeL4 microkernel achieved formal security proofs on AArch64, verifying immunity to critical vulnerabilities. This milestone sets a new benchmark for secure computing in autonomous AI systems."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
-                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
+                "headline": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
+                "teaserTitle": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The European Commission commenced strict enforcement of artificial intelligence act rules. Companies face mandatory transparency obligations and strict compliance audits."
+                "narration_line": "General Intuition secured six billion dollars in funding from Valor and Point72 for robotics AI development. This investment signals growing confidence in embodied intelligence systems."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
+                "headline": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Children vastly outperform language models while consuming a fraction of the training data. This human efficiency highlights current architectural scaling limits."
+                "narration_line": "Microsoft implemented invisible GUID watermarking in MS Paint and Photos for local AI-generated content. This measure addresses concerns over content provenance and media traceability."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }
