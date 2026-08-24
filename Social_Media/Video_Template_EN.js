@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
+        "hookTitle": "BUILDING AI AGENTS FOR EVERYTHING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
+                "headline": "OPENAI: BUILDING AI AGENTS FOR EVERYTHING",
+                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI unveils GPT-5.6, its new frontier intelligence model for ambitious scaling and complex enterprise applications. This release advances large language model capabilities in reasoning and task execution."
+                "narration_line": "OpenAI is heavily investing in autonomous AI agents, signifying a major architectural shift from passive models to proactive systems. This demands a re-evaluation of API integrations and security for future enterprise deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
+                "teaserTitle": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI dramatically cut GPT-5.6 Sol pricing, guaranteeing new rates until at least November twenty-first. This aggressive strategy aims to boost adoption and lower enterprise inference costs significantly."
+                "narration_line": "Nvidia confirms Groq's specialized inference racks will be live this year, following their twenty billion dollar acquisition. This promises superior speed for large language models, reducing inference costs and enhancing real-time AI capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
+                "headline": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
+                "teaserTitle": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind released Gemini three point seven Flash, optimized for coding and agentic tasks. This highly efficient model offers enhanced performance for rapid AI development."
+                "narration_line": "New HBM base die designs from Samsung promise higher density and lower power for AI workloads, as highlighted at Hot Chips 2026. This is vital for scaling future GPUs and improving compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
-                "teaserTitle": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
+                "headline": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
+                "teaserTitle": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hot Chips two thousand twenty-six revealed High Bandwidth Flash technology, promising vast data throughput for AI workloads. This innovation targets memory bottlenecks in large-scale model training and inference."
+                "narration_line": "Hugging Face is reportedly in thirteen billion dollar acquisition talks, indicating a significant consolidation in the AI platform space. This could impact open-source access and developer roadmaps, requiring enterprises to diversify platform risks."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
-                "teaserTitle": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
+                "headline": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
+                "teaserTitle": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SeL4 microkernel achieved formal security proofs on AArch64, verifying immunity to critical vulnerabilities. This milestone sets a new benchmark for secure computing in autonomous AI systems."
+                "narration_line": "Anthropic's models are reportedly struggling to compete with cheaper alternatives, emphasizing cost-per-performance over raw intelligence. Businesses must balance advanced features with economic viability for scalable AI deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
-                "teaserTitle": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
+                "headline": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
+                "teaserTitle": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "General Intuition secured six billion dollars in funding from Valor and Point72 for robotics AI development. This investment signals growing confidence in embodied intelligence systems."
+                "narration_line": "Public services face strain from LLM-generated appeals, creating administrative overload and policy challenges. AI developers need better detection to ensure ethical deployment and prevent system misuse."
             },
             {
                 "slide_index": 7,
-                "headline": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
+                "headline": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Microsoft implemented invisible GUID watermarking in MS Paint and Photos for local AI-generated content. This measure addresses concerns over content provenance and media traceability."
+                "narration_line": "A new 'stealth model' named Ox Alpha has emerged, suggesting rapid, undisclosed advancements in frontier AI research. This dynamic landscape demands agile R&D to respond to sudden competitive shifts."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

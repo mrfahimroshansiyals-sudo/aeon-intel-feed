@@ -4,51 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
-                "visual_caption": "OpenAI unveils GPT-5.6, its new frontier intelligence model for ambitious scaling and complex enterprise applications. This release advances LLM capabilities in reasoning and task execution."
+                "headline": "OPENAI: BUILDING AI AGENTS FOR EVERYTHING",
+                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
+                "visual_caption": "OpenAI heavily invests in autonomous AI agents, signaling a major architectural shift. This necessitates re-evaluating API integrations and security for enterprise deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL PRICE REDUCTION",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI dramatically cut GPT-5.6 Sol pricing, guaranteeing new rates until at least Nov 21. This aggressive strategy aims to boost adoption and lower enterprise inference costs significantly."
+                "headline": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
+                "teaserTitle": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "Nvidia confirms Groq's inference racks operational this year after a $20B acquisition. This promises superior speed for LLMs, reducing inference costs and boosting real-time AI."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
+                "headline": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
+                "teaserTitle": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
                 "visual_asset": "backgroundyt3.png",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, optimized for coding and agentic tasks. This highly efficient model offers enhanced performance for rapid AI development."
+                "visual_caption": "New HBM base die designs from Samsung promise higher density and lower power for AI workloads. This is vital for scaling future GPUs and improving compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: HOT CHIPS 2026 HIGH BANDWIDTH FLASH",
-                "teaserTitle": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
-                "visual_caption": "Hot Chips 2026 revealed High Bandwidth Flash technology, promising vast data throughput for AI workloads. This innovation targets memory bottlenecks in large-scale model training and inference."
+                "headline": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
+                "teaserTitle": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Hugging Face is reportedly in $13B acquisition talks, indicating major AI platform consolidation. This could impact open-source access, requiring enterprises to diversify platform risks."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: SEL4 PROOFS ON AARCH64 COMPLETE",
-                "teaserTitle": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
-                "visual_caption": "SeL4 microkernel achieved formal security proofs on AArch64, verifying immunity to critical vulnerabilities. This milestone sets a new benchmark for secure computing in autonomous AI systems."
+                "headline": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
+                "teaserTitle": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Anthropic's models struggle against cheaper alternatives, highlighting cost-per-performance importance. Businesses must balance advanced features with economic viability for scalable AI deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "VENTURE: GENERAL INTUITION $6B FOR ROBOTICS AI",
-                "teaserTitle": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
-                "visual_caption": "General Intuition secured $6B in funding from Valor and Point72 for robotics AI development. This investment signals growing confidence in embodied intelligence systems."
+                "headline": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
+                "teaserTitle": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Public services face strain from LLM-generated appeals, creating administrative overload and policy challenges. AI developers need better detection to ensure ethical deployment."
             },
             {
                 "slide_index": 7,
-                "headline": "ETHICS: MS PAINT AI WATERMARKING WITH GUID",
+                "headline": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
                 "teaserTitle": "",
-                "visual_caption": "Microsoft implemented invisible GUID watermarking in MS Paint and Photos for local AI-generated content. This measure addresses concerns over content provenance and media traceability."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "A new 'stealth model' Ox Alpha has emerged, suggesting rapid, undisclosed advancements in frontier AI research. This dynamic landscape demands agile R&D for competitive shifts."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
