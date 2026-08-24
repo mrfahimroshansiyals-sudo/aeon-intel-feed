@@ -4,57 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: BUILDING AI AGENTS FOR EVERYTHING",
-                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
-                "visual_caption": "OpenAI heavily invests in autonomous AI agents, signaling a major architectural shift. This necessitates re-evaluating API integrations and security for enterprise deployments."
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI significantly reduced GPT 5.6 Sol model pricing, ensuring competitive rates until at least Nov 21, 2026. This enhances accessibility, impacting compute costs and accelerating enterprise adoption."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
-                "teaserTitle": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
-                "visual_asset": "backgroundyt2.png",
-                "visual_caption": "Nvidia confirms Groq's inference racks operational this year after a $20B acquisition. This promises superior speed for LLMs, reducing inference costs and boosting real-time AI."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic tasks. This release targets developers seeking efficient and capable AI for complex automated workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
-                "teaserTitle": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "New HBM base die designs from Samsung promise higher density and lower power for AI workloads. This is vital for scaling future GPUs and improving compute efficiency."
+                "headline": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
+                "teaserTitle": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
+                "visual_caption": "Microsoft's MS Paint & Photos now invisibly watermark AI output with a GUID. This establishes a digital trail for content, addressing authenticity and compliance concerns."
             },
             {
                 "slide_index": 4,
-                "headline": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
-                "teaserTitle": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Hugging Face is reportedly in $13B acquisition talks, indicating major AI platform consolidation. This could impact open-source access, requiring enterprises to diversify platform risks."
+                "headline": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "visual_caption": "Hot Chips 2026 saw NVIDIA announce CUDA support for RISC-V architectures. This strategic shift expands CUDA's reach, offering greater flexibility in hardware design for AI workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
-                "teaserTitle": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Anthropic's models struggle against cheaper alternatives, highlighting cost-per-performance importance. Businesses must balance advanced features with economic viability for scalable AI deployments."
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
+                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. Its enhanced accuracy improves lead times for critical weather events & disaster preparedness."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
-                "teaserTitle": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Public services face strain from LLM-generated appeals, creating administrative overload and policy challenges. AI developers need better detection to ensure ethical deployment."
+                "headline": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
+                "teaserTitle": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
+                "visual_caption": "MIT Technology Review highlights that children vastly outlearn AI models in language acquisition with less data. This cognitive gap points to critical missing elements in current AI architectures."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
+                "headline": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "A new 'stealth model' Ox Alpha has emerged, suggesting rapid, undisclosed advancements in frontier AI research. This dynamic landscape demands agile R&D for competitive shifts."
+                "visual_caption": "Truist analysts forecast CoreWeave shares will nearly double despite rising chip costs. This reflects strong market confidence and sustained demand for specialized AI compute infrastructure."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

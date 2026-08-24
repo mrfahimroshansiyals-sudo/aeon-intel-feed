@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "BUILDING AI AGENTS FOR EVERYTHING",
+        "hookTitle": "GPT 5.6 SOL PRICE REDUCTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: BUILDING AI AGENTS FOR EVERYTHING",
-                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI is heavily investing in autonomous AI agents, signifying a major architectural shift from passive models to proactive systems. This demands a re-evaluation of API integrations and security for future enterprise deployments."
+                "narration_line": "OpenAI significantly reduced GPT 5.6 Sol model pricing, ensuring competitive rates until at least November twenty-one, twenty twenty-six. This move enhances accessibility, impacting compute costs and accelerating enterprise adoption for advanced AI workloads."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: GROQ RACKS ONLINE AFTER $20B DEAL",
-                "teaserTitle": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia confirms Groq's specialized inference racks will be live this year, following their twenty billion dollar acquisition. This promises superior speed for large language models, reducing inference costs and enhancing real-time AI capabilities."
+                "naration_line": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic tasks. This release targets developers seeking efficient and capable AI for complex automated workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: HBM BASE DIE OPPORTUNITIES",
-                "teaserTitle": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
+                "headline": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
+                "teaserTitle": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New HBM base die designs from Samsung promise higher density and lower power for AI workloads, as highlighted at Hot Chips 2026. This is vital for scaling future GPUs and improving compute efficiency."
+                "narration_line": "Microsoft's MS Paint and Photos now invisibly watermark AI-generated output with a GUID. This feature establishes a digital trail for content, addressing authenticity and compliance concerns in media."
             },
             {
                 "slide_index": 4,
-                "headline": "HUGGING FACE: REPORTED $13B ACQUISITION TALKS",
-                "teaserTitle": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
+                "headline": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hugging Face is reportedly in thirteen billion dollar acquisition talks, indicating a significant consolidation in the AI platform space. This could impact open-source access and developer roadmaps, requiring enterprises to diversify platform risks."
+                "narration_line": "Hot Chips twenty twenty-six saw NVIDIA announce CUDA support for RISC-V architectures. This strategic shift expands CUDA's reach, offering greater flexibility in hardware design for AI workloads."
             },
             {
                 "slide_index": 5,
-                "headline": "ANTHROPIC: MODELS STRUGGLE VS. CHEAPER TOOLS",
-                "teaserTitle": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
+                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic's models are reportedly struggling to compete with cheaper alternatives, emphasizing cost-per-performance over raw intelligence. Businesses must balance advanced features with economic viability for scalable AI deployments."
+                "narration_line": "DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. Its enhanced accuracy improves lead times for critical weather events and disaster preparedness."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: LLM-WRITTEN APPEALS STRESS PUBLIC SERVICES",
-                "teaserTitle": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
+                "headline": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
+                "teaserTitle": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Public services face strain from LLM-generated appeals, creating administrative overload and policy challenges. AI developers need better detection to ensure ethical deployment and prevent system misuse."
+                "narration_line": "MIT Technology Review highlights that children vastly outlearn AI models in language acquisition with less data. This cognitive gap points to critical missing elements in current AI architectures."
             },
             {
                 "slide_index": 7,
-                "headline": "FRONTIER: NEW 'STEALTH MODEL' OX ALPHA REVEALED",
+                "headline": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A new 'stealth model' named Ox Alpha has emerged, suggesting rapid, undisclosed advancements in frontier AI research. This dynamic landscape demands agile R&D to respond to sudden competitive shifts."
+                "narration_line": "Truist analysts forecast CoreWeave shares will nearly double despite rising chip costs. This reflects strong market confidence and sustained demand for specialized AI compute infrastructure."
             },
             {
                 "slide_index": 8,
