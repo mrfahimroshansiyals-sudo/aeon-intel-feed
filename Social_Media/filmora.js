@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "INHERENT AI OUTPERFORMS GIANTS",
-                "visual_caption": "OpenAI launched GPT-5.6, setting new multimodal reasoning and task execution benchmarks. This demands compute upgrades and API integration for enterprises."
+                "headline": "SECURITY: OPEN-SOURCE AI TIME-RELEASE BACKDOORS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+                "visual_caption": "New research reveals critical time-release backdoors in open-source AI models, activatable remotely. This security flaw demands aggressive auditing protocols for all integrated systems."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "ALIBABA $10.2B AI PUSH PLUNGE",
-                "visual_caption": "Inherent AI claims to outperform Anthropic and OpenAI in research replication. This breakthrough challenges incumbents and could cut R&D cycles."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+                "teaserTitle": "HARDWARE: ADVANCED AI CHIP ARCHITECTURES",
+                "visual_caption": "OpenAI improved its GPT-5.6 Sol and expanded free access to GPT-5.6 Luna. These updates aim to democratize advanced AI capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "CNBC: ALIBABA $10.2B AI PUSH PLUNGE",
-                "teaserTitle": "AI TRAINING LEGALITY RISKS",
-                "visual_caption": "Alibaba shares plunged 10% after a $10.2B share placement for AI. This highlights vast capital needs and investor scrutiny in AI development."
+                "headline": "HARDWARE: ADVANCED AI CHIP ARCHITECTURES",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "New AI chip architectures optimize processing for large language models, promising substantial gains in compute efficiency. These innovations address hardware bottlenecks for frontier AI."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH: AI TRAINING LEGALITY RISKS",
-                "teaserTitle": "DAYBREAK CYBER DEFENSE NARROWS",
-                "visual_caption": "Training AI on copyrighted material faces complex legal challenges. Enterprises need robust frameworks to mitigate IP risks and liabilities."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "TECHCRUNCH: MYSTERY 'OX ALPHA' AI MODEL",
+                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, optimized for speed and cost-efficiency in rapid deployments. This offers an economical alternative for integrating advanced AI."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE NARROWS",
-                "teaserTitle": "DECODING SILENT READING FROM EEG",
-                "visual_caption": "OpenAI warns the 'Daybreak' cyber defense window is narrowing for AI systems. Enterprises must heavily invest in AI-specific cybersecurity frameworks."
+                "headline": "TECHCRUNCH: MYSTERY 'OX ALPHA' AI MODEL",
+                "teaserTitle": "ANTHROPIC: USER STRUGGLES VS CHEAPER AI",
+                "visual_caption": "TechCrunch reports on a new \u2018stealth model\u2019 named Ox Alpha, sparking speculation on its origins. This could signal a significant new player in frontier AI."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: DECODING SILENT READING FROM EEG",
-                "teaserTitle": "AI IN INFRASTRUCTURE ENGINEERING",
-                "visual_caption": "Research decodes silent reading from EEG, enabling direct brain-computer interfaces. This holds long-term architectural implications for human-AI interaction."
+                "headline": "ANTHROPIC: USER STRUGGLES VS CHEAPER AI",
+                "teaserTitle": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY",
+                "visual_caption": "Anthropic's top AI models struggle to attract users as cheaper, accessible alternatives gain traction. This trend prioritizes price-performance over absolute frontier capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: AI IN INFRASTRUCTURE ENGINEERING",
+                "headline": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY",
                 "teaserTitle": "",
-                "visual_caption": "AI adoption in infrastructure engineering optimizes design and maintenance. This boosts compute efficiency and reduces operational friction across large deployments."
+                "visual_caption": "A new `agent.md` methodology on Hacker News improves code quality using LLM assistance. This streamlines reviews and error detection for complex software projects."
             },
             {
                 "slide_index": 8,
