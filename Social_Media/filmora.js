@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: COPYRIGHT DATA LEGISLATION",
-                "teaserTitle": "MODELS: STEALTH OX ALPHA EMERGING",
-                "visual_caption": "Training AI on copyrighted materials presents significant compliance risks for enterprises. This regulatory uncertainty forces immediate re-evaluation of data sourcing."
+                "headline": "REGULATION: UBER FACES $1B FINE OVER AI",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
+                "visual_caption": "Uber faces a $1B fine for automated driver suspensions, raising concerns about algorithmic fairness. This penalty highlights the critical need for robust human oversight in AI-driven decisions."
             },
             {
                 "slide_index": 2,
-                "headline": "MODELS: STEALTH OX ALPHA EMERGING",
-                "teaserTitle": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
-                "visual_caption": "A new 'stealth model' named Ox Alpha has emerged, sparking speculation on its capabilities and architecture. Its arrival demands immediate strategic evaluation by AI leaders."
+                "headline": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
+                "teaserTitle": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
+                "visual_caption": "Data centers face capacity strains beyond demand, including power grid limits and cooling bottlenecks. This threatens next-gen AI model scaling, creating infrastructure choke points."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
-                "teaserTitle": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
-                "visual_caption": "OpenAI expanded free user access to GPT-5.6 Luna, increasing demand on its compute infrastructure. This broadens model availability but challenges inference capacity and cost management."
+                "headline": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "OpenAI's \"Daybreak\" initiative expands AI cyber defenses against a narrowing threat detection window. This security posture aims to shield critical AI models and data from advanced cyberattacks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
-                "teaserTitle": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
-                "visual_caption": "AI chip architectures are diversifying beyond conventional GPU designs for greater compute efficiency. This evolution impacts hardware procurement and infrastructure planning."
+                "headline": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
+                "teaserTitle": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
+                "visual_caption": "OpenAI launched GPT-5.6, offering frontier intelligence designed for ambitious enterprise applications with enhanced reasoning. This model aims for robust and adaptable AI solutions across industries."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
-                "teaserTitle": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
-                "visual_caption": "Anthropic's Claude models reported elevated error rates and API outages, impacting reliability. These disruptions pose significant risk, demanding diversified model use and robust fallback strategies."
+                "headline": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
+                "teaserTitle": "INVESTMENT: ALIBABA $10.2B AI PUSH",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, an optimized model for high-speed inference and efficiency. This variant delivers powerful AI capabilities without the extensive resource demands of larger models."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
-                "teaserTitle": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
-                "visual_caption": "DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting, enhancing accuracy and speed. This offers high-value operational insights with optimized compute efficiency."
+                "headline": "INVESTMENT: ALIBABA $10.2B AI PUSH",
+                "teaserTitle": "MARKET: ANTHROPIC MODELS STRUGGLE",
+                "visual_caption": "Alibaba's $10.2B share placement, despite a 10% stock plunge, funds aggressive AI R&D and compute infrastructure. This massive capital injection underscores a strategic pivot in the global AI market."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
+                "headline": "MARKET: ANTHROPIC MODELS STRUGGLE",
                 "teaserTitle": "",
-                "visual_caption": "NVIDIA customers are warned of impending price hikes for AI hardware and services. This necessitates urgent re-evaluation of compute budgets and hardware procurement strategies."
+                "visual_caption": "Anthropic's flagship AI models struggle with user adoption, facing competition from more cost-effective alternatives. This highlights challenges in translating raw performance into viable enterprise solutions."
             },
             {
                 "slide_index": 8,

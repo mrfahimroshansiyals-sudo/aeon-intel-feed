@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "COPYRIGHT DATA LEGISLATION SHAKES AI FOUNDATIONS",
+        "hookTitle": "UBER FACES $1B FINE OVER AI",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: COPYRIGHT DATA LEGISLATION",
-                "teaserTitle": "MODELS: STEALTH OX ALPHA EMERGING",
+                "headline": "REGULATION: UBER FACES $1B FINE OVER AI",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The legality of training AI models on copyrighted materials presents significant compliance risks for enterprises. This regulatory uncertainty forces immediate re-evaluation of data sourcing to avoid potential litigation."
+                "narration_line": "Uber is facing a one billion dollar fine due to automated driver suspensions, highlighting critical concerns about algorithmic fairness. This penalty underscores the immediate need for robust human oversight in AI-driven decision-making systems."
             },
             {
                 "slide_index": 2,
-                "headline": "MODELS: STEALTH OX ALPHA EMERGING",
-                "teaserTitle": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
+                "headline": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
+                "teaserTitle": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A new stealth model, Ox Alpha, has emerged, sparking speculation about its capabilities and architecture. Its arrival demands immediate strategic evaluation by AI leaders to assess competitive threats."
+                "narration_line": "The data center industry is struggling with capacity strains beyond demand, facing power grid limits and cooling system bottlenecks. This structural pressure threatens the scaling of next-generation artificial intelligence models, creating critical infrastructure choke points."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
-                "teaserTitle": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
+                "headline": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI has expanded free access to GPT-5.6 Luna, increasing demand on its compute infrastructure. This broadens model availability but challenges inference capacity and cost management for partners."
+                "narration_line": "OpenAI's Daybreak initiative is expanding to bolster AI cyber defenses against a rapidly closing window for threat detection. This security posture aims to shield critical AI models and data from increasingly advanced cyberattacks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
-                "teaserTitle": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
+                "headline": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
+                "teaserTitle": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "AI chip architectures are diversifying beyond conventional GPUs for greater compute efficiency. This evolution impacts hardware procurement and infrastructure planning for specific AI workloads."
+                "narration_line": "OpenAI has launched GPT-5.6, offering frontier intelligence designed for ambitious enterprise applications with enhanced reasoning. This release aims to provide more robust and adaptable artificial intelligence solutions across diverse industry sectors."
             },
             {
                 "slide_index": 5,
-                "headline": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
-                "teaserTitle": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
+                "teaserTitle": "INVESTMENT: ALIBABA $10.2B AI PUSH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Anthropic's Claude models reported elevated error rates and API outages, impacting reliability. These disruptions pose significant risk for enterprises, demanding diversified model use and robust fallback strategies."
+                "narration_line": "Google DeepMind has unveiled Gemini 3.7 Flash, an optimized model for high-speed inference and efficiency in rapid response use cases. This variant delivers powerful AI capabilities without the extensive resource demands of larger models."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
-                "teaserTitle": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
+                "headline": "INVESTMENT: ALIBABA $10.2B AI PUSH",
+                "teaserTitle": "MARKET: ANTHROPIC MODELS STRUGGLE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DeepMind's WeatherNext AI model achieved a significant breakthrough in cyclone forecasting, enhancing accuracy and speed. This capability offers high-value operational insights with optimized compute efficiency for critical infrastructure."
+                "narration_line": "Alibaba's ten point two billion dollar share placement, despite causing a ten percent stock drop, is specifically for aggressive artificial intelligence research and development. This capital injection underscores a strategic move to dominate global AI market segments."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
+                "headline": "MARKET: ANTHROPIC MODELS STRUGGLE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NVIDIA customers are warned of impending price hikes for AI hardware and services. This cost escalation necessitates urgent re-evaluation of compute budgets and hardware procurement strategies for AI-first organizations."
+                "narration_line": "Anthropic's leading AI models are reportedly struggling to gain widespread user adoption, facing intense competition from more cost-effective alternatives. This market resistance highlights challenges in converting raw model performance into practical, economically viable enterprise solutions."
             },
             {
                 "slide_index": 8,
