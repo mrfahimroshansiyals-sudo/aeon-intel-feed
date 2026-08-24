@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: UBER FACES $1B FINE OVER AI",
-                "teaserTitle": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
-                "visual_caption": "Uber faces a $1B fine for automated driver suspensions, raising concerns about algorithmic fairness. This penalty highlights the critical need for robust human oversight in AI-driven decisions."
+                "headline": "MODELS: INHERENT AI OUTPERFORMS COMPETITORS",
+                "teaserTitle": "SECURITY: SEL4 PROOFS COMPLETE ON AARCH64",
+                "visual_caption": "Inherent AI's new 'teammate' model has outperformed Anthropic and OpenAI in research replication. This signals a new era for highly autonomous, accurate AI agents."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: DATA CENTER CAPACITY STRAIN",
-                "teaserTitle": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
-                "visual_caption": "Data centers face capacity strains beyond demand, including power grid limits and cooling bottlenecks. This threatens next-gen AI model scaling, creating infrastructure choke points."
+                "headline": "SECURITY: SEL4 PROOFS COMPLETE ON AARCH64",
+                "teaserTitle": "HARDWARE: NEXT-GEN AI CHIP ARCHITECTURES",
+                "visual_caption": "seL4 microkernel's security proofs on AArch64 are now complete. This milestone boosts trust in foundational AI infrastructure, verifying core system components."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: EXPANDING CYBER DEFENSE WINDOW",
-                "teaserTitle": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI's \"Daybreak\" initiative expands AI cyber defenses against a narrowing threat detection window. This security posture aims to shield critical AI models and data from advanced cyberattacks."
+                "headline": "HARDWARE: NEXT-GEN AI CHIP ARCHITECTURES",
+                "teaserTitle": "REGULATION: AI COPYRIGHT DATA LEGALITIES",
+                "visual_caption": "Next-gen AI chip architectures focus on specialized designs for sparse computations and efficient memory. This aims to drastically improve performance/watt for AI workloads."
             },
             {
                 "slide_index": 4,
-                "headline": "MODELS: OPENAI GPT-5.6 FRONTIER SCALES",
-                "teaserTitle": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
-                "visual_caption": "OpenAI launched GPT-5.6, offering frontier intelligence designed for ambitious enterprise applications with enhanced reasoning. This model aims for robust and adaptable AI solutions across industries."
+                "headline": "REGULATION: AI COPYRIGHT DATA LEGALITIES",
+                "teaserTitle": "MODELS: STEALTH AI MODEL OX ALPHA EMERGES",
+                "visual_caption": "Legal risks for training AI on copyrighted data are increasing. Companies must adopt robust data governance and explore alternative methodologies to avoid infringement."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: GOOGLE GEMINI 3.7 FLASH INTRODUCED",
-                "teaserTitle": "INVESTMENT: ALIBABA $10.2B AI PUSH",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, an optimized model for high-speed inference and efficiency. This variant delivers powerful AI capabilities without the extensive resource demands of larger models."
+                "headline": "MODELS: STEALTH AI MODEL OX ALPHA EMERGES",
+                "teaserTitle": "ARCHITECTURE: AGENT VS. MODEL CLARITY",
+                "visual_caption": "A new 'stealth model' Ox Alpha has emerged, with limited details suggesting disruptive AI capabilities. AI strategy teams must monitor this development closely."
             },
             {
                 "slide_index": 6,
-                "headline": "INVESTMENT: ALIBABA $10.2B AI PUSH",
-                "teaserTitle": "MARKET: ANTHROPIC MODELS STRUGGLE",
-                "visual_caption": "Alibaba's $10.2B share placement, despite a 10% stock plunge, funds aggressive AI R&D and compute infrastructure. This massive capital injection underscores a strategic pivot in the global AI market."
+                "headline": "ARCHITECTURE: AGENT VS. MODEL CLARITY",
+                "teaserTitle": "COMPUTE: COREWEAVE CHIP COSTS SOAR",
+                "visual_caption": "The distinction between an AI agent and its model is critical for effective deployments. Focusing solely on models without holistic agentic systems leads to suboptimal outcomes."
             },
             {
                 "slide_index": 7,
-                "headline": "MARKET: ANTHROPIC MODELS STRUGGLE",
+                "headline": "COMPUTE: COREWEAVE CHIP COSTS SOAR",
                 "teaserTitle": "",
-                "visual_caption": "Anthropic's flagship AI models struggle with user adoption, facing competition from more cost-effective alternatives. This highlights challenges in translating raw performance into viable enterprise solutions."
+                "visual_caption": "CoreWeave, an AI cloud provider, faces surging chip costs due to rising GPU prices and supply chain pressures. This escalation directly impacts operational expenses for AI training."
             },
             {
                 "slide_index": 8,
