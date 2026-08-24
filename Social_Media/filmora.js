@@ -5,44 +5,44 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
-                "visual_caption": "OpenAI launched its GPT-5.6 frontier model, showcasing advanced multimodal reasoning and task execution. This release sets new benchmarks for AI efficiency and performance."
+                "teaserTitle": "INHERENT AI OUTPERFORMS GIANTS",
+                "visual_caption": "OpenAI launched GPT-5.6, setting new multimodal reasoning and task execution benchmarks. This demands compute upgrades and API integration for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
-                "teaserTitle": "CNBC: ALIBABA $10.2B AI PUSH PLUNGE",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, an intelligent model optimized for coding and agentic applications. It emphasizes enhanced speed and efficiency for developer workflows."
+                "headline": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
+                "teaserTitle": "ALIBABA $10.2B AI PUSH PLUNGE",
+                "visual_caption": "Inherent AI claims to outperform Anthropic and OpenAI in research replication. This breakthrough challenges incumbents and could cut R&D cycles."
             },
             {
                 "slide_index": 3,
                 "headline": "CNBC: ALIBABA $10.2B AI PUSH PLUNGE",
-                "teaserTitle": "HACKER NEWS: ANTHROPIC OPUS 5 USER ADOPTION STRUGGLE",
-                "visual_caption": "Alibaba's shares plunged 10% after announcing a $10.2B share placement for AI development. This highlights intense competition and investor profitability concerns."
+                "teaserTitle": "AI TRAINING LEGALITY RISKS",
+                "visual_caption": "Alibaba shares plunged 10% after a $10.2B share placement for AI. This highlights vast capital needs and investor scrutiny in AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: ANTHROPIC OPUS 5 USER ADOPTION STRUGGLE",
-                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
-                "visual_caption": "Anthropic's Opus 5 model reportedly struggles with user adoption, as cheaper AI tools gain market traction. This poses a strategic dilemma for premium AI developers."
+                "headline": "TECHCRUNCH: AI TRAINING LEGALITY RISKS",
+                "teaserTitle": "DAYBREAK CYBER DEFENSE NARROWS",
+                "visual_caption": "Training AI on copyrighted material faces complex legal challenges. Enterprises need robust frameworks to mitigate IP risks and liabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
-                "visual_caption": "DeepMind's WeatherNext AI achieved a breakthrough in real-time cyclone forecasting, improving accuracy and lead times for severe weather events. This enhances disaster preparedness."
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE NARROWS",
+                "teaserTitle": "DECODING SILENT READING FROM EEG",
+                "visual_caption": "OpenAI warns the 'Daybreak' cyber defense window is narrowing for AI systems. Enterprises must heavily invest in AI-specific cybersecurity frameworks."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
-                "teaserTitle": "HACKER NEWS: AGENT.MD IMPROVES LLM CODE QUALITY",
-                "visual_caption": "OpenAI expands GPT-5.6 Sol access within ChatGPT, also providing GPT-5.6 Luna to free users. This democratizes advanced AI, accelerating feedback and engagement."
+                "headline": "HACKER NEWS: DECODING SILENT READING FROM EEG",
+                "teaserTitle": "AI IN INFRASTRUCTURE ENGINEERING",
+                "visual_caption": "Research decodes silent reading from EEG, enabling direct brain-computer interfaces. This holds long-term architectural implications for human-AI interaction."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: AGENT.MD IMPROVES LLM CODE QUALITY",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Agent.md improves LLM generated code quality, refining syntax, logic, and best practices. This addresses a major bottleneck in AI-assisted development."
+                "headline": "HACKER NEWS: AI IN INFRASTRUCTURE ENGINEERING",
+                "teaserTitle": "",
+                "visual_caption": "AI adoption in infrastructure engineering optimizes design and maintenance. This boosts compute efficiency and reduces operational friction across large deployments."
             },
             {
                 "slide_index": 8,
