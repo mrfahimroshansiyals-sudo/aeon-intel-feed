@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ALABAMA INVESTIGATES OPENAI HACK OF HUGGING FACE",
+        "hookTitle": "GOOGLE DEEPWIND REVEALS GEMINI 3.7 FLASH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ALABAMA: INVESTIGATES OPENAI HACK OF HUGGING FACE",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "headline": "GOOGLE DEEPWIND: REVEALS GEMINI 3.7 FLASH",
+                "teaserTitle": "OPENAI: SLASHES GPT 5.6 SOL PRICING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Alabama has initiated an investigation into OpenAI regarding an alleged hack of Hugging Face. This unprecedented probe raises serious questions about cross-platform AI security protocols."
+                "narration_line": "Google DeepMind reveals Gemini 3.7 Flash as a powerful new workhorse model. The system optimizes advanced coding workflows and autonomous agent operations across enterprise platforms."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
-                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE FOLLOWING $20B PURCHASE",
+                "headline": "OPENAI: SLASHES GPT 5.6 SOL PRICING",
+                "teaserTitle": "EUROPEAN UNION: ENFORCES AI ACT RULES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is bolstering its 'Daybreak' cyber defense capabilities amidst a rapidly shrinking threat window. This measure aims to protect AI infrastructure from advanced autonomous attacks."
+                "narration_line": "OpenAI slashes pricing for GPT 5.6 Sol through late November. This strategic move lowers financial barriers for deploying advanced reasoning agents in corporate environments."
             },
             {
                 "slide_index": 3,
-                "headline": "NVIDIA: GROQ RACKS ONLINE FOLLOWING $20B PURCHASE",
-                "teaserTitle": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE SCALES",
+                "headline": "EUROPEAN UNION: ENFORCES AI ACT RULES",
+                "teaserTitle": "BERKELEY: RELEASES FREETOKEN EDGE MOE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia confirms Groq racks will be operational by late two thousand twenty-six following a twenty billion dollar acquisition. This deployment will significantly accelerate large-scale AI workloads."
+                "narration_line": "The European Union initiates active enforcement of the landmark Artificial Intelligence Act. Companies face strict transparency requirements and heavy regulatory penalties for non-compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "TECH MERGERS: HUGGING FACE ACQUISITION TALKS",
+                "headline": "BERKELEY: RELEASES FREETOKEN EDGE MOE",
+                "teaserTitle": "NVIDIA: CUDA TARGETS RISC-V ARCHITECTURE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI's new GPT five point six model offers frontier intelligence for complex, multi-modal applications. It targets advanced enterprise automation and sophisticated AI agent development."
+                "narration_line": "Researchers release FreeToken as an edge-native Mixture of Experts serving system. The architecture enables large open models to run efficiently on personal client hardware."
             },
             {
                 "slide_index": 5,
-                "headline": "TECH MERGERS: HUGGING FACE ACQUISITION TALKS",
-                "teaserTitle": "HOT CHIPS 2026: CUDA TARGETS RISC-V",
+                "headline": "NVIDIA: CUDA TARGETS RISC-V ARCHITECTURE",
+                "teaserTitle": "TENCENT: DEPLOYS AI INFRA GUARD SHIELD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Hugging Face is reportedly in acquisition talks with a potential valuation reaching thirteen billion dollars. This could reshape the open-source AI model distribution landscape."
+                "narration_line": "Nvidia expands its CUDA ecosystem by explicitly targeting RISC V hardware platforms. This compatibility shift broadens high performance computing options beyond traditional chip architectures."
             },
             {
                 "slide_index": 6,
-                "headline": "HOT CHIPS 2026: CUDA TARGETS RISC-V",
-                "teaserTitle": "HOT CHIPS 2026: HIGH BANDWIDTH FLASH DEPLOYMENT",
+                "headline": "TENCENT: DEPLOYS AI INFRA GUARD SHIELD",
+                "teaserTitle": "MICROSOFT: ACCELERATES AZURE HPC EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Nvidia's CUDA architecture is now targeting RISC-V platforms, broadening hardware options for GPU-accelerated computing. This shift offers potential for diversifying AI and high-performance computing supply chains."
+                "narration_line": "Tencent launches an open source security framework to protect AI infrastructure layers. The tool addresses multi-layered red teaming challenges for autonomous software agents."
             },
             {
                 "slide_index": 7,
-                "headline": "HOT CHIPS 2026: HIGH BANDWIDTH FLASH DEPLOYMENT",
+                "headline": "MICROSOFT: ACCELERATES AZURE HPC EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "High Bandwidth Flash is seeing increased adoption for memory-bound AI workloads, improving data throughput and reducing processing times by over thirty percent. This is critical for real-time inference and large-scale model training."
+                "narration_line": "Microsoft accelerates Azure high performance computing capacity through strategic hardware partnerships. The initiative scales data center infrastructure to support growing enterprise workloads."
             },
             {
                 "slide_index": 8,
