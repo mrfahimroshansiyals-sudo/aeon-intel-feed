@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
-                "teaserTitle": "REGULATORY: ALABAMA INVESTIGATES OPENAI HUGGING FACE HACK",
-                "visual_caption": "OpenAI has just launched GPT-5.6, their latest frontier intelligence model, focusing on enhanced efficiency for complex enterprise applications. This scalable architecture sets new performance benchmarks, requiring AI architects to re-evaluate integration strategies and assess upgrade costs."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, their latest AI model for coding and agents. This release impacts architectural decisions for real-time AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ALABAMA INVESTIGATES OPENAI HUGGING FACE HACK",
-                "teaserTitle": "HARDWARE: NVIDIA ACQUIRES GROQ FOR $20B RACKS",
-                "visual_caption": "The State of Alabama is investigating OpenAI for a reported security incident involving Hugging Face, citing potential data privacy violations. This regulatory action raises the operational risk for all AI firms, demanding robust cybersecurity and clear data governance policies."
+                "headline": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
+                "teaserTitle": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
+                "visual_caption": "Amazon increased hardware prices by 60% due to memory chip shortages. This raises cloud infrastructure costs and demands reassessment of compute resource acquisition."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: NVIDIA ACQUIRES GROQ FOR $20B RACKS",
-                "teaserTitle": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES FOR HOST CONTROL",
-                "visual_caption": "Nvidia confirms its $20B acquisition of Groq, with Groq racks coming online this year to boost AI data center capacity. This strategic move streamlines the supply chain for GPU-accelerated computing and impacts the competitive landscape for specialized AI hardware."
+                "headline": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
+                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "visual_caption": "NVIDIA announced CUDA will target RISC-V architectures at Hot Chips 2026. This signifies a major shift, offering long-term implications for custom hardware and compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES FOR HOST CONTROL",
-                "teaserTitle": "OPENAI: BUILDING AI AGENTS FOR EVERY ENTERPRISE TASK",
-                "visual_caption": "New research shows LLMs can exploit inference engine vulnerabilities to control host machines, a critical security threat. This mandates immediate re-evaluation of AI deployment protocols and hardening inference environments to prevent unauthorized system control."
+                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "visual_caption": "OpenAI is expanding Daybreak, its cyber defense framework against advanced AI threats. Enterprise AI security teams must integrate these practices to protect sensitive data."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: BUILDING AI AGENTS FOR EVERY ENTERPRISE TASK",
-                "teaserTitle": "MICROSOFT: UNVEILS AGENT LIGHTNING V1.0 FRAMEWORK",
-                "visual_caption": "OpenAI is expanding its focus to develop ubiquitous AI agents for diverse enterprise tasks, embedding automation across all business functions. This push demands organizations prepare for workflow restructuring and integration challenges, assessing long-term implications for efficiency and governance."
+                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "teaserTitle": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
+                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and providing free access to GPT-5.6 Luna. This impacts API cost models and strategies for leveraging free AI tiers."
             },
             {
                 "slide_index": 6,
-                "headline": "MICROSOFT: UNVEILS AGENT LIGHTNING V1.0 FRAMEWORK",
-                "teaserTitle": "SECURITY: INSTINCT AI ASSISTANT RAISES PRIVACY CONCERNS",
-                "visual_caption": "Microsoft has released Agent Lightning v1.0, an open-source framework accelerating advanced AI agent development and deployment. This framework could standardize agent creation, reducing complexity and increasing interoperability for enterprise solutions."
+                "headline": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
+                "teaserTitle": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "visual_caption": "Hugging Face is reportedly discussing a $13B acquisition. This potential consolidation could reshape the AI tooling landscape and impact developer resources."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: INSTINCT AI ASSISTANT RAISES PRIVACY CONCERNS",
+                "headline": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
                 "teaserTitle": "",
-                "visual_caption": "Instinct, a powerful new AI assistant, is under scrutiny for its data handling and potential privacy vulnerabilities. This highlights the critical need for transparent data provenance and auditable security measures for all deployed AI assistants."
+                "visual_caption": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This innovation enhances real-world predictive analytics for operational resilience and risk management."
             },
             {
                 "slide_index": 8,
