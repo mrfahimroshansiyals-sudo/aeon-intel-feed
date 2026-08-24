@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EUROPE'S AI SOVEREIGNTY BID",
+        "hookTitle": "FRONTIER AI & MARKET SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "EU DIGITAL STRATEGY: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The European Commission has launched a new Tech Sovereignty Package to boost Europe's digital autonomy in key areas like AI and semiconductors. This initiative mandates alignment from tech firms operating within the European market."
+                "narration_line": "OpenAI launched its GPT-5.6 frontier model, showcasing advanced multimodal reasoning and task execution. This release sets new benchmarks for AI efficiency and performance."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH INTRODUCED",
+                "teaserTitle": "CNBC: ALIBABA $10.2B AI PUSH PLUNGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI reports a narrowing cyber defense window due to advanced AI capabilities, highlighting urgent security vulnerabilities. This demands immediate investment in AI-native security to protect enterprise deployments."
+                "naration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an intelligent model optimized for coding and agentic applications. It emphasizes enhanced speed and efficiency for developer workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "TECHCRUNCH: STEALTH MODEL OX ALPHA EMERGES",
+                "headline": "CNBC: ALIBABA $10.2B AI PUSH PLUNGE",
+                "teaserTitle": "HACKER NEWS: ANTHROPIC OPUS 5 USER ADOPTION STRUGGLE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Inherent AI, a startup from DeepMind alumni, is outperforming Anthropic and OpenAI in research replication tasks. This competitive leap could significantly cut R&D costs and accelerate innovation cycles for enterprises."
+                "narration_line": "Alibaba's shares plunged ten percent after announcing a ten point two billion dollar share placement for AI development. This highlights intense competition and investor profitability concerns."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH: STEALTH MODEL OX ALPHA EMERGES",
-                "teaserTitle": "HACKER NEWS: AI & INFRASTRUCTURE ENGINEERING",
+                "headline": "HACKER NEWS: ANTHROPIC OPUS 5 USER ADOPTION STRUGGLE",
+                "teaserTitle": "GOOGLE DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new stealth AI model, 'Ox Alpha,' is creating significant buzz in the frontier tech community, hinting at unannounced breakthroughs. This introduces strategic uncertainty for competitive intelligence and product roadmapping."
+                "narration_line": "Anthropic's Opus Five model reportedly struggles with user adoption, as cheaper AI tools gain market traction. This poses a strategic dilemma for premium AI developers."
             },
             {
                 "slide_index": 5,
-                "headline": "HACKER NEWS: AI & INFRASTRUCTURE ENGINEERING",
-                "teaserTitle": "CNBC: AMERICA'S AI BACKLASH IMPACT",
+                "headline": "GOOGLE DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AI is increasingly central to infrastructure engineering, optimizing compute efficiency and resource allocation for complex systems. Architects must integrate AI into management for significant cost savings and performance gains."
+                "narration_line": "DeepMind's WeatherNext AI achieved a breakthrough in real-time cyclone forecasting, improving accuracy and lead times for severe weather events. This enhances disaster preparedness."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: AMERICA'S AI BACKLASH IMPACT",
-                "teaserTitle": "TECHCRUNCH: COPYRIGHTED DATA LEGALITY",
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANSION",
+                "teaserTitle": "HACKER NEWS: AGENT.MD IMPROVES LLM CODE QUALITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "America faces an AI backlash within companies, challenging worker trust amid rising automation concerns. AI leaders must prioritize transparent integration and reskilling initiatives to mitigate reputational risks and ensure adoption."
+                "narration_line": "OpenAI expands GPT-5.6 Sol access within ChatGPT, also providing GPT-5.6 Luna to free users. This democratizes advanced AI, accelerating feedback and engagement."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH: COPYRIGHTED DATA LEGALITY",
+                "headline": "HACKER NEWS: AGENT.MD IMPROVES LLM CODE QUALITY",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "The legality of training AI models on copyrighted works remains a complex and hotly debated issue, impacting data acquisition and IP rights. Enterprises using LLMs must conduct thorough legal audits to mitigate infringement risks."
+                "narration_line": "Agent.md improves large language model generated code quality, refining syntax, logic, and best practices. This addresses a major bottleneck in AI-assisted development."
             },
             {
                 "slide_index": 8,
