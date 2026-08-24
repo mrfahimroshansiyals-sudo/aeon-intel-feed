@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
-                "teaserTitle": "SECURITY: LLMS EXPLOITING INFERENCE ENGINES",
-                "visual_caption": "OpenAI has slashed pricing for its GPT-5.6 Sol model, effective immediately until at least Nov 21, 2026. This move aims to boost adoption for high-volume inference, significantly lowering operational costs for businesses."
+                "headline": "ALABAMA: INVESTIGATES OPENAI HACK OF HUGGING FACE",
+                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "visual_caption": "Alabama initiates a probe into OpenAI over an alleged hack of Hugging Face. This raises critical questions about cross-platform AI security."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: LLMS EXPLOITING INFERENCE ENGINES",
-                "teaserTitle": "COMPLIANCE: INSTINCT AI ASSISTANT PRIVACY RISKS",
-                "visual_caption": "New research reveals LLMs can exploit inference engines to control host machines, bypassing sandboxing. This critical vulnerability demands immediate architectural reviews and enhanced isolation for AI infrastructure deployments."
+                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW",
+                "teaserTitle": "NVIDIA: GROQ RACKS ONLINE FOLLOWING $20B PURCHASE",
+                "visual_caption": "OpenAI expands 'Daybreak' cyber defense capabilities as the threat window narrows. This aims to harden AI infrastructure against autonomous attacks."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: INSTINCT AI ASSISTANT PRIVACY RISKS",
-                "teaserTitle": "FRONTIER MODELS: DEEPMIND GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "Instinct's new AI assistant faces privacy and security concerns over its data collection. Enterprises must conduct thorough due diligence on AI tools, evaluating compliance and anonymization to prevent fines."
+                "headline": "NVIDIA: GROQ RACKS ONLINE FOLLOWING $20B PURCHASE",
+                "teaserTitle": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE SCALES",
+                "visual_caption": "Nvidia confirms Groq racks will be online by late 2026 after its $20B acquisition. This deployment will accelerate AI workloads significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "FRONTIER MODELS: DEEPMIND GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "STRATEGIC VISION: OPENAI AI AGENTS FOR EVERYTHING",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic tasks. This release intensifies foundation model competition, offering new efficiency gains for AI development pipelines."
+                "headline": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "TECH MERGERS: HUGGING FACE ACQUISITION TALKS",
+                "visual_caption": "OpenAI's GPT-5.6 offers frontier intelligence for complex, multi-modal applications. It targets advanced enterprise automation and AI agent development."
             },
             {
                 "slide_index": 5,
-                "headline": "STRATEGIC VISION: OPENAI AI AGENTS FOR EVERYTHING",
-                "teaserTitle": "ECONOMIC IMPACT: GOLDMAN SACHS AI REPLACING BANKERS",
-                "visual_caption": "OpenAI is aggressively developing AI agents for a wide range of tasks, signaling a shift towards pervasive autonomous AI. Tech leaders must plan for widespread agentic deployment, focusing on governance and ethical integration."
+                "headline": "TECH MERGERS: HUGGING FACE ACQUISITION TALKS",
+                "teaserTitle": "HOT CHIPS 2026: CUDA TARGETS RISC-V",
+                "visual_caption": "Hugging Face is reportedly in acquisition talks, potentially valued at $13B. This could reshape the open-source AI model distribution landscape."
             },
             {
                 "slide_index": 6,
-                "headline": "ECONOMIC IMPACT: GOLDMAN SACHS AI REPLACING BANKERS",
-                "teaserTitle": "AI RESEARCH: KIDS OUTLEARN AI LANGUAGE",
-                "visual_caption": "A Goldman Sachs partner warns against AI replacing bankers' critical reasoning skills, emphasizing human judgment's value. Firms need a nuanced AI strategy, upskilling human roles to augment rather than supplant expertise."
+                "headline": "HOT CHIPS 2026: CUDA TARGETS RISC-V",
+                "teaserTitle": "HOT CHIPS 2026: HIGH BANDWIDTH FLASH DEPLOYMENT",
+                "visual_caption": "CUDA now targets RISC-V platforms, broadening hardware options for GPU-accelerated computing. This shift diversifies AI and HPC supply chains."
             },
             {
                 "slide_index": 7,
-                "headline": "AI RESEARCH: KIDS OUTLEARN AI LANGUAGE",
+                "headline": "HOT CHIPS 2026: HIGH BANDWIDTH FLASH DEPLOYMENT",
                 "teaserTitle": "",
-                "visual_caption": "MIT Technology Review finds children significantly outlearn AI models in language acquisition, needing far less data. This efficiency gap is key for developing next-generation, data-efficient AI, pushing research into cognitive processes."
+                "visual_caption": "High Bandwidth Flash adoption rises for memory-bound AI workloads, reducing processing times by over 30%. It is critical for real-time inference."
             },
             {
                 "slide_index": 8,
