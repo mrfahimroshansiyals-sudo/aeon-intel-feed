@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH LAUNCH",
-                "visual_caption": "OpenAI has launched GPT-5.6, its new frontier model, enhancing multimodal reasoning for enterprise applications. This aims to overcome critical deployment bottlenecks, promising major performance improvements and architectural shifts."
+                "headline": "REGULATION: COPYRIGHT DATA LEGISLATION",
+                "teaserTitle": "MODELS: STEALTH OX ALPHA EMERGING",
+                "visual_caption": "Training AI on copyrighted materials presents significant compliance risks for enterprises. This regulatory uncertainty forces immediate re-evaluation of data sourcing."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH LAUNCH",
-                "teaserTitle": "ARCHITECTURES: INHERENT AI OUTPERFORMS GIANTS",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, a new workhorse model optimized for speed in coding and agentic tasks. It seeks to balance intelligence with reduced inference costs and quicker execution, improving compute efficiency."
+                "headline": "MODELS: STEALTH OX ALPHA EMERGING",
+                "teaserTitle": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
+                "visual_caption": "A new 'stealth model' named Ox Alpha has emerged, sparking speculation on its capabilities and architecture. Its arrival demands immediate strategic evaluation by AI leaders."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURES: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "MARKET: ANTHROPIC MODELS FACE CHEAPER AI PRESSURE",
-                "visual_caption": "Inherent AI, a startup by DeepMind alumni, reports its 'AI teammate' model surpassed Anthropic and OpenAI in research replication. This indicates a significant leap in AI's capacity for complex scientific reasoning and knowledge generation."
+                "headline": "OPENAI: GPT-5.6 LUNA ACCESS EXPANDED",
+                "teaserTitle": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
+                "visual_caption": "OpenAI expanded free user access to GPT-5.6 Luna, increasing demand on its compute infrastructure. This broadens model availability but challenges inference capacity and cost management."
             },
             {
                 "slide_index": 4,
-                "headline": "MARKET: ANTHROPIC MODELS FACE CHEAPER AI PRESSURE",
-                "teaserTitle": "HARDWARE: WAYMO CUSTOM CHIP POWERS ROBOTAXI AI",
-                "visual_caption": "Anthropic's flagship AI models are reportedly struggling to attract users amid the rise of more cost-effective alternatives. This trend highlights a market preference for optimal price-performance ratios, impacting financial strategies and deployment choices."
+                "headline": "HARDWARE: AI CHIP ARCHITECTURES DIVERSIFY",
+                "teaserTitle": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
+                "visual_caption": "AI chip architectures are diversifying beyond conventional GPU designs for greater compute efficiency. This evolution impacts hardware procurement and infrastructure planning."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: WAYMO CUSTOM CHIP POWERS ROBOTAXI AI",
-                "teaserTitle": "AI RISK: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "Waymo's new robotaxi fleet integrates a custom-designed AI chip, boosting on-board processing and real-time decision-making for autonomous navigation. This specialized silicon enhances operational efficiency and safety metrics significantly."
+                "headline": "MODEL STABILITY: CLAUDE REPORTS ELEVATED ERRORS",
+                "teaserTitle": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
+                "visual_caption": "Anthropic's Claude models reported elevated error rates and API outages, impacting reliability. These disruptions pose significant risk, demanding diversified model use and robust fallback strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "AI RISK: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "COMPUTE: DATA CENTER TRADE FACES NEW PROBLEMS",
-                "visual_caption": "OpenAI is expanding its Daybreak cyber defense initiative to address narrowing windows for mitigating AI-driven threats. This focuses on reinforcing platform security and developing advanced detection mechanisms against increasingly sophisticated cyberattacks."
+                "headline": "DEEPMIND: CYCLONE FORECASTING BREAKTHROUGH",
+                "teaserTitle": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
+                "visual_caption": "DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting, enhancing accuracy and speed. This offers high-value operational insights with optimized compute efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: DATA CENTER TRADE FACES NEW PROBLEMS",
+                "headline": "COMPUTE: NVIDIA AI PRICE HIKES LOOM",
                 "teaserTitle": "",
-                "visual_caption": "The data center industry faces new challenges beyond demand, including supply chain disruptions and energy grid constraints impacting AI compute infrastructure. These issues create significant operational friction for large-scale AI deployments globally."
+                "visual_caption": "NVIDIA customers are warned of impending price hikes for AI hardware and services. This necessitates urgent re-evaluation of compute budgets and hardware procurement strategies."
             },
             {
                 "slide_index": 8,
