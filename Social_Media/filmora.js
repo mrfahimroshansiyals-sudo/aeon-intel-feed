@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI significantly reduced GPT 5.6 Sol model pricing, ensuring competitive rates until at least Nov 21, 2026. This enhances accessibility, impacting compute costs and accelerating enterprise adoption."
+                "headline": "OPENAI: GPT-5.6 FRONTIER SCALING",
+                "teaserTitle": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
+                "visual_caption": "OpenAI has launched GPT-5.6, a model optimized for massive scaling and complex reasoning. This release forces a re-evaluation of inference costs and compute allocations for autonomous systems."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic tasks. This release targets developers seeking efficient and capable AI for complex automated workflows."
+                "headline": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
+                "teaserTitle": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
+                "visual_caption": "Nvidia confirmed that Groq hardware racks will be fully online this year following a $20B purchase. This move integrates high-speed processing with GPU density for ultra-low latency."
             },
             {
                 "slide_index": 3,
-                "headline": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
-                "teaserTitle": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
-                "visual_caption": "Microsoft's MS Paint & Photos now invisibly watermark AI output with a GUID. This establishes a digital trail for content, addressing authenticity and compliance concerns."
+                "headline": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
+                "teaserTitle": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
+                "visual_caption": "Hugging Face is in advanced negotiations for a $13B acquisition by major tech players. This valuation reflects the platform's critical role as the hub for 2M+ models."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
-                "visual_caption": "Hot Chips 2026 saw NVIDIA announce CUDA support for RISC-V architectures. This strategic shift expands CUDA's reach, offering greater flexibility in hardware design for AI workloads."
+                "headline": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
+                "teaserTitle": "EU OFFICE: AI ACT ENFORCEMENT START",
+                "visual_caption": "Xiaomi has unveiled a new processor matching Apple in single-threaded performance while outpacing multithreaded rivals. This hardware targets high-efficiency AI processing for mobile and edge devices."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
-                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
-                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. Its enhanced accuracy improves lead times for critical weather events & disaster preparedness."
+                "headline": "EU OFFICE: AI ACT ENFORCEMENT START",
+                "teaserTitle": "IEEE: INFRARED NEURAL SIGNALING",
+                "visual_caption": "The European Commission has officially started enforcing AI Act rules and transparency requirements. Failure to comply results in heavy fines and potential service suspensions."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
-                "teaserTitle": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
-                "visual_caption": "MIT Technology Review highlights that children vastly outlearn AI models in language acquisition with less data. This cognitive gap points to critical missing elements in current AI architectures."
+                "headline": "IEEE: INFRARED NEURAL SIGNALING",
+                "teaserTitle": "TENCENT: MULTI-LAYER AGENT SECURITY",
+                "visual_caption": "Researchers debuted a brain implant using infrared light instead of electrical pulses for signal transmission. This method reduces interference and improves resolution for next-gen neural interfaces."
             },
             {
                 "slide_index": 7,
-                "headline": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
-                "teaserTitle": "",
-                "visual_caption": "Truist analysts forecast CoreWeave shares will nearly double despite rising chip costs. This reflects strong market confidence and sustained demand for specialized AI compute infrastructure."
+                "headline": "TENCENT: MULTI-LAYER AGENT SECURITY",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Tencent released a unified framework for multi-layer red teaming of autonomous agent systems. The framework addresses vulnerabilities across protocols to prevent autonomous manipulation."
             },
             {
                 "slide_index": 8,

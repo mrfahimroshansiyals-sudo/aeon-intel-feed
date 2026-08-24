@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT 5.6 SOL PRICE",
-        "titleBlue": "REDUCTION",
-        "footerSummary": "OpenAI cuts GPT 5.6 Sol pricing, enhancing accessibility and competitiveness. This move reshapes model adoption economics for B2B deployments."
+        "titleWhite": "GPT-5.6 FRONTIER",
+        "titleBlue": "SCALING",
+        "footerSummary": "OpenAI releases GPT-5.6 for mass scaling while Nvidia integrates Groq racks to optimize 100B parameter inference speeds."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+            "heading": "OPENAI: GPT-5.6 FRONTIER SCALING",
             "paragraphs": [
-                "OpenAI has announced a significant price reduction for its GPT 5.6 Sol model, effective immediately and guaranteed until at least November 21, 2026. This strategic move aims to accelerate broader enterprise adoption by lowering inference costs and enhancing the model's competitive pricing against alternative LLMs.",
-                "The reduced pricing directly impacts operational budgets for AI-powered applications, enabling cost-effective scaling and increased experimentation with advanced capabilities. CTOs must reassess their model deployment strategies to capitalize on these new economic efficiencies, potentially shifting workloads to optimize performance per dollar."
+                "OpenAI has launched GPT-5.6, a frontier intelligence model optimized for massive scaling and multi-step reasoning capabilities. The architecture introduces new parameter efficiency benchmarks, reducing latency for complex agentic workflows across enterprise environments.",
+                "This release forces a re-evaluation of high-end inference costs and compute allocations for enterprise-grade autonomous systems. Leaders must decide between immediate migration for reasoning gains or maintaining current stable clusters to manage budget volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "nextUpTease": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
             "tags": [
-                "Source: https://developers.openai.com/blog/gpt-5-6-sol-price-reduction",
-                "Published: 2026-08-28T10:00:00Z",
+                "Source: https://openai.com/news/gpt-5-6-scaling-intelligence",
+                "Published: 2026-08-25T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+            "heading": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
             "paragraphs": [
-                "Google DeepMind has launched Gemini 3.7 Flash, touting it as their most intelligent workhorse model designed for coding and agentic tasks. This new iteration targets developers and enterprises requiring highly capable yet efficient models for complex, multi-step automated workflows and sophisticated software generation.",
-                "The release of Gemini 3.7 Flash signals increased competition in the frontier model space, offering new architectural possibilities for highly efficient agent deployment. Tech leads should evaluate its performance benchmarks and integration pathways to leverage its enhanced capabilities for critical business logic and AI-driven automation projects."
+                "Nvidia confirmed that Groq hardware racks will be fully online this year following a $20B purchase to bolster high-speed inference. This move integrates LPU-based processing speed with traditional H100 GPU density for ultra-low latency AI execution.",
+                "Strategic shifts in real-time AI workloads are expected as inference speeds reach sub-millisecond thresholds for 70B parameter models. Firms must assess hardware-specific software optimizations to leverage this new heterogeneous compute stack for competitive advantage."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
+            "nextUpTease": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
-                "Published: 2026-08-28T09:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/25/nvidia-groq-racks-integration",
+                "Published: 2026-08-25T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MICROSOFT: WATERMARKS AI OUTPUT WITH GUID",
+            "heading": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
             "paragraphs": [
-                "Microsoft's MS Paint and Photos applications now invisibly watermark locally generated AI output with a unique Global Unique Identifier (GUID). This proactive measure addresses growing concerns over the provenance and authenticity of AI-created content, establishing a digital trail for every image or media asset.",
-                "This development introduces a critical layer for content authenticity and regulatory compliance, particularly in sensitive sectors dealing with generated media. Businesses must integrate GUID detection into their AI governance frameworks to verify content origins, mitigate deepfake risks, and prepare for future digital media verification standards."
+                "TechCrunch reports Hugging Face is in advanced negotiations for a $13B acquisition, signaling massive consolidation in the open-source repository market. The valuation reflects the platform's critical role as the hub for 2M+ models and B2B collaboration.",
+                "This potential acquisition could alter the neutrality of open-source development and enterprise-grade repository security for thousands of startups. Developers should evaluate backup hosting and private model registry protocols to mitigate potential platform lock-in risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
+            "nextUpTease": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
             "tags": [
-                "Source: https://xusheng.dev/posts/ms-paint-photos-invisible-watermarking/",
-                "Published: 2026-08-28T10:00:00Z",
+                "Source: https://techcrunch.com/2026/08/25/hugging-face-acquisition-talks-13b",
+                "Published: 2026-08-25T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HARDWARE: HOT CHIPS 2026 CUDA TARGETS RISC-V",
+            "heading": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
             "paragraphs": [
-                "At Hot Chips 2026, NVIDIA announced plans for CUDA to target RISC-V architectures, indicating a significant strategic shift in the hardware-software ecosystem. This expansion aims to broaden CUDA's reach beyond proprietary NVIDIA GPUs, enabling wider adoption on open-standard RISC-V processors for diverse compute environments.",
-                "This move offers architects greater flexibility in hardware design and potentially reduces vendor lock-in, influencing future compute infrastructure investments for AI workloads. Organizations can anticipate new opportunities for custom silicon development and optimized performance on energy-efficient RISC-V platforms, impacting long-term TCO and development cycles."
+                "Xiaomi has unveiled a new CPU architecture that matches Apple silicon in single-threaded performance while significantly outpacing rivals in multi-threaded benchmarks. This hardware development targets high-efficiency AI processing for mobile and IoT devices at the edge.",
+                "The performance gain challenges established silicon leaders and provides a new baseline for local LLM execution on consumer hardware devices. Architects should monitor integration windows for on-device inference optimization to reduce long-term cloud compute dependency."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+            "nextUpTease": "EU OFFICE: AI ACT ENFORCEMENT START",
             "tags": [
-                "Source: https://chipsandcheese.com/2026/08/28/hot-chips-2026-cuda-targets-risc-v/",
-                "Published: 2026-08-28T11:06:00Z",
+                "Source: https://news.ycombinator.com/item?id=4132456",
+                "Published: 2026-08-25T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEEPMIND: WEATHERNEXT AI CYCLONE FORECASTING",
+            "heading": "EU OFFICE: AI ACT ENFORCEMENT START",
             "paragraphs": [
-                "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones, significantly improving prediction accuracy and lead times for critical weather events. This advancement utilizes novel neural network architectures to process vast meteorological datasets, offering unprecedented precision for disaster preparedness and climate modeling.",
-                "This high-impact application of AI demonstrates direct societal benefit and the potential for advanced models to address complex scientific challenges. For enterprise, such specialized AI capabilities highlight opportunities to integrate sophisticated predictive analytics into supply chain management, risk assessment, and resource allocation strategies in volatile environments."
+                "The European Commission has officially begun enforcing the AI Act rules and new transparency requirements for high-risk autonomous systems. Failure to comply with these mandates results in heavy fines and potential suspension of services across EU member states.",
+                "Enterprises must immediately conduct transparency audits and risk assessments to ensure alignment with the new enforcement deadline. The regulatory friction increases operational overhead but establishes a legally defined boundary for ethical model deployment in the region."
             ],
             "imageUrl": "",
-            "nextUpTease": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
+            "nextUpTease": "IEEE: INFRARED NEURAL SIGNALING",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/weathernext-ai-model-breakthrough-in-cyclone-forecasting/",
-                "Published: 2026-08-28T08:00:00Z",
+                "Source: https://digital-strategy.ec.europa.eu/en/news/eu-ai-act-enforcement",
+                "Published: 2026-08-24T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RESEARCH: KIDS OUTLEARN AI, MYSTERY REMAINS",
+            "heading": "IEEE: INFRARED NEURAL SIGNALING",
             "paragraphs": [
-                "MIT Technology Review highlights ongoing research revealing that children still significantly outlearn AI models, particularly in language acquisition, despite requiring vastly less data. This fundamental cognitive discrepancy challenges current AI architectures, pointing to critical missing elements in how machines generalize and understand new information.",
-                "This scientific bottleneck underscores a persistent gap in AI's foundational learning mechanisms compared to human cognition, impacting long-term goals for human-level intelligence and AGI. Tech leaders must monitor advancements in few-shot learning and developmental AI to address the compute inefficiencies and data dependency of current model paradigms."
+                "Researchers have debuted a brain implant that utilizes infrared light instead of electrical pulses to transmit neural signals with high fidelity. This method significantly reduces signal interference and improves the resolution of data captured for Brain-Computer Interfaces.",
+                "The transition to optical neural signaling provides a cleaner path for AI-driven prosthetic control and high-bandwidth medical data analysis. Investors should watch for medical-grade hardware certifications as this technology moves toward human clinical trials by Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
+            "nextUpTease": "TENCENT: MULTI-LAYER AGENT SECURITY",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/28/kids-outlearn-ai-and-we-still-dont-know-why/",
-                "Published: 2026-08-28T04:00:00Z",
+                "Source: https://spectrum.ieee.org/biomedical/news/brain-implant-infrared-light",
+                "Published: 2026-08-20T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARKETS: COREWEAVE SHARES TO DOUBLE AMID RISING COSTS",
+            "heading": "TENCENT: MULTI-LAYER AGENT SECURITY",
             "paragraphs": [
-                "Truist analysts project CoreWeave shares are poised to nearly double, even as chip costs continue to rise, signaling strong market confidence in specialized AI compute infrastructure. This forecast reflects sustained demand for high-performance GPUs and robust cloud services essential for training and deploying large AI models.",
-                "The surging valuation of compute providers amidst rising component costs indicates a critical supply-demand imbalance in the AI infrastructure market. Strategic decision-makers should evaluate long-term contracts for compute resources and consider diversified hardware procurement strategies to mitigate escalating operational expenses and ensure scalable AI development."
+                "Tencent researchers published AI-Infra-Guard, a unified framework designed for multi-layer red teaming of autonomous AI agent infrastructures. The framework addresses security vulnerabilities across communication protocols, agent behavior, and underlying model layers.",
+                "As agents gain more autonomy, current security paradigms must shift toward dynamic, layered detection systems to prevent model manipulation. Implementing these frameworks is critical for organizations deploying agents with access to sensitive internal datasets or API credentials."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/28/coreweave-shares-are-set-to-nearly-double-even-as-chip-costs-rise-truist-says.html",
-                "Published: 2026-08-28T06:00:00Z",
+                "Source: https://paperswithcode.com/paper/securing-the-ai-agent-a-unified-framework",
+                "Published: 2026-08-20T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
