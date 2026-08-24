@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 ACCESS EXPANSION",
+        "hookTitle": "EUROPE'S AI SOVEREIGNTY BID",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
-                "teaserTitle": "LLM CORE VULNERABILITY EXPOSED",
+                "headline": "EU DIGITAL STRATEGY: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI improved its GPT-5.6 Sol model and expanded free access to GPT-5.6 Luna, refining frontier intelligence offerings for broader use. This move reshapes API consumption, pushing enterprises to optimize their model strategies and leverage new performance tiers."
+                "narration_line": "The European Commission has launched a new Tech Sovereignty Package to boost Europe's digital autonomy in key areas like AI and semiconductors. This initiative mandates alignment from tech firms operating within the European market."
             },
             {
                 "slide_index": 2,
-                "headline": "MIT TECH REVIEW: LLM CORE VULNERABILITY EXPOSED",
-                "teaserTitle": "ALIBABA $10.2B AI FUNDING PUSH",
+                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A fundamental flaw makes large language models vulnerable to harmful content generation, raising critical safety concerns. Companies must immediately re-evaluate security protocols, implementing robust safeguards against manipulation risks."
+                "narration_line": "OpenAI reports a narrowing cyber defense window due to advanced AI capabilities, highlighting urgent security vulnerabilities. This demands immediate investment in AI-native security to protect enterprise deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "CNBC: ALIBABA $10.2B AI FUNDING PUSH",
-                "teaserTitle": "GEMINI 3.7 FLASH MODEL DEBUT",
+                "headline": "TECHCRUNCH: INHERENT AI OUTPERFORMS GIANTS",
+                "teaserTitle": "TECHCRUNCH: STEALTH MODEL OX ALPHA EMERGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Alibaba Group announced a ten point two billion dollar share placement, earmarked for accelerating its artificial intelligence research and development. This massive investment positions Alibaba as a formidable challenger, intensifying competition across the global AI market."
+                "narration_line": "Inherent AI, a startup from DeepMind alumni, is outperforming Anthropic and OpenAI in research replication tasks. This competitive leap could significantly cut R&D costs and accelerate innovation cycles for enterprises."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH MODEL DEBUT",
-                "teaserTitle": "DATACENTER SUPPLY CHAIN CHALLENGE",
+                "headline": "TECHCRUNCH: STEALTH MODEL OX ALPHA EMERGES",
+                "teaserTitle": "HACKER NEWS: AI & INFRASTRUCTURE ENGINEERING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind launched Gemini three point seven Flash, optimized for coding and complex agentic tasks. This impacts developers seeking efficient AI for advanced automation, requiring assessment of benchmarks to optimize technical architectures."
+                "narration_line": "A new stealth AI model, 'Ox Alpha,' is creating significant buzz in the frontier tech community, hinting at unannounced breakthroughs. This introduces strategic uncertainty for competitive intelligence and product roadmapping."
             },
             {
                 "slide_index": 5,
-                "headline": "CNBC: DATACENTER SUPPLY CHAIN CHALLENGE",
-                "teaserTitle": "ANTHROPIC MODEL USER STRUGGLE",
+                "headline": "HACKER NEWS: AI & INFRASTRUCTURE ENGINEERING",
+                "teaserTitle": "CNBC: AMERICA'S AI BACKLASH IMPACT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The global data center trade faces significant supply chain challenges, impacting component availability and construction timelines. Infrastructure planners must anticipate extended lead times and cost escalations, affecting AI development roadmaps."
+                "narration_line": "AI is increasingly central to infrastructure engineering, optimizing compute efficiency and resource allocation for complex systems. Architects must integrate AI into management for significant cost savings and performance gains."
             },
             {
                 "slide_index": 6,
-                "headline": "HACKER NEWS: ANTHROPIC MODEL USER STRUGGLE",
-                "teaserTitle": "NANO BANANA 2 LITE DEPLOYED",
+                "headline": "CNBC: AMERICA'S AI BACKLASH IMPACT",
+                "teaserTitle": "TECHCRUNCH: COPYRIGHTED DATA LEGALITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Anthropic's AI models are reportedly struggling with user adoption due to cheaper, competitive tools in the market. This pressure forces AI leaders to examine value propositions and pricing, balancing performance with budget constraints."
+                "narration_line": "America faces an AI backlash within companies, challenging worker trust amid rising automation concerns. AI leaders must prioritize transparent integration and reskilling initiatives to mitigate reputational risks and ensure adoption."
             },
             {
                 "slide_index": 7,
-                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE DEPLOYED",
-                "teaserTitle": "",
+                "headline": "TECHCRUNCH: COPYRIGHTED DATA LEGALITY",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind deployed Nano Banana two Lite, a compact and efficient Gemini Image model for rapid visual AI tasks. This lightweight model offers significant advantages for edge computing, reducing latency and operational costs."
+                "naration_line": "The legality of training AI models on copyrighted works remains a complex and hotly debated issue, impacting data acquisition and IP rights. Enterprises using LLMs must conduct thorough legal audits to mitigate infringement risks."
             },
             {
                 "slide_index": 8,
