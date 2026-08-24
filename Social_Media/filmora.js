@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: DATACENTER TRADE FACES PRESSURE",
-                "teaserTitle": "RESEARCH: WEATHERNEXT AI MODEL BREAKTHROUGH",
-                "visual_caption": "The data center industry now faces critical issues beyond just demand, including power limitations and supply chain bottlenecks affecting new expansions. This directly impacts compute infrastructure strategies for large-scale AI model training and inference workloads."
+                "headline": "OPENAI: FRONTIER INTEL SCALES WITH AMBITION",
+                "teaserTitle": "REGULATION: EU ENFORCES AI ACT RULES",
+                "visual_caption": "OpenAI detailed the GPT-5.6 architecture to scale frontier intelligence. Specialized variants optimize enterprise workloads and reduce infrastructure friction."
             },
             {
                 "slide_index": 2,
-                "headline": "RESEARCH: WEATHERNEXT AI MODEL BREAKTHROUGH",
-                "teaserTitle": "COMPETITION: INHERENT AI OUTPERFORMS GIANTS",
-                "visual_caption": "DeepMind's WeatherNext AI model has achieved a significant breakthrough in cyclone forecasting, delivering unprecedented accuracy and extended lead times. This advancement utilizes sophisticated neural networks to process vast meteorological datasets, improving predictions for severe weather."
+                "headline": "REGULATION: EU ENFORCES AI ACT RULES",
+                "teaserTitle": "HARDWARE: CHIPMAKING POWERED BY 400M MACHINE",
+                "visual_caption": "The European Commission initiated strict enforcement for AI Act transparency rules. Penalties demand rapid internal audits across global corporate infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPETITION: INHERENT AI OUTPERFORMS GIANTS",
-                "teaserTitle": "MARKET: ANTHROPIC MODEL ADOPTION CHALLENGE",
-                "visual_caption": "Inherent, a startup founded by DeepMind alumni, claims its new AI system has surpassed leading models from Anthropic and OpenAI in key research replication benchmarks. This highlights intense competitive pressures in AI performance, especially for tasks requiring high-fidelity scientific analysis."
+                "headline": "HARDWARE: CHIPMAKING POWERED BY 400M MACHINE",
+                "teaserTitle": "COMPETITION: INHERENT AI TEAMMATE OUTPERFORMS GIANTS",
+                "visual_caption": "A $400M lithography system powers next-generation semiconductor manufacturing. ASML hardware bottlenecks dictate scaling paces for compute clusters."
             },
             {
                 "slide_index": 4,
-                "headline": "MARKET: ANTHROPIC MODEL ADOPTION CHALLENGE",
-                "teaserTitle": "HARDWARE: AI CHIP ARCHITECTURES DIVERGE",
-                "visual_caption": "Reports indicate Anthropic's flagship AI models are struggling with user adoption, as developers increasingly choose more affordable and accessible alternative tools. This trend suggests a growing market preference for cost-efficiency over marginal performance gains at the AI frontier."
+                "headline": "COMPETITION: INHERENT AI TEAMMATE OUTPERFORMS GIANTS",
+                "teaserTitle": "INFRASTRUCTURE: DATACENTER FLEX SOFTWARE DEMAND",
+                "visual_caption": "Inherent launched an AI teammate outperforming major foundation models in benchmarks. Multi-agent architectures challenge legacy API ecosystem dominance."
             },
             {
                 "slide_index": 5,
-                "headline": "HARDWARE: AI CHIP ARCHITECTURES DIVERGE",
-                "teaserTitle": "OPTIMIZATION: QWEN 3.8-27B MLX RELEASE",
-                "visual_caption": "Discussions on Hacker News highlight diverging trends in AI chip architectures, with specialized ASICs and adaptable GPUs competing for dominance in high-performance computing. The debate centers on optimizing for specific model types versus maintaining general-purpose flexibility and ecosystem maturity."
+                "headline": "INFRASTRUCTURE: DATACENTER FLEX SOFTWARE DEMAND",
+                "teaserTitle": "RESEARCH: FREE-TOKEN EDGE NATIVE MOE SERVING",
+                "visual_caption": "Datacenter operators are deploying flex software to manage power grid constraints. Energy throttling prevents outages during peak computational workloads."
             },
             {
                 "slide_index": 6,
-                "headline": "OPTIMIZATION: QWEN 3.8-27B MLX RELEASE",
-                "teaserTitle": "REGULATION: AI COPYRIGHT TRAINING DEBATE",
-                "visual_caption": "The Hugging Face community has released an MLX-accelerated, uncensored version of the Qwen3.8-27B model, enhancing performance and reducing inference latency on Apple Silicon. This optimization facilitates more efficient local deployments of large language models for specialized applications."
+                "headline": "RESEARCH: FREE-TOKEN EDGE NATIVE MOE SERVING",
+                "teaserTitle": "SECURITY: SECURING AI AGENT RED TEAMING",
+                "visual_caption": "Berkeley researchers introduced FreeToken for bandwidth-adaptive MoE serving. The framework enables efficient large model execution on standard hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: AI COPYRIGHT TRAINING DEBATE",
+                "headline": "SECURITY: SECURING AI AGENT RED TEAMING",
                 "teaserTitle": "",
-                "visual_caption": "The legal framework for training AI models on copyrighted materials remains complex and contentious, with ongoing lawsuits challenging current industry practices. This legal uncertainty poses significant risks to the future development of foundation models and the availability of essential training data."
+                "visual_caption": "Tencent released AI-Infra-Guard for multi-layer red teaming of agent deployments. Security officers must integrate these protocols to prevent network vulnerabilities."
             },
             {
                 "slide_index": 8,
