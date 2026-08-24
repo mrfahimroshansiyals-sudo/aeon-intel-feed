@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LLM ATTACK VULNERABILITIES DECODED",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI RISK: LLM ATTACK VULNERABILITIES",
-                "teaserTitle": "HARDWARE: IBM CHIP BREAKTHROUGH",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH LAUNCH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A critical flaw leaves large language models vulnerable to malicious attacks, forcing immediate re-evaluation of deployment protocols. This introduces significant operational friction and escalated risk for businesses using AI models."
+                "narration_line": "OpenAI has launched GPT five point six, its new frontier model, enhancing multimodal reasoning for enterprise applications. This aims to overcome critical deployment bottlenecks, promising major performance improvements and architectural shifts."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: IBM CHIP BREAKTHROUGH",
-                "teaserTitle": "COMPLIANCE: AI MODEL COPYRIGHT CONCERNS",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH LAUNCH",
+                "teaserTitle": "ARCHITECTURES: INHERENT AI OUTPERFORMS GIANTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "IBM has unveiled new chip technology designed to extend Moore's Law for another decade, promising major gains in processing power for AI workloads. This offers a strategic path for enterprises to future-proof their AI infrastructure, reducing long-term compute costs."
+                "narration_line": "Google DeepMind introduces Gemini three point seven Flash, a new workhorse model optimized for speed in coding and agentic tasks. It seeks to balance intelligence with reduced inference costs and quicker execution, improving compute efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: AI MODEL COPYRIGHT CONCERNS",
-                "teaserTitle": "OPERATIONS: CLAUDE API SERVICE OUTAGES",
+                "headline": "ARCHITECTURES: INHERENT AI OUTPERFORMS GIANTS",
+                "teaserTitle": "MARKET: ANTHROPIC MODELS FACE CHEAPER AI PRESSURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Legal challenges regarding training AI models on copyrighted data are escalating, creating uncertainty for developers. This regulatory ambiguity presents substantial risk, demanding robust data governance and legal strategies from companies."
+                "narration_line": "Inherent AI, a startup by DeepMind alumni, reports its 'AI teammate' model surpassed Anthropic and OpenAI in research replication. This indicates a significant leap in AI's capacity for complex scientific reasoning and knowledge generation."
             },
             {
                 "slide_index": 4,
-                "headline": "OPERATIONS: CLAUDE API SERVICE OUTAGES",
-                "teaserTitle": "COMPUTE: NVIDIA AI PRICE HIKES",
+                "headline": "MARKET: ANTHROPIC MODELS FACE CHEAPER AI PRESSURE",
+                "teaserTitle": "HARDWARE: WAYMO CUSTOM CHIP POWERS ROBOTAXI AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's Claude API has experienced significant service outages and elevated error rates, disrupting numerous integrated applications. These outages underscore financial and strategic implications for enterprises dependent on single-provider AI services."
+                "narration_line": "Anthropic's flagship AI models are reportedly struggling to attract users amid the rise of more cost-effective alternatives. This trend highlights a market preference for optimal price-performance ratios, impacting financial strategies and deployment choices."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPUTE: NVIDIA AI PRICE HIKES",
-                "teaserTitle": "ENTERPRISE: ALIBABA $10.2B AI FUNDING",
+                "headline": "HARDWARE: WAYMO CUSTOM CHIP POWERS ROBOTAXI AI",
+                "teaserTitle": "AI RISK: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Nvidia customers are reportedly warned about impending AI-related price increases, reflecting growing demand for GPU hardware. These hikes will impact AI initiative costs, urging businesses to optimize models and evaluate alternative hardware strategies."
+                "narration_line": "Waymo's new robotaxi fleet integrates a custom-designed AI chip, boosting on-board processing and real-time decision-making for autonomous navigation. This specialized silicon enhances operational efficiency and safety metrics significantly."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE: ALIBABA $10.2B AI FUNDING",
-                "teaserTitle": "ARCHITECTURES: AGENTIC AI FOR ROOT CAUSE",
+                "headline": "AI RISK: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "COMPUTE: DATA CENTER TRADE FACES NEW PROBLEMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Alibaba's shares plunged by 10% after a $10.2 billion share placement to fund its AI expansion, signaling a major strategic pivot. This capital injection will intensify competition in the AI market, as major players vie for strategic advantage."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative to address narrowing windows for mitigating AI-driven threats. This focuses on reinforcing platform security and developing advanced detection mechanisms against increasingly sophisticated cyberattacks."
             },
             {
                 "slide_index": 7,
-                "headline": "ARCHITECTURES: AGENTIC AI FOR ROOT CAUSE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "COMPUTE: DATA CENTER TRADE FACES NEW PROBLEMS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New methodologies are emerging for accelerating root cause analysis using Agentic AI, promising more efficient diagnosis of system failures. Integrating Agentic AI into diagnostic pipelines offers a direct path to boosting compute efficiency and operational resilience."
+                "narration_line": "The data center industry faces new challenges beyond demand, including supply chain disruptions and energy grid constraints impacting AI compute infrastructure. These issues create significant operational friction for large-scale AI deployments globally."
             },
             {
                 "slide_index": 8,
