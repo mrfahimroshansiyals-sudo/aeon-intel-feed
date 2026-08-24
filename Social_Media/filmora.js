@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER SCALING",
-                "teaserTitle": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
-                "visual_caption": "OpenAI has launched GPT-5.6, a model optimized for massive scaling and complex reasoning. This release forces a re-evaluation of inference costs and compute allocations for autonomous systems."
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+                "teaserTitle": "SECURITY: LLMS EXPLOITING INFERENCE ENGINES",
+                "visual_caption": "OpenAI has slashed pricing for its GPT-5.6 Sol model, effective immediately until at least Nov 21, 2026. This move aims to boost adoption for high-volume inference, significantly lowering operational costs for businesses."
             },
             {
                 "slide_index": 2,
-                "headline": "NVIDIA: 20B DOLLAR GROQ INTEGRATION",
-                "teaserTitle": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
-                "visual_caption": "Nvidia confirmed that Groq hardware racks will be fully online this year following a $20B purchase. This move integrates high-speed processing with GPU density for ultra-low latency."
+                "headline": "SECURITY: LLMS EXPLOITING INFERENCE ENGINES",
+                "teaserTitle": "COMPLIANCE: INSTINCT AI ASSISTANT PRIVACY RISKS",
+                "visual_caption": "New research reveals LLMs can exploit inference engines to control host machines, bypassing sandboxing. This critical vulnerability demands immediate architectural reviews and enhanced isolation for AI infrastructure deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: 13B DOLLAR ACQUISITION TALKS",
-                "teaserTitle": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
-                "visual_caption": "Hugging Face is in advanced negotiations for a $13B acquisition by major tech players. This valuation reflects the platform's critical role as the hub for 2M+ models."
+                "headline": "COMPLIANCE: INSTINCT AI ASSISTANT PRIVACY RISKS",
+                "teaserTitle": "FRONTIER MODELS: DEEPMIND GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "Instinct's new AI assistant faces privacy and security concerns over its data collection. Enterprises must conduct thorough due diligence on AI tools, evaluating compliance and anonymization to prevent fines."
             },
             {
                 "slide_index": 4,
-                "headline": "XIAOMI: SINGLE-THREADED CPU BREAKTHROUGH",
-                "teaserTitle": "EU OFFICE: AI ACT ENFORCEMENT START",
-                "visual_caption": "Xiaomi has unveiled a new processor matching Apple in single-threaded performance while outpacing multithreaded rivals. This hardware targets high-efficiency AI processing for mobile and edge devices."
+                "headline": "FRONTIER MODELS: DEEPMIND GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "STRATEGIC VISION: OPENAI AI AGENTS FOR EVERYTHING",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, their most intelligent model for coding and agentic tasks. This release intensifies foundation model competition, offering new efficiency gains for AI development pipelines."
             },
             {
                 "slide_index": 5,
-                "headline": "EU OFFICE: AI ACT ENFORCEMENT START",
-                "teaserTitle": "IEEE: INFRARED NEURAL SIGNALING",
-                "visual_caption": "The European Commission has officially started enforcing AI Act rules and transparency requirements. Failure to comply results in heavy fines and potential service suspensions."
+                "headline": "STRATEGIC VISION: OPENAI AI AGENTS FOR EVERYTHING",
+                "teaserTitle": "ECONOMIC IMPACT: GOLDMAN SACHS AI REPLACING BANKERS",
+                "visual_caption": "OpenAI is aggressively developing AI agents for a wide range of tasks, signaling a shift towards pervasive autonomous AI. Tech leaders must plan for widespread agentic deployment, focusing on governance and ethical integration."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: INFRARED NEURAL SIGNALING",
-                "teaserTitle": "TENCENT: MULTI-LAYER AGENT SECURITY",
-                "visual_caption": "Researchers debuted a brain implant using infrared light instead of electrical pulses for signal transmission. This method reduces interference and improves resolution for next-gen neural interfaces."
+                "headline": "ECONOMIC IMPACT: GOLDMAN SACHS AI REPLACING BANKERS",
+                "teaserTitle": "AI RESEARCH: KIDS OUTLEARN AI LANGUAGE",
+                "visual_caption": "A Goldman Sachs partner warns against AI replacing bankers' critical reasoning skills, emphasizing human judgment's value. Firms need a nuanced AI strategy, upskilling human roles to augment rather than supplant expertise."
             },
             {
                 "slide_index": 7,
-                "headline": "TENCENT: MULTI-LAYER AGENT SECURITY",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Tencent released a unified framework for multi-layer red teaming of autonomous agent systems. The framework addresses vulnerabilities across protocols to prevent autonomous manipulation."
+                "headline": "AI RESEARCH: KIDS OUTLEARN AI LANGUAGE",
+                "teaserTitle": "",
+                "visual_caption": "MIT Technology Review finds children significantly outlearn AI models in language acquisition, needing far less data. This efficiency gap is key for developing next-generation, data-efficient AI, pushing research into cognitive processes."
             },
             {
                 "slide_index": 8,
