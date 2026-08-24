@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: OPEN-SOURCE AI TIME-RELEASE BACKDOORS",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
-                "visual_caption": "New research reveals critical time-release backdoors in open-source AI models, activatable remotely. This security flaw demands aggressive auditing protocols for all integrated systems."
+                "headline": "AI RISK: LLM ATTACK VULNERABILITIES",
+                "teaserTitle": "HARDWARE: IBM CHIP BREAKTHROUGH",
+                "visual_caption": "A fundamental flaw leaves LLMs vulnerable to attacks, demanding immediate re-evaluation of deployment protocols. This introduces significant operational friction and escalated risk for businesses using AI models."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
-                "teaserTitle": "HARDWARE: ADVANCED AI CHIP ARCHITECTURES",
-                "visual_caption": "OpenAI improved its GPT-5.6 Sol and expanded free access to GPT-5.6 Luna. These updates aim to democratize advanced AI capabilities."
+                "headline": "HARDWARE: IBM CHIP BREAKTHROUGH",
+                "teaserTitle": "COMPLIANCE: AI MODEL COPYRIGHT CONCERNS",
+                "visual_caption": "IBM has unveiled new chip tech to extend Moore\u2019s Law by 10 years, promising major gains in processing power for AI. This offers a strategic path for enterprises to future-proof their AI infrastructure, cutting long-term compute costs."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: ADVANCED AI CHIP ARCHITECTURES",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "New AI chip architectures optimize processing for large language models, promising substantial gains in compute efficiency. These innovations address hardware bottlenecks for frontier AI."
+                "headline": "COMPLIANCE: AI MODEL COPYRIGHT CONCERNS",
+                "teaserTitle": "OPERATIONS: CLAUDE API SERVICE OUTAGES",
+                "visual_caption": "Legal complexities around training AI models on copyrighted data are intensifying, creating uncertainty for developers. This regulatory ambiguity presents substantial risk, demanding robust data governance and legal strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "TECHCRUNCH: MYSTERY 'OX ALPHA' AI MODEL",
-                "visual_caption": "Google DeepMind launched Gemini 3.7 Flash, optimized for speed and cost-efficiency in rapid deployments. This offers an economical alternative for integrating advanced AI."
+                "headline": "OPERATIONS: CLAUDE API SERVICE OUTAGES",
+                "teaserTitle": "COMPUTE: NVIDIA AI PRICE HIKES",
+                "visual_caption": "Anthropic's Claude API experienced significant outages and elevated error rates, disrupting numerous integrated apps. These issues underscore financial and strategic implications for enterprises dependent on single-provider AI services."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: MYSTERY 'OX ALPHA' AI MODEL",
-                "teaserTitle": "ANTHROPIC: USER STRUGGLES VS CHEAPER AI",
-                "visual_caption": "TechCrunch reports on a new \u2018stealth model\u2019 named Ox Alpha, sparking speculation on its origins. This could signal a significant new player in frontier AI."
+                "headline": "COMPUTE: NVIDIA AI PRICE HIKES",
+                "teaserTitle": "ENTERPRISE: ALIBABA $10.2B AI FUNDING",
+                "visual_caption": "Nvidia customers are reportedly warned about upcoming AI-related price increases, reflecting surging demand for GPU hardware. These hikes will impact AI initiative costs, urging businesses to optimize models and evaluate alternative hardware."
             },
             {
                 "slide_index": 6,
-                "headline": "ANTHROPIC: USER STRUGGLES VS CHEAPER AI",
-                "teaserTitle": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY",
-                "visual_caption": "Anthropic's top AI models struggle to attract users as cheaper, accessible alternatives gain traction. This trend prioritizes price-performance over absolute frontier capabilities."
+                "headline": "ENTERPRISE: ALIBABA $10.2B AI FUNDING",
+                "teaserTitle": "ARCHITECTURES: AGENTIC AI FOR ROOT CAUSE",
+                "visual_caption": "Alibaba shares plunged 10% after a $10.2B share placement to fund its AI expansion, signaling a major strategic pivot. This capital injection will intensify competition in the AI market, as major players vie for strategic advantage."
             },
             {
                 "slide_index": 7,
-                "headline": "DEVELOPMENT: LLM-ASSISTED CODE QUALITY",
-                "teaserTitle": "",
-                "visual_caption": "A new `agent.md` methodology on Hacker News improves code quality using LLM assistance. This streamlines reviews and error detection for complex software projects."
+                "headline": "ARCHITECTURES: AGENTIC AI FOR ROOT CAUSE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "New methodologies for accelerating root cause analysis using Agentic AI are emerging, promising more efficient diagnosis of system failures. Integrating Agentic AI into diagnostic pipelines offers a direct path to boosting compute efficiency and operational resilience."
             },
             {
                 "slide_index": 8,
