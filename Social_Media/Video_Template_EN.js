@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INHERENT AI OUTPERFORMS COMPETITORS",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MODELS: INHERENT AI OUTPERFORMS COMPETITORS",
-                "teaserTitle": "SECURITY: SEL4 PROOFS COMPLETE ON AARCH64",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A new AI 'teammate' from Inherent, founded by DeepMind alumni, has outperformed models from Anthropic and OpenAI in replicating research. This signals a new era for highly autonomous and accurate AI agents in complex tasks."
+                "narration_line": "OpenAI has released its GPT-5.6 model, showcasing enhanced scalability and performance for complex AI workloads. This advancement demands an immediate re-evaluation of enterprise AI strategies and compute resource allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: SEL4 PROOFS COMPLETE ON AARCH64",
-                "teaserTitle": "HARDWARE: NEXT-GEN AI CHIP ARCHITECTURES",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The seL4 microkernel now has complete security proofs on AArch64 architecture. This milestone boosts trust in foundational AI infrastructure by mathematically verifying core system components."
+                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an optimized model for efficient coding and agentic applications. This offers key opportunities to boost operational efficiency and cut inference costs for specialized AI tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: NEXT-GEN AI CHIP ARCHITECTURES",
-                "teaserTitle": "REGULATION: AI COPYRIGHT DATA LEGALITIES",
+                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
+                "teaserTitle": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Next-generation AI chip architectures are focusing on specialized designs for sparse computations and efficient memory. This aims to drastically improve performance-per-watt for demanding AI workloads."
+                "narration_line": "Hugging Face is reportedly in talks for a thirteen billion dollar acquisition, indicating a major shift in the AI development ecosystem. This potential deal could reshape model distribution and enterprise collaboration, impacting pricing and access."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: AI COPYRIGHT DATA LEGALITIES",
-                "teaserTitle": "MODELS: STEALTH AI MODEL OX ALPHA EMERGES",
+                "headline": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
+                "teaserTitle": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The legal landscape for training AI on copyrighted data is increasingly complex, posing significant risks for developers. Companies must adopt robust data governance and explore alternative methodologies to avoid infringement claims."
+                "naration_line": "The open-source community released Qwen3.8-27B-Uncensored-MLX, a new model offering performance for less constrained applications. This provides flexibility for enterprises, but requires careful consideration of governance in sensitive environments."
             },
             {
                 "slide_index": 5,
-                "headline": "MODELS: STEALTH AI MODEL OX ALPHA EMERGES",
-                "teaserTitle": "ARCHITECTURE: AGENT VS. MODEL CLARITY",
+                "headline": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
+                "teaserTitle": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new 'stealth model' called Ox Alpha has emerged, with limited details suggesting a disruptive approach to AI capabilities. AI strategy teams should closely monitor this development, as it could reshape market dynamics and investment priorities."
+                "narration_line": "OpenAI's 'Daybreak' initiative enhances cyber defense, responding to a rapidly narrowing window for threat mitigation in AI systems. AI leaders must integrate advanced security directly into their deployment frameworks to protect against evolving digital threats."
             },
             {
                 "slide_index": 6,
-                "headline": "ARCHITECTURE: AGENT VS. MODEL CLARITY",
-                "teaserTitle": "COMPUTE: COREWEAVE CHIP COSTS SOAR",
+                "headline": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
+                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A key distinction is being emphasized between an AI agent and its underlying model, highlighting that effective deployments require careful architectural design. Focusing solely on powerful models without comprehensive agentic systems leads to suboptimal operational outcomes."
+                "narration_line": "Google DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting, demonstrating enhanced accuracy for disaster preparedness. This highlights AI's potential in critical infrastructure, optimizing resource management and minimizing economic losses."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: COREWEAVE CHIP COSTS SOAR",
+                "headline": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "naration_line": "CoreWeave, a specialized AI cloud provider, faces surging chip costs due to rising GPU prices and supply chain pressures. This escalation directly increases operational expenses for AI training and inference, impacting the economic models of AI-intensive businesses."
+                "narration_line": "MIT Technology Review notes children significantly outperform AI in language acquisition with less data, a puzzle for AI research. This disparity points to core inefficiencies in current LLM training, suggesting future breakthroughs could drastically cut training costs."
             },
             {
                 "slide_index": 8,
