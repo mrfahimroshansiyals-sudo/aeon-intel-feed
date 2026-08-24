@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "HUGGING FACE ACQUISITION TALKS FOR THIRTEEN BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
+                "teaserTitle": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has released its GPT-5.6 model, showcasing enhanced scalability and performance for complex AI workloads. This advancement demands an immediate re-evaluation of enterprise AI strategies and compute resource allocations."
+                "narration_line": "Hugging Face is engaged in acquisition talks for thirteen billion dollars. This potential deal highlights massive consolidation across open source developer hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
+                "headline": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
+                "teaserTitle": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind unveiled Gemini 3.7 Flash, an optimized model for efficient coding and agentic applications. This offers key opportunities to boost operational efficiency and cut inference costs for specialized AI tasks."
+                "narration_line": "Alibaba shares dropped ten percent following a ten point two billion dollar share placement. The capital targets aggressive artificial intelligence infrastructure expansion."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
-                "teaserTitle": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
+                "headline": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
+                "teaserTitle": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Hugging Face is reportedly in talks for a thirteen billion dollar acquisition, indicating a major shift in the AI development ecosystem. This potential deal could reshape model distribution and enterprise collaboration, impacting pricing and access."
+                "narration_line": "United States trade officials hiked automotive tariffs on Canada to fifty percent. This aggressive trade policy threatens cross border supply chain stability."
             },
             {
                 "slide_index": 4,
-                "headline": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
-                "teaserTitle": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
+                "headline": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
+                "teaserTitle": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "The open-source community released Qwen3.8-27B-Uncensored-MLX, a new model offering performance for less constrained applications. This provides flexibility for enterprises, but requires careful consideration of governance in sensitive environments."
+                "narration_line": "NIST warned that quantum computing advancements threaten current internet encryption standards. Organizations face an urgent countdown to upgrade cryptographic architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
-                "teaserTitle": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
+                "headline": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
+                "teaserTitle": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI's 'Daybreak' initiative enhances cyber defense, responding to a rapidly narrowing window for threat mitigation in AI systems. AI leaders must integrate advanced security directly into their deployment frameworks to protect against evolving digital threats."
+                "narration_line": "Engineers unveiled a brain implant leveraging infrared light for high resolution neural signaling. This breakthrough offers a safer interface for neural communication."
             },
             {
                 "slide_index": 6,
-                "headline": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
+                "headline": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
                 "teaserTitle": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting, demonstrating enhanced accuracy for disaster preparedness. This highlights AI's potential in critical infrastructure, optimizing resource management and minimizing economic losses."
+                "narration_line": "The European Commission commenced strict enforcement of artificial intelligence act rules. Companies face mandatory transparency obligations and strict compliance audits."
             },
             {
                 "slide_index": 7,
                 "headline": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "MIT Technology Review notes children significantly outperform AI in language acquisition with less data, a puzzle for AI research. This disparity points to core inefficiencies in current LLM training, suggesting future breakthroughs could drastically cut training costs."
+                "narration_line": "Children vastly outperform language models while consuming a fraction of the training data. This human efficiency highlights current architectural scaling limits."
             },
             {
                 "slide_index": 8,

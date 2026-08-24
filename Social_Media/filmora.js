@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "visual_caption": "OpenAI has released its GPT-5.6 model, showcasing enhanced scalability and performance for complex AI workloads. This advancement demands an immediate re-evaluation of enterprise AI strategies and compute resource allocations."
+                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
+                "teaserTitle": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
+                "visual_caption": "Hugging Face is in talks for a $13B acquisition. This signals major consolidation across open-source model repositories."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, an optimized model for efficient coding and agentic applications. This offers key opportunities to boost operational efficiency and cut inference costs for specialized AI tasks."
+                "headline": "FINANCE: ALIBABA PLUNGES 10% AFTER $10.2B AI SHARE PLACEMENT",
+                "teaserTitle": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
+                "visual_caption": "Alibaba shares plunged 10% following a $10.2B share placement. Funds are designated for aggressive AI compute scaling."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOSYSTEM: HUGGING FACE ACQUISITION TALKS FOR $13B",
-                "teaserTitle": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
-                "visual_caption": "Hugging Face is reportedly in talks for a $13B acquisition, indicating a major shift in the AI development ecosystem. This potential deal could reshape model distribution and enterprise collaboration, impacting pricing and access."
+                "headline": "TRADE: TRUMP HIKES CANADA AUTO TARIFFS TO 50%",
+                "teaserTitle": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
+                "visual_caption": "U.S. officials hiked Canada auto tariffs to 50% amid stalled talks. Automotive supply chains face severe cost inflation risks."
             },
             {
                 "slide_index": 4,
-                "headline": "MODELS: QWEN3.8-27B-UNCENSORED-MLX MODEL RELEASE",
-                "teaserTitle": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
-                "visual_caption": "The open-source community released Qwen3.8-27B-Uncensored-MLX, a new model offering performance for less constrained applications. This provides flexibility for enterprises but requires careful governance in sensitive environments."
+                "headline": "SECURITY: QUANTUM COMPUTERS THREATEN ENCRYPTION STANDARDS",
+                "teaserTitle": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
+                "visual_caption": "NIST warned quantum computers threaten standard internet encryption. Organizations must migrate to post-quantum security protocols."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: DAYBREAK NARROWS CYBER DEFENSE WINDOW",
-                "teaserTitle": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
-                "visual_caption": "OpenAI's 'Daybreak' initiative enhances cyber defense, responding to a rapidly narrowing window for threat mitigation in AI systems. AI leaders must integrate advanced security directly into their deployment frameworks to protect against evolving digital threats."
+                "headline": "BIOMEDICAL: BRAIN IMPLANT USES INFRARED LIGHT FOR NEURAL SIGNALS",
+                "teaserTitle": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
+                "visual_caption": "A new brain implant uses infrared light for neural signal transmission. The optical architecture minimizes thermal dissipation."
             },
             {
                 "slide_index": 6,
-                "headline": "APPLICATIONS: WEATHERNEXT AI BREAKTHROUGH FOR FORECASTING",
+                "headline": "REGULATION: EU ENFORCES AI ACT RULES AND TRANSPARENCY MANDATES",
                 "teaserTitle": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
-                "visual_caption": "Google DeepMind\u2019s WeatherNext AI achieved a breakthrough in cyclone forecasting, demonstrating enhanced accuracy for disaster preparedness. This highlights AI's potential in critical infrastructure, optimizing resource management and minimizing economic losses."
+                "visual_caption": "The EU commenced enforcement of AI Act transparency rules. Companies face strict compliance mandates and dataset audits."
             },
             {
                 "slide_index": 7,
                 "headline": "RESEARCH: KIDS OUTLEARN AI IN LANGUAGE ACQUISITION",
                 "teaserTitle": "",
-                "visual_caption": "MIT Technology Review notes children significantly outperform AI in language acquisition with less data, a fundamental puzzle for AI research. This disparity points to core inefficiencies in current LLM training, suggesting future breakthroughs could drastically cut training costs."
+                "visual_caption": "Children vastly outperform AI models in language acquisition efficiency. Understanding this gap could revolutionize neural architectures."
             },
             {
                 "slide_index": 8,
