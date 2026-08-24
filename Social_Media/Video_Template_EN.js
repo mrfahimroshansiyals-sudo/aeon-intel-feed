@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI EXPANDS FRONTIER INTEL SCALE",
+        "hookTitle": "GPT-5.6 ACCESS EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: FRONTIER INTEL SCALES WITH AMBITION",
-                "teaserTitle": "REGULATION: EU ENFORCES AI ACT RULES",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANSION",
+                "teaserTitle": "LLM CORE VULNERABILITY EXPOSED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has officially detailed its GPT-five point six architecture to scale frontier intelligence. Specialized variants optimize complex enterprise workloads and reduce cloud infrastructure friction."
+                "narration_line": "OpenAI improved its GPT-5.6 Sol model and expanded free access to GPT-5.6 Luna, refining frontier intelligence offerings for broader use. This move reshapes API consumption, pushing enterprises to optimize their model strategies and leverage new performance tiers."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: EU ENFORCES AI ACT RULES",
-                "teaserTitle": "HARDWARE: CHIPMAKING POWERED BY 400M MACHINE",
+                "headline": "MIT TECH REVIEW: LLM CORE VULNERABILITY EXPOSED",
+                "teaserTitle": "ALIBABA $10.2B AI FUNDING PUSH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The European Commission has initiated strict enforcement phases for the AI Act transparency rules. Non-compliance penalties demand rapid internal audits across global corporate infrastructure."
+                "narration_line": "A fundamental flaw makes large language models vulnerable to harmful content generation, raising critical safety concerns. Companies must immediately re-evaluate security protocols, implementing robust safeguards against manipulation risks."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: CHIPMAKING POWERED BY 400M MACHINE",
-                "teaserTitle": "COMPETITION: INHERENT AI TEAMMATE OUTPERFORMS GIANTS",
+                "headline": "CNBC: ALIBABA $10.2B AI FUNDING PUSH",
+                "teaserTitle": "GEMINI 3.7 FLASH MODEL DEBUT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Four hundred million dollar lithography systems are powering next-generation semiconductor manufacturing. ASML photolithography bottlenecks dictate hardware scaling paces for compute clusters."
+                "narration_line": "Alibaba Group announced a ten point two billion dollar share placement, earmarked for accelerating its artificial intelligence research and development. This massive investment positions Alibaba as a formidable challenger, intensifying competition across the global AI market."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPETITION: INHERENT AI TEAMMATE OUTPERFORMS GIANTS",
-                "teaserTitle": "INFRASTRUCTURE: DATACENTER FLEX SOFTWARE DEMAND",
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH MODEL DEBUT",
+                "teaserTitle": "DATACENTER SUPPLY CHAIN CHALLENGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Inherent has launched an autonomous AI teammate that outperforms major foundation models in research benchmarks. Agile multi-agent architectures challenge legacy API ecosystem dominance."
+                "narration_line": "Google DeepMind launched Gemini three point seven Flash, optimized for coding and complex agentic tasks. This impacts developers seeking efficient AI for advanced automation, requiring assessment of benchmarks to optimize technical architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: DATACENTER FLEX SOFTWARE DEMAND",
-                "teaserTitle": "RESEARCH: FREE-TOKEN EDGE NATIVE MOE SERVING",
+                "headline": "CNBC: DATACENTER SUPPLY CHAIN CHALLENGE",
+                "teaserTitle": "ANTHROPIC MODEL USER STRUGGLE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Data center operators are deploying intelligent flex software to manage power grid constraints. Software-driven energy throttling prevents outages during peak computational workloads."
+                "narration_line": "The global data center trade faces significant supply chain challenges, impacting component availability and construction timelines. Infrastructure planners must anticipate extended lead times and cost escalations, affecting AI development roadmaps."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: FREE-TOKEN EDGE NATIVE MOE SERVING",
-                "teaserTitle": "SECURITY: SECURING AI AGENT RED TEAMING",
+                "headline": "HACKER NEWS: ANTHROPIC MODEL USER STRUGGLE",
+                "teaserTitle": "NANO BANANA 2 LITE DEPLOYED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Berkeley researchers introduced FreeToken for bandwidth-adaptive mixture of experts serving. The framework enables efficient large model execution on standard personal hardware."
+                "narration_line": "Anthropic's AI models are reportedly struggling with user adoption due to cheaper, competitive tools in the market. This pressure forces AI leaders to examine value propositions and pricing, balancing performance with budget constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SECURING AI AGENT RED TEAMING",
+                "headline": "GOOGLE DEEPMIND: NANO BANANA 2 LITE DEPLOYED",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Tencent released AI-Infra-Guard for multi-layer red teaming of autonomous agent deployments. Security officers must integrate these protocols to prevent corporate network vulnerabilities."
+                "narration_line": "Google DeepMind deployed Nano Banana two Lite, a compact and efficient Gemini Image model for rapid visual AI tasks. This lightweight model offers significant advantages for edge computing, reducing latency and operational costs."
             },
             {
                 "slide_index": 8,
