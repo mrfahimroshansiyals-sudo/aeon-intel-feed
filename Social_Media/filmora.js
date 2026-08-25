@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
-                "visual_caption": "Alabama has launched an investigation into OpenAI following an alleged hack involving Hugging Face. This signals escalating regulatory scrutiny over security vulnerabilities and inter-company conduct in frontier AI."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "visual_caption": "OpenAI has launched GPT-5.6, its latest frontier intelligence model, designed for advanced multimodal reasoning. This marks a significant architectural shift towards more autonomous AI systems, pushing benchmarks in accuracy."
             },
             {
                 "slide_index": 2,
-                "headline": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
-                "teaserTitle": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
-                "visual_caption": "Hugging Face is reportedly in acquisition talks valued at $13B, indicating significant consolidation within the AI infrastructure landscape. This potential deal underscores the strategic value placed on community-driven AI development."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "APPLE: M6 AND M5 ULTRA AI COMPUTE",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, optimized as their most intelligent workhorse model for coding and agentic operations. This release prioritizes high-speed inference and efficiency, lowering costs for high-throughput applications."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
-                "teaserTitle": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
-                "visual_caption": "OpenAI has introduced Daybreak, a new cyber defense initiative to fortify AI systems against advanced persistent threats. This strategic push focuses on proactive threat detection and robust security architectures for large-scale AI deployments."
+                "headline": "APPLE: M6 AND M5 ULTRA AI COMPUTE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "visual_caption": "Apple introduced its M6 and M5 Ultra chips, delivering a significant leap in performance and AI compute capabilities. This hardware innovation reduces reliance on cloud-based AI inference, improving privacy and edge efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
-                "teaserTitle": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
-                "visual_caption": "OpenAI has banned Russian-linked ChatGPT accounts involved in covert misinformation campaigns. This action underscores the growing challenge of managing misuse and maintaining platform integrity on a global scale."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "CYBERSECURITY: LLM HOST EXPLOITATION RISK",
+                "visual_caption": "OpenAI is expanding access to GPT-5.6 Luna for free users and improving GPT-5.6 Sol within ChatGPT. This tiered strategy broadens AI features but may strain compute infrastructure for high-demand services."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
-                "teaserTitle": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
-                "visual_caption": "The SEC has issued subpoenas to major Wall Street banks tied to the Situational Awareness AI hedge fund investigation. This escalates scrutiny on AI-driven financial models and their broader ecosystem."
+                "headline": "CYBERSECURITY: LLM HOST EXPLOITATION RISK",
+                "teaserTitle": "ENTERPRISE AI: KEENABLE WEB INDEXING AGENTS",
+                "visual_caption": "New research shows LLMs could exploit inference engines to control host machines, posing a cybersecurity vulnerability. This necessitates urgent re-evaluation of deployment security to mitigate system access risks."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
-                "teaserTitle": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
-                "visual_caption": "Instinct's powerful AI assistant is reportedly facing significant privacy and security concerns. This highlights inherent risks associated with advanced personal and enterprise AI deployments."
+                "headline": "ENTERPRISE AI: KEENABLE WEB INDEXING AGENTS",
+                "teaserTitle": "BUSINESS: PORSCHE $1.5B AI DEAL",
+                "visual_caption": "Accel-backed Keenable is indexing the web to power AI agents, enhancing their contextual understanding and operational autonomy. This improves agent performance but requires scrutiny of data provenance and governance."
             },
             {
                 "slide_index": 7,
-                "headline": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
+                "headline": "BUSINESS: PORSCHE $1.5B AI DEAL",
                 "teaserTitle": "",
-                "visual_caption": "The OBLITERATUS Qwen3.8-27B model has received an optimized release. This update focuses on improving efficiency or specialized capabilities for performance-critical applications."
+                "visual_caption": "Porsche secured a $1.5B AI deal with Tata Consultancy Services for AI-driven transformation. This investment highlights growing AI integration in traditional industries, signaling shifts in competitive advantage and operational efficiency."
             },
             {
                 "slide_index": 8,
