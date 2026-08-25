@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+        "hookTitle": "OPENAI CUTS GPT 5.6 SOL PRICES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION UNTIL NOV 21",
+                "teaserTitle": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, their latest AI model for coding and agents. This release impacts architectural decisions for real-time AI deployments."
+                "narration_line": "OpenAI has announced a significant price reduction for its GPT 5.6 Sol API, valid until November 21st, 2026. This change directly impacts operational budgets, requiring enterprises to re-evaluate their AI deployment strategies and costs."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
-                "teaserTitle": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
+                "headline": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
+                "teaserTitle": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon has increased hardware prices by sixty percent due to memory chip shortages. This raises cloud infrastructure costs and demands reassessment of compute resource acquisition."
+                "narration_line": "New research reveals large language models could exploit inference engines to control host machines. This presents a critical security and architectural risk, demanding immediate hardening of deployment infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
+                "headline": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
+                "teaserTitle": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "NVIDIA announced that CUDA will target RISC-V architectures at Hot Chips two thousand twenty-six. This signifies a major shift, offering long-term implications for custom hardware and compute efficiency."
+                "narration_line": "Microsoft has released Agent Lightning version one point zero, a new framework to boost AI agent efficiency and performance. This open-source tool offers architects opportunities to optimize complex AI workflows and reduce operational costs."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
+                "headline": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
+                "teaserTitle": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI is expanding Daybreak, its cyber defense framework against advanced AI threats. Enterprise AI security teams must integrate these practices to protect sensitive data."
+                "naration_line": "Alabama is investigating OpenAI after a reported hack of the Hugging Face platform, raising data security concerns. This sets a precedent for increased regulatory scrutiny on AI enterprise security and third-party integrations."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
-                "teaserTitle": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
+                "headline": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
+                "teaserTitle": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and providing free access to GPT-5.6 Luna. This impacts API cost models and strategies for leveraging free AI tiers."
+                "narration_line": "Nvidia expects Groq's specialized AI inference racks to be online by late 2026 following a 20 billion dollar acquisition. This expansion will significantly enhance compute capacity, influencing future AI architecture and model deployment decisions."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
-                "teaserTitle": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
+                "teaserTitle": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hugging Face is reportedly discussing a thirteen billion dollar acquisition. This potential consolidation could reshape the AI tooling landscape and impact developer resources."
+                "narration_line": "Instinct\u2019s new AI assistant faces privacy and security concerns due to its data handling practices. Businesses must perform due diligence on such tools to mitigate legal liabilities and protect user trust."
             },
             {
                 "slide_index": 7,
-                "headline": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This innovation enhances real-world predictive analytics for operational resilience and risk management."
+                "narration_line": "AI-driven hedge fund Situational Awareness is under SEC investigation after a near implosion. This highlights the need for robust governance in financial AI and stringent oversight of algorithmic risk management."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, their latest AI model for coding and agents. This release impacts architectural decisions for real-time AI deployments."
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION UNTIL NOV 21",
+                "teaserTitle": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
+                "visual_caption": "OpenAI announced a price reduction for its GPT 5.6 Sol API, valid until Nov 21, 2026. This impacts operational budgets and requires immediate re-evaluation of enterprise AI deployment costs."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: AMAZON HIKES HW PRICES 60% ON MEMORY SHORTAGE",
-                "teaserTitle": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
-                "visual_caption": "Amazon increased hardware prices by 60% due to memory chip shortages. This raises cloud infrastructure costs and demands reassessment of compute resource acquisition."
+                "headline": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
+                "teaserTitle": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
+                "visual_caption": "New research shows LLMs could control host machines via inference engine exploits. This critical security risk demands immediate hardening of production environments."
             },
             {
                 "slide_index": 3,
-                "headline": "ARCHITECTURAL: CUDA TARGETS RISC-V AT HOT CHIPS 2026",
-                "teaserTitle": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "visual_caption": "NVIDIA announced CUDA will target RISC-V architectures at Hot Chips 2026. This signifies a major shift, offering long-term implications for custom hardware and compute efficiency."
+                "headline": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
+                "teaserTitle": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
+                "visual_caption": "Microsoft released Agent Lightning v1.0, a framework to boost AI agent efficiency. This open-source tool allows architects to optimize workflows and reduce operational costs."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: OPENAI EXPANDS DAYBREAK CYBER DEFENSE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
-                "visual_caption": "OpenAI is expanding Daybreak, its cyber defense framework against advanced AI threats. Enterprise AI security teams must integrate these practices to protect sensitive data."
+                "headline": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
+                "teaserTitle": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
+                "visual_caption": "Alabama investigates OpenAI following a reported hack of the Hugging Face platform. This prompts greater scrutiny over AI enterprise security and third-party model integrations."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: GPT-5.6 SOL IMPROVEMENTS & LUNA FREE ACCESS",
-                "teaserTitle": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
-                "visual_caption": "OpenAI is enhancing GPT-5.6 Sol in ChatGPT and providing free access to GPT-5.6 Luna. This impacts API cost models and strategies for leveraging free AI tiers."
+                "headline": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
+                "teaserTitle": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
+                "visual_caption": "Nvidia expects Groq's AI inference racks to be online by late 2026 after a $20B acquisition. This boosts compute capacity, influencing future AI architecture and model deployment."
             },
             {
                 "slide_index": 6,
-                "headline": "MARKET: HUGGING FACE ACQUISITION TALKS HIT $13B",
-                "teaserTitle": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
-                "visual_caption": "Hugging Face is reportedly discussing a $13B acquisition. This potential consolidation could reshape the AI tooling landscape and impact developer resources."
+                "headline": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
+                "teaserTitle": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
+                "visual_caption": "Instinct\u2019s AI assistant faces privacy and security concerns over data collection and handling. Businesses must conduct due diligence to mitigate legal and reputational risks."
             },
             {
                 "slide_index": 7,
-                "headline": "SCIENTIFIC: WEATHERNEXT AI ACHIEVES CYCLONE FORECASTING BREAKTHROUGH",
+                "headline": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
                 "teaserTitle": "",
-                "visual_caption": "Google DeepMind's WeatherNext AI achieved a breakthrough in cyclone forecasting. This innovation enhances real-world predictive analytics for operational resilience and risk management."
+                "visual_caption": "AI hedge fund Situational Awareness is under SEC investigation after a near implosion. This underscores the need for robust governance in financial AI risk management."
             },
             {
                 "slide_index": 8,
