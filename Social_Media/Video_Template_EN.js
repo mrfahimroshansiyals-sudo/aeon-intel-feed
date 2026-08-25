@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "IMPROVING GPT-5.6 SOL/LUNA ACCESS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "REGULATORY: ALABAMA PROBES OPENAI HACK",
+                "headline": "OPENAI: IMPROVING GPT-5.6 SOL/LUNA ACCESS",
+                "teaserTitle": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT five point six, a frontier intelligence model designed to scale with enterprise ambition. This release significantly impacts how organizations approach large-scale AI deployments, demanding new architectural evaluations."
+                "narration_line": "OpenAI has updated GPT-5.6, introducing Sol and Luna versions with expanded free user access. This enhances model efficiency for diverse applications, impacting enterprise compute strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "AI SECURITY: LLM EXPLOIT RISKS HOST MACHINES",
+                "headline": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
+                "teaserTitle": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Alabama is investigating OpenAI after a security incident involving Hugging Face, raising critical questions about AI platform interoperability. This action will likely increase compliance burdens and operational risk across interconnected AI services."
+                "narration_line": "Instinct\u2019s AI assistant faces new privacy and security concerns, highlighting risks in advanced AI integration. This mandates immediate review of deployments and stricter data governance."
             },
             {
                 "slide_index": 3,
-                "headline": "AI SECURITY: LLM EXPLOIT RISKS HOST MACHINES",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "headline": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
+                "teaserTitle": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New research shows Large Language Models can control host machines by exploiting inference engines, creating a severe threat to compute security. This critical vulnerability demands immediate architectural reviews and enhanced sandboxing for all LLM deployments."
+                "narration_line": "Researchers unveiled Headlong, a microharness for persistent AI agents, improving longevity and continuous task execution. This innovation influences next-gen agent architecture and compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "headline": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
+                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind has released Gemini three point seven Flash, optimized for coding and agentic applications to maximize efficiency. This new workhorse model offers significant opportunities for accelerating development cycles and reducing operational latency."
+                "narration_line": "Amazon hiked hardware prices by 60% due to memory shortages, affecting AI compute costs. This urges enterprises to reassess compute strategies and diversify hardware suppliers."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "ENTERPRISE: PORSCHE $1.5B AI PARTNERSHIP",
+                "headline": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
+                "teaserTitle": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiatives, reinforcing security against sophisticated threats targeting frontier AI systems. This move underscores escalating cyber risks in advanced AI, urging organizations to bolster their own defensive strategies."
+                "narration_line": "New research shows children outlearn AI with less data, exposing LLM learning efficiency bottlenecks. This gap is crucial for developing compute-efficient and data-lean model training paradigms."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE: PORSCHE $1.5B AI PARTNERSHIP",
-                "teaserTitle": "COMPUTE: DATA CENTER TRADE UNDER ATTACK",
+                "headline": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
+                "teaserTitle": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Porsche finalized a one point five billion dollar AI deal with Tata Consultancy Services, a major automotive commitment to advanced AI integration. This partnership sets a new benchmark for large-scale AI service adoption across traditional industries, impacting strategic investments."
+                "narration_line": "Thomson Reuters launched a frontier AI model, marking a strategic entry into specialized industry applications. This intensifies B2B AI market competition, requiring evaluation of niche models."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: DATA CENTER TRADE UNDER ATTACK",
+                "headline": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Jim Cramer warns the data center trade is under attack due to market shifts and rising operational costs, creating an AI compute bottleneck. This pressure highlights the need for compute efficiency and alternative infrastructure solutions in AI deployment."
+                "narration_line": "Xpeng\u2019s robot unit delivery forecast caused shares to sink, impacting its six point three billion dollar valuation. This prompts re-evaluation of robotics investments and embodied AI deployment risks."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

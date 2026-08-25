@@ -4,55 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "visual_caption": "OpenAI launched GPT-5.6, a frontier intelligence model designed to scale enterprise ambition. This impacts large-scale AI deployment and demands new architectural evaluations."
+                "headline": "OPENAI: IMPROVING GPT-5.6 SOL/LUNA ACCESS",
+                "teaserTitle": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
+                "visual_caption": "OpenAI updated GPT-5.6, introducing Sol and Luna versions with expanded free user access. This enhances model efficiency for diverse applications, impacting enterprise compute strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "AI SECURITY: LLM EXPLOIT RISKS HOST MACHINES",
-                "visual_caption": "Alabama is investigating OpenAI after a Hugging Face security incident, raising critical questions on AI platform interoperability. This will increase compliance burdens and operational risk across interconnected AI services."
+                "headline": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
+                "teaserTitle": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
+                "visual_caption": "Instinct's AI assistant faces new privacy and security concerns, highlighting risks in advanced AI integration. This mandates immediate review of deployments and stricter data governance."
             },
             {
                 "slide_index": 3,
-                "headline": "AI SECURITY: LLM EXPLOIT RISKS HOST MACHINES",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "visual_caption": "Research shows LLMs can control host machines by exploiting inference engines, posing a severe compute infrastructure threat. This demands immediate architectural reviews and enhanced sandboxing for all LLM deployments."
+                "headline": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
+                "teaserTitle": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
+                "visual_caption": "Researchers unveiled Headlong, a microharness for persistent AI agents, improving longevity and continuous task execution. This innovation influences next-gen agent architecture and compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, optimized for coding and agentic applications, maximizing efficiency. This offers opportunities to accelerate development cycles and reduce operational latency."
+                "headline": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
+                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
+                "visual_caption": "Amazon hiked hardware prices by 60% due to memory shortages, affecting AI compute costs. This urges enterprises to reassess compute strategies and diversify hardware suppliers."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "ENTERPRISE: PORSCHE $1.5B AI PARTNERSHIP",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "OpenAI expands Daybreak cyber defense initiatives, reinforcing security against sophisticated threats targeting frontier AI systems. This underscores escalating cyber risks, urging organizations to bolster defensive strategies."
+                "headline": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
+                "teaserTitle": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
+                "visual_caption": "New research shows children outlearn AI with less data, exposing LLM learning efficiency bottlenecks. This gap is crucial for developing compute-efficient and data-lean model training paradigms."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE: PORSCHE $1.5B AI PARTNERSHIP",
-                "teaserTitle": "COMPUTE: DATA CENTER TRADE UNDER ATTACK",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Porsche finalized a $1.5B AI deal with Tata Consultancy Services, a major automotive commitment to advanced AI. This sets a benchmark for large-scale AI service adoption across traditional industries."
+                "headline": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
+                "teaserTitle": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
+                "visual_caption": "Thomson Reuters launched a frontier AI model, marking a strategic entry into specialized industry applications. This intensifies B2B AI market competition, requiring evaluation of niche models."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPUTE: DATA CENTER TRADE UNDER ATTACK",
+                "headline": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Jim Cramer warns the data center trade is \"under attack\" due to market shifts and rising costs, creating an AI compute bottleneck. This highlights the need for compute efficiency and alternative infrastructure solutions in AI deployment."
+                "visual_caption": "Xpeng's robot unit delivery forecast caused shares to sink, impacting its $6.3B valuation. This prompts re-evaluation of robotics investments and embodied AI deployment risks."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
