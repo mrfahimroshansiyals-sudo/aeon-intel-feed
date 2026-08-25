@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FINANCE: HUGGING FACE $13B ACQUISITION TALKS",
-                "teaserTitle": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "visual_caption": "Hugging Face in $13B acquisition talks, signaling major consolidation in AI. This will reshape competitive dynamics, impacting model accessibility and open-source stability."
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
+                "visual_caption": "OpenAI launched GPT-5.6, scaling frontier intelligence for advanced multi-modal reasoning. This demands critical re-evaluation of enterprise LLM infrastructure and deployment strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "visual_caption": "Alabama launches probe into alleged OpenAI security incident impacting Hugging Face. This signals increased regulatory scrutiny and compliance burdens for AI developers."
+                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
+                "teaserTitle": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
+                "visual_caption": "Anthropic unveiled Opus 5, a significant step change in its top-tier model with stronger coding and agentic capabilities. Businesses must analyze its benchmarks to optimize AI solution stacks."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, an efficient, high-performance model for coding and agentic workflows. This offers advanced capabilities with optimized resource consumption for enterprises."
+                "headline": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
+                "teaserTitle": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
+                "visual_caption": "Situational AI hedge fund faces SEC probe after near-implosion, highlighting critical financial model risks. This mandates enhanced transparency and robust risk management for AI in finance."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
-                "teaserTitle": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
-                "visual_caption": "Xiaomi's new CPU matches Apple cores in single-thread performance, significantly surpassing in multi-thread benchmarks. This challenges high-performance mobile AI processors and impacts edge computing."
+                "headline": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
+                "teaserTitle": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "visual_caption": "Porsche cemented a $1.5B AI partnership with Tata Consultancy Services, integrating advanced AI across operations. This compels manufacturers to accelerate digital transformation strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
-                "teaserTitle": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
-                "visual_caption": "Instinct's AI assistant raises privacy and security concerns, emphasizing data handling challenges in AI systems. Enterprises face reputational/compliance risks, requiring robust privacy-by-design."
+                "headline": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "teaserTitle": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
+                "visual_caption": "New vulnerability allows LLMs to exploit inference engines and control host machines. CTOs must implement enhanced isolation techniques to prevent critical system compromises."
             },
             {
                 "slide_index": 6,
-                "headline": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
-                "teaserTitle": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieves breakthrough in cyclone forecasting, enhancing accuracy and lead times. This offers substantial operational and economic benefits, reducing damage and saving lives."
+                "headline": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
+                "teaserTitle": "ROBOTICS: AI COMPANION ROBOTS RISE",
+                "visual_caption": "Headlong, a new microharness, improves stability and reliability of persistent AI agents in complex environments. This advancement makes deploying AI agents for mission-critical functions more feasible."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
+                "headline": "ROBOTICS: AI COMPANION ROBOTS RISE",
                 "teaserTitle": "",
-                "visual_caption": "SeL4 microkernel formal security proofs are complete on AArch64, providing unprecedented assurance for critical AI/embedded systems. This bolsters integrity, reducing attack surface for AI models."
+                "visual_caption": "AI companion robots are rapidly closing human connection gap in modern homes, driven by natural language processing and emotional AI. This creates new personal AI opportunities but raises ethical concerns."
             },
             {
                 "slide_index": 8,

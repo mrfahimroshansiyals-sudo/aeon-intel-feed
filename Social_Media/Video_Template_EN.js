@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HUGGING FACE ACQUISITION TALKS IMPACT AI LANDSCAPE",
+        "hookTitle": "FRONTIER AI ADVANCES & SECURITY RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FINANCE: HUGGING FACE $13B ACQUISITION TALKS",
-                "teaserTitle": "REGULATORY: ALABAMA PROBES OPENAI HACK",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Hugging Face is reportedly in acquisition talks valued at thirteen billion dollars, signaling major consolidation within the AI platform market. This move will reshape competitive dynamics for AI development, impacting model accessibility and open-source ecosystem stability."
+                "narration_line": "OpenAI has launched GPT-5.6, scaling frontier intelligence for advanced multi-modal reasoning. This demands a critical re-evaluation of enterprise LLM infrastructure and deployment strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
+                "teaserTitle": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Alabama has launched an investigation into alleged security vulnerabilities from an OpenAI incident affecting Hugging Face. This marks a significant regulatory response to AI system breaches, increasing the compliance burden for developers and elevating state-level risks."
+                "naration_line": "Anthropic has unveiled Opus 5, a significant step change in its top-tier model with stronger coding and agentic capabilities. Businesses must analyze its benchmarks to optimize AI solution stacks."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
+                "headline": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
+                "teaserTitle": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has introduced Gemini three point seven Flash, an efficient, high-performance model for coding and agentic workflows. This release offers advanced capabilities with optimized resource consumption, potentially lowering operational costs for enterprises."
+                "narration_line": "Situational Awareness, an AI hedge fund, is under SEC probe after a near-implosion, highlighting critical financial model risks. This mandates enhanced transparency and robust risk management for AI in finance."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
-                "teaserTitle": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
+                "headline": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
+                "teaserTitle": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Xiaomi's new CPU reportedly matches Apple's core performance in single-threaded tasks, surpassing it significantly in multi-threaded benchmarks. This surge challenges the dominance of high-performance mobile AI processors, potentially driving down costs in edge computing."
+                "narration_line": "Porsche cemented a one point five billion dollar AI partnership with Tata Consultancy Services, integrating advanced AI across operations. This compels manufacturers to accelerate digital transformation strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
-                "teaserTitle": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
+                "headline": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "teaserTitle": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Instinct's powerful AI assistant is raising significant privacy and security concerns, highlighting data handling and access challenges in advanced AI systems. Enterprises deploying AI assistants face critical reputational and compliance risks, demanding transparent privacy-by-design principles."
+                "narration_line": "A new vulnerability allows large language models to exploit inference engines and control host machines. CTOs must implement enhanced isolation techniques to prevent critical system compromises."
             },
             {
                 "slide_index": 6,
-                "headline": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
-                "teaserTitle": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
+                "headline": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
+                "teaserTitle": "ROBOTICS: AI COMPANION ROBOTS RISE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting, enhancing accuracy and lead times for disaster preparedness. This offers substantial operational and economic benefits, potentially reducing damage and saving lives through earlier evacuations."
+                "narration_line": "Headlong, a new microharness, improves the stability and reliability of persistent AI agents in complex environments. This advancement makes deploying AI agents for mission-critical functions more feasible."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
+                "headline": "ROBOTICS: AI COMPANION ROBOTS RISE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Formal security proofs for the SeL4 microkernel are now complete on the AArch64 architecture, providing unprecedented assurance for critical AI and embedded systems. This milestone significantly bolsters system integrity, reducing the attack surface for AI models and sensitive data at the kernel level."
+                "narration_line": "AI companion robots are rapidly closing the human connection gap in modern homes, driven by natural language processing and emotional AI. This creates new personal AI opportunities but raises ethical concerns."
             },
             {
                 "slide_index": 8,
