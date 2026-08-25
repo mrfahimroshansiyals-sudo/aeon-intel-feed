@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: JALAPE\u00d1O CHIP BENCHMARKS",
-                "teaserTitle": "GEMINI 3.7 FLASH RELEASE",
-                "visual_caption": "OpenAI\u2019s new Jalape\u00f1o chip sets industry benchmarks for AI inference speed and efficiency. This marks a significant advance in specialized hardware, accelerating large-scale model deployments."
+                "headline": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
+                "teaserTitle": "APPLE: M6 & M5 ULTRA BOOST AI COMPUTE",
+                "visual_caption": "OpenAI's new GPT-5.6 model dramatically improves frontier intelligence scalability for complex AI deployments. This directly addresses critical operational bottlenecks in enterprise model integration and inference across diverse environments."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
-                "teaserTitle": "OBLITERATUS QWEN 3.8-27B MODEL",
-                "visual_caption": "Google DeepMind released Gemini 3.7 Flash, their most intelligent workhorse model for coding and agents. This enhances developer productivity and enables more sophisticated automated tasks."
+                "headline": "APPLE: M6 & M5 ULTRA BOOST AI COMPUTE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "visual_caption": "Apple has introduced its new M6 and M5 Ultra chips, designed to significantly boost AI compute performance. These chips offer major improvements in neural engine processing and memory bandwidth for local AI execution."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: OBLITERATUS QWEN 3.8-27B MODEL",
-                "teaserTitle": "PROMETHEUS FOUNDERS UNVEIL NEW AI",
-                "visual_caption": "A new Qwen 3.8-27B parameter model, \u201cOBLITERATUS,\u201d is now on Hugging Face. This variant offers optimized performance for specialized edge AI deployments."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-FLASH-NEXT 125B RELEASE",
+                "visual_caption": "OpenAI has enhanced GPT-5.6 Sol within ChatGPT and expanded Luna access for all free users. This move aims to accelerate user adoption and gather wider feedback on advanced model capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "REUTERS: PROMETHEUS FOUNDERS UNVEIL NEW AI",
-                "teaserTitle": "GAMMA ACQUIRES LICA DESIGN STARTUP",
-                "visual_caption": "Former founders of Project Prometheus unveiled a vast AI model requiring distributed computing. This challenges current centralized architectures and defines new infrastructure needs."
+                "headline": "HUGGING FACE: QWEN 3.8-FLASH-NEXT 125B RELEASE",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "visual_caption": "The new Qwen 3.8-Flash-Next 125B parameter model is set for release. This signifies a push towards efficient, large-scale open models capable of advanced reasoning."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHCRUNCH: GAMMA ACQUIRES LICA DESIGN STARTUP",
-                "teaserTitle": "KEENABLE INDEXING WEB FOR AI AGENTS",
-                "visual_caption": "Gamma acquired Lica, an Accel-backed design startup, integrating AI-powered creative tools. This consolidates enterprise software and streamlines product development workflows."
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "MICROSOFT: PAINT/PHOTOS GUID WATERMARK RISK",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense efforts as the threat landscape intensifies. This initiative focuses on fortifying AI systems against sophisticated attacks, safeguarding proprietary models and sensitive data."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHCRUNCH: KEENABLE INDEXING WEB FOR AI AGENTS",
-                "teaserTitle": "ANTHROPIC CLAUDE CONCEPTUAL SPACE",
-                "visual_caption": "Accel-backed Keenable is indexing the web specifically for AI agents, creating an optimized dataset. This promises enhanced agent capabilities and reduces reliance on generic information."
+                "headline": "MICROSOFT: PAINT/PHOTOS GUID WATERMARK RISK",
+                "teaserTitle": "ANTHROPIC: STAFF WORK-FROM-HOME ORDER",
+                "visual_caption": "Microsoft Paint and Photos are reportedly watermarking locally generated images with a GUID. This raises significant privacy and data provenance concerns for users."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: ANTHROPIC CLAUDE CONCEPTUAL SPACE",
+                "headline": "ANTHROPIC: STAFF WORK-FROM-HOME ORDER",
                 "teaserTitle": "",
-                "visual_caption": "Anthropic found a hidden conceptual space within its Claude model, revealing deep LLM internal workings. This discovery improves AI safety and alignment by enhancing model interpretability."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Anthropic has ordered staff to work from home following a possible security team strike. This signals potential internal operational disruptions for the leading AI research entity."
             },
             {
                 "slide_index": 8,
