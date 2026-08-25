@@ -4,46 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "LEADERSHIP: OPENAI DATA CENTER CHIEF EXITS",
-                "visual_caption": "OpenAI's GPT-5.6 model introduces advanced scaling architectures handling trillions of parameters for complex reasoning. This release addresses computational bottlenecks faced by enterprises aiming for highly autonomous AI."
+                "headline": "HARDWARE: OPENAI JALAPE\u00d1O BENCHMARK OUTPERFORMS BLACKWELL",
+                "teaserTitle": "SECURITY: FUNDAMENTAL LLM FLAW EXPOSES SYSTEMS",
+                "visual_caption": "OpenAI's custom Jalape\u00f1o chip has demonstrated superior AI inference performance, outperforming Nvidia's Blackwell GPUs. This signals a strategic shift towards specialized silicon, optimizing compute efficiency and reducing operational latency for models."
             },
             {
                 "slide_index": 2,
-                "headline": "LEADERSHIP: OPENAI DATA CENTER CHIEF EXITS",
-                "teaserTitle": "HARDWARE: APPLE DEBUTS M6 AND M5 ULTRA",
-                "visual_caption": "OpenAI's data center chief has resigned, signaling potential shifts in the company's aggressive compute infrastructure roadmap. This transition comes amid intensifying competition for global AI compute resources."
+                "headline": "SECURITY: FUNDAMENTAL LLM FLAW EXPOSES SYSTEMS",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "visual_caption": "Research reveals a fundamental flaw making LLMs vulnerable to attacks, enabling sensitive data exposure or harmful content generation. This elevates enterprise risk, demanding re-evaluation of security protocols and continuous monitoring for all LLM applications."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: APPLE DEBUTS M6 AND M5 ULTRA",
-                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
-                "visual_caption": "Apple unveiled its M6 and M5 Ultra chips, featuring 2x faster AI inference engines and a 40% increase in memory bandwidth. These new silicon innovations aim to reduce latency for edge AI applications."
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "teaserTitle": "ANTHROPIC: CLAUDE COWORK REMEMBERS CHAT CONTEXT",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "Google DeepMind has launched Gemini 3.7 Flash, optimized for coding and advanced agentic tasks. This powerful model accelerates development and automates intricate workflows, potentially lowering operational costs through increased agentic autonomy."
             },
             {
                 "slide_index": 4,
-                "headline": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT FORECASTING BREAKTHROUGH",
-                "visual_caption": "Stability AI, a prominent generative AI model developer, successfully closed a $76M funding round. This signals strong investor confidence in open-source diffusion models and enterprise AI solutions."
+                "headline": "ANTHROPIC: CLAUDE COWORK REMEMBERS CHAT CONTEXT",
+                "teaserTitle": "OPENAI: BROADCOM CHIP VALIDATION IMPACTS NVIDIA",
+                "visual_caption": "Anthropic's Claude Cowork app now features enhanced memory, allowing it to recall previous conversations and context. This improves AI assistant efficiency in enterprise, reducing repetitive context re-entry and increasing utility in professional tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: WEATHERNEXT FORECASTING BREAKTHROUGH",
-                "teaserTitle": "SECURITY: FINGERPRINTING OX ALPHA PROVENANCE",
-                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a significant breakthrough in cyclone forecasting accuracy, reducing prediction error by 15%. This offers enhanced early warning capabilities for critical weather events."
+                "headline": "OPENAI: BROADCOM CHIP VALIDATION IMPACTS NVIDIA",
+                "teaserTitle": "RESEARCH: ANTHROPIC FINDS CLAUDE'S CONCEPT SPACE",
+                "visual_caption": "OpenAI has validated its Broadcom-designed custom chip, successfully developing application-specific integrated circuits optimized for AI workloads. This diversifies hardware dependencies, reducing reliance on external GPU providers and impacting Nvidia's market dominance."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: FINGERPRINTING OX ALPHA PROVENANCE",
-                "teaserTitle": "MICROSOFT: AZURE GPT-X INTEGRATION UNVEILED",
-                "visual_caption": "New research details a method for behaviorally fingerprinting \"Ox Alpha\" model provenance, enabling bias detection with 90% accuracy. This framework enhances the auditability and trustworthiness of advanced AI systems."
+                "headline": "RESEARCH: ANTHROPIC FINDS CLAUDE'S CONCEPT SPACE",
+                "teaserTitle": "REGULATION: AI MORE BIASED THAN HUMANS IN HIRING",
+                "visual_caption": "New research from Anthropic describes discovering a 'hidden space' within its Claude model, offering a window into internal reasoning. This breakthrough in interpretability helps demystify complex neural network operations, significantly mitigating operational risks."
             },
             {
                 "slide_index": 7,
-                "headline": "MICROSOFT: AZURE GPT-X INTEGRATION UNVEILED",
+                "headline": "REGULATION: AI MORE BIASED THAN HUMANS IN HIRING",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "Microsoft unveiled deep Azure GPT-X integration, providing enhanced access to multimodal capabilities and streamlined deployment workflows within Azure AI services. This update accelerates the adoption of frontier models for enterprise applications."
+                "visual_caption": "Studies indicate AI systems in hiring are more prone to developing and amplifying biases than human recruiters. This highlights a critical challenge for fair talent acquisition, demanding rigorous auditing and transparent algorithm design to avoid legal issues."
             },
             {
                 "slide_index": 8,
