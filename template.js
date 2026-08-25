@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FRONTIER INTELLIGENCE THAT SCALES WITH YOUR",
-        "titleBlue": "AMBITION",
-        "footerSummary": "GPT-5.6 boosts frontier AI scalability, Apple's M6/M5 Ultra enhance compute. Qwen 3.8-Flash-Next expands options. GUID watermarking and Anthropic staff issues signal operational risks."
+        "titleWhite": "OPENAI JALAPENO CHIP BUILT FOR FAST INFERENCE AT",
+        "titleBlue": "SCALE",
+        "footerSummary": "OpenAI's Jalape\u00f1o chip delivers industry-leading inference speeds, matching massive compute demands with specialized hardware optimization."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6: FRONTIER INTELLIGENCE THAT SCALES WITH YOUR AMBITION",
+            "heading": "OPENAI: OPENAI JALAPENO CHIP BUILT FOR FAST INFERENCE AT SCALE",
             "paragraphs": [
-                "OpenAI has launched GPT-5.6, touted as a significant leap in frontier intelligence, offering enhanced scalability for complex, large-scale AI deployments. This release targets critical operational bottlenecks in model integration and inference across diverse enterprise environments, enabling more ambitious AI initiatives.",
-                "The improved scaling capabilities directly reduce the total cost of ownership for advanced AI systems, impacting long-term compute efficiency and architectural planning. Tech leaders must evaluate GPT-5.6's performance gains to optimize resource allocation, balancing model ambition against infrastructure investment and ongoing operational expenditure."
+                "OpenAI has unveiled its custom Jalape\u00f1o chip, engineered specifically to handle high-throughput artificial intelligence inference at enterprise scale with unmatched speed and efficiency. Initial performance benchmarks indicate that the specialized silicon architecture drastically reduces latency while optimizing power consumption across large-scale model deployments.",
+                "This hardware breakthrough shifts the cost-performance balance for infrastructure operators, lowering the economic barriers of running advanced models in production. Enterprise architects must re-evaluate hardware roadmaps to integrate custom silicon solutions that mitigate the escalating capital expenditures associated with hyperscale computing."
             ],
             "imageUrl": "",
-            "nextUpTease": "APPLE: M6 & M5 ULTRA BOOST AI COMPUTE",
+            "nextUpTease": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
             "tags": [
-                "Source: https://openai.com/news/gpt-5.6-frontier-intelligence-that-scales-with-your-ambition",
-                "Published: 2026-08-30T11:42:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-30T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "APPLE: M6 & M5 ULTRA BOOST AI COMPUTE",
+            "heading": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
             "paragraphs": [
-                "Apple has introduced its new M6 and M5 Ultra chips, marking a substantial performance increase specifically designed for AI compute workloads in Mac Studio and Mac mini lines. These chips offer significant improvements in neural engine processing and memory bandwidth, directly addressing the demand for powerful local AI execution.",
-                "The enhanced on-device AI capabilities impact architectural decisions for enterprises focusing on edge computing and data privacy, reducing reliance on cloud-based inference. Businesses must assess how these new chips can support high-performance AI tasks locally, balancing the cost-benefit of specialized hardware against general-purpose cloud infrastructure."
+                "The release of Apodex 1.1 establishes a new benchmark for sustained, verifiable progress on complex real-world tasks by scaling executable environments for autonomous agents. The updated system trains agents to coordinate long-horizon workflows effectively, maintaining strict state management and robust error recovery protocols.",
+                "This architectural advancement reduces the failure rates of automated workflows, making multi-step agentic execution viable for mission-critical enterprise applications. Organizations must assess how improved state persistence impacts the reliability and operational overhead of deploying autonomous digital workers."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+            "nextUpTease": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=38302068",
-                "Published: 2026-08-30T08:00:00Z",
+                "Source: https://arxiv.org/rss/cs.AI",
+                "Published: 2026-08-24T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+            "heading": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
             "paragraphs": [
-                "OpenAI has significantly improved GPT-5.6 Sol within ChatGPT and expanded access to GPT-5.6 Luna for free users, broadening the reach of its latest models. This initiative aims to accelerate user adoption and gather wider feedback on advanced model capabilities, pushing the envelope for accessible frontier AI.",
-                "The expanded access influences the market dynamics for AI-powered applications and enterprise SaaS deployments, encouraging developers to leverage OpenAI's latest offerings. Companies must strategize on integrating these accessible, powerful models into their products, considering the competitive landscape and potential for cost-effective feature enhancements."
+                "Researchers at the University of California, Berkeley, have introduced FreeToken, an edge-native Mixture-of-Experts serving system that dynamically allocates model states across heterogeneous local hardware. By mapping computation efficiently to local personal machines, FreeToken enables the execution of large open-weight models without heavy reliance on centralized cloud infrastructure.",
+                "This edge-optimized architecture transforms data privacy and latency parameters for enterprise deployments by shifting inference workloads directly to local client devices. Technical leaders must evaluate the trade-offs between local execution constraints and the cost savings of eliminating cloud API dependencies for sensitive data."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUGGING FACE: QWEN 3.8-FLASH-NEXT 125B RELEASE",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
             "tags": [
-                "Source: https://openai.com/news/improving-gpt-5.6-sol-in-chatgpt-and-expanding-access-to-gpt-5.6-luna-for-free-users",
-                "Published: 2026-08-30T11:55:00Z",
+                "Source: https://paperswithcode.com/",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HUGGING FACE: QWEN 3.8-FLASH-NEXT 125B RELEASE",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
             "paragraphs": [
-                "Qwen 3.8-Flash-Next, a 125B parameter model, is scheduled for release, signifying a continued push towards highly efficient, large-scale open models capable of advanced reasoning. This new variant aims to deliver state-of-the-art performance with optimized inference, expanding options for diverse AI architectures.",
-                "The impending release impacts compute efficiency and model selection for enterprises, offering a potent alternative for demanding AI tasks without proprietary vendor lock-in. Strategic architects should prepare to benchmark this 125B model for specific applications, weighing its performance against infrastructure requirements and potential cost benefits."
+                "Google DeepMind has officially launched Gemini 3.7 Flash, engineered as an intelligent workhorse model optimized specifically for high-efficiency coding tasks and autonomous agent operations. The model delivers superior speed and precise logic handling, providing developers with a responsive foundation for dense application development.",
+                "The deployment of Gemini 3.7 Flash lowers token processing latency, directly improving the economics of real-time developer tooling and automated software generation pipelines. Engineering teams should audit their current API consumption models to capitalize on the enhanced performance-to-cost ratio offered by this new workhorse tier."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "nextUpTease": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=38301755",
-                "Published: 2026-08-30T07:00:00Z",
+                "Source: https://deepmind.google/discover/blog/",
+                "Published: 2026-08-30T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+            "heading": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
             "paragraphs": [
-                "OpenAI is expanding its Daybreak cyber defense initiatives as the cyber defense window continues to narrow, emphasizing advanced AI security measures and proactive threat detection. This focuses on fortifying AI systems against sophisticated attacks, safeguarding proprietary models and sensitive data.",
-                "This security expansion directly impacts risk exposure for AI deployments, mandating heightened vigilance in threat modeling and incident response planning. Organizations must integrate robust AI-specific security frameworks, aligning their operational protocols with evolving cyber defense strategies to protect intellectual property and ensure system integrity."
+                "The European Commission has formally initiated strict enforcement of the AI Act rules alongside the launch of the new European Technological Sovereignty Package and AI Gigafactories call. These regulatory frameworks and funding initiatives aim to unlock over 30 billion Euros in compute infrastructure investments while mandating rigorous transparency standards across enterprise deployments.",
+                "Compliance with these expansive mandates introduces significant operational overhead and structural auditing requirements for any multinational organization operating within European markets. Legal and technical executives must implement comprehensive governance frameworks immediately to mitigate regulatory exposure and avoid severe non-compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MICROSOFT: PAINT/PHOTOS GUID WATERMARK RISK",
+            "nextUpTease": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-as-the-cyber-defense-window-narrows",
-                "Published: 2026-08-30T11:52:00Z",
+                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+                "Published: 2026-08-31T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MICROSOFT: PAINT/PHOTOS GUID WATERMARK RISK",
+            "heading": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
             "paragraphs": [
-                "Recent findings reveal that Microsoft Paint and Photos invisibly watermark locally generated images with a Global Unique Identifier (GUID), raising significant concerns about data provenance and user privacy. This hidden metadata could inadvertently expose sensitive information or track image origins without explicit user consent.",
-                "This undisclosed watermarking introduces a new layer of risk exposure for enterprises handling visual assets or sensitive documents, demanding immediate policy review and technical auditing. CTOs must evaluate the compliance implications of such embedded identifiers and implement strict protocols for content generation to mitigate potential privacy breaches and regulatory challenges."
+                "A new 150M-parameter reasoning model named BDH-CQ has achieved an unprecedented cost-accuracy frontier on ARC-AGI-1 by combining recurrent latent reasoning with advanced in-context learning. Developed by Pathway, this compact architecture demonstrates that specialized latent mechanisms can outperform vastly larger baseline models on complex abstraction tests.",
+                "The dramatic reduction in parameter count required for advanced logic parsing opens new possibilities for ultra-low-cost, high-precision enterprise inference tasks. Organizations should explore deploying compact recurrent models to handle specialized reasoning workloads while drastically curtailing infrastructure expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ANTHROPIC: STAFF WORK-FROM-HOME ORDER",
+            "nextUpTease": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
             "tags": [
-                "Source: https://xusheng.dev/posts/ms-paint-photos-watermark-guid/",
-                "Published: 2026-08-29T12:00:00Z",
+                "Source: https://arxiv.org/rss/cs.AI",
+                "Published: 2026-08-10T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ANTHROPIC: STAFF WORK-FROM-HOME ORDER",
+            "heading": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
             "paragraphs": [
-                "Anthropic has instructed its staff to work from home due to a possible security team strike, signaling potential internal operational disruptions for a leading AI research entity. This measure is implemented to maintain business continuity and protect sensitive intellectual property amidst labor disputes.",
-                "This incident highlights the critical importance of robust internal risk management and operational resilience strategies for frontier AI companies. Executives must ensure comprehensive contingency plans are in place to safeguard critical R&D efforts and maintain market confidence during unexpected internal challenges, impacting project timelines and competitive positioning."
+                "The National Institute of Standards and Technology has officially joined the National Genesis Mission to accelerate artificial intelligence innovation and strengthen domestic quantum safety standards. This collaborative federal effort focuses on developing precise measurements, cryptographic defenses, and robust testing frameworks to secure critical infrastructure against emerging technological threats.",
+                "Alignment with these new NIST standards is essential for defense contractors, financial institutions, and enterprise tech providers bidding on public sector infrastructure projects. Strategic leaders must incorporate federal compliance guidelines into their long-term security architectures to maintain eligibility for government-backed technology initiatives."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.businessinsider.com/anthropic-staff-work-from-home-security-strike-2026-8",
-                "Published: 2026-08-30T09:00:00Z",
+                "Source: https://www.nist.gov/itl/ai-risk-management-framework",
+                "Published: 2026-08-04T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
