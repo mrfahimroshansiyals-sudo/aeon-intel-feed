@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI CUTS GPT 5.6 SOL PRICES",
+        "hookTitle": "AI'S LATEST SHIFTS: GPT 5.6 & GLOBAL DEALS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION UNTIL NOV 21",
-                "teaserTitle": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
+                "headline": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has announced a significant price reduction for its GPT 5.6 Sol API, valid until November 21st, 2026. This change directly impacts operational budgets, requiring enterprises to re-evaluate their AI deployment strategies and costs."
+                "narration_line": "OpenAI has launched its new GPT five point six frontier intelligence model, designed for advanced enterprise scaling. This release sets new benchmarks for large language model deployment, requiring infrastructure re-evaluation."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: LLMS COULD CONTROL HOST MACHINES",
-                "teaserTitle": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B MLX UNLEASHED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "New research reveals large language models could exploit inference engines to control host machines. This presents a critical security and architectural risk, demanding immediate hardening of deployment infrastructure."
+                "narration_line": "Google DeepMind unveiled Gemini three point seven Flash, optimized for coding and agentic applications. This model offers improved performance in complex computational tasks and real-time inference."
             },
             {
                 "slide_index": 3,
-                "headline": "DEVELOPMENT: MICROSOFT LAUNCHES AGENT LIGHTNING V1.0",
-                "teaserTitle": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
+                "headline": "HUGGING FACE: QWEN 3.8-27B MLX UNLEASHED",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Microsoft has released Agent Lightning version one point zero, a new framework to boost AI agent efficiency and performance. This open-source tool offers architects opportunities to optimize complex AI workflows and reduce operational costs."
+                "narration_line": "A Qwen three point eight twenty-seven billion parameter uncensored MLX model is now available on Hugging Face. This provides new flexibility for developers, but demands careful content moderation and ethical use."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY RISK: ALABAMA INVESTIGATES OPENAI HACK",
-                "teaserTitle": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
+                "teaserTitle": "THOMSON REUTERS: FRONTIER AI MODEL LAUNCHED",
                 "visual_asset": "backgroundyt4.png",
-                "naration_line": "Alabama is investigating OpenAI after a reported hack of the Hugging Face platform, raising data security concerns. This sets a precedent for increased regulatory scrutiny on AI enterprise security and third-party integrations."
+                "narration_line": "OpenAI is bolstering Daybreak cyber defense, enhancing security against advanced AI threats. This initiative is crucial for protecting AI systems and their underlying infrastructure from sophisticated attacks."
             },
             {
                 "slide_index": 5,
-                "headline": "AI INFRASTRUCTURE: NVIDIA EXPECTS GROQ RACKS ONLINE",
-                "teaserTitle": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
+                "headline": "THOMSON REUTERS: FRONTIER AI MODEL LAUNCHED",
+                "teaserTitle": "IEEE SPECTRUM: ADAPTABLE AI ENGINEER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Nvidia expects Groq's specialized AI inference racks to be online by late 2026 following a 20 billion dollar acquisition. This expansion will significantly enhance compute capacity, influencing future AI architecture and model deployment decisions."
+                "narration_line": "Thomson Reuters launched its own frontier AI model, integrating advanced AI into legal and financial services. This challenges generic large language model adoption with highly specialized analytical capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "ETHICS & PRIVACY: INSTINCT'S AI ASSISTANT RAISES CONCERNS",
-                "teaserTitle": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
+                "headline": "IEEE SPECTRUM: ADAPTABLE AI ENGINEER",
+                "teaserTitle": "PORSCHE: $1.5B AI DEAL WITH TCS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Instinct\u2019s new AI assistant faces privacy and security concerns due to its data handling practices. Businesses must perform due diligence on such tools to mitigate legal liabilities and protect user trust."
+                "narration_line": "IEEE Spectrum emphasizes the need for adaptable engineers in the AI era, requiring continuous upskilling in prompt engineering and model governance. Companies must invest in training to mitigate skill obsolescence."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCIAL AI: AI HEDGE FUND SITUATIONAL AWARENESS PROBED",
+                "headline": "PORSCHE: $1.5B AI DEAL WITH TCS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI-driven hedge fund Situational Awareness is under SEC investigation after a near implosion. This highlights the need for robust governance in financial AI and stringent oversight of algorithmic risk management."
+                "narration_line": "Porsche announced a one point five billion dollar AI deal with Tata Consultancy Services for automotive innovation. This large investment highlights the value of strategic AI partnerships for industry leaders."
             },
             {
                 "slide_index": 8,
