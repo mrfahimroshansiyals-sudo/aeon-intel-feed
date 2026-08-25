@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+        "hookTitle": "JALAPE\u00d1O CHIP BENCHMARKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
-                "teaserTitle": "APPLE: M6/M5 ULTRA AI CHIPS DEBUT",
+                "headline": "OPENAI: JALAPE\u00d1O CHIP BENCHMARKS",
+                "teaserTitle": "GEMINI 3.7 FLASH RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has expanded access to its GPT-5.6 Luna model for free users and improved the Sol variant within ChatGPT. This impacts enterprise API strategies, requiring leaders to assess premium tiers versus widely accessible models."
+                "narration_line": "OpenAI\u2019s new Jalape\u00f1o chip sets industry benchmarks for AI inference speed and efficiency. This marks a significant advance in specialized hardware, accelerating large-scale model deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "APPLE: M6/M5 ULTRA AI CHIPS DEBUT",
-                "teaserTitle": "QWEN: 3.8-FLASH-NEXT 125B MODEL ANNOUNCED",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH RELEASE",
+                "teaserTitle": "OBLITERATUS QWEN 3.8-27B MODEL",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Apple unveiled new M6 and M5 Ultra chips, boosting AI performance for Mac Mini and Mac Studio. These chips can reduce cloud inference costs and enable secure on-premise data processing."
+                "naration_line": "Google DeepMind released Gemini three point seven Flash, their most intelligent workhorse model for coding and agents. This enhances developer productivity and enables more sophisticated automated tasks."
             },
             {
                 "slide_index": 3,
-                "headline": "QWEN: 3.8-FLASH-NEXT 125B MODEL ANNOUNCED",
-                "teaserTitle": "ALABAMA: INVESTIGATION INTO OPENAI HACK",
+                "headline": "HUGGING FACE: OBLITERATUS QWEN 3.8-27B MODEL",
+                "teaserTitle": "PROMETHEUS FOUNDERS UNVEIL NEW AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Qwen announced its 3.8-Flash-Next model, boasting one hundred twenty-five billion parameters for large-scale AI. Enterprises must reassess foundational model choices for optimal performance and cost-effectiveness."
+                "narration_line": "A new Qwen three point eight, twenty-seven billion parameter model, \u201cOBLITERATUS,\u201d is now on Hugging Face. This variant offers optimized performance for specialized edge AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "ALABAMA: INVESTIGATION INTO OPENAI HACK",
-                "teaserTitle": "HUGGING FACE: $13B ACQUISITION TALKS",
+                "headline": "REUTERS: PROMETHEUS FOUNDERS UNVEIL NEW AI",
+                "teaserTitle": "GAMMA ACQUIRES LICA DESIGN STARTUP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Alabama has launched an investigation into OpenAI regarding a hack involving Hugging Face, raising serious data security concerns. This highlights critical challenges in maintaining integrity within interconnected AI ecosystems."
+                "narration_line": "Former founders of Project Prometheus unveiled a vast AI model requiring distributed computing. This challenges current centralized architectures and defines new infrastructure needs."
             },
             {
                 "slide_index": 5,
-                "headline": "HUGGING FACE: $13B ACQUISITION TALKS",
-                "teaserTitle": "OPENAI: BANS RUSSIAN CHATGPT ACCOUNTS",
+                "headline": "TECHCRUNCH: GAMMA ACQUIRES LICA DESIGN STARTUP",
+                "teaserTitle": "KEENABLE INDEXING WEB FOR AI AGENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Hugging Face is reportedly in acquisition talks valued at thirteen billion dollars, signaling major consolidation in the AI infrastructure ecosystem. This reflects growing enterprise demand for integrated AI platforms and curated model access."
+                "narration_line": "Gamma acquired Lica, an Accel-backed design startup, integrating AI-powered creative tools. This consolidates enterprise software and streamlines product development workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "OPENAI: BANS RUSSIAN CHATGPT ACCOUNTS",
-                "teaserTitle": "AI INSTINCT: PRIVACY/SECURITY CONCERNS",
+                "headline": "TECHCRUNCH: KEENABLE INDEXING WEB FOR AI AGENTS",
+                "teaserTitle": "ANTHROPIC CLAUDE CONCEPTUAL SPACE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "OpenAI banned Russian ChatGPT accounts used in a misinformation campaign, enforcing against illicit AI usage. This highlights ethical AI governance and the need for stringent usage policies."
+                "narration_line": "Accel-backed Keenable is indexing the web specifically for AI agents, creating an optimized dataset. This promises enhanced agent capabilities and reduces reliance on generic information."
             },
             {
                 "slide_index": 7,
-                "headline": "AI INSTINCT: PRIVACY/SECURITY CONCERNS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "MIT TECH REVIEW: ANTHROPIC CLAUDE CONCEPTUAL SPACE",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Instinct's powerful AI assistant is raising significant privacy and security concerns among users and regulators. Companies must prioritize robust data protection frameworks when integrating AI assistants."
+                "narration_line": "Anthropic found a hidden conceptual space within its Claude model, revealing deep LLM internal workings. This discovery improves AI safety and alignment by enhancing model interpretability."
             },
             {
                 "slide_index": 8,
