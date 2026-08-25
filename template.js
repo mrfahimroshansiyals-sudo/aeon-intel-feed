@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH",
-        "titleBlue": "AMBITION",
-        "footerSummary": "GPT-5.6 sets a new benchmark for scalable frontier intelligence, pushing performance limits and reshaping enterprise AI deployment strategies across complex computational tasks."
+        "titleWhite": "JALAPE\u00d1O CHIP SETS NEW INFERENCE",
+        "titleBlue": "BENCHMARKS",
+        "footerSummary": "OpenAI's Jalape\u00f1o chip redefines AI inference, boosting throughput by 15% and cutting compute costs. This hardware shift impacts future model deployments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
+            "heading": "OPENAI: JALAPE\u00d1O CHIP SETS NEW INFERENCE BENCHMARKS",
             "paragraphs": [
-                "OpenAI has launched GPT-5.6, a new frontier intelligence model designed to scale with the most demanding enterprise applications, delivering unparalleled performance across complex reasoning and generative tasks. This release addresses critical architectural needs for higher throughput and lower inference costs for next-generation AI deployments.",
-                "This advancement necessitates a re-evaluation of current computational resource allocation, as organizations can now leverage more capable models for broader use cases with optimized efficiency. Strategic leaders must plan for the accelerated integration of advanced AI, anticipating shifts in operational workflows and technical infrastructure investment priorities."
+                "OpenAI has released benchmarks for its custom Jalape\u00f1o chip, demonstrating a 15% increase in inference throughput and significant power efficiency gains over existing GPU architectures. This internal silicon initiative addresses the escalating computational demands and cost bottlenecks of large-scale AI model deployment.",
+                "This architectural shift directly impacts the total cost of ownership for AI operations, enabling higher query volumes per dollar and accelerating real-time application performance. Enterprise leaders must evaluate custom silicon strategies to optimize their compute infrastructure, balancing vendor lock-in with substantial operational savings."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+            "nextUpTease": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "tags": [
-                "Source: https://openai.com/news/",
-                "Published: 2026-08-30T10:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/31/openai-says-its-broadcom-custom-chip-is-a-winner-what-does-that-mean-for-nvidia.html",
+                "Published: 2026-08-31T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+            "heading": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
             "paragraphs": [
-                "A fundamental flaw has been identified in large language models, making them strikingly vulnerable to adversarial attacks that can trick them into generating harmful or unauthorized outputs. This inherent susceptibility poses significant security risks for critical enterprise applications and data integrity, demanding immediate architectural safeguards.",
-                "Addressing these LLM vulnerabilities is paramount for mitigating potential data breaches, compliance failures, and reputational damage. Technical teams must prioritize robust red-teaming and implement advanced input validation layers to harden AI systems against sophisticated manipulation attempts, balancing functionality with stringent security protocols."
+                "Google DeepMind has launched Gemini 3.7 Flash, a new iteration of its frontier intelligence model optimized for high-speed, low-latency applications requiring rapid response times. This model aims to reduce inference bottlenecks, making advanced AI capabilities more accessible for real-time interactive systems.",
+                "The release of Gemini 3.7 Flash significantly lowers the barrier to entry for integrating sophisticated AI into user-facing products and services, driving down operational costs for interactive AI agents. Businesses must consider adopting this agile model for applications where speed and efficiency are critical, enhancing user experience and scalability."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+            "nextUpTease": "AI RESEARCH: FOUNDERS BUILD UNIVERSE-MODELING AI",
             "tags": [
-                "Source: https://www.technologyreview.com/topic/artificial-intelligence/",
-                "Published: 2026-08-30T14:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3-7-flash/",
+                "Published: 2026-08-30T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+            "heading": "AI RESEARCH: FOUNDERS BUILD UNIVERSE-MODELING AI",
             "paragraphs": [
-                "The EU has launched its AI Gigafactories call, committing over \u20ac30 billion in investment to dramatically boost Europe's computing capacity and foster advanced AI infrastructure development. This strategic initiative aims to establish a robust domestic compute ecosystem, reducing reliance on external providers for critical AI workloads.",
-                "This massive investment signals a significant shift in global AI infrastructure distribution, impacting long-term compute costs and data sovereignty considerations for multinational corporations. Organizations must assess the implications of enhanced European compute capabilities on their strategic market presence and potential for localized AI development, influencing future architectural choices."
+                "Former Project Prometheus founders unveiled a new AI model designed to process and generate information on a scale so vast that single computers cannot handle it, signaling a breakthrough in foundational architecture for complex, multi-domain simulations. This innovation paves the way for advanced scientific discovery and data synthesis.",
+                "This architectural advancement challenges current compute resource allocation, demanding novel distributed processing frameworks and potentially reshaping future investment in exascale AI infrastructure. Tech leaders must track these developments closely to prepare for the paradigm shift in building and deploying models capable of holistic system understanding."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+            "nextUpTease": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "tags": [
-                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
-                "Published: 2026-08-29T07:30:00Z",
+                "Source: https://www.reuters.com/technology/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe-2026-08-31/",
+                "Published: 2026-08-31T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+            "heading": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
             "paragraphs": [
-                "Apple has introduced its M6 and M5 Ultra chips, integrating advanced neural engines designed to significantly accelerate on-device AI workloads across new Mac Studio and Mac Mini models. These chips deliver unprecedented performance and power efficiency for localized inference, pushing the boundaries of edge AI computing.",
-                "The proliferation of high-performance AI-capable silicon at the edge reduces dependence on cloud infrastructure for many AI tasks, offering improved data privacy and lower latency for consumer-facing applications. Enterprise developers and architects should explore new paradigms for deploying AI directly on powerful client hardware, optimizing costs and user experience."
+                "OpenAI is expanding its Daybreak cyber defense capabilities, introducing new platform hardening measures and threat detection protocols to secure its frontier models against sophisticated adversarial attacks. This initiative aims to mitigate critical security vulnerabilities as AI systems become central to national infrastructure.",
+                "The enhanced security posture of OpenAI\u2019s models directly addresses enterprise-level risk exposure, offering greater assurance for sensitive data processing and critical AI deployments. Organizations leveraging or integrating OpenAI services must factor these robust defense layers into their compliance and operational security frameworks, enhancing overall system trust."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+            "nextUpTease": "ANTHROPIC: CLAUDE COWORK RECALLS CHAT HISTORY",
             "tags": [
-                "Source: https://news.ycombinator.com/",
-                "Published: 2026-08-31T09:00:00Z",
+                "Source: https://openai.com/news/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+                "Published: 2026-08-31T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+            "heading": "ANTHROPIC: CLAUDE COWORK RECALLS CHAT HISTORY",
             "paragraphs": [
-                "Stability AI has successfully raised $76 million in fresh funding, reinforcing its position as a key player in generative AI, particularly for diffusion models powering image and content creation. This capital injection will fuel further research, development, and scaling of their foundational models and compute infrastructure.",
-                "This significant investment validates the commercial viability and growing demand for advanced generative AI capabilities, particularly in creative industries and digital media. Businesses leveraging or considering diffusion models should anticipate accelerated innovation and increased competition, influencing strategic roadmaps for content generation and architectural choices for deploying large-scale creative AI."
+                "Anthropic's Claude Cowork app now features enhanced memory capabilities, allowing it to accurately recall past chat interactions and conversational context across extended sessions. This upgrade significantly improves agent continuity and reduces the need for repeated information input, streamlining user workflows.",
+                "This advancement in agentic memory reduces operational friction for enterprise users, enhancing productivity and enabling more sophisticated, multi-step tasks within business applications. Companies deploying AI assistants should evaluate these improved long-term memory features for better employee and customer experience, minimizing user frustration and data re-entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+            "nextUpTease": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MODEL UPDATE",
             "tags": [
-                "Source: https://techcrunch.com/category/artificial-intelligence/",
-                "Published: 2026-08-31T14:26:00Z",
+                "Source: https://techcrunch.com/2026/08/31/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+                "Published: 2026-08-31T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+            "heading": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MODEL UPDATE",
             "paragraphs": [
-                "Google DeepMind's WeatherNext AI model has achieved a significant breakthrough in accurately forecasting cyclones and extreme weather events with enhanced precision and earlier warning times. This advanced meteorological AI leverages novel architectural approaches to process vast datasets, improving predictive capabilities crucial for disaster preparedness.",
-                "The operational impact of highly accurate, real-time weather forecasting models extends to infrastructure resilience, logistics, and climate risk management for global enterprises. Integrating such predictive AI into business continuity planning and supply chain optimization strategies becomes critical for minimizing financial losses and enhancing operational safety against intensifying climate challenges."
+                "A new uncensored variant of the Qwen 3.8-27B model has been released on Hugging Face, offering broader generative capabilities without inherent safety filters imposed by original developers. This update provides significant flexibility for specific research and specialized application development, but requires careful ethical consideration.",
+                "The availability of less-filtered models creates both opportunities for innovation in niche applications and increased compliance risks for enterprises. Architects must conduct rigorous ethical reviews and implement custom content moderation layers, ensuring that powerful models align with organizational values and regulatory frameworks to prevent misuse."
             ],
             "imageUrl": "",
-            "nextUpTease": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
+            "nextUpTease": "ROBOTICS: CHINESE HUMANOID TIANGONG'S 100M DASH",
             "tags": [
-                "Source: https://deepmind.google/discover/blog/",
-                "Published: 2026-08-29T14:00:00Z",
+                "Source: https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+                "Published: 2026-08-30T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
+            "heading": "ROBOTICS: CHINESE HUMANOID TIANGONG'S 100M DASH",
             "paragraphs": [
-                "New research highlights that children significantly outperform large language models in learning new languages, requiring vastly less data and demonstrating superior generalization capabilities. Understanding the underlying mechanisms of human learning could unlock breakthroughs in developing more efficient and less data-hungry AI architectures.",
-                "This finding underscores a critical bottleneck in current LLM development, where immense computational resources are consumed for relatively inefficient learning. Future AI research and architectural design should prioritize bio-inspired mechanisms to reduce the colossal data and energy footprints, potentially leading to more sustainable and adaptable models for enterprise deployment."
+                "China's Tiangong Ultra humanoid robot has recorded an 8.86-second 100-meter dash at the World Humanoid Robot Games, significantly lowering its previous record of 9.39 seconds. This athletic feat highlights rapid advancements in robotics locomotion, balance, and real-time environment interaction.",
+                "This breakthrough in humanoid mobility signals accelerating progress in physical AI, potentially impacting labor-intensive industries and demanding new safety protocols for human-robot interaction in shared spaces. Businesses exploring automation must anticipate increasingly capable robotic platforms and plan for integrating them into complex operational environments."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.technologyreview.com/topic/artificial-intelligence/",
-                "Published: 2026-08-30T13:00:00Z",
+                "Source: https://www.reuters.com/technology/chinese-robot-tiangong-clocks-sub-9-second-100-metres-beijing-2026-08-31/",
+                "Published: 2026-08-31T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

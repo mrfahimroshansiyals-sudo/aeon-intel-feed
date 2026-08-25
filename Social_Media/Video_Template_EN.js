@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6: SCALING AI FRONTIER INTELLIGENCE",
+        "hookTitle": "OPENAI JALAPE\u00d1O CHIP SETS NEW INFERENCE BENCHMARKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
-                "teaserTitle": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+                "headline": "OPENAI: JALAPE\u00d1O CHIP SETS NEW INFERENCE BENCHMARKS",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's new GPT-5.6 model delivers frontier intelligence, designed to scale with the most demanding enterprise applications. It achieves unparalleled performance across complex reasoning tasks, optimizing both throughput and inference costs."
+                "narration_line": "OpenAI's custom Jalape\u00f1o chip achieved a 15% increase in AI inference throughput and improved power efficiency. This development aims to resolve escalating computational demands and cost challenges in deploying large AI models."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
-                "teaserTitle": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "AI RESEARCH: FOUNDERS BUILD UNIVERSE-MODELING AI",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A critical flaw now exposes large language models to severe adversarial attacks, enabling harmful output generation. This demands immediate architectural safeguards to protect enterprise data and ensure system integrity."
+                "narration_line": "Google DeepMind released Gemini 3.7 Flash, an AI model optimized for high-speed, low-latency applications requiring rapid response times. This lowers the barrier for integrating sophisticated AI into real-time interactive systems."
             },
             {
                 "slide_index": 3,
-                "headline": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
-                "teaserTitle": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+                "headline": "AI RESEARCH: FOUNDERS BUILD UNIVERSE-MODELING AI",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "The EU has launched its AI Gigafactories call, committing over thirty billion Euros to boost computing capacity. This strategic investment aims to establish a robust, domestic AI compute ecosystem, reducing reliance on external providers."
+                "narration_line": "Former Project Prometheus founders unveiled a new AI model designed to process vast amounts of information beyond single computer capabilities. This innovation could lead to breakthroughs in scientific discovery and data synthesis."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
-                "teaserTitle": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "ANTHROPIC: CLAUDE COWORK RECALLS CHAT HISTORY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Apple has unveiled its M6 and M5 Ultra AI chips, significantly accelerating on-device workloads across new Mac Studio and Mac Mini models. These chips promise unprecedented power efficiency and performance for edge AI computing."
+                "narration_line": "OpenAI is bolstering its Daybreak cyber defense, adding new platform hardening and threat detection to secure frontier models. This is crucial as AI systems become integral to national infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+                "headline": "ANTHROPIC: CLAUDE COWORK RECALLS CHAT HISTORY",
+                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MODEL UPDATE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Stability AI has secured seventy-six million dollars in fresh funding, solidifying its leadership in generative diffusion models for content creation. This capital will accelerate research and development for their foundational AI models."
+                "narration_line": "Anthropic's Claude Cowork now boasts enhanced memory, accurately recalling past chat interactions across extended sessions. This greatly improves agent continuity and streamlines user workflows for enterprise applications."
             },
             {
                 "slide_index": 6,
-                "headline": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
-                "teaserTitle": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
+                "headline": "HUGGING FACE: QWEN 3.8-27B UNCENSORED MODEL UPDATE",
+                "teaserTitle": "ROBOTICS: CHINESE HUMANOID TIANGONG'S 100M DASH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurately forecasting cyclones with enhanced precision. This improves predictive capabilities critical for disaster preparedness and global enterprise resilience."
+                "narration_line": "An uncensored Qwen 3.8-27B model is now available on Hugging Face, offering broader generative capabilities without safety filters. This update requires careful ethical consideration for specialized application development."
             },
             {
                 "slide_index": 7,
-                "headline": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
+                "headline": "ROBOTICS: CHINESE HUMANOID TIANGONG'S 100M DASH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New research reveals children far surpass large language models in language acquisition, using significantly less data. This insight could revolutionize AI architecture, leading to more efficient and sustainable learning models."
+                "narration_line": "China's Tiangong Ultra humanoid robot completed a 100-meter dash in 8.86 seconds, setting a new record. This achievement demonstrates significant advancements in robotics locomotion and real-time interaction capabilities."
             },
             {
                 "slide_index": 8,
