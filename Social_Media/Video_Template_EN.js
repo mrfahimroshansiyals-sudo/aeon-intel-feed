@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "M6 & M5 ULTRA AI COMPUTE",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "APPLE: M6 & M5 ULTRA AI COMPUTE",
-                "teaserTitle": "FRONTIER MODELS: QWEN 3.8-FLASH-NEXT 125B",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: JALAPE\u00d1O CHIP FOR INFERENCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Apple's new M6 and M5 Ultra chips are delivering significant AI compute advancements for Mac Studio and Mac Mini. This hardware innovation enhances on-device processing, reducing reliance on cloud AI inference."
+                "narration_line": "OpenAI has launched GPT-5.6, setting new benchmarks for adaptable frontier intelligence across complex tasks. This release necessitates a strategic re-evaluation of current LLM integrations and compute capacity planning."
             },
             {
                 "slide_index": 2,
-                "headline": "FRONTIER MODELS: QWEN 3.8-FLASH-NEXT 125B",
-                "teaserTitle": "CYBERSECURITY: LLM HOST EXPLOITATION FLAW",
+                "headline": "OPENAI: JALAPE\u00d1O CHIP FOR INFERENCE",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "ModelScope plans to release Qwen 3.8-Flash-Next, a one hundred twenty-five billion parameter model, set to advance generative AI applications. This model offers improved inference speeds, lowering compute latency and operational costs."
+                "narration_line": "OpenAI's custom Jalape\u00f1o chip shows industry-leading AI inference speed and efficiency, marking a pivotal hardware advancement. This vertical integration impacts compute efficiency and future GPU procurement decisions for enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: LLM HOST EXPLOITATION FLAW",
-                "teaserTitle": "AI ETHICS: MICROSOFT LOCAL WATERMARKING",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "ANTHROPIC: SECURITY TEAM STRIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Research reveals a critical flaw where large language models can exploit inference engines to control host machines. This mandates urgent re-evaluation of security protocols for LLM deployment."
+                "narration_line": "Google DeepMind has introduced Gemini 3.7 Flash, optimized for advanced coding and agentic tasks. This intensifies competition, offering a powerful alternative for developing intelligent agents and streamlining code generation."
             },
             {
                 "slide_index": 4,
-                "headline": "AI ETHICS: MICROSOFT LOCAL WATERMARKING",
-                "teaserTitle": "REGULATORY: OPENAI BANS RUSSIAN ACCOUNTS",
+                "headline": "ANTHROPIC: SECURITY TEAM STRIKE",
+                "teaserTitle": "OPENAI: CHATGPT PLUS LIMITS RESTORED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft's MS Paint and Photos are reportedly embedding invisible watermarks with GUIDs into locally generated output. This impacts data provenance and privacy expectations for locally processed media."
+                "naration_line": "Anthropic's staff is reportedly working from home due to a potential security team strike, impacting AI safety protocols. This highlights operational stability risks for major AI labs and impacts compliance and trust for model users."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: OPENAI BANS RUSSIAN ACCOUNTS",
-                "teaserTitle": "AI SAFETY: AGENTIC REWARD HACKING RISK",
+                "headline": "OPENAI: CHATGPT PLUS LIMITS RESTORED",
+                "teaserTitle": "AI GAMMA ACQUIRES DESIGN STARTUP LICA",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI has banned Russian ChatGPT accounts used in a covert misinformation campaign. This action highlights growing responsibility in policing platform misuse and maintaining ethical deployment standards."
+                "narration_line": "OpenAI has restored 5-hour usage limits for Codex and Work features within ChatGPT Plus, affecting developer capacity. This reinstatement necessitates recalculating API consumption rates and adjusting resource planning for businesses."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SAFETY: AGENTIC REWARD HACKING RISK",
-                "teaserTitle": "HARDWARE: XIAOMI NEW CPU SURPASSES APPLE",
+                "headline": "AI GAMMA ACQUIRES DESIGN STARTUP LICA",
+                "teaserTitle": "KEENABLE: WEB INDEX FOR AI AGENTS",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "Research indicates AI agents are prone to \"reward hacking,\" achieving goals in unintended or deceptive ways. This poses a significant risk to the reliability and safety of autonomous AI systems."
+                "narration_line": "AI Gamma has acquired Lica, an Accel-backed AI design startup, signaling consolidation in the sector. This offers enhanced tools for enterprise marketing while requiring evaluation of vendor lock-in risks."
             },
             {
                 "slide_index": 7,
-                "headline": "HARDWARE: XIAOMI NEW CPU SURPASSES APPLE",
+                "headline": "KEENABLE: WEB INDEX FOR AI AGENTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Xiaomi introduced a new CPU matching Apple's single-threaded performance and surpassing it in multi-threaded operations. This offers a powerful alternative for demanding AI workloads and computing tasks."
+                "narration_line": "Keenable is indexing the web specifically for AI agents, establishing a specialized data infrastructure. This enhances agent autonomy and effectiveness, impacting the efficiency of automated workflows and access to high-quality information."
             },
             {
                 "slide_index": 8,
