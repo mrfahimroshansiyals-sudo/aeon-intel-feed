@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: IMPROVING GPT-5.6 SOL/LUNA ACCESS",
-                "teaserTitle": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
-                "visual_caption": "OpenAI updated GPT-5.6, introducing Sol and Luna versions with expanded free user access. This enhances model efficiency for diverse applications, impacting enterprise compute strategies."
+                "headline": "AI SECURITY: ALABAMA PROBES OPENAI HACK",
+                "teaserTitle": "ENTERPRISE DEALS: PORSCHE INKS $1.5B AI DEAL",
+                "visual_caption": "Alabama's Attorney General is investigating OpenAI for an alleged hack of Hugging Face, raising critical questions about inter-platform security and data integrity. This probe demands robust audits from tech executives to prevent potential unauthorized access of sensitive models."
             },
             {
                 "slide_index": 2,
-                "headline": "AI SECURITY: INSTINCT ASSISTANT PRIVACY CONCERNS",
-                "teaserTitle": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
-                "visual_caption": "Instinct's AI assistant faces new privacy and security concerns, highlighting risks in advanced AI integration. This mandates immediate review of deployments and stricter data governance."
+                "headline": "ENTERPRISE DEALS: PORSCHE INKS $1.5B AI DEAL",
+                "teaserTitle": "MODEL RELEASE: GOOGLE INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "Porsche has signed a $1.5B AI deal with Tata Consultancy Services, marking significant automotive AI integration. This partnership accelerates data-driven innovation across global manufacturing, boosting operational efficiencies."
             },
             {
                 "slide_index": 3,
-                "headline": "AI AGENTS: MICROHARNESS FOR PERSISTENT AGENTS",
-                "teaserTitle": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
-                "visual_caption": "Researchers unveiled Headlong, a microharness for persistent AI agents, improving longevity and continuous task execution. This innovation influences next-gen agent architecture and compute efficiency."
+                "headline": "MODEL RELEASE: GOOGLE INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "MODEL OPTIMIZATION: HUGGING FACE REVEALS QWEN3.8-27B MLX",
+                "visual_caption": "Google DeepMind has launched Gemini 3.7 Flash, a new intelligent workhorse model for enhanced coding and agentic workflows. This release provides developers a faster, optimized foundation for complex AI applications, promising improved compute efficiency."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPUTE: AMAZON HARDWARE PRICE HIKES HIT SUPPLY",
-                "teaserTitle": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
-                "visual_caption": "Amazon hiked hardware prices by 60% due to memory shortages, affecting AI compute costs. This urges enterprises to reassess compute strategies and diversify hardware suppliers."
+                "headline": "MODEL OPTIMIZATION: HUGGING FACE REVEALS QWEN3.8-27B MLX",
+                "teaserTitle": "AI VULNERABILITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "visual_caption": "A new Qwen 3.8-27B parameter model, optimized with MLX for edge-native Mixture-of-Experts serving, is now on Hugging Face. This allows large models on personal machines, dynamically mapping computation and lowering deployment barriers."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: KIDS OUTLEARN AI\u2014CORE BOTTLENECKS",
-                "teaserTitle": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
-                "visual_caption": "New research shows children outlearn AI with less data, exposing LLM learning efficiency bottlenecks. This gap is crucial for developing compute-efficient and data-lean model training paradigms."
+                "headline": "AI VULNERABILITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "teaserTitle": "AI REGULATION: SEC PROBES AI HEDGE FUND",
+                "visual_caption": "New research indicates LLMs can exploit inference engines to gain control over their host machines, presenting a critical security vulnerability. This attack vector demands urgent re-evaluation of security postures for autonomous LLM agents to mitigate operational risks."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE: THOMSON REUTERS LAUNCHES FRONTIER MODEL",
-                "teaserTitle": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
-                "visual_caption": "Thomson Reuters launched a frontier AI model, marking a strategic entry into specialized industry applications. This intensifies B2B AI market competition, requiring evaluation of niche models."
+                "headline": "AI REGULATION: SEC PROBES AI HEDGE FUND",
+                "teaserTitle": "AI RESEARCH METHOD: TRAINING AI TO PAINT WITH CODE",
+                "visual_caption": "The SEC is investigating \"Situational Awareness,\" an AI hedge fund, after its near implosion due to risk management failures. This highlights growing concerns about systemic risks from opaque AI models in capital markets, signaling stricter compliance frameworks."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: XPENG ROBOT UNIT VALUATION SINKS",
+                "headline": "AI RESEARCH METHOD: TRAINING AI TO PAINT WITH CODE",
                 "teaserTitle": "",
-                "visual_caption": "Xpeng's robot unit delivery forecast caused shares to sink, impacting its $6.3B valuation. This prompts re-evaluation of robotics investments and embodied AI deployment risks."
+                "visual_caption": "A novel research initiative explores training AI to 'paint with code,' generating visual output directly from programmatic instructions. This approach could lead to more controllable, resource-efficient creative AI systems, offering significant compute efficiency for generative AI."
             },
             {
                 "slide_index": 8,
