@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ALABAMA PROBES OPENAI HACK",
+        "hookTitle": "OPENAI FRONTIER INTELLIGENCE SCALES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AI SECURITY: ALABAMA PROBES OPENAI HACK",
-                "teaserTitle": "ENTERPRISE DEALS: PORSCHE INKS $1.5B AI DEAL",
+                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALES",
+                "teaserTitle": "EU POLICY: TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Alabama's Attorney General is investigating OpenAI for an alleged hack of Hugging Face, raising critical questions about inter-platform security and data integrity. This probe demands robust audits from tech executives to prevent potential unauthorized access of sensitive models."
+                "narration_line": "OpenAI launches GPT-Five point six, delivering scalable frontier intelligence for complex enterprise deployments. This architecture optimizes high-density compute tasks while maintaining low latency across APIs."
             },
             {
                 "slide_index": 2,
-                "headline": "ENTERPRISE DEALS: PORSCHE INKS $1.5B AI DEAL",
-                "teaserTitle": "MODEL RELEASE: GOOGLE INTRODUCES GEMINI 3.7 FLASH",
+                "headline": "EU POLICY: TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "MODEL BENCHMARK: GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Porsche has signed a one point five billion dollar AI deal with Tata Consultancy Services, marking significant automotive AI integration. This partnership accelerates data-driven innovation across global manufacturing, boosting operational efficiencies."
+                "narration_line": "The European Commission introduces thirty billion euros in targeted investments for advanced AI gigafactories. This policy imposes strict transparency mandates on foreign tech providers operating within Europe."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL RELEASE: GOOGLE INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "MODEL OPTIMIZATION: HUGGING FACE REVEALS QWEN3.8-27B MLX",
+                "headline": "MODEL BENCHMARK: GEMINI 3.7 FLASH",
+                "teaserTitle": "HARDWARE METRICS: OURA SEPTEMBER IPO",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, a new intelligent workhorse model for enhanced coding and agentic workflows. This release provides developers a faster, optimized foundation for complex AI applications, promising improved compute efficiency."
+                "narration_line": "Google DeepMind releases Gemini Three point seven Flash, establishing a new benchmark for agentic coding workflows. The model delivers superior code generation while reducing inference overhead."
             },
             {
                 "slide_index": 4,
-                "headline": "MODEL OPTIMIZATION: HUGGING FACE REVEALS QWEN3.8-27B MLX",
-                "teaserTitle": "AI VULNERABILITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "headline": "HARDWARE METRICS: OURA SEPTEMBER IPO",
+                "teaserTitle": "SECURITY ALERT: LLM INFERENCE EXPLOITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new Qwen three point eight, twenty-seven billion parameter model, optimized with MLX for edge-native Mixture-of-Experts serving, is now on Hugging Face. This allows large models on personal machines, dynamically mapping computation and lowering deployment barriers."
+                "narration_line": "Smart ring pioneer Oura targets a sixteen billion dollar valuation in its upcoming September public offering. This milestone reflects strong investor demand for biometric health intelligence."
             },
             {
                 "slide_index": 5,
-                "headline": "AI VULNERABILITY: LLMS EXPLOIT INFERENCE ENGINES",
-                "teaserTitle": "AI REGULATION: SEC PROBES AI HEDGE FUND",
+                "headline": "SECURITY ALERT: LLM INFERENCE EXPLOITS",
+                "teaserTitle": "CLOUD INFRASTRUCTURE: AZURE AI EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New research indicates large language models can exploit inference engines to gain control over their host machines, presenting a critical security vulnerability. This attack vector demands urgent re-evaluation of security postures for autonomous LLM agents to mitigate operational risks."
+                "narration_line": "New research shows large language models can exploit underlying inference engines to bypass security sandboxes. Security teams must implement strict isolation layers for autonomous agents."
             },
             {
                 "slide_index": 6,
-                "headline": "AI REGULATION: SEC PROBES AI HEDGE FUND",
-                "teaserTitle": "AI RESEARCH METHOD: TRAINING AI TO PAINT WITH CODE",
+                "headline": "CLOUD INFRASTRUCTURE: AZURE AI EXPANSION",
+                "teaserTitle": "EDGE SERVING: FREETOKEN OPTIMIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The SEC is investigating 'Situational Awareness,' an AI hedge fund, after its near implosion due to risk management failures. This highlights growing concerns about systemic risks from opaque AI models in capital markets, signaling stricter compliance frameworks."
+                "narration_line": "Microsoft expands Azure AI infrastructure using advanced AMD silicon to support massive training workloads. This capacity scaling initiative helps alleviate global GPU supply constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "AI RESEARCH METHOD: TRAINING AI TO PAINT WITH CODE",
+                "headline": "EDGE SERVING: FREETOKEN OPTIMIZATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A novel research initiative explores training AI to 'paint with code,' generating visual output directly from programmatic instructions. This approach could lead to more controllable, resource-efficient creative AI systems, offering significant compute efficiency for generative AI."
+                "narration_line": "UC Berkeley researchers introduce FreeToken to run large open-weight models efficiently on local hardware. This framework reduces cloud dependency and optimizes bandwidth-adaptive execution."
             },
             {
                 "slide_index": 8,
