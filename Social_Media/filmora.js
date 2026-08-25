@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: JALAPE\u00d1O CHIP FOR INFERENCE",
-                "visual_caption": "OpenAI launched GPT-5.6, setting new benchmarks for adaptable frontier intelligence. Enterprises must re-evaluate model integration and capacity planning now."
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+                "teaserTitle": "APPLE: M6/M5 ULTRA AI CHIPS DEBUT",
+                "visual_caption": "OpenAI expanded GPT-5.6 Luna for free users and improved Sol within ChatGPT. This impacts enterprise API strategies, requiring assessment of premium tiers versus accessible models."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: JALAPE\u00d1O CHIP FOR INFERENCE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "visual_caption": "OpenAI\u2019s Jalape\u00f1o chip shows industry-leading AI inference speed and efficiency. This vertical integration impacts compute efficiency and future GPU procurement."
+                "headline": "APPLE: M6/M5 ULTRA AI CHIPS DEBUT",
+                "teaserTitle": "QWEN: 3.8-FLASH-NEXT 125B MODEL ANNOUNCED",
+                "visual_caption": "Apple unveiled new M6 and M5 Ultra chips, boosting AI performance for Mac Mini and Mac Studio. These chips can reduce cloud inference costs and enable secure on-premise data processing."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "ANTHROPIC: SECURITY TEAM STRIKE",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, optimized for coding and agentic tasks. This offers a powerful alternative for developing intelligent agents and streamlining code."
+                "headline": "QWEN: 3.8-FLASH-NEXT 125B MODEL ANNOUNCED",
+                "teaserTitle": "ALABAMA: INVESTIGATION INTO OPENAI HACK",
+                "visual_caption": "Qwen announced its 3.8-Flash-Next model, boasting 125B parameters for large-scale AI. Enterprises must reassess foundational model choices for optimal performance and cost-effectiveness."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: SECURITY TEAM STRIKE",
-                "teaserTitle": "OPENAI: CHATGPT PLUS LIMITS RESTORED",
-                "visual_caption": "Anthropic's staff is reportedly working remotely due to a security team strike, impacting AI safety. This highlights operational risks and concerns for enterprise model users."
+                "headline": "ALABAMA: INVESTIGATION INTO OPENAI HACK",
+                "teaserTitle": "HUGGING FACE: $13B ACQUISITION TALKS",
+                "visual_caption": "Alabama launched an investigation into OpenAI regarding a hack involving Hugging Face, raising serious data security concerns. This highlights critical challenges in maintaining integrity within interconnected AI ecosystems."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: CHATGPT PLUS LIMITS RESTORED",
-                "teaserTitle": "AI GAMMA ACQUIRES DESIGN STARTUP LICA",
-                "visual_caption": "OpenAI restored 5-hour usage limits for Codex and Work features in ChatGPT Plus. This impacts developer capacity and necessitates recalculating API consumption rates for businesses."
+                "headline": "HUGGING FACE: $13B ACQUISITION TALKS",
+                "teaserTitle": "OPENAI: BANS RUSSIAN CHATGPT ACCOUNTS",
+                "visual_caption": "Hugging Face is reportedly in acquisition talks valued at $13B, signaling major consolidation in the AI infrastructure ecosystem. This reflects growing enterprise demand for integrated AI platforms and curated model access."
             },
             {
                 "slide_index": 6,
-                "headline": "AI GAMMA ACQUIRES DESIGN STARTUP LICA",
-                "teaserTitle": "KEENABLE: WEB INDEX FOR AI AGENTS",
-                "visual_caption": "AI Gamma acquired Accel-backed AI design startup Lica, consolidating the sector. This offers enhanced enterprise design tools but requires evaluating vendor lock-in risks."
+                "headline": "OPENAI: BANS RUSSIAN CHATGPT ACCOUNTS",
+                "teaserTitle": "AI INSTINCT: PRIVACY/SECURITY CONCERNS",
+                "visual_caption": "OpenAI banned Russian ChatGPT accounts used in a misinformation campaign, enforcing against illicit AI usage. This highlights ethical AI governance and the need for stringent usage policies."
             },
             {
                 "slide_index": 7,
-                "headline": "KEENABLE: WEB INDEX FOR AI AGENTS",
-                "teaserTitle": "",
-                "visual_caption": "Keenable is indexing the web for AI agents, establishing specialized data infrastructure. This enhances agent autonomy and effectiveness, impacting automated workflow efficiency."
+                "headline": "AI INSTINCT: PRIVACY/SECURITY CONCERNS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Instinct's powerful AI assistant is raising significant privacy and security concerns among users and regulators. Companies must prioritize robust data protection frameworks when integrating AI assistants."
             },
             {
                 "slide_index": 8,
