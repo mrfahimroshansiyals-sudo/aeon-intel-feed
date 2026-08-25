@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI JALAPE\u00d1O BENCHMARK OUTPERFORMS BLACKWELL",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HARDWARE: OPENAI JALAPE\u00d1O BENCHMARK OUTPERFORMS BLACKWELL",
-                "teaserTitle": "SECURITY: FUNDAMENTAL LLM FLAW EXPOSES SYSTEMS",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI's custom Jalape\u00f1o chip has demonstrated superior AI inference performance, outperforming Nvidia's Blackwell GPUs. This signals a strategic shift towards specialized silicon, optimizing compute efficiency and reducing operational latency for models."
+                "narration_line": "OpenAI launches GPT-5.6, setting new benchmarks for frontier intelligence across diverse applications. This powerful model redefines autonomous decision-making and operational efficiency for enterprises."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: FUNDAMENTAL LLM FLAW EXPOSES SYSTEMS",
-                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
+                "headline": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
+                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Research reveals a fundamental flaw making large language models vulnerable to attacks, enabling sensitive data exposure or harmful content generation. This elevates enterprise risk, demanding re-evaluation of security protocols and continuous monitoring for all LLM applications."
+                "naration_line": "OpenAI's data center chief, Chris Malone, has exited, marking a significant leadership change. This departure raises questions about future compute infrastructure strategy and scaling for frontier models."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH MODEL",
-                "teaserTitle": "ANTHROPIC: CLAUDE COWORK REMEMBERS CHAT CONTEXT",
+                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, optimized for coding and advanced agentic tasks. This powerful model accelerates development and automates intricate workflows, potentially lowering operational costs through increased agentic autonomy."
+                "narration_line": "OpenAI expands Daybreak cyber defense, acknowledging a narrowing window against AI threats. Robust security frameworks are now critical for protecting sensitive data in AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "ANTHROPIC: CLAUDE COWORK REMEMBERS CHAT CONTEXT",
-                "teaserTitle": "OPENAI: BROADCOM CHIP VALIDATION IMPACTS NVIDIA",
+                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+                "teaserTitle": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Anthropic's Claude Cowork application now features enhanced memory, allowing it to recall previous conversations and context. This improves AI assistant efficiency in enterprise environments, reducing repetitive context re-entry and increasing utility in professional tasks."
+                "narration_line": "OpenAI expands access to GPT-5.6 Sol within ChatGPT and Luna for free users. This move democratizes advanced AI, but demands careful governance and resource allocation."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: BROADCOM CHIP VALIDATION IMPACTS NVIDIA",
-                "teaserTitle": "RESEARCH: ANTHROPIC FINDS CLAUDE'S CONCEPT SPACE",
+                "headline": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
+                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI has validated its Broadcom-designed custom chip, successfully developing application-specific integrated circuits optimized for AI workloads. This diversifies hardware dependencies, reducing reliance on external GPU providers and impacting Nvidia's market dominance."
+                "narration_line": "Founders from Project Prometheus have unveiled an independent AI model capable of universe-scale modeling. This new venture challenges big tech's dominance in foundational AI research."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: ANTHROPIC FINDS CLAUDE'S CONCEPT SPACE",
-                "teaserTitle": "REGULATION: AI MORE BIASED THAN HUMANS IN HIRING",
+                "headline": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
+                "teaserTitle": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New research from Anthropic describes discovering a 'hidden space' within its Claude model, offering a window into internal reasoning. This breakthrough in interpretability helps demystify complex neural network operations, significantly mitigating operational risks."
+                "narration_line": "Stability AI, creators of Stable Diffusion, secured seventy-six million dollars in fresh funding. This capital injection signals strong investor confidence in the generative AI market's growth potential."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: AI MORE BIASED THAN HUMANS IN HIRING",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Studies indicate AI systems in hiring are more prone to developing and amplifying biases than human recruiters. This highlights a critical challenge for fair talent acquisition, demanding rigorous auditing and transparent algorithm design to avoid legal issues."
+                "narration_line": "China's Tiangong humanoid robot ran one hundred meters in 8.86 seconds. This feat showcases rapid advancements in robotic locomotion for future automation and industrial deployments."
             },
             {
                 "slide_index": 8,
