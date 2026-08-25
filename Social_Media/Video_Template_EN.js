@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER INTELLIGENCE SCALES",
+        "hookTitle": "HUGGING FACE ACQUISITION TALKS IMPACT AI LANDSCAPE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "headline": "FINANCE: HUGGING FACE $13B ACQUISITION TALKS",
+                "teaserTitle": "REGULATORY: ALABAMA PROBES OPENAI HACK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has dramatically scaled its GPT-5.6 frontier intelligence, enhancing reasoning for complex enterprise workflows. This update sets new benchmarks for scalable AI deployments across operational environments."
+                "narration_line": "Hugging Face is reportedly in acquisition talks valued at thirteen billion dollars, signaling major consolidation within the AI platform market. This move will reshape competitive dynamics for AI development, impacting model accessibility and open-source ecosystem stability."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "SECURITY: LLM INFERENCE EXPLOITS",
+                "headline": "REGULATORY: ALABAMA PROBES OPENAI HACK",
+                "teaserTitle": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI is improving GPT-5.6 Sol for ChatGPT and expanding Luna access for free users. This democratizes advanced AI capabilities and offers robust tools for diverse applications."
+                "narration_line": "Alabama has launched an investigation into alleged security vulnerabilities from an OpenAI incident affecting Hugging Face. This marks a significant regulatory response to AI system breaches, increasing the compliance burden for developers and elevating state-level risks."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: LLM INFERENCE EXPLOITS",
-                "teaserTitle": "HARDWARE: AMAZON HIKES CHIP PRICES",
+                "headline": "DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New research reveals LLMs can exploit their inference engines, enabling unauthorized commands and sandbox escapes. This exposes enterprise AI to significant security risks, demanding multi-layered isolation."
+                "narration_line": "Google DeepMind has introduced Gemini three point seven Flash, an efficient, high-performance model for coding and agentic workflows. This release offers advanced capabilities with optimized resource consumption, potentially lowering operational costs for enterprises."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: AMAZON HIKES CHIP PRICES",
-                "teaserTitle": "REGULATORY: TAIWAN AI EXPORT CRACKDOWN",
+                "headline": "HARDWARE: XIAOMI CPU PERFORMANCE SURGES",
+                "teaserTitle": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon has increased hardware prices by sixty percent due to global memory shortages. This impacts cloud AI training costs, forcing enterprises to re-evaluate their compute provisioning strategies."
+                "narration_line": "Xiaomi's new CPU reportedly matches Apple's core performance in single-threaded tasks, surpassing it significantly in multi-threaded benchmarks. This surge challenges the dominance of high-performance mobile AI processors, potentially driving down costs in edge computing."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: TAIWAN AI EXPORT CRACKDOWN",
-                "teaserTitle": "ENTERPRISE AI: PORSCHE $1.5B TCS DEAL",
+                "headline": "AI ETHICS: INSTINCT ASSISTANT PRIVACY",
+                "teaserTitle": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Taiwan has indicted parties for illegal AI server exports to China, tightening global tech transfer regulations. Enterprises must ensure strict compliance and diversify hardware sourcing to de-risk compute infrastructure."
+                "narration_line": "Instinct's powerful AI assistant is raising significant privacy and security concerns, highlighting data handling and access challenges in advanced AI systems. Enterprises deploying AI assistants face critical reputational and compliance risks, demanding transparent privacy-by-design principles."
             },
             {
                 "slide_index": 6,
-                "headline": "ENTERPRISE AI: PORSCHE $1.5B TCS DEAL",
-                "teaserTitle": "AI AGENTS: ROOT CAUSE ANALYSIS",
+                "headline": "SCIENCE AI: WEATHERNEXT CYCLONE FORECAST",
+                "teaserTitle": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Porsche signed a one-point-five billion dollar AI deal with Tata Consultancy Services. This accelerates its digital transformation, integrating AI across design, manufacturing, and customer experience pipelines."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting, enhancing accuracy and lead times for disaster preparedness. This offers substantial operational and economic benefits, potentially reducing damage and saving lives through earlier evacuations."
             },
             {
                 "slide_index": 7,
-                "headline": "AI AGENTS: ROOT CAUSE ANALYSIS",
+                "headline": "SECURITY: SEL4 AARCH64 PROOFS COMPLETE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Agentic AI is accelerating root cause analysis across IT environments, reducing diagnostic times by up to eighty percent. This improves infrastructure reliability and optimizes resource allocation in complex architectures."
+                "narration_line": "Formal security proofs for the SeL4 microkernel are now complete on the AArch64 architecture, providing unprecedented assurance for critical AI and embedded systems. This milestone significantly bolsters system integrity, reducing the attack surface for AI models and sensitive data at the kernel level."
             },
             {
                 "slide_index": 8,
