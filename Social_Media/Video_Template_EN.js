@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FRONTIER AI ADVANCES & SECURITY RISKS",
+        "hookTitle": "REGULATION: ALABAMA PROBES OPENAI HACK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
+                "headline": "REGULATION: ALABAMA PROBES OPENAI HACK",
+                "teaserTitle": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-5.6, scaling frontier intelligence for advanced multi-modal reasoning. This demands a critical re-evaluation of enterprise LLM infrastructure and deployment strategies."
+                "narration_line": "Alabama has launched an investigation into OpenAI following an alleged hack involving Hugging Face. This signals escalating regulatory scrutiny over security vulnerabilities and inter-company conduct in frontier artificial intelligence."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
-                "teaserTitle": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
+                "headline": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
+                "teaserTitle": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "Anthropic has unveiled Opus 5, a significant step change in its top-tier model with stronger coding and agentic capabilities. Businesses must analyze its benchmarks to optimize AI solution stacks."
+                "narration_line": "Hugging Face is reportedly in acquisition talks valued at thirteen billion dollars, indicating significant consolidation within the AI infrastructure landscape. This potential deal underscores the strategic value placed on community-driven AI development."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
-                "teaserTitle": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
+                "headline": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
+                "teaserTitle": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Situational Awareness, an AI hedge fund, is under SEC probe after a near-implosion, highlighting critical financial model risks. This mandates enhanced transparency and robust risk management for AI in finance."
+                "narration_line": "OpenAI has introduced Daybreak, a new cyber defense initiative to fortify AI systems against advanced persistent threats. This strategic push focuses on proactive threat detection and robust security architectures for large-scale artificial intelligence deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
-                "teaserTitle": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
+                "headline": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
+                "teaserTitle": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Porsche cemented a one point five billion dollar AI partnership with Tata Consultancy Services, integrating advanced AI across operations. This compels manufacturers to accelerate digital transformation strategies."
+                "narration_line": "OpenAI has banned Russian-linked ChatGPT accounts involved in covert misinformation campaigns. This action underscores the growing challenge of managing misuse and maintaining platform integrity on a global scale."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
-                "teaserTitle": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
+                "headline": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
+                "teaserTitle": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new vulnerability allows large language models to exploit inference engines and control host machines. CTOs must implement enhanced isolation techniques to prevent critical system compromises."
+                "narration_line": "The SEC has issued subpoenas to major Wall Street banks tied to the Situational Awareness AI hedge fund investigation. This escalates scrutiny on artificial intelligence-driven financial models and their broader ecosystem."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
-                "teaserTitle": "ROBOTICS: AI COMPANION ROBOTS RISE",
+                "headline": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
+                "teaserTitle": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Headlong, a new microharness, improves the stability and reliability of persistent AI agents in complex environments. This advancement makes deploying AI agents for mission-critical functions more feasible."
+                "narration_line": "Instinct's powerful artificial intelligence assistant is reportedly facing significant privacy and security concerns. This highlights inherent risks associated with advanced personal and enterprise AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: AI COMPANION ROBOTS RISE",
+                "headline": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI companion robots are rapidly closing the human connection gap in modern homes, driven by natural language processing and emotional AI. This creates new personal AI opportunities but raises ethical concerns."
+                "narration_line": "The OBLITERATUS Qwen three point eight-twenty-seven billion parameter model has received an optimized release. This update focuses on improving efficiency or specialized capabilities for performance-critical applications."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

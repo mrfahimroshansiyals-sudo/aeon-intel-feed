@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "ANTHROPIC: INTRODUCING OPUS 5",
-                "visual_caption": "OpenAI launched GPT-5.6, scaling frontier intelligence for advanced multi-modal reasoning. This demands critical re-evaluation of enterprise LLM infrastructure and deployment strategies."
+                "headline": "REGULATION: ALABAMA PROBES OPENAI HACK",
+                "teaserTitle": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
+                "visual_caption": "Alabama has launched an investigation into OpenAI following an alleged hack involving Hugging Face. This signals escalating regulatory scrutiny over security vulnerabilities and inter-company conduct in frontier AI."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: INTRODUCING OPUS 5",
-                "teaserTitle": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
-                "visual_caption": "Anthropic unveiled Opus 5, a significant step change in its top-tier model with stronger coding and agentic capabilities. Businesses must analyze its benchmarks to optimize AI solution stacks."
+                "headline": "BUSINESS: HUGGING FACE ACQUISITION TALKS",
+                "teaserTitle": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
+                "visual_caption": "Hugging Face is reportedly in acquisition talks valued at $13B, indicating significant consolidation within the AI infrastructure landscape. This potential deal underscores the strategic value placed on community-driven AI development."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: SITUATIONAL AI HEDGE FUND PROBED",
-                "teaserTitle": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
-                "visual_caption": "Situational AI hedge fund faces SEC probe after near-implosion, highlighting critical financial model risks. This mandates enhanced transparency and robust risk management for AI in finance."
+                "headline": "CYBERSECURITY: OPENAI'S DAYBREAK DEFENSE",
+                "teaserTitle": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
+                "visual_caption": "OpenAI has introduced Daybreak, a new cyber defense initiative to fortify AI systems against advanced persistent threats. This strategic push focuses on proactive threat detection and robust security architectures for large-scale AI deployments."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: PORSCHE INKS $1.5B AI DEAL",
-                "teaserTitle": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
-                "visual_caption": "Porsche cemented a $1.5B AI partnership with Tata Consultancy Services, integrating advanced AI across operations. This compels manufacturers to accelerate digital transformation strategies."
+                "headline": "GEOPOLITICS: OPENAI BANS RUSSIAN ACCOUNTS",
+                "teaserTitle": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
+                "visual_caption": "OpenAI has banned Russian-linked ChatGPT accounts involved in covert misinformation campaigns. This action underscores the growing challenge of managing misuse and maintaining platform integrity on a global scale."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: LLMS EXPLOIT INFERENCE ENGINES",
-                "teaserTitle": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
-                "visual_caption": "New vulnerability allows LLMs to exploit inference engines and control host machines. CTOs must implement enhanced isolation techniques to prevent critical system compromises."
+                "headline": "REGULATION: SEC SUBPOENAS AI HEDGE FUNDS",
+                "teaserTitle": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
+                "visual_caption": "The SEC has issued subpoenas to major Wall Street banks tied to the Situational Awareness AI hedge fund investigation. This escalates scrutiny on AI-driven financial models and their broader ecosystem."
             },
             {
                 "slide_index": 6,
-                "headline": "AI SYSTEMS: HEADLONG MICROHARNESS FOR AGENTS",
-                "teaserTitle": "ROBOTICS: AI COMPANION ROBOTS RISE",
-                "visual_caption": "Headlong, a new microharness, improves stability and reliability of persistent AI agents in complex environments. This advancement makes deploying AI agents for mission-critical functions more feasible."
+                "headline": "SECURITY: INSTINCT AI PRIVACY CONCERNS",
+                "teaserTitle": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
+                "visual_caption": "Instinct's powerful AI assistant is reportedly facing significant privacy and security concerns. This highlights inherent risks associated with advanced personal and enterprise AI deployments."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: AI COMPANION ROBOTS RISE",
+                "headline": "MODEL OPS: QWEN3.8-27B OPTIMIZED RELEASE",
                 "teaserTitle": "",
-                "visual_caption": "AI companion robots are rapidly closing human connection gap in modern homes, driven by natural language processing and emotional AI. This creates new personal AI opportunities but raises ethical concerns."
+                "visual_caption": "The OBLITERATUS Qwen3.8-27B model has received an optimized release. This update focuses on improving efficiency or specialized capabilities for performance-critical applications."
             },
             {
                 "slide_index": 8,
