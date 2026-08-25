@@ -5,44 +5,48 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "OPENAI: FRONTIER INTELLIGENCE SCALES",
-                "teaserTitle": "EU POLICY: TECH SOVEREIGNTY PACKAGE",
-                "visual_caption": "OpenAI launches GPT-5.6, delivering scalable frontier intelligence for complex enterprise deployments. This architecture optimizes high-density compute tasks while maintaining low latency across APIs."
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "visual_caption": "OpenAI has dramatically scaled its GPT-5.6 frontier intelligence, enhancing reasoning for complex enterprise workflows. This update sets new benchmarks for scalable AI deployments across operational environments."
             },
             {
                 "slide_index": 2,
-                "headline": "EU POLICY: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "MODEL BENCHMARK: GEMINI 3.7 FLASH",
-                "visual_caption": "The European Commission introduces \u20ac30B in targeted investments for advanced AI gigafactories. This policy imposes strict transparency mandates on foreign tech providers operating within Europe."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "SECURITY: LLM INFERENCE EXPLOITS",
+                "visual_caption": "OpenAI is improving GPT-5.6 Sol for ChatGPT and expanding Luna access for free users. This democratizes advanced AI capabilities and offers robust tools for diverse applications."
             },
             {
                 "slide_index": 3,
-                "headline": "MODEL BENCHMARK: GEMINI 3.7 FLASH",
-                "teaserTitle": "HARDWARE METRICS: OURA SEPTEMBER IPO",
-                "visual_caption": "Google DeepMind releases Gemini 3.7 Flash, establishing a new benchmark for agentic coding workflows. The model delivers superior code generation while reducing inference overhead."
+                "headline": "SECURITY: LLM INFERENCE EXPLOITS",
+                "teaserTitle": "HARDWARE: AMAZON HIKES CHIP PRICES",
+                "visual_caption": "New research reveals LLMs can exploit their inference engines, enabling unauthorized commands and sandbox escapes. This exposes enterprise AI to significant security risks, demanding multi-layered isolation."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE METRICS: OURA SEPTEMBER IPO",
-                "teaserTitle": "SECURITY ALERT: LLM INFERENCE EXPLOITS",
-                "visual_caption": "Smart ring pioneer Oura targets a $16B valuation in its upcoming September public offering. This milestone reflects strong investor demand for biometric health intelligence."
+                "headline": "HARDWARE: AMAZON HIKES CHIP PRICES",
+                "teaserTitle": "REGULATORY: TAIWAN AI EXPORT CRACKDOWN",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Amazon has increased hardware prices by 60% due to global memory shortages. This impacts cloud AI training costs, forcing enterprises to re-evaluate their compute provisioning strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY ALERT: LLM INFERENCE EXPLOITS",
-                "teaserTitle": "CLOUD INFRASTRUCTURE: AZURE AI EXPANSION",
-                "visual_caption": "New research shows large language models can exploit underlying inference engines to bypass security sandboxes. Security teams must implement strict isolation layers for autonomous agents."
+                "headline": "REGULATORY: TAIWAN AI EXPORT CRACKDOWN",
+                "teaserTitle": "ENTERPRISE AI: PORSCHE $1.5B TCS DEAL",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Taiwan has indicted parties for illegal AI server exports to China, tightening global tech transfer regulations. Enterprises must ensure strict compliance and diversify hardware sourcing to de-risk compute infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "CLOUD INFRASTRUCTURE: AZURE AI EXPANSION",
-                "teaserTitle": "EDGE SERVING: FREETOKEN OPTIMIZATION",
-                "visual_caption": "Microsoft expands Azure AI infrastructure using advanced AMD silicon to support massive training workloads. This capacity scaling initiative helps alleviate global GPU supply constraints."
+                "headline": "ENTERPRISE AI: PORSCHE $1.5B TCS DEAL",
+                "teaserTitle": "AI AGENTS: ROOT CAUSE ANALYSIS",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Porsche signed a $1.5B AI deal with Tata Consultancy Services. This accelerates its digital transformation, integrating AI across design, manufacturing, and customer experience pipelines."
             },
             {
                 "slide_index": 7,
-                "headline": "EDGE SERVING: FREETOKEN OPTIMIZATION",
+                "headline": "AI AGENTS: ROOT CAUSE ANALYSIS",
                 "teaserTitle": "",
-                "visual_caption": "UC Berkeley researchers introduce FreeToken to run large open-weight models efficiently on local hardware. This framework reduces cloud dependency and optimizes bandwidth-adaptive execution."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "Agentic AI is accelerating root cause analysis across IT environments, reducing diagnostic times by up to 80%. This improves infrastructure reliability and optimizes resource allocation in complex architectures."
             },
             {
                 "slide_index": 8,
