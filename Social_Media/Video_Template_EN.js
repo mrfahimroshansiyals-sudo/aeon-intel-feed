@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI JALAPENO CHIP BUILT FOR FAST INFERENCE AT SCALE",
+        "hookTitle": "GPT-5.6: SCALING AI FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: OPENAI JALAPENO CHIP BUILT FOR FAST INFERENCE AT SCALE",
-                "teaserTitle": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
+                "teaserTitle": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled its custom Jalape\u00f1o chip to handle high-throughput inference at enterprise scale. Initial benchmarks indicate the specialized silicon drastically reduces latency across large deployments."
+                "narration_line": "OpenAI's new GPT-5.6 model delivers frontier intelligence, designed to scale with the most demanding enterprise applications. It achieves unparalleled performance across complex reasoning tasks, optimizing both throughput and inference costs."
             },
             {
                 "slide_index": 2,
-                "headline": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
-                "teaserTitle": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
+                "headline": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+                "teaserTitle": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Apodex version one point one establishes a new benchmark for sustained progress on complex tasks. The updated system trains agents to coordinate long-horizon workflows with robust error recovery."
+                "narration_line": "A critical flaw now exposes large language models to severe adversarial attacks, enabling harmful output generation. This demands immediate architectural safeguards to protect enterprise data and ensure system integrity."
             },
             {
                 "slide_index": 3,
-                "headline": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
+                "headline": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+                "teaserTitle": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Berkeley researchers introduced FreeToken, an edge-native Mixture-of-Experts serving system. It dynamically maps computation across local hardware to run large models on personal machines."
+                "naration_line": "The EU has launched its AI Gigafactories call, committing over thirty billion Euros to boost computing capacity. This strategic investment aims to establish a robust, domestic AI compute ecosystem, reducing reliance on external providers."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
-                "teaserTitle": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
+                "headline": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+                "teaserTitle": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind has launched Gemini three point seven Flash as an intelligent workhorse model. It optimizes coding tasks and agent operations with superior speed and precision."
+                "narration_line": "Apple has unveiled its M6 and M5 Ultra AI chips, significantly accelerating on-device workloads across new Mac Studio and Mac Mini models. These chips promise unprecedented power efficiency and performance for edge AI computing."
             },
             {
                 "slide_index": 5,
-                "headline": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
-                "teaserTitle": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
+                "headline": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission has initiated strict enforcement of the AI Act rules. The technological sovereignty package aims to unlock over thirty billion euros in infrastructure investment."
+                "narration_line": "Stability AI has secured seventy-six million dollars in fresh funding, solidifying its leadership in generative diffusion models for content creation. This capital will accelerate research and development for their foundational AI models."
             },
             {
                 "slide_index": 6,
-                "headline": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
-                "teaserTitle": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
+                "headline": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+                "teaserTitle": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new one hundred fifty million parameter reasoning model named BDH-CQ achieved a cost-accuracy frontier. It combines recurrent latent reasoning with advanced in-context learning."
+                "narration_line": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurately forecasting cyclones with enhanced precision. This improves predictive capabilities critical for disaster preparedness and global enterprise resilience."
             },
             {
                 "slide_index": 7,
-                "headline": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
+                "headline": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "NIST has joined the National Genesis Mission to accelerate artificial intelligence innovation. The federal effort focuses on cryptographic defenses and robust testing frameworks."
+                "narration_line": "New research reveals children far surpass large language models in language acquisition, using significantly less data. This insight could revolutionize AI architecture, leading to more efficient and sustainable learning models."
             },
             {
                 "slide_index": 8,

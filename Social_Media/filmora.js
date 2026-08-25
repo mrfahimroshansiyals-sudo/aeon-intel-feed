@@ -4,50 +4,55 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: OPENAI JALAPENO CHIP BUILT FOR FAST INFERENCE AT SCALE",
-                "teaserTitle": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
-                "visual_caption": "OpenAI has unveiled its custom Jalape\u00f1o chip for high-throughput inference at enterprise scale. Initial benchmarks show specialized silicon drastically reduces latency across deployments."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES WITH AMBITION",
+                "teaserTitle": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+                "visual_caption": "OpenAI's new GPT-5.6 model delivers frontier intelligence, designed to scale with the most demanding enterprise applications. It achieves unparalleled performance across complex reasoning tasks, optimizing both throughput and inference costs."
             },
             {
                 "slide_index": 2,
-                "headline": "APODEX: APODEX 1.1 SCALING AGENTIC INTELLIGENCE",
-                "teaserTitle": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
-                "visual_caption": "Apodex 1.1 establishes a new benchmark for sustained progress on complex real-world tasks. The updated system trains agents to coordinate long-horizon workflows with state recovery."
+                "headline": "SECURITY: LLM VULNERABILITIES POSE ATTACK RISKS",
+                "teaserTitle": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+                "visual_caption": "A critical flaw now exposes LLMs to severe adversarial attacks, enabling harmful output generation. This demands immediate architectural safeguards to protect enterprise data and ensure system integrity."
             },
             {
                 "slide_index": 3,
-                "headline": "BERKELEY: FREETOKEN EFFICIENT EDGE NATIVE MOE",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
-                "visual_caption": "Berkeley introduced FreeToken, an edge-native MoE serving system for heterogeneous hardware. It dynamically maps computation to run large open-weight models on personal machines."
+                "headline": "EU POLICY: \u20ac30B AI GIGAFACTORIES BOOST COMPUTE",
+                "teaserTitle": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+                "visual_caption": "The EU has launched its AI Gigafactories call, committing over \u20ac30B to boost computing capacity. This strategic investment aims to establish a robust, domestic AI compute ecosystem, reducing reliance on external providers."
             },
             {
                 "slide_index": 4,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH WORKHORSE MODEL",
-                "teaserTitle": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
-                "visual_caption": "Google DeepMind has launched Gemini 3.7 Flash as a high-efficiency workhorse model. It optimizes coding tasks and autonomous agent operations with superior speed and logic handling."
+                "headline": "HARDWARE: APPLE UNVEILS M6 & M5 ULTRA AI CHIPS",
+                "teaserTitle": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Apple has unveiled its M6 & M5 Ultra AI chips, significantly accelerating on-device workloads across new Mac Studio and Mac Mini models. These chips promise unprecedented power efficiency & performance for edge AI computing."
             },
             {
                 "slide_index": 5,
-                "headline": "EU: TECH SOVEREIGNTY PACKAGE AND AI ACT",
-                "teaserTitle": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
-                "visual_caption": "The European Commission has initiated strict enforcement of the AI Act rules. The tech sovereignty package aims to unlock over \u20ac30B in computing infrastructure investments."
+                "headline": "FUNDING: STABILITY AI SECURES $76M FOR DIFFUSION MODELS",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Stability AI has secured $76M in fresh funding, solidifying its leadership in generative diffusion models for content creation. This capital will accelerate research and development for their foundational AI models."
             },
             {
                 "slide_index": 6,
-                "headline": "PATHWAY: BDH-CQ RECURRENT LATENT REASONING",
-                "teaserTitle": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
-                "visual_caption": "A new 150M-parameter model named BDH-CQ achieved a new cost-accuracy frontier on ARC-AGI-1. It combines recurrent latent reasoning with advanced in-context learning."
+                "headline": "DEEPMIND: WEATHERNEXT AI FORECASTS CYCLONES ACCURATELY",
+                "teaserTitle": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Google DeepMind's WeatherNext AI model achieved a breakthrough in accurately forecasting cyclones with enhanced precision. This improves predictive capabilities critical for disaster preparedness and global enterprise resilience."
             },
             {
                 "slide_index": 7,
-                "headline": "NIST: NATIONAL GENESIS MISSION AI INNOVATION",
+                "headline": "RESEARCH: KIDS OUTPERFORM AI IN LANGUAGE LEARNING",
                 "teaserTitle": "",
-                "visual_caption": "NIST has joined the National Genesis Mission to accelerate AI innovation and quantum safety. The federal effort focuses on cryptographic defenses and secure measurement standards."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "New research reveals children far surpass LLMs in language acquisition, using significantly less data. This insight could revolutionize AI architecture, leading to more efficient and sustainable learning models."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
