@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT 5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "visual_caption": "OpenAI has launched its new GPT 5.6 frontier intelligence model, designed for advanced enterprise scaling. This release sets new benchmarks for LLM deployment, requiring infrastructure re-evaluation."
+                "headline": "OPENAI: IMPROVED GPT 5.6 SOL/LUNA ACCESS",
+                "teaserTitle": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+                "visual_caption": "OpenAI improved GPT 5.6 Sol and expanded GPT 5.6 Luna access for free users. This boosts adoption and enhances model performance."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "HUGGING FACE: QWEN 3.8-27B MLX UNLEASHED",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, optimized for coding and agentic applications. This model offers improved performance in complex computational tasks and real-time inference."
+                "headline": "OPENAI: GPT 5.6 SOL PRICE REDUCTION",
+                "teaserTitle": "ARXIV: AGENTIC FLOODING OF GOVERNMENT SERVICES",
+                "visual_caption": "OpenAI cut GPT 5.6 Sol prices, effective until Nov 21. This improves compute efficiency for high-volume AI deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN 3.8-27B MLX UNLEASHED",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
-                "visual_caption": "A Qwen 3.8-27B Uncensored-MLX model is now available on Hugging Face. This provides new flexibility for developers, but demands careful content moderation and ethical use."
+                "headline": "ARXIV: AGENTIC FLOODING OF GOVERNMENT SERVICES",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "visual_caption": "Research reveals 'agentic flooding,' where AI agents overwhelm government digital services. This poses a critical threat to public infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANDS",
-                "teaserTitle": "THOMSON REUTERS: FRONTIER AI MODEL LAUNCHED",
-                "visual_caption": "OpenAI is bolstering Daybreak cyber defense, enhancing security against advanced AI threats. This initiative is crucial for protecting AI systems and their underlying infrastructure from sophisticated attacks."
+                "headline": "DEEPMIND: WEATHERNEXT AI BREAKTHROUGH",
+                "teaserTitle": "TECHCRUNCH: INSTINCT AI PRIVACY CONCERNS",
+                "visual_caption": "DeepMind's WeatherNext AI model achieved a breakthrough in cyclone forecasting. This impacts global disaster preparedness strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "THOMSON REUTERS: FRONTIER AI MODEL LAUNCHED",
-                "teaserTitle": "IEEE SPECTRUM: ADAPTABLE AI ENGINEER",
-                "visual_caption": "Thomson Reuters launched its own frontier AI model, integrating advanced AI into legal and financial services. This challenges generic LLM adoption with highly specialized analytical capabilities."
+                "headline": "TECHCRUNCH: INSTINCT AI PRIVACY CONCERNS",
+                "teaserTitle": "MIT TECH REVIEW: KIDS OUTLEARN AI CHALLENGE",
+                "visual_caption": "Instinct AI assistant raises privacy and security concerns due to data processing. This highlights risks in deploying integrated AI agents."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: ADAPTABLE AI ENGINEER",
-                "teaserTitle": "PORSCHE: $1.5B AI DEAL WITH TCS",
-                "visual_caption": "IEEE Spectrum emphasizes the need for adaptable engineers in the AI era, requiring continuous upskilling in prompt engineering and model governance. Companies must invest in training to mitigate skill obsolescence."
+                "headline": "MIT TECH REVIEW: KIDS OUTLEARN AI CHALLENGE",
+                "teaserTitle": "IEEE SPECTRUM: SELF-DRIVING CAR REQUESTS",
+                "visual_caption": "MIT Tech Review notes kids outlearn AI in language acquisition with less data. This challenges AI learning efficiency and model architecture."
             },
             {
                 "slide_index": 7,
-                "headline": "PORSCHE: $1.5B AI DEAL WITH TCS",
+                "headline": "IEEE SPECTRUM: SELF-DRIVING CAR REQUESTS",
                 "teaserTitle": "",
-                "visual_caption": "Porsche announced a $1.5B AI deal with Tata Consultancy Services for automotive innovation. This large investment highlights the value of strategic AI partnerships for industry leaders."
+                "visual_caption": "IEEE Spectrum covers self-driving cars interpreting complex natural language requests. This signals a shift toward intuitive human-AI interaction."
             },
             {
                 "slide_index": 8,
