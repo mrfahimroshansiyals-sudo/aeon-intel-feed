@@ -4,45 +4,47 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
-                "teaserTitle": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
-                "visual_caption": "OpenAI launches GPT 5.6 with massive gains in reasoning and multi-modal agency. This release forces a re-assessment of inference costs for all enterprise AI deployments."
+                "headline": "FRONTIER MODELS: Z.AI RELEASES OX ALPHA MODEL",
+                "teaserTitle": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "visual_caption": "Z.ai has released its new Ox Alpha GLM-series model, making its weights publicly available. This allows developers to integrate and fine-tune a powerful new general-purpose language model."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "visual_caption": "OpenAI Jalape\u00f1o chip data shows it outperforming Nvidia Blackwell architecture in specific tasks. Vertical hardware integration now poses a major challenge to GPU vendor dominance."
+                "headline": "OPENAI: EXPANDS DAYBREAK CYBER DEFENSE",
+                "teaserTitle": "AGENTIC AI: APODEX 1.1 SCALES INTELLIGENCE",
+                "visual_caption": "OpenAI is expanding Daybreak cyber defense initiatives to counter AI-driven security threats. This proactive measure integrates advanced AI capabilities into detection and response systems for critical infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
-                "teaserTitle": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash for high-speed agentic execution. This model reduces the cost barrier for real-time AI and edge-based processing."
+                "headline": "AGENTIC AI: APODEX 1.1 SCALES INTELLIGENCE",
+                "teaserTitle": "FRONTIER AGENTS: PRIME AGENT HARNESS RELEASE",
+                "visual_caption": "Apodex 1.1 improves agentic intelligence by scaling executable environments for complex real-world tasks. This system trains agents to coordinate long-horizon work, integrating state maintenance and recovery mechanisms."
             },
             {
                 "slide_index": 4,
-                "headline": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
-                "visual_caption": "EU Commission proposes a $30B package to boost AI and cloud infrastructure. The initiative aims to secure digital autonomy through localized semiconductor development."
+                "headline": "FRONTIER AGENTS: PRIME AGENT HARNESS RELEASE",
+                "teaserTitle": "GENERATIVE AI: STABILITY AI SECURES $76M FUNDING",
+                "visual_caption": "Prime Intellect has released Prime Agent, an open-source harness for recursive subagents and persistent computation. This framework extends large language models' long-horizon capabilities across complex coding and reasoning tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
-                "teaserTitle": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
-                "visual_caption": "Robotics startup Generalist reaches a $3B valuation for its humanoid intelligence layers. Investor interest grows in the convergence of AI models and physical hardware."
+                "headline": "GENERATIVE AI: STABILITY AI SECURES $76M FUNDING",
+                "teaserTitle": "AMAZON AI: 'ARTIFICIAL AI' SHUTS DOWN",
+                "visual_caption": "Stability AI, known for its Stable Diffusion image generator, has successfully raised $76M in fresh funding. This capital injection reinforces its position in the competitive generative AI market."
             },
             {
                 "slide_index": 6,
-                "headline": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
-                "teaserTitle": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
-                "visual_caption": "DeepMind WeatherNext achieves a breakthrough in forecasting tropical cyclone trajectories. Commercial sectors must integrate these predictions to mitigate major operational risks."
+                "headline": "AMAZON AI: 'ARTIFICIAL AI' SHUTS DOWN",
+                "teaserTitle": "AI INFRASTRUCTURE: AGENTIC CONTEXT MANAGEMENT",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "Amazon is shutting down a service Jeff Bezos once called 'artificial artificial intelligence.' This indicates a re-evaluation of operational strategy for hybrid AI-human task systems."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "OpenAI confirms the exit of a top data center executive during global compute scaling. This leadership shift could impact the pace of future hardware infrastructure expansion."
+                "headline": "AI INFRASTRUCTURE: AGENTIC CONTEXT MANAGEMENT",
+                "teaserTitle": "",
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "New research from arXiv highlights agentic context management as a critical architectural challenge, framing memory and cost as primary problems. This study explores methods for efficient edge-native Mixture-of-Experts serving."
             },
             {
                 "slide_index": 8,
