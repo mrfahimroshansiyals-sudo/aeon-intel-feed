@@ -4,51 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RESEARCH: AI MODEL INTELLIGENCE TESTS FLUB",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
-                "visual_caption": "New research reveals AI models are struggling with advanced intelligence tests, exposing limitations in their fundamental reasoning capabilities. This demands re-evaluation of deployment robustness and architectural choices for critical enterprise applications."
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
+                "visual_caption": "OpenAI launches GPT 5.6 with massive gains in reasoning and multi-modal agency. This release forces a re-assessment of inference costs for all enterprise AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
-                "teaserTitle": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
-                "visual_caption": "OpenAI has enhanced GPT-5.6 Sol within ChatGPT while also expanding access to GPT-5.6 Luna for all free users. This move intensifies competition, urging enterprises to integrate accessible advanced AI or risk falling behind strategically."
+                "headline": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "visual_caption": "OpenAI Jalape\u00f1o chip data shows it outperforming Nvidia Blackwell architecture in specific tasks. Vertical hardware integration now poses a major challenge to GPU vendor dominance."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
-                "teaserTitle": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
-                "visual_caption": "OpenAI's custom Broadcom AI inference chip shows high effectiveness, challenging existing hardware dominance in the AI compute market. This shift suggests diversifying compute infrastructure beyond general-purpose GPUs to specialized ASICs for long-term cost benefits."
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash for high-speed agentic execution. This model reduces the cost barrier for real-time AI and edge-based processing."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
-                "teaserTitle": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
-                "visual_caption": "New research identifies agentic context management as a key architectural bottleneck due to memory and cost inefficiencies in scaling AI agents. Addressing these issues is crucial for reducing inference costs and improving the reliability of enterprise agentic workflows."
+                "headline": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
+                "visual_caption": "EU Commission proposes a $30B package to boost AI and cloud infrastructure. The initiative aims to secure digital autonomy through localized semiconductor development."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
-                "teaserTitle": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
-                "visual_caption": "OpenAI successfully disrupted a new covert influence campaign by Russia, which used advanced AI to spread disinformation. This highlights the critical need for robust AI-powered detection to counteract state-sponsored threats and protect platforms."
+                "headline": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
+                "teaserTitle": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
+                "visual_caption": "Robotics startup Generalist reaches a $3B valuation for its humanoid intelligence layers. Investor interest grows in the convergence of AI models and physical hardware."
             },
             {
                 "slide_index": 6,
-                "headline": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
-                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
-                "visual_caption": "Bill Gates warns society has surpassed critical AI danger thresholds, urging urgent governance and ethical guardrails. This signals impending regulatory pressure, requiring enterprises to integrate robust ethical AI frameworks and transparent risk assessments now."
+                "headline": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
+                "teaserTitle": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
+                "visual_caption": "DeepMind WeatherNext achieves a breakthrough in forecasting tropical cyclone trajectories. Commercial sectors must integrate these predictions to mitigate major operational risks."
             },
             {
                 "slide_index": 7,
-                "headline": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
-                "teaserTitle": "",
-                "visual_caption": "Stability AI has secured an additional $76M in funding, strengthening its position in the generative AI market. This investment intensifies competition, potentially driving down costs for generative AI solutions and accelerating open-source model development."
+                "headline": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "OpenAI confirms the exit of a top data center executive during global compute scaling. This leadership shift could impact the pace of future hardware infrastructure expansion."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]

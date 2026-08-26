@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "AI MODEL INTELLIGENCE TESTS FLUB",
+        "hookTitle": "GPT-5.6 FRONTIER MODEL RELEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RESEARCH: AI MODEL INTELLIGENCE TESTS FLUB",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "headline": "OPENAI: GPT-5.6 FRONTIER MODEL RELEASE",
+                "teaserTitle": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "New research reveals AI models are struggling with advanced intelligence tests, exposing limitations in their fundamental reasoning capabilities. This demands re-evaluation of deployment robustness and architectural choices for critical enterprise applications."
+                "narration_line": "OpenAI has officially launched GPT five point six with massive gains in reasoning and multi-modal agency. This release forces a strategic re-assessment of inference costs for all enterprise AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
-                "teaserTitle": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
+                "headline": "HARDWARE: JALAPE\u00d1O INFERENCE SPEED DATA",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI has enhanced GPT-5.6 Sol within ChatGPT while also expanding access to GPT-5.6 Luna for all free users. This move intensifies competition, urging enterprises to integrate accessible advanced AI or risk falling behind strategically."
+                "narration_line": "Performance data for the Jalape\u00f1o chip shows it is outperforming Nvidia Blackwell architecture in specific tasks. Vertical hardware integration is now a primary challenge to traditional GPU vendor dominance."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
-                "teaserTitle": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEPLOYMENT",
+                "teaserTitle": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI's custom Broadcom AI inference chip shows high effectiveness, challenging existing hardware dominance in the AI compute market. This shift suggests diversifying compute infrastructure beyond general-purpose GPUs to specialized ASICs for long-term cost benefits."
+                "narration_line": "DeepMind has introduced Gemini three point seven Flash to enable high-speed agentic execution. This deployment drastically reduces the cost barrier for real-time AI applications and edge-based processing."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
-                "teaserTitle": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
+                "headline": "POLICY: EU TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New research identifies agentic context management as a key architectural bottleneck due to memory and cost inefficiencies in scaling AI agents. Addressing these issues is crucial for reducing inference costs and improving the reliability of enterprise agentic workflows."
+                "narration_line": "The European Commission is proposing a thirty billion euro package to boost AI and cloud infrastructure. This initiative aims to secure digital autonomy through localized semiconductor and AI development."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
-                "teaserTitle": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
+                "headline": "ROBOTICS: GENERALIST ACHIEVES $3B VALUATION",
+                "teaserTitle": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "OpenAI successfully disrupted a new covert influence campaign by Russia, which used advanced AI to spread disinformation. This highlights the critical need for robust AI-powered detection to counteract state-sponsored threats and protect platforms."
+                "narration_line": "Robotics startup Generalist has hit a three billion dollar valuation for its foundational humanoid intelligence layers. This reflects intense market interest in the convergence of AI models and physical hardware."
             },
             {
                 "slide_index": 6,
-                "headline": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
-                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
+                "headline": "METEOROLOGY: WEATHERNEXT CYCLONE BREAKTHROUGH",
+                "teaserTitle": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Bill Gates warns society has surpassed critical AI danger thresholds, urging urgent governance and ethical guardrails. This signals impending regulatory pressure, requiring enterprises to integrate robust ethical AI frameworks and transparent risk assessments now."
+                "narration_line": "DeepMind's new WeatherNext model has achieved a breakthrough in accurately forecasting the trajectory of cyclones. Commercial sectors must now integrate these high-fidelity predictions to mitigate major climate-related risks."
             },
             {
                 "slide_index": 7,
-                "headline": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
-                "teaserTitle": "",
+                "headline": "INFRASTRUCTURE: OPENAI DATA CENTER EXEC EXIT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Stability AI has secured an additional seventy-six million dollars in funding, strengthening its position in the generative AI market. This investment intensifies competition, potentially driving down costs for generative AI solutions and accelerating open-source model development."
+                "narration_line": "OpenAI confirms the exit of a key data center executive as it scales its global compute footprint. This leadership shift may impact the pace of future hardware expansion and infrastructure roadmap execution."
             },
             {
                 "slide_index": 8,
