@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "Z.AI: GLM-5.3-FLASH SETS NEW EFFICIENCY FRONTIER",
+        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "Z.AI: GLM-5.3-FLASH SETS NEW EFFICIENCY FRONTIER",
-                "teaserTitle": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
+                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: JALAPE\u00d1O CHIP CHALLENGES NVIDIA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Z.AI has unveiled GLM-5.3-Flash, a new model setting a frontier in intelligence and cost-efficiency. This impacts compute optimization and architectural choices for large-scale AI deployments."
+                "narration_line": "OpenAI has unveiled GPT-5.6, a new frontier model showing improved intelligence and scalability across tasks. This release pushes large language model boundaries, impacting compute resource allocation and strategic API migration planning."
             },
             {
                 "slide_index": 2,
-                "headline": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH POWERS AGENTIC CODING",
+                "headline": "OPENAI: JALAPE\u00d1O CHIP CHALLENGES NVIDIA",
+                "teaserTitle": "Z.AI: OX ALPHA MODEL WEIGHTS RELEASED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Qwen.ai's Qwen3.8-Flash-Next model offers a new architecture for ultimate cost-efficiency. It directly reduces operational expenses for deploying advanced AI applications at scale."
+                "naration_line": "OpenAI is developing its Jalape\u00f1o AI chip to cut dependence on external GPU providers and lower inference costs. Early results indicate industry-leading speed, directly threatening established hardware makers like Nvidia."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH POWERS AGENTIC CODING",
-                "teaserTitle": "META: ZUCKERBERG'S AI STAFF REPLACEMENT IMPLODES",
+                "headline": "Z.AI: OX ALPHA MODEL WEIGHTS RELEASED",
+                "teaserTitle": "APODEX: AGENTIC INTELLIGENCE SCALED TO COMPLEX WORK",
                 "visual_asset": "backgroundyt3.png",
-                "naration_line": "Google DeepMind introduces Gemini 3.7 Flash, its most intelligent model for coding and agents. This accelerates enterprise automation and improves developer workflows for complex tasks."
+                "narration_line": "Z.ai has confirmed the weight release for its new Ox Alpha model, an anticipated addition to its GLM-series. This open release promotes broader access and experimentation, fostering architectural innovation."
             },
             {
                 "slide_index": 4,
-                "headline": "META: ZUCKERBERG'S AI STAFF REPLACEMENT IMPLODES",
-                "teaserTitle": "IEEE SPECTRUM: NEW PLATFORM PEERS INSIDE AI'S BLACK BOX",
+                "headline": "APODEX: AGENTIC INTELLIGENCE SCALED TO COMPLEX WORK",
+                "teaserTitle": "PRIME INTELLECT: SELF-IMPROVING RLM HARNESS RELEASED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Meta's plan to replace a significant portion of its staff with AI imploded due to internal resistance. This underscores critical human-centric challenges in large-scale AI workforce integration."
+                "narration_line": "Apodex 1.1 advances agentic intelligence for complex, real-world tasks, focusing on sustained and verifiable progress. The system improves executable environments for multi-step automation."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: NEW PLATFORM PEERS INSIDE AI'S BLACK BOX",
-                "teaserTitle": "CNBC: STRATEGIST WARNS ON AI INVESTMENT FUTURE",
+                "headline": "PRIME INTELLECT: SELF-IMPROVING RLM HARNESS RELEASED",
+                "teaserTitle": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A new platform offers unprecedented visibility into AI's black box, enhancing explainability and auditability. This is crucial for managing AI risks and ensuring regulatory compliance in sensitive sectors."
+                "narration_line": "Prime Intellect released an open-source Prime Agent RLM harness for self-improving language models. It uses recursive subagents and persistent computation for coding and reasoning tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: STRATEGIST WARNS ON AI INVESTMENT FUTURE",
-                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE WINDOW",
+                "headline": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
+                "teaserTitle": "GLM.AI: GLM-5.3-FLASH MODEL EFFICIENCY FRONTIER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A strategist warns against current AI investment trends, predicting a market recalibration and new winners. This calls for re-evaluating portfolios for sustainable and disruptive technologies."
+                "narration_line": "Qwen.ai's Qwen3.8-Flash-Next model update significantly boosts cost-efficiency for large language model deployment. Its re-engineered architecture minimizes operational expenses while sustaining high-performance inference."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE WINDOW",
+                "headline": "GLM.AI: GLM-5.3-FLASH MODEL EFFICIENCY FRONTIER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "OpenAI is expanding 'Daybreak' to fortify AI systems against sophisticated cyber threats. This necessitates robust security frameworks and continuous monitoring for organizations deploying advanced AI models."
+                "narration_line": "Z.AI updated its GLM-5.3-Flash model, setting a new efficiency frontier with improved intelligence-per-cost metrics. This delivers lower computational overhead for complex AI workloads."
             },
             {
                 "slide_index": 8,
