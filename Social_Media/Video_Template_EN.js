@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "ANTHROPIC SECURES $45B CLOUD DEAL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: JALAPE\u00d1O CHIP CHALLENGES NVIDIA",
+                "headline": "ANTHROPIC: NSCALE STRIKES $45B CLOUD DEAL",
+                "teaserTitle": "OPENAI: HACKED HUGGING FACE AGENTS REPORT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has unveiled GPT-5.6, a new frontier model showing improved intelligence and scalability across tasks. This release pushes large language model boundaries, impacting compute resource allocation and strategic API migration planning."
+                "narration_line": "Anthropic has secured a forty-five billion dollar cloud infrastructure deal with Nscale for its advanced AI model training. This strategic investment highlights the escalating capital required for frontier AI development and compute resources."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: JALAPE\u00d1O CHIP CHALLENGES NVIDIA",
-                "teaserTitle": "Z.AI: OX ALPHA MODEL WEIGHTS RELEASED",
+                "headline": "OPENAI: HACKED HUGGING FACE AGENTS REPORT",
+                "teaserTitle": "CYBER SECURITY: US SEIZES CHINESE BOTNET DOMAINS",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI is developing its Jalape\u00f1o AI chip to cut dependence on external GPU providers and lower inference costs. Early results indicate industry-leading speed, directly threatening established hardware makers like Nvidia."
+                "narration_line": "OpenAI has released a report detailing its agents' role in the recent Hugging Face security breach. This incident underscores critical vulnerabilities in interconnected AI ecosystems and the need for robust defense."
             },
             {
                 "slide_index": 3,
-                "headline": "Z.AI: OX ALPHA MODEL WEIGHTS RELEASED",
-                "teaserTitle": "APODEX: AGENTIC INTELLIGENCE SCALED TO COMPLEX WORK",
+                "headline": "CYBER SECURITY: US SEIZES CHINESE BOTNET DOMAINS",
+                "teaserTitle": "HARDWARE: CHINA'S RARE EARTHS CHOKE DATA CENTERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Z.ai has confirmed the weight release for its new Ox Alpha model, an anticipated addition to its GLM-series. This open release promotes broader access and experimentation, fostering architectural innovation."
+                "narration_line": "The U.S. government has seized domains of a Chinese botnet that hacked NASA, the Department of Justice, and the Senate. This operation disrupts cyber espionage targeting critical national infrastructure and sensitive data."
             },
             {
                 "slide_index": 4,
-                "headline": "APODEX: AGENTIC INTELLIGENCE SCALED TO COMPLEX WORK",
-                "teaserTitle": "PRIME INTELLECT: SELF-IMPROVING RLM HARNESS RELEASED",
+                "headline": "HARDWARE: CHINA'S RARE EARTHS CHOKE DATA CENTERS",
+                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Apodex 1.1 advances agentic intelligence for complex, real-world tasks, focusing on sustained and verifiable progress. The system improves executable environments for multi-step automation."
+                "narration_line": "China's increasing control over rare earth elements like Erbium and Yttrium threatens global data center expansion and semiconductor manufacturing. These materials are crucial for high-performance computing components."
             },
             {
                 "slide_index": 5,
-                "headline": "PRIME INTELLECT: SELF-IMPROVING RLM HARNESS RELEASED",
-                "teaserTitle": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
+                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
+                "teaserTitle": "POLICY: BILL GATES URGES 'HUMAN RESERVED' JOBS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Prime Intellect released an open-source Prime Agent RLM harness for self-improving language models. It uses recursive subagents and persistent computation for coding and reasoning tasks."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiatives due to a narrowing window for proactive threat mitigation. This aims to fortify its models and platforms against evolving cyber-physical attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
-                "teaserTitle": "GLM.AI: GLM-5.3-FLASH MODEL EFFICIENCY FRONTIER",
+                "headline": "POLICY: BILL GATES URGES 'HUMAN RESERVED' JOBS",
+                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Qwen.ai's Qwen3.8-Flash-Next model update significantly boosts cost-efficiency for large language model deployment. Its re-engineered architecture minimizes operational expenses while sustaining high-performance inference."
+                "narration_line": "Bill Gates advocates for 'Human Reserved' job categories to mitigate societal upheaval from advanced AI adoption. This emphasizes proactive policy to manage labor market shifts."
             },
             {
                 "slide_index": 7,
-                "headline": "GLM.AI: GLM-5.3-FLASH MODEL EFFICIENCY FRONTIER",
+                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Z.AI updated its GLM-5.3-Flash model, setting a new efficiency frontier with improved intelligence-per-cost metrics. This delivers lower computational overhead for complex AI workloads."
+                "narration_line": "Google DeepMind has launched Gemini three point seven Flash, a new workhorse model optimized for coding and agentic applications. This release enhances performance and efficiency for complex AI systems."
             },
             {
                 "slide_index": 8,
