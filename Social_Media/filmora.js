@@ -4,45 +4,46 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ANTHROPIC: NSCALE STRIKES $45B CLOUD DEAL",
-                "teaserTitle": "OPENAI: HACKED HUGGING FACE AGENTS REPORT",
-                "visual_caption": "Anthropic secured a $45B cloud infrastructure deal with Nscale for advanced AI model training. This investment highlights escalating capital for frontier AI and compute resources."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE & FREE LUNA ACCESS",
+                "teaserTitle": "IBM: NEXT GEN DUAL-ARCHITECTURE PROCESSOR UNVEILED",
+                "visual_caption": "OpenAI launches GPT-5.6, scaling advanced reasoning. Enterprise AI applications see up to a 15% reduction in inference latency."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: HACKED HUGGING FACE AGENTS REPORT",
-                "teaserTitle": "CYBER SECURITY: US SEIZES CHINESE BOTNET DOMAINS",
-                "visual_caption": "OpenAI released a report on its agents' role in the Hugging Face breach. This incident underscores critical vulnerabilities in interconnected AI ecosystems and robust defense needs."
+                "headline": "IBM: NEXT GEN DUAL-ARCHITECTURE PROCESSOR UNVEILED",
+                "teaserTitle": "HUGGING FACE: QWEN3.8-FLASH & GLM-5.3 MODEL UPDATES",
+                "visual_caption": "IBM unveils next-gen dual-architecture processor, integrating CPU and AI units. It promises 20% greater AI efficiency and 10% power reduction."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBER SECURITY: US SEIZES CHINESE BOTNET DOMAINS",
-                "teaserTitle": "HARDWARE: CHINA'S RARE EARTHS CHOKE DATA CENTERS",
-                "visual_caption": "U.S. seized domains of Chinese botnet hacking NASA, DOJ, and Senate. This disrupts cyber espionage targeting critical national infrastructure and data."
+                "headline": "HUGGING FACE: QWEN3.8-FLASH & GLM-5.3 MODEL UPDATES",
+                "teaserTitle": "SALESFORCE: EXPANDS AI PARTNERSHIP AMID CONCERNS",
+                "visual_caption": "Hugging Face updates Qwen3.8-Flash-Next & GLM-5.3-Flash for improved performance. These open-source models boost parameter efficiency in language tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: CHINA'S RARE EARTHS CHOKE DATA CENTERS",
-                "teaserTitle": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "visual_caption": "China's rare earths grip on Erbium and Yttrium threatens data center expansion and chip manufacturing. These materials are crucial for high-performance computing components."
+                "headline": "SALESFORCE: EXPANDS AI PARTNERSHIP AMID CONCERNS",
+                "teaserTitle": "DEEPMIND: GEMINI 3.5 TRANSCRIBE INTELLIGENCE",
+                "visual_caption": "Salesforce deepens AI partnerships, integrating generative AI into SaaS. This fortifies its competitive edge amid 'SaaSpocalypse' market concerns."
             },
             {
                 "slide_index": 5,
-                "headline": "OPENAI: DAYBREAK CYBER DEFENSE EXPANSION",
-                "teaserTitle": "POLICY: BILL GATES URGES 'HUMAN RESERVED' JOBS",
-                "visual_caption": "OpenAI expands 'Daybreak' cyber defense, citing narrowing threat mitigation windows. This aims to fortify models against evolving cyber-physical attacks."
+                "headline": "DEEPMIND: GEMINI 3.5 TRANSCRIBE INTELLIGENCE",
+                "teaserTitle": "IEEE: NEW PLATFORM PEERS INSIDE AI BLACK BOX",
+                "visual_caption": "DeepMind launches Gemini 3.5 Transcribe, its most precise speech-to-text model. It achieves 99.5% word accuracy in intelligent voice interactions."
             },
             {
                 "slide_index": 6,
-                "headline": "POLICY: BILL GATES URGES 'HUMAN RESERVED' JOBS",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
-                "visual_caption": "Bill Gates urges 'Human Reserved' job categories to mitigate AI's societal upheaval. This emphasizes proactive policy for labor market shifts."
+                "headline": "IEEE: NEW PLATFORM PEERS INSIDE AI BLACK BOX",
+                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+                "visual_caption": "IEEE reports a new platform for peering inside AI's 'black box.' It enhances transparency for complex models and debugging ethical AI."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH MODEL",
+                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
                 "teaserTitle": "",
-                "visual_caption": "DeepMind launched Gemini 3.7 Flash, optimized for coding and agentic applications. This enhances performance and efficiency for complex AI systems."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "DeepMind's WeatherNext AI achieves a breakthrough in cyclone forecasting. It improves accuracy and lead times for severe weather prediction."
             },
             {
                 "slide_index": 8,
