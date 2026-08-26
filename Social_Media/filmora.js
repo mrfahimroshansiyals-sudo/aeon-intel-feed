@@ -4,54 +4,50 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: JALAPENO DELIVERS LEADING INFERENCE SPEED",
-                "teaserTitle": "APPLE: M6 AND M5 ULTRA REDEFINE SILICON",
-                "visual_caption": "OpenAI's Jalape\u00f1o has achieved industry-leading AI inference speeds and efficiency, addressing key bottlenecks in large-scale model deployment. This breakthrough lowers operational costs and enables faster AI model iteration for enterprises."
+                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
+                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI warns of shrinking cyber defense windows due to adversarial AI. Enterprises must deploy robust AI security to mitigate escalating risks."
             },
             {
                 "slide_index": 2,
-                "headline": "APPLE: M6 AND M5 ULTRA REDEFINE SILICON",
-                "teaserTitle": "EU REGULATION: TECH SOVEREIGNTY PACKAGE PROPOSED",
-                "visual_caption": "Apple has introduced its new M6 and M5 Ultra chips, providing unprecedented processing power for advanced AI workloads. These chips will drive the shift toward on-device AI, challenging existing cloud infrastructure dependencies."
+                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
+                "teaserTitle": "QWEN3.8-FLASH-NEXT ARCHITECTURE",
+                "visual_caption": "DeepMind launches Gemini 3.7 Flash for coding and agents. This boosts efficiency and lowers computational overhead for deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "EU REGULATION: TECH SOVEREIGNTY PACKAGE PROPOSED",
-                "teaserTitle": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "visual_caption": "The European Commission has proposed a Tech Sovereignty Package to strengthen Europe's digital autonomy in AI and semiconductors. This initiative mandates adaptation for businesses operating in the EU, impacting technology partnerships and market access."
+                "headline": "HUGGING FACE: QWEN3.8-FLASH-NEXT ARCHITECTURE",
+                "teaserTitle": "ARGA BUILDS ENTERPRISE AI AGENTS",
+                "visual_caption": "Qwen3.8-Flash-Next on Hugging Face offers cost-efficient LLM architecture. This significantly lowers operational expenses for large-scale AI."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "AI AGENTS: RUNABLE RAISES $21M FOR BUSINESS AUTOMATION",
-                "visual_caption": "OpenAI's GPT-5.6 brings significant advancements in scaling frontier intelligence for complex applications, promising improved performance across diverse tasks. Businesses should assess this upgrade path to optimize model deployment and manage computational demands."
+                "headline": "TECHCRUNCH AI: ARGA BUILDS ENTERPRISE AI AGENTS",
+                "teaserTitle": "LLM FUNDAMENTAL FLAW EXPOSED",
+                "visual_caption": "Arga develops advanced training for enterprise AI agents, focusing on reliable automation. This aims to overcome agent limitations and enhance corporate integration."
             },
             {
                 "slide_index": 5,
-                "headline": "AI AGENTS: RUNABLE RAISES $21M FOR BUSINESS AUTOMATION",
-                "teaserTitle": "META: AI WORKFORCE REPLACEMENT PLAN FAILS",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "Runable, an AI agent startup, has secured $21M in funding to develop autonomous business-building AI agents. This investment signals growing market confidence in agentic systems, intensifying competition in AI automation."
+                "headline": "MIT TECH REVIEW: LLM FUNDAMENTAL FLAW EXPOSED",
+                "teaserTitle": "GEMMA 4 MAXIMIZES OPEN MODEL EFFICIENCY",
+                "visual_caption": "MIT Tech Review reveals a fundamental flaw in LLMs, making them vulnerable to attacks. Organizations face security challenges needing immediate re-evaluation."
             },
             {
                 "slide_index": 6,
-                "headline": "META: AI WORKFORCE REPLACEMENT PLAN FAILS",
-                "teaserTitle": "AI ETHICS: MODELS SHOW BIAS, FAIL INTELLIGENCE TESTS",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Meta's plan to replace a significant portion of its workforce with AI reportedly failed due to staff resistance and implementation issues. This highlights the complexities of integrating AI into human-centric organizations, requiring careful change management."
+                "headline": "GOOGLE DEEPMIND: GEMMA 4 MAXIMIZES OPEN MODEL EFFICIENCY",
+                "teaserTitle": "Z.AI OX ALPHA GLM-SERIES RELEASE",
+                "visual_caption": "DeepMind's Gemma 4 maximizes intelligence per parameter, offering powerful, efficient open models. This democratizes AI research and optimizes resource allocation."
             },
             {
                 "slide_index": 7,
-                "headline": "AI ETHICS: MODELS SHOW BIAS, FAIL INTELLIGENCE TESTS",
-                "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "MIT Technology Review indicates AI models frequently fail intelligence tests and show bias in applications like hiring. Organizations must implement rigorous auditing frameworks to mitigate ethical and operational risks in AI deployment."
+                "headline": "HACKER NEWS: Z.AI OX ALPHA GLM-SERIES RELEASE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Z.ai confirms Ox Alpha GLM-series model release with open weights. This expands the frontier model landscape and accelerates collaborative AI."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
