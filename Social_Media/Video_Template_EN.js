@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI 3.7 FLASH",
+        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE UNVEILED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOOGLE: GEMINI 3.7 FLASH LAUNCH",
-                "teaserTitle": "ANTHROPIC: OPUS 5 RELEASES",
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Google DeepMind has officially released Gemini 3.7 Flash as an intelligent workhorse model for coding and autonomous agents. The updated architecture delivers high speed and low latency across production workflows."
+                "narration_line": "OpenAI has unveiled its latest GPT-5.6 frontier model, designed to scale with ambitious enterprise applications. This release pushes benchmark performance across a wider array of real-world operational challenges."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: OPUS 5 RELEASES",
-                "teaserTitle": "HARDWARE: OPENAI CUSTOM SILICON",
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic has launched Opus 5 with stronger coding capabilities and sharper professional tooling. The system incorporates transparent reasoning pathways to help developers debug complex logic."
+                "narration_line": "OpenAI is expanding access to GPT-5.6 Sol and making GPT-5.6 Luna available for free users. This democratizes advanced AI capabilities and broadens the developer ecosystem."
             },
             {
                 "slide_index": 3,
-                "headline": "HARDWARE: OPENAI CUSTOM SILICON",
-                "teaserTitle": "REGULATION: EU SOVEREIGNTY PKG",
+                "headline": "OPENAI: EXPANDING CYBER DEFENSE",
+                "teaserTitle": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI confirmed that its custom inference silicon has achieved industry leading speed and compute efficiency. Bespoke chips help major labs bypass merchant hardware bottlenecks."
+                "narration_line": "OpenAI is expanding its Daybreak initiative, acknowledging a narrowing cyber defense window against sophisticated AI threats. The program safeguards AI systems from adversarial attacks."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: EU SOVEREIGNTY PKG",
-                "teaserTitle": "ROBOTICS: GENERALIST 3B VALUATION",
+                "headline": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
+                "teaserTitle": "SECURITY: LLM VULNERABILITY FLAW",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The European Commission presented a technological sovereignty package to reinforce regional digital autonomy. Strict compliance rules mandate automated auditing for enterprise deployments."
+                "narration_line": "New ArXiv research addresses critical challenges in scaling autonomous AI agents. The paper optimizes agent memory utilization and controls computational costs across complex tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "ROBOTICS: GENERALIST 3B VALUATION",
-                "teaserTitle": "SECURITY: X ISSUES NITTER BAN",
+                "headline": "SECURITY: LLM VULNERABILITY FLAW",
+                "teaserTitle": "INVESTMENT: STABILITY AI $76M FUNDING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Robotics startup Generalist has reached a valuation of three billion dollars amid surging interest in physical automation. Industrial firms are accelerating hardware deployments to cut costs."
+                "narration_line": "MIT Technology Review highlights a fundamental flaw making large language models vulnerable to attack. This demands immediate attention for robust adversarial training and validation protocols."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: X ISSUES NITTER BAN",
-                "teaserTitle": "INFRASTRUCTURE: SPACEX LOUISIANA",
+                "headline": "INVESTMENT: STABILITY AI $76M FUNDING",
+                "teaserTitle": "OPENAI: DATA CENTER EXEC DEPARTURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Social platform X has issued cease and desist notices against open-source project Nitter over unauthorized data scraping. Strict anti-scraping rules force teams to establish direct data licenses."
+                "narration_line": "Stability AI, developer of Stable Diffusion, secured seventy-six million dollars in new funding. This capital will fuel further generative AI research and expand commercial offerings for enterprise clients."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: SPACEX LOUISIANA",
+                "headline": "OPENAI: DATA CENTER EXEC DEPARTURE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "SpaceX plans to build a one hundred billion dollar spaceport in Louisiana to expand heavy launch cadence. Massive aerospace investments support growing orbital and satellite logistics."
+                "narration_line": "OpenAI has seen a key data center executive depart, part of broader leadership changes. Such departures can introduce operational friction in scaling critical compute infrastructure."
             },
             {
                 "slide_index": 8,
