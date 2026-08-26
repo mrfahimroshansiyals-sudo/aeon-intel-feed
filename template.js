@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI launches GPT-5.6, expanding access and cyber defense, while a core LLM flaw and exec departure pose new operational risks. Funding boosts generative AI development."
+        "titleWhite": "JALAPE\u00d1O AI INFERENCE CHIP",
+        "titleBlue": "EFFICIENCY",
+        "footerSummary": "OpenAI's Jalape\u00f1o chip boosts AI inference, Google debuts Gemini 3.7 Flash, while new agentic models scale complex tasks. Robotics benchmarks hit sub-9s records."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
+            "heading": "OPENAI: JALAPE\u00d1O AI INFERENCE CHIP EFFICIENCY",
             "paragraphs": [
-                "OpenAI has unveiled GPT-5.6, its latest frontier intelligence model, designed to scale with ambitious enterprise applications and complex multi-modal reasoning tasks. This release focuses on delivering enhanced generalist capabilities, pushing benchmark performance across a wider array of real-world operational challenges.",
-                "For AI architects, GPT-5.6 signifies a new baseline for model-powered automation, potentially reducing the need for extensive fine-tuning in specialized domains. Evaluating its superior reasoning per compute unit will be critical for optimizing inference costs and accelerating solution deployments."
+                "OpenAI's 'Jalape\u00f1o' custom AI inference chip demonstrates industry-leading speed and efficiency, surpassing current benchmarks in processing large language models. Early results indicate significant gains in throughput and reduced latency for complex AI workloads.",
+                "This breakthrough could drastically lower inference costs and power consumption for enterprises running AI at scale, shifting hardware investment strategies from generic GPUs to specialized ASICs. Tech leaders must evaluate how this efficiency gain impacts total cost of ownership and enables new real-time AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "nextUpTease": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "tags": [
-                "Source: https://openai.com/news/GPT-5.6-frontier-intelligence-scales-ambition",
-                "Published: 2026-08-27T15:00:00Z",
+                "Source: https://openai.com/news/jalapeno-first-results-ai-inference",
+                "Published: 2026-08-25T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
+            "heading": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
             "paragraphs": [
-                "OpenAI is expanding access to its GPT-5.6 Sol model within ChatGPT and making GPT-5.6 Luna available for free-tier users, significantly democratizing advanced AI capabilities. This move aims to broaden the developer ecosystem and accelerate real-world application testing and feedback loops.",
-                "This increased accessibility will likely drive greater experimentation and innovation, but enterprises must also anticipate an influx of less mature or validated applications in the market. Strategic evaluation of these free-tier models can inform cost-effective integration strategies for less critical workflows."
+                "Google DeepMind has launched Gemini 3.7 Flash, their latest intelligent workhorse model, optimized for sophisticated coding tasks and autonomous agent development. This iteration focuses on maximizing intelligence-per-parameter, aiming for superior performance with enhanced compute efficiency across demanding applications.",
+                "The introduction of Gemini 3.7 Flash provides a potent new tool for developers and architects, potentially reducing model complexity and inference compute requirements. Organizations should explore its capabilities for agent orchestration and code generation to streamline development cycles and optimize operational expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDING CYBER DEFENSE",
+            "nextUpTease": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
             "tags": [
-                "Source: https://openai.com/news/improving-GPT-5.6-sol-and-luna-access",
-                "Published: 2026-08-27T15:00:00Z",
+                "Source: https://deepmind.google/discover/blog/introducing-gemini-3.7-flash",
+                "Published: 2026-08-27T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: EXPANDING CYBER DEFENSE",
+            "heading": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
             "paragraphs": [
-                "OpenAI is expanding its Daybreak initiative, acknowledging a narrowing cyber defense window in the face of increasingly sophisticated AI-powered threats and vulnerabilities. The program focuses on proactive security measures and collaborative research to safeguard AI systems against adversarial attacks.",
-                "This strategic push highlights the escalating risk landscape for all AI deployments, mandating heightened vigilance from security and compliance teams. Organizations must invest in robust AI security frameworks and incident response protocols to mitigate potential breaches and maintain operational integrity."
+                "Apodex 1.1 introduces a significant advancement in scaling agentic intelligence for complex, long-horizon real-world tasks through improved executable environments and state maintenance. This new framework enables sustained, verifiable progress by training agents to coordinate intricate work and recover effectively from failures.",
+                "This development promises to enhance the reliability and autonomy of multi-agent systems, reducing the human oversight required for complex operational workflows. Enterprises investing in agent-based automation should prioritize adopting such frameworks to mitigate risks associated with long-running tasks and ensure robust system performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
+            "nextUpTease": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
             "tags": [
-                "Source: https://openai.com/news/expanding-daybreak-cyber-defense",
-                "Published: 2026-08-27T15:00:00Z",
+                "Source: https://huggingface.co/papers/apodex-1.1-scaling-agentic-intelligence-for-complex-work",
+                "Published: 2026-08-24T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
+            "heading": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
             "paragraphs": [
-                "New research from ArXiv titled 'Agentic Context Management: Memory and Cost as Architecture Problems' addresses critical challenges in scaling autonomous AI agents. The paper explores novel architectural solutions to optimize agent memory utilization and control computational costs across complex, long-horizon tasks.",
-                "For enterprises building multi-agent systems, this research directly impacts the feasibility and efficiency of future deployments, potentially unlocking more scalable and economically viable autonomous operations. Architects must integrate these insights to design agent systems with improved context handling and reduced inference overhead."
+                "China's humanoid robot, Tiangong, has achieved a new benchmark in robotics mobility, clocking a sub-9 second 100-meter dash during recent tests in Beijing. This speed record demonstrates significant advancements in robotic locomotion, dynamic balance, and real-time environment interaction.",
+                "Such rapid robotic agility has profound implications for logistics, manufacturing, and defense, enabling faster deployment and more versatile operations in dynamic environments. Companies should assess how these humanoid capabilities can enhance automation in tasks requiring high-speed movement and complex physical interaction."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: LLM VULNERABILITY FLAW",
+            "nextUpTease": "POLICY: GATES WARNS ON AI GOVERNANCE",
             "tags": [
-                "Source: https://news.ycombinator.com/item?id=38308333",
-                "Published: 2026-08-27T11:00:00Z",
+                "Source: https://www.reuters.com/technology/chinese-robot-tiangong-clocks-sub-9-second-100-metres-beijing-2026-08-28/",
+                "Published: 2026-08-28T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: LLM VULNERABILITY FLAW",
+            "heading": "POLICY: GATES WARNS ON AI GOVERNANCE",
             "paragraphs": [
-                "MIT Technology Review highlights a fundamental architectural flaw that leaves large language models (LLMs) strikingly vulnerable to attack, enabling bypasses of safety mechanisms. This vulnerability extends beyond traditional prompt injection, impacting core model integrity and potentially leading to malicious outputs.",
-                "This exposed flaw presents a significant operational risk, demanding immediate attention from AI security teams to develop robust adversarial training and validation protocols. Protecting proprietary data and maintaining model trustworthiness will require continuous, advanced red-teaming and defense-in-depth strategies."
+                "Bill Gates has expressed alarm regarding the current trajectory of artificial intelligence development, advocating for urgent global discussions on AI governance and policy frameworks with leaders like China's Xi Jinping. He highlights the critical need for international collaboration to manage AI risks and establish ethical guidelines.",
+                "This high-level call for robust governance signals impending regulatory shifts and increased scrutiny for AI development and deployment worldwide. Businesses must proactively engage with emerging policy discussions and integrate comprehensive ethical AI frameworks to mitigate future compliance risks and ensure responsible innovation."
             ],
             "imageUrl": "",
-            "nextUpTease": "INVESTMENT: STABILITY AI $76M FUNDING",
+            "nextUpTease": "ROBOTICS: GENERALIST $3B VALUATION",
             "tags": [
-                "Source: https://www.technologyreview.com/2026/08/27/1032345/fundamental-flaw-llms-vulnerable-attack/",
-                "Published: 2026-08-27T15:00:00Z",
+                "Source: https://www.reuters.com/technology/bill-gates-alarmed-by-ai-has-policy-ideas-he-wants-to-discuss-with-chinas-xi-jinping-2026-08-28/",
+                "Published: 2026-08-28T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INVESTMENT: STABILITY AI $76M FUNDING",
+            "heading": "ROBOTICS: GENERALIST $3B VALUATION",
             "paragraphs": [
-                "Stability AI, the prominent developer behind the open-source image generator Stable Diffusion, has successfully secured $76M in a new funding round. This capital infusion will fuel further research and development into generative AI models and expand its commercial offerings for enterprise clients.",
-                "This significant investment reinforces market confidence in specialized generative AI models, signaling continued growth and competition in visual content creation and digital asset generation. Tech executives should monitor how this funding translates into expanded capabilities and new revenue streams across creative industries."
+                "Robotics startup Generalist has achieved a $3 billion valuation, reflecting strong investor confidence in its specialized AI-powered automation solutions for complex industrial applications. This significant valuation underscores a growing market appetite for advanced robotic systems that enhance operational efficiency and precision.",
+                "This substantial investment signals intensified competition and innovation within the industrial robotics sector, driving new product development and expanded market penetration. Enterprises should monitor this trend to identify opportunities for integrating cutting-edge robotics that deliver measurable productivity gains and optimize labor costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DATA CENTER EXEC DEPARTURE",
+            "nextUpTease": "VOICE AI: RINGG SECURES PEAK XV BACKING",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/27/stability-ai-raises-76-million-in-fresh-funding/",
-                "Published: 2026-08-27T03:00:00Z",
+                "Source: https://techcrunch.com/2026/08/28/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+                "Published: 2026-08-28T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPENAI: DATA CENTER EXEC DEPARTURE",
+            "heading": "VOICE AI: RINGG SECURES PEAK XV BACKING",
             "paragraphs": [
-                "OpenAI has seen the departure of a key data center executive, part of a broader trend of high-profile leadership changes within the organization. This executive played a crucial role in scaling OpenAI's critical compute infrastructure, essential for training and deploying its large-scale AI models.",
-                "Such high-level departures can introduce operational friction and potential delays in critical infrastructure scaling initiatives, directly impacting the availability and efficiency of advanced AI services. Enterprise clients should assess the potential for disrupted service roadmaps and evaluate vendor stability."
+                "India\u2019s voice AI startup Ringg has secured crucial backing from Peak XV Partners, aiming to advance voice intelligence beyond traditional phone call interactions and into broader enterprise applications. The investment will fuel research into more natural language understanding and real-time voice processing capabilities.",
+                "This funding highlights the accelerating potential of advanced voice AI to transform customer service, operational interfaces, and data interaction across various industries. Businesses should evaluate next-generation voice AI solutions for enhancing user experience, automating customer support, and unlocking new data insights."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/27/openai-loses-top-data-center-exec/",
-                "Published: 2026-08-27T08:00:00Z",
+                "Source: https://techcrunch.com/2026/08/28/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+                "Published: 2026-08-28T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

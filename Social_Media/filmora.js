@@ -4,50 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "visual_caption": "OpenAI unveils GPT-5.6, its latest frontier intelligence model, designed to scale with ambitious enterprise applications. This release pushes benchmark performance across a wider array of real-world operational challenges."
+                "headline": "OPENAI: JALAPE\u00d1O AI INFERENCE CHIP EFFICIENCY",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "visual_caption": "OpenAI's new Jalape\u00f1o chip delivers industry-leading speed and efficiency for AI inference. This advancement promises significantly lower operational costs for large-scale AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE",
-                "visual_caption": "OpenAI is expanding access to GPT-5.6 Sol and making GPT-5.6 Luna available for free users. This democratizes advanced AI capabilities and broadens the developer ecosystem."
+                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
+                "teaserTitle": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
+                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, an intelligent model optimized for advanced coding and agent development. It aims for superior performance with enhanced compute efficiency across demanding applications."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE",
-                "teaserTitle": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
-                "visual_asset": "backgroundyt3.png",
-                "visual_caption": "OpenAI expands its Daybreak initiative, acknowledging a narrowing cyber defense window against sophisticated AI threats. The program safeguards AI systems from adversarial attacks."
+                "headline": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
+                "teaserTitle": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
+                "visual_caption": "Apodex 1.1 advances agentic intelligence scaling for complex real-world tasks, improving sustained verifiable progress. This framework trains agents to coordinate intricate work and recover effectively from failures."
             },
             {
                 "slide_index": 4,
-                "headline": "RESEARCH: AGENTIC CONTEXT MANAGEMENT",
-                "teaserTitle": "SECURITY: LLM VULNERABILITY FLAW",
-                "visual_asset": "backgroundyt4.png",
-                "visual_caption": "New ArXiv research addresses critical challenges in scaling autonomous AI agents. The paper optimizes agent memory utilization and controls computational costs across complex tasks."
+                "headline": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
+                "teaserTitle": "POLICY: GATES WARNS ON AI GOVERNANCE",
+                "visual_caption": "China's humanoid robot, Tiangong, recorded a new sub-9 second 100m dash, setting a new mobility benchmark. This rapid robotic agility has major implications for logistics and manufacturing efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: LLM VULNERABILITY FLAW",
-                "teaserTitle": "INVESTMENT: STABILITY AI $76M FUNDING",
-                "visual_asset": "backgroundyt5.png",
-                "visual_caption": "MIT Technology Review highlights a fundamental flaw making LLMs vulnerable to attack. This demands immediate attention for robust adversarial training and validation protocols."
+                "headline": "POLICY: GATES WARNS ON AI GOVERNANCE",
+                "teaserTitle": "ROBOTICS: GENERALIST $3B VALUATION",
+                "visual_caption": "Bill Gates urges global leaders, including China's Xi, to address AI governance and policy frameworks. This signals impending regulatory shifts for AI development and deployment worldwide."
             },
             {
                 "slide_index": 6,
-                "headline": "INVESTMENT: STABILITY AI $76M FUNDING",
-                "teaserTitle": "OPENAI: DATA CENTER EXEC DEPARTURE",
-                "visual_asset": "backgroundyt6.png",
-                "visual_caption": "Stability AI, developer of Stable Diffusion, secured $76M in new funding. This capital will fuel further generative AI research and expand commercial offerings for enterprise clients."
+                "headline": "ROBOTICS: GENERALIST $3B VALUATION",
+                "teaserTitle": "VOICE AI: RINGG SECURES PEAK XV BACKING",
+                "visual_caption": "Robotics startup Generalist has reached a $3B valuation, reflecting strong investor confidence in its industrial automation solutions. This investment signals intensified competition and innovation in industrial robotics."
             },
             {
                 "slide_index": 7,
-                "headline": "OPENAI: DATA CENTER EXEC DEPARTURE",
+                "headline": "VOICE AI: RINGG SECURES PEAK XV BACKING",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "OpenAI has seen a key data center executive depart, part of broader leadership changes. Such departures can introduce operational friction in scaling critical compute infrastructure."
+                "visual_caption": "India's voice AI startup Ringg secured backing from Peak XV Partners to advance voice intelligence beyond phone calls. This highlights the potential of advanced voice AI to transform customer service and operational interfaces."
             },
             {
                 "slide_index": 8,
