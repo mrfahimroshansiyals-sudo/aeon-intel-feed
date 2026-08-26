@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI JALAPE\u00d1O CHIP SCALES",
+        "hookTitle": "MODELS: GPT-5.6 FRONTIER SCALING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HARDWARE: OPENAI JALAPE\u00d1O CHIP SCALES",
-                "teaserTitle": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
+                "headline": "MODELS: GPT-5.6 FRONTIER SCALING",
+                "teaserTitle": "MODELS: GEMINI 3.7 FLASH DEBUTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI debuts its custom Jalape\u00f1o chip, delivering industry-leading inference speed and scaling efficiency. This custom silicon architecture directly challenges traditional hardware monopolies across enterprise data centers."
+                "narration_line": "OpenAI has launched GPT-five point six, its latest frontier intelligence model, designed for enhanced scalability across complex enterprise applications. This version improves multi-modal reasoning and long-context understanding for automated problem-solving."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
-                "teaserTitle": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
+                "headline": "MODELS: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "CYBERSECURITY: EXPANDING DAYBREAK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Apple introduces the M6 processor and M5 Ultra chip, establishing a new baseline for local neural processing. These dense transistor architectures accelerate complex machine learning tasks on workstation hardware."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, an efficient workhorse model optimized for coding and agentic tasks. This release delivers rapid inference and reduces the computational footprint for developers."
             },
             {
                 "slide_index": 3,
-                "headline": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
-                "teaserTitle": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "headline": "CYBERSECURITY: EXPANDING DAYBREAK",
+                "teaserTitle": "LEADERSHIP: OPENAI DATA CENTER CHIEF OUT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SpaceX finalizes plans for a one hundred billion dollar rocket launch complex in southern Louisiana. This massive installation expands deployment schedules for orbital satellite and AI telemetry networks."
+                "narration_line": "OpenAI is expanding its Daybreak cyber defense initiative as the window for AI threat detection narrows significantly. This aims to fortify AI systems against sophisticated attacks with proactive security protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "teaserTitle": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
+                "headline": "LEADERSHIP: OPENAI DATA CENTER CHIEF OUT",
+                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The European Union initiates strict enforcement of foundational AI Act transparency rules. Non-compliance carries severe financial penalties tied directly to global annual turnover."
+                "narration_line": "OpenAI's data center chief has departed, marking the latest in a series of executive exits at the company. This raises questions about internal stability and the long-term infrastructure strategy."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
-                "teaserTitle": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
+                "headline": "FUNDING: STABILITY AI RAISES $76M",
+                "teaserTitle": "OPEN-SOURCE: QWEN 3.8 UNCENSORED MODEL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Apodex 1.1 scales sustained agentic intelligence across complex multi-step real-world workflows. The system embeds automated state maintenance to reduce failure rates during long-horizon tasks."
+                "narration_line": "Stability AI, creators of Stable Diffusion, successfully raised seventy-six million dollars in new funding. This capital will accelerate research and development to enhance model capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
-                "teaserTitle": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
+                "headline": "OPEN-SOURCE: QWEN 3.8 UNCENSORED MODEL",
+                "teaserTitle": "ENTERPRISE AI: AMAZON SERVICE SHUTS DOWN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FreeToken introduces an edge-native Mixture-of-Experts serving system for heterogeneous local hardware. The architecture enables personal machines to execute large open-weight models efficiently."
+                "narration_line": "Hugging Face users highlighted Qwen three point eight-twenty-seven B Uncensored, a community model offering enhanced flexibility for specialized applications. This provides developers broader control over model outputs."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
+                "headline": "ENTERPRISE AI: AMAZON SERVICE SHUTS DOWN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Robotics startup Generalist achieves a three billion dollar valuation amid enterprise demand for physical automation. The capital accelerates deployment for generalized industrial logistics units."
+                "narration_line": "Amazon is discontinuing an internal \"artificial AI\" service, indicating operational complexities and strategic recalibrations in large-scale AI integration. This reflects a re-evaluation of specific AI initiatives against market demands."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
+                "naration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, share, and follow for more."
             }
         ]
     }

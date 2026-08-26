@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HARDWARE: OPENAI JALAPE\u00d1O CHIP SCALES",
-                "teaserTitle": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
-                "visual_caption": "OpenAI debuts its custom Jalape\u00f1o chip, delivering industry-leading inference speed and scaling efficiency. This custom silicon architecture directly challenges traditional hardware monopolies across enterprise data centers."
+                "headline": "MODELS: GPT-5.6 FRONTIER SCALING",
+                "teaserTitle": "MODELS: GEMINI 3.7 FLASH DEBUTS",
+                "visual_caption": "OpenAI launched GPT-5.6, its frontier intelligence model, for scalable enterprise applications. It improves multi-modal reasoning and long-context understanding for automated problem-solving."
             },
             {
                 "slide_index": 2,
-                "headline": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
-                "teaserTitle": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
-                "visual_caption": "Apple introduces the M6 processor and M5 Ultra chip, establishing a new baseline for local neural processing. These dense transistor architectures accelerate complex machine learning tasks on workstation hardware."
+                "headline": "MODELS: GEMINI 3.7 FLASH DEBUTS",
+                "teaserTitle": "CYBERSECURITY: EXPANDING DAYBREAK",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, an efficient model optimized for coding and agentic tasks. This release delivers rapid inference and reduces the computational footprint for developers."
             },
             {
                 "slide_index": 3,
-                "headline": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
-                "teaserTitle": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "visual_caption": "SpaceX finalizes plans for a $100B rocket launch complex in southern Louisiana. This massive installation expands deployment schedules for orbital satellite and AI telemetry networks."
+                "headline": "CYBERSECURITY: EXPANDING DAYBREAK",
+                "teaserTitle": "LEADERSHIP: OPENAI DATA CENTER CHIEF OUT",
+                "visual_caption": "OpenAI is expanding its Daybreak cyber defense initiative as the AI threat detection window narrows. This aims to fortify AI systems against sophisticated attacks with proactive security protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
-                "teaserTitle": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
-                "visual_caption": "The European Union initiates strict enforcement of foundational AI Act transparency rules. Non-compliance carries severe financial penalties tied directly to global annual turnover."
+                "headline": "LEADERSHIP: OPENAI DATA CENTER CHIEF OUT",
+                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M",
+                "visual_caption": "OpenAI's data center chief has departed, marking the latest in a series of executive exits. This raises questions about internal stability and long-term infrastructure strategy."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
-                "teaserTitle": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
-                "visual_caption": "Apodex 1.1 scales sustained agentic intelligence across complex multi-step real-world workflows. The system embeds automated state maintenance to reduce failure rates during long-horizon tasks."
+                "headline": "FUNDING: STABILITY AI RAISES $76M",
+                "teaserTitle": "OPEN-SOURCE: QWEN 3.8 UNCENSORED MODEL",
+                "visual_caption": "Stability AI, creators of Stable Diffusion, successfully raised $76M in new funding. This capital will accelerate R&D to enhance model capabilities and expand enterprise offerings."
             },
             {
                 "slide_index": 6,
-                "headline": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
-                "teaserTitle": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
-                "visual_caption": "FreeToken introduces an edge-native Mixture-of-Experts serving system for heterogeneous local hardware. The architecture enables personal machines to execute large open-weight models efficiently."
+                "headline": "OPEN-SOURCE: QWEN 3.8 UNCENSORED MODEL",
+                "teaserTitle": "ENTERPRISE AI: AMAZON SERVICE SHUTS DOWN",
+                "visual_caption": "Hugging Face highlighted Qwen 3.8-27B Uncensored, a community model offering flexibility for specialized applications. It provides developers broader control over model outputs."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
+                "headline": "ENTERPRISE AI: AMAZON SERVICE SHUTS DOWN",
                 "teaserTitle": "",
-                "visual_caption": "Robotics startup Generalist achieves a $3B valuation amid enterprise demand for physical automation. The capital accelerates deployment for generalized industrial logistics units."
+                "visual_caption": "Amazon is discontinuing an internal \"artificial AI\" service, indicating operational complexities and strategic recalibrations in large-scale AI integration. This reflects a re-evaluation against market demands."
             },
             {
                 "slide_index": 8,
