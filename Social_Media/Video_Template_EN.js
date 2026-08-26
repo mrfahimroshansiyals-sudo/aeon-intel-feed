@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+        "hookTitle": "OPENAI JALAPE\u00d1O CHIP SCALES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
+                "headline": "HARDWARE: OPENAI JALAPE\u00d1O CHIP SCALES",
+                "teaserTitle": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI launches GPT-5.6, setting new benchmarks for frontier intelligence across diverse applications. This powerful model redefines autonomous decision-making and operational efficiency for enterprises."
+                "narration_line": "OpenAI debuts its custom Jalape\u00f1o chip, delivering industry-leading inference speed and scaling efficiency. This custom silicon architecture directly challenges traditional hardware monopolies across enterprise data centers."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
+                "headline": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
+                "teaserTitle": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
                 "visual_asset": "backgroundyt2.png",
-                "naration_line": "OpenAI's data center chief, Chris Malone, has exited, marking a significant leadership change. This departure raises questions about future compute infrastructure strategy and scaling for frontier models."
+                "narration_line": "Apple introduces the M6 processor and M5 Ultra chip, establishing a new baseline for local neural processing. These dense transistor architectures accelerate complex machine learning tasks on workstation hardware."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+                "headline": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
+                "teaserTitle": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI expands Daybreak cyber defense, acknowledging a narrowing window against AI threats. Robust security frameworks are now critical for protecting sensitive data in AI deployments."
+                "narration_line": "SpaceX finalizes plans for a one hundred billion dollar rocket launch complex in southern Louisiana. This massive installation expands deployment schedules for orbital satellite and AI telemetry networks."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
-                "teaserTitle": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
+                "headline": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "teaserTitle": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI expands access to GPT-5.6 Sol within ChatGPT and Luna for free users. This move democratizes advanced AI, but demands careful governance and resource allocation."
+                "narration_line": "The European Union initiates strict enforcement of foundational AI Act transparency rules. Non-compliance carries severe financial penalties tied directly to global annual turnover."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
-                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
+                "headline": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
+                "teaserTitle": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Founders from Project Prometheus have unveiled an independent AI model capable of universe-scale modeling. This new venture challenges big tech's dominance in foundational AI research."
+                "narration_line": "Apodex 1.1 scales sustained agentic intelligence across complex multi-step real-world workflows. The system embeds automated state maintenance to reduce failure rates during long-horizon tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
-                "teaserTitle": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+                "headline": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
+                "teaserTitle": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Stability AI, creators of Stable Diffusion, secured seventy-six million dollars in fresh funding. This capital injection signals strong investor confidence in the generative AI market's growth potential."
+                "narration_line": "FreeToken introduces an edge-native Mixture-of-Experts serving system for heterogeneous local hardware. The architecture enables personal machines to execute large open-weight models efficiently."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+                "headline": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "China's Tiangong humanoid robot ran one hundred meters in 8.86 seconds. This feat showcases rapid advancements in robotic locomotion for future automation and industrial deployments."
+                "narration_line": "Robotics startup Generalist achieves a three billion dollar valuation amid enterprise demand for physical automation. The capital accelerates deployment for generalized industrial logistics units."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GPT-5.6 SCALES FRONTIER",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "OpenAI launches GPT-5.6, setting new benchmarks for frontier intelligence scaling across diverse AI applications."
+        "titleWhite": "OPENAI JALAPE\u00d1O CHIP",
+        "titleBlue": "SCALES",
+        "footerSummary": "OpenAI debuts its custom Jalape\u00f1o chip, delivering industry-leading inference speed and scaling efficiency to rival Nvidia infrastructure dominance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
+            "heading": "HARDWARE: OPENAI JALAPE\u00d1O CHIP SCALES",
             "paragraphs": [
-                "OpenAI has launched GPT-5.6, introducing frontier intelligence capabilities designed to scale across a broad spectrum of AI applications. This new model sets advanced benchmarks in reasoning and problem-solving, pushing the boundaries of what large language models can achieve in complex environments.",
-                "The release of GPT-5.6 necessitates a re-evaluation of current model integration strategies, offering new avenues for enterprises seeking enhanced autonomous decision-making and operational efficiency. Organizations must assess compute infrastructure and data pipelines to leverage these advanced capabilities effectively for strategic advantage."
+                "OpenAI has unveiled early performance benchmarks for its custom Jalape\u00f1o semiconductor, demonstrating industry-leading speed and compute efficiency for large-scale AI inference workloads. Engineered specifically to bypass legacy silicon bottlenecks, the architecture delivers optimized processing throughput that directly challenges traditional hardware monopolies across enterprise deployments.",
+                "The commercial rollout of custom silicon marks a critical structural shift in infrastructure economics, lowering per-query operational overhead for high-frequency model deployments. Enterprise tech leaders must re-evaluate hardware procurement roadmaps and datacenter power allocations to leverage these performance gains effectively."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
+            "nextUpTease": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
             "tags": [
-                "Source: https://openai.com/news/",
-                "Published: 2026-08-31T11:42:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-25T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
+            "heading": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
             "paragraphs": [
-                "Chris Malone, OpenAI's data center chief, has departed, marking the latest in a series of executive exits at the company. This leadership change could signal potential shifts in OpenAI's critical infrastructure strategy and its approach to scaling its vast compute operations.",
-                "The departure of a key infrastructure leader poses immediate questions for long-term compute capacity planning and data center development, directly impacting the deployment roadmap for future frontier models. AI leaders must monitor for strategic pivots that could affect the availability and cost of next-generation AI resources."
+                "Apple has officially debuted its M6 processor line alongside the high-performance M5 Ultra chip, establishing a new baseline for on-device neural processing and local execution capacity. These advanced silicon iterations integrate dense transistor architectures designed to accelerate complex machine learning tasks directly on consumer and workstation hardware.",
+                "This hardware leap empowers engineering teams to execute sophisticated local models with minimal latency, reducing reliance on cloud-based API endpoints for latency-critical operations. Organizations must assess how edge-native silicon integration can optimize workflows and protect proprietary data streams."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
+            "nextUpTease": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
             "tags": [
-                "Source: https://www.cnbc.com/technology/",
-                "Published: 2026-08-31T10:00:00Z",
+                "Source: https://news.ycombinator.com/",
+                "Published: 2026-08-25T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
+            "heading": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
             "paragraphs": [
-                "OpenAI is actively expanding its Daybreak cyber defense initiatives, citing a narrowing window for effective security measures against evolving AI threats. This proactive stance addresses increasing vulnerabilities in large language models and their deployment environments.",
-                "The heightened focus on cyber defense highlights critical risk exposures for enterprises utilizing advanced AI, demanding robust security frameworks and continuous monitoring. Investing in comprehensive AI security protocols becomes paramount to protect sensitive data and maintain operational integrity against sophisticated cyber-attacks."
+                "SpaceX has finalized ambitious plans to construct a massive $100B rocket launch and production complex across coastal wetlands in southern Louisiana, designated as a secondary Starbase facility. This installation will scale launch capabilities for next-generation Starship vehicles and rapidly expand deployment schedules for global AI satellite constellations.",
+                "The massive capital expenditure highlights the escalating industrial scale required to support orbital data transmission and high-bandwidth telemetry networks for distributed intelligence architectures. Infrastructure planners must factor in expanded orbital logistics when modeling long-term global network resilience."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+            "nextUpTease": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
             "tags": [
-                "Source: https://openai.com/news/",
-                "Published: 2026-08-31T11:52:00Z",
+                "Source: https://www.reuters.com/technology/",
+                "Published: 2026-08-25T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
+            "heading": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
             "paragraphs": [
-                "OpenAI is enhancing access to its new GPT-5.6 Sol model within ChatGPT, simultaneously expanding GPT-5.6 Luna access for free users. This move aims to democratize access to advanced AI capabilities and gather broader usage data.",
-                "Increased accessibility to powerful AI models can accelerate innovation but also intensifies the need for responsible AI governance and resource allocation in enterprise settings. Businesses must strategically evaluate the cost-benefit of adopting these models, considering both their compute efficiency and the implications for data privacy and ethical use."
+                "The European Union has officially initiated strict enforcement of foundational AI Act rules and mandatory transparency requirements across commercial deployments operating within member states. These regulatory mechanisms demand verifiable compliance documentation, rigorous risk assessments, and explicit disclosure protocols for automated general-purpose systems.",
+                "Non-compliance carries severe financial penalties reaching percentage tiers of global annual turnover, forcing legal and technical teams to audit internal model pipelines immediately. Enterprises scaling European operations must allocate dedicated compliance engineering resources to navigate the new regulatory landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
+            "nextUpTease": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
             "tags": [
-                "Source: https://openai.com/news/",
-                "Published: 2026-08-31T11:55:00Z",
+                "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+                "Published: 2026-08-02T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
+            "heading": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
             "paragraphs": [
-                "Two former leads from the Bezos-backed Project Prometheus have unveiled an independent AI model designed to process and produce vast amounts of information, potentially modeling entire universes. This breakthrough highlights a growing trend of high-stakes AI research outside traditional corporate structures.",
-                "This independent venture demonstrates the potential for disruptive AI development by lean, focused teams, challenging the dominance of large tech giants in foundational model research. Enterprises should track these emerging players for novel architectural paradigms that could offer alternative, more efficient AI solutions and avoid vendor lock-in."
+                "The research community has highlighted Apodex 1.1, a newly documented framework designed to scale sustained agentic intelligence across complex, multi-step real-world workflows. By expanding executable environments and embedding automated state maintenance mechanisms, the system significantly reduces failure rates during long-horizon task execution.",
+                "This architectural advancement bridges the gap between conversational models and fully autonomous software workers capable of unattended enterprise problem-solving. Engineering leaders should evaluate these multi-step harnesses to enhance workflow automation and minimize human oversight requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
+            "nextUpTease": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
             "tags": [
-                "Source: https://www.reuters.com/technology/",
-                "Published: 2026-08-31T09:00:00Z",
+                "Source: https://paperswithcode.com/",
+                "Published: 2026-08-24T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
+            "heading": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
             "paragraphs": [
-                "Stability AI, known for its Stable Diffusion image generator, has successfully raised an additional $76 million in funding. This capital injection aims to accelerate its research and development efforts in generative AI technologies.",
-                "This significant funding round signals continued investor confidence in the commercial viability and growth potential of the generative AI market, despite previous market volatility. Companies reliant on generative AI models should view this as validation of the ecosystem's resilience and a driver for further innovation in creative AI applications."
+                "Researchers have introduced FreeToken, an innovative edge-native Mixture-of-Experts serving system that dynamically allocates computational states across heterogeneous local hardware. The architecture enables resource-constrained personal machines to execute large open-weight models efficiently through bandwidth-adaptive execution strategies.",
+                "Optimizing edge inference radically reduces cloud bandwidth costs and addresses data privacy concerns by keeping sensitive processing on local silicon nodes. Software architects must consider bandwidth-adaptive deployment patterns when scaling decentralized AI applications."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+            "nextUpTease": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
             "tags": [
-                "Source: https://techcrunch.com/category/artificial-intelligence/",
-                "Published: 2026-08-31T07:00:00Z",
+                "Source: https://paperswithcode.com/",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+            "heading": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
             "paragraphs": [
-                "China's Tiangong Ultra humanoid robot has achieved a remarkable feat, running 100 meters in 8.86 seconds at the World Humanoid Robot Games in Beijing. This performance significantly lowers its previous best mark, showcasing rapid advancements in robotic locomotion and agility.",
-                "This milestone in humanoid robotics indicates accelerated progress in autonomous physical task execution and high-speed mobility, directly impacting logistical automation and hazardous environment operations. Engineering teams must evaluate the increasing sophistication of robotic platforms for integrating into next-generation industrial and service deployments."
+                "Emerging robotics startup Generalist has secured a major financing milestone, achieving a $3B valuation amid intense enterprise demand for generalized physical automation systems. The capital will accelerate the deployment of autonomous hardware units designed for complex industrial logistics and unstructured environments.",
+                "The rapid valuation surge reflects venture capital conviction in the convergence of advanced foundation models and physical robotic hardware for labor substitution. Industrial executives must monitor these platform developments to maintain competitive operational efficiency in automated supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.reuters.com/technology/",
-                "Published: 2026-08-31T09:00:00Z",
+                "Source: https://techcrunch.com/category/artificial-intelligence/",
+                "Published: 2026-08-25T15:00:00Z",
                 "Status: Audited & True"
             ]
         }

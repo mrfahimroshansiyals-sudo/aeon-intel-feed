@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 SCALES FRONTIER INTELLIGENCE",
-                "teaserTitle": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
-                "visual_caption": "OpenAI launches GPT-5.6, setting new benchmarks for frontier intelligence across diverse applications. This powerful model redefines autonomous decision-making and operational efficiency for enterprises."
+                "headline": "HARDWARE: OPENAI JALAPE\u00d1O CHIP SCALES",
+                "teaserTitle": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
+                "visual_caption": "OpenAI debuts its custom Jalape\u00f1o chip, delivering industry-leading inference speed and scaling efficiency. This custom silicon architecture directly challenges traditional hardware monopolies across enterprise data centers."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: DATA CENTER CHIEF CHRIS MALONE EXITS",
-                "teaserTitle": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
-                "visual_caption": "OpenAI's data center chief, Chris Malone, has exited, marking a significant leadership change. This departure raises questions about future compute infrastructure strategy and scaling for frontier models."
+                "headline": "HARDWARE: APPLE INTRODUCES M6 AND M5 ULTRA",
+                "teaserTitle": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
+                "visual_caption": "Apple introduces the M6 processor and M5 Ultra chip, establishing a new baseline for local neural processing. These dense transistor architectures accelerate complex machine learning tasks on workstation hardware."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: EXPANDING CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
-                "visual_caption": "OpenAI expands Daybreak cyber defense, acknowledging a narrowing window against AI threats. Robust security frameworks are now critical for protecting sensitive data in AI deployments."
+                "headline": "SPACE: SPACEX PLANS 100B LOUISIANA STARBASE",
+                "teaserTitle": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "visual_caption": "SpaceX finalizes plans for a $100B rocket launch complex in southern Louisiana. This massive installation expands deployment schedules for orbital satellite and AI telemetry networks."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: GPT-5.6 SOL/LUNA ACCESS EXPANDED",
-                "teaserTitle": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
-                "visual_caption": "OpenAI expands access to GPT-5.6 Sol within ChatGPT and Luna for free users. This move democratizes advanced AI, but demands careful governance and resource allocation."
+                "headline": "POLICY: EU ENFORCES AI ACT TRANSPARENCY RULES",
+                "teaserTitle": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
+                "visual_caption": "The European Union initiates strict enforcement of foundational AI Act transparency rules. Non-compliance carries severe financial penalties tied directly to global annual turnover."
             },
             {
                 "slide_index": 5,
-                "headline": "RESEARCH: FOUNDERS MODEL UNIVERSE WITHOUT BEZOS",
-                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
-                "visual_caption": "Founders from Project Prometheus have unveiled an independent AI model capable of universe-scale modeling. This new venture challenges big tech's dominance in foundational AI research."
+                "headline": "RESEARCH: APODEX 1.1 SCALES AGENTIC INTELLIGENCE",
+                "teaserTitle": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
+                "visual_caption": "Apodex 1.1 scales sustained agentic intelligence across complex multi-step real-world workflows. The system embeds automated state maintenance to reduce failure rates during long-horizon tasks."
             },
             {
                 "slide_index": 6,
-                "headline": "FUNDING: STABILITY AI RAISES $76M CAPITAL",
-                "teaserTitle": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
-                "visual_caption": "Stability AI, creators of Stable Diffusion, secured $76M in fresh funding. This capital injection signals strong investor confidence in the generative AI market's growth potential."
+                "headline": "RESEARCH: FREE-TOKEN SERVES EDGE-NATIVE MOE",
+                "teaserTitle": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
+                "visual_caption": "FreeToken introduces an edge-native Mixture-of-Experts serving system for heterogeneous local hardware. The architecture enables personal machines to execute large open-weight models efficiently."
             },
             {
                 "slide_index": 7,
-                "headline": "ROBOTICS: CHINA'S TIANGONG ROBOT HITS 8.86 SECONDS",
+                "headline": "ROBOTICS: GENERALIST REACHES 3B VALUATION",
                 "teaserTitle": "",
-                "visual_caption": "China's Tiangong humanoid robot ran 100 meters in 8.86 seconds. This feat showcases rapid advancements in robotic locomotion for future automation and industrial deployments."
+                "visual_caption": "Robotics startup Generalist achieves a $3B valuation amid enterprise demand for physical automation. The capital accelerates deployment for generalized industrial logistics units."
             },
             {
                 "slide_index": 8,
