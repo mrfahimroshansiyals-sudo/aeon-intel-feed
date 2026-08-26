@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CHINA'S RARE EARTH GRIP THREATENS DATACENTERS",
+        "hookTitle": "Z.AI: GLM-5.3-FLASH SETS NEW EFFICIENCY FRONTIER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "IEEE SPECTRUM: CHINA'S RARE EARTH GRIP THREATENS DATACENTERS",
-                "teaserTitle": "OPENAI: JALAPE\u00d1O AI CHIP CHALLENGES NVIDIA BLACKWELL",
+                "headline": "Z.AI: GLM-5.3-FLASH SETS NEW EFFICIENCY FRONTIER",
+                "teaserTitle": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "China's increasing control over rare earth elements is now threatening global datacenter expansion. This dependency creates critical vulnerabilities for artificial intelligence infrastructure and compute availability."
+                "narration_line": "Z.AI has unveiled GLM-5.3-Flash, a new model setting a frontier in intelligence and cost-efficiency. This impacts compute optimization and architectural choices for large-scale AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "OPENAI: JALAPE\u00d1O AI CHIP CHALLENGES NVIDIA BLACKWELL",
-                "teaserTitle": "OPENAI: GPT-5.6 EXPANDS FRONTIER MODEL ACCESS",
+                "headline": "QWEN.AI: QWEN3.8-FLASH-NEXT BOOSTS COST-EFFICIENCY",
+                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH POWERS AGENTIC CODING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "OpenAI's new Jalape\u00f1o AI chip is demonstrating industry-leading efficiency for inference workloads. It is positioned as a direct challenger to Nvidia's Blackwell architecture in the GPU market."
+                "narration_line": "Qwen.ai's Qwen3.8-Flash-Next model offers a new architecture for ultimate cost-efficiency. It directly reduces operational expenses for deploying advanced AI applications at scale."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: GPT-5.6 EXPANDS FRONTIER MODEL ACCESS",
-                "teaserTitle": "DEEPMIND: NANO BANANA 2 LITE OPTIMIZES IMAGE MODELS",
+                "headline": "DEEPMIND: GEMINI 3.7 FLASH POWERS AGENTIC CODING",
+                "teaserTitle": "META: ZUCKERBERG'S AI STAFF REPLACEMENT IMPLODES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI has officially launched GPT-5.6, a new frontier intelligence model for scalable ambition. Free access to its Sol and Luna variants is expanding, democratizing advanced AI capabilities."
+                "naration_line": "Google DeepMind introduces Gemini 3.7 Flash, its most intelligent model for coding and agents. This accelerates enterprise automation and improves developer workflows for complex tasks."
             },
             {
                 "slide_index": 4,
-                "headline": "DEEPMIND: NANO BANANA 2 LITE OPTIMIZES IMAGE MODELS",
-                "teaserTitle": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE BOOSTS DIGITAL AUTONOMY",
+                "headline": "META: ZUCKERBERG'S AI STAFF REPLACEMENT IMPLODES",
+                "teaserTitle": "IEEE SPECTRUM: NEW PLATFORM PEERS INSIDE AI'S BLACK BOX",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Google DeepMind introduced Nano Banana 2 Lite, its fastest and most efficient Gemini Image model. This optimization drastically reduces computational overhead for visual artificial intelligence tasks."
+                "narration_line": "Meta's plan to replace a significant portion of its staff with AI imploded due to internal resistance. This underscores critical human-centric challenges in large-scale AI workforce integration."
             },
             {
                 "slide_index": 5,
-                "headline": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE BOOSTS DIGITAL AUTONOMY",
-                "teaserTitle": "MIT TECH REVIEW: GATES WARNS ON AI JOB DISRUPTION",
+                "headline": "IEEE SPECTRUM: NEW PLATFORM PEERS INSIDE AI'S BLACK BOX",
+                "teaserTitle": "CNBC: STRATEGIST WARNS ON AI INVESTMENT FUTURE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission has proposed a Tech Sovereignty Package to fortify Europe's digital autonomy. This initiative aims to reduce external dependencies in artificial intelligence and cloud computing."
+                "narration_line": "A new platform offers unprecedented visibility into AI's black box, enhancing explainability and auditability. This is crucial for managing AI risks and ensuring regulatory compliance in sensitive sectors."
             },
             {
                 "slide_index": 6,
-                "headline": "MIT TECH REVIEW: GATES WARNS ON AI JOB DISRUPTION",
-                "teaserTitle": "TECHCRUNCH AI: OPENAI DATA CENTER EXECUTIVE DEPARTS",
+                "headline": "CNBC: STRATEGIST WARNS ON AI INVESTMENT FUTURE",
+                "teaserTitle": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE WINDOW",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Bill Gates warns humanity has passed critical artificial intelligence danger thresholds, urging robust policy action. He emphasizes the urgent need to address AI-driven job disruption and societal upheaval."
+                "narration_line": "A strategist warns against current AI investment trends, predicting a market recalibration and new winners. This calls for re-evaluating portfolios for sustainable and disruptive technologies."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHCRUNCH AI: OPENAI DATA CENTER EXECUTIVE DEPARTS",
+                "headline": "OPENAI: EXPANDING DAYBREAK CYBER DEFENSE WINDOW",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A key data center executive has departed OpenAI, indicating potential shifts in its infrastructure strategy. This adds to recent leadership changes, raising questions about the organization's long-term stability."
+                "narration_line": "OpenAI is expanding 'Daybreak' to fortify AI systems against sophisticated cyber threats. This necessitates robust security frameworks and continuous monitoring for organizations deploying advanced AI models."
             },
             {
                 "slide_index": 8,
