@@ -4,50 +4,51 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: JALAPE\u00d1O AI INFERENCE CHIP EFFICIENCY",
-                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "visual_caption": "OpenAI's new Jalape\u00f1o chip delivers industry-leading speed and efficiency for AI inference. This advancement promises significantly lower operational costs for large-scale AI deployments."
+                "headline": "RESEARCH: AI MODEL INTELLIGENCE TESTS FLUB",
+                "teaserTitle": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "visual_caption": "New research reveals AI models are struggling with advanced intelligence tests, exposing limitations in their fundamental reasoning capabilities. This demands re-evaluation of deployment robustness and architectural choices for critical enterprise applications."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: GEMINI 3.7 FLASH DEBUT",
-                "teaserTitle": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
-                "visual_caption": "Google DeepMind unveiled Gemini 3.7 Flash, an intelligent model optimized for advanced coding and agent development. It aims for superior performance with enhanced compute efficiency across demanding applications."
+                "headline": "OPENAI: GPT-5.6 SOL & LUNA ACCESS EXPANDED",
+                "teaserTitle": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
+                "visual_caption": "OpenAI has enhanced GPT-5.6 Sol within ChatGPT while also expanding access to GPT-5.6 Luna for all free users. This move intensifies competition, urging enterprises to integrate accessible advanced AI or risk falling behind strategically."
             },
             {
                 "slide_index": 3,
-                "headline": "RESEARCH: AGENTIC INTELLIGENCE SCALING",
-                "teaserTitle": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
-                "visual_caption": "Apodex 1.1 advances agentic intelligence scaling for complex real-world tasks, improving sustained verifiable progress. This framework trains agents to coordinate intricate work and recover effectively from failures."
+                "headline": "HARDWARE: OPENAI BROADCOM CHIP IMPACTS NVIDIA",
+                "teaserTitle": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
+                "visual_caption": "OpenAI's custom Broadcom AI inference chip shows high effectiveness, challenging existing hardware dominance in the AI compute market. This shift suggests diversifying compute infrastructure beyond general-purpose GPUs to specialized ASICs for long-term cost benefits."
             },
             {
                 "slide_index": 4,
-                "headline": "ROBOTICS: CHINA'S TIANGONG 100M DASH",
-                "teaserTitle": "POLICY: GATES WARNS ON AI GOVERNANCE",
-                "visual_caption": "China's humanoid robot, Tiangong, recorded a new sub-9 second 100m dash, setting a new mobility benchmark. This rapid robotic agility has major implications for logistics and manufacturing efficiency."
+                "headline": "RESEARCH: AGENTIC CONTEXT MANAGEMENT COSTS",
+                "teaserTitle": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
+                "visual_caption": "New research identifies agentic context management as a key architectural bottleneck due to memory and cost inefficiencies in scaling AI agents. Addressing these issues is crucial for reducing inference costs and improving the reliability of enterprise agentic workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "POLICY: GATES WARNS ON AI GOVERNANCE",
-                "teaserTitle": "ROBOTICS: GENERALIST $3B VALUATION",
-                "visual_caption": "Bill Gates urges global leaders, including China's Xi, to address AI governance and policy frameworks. This signals impending regulatory shifts for AI development and deployment worldwide."
+                "headline": "SECURITY: RUSSIA AI INFLUENCE CAMPAIGN DISRUPTED",
+                "teaserTitle": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
+                "visual_caption": "OpenAI successfully disrupted a new covert influence campaign by Russia, which used advanced AI to spread disinformation. This highlights the critical need for robust AI-powered detection to counteract state-sponsored threats and protect platforms."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: GENERALIST $3B VALUATION",
-                "teaserTitle": "VOICE AI: RINGG SECURES PEAK XV BACKING",
-                "visual_caption": "Robotics startup Generalist has reached a $3B valuation, reflecting strong investor confidence in its industrial automation solutions. This investment signals intensified competition and innovation in industrial robotics."
+                "headline": "POLICY: BILL GATES WARNS ON AI DANGER THRESHOLDS",
+                "teaserTitle": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
+                "visual_caption": "Bill Gates warns society has surpassed critical AI danger thresholds, urging urgent governance and ethical guardrails. This signals impending regulatory pressure, requiring enterprises to integrate robust ethical AI frameworks and transparent risk assessments now."
             },
             {
                 "slide_index": 7,
-                "headline": "VOICE AI: RINGG SECURES PEAK XV BACKING",
+                "headline": "FUNDING: STABILITY AI RAISES $76M FOR DIFFUSION",
                 "teaserTitle": "",
-                "visual_caption": "India's voice AI startup Ringg secured backing from Peak XV Partners to advance voice intelligence beyond phone calls. This highlights the potential of advanced voice AI to transform customer service and operational interfaces."
+                "visual_caption": "Stability AI has secured an additional $76M in funding, strengthening its position in the generative AI market. This investment intensifies competition, potentially driving down costs for generative AI solutions and accelerating open-source model development."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
