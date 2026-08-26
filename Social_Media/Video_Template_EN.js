@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CYBER DEFENSE WINDOW NARROWS",
+        "hookTitle": "CHINA'S RARE EARTH GRIP THREATENS DATACENTERS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: CYBER DEFENSE WINDOW NARROWS",
-                "teaserTitle": "INTRODUCING GEMINI 3.7 FLASH",
+                "headline": "IEEE SPECTRUM: CHINA'S RARE EARTH GRIP THREATENS DATACENTERS",
+                "teaserTitle": "OPENAI: JALAPE\u00d1O AI CHIP CHALLENGES NVIDIA BLACKWELL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI warns of a shrinking cyber defense window due to rapid adversarial AI advancements. Enterprises must deploy robust AI security protocols to mitigate escalating risks."
+                "narration_line": "China's increasing control over rare earth elements is now threatening global datacenter expansion. This dependency creates critical vulnerabilities for artificial intelligence infrastructure and compute availability."
             },
             {
                 "slide_index": 2,
-                "headline": "GOOGLE DEEPMIND: INTRODUCING GEMINI 3.7 FLASH",
-                "teaserTitle": "QWEN3.8-FLASH-NEXT ARCHITECTURE",
+                "headline": "OPENAI: JALAPE\u00d1O AI CHIP CHALLENGES NVIDIA BLACKWELL",
+                "teaserTitle": "OPENAI: GPT-5.6 EXPANDS FRONTIER MODEL ACCESS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduces Gemini 3.7 Flash, an intelligent workhorse model for coding and agents. This release boosts efficiency and lowers computational overhead for AI deployments."
+                "narration_line": "OpenAI's new Jalape\u00f1o AI chip is demonstrating industry-leading efficiency for inference workloads. It is positioned as a direct challenger to Nvidia's Blackwell architecture in the GPU market."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN3.8-FLASH-NEXT ARCHITECTURE",
-                "teaserTitle": "ARGA BUILDS ENTERPRISE AI AGENTS",
+                "headline": "OPENAI: GPT-5.6 EXPANDS FRONTIER MODEL ACCESS",
+                "teaserTitle": "DEEPMIND: NANO BANANA 2 LITE OPTIMIZES IMAGE MODELS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Qwen3.8-Flash-Next on Hugging Face offers a new architecture for ultimate cost-efficiency in LLM serving. This innovation significantly lowers operational expenses for AI at scale."
+                "narration_line": "OpenAI has officially launched GPT-5.6, a new frontier intelligence model for scalable ambition. Free access to its Sol and Luna variants is expanding, democratizing advanced AI capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH AI: ARGA BUILDS ENTERPRISE AI AGENTS",
-                "teaserTitle": "LLM FUNDAMENTAL FLAW EXPOSED",
+                "headline": "DEEPMIND: NANO BANANA 2 LITE OPTIMIZES IMAGE MODELS",
+                "teaserTitle": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE BOOSTS DIGITAL AUTONOMY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Arga is developing advanced training for enterprise AI agents, focusing on reliable automation for complex business processes. This aims to overcome current agent limitations and enhance corporate integration."
+                "narration_line": "Google DeepMind introduced Nano Banana 2 Lite, its fastest and most efficient Gemini Image model. This optimization drastically reduces computational overhead for visual artificial intelligence tasks."
             },
             {
                 "slide_index": 5,
-                "headline": "MIT TECH REVIEW: LLM FUNDAMENTAL FLAW EXPOSED",
-                "teaserTitle": "GEMMA 4 MAXIMIZES OPEN MODEL EFFICIENCY",
+                "headline": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE BOOSTS DIGITAL AUTONOMY",
+                "teaserTitle": "MIT TECH REVIEW: GATES WARNS ON AI JOB DISRUPTION",
                 "visual_asset": "backgroundyt5.png",
-                "naration_line": "MIT Technology Review reveals a fundamental flaw in large language models, making them vulnerable to targeted attacks. Organizations face significant security challenges requiring immediate re-evaluation of deployment strategies."
+                "narration_line": "The European Commission has proposed a Tech Sovereignty Package to fortify Europe's digital autonomy. This initiative aims to reduce external dependencies in artificial intelligence and cloud computing."
             },
             {
                 "slide_index": 6,
-                "headline": "GOOGLE DEEPMIND: GEMMA 4 MAXIMIZES OPEN MODEL EFFICIENCY",
-                "teaserTitle": "Z.AI OX ALPHA GLM-SERIES RELEASE",
+                "headline": "MIT TECH REVIEW: GATES WARNS ON AI JOB DISRUPTION",
+                "teaserTitle": "TECHCRUNCH AI: OPENAI DATA CENTER EXECUTIVE DEPARTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google DeepMind's Gemma 4 maximizes intelligence per parameter, offering powerful, computationally efficient open models. This democratizes advanced AI research and optimizes development resource allocation."
+                "narration_line": "Bill Gates warns humanity has passed critical artificial intelligence danger thresholds, urging robust policy action. He emphasizes the urgent need to address AI-driven job disruption and societal upheaval."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: Z.AI OX ALPHA GLM-SERIES RELEASE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "TECHCRUNCH AI: OPENAI DATA CENTER EXECUTIVE DEPARTS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Z.ai confirms the release of Ox Alpha, a new GLM-series model, with openly accessible weights. This expands the frontier model landscape and accelerates collaborative AI advancements."
+                "narration_line": "A key data center executive has departed OpenAI, indicating potential shifts in its infrastructure strategy. This adds to recent leadership changes, raising questions about the organization's long-term stability."
             },
             {
                 "slide_index": 8,
