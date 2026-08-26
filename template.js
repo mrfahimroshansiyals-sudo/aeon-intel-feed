@@ -1,50 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OPENAI JALAPE\u00d1O",
-        "titleBlue": "INFERENCE",
-        "footerSummary": "OpenAI debuts Jalape\u00f1o, demonstrating industry-leading speed and compute efficiency that challenges Nvidia Blackwell hardware dominance."
+        "titleWhite": "GEMINI 3.7",
+        "titleBlue": "FLASH",
+        "footerSummary": "Google debuts Gemini 3.7 Flash alongside expanded robotics and audio architectures, pushing frontier intelligence and efficiency metrics higher across developer ecosystems."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "HARDWARE: OPENAI JALAPE\u00d1O INFERENCE",
+            "heading": "GOOGLE: GEMINI 3.7 FLASH LAUNCH",
             "paragraphs": [
-                "OpenAI has introduced Jalape\u00f1o, its custom AI inference architecture engineered to deliver industry-leading speed and operational efficiency. Early engineering benchmarks indicate this custom silicon design matches or exceeds existing hardware performance benchmarks traditionally dominated by Nvidia Blackwell chips.",
-                "The commercial deployment of bespoke hardware allows labs to bypass severe supply chain bottlenecks and drastically curtail long-term inference costs. Enterprise architects must reassess future hardware procurement strategies as custom silicon shifts the competitive balance of data center infrastructure economics."
+                "Google DeepMind has officially rolled out Gemini 3.7 Flash as its most intelligent workhorse model optimized specifically for advanced coding tasks and autonomous multi-step agents. This release introduces substantial speed enhancements and optimized token processing architectures designed to lower latency across high-throughput enterprise pipelines.",
+                "Engineering teams gain access to superior reasoning performance without incurring the massive computational penalties traditionally associated with heavier frontier models. This balance shifts economic incentives toward deploying agile flash-tier systems for complex production workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "AGENTS: APODEX 1.1 SCALES WORK",
+            "nextUpTease": "ANTHROPIC: OPUS 5 RELEASES",
             "tags": [
-                "Source: https://semianalysis.com",
-                "Published: 2026-08-26T11:00:00Z",
+                "Source: https://deepmind.google/discover/blog/",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AGENTS: APODEX 1.1 SCALES WORK",
+            "heading": "ANTHROPIC: OPUS 5 RELEASES",
             "paragraphs": [
-                "Apodex has released version 1.1, featuring expanded capabilities for scaling executable environments and executing complex, long-horizon tasks. This release trains autonomous agents to maintain state persistence and coordinate multi-step recovery protocols across extended workflows.",
-                "Sustained autonomous execution significantly lowers human oversight overhead while unlocking complex enterprise automation pipelines. Engineering teams must evaluate state persistence mechanisms to ensure reliable task completion and error mitigation during extended runs."
+                "Anthropic has launched Opus 5, marking a significant step change for its flagship tier with enhanced coding proficiency, more capable autonomous agents, and sharper professional tooling. The updated model architecture incorporates deeper internal reasoning transparency to help engineers trace logic pathways and debug complex failures.",
+                "Enterprise deployment of Opus 5 elevates operational accuracy for automated software engineering and multi-stage administrative execution pipelines. Organizations must weigh the superior analytical yield against increased compute resource allocation requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: EU TECH SOVEREIGNTY",
+            "nextUpTease": "HARDWARE: OPENAI CUSTOM SILICON",
             "tags": [
-                "Source: https://paperswithcode.com/",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.anthropic.com/news",
+                "Published: 2026-07-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: EU TECH SOVEREIGNTY",
+            "heading": "HARDWARE: OPENAI CUSTOM SILICON",
             "paragraphs": [
-                "The European Commission has officially presented the Technological Sovereignty Package to reinforce regional autonomy in semiconductors, cloud computing, and artificial intelligence. These sweeping regulatory measures coincide with the immediate enforcement of the EU AI Act transparency requirements.",
-                "Strict regulatory compliance mandates rigorous auditing protocols for all enterprise models deployed within European markets, altering deployment timelines. Organizations operating globally must immediately integrate automated compliance checking into their software development lifecycles to avoid heavy penalties."
+                "OpenAI confirmed that its custom Broadcom inference silicon, codenamed Jalape\u00f1o, has delivered industry-leading speed and compute efficiency during initial operational tests. These specialized chips challenge traditional hardware dominance by optimizing matrix multiplication for heavy transformer workloads.",
+                "Bespoke silicon deployment allows major AI labs to circumvent severe merchant silicon supply chain bottlenecks and control long-term operational margins. Data center architects must recalibrate infrastructure roadmaps to account for custom accelerator integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "HARDWARE: APPLE M6 AND M5 ULTRA",
+            "nextUpTease": "REGULATION: EU SOVEREIGNTY PKG",
+            "tags": [
+                "Source: https://www.cnbc.com/",
+                "Published: 2026-08-26T11:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "REGULATION: EU SOVEREIGNTY PKG",
+            "paragraphs": [
+                "The European Commission has formally presented the Technological Sovereignty Package to reinforce regional autonomy across semiconductors, cloud infrastructure, and artificial intelligence. These sweeping measures coincide with the immediate enforcement phase of the EU AI Act transparency requirements across member states.",
+                "Stringent compliance mandates impose mandatory auditing frameworks and rigorous data governance rules for all enterprise applications deployed within European markets. Companies operating internationally must automate regulatory verification loops to prevent heavy statutory penalties."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ROBOTICS: GENERALIST $3B VALUATION",
             "tags": [
                 "Source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
                 "Published: 2026-07-31T00:00:00Z",
@@ -52,32 +67,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "HARDWARE: APPLE M6 AND M5 ULTRA",
-            "paragraphs": [
-                "Apple has launched its next-generation M6 processor lineup alongside the high-performance M5 Ultra silicon architecture across its Mac studio and mini lines. These advanced chips integrate high-density unified memory configurations tailored for accelerated local machine learning workloads.",
-                "Upgraded local silicon performance empowers developers to execute sophisticated open-weight models directly on edge hardware with minimal latency. Enterprises should explore hybrid deployment models that leverage powerful local silicon to reduce cloud API dependency and operating expenses."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SPACE: SPACEX STARBASE LOUISIANA",
-            "tags": [
-                "Source: https://apple.com",
-                "Published: 2026-08-26T15:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "SPACE: SPACEX STARBASE LOUISIANA",
+            "heading": "ROBOTICS: GENERALIST 3B VALUATION",
             "paragraphs": [
-                "SpaceX has announced plans to construct a massive $100B commercial spaceport designated as Starbase, LA in the state of Louisiana. This secondary heavy-lift launch facility aims to dramatically expand orbital cadence and support future lunar and interplanetary logistics missions.",
-                "Rapid infrastructure expansion in private aerospace signals immense capital commitment toward scaling off-world data networks and manufacturing payloads. Financial markets and industrial suppliers must monitor the cascading economic impacts on specialized aerospace manufacturing supply chains."
+                "Emerging robotics startup Generalist has secured a massive valuation reaching $3B according to industry sources tracking private venture capital rounds. The company is rapidly scaling physical deployment of intelligent automation hardware tailored for complex industrial logistics and unstructured environments.",
+                "Surging valuations in physical AI reflect strong investor confidence in bridging digital models with real-world robotic execution capabilities. Industrial enterprises are accelerating pilot programs to capture long-term labor cost efficiencies and mitigate supply chain vulnerabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "SECURITY: X ISSUES NITTER BAN",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-                "Published: 2026-08-26T10:00:00Z",
+                "Source: https://techcrunch.com/",
+                "Published: 2026-08-26T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -85,29 +85,29 @@ const dailyData = {
             "id": 6,
             "heading": "SECURITY: X ISSUES NITTER BAN",
             "paragraphs": [
-                "Social platform X has served formal cease-and-desist notices to the open-source alternative front-end project Nitter over unauthorized data scraping practices. This legal maneuver highlights the intensifying friction between platform operators and automated scrapers harvesting training data.",
-                "Aggressive anti-scraping enforcement restricts open data access for third-party researchers and smaller AI labs relying on public web archives. Legal and data acquisition teams must adapt to shrinking public datasets by establishing direct licensing partnerships for model training."
+                "Social platform X has served formal cease-and-desist notices against open-source alternative front-end project Nitter over aggressive data harvesting practices. This legal action highlights the intensifying conflict between platform operators and automated web scrapers harvesting public content.",
+                "Aggressive anti-scraping enforcement restricts open data access for third-party researchers and smaller AI labs relying on public web archives for training. Legal teams must secure direct commercial licensing partnerships to maintain compliant data pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUNDING: STABILITY AI 76M ROUND",
+            "nextUpTease": "INFRASTRUCTURE: SPACEX LOUISIANA",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/26/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+                "Source: https://news.ycombinator.com/",
                 "Published: 2026-08-26T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FUNDING: STABILITY AI 76M ROUND",
+            "heading": "INFRASTRUCTURE: SPACEX LOUISIANA",
             "paragraphs": [
-                "Stability AI has secured $76M in fresh venture funding to accelerate its foundational model development and expand enterprise-grade generative tooling. This capital injection reinforces market confidence in open-weight generative media systems despite fierce competition from tech giants.",
-                "Substantial funding rounds in mid-tier foundation model companies ensure continued architectural diversity and counter proprietary model monopolies. Enterprise procurement officers should leverage competitive open-weight alternatives to negotiate favorable pricing terms with legacy cloud AI providers."
+                "SpaceX has announced plans to construct a massive $100B commercial spaceport designated as Starbase in Louisiana to expand heavy-lift launch cadence. This secondary launch facility aims to support future orbital logistics and accommodate surging payload demands from enterprise satellite constellations.",
+                "Immense capital allocation toward heavy aerospace infrastructure signals long-term commitment to scaling off-world data networks and manufacturing operations. Industrial suppliers must monitor the cascading economic impacts on specialized aerospace manufacturing supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://techcrunch.com/2026/08/26/stability-ai-raises-76-million-in-fresh-funding/",
-                "Published: 2026-08-26T09:00:00Z",
+                "Source: https://www.reuters.com/technology/",
+                "Published: 2026-08-26T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

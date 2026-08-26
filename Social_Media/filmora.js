@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "HARDWARE: OPENAI JALAPE\u00d1O INFERENCE",
-                "teaserTitle": "AGENTS: APODEX 1.1 SCALES WORK",
-                "visual_caption": "OpenAI has introduced Jalape\u00f1o, its custom inference architecture delivering industry-leading speed. Early benchmarks indicate this design matches hardware performance traditionally dominated by Nvidia Blackwell chips."
+                "headline": "GOOGLE: GEMINI 3.7 FLASH LAUNCH",
+                "teaserTitle": "ANTHROPIC: OPUS 5 RELEASES",
+                "visual_caption": "Google DeepMind rolled out Gemini 3.7 Flash as an intelligent workhorse model for coding and agents. The system delivers optimized speed and reduced latency across enterprise pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "AGENTS: APODEX 1.1 SCALES WORK",
-                "teaserTitle": "COMPLIANCE: EU TECH SOVEREIGNTY",
-                "visual_caption": "Apodex has released v1.1, featuring expanded capabilities for scaling executable environments. This update trains autonomous agents to maintain state persistence across multi-step workflows."
+                "headline": "ANTHROPIC: OPUS 5 RELEASES",
+                "teaserTitle": "HARDWARE: OPENAI CUSTOM SILICON",
+                "visual_caption": "Anthropic launched Opus 5 featuring enhanced coding proficiency and sharper professional tooling. The updated model architecture provides deeper internal reasoning transparency."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: EU TECH SOVEREIGNTY",
-                "teaserTitle": "HARDWARE: APPLE M6 AND M5 ULTRA",
-                "visual_caption": "The European Commission has presented the Technological Sovereignty Package to reinforce regional autonomy. These measures coincide with the immediate enforcement of EU AI Act transparency rules."
+                "headline": "HARDWARE: OPENAI CUSTOM SILICON",
+                "teaserTitle": "REGULATION: EU SOVEREIGNTY PKG",
+                "visual_caption": "OpenAI confirmed its custom inference silicon delivered industry-leading speed and compute efficiency. Bespoke chips allow labs to bypass merchant hardware supply bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "HARDWARE: APPLE M6 AND M5 ULTRA",
-                "teaserTitle": "SPACE: SPACEX STARBASE LOUISIANA",
-                "visual_caption": "Apple has launched its next-generation M6 processor lineup alongside M5 Ultra silicon architecture. These advanced chips integrate high-density unified memory configurations tailored for machine learning workloads."
+                "headline": "REGULATION: EU SOVEREIGNTY PKG",
+                "teaserTitle": "ROBOTICS: GENERALIST 3B VALUATION",
+                "visual_caption": "The European Commission presented a technology sovereignty package to reinforce regional autonomy. Strict rules mandate rigorous auditing for enterprise AI applications."
             },
             {
                 "slide_index": 5,
-                "headline": "SPACE: SPACEX STARBASE LOUISIANA",
+                "headline": "ROBOTICS: GENERALIST 3B VALUATION",
                 "teaserTitle": "SECURITY: X ISSUES NITTER BAN",
-                "visual_caption": "SpaceX has announced plans to construct a $100B commercial spaceport in Louisiana. This facility aims to dramatically expand orbital cadence and support interplanetary logistics."
+                "visual_caption": "Robotics startup Generalist reached a $3B valuation amid rising demand for industrial automation. Enterprises are scaling pilot programs to capture labor efficiencies."
             },
             {
                 "slide_index": 6,
                 "headline": "SECURITY: X ISSUES NITTER BAN",
-                "teaserTitle": "FUNDING: STABILITY AI 76M ROUND",
-                "visual_caption": "Social platform X has issued formal cease-and-desist notices to open-source project Nitter over data scraping. This move highlights intensifying friction between platforms and automated data harvesting."
+                "teaserTitle": "INFRASTRUCTURE: SPACEX LOUISIANA",
+                "visual_caption": "Social platform X served cease-and-desist notices to open-source project Nitter over scraping. Tightening anti-scraping enforcement forces teams to secure direct data licenses."
             },
             {
                 "slide_index": 7,
-                "headline": "FUNDING: STABILITY AI 76M ROUND",
+                "headline": "INFRASTRUCTURE: SPACEX LOUISIANA",
                 "teaserTitle": "",
-                "visual_caption": "Stability AI has secured $76M in fresh venture funding to accelerate model development. This capital injection reinforces market confidence in open-weight generative media systems."
+                "visual_caption": "SpaceX plans to construct a $100B commercial spaceport in Louisiana to expand heavy-lift launches. Massive private aerospace capital supports scaling orbital logistics."
             },
             {
                 "slide_index": 8,
