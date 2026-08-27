@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: ACQUIRES HUGGING FACE FOR $13B",
-                "teaserTitle": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
-                "visual_caption": "NVIDIA agreed to acquire Hugging Face for $13B. This significantly centralizes the AI development ecosystem around NVIDIA's hardware and software."
+                "headline": "OPENAI: 100 COMPANIES CALL FOR ROGUE AI DEFENSE",
+                "teaserTitle": "DEEPMIND: UNVEILS GEMINI FLASH",
+                "visual_caption": "OpenAI, Anthropic, and Google joined 100+ companies demanding rogue artificial intelligence defenses. This coalition highlights escalating security risks across autonomous agent deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
-                "teaserTitle": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
-                "visual_caption": "Anthropic secured a $45B compute deal with Nscale for frontier AI model training. This highlights the intense capital demands for advanced AI infrastructure."
+                "headline": "DEEPMIND: UNVEILS GEMINI FLASH",
+                "teaserTitle": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash for rapid coding workflows. The release optimizes enterprise execution efficiency and lowers deployment latency."
             },
             {
                 "slide_index": 3,
-                "headline": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
-                "teaserTitle": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
-                "visual_caption": "Amazon tripled its orders for NVIDIA AI chips due to surging demand. This accelerates global AI infrastructure build-out, stressing semiconductor supply chains."
+                "headline": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
+                "teaserTitle": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
+                "visual_caption": "IEEE reports that export controls on erbium and yttrium threaten data center growth. These critical materials are essential for advanced semiconductor accelerators."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "visual_caption": "OpenAI reported agent-based vulnerabilities exploited in the Hugging Face security incident. This emphasizes the urgent need for enhanced security protocols when integrating open-source AI platforms."
+                "headline": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
+                "teaserTitle": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "visual_caption": "Microsoft emphasized a decisive shift from AI pilots to full enterprise transformation. Success now depends entirely on robust underlying operational architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
-                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, an intelligent model optimized for coding and agents. This aims to streamline development cycles and enhance operational agility across enterprise AI applications."
+                "headline": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
+                "visual_caption": "The European Commission proposed a tech sovereignty package to boost domestic autonomy. The package strengthens regional capabilities in semiconductors and cloud infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
-                "teaserTitle": "MIT TECH REVIEW: GATES URGES AI POLICY",
-                "visual_caption": "China's tightening grip on rare earth elements threatens data center growth globally. This introduces supply chain vulnerabilities and could increase hardware costs for AI initiatives."
+                "headline": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
+                "teaserTitle": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
+                "visual_caption": "Hugging Face released Microduck, an open-source robotic platform priced at $399. The miniature device bridges machine learning with physical embodiment."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: GATES URGES AI POLICY",
+                "headline": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
                 "teaserTitle": "",
-                "visual_caption": "Bill Gates stated AI has passed critical danger thresholds, urging robust policy frameworks. This signals growing pressure for proactive AI regulation impacting compliance and operational legal structures."
+                "visual_caption": "Researchers unveiled FreeToken, an edge-native serving system for Mixture-of-Experts models. The algorithm optimizes local hardware execution without cloud connectivity."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NVIDIA ACQUIRES HUGGING FACE FOR $13B",
+        "hookTitle": "OPENAI ANTHROPIC AND GOOGLE ISSUE CALL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "NVIDIA: ACQUIRES HUGGING FACE FOR $13B",
-                "teaserTitle": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
+                "headline": "OPENAI: 100 COMPANIES CALL FOR ROGUE AI DEFENSE",
+                "teaserTitle": "DEEPMIND: UNVEILS GEMINI FLASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "NVIDIA has agreed to acquire Hugging Face for thirteen billion dollars. This significantly centralizes the artificial intelligence development ecosystem around NVIDIA's hardware and software."
+                "narration_line": "OpenAI, Anthropic, and Google joined over one hundred companies demanding rogue artificial intelligence defenses. This coalition highlights escalating security risks across autonomous agent deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
-                "teaserTitle": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
+                "headline": "DEEPMIND: UNVEILS GEMINI FLASH",
+                "teaserTitle": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Anthropic secured a forty-five billion dollar compute deal with Nscale for frontier AI model training. This highlights the intense capital demands for advanced artificial intelligence infrastructure."
+                "narration_line": "Google DeepMind introduced Gemini three point seven Flash for rapid coding workflows. The release optimizes enterprise execution efficiency and lowers deployment latency."
             },
             {
                 "slide_index": 3,
-                "headline": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
-                "teaserTitle": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
+                "headline": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
+                "teaserTitle": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon tripled its orders for NVIDIA's artificial intelligence chips due to surging demand. This accelerates global artificial intelligence infrastructure build-out, stressing semiconductor supply chains."
+                "narration_line": "IEEE reports that export controls on erbium and yttrium threaten data center growth. These critical materials are essential for advanced semiconductor accelerators."
             },
             {
                 "slide_index": 4,
-                "headline": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
-                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "headline": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
+                "teaserTitle": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "OpenAI reported agent-based vulnerabilities exploited in the Hugging Face security incident. This emphasizes the urgent need for enhanced security protocols when integrating open-source artificial intelligence platforms."
+                "narration_line": "Microsoft emphasized a decisive shift from AI pilots to full enterprise transformation. Success now depends entirely on robust underlying operational architectures."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
-                "teaserTitle": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
+                "headline": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "teaserTitle": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Google DeepMind introduced Gemini three point seven Flash, an intelligent model optimized for coding and agents. This aims to streamline development cycles and enhance operational agility across enterprise artificial intelligence applications."
+                "narration_line": "The European Commission proposed a tech sovereignty package to boost domestic autonomy. The package strengthens regional capabilities in semiconductors and cloud infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
-                "teaserTitle": "MIT TECH REVIEW: GATES URGES AI POLICY",
+                "headline": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
+                "teaserTitle": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
                 "visual_asset": "backgroundyt6.png",
-                "naration_line": "China's tightening grip on rare earth elements threatens data center growth globally. This introduces supply chain vulnerabilities and could increase hardware costs for artificial intelligence initiatives."
+                "narration_line": "Hugging Face released Microduck, an open source robotic platform priced at three hundred ninety-nine dollars. The miniature device bridges machine learning with physical embodiment."
             },
             {
                 "slide_index": 7,
-                "headline": "MIT TECH REVIEW: GATES URGES AI POLICY",
+                "headline": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Bill Gates stated artificial intelligence has passed critical danger thresholds, urging robust policy frameworks. This signals growing pressure for proactive artificial intelligence regulation impacting compliance and operational legal structures."
+                "narration_line": "Researchers unveiled FreeToken, an edge native serving system for mixture of experts models. The algorithm optimizes local hardware execution without cloud connectivity."
             },
             {
                 "slide_index": 8,
