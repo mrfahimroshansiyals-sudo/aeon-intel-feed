@@ -4,46 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE & FREE LUNA ACCESS",
-                "teaserTitle": "IBM: NEXT GEN DUAL-ARCHITECTURE PROCESSOR UNVEILED",
-                "visual_caption": "OpenAI launches GPT-5.6, scaling advanced reasoning. Enterprise AI applications see up to a 15% reduction in inference latency."
+                "headline": "NVIDIA: ACQUIRES HUGGING FACE FOR $13B",
+                "teaserTitle": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
+                "visual_caption": "NVIDIA agreed to acquire Hugging Face for $13B. This significantly centralizes the AI development ecosystem around NVIDIA's hardware and software."
             },
             {
                 "slide_index": 2,
-                "headline": "IBM: NEXT GEN DUAL-ARCHITECTURE PROCESSOR UNVEILED",
-                "teaserTitle": "HUGGING FACE: QWEN3.8-FLASH & GLM-5.3 MODEL UPDATES",
-                "visual_caption": "IBM unveils next-gen dual-architecture processor, integrating CPU and AI units. It promises 20% greater AI efficiency and 10% power reduction."
+                "headline": "ANTHROPIC: $45B NSCALE COMPUTE DEAL",
+                "teaserTitle": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
+                "visual_caption": "Anthropic secured a $45B compute deal with Nscale for frontier AI model training. This highlights the intense capital demands for advanced AI infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "HUGGING FACE: QWEN3.8-FLASH & GLM-5.3 MODEL UPDATES",
-                "teaserTitle": "SALESFORCE: EXPANDS AI PARTNERSHIP AMID CONCERNS",
-                "visual_caption": "Hugging Face updates Qwen3.8-Flash-Next & GLM-5.3-Flash for improved performance. These open-source models boost parameter efficiency in language tasks."
+                "headline": "AMAZON: TRIPLES NVIDIA CHIP ORDER",
+                "teaserTitle": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
+                "visual_caption": "Amazon tripled its orders for NVIDIA AI chips due to surging demand. This accelerates global AI infrastructure build-out, stressing semiconductor supply chains."
             },
             {
                 "slide_index": 4,
-                "headline": "SALESFORCE: EXPANDS AI PARTNERSHIP AMID CONCERNS",
-                "teaserTitle": "DEEPMIND: GEMINI 3.5 TRANSCRIBE INTELLIGENCE",
-                "visual_caption": "Salesforce deepens AI partnerships, integrating generative AI into SaaS. This fortifies its competitive edge amid 'SaaSpocalypse' market concerns."
+                "headline": "OPENAI: HUGGING FACE SECURITY INCIDENT REPORT",
+                "teaserTitle": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "visual_caption": "OpenAI reported agent-based vulnerabilities exploited in the Hugging Face security incident. This emphasizes the urgent need for enhanced security protocols when integrating open-source AI platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "DEEPMIND: GEMINI 3.5 TRANSCRIBE INTELLIGENCE",
-                "teaserTitle": "IEEE: NEW PLATFORM PEERS INSIDE AI BLACK BOX",
-                "visual_caption": "DeepMind launches Gemini 3.5 Transcribe, its most precise speech-to-text model. It achieves 99.5% word accuracy in intelligent voice interactions."
+                "headline": "DEEPMIND: INTRODUCES GEMINI 3.7 FLASH",
+                "teaserTitle": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
+                "visual_caption": "Google DeepMind introduced Gemini 3.7 Flash, an intelligent model optimized for coding and agents. This aims to streamline development cycles and enhance operational agility across enterprise AI applications."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE: NEW PLATFORM PEERS INSIDE AI BLACK BOX",
-                "teaserTitle": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
-                "visual_caption": "IEEE reports a new platform for peering inside AI's 'black box.' It enhances transparency for complex models and debugging ethical AI."
+                "headline": "IEEE: CHINA'S RARE EARTH GRIP THREATENS DATA CENTERS",
+                "teaserTitle": "MIT TECH REVIEW: GATES URGES AI POLICY",
+                "visual_caption": "China's tightening grip on rare earth elements threatens data center growth globally. This introduces supply chain vulnerabilities and could increase hardware costs for AI initiatives."
             },
             {
                 "slide_index": 7,
-                "headline": "DEEPMIND: WEATHERNEXT AI FOR CYCLONE FORECASTING",
+                "headline": "MIT TECH REVIEW: GATES URGES AI POLICY",
                 "teaserTitle": "",
-                "visual_asset": "backgroundyt7.png",
-                "visual_caption": "DeepMind's WeatherNext AI achieves a breakthrough in cyclone forecasting. It improves accuracy and lead times for severe weather prediction."
+                "visual_caption": "Bill Gates stated AI has passed critical danger thresholds, urging robust policy frameworks. This signals growing pressure for proactive AI regulation impacting compliance and operational legal structures."
             },
             {
                 "slide_index": 8,
