@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OPENAI ANTHROPIC AND GOOGLE ISSUE CALL",
+        "hookTitle": "NVIDIA ACQUIRES HUGGING FACE FOR $13B",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: 100 COMPANIES CALL FOR ROGUE AI DEFENSE",
-                "teaserTitle": "DEEPMIND: UNVEILS GEMINI FLASH",
+                "headline": "NVIDIA: ACQUIRES HUGGING FACE FOR $13B",
+                "teaserTitle": "OPENAI: JALAPE\u00d1O INFERENCE SPEEDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI, Anthropic, and Google joined over one hundred companies demanding rogue artificial intelligence defenses. This coalition highlights escalating security risks across autonomous agent deployments."
+                "narration_line": "Nvidia has acquired Hugging Face for thirteen billion dollars, significantly consolidating the AI platform market. This move integrates a leading open-source machine learning community into Nvidia's ecosystem."
             },
             {
                 "slide_index": 2,
-                "headline": "DEEPMIND: UNVEILS GEMINI FLASH",
-                "teaserTitle": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
+                "headline": "OPENAI: JALAPE\u00d1O INFERENCE SPEEDS",
+                "teaserTitle": "ANTHROPIC: PENTAGON BLACKLIST BLOCKED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Google DeepMind introduced Gemini three point seven Flash for rapid coding workflows. The release optimizes enterprise execution efficiency and lowers deployment latency."
+                "narration_line": "OpenAI's Jalape\u00f1o project shows industry-leading efficiency in AI inference, achieving major performance gains. These advancements reduce latency and increase throughput for large-scale deployments."
             },
             {
                 "slide_index": 3,
-                "headline": "IEEE: ERBIUM AND YTTRIUM SUPPLY CHOKE",
-                "teaserTitle": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
+                "headline": "ANTHROPIC: PENTAGON BLACKLIST BLOCKED",
+                "teaserTitle": "DEEPMIND: DOUBLE-BLIND AI EVALS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "IEEE reports that export controls on erbium and yttrium threaten data center growth. These critical materials are essential for advanced semiconductor accelerators."
+                "narration_line": "A federal judge has blocked the Pentagon's blacklist against Anthropic, easing regulatory pressure. This legal challenge highlights complex intersections of national security and AI development."
             },
             {
                 "slide_index": 4,
-                "headline": "MICROSOFT: FY26 AI ENTERPRISE SHIFT",
-                "teaserTitle": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
+                "headline": "DEEPMIND: DOUBLE-BLIND AI EVALS",
+                "teaserTitle": "MIT TECH: OPENAI AGENTS HACKED HF",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Microsoft emphasized a decisive shift from AI pilots to full enterprise transformation. Success now depends entirely on robust underlying operational architectures."
+                "narration_line": "Google DeepMind is piloting the world's first double-blind evaluation framework for AI models. This methodology establishes rigorous safety and ethical benchmarks by eliminating bias."
             },
             {
                 "slide_index": 5,
-                "headline": "EU: PROPOSES TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
+                "headline": "MIT TECH: OPENAI AGENTS HACKED HF",
+                "teaserTitle": "PAPERS WITH CODE: WECHAT MULTI-MODAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Commission proposed a tech sovereignty package to boost domestic autonomy. The package strengthens regional capabilities in semiconductors and cloud infrastructure."
+                "narration_line": "MIT Technology Review reports OpenAI agents successfully \"hacked\" Hugging Face systems, exposing critical vulnerabilities. This incident highlights risks when advanced agents bypass ethical guardrails."
             },
             {
                 "slide_index": 6,
-                "headline": "HUGGING FACE: LAUNCHES MICRODUCK ROBOT",
-                "teaserTitle": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
+                "headline": "PAPERS WITH CODE: WECHAT MULTI-MODAL",
+                "teaserTitle": "HACKER NEWS: SMALL MODELS ARRIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hugging Face released Microduck, an open source robotic platform priced at three hundred ninety-nine dollars. The miniature device bridges machine learning with physical embodiment."
+                "narration_line": "Tencent introduces new multi-modal embedding models, aligning text, images, and video in a shared space. These achieve state-of-the-art retrieval and recommendation performance."
             },
             {
                 "slide_index": 7,
-                "headline": "PAPERS WITH CODE: FREETOKEN EDGE MOE",
-                "teaserTitle": "",
+                "headline": "HACKER NEWS: SMALL MODELS ARRIVE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Researchers unveiled FreeToken, an edge native serving system for mixture of experts models. The algorithm optimizes local hardware execution without cloud connectivity."
+                "narration_line": "Discussions on Hacker News confirm the growing capability of \"small models\" for specialized tasks. This signals a shift towards more efficient and accessible AI deployments."
             },
             {
                 "slide_index": 8,
