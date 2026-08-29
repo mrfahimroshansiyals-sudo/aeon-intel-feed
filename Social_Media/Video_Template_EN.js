@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+        "hookTitle": "SAMSUNG PIM ACCELERATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
-                "teaserTitle": "NVIDIA ACQUIRES HUGGING FACE FOR $13B",
+                "headline": "HARDWARE: SAMSUNG ADVANCES PIM FOR AI ACCELERATION",
+                "teaserTitle": "GOOGLE DEEPMIND: GEMINI 4 OPEN-WEIGHT MODEL RELEASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "OpenAI has launched GPT-five point six, a new frontier model designed for enhanced performance and scalability. This release enables more ambitious and resource-intensive AI deployments."
+                "narration_line": "Samsung has advanced Processing-in-Memory technology, integrating AI computation directly into memory modules to reduce data transfer bottlenecks. This promises to accelerate AI workloads by orders of magnitude, significantly boosting inference and training efficiency."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHCRUNCH: NVIDIA ACQUIRES HUGGING FACE FOR $13B",
-                "teaserTitle": "OPENAI: JALAPE\u00d1O BOOSTS AI INFERENCE EFFICIENCY",
+                "headline": "GOOGLE DEEPMIND: GEMINI 4 OPEN-WEIGHT MODEL RELEASE",
+                "teaserTitle": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE PROPOSED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia is acquiring Hugging Face for an estimated thirteen billion dollars, signaling a major consolidation in the AI platform ecosystem. This move integrates leading AI development tools into Nvidia's stack."
+                "narration_line": "Google DeepMind launched Gemma four, its latest open-weight models, maximizing intelligence per parameter for custom AI solutions. This release offers a powerful, flexible alternative to proprietary solutions, reducing licensing costs for enterprises."
             },
             {
                 "slide_index": 3,
-                "headline": "OPENAI: JALAPE\u00d1O BOOSTS AI INFERENCE EFFICIENCY",
-                "teaserTitle": "HACKER NEWS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
+                "headline": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE PROPOSED",
+                "teaserTitle": "IEEE SPECTRUM: SILICO PLATFORM REVEALS AI BLACK BOX",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "OpenAI\u2019s Jalape\u00f1o project reports industry-leading speed and efficiency gains in AI inference, leveraging novel architectural optimizations. These advancements drastically reduce computational overhead for large-scale AI models."
+                "naration_line": "The European Commission proposed a Tech Sovereignty Package, strengthening Europe's digital autonomy in AI and semiconductors. This regulatory push will impose new compliance requirements and incentivize domestic AI infrastructure development, impacting market access."
             },
             {
                 "slide_index": 4,
-                "headline": "HACKER NEWS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
-                "teaserTitle": "PAPERSWITHCODE: APODEX 1.1 SCALES AGENTIC AI",
+                "headline": "IEEE SPECTRUM: SILICO PLATFORM REVEALS AI BLACK BOX",
+                "teaserTitle": "HUGGING FACE: GLM-5.3 MODEL NOW OPEN-WEIGHT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Inherent AI, a DeepMind alumni startup, claims its AI 'teammate' has outperformed Anthropic and OpenAI in replicating scientific research. This suggests a new frontier for autonomous research agents."
+                "narration_line": "Goodfire AI's Silico platform now allows researchers to peer inside AI's black box for enhanced model interpretability. This tool addresses critical bottlenecks in deploying trustworthy AI, mitigating regulatory and ethical risks."
             },
             {
                 "slide_index": 5,
-                "headline": "PAPERSWITHCODE: APODEX 1.1 SCALES AGENTIC AI",
-                "teaserTitle": "IEEE SPECTRUM: US CHIPS ACT NEGLECTS R&D FOCUS",
+                "headline": "HUGGING FACE: GLM-5.3 MODEL NOW OPEN-WEIGHT",
+                "teaserTitle": "OPENAI: CURSOR ACQUISITION BY SPACEX IMPLICATIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Apodex one point one enhances verifiable progress on complex real-world tasks by scaling executable environments and agent coordination. This makes agentic AI more robust for multi-step operations."
+                "narration_line": "Zai-org made its GLM-five-point-three model open-weight, democratizing access to advanced large language model capabilities. This offers enterprises a cost-effective alternative to commercial models, optimizing resource allocation for internal development."
             },
             {
                 "slide_index": 6,
-                "headline": "IEEE SPECTRUM: US CHIPS ACT NEGLECTS R&D FOCUS",
-                "teaserTitle": "HACKER NEWS: TRUMP ADMIN ANTHROPIC BAN OVERTURNED",
+                "headline": "OPENAI: CURSOR ACQUISITION BY SPACEX IMPLICATIONS",
+                "teaserTitle": "GOOGLE DEEPMIND: PILOTING DOUBLE-BLIND AI EVALUATIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The U.S. is prioritizing CHIPS Act fabrication plants but neglecting research and development funding. This imbalance risks long-term innovation in advanced silicon design for AI hardware."
+                "narration_line": "OpenAI addressed its decision on Cursor following its acquisition by SpaceX, reflecting shifting developer tool landscapes. Businesses must monitor these acquisitions for impacts on tooling ecosystems, assessing potential vendor lock-in risks."
             },
             {
                 "slide_index": 7,
-                "headline": "HACKER NEWS: TRUMP ADMIN ANTHROPIC BAN OVERTURNED",
-                "teaserTitle": "",
+                "headline": "GOOGLE DEEPMIND: PILOTING DOUBLE-BLIND AI EVALUATIONS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A judge has ruled the Trump administration\u2019s blacklisting of Anthropic was illegal, overturning prior operational restrictions. This clarifies regulatory boundaries for AI development and deployment."
+                "narration_line": "Google DeepMind is piloting the world's first double-blind AI evaluation protocols, establishing rigorous methods to assess model capabilities. This sets new standards for responsible AI development, validating reliability and fairness for regulatory approval."
             },
             {
                 "slide_index": 8,
