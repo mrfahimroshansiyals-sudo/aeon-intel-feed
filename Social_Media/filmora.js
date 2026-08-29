@@ -4,50 +4,57 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "EU AI OFFICE: TECH SOVEREIGNTY PACKAGE",
-                "teaserTitle": "MODEL RELEASE: GLM-5.3 OPEN-WEIGHT LAUNCH",
-                "visual_caption": "The European Commission has proposed a comprehensive Tech Sovereignty Package to bolster digital autonomy. This initiative aims to reduce Europe's reliance on external technology and foster indigenous innovation."
+                "headline": "OPENAI: GPT-5.6 FRONTIER INTELLIGENCE SCALES AMBITION",
+                "teaserTitle": "NVIDIA ACQUIRES HUGGING FACE FOR $13B",
+                "visual_caption": "OpenAI has launched GPT-5.6, a new frontier model designed for enhanced performance and scalability. This release enables more ambitious and resource-intensive AI deployments."
             },
             {
                 "slide_index": 2,
-                "headline": "MODEL RELEASE: GLM-5.3 OPEN-WEIGHT LAUNCH",
-                "teaserTitle": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "visual_caption": "The GLM-5.3 model has been released as open-weight, offering advanced capabilities for diverse language tasks. This release aims to provide an accessible foundation for high-performance AI solutions."
+                "headline": "TECHCRUNCH: NVIDIA ACQUIRES HUGGING FACE FOR $13B",
+                "teaserTitle": "OPENAI: JALAPE\u00d1O BOOSTS AI INFERENCE EFFICIENCY",
+                "visual_asset": "backgroundyt2.png",
+                "visual_caption": "Nvidia is acquiring Hugging Face for an estimated $13B, signaling a major consolidation in the AI platform ecosystem. This move integrates leading AI development tools into Nvidia's stack."
             },
             {
                 "slide_index": 3,
-                "headline": "DEEPMIND: GEMINI 3.7 FLASH DEBUTS",
-                "teaserTitle": "TECHCRUNCH: A16Z LAUNCHES $1.1B AI FUND",
-                "visual_caption": "Google DeepMind introduces Gemini 3.7 Flash, its latest workhorse model for coding and agent environments. This release emphasizes maximized intelligence-per-parameter, targeting superior efficiency."
+                "headline": "OPENAI: JALAPE\u00d1O BOOSTS AI INFERENCE EFFICIENCY",
+                "teaserTitle": "HACKER NEWS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
+                "visual_asset": "backgroundyt3.png",
+                "visual_caption": "OpenAI\u2019s Jalape\u00f1o project reports industry-leading speed and efficiency gains in AI inference, leveraging novel architectural optimizations. These advancements drastically reduce computational overhead for large-scale AI models."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHCRUNCH: A16Z LAUNCHES $1.1B AI FUND",
-                "teaserTitle": "IEEE SPECTRUM: GOODFIRE AI'S SILICO",
-                "visual_caption": "Andreessen Horowitz has launched a $1.1B 'Machine Age' fund for AI infrastructure. This investment targets foundational AI technologies, including specialized hardware and data center expansion."
+                "headline": "HACKER NEWS: INHERENT AI OUTPERFORMS FRONTIER MODELS",
+                "teaserTitle": "PAPERSWITHCODE: APODEX 1.1 SCALES AGENTIC AI",
+                "visual_asset": "backgroundyt4.png",
+                "visual_caption": "Inherent AI, a DeepMind alumni startup, claims its AI 'teammate' has outperformed Anthropic and OpenAI in replicating scientific research. This suggests a new frontier for autonomous research agents."
             },
             {
                 "slide_index": 5,
-                "headline": "IEEE SPECTRUM: GOODFIRE AI'S SILICO",
-                "teaserTitle": "CNBC: BIG TECH AI SPENDING STRAINS CAPACITY",
-                "visual_caption": "Goodfire AI has launched Silico, a novel platform for model explainability and understanding, peering inside AI's 'black box'. This tool enables deeper insights into complex AI decision-making processes."
+                "headline": "PAPERSWITHCODE: APODEX 1.1 SCALES AGENTIC AI",
+                "teaserTitle": "IEEE SPECTRUM: US CHIPS ACT NEGLECTS R&D FOCUS",
+                "visual_asset": "backgroundyt5.png",
+                "visual_caption": "Apodex 1.1 enhances verifiable progress on complex real-world tasks by scaling executable environments and agent coordination. This makes agentic AI more robust for multi-step operations."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: BIG TECH AI SPENDING STRAINS CAPACITY",
-                "teaserTitle": "HUGGING FACE / IEEE: MICRODUCK ROBOT LAUNCH",
-                "visual_caption": "Big Tech's escalating AI investments are severely testing existing cloud and compute infrastructure. Demand for GPUs and specialized hardware outpaces supply, impacting scaling efforts."
+                "headline": "IEEE SPECTRUM: US CHIPS ACT NEGLECTS R&D FOCUS",
+                "teaserTitle": "HACKER NEWS: TRUMP ADMIN ANTHROPIC BAN OVERTURNED",
+                "visual_asset": "backgroundyt6.png",
+                "visual_caption": "The U.S. is prioritizing CHIPS Act fabrication plants but neglecting R&D funding. This imbalance risks long-term innovation in advanced silicon design for AI hardware."
             },
             {
                 "slide_index": 7,
-                "headline": "HUGGING FACE / IEEE: MICRODUCK ROBOT LAUNCH",
+                "headline": "HACKER NEWS: TRUMP ADMIN ANTHROPIC BAN OVERTURNED",
                 "teaserTitle": "",
-                "visual_caption": "Hugging Face has launched Microduck, a new open-source tiny robot for AI builders. This platform provides a cost-effective entry point for developing AI-driven robotic applications."
+                "visual_asset": "backgroundyt7.png",
+                "visual_caption": "A judge has ruled the Trump administration\u2019s blacklisting of Anthropic was illegal, overturning prior operational restrictions. This clarifies regulatory boundaries for AI development and deployment."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
+                "visual_asset": "backgroundyt8.png",
                 "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Aeon Intel. Like, Share, and Follow for more."
             }
         ]
